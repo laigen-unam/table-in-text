@@ -1,0 +1,840 @@
+FOODBORNE|foodborne|JJ PATHOGENS|pathogen|NNS AND|and|CC DISEASE|disease|NN Volume|volume|NN 5|5|CD ,|,|, Number|number|NN 4|4|CD ,|,|, 2008|2008|CD ª|ª|NNP Mary|Mary|NNP Ann|Ann|NNP Liebert|Liebert|NNP ,|,|, Inc.|Inc.|NNP .|.|. 
+DOI|doi|NN :|:|: 10.1089|10.1089|CD =|=|SYM fpd|fpd|CD .2008.0107|.2008.0107|CD Bacterial|bacterial|JJ Tag|tag|NN –|–|HYPH Encoded|encode|VBN F|f|NN Amplicon|amplicon|NN Pyrosequencing|pyrosequencing|NN (|(|-LRB- bTE|bte|NN AP|ap|NN )|)|-RRB- for|for|IN Microbiome|Microbiome|NNP Studies|Studies|NNPS :|:|: Bacterial|bacterial|JJ Diversity|diversity|NN n|n|NN the|the|DT Ileum|Ileum|NNP o|o|IN Newl|Newl|NNP Weaned|Weaned|NNP Sal|Sal|NNP onella|onella|RB -|-|HYPH Infected|infect|VBN Pigs|Pigs|NNPS LX|LX|NNP F|F|NNP i|i|NNP f|f|NN y|y|NN m|m|NN Scot|Scot|NNP E.|E.|NNP Dowd|Dowd|NNP ,|,|, Yan|Yan|NNP Sun|Sun|NNP ,|,|, Randy|Randy|NNP D.|D.|NNP Wolcott|Wolcott|NNP ,|,|, Alexander|Alexander|NNP Domingo|Domingo|NNP ,|,|, and|and|CC Jeffery|Jeffery|NNP A.|A.|NNP Carroll|Carroll|NNP 1|1|CD 2|2|CD 2|2|CD 3|3|CD 1|1|CD Abstract|Abstract|NNP The|the|DT microbiota|microbiota|NN of|of|IN an|a|DT animal|animal|NN 's|'s|POS intestinal|intestinal|JJ tract|tract|NN plays|play|VBZ a|a|DT vital|vital|JJ role|role|NN in|in|IN the|the|DT animal|animal|NN 's|'s|POS overall|overall|JJ health|health|NN .|.|. 
+There|there|EX is|be|VBZ a|a|DT surprising|surprising|JJ scarcity|scarcity|NN of|of|IN information|information|NN on|on|IN the|the|DT microbial|microbial|JJ diversity|diversity|NN in|in|IN the|the|DT gut|gut|NN of|of|IN livestock|livestock|NN species|species|NNS such|such|JJ as|as|IN cattle|cattle|NNS and|and|CC swine|swine|NNS .|.|. 
+Here|here|RB we|we|PRP describe|describe|VBP a|a|DT bacterial|bacterial|JJ 16S|16s|NN -|-|HYPH based|base|VBN tag|tag|NN --|--|: encoded|encode|VBN FLX|flx|NN amplicon|amplicon|NN pyrosequencing|pyrosequencing|NN (|(|-LRB- bTEFAP|btefap|NN )|)|-RRB- method|method|NN that|that|WDT we|we|PRP have|have|VBP developed|develop|VBN as|as|IN a|a|DT high|high|JJ -|-|HYPH throughput|throughput|NN universal|universal|JJ tool|tool|NN for|for|IN bacterial|bacterial|JJ diversity|diversity|NN ,|,|, epidemiology|epidemiology|NN ,|,|, and|and|CC pathogen|pathogen|NN detection|detection|NN studies|study|NNS .|.|. 
+This|this|DT method|method|NN will|will|MD allow|allow|VB hundreds|hundred|NNS of|of|IN samples|sample|NNS to|to|TO be|be|VB run|run|VBN simultaneously|simultaneously|RB but|but|CC analyzed|analyze|VBN individually|individually|RB or|or|CC as|as|RB groups|group|NNS .|.|. 
+To|to|TO test|test|VB this|this|DT new|new|JJ methodology|methodology|NN ,|,|, we|we|PRP individually|individually|RB evaluated|evaluate|VBD the|the|DT bacterial|bacterial|JJ diversity|diversity|NN in|in|IN the|the|DT ileum|ileum|NN of|of|IN 21|21|CD pigs|pig|NNS .|.|. 
+Ubiquitous|ubiquitous|JJ bacteria|bacterium|NNS detected|detect|VBN in|in|IN the|the|DT newly|newly|RB weaned|wean|VBN pigs|pig|NNS were|be|VBD Clostridium|Clostridium|NNP spp.|spp.|RB ,|,|, Lactobacillus|lactobacillus|NN spp.|spp.|RB ,|,|, and|and|CC Helicobacter|Helicobacter|NNP spp|spp|NNP .|.|. 
+Many|many|JJ of|of|IN the|the|DT pigs|pig|NNS had|have|VBD surprisingly|surprisingly|RB low|low|JJ concentrations|concentration|NNS of|of|IN beneﬁcial|beneﬁcial|JJ bacteria|bacterium|NNS such|such|JJ as|as|IN Biﬁdobacterium|Biﬁdobacterium|NNP spp|spp|NN .|.|. 
+Only|only|RB four|four|CD of|of|IN the|the|DT pigs|pig|NNS were|be|VBD shown|show|VBN to|to|TO be|be|VB positive|positive|JJ for|for|IN Sal|Sal|NNP -|-|HYPH monella|monella|NNP spp|spp|NN .|.|. 
+using|use|VBG traditional|traditional|JJ culture|culture|NN methods|method|NNS .|.|. 
+A|a|DT total|total|NN of|of|IN eight|eight|CD pigs|pig|NNS were|be|VBD bTEFAP|btefap|NN positive|positive|JJ for|for|IN Salmonella|Salmonella|NNP spp.|spp.|RB ,|,|, including|include|VBG all|all|DT four|four|CD of|of|IN the|the|DT pigs|pig|NNS that|that|WDT had|have|VBD been|be|VBN culture|culture|NN positive|positive|JJ .|.|. 
+Two|two|CD of|of|IN the|the|DT pigs|pig|NNS sampled|sample|VBN were|be|VBD also|also|RB positive|positive|JJ for|for|IN Campylobacter|Campylobacter|NNP spp|spp|NN .|.|. 
+tentative|tentative|JJ identiﬁed|identiﬁed|VBN as|as|IN jejuni|jejunus|NNS .|.|. 
+Using|use|VBG rarefaction|rarefaction|NN curves|curve|NNS modeled|model|VBN with|with|IN the|the|DT Richards|Richards|NNP equation|equation|NN ,|,|, we|we|PRP estimated|estimate|VBD the|the|DT maximum|maximum|JJ number|number|NN of|of|IN unique|unique|JJ species|species|NN level|level|NN (|(|-LRB- 3|3|CD %|%|NN dissimilarity|dissimilarity|NN )|)|-RRB- operational|operational|JJ taxonomic|taxonomic|JJ units|unit|NNS in|in|IN the|the|DT ileum|ileum|NN of|of|IN these|these|DT pigs|pig|NNS .|.|. 
+These|these|DT predictions|prediction|NNS indicated|indicate|VBD that|that|IN there|there|EX may|may|MD be|be|VB as|as|RB many|many|JJ as|as|IN 821|821|CD different|different|JJ species|species|NNS associated|associate|VBN with|with|IN the|the|DT ileum|ileum|NN in|in|IN pigs|pig|NNS .|.|. 
+Together|together|RB these|these|DT data|datum|NNS indicate|indicate|VBP a|a|DT powerful|powerful|JJ potential|potential|NN of|of|IN this|this|DT technology|technology|NN in|in|IN food|food|NN safety|safety|NN and|and|CC epidemiological|epidemiological|JJ and|and|CC bacterial|bacterial|JJ diversity|diversity|NN applications|application|NNS .|.|. 
+Using|use|VBG bTEFAP|btefap|NN ,|,|, we|we|PRP can|can|MD expect|expect|VB to|to|TO gain|gain|VB a|a|DT better|better|JJR understanding|understanding|NN of|of|IN how|how|WRB the|the|DT microbiome|microbiome|NN of|of|IN an|a|DT animal|animal|NN contributes|contribute|VBZ to|to|IN its|its|PRP$ health|health|NN and|and|CC well|well|RB -|-|HYPH being|be|VBG .|.|. 
+Introduction|introduction|NN In|in|IN spite|spite|NN of|of|IN the|the|DT importance|importance|NN of|of|IN the|the|DT microbiome|microbiome|NN of|of|IN the|the|DT gut|gut|NN in|in|IN relation|relation|NN to|to|IN the|the|DT health|health|NN of|of|IN the|the|DT animal|animal|NN ,|,|, research|research|NN on|on|IN the|the|DT microbial|microbial|JJ diversity|diversity|NN of|of|IN the|the|DT gastrointestinal|gastrointestinal|JJ of|of|IN livestock|livestock|NN is|be|VBZ surprisingly|surprisingly|RB scarce|scarce|JJ .|.|. 
+The|the|DT intestines|intestine|NNS of|of|IN livestock|livestock|NN are|be|VBP co-lonized|co-lonize|VBN by|by|IN complex|complex|JJ and|and|CC diverse|diverse|JJ communities|community|NNS of|of|IN microorganisms|microorganism|NNS .|.|. 
+The|the|DT quantity|quantity|NN of|of|IN microbial|microbial|JJ cells|cell|NNS in|in|IN the|the|DT intestine|intestine|NN can|can|MD exceed|exceed|VB 10|10|CD per|per|IN gram|gram|NN of|of|IN feces|fece|NNS 11|11|CD (|(|-LRB- Hungate|Hungate|NNP ,|,|, 1966|1966|CD ;|;|: Yokoyama|Yokoyama|NNP and|and|CC Johnson|Johnson|NNP ,|,|, 1988|1988|CD )|)|-RRB- .|.|. 
+Intestinal|intestinal|JJ microbial|microbial|JJ populations|population|NNS ,|,|, in|in|IN higher|higher|JJR life|life|NN forms|form|NNS ,|,|, typically|typically|RB exceed|exceed|VBP the|the|DT number|number|NN of|of|IN host|host|NN cells|cell|NNS by|by|IN at|at|IN least|least|RBS a|a|DT factor|factor|NN of|of|IN 10|10|CD .|.|. 
+The|the|DT majority|majority|NN of|of|IN these|these|DT bacteria|bacterium|NNS are|be|VBP vital|vital|JJ to|to|IN the|the|DT maintenance|maintenance|NN of|of|IN animal|animal|NN 's|'s|POS health|health|NN ,|,|, and|and|CC even|even|RB minor|minor|JJ shifts|shift|NNS in|in|IN these|these|DT populations|population|NNS are|be|VBP likely|likely|JJ to|to|TO cause|cause|VB dramatic|dramatic|JJ changes|change|NNS ,|,|, either|either|CC positive|positive|JJ or|or|CC negative|negative|JJ ,|,|, in|in|IN livestock|livestock|NN productivity|productivity|NN (|(|-LRB- Pryde|Pryde|NNP et|et|FW al.|al.|FW ,|,|, 1999|1999|CD ,|,|, 2002|2002|CD ;|;|: Canibe|Canibe|NNP et|et|FW al.|al.|FW ,|,|, 2005|2005|CD ;|;|: Callaway|Callaway|NNP et|et|FW al.|al.|FW ,|,|, 2007|2007|CD ;|;|: Dunkley|Dunkley|NNP et|et|FW al.|al.|FW ,|,|, 2007|2007|CD )|)|-RRB- .|.|. 
+The|the|DT beneﬁcial|beneﬁcial|JJ health|health|NN effects|effect|NNS of|of|IN the|the|DT gastrointestinal|gastrointestinal|JJ microbiome|microbiome|NN relate|relate|VBP to|to|IN the|the|DT requirement|requirement|NN for|for|IN and|and|CC ability|ability|NN of|of|IN these|these|DT intestinal|intestinal|JJ bacterial|bacterial|JJ populations|population|NNS to|to|TO supply|supply|VB vital|vital|JJ nutrients|nutrient|NNS ,|,|, convert|convert|VBP metabolites|metabolite|NNS ,|,|, and|and|CC beneﬁcially|beneﬁcially|RB interact|interact|VBP with|with|IN host|host|NN cells|cell|NNS (|(|-LRB- Flint|Flint|NNP ,|,|, 2004|2004|CD ;|;|: Walker|Walker|NNP et|et|FW al.|al.|FW ,|,|, 2005|2005|CD ;|;|: Flint|Flint|NNP et|et|FW al.|al.|FW ,|,|, 2007|2007|CD )|)|-RRB- .|.|. 
+Information|information|NN on|on|IN microbial|microbial|JJ diversity|diversity|NN within|within|IN the|the|DT gastrointestinal|gastrointestinal|JJ tract|tract|NN of|of|IN humans|human|NNS has|have|VBZ increased|increase|VBN in|in|IN recent|recent|JJ years|year|NNS as|as|IN a|a|DT result|result|NN of|of|IN 16S|16s|NN rDNA|rdna|NN -|-|HYPH based|base|VBN analyses|analysis|NNS (|(|-LRB- Eckburg|Eckburg|NNP et|et|FW al.|al.|FW ,|,|, 2005|2005|CD ;|;|: Ley|Ley|NNP et|et|FW al.|al.|FW ,|,|, 2006a|2006a|NN ;|;|: Flint|Flint|NNP et|et|FW al.|al.|FW ,|,|, 2007|2007|CD )|)|-RRB- ,|,|, yet|yet|CC similar|similar|JJ data|datum|NNS on|on|IN the|the|DT microbiomes|microbiome|NNS of|of|IN livestock|livestock|NN are|be|VBP still|still|RB lacking|lack|VBG in|in|IN comparison|comparison|NN (|(|-LRB- Pryde|Pryde|NNP et|et|FW al.|al.|FW ,|,|, 1999|1999|CD ;|;|: Zhu|Zhu|NNP et|et|FW al.|al.|FW ,|,|, 2003|2003|CD )|)|-RRB- .|.|. 
+Our|we|PRP$ lack|lack|NN of|of|IN understanding|understanding|NN of|of|IN gastrointestinal|gastrointestinal|JJ microbiomes|microbiome|NNS is|be|VBZ correlated|correlate|VBN with|with|IN the|the|DT historical|historical|JJ difﬁculty|difﬁculty|NN in|in|IN evaluating|evaluate|VBG these|these|DT bacterial|bacterial|JJ populations|population|NNS .|.|. 
+It|it|PRP has|have|VBZ only|only|RB been|be|VBN over|over|IN the|the|DT past|past|JJ decade|decade|NN that|that|WDT molecular|molecular|JJ methods|method|NNS have|have|VBP been|be|VBN developed|develop|VBN ,|,|, which|which|WDT allow|allow|VBP a|a|DT more|more|RBR realistic|realistic|JJ evaluation|evaluation|NN of|of|IN the|the|DT true|true|JJ diversity|diversity|NN in|in|IN complex|complex|JJ environments|environment|NNS such|such|JJ as|as|IN the|the|DT gastrointestinal|gastrointestinal|JJ tract|tract|NN of|of|IN animals|animal|NNS (|(|-LRB- Schmidt|Schmidt|NNP et|et|FW al.|al.|FW ,|,|, 1991|1991|CD )|)|-RRB- .|.|. 
+Prior|prior|RB to|to|IN this|this|DT molecular|molecular|JJ age|age|NN ,|,|, we|we|PRP relied|rely|VBD on|on|IN culture|culture|NN -|-|HYPH based|base|VBN methods|method|NNS as|as|IN our|we|PRP$ only|only|JJ mechanism|mechanism|NN to|to|TO identify|identify|VB and|and|CC enumerate|enumerate|VB commensal|commensal|JJ components|component|NNS of|of|IN the|the|DT fecal|fecal|JJ ﬂora|ﬂora|NN (|(|-LRB- Moore|Moore|NNP and|and|CC Holdeman|Holdeman|NNP ,|,|, 1974|1974|CD ;|;|: Holdeman|Holdeman|NNP et|et|FW al.|al.|FW ,|,|, 1976|1976|CD ;|;|: Robinson|Robinson|NNP et|et|FW al.|al.|FW ,|,|, 1981|1981|CD ,|,|, 1984|1984|CD ;|;|: Moore|Moore|NNP et|et|FW al.|al.|FW ,|,|, 1987|1987|CD )|)|-RRB- .|.|. 
+Culture|culture|NN -|-|HYPH based|base|VBN methods|method|NNS are|be|VBP extremely|extremely|RB time|time|NN consuming|consume|VBG and|and|CC provide|provide|VB information|information|NN on|on|IN about|about|RB 1|1|CD %|%|NN of|of|IN bacteria|bacterium|NNS in|in|IN the|the|DT gastrointestinal|gastrointestinal|JJ tract|tract|NN .|.|. 
+This|this|DT 1|1|CD %|%|NN is|be|VBZ typically|typically|RB limited|limit|VBN to|to|IN those|those|DT organisms|organism|NNS that|that|WDT are|be|VBP readily|readily|RB culturable|culturable|JJ in|in|IN laboratory|laboratory|NN media|media|NNS (|(|-LRB- Nocker|Nocker|NNP et|et|FW al.|al.|FW ,|,|, 2007|2007|CD )|)|-RRB- .|.|. 
+For|for|IN this|this|DT reason|reason|NN it|it|PRP has|have|VBZ become|become|VBN accepted|accept|VBD that|that|IN culture|culture|NN -|-|HYPH based|base|VBN methods|method|NNS are|be|VBP extremely|extremely|RB biased|bias|VBN in|in|IN their|they|PRP$ evaluation|evaluation|NN of|of|IN microbial|microbial|JJ diversity|diversity|NN .|.|. 
+The|the|DT molecular|molecular|JJ methodologies|methodology|NNS ,|,|, which|which|WDT have|have|VBP developed|develop|VBN over|over|IN the|the|DT past|past|JJ decade|decade|NN ,|,|, are|be|VBP now|now|RB enabling|enable|VBG researchers|researcher|NNS to|to|TO examine|examine|VB the|the|DT diversity|diversity|NN of|of|IN the|the|DT gut|gut|NN microﬂora|microﬂora|NN ,|,|, independent|independent|JJ of|of|IN cultural|cultural|JJ methods|method|NNS (|(|-LRB- Dahllof|Dahllof|NNP ,|,|, 2002|2002|CD )|)|-RRB- .|.|. 
+Although|although|IN it|it|PRP is|be|VBZ acknowledged|acknowledge|VBN that|that|IN molecular|molecular|JJ approaches|approach|NNS based|base|VBN on|on|IN PCR|pcr|NN can|can|MD also|also|RB introduce|introduce|VB their|they|PRP$ own|own|JJ forms|form|NNS of|of|IN bias|bias|NN (|(|-LRB- Farrelly|Farrelly|NNP et|et|FW al.|al.|FW ,|,|, 1995|1995|CD ;|;|: Suzuki|Suzuki|NNP and|and|CC Giovannoni|Giovannoni|NNP ,|,|, 1996|1996|CD ;|;|: von|von|NNP et|et|FW al.|al.|FW ,|,|, 1997|1997|CD )|)|-RRB- ,|,|, they|they|PRP have|have|VBP become|become|VBN the|the|DT most|most|RBS powerful|powerful|JJ tools|tool|NNS available|available|JJ for|for|IN elucidation|elucidation|NN of|of|IN phylogenetic|phylogenetic|JJ diversity|diversity|NN of|of|IN animal|animal|NN microbiomes|microbiome|NNS (|(|-LRB- Pryde|Pryde|NNP et|et|FW al.|al.|FW ,|,|, 1999|1999|CD ;|;|: Zhu|Zhu|NNP et|et|FW al.|al.|FW ,|,|, 2003|2003|CD ;|;|: Rada|Rada|NNP et|et|FW al.|al.|FW ,|,|, 2006|2006|CD ;|;|: Callaway|Callaway|NNP et|et|FW al.|al.|FW ,|,|, 2007|2007|CD ;|;|: Dowd|Dowd|NNP et|et|FW al.|al.|FW ,|,|, 2008|2008|CD )|)|-RRB- .|.|. 
+Similar|similar|JJ to|to|IN culturing|culturing|NN ,|,|, the|the|DT primary|primary|JJ drawback|drawback|NN to|to|IN the|the|DT use|use|NN of|of|IN these|these|DT more|more|RBR powerful|powerful|JJ molecular|molecular|JJ methods|method|NNS still|still|RB relates|relate|VBZ to|to|IN the|the|DT relatively|relatively|RB high|high|JJ price|price|NN and|and|CC labor|labor|NN intensive|intensive|JJ nature|nature|NN of|of|IN the|the|DT procedures|procedure|NNS .|.|. 
+1|1|CD USDA|USDA|NNP -|-|HYPH ARS|ARS|NNP Livestock|Livestock|NNP Issues|Issues|NNP Research|Research|NNP Unit|Unit|NNP ,|,|, Lubbock|Lubbock|NNP ,|,|, Texas|Texas|NNP .|.|. 
+2|2|CD Medical|medical|JJ Bioﬁlm|Bioﬁlm|NNP Research|Research|NNP Institute|Institute|NNP ,|,|, Lubbock|Lubbock|NNP ,|,|, Texas|Texas|NNP .|.|. 
+3|3|CD Roche|Roche|NNP Diagnostics|Diagnostics|NNP Corporation|Corporation|NNP ,|,|, Indianapolis|Indianapolis|NNP ,|,|, Indiana|Indiana|NNP .|.|. 
+45|45|CD The|the|DT use|use|NN of|of|IN pyrosequencing|pyrosequence|VBG for|for|IN evaluating|evaluate|VBG diversity|diversity|NN has|have|VBZ been|be|VBN described|describe|VBN previously|previously|RB by|by|IN our|we|PRP$ group|group|NN (|(|-LRB- Dowd|Dowd|NNP et|et|FW al.|al.|FW ,|,|, 2008|2008|CD )|)|-RRB- .|.|. 
+Here|here|RB ,|,|, we|we|PRP describe|describe|VBP a|a|DT modiﬁed|modiﬁed|JJ tag|tag|NN -|-|HYPH encoded|encode|VBN bacterial|bacterial|JJ diversity|diversity|NN ampli|ampli|NN -|-|HYPH ﬁcon|ﬁcon|NN method|method|NN ,|,|, which|which|WDT will|will|MD promote|promote|VB studies|study|NNS of|of|IN animal|animal|NN and|and|CC human|human|JJ microbiomes|microbiome|NNS through|through|IN the|the|DT increased|increase|VBN number|number|NN of|of|IN individual|individual|JJ samples|sample|NNS (|(|-LRB- n|n|NN >|>|SYM 200|200|CD )|)|-RRB- ,|,|, which|which|WDT can|can|MD be|be|VB included|include|VBN as|as|IN part|part|NN of|of|IN a|a|DT single|single|JJ massively|massively|RB parallel|parallel|JJ FLX|flx|NN pyrosequencing|pyrosequence|VBG reaction|reaction|NN .|.|. 
+We|we|PRP introduce|introduce|VBP this|this|DT new|new|JJ method|method|NN as|as|IN part|part|NN of|of|IN a|a|DT small|small|JJ pilot|pilot|NN study|study|NN evaluating|evaluate|VBG diversity|diversity|NN in|in|IN the|the|DT ileum|ileum|NN in|in|IN a|a|DT group|group|NN of|of|IN pigs|pig|NNS ,|,|, two|two|CD of|of|IN which|which|WDT had|have|VBD been|be|VBN experimentally|experimentally|RB infected|infect|VBN with|with|IN Salmonella|salmonella|NN enterica|enterica|NN Typhimurium|typhimurium|NN .|.|. 
+Materials|material|NNS and|and|CC Methods|method|NNS Animals|animal|NNS For|for|IN these|these|DT experiments|experiment|NNS we|we|PRP utilized|utilize|VBD nursery|nursery|NN pigs|pig|NNS (|(|-LRB- n|n|NN 1/4|1/4|CD 24|24|CD )|)|-RRB- ,|,|, individually|individually|RB housed|house|VBN in|in|IN pen|pen|NN units|unit|NNS (|(|-LRB- n|n|NN 1/4|1/4|CD 1|1|CD pig|pig|NN =|=|SYM pen|pen|NN ,|,|, four|four|CD pigs|pig|NNS per|per|IN group|group|NN )|)|-RRB- .|.|. 
+Animal|animal|NN studies|study|NNS were|be|VBD conducted|conduct|VBN under|under|IN USDA|USDA|NNP --|--|: Cropping|Cropping|NNP Systems|Systems|NNP Research|Research|NNP Laboratory|Laboratory|NNP 's|'s|POS animal|animal|NN care|care|NN and|and|CC use|use|VB protocol|protocol|NN #|#|NN 2007|2007|CD -09-JAC3|-09-jac3|NN .|.|. 
+Pigs|Pigs|NNPS were|be|VBD weaned|wean|VBN at|at|IN approximately|approximately|RB 21|21|CD days|day|NNS of|of|IN age|age|NN and|and|CC moved|move|VBD to|to|IN a|a|DT USDA|USDA|NNP BL2|bl2|NN environmentally|environmentally|RB controlled|control|VBN nur|nur|NN -|-|HYPH sery|sery|NN facility|facility|NN .|.|. 
+Pigs|Pigs|NNPS were|be|VBD weighed|weigh|VBN ,|,|, blocked|block|VBN by|by|IN litter|litter|NN ,|,|, and|and|CC assigned|assign|VBN to|to|IN one|one|CD of|of|IN six|six|CD groups|group|NNS .|.|. 
+Pigs|Pigs|NNPS were|be|VBD individually|individually|RB housed|house|VBN in|in|IN stainless|stainless|JJ steel|steel|NN pens|pen|NNS equipped|equip|VBN with|with|IN stainless|stainless|JJ steel|steel|NN nipple|nipple|NN waterers|waterer|NNS and|and|CC feeders|feeder|NNS allowing|allow|VBG ad|ad|FW libitum|libitum|FW feed|feed|NN and|and|CC water|water|NN intake|intake|NN .|.|. 
+All|all|DT pigs|pig|NNS were|be|VBD maintained|maintain|VBN on|on|IN a|a|DT standard|standard|JJ commercial|commercial|JJ diet|diet|NN .|.|. 
+It|it|PRP should|should|MD be|be|VB noted|note|VBN that|that|IN this|this|DT pilot|pilot|NN study|study|NN evaluating|evaluate|VBG bTEFAP|btefap|NN was|be|VBD performed|perform|VBN as|as|IN a|a|DT separate|separate|JJ component|component|NN of|of|IN a|a|DT larger|larger|JJR study|study|NN evaluating|evaluate|VBG Salmo|salmo|NN -|-|HYPH nella|nella|NN transmission|transmission|NN .|.|. 
+Pigs|Pigs|NNPS were|be|VBD housed|house|VBN in|in|IN individual|individual|JJ pens|pen|NNS side|side|NN by|by|IN side|side|NN in|in|IN groups|group|NNS of|of|IN four|four|CD pigs|pig|NNS .|.|. 
+A|a|DT discussion|discussion|NN of|of|IN transmission|transmission|NN is|be|VBZ outside|outside|IN the|the|DT scope|scope|NN of|of|IN this|this|DT bTEFAP|btefap|NN methodology|methodology|NN paper|paper|NN ;|;|: thus|thus|RB ,|,|, for|for|IN the|the|DT purpose|purpose|NN of|of|IN the|the|DT current|current|JJ analyses|analysis|NNS ,|,|, each|each|DT pig|pig|NN was|be|VBD considered|consider|VBN as|as|IN either|either|CC individual|individual|JJ infected|infected|JJ or|or|CC uninfected|uninfected|JJ units|unit|NNS as|as|IN determined|determine|VBN by|by|IN standard|standard|JJ culture|culture|NN methods|method|NNS .|.|. 
+Bacteria|bacterium|NNS Two|two|CD test|test|NN animals|animal|NNS were|be|VBD orally|orally|RB inoculated|inoculate|VBN (|(|-LRB- Lumsden|Lumsden|NNP and|and|CC Wilkie|Wilkie|NNP ,|,|, 1992|1992|CD )|)|-RRB- with|with|IN 1|1|CD 10|10|CD CFU|CFU|NNP of|of|IN 9|9|CD Salmonella|Salmonella|NNP enterica|enterica|NNP Typhimurium|Typhimurium|NNP containing|contain|VBG an|a|DT antibiotic|antibiotic|JJ resistance|resistance|NN marker|marker|NN for|for|IN nalidixic|nalidixic|JJ aci|aci|NN Five|five|CD days|day|NNS postinfection|postinfection|RB ,|,|, all|all|DT pigs|pig|NNS were|be|VBD huma|huma|JJ -|-|HYPH nely|nely|JJ killed|kill|VBN by|by|IN induction|induction|NN of|of|IN deep|deep|JJ anesthesia|anesthesia|NN using|use|VBG isoﬂuorine|isoﬂuorine|NN 5|5|CD %|%|NN to|to|IN effect|effect|NN ,|,|, after|after|IN which|which|WDT an|a|DT -|-|HYPH esthesia|esthesia|NN was|be|VBD conﬁrmed|conﬁrmed|VBN by|by|IN the|the|DT attending|attend|VBG veter|veter|NN -|-|HYPH inarian|inarian|NN ,|,|, and|and|CC 3|3|CD mL|ml|NN of|of|IN Fatal|fatal|JJ -|-|HYPH Plus|plus|NN (|(|-LRB- Vortech|Vortech|NNP ,|,|, Dearborn|Dearborn|NNP ,|,|, MI|MI|NNP )|)|-RRB- euthanasia|euthanasia|NN solution|solution|NN was|be|VBD administered|administer|VBN via|via|IN direct|direct|JJ cardiac|cardiac|JJ injection|injection|NN .|.|. 
+Following|follow|VBG conﬁrmation|conﬁrmation|NN of|of|IN euthanasia|euthanasia|NN ,|,|, two|two|CD 5|5|CD cm|cm|NN sections|section|NNS of|of|IN the|the|DT ileum|ileum|NN 5|5|CD cm|cm|NN distal|distal|JJ from|from|IN the|the|DT cecum|cecum|NN were|be|VBD individually|individually|RB and|and|CC aseptically|aseptically|RB collected|collect|VBN into|into|IN separate|separate|JJ 50|50|CD mL|ml|NN conical|conical|JJ tubes|tube|NNS .|.|. 
+One|one|CD tube|tube|NN contained|contain|VBD tetrathionate|tetrathionate|JJ broth|broth|NN (|(|-LRB- Oxoid|Oxoid|NNP ,|,|, Cambridge|Cambridge|NNP ,|,|, UK|UK|NNP )|)|-RRB- ,|,|, which|which|WDT was|be|VBD utilized|utilize|VBN for|for|IN Salmonella|Salmonella|NNP spp|spp|NN .|.|. 
+culturebased|culturebase|VBN evaluation|evaluation|NN ,|,|, while|while|IN the|the|DT second|second|JJ tube|tube|NN was|be|VBD frozen|freeze|VBN and|and|CC later|later|RB utilized|utilize|VBN for|for|IN bTEFAP|btefap|NN analysis|analysis|NN .|.|. 
+(|(|-LRB- Fig.|fig.|NN 1|1|CD )|)|-RRB- .|.|. 
+This|this|DT strain|strain|NN of|of|IN Salmonella|Salmonella|NNP spp|spp|NN .|.|. 
+was|be|VBD graciously|graciously|RB provided|provide|VBN by|by|IN Dr.|Dr.|NNP Todd|Todd|NNP Callaway|Callaway|NNP (|(|-LRB- USDA|USDA|NNP -|-|HYPH ARS|ARS|NNP ,|,|, College|College|NNP Station|Station|NNP ,|,|, TX|TX|NNP )|)|-RRB- .|.|. 
+The|the|DT inoculation|inoculation|NN of|of|IN these|these|DT two|two|CD pigs|pig|NNS was|be|VBD part|part|NN of|of|IN a|a|DT larger|larger|JJR study|study|NN on|on|IN Salmonella|Salmonella|NNP spp|spp|NN .|.|. 
+transmission|transmission|NN .|.|. 
+A|a|DT discussion|discussion|NN of|of|IN transmission|transmission|NN is|be|VBZ outside|outside|IN the|the|DT scope|scope|NN of|of|IN the|the|DT current|current|JJ methodology|methodology|NN description|description|NN .|.|. 
+Previously|previously|RB isolated|isolate|VBN and|and|CC frozen|freeze|VBN stock|stock|NN cultures|culture|NNS of|of|IN Salmonella|Salmonella|NNP enterica|enterica|NNP Typhimurium|Typhimurium|NNP were|be|VBD inoculated|inoculate|VBN into|into|IN Luria|Luria|NNP -|-|HYPH Bertani|Bertani|NNP (|(|-LRB- LB|LB|NNP )|)|-RRB- broth|broth|NN (|(|-LRB- BD|bd|NN ,|,|, Franklin|Franklin|NNP Lakes|Lakes|NNP ,|,|, NJ|NJ|NNP )|)|-RRB- ,|,|, and|and|CC the|the|DT culture|culture|NN was|be|VBD incubated|incubate|VBN overnight|overnight|RB at|at|IN 378C|378c|NN .|.|. 
+The|the|DT overnight|overnight|JJ LB|LB|NNP culture|culture|NN was|be|VBD then|then|RB used|use|VBN to|to|TO inoculate|inoculate|VB pig|pig|NN serum|serum|NN --|--|: Standard|standard|JJ American|American|NNP Petroleum|Petroleum|NNP Institute|Institute|NNP (|(|-LRB- SAPI|SAPI|NNP )|)|-RRB- growth|growth|NN medium|medium|NN (|(|-LRB- Lyte|lyte|NN and|and|CC Ernst|Ernst|NNP ,|,|, 1992|1992|CD )|)|-RRB- ,|,|, and|and|CC the|the|DT culture|culture|NN was|be|VBD incubated|incubate|VBN at|at|IN 378C|378c|NN in|in|IN a|a|DT 5|5|CD %|%|NN CO|co|NN environment|environment|NN for|for|IN 12|12|CD h|h|NN .|.|. 
+The|the|DT culture|culture|NN 2|2|CD was|be|VBD harvested|harvest|VBN by|by|IN centrifugation|centrifugation|NN ,|,|, the|the|DT supernatant|supernatant|NN discarded|discard|VBN ,|,|, and|and|CC the|the|DT pellet|pellet|NN washed|wash|VBN and|and|CC re-suspended|re-suspend|VBN in|in|IN a|a|DT 1/2|1/2|CD total|total|JJ volume|volume|NN of|of|IN phosphatebuffered|phosphatebuffer|VBN saline|saline|NN (|(|-LRB- PBS|pbs|NN )|)|-RRB- (|(|-LRB- 0.1|0.1|CD M|m|NN ;|;|: pH|ph|NN 7.2|7.2|CD )|)|-RRB- .|.|. 
+The|the|DT average|average|JJ ﬁnal|ﬁnal|JJ count|count|NN of|of|IN the|the|DT culture|culture|NN was|be|VBD brought|bring|VBN to|to|TO 8|8|CD 5.0|5.0|CD 10|10|CD CFU|cfu|NN =|=|SYM mL|ml|NN as|as|IN determined|determine|VBN by|by|IN OD600|od600|NN and|and|CC conﬁrmed|conﬁrmed|VBN by|by|IN subsequent|subsequent|JJ plate|plate|NN counts|count|NNS .|.|. 
+Salmonella|salmonella|NN culture|culture|NN method|method|NN Ileum|Ileum|NNP section|section|NN samples|sample|NNS containing|contain|VBG their|they|PRP$ digesta|digesta|NN were|be|VBD placed|place|VBN directly|directly|RB in|in|IN 100|100|CD mL|ml|NN of|of|IN tetra|tetra|NN -|-|HYPH thionate|thionate|NN broth|broth|NN (|(|-LRB- Oxoid|Oxoid|NNP )|)|-RRB- with|with|IN 35|35|CD mg|mg|NN =|=|SYM mL|ml|NN novobiocin|novobiocin|NN and|and|CC incubated|incubate|VBN for|for|IN 48|48|CD h|h|NN at|at|IN 378C|378c|NN .|.|. 
+One|one|CD mL|ml|NN of|of|IN this|this|DT enriched|enriched|JJ sample|sample|NN was|be|VBD then|then|RB used|use|VBN to|to|TO inoculate|inoculate|VB 9|9|CD mL|ml|NN of|of|IN Rappaport|Rappaport|NNP -|-|HYPH Vassiliadis|Vassiliadis|NNP Soya|Soya|NNP peptone|peptone|NN broth|broth|NN (|(|-LRB- BD|bd|NN )|)|-RRB- for|for|IN 24|24|CD h|h|NN at|at|IN 428C|428c|NN .|.|. 
+The|the|DT culture|culture|NN was|be|VBD then|then|RB streaked|streak|VBN on|on|IN XLT4|xlt4|NN plates|plate|NNS to|to|TO screen|screen|VB for|for|IN the|the|DT pre-sence|pre-sence|NN or|or|CC absence|absence|NN of|of|IN Salmonella|Salmonella|NNP .|.|. 
+bTEFAP|btefap|NN sample|sample|NN preparation|preparation|NN The|the|DT overall|overall|JJ process|process|NN of|of|IN bTEFAP|btefap|NN has|have|VBZ been|be|VBN depicted|depict|VBN in|in|IN Figure|figure|NN 2|2|CD .|.|. 
+Upon|upon|IN thawing|thaw|VBG ,|,|, the|the|DT frozen|frozen|JJ sections|section|NNS of|of|IN ileum|ileum|NN were|be|VBD vigorously|vigorously|RB washed|wash|VBN four|four|CD times|time|NNS with|with|IN PBS|pbs|NN solution|solution|NN to|to|TO remove|remove|VB attached|attach|VBN and|and|CC unattached|unattached|JJ bacteria|bacterium|NNS .|.|. 
+The|the|DT PBS|pbs|NN solution|solution|NN samples|sample|NNS were|be|VBD then|then|RB concentrated|concentrate|VBN by|by|IN centrifugation|centrifugation|NN and|and|CC resuspended|resuspend|VBN in|in|IN fresh|fresh|JJ PBS|pbs|NN ,|,|, and|and|CC total|total|JJ genomic|genomic|JJ DNA|dna|NN was|be|VBD extracted|extract|VBN .|.|. 
+Total|total|JJ genomic|genomic|JJ DNAs|dna|NNS were|be|VBD extracted|extract|VBN from|from|IN these|these|DT samples|sample|NNS using|use|VBG a|a|DT QIAamp|qiaamp|NN stool|stool|NN DNA|dna|NN mini|mini|NN kit|kit|NN using|use|VBG the|the|DT method|method|NN re-commended|re-commend|VBN by|by|IN the|the|DT manufacturers|manufacturer|NNS (|(|-LRB- Qiagen|Qiagen|NNP ,|,|, Valencia|Valencia|NNP ,|,|, CA|CA|NNP )|)|-RRB- .|.|. 
+DNA|dna|NN was|be|VBD quantiﬁed|quantiﬁed|VBN using|use|VBG a|a|DT Nanodrop|Nanodrop|NNP spectrophotometer|spectrophotometer|NN (|(|-LRB- Nyxor|Nyxor|NNP Biotech|Biotech|NNP ,|,|, Paris|Paris|NNP ,|,|, France|France|NNP )|)|-RRB- and|and|CC quality|quality|NN conﬁrmed|conﬁrmed|VBN using|use|VBG a|a|DT Bio-Rad|Bio-Rad|NNP Experion|Experion|NNP system|system|NN (|(|-LRB- Bio-Rad|Bio-Rad|NNP ,|,|, Hercules|Hercules|NNP ,|,|, CA|CA|NNP )|)|-RRB- .|.|. 
+Three|three|CD samples|sample|NNS corresponding|correspond|VBG to|to|IN pigs|pig|NNS 19|19|CD ,|,|, 22|22|CD ,|,|, and|and|CC 24|24|CD failed|fail|VBD to|to|TO yield|yield|VB sufﬁcient|sufﬁcient|NN quantity|quantity|NN and|and|CC quality|quality|NN of|of|IN DNA|dna|NN for|for|IN inclusion|inclusion|NN in|in|IN this|this|DT study|study|NN bTEFAP|btefap|NN sample|sample|NN preparation|preparation|NN Necropsy|necropsy|NN All|all|DT DNA|dna|NN samples|sample|NNS were|be|VBD diluted|dilute|VBN to|to|IN 100|100|CD ng|ng|NN =|=|SYM mL|ml|NN .|.|. 
+A|a|DT 100|100|CD ng|ng|NN (|(|-LRB- 1|1|CD mL|ml|NN )|)|-RRB- aliquot|aliquot|NN of|of|IN each|each|DT DNA|dna|NN sample|sample|NN was|be|VBD used|use|VBN for|for|IN 50|50|CD mL|ml|NN PCR|pcr|NN reactions|reaction|NNS .|.|. 
+The|the|DT 16S|16s|NN universal|universal|JJ Eubacterial|eubacterial|JJ primers|primer|NNS 530F|530f|NN (|(|-LRB- 50|50|CD -|-|SYM GTG|gtg|NN CCA|cca|NN GCM|gcm|NN GCN|gcn|NN GCG|gcg|NN G|g|NN )|)|-RRB- and|and|CC 1100R|1100r|NN (|(|-LRB- 50|50|CD -|-|SYM GGG|ggg|NN TTN|ttn|NN CGN|cgn|NN TCG|tcg|NN TTG|ttg|NN )|)|-RRB- were|be|VBD used|use|VBN for|for|IN amplifying|amplify|VBG the|the|DT 600|600|CD bp|bp|NN region|region|NN of|of|IN 16S|16s|NN rRNA|rrna|NN genes|gene|NNS .|.|. 
+HotStarTaq|HotStarTaq|NNP Plus|Plus|NNP Master|Master|NNP Mix|Mix|NNP Kit|Kit|NNP (|(|-LRB- Qiagen|Qiagen|NNP )|)|-RRB- was|be|VBD used|use|VBN for|for|IN PCR|pcr|NN under|under|IN the|the|DT following|follow|VBG condition|condition|NN :|:|: 948C|948c|NN for|for|IN 3|3|CD min|min|NN followed|follow|VBN by|by|IN 30|30|CD cycles|cycle|NNS of|of|IN 948C|948c|NN for|for|IN 30|30|CD sec|sec|NN ,|,|, 608C|608c|NN for|for|IN 40|40|CD sec|sec|NN ,|,|, and|and|CC 728C|728c|NN for|for|IN 1|1|CD min|min|NN ,|,|, and|and|CC a|a|DT ﬁnal|ﬁnal|JJ elongation|elongation|NN step|step|NN at|at|IN 728C|728c|NN for|for|IN 5|5|CD min|min|NN .|.|. 
+A|a|DT secondary|secondary|JJ PCR|pcr|NN was|be|VBD performed|perform|VBN to|to|TO incorporate|incorporate|VB tags|tag|NNS and|and|CC linkers|linker|NNS into|into|IN the|the|DT primary|primary|JJ amplicon|amplicon|NN for|for|IN use|use|NN in|in|IN FLX|flx|NN amplicon|amplicon|NN sequencing|sequencing|NN .|.|. 
+This|this|DT was|be|VBD done|do|VBN using|use|VBG 1|1|CD mL|ml|NN of|of|IN the|the|DT original|original|JJ PCR|pcr|NN reaction|reaction|NN as|as|IN a|a|DT template|template|NN ,|,|, under|under|IN the|the|DT same|same|JJ conditions|condition|NNS above|above|RB .|.|. 
+The|the|DT linker|linker|NN -|-|HYPH tag|tag|NN primer|primer|NN is|be|VBZ a|a|DT construct|construct|NN utilized|utilize|VBN to|to|IN incorporate|incorporate|VB the|the|DT speciﬁc|speciﬁc|NN sample|sample|NN tag|tag|NN and|and|CC the|the|DT FLX|FLX|NNP linker|linker|NN sequence|sequence|NN into|into|IN the|the|DT amplicon|amplicon|NN .|.|. 
+The|the|DT primers|primer|NNS were|be|VBD the|the|DT same|same|JJ as|as|IN the|the|DT 16S|16s|NN universal|universal|JJ eubacterial|eubacterial|JJ primers|primer|NNS above|above|RB ,|,|, the|the|DT linker|linker|NN was|be|VBD the|the|DT standard|standard|JJ FLX|FLX|NNP sequencing|sequencing|NN speciﬁc|speciﬁc|NN sequence|sequence|NN ,|,|, and|and|CC the|the|DT tag|tag|NN was|be|VBD a|a|DT sample|sample|NN -|-|HYPH speciﬁc|speciﬁc|NN sequence|sequence|NN used|use|VBN to|to|TO identify|identify|VB which|which|WDT sequence|sequence|NN ,|,|, obtained|obtain|VBN from|from|IN the|the|DT bulk|bulk|JJ reaction|reaction|NN ,|,|, was|be|VBD derived|derive|VBN from|from|IN which|which|WDT sample|sample|NN .|.|. 
+The|the|DT approach|approach|NN allows|allow|VBZ individual|individual|JJ sample|sample|NN sequences|sequence|NNS from|from|IN each|each|DT sample|sample|NN to|to|TO be|be|VB individually|individually|RB parsed|parse|VBN out|out|RP from|from|IN the|the|DT results|result|NNS of|of|IN the|the|DT bulk|bulk|JJ sequencing|sequencing|NN reaction|reaction|NN .|.|. 
+Thus|thus|RB ,|,|, a|a|DT speciﬁc|speciﬁc|NN tag|tag|NN sequence|sequence|NN was|be|VBD incorporated|incorporate|VBN into|into|IN each|each|DT of|of|IN the|the|DT individual|individual|JJ pig|pig|NN 's|'s|POS amplicons|amplicon|NNS and|and|CC subsequent|subsequent|JJ sequencing|sequencing|NN reads|read|VBZ (|(|-LRB- Table|table|NN 1|1|CD )|)|-RRB- .|.|. 
+After|after|IN secondary|secondary|JJ PCR|pcr|NN ,|,|, all|all|DT amplicon|amplicon|NN products|product|NNS from|from|IN different|different|JJ samples|sample|NNS were|be|VBD mixed|mix|VBN in|in|IN equal|equal|JJ volumes|volume|NNS and|and|CC puriﬁed|puriﬁed|VBN using|use|VBG Agencourt|Agencourt|NNP Ampure|Ampure|NNP Beads|bead|NNS (|(|-LRB- Agencourt|Agencourt|NNP Bioscience|Bioscience|NNP ,|,|, Beverly|Beverly|NNP ,|,|, MA|MA|NNP )|)|-RRB- .|.|. 
+FIG.|FIG.|NNP 2|2|CD .|.|. 
+This|this|DT ﬁgure|ﬁgure|NN provides|provide|VBZ a|a|DT graphical|graphical|JJ depiction|depiction|NN of|of|IN the|the|DT bTEFAP|btefap|NN procedure|procedure|NN .|.|. 
+The|the|DT left|left|JJ column|column|NN delineates|delineate|VBZ the|the|DT mole|mole|NN -|-|HYPH cular|cular|JJ workﬂow|workﬂow|NN ,|,|, while|while|IN the|the|DT right|right|JJ column|column|NN delineates|delineate|VBZ the|the|DT computational|computational|JJ workﬂow|workﬂow|NN .|.|. 
+Each|each|DT procedure|procedure|NN is|be|VBZ detailed|detail|VBN in|in|IN the|the|DT ``|``|`` Materials|material|NNS and|and|CC Methods|method|NNS ''|''|'' section|section|NN .|.|. 
+bTEFAP|btefap|NN sequencing|sequencing|NN PCR|pcr|NN Table|table|NN 1|1|CD .|.|. 
+Primer|primer|NN Sequences|sequence|NNS Utilized|utilize|VBN for|for|IN Pig|Pig|NNP Samples|sample|NNS During|during|IN bTEFAP|btefap|NN Primer|primer|NN sequence|sequence|NN (|(|-LRB- 50|50|CD --|--|: 30|30|CD )|)|-RRB- Name|name|VB 454|454|CD -|-|HYPH F30|f30|NN 454|454|CD -|-|HYPH F31|f31|NN GCCTCCCTCGCGCCATCAGCGCACTACGTGTGCCAGCMGCNGCGG|GCCTCCCTCGCGCCATCAGCGCACTACGTGTGCCAGCMGCNGCGG|NNP GCCTCCCTCGCGCCATCAGCGCAGCTGTTGTGCCAGCMGCNGCGG|GCCTCCCTCGCGCCATCAGCGCAGCTGTTGTGCCAGCMGCNGCGG|NNP GCCTCCCTCGCGCCATCAGCGCATACAGTGTGCCAGCMGCNGCGG|GCCTCCCTCGCGCCATCAGCGCATACAGTGTGCCAGCMGCNGCGG|NNP GCCTCCCTCGCGCCATCAGCGCATCTATAGTGCCAGCMGCNGCGG|GCCTCCCTCGCGCCATCAGCGCATCTATAGTGCCAGCMGCNGCGG|NNP GCCTCCCTCGCGCCATCAGCGCATTGGTGGTGCCAGCMGCNGCGG|GCCTCCCTCGCGCCATCAGCGCATTGGTGGTGCCAGCMGCNGCGG|NNP GCCTCCCTCGCGCCATCAGCGCCAGAAAAGTGCCAGCMGCNGCGG|GCCTCCCTCGCGCCATCAGCGCCAGAAAAGTGCCAGCMGCNGCGG|NNP GCCTCCCTCGCGCCATCAGTGTGACGTACGTGCCAGCMGCNGCGG|GCCTCCCTCGCGCCATCAGTGTGACGTACGTGCCAGCMGCNGCGG|NNP GCCTCCCTCGCGCCATCAGTGTGTGCATAGTGCCAGCMGCNGCGG|GCCTCCCTCGCGCCATCAGTGTGTGCATAGTGCCAGCMGCNGCGG|NNP GCCTCCCTCGCGCCATCAGTGTGTCCTCAGTGCCAGCMGCNGCGG|GCCTCCCTCGCGCCATCAGTGTGTCCTCAGTGCCAGCMGCNGCGG|NNP GCCTCCCTCGCGCCATCAGTGTGCATCACGTGCCAGCMGCNGCGG|GCCTCCCTCGCGCCATCAGTGTGCATCACGTGCCAGCMGCNGCGG|NNP GCCTCCCTCGCGCCATCAGTGTGCCTAGAGTGCCAGCMGCNGCGG|GCCTCCCTCGCGCCATCAGTGTGCCTAGAGTGCCAGCMGCNGCGG|NNP GCCTCCCTCGCGCCATCAGTGTACATAGTGTGCCAGCMGCNGCGG|GCCTCCCTCGCGCCATCAGTGTACATAGTGTGCCAGCMGCNGCGG|NNP GCCTCCCTCGCGCCATCAGTGTACATTGAGTGCCAGCMGCNGCGG|GCCTCCCTCGCGCCATCAGTGTACATTGAGTGCCAGCMGCNGCGG|NNP GCCTCCCTCGCGCCATCAGTGTACATTGTGTGCCAGCMGCNGCGG|GCCTCCCTCGCGCCATCAGTGTACATTGTGTGCCAGCMGCNGCGG|NNP GCCTCCCTCGCGCCATCAGTGTACCAACAGTGCCAGCMGCNGCGG|GCCTCCCTCGCGCCATCAGTGTACCAACAGTGCCAGCMGCNGCGG|NNP GCCTCCCTCGCGCCATCAGTGTACCAACTGTGCCAGCMGCNGCGG|GCCTCCCTCGCGCCATCAGTGTACCAACTGTGCCAGCMGCNGCGG|NNP GCCTCCCTCGCGCCATCAGTGTACCAATCGTGCCAGCMGCNGCGG|GCCTCCCTCGCGCCATCAGTGTACCAATCGTGCCAGCMGCNGCGG|NNP GCCTCCCTCGCGCCATCAGTGTACCAGATGTGCCAGCMGCNGCGG|GCCTCCCTCGCGCCATCAGTGTACCAGATGTGCCAGCMGCNGCGG|NNP GCCTCCCTCGCGCCATCAGTGTACCCATAGTGCCAGCMGCNGCGG|GCCTCCCTCGCGCCATCAGTGTACCCATAGTGCCAGCMGCNGCGG|NNP GCCTCCCTCGCGCCATCAGTGTACAGGGTGTGCCAGCMGCNGCGG|GCCTCCCTCGCGCCATCAGTGTACAGGGTGTGCCAGCMGCNGCGG|NNP GCCTCCCTCGCGCCATCAGTGTACCTATCGTGCCAGCMGCNGCGG|GCCTCCCTCGCGCCATCAGTGTACCTATCGTGCCAGCMGCNGCGG|NNP GCCTTGCCAGCCCGCTCAGGGGTTNCGNTCGTT|GCCTTGCCAGCCCGCTCAGGGGTTNCGNTCGTT|NNP 454|454|CD -|-|HYPH F32|f32|NN 454|454|CD -|-|HYPH F33|f33|NN 454|454|CD -|-|HYPH F34|f34|NN 454|454|CD -|-|HYPH F35|f35|NN 454|454|CD -|-|HYPH F36|f36|NN 454|454|CD -|-|HYPH F37|f37|NN 454|454|CD -|-|HYPH F38|f38|NN 454|454|CD -|-|HYPH F39|f39|NN 454|454|CD -|-|HYPH F40|f40|NN 454|454|CD -|-|HYPH F41|f41|NN 454|454|CD -|-|HYPH F42|f42|NN 454|454|CD -|-|HYPH F43|f43|NN 454|454|CD -|-|HYPH F44|f44|NN 454|454|CD -|-|HYPH F45|f45|NN 454|454|CD -|-|HYPH F46|f46|NN 454|454|CD -|-|HYPH F47|f47|NN 454|454|CD -|-|HYPH F48|f48|NN 454|454|CD -|-|HYPH F49|f49|NN 454|454|CD -|-|HYPH F50|f50|NN linkerB|linkerb|NN -|-|HYPH 1100R|1100r|NN bTEFAP|btefap|NN FLX|flx|NN massively|massively|RB parallel|parallel|JJ pyrosequencing|pyrosequencing|NN In|in|IN preparation|preparation|NN for|for|IN FLX|FLX|NNP sequencing|sequencing|NN (|(|-LRB- Roche|Roche|NNP ,|,|, Nutley|Nutley|NNP ,|,|, NJ|NJ|NNP )|)|-RRB- ,|,|, the|the|DT size|size|NN and|and|CC concentrations|concentration|NNS of|of|IN the|the|DT DNA|dna|NN fragments|fragment|NNS were|be|VBD measured|measure|VBN using|use|VBG DNA|dna|NN chips|chip|NNS and|and|CC a|a|DT Bio-Rad|Bio-Rad|NNP Experion|Experion|NNP Automated|Automated|NNP Electrophoresis|Electrophoresis|NNP Station|Station|NNP (|(|-LRB- Bio-Rad|Bio-Rad|NNP )|)|-RRB- .|.|. 
+These|these|DT values|value|NNS were|be|VBD conﬁrmed|conﬁrmed|VBN using|use|VBG a|a|DT TBS|tbs|NN -|-|HYPH 380|380|CD Fluorometer|fluorometer|NN (|(|-LRB- Turner|Turner|NNP Biosystems|Biosystems|NNP ,|,|, Sunnyvale|Sunnyvale|NNP ,|,|, CA|CA|NNP )|)|-RRB- .|.|. 
+A|a|DT sample|sample|NN þ|þ|NN containing|contain|VBG 9.6|9.6|CD E|e|NN 06|06|CD double|double|JJ -|-|HYPH stranded|strand|VBN DNA|dna|NN molecules|molecule|NNS =|=|SYM mL|ml|NN with|with|IN an|a|DT average|average|JJ size|size|NN of|of|IN 625|625|CD bp|bp|NN was|be|VBD combined|combine|VBN with|with|IN 9.6|9.6|CD million|million|CD DNA|dna|NN capture|capture|NN beads|bead|NNS ,|,|, and|and|CC then|then|RB ampliﬁed|ampliﬁed|VBN by|by|IN emulsion|emulsion|NN PCR|pcr|NN (|(|-LRB- Hori|Hori|NNP et|et|FW al.|al.|FW ,|,|, 2007|2007|CD )|)|-RRB- .|.|. 
+After|after|IN bead|bead|NN recovery|recovery|NN and|and|CC bead|bead|NN enrichment|enrichment|NN ,|,|, the|the|DT bead|bead|NN -|-|HYPH attached|attach|VBN DNAs|dna|NNS were|be|VBD denatured|denature|VBN with|with|IN NaOH|naoh|NN .|.|. 
+An|a|DT FLX|flx|NN sequencing|sequencing|NN run|run|NN was|be|VBD performed|perform|VBN on|on|IN a|a|DT 70|70|CD 75|75|CD GS|gs|NN PicoTiterPlate|PicoTiterPlate|NNP (|(|-LRB- PTP|PTP|NNP )|)|-RRB- using|use|VBG a|a|DT Genome|genome|NN Sequencer|Sequencer|NNP FLX|FLX|NNP System|System|NNP (|(|-LRB- Roche|Roche|NNP )|)|-RRB- .|.|. 
+All|all|DT FLX|flx|NN -|-|HYPH related|relate|VBN procedures|procedure|NNS were|be|VBD performed|perform|VBN following|follow|VBG Genome|Genome|NNP Sequencer|Sequencer|NNP FLX|FLX|NNP System|System|NNP manufacturer|manufacturer|NN 's|'s|POS instructions|instruction|NNS (|(|-LRB- Roche|Roche|NNP )|)|-RRB- .|.|. 
+bTEFAP|btefap|NN tag|tag|NN design|design|NN A|a|DT custom|custom|NN script|script|NN written|write|VBN in|in|IN the|the|DT C#|C#|NNP programming|programming|NN language|language|NN ,|,|, within|within|IN the|the|DT Microsoft|Microsoft|NNP .|.|. 
+NET|net|NN (|(|-LRB- Microsoft|Microsoft|NNP ,|,|, Seattle|Seattle|NNP ,|,|, WA|WA|NNP )|)|-RRB- development|development|NN environment|environment|NN ,|,|, was|be|VBD utilized|utilize|VBN to|to|TO generate|generate|VB all|all|DT possible|possible|JJ combinations|combination|NNS of|of|IN 10|10|CD -|-|HYPH mer|mer|NN oligonucleotide|oligonucleotide|NN tags|tag|NNS with|with|IN GC|gc|NN content|content|NN between|between|IN 40|40|CD %|%|NN and|and|CC 60|60|CD %|%|NN .|.|. 
+From|from|IN this|this|DT pool|pool|NN of|of|IN potential|potential|JJ 10|10|CD -|-|HYPH mers|mer|NNS ,|,|, we|we|PRP utilized|utilize|VBD 21|21|CD individual|individual|JJ tags|tag|NNS for|for|IN the|the|DT current|current|JJ study|study|NN (|(|-LRB- Table|table|NN 1|1|CD )|)|-RRB- .|.|. 
+Because|because|IN all|all|DT of|of|IN the|the|DT samples|sample|NNS are|be|VBP pooled|pool|VBN into|into|IN a|a|DT single|single|JJ sequencing|sequencing|NN reaction|reaction|NN ,|,|, we|we|PRP incorporate|incorporate|VBP the|the|DT tags|tag|NNS to|to|TO allow|allow|VB reads|read|VBZ from|from|IN each|each|DT individual|individual|JJ sample|sample|NN to|to|TO be|be|VB identiﬁed|identiﬁed|VBN .|.|. 
+In|in|IN this|this|DT way|way|NN ,|,|, we|we|PRP could|could|MD analyze|analyze|VB the|the|DT results|result|NNS from|from|IN each|each|DT animal|animal|NN separately|separately|RB .|.|. 
+As|as|IN no|no|DT -|-|HYPH ted|ted|NN ,|,|, custom|custom|NN software|software|NN programs|program|NNS ,|,|, written|write|VBN in|in|IN the|the|DT C#|C#|NNP programming|programming|NN language|language|NN within|within|IN the|the|DT Micro-soft|micro-soft|NN .|.|. 
+NET|net|NN (|(|-LRB- Microsoft|Microsoft|NNP )|)|-RRB- development|development|NN environment|environment|NN ,|,|, were|be|VBD utilized|utilize|VBN for|for|IN all|all|DT postsequencing|postsequencing|NN processing|processing|NN .|.|. 
+Discussion|discussion|NN of|of|IN software|software|NN code|code|NN is|be|VBZ outside|outside|IN the|the|DT scope|scope|NN of|of|IN this|this|DT report|report|NN ;|;|: however|however|RB ,|,|, a|a|DT description|description|NN of|of|IN the|the|DT algorithm|algorithm|NN follows|follow|VBZ .|.|. 
+Sequences|sequence|NNS ,|,|, which|which|WDT were|be|VBD trimmed|trim|VBN based|base|VBN upon|upon|IN quality|quality|NN scores|score|NNS ,|,|, obtained|obtain|VBN from|from|IN the|the|DT FLX|FLX|NNP sequencing|sequencing|NN run|run|NN were|be|VBD processed|process|VBN using|use|VBG the|the|DT workﬂow|workﬂow|NN depicted|depict|VBN in|in|IN Figure|figure|NN 2|2|CD .|.|. 
+Sequencing|sequencing|NN reads|read|NNS were|be|VBD derived|derive|VBN directly|directly|RB from|from|IN FLX|FLX|NNP sequencing|sequencing|NN run|run|VB output|output|NN ﬁles|ﬁles|NNS .|.|. 
+This|this|DT resulting|result|VBG multi-FASTA|multi-fasta|JJ ﬁle|ﬁle|NN contained|contain|VBD 160,591|160,591|CD total|total|JJ high|high|JJ -|-|HYPH quality|quality|NN reads|read|VBZ .|.|. 
+Based|base|VBN upon|upon|IN the|the|DT individual|individual|JJ sample|sample|NN tag|tag|NN sequence|sequence|NN ,|,|, those|those|DT sequences|sequence|NNS speciﬁc|speciﬁc|NN for|for|IN each|each|DT animal|animal|NN were|be|VBD extracted|extract|VBN from|from|IN the|the|DT multi-FASTA|multi-fasta|JJ ﬁle|ﬁle|NN into|into|IN individual|individual|JJ FASTA|FASTA|NNP ﬁles|ﬁles|NNS .|.|. 
+Tags|tag|NNS that|that|WDT did|do|VBD not|not|RB have|have|VB 100|100|CD %|%|NN homology|homology|NN to|to|IN the|the|DT sample|sample|NN designation|designation|NN were|be|VBD not|not|RB considered|consider|VBN .|.|. 
+Sequences|sequence|NNS that|that|WDT were|be|VBD less|less|JJR than|than|IN 150|150|CD bp|bp|NN after|after|IN quality|quality|NN trimming|trimming|NN were|be|VBD not|not|RB considered|consider|VBN .|.|. 
+The|the|DT resultant|resultant|JJ individual|individual|JJ sample|sample|NN FASTA|fasta|NN ﬁles|ﬁles|NNS were|be|VBD then|then|RB assembled|assemble|VBN using|use|VBG CAP3|cap3|NN (|(|-LRB- Huang|Huang|NNP and|and|CC Madan|Madan|NNP ,|,|, 1999|1999|CD )|)|-RRB- .|.|. 
+The|the|DT ace|ace|NN format|format|NN ﬁles|ﬁles|NNS generated|generate|VBN by|by|IN CAP3|cap3|NN were|be|VBD processed|process|VBN to|to|TO generate|generate|VB a|a|DT secondary|secondary|JJ FASTA|FASTA|NNP ﬁle|ﬁle|NN containing|contain|VBG the|the|DT tentative|tentative|JJ consensus|consensus|NN (|(|-LRB- TC|tc|NN )|)|-RRB- sequences|sequence|NNS of|of|IN the|the|DT assembly|assembly|NN minus|minus|CC singletons|singleton|NNS .|.|. 
+The|the|DT number|number|NN of|of|IN reads|read|NNS that|that|WDT became|become|VBD integrated|integrate|VBN into|into|IN each|each|DT consensus|consensus|NN was|be|VBD encoded|encode|VBN into|into|IN each|each|DT TC|tc|NN deﬁnition|deﬁnition|NN line|line|NN .|.|. 
+TCs|tc|NNS were|be|VBD required|require|VBN to|to|TO have|have|VB at|at|RB least|least|RBS twofold|twofold|JJ coverage|coverage|NN .|.|. 
+The|the|DT resulting|result|VBG TC|tc|NN FASTA|fasta|NN for|for|IN each|each|DT sample|sample|NN was|be|VBD then|then|RB evaluated|evaluate|VBN using|use|VBG a|a|DT BLASTn|blastn|NN (|(|-LRB- Altschul|Altschul|NNP et|et|FW al.|al.|FW ,|,|, 1990|1990|CD )|)|-RRB- --|--|: based|base|VBN distributed|distribute|VBN algorithm|algorithm|NN (|(|-LRB- Dowd|Dowd|NNP et|et|FW al.|al.|FW ,|,|, 2005|2005|CD )|)|-RRB- against|against|IN a|a|DT custom|custom|NN da|da|FW -|-|HYPH tabase|tabase|FW derived|derive|VBN from|from|IN the|the|DT RDP|RDP|NNP -|-|HYPH II|II|NNP database|database|NN (|(|-LRB- Maidak|Maidak|NNP et|et|FW al.|al.|FW ,|,|, 2001|2001|CD )|)|-RRB- and|and|CC GenBank|GenBank|NNP (|(|-LRB- http|http|NN :|:|: ==|==|NFP ncbi|ncbi|FW .|.|. 
+nlm.nih.gov|nlm.nih.gov|NNP )|)|-RRB- .|.|. 
+The|the|DT sequences|sequence|NNS contained|contain|VBD within|within|IN the|the|DT curated|curate|VBN 16S|16s|NN database|database|NN were|be|VBD both|both|DT >|>|SYM 1200|1200|CD bp|bp|NN and|and|CC considered|consider|VBN high|high|JJ quality|quality|NN based|base|VBN upon|upon|IN RDP|rdp|NN -|-|HYPH II|ii|CD standards|standard|NNS .|.|. 
+For|for|IN the|the|DT purpose|purpose|NN of|of|IN this|this|DT study|study|NN ,|,|, best|best|JJS hit|hit|NN identiﬁcation|identiﬁcation|NN at|at|IN the|the|DT species|species|NN level|level|NN has|have|VBZ been|be|VBN ignored|ignore|VBN .|.|. 
+Thus|thus|RB ,|,|, BLASTn|blastn|NN best|best|JJS hits|hit|NNS were|be|VBD evaluated|evaluate|VBN only|only|RB at|at|IN the|the|DT genus|genus|NN level|level|NN .|.|. 
+A|a|DT secondary|secondary|JJ postprocessing|postprocessing|NN algorithm|algorithm|NN was|be|VBD utilized|utilize|VBN to|to|TO combine|combine|VB genus|genus|NN designations|designation|NNS ultimately|ultimately|RB generating|generate|VBG a|a|DT list|list|NN of|of|IN predicted|predict|VBN genera|genera|NN IDs|id|NNS and|and|CC their|they|PRP$ relative|relative|JJ predicted|predict|VBN percentage|percentage|NN (|(|-LRB- %|%|NN 1/4|1/4|CD [|[|-LRB- #|#|NN sequences|sequence|NNS from|from|IN an|a|DT organism|organism|NN =|=|SYM total|total|JJ number|number|NN of|of|IN sequences|sequence|NNS from|from|IN a|a|DT sample|sample|NN ]|]|-RRB- 100|100|CD %|%|NN )|)|-RRB- within|within|IN the|the|DT given|give|VBN sample|sample|NN .|.|. 
+bTEFAP|btefap|NN sequence|sequence|NN processing|processing|NN pipeline|pipeline|NN Phylogenetic|phylogenetic|JJ assignment|assignment|NN ,|,|, alignment|alignment|NN ,|,|, and|and|CC clustering|clustering|NN of|of|IN 16S|16s|NN rRNA|rrna|NN gene|gene|NN fragments|fragment|NNS A|a|DT pooled|pool|VBN sequence|sequence|NN set|set|NN was|be|VBD created|create|VBN from|from|IN 10|10|CD of|of|IN the|the|DT pigs|pig|NNS and|and|CC utilized|utilize|VBN to|to|TO obtain|obtain|VB 10,500|10,500|CD random|random|JJ sequencing|sequencing|NN reads|read|VBZ .|.|. 
+Based|base|VBN upon|upon|IN a|a|DT procedure|procedure|NN described|describe|VBN for|for|IN soils|soil|NNS (|(|-LRB- Roesch|Roesch|NNP et|et|FW al.|al.|FW ,|,|, 2007|2007|CD )|)|-RRB- ,|,|, multipl|multipl|JJ alignments|alignment|NNS were|be|VBD done|do|VBN using|use|VBG MUSCLE|muscle|NN (|(|-LRB- with|with|IN parameter|parameter|NN -|-|HYPH maxiters|maxiter|NNS 1|1|CD ,|,|, -|-|HYPH diags1|diags1|NN ,|,|, and|and|CC -|-|HYPH sv|sv|NN )|)|-RRB- (|(|-LRB- Edgar|Edgar|NNP ,|,|, 2004|2004|CD )|)|-RRB- .|.|. 
+Based|base|VBN on|on|IN the|the|DT alignment|alignment|NN ,|,|, a|a|DT distance|distance|NN matrix|matrix|NN was|be|VBD constructed|construct|VBN using|use|VBG DNAdist|dnadist|NN from|from|IN PHYLIP|phylip|NN version|version|NN 3.6|3.6|CD with|with|IN default|default|NN parameters|parameter|NNS (|(|-LRB- Felsenstein|Felsenstein|NNP ,|,|, 1997|1997|CD )|)|-RRB- .|.|. 
+These|these|DT pairwise|pairwise|JJ distances|distance|NNS served|serve|VBD as|as|IN input|input|NN to|to|IN DOTUR|DOTUR|NNP (|(|-LRB- Schloss|Schloss|NNP and|and|CC Handelsman|Handelsman|NNP ,|,|, 2005|2005|CD )|)|-RRB- for|for|IN clustering|cluster|VBG the|the|DT sequences|sequence|NNS into|into|IN operational|operational|JJ taxonomic|taxonomic|JJ units|unit|NNS (|(|-LRB- OTUs|otus|NNS )|)|-RRB- of|of|IN deﬁned|deﬁned|VBN sequence|sequence|NN similarity|similarity|NN that|that|WDT ranged|range|VBD from|from|IN 0|0|CD %|%|NN to|to|IN 20|20|CD %|%|NN dissimilarity|dissimilarity|NN .|.|. 
+Thus|thus|RB ,|,|, based|base|VBN upon|upon|IN sequence|sequence|NN dissimilarities|dissimilarity|NNS ,|,|, we|we|PRP generated|generate|VBD predictive|predictive|JJ rarefaction|rarefaction|NN models|model|NNS in|in|IN DOTUR|DOTUR|NNP ,|,|, which|which|WDT was|be|VBD also|also|RB used|use|VBN for|for|IN making|make|VBG calculations|calculation|NNS associated|associate|VBN with|with|IN the|the|DT richness|richness|NN and|and|CC diversity|diversity|NN indexes|index|NNS ,|,|, Ace|Ace|NNP and|and|CC Chao1|chao1|NN (|(|-LRB- Chao|Chao|NNP and|and|CC Bunge|Bunge|NNP ,|,|, 2002|2002|CD )|)|-RRB- .|.|. 
+These|these|DT programs|program|NNS were|be|VBD run|run|VBN on|on|IN a|a|DT Windows|Windows|NNP VISTA|VISTA|NNP machine|machine|NN 8|8|CD -|-|HYPH core|core|NN with|with|IN 12|12|CD GB|gb|NN of|of|IN RAM|RAM|NNP and|and|CC 2|2|CD quad|quad|NN core|core|NN Xeon|xeon|NN processors|processor|NNS at|at|IN 3.0|3.0|CD GHz|ghz|NN .|.|. 
+Statistical|statistical|JJ analysis|analysis|NN of|of|IN OTU|OTU|NNP richness|richness|NN :|:|: rarefaction|rarefaction|NN The|the|DT DOTUR|dotur|JJ output|output|NN was|be|VBD obtained|obtain|VBN for|for|IN sample|sample|NN sizes|size|VBZ up|up|RP to|to|IN 10,500|10,500|CD sequences|sequence|NNS and|and|CC 1|1|CD %|%|NN ,|,|, 3|3|CD %|%|NN ,|,|, 5|5|CD %|%|NN ,|,|, 10|10|CD %|%|NN ,|,|, and|and|CC 20|20|CD %|%|NN dissimilarities|dissimilarity|NNS .|.|. 
+At|at|IN each|each|DT dissimilarity|dissimilarity|NN level|level|NN ,|,|, a|a|DT Richards|Richards|NNP equation|equation|NN (|(|-LRB- Seber|Seber|NNP and|and|CC Wile|Wile|NNP ,|,|, 1989|1989|CD )|)|-RRB- was|be|VBD ﬁt|ﬁt|NNP to|to|IN the|the|DT rarefaction|rarefaction|NN curves|curve|NNS generated|generate|VBN by|by|IN DOTUR|DOTUR|NNP .|.|. 
+The|the|DT Richards|Richards|NNP equation|equation|NN has|have|VBZ parameters|parameter|NNS C1|c1|NN and|and|CC C2|c2|NN with|with|IN the|the|DT equation|equation|NN C1|c1|NN 1/4|1/4|CD A|a|NN *|*|SYM (|(|-LRB- 1þ|1þ|NN (|(|-LRB- B|b|NN -|-|HYPH 1|1|CD )|)|-RRB- *|*|NFP )|)|-RRB- EXP|exp|NN (|(|-LRB- C|c|NN *|*|SYM (|(|-LRB- (|(|-LRB- C2|c2|NN )|)|-RRB- D|d|NN )|)|-RRB- )|)|-RRB- )|)|-RRB- ^|^|SYM (|(|-LRB- 1|1|CD =|=|SYM (|(|-LRB- 1|1|CD B|b|NN )|)|-RRB- )|)|-RRB- ,|,|, where|where|WRB C1|c1|NN was|be|VBD the|the|DT OTU|otu|NN estimated|estimate|VBN ,|,|, C2|c2|NN was|be|VBD the|the|DT number|number|NN of|of|IN sequences|sequence|NNS sampled|sample|VBN ,|,|, and|and|CC A|a|DT ,|,|, B|B|NNP ,|,|, and|and|CC D|d|NN are|be|VBP asymptotic|asymptotic|JJ parameters|parameter|NNS based|base|VBN upon|upon|IN the|the|DT modeled|model|VBN curve|curve|NN provided|provide|VBN below|below|RB .|.|. 
+This|this|DT provides|provide|VBZ us|we|PRP with|with|IN a|a|DT method|method|NN to|to|TO estimate|estimate|VB the|the|DT number|number|NN of|of|IN OTUs|otus|NNS at|at|IN a|a|DT given|give|VBN %|%|NN dissimilarity|dissimilarity|NN out|out|IN to|to|IN a|a|DT point|point|NN where|where|WRB we|we|PRP cover|cover|VBP 100|100|CD %|%|NN of|of|IN expected|expect|VBN diversity|diversity|NN .|.|. 
+The|the|DT estimated|estimate|VBN model|model|NN for|for|IN pig|pig|NN ileum|ileum|NN diversity|diversity|NN at|at|IN the|the|DT species|species|NN level|level|NN was|be|VBD (|(|-LRB- 821.996|821.996|CD )|)|-RRB- *|*|NFP (|(|-LRB- 1|1|CD þ|þ|NN (|(|-LRB- (|(|-LRB- .379|.379|CD )|)|-RRB- 1|1|LS )|)|-RRB- *|*|NFP EXP|exp|NN (|(|-LRB- (|(|-LRB- 1.707|1.707|CD E|e|NN 04|04|CD )|)|-RRB- *|*|NFP (|(|-LRB- (|(|-LRB- C2|c2|NN )|)|-RRB- (|(|-LRB- 1902.036|1902.036|CD )|)|-RRB- )|)|-RRB- )|)|-RRB- )|)|-RRB- ^|^|SYM (|(|-LRB- 1|1|CD =|=|SYM (|(|-LRB- 1|1|CD (|(|-LRB- .3796|.3796|CD )|)|-RRB- )|)|-RRB- )|)|-RRB- .|.|. 
+The|the|DT estimated|estimate|VBN model|model|NN for|for|IN pig|pig|NN ileum|ileum|NN diversity|diversity|NN at|at|IN the|the|DT strain|strain|NN level|level|NN was|be|VBD (|(|-LRB- 5821|5821|CD .|.|. 
+1049|1049|CD )|)|-RRB- *|*|NFP (|(|-LRB- 1|1|CD þ|þ|NN (|(|-LRB- (|(|-LRB- .1494|.1494|CD )|)|-RRB- 1|1|LS )|)|-RRB- *|*|NFP EXP|exp|NN (|(|-LRB- (|(|-LRB- 6.337|6.337|CD E|e|NN 05|05|CD )|)|-RRB- *|*|NFP (|(|-LRB- (|(|-LRB- C2|c2|NN )|)|-RRB- (|(|-LRB- 2232.773|2232.773|CD )|)|-RRB- )|)|-RRB- )|)|-RRB- )|)|-RRB- ^|^|SYM (|(|-LRB- 1|1|CD =|=|SYM (|(|-LRB- 1|1|CD (|(|-LRB- .1494|.1494|CD )|)|-RRB- )|)|-RRB- )|)|-RRB- .|.|. 
+For|for|IN phylum|phylum|NN diversity|diversity|NN ,|,|, the|the|DT plateau|plateau|NN of|of|IN the|the|DT curve|curve|NN was|be|VBD reached|reach|VBN with|with|IN the|the|DT original|original|JJ rarefaction|rarefaction|NN curve|curve|NN (|(|-LRB- Fig.|fig.|NN 3|3|CD )|)|-RRB- .|.|. 
+Results|result|NNS Ileum|Ileum|NNP microbial|microbial|JJ diversity|diversity|NN Rarefaction|rarefaction|NN curves|curve|NNS were|be|VBD generated|generate|VBN for|for|IN 0|0|CD %|%|NN ,|,|, 3|3|CD %|%|NN ,|,|, 5|5|CD %|%|NN ,|,|, 10|10|CD %|%|NN ,|,|, and|and|CC 20|20|CD %|%|NN sequence|sequence|NN dissimilarities|dissimilarity|NNS (|(|-LRB- Fig.|fig.|NN 3|3|CD )|)|-RRB- .|.|. 
+Rarefaction|Rarefaction|NNP provides|provide|VBZ a|a|DT powerful|powerful|JJ meth|meth|NN -|-|HYPH od|od|NN for|for|IN evaluating|evaluate|VBG the|the|DT diversity|diversity|NN and|and|CC richness|richness|NN of|of|IN environments|environment|NNS .|.|. 
+This|this|DT procedure|procedure|NN was|be|VBD described|describe|VBN previously|previously|RB by|by|IN Roesch|Roesch|NNP et|et|FW al.|al.|FW (|(|-LRB- 2007|2007|CD )|)|-RRB- .|.|. 
+Based|base|VBN upon|upon|IN the|the|DT literature|literature|NN ,|,|, we|we|PRP can|can|MD expect|expect|VB that|that|IN a|a|DT zero|zero|CD percent|percent|NN (|(|-LRB- 0|0|CD %|%|NN )|)|-RRB- dissimilarity|dissimilarity|NN in|in|IN sequences|sequence|NNS will|will|MD provide|provide|VB overestimation|overestimation|NN of|of|IN the|the|DT species|species|NNS diversity|diversity|NN present|present|NN in|in|IN a|a|DT sample|sample|NN ,|,|, at|at|IN 5|5|CD %|%|NN dissimilarity|dissimilarity|NN we|we|PRP would|would|MD expect|expect|VB to|to|TO obtain|obtain|VB estimation|estimation|NN at|at|IN the|the|DT genera|genera|NN level|level|NN ,|,|, and|and|CC at|at|IN 3|3|CD %|%|NN dissimilarity|dissimilarity|NN we|we|PRP obtain|obtain|VBP reasonable|reasonable|JJ estimation|estimation|NN of|of|IN the|the|DT species|species|NNS diversity|diversity|NN (|(|-LRB- Roesch|Roesch|NNP et|et|FW al.|al.|FW ,|,|, 2007|2007|CD )|)|-RRB- .|.|. 
+Using|use|VBG rarefaction|rarefaction|NN curves|curve|NNS modeled|model|VBN with|with|IN Richards|Richards|NNP equation|equation|NN ,|,|, we|we|PRP estimated|estimate|VBD the|the|DT predicted|predict|VBN number|number|NN of|of|IN phyla|phyla|NN ,|,|, genera|genera|NN ,|,|, species|species|NNS ,|,|, and|and|CC strains|strain|NNS of|of|IN bacteria|bacterium|NNS that|that|WDT might|might|MD occur|occur|VB in|in|IN the|the|DT ileum|ileum|NN of|of|IN the|the|DT current|current|JJ group|group|NN of|of|IN pigs|pig|NNS .|.|. 
+The|the|DT predicted|predict|VBN number|number|NN of|of|IN bacterial|bacterial|JJ strains|strain|NNS (|(|-LRB- 0|0|CD %|%|NN sequence|sequence|NN dissimilarity|dissimilarity|NN )|)|-RRB- for|for|IN this|this|DT group|group|NN of|of|IN pigs|pig|NNS was|be|VBD 5840|5840|CD ,|,|, the|the|DT predicted|predict|VBN number|number|NN of|of|IN bacterial|bacterial|JJ species|species|NNS (|(|-LRB- 3|3|CD %|%|NN dissimilarity|dissimilarity|NN )|)|-RRB- was|be|VBD 821|821|CD ,|,|, and|and|CC the|the|DT predicted|predict|VBN number|number|NN of|of|IN genera|genera|NN (|(|-LRB- 5|5|CD %|%|NN dissimilarity|dissimilarity|NN )|)|-RRB- was|be|VBD 501|501|CD .|.|. 
+The|the|DT Chao1|chao1|NN and|and|CC Ace|Ace|NNP indexes|index|NNS were|be|VBD also|also|RB generated|generate|VBN and|and|CC supported|support|VBN our|we|PRP$ diversity|diversity|NN predictions|prediction|NNS (|(|-LRB- Fig.|fig.|NN 4|4|CD )|)|-RRB- .|.|. 
+FIG.|FIG.|NNP 3|3|CD .|.|. 
+Rarefaction|rarefaction|NN curves|curve|NNS depicting|depict|VBG the|the|DT effect|effect|NN of|of|IN %|%|NN dissimilarity|dissimilarity|NN on|on|IN the|the|DT number|number|NN of|of|IN operational|operational|JJ taxonomic|taxonomic|JJ units|unit|NNS (|(|-LRB- OTU|otu|NN )|)|-RRB- identiﬁed|identiﬁed|VBN .|.|. 
+There|there|EX is|be|VBZ a|a|DT high|high|JJ strain|strain|NN richness|richness|NN (|(|-LRB- 0|0|CD %|%|NN dissimilarity|dissimilarity|NN )|)|-RRB- compared|compare|VBN to|to|IN the|the|DT relative|relative|JJ level|level|NN of|of|IN spe|spe|NN -|-|HYPH cies|cie|NNS and|and|CC phylum|phylum|NN diversity|diversity|NN .|.|. 
+This|this|DT rarefaction|rarefaction|NN curve|curve|NN was|be|VBD generated|generate|VBN based|base|VBN upon|upon|IN a|a|DT pool|pool|NN of|of|IN ﬁve|ﬁve|NN pigs|pig|NNS resulting|result|VBG in|in|IN a|a|DT sample|sample|NN set|set|NN based|base|VBN upon|upon|IN 10,500|10,500|CD sequences|sequence|NNS Prevalent|prevalent|JJ bacteria|bacterium|NNS and|and|CC pathogen|pathogen|NN detection|detection|NN Clostridium|Clostridium|NNP spp|spp|NN .|.|. 
+were|be|VBD ubiquitous|ubiquitous|JJ in|in|IN all|all|DT 21|21|CD of|of|IN the|the|DT samples|sample|NNS ranging|range|VBG in|in|IN percentage|percentage|NN from|from|IN 1.2|1.2|CD %|%|NN to|to|IN 96.4|96.4|CD %|%|NN .|.|. 
+Lactobacillus|lactobacillus|NN spp|spp|NN .|.|. 
+were|be|VBD also|also|RB ubiquitous|ubiquitous|JJ along|along|IN with|with|IN high|high|JJ prevalence|prevalence|NN of|of|IN Streptococcus|Streptococcus|NNP spp|spp|NN .|.|. 
+and|and|CC Sarcina|Sarcina|NNP spp|spp|NN .|.|. 
+There|there|EX was|be|VBD also|also|RB high|high|JJ prevalence|prevalence|NN of|of|IN Helicobacter|Helicobacter|NNP spp|spp|NNP .|.|. 
+among|among|IN the|the|DT pigs|pig|NNS with|with|IN percentages|percentage|NNS as|as|IN high|high|JJ as|as|IN 82|82|CD %|%|NN in|in|IN one|one|CD animal|animal|NN (|(|-LRB- Tables|table|NNS 2|2|CD and|and|CC 3|3|CD )|)|-RRB- .|.|. 
+Ileum|Ileum|NNP samples|sample|NNS from|from|IN all|all|DT of|of|IN the|the|DT pigs|pig|NNS were|be|VBD cultured|culture|VBN for|for|IN detection|detection|NN of|of|IN Salmonella|Salmonella|NNP spp|spp|NN .|.|. 
+The|the|DT ileum|ileum|NN samples|sample|NNS from|from|IN pigs|pig|NNS 1|1|CD ,|,|, 2|2|CD ,|,|, 13|13|CD ,|,|, and|and|CC 23|23|CD cultured|culture|VBN positive|positive|JJ for|for|IN Salmonella|Salmonella|NNP spp|spp|NN .|.|. 
+Ileum|Ileum|NNP samples|sample|NNS were|be|VBD then|then|RB screened|screen|VBN for|for|IN Salmonella|Salmonella|NNP spp|spp|NN .|.|. 
+using|use|VBG the|the|DT bTEFAP|btefap|NN method|method|NN .|.|. 
+Eight|eight|CD of|of|IN the|the|DT ileum|ileum|NN samples|sample|NNS ,|,|, pig|pig|NN 1|1|CD ,|,|, 2|2|CD ,|,|, 10|10|CD ,|,|, 11|11|CD ,|,|, 13|13|CD ,|,|, 15|15|CD ,|,|, 21|21|CD ,|,|, and|and|CC 23|23|CD ,|,|, were|be|VBD bTEFAP|btefap|NN positive|positive|JJ for|for|IN Salmonella|Salmonella|NNP spp|spp|NN .|.|. 
+Campylobacter|Campylobacter|NNP spp|spp|NN .|.|. 
+were|be|VBD also|also|RB detected|detect|VBN in|in|IN two|two|CD of|of|IN the|the|DT pigs|pig|NNS in|in|IN this|this|DT population|population|NN .|.|. 
+Table|table|NN 2|2|CD provides|provide|VBZ the|the|DT top|top|JJ ﬁve|ﬁve|NN organisms|organism|NNS detected|detect|VBN in|in|IN the|the|DT 21|21|CD pig|pig|NN samples|sample|NNS .|.|. 
+Table|table|NN 3|3|CD provides|provide|VBZ a|a|DT combined|combine|VBN evaluation|evaluation|NN of|of|IN the|the|DT microbial|microbial|JJ diversity|diversity|NN observed|observe|VBN at|at|IN the|the|DT genera|genera|NN level|level|NN among|among|IN all|all|DT 21|21|CD pigs|pig|NNS in|in|IN the|the|DT study|study|NN based|base|VBN upon|upon|IN best|best|JJS hit|hit|NN estimates|estimate|NNS .|.|. 
+Discussion|discussion|NN The|the|DT main|main|JJ purpose|purpose|NN of|of|IN this|this|DT report|report|NN was|be|VBD to|to|TO introduce|introduce|VB a|a|DT modiﬁed|modiﬁed|JJ method|method|NN for|for|IN pathogen|pathogen|NN detection|detection|NN ,|,|, epidemiological|epidemiological|JJ ,|,|, and|and|CC diversity|diversity|NN studies|study|NNS ,|,|, which|which|WDT is|be|VBZ based|base|VBN upon|upon|IN a|a|DT tag|tag|NN encoding|encoding|NN of|of|IN amplicons|amplicon|NNS .|.|. 
+The|the|DT sample|sample|NN -|-|HYPH speciﬁc|speciﬁc|NN tags|tag|NNS ,|,|, which|which|WDT become|become|VBP encoded|encode|VBN into|into|IN the|the|DT sequence|sequence|NN data|datum|NNS during|during|IN PCR|pcr|NN ampliﬁcation|ampliﬁcation|NN ,|,|, allow|allow|VB for|for|IN individual|individual|JJ samples|sample|NNS to|to|TO be|be|VB pooled|pool|VBN into|into|IN a|a|DT single|single|JJ FLX|flx|NN sequencing|sequencing|NN reaction|reaction|NN capable|capable|JJ of|of|IN generating|generate|VBG over|over|IN 400,000|400,000|CD individual|individual|JJ sequencing|sequencing|NN reads|read|VBZ .|.|. 
+Following|follow|VBG the|the|DT sequencing|sequencing|NN run|run|NN ,|,|, these|these|DT tagged|tag|VBN sequences|sequence|NNS can|can|MD then|then|RB be|be|VB extracted|extract|VBN from|from|IN the|the|DT multi-FASTA|multi-fasta|JJ output|output|NN ﬁles|ﬁles|NNS and|and|CC each|each|DT individual|individual|JJ sample|sample|NN analyzed|analyze|VBN ,|,|, separately|separately|RB or|or|CC as|as|IN treatment|treatment|NN groups|group|NNS .|.|. 
+The|the|DT main|main|JJ beneﬁt|beneﬁt|NN of|of|IN this|this|DT approach|approach|NN was|be|VBD that|that|IN it|it|PRP maximizes|maximize|VBZ the|the|DT number|number|NN of|of|IN samples|sample|NNS and|and|CC reads|read|VBZ ,|,|, which|which|WDT could|could|MD be|be|VB included|include|VBN in|in|IN ,|,|, extracted|extract|VBN from|from|IN ,|,|, and|and|CC independently|independently|RB analyzed|analyze|VBN as|as|IN part|part|NN of|of|IN a|a|DT single|single|JJ FLX|flx|NN bulk|bulk|NN sequencing|sequencing|NN run|run|NN .|.|. 
+Salmonella|salmonella|NN and|and|CC Campylobacter|campylobacter|NN spp|spp|NN .|.|. 
+were|be|VBD detected|detect|VBN among|among|IN this|this|DT group|group|NN of|of|IN pigs|pig|NNS .|.|. 
+From|from|IN the|the|DT perspective|perspective|NN of|of|IN pathogen|pathogen|NN detection|detection|NN ,|,|, one|one|CD of|of|IN the|the|DT most|most|RBS interesting|interesting|JJ observations|observation|NNS was|be|VBD the|the|DT deﬁnitive|deﬁnitive|JJ abi|abi|NN -|-|HYPH lity|lity|NN of|of|IN the|the|DT bTEFAP|btefap|NN method|method|NN to|to|TO detect|detect|VB Salmonell|Salmonell|NNP spp|spp|NN .|.|. 
+Although|although|IN it|it|PRP needs|need|VBZ additional|additional|JJ validation|validation|NN ,|,|, it|it|PRP does|do|VBZ appear|appear|VB from|from|IN this|this|DT study|study|NN that|that|IN the|the|DT bTEFAP|btefap|NN approach|approach|NN may|may|MD be|be|VB more|more|RBR sensitive|sensitive|JJ than|than|IN standard|standard|JJ culture|culture|NN methods|method|NNS for|for|IN detection|detection|NN of|of|IN Salmonella|Salmonella|NNP spp|spp|NN .|.|. 
+The|the|DT detection|detection|NN of|of|IN Campylobacter|Campylobacter|NNP (|(|-LRB- tentative|tentative|JJ jejuni|jejuni|NN )|)|-RRB- in|in|IN 10|10|CD %|%|NN of|of|IN the|the|DT pigs|pig|NNS was|be|VBD more|more|RBR surprising|surprising|JJ and|and|CC maybe|maybe|RB more|more|RBR intriguing|intriguing|JJ than|than|IN detection|detection|NN of|of|IN Sal|Sal|NNP -|-|HYPH monella|monella|NNP .|.|. 
+This|this|DT additional|additional|JJ ﬁnding|ﬁnding|NN certainly|certainly|RB illustrates|illustrate|VBZ the|the|DT potential|potential|JJ power|power|NN of|of|IN this|this|DT technology|technology|NN as|as|IN an|a|DT epidemiological|epidemiological|JJ and|and|CC universal|universal|JJ bacterial|bacterial|JJ diagnostic|diagnostic|JJ tool|tool|NN .|.|. 
+Recent|recent|JJ articles|article|NNS that|that|WDT relate|relate|VBP host|host|NN physiology|physiology|NN to|to|IN the|the|DT gastrointestinal|gastrointestinal|JJ bacterial|bacterial|JJ populations|population|NNS have|have|VBP sparked|spark|VBN a|a|DT renewed|renew|VBN interest|interest|NN in|in|IN the|the|DT microbiomes|microbiome|NNS of|of|IN the|the|DT gastrointestinal|gastrointestinal|JJ tract|tract|NN (|(|-LRB- Backhed|Backhed|NNP et|et|FW al.|al.|FW ,|,|, 2005|2005|CD ;|;|: Ley|Ley|NNP et|et|FW al.|al.|FW ,|,|, 2006a|2006a|NN ,|,|, 2006b|2006b|NN ;|;|: Turnbaugh|Turnbaugh|NNP et|et|FW al.|al.|FW ,|,|, 2006|2006|CD )|)|-RRB- .|.|. 
+These|these|DT studies|study|NNS gained|gain|VBD much|much|JJ attention|attention|NN because|because|IN they|they|PRP correlate|correlate|VBP extreme|extreme|JJ physiological|physiological|JJ conditions|condition|NNS (|(|-LRB- obesity|obesity|NN )|)|-RRB- in|in|IN humans|human|NNS and|and|CC mice|mouse|NNS with|with|IN speciﬁc|speciﬁc|NN microbiome|microbiome|NN populations|population|NNS in|in|IN the|the|DT gut|gut|NN .|.|. 
+This|this|DT raises|raise|VBZ many|many|JJ questions|question|NNS ,|,|, from|from|IN a|a|DT livestock|livestock|NN perspective|perspective|NN ,|,|, such|such|JJ as|as|IN ``|``|`` Is|be|VBZ there|there|RB a|a|DT microbiome|microbiome|NN proﬁle|proﬁle|NN that|that|WDT would|would|MD impart|impart|VB higher|higher|JJR productivity|productivity|NN value|value|NN ,|,|, less|less|JJR disease|disease|NN ,|,|, and|and|CC improved|improve|VBD food|food|NN safety|safety|NN in|in|IN relation|relation|NN to|to|IN livestock|livestock|NN ?|?|. ''|''|'' 
+Arguably|arguably|RB ,|,|, this|this|DT topic|topic|NN has|have|VBZ already|already|RB being|be|VBG addressed|address|VBN indirectly|indirectly|RB through|through|IN the|the|DT use|use|NN of|of|IN probiotics|probiotic|NNS and|and|CC prebiotics|prebiotic|NNS (|(|-LRB- Vanbelle|Vanbelle|NNP et|et|FW al.|al.|FW ,|,|, 1990|1990|CD ;|;|: Ricke|Ricke|NNP and|and|CC Pillai|Pillai|NNP ,|,|, 1999|1999|CD ;|;|: Dunkley|Dunkley|NNP et|et|FW al.|al.|FW ,|,|, 2007|2007|CD )|)|-RRB- .|.|. 
+From|from|IN a|a|DT microbiome|microbiome|NN perspective|perspective|NN ,|,|, there|there|EX have|have|VBP been|be|VBN only|only|RB a|a|DT small|small|JJ number|number|NN of|of|IN important|important|JJ research|research|NN articles|article|NNS (|(|-LRB- some|some|DT of|of|IN which|which|WDT are|be|VBP referenced|reference|VBN here|here|RB )|)|-RRB- describing|describe|VBG the|the|DT ileum|ileum|NN microbial|microbial|JJ populations|population|NNS in|in|IN pigs|pig|NNS (|(|-LRB- Hogberg|Hogberg|NNP et|et|FW al.|al.|FW ,|,|, 2004|2004|CD )|)|-RRB- .|.|. 
+Most|most|JJS of|of|IN the|the|DT existing|exist|VBG studies|study|NNS utilize|utilize|VBP ﬁngerprinting|ﬁngerprinting|VBG diversity|diversity|NN meth|meth|NN -|-|HYPH odologies|odology|NNS such|such|JJ as|as|IN denaturation|denaturation|NN gradient|gradient|NN gel|gel|NN electrophoresis|electrophoresis|NN (|(|-LRB- DGGE|dgge|NN )|)|-RRB- (|(|-LRB- Choi|Choi|NNP et|et|FW al.|al.|FW ,|,|, 2007|2007|CD )|)|-RRB- .|.|. 
+Fingerprinting|fingerprinting|NN methods|method|NNS such|such|JJ as|as|IN DGGE|DGGE|NNP typically|typically|RB ignore|ignore|VBP identities|identity|NNS of|of|IN the|the|DT microbial|microbial|JJ populations|population|NNS but|but|CC give|give|VB good|good|JJ estimates|estimate|NNS to|to|TO show|show|VB differences|difference|NNS in|in|IN overall|overall|JJ diversity|diversity|NN .|.|. 
+Other|other|JJ studies|study|NNS have|have|VBP utilized|utilize|VBN culturing|culture|VBG methods|method|NNS (|(|-LRB- Binder|Binder|NNP et|et|FW al.|al.|FW ,|,|, 1984|1984|CD ;|;|: Wittenbrink|Wittenbrink|NNP et|et|FW al.|al.|FW ,|,|, 1984|1984|CD )|)|-RRB- .|.|. 
+Culture|culture|NN methods|method|NNS are|be|VBP of|of|RB course|course|RB biased|biased|JJ toward|toward|IN only|only|RB those|those|DT very|very|RB few|few|JJ genera|genus|NNS able|able|JJ to|to|TO be|be|VB pro-pagated|pro-pagated|JJ and|and|CC effectively|effectively|RB isolated|isolate|VBN in|in|FW vitro|vitro|FW .|.|. 
+Finally|finally|RB ,|,|, a|a|DT few|few|JJ important|important|JJ studies|study|NNS (|(|-LRB- Pryde|Pryde|NNP et|et|FW al.|al.|FW ,|,|, 1999|1999|CD )|)|-RRB- have|have|VBP also|also|RB evaluated|evaluate|VBN powerful|powerful|JJ yet|yet|CC classical|classical|JJ sequencing|sequencing|NN approaches|approach|NNS ,|,|, which|which|WDT involve|involve|VBP PCR|pcr|NN ampliﬁcation|ampliﬁcation|NN ,|,|, cloning|cloning|NN ,|,|, and|and|CC subsequent|subsequent|JJ Sanger|Sanger|NNP sequencing|sequencing|NN .|.|. 
+Based|base|VBN on|on|IN the|the|DT literature|literature|NN ,|,|, we|we|PRP expect|expect|VBP that|that|IN lower|lower|JJR intestinal|intestinal|JJ populations|population|NNS are|be|VBP dominated|dominate|VBN by|by|IN strict|strict|JJ anaerobes|anaerobe|NNS such|such|JJ as|as|IN Bacteroides|Bacteroides|NNP spp.|spp.|NNP ,|,|, Clostridium|Clostridium|NNP spp.|spp.|NNP ,|,|, and|and|CC Biﬁdobacterium|Biﬁdobacterium|NNP spp|spp|NN .|.|. 
+(|(|-LRB- Drasar|Drasar|NNP and|and|CC Barrow|Barrow|NNP ,|,|, 1985|1985|CD )|)|-RRB- ,|,|, while|while|IN facultative|facultative|JJ anaerobes|anaerobe|NNS such|such|JJ as|as|IN Escherichia|Escherichia|NNP coli|coli|NNP ,|,|, Lactobacillus|lactobacillus|NN spp.|spp.|RB ,|,|, Enterococcus|Enterococcus|NNP spp.|spp.|RB ,|,|, and|and|CC Streptococcus|Streptococcus|NNP spp|spp|NN .|.|. 
+are|be|VBP expected|expect|VBN to|to|TO occur|occur|VB in|in|IN numbers|number|NNS that|that|WDT are|be|VBP roughly|roughly|RB 1000-fold|1000-fold|RB lower|lower|JJR (|(|-LRB- Drasar|Drasar|NNP and|and|CC Barrow|Barrow|NNP ,|,|, 1985|1985|CD )|)|-RRB- .|.|. 
+In|in|IN the|the|DT current|current|JJ po|po|NN -|-|HYPH pulation|pulation|NN ,|,|, Clostridium|Clostridium|NNP spp|spp|NN .|.|. 
+were|be|VBD obviously|obviously|RB the|the|DT primary|primary|JJ population|population|NN and|and|CC occurred|occur|VBD in|in|IN 100|100|CD %|%|NN of|of|IN the|the|DT samples|sample|NNS .|.|. 
+Clostridium|Clostridium|NNP spp|spp|NN .|.|. 
+was|be|VBD also|also|RB one|one|CD of|of|IN the|the|DT top|top|JJ ﬁve|ﬁve|NN organisms|organism|NNS ,|,|, based|base|VBN upon|upon|IN number|number|NN of|of|IN sequence|sequence|NN reads|read|VBZ ,|,|, in|in|IN all|all|DT but|but|IN two|two|CD of|of|IN the|the|DT pigs|pig|NNS .|.|. 
+Clostridium|Clostridium|NNP spp|spp|NN .|.|. 
+represents|represent|VBZ a|a|DT very|very|RB diverse|diverse|JJ genus|genus|NN ,|,|, which|which|WDT has|have|VBZ potential|potential|JJ for|for|IN both|both|DT positive|positive|JJ and|and|CC negative|negative|JJ inﬂuence|inﬂuence|NN on|on|IN the|the|DT host|host|NN .|.|. 
+These|these|DT effects|effect|NNS are|be|VBP typically|typically|RB associated|associate|VBN with|with|IN the|the|DT species|species|NNS involved|involve|VBN (|(|-LRB- Grizard|Grizard|NNP and|and|CC Bartho|Bartho|NNP -|-|HYPH meuf|meuf|NNP ,|,|, 1999|1999|CD ;|;|: Kanauchi|Kanauchi|NNP et|et|FW al.|al.|FW ,|,|, 2005|2005|CD )|)|-RRB- .|.|. 
+In|in|IN general|general|JJ ,|,|, clostridia|clostridium|NNS are|be|VBP ubiquitous|ubiquitous|JJ and|and|CC generally|generally|RB bene|bene|JJ -|-|HYPH ﬁcial|ﬁcial|JJ components|component|NNS of|of|IN the|the|DT gastrointestinal|gastrointestinal|JJ ﬂora|ﬂora|NN ,|,|, but|but|CC speciﬁc|speciﬁc|NN species|species|NNS such|such|JJ as|as|IN C.|C.|NNP perfringens|perfringen|NNS and|and|CC C.|C.|NNP difﬁcile|difﬁcile|NNP can|can|MD also|also|RB cause|cause|VB signiﬁcant|signiﬁcant|JJ productivity|productivity|NN problems|problem|NNS and|and|CC food|food|NN safety|safety|NN issues|issue|NNS (|(|-LRB- Jasmin|Jasmin|NNP ,|,|, 1967|1967|CD ;|;|: Thomson|Thomson|NNP et|et|FW al.|al.|FW ,|,|, 1968|1968|CD ;|;|: Songer|Songer|NNP ,|,|, 1998|1998|CD ,|,|, 2004|2004|CD ;|;|: Att|att|NN -|-|HYPH wood|wood|NN et|et|FW al.|al.|FW ,|,|, 2006|2006|CD )|)|-RRB- .|.|. 
+The|the|DT primary|primary|JJ tentative|tentative|JJ species|species|NNS of|of|IN Clostridium|Clostridium|NNP we|we|PRP identiﬁed|identiﬁed|VBD were|be|VBD (|(|-LRB- in|in|IN order|order|NN of|of|IN prevalence|prevalence|NN )|)|-RRB- C.|C.|NNP glycolicum|glycolicum|NNP ,|,|, C.|C.|NNP disporicum|disporicum|NNP ,|,|, C.|C.|NNP septi|septi|NNP -|-|HYPH cum|cum|NNP ,|,|, C.|C.|NNP kluyveri|kluyveri|NNP ,|,|, C.|C.|NNP perfringens|perfringen|NNS ,|,|, and|and|CC C.|C.|NNP difﬁcile|difﬁcile|NNP .|.|. 
+Lactobacillus|lactobacillus|NN and|and|CC Streptococcus|streptococcus|NN spp|spp|NN .|.|. 
+were|be|VBD also|also|RB two|two|CD of|of|IN the|the|DT most|most|RBS prevalent|prevalent|JJ genera|genera|NN identiﬁed|identiﬁed|VBN .|.|. 
+Lactobacillus|lactobacillus|NN spp|spp|NN .|.|. 
+are|be|VBP primarily|primarily|RB noted|note|VBN to|to|TO be|be|VB beneﬁcial|beneﬁcial|JJ gastrointestinal|gastrointestinal|JJ populations|population|NNS and|and|CC are|be|VBP known|know|VBN to|to|TO produce|produce|VB a|a|DT range|range|NN of|of|IN antimicrobial|antimicrobial|JJ agents|agent|NNS ,|,|, yet|yet|CC they|they|PRP are|be|VBP typically|typically|RB reported|report|VBN to|to|TO be|be|VB present|present|JJ in|in|IN much|much|RB lower|lower|JJR levels|level|NNS than|than|IN we|we|PRP noted|note|VBD here|here|RB (|(|-LRB- Rastall|Rastall|NNP ,|,|, 2004|2004|CD )|)|-RRB- .|.|. 
+There|there|EX were|be|VBD a|a|DT variety|variety|NN of|of|IN Lactobacillus|lactobacillus|NN spp|spp|NN .|.|. 
+detected|detect|VBN ,|,|, including|include|VBG L.|L.|NNP mucosae|mucosa|NNS ,|,|, L.|L.|NNP delbrueckii|delbrueckii|NNP ,|,|, L.|L.|NNP salivarius|salivarius|NNP ,|,|, and|and|CC L.|L.|NNP johnsonii|johnsonii|NNP .|.|. 
+Streptococcus|Streptococcus|NNP spp|spp|NN .|.|. 
+are|be|VBP a|a|DT diverse|diverse|JJ group|group|NN containing|contain|VBG important|important|JJ pathogens|pathogen|NNS and|and|CC important|important|JJ bene|bene|NN -|-|HYPH ﬁcial|ﬁcial|JJ species|species|NNS (|(|-LRB- Lick|Lick|NNP et|et|FW al.|al.|FW ,|,|, 2001|2001|CD ;|;|, Lun|Lun|NNP et|et|FW al.|al.|FW ,|,|, 2007|2007|CD ;|;|: Garcia|Garcia|NNP -|-|HYPH Albiach|Albiach|NNP et|et|FW al.|al.|FW ,|,|, 2008|2008|CD ;|;|: Tan|Tan|NNP et|et|FW al.|al.|FW ,|,|, 2008|2008|CD )|)|-RRB- .|.|. 
+The|the|DT primary|primary|JJ species|species|NNS of|of|IN Streptococcus|streptococcus|NN tentatively|tentatively|RB identiﬁed|identiﬁed|VBN were|be|VBD S.|S.|NNP suis|suis|NNP and|and|CC S.|S.|NNP bovis|bovis|NNP .|.|. 
+From|from|IN a|a|DT microbiome|microbiome|NN perspective|perspective|NN ,|,|, one|one|CD of|of|IN the|the|DT most|most|RBS surprising|surprising|JJ ﬁndings|ﬁndings|NNS was|be|VBD the|the|DT relatively|relatively|RB high|high|JJ prevalence|prevalence|NN of|of|IN Helicobacter|Helicobacter|NNP spp|spp|NNP .|.|. 
+in|in|IN a|a|DT majority|majority|NN of|of|IN the|the|DT pigs|pig|NNS (|(|-LRB- Tables|table|NNS 2|2|CD and|and|CC 3|3|CD )|)|-RRB- .|.|. 
+Helicobacter|Helicobacter|NNP spp|spp|NNP .|.|. 
+are|be|VBP very|very|RB difﬁcult|difﬁcult|JJ to|to|IN culture|culture|NN in|in|IN the|the|DT laboratory|laboratory|NN ,|,|, so|so|RB this|this|DT ﬁnding|ﬁnding|NN is|be|VBZ somewhat|somewhat|RB novel|novel|JJ ,|,|, and|and|CC we|we|PRP did|do|VBD not|not|RB identify|identify|VB any|any|DT scientiﬁc|scientiﬁc|NN literature|literature|NN that|that|WDT identiﬁed|identiﬁed|VBD a|a|DT beneﬁcial|beneﬁcial|JJ impact|impact|NN of|of|IN Helicobacter|Helicobacter|NNP spp|spp|NNP .|.|. 
+in|in|IN the|the|DT GI|gi|NN tract|tract|NN of|of|IN livestock|livestock|NN .|.|. 
+The|the|DT primary|primary|JJ species|species|NNS of|of|IN Heli|Heli|NNP cobacter|cobacter|NN noted|note|VBD tentatively|tentatively|RB in|in|IN our|we|PRP$ ﬁndings|ﬁndings|NNS was|be|VBD Helicobacter|Helicobacter|NNP rappini|rappini|NNP (|(|-LRB- previously|previously|RB Flexispira|Flexispira|NNP rappini|rappini|NNP )|)|-RRB- .|.|. 
+Similarly|similarly|RB ,|,|, there|there|EX were|be|VBD no|no|DT previous|previous|JJ reports|report|NNS of|of|IN Helicobacter|Helicobacter|NNP spp|spp|NNP .|.|. 
+as|as|IN a|a|DT primary|primary|JJ population|population|NN in|in|IN the|the|DT ileum|ileum|NN of|of|IN pigs|pig|NNS or|or|CC other|other|JJ livestock|livestock|NN .|.|. 
+Most|most|JJS reports|report|NNS related|relate|VBN to|to|IN H.|H.|NNP rappini|rappini|NNP and|and|CC its|its|PRP$ potential|potential|JJ role|role|NN as|as|IN an|a|DT emerging|emerge|VBG human|human|JJ pathogen|pathogen|NN (|(|-LRB- Crawshaw|Crawshaw|NNP and|and|CC Fuller|Fuller|NNP ,|,|, 1994|1994|CD ;|;|: Iten|Iten|NNP et|et|FW al.|al.|FW ,|,|, 2001|2001|CD )|)|-RRB- .|.|. 
+Veillonella|Veillonella|NNP spp|spp|NN .|.|. 
+was|be|VBD another|another|DT highly|highly|RB ubiquitous|ubiquitous|JJ genus|genus|NN identiﬁed|identiﬁed|VBN in|in|IN this|this|DT survey|survey|NN (|(|-LRB- tentative|tentative|JJ species|species|NNS V.|V.|NNP dispar|dispar|NN )|)|-RRB- .|.|. 
+There|there|EX are|be|VBP some|some|DT literature|literature|NN references|reference|NNS to|to|IN this|this|DT organism|organism|NN indicating|indicate|VBG that|that|IN it|it|PRP may|may|MD be|be|VB part|part|NN of|of|IN the|the|DT normal|normal|JJ ﬂora|ﬂora|NN but|but|CC that|that|IN it|it|PRP may|may|MD also|also|RB be|be|VB associated|associate|VBN with|with|IN certain|certain|JJ diseases|disease|NNS (|(|-LRB- Houston|Houston|NNP et|et|FW al.|al.|FW ,|,|, 1997|1997|CD ;|;|: Karlsson|Karlsson|NNP et|et|FW al.|al.|FW ,|,|, 2002|2002|CD ;|;|: Malinen|Malinen|NNP et|et|FW al.|al.|FW ,|,|, 2005|2005|CD ;|;|: Zilberstein|Zilberstein|NNP et|et|FW al.|al.|FW ,|,|, 2007|2007|CD )|)|-RRB- .|.|. 
+Finally|finally|RB ,|,|, there|there|EX was|be|VBD a|a|DT surprisingly|surprisingly|RB low|low|JJ prevalence|prevalence|NN of|of|IN Biﬁdobacterium|Biﬁdobacterium|NNP spp|spp|NN .|.|. 
+in|in|IN the|the|DT pigs|pig|NNS (|(|-LRB- 10|10|CD %|%|NN )|)|-RRB- .|.|. 
+This|this|DT may|may|MD be|be|VB of|of|IN concern|concern|NN as|as|IN Biﬁdobacterium|Biﬁdobacterium|NNP spp|spp|NN .|.|. 
+are|be|VBP considered|consider|VBN a|a|DT major|major|JJ component|component|NN of|of|IN the|the|DT microbial|microbial|JJ barrier|barrier|NN to|to|IN infections|infection|NNS (|(|-LRB- Rastall|Rastall|NNP ,|,|, 2004|2004|CD )|)|-RRB- because|because|IN they|they|PRP can|can|MD produce|produce|VB a|a|DT range|range|NN of|of|IN antimicrobial|antimicrobial|JJ agents|agent|NNS that|that|WDT are|be|VBP active|active|JJ against|against|IN gram|gram|NN -|-|HYPH positive|positive|JJ and|and|CC gramnegative|gramnegative|JJ organisms|organism|NNS (|(|-LRB- Gibson|Gibson|NNP and|and|CC Wang|Wang|NNP ,|,|, 1994|1994|CD ;|;|: Genovese|Genovese|NNP et|et|FW al.|al.|FW ,|,|, 2003|2003|CD )|)|-RRB- .|.|. 
+The|the|DT lack|lack|NN of|of|IN Biﬁdobacterium|Biﬁdobacterium|NNP spp|spp|NN .|.|. 
+may|may|MD reﬂect|reﬂect|VB on|on|IN the|the|DT health|health|NN of|of|IN the|the|DT pigs|pig|NNS and|and|CC may|may|MD in|in|IN some|some|DT respect|respect|NN explain|explain|VB the|the|DT relatively|relatively|RB high|high|JJ occurrence|occurrence|NN of|of|IN Salmonella|Salmonella|NNP and|and|CC Campylobacter|Campylobacter|NNP spp.|spp.|NNP ,|,|, which|which|WDT are|be|VBP of|of|RB course|course|RB obvious|obvious|JJ food|food|NN safety|safety|NN and|and|CC production|production|NN concerns|concern|NNS .|.|. 
+We|we|PRP can|can|MD expect|expect|VB as|as|IN this|this|DT method|method|NN matures|mature|VBZ that|that|IN we|we|PRP will|will|MD gain|gain|VB a|a|DT much|much|RB better|better|JJR understanding|understanding|NN of|of|IN microbiomes|microbiome|NNS from|from|IN different|different|JJ regions|region|NNS of|of|IN the|the|DT gut|gut|NN ,|,|, different|different|JJ genetic|genetic|JJ lineages|lineage|NNS ,|,|, different|different|JJ diets|diet|NNS ,|,|, various|various|JJ stages|stage|NNS of|of|IN development|development|NN ,|,|, different|different|JJ geographical|geographical|JJ regions|region|NNS ,|,|, and|and|CC in|in|IN response|response|NN to|to|IN different|different|JJ environmental|environmental|JJ conditions|condition|NNS .|.|. 
+Such|such|JJ research|research|NN is|be|VBZ important|important|JJ because|because|IN the|the|DT microbiome|microbiome|NN is|be|VBZ a|a|DT cornerstone|cornerstone|NN of|of|IN health|health|NN and|and|CC productivity|productivity|NN .|.|. 
+Understanding|understand|VBG how|how|WRB we|we|PRP might|might|MD better|better|RBR maintain|maintain|VB beneﬁcial|beneﬁcial|JJ communities|community|NNS in|in|IN the|the|DT animal|animal|NN at|at|IN all|all|DT stages|stage|NNS of|of|IN growth|growth|NN could|could|MD be|be|VB the|the|DT next|next|JJ important|important|JJ and|and|CC cost|cost|NN -|-|HYPH effective|effective|JJ means|means|NNS of|of|IN ensuring|ensure|VBG commercial|commercial|JJ livestock|livestock|NN sustainability|sustainability|NN .|.|. 
+From|from|IN a|a|DT production|production|NN standpoint|standpoint|NN ,|,|, it|it|PRP can|can|MD be|be|VB expected|expect|VBN that|that|IN changes|change|NNS in|in|IN diet|diet|NN can|can|MD have|have|VB signiﬁcant|signiﬁcant|JJ impacts|impact|NNS on|on|IN the|the|DT gut|gut|NN environment|environment|NN and|and|CC subsequently|subsequently|RB on|on|IN the|the|DT health|health|NN and|and|CC productivity|productivity|NN of|of|IN the|the|DT host|host|NN .|.|. 
+Conversely|conversely|RB ,|,|, we|we|PRP have|have|VBP seen|see|VBN that|that|IN changes|change|NNS in|in|IN the|the|DT mental|mental|JJ ,|,|, immunological|immunological|JJ ,|,|, or|or|CC physiological|physiological|JJ state|state|NN of|of|IN the|the|DT host|host|NN (|(|-LRB- e.g.|e.g.|FW ,|,|, stress|stress|NN )|)|-RRB- can|can|MD induce|induce|VB changes|change|NNS in|in|IN the|the|DT gut|gut|NN microbiome|microbiome|NN (|(|-LRB- Dowd|Dowd|NNP et|et|FW al.|al.|FW ,|,|, 2007|2007|CD )|)|-RRB- .|.|. 
+Thus|thus|RB ,|,|, management|management|NN stresses|stress|NNS such|such|JJ as|as|IN transportation|transportation|NN may|may|MD induce|induce|VB changes|change|NNS in|in|IN gastrointestinal|gastrointestinal|JJ populations|population|NNS and|and|CC diversity|diversity|NN ,|,|, which|which|WDT make|make|VBP the|the|DT animal|animal|NN more|more|RBR susceptible|susceptible|JJ to|to|IN disease|disease|NN (|(|-LRB- Acheson|Acheson|NNP and|and|CC Luccioli|Luccioli|NNP ,|,|, 2004|2004|CD ;|;|: Freestone|Freestone|NNP et|et|FW al.|al.|FW ,|,|, 2008|2008|CD )|)|-RRB- .|.|. 
+The|the|DT gut|gut|NN environment|environment|NN is|be|VBZ arguably|arguably|RB one|one|CD of|of|IN the|the|DT primary|primary|JJ environmentally|environmentally|RB interactive|interactive|JJ organs|organ|NNS controlling|control|VBG livestock|livestock|NN health|health|NN and|and|CC well|well|RB -|-|HYPH being|be|VBG (|(|-LRB- Flint|Flint|NNP et|et|FW al.|al.|FW ,|,|, 2007|2007|CD )|)|-RRB- .|.|. 
+Factors|factor|NNS affecting|affect|VBG the|the|DT gut|gut|NN microbiome|microbiome|NN are|be|VBP of|of|IN dietary|dietary|JJ ,|,|, microbial|microbial|JJ interactive|interactive|JJ ,|,|, and|and|CC host|host|NN interactive|interactive|JJ origins|origin|NNS .|.|. 
+As|as|IN such|such|JJ ,|,|, promotion|promotion|NN of|of|IN a|a|DT heal|heal|VB -|-|HYPH thy|thy|PRP$ microbiome|microbiome|NN proﬁle|proﬁle|NN can|can|MD improve|improve|VB dietary|dietary|JJ energy|energy|NN utilization|utilization|NN ,|,|, regulation|regulation|NN of|of|IN host|host|NN gene|gene|NN expression|expression|NN ,|,|, host|host|NN cell|cell|NN differentiation|differentiation|NN ,|,|, host|host|NN immune|immune|JJ modulation|modulation|NN ,|,|, and|and|CC overall|overall|JJ maintenance|maintenance|NN of|of|IN host|host|NN well|well|RB -|-|HYPH being|be|VBG (|(|-LRB- McIntyre|McIntyre|NNP et|et|FW al.|al.|FW ,|,|, 1993|1993|CD ;|;|: Pryde|Pryde|NNP et|et|FW al.|al.|FW ,|,|, 1999|1999|CD ;|;|: Franklin|Franklin|NNP et|et|FW al.|al.|FW ,|,|, 2002|2002|CD ;|;|: Canibe|Canibe|NNP and|and|CC Jensen|Jensen|NNP ,|,|, 2003|2003|CD ;|;|: Canibe|Canibe|NNP et|et|FW al.|al.|FW ,|,|, 2005|2005|CD ;|;|: Shim|Shim|NNP et|et|FW al.|al.|FW ,|,|, 2005|2005|CD ;|;|: Loh|Loh|NNP et|et|FW al.|al.|FW ,|,|, 2006|2006|CD ;|;|: van|van|NN Nevel|Nevel|NNP et|et|FW al.|al.|FW ,|,|, 2006|2006|CD ;|;|: Callaway|Callaway|NNP et|et|FW al.|al.|FW ,|,|, 2007|2007|CD ;|;|: Dunkley|Dunkley|NNP et|et|FW al.|al.|FW ,|,|, 2007|2007|CD ;|;|: Rehman|Rehman|NNP et|et|FW al.|al.|FW ,|,|, 2007|2007|CD )|)|-RRB- .|.|. 
+As|as|IN a|a|DT single|single|JJ example|example|NN ,|,|, studies|study|NNS on|on|IN the|the|DT addition|addition|NN of|of|IN ﬁber|ﬁber|NN to|to|IN the|the|DT diet|diet|NN of|of|IN pigs|pig|NNS elucidate|elucidate|VBP the|the|DT dramatic|dramatic|JJ effects|effect|NNS that|that|WDT such|such|JJ dietary|dietary|JJ manipulations|manipulation|NNS can|can|MD induce|induce|VB in|in|IN the|the|DT gut|gut|NN microbiome|microbiome|NN (|(|-LRB- McIntyre|McIntyre|NNP et|et|FW al.|al.|FW ,|,|, 1993|1993|CD ;|;|: Durmic|Durmic|NNP et|et|FW al.|al.|FW ,|,|, 1998|1998|CD ;|;|: van|van|NN Nevel|Nevel|NNP et|et|FW al.|al.|FW ,|,|, 2006|2006|CD )|)|-RRB- .|.|. 
+It|it|PRP bears|bear|VBZ additional|additional|JJ notice|notice|NN (|(|-LRB- although|although|IN it|it|PRP is|be|VBZ well|well|RB known|known|JJ )|)|-RRB- that|that|IN the|the|DT choice|choice|NN of|of|IN PCR|pcr|NN primers|primer|NNS ,|,|, PCR|pcr|NN parameters|parameter|NNS ,|,|, DNA|dna|NN extraction|extraction|NN procedures|procedure|NNS ,|,|, and|and|CC the|the|DT relative|relative|JJ abundance|abundance|NN of|of|IN certain|certain|JJ bacterial|bacterial|JJ templates|template|NNS in|in|IN a|a|DT community|community|NN will|will|MD obviously|obviously|RB inﬂuence|inﬂuence|VB PCR|pcr|NN ampliﬁcation|ampliﬁcation|NN (|(|-LRB- Suzuki|Suzuki|NNP and|and|CC Giovannoni|Giovannoni|NNP ,|,|, 1996|1996|CD )|)|-RRB- and|and|CC subsequent|subsequent|JJ diversity|diversity|NN analysis|analysis|NN .|.|. 
+Also|also|RB adding|add|VBG further|further|JJ complexity|complexity|NN to|to|IN efforts|effort|NNS in|in|IN evaluating|evaluate|VBG results|result|NNS ,|,|, we|we|PRP also|also|RB know|know|VBP that|that|IN the|the|DT number|number|NN of|of|IN copies|copy|NNS of|of|IN the|the|DT rRNA|rrna|NN operon|operon|NN in|in|IN bacteria|bacterium|NNS vary|vary|VBP ,|,|, even|even|RB at|at|IN the|the|DT species|species|NN level|level|NN .|.|. 
+Even|even|RB considering|consider|VBG the|the|DT potential|potential|JJ biases|bias|NNS and|and|CC problems|problem|NNS ,|,|, it|it|PRP is|be|VBZ still|still|RB well|well|RB known|know|VBN that|that|IN molecular|molecular|JJ diversity|diversity|NN methods|method|NNS are|be|VBP the|the|DT most|most|RBS powerful|powerful|JJ tool|tool|NN available|available|JJ for|for|IN evaluating|evaluate|VBG the|the|DT microbiomes|microbiome|NNS of|of|IN animals|animal|NNS .|.|. 
+It|it|PRP is|be|VBZ expected|expect|VBN that|that|IN as|as|IN this|this|DT bTEFAP|btefap|NN method|method|NN becomes|become|VBZ more|more|JJR popular|popular|JJ that|that|IN statistical|statistical|JJ models|model|NNS and|and|CC procedural|procedural|JJ and|and|CC mo|mo|NN -|-|HYPH lecular|lecular|JJ improvements|improvement|NNS will|will|MD soon|soon|RB be|be|VB developed|develop|VBN to|to|TO better|better|RBR generate|generate|VB and|and|CC evaluate|evaluate|VB this|this|DT new|new|JJ form|form|NN of|of|IN microbiome|microbiome|NN data|datum|NNS (|(|-LRB- Farrelly|Farrelly|NNP et|et|FW al.|al.|FW ,|,|, 1995|1995|CD ;|;|: Suzuki|Suzuki|NNP and|and|CC Giovannoni|Giovannoni|NNP ,|,|, 1996|1996|CD ;|;|: von|von|NNP et|et|FW al.|al.|FW ,|,|, 1997|1997|CD ;|;|: Rudi|Rudi|NNP et|et|FW al.|al.|FW ,|,|, 2007|2007|CD )|)|-RRB- .|.|. 
+Our|we|PRP$ approach|approach|NN to|to|IN sequence|sequence|NN analysis|analysis|NN was|be|VBD as|as|IN strict|strict|JJ as|as|IN possible|possible|JJ ,|,|, thereby|thereby|RB greatly|greatly|RB reducing|reduce|VBG the|the|DT number|number|NN of|of|IN sequences|sequence|NNS utilized|utilize|VBN for|for|IN downstream|downstream|JJ analysis|analysis|NN .|.|. 
+Even|even|RB with|with|IN this|this|DT strict|strict|JJ approach|approach|NN ,|,|, we|we|PRP still|still|RB obtained|obtain|VBD an|a|DT average|average|NN of|of|IN over|over|IN 1000|1000|CD sequences|sequence|NNS per|per|IN sample|sample|NN .|.|. 
+Logically|logically|RB ,|,|, by|by|IN decreasing|decrease|VBG the|the|DT number|number|NN o|o|IN samples|sample|NNS in|in|IN a|a|DT given|give|VBN run|run|NN and|and|CC increasing|increase|VBG the|the|DT ratio|ratio|NN of|of|IN amplicons|amplicon|NNS from|from|IN a|a|DT given|give|VBN sample|sample|NN ,|,|, we|we|PRP can|can|MD increase|increase|VB the|the|DT depth|depth|NN of|of|IN coverage|coverage|NN .|.|. 
+In|in|IN conclusion|conclusion|NN ,|,|, we|we|PRP have|have|VBP introduced|introduce|VBN a|a|DT new|new|JJ method|method|NN for|for|IN the|the|DT identiﬁcation|identiﬁcation|NN and|and|CC characterization|characterization|NN of|of|IN bacterial|bacterial|JJ populations|population|NNS associated|associate|VBN with|with|IN the|the|DT gut|gut|NN of|of|IN livestock|livestock|NN .|.|. 
+This|this|DT method|method|NN has|have|VBZ obvious|obvious|JJ applications|application|NNS as|as|IN part|part|NN of|of|IN epidemiological|epidemiological|JJ ,|,|, pathogen|pathogen|NN detection|detection|NN ,|,|, and|and|CC microbial|microbial|JJ diversity|diversity|NN studies|study|NNS .|.|. 
+Using|use|VBG this|this|DT bacterial|bacterial|JJ tag|tag|NN --|--|: encoded|encode|VBN FLX|flx|NN amplicon|amplicon|NN pyr|pyr|NN -|-|HYPH osequencing|osequencing|NN approach|approach|NN ,|,|, we|we|PRP now|now|RB have|have|VBP a|a|DT tool|tool|NN ,|,|, which|which|WDT can|can|MD be|be|VB utilized|utilize|VBN in|in|IN a|a|DT relatively|relatively|RB cost|cost|NN -|-|HYPH effective|effective|JJ manner|manner|NN ,|,|, to|to|TO gain|gain|VB a|a|DT better|better|JJR understanding|understanding|NN of|of|IN the|the|DT microbiome|microbiome|NN variability|variability|NN and|and|CC responsiveness|responsiveness|NN of|of|IN the|the|DT gut|gut|NN community|community|NN and|and|CC how|how|WRB these|these|DT populations|population|NNS and|and|CC communities|community|NNS relate|relate|VBP to|to|IN dietary|dietary|JJ interactions|interaction|NNS ,|,|, commercial|commercial|JJ performance|performance|NN ,|,|, and|and|CC displacement|displacement|NN of|of|IN zoonotic|zoonotic|JJ pathogen|pathogen|NN infections|infection|NNS in|in|IN livestock|livestock|NN .|.|. 
+We|we|PRP have|have|VBP also|also|RB introduced|introduce|VBN methods|method|NNS ,|,|, based|base|VBN upon|upon|IN rarefaction|rarefaction|NN ,|,|, to|to|TO estimate|estimate|VB total|total|JJ diversity|diversity|NN and|and|CC richness|richness|NN in|in|IN the|the|DT gastrointestinal|gastrointestinal|JJ tract|tract|NN of|of|IN livestock|livestock|NN .|.|. 
+Future|future|JJ studies|study|NNS will|will|MD evaluate|evaluate|VB how|how|WRB much|much|JJ sequence|sequence|NN information|information|NN needs|need|VBZ to|to|TO be|be|VB obtained|obtain|VBN to|to|TO gain|gain|VB coverage|coverage|NN at|at|IN the|the|DT strain|strain|NN ,|,|, species|species|NNS ,|,|, genera|genera|NN ,|,|, and|and|CC phylum|phylum|NN levels|level|NNS .|.|. 
+The|the|DT importance|importance|NN of|of|IN bacterial|bacterial|JJ pathogen|pathogen|NN diagnostic|diagnostic|JJ and|and|CC epidemiological|epidemiological|JJ potential|potential|NN of|of|IN this|this|DT methodology|methodology|NN should|should|MD not|not|RB be|be|VB overlooked|overlook|VBN .|.|. 
+Current|current|JJ work|work|NN is|be|VBZ focusing|focus|VBG on|on|IN increasing|increase|VBG the|the|DT ability|ability|NN of|of|IN the|the|DT bTEFAP|btefap|NN system|system|NN to|to|TO provide|provide|VB reliable|reliable|JJ identiﬁcation|identiﬁcation|NN at|at|IN the|the|DT species|species|NN level|level|NN ,|,|, developing|develop|VBG quantitative|quantitative|JJ ability|ability|NN ,|,|, and|and|CC optimizing|optimize|VBG the|the|DT depth|depth|NN of|of|IN coverage|coverage|NN through|through|IN improved|improve|VBN PCR|pcr|NN and|and|CC pyrosequencing|pyrosequencing|NN procedures|procedure|NNS .|.|. 
+With|with|IN tools|tool|NNS such|such|JJ as|as|IN bTEFAP|btefap|NN ,|,|, we|we|PRP may|may|MD now|now|RB have|have|VB an|a|DT enhanced|enhance|VBN ability|ability|NN to|to|TO correlate|correlate|VB overall|overall|JJ productivity|productivity|NN with|with|IN microbiome|microbiome|NN proﬁles|proﬁles|NNS ,|,|, detect|detect|VB a|a|DT wide|wide|JJ range|range|NN of|of|IN bacterial|bacterial|JJ pathogens|pathogen|NNS using|use|VBG a|a|DT single|single|JJ assay|assay|NN ,|,|, and|and|CC evaluate|evaluate|VB effects|effect|NNS that|that|WDT management|management|NN practices|practice|NNS induce|induce|VBP on|on|IN the|the|DT microbiomes|microbiome|NNS of|of|IN livestock|livestock|NN species|species|NNS .|.|. 
+FIG.|FIG.|NNP 4|4|CD .|.|. 
+This|this|DT graph|graph|NN shows|show|VBZ richness|richness|NN and|and|CC diversity|diversity|NN estimates|estimate|NNS and|and|CC observations|observation|NNS of|of|IN the|the|DT pig|pig|NN ileum|ileum|NN .|.|. 
+The|the|DT estimates|estimate|NNS are|be|VBP based|base|VBN upon|upon|IN common|common|JJ indices|index|NNS Chao1|chao1|NN and|and|CC Ace|Ace|NNP .|.|. 
+Based|base|VBN upon|upon|IN rarefaction|rarefaction|NN curve|curve|NN ,|,|, the|the|DT estimated|estimate|VBN operational|operational|JJ taxonomic|taxonomic|JJ units|unit|NNS (|(|-LRB- OTU|otu|NN )|)|-RRB- are|be|VBP also|also|RB shown|show|VBN as|as|IN rarefaction|rarefaction|NN .|.|. 
+The|the|DT y|y|NN -|-|HYPH axis|axis|NN indicates|indicate|VBZ the|the|DT scale|scale|NN of|of|IN these|these|DT index|index|NN predictions|prediction|NNS .|.|. 
+Also|also|RB provided|provide|VBN is|be|VBZ the|the|DT actual|actual|JJ number|number|NN of|of|IN OTU|OTU|NNP observed|observe|VBN (|(|-LRB- OTUobs|otuob|NNS )|)|-RRB- at|at|IN 10,500|10,500|CD sampled|sample|VBN sequences|sequence|NNS .|.|. 
+Table|table|NN 2|2|CD .|.|. 
+Top|top|JJ Five|five|CD Genera|Genera|NNP Identiﬁed|Identiﬁed|NNP in|in|IN Each|each|DT of|of|IN the|the|DT Pigs|Pigs|NNPS Sample|Sample|NNP ID|ID|NNP #|#|NN %|%|NN Sample|Sample|NNP ID|ID|NNP %|%|NN #|#|NN Pig|pig|NN 1|1|CD Pig|pig|NN 1|1|CD Pig|pig|NN 1|1|CD Pig|pig|NN 1|1|CD Pig|pig|NN 1|1|CD Pig|pig|NN 2|2|CD Pig|Pig|NNP 2|2|CD Pig|Pig|NNP 2|2|CD Pig|Pig|NNP 2|2|CD Pig|Pig|NNP 2|2|CD Pig|Pig|NNP 3|3|CD Pig|Pig|NNP 3|3|CD Pig|Pig|NNP 3|3|CD Pig|Pig|NNP 3|3|CD Pig|Pig|NNP 3|3|CD Pig|Pig|NNP 4|4|CD Pig|Pig|NNP 4|4|CD Pig|Pig|NNP 4|4|CD Pig|Pig|NNP 4|4|CD Pig|Pig|NNP 4|4|CD Pig|Pig|NNP 5|5|CD Pig|Pig|NNP 5|5|CD Pig|Pig|NNP 5|5|CD Pig|Pig|NNP 5|5|CD Pig|Pig|NNP 5|5|CD Pig|Pig|NNP 6|6|CD Pig|Pig|NNP 6|6|CD Pig|Pig|NNP 6|6|CD Pig|Pig|NNP 6|6|CD Pig|Pig|NNP 6|6|CD Pig|Pig|NNP 7|7|CD Pig|Pig|NNP 7|7|CD Pig|Pig|NNP 7|7|CD Pig|Pig|NNP 7|7|CD Pig|Pig|NNP 7|7|CD Pig|Pig|NNP 8|8|CD Pig|Pig|NNP 8|8|CD Pig|Pig|NNP 8|8|CD Pig|Pig|NNP 8|8|CD Pig|Pig|NNP 8|8|CD Pig|Pig|NNP 9|9|CD Pig|Pig|NNP 9|9|CD Pig|Pig|NNP 9|9|CD Pig|Pig|NNP 9|9|CD Pig|Pig|NNP 9|9|CD Pig|Pig|NNP 10|10|CD Pig|Pig|NNP 10|10|CD Pig|Pig|NNP 10|10|CD Pig|Pig|NNP 10|10|CD Pig|Pig|NNP 10|10|CD Pig|Pig|NNP 11|11|CD Pig|Pig|NNP 11|11|CD Pig|Pig|NNP 11|11|CD Pig|Pig|NNP 11|11|CD Pig|Pig|NNP 11|11|CD 34.5|34.5|CD 34.3|34.3|CD 12.7|12.7|CD 8.6|8.6|CD 5.0|5.0|CD 43.3|43.3|CD 18.3|18.3|CD 10.6|10.6|CD 8.7|8.7|CD 6.7|6.7|CD 66.9|66.9|CD 17.6|17.6|CD 5.9|5.9|CD 3.8|3.8|CD 2.2|2.2|CD 85.8|85.8|CD 3.6|3.6|CD 1.8|1.8|CD 1.5|1.5|CD 1.1|1.1|CD 88.0|88.0|CD 3.2|3.2|CD 1.9|1.9|CD 1.5|1.5|CD 1.5|1.5|CD 54.6|54.6|CD 23.7|23.7|CD 12.4|12.4|CD 8.2|8.2|CD 5.2|5.2|CD 78.8|78.8|CD 5.9|5.9|CD 5.1|5.1|CD 3.2|3.2|CD 3.1|3.1|CD 54.4|54.4|CD 30.2|30.2|CD 8.7|8.7|CD 2.6|2.6|CD 1.3|1.3|CD 92.5|92.5|CD 2.2|2.2|CD 1.6|1.6|CD 1.4|1.4|CD 1.3|1.3|CD 43.2|43.2|CD 14.3|14.3|CD 9.1|9.1|CD 6.0|6.0|CD 3.6|3.6|CD 390|390|CD 388|388|CD Clostridium|Clostridium|NNP spp|spp|NN .|.|. 
+Staphylococcus|Staphylococcus|NNP spp|spp|NN .|.|. 
+Weissella|Weissella|NNP spp|spp|NN .|.|. 
+Streptococcus|Streptococcus|NNP spp|spp|NN .|.|. 
+Helicobacter|Helicobacter|NNP spp|spp|NNP .|.|. 
+Clostridium|Clostridium|NNP spp|spp|NN .|.|. 
+Helicobacter|Helicobacter|NNP spp|spp|NNP .|.|. 
+Lactobacillus|lactobacillus|NN spp|spp|NN .|.|. 
+Campylobacter|Campylobacter|NNP spp|spp|NN .|.|. 
+Salmonella|salmonella|NN spp|spp|NN .|.|. 
+Clostridium|Clostridium|NNP spp|spp|NN .|.|. 
+Clostridiaceae|Clostridiaceae|NNP spp|spp|NN .|.|. 
+Flavobacteriaceae|Flavobacteriaceae|NNP sp|sp|NNP Helicobacter|Helicobacter|NNP spp|spp|NNP .|.|. 
+Rhodobacter|Rhodobacter|NNP spp|spp|NN .|.|. 
+Clostridium|Clostridium|NNP spp|spp|NN .|.|. 
+Helicobacter|Helicobacter|NNP spp|spp|NNP .|.|. 
+Turicibacter|Turicibacter|NNP spp|spp|NN .|.|. 
+Rhizobium|Rhizobium|NNP spp|spp|NN .|.|. 
+Arthrobacter|Arthrobacter|NNP spp|spp|NN .|.|. 
+Streptococcus|Streptococcus|NNP spp|spp|NN .|.|. 
+Lactobacillus|lactobacillus|NN spp|spp|NN .|.|. 
+Clostridium|Clostridium|NNP spp|spp|NN .|.|. 
+Sarcina|Sarcina|NNP spp|spp|NN .|.|. 
+Veillonella|Veillonella|NNP spp|spp|NN .|.|. 
+Helicobacter|Helicobacter|NNP spp|spp|NNP .|.|. 
+Eubacterium|Eubacterium|NNP spp|spp|NN .|.|. 
+Roseburia|Roseburia|NNP spp|spp|NN .|.|. 
+Spirochaeta|Spirochaeta|NNP spp|spp|NN .|.|. 
+Firmicutes|Firmicutes|NNP spp|spp|NN .|.|. 
+Streptococcus|Streptococcus|NNP spp|spp|NN .|.|. 
+Veillonella|Veillonella|NNP spp|spp|NN .|.|. 
+Clostridium|Clostridium|NNP spp|spp|NN .|.|. 
+Actinobacillus|actinobacillus|NN spp|spp|NN .|.|. 
+Lactobacillus|lactobacillus|NN spp|spp|NN .|.|. 
+Clostridium|Clostridium|NNP spp|spp|NN .|.|. 
+Actinobacillus|actinobacillus|NN spp|spp|NN .|.|. 
+Streptococcus|Streptococcus|NNP spp|spp|NN .|.|. 
+Veillonella|Veillonella|NNP spp|spp|NN .|.|. 
+Staphylococcus|Staphylococcus|NNP spp|spp|NN .|.|. 
+Lactobacillus|lactobacillus|NN spp|spp|NN .|.|. 
+Streptococcus|Streptococcus|NNP spp|spp|NN .|.|. 
+Sarcina|Sarcina|NNP spp|spp|NN .|.|. 
+Veillonella|Veillonella|NNP spp|spp|NN .|.|. 
+Clostridium|Clostridium|NNP spp|spp|NN .|.|. 
+Streptococcus|Streptococcus|NNP spp|spp|NN .|.|. 
+Lactobacillus|lactobacillus|NN spp|spp|NN .|.|. 
+Clostridium|Clostridium|NNP spp|spp|NN .|.|. 
+Salmonella|salmonella|NN spp|spp|NN .|.|. 
+Turicibacter|Turicibacter|NNP spp|spp|NN .|.|. 
+Clostridium|Clostridium|NNP spp|spp|NN .|.|. 
+Actinobacillus|actinobacillus|NN spp|spp|NN .|.|. 
+Streptococcus|Streptococcus|NNP spp|spp|NN .|.|. 
+Lactobacillus|lactobacillus|NN spp|spp|NN .|.|. 
+Veillonella|Veillonella|NNP spp|spp|NN .|.|. 
+1013|1013|CD 120|120|CD 55|55|CD 39|39|CD 9|9|CD 53|53|CD 28|28|CD 16|16|CD 9|9|CD 7|7|CD 497|497|CD 391|391|CD 13|13|CD 12|12|CD 3|3|CD 33|33|CD 29|29|CD 8|8|CD 7|7|CD 6 976 219 135|6 976 219 135|NNS 10|10|CD 7|7|CD 1081|1081|CD 66|66|CD 33|33|CD 24 20 227 175|24 20 227 175|CD 158|158|CD 108 43 1412 126|108 43 1412 126|NN 98|98|CD 96|96|CD 35|35|CD 822|822|CD 87|87|CD 47|47|CD 40|40|CD 13|13|CD 1354|1354|CD 93|93|CD 48|48|CD 21 16 220 152|21 16 220 152|CD 92|92|CD 61|61|CD 30|30|CD 80.6|80.6|CD 9.5|9.5|CD 4.4|4.4|CD 3.1|3.1|CD 0.7|0.7|CD 39.6|39.6|CD 20.9|20.9|CD 11.9|11.9|CD 6.7|6.7|CD 5.2|5.2|CD 54.6|54.6|CD 42.9|42.9|CD 1.4|1.4|CD 1.3|1.3|CD 0.3|0.3|CD 32.7|32.7|CD 28.7|28.7|CD 7.9|7.9|CD 6.9|6.9|CD 5.9|5.9|CD 72.4|72.4|CD 16.2|16.2|CD 10.0|10.0|CD 0.7|0.7|CD 0.5|0.5|CD 82.5|82.5|CD 5.0|5.0|CD 2.5|2.5|CD 1.8|1.8|CD 1.5|1.5|CD 28.8|28.8|CD 22.2|22.2|CD 20.1|20.1|CD 13.7|13.7|CD 5.5|5.5|CD 75.7|75.7|CD 6.8|6.8|CD 5.3|5.3|CD 5.1|5.1|CD 1.9|1.9|CD 126.3|126.3|CD 13.4|13.4|CD 7.2|7.2|CD 6.1|6.1|CD 2.0|2.0|CD 88.0|88.0|CD 6.0|6.0|CD 3.1|3.1|CD 1.4|1.4|CD 1.0|1.0|CD 31.2|31.2|CD 21.5|21.5|CD 13.0|13.0|CD 8.6|8.6|CD 4.2|4.2|CD Pig|Pig|NNP 12|12|CD Pig|Pig|NNP 12|12|CD Pig|Pig|NNP 12|12|CD Pig|Pig|NNP 12|12|CD Pig|Pig|NNP 12|12|CD Pig|Pig|NNP 13|13|CD Pig|Pig|NNP 13|13|CD Pig|Pig|NNP 13|13|CD Pig|Pig|NNP 13|13|CD Pig|Pig|NNP 13|13|CD Pig|Pig|NNP 14|14|CD Pig|Pig|NNP 14|14|CD Pig|Pig|NNP 14|14|CD Pig|Pig|NNP 14|14|CD Pig|Pig|NNP 14|14|CD Pig|Pig|NNP 15|15|CD Pig|Pig|NNP 15|15|CD Pig|Pig|NNP 15|15|CD Pig|Pig|NNP 15|15|CD Pig|Pig|NNP 15|15|CD Pig|Pig|NNP 16|16|CD Pig|Pig|NNP 16|16|CD Pig|Pig|NNP 16|16|CD Pig|Pig|NNP 16|16|CD Pig|Pig|NNP 16|16|CD Pig|Pig|NNP 17|17|CD Pig|Pig|NNP 17|17|CD Pig|Pig|NNP 17|17|CD Pig|Pig|NNP 17|17|CD Pig|Pig|NNP 17|17|CD Pig|Pig|NNP 18|18|CD Pig|Pig|NNP 18|18|CD Pig|Pig|NNP 18|18|CD Pig|Pig|NNP 18|18|CD Pig|Pig|NNP 18|18|CD Pig|Pig|NNP 20|20|CD Pig|Pig|NNP 20|20|CD Pig|Pig|NNP 20|20|CD Pig|Pig|NNP 20|20|CD Pig|Pig|NNP 20|20|CD Pig|Pig|NNP 21|21|CD Pig|Pig|NNP 21|21|CD Pig|Pig|NNP 21|21|CD Pig|Pig|NNP 21|21|CD Pig|Pig|NNP 21|21|CD Pig|Pig|NNP 23|23|CD Pig|Pig|NNP 23|23|CD Pig|Pig|NNP 23|23|CD Pig|Pig|NNP 23|23|CD Pig|Pig|NNP 23|23|CD Clostridium|Clostridium|NNP spp|spp|NN .|.|. 
+Lactobacillus|lactobacillus|NN spp|spp|NN .|.|. 
+Veillonella|Veillonella|NNP spp|spp|NN .|.|. 
+Turicibacter|Turicibacter|NNP spp|spp|NN .|.|. 
+Enterococcus|Enterococcus|NNP spp|spp|NN .|.|. 
+Helicobacter|Helicobacter|NNP spp|spp|NNP .|.|. 
+Clostridium|Clostridium|NNP spp|spp|NN .|.|. 
+Lactobacillus|lactobacillus|NN spp|spp|NN .|.|. 
+Turicibacter|Turicibacter|NNP spp|spp|NN .|.|. 
+Streptococcus|Streptococcus|NNP spp|spp|NN .|.|. 
+Lactobacillus|lactobacillus|NN spp|spp|NN .|.|. 
+Veillonella|Veillonella|NNP spp|spp|NN .|.|. 
+Clostridium|Clostridium|NNP spp|spp|NN .|.|. 
+Actinobacillus|actinobacillus|NN spp|spp|NN .|.|. 
+Streptococcus|Streptococcus|NNP spp|spp|NN .|.|. 
+Acinetobacter|Acinetobacter|NNP spp|spp|NNP .|.|. 
+Proteobacterium|Proteobacterium|NNP spp|spp|NN .|.|. 
+Streptococcus|Streptococcus|NNP spp|spp|NN .|.|. 
+Clostridium|Clostridium|NNP spp|spp|NN .|.|. 
+Eubacterium|Eubacterium|NNP spp|spp|NN .|.|. 
+Candidatus|Candidatus|NNP spp|spp|NN .|.|. 
+Eubacterium|Eubacterium|NNP spp|spp|NN .|.|. 
+Finegoldia|Finegoldia|NNP spp|spp|NN .|.|. 
+Lactobacillus|lactobacillus|NN spp|spp|NN .|.|. 
+Acinetobacter|Acinetobacter|NNP spp|spp|NNP .|.|. 
+Helicobacter|Helicobacter|NNP spp|spp|NNP .|.|. 
+Clostridium|Clostridium|NNP spp|spp|NN .|.|. 
+Sarcina|Sarcina|NNP spp|spp|NN .|.|. 
+Lactobacillus|lactobacillus|NN spp|spp|NN .|.|. 
+Streptococcus|Streptococcus|NNP spp|spp|NN .|.|. 
+Lactobacillus|lactobacillus|NN spp|spp|NN .|.|. 
+Weissella|Weissella|NNP spp|spp|NN .|.|. 
+Actinobacillus|actinobacillus|NN spp|spp|NN .|.|. 
+Staphylococcus|Staphylococcus|NNP spp|spp|NN .|.|. 
+Clostridium|Clostridium|NNP spp|spp|NN .|.|. 
+Lactobacillus|lactobacillus|NN spp|spp|NN .|.|. 
+Clostridium|Clostridium|NNP spp|spp|NN .|.|. 
+Turicibacter|Turicibacter|NNP spp|spp|NN .|.|. 
+Streptococcus|Streptococcus|NNP spp|spp|NN .|.|. 
+Eubacterium|Eubacterium|NNP spp|spp|NN .|.|. 
+Lactobacillus|lactobacillus|NN spp|spp|NN .|.|. 
+Sarcina|Sarcina|NNP spp|spp|NN .|.|. 
+Veillonella|Veillonella|NNP spp|spp|NN .|.|. 
+Weissella|Weissella|NNP spp|spp|NN .|.|. 
+Clostridium|Clostridium|NNP spp|spp|NN .|.|. 
+Lactobacillus|lactobacillus|NN spp|spp|NN .|.|. 
+Clostridium|Clostridium|NNP spp|spp|NN .|.|. 
+Eubacterium|Eubacterium|NNP spp|spp|NN .|.|. 
+Spirochaeta|Spirochaeta|NNP spp|spp|NN .|.|. 
+Actinobacillus|actinobacillus|NN spp|spp|NN .|.|. 
+143|143|CD 97|97|CD 57|57|CD 45|45|CD 19|19|CD 11|11|CD 9|9|CD 7|7|CD 478|478|CD 126|126|CD 42|42|CD 27|27|CD 16|16|CD 1616|1616|CD 68|68|CD 33|33|CD 28|28|CD 21|21|CD 633|633|CD 23|23|CD 14|14|CD 11|11|CD 11|11|CD 53|53|CD 23|23|CD 12|12|CD 8|8|CD 5 1680 125 108|5 1680 125 108|CD 69 67 1088 605|69 67 1088 605|NN 175|175|CD 53|53|CD 27|27|CD 1692|1692|CD 40|40|CD 29|29|CD 26 23 410 136|26 23 410 136|CD 86|86|CD 57|57|CD 34|34|CD p|p|NN .|.|. 
+The|the|DT sample|sample|NN refers|refer|VBZ to|to|IN each|each|DT pig|pig|NN as|as|IN indicated|indicate|VBN in|in|IN Figure|figure|NN 1|1|CD .|.|. 
+The|the|DT ID|id|NN is|be|VBZ the|the|DT genera|genera|NN identiﬁed|identiﬁed|VBN ordered|order|VBN by|by|IN most|most|JJS abundant|abundant|JJ ,|,|, #|#|NN is|be|VBZ the|the|DT total|total|JJ number|number|NN of|of|IN sequences|sequence|NNS contributing|contribute|VBG to|to|IN the|the|DT genera|genera|NN ,|,|, and|and|CC %|%|NN is|be|VBZ the|the|DT percentage|percentage|NN of|of|IN total|total|JJ sequences|sequence|NNS from|from|IN a|a|DT given|give|VBN genera|genera|NN Table|table|NN 3|3|CD .|.|. 
+Combined|combine|VBN Microbiome|Microbiome|NNP Ileum|Ileum|NNP Diversity|Diversity|NNP of|of|IN the|the|DT Populations|population|NNS of|of|IN Weaned|wean|VBN Pigs|Pigs|NNPS from|from|IN the|the|DT Current|current|JJ Study|study|NN Genus|Genus|NNP ID|ID|NNP #seq|#seq|NNP #samples|#samples|NNPS Avg|Avg|NNP .|.|. 
+%|%|NN SD|sd|NN Clostridium|Clostridium|NNP spp|spp|NN .|.|. 
+Lactobacillus|lactobacillus|NN spp|spp|NN .|.|. 
+5191 5122 3078 1991|5191 5122 3078 1991|CD 812 438 202 598|812 438 202 598|CD 308|308|CD 847|847|CD 49|49|CD 233|233|CD 86|86|CD 260|260|CD 64|64|CD 41|41|CD 448|448|CD 64|64|CD 40|40|CD 37|37|CD 79|79|CD 29|29|CD 20|20|CD 19|19|CD 14|14|CD 687|687|CD 90|90|CD 25|25|CD 16|16|CD 11|11|CD 15|15|CD 15|15|CD 16|16|CD 19|19|CD 18|18|CD 6|6|CD 13|13|CD 8|8|CD 5|5|CD 5|5|CD 14|14|CD 4|4|CD 7|7|CD 11|11|CD 21|21|CD 13|13|CD 15|15|CD 7|7|CD 5|5|CD 3|3|CD 11|11|CD 14|14|CD 19|19|CD 8|8|CD 4|4|CD 4|4|CD 4|4|CD 3|3|CD 3|3|CD 7|7|CD 10|10|CD 7|7|CD 3|3|CD 3|3|CD 3|3|CD 3|3|CD 21|21|CD 21|21|CD 15|15|CD 13|13|CD 13|13|CD 12|12|CD 12|12|CD 11|11|CD 9|9|CD 8|8|CD 8|8|CD 6|6|CD 6|6|CD 5|5|CD 5|5|CD 5|5|CD 4|4|CD 4|4|CD 4|4|CD 4|4|CD 3|3|CD 3|3|CD 3|3|CD 3|3|CD 3|3|CD 2|2|CD 2|2|CD 2|2|CD 2|2|CD 2|2|CD 2|2|CD 2|2|CD 2|2|CD 2|2|CD 2|2|CD 2|2|CD 2|2|CD 2|2|CD 1|1|CD 1|1|CD 1|1|CD 1|1|CD 1|1|CD 1|1|CD 1|1|CD 1|1|CD 1|1|CD 1|1|CD 1|1|CD 1|1|CD 1|1|CD 1|1|CD 1|1|CD 1|1|CD 1|1|CD 1|1|CD 1|1|CD 1|1|CD 1|1|CD 1|1|CD 1|1|CD 1|1|CD 1|1|CD 1|1|CD 1|1|CD 1|1|CD 21.7|21.7|CD 20.6|20.6|CD 15.6|15.6|CD 21.9|21.9|CD 5.6|5.6|CD 3.4|3.4|CD 1.5|1.5|CD 5.7|5.7|CD 5.9|5.9|CD 15.2|15.2|CD 1.0|1.0|CD 4.7|4.7|CD 2.4|2.4|CD 7.0|7.0|CD 2.3|2.3|CD 1.1|1.1|CD 10.6|10.6|CD 4.7|4.7|CD 2.1|2.1|CD 0.6|0.6|CD 3.6|3.6|CD 2.8|2.8|CD 1.0|1.0|CD 0.9|0.9|CD 0.6|0.6|CD 44.0|44.0|CD 8.4|8.4|CD 2.6|2.6|CD 1.7|1.7|CD 1.5|1.5|CD 1.3|1.3|CD 1.3|1.3|CD 1.1|1.1|CD 1.0|1.0|CD 0.9|0.9|CD 0.5|0.5|CD 0.4|0.4|CD 0.4|0.4|CD 3.3|3.3|CD 3.3|3.3|CD 3.3|3.3|CD 2.6|2.6|CD 2.6|2.6|CD 2.4|2.4|CD 2.1|2.1|CD 1.5|1.5|CD 1.5|1.5|CD 1.2|1.2|CD 1.1|1.1|CD 1.1|1.1|CD 1.1|1.1|CD 1.0|1.0|CD 1.0|1.0|CD 1.0|1.0|CD 0.9|0.9|CD 0.9|0.9|CD 0.7|0.7|CD 0.7|0.7|CD 0.7|0.7|CD 0.7|0.7|CD 0.5|0.5|CD 0.5|0.5|CD 0.4|0.4|CD 0.4|0.4|CD 0.2|0.2|CD 0.2|0.2|CD 25.5|25.5|CD 18.9|18.9|CD 19.4|19.4|CD 29.7|29.7|CD 5.3|5.3|CD 2.4|2.4|CD 0.8|0.8|CD 4.0|4.0|CD 9.1|9.1|CD 21.8|21.8|CD 2.1|2.1|CD 5.7|5.7|CD 1.2|1.2|CD 6.5|6.5|CD 3.6|3.6|CD 0.6|0.6|CD 17.4|17.4|CD 4.6|4.6|CD 0.8|0.8|CD 0.3|0.3|CD 2.1|2.1|CD 1.8|1.8|CD 0.4|0.4|CD 0.5|0.5|CD 1.2|1.2|CD 33.7|33.7|CD 2.5|2.5|CD 1.5|1.5|CD 0.8|0.8|CD 1.4|1.4|CD 1.0|1.0|CD 1.0|1.0|CD 0.4|0.4|CD 0.3|0.3|CD 0.6|0.6|CD 0.2|0.2|CD 0.1|0.1|CD 0.6|0.6|CD 0.0|0.0|FW 0.0|0.0|FW 0.0|0.0|FW 0.0|0.0|FW 0.0|0.0|FW 0.0|0.0|FW 0.0|0.0|FW 0.0|0.0|FW 0.0|0.0|FW 0.0|0.0|FW 0.0|0.0|FW 0.0|0.0|FW 0.0|0.0|FW 0.0|0.0|FW 0.0|0.0|FW 0.0|0.0|FW 0.0|0.0|FW 0.0|0.0|FW 0.0|0.0|FW 0.0|0.0|FW 0.0|0.0|FW 0.0|0.0|FW 0.0|0.0|FW 0.0|0.0|FW 0.0|0.0|FW 0.0|0.0|FW 0.0|0.0|FW 0.0|0.0|FW Streptococcus|streptococcus|NN spp|spp|NN .|.|. 
+Helicobacter|Helicobacter|NNP spp|spp|NNP .|.|. 
+Veillonella|Veillonella|NNP spp|spp|NN .|.|. 
+Turicibacter|Turicibacter|NNP spp|spp|NN .|.|. 
+Sarcina|Sarcina|NNP spp|spp|NN .|.|. 
+Actinobacillus|actinobacillus|NN spp|spp|NN .|.|. 
+Eubacterium|Eubacterium|NNP spp|spp|NN .|.|. 
+Ruminococcus|Ruminococcus|NNP spp|spp|NN .|.|. 
+Salmonella|salmonella|NN spp|spp|NN .|.|. 
+Staphylococcus|Staphylococcus|NNP spp|spp|NN .|.|. 
+Faecalibacterium|Faecalibacterium|NNP spp|spp|NN .|.|. 
+Weissella|Weissella|NNP spp|spp|NN .|.|. 
+Firmicutes|Firmicutes|NNP spp|spp|NN .|.|. 
+Pasteurella|Pasteurella|NNP spp|spp|NN .|.|. 
+Bacillus|bacillus|NN spp|spp|NN .|.|. 
+Roseburia|Roseburia|NNP spp|spp|NN .|.|. 
+Acidaminococcus|Acidaminococcus|NNP spp|spp|NN .|.|. 
+Catenibacterium|Catenibacterium|NNP spp|spp|NN .|.|. 
+Enterococcus|Enterococcus|NNP spp|spp|NN .|.|. 
+Finegoldia|Finegoldia|NNP spp|spp|NN .|.|. 
+Lachnospira|Lachnospira|NNP spp|spp|NN .|.|. 
+Chloroplast|Chloroplast|NNP spp|spp|NN .|.|. 
+Granulicatella|Granulicatella|NNP spp|spp|NN .|.|. 
+Candidatus|Candidatus|NNP spp|spp|NN .|.|. 
+Spirochaeta|Spirochaeta|NNP spp|spp|NN .|.|. 
+Acinetobacter|Acinetobacter|NNP spp|spp|NNP .|.|. 
+Arthrobacter|Arthrobacter|NNP spp|spp|NN .|.|. 
+Biﬁdobacterium|Biﬁdobacterium|NNP spp|spp|NN .|.|. 
+Campylobacter|Campylobacter|NNP spp|spp|NN .|.|. 
+Corynebacterium|Corynebacterium|NNP spp|spp|NN .|.|. 
+Aerococcus|Aerococcus|NNP spp|spp|NN .|.|. 
+Rothia|Rothia|NNP spp|spp|NN .|.|. 
+Gemella|Gemella|NNP spp|spp|NN .|.|. 
+Dorea|Dorea|NNP spp|spp|NN .|.|. 
+Tetragenococcus|Tetragenococcus|NNP spp|spp|NN .|.|. 
+Rhodopseudomonas|Rhodopseudomonas|NNP spp|spp|NNP .|.|. 
+Rhizobium|Rhizobium|NNP spp|spp|NN .|.|. 
+Kocuria|Kocuria|NNP spp|spp|NN .|.|. 
+Chryseobacterium|Chryseobacterium|NNP spp|spp|NN .|.|. 
+Peptostreptococcus|Peptostreptococcus|NNP spp|spp|NN .|.|. 
+Parasporobacterium|Parasporobacterium|NNP spp|spp|NN .|.|. 
+Acetivibrio|Acetivibrio|NNP spp|spp|NN .|.|. 
+Succinivibrio|Succinivibrio|NNP spp|spp|NN .|.|. 
+Globicatella|Globicatella|NNP spp|spp|NN .|.|. 
+Spiroplasma|Spiroplasma|NNP spp|spp|NN .|.|. 
+Bergeyella|Bergeyella|NNP spp|spp|NN .|.|. 
+Olsenella|Olsenella|NNP spp|spp|NN .|.|. 
+Stenotrophomonas|Stenotrophomonas|NNP spp|spp|NN .|.|. 
+Anaerovibrio|Anaerovibrio|NNP spp|spp|NN .|.|. 
+Leptotrichia|Leptotrichia|NNP spp|spp|NN .|.|. 
+Haemophilus|Haemophilus|NNP spp|spp|NN .|.|. 
+Peptoniphilus|Peptoniphilus|NNP spp|spp|NN .|.|. 
+Bulleidia|Bulleidia|NNP spp|spp|NN .|.|. 
+Oscillospira|Oscillospira|NNP spp|spp|NN .|.|. 
+Rhodovulum|Rhodovulum|NNP spp|spp|NN .|.|. 
+Unknown|unknown|JJ C|c|NN Moraxella|moraxella|NN spp|spp|NN .|.|. 
+Fibrobacter|Fibrobacter|NNP spp|spp|NN .|.|. 
+Abiotrophia|Abiotrophia|NNP spp|spp|NN .|.|. 
+Natronincola|Natronincola|NNP spp|spp|NN .|.|. 
+Rhodobacter|Rhodobacter|NNP spp|spp|NN .|.|. 
+Pseudomonas|Pseudomonas|NNP spp|spp|NN .|.|. 
+Lactococcus|Lactococcus|NNP spp|spp|NN .|.|. 
+Lachnobacterium|Lachnobacterium|NNP spp|spp|NN .|.|. 
+This|this|DT table|table|NN provides|provide|VBZ a|a|DT compiled|compile|VBN list|list|NN and|and|CC relative|relative|JJ abundance|abundance|NN of|of|IN the|the|DT bacteria|bacterium|NNS detected|detect|VBN in|in|IN this|this|DT study|study|NN .|.|. 
+The|the|DT total|total|JJ #|#|NN of|of|IN sequences|sequence|NNS (|(|-LRB- #seq|#seq|NN )|)|-RRB- that|that|WDT were|be|VBD linked|link|VBN to|to|IN each|each|DT genus|genus|NN is|be|VBZ provided|provide|VBN .|.|. 
+The|the|DT number|number|NN of|of|IN individual|individual|JJ pigs|pig|NNS (|(|-LRB- #samples|#samples|NNS )|)|-RRB- in|in|IN which|which|WDT the|the|DT particular|particular|JJ genus|genus|NN was|be|VBD detected|detect|VBN is|be|VBZ provided|provide|VBN .|.|. 
+The|the|DT average|average|JJ percentage|percentage|NN of|of|IN each|each|DT genera|genera|NN among|among|IN those|those|DT pigs|pig|NNS in|in|IN which|which|WDT that|that|WDT genera|genera|NN was|be|VBD detected|detect|VBN (|(|-LRB- Avg|avg|CD %|%|NN )|)|-RRB- and|and|CC the|the|DT standard|standard|JJ deviation|deviation|NN (|(|-LRB- SD|sd|NN )|)|-RRB- of|of|IN the|the|DT average|average|JJ percentage|percentage|NN among|among|IN those|those|DT samples|sample|NNS in|in|IN which|which|WDT a|a|DT particular|particular|JJ genus|genus|NN was|be|VBD detected|detect|VBN are|be|VBP provided|provide|VBN .|.|. 
+The|the|DT list|list|NN is|be|VBZ sorted|sort|VBN based|base|VBN upon|upon|IN #|#|NN of|of|IN samples|sample|NNS and|and|CC the|the|DT average|average|JJ percentage|percentage|NN Disclaimer|disclaimer|NN Mention|mention|NN of|of|IN trade|trade|NN names|name|NNS or|or|CC commercial|commercial|JJ pro-ducts|pro-duct|NNS in|in|IN this|this|DT manuscript|manuscript|NN is|be|VBZ solely|solely|RB for|for|IN the|the|DT purpose|purpose|NN of|of|IN providing|provide|VBG speciﬁc|speciﬁc|NN information|information|NN and|and|CC does|do|VBZ not|not|RB imply|imply|VB recommendation|recommendation|NN or|or|CC endorsement|endorsement|NN by|by|IN the|the|DT U.S.|U.S.|NNP Department|Department|NNP of|of|IN Agriculture|Agriculture|NNP .|.|. 
+References|reference|NNS Acheson|Acheson|NNP ,|,|, D.W.|D.W.|NNP ,|,|, S.|S.|NNP Luccioli|Luccioli|NNP .|.|. 
+2004|2004|CD .|.|. 
+Microbial|microbial|JJ -|-|HYPH gut|gut|NN interactions|interaction|NNS in|in|IN health|health|NN and|and|CC disease|disease|NN .|.|. 
+Mucosal|mucosal|JJ immune|immune|JJ responses|response|NNS .|.|. 
+Best|best|JJS Pract|pract|NN .|.|. 
+Res|re|NNS .|.|. 
+Clin|clin|NN .|.|. 
+Gastroenterol|gastroenterol|NN .|.|. 
+18:387|18:387|CD --|--|: 404|404|CD .|.|. 
+Altschul|Altschul|NNP ,|,|, S.F.|S.F.|NNP ,|,|, W.|W.|NNP Gish|Gish|NNP ,|,|, W.|W.|NNP Miller|Miller|NNP ,|,|, et|et|FW al.|al.|FW 1990|1990|CD .|.|. 
+Basic|basic|JJ local|local|JJ alignment|alignment|NN search|search|NN tool|tool|NN .|.|. 
+J.|J.|NNP Mol|Mol|NNP .|.|. 
+Biol|Biol|NNP .|.|. 
+215:403|215:403|CD --|--|: 410|410|CD .|.|. 
+Attwood|Attwood|NNP ,|,|, G.|G.|NNP ,|,|, D.|D.|NNP Li|Li|NNP ,|,|, D.|D.|NNP Pacheco|Pacheco|NNP ,|,|, et|et|FW al.|al.|FW 2006|2006|CD .|.|. 
+Production|production|NN of|of|IN indolic|indolic|JJ compounds|compound|NNS by|by|IN rumen|ruman|NNS bacteria|bacterium|NNS isolated|isolate|VBN from|from|IN grazing|graze|VBG ruminants|ruminant|NNS .|.|. 
+J.|J.|NNP Appl|Appl|NNP .|.|. 
+Microbiol|Microbiol|NNP .|.|. 
+100:1261|100:1261|CD --|--|: 1271|1271|CD .|.|. 
+Backhed|Backhed|NNP ,|,|, F.|F.|NNP ,|,|, R.E.|R.E.|NNP Ley|Ley|NNP ,|,|, J.L.|J.L.|NNP Sonnenburg|Sonnenburg|NNP ,|,|, et|et|FW al.|al.|FW 2005|2005|CD .|.|. 
+Hostbacterial|hostbacterial|JJ mutualism|mutualism|NN in|in|IN the|the|DT human|human|JJ intestine|intestine|NN .|.|. 
+Science|Science|NNP 307:1915|307:1915|CD --|--|: 1920|1920|CD .|.|. 
+Binder|Binder|NNP ,|,|, A.|A.|NNP ,|,|, G.|G.|NNP Amtsberg|Amtsberg|NNP ,|,|, V.|V.|NNP Stock|Stock|NNP ,|,|, et|et|FW al.|al.|FW 1984|1984|CD .|.|. 
+[|[|-LRB- Occurrence|occurrence|NN of|of|IN gram|gram|NN -|-|HYPH negative|negative|JJ anaerobic|anaerobic|JJ bacteria|bacterium|NNS and|and|CC clostridia|clostridium|NNS in|in|IN fecal|fecal|JJ ﬂora|ﬂora|NN of|of|IN clinically|clinically|RB healthy|healthy|JJ swine|swine|NNS and|and|CC weaned|wean|VBD piglets|piglet|NNS with|with|IN swine|swine|NNS dysentery|dysentery|NN and|and|CC nutritional|nutritional|JJ diarrhea|diarrhea|NN ]|]|-RRB- .|.|. 
+Zentralbl|Zentralbl|NNP Veterinarmed|Veterinarmed|NNP B|B|NNP 31:401|31:401|CD --|--|: 412|412|CD (|(|-LRB- In|in|IN language|language|NN )|)|-RRB- .|.|. 
+Callaway|Callaway|NNP ,|,|, T.R.|T.R.|NNP ,|,|, T.S.|T.S.|NNP Edrington|Edrington|NNP ,|,|, R.C.|R.C.|NNP Anderson|Anderson|NNP ,|,|, et|et|FW al.|al.|FW 2007|2007|CD .|.|. 
+Gastrointestinal|gastrointestinal|JJ microbial|microbial|JJ ecology|ecology|NN and|and|CC the|the|DT safety|safety|NN of|of|IN our|we|PRP$ food|food|NN supply|supply|NN as|as|IN related|relate|VBN to|to|IN Salmonella|Salmonella|NNP .|.|. 
+J.|J.|NNP Anim|Anim|NNP .|.|. 
+Sci|sci|NN .|.|. 
+86|86|CD (|(|-LRB- 14|14|CD Suppl|suppl|NN )|)|-RRB- :|:|: E163|e163|NN --|--|: E172|e172|NN .|.|. 
+Canibe|Canibe|NNP ,|,|, N.|N.|NNP ,|,|, O.|O.|NNP Hojberg|Hojberg|NNP ,|,|, S.|S.|NNP Hojsgaard|Hojsgaard|NNP ,|,|, et|et|FW al.|al.|FW 2005|2005|CD .|.|. 
+Feed|feed|VB physical|physical|JJ form|form|NN and|and|CC formic|formic|JJ acid|acid|NN addition|addition|NN to|to|IN the|the|DT feed|feed|NN affect|affect|VB the|the|DT gastrointestinal|gastrointestinal|JJ ecology|ecology|NN and|and|CC growth|growth|NN performance|performance|NN of|of|IN growing|grow|VBG pigs|pig|NNS .|.|. 
+J.|J.|NNP Anim|Anim|NNP .|.|. 
+Sci|sci|NN .|.|. 
+83:1287|83:1287|CD --|--|: 1302|1302|CD .|.|. 
+Canibe|Canibe|NNP ,|,|, N.|N.|NNP ,|,|, B.B.|B.B.|NNP Jensen|Jensen|NNP .|.|. 
+2003|2003|CD .|.|. 
+Fermented|fermented|JJ and|and|CC nonfermented|nonfermented|JJ liquid|liquid|NN feed|feed|NN to|to|IN growing|grow|VBG pigs|pig|NNS :|:|: effect|effect|NN on|on|IN aspects|aspect|NNS of|of|IN gastrointestinal|gastrointestinal|JJ ecology|ecology|NN and|and|CC growth|growth|NN performance|performance|NN .|.|. 
+J.|J.|NNP Anim|Anim|NNP .|.|. 
+Sci|sci|NN .|.|. 
+81:2019|81:2019|CD --|--|: 2031|2031|CD .|.|. 
+Chao|Chao|NNP ,|,|, A.|A.|NNP ,|,|, J.|J.|NNP Bunge|Bunge|NNP .|.|. 
+2002|2002|CD .|.|. 
+Estimating|estimate|VBG the|the|DT number|number|NN of|of|IN species|species|NNS in|in|IN a|a|DT stochastic|stochastic|JJ abundance|abundance|NN model|model|NN .|.|. 
+Biometrics|Biometrics|NNP 58:531|58:531|CD --|--|: 539|539|CD .|.|. 
+Choi|Choi|NNP ,|,|, J.H.|J.H.|NNP ,|,|, S.H.|S.H.|NNP Lee|Lee|NNP ,|,|, K.|K.|NNP Fukushi|Fukushi|NNP ,|,|, et|et|FW al.|al.|FW 2007|2007|CD .|.|. 
+Comparison|comparison|NN of|of|IN sludge|sludge|NN characteristics|characteristic|NNS and|and|CC PCR|pcr|NN -|-|HYPH DGGE|dgge|NN based|base|VBN microbial|microbial|JJ diversity|diversity|NN of|of|IN nanoﬁltration|nanoﬁltration|NN and|and|CC microﬁltration|microﬁltration|NN membrane|membrane|NN bioreactors|bioreactor|NNS .|.|. 
+Chemosphere|Chemosphere|NNP 67:1543|67:1543|CD --|--|: 1550|1550|CD .|.|. 
+Crawshaw|Crawshaw|NNP ,|,|, T.R.|T.R.|NNP ,|,|, H.E.|H.E.|NNP Fuller|Fuller|NNP .|.|. 
+1994|1994|CD .|.|. 
+Flexispira|Flexispira|NNP rappini|rappini|NNP suspected|suspect|VBN in|in|IN ovine|ovine|JJ abortion|abortion|NN .|.|. 
+Vet|vet|NN .|.|. 
+Rec|rec|NN .|.|. 
+134:507|134:507|CD .|.|. 
+Dahllof|Dahllof|NNP ,|,|, I.|I.|NNP 2002|2002|CD .|.|. 
+Molecular|molecular|JJ community|community|NN analysis|analysis|NN of|of|IN microbial|microbial|JJ diversity|diversity|NN .|.|. 
+Curr|Curr|NNP .|.|. 
+Opin|Opin|NNP .|.|. 
+Biotechnol|Biotechnol|NNP .|.|. 
+13:213|13:213|CD --|--|: 217|217|CD .|.|. 
+Dowd|Dowd|NNP ,|,|, S.E.|S.E.|NNP ,|,|, T.R.|T.R.|NNP Callaway|Callaway|NNP ,|,|, J.|J.|NNP Morrow|Morrow|NNP -|-|HYPH Tesch|Tesch|NNP .|.|. 
+2007|2007|CD .|.|. 
+Hand|Hand|NNP -|-|HYPH ling|ling|NNP may|may|MD cause|cause|VB increased|increase|VBN shedding|shed|VBG of|of|IN Escherichia|Escherichia|NNP coli|coli|NNP and|and|CC total|total|JJ coliforms|coliform|NNS in|in|IN pigs|pig|NNS .|.|. 
+Foodborne|Foodborne|NNP Pathog|Pathog|NNP .|.|. 
+Dis|Dis|NNP .|.|. 
+4:99|4:99|CD --|--|: 102|102|CD .|.|. 
+Dowd|Dowd|NNP ,|,|, S.E.|S.E.|NNP ,|,|, Y.|Y.|NNP Sun|Sun|NNP ,|,|, P.R.|p.r.|NN Secor|Secor|NNP ,|,|, et|et|FW al.|al.|FW 2008|2008|CD .|.|. 
+Survey|Survey|NNP of|of|IN bacterial|bacterial|JJ diversity|diversity|NN in|in|IN chronic|chronic|JJ wounds|wound|NNS using|use|VBG Pyrosequen|pyrosequen|NN -|-|HYPH cing|cing|NN ,|,|, DGGE|dgge|NN ,|,|, and|and|CC full|full|JJ ribosome|ribosome|NN shotgun|shotgun|NN sequencing|sequencing|NN .|.|. 
+BMC|bmc|NN Microbiol|microbiol|NN .|.|. 
+8:43|8:43|CD .|.|. 
+Dowd|Dowd|NNP ,|,|, S.E.|S.E.|NNP ,|,|, J.|J.|NNP Zaragoza|Zaragoza|NNP ,|,|, J.R.|J.R.|NNP Rodriguez|Rodriguez|NNP ,|,|, et|et|FW al.|al.|FW 2005|2005|CD .|.|. 
+Windows|Windows|NNP .|.|. 
+NET|net|NN Network|network|NN Distributed|distribute|VBN Basic|Basic|NNP Local|Local|NNP Alignment|Alignment|NNP Search|Search|NNP Toolkit|Toolkit|NNP (|(|-LRB- W.ND|W.ND|NNP -|-|HYPH BLAST|BLAST|NNP )|)|-RRB- .|.|. 
+BMC|bmc|NN Bioinformatics|Bioinformatics|NNP 6:93|6:93|CD .|.|. 
+Drasar|Drasar|NNP ,|,|, B.S.|B.S.|NNP ,|,|, P.A.|P.A.|NNP Barrow|Barrow|NNP .|.|. 
+1985|1985|CD .|.|. 
+Intestinal|intestinal|JJ Microbiology|Microbiology|NNP .|.|. 
+Van|Van|NNP Nostrand|Nostrand|NNP Reinhold|Reinhold|NNP ,|,|, Wokingham|Wokingham|NNP ,|,|, UK|UK|NNP .|.|. 
+Dunkley|Dunkley|NNP ,|,|, K.D.|K.D.|NNP ,|,|, C.S.|C.S.|NNP Dunkley|Dunkley|NNP ,|,|, N.L.|N.L.|NNP Njongmeta|Njongmeta|NNP ,|,|, et|et|FW al.|al.|FW 2007|2007|CD .|.|. 
+Comparison|comparison|NN of|of|IN in|in|FW vitro|vitro|FW fermentation|fermentation|NN and|and|CC molecular|molecular|JJ microbial|microbial|JJ proﬁles|proﬁles|NNS of|of|IN high|high|JJ -|-|HYPH ﬁber|ﬁber|NN feed|feed|NN substrates|substrate|NNS incubated|incubate|VBN with|with|IN chicken|chicken|NN cecal|cecal|JJ inocula|inocula|NN .|.|. 
+Poult|Poult|NNP .|.|. 
+Sci|sci|NN .|.|. 
+86:801|86:801|CD --|--|: 810|810|CD .|.|. 
+Durmic|Durmic|NNP ,|,|, Z.|Z.|NNP ,|,|, D.W.|D.W.|NNP Pethick|Pethick|NNP ,|,|, J.R.|J.R.|NNP Pluske|Pluske|NNP ,|,|, et|et|FW al.|al.|FW 1998|1998|CD .|.|. 
+Changes|change|NNS in|in|IN bacterial|bacterial|JJ populations|population|NNS in|in|IN the|the|DT colon|colon|NN of|of|IN pigs|pig|NNS fed|feed|VBN different|different|JJ sources|source|NNS of|of|IN dietary|dietary|JJ ﬁbre|ﬁbre|NN ,|,|, and|and|CC the|the|DT development|development|NN of|of|IN swine|swine|NNS dysentery|dysentery|NN after|after|IN experimental|experimental|JJ infection|infection|NN .|.|. 
+J.|J.|NNP Appl|Appl|NNP .|.|. 
+Microbiol|Microbiol|NNP .|.|. 
+85:574|85:574|CD --|--|: 582|582|CD .|.|. 
+Eckburg|Eckburg|NNP ,|,|, P.B.|P.B.|NNP ,|,|, E.M.|E.M.|NNP Bik|Bik|NNP ,|,|, C.N.|C.N.|NNP Bernstein|Bernstein|NNP ,|,|, et|et|FW al.|al.|FW 2005|2005|CD .|.|. 
+Diversity|diversity|NN of|of|IN the|the|DT human|human|JJ intestinal|intestinal|JJ microbial|microbial|JJ ﬂora|ﬂora|NNS .|.|. 
+Science|Science|NNP 308:1635|308:1635|CD --|--|: 1638|1638|CD Edgar|Edgar|NNP ,|,|, R.C.|R.C.|NNP 2004|2004|CD .|.|. 
+MUSCLE|muscle|NN :|:|: a|a|DT multiple|multiple|JJ sequence|sequence|NN alignment|alignment|NN method|method|NN with|with|IN reduced|reduce|VBN time|time|NN and|and|CC space|space|NN complexity|complexity|NN .|.|. 
+BMC|bmc|NN Bioinformatics|Bioinformatics|NNP 5:113|5:113|CD .|.|. 
+Farrelly|Farrelly|NNP ,|,|, V.|V.|NNP ,|,|, F.A.|F.A.|NNP Rainey|Rainey|NNP ,|,|, E.|E.|NNP Stackebrandt|Stackebrandt|NNP .|.|. 
+1995|1995|CD .|.|. 
+Effect|effect|NN of|of|IN genome|genome|NN size|size|NN and|and|CC rrn|rrn|NN gene|gene|NN copy|copy|NN number|number|NN on|on|IN PCR|pcr|NN ampli|ampli|NN -|-|HYPH ﬁcation|ﬁcation|NN of|of|IN 16S|16s|NN rRNA|rrna|NN genes|gene|NNS from|from|IN a|a|DT mixture|mixture|NN of|of|IN bacterial|bacterial|JJ species|species|NNS .|.|. 
+Appl|Appl|NNP .|.|. 
+Environ|Environ|NNP .|.|. 
+Microbiol|Microbiol|NNP .|.|. 
+61:2798|61:2798|CD --|--|: 2801|2801|CD .|.|. 
+Felsenstein|Felsenstein|NNP ,|,|, J.|J.|NNP 1997|1997|CD .|.|. 
+An|a|DT alternating|alternate|VBG least|least|JJS squares|square|NNS approach|approach|VBP to|to|IN inferring|infer|VBG phylogenies|phylogeny|NNS from|from|IN pairwise|pairwise|JJ distances|distance|NNS .|.|. 
+Syst|Syst|NNP .|.|. 
+Biol|Biol|NNP .|.|. 
+46:101|46:101|CD --|--|: 111|111|CD .|.|. 
+Flint|Flint|NNP ,|,|, H.J.|H.J.|NNP 2004|2004|CD .|.|. 
+Polysaccharide|polysaccharide|NN breakdown|breakdown|NN by|by|IN anaerobic|anaerobic|JJ microorganisms|microorganism|NNS inhabiting|inhabit|VBG the|the|DT mammalian|mammalian|JJ gut|gut|NN .|.|. 
+Adv.|Adv.|NNP Appl|Appl|NNP .|.|. 
+Microbiol|Microbiol|NNP .|.|. 
+56:89|56:89|CD --|--|: 120|120|CD .|.|. 
+Flint|Flint|NNP ,|,|, H.J.|H.J.|NNP ,|,|, S.H.|S.H.|NNP Duncan|Duncan|NNP ,|,|, K.P.|K.P.|NNP Scott|Scott|NNP ,|,|, et|et|FW al.|al.|FW 2007|2007|CD .|.|. 
+Interactions|interaction|NNS and|and|CC competition|competition|NN within|within|IN the|the|DT microbial|microbial|JJ community|community|NN of|of|IN the|the|DT human|human|JJ colon|colon|NN :|:|: links|link|NNS between|between|IN diet|diet|NN and|and|CC health|health|NN .|.|. 
+Environ|Environ|NNP .|.|. 
+Microbiol|Microbiol|NNP .|.|. 
+9:1101|9:1101|CD --|--|: 1111|1111|CD .|.|. 
+Franklin|Franklin|NNP ,|,|, M.A.|M.A.|NNP ,|,|, A.G.|A.G.|NNP Mathew|Mathew|NNP ,|,|, J.R.|J.R.|NNP Vickers|Vickers|NNP ,|,|, et|et|FW al.|al.|FW 2002|2002|CD .|.|. 
+Characterization|characterization|NN of|of|IN microbial|microbial|JJ populations|population|NNS and|and|CC volatile|volatile|JJ fatty|fatty|JJ acid|acid|NN concentrations|concentration|NNS in|in|IN the|the|DT jejunum|jejunum|NN ,|,|, ileum|ileum|NN ,|,|, and|and|CC cecum|cecum|NN of|of|IN pigs|pig|NNS weaned|wean|VBN at|at|IN 17|17|CD vs|vs|IN 24|24|CD days|day|NNS of|of|IN age|age|NN .|.|. 
+J.|J.|NNP Anim|Anim|NNP Sci|Sci|NNP .|.|. 
+80:2904|80:2904|CD --|--|: 2910|2910|CD .|.|. 
+Freestone|Freestone|NNP ,|,|, P.P.|P.P.|NNP ,|,|, S.M.|S.M.|NNP Sandrini|Sandrini|NNP ,|,|, R.D.|R.D.|NNP Haigh|Haigh|NNP ,|,|, et|et|FW al.|al.|FW 2008|2008|CD .|.|. 
+Microbial|microbial|JJ endocrinology|endocrinology|NN :|:|: how|how|WRB stress|stress|NN inﬂuences|inﬂuences|VBZ suscept|suscept|JJ -|-|HYPH ibility|ibility|NN to|to|IN infection|infection|NN .|.|. 
+Trends|Trends|NNP Microbiol|Microbiol|NNP .|.|. 
+16:55|16:55|CD --|--|: 64|64|CD .|.|. 
+Garcia|Garcia|NNP -|-|HYPH Albiach|Albiach|NNP ,|,|, R.|R.|NNP ,|,|, M.|M.|NNP Jose|Jose|NNP ,|,|, F.P.|F.P.|NNP de|de|NNP ,|,|, et|et|FW al.|al.|FW 2008|2008|CD .|.|. 
+Molecular|molecular|JJ analysis|analysis|NN of|of|IN yogurt|yogurt|NN containing|contain|VBG Lactobacillus|lactobacillus|NN delbrueckii|delbrueckii|NN subsp|subsp|NN .|.|. 
+bulgaricus|bulgaricus|NN and|and|CC Streptococcus|streptococcus|NN thermophilus|thermophilus|NN in|in|IN human|human|JJ intestinal|intestinal|JJ microbiota|microbiota|NN .|.|. 
+Am|be|VBP .|.|. 
+J.|J.|NNP Clin|Clin|NNP .|.|. 
+Nutr|Nutr|NNP .|.|. 
+87:91|87:91|CD --|--|: 96|96|CD .|.|. 
+Genovese|Genovese|NNP ,|,|, K.J.|K.J.|NNP ,|,|, R.C.|R.C.|NNP Anderson|Anderson|NNP ,|,|, R.B.|R.B.|NNP Harvey|Harvey|NNP ,|,|, et|et|FW al.|al.|FW 2003|2003|CD .|.|. 
+Competitive|competitive|JJ exclusion|exclusion|NN of|of|IN Salmonella|Salmonella|NNP from|from|IN the|the|DT gut|gut|NN of|of|IN neonatal|neonatal|JJ and|and|CC weaned|wean|VBD pigs|pig|NNS .|.|. 
+J.|J.|NNP Food|Food|NNP Prot|Prot|NNP .|.|. 
+66:1353|66:1353|CD --|--|: 1359|1359|CD .|.|. 
+Gibson|Gibson|NNP ,|,|, G.R.|G.R.|NNP ,|,|, X.|X.|NNP Wang|Wang|NNP .|.|. 
+1994|1994|CD .|.|. 
+Regulatory|Regulatory|NNP effects|effect|NNS of|of|IN biﬁdo|biﬁdo|NN -|-|HYPH bacteria|bacterium|NNS on|on|IN the|the|DT growth|growth|NN of|of|IN other|other|JJ colonic|colonic|JJ bacteria|bacterium|NNS .|.|. 
+J.|J.|NNP Appl|Appl|NNP .|.|. 
+Bacteriol|Bacteriol|NNP .|.|. 
+77:412|77:412|CD --|--|: 420|420|CD .|.|. 
+Grizard|Grizard|NNP D.|D.|NNP ,|,|, C.|C.|NNP Barthomeuf|Barthomeuf|NNP .|.|. 
+1999|1999|CD .|.|. 
+Non-digestible|non-digestible|JJ oligo|oligo|NN -|-|HYPH saccharides|saccharide|NNS used|use|VBN as|as|IN prebiotic|prebiotic|JJ agents|agent|NNS :|:|: mode|mode|NN of|of|IN production|production|NN and|and|CC beneﬁcial|beneﬁcial|JJ effects|effect|NNS on|on|IN animal|animal|NN and|and|CC human|human|JJ health|health|NN .|.|. 
+Reprod|Reprod|NNP .|.|. 
+Nutr|Nutr|NNP .|.|. 
+Dev|dev|NN .|.|. 
+39:563|39:563|CD --|--|: 588|588|CD .|.|. 
+Hogberg|Hogberg|NNP ,|,|, A.|A.|NNP ,|,|, J.E.|J.E.|NNP Lindberg|Lindberg|NNP ,|,|, T.|T.|NNP Leser|Leser|NNP ,|,|, et|et|FW al.|al.|FW 2004|2004|CD .|.|. 
+Inﬂuence|inﬂuence|NN of|of|IN cereal|cereal|NN non-starch|non-starch|JJ polysaccharides|polysaccharide|NNS on|on|IN ileo|ileo|NN -|-|HYPH caecal|caecal|NN and|and|CC rectal|rectal|JJ microbial|microbial|JJ populations|population|NNS in|in|IN growing|grow|VBG pigs|pig|NNS .|.|. 
+Acta|Acta|NNP Vet|vet|NN .|.|. 
+Scand|scand|NN .|.|. 
+45:87|45:87|CD --|--|: 98|98|CD .|.|. 
+Holdeman|Holdeman|NNP ,|,|, L.V.|L.V.|NNP ,|,|, I.J.|I.J.|NNP Good|Good|NNP ,|,|, W.E.|W.E.|NNP Moore|Moore|NNP .|.|. 
+1976|1976|CD .|.|. 
+Human|human|JJ fecal|fecal|JJ ﬂora|ﬂora|NN :|:|: variation|variation|NN in|in|IN bacterial|bacterial|JJ composition|composition|NN within|within|IN individuals|individual|NNS and|and|CC a|a|DT possible|possible|JJ effect|effect|NN of|of|IN emotional|emotional|JJ stress|stress|NN .|.|. 
+Appl|Appl|NNP .|.|. 
+Environ|Environ|NNP .|.|. 
+Microbiol|Microbiol|NNP .|.|. 
+31:359|31:359|CD --|--|: 375|375|CD .|.|. 
+Hori|Hori|NNP ,|,|, M.|M.|NNP ,|,|, H.|H.|NNP Fukano|Fukano|NNP ,|,|, Y.|Y.|NNP Suzuki|Suzuki|NNP .|.|. 
+2007|2007|CD .|.|. 
+Uniform|uniform|NN ampliﬁcation|ampliﬁcation|NN of|of|IN multiple|multiple|JJ DNAs|dna|NNS by|by|IN emulsion|emulsion|NN PCR|pcr|NN .|.|. 
+Biochem|Biochem|NNP .|.|. 
+Biophys|Biophys|NNP .|.|. 
+Res|re|NNS .|.|. 
+Commun|Commun|NNP .|.|. 
+352:323|352:323|CD --|--|: 328|328|CD .|.|. 
+Houston|Houston|NNP ,|,|, S.|S.|NNP ,|,|, D.|D.|NNP Taylor|Taylor|NNP ,|,|, R.|R.|NNP Rennie|Rennie|NNP .|.|. 
+1997|1997|CD .|.|. 
+Prosthetic|prosthetic|JJ valve|valve|NN endocarditis|endocarditis|NN due|due|IN to|to|IN Veillonella|Veillonella|NNP dispar|dispar|NN :|:|: successful|successful|JJ medical|medical|JJ treatment|treatment|NN following|follow|VBG penicillin|penicillin|NN desensitization|desensitization|NN .|.|. 
+Clin|clin|NN .|.|. 
+Infect|infect|VB .|.|. 
+Dis|Dis|NNP .|.|. 
+24:1013|24:1013|CD --|--|: 1014|1014|CD .|.|. 
+Huang|Huang|NNP ,|,|, X.|X.|NNP ,|,|, A.|A.|NNP Madan|Madan|NNP .|.|. 
+1999|1999|CD .|.|. 
+CAP3|cap3|NN :|:|: a|a|DT DNA|dna|NN sequence|sequence|NN assembly|assembly|NN program|program|NN .|.|. 
+Genome|genome|NN Res|re|NNS .|.|. 
+9:868|9:868|CD --|--|: 877|877|CD .|.|. 
+Huntgate|Huntgate|NNP ,|,|, R.E.|R.E.|NNP 1966|1966|CD .|.|. 
+The|the|DT rumen|ruman|NNS and|and|CC its|its|PRP$ microbes|microbe|NNS .|.|. 
+New|New|NNP York|York|NNP :|:|: Academic|Academic|NNP Press|Press|NNP .|.|. 
+Iten|Iten|NNP ,|,|, A.|A.|NNP ,|,|, S.|S.|NNP Graf|Graf|NNP ,|,|, M.|M.|NNP Egger|Egger|NNP ,|,|, et|et|FW al.|al.|FW 2001|2001|CD .|.|. 
+Helicobacter|Helicobacter|NNP sp|sp|NNP .|.|. 
+ﬂexispira|ﬂexispira|NN bacteremia|bacteremia|NN in|in|IN an|a|DT immunocompetent|immunocompetent|JJ young|young|JJ adult|adult|NN .|.|. 
+J.|J.|NNP Clin|Clin|NNP .|.|. 
+Microbiol|Microbiol|NNP .|.|. 
+39:1716|39:1716|CD --|--|: 1720|1720|CD .|.|. 
+Jasmin|Jasmin|NNP ,|,|, A.M.|A.M.|NNP 1967|1967|CD .|.|. 
+Isolation|isolation|NN and|and|CC identiﬁcation|identiﬁcation|NN of|of|IN the|the|DT spore|spore|NN forming|form|VBG anaerobes|anaerobe|NNS commonly|commonly|RB encountered|encounter|VBN in|in|IN domestic|domestic|JJ animals|animal|NNS .|.|. 
+Cornell|Cornell|NNP Vet|vet|NN .|.|. 
+57:364|57:364|CD --|--|: 382|382|CD .|.|. 
+Kanauchi|Kanauchi|NNP ,|,|, O.|O.|NNP ,|,|, Y.|Y.|NNP Matsumoto|Matsumoto|NNP ,|,|, M.|M.|NNP Matsumura|Matsumura|NNP ,|,|, et|et|FW al.|al.|FW 2005|2005|CD .|.|. 
+The|the|DT beneﬁcial|beneﬁcial|JJ effects|effect|NNS of|of|IN microﬂora|microﬂora|NN ,|,|, especially|especially|RB obligate|obligate|JJ anaerobes|anaerobe|NNS ,|,|, and|and|CC their|they|PRP$ products|product|NNS on|on|IN the|the|DT colonic|colonic|JJ environment|environment|NN in|in|IN inﬂammatory|inﬂammatory|JJ bowel|bowel|NN disease|disease|NN .|.|. 
+Curr|Curr|NNP .|.|. 
+Pharm|Pharm|NNP .|.|. 
+Des|Des|NNP .|.|. 
+11:1047|11:1047|CD --|--|: 1053|1053|CD .|.|. 
+Karlsson|Karlsson|NNP ,|,|, H.|H.|NNP ,|,|, C.|C.|NNP Hessle|Hessle|NNP ,|,|, A.|A.|NNP Rudin|Rudin|NNP .|.|. 
+2002|2002|CD .|.|. 
+Innate|innate|JJ immune|immune|JJ responses|response|NNS of|of|IN human|human|JJ neonatal|neonatal|JJ cells|cell|NNS to|to|TO bacteria|bacterium|NNS from|from|IN the|the|DT normal|normal|JJ gastrointestinal|gastrointestinal|JJ ﬂora|ﬂora|NN .|.|. 
+Infect|infect|VB .|.|. 
+Immun|Immun|NNP .|.|. 
+70:6688|70:6688|CD --|--|: 6696|6696|CD .|.|. 
+Ley|Ley|NNP ,|,|, R.E.|R.E.|NNP ,|,|, D.A.|D.A.|NNP Peterson|Peterson|NNP ,|,|, J.I.|J.I.|NNP Gordon|Gordon|NNP .|.|. 
+2006a|2006a|CD .|.|. 
+Ecological|ecological|JJ and|and|CC evolutionary|evolutionary|JJ forces|force|NNS shaping|shape|VBG microbial|microbial|JJ diversity|diversity|NN in|in|IN the|the|DT human|human|JJ intestine|intestine|NN .|.|. 
+Cell|cell|NN 124:837|124:837|CD --|--|: 848|848|CD .|.|. 
+Ley|Ley|NNP ,|,|, R.E.|R.E.|NNP ,|,|, P.J.|P.J.|NNP Turnbaugh|Turnbaugh|NNP ,|,|, S.|S.|NNP Klein|Klein|NNP ,|,|, et|et|FW al.|al.|FW 2006b|2006b|FW .|.|. 
+Microbial|microbial|JJ ecology|ecology|NN :|:|: human|human|JJ gut|gut|NN microbes|microbe|NNS associated|associate|VBN with|with|IN obesity|obesity|NN .|.|. 
+Nature|Nature|NNP 444:1022|444:1022|CD --|--|: 1023|1023|CD .|.|. 
+Lick|lick|NN ,|,|, S.|S.|NNP ,|,|, K.|K.|NNP Drescher|Drescher|NNP ,|,|, K.J.|K.J.|NNP Heller|Heller|NNP .|.|. 
+2001|2001|CD .|.|. 
+Survival|survival|NN of|of|IN Lactobacillus|lactobacillus|NN delbrueckii|delbrueckii|NN subsp|subsp|NN .|.|. 
+bulgaricus|bulgaricus|NN and|and|CC Streptococcus|streptococcus|NN thermophilus|thermophilus|NN in|in|IN the|the|DT terminal|terminal|JJ ileum|ileum|NN of|of|IN ﬁstulated|ﬁstulated|VBN Gottingen|Gottingen|NNP minipigs|minipig|NNS .|.|. 
+Appl|Appl|NNP .|.|. 
+Environ|Environ|NNP .|.|. 
+Microbiol|Microbiol|NNP .|.|. 
+67:4137|67:4137|CD --|--|: 4143|4143|CD .|.|. 
+Loh|Loh|NNP ,|,|, G.|G.|NNP ,|,|, M.|M.|NNP Eberhard|Eberhard|NNP ,|,|, R.M.|R.M.|NNP Brunner|Brunner|NNP ,|,|, et|et|FW al.|al.|FW 2006|2006|CD .|.|. 
+Inulin|inulin|NN alters|alter|VBZ the|the|DT intestinal|intestinal|JJ microbiota|microbiota|NN and|and|CC short|short|JJ -|-|HYPH chain|chain|NN fatty|fatty|JJ acid|acid|NN concentrations|concentration|NNS in|in|IN growing|grow|VBG pigs|pig|NNS regardless|regardless|RB of|of|IN their|they|PRP$ basal|basal|JJ diet|diet|NN .|.|. 
+J.|J.|NNP Nutr|Nutr|NNP .|.|. 
+136:1198|136:1198|CD --|--|: 1202|1202|CD .|.|. 
+Lumsden|Lumsden|NNP ,|,|, J.S.|J.S.|NNP ,|,|, B.N.|B.N.|NNP Wilkie|Wilkie|NNP .|.|. 
+1992|1992|CD .|.|. 
+Immune|Immune|NNP response|response|NN of|of|IN pigs|pig|NNS to|to|IN parenteral|parenteral|JJ vaccination|vaccination|NN with|with|IN an|a|DT aromatic|aromatic|JJ -|-|HYPH dependent|dependent|JJ mutant|mutant|NN of|of|IN Salmonella|Salmonella|NNP typhimurium|typhimurium|NN .|.|. 
+Can|can|MD .|.|. 
+J.|J.|NNP Vet|vet|NN .|.|. 
+Res|re|NNS .|.|. 
+56:296|56:296|CD --|--|: 302|302|CD .|.|. 
+Lun|Lun|NNP ,|,|, Z.R.|Z.R.|NNP ,|,|, Q.P.|Q.P.|NNP Wang|Wang|NNP ,|,|, X.G.|X.G.|NNP Chen|Chen|NNP ,|,|, et|et|FW al.|al.|FW 2007|2007|CD .|.|. 
+Streptococcus|Streptococcus|NNP suis|sui|VBZ :|:|: an|a|DT emerging|emerge|VBG zoonotic|zoonotic|JJ pathogen|pathogen|NN .|.|. 
+Lancet|Lancet|NNP Infect|Infect|NNP .|.|. 
+Dis|Dis|NNP .|.|. 
+7:201|7:201|CD --|--|: 209|209|CD .|.|. 
+Lyte|Lyte|NNP ,|,|, M.|M.|NNP ,|,|, S.|S.|NNP Ernst|Ernst|NNP .|.|. 
+1992|1992|CD .|.|. 
+Catecholamine|catecholamine|NN induced|induce|VBN growth|growth|NN of|of|IN gram|gram|NN negative|negative|JJ bacteria|bacterium|NNS .|.|. 
+Life|Life|NNP Sci|Sci|NNP .|.|. 
+50:203|50:203|CD --|--|: 212|212|CD .|.|. 
+Maidak|Maidak|NNP ,|,|, B.L.|B.L.|NNP ,|,|, J.R.|J.R.|NNP Cole|Cole|NNP ,|,|, T.G.|T.G.|NNP Lilburn|Lilburn|NNP ,|,|, et|et|FW al.|al.|FW 2001|2001|CD .|.|. 
+The|the|DT RDP|RDP|NNP -|-|HYPH II|II|NNP (|(|-LRB- Ribosomal|Ribosomal|NNP Database|Database|NNP Project|Project|NNP )|)|-RRB- .|.|. 
+Nucleic|nucleic|JJ Acids|acid|NNS Res|re|NNS .|.|. 
+29|29|CD :|:|: 173|173|CD --|--|: 174|174|CD .|.|. 
+Malinen|Malinen|NNP ,|,|, E.|E.|NNP ,|,|, T.|T.|NNP Rinttila|Rinttila|NNP ,|,|, K.|K.|NNP Kajander|Kajander|NNP ,|,|, et|et|FW al.|al.|FW 2005|2005|CD .|.|. 
+Analysis|analysis|NN of|of|IN the|the|DT fecal|fecal|JJ microbiota|microbiota|NN of|of|IN irritable|irritable|JJ bowel|bowel|NN syndrome|syndrome|NN patients|patient|NNS and|and|CC healthy|healthy|JJ controls|control|NNS with|with|IN real|real|JJ -|-|HYPH time|time|NN PCR|pcr|NN .|.|. 
+Am|be|VBP .|.|. 
+J.|J.|NNP Gastroenterol|Gastroenterol|NNP .|.|. 
+100:373|100:373|CD --|--|: 382|382|CD .|.|. 
+McIntyre|McIntyre|NNP ,|,|, A.|A.|NNP ,|,|, P.R.|p.r.|NN Gibson|Gibson|NNP ,|,|, G.P.|G.P.|NNP Young|Young|NNP .|.|. 
+1993|1993|CD .|.|. 
+Buty|buty|NN -|-|HYPH rate|rate|NN production|production|NN from|from|IN dietary|dietary|JJ ﬁbre|ﬁbre|NN and|and|CC protection|protection|NN against|against|IN large|large|JJ bowel|bowel|NN cancer|cancer|NN in|in|IN a|a|DT rat|rat|NN model|model|NN .|.|. 
+Gut|gut|NN 34:386|34:386|CD --|--|: 391|391|CD .|.|. 
+Moore|Moore|NNP ,|,|, W.E.|W.E.|NNP ,|,|, L.V.|L.V.|NNP Holdeman|Holdeman|NNP .|.|. 
+1974|1974|CD .|.|. 
+Special|special|JJ problems|problem|NNS associated|associate|VBN with|with|IN the|the|DT isolation|isolation|NN and|and|CC identiﬁcation|identiﬁcation|NN of|of|IN intestinal|intestinal|JJ bacteria|bacterium|NNS in|in|IN fecal|fecal|JJ ﬂora|ﬂora|NN studies|study|NNS .|.|. 
+Am|be|VBP .|.|. 
+J.|J.|NNP Clin|Clin|NNP .|.|. 
+Nutr|Nutr|NNP .|.|. 
+27:1450|27:1450|CD --|--|: 1455|1455|CD .|.|. 
+Moore|Moore|NNP ,|,|, W.E.|W.E.|NNP ,|,|, L.V.|L.V.|NNP Moore|Moore|NNP ,|,|, E.P.|E.P.|NNP Cato|Cato|NNP ,|,|, et|et|FW al.|al.|FW 1987|1987|CD .|.|. 
+Effect|effect|NN of|of|IN high|high|JJ -|-|HYPH ﬁber|ﬁber|NN and|and|CC high|high|JJ -|-|HYPH oil|oil|NN diets|diet|NNS on|on|IN the|the|DT fecal|fecal|JJ ﬂora|ﬂora|NN of|of|IN swine|swine|NNS .|.|. 
+Appl|Appl|NNP .|.|. 
+Environ|Environ|NNP .|.|. 
+Microbiol|Microbiol|NNP .|.|. 
+53:1638|53:1638|CD --|--|: 1644|1644|CD .|.|. 
+Nocker|Nocker|NNP ,|,|, A.|A.|NNP ,|,|, M.|M.|NNP Burr|Burr|NNP ,|,|, A.K.|A.K.|NNP Camper|Camper|NNP .|.|. 
+2007|2007|CD .|.|. 
+Genotypic|genotypic|JJ microbial|microbial|JJ community|community|NN proﬁling|proﬁling|VBG :|:|: a|a|DT critical|critical|JJ technical|technical|JJ review|review|NN .|.|. 
+Microb|Microb|NNP .|.|. 
+Ecol|Ecol|NNP .|.|. 
+54:276|54:276|CD --|--|: 289|289|CD Pryde|Pryde|NNP ,|,|, S.E.|S.E.|NNP ,|,|, S.H.|S.H.|NNP Duncan|Duncan|NNP ,|,|, G.L.|G.L.|NNP Hold|hold|VB ,|,|, et|et|FW al.|al.|FW 2002|2002|CD .|.|. 
+The|the|DT microbiology|microbiology|NN of|of|IN butyrate|butyrate|NN formation|formation|NN in|in|IN the|the|DT human|human|JJ colon|colon|NN .|.|. 
+FEMS|FEMS|NNP Microbiol|Microbiol|NNP .|.|. 
+Lett|Lett|NNP .|.|. 
+217:133|217:133|CD --|--|: 139|139|CD .|.|. 
+Pryde|Pryde|NNP ,|,|, S.E.|S.E.|NNP ,|,|, A.J.|A.J.|NNP Richardson|Richardson|NNP ,|,|, C.S.|C.S.|NNP Stewart|Stewart|NNP ,|,|, et|et|FW al.|al.|FW 1999|1999|CD .|.|. 
+Mo|Mo|NNP -|-|HYPH lecular|lecular|JJ analysis|analysis|NN of|of|IN the|the|DT microbial|microbial|JJ diversity|diversity|NN present|present|NN in|in|IN the|the|DT colonic|colonic|JJ wall|wall|NN ,|,|, colonic|colonic|JJ lumen|lumen|NN ,|,|, and|and|CC cecal|cecal|JJ lumen|lumen|NN of|of|IN a|a|DT pig|pig|NN .|.|. 
+Appl|Appl|NNP .|.|. 
+Environ|Environ|NNP .|.|. 
+Microbiol|Microbiol|NNP .|.|. 
+65:5372|65:5372|CD --|--|: 5377|5377|CD .|.|. 
+Rada|Rada|NNP ,|,|, V.|V.|NNP ,|,|, E.|E.|NNP Vlkova|Vlkova|NNP ,|,|, J.|J.|NNP Nevoral|Nevoral|NNP ,|,|, et|et|FW al.|al.|FW 2006|2006|CD .|.|. 
+Comparison|comparison|NN of|of|IN bacterial|bacterial|JJ ﬂora|ﬂora|NNS and|and|CC enzymatic|enzymatic|JJ activity|activity|NN in|in|IN faeces|faeces|NNS of|of|IN infants|infant|NNS and|and|CC calves|calf|NNS .|.|. 
+FEMS|FEMS|NNP Microbiol|Microbiol|NNP .|.|. 
+Lett|Lett|NNP .|.|. 
+258:25|258:25|CD --|--|: 28|28|CD .|.|. 
+Rastall|Rastall|NNP R.A.|R.A.|NNP 2004|2004|CD .|.|. 
+Bacteria|bacterium|NNS in|in|IN the|the|DT gut|gut|NN :|:|: friends|friend|NNS and|and|CC foes|foe|NNS and|and|CC how|how|WRB to|to|TO alter|alter|VB the|the|DT balance|balance|NN .|.|. 
+J.|J.|NNP Nutr|Nutr|NNP .|.|. 
+134:2022|134:2022|CD S|s|NN --|--|: 2026S|2026s|NN .|.|. 
+Rehman|Rehman|NNP ,|,|, H.U.|H.U.|NNP ,|,|, W.|W.|NNP Vahjen|Vahjen|NNP ,|,|, W.A.|W.A.|NNP Awad|Awad|NNP ,|,|, et|et|FW al.|al.|FW 2007|2007|CD .|.|. 
+Indigenous|indigenous|JJ bacteria|bacterium|NNS and|and|CC bacterial|bacterial|JJ metabolic|metabolic|JJ products|product|NNS in|in|IN the|the|DT gastrointestinal|gastrointestinal|JJ tract|tract|NN of|of|IN broiler|broiler|NN chickens|chicken|NNS .|.|. 
+Arch|Arch|NNP .|.|. 
+Anim|Anim|NNP .|.|. 
+Nutr|Nutr|NNP .|.|. 
+61:319|61:319|CD --|--|: 335|335|CD .|.|. 
+Ricke|Ricke|NNP ,|,|, S.C.|S.C.|NNP ,|,|, S.D.|S.D.|NNP Pillai|Pillai|NNP .|.|. 
+1999|1999|CD .|.|. 
+Conventional|conventional|JJ and|and|CC molecular|molecular|JJ methods|method|NNS for|for|IN understanding|understand|VBG probiotic|probiotic|JJ bacteria|bacterium|NNS functionality|functionality|NN in|in|IN gastrointestinal|gastrointestinal|JJ tracts|tract|NNS .|.|. 
+Crit|Crit|NNP .|.|. 
+Rev.|Rev.|NNP Microbiol|Microbiol|NNP .|.|. 
+25|25|CD :|:|: 19|19|CD --|--|: 38|38|CD .|.|. 
+Robinson|Robinson|NNP ,|,|, I.M.|I.M.|NNP ,|,|, M.J.|M.J.|NNP Allison|Allison|NNP ,|,|, J.A.|J.A.|NNP Bucklin|Bucklin|NNP .|.|. 
+1981|1981|CD .|.|. 
+Characterization|characterization|NN of|of|IN the|the|DT cecal|cecal|JJ bacteria|bacterium|NNS of|of|IN normal|normal|JJ pigs|pig|NNS .|.|. 
+Appl|Appl|NNP .|.|. 
+Environ|Environ|NNP .|.|. 
+Microbiol|Microbiol|NNP .|.|. 
+41:950|41:950|CD --|--|: 955|955|CD .|.|. 
+Robinson|Robinson|NNP ,|,|, I.M.|I.M.|NNP ,|,|, S.C.|S.C.|NNP Whipp|Whipp|NNP ,|,|, J.A.|J.A.|NNP Bucklin|Bucklin|NNP ,|,|, et|et|FW al.|al.|FW 1984|1984|CD .|.|. 
+Characterization|characterization|NN of|of|IN predominant|predominant|JJ bacteria|bacterium|NNS from|from|IN the|the|DT co-lons|co-lon|NNS of|of|IN normal|normal|JJ and|and|CC dysenteric|dysenteric|JJ pigs|pig|NNS .|.|. 
+Appl|Appl|NNP .|.|. 
+Environ|Environ|NNP .|.|. 
+Microbiol|Microbiol|NNP .|.|. 
+48:964|48:964|CD --|--|: 969|969|CD .|.|. 
+Roesch|Roesch|NNP ,|,|, L.F.|L.F.|NNP ,|,|, R.R.|R.R.|NNP Fulthorpe|Fulthorpe|NNP ,|,|, A.|A.|NNP Riva|Riva|NNP ,|,|, et|et|FW al.|al.|FW 2007|2007|CD .|.|. 
+Pyr|pyr|NN -|-|HYPH osequencing|osequencing|NN enumerates|enumerate|VBZ and|and|CC contrasts|contrast|VBZ soil|soil|NN microbial|microbial|JJ diversity|diversity|NN .|.|. 
+ISME|ISME|NNP J.|J.|NNP 1:283|1:283|CD --|--|: 290|290|CD .|.|. 
+Rudi|Rudi|NNP ,|,|, K.|K.|NNP ,|,|, M.|M.|NNP Zimonja|Zimonja|NNP ,|,|, P.|P.|NNP Trosvik|Trosvik|NNP ,|,|, et|et|FW al.|al.|FW 2007|2007|CD .|.|. 
+Use|Use|NNP of|of|IN multivariate|multivariate|JJ statistics|statistics|NNS for|for|IN 16S|16s|NN rRNA|rrna|NN gene|gene|NN analysis|analysis|NN of|of|IN microbial|microbial|JJ communities|community|NNS .|.|. 
+Int|int|NN .|.|. 
+J.|J.|NNP Food|Food|NNP Microbiol|Microbiol|NNP .|.|. 
+120:95|120:95|CD --|--|: 99|99|CD .|.|. 
+Schloss|Schloss|NNP ,|,|, P.D.|P.D.|NNP ,|,|, J.|J.|NNP Handelsman|Handelsman|NNP .|.|. 
+2005|2005|CD .|.|. 
+Introducing|introduce|VBG DOTUR|dotur|NN ,|,|, a|a|DT computer|computer|NN program|program|NN for|for|IN deﬁning|deﬁning|VBG operational|operational|JJ taxonomic|taxonomic|JJ units|unit|NNS and|and|CC estimating|estimate|VBG species|species|NNS richness|richness|NN .|.|. 
+Appl|Appl|NNP .|.|. 
+Environ|Environ|NNP .|.|. 
+Microbiol|Microbiol|NNP .|.|. 
+71:1501|71:1501|CD --|--|: 1506|1506|CD .|.|. 
+Schmidt|Schmidt|NNP ,|,|, T.M.|T.M.|NNP ,|,|, E.F.|E.F.|NNP DeLong|DeLong|NNP ,|,|, N.R.|N.R.|NNP Pace|Pace|NNP .|.|. 
+1991|1991|CD .|.|. 
+Analysis|analysis|NN of|of|IN a|a|DT marine|marine|JJ picoplankton|picoplankton|NN community|community|NN by|by|IN 16S|16s|NN rRNA|rrna|NN gene|gene|NN cloning|cloning|NN and|and|CC sequencing|sequencing|NN .|.|. 
+J.|J.|NNP Bacteriol|Bacteriol|NNP .|.|. 
+173:4371|173:4371|CD --|--|: 4378|4378|CD .|.|. 
+Seber|Seber|NNP ,|,|, G.A.F.|G.A.F.|NNP ,|,|, C.J.|C.J.|NNP Wile|Wile|NNP .|.|. 
+1989|1989|CD .|.|. 
+Nonlinear|nonlinear|JJ Regression|regression|NN .|.|. 
+John|John|NNP Wiley|Wiley|NNP &|&|CC Sons|Sons|NNPS ,|,|, New|New|NNP York|York|NNP ,|,|, p.|p.|NN 333|333|CD .|.|. 
+Shim|Shim|NNP ,|,|, S.B.|S.B.|NNP ,|,|, M.W.|M.W.|NNP Verstegen|Verstegen|NNP ,|,|, I.H.|I.H.|NNP Kim|Kim|NNP ,|,|, et|et|FW al.|al.|FW 2005|2005|CD .|.|. 
+Effects|Effects|NNPS of|of|IN feeding|feed|VBG antibiotic|antibiotic|JJ -|-|HYPH free|free|JJ creep|creep|NN feed|feed|NN supplemented|supplement|VBN with|with|IN oligofructose|oligofructose|NN ,|,|, probiotics|probiotic|NNS or|or|CC synbiotics|synbiotic|NNS to|to|IN suckling|suckling|NN piglets|piglet|NNS increases|increase|VBZ the|the|DT preweaning|preweaning|JJ weight|weight|NN gain|gain|NN and|and|CC composition|composition|NN of|of|IN intestinal|intestinal|JJ microbiota|microbiota|NN .|.|. 
+Arch|Arch|NNP .|.|. 
+Anim|Anim|NNP .|.|. 
+Nutr|Nutr|NNP .|.|. 
+59:419|59:419|CD --|--|: 427|427|CD .|.|. 
+Songer|Songer|NNP ,|,|, J.G.|J.G.|NNP 1998|1998|CD .|.|. 
+Clostridial|clostridial|JJ diseases|disease|NNS of|of|IN small|small|JJ ruminants|ruminant|NNS .|.|. 
+Vet|vet|NN .|.|. 
+Res|re|NNS .|.|. 
+29:219|29:219|CD --|--|: 232|232|CD .|.|. 
+Songer|Songer|NNP ,|,|, J.G.|J.G.|NNP 2004|2004|CD .|.|. 
+The|the|DT emergence|emergence|NN of|of|IN Clostridium|Clostridium|NNP difﬁcile|difﬁcile|NN as|as|IN a|a|DT pathogen|pathogen|NN of|of|IN food|food|NN animals|animal|NNS .|.|. 
+Anim|Anim|NNP .|.|. 
+Health|Health|NNP Res|Res|NNPS .|.|. 
+Rev.|Rev.|NNP 5:321|5:321|CD --|--|: 326|326|CD .|.|. 
+Suzuki|Suzuki|NNP ,|,|, M.T.|M.T.|NNP ,|,|, S.J.|S.J.|NNP Giovannoni|Giovannoni|NNP .|.|. 
+1996|1996|CD .|.|. 
+Bias|Bias|NNP caused|cause|VBD by|by|IN template|template|NN annealing|anneal|VBG in|in|IN the|the|DT ampliﬁcation|ampliﬁcation|NN of|of|IN mixtures|mixture|NNS of|of|IN 16S|16s|NN rRNA|rrna|NN genes|gene|NNS by|by|IN PCR|pcr|NN .|.|. 
+Appl|Appl|NNP .|.|. 
+Environ|Environ|NNP Microbiol|Microbiol|NNP .|.|. 
+62:625|62:625|CD --|--|: 630|630|CD .|.|. 
+Tan|Tan|NNP ,|,|, C.|C.|NNP ,|,|, M.|M.|NNP Liu|Liu|NNP ,|,|, M.|M.|NNP Jin|Jin|NNP ,|,|, et|et|FW al.|al.|FW 2008|2008|CD .|.|. 
+The|the|DT key|key|JJ virulenceassociated|virulenceassociate|VBN genes|gene|NNS of|of|IN Streptococcus|streptococcus|NN suis|suis|NN type|type|NN 2|2|CD are|be|VBP upre|upre|JJ -|-|HYPH gulated|gulated|JJ and|and|CC differentially|differentially|RB expressed|express|VBN in|in|FW vivo|vivo|FW .|.|. 
+FEMS|FEMS|NNP Microbiol|Microbiol|NNP .|.|. 
+Lett|Lett|NNP .|.|. 
+278:108|278:108|CD --|--|: 114|114|CD .|.|. 
+Thomson|Thomson|NNP ,|,|, R.G.|R.G.|NNP ,|,|, D.A.|D.A.|NNP Barnum|Barnum|NNP ,|,|, P.R.|p.r.|NN Ide|ide|NN .|.|. 
+1968|1968|CD .|.|. 
+The|the|DT signiﬁcance|signiﬁcance|NN of|of|IN some|some|DT clostridial|clostridial|JJ organisms|organism|NNS in|in|IN the|the|DT livers|liver|NNS of|of|IN domestic|domestic|JJ animals|animal|NNS at|at|IN post|post|FW mortem|mortem|FW .|.|. 
+Can|can|MD .|.|. 
+Vet|vet|NN .|.|. 
+J.|J.|NNP 9:263|9:263|CD --|--|: 268|268|CD .|.|. 
+Turnbaugh|Turnbaugh|NNP ,|,|, P.J.|P.J.|NNP ,|,|, R.E.|R.E.|NNP Ley|Ley|NNP ,|,|, M.A.|M.A.|NNP Mahowald|Mahowald|NNP ,|,|, et|et|FW al.|al.|FW 2006|2006|CD .|.|. 
+An|a|DT obesity|obesity|NN -|-|HYPH associated|associate|VBN gut|gut|NN microbiome|microbiome|NN with|with|IN increased|increase|VBN capacity|capacity|NN for|for|IN energy|energy|NN harvest|harvest|NN .|.|. 
+Nature|Nature|NNP 444:1027|444:1027|CD --|--|: 1031|1031|CD .|.|. 
+Vanbelle|Vanbelle|NNP ,|,|, M.|M.|NNP ,|,|, E.|E.|NNP Teller|Teller|NNP ,|,|, M.|M.|NNP Focant|Focant|NNP .|.|. 
+1990|1990|CD .|.|. 
+Probiotics|Probiotics|NNP in|in|IN animal|animal|NN nutrition|nutrition|NN :|:|: a|a|DT review|review|NN .|.|. 
+Arch|Arch|NNP Tierernahr|Tierernahr|NNP .|.|. 
+40:543|40:543|CD --|--|: 567|567|CD .|.|. 
+van|van|NNP Nevel|Nevel|NNP ,|,|, C.J.|C.J.|NNP ,|,|, N.A.|N.A.|NNP Dierick|Dierick|NNP ,|,|, J.A.|J.A.|NNP Decuypere|Decuypere|NNP ,|,|, et|et|FW al.|al.|FW 2006|2006|CD .|.|. 
+In|in|FW vitro|vitro|FW fermentability|fermentability|NN and|and|CC physicochemical|physicochemical|JJ properties|property|NNS of|of|IN ﬁbre|ﬁbre|NN substrates|substrate|NNS and|and|CC their|they|PRP$ effect|effect|NN on|on|IN bacteriological|bacteriological|JJ and|and|CC morphological|morphological|JJ characteristics|characteristic|NNS of|of|IN the|the|DT gastrointestinal|gastrointestinal|JJ tract|tract|NN of|of|IN newly|newly|RB weaned|wean|VBN piglets|piglet|NNS .|.|. 
+Arch|Arch|NNP .|.|. 
+Anim|Anim|NNP .|.|. 
+Nutr|Nutr|NNP .|.|. 
+60:477|60:477|CD --|--|: 500|500|CD .|.|. 
+von|von|NNP ,|,|, W.F.|W.F.|NNP ,|,|, U.B.|U.B.|NNP Gobel|Gobel|NNP ,|,|, E.|E.|NNP Stackebrandt|Stackebrandt|NNP .|.|. 
+1997|1997|CD .|.|. 
+Determination|determination|NN of|of|IN microbial|microbial|JJ diversity|diversity|NN in|in|IN environmental|environmental|JJ samples|sample|NNS :|:|: pitfalls|pitfall|NNS of|of|IN PCR|pcr|NN -|-|HYPH based|base|VBN rRNA|rrna|NN analysis|analysis|NN .|.|. 
+FEMS|FEMS|NNP Microbiol|Microbiol|NNP .|.|. 
+Rev.|Rev.|NNP 21:213|21:213|CD --|--|: 229|229|CD .|.|. 
+Walker|Walker|NNP ,|,|, A.W.|A.W.|NNP ,|,|, S.H.|S.H.|NNP Duncan|Duncan|NNP ,|,|, E.C.|E.C.|NNP William|William|NNP Leitch|Leitch|NNP ,|,|, et|et|FW al.|al.|FW 2005|2005|CD .|.|. 
+pH|ph|NN and|and|CC peptide|peptide|NN supply|supply|NN can|can|MD radically|radically|RB alter|alter|VB bacterial|bacterial|JJ po|po|NN -|-|HYPH pulations|pulation|NNS and|and|CC short|short|JJ -|-|HYPH chain|chain|NN fatty|fatty|JJ acid|acid|NN ratios|ratio|NNS within|within|IN microbial|microbial|JJ communities|community|NNS from|from|IN the|the|DT human|human|JJ colon|colon|NN .|.|. 
+Appl|Appl|NNP .|.|. 
+Environ|Environ|NNP .|.|. 
+Microbiol|Microbiol|NNP .|.|. 
+71:3692|71:3692|CD --|--|: 3700|3700|CD .|.|. 
+Wittenbrink|Wittenbrink|NNP ,|,|, M.M.|M.M.|NNP ,|,|, G.|G.|NNP Amtsberg|Amtsberg|NNP ,|,|, J.|J.|NNP Kamphues|Kamphues|NNP .|.|. 
+1984|1984|CD .|.|. 
+[|[|-LRB- Intestinal|intestinal|JJ and|and|CC fecal|fecal|JJ ﬂora|ﬂora|NN of|of|IN weaned|wean|VBN piglets|piglet|NNS with|with|IN nutritive|nutritive|JJ diarrhea|diarrhea|NN caused|cause|VBN by|by|IN forced|force|VBN feed|feed|NN intake|intake|NN ]|]|-RRB- .|.|. 
+Dtsch|Dtsch|NNP Tierarztl|Tierarztl|NNP Wochenschr|Wochenschr|NNP 91:387|91:387|CD --|--|: 391|391|CD (|(|-LRB- In|in|IN language|language|NN )|)|-RRB- .|.|. 
+Yokoyama|Yokoyama|NNP ,|,|, M.T.|M.T.|NNP ,|,|, K.A.|K.A.|NNP Johnson|Johnson|NNP .|.|. 
+1988|1988|CD .|.|. 
+Microbiology|Microbiology|NNP of|of|IN the|the|DT rumen|ruman|NNS and|and|CC intestine|intestine|NN .|.|. 
+In|in|IN :|:|: The|the|DT Ruminant|Ruminant|NNP Animal|Animal|NNP :|:|: Digestive|Digestive|NNP Physiology|Physiology|NNP and|and|CC Nutrition|Nutrition|NNP .|.|. 
+Church|Church|NNP ,|,|, D.C.|D.C.|NNP (|(|-LRB- ed|ed|NN .|.|. )|)|-RRB- 
+,|,|, Pre-ntice|Pre-ntice|NNP Hall|Hall|NNP ,|,|, Englewood|Englewood|NNP Cliffs|Cliffs|NNPS ,|,|, NJ|NJ|NNP ,|,|, pp.|pp.|NN 125|125|CD --|--|: 144|144|CD .|.|. 
+Zhu|Zhu|NNP ,|,|, W.Y.|W.Y.|NNP ,|,|, B.A.|B.A.|NNP Williams|Williams|NNP ,|,|, S.R.|S.R.|NNP Konstantinov|Konstantinov|NNP ,|,|, et|et|FW al.|al.|FW 2003|2003|CD .|.|. 
+Analysis|analysis|NN of|of|IN 16S|16s|NN rDNA|rdna|NN reveals|reveal|VBZ bacterial|bacterial|JJ shift|shift|NN during|during|IN in|in|FW vitro|vitro|FW fermentation|fermentation|NN of|of|IN fermentable|fermentable|JJ carbohydrate|carbohydrate|NN using|use|VBG piglet|piglet|NN faeces|faeces|NNS as|as|IN inoculum|inoculum|NN .|.|. 
+Anaerobe|Anaerobe|NNP 9:175|9:175|CD --|--|: 180|180|CD .|.|. 
+Zilberstein|Zilberstein|NNP ,|,|, B.|B.|NNP ,|,|, A.G.|A.G.|NNP Quintanilha|Quintanilha|NNP ,|,|, M.A.|M.A.|NNP Santos|Santos|NNP ,|,|, et|et|FW al.|al.|FW 2007|2007|CD .|.|. 
+Digestive|Digestive|NNP tract|tract|NN microbiota|microbiota|NN in|in|IN healthy|healthy|JJ volunteers|volunteer|NNS .|.|. 
+Clinics|clinic|NNS .|.|. 
+62:47|62:47|CD --|--|: 54|54|CD .|.|. 

@@ -1,0 +1,621 @@
+JOURNAL|journal|NN OF|of|IN BACTERIOLOGY|BACTERIOLOGY|NNP ,|,|, Nov.|Nov.|NNP 2009|2009|CD ,|,|, p.|p.|NN 6694|6694|CD --|--|: 6700 0021-9193|6700 0021-9193|NN /|/|HYPH 09|09|CD /|/|SYM $|$|$ 12.00|12.00|CD doi|doi|NN :|:|: 10.1128|10.1128|CD /|/|SYM JB.00839|jb.00839|NN -|-|HYPH 09|09|CD Copyright|copyright|NN ©|©|SYM 2009|2009|CD ,|,|, American|American|NNP Society|Society|NNP for|for|IN Microbiology|Microbiology|NNP .|.|. 
+All|all|DT Rights|Rights|NNPS Reserved|Reserved|NNP .|.|. 
+D|d|NN am|am|NN Methylation|methylation|NN Controls|Controls|NNP O|O|NNP -|-|HYPH Antigen|Antigen|NNP Chain|chain|NN Length|length|NN in|in|IN Salmonella|Salmonella|NNP enterica|enterica|NNP Serovar|Serovar|NNP Enteritidis|Enteritidis|NNP by|by|IN Regulating|regulate|VBG the|the|DT Expression|expression|NN of|of|IN Wzz|wzz|NN Protein|protein|NN Sebastián|sebastián|NN H.|h.|NN Sarnacki|Sarnacki|NNP ,1,2|,1,2|CD Cristina|Cristina|NNP L.|L.|NNP Marolda|Marolda|NNP ,3|,3|NN Mariángeles|mariángeles|NNS Noto|Noto|NNP Llana|Llana|NNP ,1,2|,1,2|CD Mónica|Mónica|NNP N.|N.|NNP Giacomodonato|Giacomodonato|NNP ,1,2|,1,2|NN Miguel|Miguel|NNP A.|A.|NNP Valvano|Valvano|NNP ,3,4|,3,4|NN *|*|NFP and|and|CC María|María|NNP Cristina|Cristina|NNP Cerquetti1|Cerquetti1|NNP ,2|,2|NN *|*|NFP CEFYBO|cefybo|NN -|-|HYPH UBA|uba|NN -|-|HYPH CONICET1|conicet1|NN and|and|CC Departamento|Departamento|NNP de|de|NNP Microbiología|Microbiología|NNP ,|,|, Parasitología|Parasitología|NNP e|e|NNP Inmunología|Inmunología|NNP ,2|,2|NN Facultad|Facultad|NNP de|de|NNP Medicina|Medicina|NNP ,|,|, Universidad|Universidad|NNP de|de|NNP Buenos|Buenos|NNP Aires|Aires|NNP ,|,|, Buenos|Buenos|NNP Aires|Aires|NNP ,|,|, Argentina|Argentina|NNP ,|,|, and|and|CC Infectious|infectious|JJ Diseases|Diseases|NNPS Research|Research|NNP Group|Group|NNP ,|,|, Siebens|Siebens|NNP -|-|HYPH Drake|Drake|NNP Research|Research|NNP Institute|Institute|NNP ,3|,3|NN and|and|CC Departments|department|NNS of|of|IN Microbiology|Microbiology|NNP and|and|CC Immunology|Immunology|NNP and|and|CC Medicine|Medicine|NNP ,4|,4|NNP University|University|NNP of|of|IN Western|Western|NNP Ontario|Ontario|NNP ,|,|, London|London|NNP ,|,|, Ontario|Ontario|NNP N6A|n6a|NN 5C1|5c1|NN ,|,|, Canada|Canada|NNP Received|receive|VBD 25|25|CD June|June|NNP 2009|2009|CD /|/|SYM Accepted|accepted|JJ 18|18|CD August|August|NNP 2009|2009|CD We|we|PRP reported|report|VBD previously|previously|RB that|that|IN a|a|DT Salmonella|salmonella|NN enterica|enterica|NN serovar|serovar|NN Enteritidis|Enteritidis|NNP dam|dam|NN mutant|mutant|NN expressing|express|VBG a|a|DT truncated|truncate|VBN Dam|dam|NN protein|protein|NN does|do|VBZ not|not|RB agglutinate|agglutinate|JJ in|in|IN the|the|DT presence|presence|NN of|of|IN speciﬁc|speciﬁc|NN antibodies|antibody|NNS against|against|IN O9|o9|NN polysaccharide|polysaccharide|NN .|.|. 
+Here|here|RB we|we|PRP investigate|investigate|VB the|the|DT participation|participation|NN of|of|IN Dam|dam|NN in|in|IN lipopolysaccharide|lipopolysaccharide|NN (|(|-LRB- LPS|lps|NN )|)|-RRB- synthesis|synthesis|NN in|in|IN Salmonella|Salmonella|NNP .|.|. 
+The|the|DT LPS|lps|NN O|o|NN -|-|HYPH antigen|antigen|NN proﬁles|proﬁles|NNS of|of|IN a|a|DT dam|dam|NN null|null|JJ mutant|mutant|NN (|(|-LRB- SE|SE|NNP dam|dam|NN )|)|-RRB- and|and|CC the|the|DT Salmonella|Salmonella|NNP serovar|serovar|NN Enteritidis|Enteritidis|NNP parental|parental|JJ strain|strain|NN were|be|VBD examined|examine|VBN by|by|IN using|use|VBG electrophoresis|electrophoresis|NN and|and|CC silver|silver|NN staining|staining|NN .|.|. 
+Compared|compare|VBN to|to|IN the|the|DT parental|parental|JJ strain|strain|NN ,|,|, SE|SE|NNP dam|dam|NN produced|produce|VBD LPS|lps|NN with|with|IN shorter|shorter|JJR O|o|NN -|-|HYPH antigen|antigen|NN polysaccharide|polysaccharide|NN chains|chain|NNS .|.|. 
+Since|since|IN Wzz|Wzz|NNP is|be|VBZ responsible|responsible|JJ for|for|IN the|the|DT chain|chain|NN length|length|NN distribution|distribution|NN of|of|IN the|the|DT O|o|NN antigen|antigen|NN ,|,|, we|we|PRP investigated|investigate|VBD whether|whether|IN Dam|dam|NN methylation|methylation|NN is|be|VBZ involved|involve|VBN in|in|IN regulating|regulate|VBG wzz|wzz|NN expression|expression|NN .|.|. 
+Densitometry|densitometry|NN analysis|analysis|NN showed|show|VBD that|that|IN the|the|DT amount|amount|NN of|of|IN Wzz|Wzz|NNP produced|produce|VBN by|by|IN SE|SE|NNP dam|dam|NN is|be|VBZ threefold|threefold|RB lower|lower|JJR than|than|IN the|the|DT amount|amount|NN of|of|IN Wzz|Wzz|NNP produced|produce|VBN by|by|IN the|the|DT parental|parental|JJ strain|strain|NN .|.|. 
+Concomitantly|concomitantly|RB ,|,|, the|the|DT activity|activity|NN of|of|IN the|the|DT wzz|wzz|NN promoter|promoter|NN in|in|IN SE|SE|NNP dam|dam|NN was|be|VBD reduced|reduce|VBN nearly|nearly|RB 50|50|CD %|%|NN in|in|IN logarithmic|logarithmic|JJ phase|phase|NN and|and|CC 25|25|CD %|%|NN in|in|IN stationary|stationary|JJ phase|phase|NN .|.|. 
+These|these|DT results|result|NNS were|be|VBD further|further|JJ conﬁrmed|conﬁrmed|VBN by|by|IN reverse|reverse|JJ transcription|transcription|NN -|-|HYPH PCR|pcr|NN showing|show|VBG that|that|IN wzz|wzz|NN gene|gene|NN expression|expression|NN was|be|VBD threefold|threefold|RB lower|lower|JJR in|in|IN the|the|DT dam|dam|NN mutant|mutant|NN than|than|IN in|in|IN the|the|DT parental|parental|JJ strain|strain|NN .|.|. 
+Our|we|PRP$ results|result|NNS demonstrate|demonstrate|VBP that|that|IN wzz|wzz|NN gene|gene|NN expression|expression|NN is|be|VBZ downregulated|downregulate|VBN in|in|IN a|a|DT dam|dam|NN mutant|mutant|NN ,|,|, indicating|indicate|VBG that|that|IN Dam|dam|NN methylation|methylation|NN activates|activate|VBZ expression|expression|NN of|of|IN this|this|DT gene|gene|NN .|.|. 
+This|this|DT work|work|NN indicates|indicate|VBZ that|that|IN wzz|wzz|NN is|be|VBZ a|a|DT new|new|JJ target|target|NN regulated|regulate|VBN by|by|IN Dam|dam|NN methylation|methylation|NN and|and|CC demonstrates|demonstrate|VBZ that|that|IN DNA|dna|NN methylation|methylation|NN not|not|RB only|only|RB affects|affect|VBZ the|the|DT production|production|NN of|of|IN bacterial|bacterial|JJ surface|surface|NN proteins|proteins|NN but|but|CC also|also|RB the|the|DT production|production|NN of|of|IN surface|surface|NN polysaccharides|polysaccharide|NNS .|.|. 
+Lipopolysaccharide|lipopolysaccharide|NN (|(|-LRB- LPS|lps|NN )|)|-RRB- is|be|VBZ a|a|DT key|key|JJ component|component|NN of|of|IN the|the|DT outer|outer|JJ membrane|membrane|NN of|of|IN gram|gram|NN -|-|HYPH negative|negative|JJ bacteria|bacterium|NNS that|that|WDT contributes|contribute|VBZ to|to|IN the|the|DT stability|stability|NN and|and|CC permeability|permeability|NN barrier|barrier|NN properties|property|NNS of|of|IN this|this|DT membrane|membrane|NN .|.|. 
+LPS|lps|NN is|be|VBZ located|locate|VBN on|on|IN the|the|DT outer|outer|JJ leaﬂet|leaﬂet|NN of|of|IN the|the|DT outer|outer|JJ membrane|membrane|NN and|and|CC consists|consist|VBZ of|of|IN three|three|CD regions|region|NNS :|:|: O|o|NN -|-|HYPH antigen|antigen|NN polysaccharide|polysaccharide|NN ,|,|, core|core|NN oli|oli|NN -|-|HYPH gosaccharide|gosaccharide|NN ,|,|, and|and|CC lipid|lipid|NN A|a|NN (|(|-LRB- 47|47|CD )|)|-RRB- .|.|. 
+The|the|DT biogenesis|biogenesis|NN of|of|IN LPS|lps|NN is|be|VBZ a|a|DT complex|complex|JJ process|process|NN involving|involve|VBG various|various|JJ steps|step|NNS that|that|WDT occur|occur|VBP at|at|IN the|the|DT plasma|plasma|NN membrane|membrane|NN ,|,|, followed|follow|VBN by|by|IN translocation|translocation|NN of|of|IN LPS|lps|NN molecules|molecule|NNS to|to|IN the|the|DT outer|outer|JJ membrane|membrane|NN (|(|-LRB- 47|47|CD ,|,|, 48|48|CD ,|,|, 54|54|CD ,|,|, 58|58|CD )|)|-RRB- .|.|. 
+The|the|DT core|core|NN oligosaccharide|oligosaccharide|NN is|be|VBZ assembled|assemble|VBN on|on|IN preformed|preformed|JJ lipid|lipid|NN A|a|NN by|by|IN sequential|sequential|JJ glycosyl|glycosyl|NN transfer|transfer|NN of|of|IN monosaccharides|monosaccharide|NNS ,|,|, while|while|IN the|the|DT O|o|NN antigen|antigen|NN is|be|VBZ independently|independently|RB assembled|assemble|VBN on|on|IN undecaprenyl|undecaprenyl|NN -|-|HYPH phosphate|phosphate|NN (|(|-LRB- 61|61|CD )|)|-RRB- .|.|. 
+These|these|DT pathways|pathway|NNS eventually|eventually|RB converge|converge|VBP by|by|IN ligation|ligation|NN of|of|IN the|the|DT O|o|NN antigen|antigen|NN to|to|IN the|the|DT outer|outer|JJ core|core|NN domain|domain|NN of|of|IN the|the|DT lipid|lipid|NN A-core|a-core|NN oligosaccharide|oligosaccharide|NN acceptor|acceptor|NN (|(|-LRB- 19|19|CD ,|,|, 20|20|CD ,|,|, 47|47|CD ,|,|, 48|48|CD ,|,|, 58|58|CD ,|,|, 61|61|CD ,|,|, 62|62|CD )|)|-RRB- .|.|. 
+O|o|NN -|-|HYPH antigen|antigen|NN assembly|assembly|NN occurs|occur|VBZ by|by|IN mechanisms|mechanism|NNS referred|refer|VBN to|to|IN as|as|IN Wzy|Wzy|NNP (|(|-LRB- polymerase|polymerase|NN )|)|-RRB- -|-|HYPH dependent|dependent|JJ and|and|CC ATP|atp|NN -|-|HYPH binding|binding|NN cassette|cassette|NN -|-|HYPH dependent|dependent|JJ pathways|pathway|NNS (|(|-LRB- for|for|IN reviews|review|NNS ,|,|, see|see|VB references|reference|NNS 47|47|CD and|and|CC 58|58|CD )|)|-RRB- .|.|. 
+The|the|DT Salmonella|salmonella|NN O|o|NN antigen|antigen|NN is|be|VBZ assembled|assemble|VBN by|by|IN the|the|DT Wzy|Wzy|NNP -|-|HYPH dependent|dependent|JJ pathway|pathway|NN ,|,|, in|in|IN which|which|WDT the|the|DT O|o|NN -|-|HYPH antigen|antigen|NN *|*|NFP Corresponding|correspond|VBG author|author|NN .|.|. 
+Mailing|mail|VBG address|address|NN for|for|IN María|María|NNP Cristina|Cristina|NNP Cerquetti|Cerquetti|NNP :|:|: Departamento|Departamento|NNP de|de|NNP Microbiología|Microbiología|NNP ,|,|, Parasitología|Parasitología|NNP e|e|NNP Inmunología|Inmunología|NNP ,|,|, Facultad|Facultad|NNP de|de|NNP Medicina|Medicina|NNP ,|,|, Universidad|Universidad|NNP de|de|NNP Buenos|Buenos|NNP Aires|Aires|NNP ,|,|, Paraguay|Paraguay|NNP 2155|2155|CD ,|,|, 1121|1121|CD Buenos|Buenos|NNP Aires|Aires|NNP ,|,|, Argentina|Argentina|NNP .|.|. 
+Phone|phone|NN :|:|: 054-11-5950-9500|054-11-5950-9500|CD .|.|. 
+Fax|fax|NN :|:|: 054-11-4964-2554|054-11-4964-2554|CD .|.|. 
+E-mail|e-mail|NN :|:|: ccerquetti@fmed.uba.ar|ccerquetti@fmed.uba.ar|ADD .|.|. 
+Mailing|mail|VBG address|address|NN for|for|IN Miguel|Miguel|NNP A.|A.|NNP Valvano|Valvano|NNP :|:|: Departament|departament|NN of|of|IN Microbiology|Microbiology|NNP and|and|CC Immunology|Immunology|NNP ,|,|, University|University|NNP of|of|IN Western|Western|NNP Ontario|Ontario|NNP ,|,|, Dental|Dental|NNP Science|Science|NNP Building|Building|NNP 3014|3014|CD ,|,|, London|London|NNP ,|,|, Ontario|Ontario|NNP ,|,|, Canada|Canada|NNP N6A|n6a|NN 5C1|5c1|NN .|.|. 
+Phone|phone|NN :|:|: (519) 661-3427|(519) 661-3427|NN .|.|. 
+Fax|fax|NN :|:|: (519) 661-3499|(519) 661-3499|CD .|.|. 
+E-mail|e-mail|NN :|:|: mvalvano@uwo.ca|mvalvano@uwo.ca|ADD .|.|. 
+Published|publish|VBN ahead|ahead|RB of|of|IN print|print|NN on|on|IN 28|28|CD August|August|NNP 2009|2009|CD .|.|. 
+repeating|repeat|VBG subunits|subunit|NNS are|be|VBP synthesized|synthesize|VBN at|at|IN the|the|DT cytosolic|cytosolic|JJ side|side|NN of|of|IN the|the|DT plasma|plasma|NN membrane|membrane|NN .|.|. 
+Each|each|DT subunit|subunit|NN is|be|VBZ subsequently|subsequently|RB translocated|translocate|VBN across|across|IN the|the|DT membrane|membrane|NN by|by|IN an|a|DT ATP|atp|NN hydrolysis|hydrolysis|NN -|-|HYPH independent|independent|JJ mechanism|mechanism|NN mediated|mediate|VBN by|by|IN the|the|DT protein|protein|NN Wzx|wzx|NN (|(|-LRB- 27|27|CD ,|,|, 47|47|CD ,|,|, 49|49|CD ,|,|, 58|58|CD )|)|-RRB- .|.|. 
+On|on|IN the|the|DT periplasmic|periplasmic|JJ side|side|NN of|of|IN the|the|DT plasma|plasma|NN membrane|membrane|NN ,|,|, translocated|translocate|VBN subunits|subunit|NNS polymerize|polymerize|VBP to|to|IN a|a|DT certain|certain|JJ length|length|NN ,|,|, unique|unique|JJ to|to|IN each|each|DT O|o|NN antigen|antigen|NN ,|,|, by|by|IN the|the|DT concerted|concerted|JJ actions|action|NNS of|of|IN Wzy|Wzy|NNP (|(|-LRB- O|o|NN -|-|HYPH antigen|antigen|NN polymer|polymer|NN -|-|HYPH ase|ase|NN )|)|-RRB- and|and|CC Wzz|wzz|NN (|(|-LRB- O|o|NN -|-|HYPH antigen|antigen|NN chain|chain|NN length|length|NN regulator|regulator|NN )|)|-RRB- ,|,|, and|and|CC the|the|DT poly|poly|NN -|-|HYPH saccharide|saccharide|NN is|be|VBZ ultimately|ultimately|RB ligated|ligate|VBN to|to|IN the|the|DT lipid|lipid|NN A-core|a-core|NN oligosaccharide|oligosaccharide|NN (|(|-LRB- 31|31|CD ,|,|, 35|35|CD ,|,|, 38|38|CD )|)|-RRB- .|.|. 
+In|in|IN Salmonella|salmonella|NN species|species|NNS ,|,|, O|o|NN -|-|HYPH antigen|antigen|NN length|length|NN contributes|contribute|VBZ to|to|IN an|a|DT effective|effective|JJ barrier|barrier|NN (|(|-LRB- 39|39|CD )|)|-RRB- and|and|CC affects|affect|VBZ key|key|JJ virulence|virulence|NN features|feature|NNS ,|,|, like|like|IN serum|serum|NN resistance|resistance|NN and|and|CC entry|entry|NN into|into|IN eukaryotic|eukaryotic|JJ cells|cell|NNS (|(|-LRB- 17|17|CD ,|,|, 23|23|CD ,|,|, 40|40|CD --|--|: 42|42|CD )|)|-RRB- .|.|. 
+Furthermore|furthermore|RB ,|,|, O|o|NN -|-|HYPH antigen|antigen|NN length|length|NN can|can|MD also|also|RB modulate|modulate|VB acquired|acquire|VBN immunity|immunity|NN .|.|. 
+Indeed|indeed|RB ,|,|, Phalipon|phalipon|NN and|and|CC coworkers|coworker|NNS demonstrated|demonstrate|VBD that|that|IN in|in|IN Shigella|Shigella|NNP ﬂexneri|ﬂexneri|NNS induction|induction|NN of|of|IN an|a|DT O|o|NN -|-|HYPH antigen|antigen|NN -|-|HYPH speciﬁc|speciﬁc|NN antibody|antibody|NN response|response|NN depends|depend|VBZ on|on|IN the|the|DT length|length|NN of|of|IN the|the|DT polysaccharide|polysaccharide|NN chain|chain|NN (|(|-LRB- 45|45|CD )|)|-RRB- .|.|. 
+In|in|IN gammaproteobacteria|gammaproteobacteria|NN the|the|DT DNA|dna|NN adenine|adenine|NN methyltransferase|methyltransferase|NN (|(|-LRB- Dam|dam|NN )|)|-RRB- introduces|introduce|VBZ a|a|DT methyl|methyl|NN group|group|NN at|at|IN the|the|DT N6|n6|NN position|position|NN of|of|IN the|the|DT adenine|adenine|NN of|of|IN GATC|gatc|NN sites|site|NNS in|in|IN the|the|DT newly|newly|RB synthesized|synthesize|VBN DNA|dna|NN strand|strand|NN after|after|IN DNA|dna|NN replication|replication|NN ,|,|, generating|generate|VBG methylated|methylated|JJ DNA|dna|NN (|(|-LRB- 29|29|CD ,|,|, 30|30|CD ,|,|, 32|32|CD ,|,|, 63|63|CD )|)|-RRB- .|.|. 
+At|at|IN certain|certain|JJ GATC|gatc|NN sites|site|NNS ,|,|, methylation|methylation|NN of|of|IN the|the|DT newly|newly|RB synthesized|synthesize|VBN strand|strand|NN is|be|VBZ hindered|hinder|VBN by|by|IN binding|bind|VBG of|of|IN proteins|proteins|NN that|that|WDT protect|protect|VBP the|the|DT GATC|gatc|NN sites|site|NNS from|from|IN Dam|dam|NN methylase|methylase|NN .|.|. 
+The|the|DT protection|protection|NN against|against|IN methylation|methylation|NN can|can|MD either|either|CC cause|cause|VB a|a|DT temporary|temporary|JJ delay|delay|NN in|in|IN methylation|methylation|NN or|or|CC generate|generate|VBP GATC|gatc|NN sites|site|NNS that|that|WDT are|be|VBP stably|stably|RB hemi|hemi|VBN -|-|HYPH methylated|methylated|JJ or|or|CC unmethylated|unmethylated|JJ (|(|-LRB- 30|30|CD ,|,|, 63|63|CD )|)|-RRB- .|.|. 
+Thus|thus|RB ,|,|, the|the|DT DNA|dna|NN methyl|methyl|NN -|-|HYPH ation|ation|NN status|status|NN can|can|MD affect|affect|VB the|the|DT interactions|interaction|NNS between|between|IN DNA|dna|NN and|and|CC proteins|proteins|NN such|such|JJ as|as|IN RNA|rna|NN polymerase|polymerase|NN or|or|CC transcription|transcription|NN factors|factor|NNS (|(|-LRB- 63|63|CD )|)|-RRB- that|that|WDT regulate|regulate|VBP (|(|-LRB- activate|activate|VB or|or|CC repress|repress|VB )|)|-RRB- gene|gene|NN expression|expression|NN .|.|. 
+Dam|dam|NN is|be|VBZ required|require|VBN for|for|IN expression|expression|NN of|of|IN virulence|virulence|NN genes|gene|NNS in|in|IN certain|certain|JJ bacteria|bacterium|NNS (|(|-LRB- 25|25|CD )|)|-RRB- ,|,|, including|include|VBG Salmonella|salmonella|NN enterica|enterica|NN (|(|-LRB- 1|1|CD ,|,|, 4|4|CD ,|,|, 6|6|CD ,|,|, 13|13|CD ,|,|, 21|21|CD ,|,|, 24|24|CD )|)|-RRB- ,|,|, but|but|CC the|the|DT virulence|virulence|NN defects|defect|NNS of|of|IN dam|dam|NN mutants|mutant|NNS are|be|VBP pleiotropic|pleiotropic|JJ and|and|CC not|not|RB completely|completely|RB known|know|VBN .|.|. 
+It|it|PRP has|have|VBZ been|be|VBN proposed|propose|VBN that|that|IN dam|dam|NN mutants|mutant|NNS could|could|MD serve|serve|VB as|as|IN live|live|JJ attenuated|attenuate|VBN vaccines|vaccine|NNS and|and|CC that|that|IN the|the|DT Dam|dam|NN protein|protein|NN itself|itself|PRP may|may|MD provide|provide|VB a|a|DT potential|potential|JJ target|target|NN for|for|IN broad|broad|JJ antimicrobial|antimicrobial|JJ activity|activity|NN (|(|-LRB- 21|21|CD )|)|-RRB- .|.|. 
+Recently|recently|RB ,|,|, dam|dam|NN mutants|mutant|NNS of|of|IN S.|S.|NNP enterica|enterica|NNP serovar|serovar|NNP Typhimurium|Typhimurium|NNP have|have|VBP been|be|VBN analyzed|analyze|VBN as|as|IN potential|potential|JJ live|live|JJ vaccines|vaccine|NNS to|to|TO prevent|prevent|VB salmonellosis|salmonellosis|NN in|in|IN birds|bird|NNS and|and|CC cattle|cattle|NNS (|(|-LRB- 10|10|CD ,|,|, 11|11|CD )|)|-RRB- .|.|. 
+We|we|PRP have|have|VBP reported|report|VBN previously|previously|RB that|that|IN an|a|DT S.|S.|NNP enterica|enterica|NNP serovar|serovar|NNP Enteritidis|Enteritidis|NNP dam|dam|NN mutant|mutant|NN expressing|express|VBG a|a|DT truncated|truncate|VBN Dam|dam|NN protein|protein|NN is|be|VBZ attenuated|attenuate|VBN (|(|-LRB- 15|15|CD )|)|-RRB- .|.|. 
+This|this|DT mutant|mutant|NN has|have|VBZ limited|limit|VBN protective|protective|JJ capacity|capacity|NN as|as|IN a|a|DT live|live|JJ vaccine|vaccine|NN (|(|-LRB- 55|55|CD )|)|-RRB- and|and|CC is|be|VBZ unable|unable|JJ to|to|TO agglutinate|agglutinate|VB in|in|IN the|the|DT presence|presence|NN of|of|IN speciﬁc|speciﬁc|NN antibodies|antibody|NNS against|against|IN O9|o9|NN polysaccharide|polysaccharide|NN (|(|-LRB- 14|14|CD ,|,|, 55|55|CD )|)|-RRB- ,|,|, suggesting|suggest|VBG that|that|IN there|there|EX is|be|VBZ a|a|DT defective|defective|JJ LPS|lps|NN .|.|. 
+The|the|DT aim|aim|NN of|of|IN the|the|DT present|present|JJ study|study|NN was|be|VBD to|to|TO investigate|investigate|VB the|the|DT participation|participation|NN of|of|IN Dam|dam|NN methylation|methylation|NN in|in|IN LPS|lps|NN synthesis|synthesis|NN in|in|IN Salmonella|Salmonella|NNP serovar|serovar|NN Enteritidis|Enteritidis|NNP .|.|. 
+Compared|compare|VBN to|to|IN the|the|DT LPS|lps|NN produced|produce|VBN by|by|IN the|the|DT parental|parental|JJ strain|strain|NN ,|,|, the|the|DT dam|dam|NN null|null|JJ mutant|mutant|JJ produced|produce|VBN LPS|lps|NN with|with|IN shorter|shorter|JJR O|o|NN -|-|HYPH antigen|antigen|NN polysaccharide|polysaccharide|NN chains|chain|NNS ,|,|, indicating|indicate|VBG that|that|IN Dam|dam|NN methylation|methylation|NN regulates|regulate|VBZ LPS|lps|NN gene|gene|NN expression|expression|NN .|.|. 
+669|669|CD MATERIALS|MATERIALS|NNP AND|and|CC METHODS|METHODS|NNPS Bacterial|bacterial|JJ strains|strain|NNS ,|,|, plasmids|plasmid|NNS ,|,|, and|and|CC growth|growth|NN conditions|condition|NNS .|.|. 
+The|the|DT bacterial|bacterial|JJ strains|strain|NNS and|and|CC plasmids|plasmid|NNS used|use|VBN are|be|VBP listed|list|VBN in|in|IN Table|table|NN 1|1|CD .|.|. 
+Salmonella|salmonella|NN serovar|serovar|NN Enteritidis|Enteritidis|NNP #|#|NN 5694|5694|CD was|be|VBD used|use|VBN to|to|TO construct|construct|VB all|all|DT of|of|IN the|the|DT mutant|mutant|NN strains|strain|NNS .|.|. 
+Gene|gene|NN deletion|deletion|NN was|be|VBD performed|perform|VBN as|as|IN described|describe|VBN by|by|IN Datsenko|Datsenko|NNP and|and|CC Wanner|Wanner|NNP (|(|-LRB- 7|7|CD )|)|-RRB- .|.|. 
+The|the|DT mutagenic|mutagenic|JJ primers|primer|NNS used|use|VBN are|be|VBP listed|list|VBN in|in|IN Table|table|NN 2|2|CD .|.|. 
+Bacteria|bacterium|NNS were|be|VBD grown|grow|VBN in|in|IN Luria|Luria|NNP -|-|HYPH Bertani|Bertani|NNP (|(|-LRB- LB|LB|NNP )|)|-RRB- broth|broth|NN (|(|-LRB- 53|53|CD )|)|-RRB- supplemented|supplement|VBN ,|,|, as|as|IN required|require|VBN ,|,|, with|with|IN antibiotics|antibiotic|NNS at|at|IN the|the|DT following|follow|VBG ﬁnal|ﬁnal|JJ concentrations|concentration|NNS :|:|: ampicilin|ampicilin|NN ,|,|, 100|100|CD g|g|NN /|/|SYM ml|ml|NN ;|;|: chloramphenicol|chloramphenicol|NN ,|,|, 30|30|CD g|g|NN /|/|SYM ml|ml|NN ;|;|: kanamycin|kanamycin|NN ,|,|, 40|40|CD g|g|NN /|/|SYM ml|ml|NN ;|;|: and|and|CC tetracycline|tetracycline|NN ,|,|, 20|20|CD g|g|NN /|/|SYM ml|ml|NN .|.|. 
+Bacterial|bacterial|JJ transformation|transformation|NN .|.|. 
+Salmonella|salmonella|NN serovar|serovar|NN Enteritidis|Enteritidis|NNP was|be|VBD transformed|transform|VBN by|by|IN electroporation|electroporation|NN as|as|IN previously|previously|RB described|describe|VBN (|(|-LRB- 9|9|CD )|)|-RRB- .|.|. 
+Brieﬂy|Brieﬂy|NNP ,|,|, bacteria|bacterium|NNS grown|grow|VBN for|for|IN 24|24|CD h|h|NNS were|be|VBD subcultured|subculture|VBN in|in|IN 5|5|CD ml|ml|NN LB|LB|NNP broth|broth|NN for|for|IN 2|2|CD h|h|NN ,|,|, harvested|harvest|VBN into|into|IN 10|10|CD %|%|NN glycerol|glycerol|NN ,|,|, and|and|CC washed|wash|VBN twice|twice|RB .|.|. 
+Forty|forty|CD -|-|HYPH ﬁve|ﬁve|NN microliters|microliter|NNS of|of|IN bacteria|bacterium|NNS was|be|VBD mixed|mix|VBN with|with|IN 5|5|CD to|to|IN 10|10|CD l|l|NN plasmid|plasmid|NN or|or|CC PCR|pcr|NN product|product|NN and|and|CC subjected|subject|VBN to|to|IN electroporation|electroporation|NN in|in|IN a|a|DT 0.2|0.2|CD -|-|HYPH cm|cm|NN electroporation|electroporation|NN cuvette|cuvette|NN (|(|-LRB- Bio-Rad|Bio-Rad|NNP )|)|-RRB- at|at|IN a|a|DT voltage|voltage|NN of|of|IN 2.5|2.5|CD kV|kv|NN ,|,|, a|a|DT resistance|resistance|NN of|of|IN 200|200|CD ,|,|, and|and|CC a|a|DT capacitance|capacitance|NN of|of|IN 25|25|CD F|f|NN .|.|. 
+After|after|IN this|this|DT ,|,|, for|for|IN recovery|recovery|NN ,|,|, 800|800|CD l|l|NN of|of|IN SOC|soc|NN broth|broth|NN was|be|VBD added|add|VBN ,|,|, and|and|CC bacteria|bacterium|NNS transformed|transform|VBN with|with|IN a|a|DT plasmid|plasmid|NN and|and|CC bacteria|bacterium|NNS transformed|transform|VBN with|with|IN a|a|DT PCR|pcr|NN product|product|NN were|be|VBD incubated|incubate|VBN for|for|IN 2|2|CD and|and|CC 18|18|CD h|h|NN ,|,|, respectively|respectively|RB .|.|. 
+Then|then|RB 70|70|CD l|l|NN of|of|IN bacteria|bacterium|NNS was|be|VBD transferred|transfer|VBN onto|onto|IN selective|selective|JJ plates|plate|NNS containing|contain|VBG the|the|DT appropriate|appropriate|JJ antibiotic|antibiotic|NN .|.|. 
+Determination|determination|NN of|of|IN the|the|DT DNA|dna|NN methylation|methylation|NN status|status|NN .|.|. 
+Genomic|genomic|JJ DNA|dna|NN was|be|VBD isolated|isolate|VBN using|use|VBG a|a|DT Puregene|puregene|NN DNA|dna|NN isolation|isolation|NN kit|kit|NN (|(|-LRB- Gentra|Gentra|NNP Systems|Systems|NNP )|)|-RRB- .|.|. 
+Two|two|CD micrograms|microgram|NNS of|of|IN DNA|dna|NN was|be|VBD incubated|incubate|VBN with|with|IN MboI|mboi|NN ,|,|, Sau3AI|sau3ai|NN ,|,|, and|and|CC DpnI|dpni|NN for|for|IN 4|4|CD h|h|NN at|at|IN 37|37|CD °C|°c|NN .|.|. 
+The|the|DT buffer|buffer|NN mixtures|mixture|NNS were|be|VBD the|the|DT mixtures|mixture|NNS recommended|recommend|VBN by|by|IN the|the|DT manufacturer|manufacturer|NN (|(|-LRB- Promega|Promega|NNP )|)|-RRB- .|.|. 
+Restricted|restrict|VBN DNA|dna|NN was|be|VBD analyzed|analyze|VBN by|by|IN electrophoresis|electrophoresis|NN on|on|IN 0.7|0.7|CD %|%|NN (|(|-LRB- wt|wt|NN /|/|HYPH vol|vol|NN )|)|-RRB- agarose|agarose|NN gels|gel|NNS along|along|IN with|with|IN DNA|dna|NN subjected|subject|VBN to|to|IN the|the|DT same|same|JJ conditions|condition|NNS in|in|IN the|the|DT absence|absence|NN of|of|IN enzyme|enzyme|NN .|.|. 
+After|after|IN electro|electro|NN -|-|HYPH phoresis|phoresis|NN the|the|DT gels|gel|NNS were|be|VBD visualized|visualize|VBN with|with|IN UV|uv|NN illumination|illumination|NN .|.|. 
+Sensitivity|sensitivity|NN to|to|IN 2|2|CD -|-|HYPH aminopurine|aminopurine|NN .|.|. 
+The|the|DT sensitivity|sensitivity|NN to|to|IN the|the|DT base|base|NN analogue|analogue|NN 2|2|CD -|-|HYPH aminopu|aminopu|NN -|-|HYPH rine|rine|NN was|be|VBD monitored|monitor|VBN using|use|VBG LB|LB|NNP medium|medium|NN plates|plate|NNS containing|contain|VBG 100|100|CD mg|mg|NN /|/|SYM ml|ml|NN 2|2|CD -|-|HYPH aminopu|aminopu|NN -|-|HYPH rine|rine|NN (|(|-LRB- 16|16|CD ,|,|, 44|44|CD )|)|-RRB- .|.|. 
+O|o|NN -|-|HYPH antigen|antigen|NN agglutination|agglutination|NN .|.|. 
+Individual|individual|JJ bacterial|bacterial|JJ colonies|colony|NNS were|be|VBD emulsiﬁed|emulsiﬁed|VBN in|in|IN 50|50|CD l|l|NN of|of|IN saline|saline|NN and|and|CC checked|check|VBD for|for|IN autoagglutination|autoagglutination|NN .|.|. 
+When|when|WRB no|no|DT agglutination|agglutination|NN was|be|VBD observed|observe|VBN ,|,|, an|a|DT equal|equal|JJ volume|volume|NN of|of|IN speciﬁc|speciﬁc|NN antiserum|antiserum|NN (|(|-LRB- Difco|Difco|NNP )|)|-RRB- was|be|VBD added|add|VBN .|.|. 
+Slides|slide|NNS were|be|VBD incubated|incubate|VBN at|at|IN room|room|NN temperature|temperature|NN with|with|IN gentle|gentle|JJ agitation|agitation|NN for|for|IN 5|5|CD min|min|NN ,|,|, and|and|CC agglutination|agglutination|NN was|be|VBD recorded|record|VBN based|base|VBN on|on|IN the|the|DT ﬂocculation|ﬂocculation|NN of|of|IN bacteria|bacterium|NNS .|.|. 
+Saline|saline|NN and|and|CC Salmonella|salmonella|NN serovar|serovar|NN Enteritidis|Enteritidis|NNP #|#|NN 5694|5694|CD were|be|VBD used|use|VBN as|as|IN negative|negative|JJ and|and|CC positive|positive|JJ controls|control|NNS for|for|IN O9|o9|NN agglutination|agglutination|NN ,|,|, respectively|respectively|RB .|.|. 
+Introduction|introduction|NN of|of|IN a|a|DT lacZY|laczy|NN transcriptional|transcriptional|JJ fusion|fusion|NN into|into|IN the|the|DT chromosomal|chromosomal|JJ wzz|wzz|NN locus|locus|NN .|.|. 
+The|the|DT wzz|wzz|NN gene|gene|NN of|of|IN Salmonella|Salmonella|NNP serovar|serovar|NN Enteritidis|Enteritidis|NNP strain|strain|NN #|#|NN 5694|5694|CD was|be|VBD disrupted|disrupt|VBN using|use|VBG the|the|DT method|method|NN described|describe|VBN by|by|IN Ellermeier|Ellermeier|NNP et|et|FW al.|al.|FW (|(|-LRB- 12|12|CD )|)|-RRB- .|.|. 
+FRT|frt|NN sites|site|NNS generated|generate|VBN by|by|IN excision|excision|NN of|of|IN kanamycin|kanamycin|NN resistance|resistance|NN cassettes|cassette|NNS were|be|VBD used|use|VBN to|to|TO integrate|integrate|VB plasmid|plasmid|NN pCE36|pce36|NN (|(|-LRB- 12|12|CD )|)|-RRB- ,|,|, generating|generate|VBG transcriptional|transcriptional|JJ lacZY|laczy|NN fusions|fusion|NNS to|to|IN the|the|DT wzz|wzz|NN gene|gene|NN promoter|promoter|NN .|.|. 
+The|the|DT resulting|result|VBG strain|strain|NN was|be|VBD designated|designate|VBN SE|SE|NNP wzz|wzz|NNP :|:|: :|:|: lacZ|lacz|NN .|.|. 
+We|we|PRP also|also|RB constructed|construct|VBD an|a|DT SE|SE|NNP wzz|wzz|NNP :|:|: :|:|: lacZ|lacz|NN dam|dam|NN derivative|derivative|NN by|by|IN using|use|VBG the|the|DT method|method|NN of|of|IN Datsenko|Datsenko|NNP and|and|CC Wanner|Wanner|NNP (|(|-LRB- 7|7|CD )|)|-RRB- .|.|. 
+For|for|IN complementation|complementation|NN experiments|experiment|NNS ,|,|, pIZ833|piz833|NN carrying|carry|VBG a|a|DT dam|dam|NN gene|gene|NN was|be|VBD introduced|introduce|VBN into|into|IN the|the|DT mutant|mutant|NN strains|strain|NNS by|by|IN electroporation|electroporation|NN .|.|. 
+Molecular|molecular|JJ cloning|cloning|NN of|of|IN Salmonella|Salmonella|NNP wzz|wzz|NN gene|gene|NN .|.|. 
+PCR|pcr|NN ampliﬁcation|ampliﬁcation|NN was|be|VBD performed|perform|VBN using|use|VBG Platinum|platinum|NN Pfx|pfx|NN DNA|dna|NN polymerase|polymerase|NN (|(|-LRB- Invitrogen|Invitrogen|NNP )|)|-RRB- .|.|. 
+The|the|DT blunt|blunt|JJ -|-|HYPH ended|ended|JJ PCR|pcr|NN product|product|NN was|be|VBD puriﬁed|puriﬁed|VBN using|use|VBG a|a|DT gel|gel|NN extraction|extraction|NN kit|kit|NN (|(|-LRB- Qiagen|Qiagen|NNP )|)|-RRB- and|and|CC ligated|ligate|VBN with|with|IN T4|t4|NN DNA|dna|NN ligase|ligase|NN (|(|-LRB- New|New|NNP England|England|NNP BioLabs|BioLabs|NNP )|)|-RRB- into|into|IN pACYC184|pacyc184|NN ,|,|, which|which|WDT was|be|VBD digested|digest|VBN with|with|IN EcoRV|ecorv|NN ,|,|, blunt|blunt|NN ended|end|VBD ,|,|, and|and|CC dephosphorylated|dephosphorylate|VBN with|with|IN shrimp|shrimp|NN alkaline|alkaline|NN phosphatase|phosphatase|NN (|(|-LRB- Roche|Roche|NNP Diagnostics|Diagnostics|NNP )|)|-RRB- .|.|. 
+The|the|DT ligation|ligation|NN mixture|mixture|NN was|be|VBD used|use|VBN to|to|TO transform|transform|VB competent|competent|JJ DH5|dh5|NN cells|cell|NNS .|.|. 
+Plasmids|plasmid|NNS were|be|VBD isolated|isolate|VBN from|from|IN Cmr|Cmr|NNP transformants|transformant|NNS and|and|CC screened|screen|VBN with|with|IN restriction|restriction|NN endonucleases|endonuclease|NNS for|for|IN inserts|insert|NNS that|that|WDT were|be|VBD the|the|DT appropriate|appropriate|JJ size|size|NN and|and|CC correct|correct|JJ orientation|orientation|NN .|.|. 
+The|the|DT integrity|integrity|NN of|of|IN the|the|DT insert|insert|NN was|be|VBD conﬁrmed|conﬁrmed|VBN by|by|IN sequencing|sequencing|NN (|(|-LRB- Macrogen|Macrogen|NNP Inc.|Inc.|NNP )|)|-RRB- ,|,|, and|and|CC the|the|DT insert|insert|NN was|be|VBD analyzed|analyze|VBN with|with|IN Sequencher|Sequencher|NNP (|(|-LRB- Gene|Gene|NNP Codes|Codes|NNPS Corporation|Corporation|NNP )|)|-RRB- and|and|CC Vector|vector|NN NTI|nti|NN software|software|NN .|.|. 
+LPS|lps|NN analysis|analysis|NN .|.|. 
+LPS|lps|NN was|be|VBD extracted|extract|VBN as|as|IN described|describe|VBN by|by|IN Marolda|Marolda|NNP et|et|FW al.|al.|FW (|(|-LRB- 33|33|CD )|)|-RRB- .|.|. 
+Brieﬂy|Brieﬂy|NNP ,|,|, the|the|DT optical|optical|JJ densities|density|NNS at|at|IN 600|600|CD nm|nm|NN (|(|-LRB- OD600|od600|NN )|)|-RRB- of|of|IN samples|sample|NNS (|(|-LRB- ﬁnal|ﬁnal|JJ volume|volume|NN ,|,|, 100|100|CD l|l|NN )|)|-RRB- from|from|IN an|a|DT overnight|overnight|JJ plate|plate|NN culture|culture|NN were|be|VBD adjusted|adjust|VBN to|to|IN 2.0|2.0|CD .|.|. 
+Then|then|RB the|the|DT samples|sample|NNS were|be|VBD suspended|suspend|VBN in|in|IN lysis|lysis|NN buffer|buffer|NN containing|contain|VBG proteinase|proteinase|NN K|k|NN as|as|IN described|describe|VBN by|by|IN Hitchcock|Hitchcock|NNP and|and|CC Brown|Brown|NNP (|(|-LRB- 22|22|CD )|)|-RRB- ,|,|, which|which|WDT was|be|VBD followed|follow|VBN by|by|IN hot|hot|JJ phenol|phenol|NN extraction|extraction|NN and|and|CC subsequent|subsequent|JJ extraction|extraction|NN of|of|IN the|the|DT aqueous|aqueous|JJ phase|phase|NN with|with|IN ether|ether|NN .|.|. 
+LPS|lps|NN was|be|VBD resolved|resolve|VBN by|by|IN electrophoresis|electrophoresis|NN in|in|IN 14|14|CD %|%|NN polyacrylamide|polyacrylamide|NN gels|gel|NNS using|use|VBG a|a|DT Tricine|tricine|NN -|-|HYPH sodium|sodium|NN dodecyl|dodecyl|NN sulfate|sulfate|NN (|(|-LRB- SDS|sds|NN )|)|-RRB- system|system|NN (|(|-LRB- 26|26|CD ,|,|, 56|56|CD )|)|-RRB- and|and|CC was|be|VBD visualized|visualize|VBN by|by|IN silver|silver|NN staining|staining|NN .|.|. 
+Each|each|DT well|well|NN was|be|VBD loaded|load|VBN with|with|IN the|the|DT sam|sam|NNP TABLE|table|NN 1|1|CD .|.|. 
+Strains|strain|NNS and|and|CC plasmids|plasmid|NNS used|use|VBN in|in|IN this|this|DT study|study|NN Relevant|relevant|JJ characteristic|characteristic|JJ (|(|-LRB- s|s|AFX )|)|-RRB- Strain|strain|NN or|or|CC plasmid|plasmid|NN Source|source|NN or|or|CC reference|reference|NN S.|S.|NNP enterica|enterica|NNP serovar|serovar|NN Enteritidis|enteritidis|NN strains|strain|NNS #|#|NN 5694|5694|CD SE|SE|NNP dam|dam|NN SE|SE|NNP wzz|wzz|NNP :|:|: :|:|: lacZ|lacz|NN SE|SE|NNP wzz|wzz|NNP :|:|: :|:|: lacZ|lacz|NN dam|dam|NN F.|F.|NNP Collins|Collins|NNP collection|collection|NN This|this|DT study|study|NN This|this|DT study|study|NN This|this|DT study|study|NN Wild|wild|JJ type|type|NN dam|dam|NN #|#|NN 5694|5694|CD wzz|wzz|NN r|r|NN st|st|NNP :|:|: :|:|: lacZY|laczy|NN ,|,|, Km|km|NN #|#|NN 5694|5694|CD wzzst|wzzst|NN :|:|: :|:|: lacZY|laczy|NN dam|dam|NN ,|,|, Kmr|Kmr|NNP F|F|NNP 80lacZM15|80laczm15|NN endA|endA|NNP recA|recA|NNP hsdR|hsdR|NNP (|(|-LRB- rK|rk|NN (|(|-LRB- lacZYA|laczya|NN -|-|HYPH argF|argf|NN )|)|-RRB- U169|u169|NN E.|e.|FW coli|coli|FW K|k|NN -|-|HYPH 12|12|CD strain|strain|NN DH5|DH5|NNP Laboratory|Laboratory|NNP stock|stock|NN mK|mk|NN )|)|-RRB- supE|supe|NN thi|thi|NNP gyrA|gyrA|NNP relA|rela|NN Plasmids|plasmid|NNS Cmr|cmr|NN Tetr|tetr|NN ,|,|, cloning|cloning|NN vector|vector|NN ahp|ahp|NN FRT|frt|NN lacZY|laczy|NN this|this|DT oriR6K|orir6k|NN pACYC184|pacyc184|NN pCE36|pce36|NN pCP20|pcp20|NN pIZ833|piz833|NN pKD3|pkd3|NN pKD4|pkd4|NN pKD46|pkd46|NN pwzz|pwzz|NN 52|52|CD 12|12|CD FLP|flp|NN cI857|ci857|NN p|p|NN Repts|rept|VBZ Ampr|Ampr|NNP Cmr|Cmr|NNP R|R|NNP E.|E.|NNP coli|coli|NNP dam|dam|NN gene|gene|NN ,|,|, Ampr|Ampr|NNP Template|Template|NNP plasmid|plasmid|NN for|for|IN mutagenesis|mutagenesis|NN ,|,|, Ampr|Ampr|NNP Cmr|Cmr|NNP Template|Template|NNP plasmid|plasmid|NN for|for|IN mutagenesis|mutagenesis|NN ,|,|, Ampr|Ampr|NNP Kmr|Kmr|NNP ,|,|, ,|,|, and|and|CC exo|exo|NN from|from|IN phage|phage|NN ,|,|, araC|arac|NN -|-|HYPH ParaB|parab|NN ,|,|, Ampr|Ampr|NNP wzz|wzz|NNP ,|,|, Cmr|Cmr|NNP (|(|-LRB- pACYC184|pacyc184|NN backbone|backbone|NN )|)|-RRB- 7|7|CD 57|57|CD 7|7|CD 7|7|CD 7|7|CD This|this|DT study|study|NN Real|Real|NNP -|-|HYPH time|time|NN PCR|pcr|NN 16S|16s|NN rRNA|rrna|NN gene|gene|NN GCCGCAAGGTTAAAACTCAA|gccgcaaggttaaaactcaa|NN AAGGCACCAATCCATCTCTG|aaggcaccaatccatctctg|NN CGTCGCTTCGTTCTGTATCA|cgtcgcttcgttctgtatca|NN AGGATGTTACCCAGGACACG|aggatgttacccaggacacg|NN q|q|NN -|-|HYPH 16S|16s|NN -|-|HYPH F|f|NN q|q|NN -|-|HYPH 16S|16s|NN -|-|HYPH R|r|NN q|q|NN -|-|HYPH wzz|wzz|NN -|-|HYPH F|f|NN q|q|NN -|-|HYPH wzz|wzz|NN -|-|HYPH R|r|NN wzz|wzz|IN a|a|DT Primers|primer|NNS were|be|VBD purchased|purchase|VBN from|from|IN Invitrogen|Invitrogen|NNP Inc.|Inc.|NNP and|and|CC were|be|VBD designed|design|VBN using|use|VBG the|the|DT DNA|dna|NN sequence|sequence|NN inform|inform|VBP (|(|-LRB- Salmonella|Salmonella|NNP sp|sp|NNP .|.|. 
+comparative|comparative|JJ sequencing|sequencing|NN blast|blast|NN server|server|NN BLAST|blast|NN Server|server|NN Database|database|NN at|at|IN www.sanger.ac.uk|www.sanger.ac.uk|NN )|)|-RRB- .|.|. 
+b|b|LS F|f|NN ,|,|, forward|forward|JJ primer|primer|NN ;|;|: R|r|NN ,|,|, reverse|reverse|JJ primer|primer|NN .|.|. 
+c|c|LS Underlining|underline|VBG indicates|indicate|VBZ a|a|DT sequence|sequence|NN homologous|homologous|JJ to|to|IN pKD3|pkd3|NN ,|,|, pKD4|pkd4|NN ,|,|, or|or|CC pCE36|pce36|NN .|.|. 
+ation|ation|NN available|available|JJ for|for|IN the|the|DT Salmonella|Salmonella|NNP serovar|serovar|NN Enteritidis|Enteritidis|NNP strain|strain|NN LPS|lps|NN concentration|concentration|NN ,|,|, as|as|IN determined|determine|VBN by|by|IN the|the|DT keto|keto|NN -|-|HYPH deoxyoctulosonic|deoxyoctulosonic|NN (|(|-LRB- KDO|kdo|NN )|)|-RRB- assay|assay|NN (|(|-LRB- 43|43|CD )|)|-RRB- .|.|. 
+A|a|DT densitometry|densitometry|NN analysis|analysis|NN was|be|VBD performed|perform|VBN using|use|VBG ImageJ|imagej|NN software|software|NN .|.|. 
+The|the|DT ratio|ratio|NN of|of|IN the|the|DT relative|relative|JJ intensity|intensity|NN of|of|IN the|the|DT lipid|lipid|NN A-core|a-core|NN band|band|NN to|to|IN the|the|DT average|average|JJ intensity|intensity|NN of|of|IN the|the|DT bands|band|NNS corresponding|correspond|VBG to|to|IN total|total|JJ O|o|NN antigen|antigen|NN and|and|CC core|core|NN n|n|NN was|be|VBD calculated|calculate|VBN by|by|IN quantifying|quantify|VBG the|the|DT pixels|pixel|NNS in|in|IN a|a|DT narrow|narrow|JJ window|window|NN across|across|IN the|the|DT center|center|NN of|of|IN each|each|DT lane|lane|NN .|.|. 
+The|the|DT densi|densi|NN -|-|HYPH tometric|tometric|JJ analysis|analysis|NN was|be|VBD calibrated|calibrate|VBN by|by|IN determining|determine|VBG the|the|DT ratio|ratio|NN of|of|IN the|the|DT relative|relative|JJ intensity|intensity|NN of|of|IN the|the|DT lipid|lipid|NN A-core|a-core|NN region|region|NN to|to|IN the|the|DT average|average|JJ intensity|intensity|NN of|of|IN the|the|DT O|o|NN -|-|HYPH antigen|antigen|NN bands|band|NNS .|.|. 
+-|-|HYPH Galactosidase|galactosidase|NN assays|assay|NNS .|.|. 
+The|the|DT expression|expression|NN of|of|IN the|the|DT lacZY|laczy|NN transcriptional|transcriptional|JJ fusion|fusion|NN was|be|VBD quantiﬁed|quantiﬁed|VBN spectrophotometrically|spectrophotometrically|RB as|as|IN described|describe|VBN elsewhere|elsewhere|RB (|(|-LRB- 36|36|CD ,|,|, 46|46|CD )|)|-RRB- .|.|. 
+Enzymatic|enzymatic|JJ activity|activity|NN ,|,|, which|which|WDT was|be|VBD expressed|express|VBN in|in|IN Miller|Miller|NNP units|unit|NNS and|and|CC normalized|normalize|VBN for|for|IN bacterial|bacterial|JJ density|density|NN (|(|-LRB- OD600|od600|NN )|)|-RRB- ,|,|, was|be|VBD calculated|calculate|VBN using|use|VBG the|the|DT following|follow|VBG equation|equation|NN :|:|: [|[|-LRB- (|(|-LRB- A420|a420|NN 1.75|1.75|CD A550|a550|NN )|)|-RRB- 1,000|1,000|CD ]|]|-RRB- /|/|HYPH (|(|-LRB- reaction|reaction|NN time|time|NN culture|culture|NN volume|volume|NN OD600|od600|NN )|)|-RRB- ,|,|, where|where|WRB the|the|DT reaction|reaction|NN time|time|NN was|be|VBD expressed|express|VBN in|in|IN minutes|minute|NNS and|and|CC the|the|DT culture|culture|NN volume|volume|NN was|be|VBD expressed|express|VBN in|in|IN milliliters|milliliter|NNS .|.|. 
+Each|each|DT sample|sample|NN was|be|VBD analyzed|analyze|VBN in|in|IN triplicate|triplicate|NN for|for|IN three|three|CD independent|independent|JJ experiments|experiment|NNS .|.|. 
+Protein|protein|NN analysis|analysis|NN .|.|. 
+Total|total|JJ membrane|membrane|NN fractions|fraction|NNS were|be|VBD prepared|prepare|VBN from|from|IN cells|cell|NNS grown|grow|VBN in|in|IN LB|LB|NNP medium|medium|NN and|and|CC harvested|harvest|VBN at|at|IN an|a|DT OD600|od600|NN of|of|IN 1|1|CD as|as|IN previously|previously|RB described|describe|VBN (|(|-LRB- 34|34|CD )|)|-RRB- .|.|. 
+Samples|sample|NNS were|be|VBD mixed|mix|VBN with|with|IN 3|3|CD protein|protein|NN tracking|tracking|NN dye|dye|NN ,|,|, incubated|incubate|VBN for|for|IN 30|30|CD min|min|NN at|at|IN 45|45|CD °C|°c|NN ,|,|, separated|separate|VBN on|on|IN a|a|DT 14|14|CD %|%|NN SDS|sds|NN -|-|HYPH polyacrylamide|polyacrylamide|NN gel|gel|NN electrophoresis|electrophoresis|NN (|(|-LRB- PAGE|page|NN )|)|-RRB- gel|gel|NN ,|,|, and|and|CC transferred|transfer|VBN to|to|IN nitrocellulose|nitrocellulose|NN membranes|membrane|NNS .|.|. 
+The|the|DT same|same|JJ membrane|membrane|NN was|be|VBD incubated|incubate|VBN with|with|IN anti-Wzz|anti-wzz|JJ afﬁnity|afﬁnity|NN -|-|HYPH puriﬁed|puriﬁed|VBN polyclonal|polyclonal|JJ rabbit|rabbit|NN antibodies|antibody|NNS (|(|-LRB- 34|34|CD )|)|-RRB- and|and|CC anti-Flag|anti-flag|JJ monoclonal|monoclonal|JJ antibodies|antibody|NNS (|(|-LRB- Sigma|Sigma|NNP )|)|-RRB- .|.|. 
+The|the|DT reacting|react|VBG bands|band|NNS were|be|VBD detected|detect|VBN by|by|IN ﬂuorescence|ﬂuorescence|NN with|with|IN an|a|DT Odyssey|odyssey|NN infrared|infrared|JJ imaging|imaging|NN system|system|NN (|(|-LRB- Li|Li|NNP -|-|HYPH cor|cor|NNP Biosciences|Biosciences|NNP )|)|-RRB- using|use|VBG IRDye800CW|irdye800cw|NN afﬁnity|afﬁnity|NN -|-|HYPH puriﬁed|puriﬁed|VBN anti-rabbit|anti-rabbit|JJ antibodies|antibody|NNS (|(|-LRB- Rockland|Rockland|NNP ,|,|, Pennsylvania|Pennsylvania|NNP )|)|-RRB- and|and|CC Alexa|Alexa|NNP Fluor|Fluor|NNP 680|680|CD anti-mouse|anti-mouse|JJ antibodies|antibody|NNS (|(|-LRB- Molecular|Molecular|NNP Probes|Probes|NNP )|)|-RRB- .|.|. 
+Densitometry|densitometry|NN analysis|analysis|NN was|be|VBD performed|perform|VBN using|use|VBG the|the|DT Odyssey|odyssey|NN software|software|NN and|and|CC digital|digital|JJ images|image|NNS of|of|IN the|the|DT membranes|membrane|NNS ,|,|, which|which|WDT were|be|VBD incubated|incubate|VBN simultaneously|simultaneously|RB with|with|IN both|both|DT anti-Wzz|anti-wzz|JJ and|and|CC antiFlag|antiflag|JJ antibodies|antibody|NNS .|.|. 
+This|this|DT resulted|result|VBD in|in|IN protein|protein|NN bands|band|NNS with|with|IN two|two|CD ﬂuorescence|ﬂuorescence|NN colors|color|NNS ,|,|, and|and|CC since|since|IN the|the|DT anti-Flag|anti-flag|JJ antibody|antibody|NN cross-reacted|cross-react|VBN with|with|IN an|a|DT unknown|unknown|JJ constitutively|constitutively|RB expressed|express|VBN membrane|membrane|NN protein|protein|NN ,|,|, we|we|PRP used|use|VBD the|the|DT density|density|NN of|of|IN pixels|pixel|NNS of|of|IN this|this|DT protein|protein|NN band|band|NN as|as|IN an|a|DT internal|internal|JJ loading|loading|NN standard|standard|NN for|for|IN normalization|normalization|NN .|.|. 
+Bacteria|bacterium|NNS were|be|VBD grown|grow|VBN at|at|IN 37|37|CD °C|°c|NN with|with|IN agitation|agitation|NN to|to|IN an|a|DT RT|rt|NN and|and|CC real|real|JJ -|-|HYPH time|time|NN PCR|pcr|NN .|.|. 
+OD|od|NN of|of|IN 0.6|0.6|CD .|.|. 
+Cells|cell|NNS were|be|VBD lysed|lyse|VBN ,|,|, and|and|CC total|total|JJ RNA|rna|NN was|be|VBD isolated|isolate|VBN using|use|VBG Trizol|trizol|NN reagent|reagent|NN 600|600|CD (|(|-LRB- Invitrogen|Invitrogen|NNP )|)|-RRB- .|.|. 
+Contaminating|contaminate|VBG DNA|dna|NN was|be|VBD digested|digest|VBN with|with|IN RNase|rnase|NN -|-|HYPH free|free|JJ DNase|dnase|NN I|i|CD (|(|-LRB- Epicentre|Epicentre|NNP Biotechnologies|Biotechnologies|NNP )|)|-RRB- ,|,|, and|and|CC the|the|DT purity|purity|NN of|of|IN all|all|DT RNA|rna|NN preparations|preparation|NNS was|be|VBD conﬁrmed|conﬁrmed|VBN by|by|IN subjecting|subject|VBG them|they|PRP to|to|TO reverse|reverse|VB transcription|transcription|NN -|-|HYPH PCR|pcr|NN (|(|-LRB- RT|rt|NN -|-|HYPH PCR|pcr|NN )|)|-RRB- analysis|analysis|NN using|use|VBG prim|prim|JJ -|-|HYPH ers|ers|NNPS speciﬁc|speciﬁc|NN for|for|IN the|the|DT gene|gene|NN encoding|encode|VBG the|the|DT 16S|16s|NN rRNA|rrna|NN (|(|-LRB- Table|table|NN 2|2|CD )|)|-RRB- .|.|. 
+After|after|IN inactivation|inactivation|NN of|of|IN DNase|dnase|NN ,|,|, RNA|rna|NN was|be|VBD used|use|VBN as|as|IN a|a|DT template|template|NN for|for|IN RT.|RT.|NNP .|.|. 
+Complementary|complementary|JJ cDNA|cdna|NN was|be|VBD synthesized|synthesize|VBN using|use|VBG random|random|JJ hexamer|hexamer|NN primers|primer|NNS (|(|-LRB- Invitrogen|Invitrogen|NNP )|)|-RRB- ,|,|, deoxynucleoside|deoxynucleoside|NN triphosphates|triphosphate|NNS ,|,|, and|and|CC Moloney|Moloney|NNP murine|murine|JJ leukemia|leukemia|NN virus|virus|NN reverse|reverse|JJ transcriptase|transcriptase|NN (|(|-LRB- Invitrogen|Invitrogen|NNP )|)|-RRB- .|.|. 
+Relative|relative|JJ quantitative|quantitative|JJ real|real|JJ -|-|HYPH time|time|NN PCR|pcr|NN was|be|VBD performed|perform|VBN with|with|IN an|a|DT appropriate|appropriate|JJ primer|primer|NN set|set|NN ,|,|, cDNAs|cdna|NNS ,|,|, and|and|CC Mezcla|Mezcla|NNP Real|Real|NNP (|(|-LRB- Biodynamics|Biodynamics|NNP )|)|-RRB- that|that|WDT contained|contain|VBD nucleotides|nucleotide|NNS ,|,|, polymerase|polymerase|NN ,|,|, reaction|reaction|NN buffer|buffer|NN ,|,|, and|and|CC Green|green|JJ dye|dye|NN ,|,|, using|use|VBG a|a|DT Rotor|Rotor|NNP -|-|HYPH Gene|Gene|NNP 6000|6000|CD real|real|JJ -|-|HYPH time|time|NN PCR|pcr|NN machine|machine|NN (|(|-LRB- Corbett|Corbett|NNP Research|Research|NNP )|)|-RRB- .|.|. 
+The|the|DT ampliﬁcation|ampliﬁcation|NN program|program|NN consisted|consist|VBD of|of|IN an|a|DT initial|initial|JJ incubation|incubation|NN for|for|IN 3|3|CD min|min|NN at|at|IN 95|95|CD °C|°c|NN ,|,|, followed|follow|VBN by|by|IN 40|40|CD cycles|cycle|NNS of|of|IN 95|95|CD °C|°c|NN for|for|IN 20|20|CD s|s|NN ,|,|, 60|60|CD °C|°c|NN for|for|IN 30|30|CD s|s|NN ,|,|, and|and|CC 72|72|CD °C|°c|NN 20|20|CD s|s|NN .|.|. 
+We|we|PRP used|use|VBD primers|primer|NNS q|q|NN -|-|HYPH wzz|wzz|NN -|-|HYPH F|f|NN and|and|CC q|q|NN -|-|HYPH wzz|wzz|NN -|-|HYPH R|r|NN for|for|IN wzz|wzz|NN and|and|CC primers|primer|NNS q|q|NN -|-|HYPH 16S|16s|NN -|-|HYPH F|f|NN and|and|CC q|q|NN -|-|HYPH 16S|16s|NN -|-|HYPH R|r|NN for|for|IN the|the|DT 16S|16s|NN rRNA|rrna|NN gene|gene|NN (|(|-LRB- Table|table|NN 2|2|CD )|)|-RRB- .|.|. 
+For|for|IN the|the|DT relative|relative|JJ gene|gene|NN expression|expression|NN analysis|analysis|NN ,|,|, a|a|DT comparative|comparative|JJ cycle|cycle|NN threshold|threshold|NN method|method|NN (|(|-LRB- CT|ct|NN )|)|-RRB- was|be|VBD used|use|VBN (|(|-LRB- 28|28|CD )|)|-RRB- .|.|. 
+The|the|DT number|number|NN of|of|IN copies|copy|NNS of|of|IN each|each|DT sample|sample|NN transcript|transcript|NN was|be|VBD determined|determine|VBN with|with|IN the|the|DT aid|aid|NN of|of|IN the|the|DT software|software|NN .|.|. 
+Brieﬂy|Brieﬂy|NNP ,|,|, the|the|DT ampliﬁcation|ampliﬁcation|NN efﬁciencies|efﬁciencies|NNS of|of|IN the|the|DT genes|gene|NNS of|of|IN interest|interest|NN and|and|CC the|the|DT 16S|16s|NN rRNA|rrna|NN gene|gene|NN used|use|VBN for|for|IN normalization|normalization|NN were|be|VBD tested|test|VBN .|.|. 
+Then|then|RB each|each|DT sample|sample|NN was|be|VBD ﬁrst|ﬁrst|JJ normalized|normalize|VBN for|for|IN the|the|DT amount|amount|NN of|of|IN template|template|NN added|add|VBN by|by|IN comparison|comparison|NN to|to|IN the|the|DT 16S|16s|NN rRNA|rrna|NN gene|gene|NN (|(|-LRB- endogenous|endogenous|JJ control|control|NN )|)|-RRB- .|.|. 
+The|the|DT normalized|normalize|VBN values|value|NNS were|be|VBD further|further|JJ normalized|normalize|VBN using|use|VBG the|the|DT wild|wild|JJ -|-|HYPH type|type|NN sample|sample|NN (|(|-LRB- calibrator|calibrator|NN treatment|treatment|NN )|)|-RRB- .|.|. 
+Hence|hence|RB ,|,|, the|the|DT results|result|NNS were|be|VBD expressed|express|VBN relative|relative|JJ to|to|IN the|the|DT value|value|NN for|for|IN the|the|DT calibrator|calibrator|NN sample|sample|NN ,|,|, which|which|WDT was|be|VBD 1|1|CD .|.|. 
+RESULTS|result|NNS AND|and|CC DISCUSSION|discussion|NN Abnormal|abnormal|JJ O|o|NN -|-|HYPH antigen|antigen|NN chain|chain|NN length|length|NN distribution|distribution|NN in|in|IN a|a|DT Salmo|salmo|NN -|-|HYPH nella|nella|NN serovar|serovar|NN Enteritidis|Enteritidis|NNP dam|dam|NN deletion|deletion|NN mutant|mutant|NN .|.|. 
+We|we|PRP observed|observe|VBD previously|previously|RB that|that|IN Salmonella|Salmonella|NNP serovar|serovar|NN Enteritidis|Enteritidis|NNP mutant|mutant|NN SD1|sd1|NN expressing|express|VBG a|a|DT truncated|truncate|VBN Dam|dam|NN protein|protein|NN (|(|-LRB- 15|15|CD )|)|-RRB- does|do|VBZ not|not|RB agglutinate|agglutinate|JJ with|with|IN anti-O9|anti-o9|JJ serum|serum|NN (|(|-LRB- 14|14|CD )|)|-RRB- .|.|. 
+To|to|TO better|better|RBR understand|understand|VB the|the|DT role|role|NN of|of|IN Dam|dam|NN in|in|IN LPS|lps|NN expression|expression|NN ,|,|, we|we|PRP constructed|construct|VBD a|a|DT dam|dam|NN deletion|deletion|NN mutant|mutant|NN of|of|IN Salmonella|Salmonella|NNP serovar|serovar|NN Enteritidis|Enteritidis|NNP strain|strain|NN #|#|NN 5694|5694|CD (|(|-LRB- SE|SE|NNP dam|dam|NN )|)|-RRB- (|(|-LRB- 5|5|CD )|)|-RRB- dam|dam|NN :|:|: :|:|: Cm|cm|NN (|(|-LRB- R|r|NN )|)|-RRB- Chromosomal|chromosomal|JJ lacZY|laczy|NN fusion|fusion|NN wzz|wzz|IN TACACTGTCTCCAGCTTCATCCTTTTTTTAGTTAGGGT|TACACTGTCTCCAGCTTCATCCTTTTTTTAGTTAGGGT|NNP ATCTAGTGTAGGCTGGAGCTGCTTCG|ATCTAGTGTAGGCTGGAGCTGCTTCG|NNP TACCTTTCGAAGCCGACCACCATCCGGCAAAGAAGCT|TACCTTTCGAAGCCGACCACCATCCGGCAAAGAAGCT|NNP TACATATGAATATCCTCCTTAG|TACATATGAATATCCTCCTTAG|NNP wzz|wzz|NN :|:|: :|:|: Km|km|NN (|(|-LRB- F|f|NN )|)|-RRB- wzz|wzz|NN :|:|: :|:|: Km|km|NN (|(|-LRB- R|r|NN )|)|-RRB- Gene|gene|NN cloning|cloning|NN wzz|wzz|IN wzz|wzz|NN -|-|HYPH F|f|NN wzz|wzz|NN -|-|HYPH R|r|NN GCTTACAAGGCTTTTGGC|gcttacaaggcttttggc|NN TAGGGTATCTATGACAGTGGAT|tagggtatctatgacagtggat|NN Veriﬁcation|veriﬁcation|NN of|of|IN predicted|predict|VBN construction|construction|NN dam|dam|NN rpe|rpe|NN damX|damX|NNP TACGACAACCTGAACGGTTG|TACGACAACCTGAACGGTTG|NNP GCAGCGTGCGGTCAACATG|GCAGCGTGCGGTCAACATG|NNP GCGGCCACCGTCAATGATCG|GCGGCCACCGTCAATGATCG|NNP CATTATTTCCAACAGGATGGCGGC|CATTATTTCCAACAGGATGGCGGC|NNP CCATGTTGGAATTTAATCGCGGCC|CCATGTTGGAATTTAATCGCGGCC|NNP ACCAGGCAAAGCGCCATTCG|ACCAGGCAAAGCGCCATTCG|NNP wzz|wzz|IN His|he|PRP$ Ugd|Ugd|NNP Kmr|Kmr|NNP LacZrevcheck|LacZrevcheck|NNP Real|Real|NNP -|-|HYPH time|time|NN PCR|pcr|NN 16S|16s|NN rRNA|rrna|NN gene|gene|NN GCCGCAAGGTTAAAACTCAA|gccgcaaggttaaaactcaa|NN AAGGCACCAATCCATCTCTG|aaggcaccaatccatctctg|NN CGTCGCTTCGTTCTGTATCA|cgtcgcttcgttctgtatca|NN AGGATGTTACCCAGGACACG|aggatgttacccaggacacg|NN q|q|NN -|-|HYPH 16S|16s|NN -|-|HYPH F|f|NN q|q|NN -|-|HYPH 16S|16s|NN -|-|HYPH R|r|NN q|q|NN -|-|HYPH wzz|wzz|NN -|-|HYPH F|f|NN q|q|NN -|-|HYPH wzz|wzz|NN -|-|HYPH R|r|NN wzz|wzz|IN a|a|DT Primers|primer|NNS were|be|VBD purchased|purchase|VBN from|from|IN Invitrogen|Invitrogen|NNP Inc.|Inc.|NNP and|and|CC were|be|VBD designed|design|VBN using|use|VBG the|the|DT DNA|dna|NN sequence|sequence|NN inform|inform|VBP (|(|-LRB- Salmonella|Salmonella|NNP sp|sp|NNP .|.|. 
+comparative|comparative|JJ sequencing|sequencing|NN blast|blast|NN server|server|NN BLAST|blast|NN Server|server|NN Database|database|NN at|at|IN www.sanger.ac.uk|www.sanger.ac.uk|NN )|)|-RRB- .|.|. 
+b|b|LS F|f|NN ,|,|, forward|forward|JJ primer|primer|NN ;|;|: R|r|NN ,|,|, reverse|reverse|JJ primer|primer|NN .|.|. 
+c|c|LS Underlining|underline|VBG indicates|indicate|VBZ a|a|DT sequence|sequence|NN homologous|homologous|JJ to|to|IN pKD3|pkd3|NN ,|,|, pKD4|pkd4|NN ,|,|, or|or|CC pCE36|pce36|NN .|.|. 
+ation|ation|NN available|available|JJ for|for|IN the|the|DT Salmonella|Salmonella|NNP serovar|serovar|NN Enteritidis|Enteritidis|NNP strain|strain|NN The|the|DT dam|dam|NN null|null|JJ phenotype|phenotype|NN of|of|IN SE|SE|NNP dam|dam|NN was|be|VBD veriﬁed|veriﬁed|VBN by|by|IN digesting|digest|VBG its|its|PRP$ chromosomal|chromosomal|JJ DNA|dna|NN with|with|IN appropriate|appropriate|JJ restriction|restriction|NN enzymes|enzyme|NNS .|.|. 
+SE|SE|NNP dam|dam|NN was|be|VBD susceptible|susceptible|JJ to|to|IN 2|2|CD -|-|HYPH aminopurine|aminopurine|NN and|and|CC formed|form|VBD ﬁlaments|ﬁlaments|NNS when|when|WRB it|it|PRP was|be|VBD cultured|culture|VBN in|in|IN liquid|liquid|JJ media|media|NNS ,|,|, both|both|DT of|of|IN which|which|WDT are|be|VBP characteristic|characteristic|JJ phenotypes|phenotype|NNS of|of|IN dam|dam|NN mutants|mutant|NNS (|(|-LRB- data|datum|NNS not|not|RB shown|show|VBN )|)|-RRB- .|.|. 
+Like|like|IN the|the|DT SD1|sd1|NN mutant|mutant|NN (|(|-LRB- 14|14|CD ,|,|, 55|55|CD )|)|-RRB- ,|,|, SE|SE|NNP dam|dam|NN also|also|RB showed|show|VBD a|a|DT reduced|reduce|VBN level|level|NN of|of|IN agglutination|agglutination|NN with|with|IN anti-O9|anti-o9|JJ serum|serum|NN ,|,|, as|as|IN demonstrated|demonstrate|VBN by|by|IN a|a|DT 1|1|CD -|-|HYPH to|to|IN 2|2|CD -|-|HYPH min|min|NN delay|delay|NN in|in|IN agglutination|agglutination|NN compared|compare|VBN to|to|IN the|the|DT parental|parental|JJ strain|strain|NN ,|,|, which|which|WDT agglutinated|agglutinate|VBD almost|almost|RB immediately|immediately|RB .|.|. 
+The|the|DT LPS|lps|NN O|o|NN -|-|HYPH antigen|antigen|NN proﬁles|proﬁles|NNS of|of|IN the|the|DT SE|SE|NNP dam|dam|NN and|and|CC parental|parental|JJ strains|strain|NNS were|be|VBD examined|examine|VBN by|by|IN electrophoresis|electrophoresis|NN and|and|CC silver|silver|NN staining|staining|NN .|.|. 
+A|a|DT different|different|JJ banding|banding|NN pattern|pattern|NN was|be|VBD observed|observe|VBN for|for|IN the|the|DT LPS|lps|NN O|o|NN antigen|antigen|NN from|from|IN SE|SE|NNP dam|dam|NN ,|,|, which|which|WDT had|have|VBD many|many|JJ more|more|JJR visible|visible|JJ bands|band|NNS in|in|IN the|the|DT intermediate|intermediate|JJ region|region|NN of|of|IN the|the|DT gel|gel|NN (|(|-LRB- Fig.|fig.|NN 1|1|CD ,|,|, lane|lane|NN 2|2|CD )|)|-RRB- compared|compare|VBN to|to|IN the|the|DT banding|band|VBG pattern|pattern|NN of|of|IN the|the|DT wild|wild|JJ -|-|HYPH type|type|NN LPS|lps|NN (|(|-LRB- Fig.|fig.|NN 1|1|CD ,|,|, lane|lane|NN 1|1|CD )|)|-RRB- .|.|. 
+This|this|DT region|region|NN contains|contain|VBZ O|o|NN polymers|polymer|NNS with|with|IN lower|lower|JJR molecular|molecular|JJ masses|mass|NNS ,|,|, usually|usually|RB consisting|consist|VBG of|of|IN one|one|CD to|to|IN ﬁve|ﬁve|NN O|o|NN -|-|HYPH antigen|antigen|NN units|unit|NNS .|.|. 
+On|on|IN the|the|DT other|other|JJ hand|hand|NN ,|,|, the|the|DT amount|amount|NN of|of|IN molecules|molecule|NNS in|in|IN the|the|DT polymeric|polymeric|JJ O|o|NN -|-|HYPH antigen|antigen|NN region|region|NN was|be|VBD not|not|RB substantially|substantially|RB different|different|JJ (|(|-LRB- Fig.|fig.|NN 1|1|CD )|)|-RRB- .|.|. 
+Therefore|therefore|RB ,|,|, the|the|DT observed|observe|VBN difference|difference|NN in|in|IN the|the|DT SE|SE|NNP dam|dam|NN LPS|lps|NN pattern|pattern|NN is|be|VBZ consistent|consistent|JJ with|with|IN an|a|DT increased|increase|VBN amount|amount|NN of|of|IN short|short|JJ polysaccharide|polysaccharide|NN chains|chain|NNS ,|,|, suggesting|suggest|VBG that|that|IN this|this|DT mutant|mutant|NN has|have|VBZ an|a|DT altered|altered|JJ O|o|NN -|-|HYPH antigen|antigen|NN polysaccharide|polysaccharide|NN chain|chain|NN length|length|NN distribution|distribution|NN .|.|. 
+To|to|TO determine|determine|VB if|if|IN this|this|DT defect|defect|NN is|be|VBZ associated|associate|VBN with|with|IN the|the|DT absence|absence|NN of|of|IN Dam|dam|NN function|function|NN ,|,|, we|we|PRP also|also|RB examined|examine|VBD the|the|DT O|o|NN -|-|HYPH antigen|antigen|NN banding|band|VBG pattern|pattern|NN of|of|IN the|the|DT SE|SE|NNP dam|dam|NN strain|strain|NN containing|contain|VBG pIZ833|piz833|NN ,|,|, which|which|WDT contains|contain|VBZ a|a|DT functional|functional|JJ dam|dam|NN gene|gene|NN .|.|. 
+The|the|DT banding|band|VBG pattern|pattern|NN of|of|IN this|this|DT strain|strain|NN was|be|VBD similar|similar|JJ to|to|IN the|the|DT parental|parental|JJ banding|banding|NN pattern|pattern|NN (|(|-LRB- Fig.|fig.|NN 1|1|CD ,|,|, lane|lane|NN 4|4|CD )|)|-RRB- .|.|. 
+Densitometric|densitometric|JJ quantiﬁcation|quantiﬁcation|NN of|of|IN LPS|lps|NN gels|gel|NNS revealed|reveal|VBD no|no|DT signiﬁcant|signiﬁcant|JJ differences|difference|NNS between|between|IN SE|SE|NNP dam|dam|NN and|and|CC the|the|DT wild|wild|JJ -|-|HYPH type|type|NN strain|strain|NN in|in|IN the|the|DT amount|amount|NN of|of|IN total|total|JJ O|o|NN antigen|antigen|NN relative|relative|JJ to|to|IN the|the|DT lipid|lipid|NN A-core|a-core|NN region|region|NN (|(|-LRB- 3.365|3.365|CD 0.105|0.105|CD and|and|CC 3.115|3.115|CD 0.165|0.165|CD ,|,|, respectively|respectively|RB )|)|-RRB- .|.|. 
+This|this|DT result|result|NN suggests|suggest|VBZ that|that|IN the|the|DT shorter|shorter|JJR poly|poly|NN -|-|HYPH saccharide|saccharide|NN chains|chain|NNS observed|observe|VBN in|in|IN the|the|DT mutant|mutant|NN are|be|VBP not|not|RB synthesized|synthesize|VBN at|at|IN the|the|DT expense|expense|NN of|of|IN longer|longer|JJR chains|chain|NNS .|.|. 
+We|we|PRP concluded|conclude|VBD that|that|IN Dam|dam|NN meth|meth|NN -|-|HYPH ylation|ylation|NN has|have|VBZ an|a|DT effect|effect|NN on|on|IN the|the|DT O|o|NN -|-|HYPH antigen|antigen|NN polysaccharide|polysaccharide|NN chain|chain|NN length|length|NN in|in|IN Salmonella|Salmonella|NNP serovar|serovar|NN Enteritidis|Enteritidis|NNP .|.|. 
+This|this|DT phenomenon|phenomenon|NN was|be|VBD not|not|RB unique|unique|JJ to|to|IN Salmonella|Salmonella|NNP ,|,|, as|as|IN we|we|PRP also|also|RB found|find|VBD that|that|IN a|a|DT lack|lack|NN of|of|IN Dam|dam|NN affects|affect|VBZ the|the|DT LPS|lps|NN pattern|pattern|NN in|in|IN Escherichia|Escherichia|NNP coli|coli|NNP ,|,|, increasing|increase|VBG the|the|DT amount|amount|NN of|of|IN shorter|shorter|JJR polysaccharides|polysaccharide|NNS (|(|-LRB- as|as|IN seen|see|VBN in|in|IN SE|SE|NNP dam|dam|NN )|)|-RRB- and|and|CC modifying|modify|VBG the|the|DT size|size|NN of|of|IN the|the|DT banding|band|VBG pattern|pattern|NN of|of|IN the|the|DT O|o|NN -|-|HYPH antigen|antigen|NN region|region|NN (|(|-LRB- data|datum|NNS not|not|RB shown|show|VBN )|)|-RRB- .|.|. 
+Also|also|RB ,|,|, Fälker|Fälker|NNP et|et|FW al.|al.|FW showed|show|VBD that|that|IN overproduction|overproduction|NN of|of|IN Dam|dam|NN in|in|IN Yersinia|Yersinia|NNP enterocolitica|enterocolitica|NNP results|result|VBZ in|in|IN an|a|DT increased|increase|VBN amount|amount|NN of|of|IN rough|rough|JJ LPS|lps|NN molecules|molecule|NNS (|(|-LRB- 13|13|CD )|)|-RRB- .|.|. 
+Moreover|moreover|RB ,|,|, these|these|DT authors|author|NNS suggested|suggest|VBD that|that|IN Dam|dam|NN methylation|methylation|NN affects|affect|VBZ the|the|DT stability|stability|NN of|of|IN shorter|shorter|JJR LPS|lps|NN species|species|NNS or|or|CC inﬂuences|inﬂuences|NNS the|the|DT addition|addition|NN of|of|IN the|the|DT ﬁrst|ﬁrst|NN O|o|NN -|-|HYPH antigen|antigen|NN units|unit|NNS to|to|IN a|a|DT growing|grow|VBG chain|chain|NN .|.|. 
+Taken|take|VBN together|together|RB ,|,|, these|these|DT ﬁndings|ﬁndings|NNS indicate|indicate|VBP that|that|IN Dam|dam|NN methylation|methylation|NN plays|play|VBZ a|a|DT role|role|NN in|in|IN O|o|NN -|-|HYPH antigen|antigen|NN LPS|lps|NN expression|expression|NN in|in|IN enterobacteria|enterobacteria|NN .|.|. 
+Dam|dam|NN participates|participate|VBZ in|in|IN the|the|DT regulation|regulation|NN of|of|IN Wzz|Wzz|NNP synthesis|synthesis|NN .|.|. 
+Since|since|IN Wzz|Wzz|NNP is|be|VBZ responsible|responsible|JJ for|for|IN the|the|DT chain|chain|NN length|length|NN distribution|distribution|NN of|of|IN the|the|DT O|o|NN antigen|antigen|NN (|(|-LRB- 37|37|CD ,|,|, 47|47|CD )|)|-RRB- ,|,|, we|we|PRP investigated|investigate|VBD whether|whether|IN Dam|dam|NN methylation|methylation|NN is|be|VBZ involved|involve|VBN in|in|IN regulating|regulate|VBG wzz|wzz|NN gene|gene|NN expression|expression|NN .|.|. 
+Membrane|membrane|NN protein|protein|NN preparations|preparation|NNS from|from|IN the|the|DT parental|parental|JJ strain|strain|NN ,|,|, SE|SE|NNP dam|dam|NN ,|,|, and|and|CC a|a|DT strain|strain|NN complemented|complement|VBN with|with|IN pIZ833|piz833|NN were|be|VBD examined|examine|VBN by|by|IN Western|Western|NNP blotting|blotting|NN using|use|VBG anti-Wzz|anti-wzz|JJ serum|serum|NN ,|,|, and|and|CC the|the|DT results|result|NNS of|of|IN a|a|DT representative|representative|JJ experiment|experiment|NN are|be|VBP shown|show|VBN in|in|IN Fig.|fig.|NN 2A|2a|NN .|.|. 
+We|we|PRP also|also|RB treated|treat|VBD the|the|DT blots|blot|NNS simultaneously|simultaneously|RB with|with|IN the|the|DT anti-Flag|anti-flag|JJ antibody|antibody|NN ,|,|, since|since|IN this|this|DT antibody|antibody|NN cross-reacts|cross-react|NNS with|with|IN an|a|DT unknown|unknown|JJ constitutively|constitutively|RB expressed|express|VBN membrane|membrane|NN protein|protein|NN .|.|. 
+Therefore|therefore|RB ,|,|, the|the|DT density|density|NN of|of|IN the|the|DT pixels|pixel|NNS for|for|IN this|this|DT protein|protein|NN band|band|NN serves|serve|VBZ as|as|IN an|a|DT internal|internal|JJ loading|loading|NN standard|standard|NN .|.|. 
+Normalized|normalize|VBN densitometry|densitometry|NN analysis|analysis|NN showed|show|VBD that|that|IN the|the|DT relative|relative|JJ level|level|NN of|of|IN the|the|DT Wzz|wzz|NN protein|protein|NN produced|produce|VBN by|by|IN the|the|DT dam|dam|NN mutant|mutant|NN was|be|VBD threefold|threefold|RB lower|lower|JJR (|(|-LRB- 32|32|CD %|%|NN )|)|-RRB- than|than|IN the|the|DT level|level|NN of|of|IN the|the|DT Wzz|wzz|NN protein|protein|NN produced|produce|VBN by|by|IN the|the|DT parental|parental|JJ strain|strain|NN (|(|-LRB- Fig.|fig.|NN 2B|2b|NN )|)|-RRB- .|.|. 
+To|to|TO investigate|investigate|VB wzz|wzz|NN gene|gene|NN transcription|transcription|NN ,|,|, we|we|PRP determined|determine|VBD the|the|DT galactosidase|galactosidase|NN activities|activity|NNS produced|produce|VBN by|by|IN the|the|DT parental|parental|JJ strain|strain|NN and|and|CC the|the|DT SE|SE|NNP dam|dam|NN mutant|mutant|NN harboring|harbor|VBG a|a|DT wzz|wzz|NN :|:|: :|:|: lacZY|lacZY|NNP transcriptional|transcriptional|JJ fusion|fusion|NN in|in|IN the|the|DT chromosome|chromosome|NN .|.|. 
+-|-|HYPH Galactosi|Galactosi|NNP -|-|HYPH dase|dase|NN activity|activity|NN was|be|VBD measured|measure|VBN using|use|VBG cells|cell|NNS harvested|harvest|VBN from|from|IN exponential|exponential|JJ -|-|HYPH and|and|CC stationary|stationary|JJ -|-|HYPH phase|phase|NN cultures|culture|NNS (|(|-LRB- OD600|od600|NN ,|,|, 0.4|0.4|CD and|and|CC 1.0|1.0|CD ,|,|, respectively|respectively|RB )|)|-RRB- .|.|. 
+As|as|IN shown|show|VBN in|in|IN Fig.|fig.|NN 3|3|CD ,|,|, the|the|DT transcription|transcription|NN of|of|IN the|the|DT wzz|wzz|NN gene|gene|NN in|in|IN SE|SE|NNP wzz|wzz|NNP :|:|: :|:|: lacZ|lacz|NN dam|dam|NN was|be|VBD nearly|nearly|RB 50|50|CD %|%|NN lower|lower|JJR in|in|IN the|the|DT logarithmic|logarithmic|JJ phase|phase|NN and|and|CC 25|25|CD %|%|NN lower|lower|JJR in|in|IN the|the|DT stationary|stationary|JJ phase|phase|NN than|than|IN the|the|DT transcription|transcription|NN in|in|IN parental|parental|JJ strain|strain|NN SE|SE|NNP wzz|wzz|NNP :|:|: :|:|: lacZ|lacz|NN (|(|-LRB- P|p|NN 0.01|0.01|CD and|and|CC P|p|NN 0.05|0.05|CD ,|,|, respectively|respectively|RB )|)|-RRB- .|.|. 
+These|these|DT results|result|NNS were|be|VBD conﬁrmed|conﬁrmed|VBN by|by|IN RTPCR|RTPCR|NNP ,|,|, which|which|WDT revealed|reveal|VBD that|that|IN wzz|wzz|NN gene|gene|NN expression|expression|NN was|be|VBD threefold|threefold|RB lower|lower|JJR in|in|IN the|the|DT dam|dam|NN mutant|mutant|NN (|(|-LRB- relative|relative|JJ amount|amount|NN of|of|IN mRNA|mrna|NN ,|,|, 0.313|0.313|CD 0.025|0.025|CD )|)|-RRB- than|than|IN in|in|IN the|the|DT parental|parental|JJ strain|strain|NN .|.|. 
+Next|next|RB ,|,|, we|we|PRP investigated|investigate|VBD whether|whether|IN increased|increase|VBN expression|expression|NN of|of|IN wzz|wzz|NN in|in|IN SE|SE|NNP dam|dam|NN could|could|MD restore|restore|VB the|the|DT wild|wild|JJ -|-|HYPH type|type|NN O|o|NN -|-|HYPH antigen|antigen|NN banding|band|VBG pattern|pattern|NN .|.|. 
+To|to|TO do|do|VB this|this|DT ,|,|, strain|strain|NN SE|SE|NNP dam|dam|NN was|be|VBD transformed|transform|VBN with|with|IN plasmid|plasmid|NN pwzz|pwzz|NN bearing|bear|VBG the|the|DT wzz|wzz|NN gene|gene|NN under|under|IN regulation|regulation|NN of|of|IN the|the|DT tetracycline|tetracycline|NN resistance|resistance|NN gene|gene|NN promoter|promoter|NN .|.|. 
+As|as|IN shown|show|VBN in|in|IN Fig.|fig.|NN 4|4|CD ,|,|, overexpression|overexpression|NN of|of|IN wzz|wzz|NN in|in|IN SE|SE|NNP dam|dam|NN reduced|reduce|VBD the|the|DT amount|amount|NN of|of|IN short|short|JJ polysaccharide|polysaccharide|NN chains|chain|NNS observed|observe|VBN in|in|IN the|the|DT dam|dam|NN mutant|mutant|NN (|(|-LRB- lanes|lane|NNS 1|1|CD and|and|CC 2|2|CD )|)|-RRB- ,|,|, resulting|result|VBG in|in|IN an|a|DT LPS|lps|NN pattern|pattern|NN comparable|comparable|JJ to|to|IN that|that|DT observed|observe|VBN for|for|IN the|the|DT parental|parental|JJ strain|strain|NN (|(|-LRB- lane|lane|NN 3|3|CD )|)|-RRB- .|.|. 
+Transformation|Transformation|NNP with|with|IN a|a|DT plasmid|plasmid|NN vector|vector|NN (|(|-LRB- pACYC184|pacyc184|NN )|)|-RRB- resulted|result|VBD in|in|IN no|no|DT changes|change|NNS in|in|IN the|the|DT O|o|NN -|-|HYPH antigen|antigen|NN LPS|lps|NN pattern|pattern|NN of|of|IN strain|strain|NN SE|SE|NNP dam|dam|NN (|(|-LRB- Fig.|fig.|NN 4|4|CD ,|,|, lane|lane|NN 4|4|CD )|)|-RRB- .|.|. 
+Collectively|collectively|RB ,|,|, the|the|DT experiments|experiment|NNS described|describe|VBN above|above|IN demonstrated|demonstrate|VBD that|that|IN Dam|dam|NN activity|activity|NN modulates|modulate|VBZ wzz|wzz|NN gene|gene|NN expression|expression|NN .|.|. 
+Therefore|therefore|RB ,|,|, it|it|PRP is|be|VBZ expected|expect|VBN that|that|IN the|the|DT wzz|wzz|NN gene|gene|NN locus|locus|NN contains|contain|VBZ GATC|gatc|NN sequences|sequence|NNS with|with|IN the|the|DT potential|potential|NN to|to|TO be|be|VB methylated|methylated|JJ by|by|IN Dam|dam|NN .|.|. 
+Certainly|certainly|RB ,|,|, an|a|DT i|i|FW silico|silico|FW analysis|analysis|NN (|(|-LRB- Fig.|fig.|NN 5A|5a|NN )|)|-RRB- revealed|reveal|VBD the|the|DT presence|presence|NN of|of|IN three|three|CD GATC|gatc|NN motifs|motif|NNS in|in|IN the|the|DT coding|coding|NN sequence|sequence|NN of|of|IN wzz|wzz|NN and|and|CC four|four|CD GATC|gatc|NN sequences|sequence|NNS upstream|upstream|RB of|of|IN this|this|DT gene|gene|NN .|.|. 
+Dam|dam|NN methylation|methylation|NN of|of|IN any|any|DT of|of|IN these|these|DT GATC|gatc|NN clusters|cluster|NNS could|could|MD regulate|regulate|VB wzz|wzz|NN expression|expression|NN ,|,|, although|although|IN through|through|IN different|different|JJ mechanisms|mechanism|NNS .|.|. 
+On|on|IN the|the|DT one|one|CD hand|hand|NN ,|,|, it|it|PRP has|have|VBZ been|be|VBN proposed|propose|VBN that|that|IN a|a|DT GATC|gatc|NN cluster|cluster|NN located|locate|VBN in|in|IN the|the|DT coding|coding|NN sequence|sequence|NN of|of|IN a|a|DT given|give|VBN gene|gene|NN affects|affect|VBZ DNA|dna|NN stability|stability|NN ,|,|, depending|depend|VBG on|on|IN the|the|DT meth|meth|NN -|-|HYPH ylated|ylate|VBN state|state|NN (|(|-LRB- 50|50|CD )|)|-RRB- .|.|. 
+On|on|IN the|the|DT other|other|JJ hand|hand|NN ,|,|, Dam|dam|NN methylation|methylation|NN in|in|IN three|three|CD GATC|gatc|NN motifs|motif|NNS (|(|-LRB- 18|18|CD ,|,|, 59|59|CD )|)|-RRB- ,|,|, two|two|CD GATC|gatc|NN motifs|motif|NNS (|(|-LRB- 2|2|CD )|)|-RRB- ,|,|, or|or|CC even|even|RB a|a|DT single|single|JJ GATC|gatc|NN motif|motif|NN (|(|-LRB- 3|3|CD ,|,|, 51|51|CD )|)|-RRB- located|locate|VBN upstream|upstream|RB of|of|IN a|a|DT given|give|VBN gene|gene|NN can|can|MD affect|affect|VB the|the|DT interaction|interaction|NN between|between|IN regulatory|regulatory|JJ proteins|proteins|NN and|and|CC the|the|DT DNA|dna|NN binding|binding|NN site|site|NN .|.|. 
+Moreover|moreover|RB ,|,|, Wallecha|Wallecha|NNP et|et|FW al.|al.|FW demonstrated|demonstrate|VBD that|that|IN transcription|transcription|NN of|of|IN the|the|DT agn43|agn43|NN gene|gene|NN in|in|IN E.|E.|NNP coli|coli|NNP is|be|VBZ regulated|regulate|VBN by|by|IN a|a|DT GATC|gatc|NN motif|motif|NN located|locate|VBN downstream|downstream|RB of|of|IN the|the|DT promoter|promoter|NN (|(|-LRB- 60|60|CD )|)|-RRB- .|.|. 
+It|it|PRP remains|remain|VBZ to|to|TO be|be|VB determined|determine|VBN whether|whether|IN Dam|dam|NN regulation|regulation|NN of|of|IN the|the|DT wzz|wzz|NN gene|gene|NN is|be|VBZ also|also|RB mediated|mediate|VBN in|in|IN an|a|DT indirect|indirect|JJ manner|manner|NN .|.|. 
+For|for|IN instance|instance|NN ,|,|, Dam|dam|NN methylation|methylation|NN could|could|MD regulate|regulate|VB the|the|DT expression|expression|NN of|of|IN other|other|JJ genes|gene|NNS whose|whose|WP$ products|product|NNS are|be|VBP involved|involve|VBN in|in|IN wzz|wzz|NN transcription|transcription|NN .|.|. 
+It|it|PRP is|be|VBZ known|know|VBN that|that|IN the|the|DT PmrA|pmra|NN /|/|HYPH PmrB|pmrb|NN and|and|CC RcsC|rcsc|NN /|/|HYPH YojN|yojn|NN /|/|HYPH RcsB|rcsb|NN two|two|CD -|-|HYPH component|component|NN systems|system|NNS independently|independently|RB promote|promote|VBP transcription|transcription|NN of|of|IN the|the|DT wzz|wzz|NN gene|gene|NN since|since|IN a|a|DT pmrA|pmra|NN rcsB|rcsb|NN double|double|JJ mutant|mutant|NN of|of|IN Salmonella|Salmonella|NNP serovar|serovar|NN Typhi|Typhi|NNP -|-|HYPH murium|murium|NNP does|do|VBZ not|not|RB express|express|VB Wzz|Wzz|NNP (|(|-LRB- 8|8|CD )|)|-RRB- .|.|. 
+In|in|IN theory|theory|NN ,|,|, the|the|DT expression|expression|NN of|of|IN pmrA|pmra|NN and|and|CC rcsB|rcsb|NN could|could|MD be|be|VB regulated|regulate|VBN by|by|IN Dam|dam|NN methylation|methylation|NN since|since|IN GATC|gatc|NN motifs|motif|NNS are|be|VBP present|present|JJ upstream|upstream|RB of|of|IN both|both|DT genes|gene|NNS (|(|-LRB- Fig.|fig.|NN 5B|5b|NN )|)|-RRB- .|.|. 
+Interestingly|interestingly|RB ,|,|, no|no|DT GATC|gatc|NN motifs|motif|NNS are|be|VBP present|present|JJ in|in|IN the|the|DT pmrA|pmra|NN sequence|sequence|NN ,|,|, whereas|whereas|IN rcsB|rcsb|NN contains|contain|VBZ eight|eight|CD GATC|gatc|NN sequences|sequence|NNS downstream|downstream|RB of|of|IN the|the|DT 1|1|CD codon|codon|NN in|in|IN a|a|DT 224|224|CD -|-|HYPH bp|bp|NN interval|interval|NN ,|,|, a|a|DT density|density|NN threefold|threefold|RB higher|higher|JJR than|than|IN the|the|DT density|density|NN expected|expect|VBN from|from|IN a|a|DT random|random|JJ distribution|distribution|NN .|.|. 
+The|the|DT regulation|regulation|NN of|of|IN wzz|wzz|NN in|in|IN Salmonella|Salmonella|NNP serovar|serovar|NN Enteritidis|Enteritidis|NNP is|be|VBZ highly|highly|RB complex|complex|JJ and|and|CC not|not|RB completely|completely|RB understood|understand|VBN ;|;|: therefore|therefore|RB ,|,|, further|further|JJ experiments|experiment|NNS are|be|VBP necessary|necessary|JJ to|to|TO investigate|investigate|VB whether|whether|IN the|the|DT expression|expression|NN of|of|IN pmrA|pmra|NN ,|,|, rcsB|rcsB|NNP ,|,|, or|or|CC a|a|DT different|different|JJ unidentiﬁed|unidentiﬁed|JJ factor|factor|NN (|(|-LRB- s|s|AFX )|)|-RRB- is|be|VBZ regulated|regulate|VBN by|by|IN Dam|dam|NN methylation|methylation|NN .|.|. 
+In|in|IN summary|summary|NN ,|,|, our|we|PRP$ results|result|NNS unequivocally|unequivocally|RB show|show|VBP that|that|IN wzz|wzz|NN gene|gene|NN expression|expression|NN is|be|VBZ downregulated|downregulate|VBN in|in|IN the|the|DT dam|dam|NN mutant|mutant|NN of|of|IN Salmonella|Salmonella|NNP serovar|serovar|NN Enteritidis|Enteritidis|NNP .|.|. 
+The|the|DT presence|presence|NN of|of|IN GATC|gatc|NN motifs|motif|NNS in|in|IN wzz|wzz|NN ,|,|, as|as|RB well|well|RB as|as|IN in|in|IN the|the|DT pmrA|pmra|NN and|and|CC rcsB|rcsb|NN gene|gene|NN clusters|cluster|NNS ,|,|, strongly|strongly|RB suggests|suggest|VBZ that|that|IN Dam|dam|NN methylation|methylation|NN is|be|VBZ involved|involve|VBN in|in|IN the|the|DT regulation|regulation|NN of|of|IN LPS|lps|NN synthesis|synthesis|NN .|.|. 
+FIG.|FIG.|NNP 1|1|CD .|.|. 
+LPS|lps|NN analysis|analysis|NN of|of|IN Salmonella|Salmonella|NNP serovar|serovar|NN Enteritidis|enteritidis|NN strains|strain|NNS .|.|. 
+LPS|lps|NN from|from|IN wild|wild|JJ -|-|HYPH type|type|NN strains|strain|NNS (|(|-LRB- wild|wild|JJ type|type|NN and|and|CC wild|wild|JJ type|type|NN /|/|HYPH pIZ833|piz833|NN )|)|-RRB- and|and|CC dam|dam|NN de-letion|de-letion|NN mutants|mutant|NNS (|(|-LRB- SE|SE|NNP dam|dam|NN and|and|CC SE|SE|NNP dam|dam|NN /|/|HYPH pIZ833|piz833|NN )|)|-RRB- of|of|IN Salmonella|salmonella|NN serovar|serovar|NN Enteritidis|enteritidi|NNS were|be|VBD studied|study|VBN .|.|. 
+Equal|equal|JJ amounts|amount|NNS of|of|IN LPS|lps|NN were|be|VBD loaded|load|VBN in|in|IN each|each|DT lane|lane|NN and|and|CC analyzed|analyze|VBN by|by|IN Tricine|tricine|NN -|-|HYPH SDS|sds|NN -|-|HYPH PAGE|page|NN on|on|IN a|a|DT 14|14|CD %|%|NN (|(|-LRB- wt|wt|NN /|/|HYPH vol|vol|NN )|)|-RRB- acryl|acryl|NN -|-|HYPH amide|amide|NN gel|gel|NN ,|,|, followed|follow|VBN by|by|IN silver|silver|NN staining|staining|NN .|.|. 
+The|the|DT concentration|concentration|NN of|of|IN LPS|lps|NN was|be|VBD determined|determine|VBN by|by|IN measuring|measure|VBG the|the|DT KDO|kdo|NN using|use|VBG the|the|DT purpald|purpald|NN assay|assay|NN .|.|. 
+Plasmid|plasmid|NN pIZ833|piz833|NN bears|bear|VBZ the|the|DT dam|dam|NN gene|gene|NN .|.|. 
+The|the|DT gel|gel|NN shown|show|VBN is|be|VBZ representative|representative|NN of|of|IN nine|nine|CD independent|independent|JJ experiments|experiment|NNS .|.|. 
+O|o|UH Ag|ag|NN ,|,|, O|o|NN antigen|antigen|NN .|.|. 
+FIG.|FIG.|NNP 2|2|CD .|.|. 
+Wzz|wzz|NN protein|protein|NN in|in|IN Salmonella|Salmonella|NNP serovar|serovar|NNP Enteritidis|Enteritidis|NNP dam|dam|NN mutant|mutant|NN .|.|. 
+Bacterial|bacterial|JJ strains|strain|NNS were|be|VBD cultured|culture|VBN in|in|IN LB|LB|NNP medium|medium|NN and|and|CC harvested|harvest|VBN at|at|IN an|a|DT OD600|od600|NN of|of|IN 1|1|CD .|.|. 
+Bacterial|bacterial|JJ proteins|proteins|NN were|be|VBD extracted|extract|VBN ,|,|, and|and|CC the|the|DT Wzz|wzz|NN protein|protein|NN was|be|VBD analyzed|analyze|VBN by|by|IN Western|Western|NNP blotting|blotting|NN (|(|-LRB- A|a|NN )|)|-RRB- .|.|. 
+The|the|DT intensities|intensity|NNS of|of|IN Wzz|Wzz|NNP and|and|CC FLAG|flag|NN bands|band|NNS were|be|VBD determined|determine|VBN by|by|IN densitometry|densitometry|NN (|(|-LRB- B|b|NN )|)|-RRB- .|.|. 
+Plasmid|plasmid|NN pIZ833|piz833|NN bears|bear|VBZ the|the|DT dam|dam|NN gene|gene|NN .|.|. 
+Prestained|prestain|VBN SDS|sds|NN -|-|HYPH PAGE|page|NN standards|standard|NNS (|(|-LRB- Bio-Rad|Bio-Rad|NNP )|)|-RRB- were|be|VBD used|use|VBN as|as|IN molecular|molecular|JJ weight|weight|NN markers|marker|NNS .|.|. 
+The|the|DT data|datum|NNS are|be|VBP representative|representative|JJ data|datum|NNS for|for|IN three|three|CD independent|independent|JJ experiments|experiment|NNS .|.|. 
+Lane|Lane|NNP M|M|NNP contained|contain|VBD broad|broad|JJ -|-|HYPH range|range|NN prestained|prestain|VBN SDS|sds|NN -|-|HYPH PAGE|page|NN standards|standard|NNS (|(|-LRB- Bio-Rad|Bio-Rad|NNP )|)|-RRB- .|.|. 
+FIG.|FIG.|NNP 3|3|CD .|.|. 
+Activity|activity|NN of|of|IN wzz|wzz|NN gene|gene|NN promoter|promoter|NN of|of|IN Salmonella|Salmonella|NNP serovar|serovar|NN Enteritidis|enteritidis|NN strains|strain|NNS .|.|. 
+The|the|DT -|-|HYPH galactosidase|galactosidase|NN activities|activity|NNS (|(|-LRB- in|in|IN Miller|Miller|NNP units|unit|NNS )|)|-RRB- expressed|express|VBN by|by|IN strains|strain|NNS harboring|harbor|VBG chromosomal|chromosomal|JJ lacZY|laczy|NN transcriptional|transcriptional|JJ fusions|fusion|NNS to|to|IN the|the|DT wzz|wzz|NN gene|gene|NN in|in|IN the|the|DT exponential|exponential|JJ (|(|-LRB- OD600|od600|NN ,|,|, 0.4|0.4|CD )|)|-RRB- and|and|CC stationary|stationary|JJ (|(|-LRB- OD600|od600|NN ,|,|, 1|1|CD )|)|-RRB- phases|phase|NNS were|be|VBD determined|determine|VBN .|.|. 
+The|the|DT transcriptional|transcriptional|JJ activities|activity|NNS in|in|IN SE|SE|NNP wzz|wzz|NNP :|:|: :|:|: lacZ|lacz|NN and|and|CC in|in|IN the|the|DT dam|dam|NN deletion|deletion|NN mutant|mutant|NN SE|SE|NNP wzz|wzz|NNP :|:|: :|:|: lacZ|lacz|NN dam|dam|NN of|of|IN Salmonella|Salmonella|NNP serovar|serovar|NN Enteritidis|enteritidi|NNS were|be|VBD investigated|investigate|VBN .|.|. 
+Strains|strain|NNS harboring|harbor|VBG a|a|DT plasmid|plasmid|NN bearing|bear|VBG the|the|DT dam|dam|NN gene|gene|NN (|(|-LRB- SE|SE|NNP wzz|wzz|NNP :|:|: :|:|: lacZ|lacz|NN /|/|HYPH pIZ833|piz833|NN and|and|CC SE|SE|NNP wzz|wzz|NNP :|:|: :|:|: lacZ|lacz|NN dam|dam|NN /|/|HYPH pIZ833|piz833|NN )|)|-RRB- were|be|VBD included|include|VBN as|as|IN controls|control|NNS .|.|. 
+The|the|DT data|datum|NNS are|be|VBP means|means|NNS standard|standard|JJ deviations|deviation|NNS of|of|IN three|three|CD independent|independent|JJ experiments|experiment|NNS performed|perform|VBN in|in|IN triplicate|triplicate|NN .|.|. 
+*|*|NFP ,|,|, P|p|NN 0.01|0.01|CD for|for|IN a|a|DT comparison|comparison|NN with|with|IN the|the|DT wild|wild|JJ type|type|NN ;|;|: **|**|NFP ,|,|, P|p|NN 0.05|0.05|CD for|for|IN a|a|DT comparison|comparison|NN with|with|IN the|the|DT wild|wild|JJ type|type|NN .|.|. 
+FIG.|FIG.|NNP 4|4|CD .|.|. 
+Production|production|NN of|of|IN LPS|lps|NN in|in|IN Salmonella|Salmonella|NNP serovar|serovar|NNP Enteritidis|Enteritidis|NNP dam|dam|NN mutant|mutant|NN transformed|transform|VBN with|with|IN the|the|DT wzz|wzz|NN gene|gene|NN .|.|. 
+Equal|equal|JJ amounts|amount|NNS of|of|IN LPS|lps|NN were|be|VBD loaded|load|VBN in|in|IN the|the|DT lanes|lane|NNS and|and|CC analyzed|analyze|VBN by|by|IN Tricine|tricine|NN -|-|HYPH SDS|sds|NN -|-|HYPH PAGE|page|NN on|on|IN a|a|DT 14|14|CD %|%|NN (|(|-LRB- wt|wt|NN /|/|HYPH vol|vol|NN )|)|-RRB- acrylamide|acrylamide|NN gel|gel|NN ,|,|, followed|follow|VBN by|by|IN silver|silver|NN staining|staining|NN .|.|. 
+The|the|DT concentration|concentration|NN of|of|IN LPS|lps|NN was|be|VBD determined|determine|VBN by|by|IN measuring|measure|VBG KDO|kdo|NN using|use|VBG the|the|DT purpald|purpald|NN assay|assay|NN .|.|. 
+The|the|DT data|datum|NNS are|be|VBP representative|representative|JJ data|datum|NNS for|for|IN seven|seven|CD independent|independent|JJ experiments|experiment|NNS FIG.|fig.|IN 5|5|CD .|.|. 
+Distribution|distribution|NN of|of|IN GATC|gatc|NN sequences|sequence|NNS .|.|. 
+(|(|-LRB- A|a|NN )|)|-RRB- wzz|wzz|NN gene|gene|NN region|region|NN .|.|. 
+(|(|-LRB- B|b|NN )|)|-RRB- pmrA|pmra|NN and|and|CC rcsB|rcsb|NN gene|gene|NN region|region|NN .|.|. 
+The|the|DT vertical|vertical|JJ lines|line|NNS and|and|CC asterisks|asterisk|NNS indicate|indicate|VBP the|the|DT locations|location|NNS of|of|IN GATC|gatc|NN motifs|motif|NNS .|.|. 
+The|the|DT diagram|diagram|NN is|be|VBZ based|base|VBN on|on|IN the|the|DT Refseq|Refseq|NNP NC_011294|nc_011294|NN sequence|sequence|NN of|of|IN S.|S.|NNP enterica|enterica|NNP serovar|serovar|NN Enteritidis|Enteritidis|NNP .|.|. 
+ACKNOWLEDGMENTS|acknowledgment|NNS We|we|PRP are|be|VBP very|very|RB grateful|grateful|JJ to|to|IN M.|M.|NNP I.|I.|NNP Bernal|Bernal|NNP for|for|IN technical|technical|JJ assistance|assistance|NN and|and|CC to|to|IN C.|C.|NNP Quiroga|Quiroga|NNP and|and|CC P.|P.|NNP Lahiry|Lahiry|NNP for|for|IN useful|useful|JJ discussions|discussion|NNS .|.|. 
+This|this|DT work|work|NN was|be|VBD supported|support|VBN in|in|IN part|part|NN by|by|IN grants|grant|NNS from|from|IN Universidad|Universidad|NNP de|de|NNP Buenos|Buenos|NNP Aires|Aires|NNP ,|,|, Buenos|Buenos|NNP Aires|Aires|NNP ,|,|, Argentina|Argentina|NNP (|(|-LRB- grant|grant|NN UBACyT|UBACyT|NNP M009|M009|NNP )|)|-RRB- ,|,|, and|and|CC Consejo|Consejo|NNP Nacional|Nacional|NNP de|de|NNP Investigaciones|Investigaciones|NNP Cientíﬁcas|Cientíﬁcas|NNP y|y|NNP Técnicas|Técnicas|NNP ,|,|, Argentina|Argentina|NNP (|(|-LRB- grants|grant|NNS PIP|pip|NN 5534|5534|CD and|and|CC 0992|0992|CD )|)|-RRB- to|to|IN M.C.C.|m.c.c.|NN and|and|CC from|from|IN the|the|DT Canadian|Canadian|NNP Institutes|Institutes|NNPS of|of|IN Health|Health|NNP Research|Research|NNP to|to|IN M.A.V.|M.A.V.|NNP REFERENCES|reference|NNS 1|1|CD .|.|. 
+Balbontín|Balbontín|NNP ,|,|, R.|R.|NNP ,|,|, G.|G.|NNP Rowley|Rowley|NNP ,|,|, M.|M.|NNP G.|G.|NNP Pucciarelli|Pucciarelli|NNP ,|,|, J.|J.|NNP López|López|NNP -|-|HYPH Garrido|Garrido|NNP ,|,|, Y.|Y.|NNP Wormstone|Wormstone|NNP ,|,|, S.|S.|NNP Lucchini|Lucchini|NNP ,|,|, F.|F.|NNP García|García|NNP -|-|HYPH Del|Del|NNP Portillo|Portillo|NNP ,|,|, J.|J.|NNP C.|C.|NNP Hinton|Hinton|NNP ,|,|, and|and|CC J.|J.|NNP Casadesús|Casadesús|NNP .|.|. 
+2006|2006|CD .|.|. 
+DNA|dna|NN adenine|adenine|NN methylation|methylation|NN regulates|regulate|VBZ virulence|virulence|NN gene|gene|NN expression|expression|NN in|in|IN Sal|Sal|NNP -|-|HYPH monella|monella|NNP enterica|enterica|NNP serovar|serovar|NNP Typhimurium|Typhimurium|NNP .|.|. 
+J.|J.|NNP Bacteriol|Bacteriol|NNP .|.|. 
+188:8160|188:8160|CD --|--|: 8168|8168|CD .|.|. 
+2|2|LS .|.|. 
+Braaten|Braaten|NNP ,|,|, B.|B.|NNP A.|A.|NNP ,|,|, J.|J.|NNP V.|V.|NNP Platko|Platko|NNP ,|,|, M.|M.|NNP van|van|NNP der|der|NNP Woude|Woude|NNP ,|,|, B.|B.|NNP H.|H.|NNP Simons|Simons|NNP ,|,|, F.|F.|NNP K.|K.|NNP de|de|NNP Graaf|Graaf|NNP ,|,|, J.|J.|NNP M.|M.|NNP Calvo|Calvo|NNP ,|,|, and|and|CC D.|D.|NNP A.|A.|NNP Low|Low|NNP .|.|. 
+1992|1992|CD .|.|. 
+Leucine|leucine|NN -|-|HYPH responsive|responsive|JJ regulatory|regulatory|JJ protein|protein|NN controls|control|VBZ the|the|DT expression|expression|NN of|of|IN both|both|CC the|the|DT pap|pap|NN and|and|CC fan|fan|NN pili|pili|NN operons|operon|NNS in|in|IN Escherichia|Escherichia|NNP coli|coli|NNP .|.|. 
+Proc|Proc|NNP .|.|. 
+Natl.|Natl.|NNP Acad|Acad|NNP .|.|. 
+Sci|sci|NN .|.|. 
+USA|USA|NNP 89:4250|89:4250|CD --|--|: 4254|4254|CD .|.|. 
+3|3|LS .|.|. 
+Camacho|Camacho|NNP ,|,|, E.|E.|NNP M.|M.|NNP ,|,|, and|and|CC J.|J.|NNP Casadesús|Casadesús|NNP .|.|. 
+2005|2005|CD .|.|. 
+Regulation|regulation|NN of|of|IN traJ|traj|NN transcription|transcription|NN in|in|IN the|the|DT Salmonella|Salmonella|NNP virulence|virulence|NN plasmid|plasmid|NN by|by|IN strand|strand|NN -|-|HYPH speciﬁc|speciﬁc|NN DNA|dna|NN adenine|adenine|NN hemi|hemi|NN -|-|HYPH methylation|methylation|NN .|.|. 
+Mol|Mol|NNP .|.|. 
+Microbiol|Microbiol|NNP .|.|. 
+57:1700|57:1700|CD --|--|: 1718|1718|CD .|.|. 
+4|4|LS .|.|. 
+Campellone|Campellone|NNP ,|,|, K.|K.|NNP G.|G.|NNP ,|,|, A.|A.|NNP J.|J.|NNP Roe|Roe|NNP ,|,|, A.|A.|NNP Løbner|Løbner|NNP -|-|HYPH Olesen|Olesen|NNP ,|,|, K.|K.|NNP C.|C.|NNP Murphy|Murphy|NNP ,|,|, L.|L.|NNP Magoun|Magoun|NNP ,|,|, M.|M.|NNP J.|J.|NNP Brady|Brady|NNP ,|,|, A.|A.|NNP Donohue|Donohue|NNP -|-|HYPH Rolfe|Rolfe|NNP ,|,|, S.|S.|NNP Tzipori|Tzipori|NNP ,|,|, D.|D.|NNP L.|L.|NNP Gally|Gally|NNP ,|,|, J.|J.|NNP M.|M.|NNP Leong|Leong|NNP ,|,|, and|and|CC M.|M.|NNP G.|G.|NNP Marinus|Marinus|NNP .|.|. 
+2007|2007|CD .|.|. 
+Increased|increase|VBN adherence|adherence|NN and|and|CC actin|actin|NN pedestal|pedestal|NN formation|formation|NN by|by|IN dam|dam|NN -|-|HYPH deﬁcient|deﬁcient|NN enterohaemorrhagic|enterohaemorrhagic|JJ Escherichia|Escherichia|NNP coli|coli|NNP O157|o157|NN :|:|: H7|h7|NN .|.|. 
+Mol|Mol|NNP .|.|. 
+Microbiol|Microbiol|NNP .|.|. 
+63:1468|63:1468|CD --|--|: 1481|1481|CD .|.|. 
+5|5|CD .|.|. 
+Cerquetti|Cerquetti|NNP ,|,|, M.|M.|NNP C.|C.|NNP ,|,|, E.|E.|NNP Hovsepian|Hovsepian|NNP ,|,|, S.|S.|NNP H.|H.|NNP Sarnacki|Sarnacki|NNP ,|,|, and|and|CC N.|N.|NNP B.|B.|NNP Goren|Goren|NNP .|.|. 
+2008|2008|CD .|.|. 
+Salmonella|salmonella|NN enterica|enterica|NN serovar|serovar|NN Enteritidis|Enteritidis|NNP dam|dam|NN mutant|mutant|NN induces|induce|VBZ low|low|JJ NOS|nos|NN -|-|HYPH 2|2|CD and|and|CC COX|cox|NN -|-|HYPH 2|2|CD expression|expression|NN in|in|IN macrophages|macrophage|NNS via|via|IN attenuation|attenuation|NN of|of|IN MAPK|mapk|NN and|and|CC NF|nf|NN -|-|HYPH B|b|NN pathways|pathway|NNS .|.|. 
+Microbes|microbe|NNS Infect|infect|VBP .|.|. 
+10:1431|10:1431|CD --|--|: 1439|1439|CD .|.|. 
+6|6|CD .|.|. 
+Chessa|Chessa|NNP ,|,|, D.|D.|NNP ,|,|, M.|M.|NNP G.|G.|NNP Winter|Winter|NNP ,|,|, S.|S.|NNP P.|P.|NNP Nuccio|Nuccio|NNP ,|,|, C.|C.|NNP Tükel|Tükel|NNP ,|,|, and|and|CC A.|A.|NNP J.|J.|NNP Bäumler|Bäumler|NNP .|.|. 
+2008|2008|CD .|.|. 
+RosE|rose|NN represses|repress|VBZ Std|Std|NNP ﬁmbrial|ﬁmbrial|JJ expression|expression|NN in|in|IN Salmonella|Salmonella|NNP enterica|enterica|NNP serotype|serotype|NN Typhimurium|typhimurium|NN .|.|. 
+Mol|Mol|NNP .|.|. 
+Microbiol|Microbiol|NNP .|.|. 
+68:573|68:573|CD --|--|: 587|587|CD .|.|. 
+7|7|CD .|.|. 
+Datsenko|Datsenko|NNP ,|,|, K.|K.|NNP A.|A.|NNP ,|,|, and|and|CC B.|B.|NNP L.|L.|NNP Wanner|Wanner|NNP .|.|. 
+2000|2000|CD .|.|. 
+One|one|CD -|-|HYPH step|step|NN inactivation|inactivation|NN of|of|IN chromosomal|chromosomal|JJ genes|gene|NNS in|in|IN Escherichia|Escherichia|NNP coli|coli|NNP K|K|NNP -|-|HYPH 12|12|CD using|use|VBG PCR|pcr|NN products|product|NNS .|.|. 
+Proc|Proc|NNP .|.|. 
+Natl.|Natl.|NNP Acad|Acad|NNP .|.|. 
+Sci|sci|NN .|.|. 
+USA|USA|NNP 90:6640|90:6640|CD --|--|: 6645|6645|CD .|.|. 
+8|8|CD .|.|. 
+Delgado|Delgado|NNP ,|,|, M.|M.|NNP A.|A.|NNP ,|,|, C.|C.|NNP Mouslim|Mouslim|NNP ,|,|, and|and|CC E.|E.|NNP A.|A.|NNP Groisman|Groisman|NNP .|.|. 
+2006|2006|CD .|.|. 
+The|the|DT PmrA|pmra|NN /|/|HYPH PmrB|pmrb|NN and|and|CC RcsC|rcsc|NN /|/|HYPH YojN|yojn|NN /|/|HYPH RcsB|rcsb|NN systems|system|NNS control|control|NN expression|expression|NN of|of|IN the|the|DT Salmonella|salmonella|NN O|o|NN -|-|HYPH anti-gen|anti-gen|JJ chain|chain|NN length|length|NN determinant|determinant|NN .|.|. 
+Mol|Mol|NNP .|.|. 
+Microbiol|Microbiol|NNP .|.|. 
+60:39|60:39|CD --|--|: 50|50|CD .|.|. 
+9|9|LS .|.|. 
+Dower|Dower|NNP ,|,|, W.|W.|NNP J.|J.|NNP ,|,|, J.|J.|NNP F.|F.|NNP Miller|Miller|NNP ,|,|, and|and|CC C.|C.|NNP W.|W.|NNP Ragsdale|Ragsdale|NNP .|.|. 
+1988|1988|CD .|.|. 
+High|high|JJ efﬁciency|efﬁciency|NN transformation|transformation|NN of|of|IN E.|E.|NNP coli|coli|NNP by|by|IN high|high|JJ voltage|voltage|NN electroporation|electroporation|NN .|.|. 
+Nucleic|nucleic|JJ Acids|acid|NNS Res|re|NNS .|.|. 
+16:6127|16:6127|CD --|--|: 6145|6145|CD .|.|. 
+10|10|CD .|.|. 
+Dueger|Dueger|NNP ,|,|, E.|E.|NNP L.|L.|NNP ,|,|, J.|J.|NNP K.|K.|NNP House|House|NNP ,|,|, D.|D.|NNP M.|M.|NNP Heithoff|Heithoff|NNP ,|,|, and|and|CC M.|M.|NNP J.|J.|NNP Mahan|Mahan|NNP .|.|. 
+2003|2003|CD .|.|. 
+Salmo|salmo|NN -|-|HYPH nella|nella|NN DNA|dna|NN adenine|adenine|NN methylase|methylase|NN mutants|mutant|NNS elicit|elicit|VBP early|early|JJ and|and|CC late|late|JJ onset|onset|NN protective|protective|JJ immune|immune|JJ responses|response|NNS in|in|IN calves|calf|NNS .|.|. 
+Vaccine|vaccine|NN 21:3249|21:3249|CD --|--|: 3258|3258|CD .|.|. 
+11|11|CD .|.|. 
+Dueger|Dueger|NNP ,|,|, E.|E.|NNP L.|L.|NNP ,|,|, J.|J.|NNP K.|K.|NNP House|House|NNP ,|,|, D.|D.|NNP M.|M.|NNP Heithoff|Heithoff|NNP ,|,|, and|and|CC M.|M.|NNP J.|J.|NNP Mahan|Mahan|NNP .|.|. 
+2003|2003|CD .|.|. 
+Salmo|salmo|NN -|-|HYPH nella|nella|NN DNA|dna|NN adenine|adenine|NN methylase|methylase|NN mutants|mutant|NNS prevent|prevent|VBP colonization|colonization|NN of|of|IN newly|newly|RB hatched|hatch|VBN chickens|chicken|NNS by|by|IN homologous|homologous|JJ and|and|CC heterologous|heterologous|JJ serovars|serovar|NNS .|.|. 
+Int|int|NN .|.|. 
+J.|J.|NNP Food|Food|NNP Microbiol|Microbiol|NNP .|.|. 
+80:153|80:153|CD --|--|: 159|159|CD .|.|. 
+12|12|CD .|.|. 
+Ellermeier|Ellermeier|NNP ,|,|, C.|C.|NNP D.|D.|NNP ,|,|, A.|A.|NNP Janakiraman|Janakiraman|NNP ,|,|, and|and|CC J.|J.|NNP M.|M.|NNP Slauch|Slauch|NNP .|.|. 
+2002|2002|CD .|.|. 
+Construction|construction|NN of|of|IN targeted|target|VBN single|single|JJ copy|copy|NN lac|lac|NN fusions|fusion|NNS using|use|VBG lambda|lambda|NN Red|red|NN and|and|CC FLP|flp|NN -|-|HYPH mediated|mediate|VBN site|site|NN speciﬁc|speciﬁc|NN recombination|recombination|NN in|in|IN bacteria|bacterium|NNS .|.|. 
+Gene|Gene|NNP 290:153|290:153|CD --|--|: 161|161|CD .|.|. 
+13|13|CD .|.|. 
+Fälker|Fälker|NNP ,|,|, S.|S.|NNP ,|,|, J.|J.|NNP Schilling|Schilling|NNP ,|,|, M.|M.|NNP A.|A.|NNP Schmidt|Schmidt|NNP ,|,|, and|and|CC G.|G.|NNP Heusipp|Heusipp|NNP .|.|. 
+2007|2007|CD .|.|. 
+Overproduction|overproduction|NN of|of|IN DNA|dna|NN adenine|adenine|NN methyltransferase|methyltransferase|NN alters|alter|VBZ motility|motility|NN ,|,|, invasion|invasion|NN ,|,|, and|and|CC the|the|DT lipopolysaccharide|lipopolysaccharide|NN O|o|NN -|-|HYPH antigen|antigen|NN composition|composition|NN of|of|IN Yersinia|Yersinia|NNP enterocolitica|enterocolitica|NNP .|.|. 
+Infect|infect|VB .|.|. 
+Immun|Immun|NNP .|.|. 
+75:4990|75:4990|CD --|--|: 4997|4997|CD .|.|. 
+14|14|CD .|.|. 
+Giacomodonato|Giacomodonato|NNP ,|,|, M.|M.|NNP N.|N.|NNP ,|,|, S.|S.|NNP H.|H.|NNP Sarnacki|Sarnacki|NNP ,|,|, F.|F.|NNP Sisti|Sisti|NNP ,|,|, R.|R.|NNP L.|L.|NNP Caccuri|Caccuri|NNP ,|,|, and|and|CC M.|M.|NNP C.|C.|NNP Cerquetti|Cerquetti|NNP .|.|. 
+2003|2003|CD .|.|. 
+Salmonella|salmonella|NN enteritidis|enteritidis|NN dam|dam|NN mutant|mutant|NN of|of|IN leaky|leaky|JJ phenotype|phenotype|NN as|as|IN a|a|DT potential|potential|JJ vaccine|vaccine|NN strain|strain|NN ,|,|, abstr|abstr|NN .|.|. 
+106A|106a|NN .|.|. 
+Abstr|Abstr|NNP .|.|. 
+ASM|asm|NN Conf|conf|NN .|.|. 
+Salmonella|salmonella|NN :|:|: pathogenesis|pathogenesis|NN ,|,|, epidemiology|epidemiology|NN ,|,|, and|and|CC vaccine|vaccine|NN development|development|NN .|.|. 
+American|american|JJ Society|Society|NNP for|for|IN Microbiology|Microbiology|NNP ,|,|, Washington|Washington|NNP ,|,|, DC|DC|NNP .|.|. 
+15|15|CD .|.|. 
+Giacomodonato|Giacomodonato|NNP ,|,|, M.|M.|NNP N.|N.|NNP ,|,|, S.|S.|NNP H.|H.|NNP Sarnacki|Sarnacki|NNP ,|,|, R.|R.|NNP L.|L.|NNP Caccuri|Caccuri|NNP ,|,|, D.|D.|NNP O.|O.|NNP Sordelli|Sordelli|NNP ,|,|, and|and|CC M.|M.|NNP C.|C.|NNP Cerquetti|Cerquetti|NNP .|.|. 
+2004|2004|CD .|.|. 
+Host|host|NN response|response|NN to|to|IN a|a|DT dam|dam|NN mutant|mutant|NN of|of|IN Salmonella|Salmonella|NNP enterica|enterica|NNP serovar|serovar|NNP Enteritidis|Enteritidis|NNP with|with|IN a|a|DT temperature|temperature|NN -|-|HYPH sensitive|sensitive|JJ phenotype|phenotype|NN .|.|. 
+Infect|infect|VB .|.|. 
+Immun|Immun|NNP .|.|. 
+72:5498|72:5498|CD --|--|: 5501|5501|CD .|.|. 
+16|16|CD .|.|. 
+Glickman|Glickman|NNP ,|,|, B.|B.|NNP ,|,|, P.|P.|NNP van|van|NNP den|den|NN Elsen|Elsen|NNP ,|,|, and|and|CC M.|M.|NNP Radman|Radman|NNP .|.|. 
+1978|1978|CD .|.|. 
+Induced|Induced|NNP mutagenesi|mutagenesi|NN in|in|IN dam|dam|NN mutants|mutant|NNS of|of|IN Escherichia|Escherichia|NNP coli|coli|NNP :|:|: a|a|DT role|role|NN for|for|IN 6|6|CD -|-|HYPH methyladenine|methyladenine|NN residues|residue|NNS in|in|IN mutation|mutation|NN avoidance|avoidance|NN .|.|. 
+Mol|Mol|NNP .|.|. 
+Gen.|Gen.|NNP Genet|Genet|NNP .|.|. 
+163:307|163:307|CD --|--|: 312|312|CD .|.|. 
+17|17|CD .|.|. 
+Grossman|Grossman|NNP ,|,|, N.|N.|NNP ,|,|, M.|M.|NNP A.|A.|NNP Schmetz|Schmetz|NNP ,|,|, J.|J.|NNP Foulds|Foulds|NNP ,|,|, E.|E.|NNP N.|N.|NNP Klima|Klima|NNP ,|,|, V.|V.|NNP Jiminez|Jiminez|NNP ,|,|, L.|L.|NNP L.|L.|NNP Leive|Leive|NNP ,|,|, and|and|CC K.|K.|NNP A.|A.|NNP Joiner|Joiner|NNP .|.|. 
+1987|1987|CD .|.|. 
+Lipopolysaccharide|lipopolysaccharide|NN size|size|NN and|and|CC distribution|distribution|NN determine|determine|VBP serum|serum|NN resistance|resistance|NN in|in|IN Salmonella|Salmonella|NNP montevideo|montevideo|NNP .|.|. 
+J.|J.|NNP Bacteriol|Bacteriol|NNP .|.|. 
+169:856|169:856|CD --|--|: 863|863|CD .|.|. 
+18|18|CD .|.|. 
+Haagmans|Haagmans|NNP ,|,|, W.|W.|NNP ,|,|, and|and|CC M.|M.|NNP van|van|NNP der|der|NNP Woude|Woude|NNP .|.|. 
+2000|2000|CD .|.|. 
+Phase|phase|NN variation|variation|NN of|of|IN Ag43|ag43|NN in|in|IN Escherichia|Escherichia|NNP coli|coli|NNP :|:|: Dam|dam|NN -|-|HYPH dependent|dependent|JJ methylation|methylation|NN abrogates|abrogate|VBZ OxyR|oxyr|NN binding|binding|NN and|and|CC OxyR|oxyr|NN -|-|HYPH mediated|mediate|VBN repression|repression|NN of|of|IN transcription|transcription|NN .|.|. 
+Mol|Mol|NNP .|.|. 
+Microbiol|Microbiol|NNP .|.|. 
+35:877|35:877|CD --|--|: 887|887|CD .|.|. 
+19|19|CD .|.|. 
+Heinrichs|Heinrichs|NNP ,|,|, D.|D.|NNP E.|E.|NNP ,|,|, J.|J.|NNP A.|A.|NNP Yethon|Yethon|NNP ,|,|, and|and|CC C.|C.|NNP Whitﬁeld|Whitﬁeld|NNP .|.|. 
+1998|1998|CD .|.|. 
+Molecular|molecular|JJ basis|basis|NN for|for|IN structural|structural|JJ diversity|diversity|NN in|in|IN the|the|DT core|core|NN regions|region|NNS of|of|IN the|the|DT lipopolysaccharides|lipopolysaccharide|NNS of|of|IN Esche|Esche|NNP -|-|HYPH richia|richia|NNP coli|coli|NNP and|and|CC Salmonella|Salmonella|NNP enterica|enterica|NNP .|.|. 
+Mol|Mol|NNP .|.|. 
+Microbiol|Microbiol|NNP .|.|. 
+30:221|30:221|CD --|--|: 232|232|CD .|.|. 
+20|20|CD .|.|. 
+Heinrichs|Heinrichs|NNP ,|,|, D.|D.|NNP E.|E.|NNP ,|,|, J.|J.|NNP A.|A.|NNP Yethon|Yethon|NNP ,|,|, P.|P.|NNP A.|A.|NNP Amor|Amor|NNP ,|,|, and|and|CC C.|C.|NNP Whitﬁeld|Whitﬁeld|NNP .|.|. 
+1998|1998|CD .|.|. 
+The|the|DT assembly|assembly|NN system|system|NN for|for|IN the|the|DT outer|outer|JJ core|core|NN portion|portion|NN of|of|IN R1|r1|NN -|-|HYPH and|and|CC R4|r4|NN -|-|HYPH type|type|NN lipopolysaccharides|lipopolysaccharide|NNS of|of|IN Escherichia|Escherichia|NNP coli|coli|NNP .|.|. 
+The|the|DT R1|r1|NN core|core|NN -|-|HYPH speciﬁc|speciﬁc|NN beta|beta|NN -|-|HYPH glucosyltransferase|glucosyltransferase|NN provides|provide|VBZ a|a|DT novel|novel|JJ attachment|attachment|NN site|site|NN for|for|IN O|o|NN -|-|HYPH polysaccharides|polysaccharide|NNS .|.|. 
+J.|J.|NNP Biol|Biol|NNP .|.|. 
+Chem|Chem|NNP .|.|. 
+6:29497|6:29497|CD --|--|: 29505|29505|CD .|.|. 
+21|21|CD .|.|. 
+Heithoff|Heithoff|NNP ,|,|, D.|D.|NNP M.|M.|NNP ,|,|, R.|R.|NNP L.|L.|NNP Sinsheimer|Sinsheimer|NNP ,|,|, D.|D.|NNP A.|A.|NNP Low|Low|NNP ,|,|, and|and|CC M.|M.|NNP J.|J.|NNP Mahan|Mahan|NNP .|.|. 
+1999|1999|CD .|.|. 
+An|a|DT essential|essential|JJ role|role|NN for|for|IN DNA|dna|NN adenine|adenine|NN methylation|methylation|NN in|in|IN bacterial|bacterial|JJ virulence|virulence|NN .|.|. 
+Science|Science|NNP 284:967|284:967|CD --|--|: 970|970|CD .|.|. 
+22|22|CD .|.|. 
+Hitchcock|Hitchcock|NNP ,|,|, P.|P.|NNP J.|J.|NNP ,|,|, and|and|CC T.|T.|NNP M.|M.|NNP Brown|Brown|NNP .|.|. 
+1983|1983|CD .|.|. 
+Morphological|morphological|JJ heterogeneity|heterogeneity|NN among|among|IN Salmonella|Salmonella|NNP lipopolysaccharide|lipopolysaccharide|NN chemotypes|chemotype|NNS in|in|IN silver|silver|NN -|-|HYPH stained|stain|VBN polyacrylamide|polyacrylamide|NN gels|gel|NNS .|.|. 
+J.|J.|NNP Bacteriol|Bacteriol|NNP .|.|. 
+154:269|154:269|CD --|--|: 277|277|CD .|.|. 
+23|23|CD .|.|. 
+Hoare|Hoare|NNP ,|,|, A.|A.|NNP ,|,|, M.|M.|NNP Bittner|Bittner|NNP ,|,|, J.|J.|NNP Carter|Carter|NNP ,|,|, S.|S.|NNP Alvarez|Alvarez|NNP ,|,|, M.|M.|NNP Zaldivar|Zaldivar|NNP ,|,|, D.|D.|NNP Bravo|Bravo|NNP ,|,|, M.|M.|NNP A.|A.|NNP Valvano|Valvano|NNP ,|,|, and|and|CC I.|I.|NNP Contreras|Contreras|NNP .|.|. 
+2006|2006|CD .|.|. 
+The|the|DT outer|outer|JJ core|core|NN lipopolysaccharide|lipopolysaccharide|NN of|of|IN Sal|Sal|NNP -|-|HYPH monella|monella|NNP enterica|enterica|NNP serovar|serovar|NNP Typhi|Typhi|NNP is|be|VBZ required|require|VBN for|for|IN bacterial|bacterial|JJ entry|entry|NN into|into|IN epithelial|epithelial|JJ cells|cell|NNS .|.|. 
+Infect|infect|VB .|.|. 
+Immun|Immun|NNP .|.|. 
+74:1555|74:1555|CD --|--|: 1564|1564|CD .|.|. 
+24|24|CD .|.|. 
+Jakomin|Jakomin|NNP ,|,|, M.|M.|NNP ,|,|, D.|D.|NNP Chessa|Chessa|NNP ,|,|, A.|A.|NNP J.|J.|NNP Bäumler|Bäumler|NNP ,|,|, and|and|CC J.|J.|NNP Casadesús|Casadesús|NNP .|.|. 
+2008|2008|CD .|.|. 
+Regulation|regulation|NN of|of|IN the|the|DT Salmonella|Salmonella|NNP enterica|enterica|NNP std|std|NNP ﬁmbrial|ﬁmbrial|JJ operon|operon|NN by|by|IN DNA|dna|NN adenine|adenine|NN methylation|methylation|NN ,|,|, SeqA|seqa|NN ,|,|, and|and|CC HdfR|hdfr|NN .|.|. 
+J.|J.|NNP Bacteriol|Bacteriol|NNP .|.|. 
+190:7406|190:7406|CD --|--|: 7413|7413|CD .|.|. 
+25|25|CD .|.|. 
+Julio|Julio|NNP ,|,|, S.|S.|NNP M.|M.|NNP ,|,|, D.|D.|NNP M.|M.|NNP Heithoff|Heithoff|NNP ,|,|, D.|D.|NNP Provenzano|Provenzano|NNP ,|,|, K.|K.|NNP E.|E.|NNP Klose|Klose|NNP ,|,|, R.|R.|NNP L.|L.|NNP Sinsheimer|Sinsheimer|NNP ,|,|, D.|D.|NNP A.|A.|NNP Low|Low|NNP ,|,|, and|and|CC M.|M.|NNP J.|J.|NNP Mahan|Mahan|NNP .|.|. 
+2001|2001|CD .|.|. 
+DNA|dna|NN adenine|adenine|NN methylase|methylase|NN is|be|VBZ essential|essential|JJ for|for|IN viability|viability|NN and|and|CC plays|play|VBZ a|a|DT role|role|NN in|in|IN the|the|DT pathogenesis|pathogenesis|NN of|of|IN Yersinia|Yersinia|NNP pseudotuberculosis|pseudotuberculosis|NN and|and|CC Vibrio|Vibrio|NNP cholerae|cholera|NNS .|.|. 
+Infect|infect|VB .|.|. 
+Immun|Immun|NNP .|.|. 
+69:7610|69:7610|CD --|--|: 7615|7615|CD .|.|. 
+26|26|CD .|.|. 
+Lesse|Lesse|NNP ,|,|, A.|A.|NNP J.|J.|NNP ,|,|, A.|A.|NNP A.|A.|NNP Campagnari|Campagnari|NNP ,|,|, W.|W.|NNP E.|E.|NNP Bittner|Bittner|NNP ,|,|, and|and|CC M.|M.|NNP A.|A.|NNP Apicella|Apicella|NNP .|.|. 
+1990|1990|CD .|.|. 
+Increased|increase|VBN resolution|resolution|NN of|of|IN lipopolysaccharides|lipopolysaccharide|NNS and|and|CC lipooligosaccharides|lipooligosaccharide|NNS utilizing|utilize|VBG tricine|tricine|NN -|-|HYPH sodium|sodium|NN dodecyl|dodecyl|NN sulfate|sulfate|NN -|-|HYPH polyacrylamide|polyacrylamide|NN gel|gel|NN electrophoresis|electrophoresis|NN .|.|. 
+J.|J.|NNP Immunol|Immunol|NNP .|.|. 
+Methods|method|NNS 126:109|126:109|CD --|--|: 117|117|CD .|.|. 
+27|27|CD .|.|. 
+Liu|Liu|NNP ,|,|, D.|D.|NNP ,|,|, R.|R.|NNP A.|A.|NNP Cole|Cole|NNP ,|,|, and|and|CC P.|P.|NNP R.|R.|NNP Reeves|Reeves|NNP .|.|. 
+1996|1996|CD .|.|. 
+An|a|DT O|o|NN -|-|HYPH antigen|antigen|NN processing|processing|NN function|function|NN for|for|IN Wzx|Wzx|NNP (|(|-LRB- RfbX|rfbx|NN )|)|-RRB- :|:|: a|a|DT promising|promising|JJ candidate|candidate|NN for|for|IN O|o|NN -|-|HYPH unit|unit|NN ﬂippase|ﬂippase|NN .|.|. 
+J.|J.|NNP Bacteriol|Bacteriol|NNP .|.|. 
+178:2102|178:2102|CD --|--|: 2107|2107|CD .|.|. 
+28|28|CD .|.|. 
+Livak|Livak|NNP ,|,|, K.|K.|NNP J.|J.|NNP ,|,|, and|and|CC T.|T.|NNP D.|D.|NNP Schmittgen|Schmittgen|NNP .|.|. 
+2001|2001|CD .|.|. 
+Analysis|analysis|NN of|of|IN relative|relative|JJ gene|gene|NN expression|expression|NN data|datum|NNS using|use|VBG real|real|JJ -|-|HYPH time|time|NN quantitative|quantitative|JJ PCR|pcr|NN and|and|CC the|the|DT 2CTmethod|2ctmethod|NN .|.|. 
+Methods|method|NNS 25|25|CD :|:|: 402|402|CD --|--|: 408|408|CD .|.|. 
+29|29|CD .|.|. 
+Løbner|Løbner|NNP -|-|HYPH Olesen|Olesen|NNP ,|,|, A.|A.|NNP ,|,|, O.|O.|NNP Skovgaard|Skovgaard|NNP ,|,|, and|and|CC M.|M.|NNP G.|G.|NNP Marinus|Marinus|NNP .|.|. 
+2005|2005|CD .|.|. 
+Dam|dam|NN methyl|methyl|NN -|-|HYPH ation|ation|NN :|:|: coordinating|coordinate|VBG cellular|cellular|JJ processes|process|NNS .|.|. 
+Curr|Curr|NNP .|.|. 
+Opin|Opin|NNP .|.|. 
+Microbiol|Microbiol|NNP .|.|. 
+8:154|8:154|CD --|--|: 160|160|CD .|.|. 
+30|30|CD .|.|. 
+Low|low|JJ ,|,|, D.|D.|NNP A.|A.|NNP ,|,|, N.|N.|NNP J.|J.|NNP Weyand|Weyand|NNP ,|,|, and|and|CC M.|M.|NNP J.|J.|NNP Mahan|Mahan|NNP .|.|. 
+2001|2001|CD .|.|. 
+Roles|role|NNS of|of|IN DNA|dna|NN adenine|adenine|NN methylation|methylation|NN in|in|IN regulating|regulate|VBG gene|gene|NN expression|expression|NN and|and|CC virulence|virulence|NN .|.|. 
+Infect|infect|VB .|.|. 
+Immun|Immun|NNP .|.|. 
+69:7197|69:7197|CD --|--|: 7204|7204|CD .|.|. 
+31|31|CD .|.|. 
+Marino|Marino|NNP ,|,|, P.|P.|NNP A.|A.|NNP ,|,|, B.|B.|NNP C.|C.|NNP McGrath|McGrath|NNP ,|,|, and|and|CC M.|M.|NNP J.|J.|NNP Osborn|Osborn|NNP .|.|. 
+1991|1991|CD .|.|. 
+Energy|Energy|NNP dependence|dependence|NN of|of|IN O|o|NN -|-|HYPH antigen|antigen|NN synthesis|synthesis|NN in|in|IN Salmonella|Salmonella|NNP typhimurium|typhimurium|NN .|.|. 
+J.|J.|NNP Bacteriol|Bacteriol|NNP .|.|. 
+173:3128|173:3128|CD --|--|: 3133|3133|CD .|.|. 
+32|32|CD .|.|. 
+Marinus|Marinus|NNP ,|,|, M.|M.|NNP G.|G.|NNP 1996|1996|CD .|.|. 
+Methylation|methylation|NN of|of|IN DNA|dna|NN ,|,|, p.|p.|NN 782|782|CD --|--|: 791|791|CD .|.|. 
+In|in|IN F.|F.|NNP C.|C.|NNP Neidhardt|Neidhardt|NNP ,|,|, R.|R.|NNP Curtiss|Curtiss|NNP ,|,|, J.|J.|NNP L.|L.|NNP Ingraham|Ingraham|NNP ,|,|, E.|E.|NNP C.|C.|NNP C.|C.|NNP Lin|Lin|NNP ,|,|, K.|K.|NNP B.|B.|NNP Low|Low|NNP ,|,|, B.|B.|NNP Magasanik|Magasanik|NNP ,|,|, W.|W.|NNP S.|S.|NNP Reznikoff|Reznikoff|NNP ,|,|, M.|M.|NNP Riley|Riley|NNP ,|,|, M.|M.|NNP Schaechter|Schaechter|NNP ,|,|, and|and|CC H.|H.|NNP E.|E.|NNP Umbarger|Umbarger|NNP (|(|-LRB- ed|ed|NN .|.|. )|)|-RRB- 
+,|,|, Escherichia|Escherichia|NNP coli|coli|NNP and|and|CC Salmonella|Salmonella|NNP :|:|: cellular|cellular|JJ and|and|CC molecular|molecular|JJ biology|biology|NN .|.|. 
+ASM|ASM|NNP Press|Press|NNP ,|,|, Washington|Washington|NNP ,|,|, DC|DC|NNP .|.|. 
+33|33|CD .|.|. 
+Marolda|Marolda|NNP ,|,|, C.|C.|NNP L.|L.|NNP ,|,|, J.|J.|NNP Welsh|Welsh|NNP ,|,|, L.|L.|NNP Dafoe|Dafoe|NNP ,|,|, and|and|CC M.|M.|NNP A.|A.|NNP Valvano|Valvano|NNP .|.|. 
+1990|1990|CD .|.|. 
+Genetic|genetic|JJ analysis|analysis|NN of|of|IN the|the|DT O7|o7|NN -|-|HYPH polysaccharide|polysaccharide|NN biosynthesis|biosynthesis|NN region|region|NN from|from|IN the|the|DT Escherichia|Escherichia|NNP coli|coli|NNP O7|o7|NN :|:|: K1|k1|NN strain|strain|NN VW187|vw187|NN .|.|. 
+J.|J.|NNP Bacteriol|Bacteriol|NNP .|.|. 
+172:3590|172:3590|CD --|--|: 3599|3599|CD .|.|. 
+34|34|CD .|.|. 
+Marolda|Marolda|NNP ,|,|, C.|C.|NNP L.|L.|NNP ,|,|, E.|E.|NNP R.|R.|NNP Haggerty|Haggerty|NNP ,|,|, M.|M.|NNP Lung|Lung|NNP ,|,|, and|and|CC M.|M.|NNP A.|A.|NNP Valvano|Valvano|NNP .|.|. 
+2008|2008|CD .|.|. 
+Functional|functional|JJ analysis|analysis|NN of|of|IN predicted|predict|VBN coiled|coil|VBN -|-|HYPH coil|coil|NN regions|region|NNS in|in|IN the|the|DT Escherichia|Escherichia|NNP coli|coli|NNP K|K|NNP -|-|HYPH 12|12|CD O|o|NN -|-|HYPH antigen|antigen|NN polysaccharide|polysaccharide|NN chain|chain|NN length|length|NN determinant|determinant|NN Wzz|Wzz|NNP .|.|. 
+J.|J.|NNP Bacteriol|Bacteriol|NNP .|.|. 
+190|190|CD :|:|: 2128|2128|CD --|--|: 2137|2137|CD .|.|. 
+35|35|CD .|.|. 
+McGrath|McGrath|NNP ,|,|, B.|B.|NNP C.|C.|NNP ,|,|, and|and|CC M.|M.|NNP J.|J.|NNP Osborn|Osborn|NNP .|.|. 
+1991|1991|CD .|.|. 
+Localization|localization|NN of|of|IN the|the|DT terminal|terminal|JJ steps|step|NNS of|of|IN O|o|NN -|-|HYPH antigen|antigen|NN synthesis|synthesis|NN in|in|IN Salmonella|Salmonella|NNP typhimurium|typhimurium|NN .|.|. 
+J.|J.|NNP Bacteriol|Bacteriol|NNP .|.|. 
+173:649|173:649|CD --|--|: 654|654|CD .|.|. 
+36|36|CD .|.|. 
+Miller|Miller|NNP ,|,|, J.|J.|NNP H.|H.|NNP 1972|1972|CD .|.|. 
+Experiments|experiment|NNS in|in|IN molecular|molecular|JJ genetics|genetics|NN ,|,|, p.|p.|NN 352|352|CD --|--|: 355|355|CD .|.|. 
+Cold|Cold|NNP Spring|Spring|NNP Harbor|Harbor|NNP Laboratory|Laboratory|NNP Press|Press|NNP ,|,|, Cold|Cold|NNP Spring|Spring|NNP Harbor|Harbor|NNP ,|,|, NY|NY|NNP .|.|. 
+37|37|CD .|.|. 
+Morona|Morona|NNP ,|,|, R.|R.|NNP ,|,|, L.|L.|NNP Van|Van|NNP Den|Den|NNP Bosch|Bosch|NNP ,|,|, and|and|CC P.|P.|NNP A.|A.|NNP Manning|Manning|NNP .|.|. 
+1995|1995|CD .|.|. 
+Molecular|Molecular|NNP ,|,|, genetic|genetic|JJ ,|,|, and|and|CC topological|topological|JJ characterization|characterization|NN of|of|IN O|o|NN -|-|HYPH antigen|antigen|NN chain|chain|NN length|length|NN regulation|regulation|NN in|in|IN Shigella|Shigella|NNP ﬂexneri|ﬂexneri|NNS .|.|. 
+J.|J.|NNP Bacteriol|Bacteriol|NNP .|.|. 
+177:1059|177:1059|CD --|--|: 1068|1068|CD .|.|. 
+38|38|CD .|.|. 
+Mulford|Mulford|NNP ,|,|, C.|C.|NNP A.|A.|NNP ,|,|, and|and|CC M.|M.|NNP J.|J.|NNP Osborn|Osborn|NNP .|.|. 
+1983|1983|CD .|.|. 
+An|a|DT intermediate|intermediate|JJ step|step|NN in|in|IN translocation|translocation|NN of|of|IN lipopolysaccharide|lipopolysaccharide|NN to|to|IN the|the|DT outer|outer|JJ membrane|membrane|NN of|of|IN Salmonella|salmonella|NN typhi|typhi|NN -|-|HYPH murium|murium|NN .|.|. 
+Proc|Proc|NNP .|.|. 
+Natl.|Natl.|NNP Acad|Acad|NNP .|.|. 
+Sci|sci|NN .|.|. 
+USA|USA|NNP 80:1159|80:1159|CD --|--|: 1163|1163|CD .|.|. 
+39|39|CD .|.|. 
+Murata|Murata|NNP ,|,|, T.|T.|NNP ,|,|, W.|W.|NNP Tseng|Tseng|NNP ,|,|, T.|T.|NNP Guina|Guina|NNP ,|,|, S.|S.|NNP I.|I.|NNP Miller|Miller|NNP ,|,|, and|and|CC H.|H.|NNP Nikaido|Nikaido|NNP .|.|. 
+2007|2007|CD .|.|. 
+PhoPQmediated|PhoPQmediated|NNP regulation|regulation|NN produces|produce|VBZ a|a|DT more|more|RBR robust|robust|JJ permeability|permeability|NN barrier|barrier|NN in|in|IN the|the|DT outer|outer|JJ membrane|membrane|NN of|of|IN Salmonella|Salmonella|NNP enterica|enterica|NNP serovar|serovar|NNP Typhimurium|Typhimurium|NNP .|.|. 
+J.|J.|NNP Bacteriol|Bacteriol|NNP .|.|. 
+189:7213|189:7213|CD --|--|: 7222|7222|CD .|.|. 
+40|40|CD .|.|. 
+Murray|Murray|NNP ,|,|, G.|G.|NNP L.|L.|NNP ,|,|, S.|S.|NNP R.|R.|NNP Attridge|Attridge|NNP ,|,|, and|and|CC R.|R.|NNP Morona|Morona|NNP .|.|. 
+2003|2003|CD .|.|. 
+Regulation|regulation|NN of|of|IN Salmo|Salmo|NNP -|-|HYPH nella|nella|NNP Typhimurium|Typhimurium|NNP lipopolysaccharide|lipopolysaccharide|NN O|o|NN antigen|antigen|NN chain|chain|NN length|length|NN is|be|VBZ required|require|VBN for|for|IN virulence|virulence|NN ;|;|: identiﬁcation|identiﬁcation|NN of|of|IN FepE|fepe|NN as|as|IN a|a|DT second|second|JJ Wzz|wzz|NN .|.|. 
+Mol|Mol|NNP .|.|. 
+Microbiol|Microbiol|NNP .|.|. 
+47:1395|47:1395|CD --|--|: 1406|1406|CD .|.|. 
+41|41|CD .|.|. 
+Murray|Murray|NNP ,|,|, G.|G.|NNP L.|L.|NNP ,|,|, S.|S.|NNP R.|R.|NNP Attridge|Attridge|NNP ,|,|, and|and|CC R.|R.|NNP Morona|Morona|NNP .|.|. 
+2005|2005|CD .|.|. 
+Inducible|inducible|JJ serum|serum|NN resistance|resistance|NN in|in|IN Salmonella|Salmonella|NNP Typhimurium|Typhimurium|NNP is|be|VBZ dependent|dependent|JJ on|on|IN wzz|wzz|NN (|(|-LRB- fepE|fepe|NN )|)|-RRB- -|-|HYPH regulated|regulate|VBN very|very|RB long|long|JJ O|o|NN antigen|antigen|NN chains|chain|NNS .|.|. 
+Microbes|microbe|NNS Infect|infect|VBP .|.|. 
+7:1296|7:1296|CD --|--|: 1304|1304|CD .|.|. 
+42|42|CD .|.|. 
+Murray|Murray|NNP ,|,|, G.|G.|NNP L.|L.|NNP ,|,|, S.|S.|NNP R.|R.|NNP Attridge|Attridge|NNP ,|,|, and|and|CC R.|R.|NNP Morona|Morona|NNP .|.|. 
+2006|2006|CD .|.|. 
+Altering|alter|VBG the|the|DT length|length|NN of|of|IN the|the|DT lipopolysaccharide|lipopolysaccharide|NN O|o|NN antigen|antigen|NN has|have|VBZ an|a|DT impact|impact|NN on|on|IN the|the|DT interaction|interaction|NN of|of|IN Sal|Sal|NNP -|-|HYPH monella|monella|NNP enterica|enterica|NNP serovar|serovar|NNP Typhimurium|Typhimurium|NNP with|with|IN macrophages|macrophage|NNS and|and|CC complement|complement|NN .|.|. 
+J.|J.|NNP Bacteriol|Bacteriol|NNP .|.|. 
+188:2735|188:2735|CD --|--|: 2739|2739|CD .|.|. 
+43|43|CD .|.|. 
+Osborn|Osborn|NNP ,|,|, M.|M.|NNP J.|J.|NNP 1963|1963|CD .|.|. 
+Studies|study|NNS in|in|IN the|the|DT Gram|Gram|NNP -|-|HYPH negative|negative|JJ cell|cell|NN wall|wall|NN .|.|. 
+I.|I.|NNP Evidence|evidence|NN for|for|IN the|the|DT role|role|NN of|of|IN 2|2|CD -|-|HYPH keto|keto|NN -3-deoxyoctonoate|-3-deoxyoctonoate|NN in|in|IN the|the|DT lipopolysaccharide|lipopolysaccharide|NN of|of|IN Salmonella|Salmonella|NNP typhimurium|typhimurium|NN .|.|. 
+Proc|Proc|NNP .|.|. 
+Natl.|Natl.|NNP Acad|Acad|NNP .|.|. 
+Sci|sci|NN .|.|. 
+USA|USA|NNP 50:499|50:499|CD --|--|: 506|506|CD .|.|. 
+44|44|CD .|.|. 
+Palmer|Palmer|NNP ,|,|, B.|B.|NNP R.|R.|NNP ,|,|, and|and|CC M.|M.|NNP N.|N.|NNP Marinus|Marinus|NNP .|.|. 
+1994|1994|CD .|.|. 
+The|the|DT dam|dam|NN and|and|CC dcm|dcm|NN strains|strain|NNS of|of|IN Escherichia|Escherichia|NNP coli|coli|NNP .|.|. 
+Gene|Gene|NNP 143:1|143:1|CD --|--|: 12|12|CD .|.|. 
+45|45|CD .|.|. 
+Phalipon|Phalipon|NNP ,|,|, A.|A.|NNP ,|,|, C.|C.|NNP Costachel|Costachel|NNP ,|,|, C.|C.|NNP Grandjean|Grandjean|NNP ,|,|, A.|A.|NNP Thuizat|Thuizat|NNP ,|,|, C.|C.|NNP Guerreiro|Guerreiro|NNP ,|,|, M.|M.|NNP Tanguy|Tanguy|NNP ,|,|, F.|F.|NNP Nato|Nato|NNP ,|,|, B.|B.|NNP Vulliez|Vulliez|NNP -|-|HYPH Le|Le|NNP Normand|Normand|NNP ,|,|, F.|F.|NNP Belot|Belot|NNP ,|,|, K.|K.|NNP Wright|Wright|NNP ,|,|, V.|V.|NNP Marcel|Marcel|NNP -|-|HYPH Peyre|Peyre|NNP ,|,|, P.|P.|NNP J.|J.|NNP Sansonetti|Sansonetti|NNP ,|,|, and|and|CC L.|L.|NNP A.|A.|NNP Mulard|Mulard|NNP .|.|. 
+2006|2006|CD .|.|. 
+Characterization|characterization|NN of|of|IN functional|functional|JJ oligosaccharide|oligosaccharide|NN mimics|mimic|VBZ of|of|IN the|the|DT Shigella|Shigella|NNP ﬂexneri|ﬂexneri|NN serotype|serotype|NN 2a|2a|NN O|o|NN -|-|HYPH antigen|antigen|NN :|:|: implications|implication|NNS for|for|IN the|the|DT development|development|NN of|of|IN a|a|DT chemically|chemically|RB deﬁned|deﬁned|VBN glycoconjugate|glycoconjugate|NN vaccine|vaccine|NN .|.|. 
+J.|J.|NNP Immunol|Immunol|NNP .|.|. 
+176:1686|176:1686|CD --|--|: 1694|1694|CD .|.|. 
+46|46|CD .|.|. 
+Putnam|Putnam|NNP ,|,|, S.|S.|NNP L.|L.|NNP ,|,|, and|and|CC A.|A.|NNP L.|L.|NNP Koch|Koch|NNP .|.|. 
+1975|1975|CD .|.|. 
+Complication|complication|NN in|in|IN the|the|DT simplest|simplest|JJS cellular|cellular|JJ enzyme|enzyme|NN assay|assay|NN :|:|: lysis|lysis|NN of|of|IN Escherichia|Escherichia|NNP coli|coli|NNP for|for|IN the|the|DT assay|assay|NN of|of|IN -|-|HYPH galactosidase|galactosidase|NN .|.|. 
+Anal|anal|JJ .|.|. 
+Biochem|Biochem|NNP .|.|. 
+63:350|63:350|CD --|--|: 360|360|CD .|.|. 
+47|47|CD .|.|. 
+Raetz|Raetz|NNP ,|,|, C.|C.|NNP R.|R.|NNP ,|,|, and|and|CC C.|C.|NNP Whitﬁeld|Whitﬁeld|NNP .|.|. 
+2002|2002|CD .|.|. 
+Lipopolysaccharide|lipopolysaccharide|NN endotoxins|endotoxin|NNS .|.|. 
+Annu|Annu|NNP .|.|. 
+Rev.|Rev.|NNP Biochem|Biochem|NNP .|.|. 
+71:635|71:635|CD --|--|: 700|700|CD .|.|. 
+48|48|CD .|.|. 
+Raetz|Raetz|NNP ,|,|, C.|C.|NNP R.|R.|NNP ,|,|, C.|C.|NNP M.|M.|NNP Reynolds|Reynolds|NNP ,|,|, M.|M.|NNP S.|S.|NNP Trent|Trent|NNP ,|,|, and|and|CC R.|R.|NNP E.|E.|NNP Bishop|Bishop|NNP .|.|. 
+2007|2007|CD .|.|. 
+Lipid|lipid|NN A|a|DT modiﬁcation|modiﬁcation|NN systems|system|NNS in|in|IN gram|gram|NN -|-|HYPH negative|negative|JJ bacteria|bacterium|NNS .|.|. 
+Annu|Annu|NNP .|.|. 
+Rev.|Rev.|NNP Biochem|Biochem|NNP .|.|. 
+76|76|CD :|:|: 295|295|CD --|--|: 329|329|CD .|.|. 
+49|49|CD .|.|. 
+Rick|Rick|NNP ,|,|, P.|P.|NNP D.|D.|NNP ,|,|, K.|K.|NNP Barr|Barr|NNP ,|,|, K.|K.|NNP Sankaran|Sankaran|NNP ,|,|, J.|J.|NNP Kajimura|Kajimura|NNP ,|,|, J.|J.|NNP S.|S.|NNP Rush|Rush|NNP ,|,|, and|and|CC C.|C.|NNP J.|J.|NNP Waechter|Waechter|NNP .|.|. 
+2003|2003|CD .|.|. 
+Evidence|evidence|NN that|that|IN the|the|DT wzxE|wzxe|NN gene|gene|NN of|of|IN Escherichia|Escherichia|NNP coli|coli|NNP K|K|NNP -|-|HYPH 12|12|CD encodes|encode|VBZ a|a|DT protein|protein|NN involved|involve|VBN in|in|IN the|the|DT transbilayer|transbilayer|NN movement|movement|NN of|of|IN a|a|DT trisaccharide|trisaccharide|NN -|-|HYPH lipid|lipid|NN intermediate|intermediate|JJ in|in|IN the|the|DT assembly|assembly|NN of|of|IN enterobacterial|enterobacterial|JJ common|common|JJ antigen|antigen|NN .|.|. 
+J.|J.|NNP Biol|Biol|NNP .|.|. 
+Chem|Chem|NNP .|.|. 
+278:16534|278:16534|CD --|--|: 16542|16542|CD .|.|. 
+50|50|CD .|.|. 
+Riva|Riva|NNP ,|,|, A.|A.|NNP ,|,|, M.|M.|NNP O.|O.|NNP Delorme|Delorme|NNP ,|,|, T.|T.|NNP Chevalier|Chevalier|NNP ,|,|, N.|N.|NNP Guilhot|Guilhot|NNP ,|,|, C.|C.|NNP Hénaut|Hénaut|NNP ,|,|, and|and|CC A.|A.|NNP Hénaut|Hénaut|NNP .|.|. 
+2004|2004|CD .|.|. 
+The|the|DT difﬁcult|difﬁcult|NN interpretation|interpretation|NN of|of|IN transcriptome|transcriptome|NN data|datum|NNS :|:|: the|the|DT case|case|NN of|of|IN the|the|DT GATC|GATC|NNP regulatory|regulatory|JJ network|network|NN .|.|. 
+Comput|Comput|NNP .|.|. 
+Biol|Biol|NNP .|.|. 
+Chem|Chem|NNP .|.|. 
+28:109|28:109|CD --|--|: 118|118|CD .|.|. 
+51|51|CD .|.|. 
+Roberts|Roberts|NNP ,|,|, D.|D.|NNP ,|,|, B.|B.|NNP C.|C.|NNP Hoopes|Hoopes|NNP ,|,|, W.|W.|NNP R.|R.|NNP McClure|McClure|NNP ,|,|, and|and|CC N.|N.|NNP Kleckner|Kleckner|NNP .|.|. 
+1985|1985|CD .|.|. 
+IS10|is10|NN transposition|transposition|NN is|be|VBZ regulated|regulate|VBN by|by|IN DNA|dna|NN adenine|adenine|NN methylation|methylation|NN .|.|. 
+Cell|cell|NN 43:117|43:117|CD --|--|: 130|130|CD .|.|. 
+52|52|CD .|.|. 
+Rose|Rose|NNP ,|,|, R.|R.|NNP E.|E.|NNP 1988|1988|CD .|.|. 
+The|the|DT nucleotide|nucleotide|NN sequence|sequence|NN of|of|IN pACYC184|pacyc184|NN .|.|. 
+Nucleic|nucleic|JJ Acids|acid|NNS Res|re|NNS .|.|. 
+16:355|16:355|CD .|.|. 
+53|53|CD .|.|. 
+Sambrook|Sambrook|NNP ,|,|, J.|J.|NNP ,|,|, E.|E.|NNP F.|F.|NNP Fritsch|Fritsch|NNP ,|,|, and|and|CC T.|T.|NNP Maniatis|Maniatis|NNP .|.|. 
+1989|1989|CD .|.|. 
+Molecular|molecular|JJ cloning|cloning|NN :|:|: a|a|DT laboratory|laboratory|NN manual|manual|NN ,|,|, 2nd|2nd|JJ ed|ed|NN .|.|. 
+Cold|Cold|NNP Spring|Spring|NNP Harbor|Harbor|NNP Laboratory|Laboratory|NNP Press|Press|NNP ,|,|, Cold|Cold|NNP Spring|Spring|NNP Harbor|Harbor|NNP ,|,|, NY|NY|NNP .|.|. 
+54|54|CD .|.|. 
+Samuel|Samuel|NNP ,|,|, J.|J.|NNP E.|E.|NNP ,|,|, K.|K.|NNP Kiss|kiss|VB ,|,|, and|and|CC S.|S.|NNP Varghees|Varghees|NNP .|.|. 
+2003|2003|CD .|.|. 
+Molecular|molecular|JJ pathogenesis|pathogenesis|NN of|of|IN Coxiella|Coxiella|NNP burnetii|burnetii|NNP in|in|IN a|a|DT genomics|genomic|NNS era|era|NN .|.|. 
+Ann|Ann|NNP .|.|. 
+N.|N.|NNP Y.|Y.|NNP Acad|Acad|NNP .|.|. 
+Sci|sci|NN .|.|. 
+990:653|990:653|CD --|--|: 663|663|CD .|.|. 
+55|55|CD .|.|. 
+Sarnacki|Sarnacki|NNP ,|,|, S.|S.|NNP H.|H.|NNP ,|,|, M.|M.|NNP N.|N.|NNP Giacomodonato|Giacomodonato|NNP ,|,|, M.|M.|NNP Noto|Noto|NNP Llana|Llana|NNP ,|,|, M.|M.|NNP A.|A.|NNP Valvano|Valvano|NNP ,|,|, and|and|CC M.|M.|NNP C.|C.|NNP Cerquetti|Cerquetti|NNP .|.|. 
+2006|2006|CD .|.|. 
+Diminished|diminish|VBN innate|innate|JJ and|and|CC acquired|acquire|VBN immunity|immunity|NN response|response|NN to|to|IN dam|dam|NN mutants|mutant|NNS of|of|IN Salmonella|Salmonella|NNP enterica|enterica|NNP could|could|MD be|be|VB related|relate|VBN to|to|IN a|a|DT defective|defective|JJ lipo|lipo|NN -|-|HYPH polysaccharide|polysaccharide|NN (|(|-LRB- LPS|lps|NN )|)|-RRB- synthesis|synthesis|NN ,|,|, abstr|abstr|NN .|.|. 
+B052|b052|NN .|.|. 
+Abstr|Abstr|NNP .|.|. 
+106th|106th|JJ Gen.|Gen.|NNP Meet|Meet|NNP .|.|. 
+Am|be|VBP .|.|. 
+Soc|soc|NN .|.|. 
+Microbiol|Microbiol|NNP .|.|. 
+American|american|JJ Society|Society|NNP for|for|IN Microbiology|Microbiology|NNP ,|,|, Washington|Washington|NNP ,|,|, DC|DC|NNP .|.|. 
+56|56|CD .|.|. 
+Schagger|Schagger|NNP ,|,|, H.|H.|NNP ,|,|, and|and|CC G.|G.|NNP von|von|NNP Jagow|Jagow|NNP .|.|. 
+1987|1987|CD .|.|. 
+Tricine|tricine|NN -|-|HYPH sodium|sodium|NN dodecyl|dodecyl|NN sulfate|sulfate|NN -|-|HYPH polyacrylamide|polyacrylamide|NN gel|gel|NN electrophoresis|electrophoresis|NN for|for|IN the|the|DT separation|separation|NN of|of|IN proteins|proteins|NN in|in|IN the|the|DT range|range|NN from|from|IN 1|1|CD to|to|IN 100|100|CD kDa|kda|NN .|.|. 
+Anal|anal|JJ .|.|. 
+Biochem|Biochem|NNP .|.|. 
+166:368|166:368|CD --|--|: 379|379|CD .|.|. 
+57|57|CD .|.|. 
+Torreblanca|Torreblanca|NNP ,|,|, J.|J.|NNP ,|,|, S.|S.|NNP Marques|Marques|NNP ,|,|, and|and|CC J.|J.|NNP Casadesus|Casadesus|NNP .|.|. 
+1999|1999|CD .|.|. 
+Synthesis|synthesis|NN of|of|IN FinP|finp|NN RNA|rna|NN by|by|IN plasmids|plasmid|NNS F|f|NN and|and|CC pSLT|pslt|NN is|be|VBZ regulated|regulate|VBN by|by|IN DNA|dna|NN adenine|adenine|NN methylation|methylation|NN .|.|. 
+Genetics|Genetics|NNP 152:31|152:31|CD --|--|: 45|45|CD .|.|. 
+58|58|CD .|.|. 
+Valvano|Valvano|NNP ,|,|, M.|M.|NNP A.|A.|NNP 2003|2003|CD .|.|. 
+Export|export|NN of|of|IN O|o|NN -|-|HYPH speciﬁc|speciﬁc|NN lipopolysaccharide|lipopolysaccharide|NN .|.|. 
+Front|front|NN .|.|. 
+Biosci|Biosci|NNP .|.|. 
+8|8|CD :|:|: s452|s452|NN --|--|: 471|471|CD .|.|. 
+59|59|CD .|.|. 
+Waldron|Waldron|NNP ,|,|, D.|D.|NNP E.|E.|NNP ,|,|, P.|P.|NNP Owen|Owen|NNP ,|,|, and|and|CC C.|C.|NNP J.|J.|NNP Dorman|Dorman|NNP .|.|. 
+2002|2002|CD .|.|. 
+Competitive|competitive|JJ interaction|interaction|NN of|of|IN the|the|DT OxyR|oxyr|NN DNA|dna|NN -|-|HYPH binding|bind|VBG protein|protein|NN and|and|CC the|the|DT Dam|dam|NN methylase|methylase|NN at|at|IN the|the|DT antigen|antigen|NN 43|43|CD gene|gene|NN regulatory|regulatory|JJ region|region|NN in|in|IN Escherichia|Escherichia|NNP coli|coli|NNP .|.|. 
+Mol|Mol|NNP .|.|. 
+Microbiol|Microbiol|NNP .|.|. 
+44:509|44:509|CD --|--|: 520|520|CD .|.|. 
+60|60|CD .|.|. 
+Wallecha|Wallecha|NNP ,|,|, A.|A.|NNP ,|,|, V.|V.|NNP Munster|Munster|NNP ,|,|, J.|J.|NNP Correnti|Correnti|NNP ,|,|, T.|T.|NNP Chan|Chan|NNP ,|,|, and|and|CC M.|M.|NNP van|van|NNP der|der|NNP Woude|Woude|NNP .|.|. 
+2002|2002|CD .|.|. 
+Dam|dam|NN -|-|: and|and|CC OxyR|oxyr|NN -|-|HYPH dependent|dependent|JJ phase|phase|NN variation|variation|NN of|of|IN agn43|agn43|NN :|:|: essential|essential|JJ elements|element|NNS and|and|CC evidence|evidence|NN for|for|IN a|a|DT new|new|JJ role|role|NN of|of|IN DNA|dna|NN methylation|methylation|NN .|.|. 
+J.|J.|NNP Bacteriol|Bacteriol|NNP .|.|. 
+184:3338|184:3338|CD --|--|: 3347|3347|CD .|.|. 
+61|61|CD .|.|. 
+Whitﬁeld|Whitﬁeld|NNP ,|,|, C.|C.|NNP ,|,|, and|and|CC M.|M.|NNP A.|A.|NNP Valvano|Valvano|NNP .|.|. 
+1993|1993|CD .|.|. 
+Biosynthesis|biosynthesis|NN and|and|CC expression|expression|NN of|of|IN cell|cell|NN -|-|HYPH surface|surface|NN polysaccharides|polysaccharide|NNS in|in|IN gram|gram|NN -|-|HYPH negative|negative|JJ bacteria|bacterium|NNS .|.|. 
+Adv.|Adv.|NNP Microb|Microb|NNP .|.|. 
+Physiol|Physiol|NNP .|.|. 
+35:135|35:135|CD --|--|: 246|246|CD .|.|. 
+62|62|CD .|.|. 
+Whitﬁeld|Whitﬁeld|NNP ,|,|, C.|C.|NNP 1995|1995|CD .|.|. 
+Biosynthesis|biosynthesis|NN of|of|IN lipopolysaccharide|lipopolysaccharide|NN O|o|NN antigens|antigen|NNS .|.|. 
+Trends|Trends|NNP Microbiol|Microbiol|NNP .|.|. 
+3:178|3:178|CD --|--|: 185|185|CD .|.|. 
+63|63|CD .|.|. 
+Wion|Wion|NNP ,|,|, D.|D.|NNP ,|,|, and|and|CC J.|J.|NNP Casadesús|Casadesús|NNP .|.|. 
+2006|2006|CD .|.|. 
+N6|n6|NN -|-|HYPH methyl|methyl|NN -|-|HYPH adenine|adenine|NN :|:|: an|a|DT epigenetic|epigenetic|JJ signal|signal|NN for|for|IN DNA|dna|NN -|-|HYPH protein|protein|NN interactions|interaction|NNS .|.|. 
+Nat|nat|JJ .|.|. 
+Rev.|Rev.|NNP Microbiol|Microbiol|NNP .|.|. 
+4:183|4:183|CD --|--|: 192|192|CD 
