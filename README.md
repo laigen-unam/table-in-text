@@ -1,7 +1,7 @@
 # table-in-text
 
 ## Description
-Script for identifying tables in plain text documents and saves them in an output file.
+Script for identifying tables in plain text documents and saving them in output files.
 The model was trained using SVM classifier on a dataset of 150 articles containing 410 tables and 45406 non-table sentences.
 
 
