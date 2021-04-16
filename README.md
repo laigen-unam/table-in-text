@@ -2,7 +2,7 @@
 
 ## Description
 Script for identifying tables in plain text documents and saving them into output files.
-The model was trained using SVM classifier on a dataset of 150 articles containing 410 tables and 45406 non-table sentences.
+The model was trained using SVM classifier on a dataset of 150 articles containing 410 tables and 45406 non-table sentences. The final f1 Score was of 0.94.
 
 
 ## CoreNLP Preprocessing
