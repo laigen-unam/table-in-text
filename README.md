@@ -40,13 +40,13 @@ json
 ```
 
 ## Developers
-Carlos Francisco Méndez Cruz\
 Dante Torres Sepúlveda\
 Axel Zagal Norman\
-Joel Rodríguez Herrera
+Joel Rodríguez Herrera\
+Carlos Francisco Méndez Cruz
 
 ## Contact
-Carlos Méndez: cmendezc at ccg.unam.mx\
 Dante Torres: dtorres@lcg.unam.mx\
 Axel Zagal: azagal@lcg.unam.mx\
-Joel Rodríguez: joelrh@lcg.unam.mx
+Joel Rodríguez: joelrh@lcg.unam.mx\
+Carlos Méndez: cmendezc at ccg.unam.mx
