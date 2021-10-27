@@ -1,0 +1,290 @@
+lable at ScienceDirect Contents lists avai 
+Biochemical and Biophysical Research Communications
+journal homepage : www.elsevier.com/locate/ybbrc 
+Structural studies on the decameric S. typhimurium arginine decarboxylase ( ADC ) : Pyridoxal 50-phosphate binding induces conformational changes 
+G. Deka a , S.R. Bharath a , H.S. Savithri b , M.R.N. Murthy a , * 
+a Molecular Biophysics Unit , Indian Institute of Science , Bangalore 560012 , India b Biochemistry Department , Indian Institute of Science , Bangalore 560012 , India 
+a r t i c l e i n f o 
+a b s t r a c t 
+Article history : Received 4 July 2017 
+Enteric pathogens such as Salmonella typhimurium colonize the human gut in spite of the lethal acidic pH environment ( pH < 2.5 ) due to the activation of inducible acid tolerance response ( ATR ) systems . 
+The pyridoxal 50-phosphate ( PLP ) - dependent enzyme , biodegradative arginine decarboxylase ( ADC , encoded by AdiA ) , is a component of an ATR system . 
+The enzyme consumes a cytoplasmic proton in the process of arginine degradation to agmatine . 
+Arginine-agmatine antiporter ( AdiC ) exchanges the product agmatine for arginine . 
+In this manuscript , we describe the structure of Salmonella typhimurium ADC ( StADC ) . 
+The decameric structure assembled from ﬁve dimers related by a non crystallographic 5-fold symmetry represents the ﬁrst apo-form of the enzyme . 
+The structure suggests that PLP-binding is not a prerequisite for oligomerization . 
+Comparison with E. coli ADC reveals that PLP-binding is accompanied by the movement and ordering of two loops ( residues 150e159 and 191e197 ) and a few active site residues such as His256 and Lys257 . 
+A number of residues important for substrate binding are disordered in the apo-StADC structure indicating that PLP binding is important for substrate binding . 
+Unlike the interactions between 5-fold related protomers , interactions that stabilize the dimeric structure are not pH dependent . 
+© 2017 Elsevier Inc. . 
+All rights reserved . 
+Accepted 6 July 2017 Available online 8 July 2017 
+Keywords : 
+Arginine decarboxylase Salmonella typhimurium PLP binding Conformational changes X-ray crystal structure 
+1. Introduction
+Infection by the food borne enteropathogenic bacterium Sal-monella typhimurium causes Salmonellosis [ 1 ] . 
+The pathogenicity is due to its ability to withstand the lethal acidic pH in the host stomach ( pH ~ 2 ) [ 2 ] . 
+An acid inducible tolerance response ( ATR ) system in E. coli and S. typhimurium offers protection by maintaining the internal pH close to 4 [ 2 ] . 
+In S. typhimurium , the ATR system comprises of the acid inducible pyridoxal 50-phosphate ( PLP ) - dependent lysine ( LDC ) and arginine ( ADC ) decarboxylases and their respective antiporters [ 3 ] , [ 4 ] . 
+ADC ( encoded by AdiA ) catalyses the decarboxylation of arginine to agmatine by consuming a proton from the cytoplasm and thereby increasing the intracellular pH. Arginine-agmatine antiporter ( AdiC ) releases the product agmatine in exchange for arginine [ 4 ] . 
+PLP dependent enzymes , classiﬁed into four major fold types ( IIV ) [ 5 ] catalyze a wide variety of reactions such as decarboxylation , transamination , elimination , racemization etc [ 6 ] . 
+PLP dependent decarboxylases ( DC ) have been classiﬁed into four major groups ( DC I-IV ) . 
+DC I , II , III belong to fold type I and DC IV belongs to fold type III of PLP dependent enzyme families [ 7 ] . 
+The large protomeric size ( > 700 amino acids ) and oligomeric form ( decamer/dodecamer ) distinguish group III DCs from other PLP-dependent DCs ( < 400 amino acids , dimers ) . 
+At neutral pH , DC III enzymes exist as dimers . 
+At low pH ( < 6 ) , ADC and LDC form decamers ( pentamers of dimers ) and ornithine decarboxylase ( ODC ) forms dodecamers ( hexamers of dimers ) . 
+The oligomerization is promoted by low pH ( < 6 ) , high concentration of the enzyme , the presence of substrate analogues , high concentrations of divalent as well as monovalent cations [ 8 ] , [ 9 ] . 
+X-ray crystal structures of only a few group III decarboxylases such as ADC from E. coli ( PDB Id : 2VYC ) [ 10 ] , ODC from Lactobacillus 30a ( LaODC ; PDB Id : 1ORD ) [ 11 ] and LDC from E. coli ( PDB Id : 3N75 ) [ 12 ] have been reported . 
+This manuscript presents the X-ray crystal structure of StADC ( decamer , ~ 800 kDa ) . 
+Unlike earlier reports [ 10e12 ] , the co-factor PLP is not bound at the active site of StADC and hence the structure represents the ﬁrst apo-form of a DC III enzyme . 
+The structure suggests that two loops ( residues 150e159 and 191e197 ) close t the PLP binding site as well as a few active site residues undergo conformational changes during apo-to holo-transition . 
+The surface features of StADC that contribute to pH dependent oligomerization are similar to those observed in other DC III enzymes . 
+The conserved active site geometry among DC III enzymes suggests that these enzymes might follow similar mechanism to carry out the decarboxylation reaction . 
+The results presented here provide insightful information on the structural features important for cofactor binding , oligomer formation and catalysis . 
+* Corresponding author . 
+E-mail address : mrn@mbu.iisc.ernet.in ( M.R.N. Murthy ) . 
+http://dx.doi.org/10.1016/j.bbrc.2017.07.032 0006-291X / © 2017 Elsevier Inc. . 
+All rights reserved . 
+2. Materials and methods
+2.1. Cloning, over-expression and puriﬁcation
+The StADC gene ( AdiA ) was ampliﬁed by the polymerase chain reaction ( PCR ) from S. typhimurium genomic DNA . 
+The PCR product digested with NheI and XhoI was inserted in to pET 22b ( þ ) vector . 
+The pET 22b-StADC plasmid containing a C-terminal hexa-His tag ( LEHHHHHH ) was transformed into E. coli BL21 - ( DE3 ) pLySs ( Novagen ) cells . 
+The transformed cells were grown in LB medium containing 100 mg ml 1 of ampicillin at 37 C in an incubator-shaker set to 180 rpm . 
+The protein was over expressed by the addition of 1.0 mM IPTG when OD600 nm reached 0.6 . 
+The cells were allowed to grow further at 20 C for 9 h at 140 rpm . 
+The pellet obtained by centrifugation was resuspended in 50 mM Tris pH 8.0 , 400 mM NaCl and 30 % glycerol ( buffer A ) . 
+The cells were disrupted at 4 C using an ultra sonicator with 0.3 s on and 0.7 s off periods at 32 % amplitude . 
+After removing the cell debris by centrifugation , 30 ml of the supernatant containing ADC was added to 1 ml of Ni-NTA beads and kept for end-to-end rotation for 3 h at 4 C and the beads were loaded onto a column . 
+The non-speciﬁcally bound proteins were washed using buffer B ( 50 mM Tris pH 8.0 , 200 mM NaCl ) followed by wash with the same buffer containing 20 mM imidazole . 
+The StADC bound to the beads was eluted using buffer B containing 200 mM imidazole . 
+The elute was dialyzed against 25 mM Tris pH 8.0 and 50 mM NaCl at 4 C to remove the excess imidazole and NaCl . 
+The protein was concentrated to 10 mg ml 1 using 30 kDa ( Amicon ) centricon tubes . 
+The puriﬁed protein ( ~ 80 kDa ) was found to be homogenous when examined on 12 % SDS-PAGE . 
+2.2. Crystallization of StADC
+Crystallization trials of StADC were carried out at 20 C using the microbatch method with commercially available screens . 
+2 ml of the protein ( 10 mg/ml ) was mixed with 2 ml of crystallization condition and placed under a layer of parafﬁn and silicone oils ( 1:1 ) . 
+The crystallization condition containing 2.0 M NaCl and 10 % PEG8000 , 25 mM Tris pH 8.0 provided reasonably well diffracting crystals . 
+Table 1 
+Crystal data collection statistics for StADC . 
+2.3. X-ray diffraction data collection and structure determination
+5XX1 0.93 
+PDB ID Wavelength ( Å ) 
+X-ray diffraction data were recorded at 273 C using the BM14 beamline at ESRF , Grenoble , at a wavelength of 0.93 Å . 
+The images collected using a CCD detector were indexed , processed and scaled to 3.1 Å resolution using programs iMOSFLM and SCALA available in the CCP4 suite [ 13 ] . 
+The crystal belonged to the space group P212121 with unit cell parameters of a 1/4 179.36 Å , b 1/4 193.25 Å and c 1/4 280.16 Å . 
+P212121 a 1/4 179.36 , b 1/4 193.25 , c 1/4 280.16 57.12 e3 .10 ( 3.27 e3 .10 ) 1,280,461 ( 161,140 ) 160,279 ( 21,162 ) 8.0 ( 7.6 ) 26.0 ( 72.0 ) 91.2 ( 83.4 ) 7.2 ( 2.7 ) 2.85 57.2 % Decamer 
+Space group Unit cell parameters Resolution range ( Å ) No . 
+of observed reﬂections No . 
+of unique reﬂections Multiplicity R ( % ) a merge Completion ( % ) <I> / <sI> Mathews coef cient ( Å3 Da 1 ﬁ ) Solvent content ( % ) Content of the asymmetric unit 
+2.4. Determination of molecular symmetry using self-rotation functions
+To determine the presence of non-crystallographic symmetry ( NCS ) relating the protomers of StADC present in the asymmetric unit of the crystal cell , self rotation functions ( RF ) [ 14 ] were computed using the MOLREP program available in the CCP4 suite with X-ray diffraction data to a resolution of 3.1 Å and a radius of integration of 50 Å . 
+2.5. Structure determination and reﬁnement
+The structure of StADC was determined by molecular replacement using a polyalanine chain of the E. coli enzyme ( PDB code : 2VYC ) as the phasing model . 
+The model obtained by PHASER [ 15 ] was subjected to initial rigid body reﬁnement and subsequent positional reﬁnement using Refmac5 of CCP4 suite and manual model building using COOT [ 16 ] . 
+The non-crystallographic symmetry was used during reﬁnement of the structure as a restraint . 
+3. Results
+3.1. X-ray crystal structure determination of StADC
+The quality of the X-ray diffraction data collected is shown in Table 1 . 
+The volume of the crystal asymmetric unit suggested the presence of a decamer ( V 1/4 2.85 Å3 M / Da ) with a solvent content of 57.2 % . 
+To determine the molecular symmetry , self-rotation functions were calculated using MOLREP [ 17 ] . 
+The results ( Fig . 
+S1 , Supplementary material ) clearly revealed the presence of 5 - and 2 - fold non-crystallographic symmetry ( NCS ) axes . 
+The 5-fold NCS axis ( k 1/4 72 ) was nearly parallel to the crystal b axis . 
+Due to the overlap of the crystallographic two fold screw axis and the NCS 5-fold axis , there is a Klug peak on the k 1/4 36 hemisphere and ten peaks corresponding 2-fold rotational symmetry in the k 1/4 180 hemisphere . 
+The StADC structure obtained by molecular replacement was reﬁned to a ﬁnal Rwork and Rfree of 24.06 % and 27.18 % , respectively using REFMAC5 of CCP4 suite [ 18 ] . 
+The reﬁnement statistics is listed in Table 2 . 
+3.2. Quality of the model
+Taking into consideration the limited resolution ( 3.1 Å ) , large protomer and unit cell size , the model built for StADC has reasonable geometry with 90.9 % of residues in the most favored region of the Ramachandran map . 
+The electron density is continuous for most of the main as well as the side chain atoms . 
+Electron density was absent for side chains of a few Asp , Arg , His , Lys and Gln , present on the surface of the protein . 
+The density for residues 150e159 , 191e197 and 374e376 was fragmented and hence these residues have not been included in the ﬁnal model . 
+The model ha 
+Values in parentheses correspond to the highest resolution bin. a P P P P
+Rmerge 1/4 hkl i jIi ( hkl ) - < I ( hkl ) > j / hkl i Ii ( hkl ) . 
+where Ii ( hkl ) is the intensity of the ith observation of reﬂection hkl and < I ( hkl ) > is the weighted average intensity . 
+an average temperature factor of 29.2 Å2 . 
+The asymmetric unit contains 1385 water molecules . 
+29.5 % a helices , 23.7 % b strands and 46.8 % loops . 
+RMSDs between corresponding Ca atoms upon pair wise superposition of the protomers of the decamer is in the range of 0.1 e0 .5 Å . 
+Structural superposition of StADC with EcADC ( PDB code : 2VYC , 93 % sequence identity ) , EcLDC ( PDB code : 3N75 , 35 % sequence identity ) and LaODC ( PDB code : 1ORD , 29 % sequence identity ) results in RMSDs of 0.34 Å 1.83 Å and 1.75 Å , respectively , between equivalent Ca atoms . 
+The protomer consists of ﬁve domains ( Fig. 1 ) . 
+( i ) The amino terminal 139 residues ( brown ) represent the `` wing domain '' consisting of ﬁve b-strands forming a parallel b-sheet ﬂanked by six ahelices . 
+It protrudes out from the central core region . 
+( ii ) The `` linker domain '' ( residues 140e192 ; blue ) consists of three a - helices ( a7 , a9 and a10 ) and a short 310-helix . 
+( iii ) The PLP-binding domain ( residues 193e439 ; yellow ) is the largest and consists of a sevenstranded mixed b-sheet ( b6-b12 ) , three additional b-strands and eight a-helices ( a9-a16 ) and resembles the large domain of fold type I PLP-dependent enzymes . 
+Lys387 of this domain corresponds to the residue in EcADC that binds to PLP via a Schiff base . 
+( iv ) The aspartate aminotransferase ( AspAT ) - like small domain ( residues 440e608 ; pink ) consists of four a-helices ( a17-a20 ) and seven bstrands . 
+( v ) The carboxy-terminal domain ( CTD , residues 609e756 ; green ) , unique to fold type I group III DCs , contains six - helices ( a21-a26 ) and ﬁve b-strands . 
+The core of the protomer consists of the PLP-binding domain , the Asp-AT-like domain and the CTD , while the wing domain extends from the central core and the linker domain protrudes from the core in a direction that is nearly perpendicular to the wing domain . 
+In all ten promoters of StADC , a surface cysteine ( Cys600 ) is found to be modiﬁed to methylated cysteine ( CME ) . 
+The modiﬁcation is unlikely to have any functional signiﬁcance . 
+1364 
+Table 2 Reﬁnement statistics for StADC . 
+Rwork ( % ) a 24.06 Rfree ( % ) b 27.18 No of atoms Protein 56,134 Ligand 50 Water 1385 Average B-factor ( Å2 ) Protein 29.2 Ligand 44.4 Water 15.6 RMSD from ideal values Bond length ( Å ) 0.005 Bond angle ( ) 0.936 Dihedral angles ( ) 0.05 Ramachandran plots ( % ) Most favoured 90.9 Additionally allowed 8.7 Generously allowed 0.4 Disallowed 0.0 a 1/4 P P Rwork ( % ) ( hkl | Fo-Fc | ) / hklFo , Fo and Fc are observed and calculated structure factor amplitudes . 
+b Rfree ( % ) is deﬁned in the same way as Rwork and refers to randomly selected 5 % of the reﬂections not used for reﬁnement . 
+3.3 . 
+Structure of StADC protomer 
+The 756 amino acid residues long StADC protomer consists of 
+Fig. 1 . 
+Cartoon representation of the StADC protomer consisting of the Wing ( brown ) , small AspAT ( pink ) , CTD ( green ) , linker ( blue ) and PLP ( yellow ) domains . 
+The secondary structural elements are labeled . 
+( For interpretation of the references to colour in this ﬁgure legend , the reader is referred to the web version of this article . 
+Phylogenetic analysis using the MEGA5 software [ 19 ] shows that the inducible and constitutive forms of E. coli and S. typhimurium LDCs form a tight cluster ( Fig . 
+S2 , Supplementary material ) . 
+This cluster is closely related to inducible ADCs from both the organisms . 
+Both inducible and constitutive forms of ODCs are also related to LDCs , although they are less closely related when compared to inducible ADCs . 
+In contrast , constitutive ADCs from both E. coli and S. typhimurium are very distinct with insigniﬁcant sequence similarity ( ~ 10 % ) with inducible ADCs . 
+3.4. The structure of the StADC oligomer
+The asymmetric unit of StADC consists of ten protomers organized as ﬁve tightly interacting compact dimers ( AJ , BI , CH , DG , and EF ; Fig. 2A ) . 
+The mean interface areas buried upon dimer formation in StADC , EcADC , LaODC and EcLDC are 4484.2 Å2 , 5187.1 Å2 , 6066.4 Å2 , and 4989.0 Å2 , respectively . 
+The buried surface area in ADCs constitutes 14e15 % of the total accessible surface area . 
+LaODC , which has the largest buried surface area ( ~ 20 % of the total accessible surface ) , forms a do-decameric structure in contrast to the decameric structures of ADCs and LDCs . 
+The number of hydrogen bonds/salt bridges stabilizing the dimeric interfaces are 57/6 , 65/8 , 42/6 and 54/12 for StADC , EcADC , LaODC and EcLDC , respectively . 
+A large number of acidic/basic residues on the surface of these enzymes contribute to the formation of several interfacial salt bridges . 
+The ﬁve dimers related by a non-crystallographic 5-fold axis of symmetry ( Fig. 2B ) form StADC decamer . 
+As suggested by the selfrotation function , the non-crystallographic 5-fold axis is nearly parallel to the crystal b axis ( Fig. 2C ) . 
+The two pentameric rings of the decamer are related by non-crystallographic 2-fold axes . 
+The decamer has a diameter of 117 Å , a thickness of 95 Å and a central hole of ~ 32 Å . 
+The crystal unit cell consists of four such decamers . 
+The core structure of each protomer interacts to form the dimer . 
+In a pentamer , each wing domain is ﬂanked by two other molecules . 
+For example , the protomer A interacts with the wing domain of protomer B and the small AspAT-like domain of protomer E ( Fig. 2D ) . 
+The extensive interactions within dimers and between dimers stabilize the StADC decameric structure . 
+3.5. Variability in the oligomeric state of decarboxylases
+It is known that at acidic pH , ADC and LDC form decamers and ODC forms do-decamers [ 10e12 ] . 
+To understand the possible structural basis of this difference , RMSDs between equivalent Ca atoms when different domains of StADC were independently superposed on the corresponding domains of EcLDC ( 3N75 ) and LaODC ( 1ORD ) were compared . 
+It was observed that the wing domain is the most variable ( up to 3.5 Å RMSD ) when compared to the other four domains ( RMSD 0.6 e1 .3 Å ) . 
+This structural plasticity along with the smaller size of LaODC wing domain ( 107 residues ) might facilitate the formation of hexamers leading to do-decamers of LaODC whereas the relatively larger size of StADC wing domain ( 139 residues ) might favour the formation of decamers . 
+The wing domain also has a large number of charged residues , which may contribute to the pH dependent oligomeric state of these proteins . 
+At high pH ( ~ 8 ) the repulsion between negatively charged residues of the wing domains leads to the dissociation of the higher olig-omer into dimers ( Fig . 
+S3 , Supplementary material ) . 
+However , the dissociation of dimers to protomers is prevented by the pH independent strong non-covalent interactions between the two proto-mers mediated mostly by LD , CTD and PLP domains . 
+3.6. PLP binding is a prerequisite for substrate binding in StADC
+As in fold type I PLP-dependent enzymes , StADC dimer is comprised of two independent active sites separated by a distance of 28.14 Å , estimated as the distance between active site Lys 387 Nε atoms . 
+There is no density for PLP near the active site indicating that StADC was crystallized in its apo ( PLP unbound ) form . 
+The electron withdrawing ability of PLP is enhanced by hydrogen bonding between pyridine N1 and the carboxylate group of an aspartic acid ( Asp348 in StADC ) in all DC III enzymes . 
+It was possible to ﬁt a phosphate moiety into the blob of density observed at a position corresponding to the 50-phosphate group of PLP in holo-EcADC [ 10 ] . 
+Residues Thr231 , Ser232 , His386 , Lys387 and symmetry related Thr421 , Thr422 , Ser423 are hydrogen bonded with the phosphate in StADC ( Fig. 3B ) . 
+By comparison with holo-EcADC , Lys387 seems to the residue that forms Schiff 's base with PLP in StADC . 
+If an internal aldimine of StADC is modelled as observed in EcADC , the pyridine ring gets sandwiched between His256 and Ala350 . 
+The imidazole group of the conserved His256 in the apo-StADC is at an angle of 90 with respect to orientation of the corresponding residue of holo-EcADC ( Fig. 3A ) . 
+This His256 has been proposed to function as the proton donor in the decarboxylation reaction [ 10 ] . 
+A number of solvent exposed negatively charged residues lining the substrate entry channel and probably important for the entry of the positively charged substrate ( Arginine ) into the active site pocket such as Glu736 , Glu738 , Glu740 , Glu743 and symmetry related Asp203 , Glu194 are disordered in StADC ( Fig. 4A ) . 
+These residues are mostly ordered in holo-EcADC ( Fig. 4B ) suggesting that PLP binding might be important for stabilization of the residues important for substrate binding . 
+Hence , the substrate might bind to ADC only after PLP binding . 
+Fig. 2 . 
+( A ) Cartoon representation of StADC dimer : chain A ( pink ) and chain J ( purple ) . 
+The orange ball corresponds to the bound phosphate . 
+The wing domain protrudes out of the central core of the dimer . 
+( B ) StADC decamer viewed down its 5-fold axis . 
+The two pentamers are represented in blue and pink . 
+( C ) Figure illustrating the near parallel alignment of the crystallographic two fold screw axis ( 21 ) along b and the non-crystallographic ( NCS ) 5-fold axis of symmetry . 
+( D ) Interaction of the wing domain of protomer A with the small AspAT-like domain of protomer E and the wing domain of protomer B in the A-E pentamer . 
+( For interpretation of the references to colour in this ﬁgure legend , the reader is referre to the web version of this article . ) 
+3.7. Implications of the changes in loop conformation induced by PLP binding
+In EcADC , the active site is partially shielded from the solvent by two well ordered loops ( 150e159 of the linker and 191e197 of the PLP domains ) of the 2-fold symmetry related protomer . 
+These loops might prevent premature hydrolysis of the substrate as well as the cofactor PLP ( Fig. 4C and D ) . 
+A large number of interactions stabilize these loops in EcADC . 
+These interactions include hydrogen bonding between Arg194 with Asp202 of the same and Glu337 of the symmetry related protomer . 
+Arg194 is crucial for the stability of the loop 190e196 as it forms a large number of hydrogen bonding interactions with residues Glu193 , Thr 195 , Ser196 and Leu197 . 
+Res-idues of the 190e196 loop such as Glu193 and Ser196 form hydrogen bonds with Tyr149 , which in turn interacts with residues Ser150 , Asp151 , Ile152 and His153 , belonging to the 150e159 loop . 
+Therefore , stabilization of 190e196 loop is important for the stabilization of 149e158 loop region . 
+The two equivalent loops of StADC correspond to residues 150e159 and 191e197 and are disordered making the active site much more solvent accessible . 
+The disorder of these loops could be assigned to the absence of PLP in StADC . 
+In EcADC , the imidazole ring is stacked parallel to the pyridine ring of PLP . 
+Absence of bound PLP at the active site of StADC leads to the change in the orientation of the imidazole ring of His256 by almost 90 . 
+This change in turn alters the position of the nearby Lys257 by about 3 Å leading to the breakdown of its interaction with Glu740 which becomes disordered along with the nearby Glu738 . 
+As discussed earlier , in EcADC the equivalent Glu737 ( Glu738 in StADC ) is important for the stabilization of Arg194 . 
+As Glu738 is disordered in StADC , it does not stabilize Arg195 by hydrogen bonding interactions , which is important for the stabilization of 191e197 and 150e159 loops ( Fig. 4D ) . 
+Another residue Arg187 in EcADC with dual conformation also forms hydrogen bonds with backbone nitrogen of Ser150 and Asp151 , which in turn stabilizes the loop corresponding to residue 150e159 . 
+However , electron density for corresponding Arg188 is absent in the StADC structure accounting for the disorder of the loop 150e159 . 
+Thus , PLP binding has a profound effect on the conformation of loops close to the active site and conformation of active site residues . 
+In conclusion , each protomer StADC consists of ﬁve distinct domains : PLP domain , Linker domain , Wing domain , Small AspAT domain and CTD . 
+The ﬁve dimers of the decamer are related by a non-crystallographic 5-fold symmetry whereas the two pentameric rings are related by non-crystallographic 2 - fold symmetry . 
+Like other DC III enzymes , the wing domain contributes to pH dependent pentamer formation whereas the Linker , C-terminal and PLP domains contribute to the pH independent dimer formation . 
+The decameric structure of apo-StADC indicates that PLP binding is not mandatory for oligomerization . 
+PLP binding leads to the stabilization of two loops 150e159 and 191e197 close to the active site . 
+These loops are likely to prevent premature hydrolysis of substrate as well as hold PLP in an appropriate position for catalysis . 
+The altered orientation of StADC His256 affects the conformation of nearby Lys256 and hinders its interaction with Glu740 leading to the disorder of Glu740 as well as Glu738 . 
+These alterations cause disorder in Arg195 , which is crucial for ordering of the 191e197 and 150e159 loops . 
+Thus , absence of PLP leads to the observed disorder of StADC loops 150e159 and 191e197 . 
+Residues important for substrate binding such as Glu736 , Glu740 , Glu742 , Asp745 and symmetry related Asp203 , Glu194 are also disordered suggesting that PLP binding may be a prerequisite for anchoring the substrate . 
+The well conserved active site geometry among DC III decaroxylases inspite of their low sequence similarity ( < 50 % ) suggests that they all might follow a common mechanism to carry out decarboxylation of substrate amino acids . 
+Fig. 3 . 
+Active site of ADC ( A ) Superposition of the active sites of StADC and EcADC . 
+In StADC , residues from both A ( hot pink ) and J ( light blue ) protomers contribute to the active site . 
+Interactions of the internal aldimine ( cyan ) of EcADC with the residues at the active site are shown as black dashed lines . 
+The major change of conformation is observed for StADC His256 . 
+The bound phosphate ( red ball and stick ) of StADC occupies a position corresponding to 50 phosphate ( orange ) of PLP in EcADC . 
+( B ) The phosphate in StADC is stabilized by hydrogen bonding interactions ( black lines ) with Thr231 , Ser232 , His386 and Lys387 of the same protomer and Thr421 , Thr422 and Ser423 of the symmetry related protomer . 
+( For interpretation of the references to colour in this ﬁgure legend , the reader is referred to the web version of this article . 
+Fig. 4 . 
+Comparison of apo-StADC with holo-EcADC ( A ) Channel leading to the active site of StADC lined by negatively charged residues Glu736 , Glu738 , Glu740 , Glu743 and residue Asp203 from the protomer related by the 2-fold symmetry . 
+( B ) Comparison of the negatively charged exposed residues in the apo-StADC ( purple ) that are mostly disordered while the corresponding residues of holo-EcADC ( green ) are ordered . 
+( C ) Ordered loops of holo-EcADC ( residues 149e158 in pink and 190e196 in blue ) shielding PLP ( green , ball and stick ) from the solvent . 
+These loops are disordered in apo-StADC . 
+( D ) Close up view of the ﬂexible loops 149e158 and 190e196 ( brown ) of holo-EcADC illustrating their proximity to the phosphate binding ( red ball and stick ) site of PLP ( green ball and stick ) bound to the symmetry related protomer . 
+( For interpretation of the references to colour in this ﬁgure legend , the reader is referred to the web version of this article . ) 
+Acknowledgments
+We thank DST ( SR/S2/JCB -12 / 2005/9 .5.2006 ) and DBT ( BT / PR7021/BRB/10 / 1142/2012 ) , Government of India for ﬁnancial support . 
+We gratefully acknowledge J.C. Bose fellowships for MRN and HSS . 
+GD and SRB were supported by fellowships by IISc and CSIR , respectively . 
+We thank the BM14 beamline scientists at ESRF , Grenoble for their help during data collection . 
+Appendix A. Supplementary data
+Supplementary data related to this article can be found at http : / / dx.doi.org/10.1016/j.bbrc.2017.07.032 
+Transparency document related to this article can be found online at http://dx.doi.org/10.1016/j.bbrc.2017.07.032 . 
+References 
+[ 1 ] D. Acheson , E.L. Hohmann , Nontyphoidal Salmonellosis , Clin . 
+Infect . 
+Dis . 
+32 ( 2001 ) 263e269 . 
+[ 2 ] J.P. Audia , C.C. Webb , J.W. Foster , Breaking through the acid barrier : an orchestrated response to proton stress by enteric bacteria , Int . 
+J. Med . 
+Microbiol . 
+291 ( 2001 ) 97e106 . 
+[ 3 ] Y.K. Park , B. Bearson , S.H. Bang , I.S. Bang , J.W. Foster , Internal pH crisis , lysine decarboxylase and the acid tolerance response of Salmonella typhimurium , Mol . 
+Microbiol . 
+20 ( 1996 ) 605e611 . 
+[ 4 ] J. Kieboom , T. Abee , Arginine-dependent acid resistance in Salmonella enterica serovar typhimurium , J. Bacteriol . 
+188 ( 2006 ) 5650e5653 . 
+[ 5 ] J.N. Jansonius , Structure , evolution and action of vitamin B6-dependent enzymes , Curr . 
+Opin . 
+Struct . 
+Biol . 
+8 ( 1998 ) 759e769 . 
+[ 6 ] M.D. Toney , Controlling reaction speciﬁcity in pyridoxal phosphate enzymes , Biochim . 
+Biophys . 
+Acta 1814 ( 2011 ) 1407e1418 . 
+[ 7 ] E. Sandmeier , T.I. Hale , P. Christen , Multiple evolutionary origin of pyridoxal 50 phosphate dependent amino acid decarboxylases , Eur . 
+J. Biochem . 
+221 ( 1994 ) 997e1002 . 
+[ 8 ] E.A. Boeker , Arginine decarboxylase from Escherichia coli B : mechanism of dissociation from the decamer to the dimer , Biochemistry 17 ( 1978 ) 258e263 . 
+[ 9 ] B.M. Guirard , E.E. Snell , Puriﬁcation and properties of ornithine decarboxylase from Lactobacillus sp . 
+30a , J. Biol . 
+Chem . 
+255 ( 1980 ) 5960e5964 . 
+[ 10 ] J. Andrell , M.G. Hicks , T. Palmer , E.P. Carpenter , S. Iwata , M.J. Maher , Crystal structure of the acid-induced arginine decarboxylase from Escherichia coli : reversible decamer assembly controls enzyme activity , Biochemistry 48 ( 2009 ) 3915e3927 . 
+[ 11 ] C. Momany , S. Ernst , R. Ghosh , N.L. Chang , M.L. Hackert , Crystallographic structure of a PLP-dependent ornithine decarboxylase from Lactobacillus30a to 3.0 Å resolution , J. Mol . 
+Biol . 
+252 ( 1995 ) 643e655 . 
+[ 12 ] U. Kanjee , I. Gutsche , E. Alexopoulos , B. Zhao , M.E. Bakkouri , G. Thibault , K. Liu , S. Ramachandran , J. Snider , E.F. Pai , Linkage between the bacterial acid stress and stringent responses : the structure of the inducible lysine decarboxylase , EMBO J. 30 ( 2011 ) 931e944 . 
+[ 13 ] The CCP4 suite : programs for protein crystallography , Acta Crystallogr . 
+D. Biol . 
+Crystallogr . 
+50 ( 1994 ) 760e763 . 
+[ 14 ] M.G. Rossmann , D.M. Blow , The detection of sub-units within the crystallographic asymmetric unit , Acta Crystallogr . 
+D. 15 ( 1962 ) 24e31 . 
+[ 15 ] A.J. McCoy , R.W. Grosse-Kunstleve , P.D. Adams , M.D. Winn , L.C. Storoni , R.J. Read , Phaser crystallographic software , J. Appl . 
+Crystallogr . 
+40 ( 2007 ) 658e674 . 
+[ 16 ] P. Emsley , K. Cowtan , Coot : model-building tools for molecular graphics , Acta Crystallogr . 
+D. 60 ( 2004 ) 2126e2132 . 
+[ 17 ] A. Vagin , A. Teplyakov , MOLREP : an automated program for molecular replacement , J. Appl . 
+Crystallogr . 
+30 ( 1997 ) 1022e1025 . 
+[ 18 ] G.N. Murshudov , A.A. Vagin , E.J. Dodson , Reﬁnement of macromolecular structures by the maximum-likelihood method , Acta Crystallogr . 
+D. 53 ( 1997 ) 240e255 . 
+[ 19 ] S. Kumar , M. Nei , J. Dudley , K. Tamura , MEGA : biologist-centric software for evolutionary analysis of DNA and protein sequences , Brief . 
+Bioinform 9 ( 2008 ) 299e306

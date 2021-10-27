@@ -1,0 +1,550 @@
+JOURNAL OF BACTERIOLOGY , May 2005 , p. 3391 -- 3399 
+0021-9193/05 / $ 08.00 0 doi :10.1128 / JB .187.10.3391 -- 3399.2005 Copyright © 2005 , American Society for Microbiology . 
+All Rights Reserved . 
+Identiﬁcation of cptA, a PmrA-Regulated Locus Required for Phosphoethanolamine Modiﬁcation of the Salmonella enterica Serovar Typhimurium Lipopolysaccharide Core R. Tamayo,1† B. Choudhury,2 A. Septer,3 M. Merighi,3 R. Carlson,2 and J. S. Gunn3* Department of Microbiology and Immunology, University of Texas Health Science Center at San Antonio, 7703 Floyd Curl Dr., MC 7758, San Antonio, Texas 78229-39001; Complex Carbohydrate Research Center, University of Georgia, Athens, Georgia 306022; and Department of Molecular Virology, Immunology and Medical Genetics, Department of Medicine, Division of Infectious Diseases, and The Center for Microbial Interface Biology, Ohio State University, Columbus, Ohio 432103
+Received 15 December 2004/Accepted 8 February 2005 
+In response to the in vivo environment , the Salmonella enterica serovar Typhimurium lipopolysaccharide ( LPS ) is modiﬁed . 
+These modiﬁcations are controlled in part by the two-component regulatory system PmrA-PmrB , with the addition of 4-aminoarabinose ( Ara4N ) to the lipid A and phosphoethanolamine ( pEtN ) to the lipid A and core . 
+Here we demonstrate that the PmrA-regulated STM4118 ( cptA ) gene is necessary for the addition of pEtN to the LPS core . 
+pmrC , a PmrA-regulated gene necessary for the addition of pEtN to lipid A , did not affect core pEtN addition . 
+Although imparting a similar surface charge modiﬁcation as Ara4N , which greatly affects polymyxin B resistance and murine virulence , neither pmrC nor cptA plays a dramatic role in antimicrobial peptide resistance in vitro or virulence in the mouse model . 
+Therefore , factors other than surface charge/electrostatic interaction contribute to resistance to antimicrobial peptides such as polymyxin B. 
+In order to survive in the mammalian host , salmonellae have evolved means of evading killing by antimicrobial peptides ( AP ) , central components of innate immunity . 
+Such mechanisms have been demonstrated to be important for survival within hosts and host cells ( 9 , 16 , 27 , 28 ) . 
+A common mode of increasing AP resistance involves alteration of the bacterial surface . 
+In Salmonella enterica serovar Typhimurium , the two-component regulatory systems ( TCRS ) PhoP-PhoQ and PmrA-PmrB have been characterized as contributing to resistance to AP by mediating alterations to the outer membrane and lipopolysaccharide ( LPS ) ( reviewed in reference 8 ) . 
+Both TCRS respond to speciﬁc cues from the host environment and have been shown to be activated within host cell vacuoles ( 1 , 17 ) . 
+PhoP-PhoQ can be activated under conditions of low magnesium or low pH in vitro ( 3 ) and can activate PmrA-PmrB via induction of PmrD , whose product affects the phosphorylation state of PmrA ( 15 , 19-21 ) . 
+PmrA can also be activated independent of PhoP in response to mild acid pH or high iron concentrations ( 11 , 30 ) . 
+Such activation results in the induced transcription of pmrE and pmrHFIJKLM ( also called pbg and arn elsewhere [ 12 , 35 ] ) , which encode enzymes involved in biosynthesis of aminoarabinose ( Ara4N ) and its addition primarily to the 4 - phosphate of the lipid A portion of LPS ( 14 ) . 
+PmrA is also predicted to control modiﬁcation of LPS with phosphoethanolamine ( pEtN ) , because PmrA mutants with increased polymyxin B ( PM ) resistance show enhanced pEtN substitutions to the lipid A and core oligosaccharide ( OS ) 
+* Corresponding author . 
+Mailing address : Ohio State University , Tzagournis Medical Research Facility , 420 W. 12th Ave. , Columbus , OH 43210-1214 . 
+Phone : (614) 292-6036 . 
+Fax : (614) 292-5495 . 
+E-mail : gunn.43@osu.edu . 
+† Current address : Department of Molecular Biology and Microbiology , Tufts University School of Medicine , Boston , MA 02111 . 
+fractions of LPS ( 18 ) . 
+Recently , the PmrA-regulated pmrC gene product was shown to mediate the addition of pEtN to the 1-position of lipid A and affect resistance to PM ( 22 ) . 
+In Neisseria meningitidis , loci necessary for transferring pEtN to the heptose II ( HepII ) of the LPS core or to lipid A were also recently identiﬁed ( 5 , 23 , 38 ) . 
+Inactivation of N. meningitidis lpt-3 resulted in the absence of pEtN from HepII of the core and bestowed increased resistance to bactericidal killing and decreased opsonophagocytosis by LPS-speciﬁc monoclonal antibody B5 ( 23 ) . 
+Similarly , inactivation of lptA led to loss of pEtN replacement of lipid A phosphates ( 5 ) , and lpt6 was required for the addition of pEtN-6 on HepII of the core . 
+However , it is not known if these pEtN phosphotransferases play a role in neisserial AP resistance or animal virulence . 
+We recently identiﬁed a number of new Salmonella PmrA-regulated genes , including one locus with homology to both lpt-3 and lptA of N. meningitidis ( 34 ) . 
+In this work , we describe the further characterization of this gene , its role in pEtN modiﬁcation of LPS , and the role of pEtN modiﬁcation of LPS in AP resistance and virulence of Salmonella . 
+MATERIALS AND METHODS
+Bacterial strains and growth conditions . 
+Bacterial strains used in this study are described in Table 1 . 
+Salmonellae were grown in Luria-Bertani broth at 37 °C with aeration . 
+Antibiotics were used , when appropriate , at the following concentrations : chloramphenicol , 25 g/ml ; kanamycin , 45 g/ml ; tetracycline , 25 g / ml . 
+Generation of mutations in Salmonella homologues to lpt-3 of N. meningitidis . 
+Initially , mutations were generated in PmrAc ( JSG435 , pmrA505 zjd : : Tn10dcam ) and PmrA-null ( pmrA : : Tn10d-tet ) backgrounds using the lambda Red recombinase and FLP-mediated recombination techniques developed by Datsenko and Wanner ( 6 ) . 
+Brieﬂy , the kanamycin resistance fragment was ampliﬁed from pKD4 using primers ﬂanked with homology to pmrC , STM4118 , STM3635 , or STM0834 ( Table 2 ) . 
+PCR fragments were transformed into PmrAc and PmrA-null target strains in which lambda Red recombinase had been induced from pKD46 . 
+Correct integration of the kanamycin resistance gene insertion was veriﬁed by PCR . 
+All strains and plasmids described herein are listed in Table 1 . 
+339 
+The insertion was eliminated using pCP20 as described previously , leaving a nonpolar deletion of the target gene and reintroducing a ribosome binding site ( 6 ) . 
+Transcriptional fusions ( lacZ ) were generated to each gene in both the PmrAc and PmrA-null backgrounds by using site-speciﬁc recombination between the FLP-recognition target `` scar site '' generated in the deletion strains and that in pCE36 ( 7 ) . 
+Mutations in STM4118 , STM3635 , STM0834 , and pmrC were also introduced into a wild-type 14028s ( JSG224 ) background using P22 phage-mediated transduction , generating JSG1960 , JSG2284 , JSG2285 , and JSG2286 . 
+pmrF double mutants in selected backgrounds were generated by transducing 
+STM3635 ... 5 ACGCAACAGAAACTTAGTTTCTTGCTTGCGTGTGTA GGCTGGACGTGCTTC 3 5 TATCGTATCGTATAGCTCCACATGACGACGCATATG AATATCCTCCTTA 3 STM4293 ... 5 CAGGTACTACAAGACCTACCGTTAAACTCGTGTGTA ( pmrC ) GGCTGGAGCTGCTTC 3 5 CCGTCATTATCATTCCACAGTACGTTAATCCCATAT GAATATCCTCCTTA 3 STM4118 ... 5 CGATTAAAGACAGGCTCTCATTATGCAATCCTGTGT AGGCTGGAGCTGCTTC 3 5 GCGTTATCGGGCAACATACAGGCTATTGATTCATAT GAATATCCTCCTTA 3 STM0834 ... 5 GCGTTTACCTGCCTGTTGCTGTTGCTCTGGTGTGTA GGCTGGAGCTGCTTC 3 5 CTGCCCAGATGGTTATAGTCCACTTTCTGTCATATG AATATCCTCCTTA 3 a Italicized sequences are complementary to sequence ﬂanking the aph gene in pKD4 ( 6 ) . 
+phage propagated on JSG485 ( pmrA505 zjd : : Tn10d-cam pmrF : : Tn10d-tet ) into JSG1863 , JSG2271 , JSG2273 , and JSG2275 . 
+Tetracycline - , chloramphenicolresistant colonies were selected and designated JSG2339 to -2342 . 
+AP resistance assays . 
+MIC assays were performed as described elsewhere ( 32 ) . 
+AP survival assays were performed by diluting logarithmic-phase bacteria to 5 10 CFU/ml followed by the addition of an AP at a set concentration . 
+At various times after the addition of the AP ( as well as prior to the addition of AP ) , aliquots of the bacteria were washed , diluted , and plated onto solid medium to enumerate the surviving bacteria . 
+Virulence assays . 
+Survival assays were performed as described previously ( 16 ) . 
+Wild-type 14028s , JSG1960 ( 14028s STM4118 : : kan ) , JSG2285 ( 14028s pmrC : : kan ) , and JSG2449 ( 14028s STM4118 : : kan pmrC : : cat ) were included in the assay . 
+Brieﬂy , each strain was grown to stationary phase ( 16 h ) at 37 °C . 
+Approximately 5 106 stationary-phase bacteria ( 1 log unit above the 50 % lethal dose ) were washed and resuspended in 20 to 200 l of phosphate-buffered saline , pH 7.4 . 
+Female BALB/c mice ( weighing 16 to 18 g ) were inoculated orally using the swallowing reﬂex or with a feeding needle . 
+Five mice were used per strain . 
+Dilutions of the stationary-phase cultures were plated to enumerate bacteria present in the inocula . 
+Infected mice were observed for 21 days postinoculation . 
+For competition assays , wild-type ( JSG1311 ) and mutant ( JSG2449 ) bacteria were inoculated into ﬁve BALB/c mice at a 1:1 ratio ( 1 106 of each in 200 l total ) and , at 4 days postinoculation , organs were harvested , macerated , and plated onto appropriate solid media to select for each of the competing strains . 
+LPS and lipid A isolation and gel analysis . 
+LPS was puriﬁed from stationary-phase cells using the hot phenol-water method as previously described ( 2 ) . 
+Deoxycholine-polyacrylamide gel electrophoresis ( DOC-PAGE ) was performed with an 18 % polyacrylamide gel . 
+The LPS samples were dissolved at a concentration of 4 g / l , and 1 l was loaded in each well . 
+The samples were electro-phoresed at 30 mA constant current mode and were developed by silver staining ( Bio-Rad ) . 
+Size exclusion chromatography . 
+For the LPS samples , chromatography was performed with a Sephacryl S-200 ( HR ) column ( 120 cm by 1 cm ) . 
+The samples were eluted with Tris-EDTA buffer ( pH 9.2 ) , and the eluted fractions were monitored by an on-line refractive index detector and assayed by DOC-PAGE . 
+Samples were pooled according to the molecular size , dialyzed extensively to remove the DOC , and lyophilized . 
+This fractionated LPS was used for further analysis . 
+Isolation and puriﬁcation of the oligosaccharide . 
+The LPS samples were delipidated with 1 % acetic acid at 100 °C for 2 h . 
+The lipid precipitate was removed by centrifugation at 10,000 rpm for 10 min . 
+The supernatant was fractionated with a Bio-Gel P10 column , using water as eluent . 
+There was a single major fraction of each oligosaccharide that was lyophilized and used for further analysis . 
+NMR analysis . 
+Proton-nuclear magnetic resonance ( NMR ) of each oligosaccharide ( 2 mg ) was performed after exchanging three times with 99.8 % D2O ( Aldrich ) and dissolving in 0.5 ml D2O ( 100 % ) ( Cambridge Isotopes ) . 
+All of the NMR experiments were accomplished with a 600-MHz Varian-Inova instrument at 30 °C . 
+Two-dimensional NMR ( 2D-NMR ) was performed using standard parameters as provided by Varian . 
+The gCOSY ( gradient sensitive 1H-1H correla tion spectroscopy ) spectra were measured over a spectral width of 2.5 kHz using a data set of ( t1 t2 ) of 256 by 2,048 points , and 16 scans were acquired . 
+For g-HSQC ( gradient-sensitive 1H-13C heteronuclear single quantum coherence spectroscopy ) , the spectral widths in proton and carbon dimensions were selected to be 2.5 and 13.9 kHz , respectively , and 96 scans were acquired . 
+MALDI mass spectrometry . 
+The oligosaccharide samples were dissolved in Milli-Q water at a concentration of 1 g / l and mixed with 2,5-dihydroxy azo-benzoic acid matrix at a 1:1 ratio . 
+The samples were spotted on a 100-well stainless steel matrix-assisted laser desorption ionization ( MALDI ) plate and air dried . 
+A 337-nm N2 laser was used to desorb the molecules , and spectra were collected in delayed , linear , and negative mode using an acceleration voltage of 20,000 . 
+TABLE 1 . 
+Strains and plasmids Description 
+TABLE 2 . 
+Primers used in this study a Primer Sequence 
+Strain or plasmid 
+Reference ( s ) 
+Strains CS019 JSG210 JSG421 JSG435 JSG485 
+phoN2 zxx : :6251 dTn10-cam Wild type , ATCC 14028s pmrA : : Tn10d-tet pmrA505 zjd : : Tn10d-cam pmrA505 zjd : : Tn10d-cam pmrF : : Tn10d-Tet rpsL phoN2 zxx : :6251 dTn10-cam pmrA505 zjd : : Tn10d-cam STM4118 : : Kan pmrA505 zjd : : Tn10d-cam STM4118 pmrA505 zjd : : Tn10d-cam STM4118 : : lacZ pmrA : : Tn10d-tet STM4118 : : lacZ 14028s STM4118 : : Kan pmrA505 zjd : : Tn10d-cam STM3635 : : Kan pmrA505 zjd : : Tn10d-cam pmrC : : Kan pmrA505 zjd : : Tn10d-cam STM0834 : : Kan pmrA505 zjd : : Tn10d-cam STM3635 pmrA505 zjd : : Tn10d-cam pmrC pmrA505 zjd : : Tn10d-cam STM0834 pmrA505 zjd : : Tn10d-cam STM3635 : : lacZ pmrA : : Tn10d-tet STM3635 : : lacZ pmrA505 zjd : : Tn10d-cam pmrC : : lacZ pmrA : : Tn10d-tet pmrC : : lacZ pmrA505 zjd : : Tn10d-cam STM0834 : : lacZ pmrA : : Tn10d-tet STM0834 : : lacZ 14028s STM3635 : : Kan 14028s pmrC : : Kan 14028s STM0834 : : Kan pmrA505 zjd : : Tn10d-cam STM4118 pmrF : : Tn10d-Tet pmrA505 zjd : : Tn10d-cam pmrC pmrF : : Tn10d-Tet pmrA505 zjd : : Tn10d-cam pmrC STM4118 : : Kan STM4118 : : Kan pmrC : : Cam pmrA505 zjd : : Tn10d-cam pmrC STM4118 pmrF : : Tn10d-Tet 
+24 24 15 15 14 
+JSG1311 JSG1800 
+This study This study 
+JSG1863 
+This study 
+JSG1900 
+This study 
+JSG1901 JSG1960 JSG2264 
+This study This study This study 
+This study 
+JSG2266 
+This study 
+JSG2268 
+This study 
+JSG2271 
+This study This study 
+JSG2273 JSG2275 
+This study 
+JSG2278 
+This study This study 
+JSG2279 JSG2280 
+This study This study 
+JSG2281 JSG2282 
+2283 2284 2285 2286 2339 
+JSG JSG JSG JSG JSG 
+This study This study This study This study This study 
+This study 
+JSG2341 
+This study 
+JSG2435 
+This study This study 
+JSG2449 JSG2512 
+Plasmids pKD46 
+bla P gam bet exo pSC101 BAD oriTS bla FRT aph FRT PS1 PS2 oriR6K bla cat cl857 P ﬂppSC101 oriTS R aph FRT lacZY t oriR6K his 
+6 
+6 
+pKD4 
+4 , 6 7 
+pCP20 pCE36 
+RESULTS
+Identiﬁcation of Salmonella homologues to N. meningitidis phosphoethanolamine phosphotransferases and their regulation by PmrA . 
+The predicted protein sequences of lpt-3 ( NMB2010 ) , lptA ( NMB1638 ) , and lpt6 ( NMA0408 ) were compared to the S. enterica serovar Typhimurium LT-2 genome sequence using the NCBI database ( BLASTX and BLASTP ) . 
+Similar searches and results that were restricted to the use of lpt-3 have been previously reported ( 22 ) . 
+The products of four S. enterica serovar Typhimurium loci showed signiﬁcant similarity ( E value 4e 7 ) to Lpt-3 : STM3635 ( yhjW ; 24 % identity , 41 % similarity ) , STM4293 ( pmrC yjdB ; 24 % identity , 43 % similarity ) , STM4118 ( yijP ; 23 % identity , 38 % similarity ) , and STM0834 ( ybiP ; 23 % identity , 41 % similarity ) . 
+LptA showed similar levels of identity and similarity to the same S. enterica serovar Typhimurium loci but demonstrated a greater degree of conservation to STM4293 ( 43 % identity , 62 % similarity ) . 
+Lpt6 showed no signiﬁcant similarity to Salmonella proteins . 
+STM3635 is predicted to encode a membrane-associated , met-al-dependent hydrolase . 
+STM4118 , pmrC , and STM0834 encode putative integral membrane proteins , consistent with the predicted location of an LPS phosphoethanolamine phosphotransferase , and PmrC has been demonstrated to be necessary for the transfer of pEtN to the 1-phosphate of lipid A ( 22 ) . 
+Two of these loci , pmrC and yijP ( STM4118 , hereafter called cptA ) , have been previously shown to be regulated by PmrA ( 15 , 31 , 34 ) , while the role of PmrA-PmrB in the regulation of STM0834 and STM3635 was unknown . 
+Therefore , to determine whether PmrA activated transcription of these genes , expression of lacZ transcriptional fusions to STM3635 and STM0834 in PmrAc and PmrA-null backgrounds was compared . 
+This analysis demonstrated that neither STM0834 nor STM3635 was regulated by PmrA ( data not shown ) . 
+Because the transferase that catalyzes addition of pEtN to the Salmo-nella LPS core is predicted to be regulated by PmrA ( 18 , 40 ) , STM0834 and STM3635 were not further characterized . 
+Structural analysis of LPS demonstrates that cptA , but not pmrC , is required for pEtN addition to the LPS core . 
+To further examine the role of pmrC and cptA in LPS modiﬁcation , deletions in each gene were created in a JSG435 ( PmrAconstitutive , PmrAc ) background . 
+The PmrAc strain possesses high-level PM resistance and high levels of Ara4N - and pEtNmodiﬁed LPS ( 18 ) . 
+Following the isolation of LPS from these mutants , the DOC-PAGE proﬁle showed the characteristic ladder pattern , indicating molecular heterogeneity in the LPS . 
+No obvious differences were detected in the patterns of the LPS between the cptA and pmrC mutants , or in comparison to the controls ( PmrA-null or PmrAc ) . 
+After separation by size exclusion chromatography , LPS fractions were identiﬁed that were enriched in LPS molecules bearing a low number of O-antigenic repeats ( Fig. 1 ) . 
+Compositional analysis showed that higher-molecular-weight material contained more mannose and rhamnose sugars compared to the low-molecular-weight materials ( data not shown ) . 
+Appropriate low-molecu-lar-weight fractions were chosen , and the OS was prepared from the core-enriched LPS molecule by mild acid hydrolysis . 
+The NMR data indicated a mixture of molecules , as expected from LPS heterogeneity . 
+The anomeric region indicated that most of the sugars are - linked and lie between 5.8 and 4.8 ppm ; however , there was one - linked sugar at 4.5 ppm , as was evident from 2D-NMR spectroscopy . 
+The other reporting group signals were 6-deoxy methyl doublets from rhamnose at 1.0 to 1.35 ppm and N-acetyl methyl singlets at 2.1 ppm . 
+The H-3 methylene protons of the Kdo residue resonate at 1.9 and 2.2 ppm . 
+The other nonanomeric signals from ring protons overlap between 4.4 and 3.5 ppm . 
+For the controls , the characteristic chemical shift for the distal methylene ( - CH2 - ) protons from the phosphorylated ethanolamine group ( pEtN / PEA ) was found in both JSG435 ( PmrAc ) and also in JSG421 ( PmrA-null ) at 3.3 ppm , which was evident from the NMR spectra ( Fig. 2 ) . 
+However , the ratio of the integral area for the methylene to anomeric proton at 5.21 ppm was 2:1 for JSG43 and 1.5:1 for JSG421 , indicating that the latter strain contained less pEtN . 
+2D-NMR further conﬁrmed the presence of the pEtN group on both OS preparations from JSG435 and JSG421 in that there was a distinct COSY correlation between the distal and proximal - CH2 - protons at 3.3 and 4.2 ppm , respectively ( data not shown ) . 
+Further , the presence of pEtN was conﬁrmed by C-H one-bond heteronuclear g-HSQC analysis , which showed that the distal - CH2 protons at 3.3 ppm were correlated to the nitrogen-bearing carbon of the pEtN group , which resonated at 40.0 ppm ( data not shown ) . 
+MALDI was also performed on the controls . 
+The MALDI mass spectrum showed the presence of more than one molecular species . 
+The 123 mass unit difference between m/z at 2426 and 2549 in the JSG435 OS indicates the presence of pEtN in this mutant ( Fig. 3 ) . 
+There also was a molecular distribution of oligosaccharides with a larger number of repeating units ( OS1 ) that have the pEtN-bearing oligosaccharide . 
+We also observed similar ions in JSG421 samples , with a 123 mass difference indicating the presence of pEtN distribution on that oligosaccharide ( Fig. 3 ) . 
+However , again , the intensity of pEtN-bearing signals was less in the JSG421 OS than in JSG435 OS . 
+Examination of JSG1863 ( PmrAc cptA ) and JSG2273 ( PmrAc pmrC ) by NMR and MALDI was also performed . 
+As with the controls , the distal ( with respect to phosphate ) meth-ylene protons ( - CH2 - ) of the pEtN group had a characteristic chemical shift near 3.3 ppm . 
+The 1D-1H-NMR of the OS isolated from JSG1863 and JSG2273 showed the presence of the distal - CH2 signal of pEtN at 3.3 ppm in the latter , while it was completely absent on the former ( Fig. 2 ) . 
+2D-NMR further detected the presence of the pEtN group on the OS from JSG2273 , where there is a distinct COSY correlation between the distal and proximal - CH2 - at 3.3 and 4.2 ppm , respectively . 
+The presence of the pEtN signal was conﬁrmed by the C-H one-bond heteronuclear g-HSQC spectrum , where the distal - CH2 protons at 3.3 ppm correlated with a nitrogen-bearing carbon of the pEtN group that resonated at 40.0 ppm ( data not shown ) . 
+In the MALDI mass spectrum , the presence of the pEtN signal in JSG2273 was observed ( the 123 mass unit difference at m/z at 2417.3 and 2540.3 in the JSG2273 OS ) ( Fig. 3 ) . 
+However , there was no indication of 123 mass differences in the JSG1863 mutant , demonstrating the lack of pEtN in the core of this mutant . 
+Other minor differences were noted between JSG1863 and controls , but they did not correlate with pEtN modiﬁcation . 
+Therefore , the core of the LPS in JSG2273 ( PmrAc pmrC ) still possesses pEtN , whereas the LPS core of JSG1863 ( PmrAc cptA ) does not . 
+pmrC and cptA have a modest effect on resistance to PM . 
+Strains with various combinations of deletions in pmrC and cptA ( in a PmrAc background ; JSG1863 and JSG2273 ) were tested for increased susceptibility to PM using standard MIC assays . 
+Strains JSG1863 and JSG2273 each showed a twofold decrease in PM resistance ( 4 g/ml PM ) compared to the parent PmrAc strain ( 8 g/ml PM ) . 
+Because the loss of Ara4N has been shown to have a dramatic effect on PM resistance in S. enterica serotypes , mutants containing deﬁned pmrHFIJKLM operon insertions , or those deﬁcient in this operon plus either pmrC or cptA , were examined in MIC assays . 
+Such double mutants were shown to be no more susceptible to PM than mutation of pmrF alone ( 0.03 g/ml PM ) . 
+While these data suggested that elimination of pEtN phosphotransferase genes does not amplify PM susceptibility beyond that conferred by abolishing Ara4N modiﬁcation of lipid A , this analysis was furthered with additional PM sensitivity assays . 
+Survival assays using 0.5 g/ml polymyxin B and strains containing pmrC , cptA , or pmrC cptA double mutations in a PmrAc background were performed . 
+As shown in Fig. 4A , these mutants possessed no statistically signiﬁcant differences in their levels of survival in comparison to the PmrAc parental strain , further demonstrating that pEtN modiﬁcation of LPS plays a modest role in regard to PM resistance . 
+When these mutations ( pmrC , cptA , or pmrC cptA ) were examined in a PmrAc pmrF : : Tn10d background , both cptA and pmrC resulted in a statistically signiﬁcant reduction in survival compared to the PmrAc pmrF : : Tn10d strain ( Fig. 4B ) . 
+However , while the cptA mutation resulted in a 2-fold drop in survival , the PmrAc pmrF : : Tn10d pmrC strain ( as well as the PmrAc pmrF : : Tn10d pmrC cptA strain ) demonstrated a 94-fold drop in survival , which obtained a level similar to the survival of a PmrA-null strain . 
+Thus , cptA appears to play a minor role in PM resistance , which can be primarily observed in the absence of Ara4N modiﬁcation of lipid A . 
+The pmrC gene appears to play a larger role in PM resistance , but it also primarily plays a role only in the absence of Ara4N lipid A modiﬁcation . 
+Strains lacking both cptA and pmrC , but not those lacking either gene alone , show a modest virulence defect in the mouse model of typhoid fever . 
+Because the loss of pEtN plays a modest role in resistance to AP and AP resistance has been shown to play a role in virulence , pEtN mutants were examined for virulence defects in the mouse model . 
+Mice infected by the intraperitoneal or oral routes with strains containing cptA , pmrC , or cptA pmrC double deletions in a wild-type background showed no differences in the 50 % lethal dose compared to controls ( data not shown ) . 
+To further examine the in vivo relevance of pEtN LPS modiﬁcation on virulence , competition infection experiments were performed . 
+While single mutations in cptA or pmrC had no defect in competition experiments when evaluated against the wild-type strain ( data not shown ) , a cptA pmrC double mutant showed a consistent , but less than 10-fold decrease in survival in all tissues examined ( Fig. 5 ) . 
+Therefore , the inability to modify LPS in vivo with pEtN on both core and lipid A regions can be shown to play a minor role in virulence . 
+FIG. 1 . 
+DOC-PAGE analysis of LPS fractions . 
+Sephacryl S-200 fractions of whole LPS from strains JSG1863 and JSG2273 were collected and electrophoresed . 
+Four lanes corresponding to different fractions are shown for each strain ( lanes 1 to 4 , JSG1863 ; lanes 5 to 8 , JSG2273 ) . 
+Similar proﬁles of strains JSG421 and JSG435 were performed but are not shown . 
+Asterisks mark the lanes with the polysaccharide chosen for further analysis . 
+FIG. 2 . 
+Proton NMR spectra of LPS core-enriched polysaccharide preparations . 
+The proton signals are as indicated in the ﬁgure . 
+Strain JSG1863 ( PmrAc cptA ) is missing the signal at 3.3 ppm corresponding to the chemical shift for the distal methylene ( - CH2 - ) protons of the pEtN ( also called - PEA ) . 
+All other samples , including that of JSG2273 ( PmrAc pmrC ) and JSG421 ( pmrA : : Tn10d-tet ) , still possess a signal at 3.3 ppm ( although the signal is less intense in JSG421 ) . 
+The signals at about 2.9 ppm ( marked with an asterisk ) are due to an unidentiﬁed contaminant 
+DISCUSSION
+The expression of mechanisms for resistance to AP is an important determinant of pathogenicity , and susceptibility of bacteria to AP is associated with attenuation of virulence ( 9 , 10 , 13 , 28 ) . 
+The TCRS PmrA-PmrB of S. enterica serovar Typhimurium has been shown to be activated within host cell vacuoles ( 1 , 17 ) and has been characterized as contributing to AP resistance by mediating alterations to the outer membrane and LPS ( reviewed in reference 8 ) . 
+PmrA controls the expression of pmrE and pmrHFIJKLM , which encode enzymes involved in producing Ara4N substitutions on lipid A ( 16 ) . 
+In addition , PM-sensitive strains have been reported to lack the ability to produce pEtN substitutions in the lipid A and core oligosaccharide fractions of LPS ( 18 , 40 ) . 
+Four Salmonella open reading frames ( STM3635 , STM4293 [ pmrC ] , STM4118 [ cptA ] , and STM0834 ) were shown to pos sess signiﬁcant similarity to the N. meningitidis genes ( lpt-3 and lptA ) that encode pEtN phosphotransferases ( 5 , 23 ) . 
+Two of these genes , STM4293 ( pmrC ) and STM4118 ( cptA ) , were previously shown to be PmrA regulated ( 34 ) . 
+STM3635 and STM0834 are not PmrA regulated and their function remains unknown , although by homology they appear to be phosphoethanolamine phosphotransferases . 
+pmrC , the ﬁrst open reading frame in the pmrCAB operon , has been shown to be necessary for the transfer of pEtN to lipid A ( 22 ) . 
+However , it was not shown in this work whether PmrC could add pEtN to other positions in the LPS , such as the core . 
+We hypothesized that 
+PmrC may be a phosphoethanolamine phosphotransferase speciﬁc for lipid A and cptA may encode a phosphoethanol-amine phosphotransferase speciﬁc for the LPS core . 
+NMR and mass spectrometry of PmrAc pmrC and PmrAc cptA mutants demonstrated that cptA but not pmrC is necessary for adding pEtN to the LPS core . 
+Therefore , there exist distinct PmrA-regulated phosphoethanolamine phosphotransferases of the LPS core and lipid A ( as it is likely that CptA does not add pEtN to lipid A ) . 
+It is highly probable that the pEtN group observed in this work is that added to heptose I of the core . 
+A second PmrA-regulated modiﬁcation of the inne core Kdo with pEtN has been reported ( 18 ) but not conﬁrmed . 
+Such a modiﬁcation could not have been observed in our NMR or mass spectroscopy studies due to the biochemical processing of the oligosaccharide prior to analysis , but it will be the subject of future studies with additional PmrA-regulated gene mutants . 
+Also of interest in these biophysical studies was the identiﬁcation of pEtN in the LPS core of the PmrA-null strain . 
+This was surprising , because PmrA regulates the expression of cptA , which has a clear pEtN-deﬁcient phenotype . 
+This may suggest that core pEtN modiﬁcation and/or cptA expression is not completely dependent upon PmrA . 
+Increased substitution of lipid A with Ara4N results in increased resistance to AP , including PM , neutrophil granule AP azurocidin ( CAP-37 ) , and bactericidal permeability-increasing protein ( CAP-57 ) ( 18 , 29 , 33 , 36 ) . 
+It is surmised that substitution of the anionic phosphates of LPS with moieties such as Ara4N reduces the electrostatic attraction and binding between the LPS and cationic AP . 
+LPS from PM-resistant Sal-monella binds PM poorly in vitro ( 37 ) . 
+Because pEtN addition to lipid A and core phosphate moieties would also result in decreased anionic charge of the LPS , it was expected that pEtN modiﬁcation of LPS should play a similar role in AP resistance . 
+This reasoning is also in part due to the results of Yethon et al. , which demonstrated that the loss of waaP , which catalyzes the phosphorylation of the HepI of the Salmonella LPS core and is required for further pEtN modiﬁcation of this Hep residue , affected both PM resistance and virulence ( 39 ) . 
+Here , we show that the lack of PmrC or CptA activity reduced the MIC of PM 2-fold , whereas elimination of Ara4N modiﬁcation reduced resistance to PM 100-fold ( 14 , 16 ) . 
+Similar major effects of Ara4N and minor effects of pEtN were observed in PM survival assays . 
+Therefore , while both modiﬁcations decrease the anionic charge of LPS , only Ara4N substitution dramatically affects the ability of PM to associate with LPS . 
+These results suggest that LPS charge is only partially responsible for interactions between PM and LPS and that the structure and/or location of the Ara4N modiﬁcation to lipid A has an inhibitory effect on PM binding . 
+With respect to pmrC , these results are somewhat contradictory to the results of Lee et al. ( 22 ) . 
+In that work , a strain with a mutation in pmrC had a signiﬁcant effect on PM resistance but , similar to our ﬁndings , the role of pmrC-mediated LPS modiﬁcation was inferior to that of Ara4N LPS modiﬁcation with regard to PM resistance . 
+As a possible explanation of these contradictory results , variations in experimental conditions may have led to differential pmrC expression and/or PM killing that inﬂuenced in vitro bacterial survival . 
+The PmrA-PmrB TCRS , and also the dependent AP resistance , has been demonstrated to affect virulence of S. enterica serovar Typhimurium in the mammalian host ( 16 ) . 
+A null mutation in pmrA , pmrE , or pmrHFIJKLM decreases AP resistance and results in 10 - to 1,000-fold decreased survival of the bacteria in the murine model of infection ( 16 ) . 
+Therefore , it was of interest to determine whether the PmrA-mediated pEtN substitution of core and lipid A contributed to AP resistance and/or survival in the host . 
+Mutation of pmrC or cptA did not result in decreased virulence as individual mutations but , when combined , resulted in a consistent but less than 10-fold decrease in the competitive index compared to a wild-type strain . 
+This decrease in competitive index was even observed in the intestinal lumen , an early point after infection . 
+This may suggest that antimicrobial factors in the lumen ( possibly including AP ) substantially contribute to the observed reduction in the competitive index . 
+However , the decreased AP resistance evinced by loss of pEtN modiﬁcations was not sufﬁcient to be dramatically detrimental to survival of Salmonella in the murine model . 
+The previously mentioned waaP mutation had a dramatic affect on virulence , which might have been due to the increased susceptibility to AP in this mutant ( 39 ) . 
+However , since both this waaP and the cptA mutant are missing pEtN on the core but do not have equal virulence defects , it i likely that the virulence attenuation of the waaP mutant can be attributed to its other known membrane effects , such as an increase in outer membrane phospholipids . 
+Activation of pmrC and cptA by PmrA suggests that these loci , and the consequent pEtN modiﬁcations , are up-regulated during infection of the mouse ( 17 ) , but the function of pEtN LPS modiﬁcations remain unclear . 
+Evidence in N. meningitidis indicates that LOS is a receptor for complement component C4b and that substitution of core with pEtN affects binding by C4b ( 26 ) . 
+Speciﬁcally , pEtN substitutions on HepII form amide bonds with C4b and augment complement-mediated killing in serum bactericidal assays . 
+Bacteria with pEtN additions at position 6 of HepII were more efﬁciently eliminated than those with substitutions on position 3 , and strains with pEtN at position 3 of HepII were more likely to be found in clinical isolates ( 26 ) . 
+Salmonella has been shown to add pEtN to Kdo and HepI , but not HepII ; however , pEtN substitution of the core may likewise affect complement killing in Salmo-nella . 
+If so , AP resistance attributed to pEtN substitution may be negated by increased recognition and elimination by complement . 
+Further studies of the effect of pEtN substitution of LPS on resistance to AP other than PM and on immune rec-ognition are required in order to understand the physiological role of pEtN modiﬁcation in vivo . 
+FIG. 3 . 
+The MALDI-TOF mass spectrometry spectrum of LPS core-enriched polysaccharide preparations . 
+As indicated in the ﬁgure , the clusters of signals are due to polysaccharides comprised of the core oligosaccharide plus one O-chain repeat unit , core plus two repeat units , etc. . 
+The core ( after mild acid hydrolysis ) is deﬁned as that published by Olsthoorn et al. ( 25 ) . 
+The structures corresponding to m/z 2644.6 and m/z 3245.0 , 220 mass units larger than m/z 2424.8 and m/z 3025.0 , respectively , are likely due to structures that still contain the second Kdo residue of the core oligosaccharide . 
+Ion peaks at 2446.76 and 3044.34 in JSG2273 ( 2446.63 and 3045.15 in JSG1863 ) are due to sodiated ( 22 mass units ) forms of other apparent ions . 
+These spectra clearly reveal the presence of structures with an added pEtN ( PEA ) component in JSG345 , JSG421 , and JSG2273 , i.e. , ions that are increased 123 mass units , as indicated in the ﬁgure . 
+The lack of a 123-mass unit increase in any observed peak conﬁrms proton NMR data concerning the lack of pEtN in the LPS core of strain JSG1863 ( PmrAc cptA ) . 
+FIG. 4 . 
+PM resistance assays of strains deﬁcient in LPS modiﬁcations . 
+Strains were incubated in the presence of 0.5 g/ml PM for 1 h at room temperature followed by plating to determine the percent survival . 
+( A ) Strains with mutations in cptA , pmrC , or both genes were examined for PM sensitivity in a PmrA-constitutive ( PmrAc ) background . 
+Neither mutation had a signiﬁcant effect on PM resistance in this background compared to the PmrAc parent strain ( t test or analysis of variance [ ANOVA ] , P 0.05 ) . 
+( B ) Strains with mutations in cptA , pmrC , or both genes were examined for PM sensitivity in a PmrAc pmrF ( aminoarabinose-deﬁcient ) background . 
+Strains containing cptA , pmrC , or both mutations in the PmrAc pmrF background demonstrated a level of sensitivity to PM that was signiﬁcantly different from the PmrAc pmrF parent strain ( t test or ANOVA , P 0.05 ) . 
+Error bars indicate the standard errors . 
+FIG. 5 . 
+Competition infection experiments of the wild type ( JSG1311 ) and double mutant ( cptA pmrC ; JSG2449 ) . 
+At 4 days postinfection , selected organs and tissues were harvested and the contents were examined for surviving bacteria by culture on selective , solid medium . 
+Error bars indicate the standard errors . 
+ACKNOWLEDGMENTS
+This work was funded by grants from the National Institutes of Health to J.S.G. ( AI43521 and AI43521-S1 ) and a CCRC center grant from the DOE to R.C. ( DE-FG-02-93ER20097 ) . 
+REFERENCES 
+1 . 
+Alpuche Aranda , C. M. , J. A. Swanson , W. P. Loomis , and S. I. Miller . 
+1992 . 
+Salmonella typhimurium activates virulence gene transcription within acidi-ﬁed macrophage phagosomes . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 89:10079 -- 10083 . 
+2 . 
+Apicella , M. A. , J. M. Grifﬁss , and H. Schneider . 
+1994 . 
+Isolation and characterization of lipopolysaccharides , lipooligosaccharides , and lipid A. Methods Enzymol . 
+235:242 -- 252 . 
+3 . 
+Bearson , B. L. , L. Wilson , and J. W. Foster . 
+1998 . 
+A low pH-inducible , PhoPQ-dependent acid tolerance response protects Salmonella typhimurium against inorganic acid stress . 
+J. Bacteriol . 
+180:2409 -- 2417 . 
+4 . 
+Cherepanov , P. P. , and W. Wackernagel . 
+1995 . 
+Gene disruption in Esche-richia coli : TcR and KmR cassettes with the option of Flp-catalyzed excision of the antibiotic-resistance determinant . 
+Gene 158:9 -- 14 . 
+5 . 
+Cox , A. D. , J. C. Wright , J. Li , D. W. Hood , E. R. Moxon , and J. C. Richards . 
+2003 . 
+Phosphorylation of the lipid A region of meningococcal lipopolysaccharide : identiﬁcation of a family of transferases that add phosphoethanol-amine to lipopolysaccharide . 
+J. Bacteriol . 
+185:3270 -- 3277 . 
+6 . 
+Datsenko , K. A. , and B. L. Wanner . 
+2000 . 
+One-step inactivation of chromosomal genes in Escherichia coli K-12 using PCR products . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 97:6640 -- 6645 . 
+7 . 
+Ellermeier , C. D. , A. Janakiraman , and J. M. Slauch . 
+2002 . 
+Construction of targeted single copy lac fusions using lambda Red and FLP-mediated sitespeciﬁc recombination in bacteria . 
+Gene 290:153 -- 161 . 
+8 . 
+Ernst , R. K. , T. Guina , and S. I. Miller . 
+2001 . 
+Salmonella typhimurium outer membrane remodeling : role in resistance to host innate immunity . 
+Microbes Infect . 
+3:1327 -- 1334 . 
+9 . 
+Fields , P. I. , E. A. Groisman , and F. Heffron . 
+1989 . 
+A Salmonella locus that controls resistance to microbicidal proteins from phagocytic cells . 
+Science 243:1059 -- 1062 . 
+10 . 
+Fields , P. I. , R. V. Swanson , C. G. Haidaris , and F. Heffron . 
+1986 . 
+Mutants of Salmonella typhimurium that can not survive within the macrophage are avirulent . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 83:5189 -- 5193 . 
+11 . 
+Garcia Vescovi , E. , F. C. Soncini , and E. A. Groisman . 
+1996 . 
+Mg2 as an extracellular signal : environmental regulation of Salmonella virulence . 
+Cell 84:165 -- 174 . 
+12 . 
+Groisman , E. A. , J. Kayser , and F. C. Soncini . 
+1997 . 
+Regulation of polymyxin 2 resistance and adaptation to low-Mg environments . 
+J. Bacteriol . 
+179:7040 -- 7045 . 
+13 . 
+Groisman , E. A. , C. Parra-Lopez , M. Salcedo , C. J. Lipps , and F. Heffron . 
+1992 . 
+Resistance to host antimicrobial peptides is necessary for Salmonella virulence . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 89:11939 -- 11943 . 
+14 . 
+Gunn , J. S. , K. B. Lim , J. Krueger , K. Kim , L. Guo , M. Hackett , and S. I. Miller . 
+1998 . 
+PmrA-PmrB-regulated genes necessary for 4-aminoarabinose lipid A modiﬁcation and polymyxin resistance . 
+Mol . 
+Microbiol . 
+27:1171 -- 1182 . 
+15 . 
+Gunn , J. S. , and S. I. Miller . 
+1996 . 
+PhoP-PhoQ activates transcription of pmrAB , encoding a two-component regulatory system involved in Salmonella typhimurium antimicrobial peptide resistance . 
+J. Bacteriol . 
+178:6857 -- 6864 . 
+16 . 
+Gunn , J. S. , S. S. Ryan , J. C. Van Velkinburgh , R. K. Ernst , and S. I. Miller . 
+2000 . 
+Genetic and functional analysis of a PmrA-PmrB-regulated locus necessary for lipopolysaccharide modiﬁcation , antimicrobial peptide resistance , and oral virulence of Salmonella enterica serovar Typhimurium . 
+Infect . 
+Immun . 
+68:6139 -- 6146 . 
+17 . 
+Heithoff , D. M. , C. P. Conner , P. C. Hanna , S. M. Julio , U. Hentschel , and M. J. Mahan . 
+1997 . 
+Bacterial infection as assessed by in vivo gene expression . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 94:934 -- 939 . 
+18 . 
+Helander , I. M. , I. Kilpelainen , and M. Vaara . 
+1994 . 
+Increased substitution of phosphate groups in lipopolysaccharides and lipid A of the polymyxinresistant pmrA mutants of Salmonella typhimurium : a 31P-NMR study . 
+Mol . 
+Microbiol . 
+11:481 -- 487 . 
+19 . 
+Kato , A. , and E. A. Groisman . 
+2004 . 
+Connecting two-component regulatory systems by a protein that protects a response regulator from dephosphorylation by its cognate sensor . 
+Genes Dev . 
+18:2302 -- 2313 . 
+20 . 
+Kato , A. , T. Latiﬁ , and E. A. Groisman . 
+2003 . 
+Closing the loop : the PmrA / PmrB two-component system negatively controls expression of its posttranscriptional activator PmrD . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 100:4706 -- 4711 . 
+21 . 
+Kox , L. F. , M. M. Wosten , and E. A. Groisman . 
+2000 . 
+A small protein that mediates the activation of a two-component system by another two-compo-nent system . 
+EMBO J. 19:1861 -- 1872 . 
+22 . 
+Lee , H. , F. F. Hsu , J. Turk , and E. A. Groisman . 
+2004 . 
+The PmrA-regulated pmrC gene mediates phosphoethanolamine modiﬁcation of lipid a and poly-myxin resistance in Salmonella enterica . 
+J. Bacteriol . 
+186:4124 -- 4133 . 
+23 . 
+Mackinnon , F. G. , A. D. Cox , J. S. Plested , C. M. Tang , K. Makepeace , P. A. Coull , J. C. Wright , R. Chalmers , D. W. Hood , J. C. Richards , and E. R. Moxon . 
+2002 . 
+Identiﬁcation of a gene ( lpt-3 ) required for the addition of phosphoethanolamine to the lipopolysaccharide inner core of Neisseria men-ingitidis and its role in mediating susceptibility to bactericidal killing and opsonophagocytosis . 
+Mol . 
+Microbiol . 
+43:931 -- 943 . 
+24 . 
+Miller , S. I. , A. M. Kukral , and J. J. Mekalanos . 
+1989 . 
+A two-component regulatory system ( phoP phoQ ) controls Salmonella typhimurium virulence . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 86:5054 -- 5058 . 
+25 . 
+Olsthoorn , M. M. , B. O. Petersen , J. Duus , J. Haverkamp , J. E. Thomas-Oates , K. Bock , and O. Holst . 
+2000 . 
+The structure of the linkage between the O-speciﬁc polysaccharide and the core region of the lipopolysaccharide from Salmonella enterica serovar Typhimurium revisited . 
+Eur . 
+J. Biochem . 
+267 : 2014 -- 2027 . 
+26 . 
+Ram , S. , A. D. Cox , J. C. Wright , U. Vogel , S. Getzlaff , R. Boden , J. Li , J. S. Plested , S. Meri , S. Gulati , D. C. Stein , J. C. Richards , E. R. Moxon , and P. A. Rice . 
+2003 . 
+Neisserial lipooligosaccharide is a target for complemen 
+component C4b . 
+Inner core phosphoethanolamine residues deﬁne C4b linkage speciﬁcity . 
+J. Biol . 
+Chem . 
+278:50853 -- 50862 . 
+27 . 
+Rosenberger , C. M. , R. L. Gallo , and B. B. Finlay . 
+2004 . 
+Interplay between antibacterial effectors : a macrophage antimicrobial peptide impairs intracellular Salmonella replication . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 101:2422 -- 2427 . 
+28 . 
+Salzman , N. H. , D. Ghosh , K. M. Huttner , Y. Paterson , and C. L. Bevins . 
+2003 . 
+Protection against enteric salmonellosis in transgenic mice expressing a human intestinal defensin . 
+Nature 422:522 -- 526 . 
+29 . 
+Shafer , W. M. , S. G. Casey , and J. K. Spitznagel . 
+1984 . 
+Lipid A and resistance of Salmonella typhimurium to antimicrobial granule proteins of human neutrophil granulocytes . 
+Infect . 
+Immun . 
+43:834 -- 838 . 
+30 . 
+Soncini , F. C. , E. Garcia Vescovi , F. Solomon , and E. A. Groisman . 
+1996 . 
+Molecular basis of the magnesium deprivation response in Salmonella typhi-murium : identiﬁcation of PhoP-regulated genes . 
+J. Bacteriol . 
+178:5092 -- 5099 . 
+31 . 
+Soncini , F. C. , and E. A. Groisman . 
+1996 . 
+Two-component regulatory systems can interact to process multiple environmental signals . 
+J. Bacteriol . 
+178:6796 -- 6801 . 
+32 . 
+Steinberg , D. A. , M. A. Hurst , C. A. Fujii , A. H. Kung , J. F. Ho , F. C. Cheng , D. J. Loury , and J. C. Fiddes . 
+1997 . 
+Protegrin-1 : a broad-spectrum , rapidly microbicidal peptide with in vivo activity . 
+Antimicrob . 
+Agents Chemother . 
+41:1738 -- 1742 . 
+33 . 
+Stocker , B. A. , and P. H. Makela . 
+1978 . 
+Genetics of the ( gram-negative ) bacterial surface . 
+Proc . 
+R. Soc . 
+London B 202:5 -- 30 . 
+34 . 
+Tamayo , R. , A. M. Prouty , and J. S. Gunn . 
+2005 . 
+Identiﬁcation and functional analysis of Salmonella enterica serovar Typhimurium PmrA-regulated genes . 
+FEMS Immunol . 
+Med . 
+Microbiol . 
+43:249 -- 258 . 
+35 . 
+Trent , M. S. , A. A. Ribeiro , S. Lin , R. J. Cotter , and C. R. Raetz . 
+2001 . 
+An inner membrane enzyme in Salmonella and Escherichia coli that transfers 4-amino-4-deoxy-L-arabinose to lipid A : induction on polymyxin-resistant mutants and role of a novel lipid-linked donor . 
+J. Biol . 
+Chem . 
+276:43122 -- 43131 . 
+36 . 
+Vaara , M. , T. Vaara , M. Jensen , I. Helander , M. Nurminen , E. T. Rietschel , and P. H. Makela . 
+1981 . 
+Characterization of the lipopolysaccharide from the polymyxin-resistant pmrA mutants of Salmonella typhimurium . 
+FEBS Lett . 
+129:145 -- 149 . 
+37 . 
+Vaara , M. , T. Vaara , and M. Sarvas . 
+1979 . 
+Decreased binding of polymyxin by polymyxin-resistant mutants of Salmonella typhimurium . 
+J. Bacteriol . 
+139 : 664 -- 667 . 
+38 . 
+Wright , J. C. , D. W. Hood , G. A. Randle , K. Makepeace , A. D. Cox , J. Li , R. Chalmers , J. C. Richards , and E. R. Moxon . 
+2004 . 
+lpt6 , a gene required for addition of phosphoethanolamine to inner-core lipopolysaccharide of Neisseria meningitidis and Haemophilus inﬂuenzae . 
+J. Bacteriol . 
+186:6970 -- 6982 . 
+39 . 
+Yethon , J. A. , J. S. Gunn , R. K. Ernst , S. I. Miller , L. Laroche , D. Malo , and C. Whitﬁeld . 
+2000 . 
+Salmonella enterica serovar Typhimurium waaP mutants show increased susceptibility to polymyxin and loss of virulence in vivo . 
+Infect . 
+Immun . 
+68:4485 -- 4491 . 
+40 . 
+Zhou , Z. , A. A. Ribeiro , S. Lin , R. J. Cotter , S. I. Miller , and C. R. Raetz . 
+2001 . 
+Lipid A modiﬁcations in polymyxin-resistant Salmonella typhimurium : PmrA-dependent 4-amino-4-deoxy-L-arabinose , and phosphoethanolamine incorporation . 
+J. Biol . 
+Chem . 
+276:43111 -- 43121

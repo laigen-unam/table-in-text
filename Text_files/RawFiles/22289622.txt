@@ -1,0 +1,565 @@
+Research in Microbiology 163 ( 2012 ) 233e241 
+www.elsevier.com/locate/resmic 
+Characterization of endolysin from a Salmonella Typhimurium-infecting bacteriophage S S
+PN1 
+Jeong-A Lim , Hakdong Shin , Dong-Hyun Kang , Sangryeol Ryu * 
+Department of Food and Animal Biotechnology , Department of Agricultural Biotechnology , Center for Agricultural Biomaterials , and Research Institute for Agriculture and Life Sciences , Seoul National University , Seoul 151-921 , Republic of Korea 
+Received 29 December 2011 ; accepted 4 January 2012 Available online 18 January 2012 
+Abstract 
+The full genome sequence of bacteriophage SPN1S , which infects Salmonella , contains genes that encode homologues of holin , endolysin and Rz/Rz1-like accessory proteins , which are 4 phage lysis proteins . 
+The ability of these proteins to lyse Escherichia coli cells when overexpressed was evaluated . 
+In contrast to other endolysins , the expression of endolysin and Rz/Rz1-like proteins was sufﬁcient to cause lysis . 
+The endolysin was tagged with oligohistidine at the N-terminus and puriﬁed by afﬁnity chromatography . 
+The endolysin has a lysozyme-like superfamily domain , and its activity was much stronger than that of lysozyme from chicken egg white . 
+We used the chelating agent , ethyl-enediaminetetraacetic acid ( EDTA ) , to increase outer membrane permeability , and it greatly enhanced the lytic activity of SPN1S endolysin . 
+The antimicrobial activity of endolysin was stable over broad pH and temperature ranges and was active from pH 7.0 to 10.5 and from 25 C to 45 C . 
+The SPN1S endolysin could kill most of the tested Gram-negative strains , but the Gram-positive strains were resistant . 
+SPN1S endolysin , like lysozyme , cleaves the glycosidic bond of peptidoglycan . 
+These results suggested that SPN1S endolysin has potential as a therapeutic agent against Gram-negative bacteria . 
+2012 Institut Pasteur . 
+Published by Elsevier Masson SAS . 
+All rights reserved . 
+Keywords: Endolysin; Peptidoglycan hydrolase; Bacteriophage; Salmonella Typhimurium
+1. Introduction
+As antibiotic-resistant bacteria become more prevalent , alternative therapeutic methods are required . 
+Bacteriophages and endolysins are regarded as effective antimicrobial agents ( Loessner , 2005 ) . 
+In general , double-stranded DNA bacteriophages lyse their host cells with 2 proteins , holin and endo-lysin . 
+Endolysin synthesized without a signal sequence accumulates in the cytosol in the active form . 
+Holin makes pores in the inner membrane , which allows the endolysin to reach its target , peptidoglycan . 
+Endolysins typically cleave glycosidic bonds , peptide bonds , or amide bonds of the peptidoglycan , causing host cell lysis ( Baker et al. , 2006 ; Callewaert et al. , 2011 ; Mikoulinskaia et al. , 2009 ; Pritchard 
+* Corresponding author . 
+Tel. : þ82 2 880 4856 ; fax : þ82 2 873 5095 . 
+E-mail addresses : hanli56@hanmail.net ( J.-A . 
+Lim ) , shd@hanmail.net ( H. Shin ) , kang7820@snu.ac.kr ( D.-H . 
+Kang ) , sangryu@snu.ac.kr ( S. Ryu ) . 
+et al. , 2004 ) . 
+Contrary to canonical endolysins , studies on other types of endolysins exist . 
+The endolysins of phages P1 and 21 , which have N-terminal signal anchor release ( SAR ) domains , are secreted to the periplasm by the host sec system . 
+They accumulate in an inactive membrane-tethered form and are activated by membrane depolarization through holin ( Sun et al. , 2009 ; Xu et al. , 2005 ) . 
+The Oenococcus oeni phage fOg44 endolysin , which has a typical signal sequence , was converted into an active form after cleavage of the N-terminal signal peptide in a SecA-dependent manner ( Sao-Jose et al. , 2000 ) . 
+Some phages do not encode an apparent endolysin ( Krupovic et al. , 2007 ) . 
+In the case of Gram-negative bacteria , 2 additional proteins , Rz/Rz1 equivalents , contribute to the efﬁciency of the lysis ( Berry et al. , 2008 ; Krupovic et al. , 2008 ; Markov et al. , 2004 ) . 
+In the lambda phage lysis cassette , there are 4 lysis genes : S-encoding holin and anti-holin , R-encoding endolysin and Rz and Rz1 . 
+Rz is a type II membrane protein with a hydrophobic 
+0923-2508 / $ - see front matter 2012 Institut Pasteur . 
+Published by Elsevier Masson SAS . 
+All rights reserved doi :10.1016 / j.resmic .2012.01.002 
+N-terminal transmembrane domain and a periplasmic Cterminus . 
+Rz1 is a lipoprotein attached to the inner leaﬂet of the outer membrane and the Rz1 coding region is entirely embedded within the Rz in the þ1 reading frame ( Summer et al. , 2007 ) . 
+Bacteriophages have a number of advantages that make them compelling alternatives to chemical antibiotics , including their bactericidal rather than bacteriostatic activity , equal effectiveness against antibiotic-sensitive and antibiotic-resistant bacteria and the ability to disrupt bacterial bioﬁlms . 
+Disadvantages include phage-resistant bacteria and the presence of bacterial toxins in phage lysates ( Gupta and Prasad , 2011 ) . 
+To address these limitations , the use of puriﬁed endo-lysins has been studied . 
+The lytic activities of puriﬁed endo-lysins have shown potential as therapeutic agents against Streptococcus pneumoniae , Bacillus anthracis , Bacillus subtilis , Staphylococcus aureus , Lactobacillus fermentum , Listeria monocytogenes , Enterococcus faecalis , and Clostridium perfringens ( Fukushima et al. , 2007 ; Kikkawa et al. , 2007 ; Loefﬂer et al. , 2003 ; Nariya et al. , 2011 ; Sass and Bierbaum , 2007 ; Schuch et al. , 2002 ; Turner et al. , 2004 , 2007 ; Uchiyama et al. , 2011 ) . 
+However , most studies on puriﬁed endolysins have focused on Gram-positive bacteria , since the peptidoglycan is directly accessible to exogenous endolysin . 
+In the case of Gram-negative bacteria , the activity of puriﬁed phage lysis proteins against Pseudomonas aeruginosa has been reported ( Briers et al. , 2007 ; Miroshnikov et al. , 2006 ; Paradis-Bleau et al. , 2007 ) , while only a few studies on endolysins from the Klebsiella phage , Acinetobacter baumannii phage and Enterobacteria phage T5 have been reported ( Junn et al. , 2005 ; Lai et al. , 2011 ; Mikoulinskaia et al. , 2009 ; Miroshnikov et al. , 2006 ) . 
+Previously , Salmonella Typhimurium-targeting bacteriophage SPN1S was isolated from environmental water and its genome was completely sequenced ( Shin et al. , 2012 ) . 
+It has a circular genome consisting of 38,684 bp with a GC content of 50.16 % and 52 ORFs ( open reading frames ) . 
+In addition , SPN1S , belonging to the Podoviridae family , infects S. Typhimurium strains and a few S. Paratyphi strains . 
+In this study , an endolysin from the bacteriophage SPN1S was puriﬁed and its lysis activity was analyzed . 
+2. Materials and methods
+2.1. Bioinformatic analysis
+Prediction of ORFs in the lysis cluster of the SPN1S genome was done using Glimmer 3.02 ( Delcher et al. , 2007 ) , GeneMark.hmm ( Lukashin and Borodovsky , 1998 ) and Fge-neV software ( http://www.softberry.com ) . 
+The ribosomal binding sites ( RBS ) were predicted with RBSﬁnder ( ftp : / / ftp . 
+tigr.org/pub/software/RBSﬁnder ) for conﬁrmation of the predicted ORFs . 
+Annotation of the predicted ORFs was done with the results from BLASTP ( Altschul et al. , 1990 ) , the NCBI Conserved Domain Database ( CDD ) ( Marchler-Bauer et al. , 2007 ) , and InterProScan analyses ( Zdobnov and Apweiler , 2001 ) . 
+2.2. DNA manipulation
+Bacteriophage SPN1S DNA was prepared as previously described ( Sambrook and Russell , 2001 ) . 
+The holin , endolysin , and Rz/Rz1-like protein coding genes were ampliﬁed by the polymerase chain reaction and cloned into the pBAD18 expression vector . 
+For expression of an N-terminal oligohistidine-tagged endolysin , the endolysin gene was ampli-ﬁed by the polymerase chain reaction and cloned into pET15b . 
+The plasmids and primers used in this study are listed in Table 1 . 
+2.3. Lysis gene conﬁrmation
+Escherichia coli DH5a harboring a recombinant plasmid expressing each of the lysis genes or combinations of them was cultured in Luria Bertani medium supplemented with 50 mg ml ampicillin until mid-exponential phase . 
+L-arabi-1 nose was added to a ﬁnal concentration of 0.2 % to induce expression of lysis proteins . 
+Lysis activity was assessed by measuring the optical density . 
+2.4. Endolysin puriﬁcation
+The BL21 Star ( DE3 ) ( Invitrogen , Carlsbad , CA , USA ) strain was transformed with the pET15-lys plasmid . 
+Expression of the recombinant endolysin was induced with 1 mmol l isopropyl b-D-1-thiogalactopyranoside ( IPTG ) 1 when the optical density ( 600 nm ) reached 0.6 , followed by incubation for an additional 3 h. Bacterial cells were suspended with buffer containing 20 mmol l TriseHCl ( pH 8.0 ) 1 and 300 mmol l NaCl and disrupted by sonication ( Bio-1 ruptor , Diagenode , Denville , NJ , USA ) . 
+N-terminal his-tagged endolysin was puriﬁed with nickel-nitriloacetic acid agarose resin ( Qiagen , Hilden , Germany ) with an imidazole gradient according to the manufacturer 's instructions . 
+The puriﬁed protein was stored at 80 C in 20 mmol l TriseHCl ( pH 1 8.0 ) , 300 mmol l NaCl , and 30 % glycerol . 
+1 
+2.5. Antimicrobial activity assay
+An exponentially growing E. coli DH5a culture ( 10 CFU ml ) was washed and incubated in a buffer con-8 1 taining 20 mmol l TriseHCl ( pH 8.0 ) and 100 mmol l 1 1 EDTA for 5 min . 
+After centrifugation to remove the EDTA , the cell pellet was resuspended with 20 mmol l TriseHCl 1 ( pH 8.0 ) ( Ayres et al. , 1998 ; Junn et al. , 2005 ) . 
+To analyze the antimicrobial activity of the endolysin , 10 ng , 50 ng , 100 ng , or 500 ng of endolysin was added to a 1 ml DH5a suspension ( 10 CFU ml ) and the reduction in optical density at 600 nm 8 1 was measured . 
+The same volume of 20 mmol l TriseHCl 1 ( pH 8.0 ) was used as the negative control . 
+The antimicrobial activity of 2 mg , 3 mg , 4 mg or 5 mg of lysozyme from chicken egg white ( Sigma , St. Louis , MO , USA ) was measured in a similar manner . 
+In an alternative assay , an exponentially growing DH5a culture was washed with 20 mmol l 1 TriseHCl ( pH 8.0 ) and diluted 100-fold in the same buffer , without pretreating with EDTA . 
+Endolysin ( 3 mg , 5 mg , o 
+10 mg ) was mixed with EDTA and added to a 100 ml cell suspension ( ﬁnal concentrations of EDTA were 1 , 5 , or 10 mmol l EDTA ) . 
+For the negative control , an equivalent 1 volume of buffer was used instead of endolysin or EDTA . 
+After a 20 min , 1 h or 2 h reaction time , the numbers of residual viable cells were measured by determining the colony-forming units . 
+2.6. Effects of pH and temperature on enzyme activity
+To test the thermostability of endolysin , aliquots of the enzyme were incubated at different temperatures ( 30 , 37 , 45 , 50 , 55 , 65 , or 75 C ) for 10 min or 30 min . 
+The pH stability of the endolysin was estimated after 12 days at 4 C in the following buffers : 0.1 % triﬂuoroacetic acid ( pH 2.0 ) , 50 mmol l sodium acetate ( pH 4.3 ) , 50 mmol l 2 - ( N-1 1 morpholino ) ethane sulfonic acid ( MES , pH 6.0 ) , 50 mmol l 1 Bis-Tris ( pH 7.0 ) , 50 mmol l TriseHCl ( pH 7.5 , pH 8.0 1 and pH 8.8 ) , 50 mmol l glycine ( pH 9.5 ) or 50 mmol l N-1 1 cyclohexyl-3-aminopropane sulfonic acid ( pH 10.5 ) . 
+After each treatment , the residual lysis activity was assayed . 
+To determine the optimal conditions for antimicrobial activity , the enzyme reaction was carried out in different pH buffers and at different temperatures . 
+As controls , cell suspensions that were not treated with endolysin were included in the assays . 
+2.7. Antimicrobial spectrum
+The bacterial strains used for antimicrobial spectrum determination are described in Table 2 along with the results . 
+Gram-positive strains were grown to mid-exponential phase , then washed with 20 mmol l TriseHCl ( pH 8.0 ) and 1 ml of 1 each cell suspension was used in the endolysin assay . 
+Gramnegative strains were grown to mid-exponential phase and treated with 100 mmol l EDTA for 5 min . 
+After centrifu-1 gation , the cell pellet was resuspended in 20 mmol l 1 TriseHCl ( pH 8.0 ) . 
+The cell suspensions were treated with 50 ng endolysin for 10 min and optical density was measured . 
+2.8. Target site identiﬁcation
+A crude peptidoglycan preparation of E. coli DH5a was prepared as previously described ( Fein and Rogers , 1976 ) . 
+E. coli cell cultures were disrupted by sonication and unbroken cells were removed by low-speed centrifugation ( 1400 g , 10 min ) . 
+The supernatant was centrifuged ( 27,000 g , 5 min ) and the pelleted crude cell wall was resuspended in 4 % SDS solution and boiled for 10 min . 
+After cooling , the crude peptidoglycan was washed several times . 
+In a 100 ml peptidoglycan solution suspended in 20 mmol l TriseHCl ( pH 1 8.0 ) , 100 ng , 500 ng , or 1 mg of SPN1S endolysin was added and the change in optical density at 600 nm was measured with a Sunrise microplate absorbance reader ( Tecan , Switzerland ) . 
+After hydrolysis , unbroken peptidoglycan was removed by centrifugation and the supernatant was assayed with a modiﬁed Park and Johnson 's method ( Park and Johnson , 1949 ) to investigate whether endolysin cleaves the polysaccharide backbone of peptidoglycan . 
+Brieﬂy , aliquots ( 0.2 ml ) were mixed with 0.05 % ( w/v ) aqueous potassium ferricyanide ( 0.2 ml ) and 0.53 % ( w/v ) sodium carbonate / 0.065 % ( w/v ) potassium cyanide in water ( 0.2 ml ) . 
+The mixtures were boiled for 15 min . 
+Upon cooling , 1.0 ml of a ferric ion reagent ( ﬁnal 0.15 % ( w/v ) ferric ammonium sulfate/0 .1 % ( w/v ) SDS in 0.025 M sulfuric acid ) was added 
+Table 1 
+Plasmids , and oligonucleotide primers used in this study . 
+Plasmid or primer Description or sequence 
+Source or reference 
+Plasmids pBAD18 
+Amp , araC , PBAD , pBR322 ori , expression vector r Amp , T7 promoter , N-terminal His-Tag r pBAD18 encoding holin pBAD18 encoding endolysin pBAD18 encoding Rz/Rz1-like proteins pBAD18 encoding holin and endolysin pBAD18 encoding holin and Rz/Rz1-like proteins pBAD18 encoding endolysin and Rz/Rz1-like proteins pBAD18 encoding holin , endolysin , and Rz/Rz1-like proteins pET15b encoding N-terminal his-tagged endolysin 
+( Guzman et al. , 1995 ) Novagen , Wisconsin , USA This study This study This study This study This study This study This study This study 
+pET15b pBAD-hol pBAD-lys pBAD-Rz pBAD-hollys pBAD-holRz pBAD-lysRz pBAD-hollysRz pET15-lys 
+Primers hol F hol R lys F lys R Rz F Rz R hislys F hislys R T4 hol F T4 hol R T7 lys F T7 lys R 
+50-GTACGTATTGGCATGCGGCTCTATC-30 50-ATTGATACCGCATGCGCGCCG-30 50-CCGTCCTGAATTCGCGCGGT-30 50-AAGCTTTGACGAATTCCCAGATCATAAC-30 50-CAGAACGGTGTCGACGACCG-30 50-TTTATATACCGTCGACGGAAATCGGT-30 50-GAGGTCTCGAGATGGACATTA-30 50-GTAACTGTCTCGAGTAAGCTTTG-30 50-GCATGCATGGCAGCACCTAGAATAT-30 50-GCATGCTTATTTAGCCCTTCCTAATA-30 50-CACCGCTGAATTCCGGGTCC-30 50-CATCCGGAATTCCTGTGGTCTC-30 
+This study This study This study This study This study This study This study This study This study This study This study This study 
+Antimicrobial activity of SPN1S endolysin against various Gram-negative or Gram-positive strains . 
+e lysis activity a 
+Strain 
+R þ þ 
+elativ þþþ 
+Escherichia coli 
+BL21 DH5a 
+þþ 
+þþþ þþþ 
+DH10B GI698 JM109 MC4100 MG1655 LT2 SL1344 UK1 ATCC 14028 KCTC 1925 b Ty2 
+þþþ þþþþþ þþþ þþþ þþþ þþþ þþ þþ 
+Salmonella Typhimurium 
+þþ þþ þþ þ þ þ þþ þþ þþ e e e e e e e e e 
+Salmonella Typhi 
+Salmonella Paratyphi A Salmonella Paratyphi B Salmonella Paratyphi C Shigella ﬂexneri Pseudomonas aeruginosa Pseudomonas putida Cronobacter sakazakii Vibrio vulniﬁcus Bacillus cereus 
+2a 2457T 
+ATCC 27853 KCTC 1643 ATCC 29544 ATCC 29307 ATCC 21772 ATCC 21768 ATCC 27348 ATCC 10876 ATCC 23857 ATCC 19114 ATCC 29212 ATCC 29213 ATCC 35983 
+Bacillus subtilis 
+Listeria monocytogenes Enterococcus faecalis Staphylococcus aureus Staphylococcus epidermidis 
+a 
+Relative lysis activity ; DOD600 of endolysin-treated sample/DOD600 of buffer treated samplee , 1 ; þ , 1w2 ; þþ , 2w3 ; þþþ , 3w4 ; þþþþ , 4w5 ; þþþþþ , 5w6 . 
+b KCTC ; Korean collection for type culture . 
+A stable Prussian blue color was measured at 690 nm . 
+To conﬁrm the peptidase activity in the peptidoglycan hydroly-sate , ﬁnal 4 % NaHCO3 and 0.1 % TNBS ( trinitrobenzene sulfonic acid ) solutions were used . 
+In the dark for 1 h , 1N HCl was added for acidiﬁcation and then OD340 was measured ( Mikoulinskaia et al. , 2009 ) . 
+For determination of amidase activity , 1.0 M NaOH was mixed with the hydrolysate up to 0.5 ml . 
+After 30 min incubation , 0.5 ml of 0.5 M H2SO4 and 5 ml of concentrated H2SO4 were added . 
+The well-stoppered tube was placed in boiling water bath for 5 min . 
+After cooling , 0.05 ml CuSO4 and 0.1 ml PHD solutions ( 1.5 % p-hydroxyphenyl in 96 % ethanol ) were added . 
+After incubation for 30 min , the OD560 was measured ( Hadzija , 1974 ; Hazenberg and de Visser , 1992 ) . 
+The peptidoglycan suspension that had not been treated with endolysin and the endolysin solutions were used as negative controls . 
+3. Results
+Fig. 1 . 
+Expression of holin , endolysin , and Rz/Rz1-like proteins of bacteriophage SPN1S . 
+Holin , endolysin and Rz/Rz1-like accessory proteins were expressed in E. coli . 
+Protein expression was induced 2 h after inoculation with 0.2 % L-arabinose . 
+Lysis of the induced cells was measured by the decrease in absorbance at 600 nm . 
+Hhol ; holin , lys ; endolysin , Rz ; Rz/Rz1-like proteins . 
+3.1. Lysis genes of the SPN1S bacteriophage
+The genome of bacteriophage SPN1S was fully sequenced ( GenBank ID : JN391180 ) . 
+In the host lysis cluster of the 
+SPN1S bacteriophage genome , there are 4 ORFs encoding the putative holin , putative endolysin , and putative Rz/Rz1-like proteins . 
+Annotation and functional analysis of the ORFs in this cluster revealed that 2 ORFs ( SPN1S_0027 , 309-bp and SPN1S_0028 , 630-bp ) were homologous to the holin and endolysin of phage epsilon15 ( amino acid identity , 99 % and 94 % ) , a serotype-converting , group E1 Salmonella enterica-speciﬁc bacteriophage ( Kropinski et al. , 2007 ) . 
+The other 2 ORFs ( SPN1S_0029 , 483-bp and SPN1S_0029_1 , 276-bp ) had homology with Rz/Rz1-like proteins of phage phiV10 ( amino acid identity , 80 % and 85 % ) , an E. coli O157 : H7-speciﬁc temperate phage ( Perry et al. , 2009 ) ( Table S1 ) . 
+InterProScan analysis in this gene cluster showed that only the putative endolysin had any functional domains . 
+The putative endolysin of SPN1S had homology to the lysozyme-like domain ( SSF53955 ) and its C-terminal region had a family 19 glycoside hydrolase catalytic domain ( PF00182 ) . 
+On the other hand , the putative holin and Rz/Rz1-like proteins had transmembrane region ( s ) and a signal peptide region . 
+In addition , the putative holin and Rz-like protein had unknown function domains ( PF05449 and PF10721 ) and the Rz/Rz1-like proteins had a PROKAR_LIPOPROTEIN entry ( PS51257 ) determined by PROSITE . 
+ClustalW alignment and phylogenetic analysis of the putative endolysin were done with similar sequences from various prophages or bacteriophages ( Figs . 
+S1 and S2 ) . 
+The 4 genes were in tandem in SPN1S , with sequence overlaps of 11 bp between the holin and the endolysin and 4 bp between the endolysin and the Rz-like protein . 
+Moreover , the Rz1-like protein overlaps the Rz-like protein in the other frame . 
+To conﬁrm the functions of these genes , they were cloned into expression vector pBAD18 separately or together and expressed in the E. coli DH5a strain . 
+As shown in Fig. 1 , none of the 4 genes affected growth of the E. coli strain when expressed alone . 
+When all 4 were expressed together , there was strong lysis activity . 
+Interestingly , the expression of endolysin and the Rz/Rz1-like proteins also yielded strong lysis activity . 
+The SPN1S endolysin exhibited lysis activit when it was expressed with T4 holin , but expression of T7 endolysin with SPN1S holin or Rz/Rz1-like proteins did not show any growth defect ( Fig. 2 ) . 
+Thus , it is possible that SPN1S Rz/Rz1-like proteins affect bacterial cell lysis only when acting together with SPN1S endolysin , indicating that the SPN1S phage has an unusual lysis system . 
+Fig. 1 . 
+Expression of holin , endolysin , and Rz/Rz1-like proteins of bacteriophage SPN1S . 
+Holin , endolysin and Rz/Rz1-like accessory proteins were expressed in E. coli . 
+Protein expression was induced 2 h after inoculation with 0.2 % L-arabinose . 
+Lysis of the induced cells was measured by the decrease in absorbance at 600 nm . 
+Hhol ; holin , lys ; endolysin , Rz ; Rz/Rz1-like proteins . 
+3.2. Enzymatic lysis activity of puriﬁed endolysin
+The endolysin coding region was cloned into pET15b and transformed into BL21 Star ( DE3 ) , a high-performance host designed for improved protein yield in T7 promoter-based expression systems ( Aghera and Udgaonkar , 2011 ) . 
+Total protein proﬁles were analyzed by SDS-PAGE ( Fig. 3A ) . 
+An overexpressed protein band of the expected size ( approximately 26 kDa ) was detected . 
+The addition of puriﬁed SPN1S endolysin to E. coli is not expected to affect cell viability because endolysin is hydro-philic and can not cross the Gram-negative outer membrane to access the peptidoglycan ( Hermoso et al. , 2007 ) . 
+Thus , we used EDTA to destabilize the outer membrane and allow endolysin to pass through it and reach the peptidoglycan . 
+At ﬁrst , the lysis activity of endolysin was assayed by measuring the effect of endolysin addition on the optical density of the cell suspensions pretreated with 100 mmol l 1 EDTA . 
+Addition of 10 ng ml endolysin did not have a strong 1 effect compared to buffer alone , however , gradually higher activities were detected beginning with 50 ng ml . 
+Addition 1 of 500 ng ml endolysin led to lysis of most cells within 1 1 min ( Fig. 3B ) . 
+This activity was very strong and the activity was approximately 30 times higher than the activity of chicken egg white lysozyme ( Fig. 3C ) . 
+SPN1S endolysin was then added with EDTA to intact E. coli cells , instead of pretreating the cells with EDTA ( Briers et al. , 2011 ) . 
+Without EDTA , endolysin did not affect the number of colony-forming units ( CFUs ) in the cell suspension . 
+However , when added with EDTA , endolysin caused a dramatic reduction in bacterial viability . 
+A combination of 30 ng ml endolysin and 5 mmol l EDTA resulted in an 1 1 approximate 2-log reduction in CFUs after a 2 h reaction time compared to the control with only 5 mmol l EDTA added , 1 and a more than 4-log reduction in CFUs when 100 ng ml 1 endolysin and 10 mmol l EDTA were added ( Fig. 4A ) . 
+The 1 lysis activity varied not only with the concentration of endo-lysin and EDTA , but also with the reaction time . 
+Fig. 4B shows the relative viable cell numbers after treatment with 50 ng ml endolysin and different concentrations of EDTA for 1 20 min , 1 h , or 2 h. Relative cell counts were calculated after setting the cell numbers in the untreated suspensions at 100 % . 
+Within 20 min , 50 ng ml endolysin with 10 mmol l EDTA 1 1 reduced the bacterial cell numbers by 60 % and at 2 h by 99.8 % compared to the control with only 10 mmol l EDTA 1 added . 
+In any condition , when the enzyme reaction time was longer , many more viable cells were degraded . 
+The concentrations of EDTA used in this study and the oligohistidine tag did not affect the endolysin itself ( data not shown ) . 
+Fig. 2 . 
+Lysis activities of SPN1S lysis proteins with known lysis proteins . 
+SPN1S holin and T7 endolysin ( A ) , T7 endolysin and SPN1S Rz/Rz1-like proteins ( B ) , T4 holin and SPN1S endolysin were expressed with 0.2 % L-arabinose at 2 h after inoculation . 
+Viable cell numbers after 5 h of incubation for each culture wer measured ( D ) . 
+SPN1S endolysin was stable from pH 4.3 to 10.5 for 12 days , but was unstable in pH 2.0 buffer with only 13 % of its lytic activity remaining . 
+Although thermal treatment at temperatures up to 75 C for 10 min did not inhibit enzyme function , 30 min at elevated temperatures had a negative effect on its activity . 
+Endolysin was active to some extent over broad pH range and temperature ( pH 7.0 to 10.5 and temperature 25 Ce45 C ) ranges but exhibited maximum activity in pH 9.5 and at 37 C . 
+This data are shown in Fig . 
+S3 . 
+3.4. Antimicrobial spectrum
+Nine Gram-positive and 21 Gram-negative strains were examined for their susceptibility to SPN1S endolysin ( Table 2 ) . 
+SPN1S endolysin was able to lyse all of the tested Gram-negative strains at 50 ng ml within 10 min with the 1 highest activity against E. coli . 
+However , no activity was detected against the Gram-positive strains . 
+Even at 1000 ng ml endolysin for 1 h , there was no effect on the 1 Gram-positive strains tested . 
+Thus , we conclude that SPN1S endolysin has a wide spectrum of antimicrobial activity against Gram-negative bacteria . 
+3.5. Target site identiﬁcation
+Bioinformatic analysis showed that SPN1S endolysin has a lysozyme-like superfamily domain ( E-value , 10 ) . 
+Lyso-44 zyme damaged bacterial cell walls by catalyzing the hydro-lysis of 1,4-beta-linkages between N-acetyl muramic acid and N-acetyl-D-glucosamine residues in the peptidoglycan ( Nakimbugwe et al. , 2006 ) . 
+To conﬁrm the predicted glycosidic bond cleaving activity of SPN1S endolysin , we analyzed the quantity of reducing sugar after peptidoglycan hydrolysis . 
+E. coli peptidoglycan was treated with 1 mg ml , 5 mg ml 1 1 or 10 mg ml endolysin and dose-dependent degradation was 1 observed ( Fig. 5A ) . 
+After lysis , the amounts of reducing sugar in each sample were measured . 
+As with peptidoglycan degradation , the amount of reducing sugar in the enzyme digests was proportional to the endolysin concentration ( Fig. 5B ) . 
+The buffer and enzyme itself at any concentration used in this experiment did not affect the results . 
+To examine whether endolysin might have other activities , we performed a peptidase assay and an amidase assay with the same enzyme digests , but found no difference between the endolysin lysate and buffer ( data not shown ) . 
+Thus , we concluded that SPN1S endolysin cleaved the glycosidic bond of peptidoglycan . 
+Fig. 3 . 
+Lysis activity of puriﬁed SPN1S endolysin . 
+Total lysate of IPTG-induced E. coli cells harboring backbone plasmid ( lane 1 ) and recombinant plasmid ( lane 2 ) were separated on a 12 % acrylamide gel ( A ) . 
+The overexpressed oligohistidine-tagged endolysin was puriﬁed ( lane 3 ) . 
+M , molecular weight markers . 
+The activity of various concentrations of puriﬁed SPN1S endolysin was detected using E. coli cell suspensions , with EDTA ( B ) . 
+The enzymatic activity of 0.1 mg ml SPN1S endolysin was similar to that of 1 3 mg ml lysozyme from chicken egg white ( C ) . 
+1 
+3.3 . 
+Conditions for enzyme function 
+Fig. 4 . 
+Lytic activity of SPN1S endolysin over a range of EDTA concentrations . 
+The viable cell numbers ( CFUs ) of E. coli upon addition of 30 ng ml , 50 ng ml , or 100 ng ml endolysin were examined for 3 EDTA concentrations ( 1 mmol l , 5 mmol l , 10 mmol l ) after a 2 h reaction time ( A ) . 
+Relative viable cell 1 1 1 1 numbers upon addition of 50 ng ml endolysin and EDTA for different time points were calculated relative to the cell numbers after treatment with buffer ( B ) 1 1 1 
+Fig. 5 . 
+Degradation of E. coli peptidoglycan by SPN1S endolysin . 
+Peptidoglycan degradation was detected as a decrease in optical density ( A ) . 
+Reducing sugar was detected after endolysin treatment of E. coli peptidoglycan ( B ) . 
+4. Discussion
+In this study , we conﬁrmed the lysis activity of an endolysin homologue from SPN1S , a newly isolated bacteriophage infecting S. Typhimurium . 
+Endolysin has a lysozyme-like superfamily domain , but showed much stronger lysis activity than lysozyme from chicken egg white . 
+Several endolysins with lytic activity against Gram-negative bacteria were studied . 
+The viable cell number of P. aeruginosa PAO1 was reduced approximately 4 logs by addition of 5 mg ml lysis protein EL188 and 1 10 mmol l EDTA ( Briers et al. , 2011 ) . 
+The endolysin of 1 Klebsiella phage K11 reduced the optical density of sensitized cells approximately 10 % at a 10 mg ml concentration ( Junn 1 et al. , 2005 ) . 
+The antibacterial activity of A. baumannii phage phiAB2 endolysin was approximately 30 % of the antibacterial activity of chicken egg white lysozyme ( Lai et al. , 2011 ) . 
+SPN1S endolysin had greater activity than these endolysins . 
+Fifty nanograms of endolysin were sufﬁcient to reduce the optical density of a 1 ml EDTA pretreated cell suspension by approximately 50 % . 
+Indeed , SPN1S endolysin appears to be superior to lysozyme , with approximately 30 times higher activity . 
+The peptidoglycan of all Gram-negative bacteria is ( almost ) identical . 
+In addition , Bacillus contains A1g types of peptidoglycan like Gram-negative bacteria ( Schleifer and Kandler , 1972 ) . 
+The different lysis pattern of Gram-negative bacteria and Bacillus by SPN1S endolysin treatment might be caused by peptidoglycan deacetylation . 
+Bacillus possesses deacetylase ( s ) , and a high proportion of the acetylglucosamine resi-dues in the peptidoglycan layer are de-N-acetylated by the action of peptidoglycan deacetylase ( Araki et al. , 1972 ; 
+Hayashi et al. , 1973 ) . 
+This modiﬁcation had the effect of making the bacterial cell wall resistant to digestion by lyso-zyme and these lysozyme-resistant cell walls were converted into a lysozyme-sensitive form by N-acetylation . 
+Likewise , the Bacillus cereus peptidoglycan with N-unsubstituted glucos-amine residues , which is resistant to the bacteriophage T4 lysozyme , was converted into a sensitive form by N-acetyla-tion ( Kleppe et al. , 1981 ) . 
+Similar to these , N-acetylation of B. cereus peptidoglycan with acetic anhydride made it sensitive to the lytic action of SPN1S endolysin ( data not shown ) . 
+In general , endolysin can not act as an exolysin against intact Gram-negative bacteria ( Hermoso et al. , 2007 ) , since the outer membrane acts as a physical barrier preventing access of endolysin to the peptidoglycan . 
+The peptidoglycan of Grampositive strains , in contrast , is easily accessible from the extracellular environment ( Fischetti , 2010 ; Lai et al. , 2011 ) . 
+A few methods that increase outer membrane permeability in Gram-negative bacteria have been reported , including use of chelating agents like EDTA , high hydrostatic pressure or the attachment of hydrophobic peptides to endolysin ( Briers et al. , 2011 ; Morita et al. , 2001 ; Nakimbugwe et al. , 2006 ) . 
+Success in making Gram-negative bacteria sensitive to the antimicrobial effects of endolysin suggests that phage endolysins might be used as therapeutics for not only Gram-positive bacteria , but for Gram-negative bacteria as well . 
+With SPN1S endoly-sin , we observed that the addition of EDTA along with endolysin allowed for strong antimicrobial activity . 
+There exist a few reports that phage accessory proteins like lambda phage Rz and Rz1 are involved in host cell lysis with respect to the outer membrane ( Berry et al. , 2008 ; Krupovi et al. , 2008 ; Summer et al. , 2007 ) . 
+Lambda mutants lacking Rz/Rz1 have a conditional lysis-deﬁcient phenotype . 
+Under standard laboratory incubation conditions , holin and endolysin are sufﬁcient for the lysis and release of the progeny virions . 
+In the presence of high concentrations of divalent cations , however , bacterial cells infected with Rz/Rz1-de ﬁcient lambda phage do not lyse , but instead form mechanically fragile spheres ( Young et al. , 1979 ; Zhang and Young , 1999 ) . 
+In the case of the P22 bacteriophage , the Rz/Rz1 homologues are encoded by gene 15 . 
+P22 phage mutants lacking gene 15 display a 3 - to 6-log decrease in plating efﬁciency in the presence of divalent cations ( Casjens et al. , 1989 ) . 
+Krupovic et al. ( 2008 ) reported that the Rz/Rz1-like accessory lysis genes of bacteriophage PRD1 were needed for full lysis . 
+The lysis rate of PRD1 Rz/Rz1-de ﬁcient phage was only slightly less than that of the wild type phage in the absence of divalent cations , but in the presence of 10 mmol l MgCl2 , the lysis 1 rate was reduced dramatically . 
+The authors suggested that the Rz/Rz1 complex transmits mechanical stress associated with the lesions caused by holin ( in the inner membrane ) to the outer membrane , ultimately leading to lysis . 
+An alternative model was suggested for lysis mediated by phage lambda in which Rz/Rz1 are required for fusion of the inner and outer membranes , a step proposed to be necessary for the release of progeny virions ( Berry et al. , 2008 ) . 
+Summer et al. ( Summer et al. , 2007 ) reported that Rz/Rz1 equivalents are ubiquitous among phages infecting Gramnegative bacteria . 
+In a comprehensive bioinformatics study , they found 120 Rz/Rz1 equivalents in 137 phage genomes . 
+In most cases in which the function of Rz/Rz1 has been studied , they are not essential for lysis . 
+In SPN1S , the expression of endolysin with Rz/Rz1-like proteins was sufﬁcient for lysis . 
+To our knowledge , this is the ﬁrst example of phage lysis in which the Rz/Rz1-like proteins are critical . 
+Further study will focus on determining the functions of the holin and Rz/Rz1-like proteins of SPN1S bacteriophage in lysis . 
+Acknowledgments
+This work was supported by a National Research Foundation of Korea ( NRF ) grant funded by the Korean government ( MEST ) ( No. 20090078983 ) . 
+J. Lim and H. Shin were the recipients of a graduate fellowship provided by the MEST through the Brain Korea 21 Project . 
+Appendix. Supplementary data
+Supplementary data related to this article can be found online at doi :10.1016 / j.resmic .2012.01.002 . 
+References 
+Aghera , N. , Udgaonkar , J.B. , 2011 . 
+Heterologous expression , puriﬁcation and characterization of heterodimeric monellin . 
+Protein Expr . 
+Purif . 
+76 , 248e253 . 
+Altschul , S.F. , Gish , W. , Miller , W. , Myers , E.W. , Lipman , D.J. , 1990 . 
+Basic local alignment search tool . 
+J. Mol . 
+Biol . 
+215 , 403e410 . 
+Araki , Y. , Nakatani , T. , Nakayama , K. , Ito , E. , 1972 . 
+Occurrence of N-non-substituted glucosamine residues in peptidoglycan of lysozyme-resistant cell walls from Bacillus cereus . 
+J. Biol . 
+Chem . 
+247 , 6312e6322 . 
+Ayres , H.M. , Furr , J.R. , Russell , A.D. , 1998 . 
+Effect of divalent cations on permeabilizer-induced lysozyme lysis of Pseudomonas aeruginosa . 
+Lett . 
+Appl . 
+Microbiol . 
+27 , 372e374 . 
+Baker , J.R. , Liu , C. , Dong , S. , Pritchard , D.G. , 2006 . 
+Endopeptidase and glycosidase activities of the bacteriophage B30 lysin . 
+Appl . 
+Environ . 
+Microbiol . 
+72 , 6825e6828 . 
+Berry , J. , Summer , E.J. , Struck , D.K. , Young , R. , 2008 . 
+The ﬁnal step in the phage infection cycle : the Rz and Rz1 lysis proteins link the inner and outer membranes . 
+Mol . 
+Microbiol . 
+70 , 341e351 . 
+Briers , Y. , Volckaert , G. , Cornelissen , A. , Lagaert , S. , Michiels , C.W. , Hertveldt , K. , Lavigne , R. , 2007 . 
+Muralytic activity and modular structure of the endolysins of Pseudomonas aeruginosa bacteriophages phiKZ and EL . 
+Mol . 
+Microbiol . 
+65 , 1334e1344 . 
+Briers , Y. , Walmagh , M. , Lavigne , R. , 2011 . 
+Use of bacteriophage endolysin EL188 and outer membrane permeabilizers against Pseudomonas aeruginosa . 
+J. Appl . 
+Microbiol . 
+110 , 778e785 . 
+Callewaert , L. , Walmagh , M. , Michiels , C.W. , Lavigne , R. , 2011 . 
+Food applications of bacterial cell wall hydrolases . 
+Curr . 
+Opin . 
+Biotechnol . 
+22 , 164e171 . 
+Casjens , S. , Eppler , K. , Parr , R. , Poteete , A.R. , 1989 . 
+Nucleotide sequence of the bacteriophage P22 gene 19 to 3 region : identiﬁcation of a new gene required for lysis . 
+Virology 171 , 588e598 . 
+Delcher , A.L. , Bratke , K.A. , Powers , E.C. , Salzberg , S.L. , 2007 . 
+Identifying bacterial genes and endosymbiont DNA with Glimmer . 
+Bioinformatics 23 , 673e679 . 
+Fein , J.E. , Rogers , H.J. , 1976 . 
+Autolytic enzyme-deﬁcient mutants of Bacillus subtilis 168 . 
+J. Bacteriol . 
+127 , 1427e1442 . 
+Fischetti , V.A. , 2010 . 
+Bacteriophage endolysins : a novel anti-infective to control gram-positive pathogens . 
+Int . 
+J. Med . 
+Microbiol . 
+300 , 357e362 . 
+Fukushima , T. , Yao , Y. , Kitajima , T. , Yamamoto , H. , Sekiguchi , J. , 2007 . 
+Characterization of new L , D-endopeptidase gene product CwlK ( previous YcdD ) that hydrolyzes peptidoglycan in Bacillus subtilis . 
+Mol . 
+Genet . 
+Genomics 278 , 371e383 . 
+Gupta , R. , Prasad , Y. , 2011 . 
+P-27 / HP endolysin as antibacterial agent for antibiotic-resistant Staphylococcus aureus of human infections . 
+Curr . 
+Microbiol . 
+63 , 39e45 . 
+Guzman , L.M. , Belin , D. , Carson , M.J. , Beckwith , J. , 1995 . 
+Tight regulation , modulation , and high-level expression by vectors containing the arabinose PBAD promoter . 
+J. Bacteriol . 
+177 , 4121e4130 . 
+Hadzija , O. , 1974 . 
+A simple method for the quantitative determination of muramic acid . 
+Anal . 
+Biochem . 
+60 , 512e517 . 
+Hayashi , H. , Araki , Y. , Ito , E. , 1973 . 
+Occurrence of glucosamine residues with free amino groups in cell wall peptidoglycan from bacilli as a factor responsible for resistance to lysozyme . 
+J. Bacteriol . 
+113 , 592e598 . 
+Hazenberg , M.P. , de Visser , H. , 1992 . 
+Assay for N-acetylmuramyl-L-alanine amidase in serum by determination of muramic acid released from the peptidoglycan of Brevibacterium divaricatum . 
+Eur . 
+J. Clin . 
+Chem . 
+Clin . 
+Biochem . 
+30 , 141e144 . 
+Hermoso , J.A. , Garcıa , J.L. , Garcıa , P. , 2007 . 
+Taking aim on bacterial patho-gens : from phage therapy to enzybiotics . 
+Curr . 
+Opin . 
+Microbiol . 
+10 , 461e472 . 
+Junn , H.J. , Youn , J. , Suh , K.H. , Lee , S.S. , 2005 . 
+Cloning and expression of Klebsiella phage K11 lysozyme gene . 
+Protein Expr . 
+Purif . 
+42 , 78e84 . 
+Kikkawa , H. , Fujinami , Y. , Suzuki , S. , Yasuda , J. , 2007 . 
+Identiﬁcation of the amino acid residues critical for speciﬁc binding of the bacteriolytic enzyme of gamma-phage , PlyG , to Bacillus anthracis . 
+Biochem . 
+Biophys . 
+Res . 
+Commun . 
+363 , 531e535 . 
+Kleppe , G. , Vasstrand , E. , Jensen , H.B. , 1981 . 
+The speciﬁcity requirements of bacteriophage T4 lysozyme . 
+Involvement of N-acetamido groups . 
+Eur . 
+J. Biochem . 
+119 , 589e593 . 
+Kropinski , A.M. , Kovalyova , I.V. , Billington , S.J. , Patrick , A.N. , Butts , B.D. , Guichard , J.A. , Pitcher , T.J. , Guthrie , C.C. , Sydlaske , A.D. , Barnhill , L.M. , Havens , K.A. , Day , K.R. , Falk , D.R. , McConnell , M.R. , 2007 . 
+The genome of epsilon15 , a serotype-converting , Group E1 Salmonella enterica-speciﬁc bacteriophage . 
+Virology 369 , 234e244 
+Krupovic , M. , Cvirkaite-Krupovic , V. , Bamford , D.H. , 2008 . 
+Identiﬁcation and functional analysis of the Rz/Rz1-like accessory lysis genes in the membrane-containing bacteriophage PRD1 . 
+Mol . 
+Microbiol . 
+68 , 492e503 . 
+Krupovic , M. , Daugelavicius , R. , Bamford , D.H. , 2007 . 
+A novel lysis system in PM2 , a lipid-containing marine double-stranded DNA bacteriophage . 
+Mol . 
+Microbiol . 
+64 , 1635e1648 . 
+Lai , M.J. , Lin , N.T. , Hu , A. , Soo , P.C. , Chen , L.K. , Chen , L.H. , Chang , K.C. , 2011 . 
+Antibacterial activity of Acinetobacter baumannii phage varphiAB2 endolysin ( LysAB2 ) against both gram-positive and gram-negative bacteria . 
+Appl . 
+Microbiol . 
+Biotechnol . 
+90 , 529e539 . 
+Loefﬂer , J.M. , Djurkovic , S. , Fischetti , V.A. , 2003 . 
+Phage lytic enzyme Cpl-1 as a novel antimicrobial for pneumococcal bacteremia . 
+Infect . 
+Immun . 
+71 , 6199e6204 . 
+Loessner , M.J. , 2005 . 
+Bacteriophage endolysins - current state of research and applications . 
+Curr . 
+Opin . 
+Microbiol . 
+8 , 480e487 . 
+Lukashin , A.V. , Borodovsky , M. , 1998 . 
+GeneMark.hmm : new solutions for gene ﬁnding . 
+Nucleic Acids Res . 
+26 , 1107e1115 . 
+Marchler-Bauer , A. , Anderson , J.B. , Derbyshire , M.K. , DeWeese-Scott , C. , 
+Gonzales , N.R. , Gwadz , M. , Hao , L. , He , S. , et al. , 2007 . 
+CDD : a conserved domain database for interactive domain family analysis . 
+Nucleic Acids Res . 
+35 , D237eD240 . 
+Markov , D. , Christie , G.E. , Sauer , B. , Calendar , R. , Park , T. , Young , R. , Severinov , K. , 2004 . 
+P2 growth restriction on an rpoC mutant is suppressed by alleles of the Rz1 homolog lysC . 
+J. Bacteriol . 
+186 , 4628e4637 . 
+Mikoulinskaia , G.V. , Odinokova , I.V. , Zimin , A.A. , Lysanskaya , V.Y. , Feofanov , S.A. , Stepnaya , O.A. , 2009 . 
+Identiﬁcation and characterization of the metal ion-dependent L-alanoyl-D-glutamate peptidase encoded by bacteriophage T5 . 
+FEBS J. 276 , 7329e7342 . 
+Miroshnikov , K.A. , Faizullina , N.M. , Sykilinda , N.N. , Mesyanzhinov , V.V. , 2006 . 
+Properties of the endolytic transglycosylase encoded by gene 144 of Pseudomonas aeruginosa bacteriophage phiKZ . 
+Biochemistry ( Mosc ) 71 , 300e305 . 
+Morita , M. , Tanji , Y. , Orito , Y. , Mizoguchi , K. , Soejima , A. , Unno , H. , 2001 . 
+Functional analysis of antibacterial activity of Bacillus amyloli-quefaciens phage endolysin against gram-negative bacteria . 
+FEBS Lett . 
+500 , 56e59 . 
+Nakimbugwe , D. , Masschalck , B. , Atanassova , M. , Zewdie-Bosuner , A. , Michiels , C.W. , 2006 . 
+Comparison of bactericidal activity of six lysozymes at atmospheric pressure and under high hydrostatic pressure . 
+Int . 
+J. Food Microbiol . 
+108 , 355e363 . 
+Nariya , H. , Miyata , S. , Tamai , E. , Sekiya , H. , Maki , J. , Okabe , A. , 2011 . 
+Identiﬁcation and characterization of a putative endolysin encoded by episomal phage phiSM101 of Clostridium perfringens . 
+Appl . 
+Microbiol . 
+Biotechnol . 
+90 , 1973e1979 . 
+Paradis-Bleau , C. , Cloutier , I. , Lemieux , L. , Sanschagrin , F. , Laroche , J. , Auger , M. , Garnier , A. , Levesque , R.C. , 2007 . 
+Peptidoglycan lytic activity of the Pseudomonas aeruginosa phage phiKZ gp144 lytic transglycosylase . 
+FEMS Microbiol . 
+Lett . 
+266 , 201e209 . 
+Park , J.T. , Johnson , M.J. , 1949 . 
+A submicrodetermination of glucose . 
+J. Biol . 
+Chem . 
+181 , 149e151 . 
+Perry , L.L. , SanMiguel , P. , Minocha , U. , Terekhov , A.I. , Shroyer , M.L. , Farris , L.A. , Bright , N. , Reuhs , B.L. , Applegate , B.M. , 2009 . 
+Sequence 
+analysis of Escherichia coli O157 : H7 bacteriophage PhiV10 and identiﬁcation of a phage-encoded immunity protein that modiﬁes the O157 antigen . 
+FEMS Microbiol . 
+Lett . 
+292 , 182e186 . 
+Pritchard , D.G. , Dong , S. , Baker , J.R. , Engler , J.A. , 2004 . 
+The bifunctional peptidoglycan lysin of Streptococcus agalactiae bacteriophage B30 . 
+Microbiology 150 , 2079e2087 . 
+Sambrook , J. , Russell , D.W. , 2001 . 
+Molecular Cloning : a Laboratory Manual , third ed . 
+Cold Spring Harbor Laboratory Press , New York . 
+Sao-Jose , C. , Parreira , R. , Vieira , G. , Santos , M.A. , 2000 . 
+The N-terminal region of the Oenococcus oeni bacteriophage fOg44 lysin behaves as a bona ﬁde signal peptide in Escherichia coli and as a cis-inhibitory element , preventing lytic activity on oenococcal cells . 
+J. Bacteriol . 
+182 , 5823e5831 . 
+Sass , P. , Bierbaum , G. , 2007 . 
+Lytic activity of recombinant bacteriophage phi11 and phi12 endolysins on whole cells and bioﬁlms of Staphylococcus aureus . 
+Appl . 
+Environ . 
+Microbiol . 
+73 , 347e352 . 
+Schleifer , K.H. , Kandler , O. , 1972 . 
+Peptidoglycan types of bacterial cell walls and their taxonomic implications . 
+Bacteriol . 
+Rev. 36 , 407e477 . 
+Schuch , R. , Nelson , D. , Fischetti , V.A. , 2002 . 
+A bacteriolytic agent that detects and kills Bacillus anthracis . 
+Nature 418 , 884e889 . 
+Shin , H. , Lee , J.H. , Lim , J.A. , Kim , H. , Ryu , S. , 2012 . 
+Complete genome sequence of Salmonella enterica serovar Typhimurium bacteriophage SPN1S . 
+J. Virol . 
+86 , 1284e1285 . 
+Summer , E.J. , Berry , J. , Tran , T.A. , Niu , L. , Struck , D.K. , Young , R. , 2007 . 
+Rz / Rz1 lysis gene equivalents in phages of Gram-negative hosts . 
+J. Mol . 
+Biol . 
+373 , 1098e1112 . 
+Sun , Q. , Kuty , G.F. , Arockiasamy , A. , Xu , M. , Young , R. , Sacchettini , J.C. , 2009 . 
+Regulation of a muralytic enzyme by dynamic membrane topology . 
+Nat . 
+Struct . 
+Mol . 
+Biol . 
+16 , 1192e1194 . 
+Turner , M.S. , Hafner , L.M. , Walsh , T. , Giffard , P.M. , 2004 . 
+Identiﬁcation , characterisation and speciﬁcity of a cell wall lytic enzyme from Lactobacillus fermentum BR11 . 
+FEMS Microbiol . 
+Lett . 
+238 , 9e15 . 
+Turner , M.S. , Waldherr , F. , Loessner , M.J. , Giffard , P.M. , 2007 . 
+Antimicrobial activity of lysostaphin and a Listeria monocytogenes bacteriophage endolysin produced and secreted by lactic acid bacteria . 
+Syst . 
+Appl . 
+Microbiol . 
+30 , 58e67 . 
+Uchiyama , J. , Takemura , I. , Hayashi , I. , Matsuzaki , S. , Satoh , M. , Ujihara , T. , Murakami , M. , Imajoh , M. , Sugai , M. , Daibata , M. , 2011 . 
+Characterization of lytic enzyme open reading frame 9 ( ORF9 ) derived from Enterococcus faecalis bacteriophage phiEF24C . 
+Appl . 
+Environ . 
+Microbiol . 
+77 , 580e585 . 
+Xu , M. , Arulandu , A. , Struck , D.K. , Swanson , S. , Sacchettini , J.C. , Young , R. , 2005 . 
+Disulﬁde isomerization after membrane release of its SAR domain activates P1 lysozyme . 
+Science 307 , 113e117 . 
+Young , R. , Way , J. , Way , S. , Yin , J. , Syvanen , M. , 1979 . 
+Transposition mutagenesis of bacteriophage lambda : a new gene affecting cell lysis . 
+J. Mol . 
+Biol . 
+132 , 307e322 . 
+Zdobnov , E.M. , Apweiler , R. , 2001 . 
+InterProScan - an integration platform for the signature-recognition methods in InterPro . 
+Bioinformatics 17 , 847e848 . 
+Zhang , N. , Young , R. , 1999 . 
+Complementation and characterization of the nested Rz and Rz1 reading frames in the genome of bacteriophage lambda . 
+Mol . 
+Gen. Genet . 
+262 , 659e667

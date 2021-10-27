@@ -1,0 +1,254 @@
+Contents lists available at SciVerse ScienceDirect 
+Biochemical and Biophysical Research Communications
+journal homepage : www.elsevier.com/locate/ybbrc 
+2 + 
+The MgtR regulatory peptide negatively controls expression of the 
+MgtA Mg 
+transporter in Salmonella enterica serovar Typhimurium 
+Eunna Choi a , Ki-Young Lee a , b , Dongwoo Shin a , b , ⇑ 
+a Department of Molecular Cell Biology , Sungkyunkwan University School of Medicine , Suwon 440-746 , Republic of Korea b Samsung Biomedical Research Institute , Sungkyunkwan University School of Medicine , Suwon 440-746 , Republic of Korea 
+i n f o 
+a b s t r a c t 
+a r t i c l e 
+MgtR is a 30 amino acid peptide that is encoded from the mgtCBR operon . 
+This peptide has recently been demonstrated to interact with the MgtC virulence protein and lead to MgtC degradation . 
+In the present study , we reveal that the MgtA Mg2 + transporter is another protein under the direct control of the MgtR peptide . 
+Salmonella expresses the MgtA transporter only in Mg2 + depleted conditions . 
+We determined that the MgtR peptide limits levels of the MgtA protein at low Mg2 + concentrations . 
+MgtA expression increased in a Salmonella strain lacking MgtR but decreased in a strain overexpressing MgtR . 
+Moreover , we found that the MgtR peptide is necessary for the MgtA protein to be induced at the normal timing upon Mg2 + starvation . 
+The MgtR peptide did not affect transcription of the mgtA gene but speciﬁcally bound to the MgtA transporter in vivo , resembling the features of MgtR-regulated MgtC expression . 
+MgtR-mediated regulation of MgtA expression was biologically signiﬁcant because the lack of MgtR enhanced Salmonella growth in low Mg2 + . 
+2011 Elsevier Inc. . 
+All rights reserved . 
+Article history : 
+Received 14 November 2011 Available online 1 December 2011 
+Keywords : Salmonella 
+MgtA MgtR Gene regulation Mg2 + homeostasis 
+1 . 
+Introduction 
+Mg2 + is an abundant and essential metal in living cells [ 1 ] . 
+This cation participates in many cellular activities : it functions as a cofactor for various enzymatic reactions requiring ATP and also maintains structures of membranes and ribosomes [ 2 ] . 
+Although these facts suggest that cells should carry means to control intracellular concentration of Mg2 + at appropriate levels , only a few studies have revealed molecular mechanisms of how cells achieve Mg2 + homeostasis . 
+Many bacterial species utilize multiple membrane transporters to import Mg2 + [ 3 ] . 
+To date , three different Mg2 + transporters , CorA , MgtA , and MgtB proteins , have been identiﬁed in Salmonella enterica serovar Typhimurium [ 4 ] . 
+The CorA protein is constitutively expressed [ 5 ] . 
+In contrast , expression of the MgtA and MgtB proteins , encoded from the mgtA gene and mgtCBR operon , respectively , are induced only in cells starved of Mg2 + [ 5,6 ] . 
+Regulation of the mgtA and mgtB genes occurs at both the transcriptional and posttranscriptional levels and shares similar mechanisms . 
+First , when Salmonella grows at micromolar concentrations of Mg2 + , the low Mg2 + signal activates the PhoP protein , a response regulator of the PhoP/PhoQ two-component system [ 7 ] . 
+The activated PhoP protein 
+⇑ Corresponding author . 
+Address : Department of Molecular Cell Biology , Samsung Biomedical Research Institute , Sungkyunkwan University School of Medicine , 300 Chunchun-dong , Jangan-gu , Suwon 440-746 , Republic of Korea . 
+Fax : +82 31 299 6229 . 
+E-mail address : shind@skku.edu ( D. Shin ) . 
+then binds to promoters of the mgtA gene and mgtCBR operon , resulting in their transcription initiation [ 8,9 ] . 
+Secondly , the leader regions of mgtA and mgtCBR act as riboswitches to control expression of the MgtA and MgtB transporters at the posttranscriptional level [ 10 ] . 
+When intracellular Mg2 + concentrations reach certain levels , Mg2 + binds to the leader sequences of mgtA and mgtCBR to form mRNA structures that inhibit transcriptional elongation [ 10 ] . 
+This posttranscriptional control allows Salmonella to produce MgtA and MgtB proteins exclusively under Mg2 + - limited environments . 
+Therefore , even if transcription of mgtA and mgtCBR is promoted at millimolar Mg2 + concentrations by the acidic pH-activated PhoP [ 11 ] , both the MgtA and MgtB transporters are not expressed due to the function of the leader sequences [ 10,11 ] . 
+Expression of the MgtB protein is also negatively controlled by AmgR RNA that is complementary to the mgtC portion of the mgtCBR mRNA [ 12 ] . 
+In response to low Mg2 + , the PhoP protein directly activates transcription of the antisense AmgR RNA from the mgtC -- mgtB intergenic region [ 12 ] . 
+When paired with AmgR , the mgtCBR message is degraded in a process requiring RNaseE [ 12 ] . 
+MgtR is an mgtCBR-encoded 30 amino acid peptide and predicted to be localized in the inner membrane [ 13 ] . 
+When co-expressed with the MgtC and MgtB proteins in low Mg2 + concentrations , the MgtR peptide directly interacts with the MgtC protein to lead MgtC degradation by the FtsH protease [ 13 ] . 
+Consistent with the notion that the MgtC protein is necessary for Salmonella 's survival inside macrophages [ 14 ] , the reduction of MgtC levels resulting from MgtR overexpression impairs Salmonella 's replication withi macrophages [ 13 ] . 
+The MgtR peptide displays no effect on expression of the MgtB protein [ 13 ] and thus MgtC has been the only protein that is regulated by MgtR . 
+In the present study , we report that the MgtR peptide also directly targets the MgtA Mg2 + transporter . 
+This regulatory peptide binds to the MgtA protein in vivo and negatively controls the levels and timing of MgtA expression . 
+We also found that the lack of MgtR enhances MgtA-mediated Mg2 + uptake . 
+0006-291X / $ - see front matter 2011 Elsevier Inc. . 
+All rights reserved . 
+doi :10.1016 / j.bbrc .2011.11.107 
+2. Materials and methods
+2.1. Bacterial strains, plasmids and growth conditions
+Bacterial strains and plasmids used in this study are shown in Table 1 . 
+S. enterica serovar Typhimurium strains were derived from strain 14028s . 
+Phage P22-mediated transductions were conducted as described [ 15 ] . 
+Bacteria were grown at 37 C in N-minimal med-ium [ 6 ] adjusted to pH 7.7 and supplemented with 0.1 % casamino acids , 38 mM glycerol , and different concentrations of MgCl2 . 
+Ampicillin ( Ap ) and kanamycin ( Km ) were used at 50 lg/ml . 
+Iso-propyl-b-D-thiogalactopyranoside ( IPTG ) was used at 0.1 or 0.5 mM . 
+2.2. Construction of bacterial strains
+S. Typhimurium strains carrying gene deletion were constructed by using the one-step gene inactivation method [ 16 ] . 
+For deletion of the mgtR , mgtCB , mgtCBR and corA genes , the KmR cassette from plasmid pKD4 [ 16 ] was ampliﬁed using primer pairs DEL-mgtR-F / DEL-mgtR-R , DEL-mgtC-F/DEL-mgtB-R , DEL-mgtC-F/DEL-mgtR-R , and DEL-corA-F/DEL-corA-R , respectively . 
+The resulting PCR products were integrated into the chromosome of strain 14028s as described [ 16 ] . 
+The KmR cassette was removed using plasmid pCP20 [ 16 ] . 
+Deletion of the corresponding genes was veriﬁed by colony PCR . 
+The strain EN336 expresses the MgtA protein with a HA tag at the C-terminus in the normal mgtA chromosomal location . 
+For its construction , the KmR cassette was ampliﬁed using the primer pairs mgtA-HA-F/mgtA-HA-R and integrated into the 30end of the mgtA gene . 
+The KmR cassette was removed from the resulting strain using pCP20 , and the presence of a HA-tag at the C-terminus of MgtA was conﬁrmed by nucleotide sequencing . 
+The sequences of primers used are indicated in Table S1 . 
+2.3. Plasmid construction
+Plasmid pMgtR expressing the MgtR peptide from the lac promoter was constructed . 
+The mgtR gene was ampliﬁed using primer pairs EX-mgtR-F/EX-mgtR-R and chromosomal DNA from the 14028s strain . 
+The PCR products were puriﬁed and introduced between BamHI and PstI restriction sites of pUHE21-2lacIq [ 17 ] . 
+For the bacterial two-hybrid assay , plasmids pT18-MgtA , pT18-MgtC , pT25-MgtR and pT25-FeoA were constructed . 
+The mgtA , mgtC , mgtR and feoA genes were ampliﬁed by PCR using primer pairs TH-mgtA-F/TH-mgtA-R , TH-mgtC-F/TH-mgtC-R , TH-mgtR-F/TH-mgtR-R and TH-feoA-F/TH-feoA-R , respectively . 
+After puriﬁcation , the PCR products were introduced between PstI and BamHI sites of the plasmid vector pKT25 [ 18 ] or between the BamHI and EcoRI sites of the pUT18 [ 18 ] . 
+Sequences of particular genes on the recombinant plasmids were conﬁrmed by nucleotide sequencing . 
+The sequences of primers used are indicated in Table S1 . 
+2.4. Western blot analysis
+Salmonella strains expressing the MgtA-HA protein were grown in 20 ml of N-minimal medium . 
+When OD600 values of the cultures reached 0.5 , bacterial cells were washed with phosphatebuffered saline ( PBS ) , suspended in 0.5 ml of PBS and opened by sonication . 
+Total protein concentrations were determined by the BCA method . 
+Whole-cell lysates containing 25 lg of total protein were resolved on 12 % SDS polyacrylamide gels , transferred to nitrocellulose membranes and analyzed by Western blot using monoclonal anti-HA ( Sigma ) or anti-DnaK antibodies ( Stressgen ) . 
+Blots were developed by using anti-mouse IgG horseradish peroxidase-linked antibody ( GE Healthcare ) and the ECL detection system ( GE Healthcare ) . 
+2.5. RNA isolation and quantitative real-time RT-PCR (qRT-PCR) analysis
+Bacteria were grown in 10 ml of N-minimal medium to OD600 = 0.5 -- 0.6 . 
+One half milliliters of the culture was removed and mixed with 1 ml of RNAprotect Bacteria Reagent ( Qiagen ) , and RNA was isolated using the RNeasy Mini Kit ( Qiagen ) . 
+The RNA sample was treated further with RNase-free DNase ( Ambion ) . 
+cDNA was synthesized by using Omnitranscript Reverse Transcription reagents ( Qiagen ) , random primers ( Invitrogen ) and 0.5 lg of template RNA . 
+Amounts of cDNA were quantiﬁed by real-time PCR using SYBR Green PCR Master Mix ( Applied Biosystems ) with an ABI7300 Sequence Detection System ( Applied Biosystems ) . 
+The primers used for detection of cDNA corresponding to the mgtA mRNA and 16S rRNA were Q-mgtA-F ( 50-TAATTGCCACAAA-ACTTATG-30 ) / Q-mgtA-R ( 50-TCGCGGGAGAGGGGTGGGTT-30 ) and Q-rrsH-F ( 50-CCAGCAGCCGCGGTAAT-30 ) / Q-rrsH-R ( 50-TTTACGCCCA GTAATTCCGATT-30 ) , respectively . 
+Transcription levels of each gene were calculated from a standard curve obtained by PCR with the same primers and serially diluted genomic DNA . 
+mRNA levels of the mgtA gene were normalized to 16S rRNA levels . 
+Table 1 
+Bacterial strains and plasmids used in this study . 
+Description 
+Strain or plasmid 
+Reference or source 
+S. enterica serovar Typhimurium 14028s EN336 EN341 EN343 EN477 EN553 E. coli BTH101 Plasmids pUHE21-2lacIq pMgtR pKD4 pKD46 pCP20 pKT25 pUT18 pT18-MgtA pT25-MgtR pT18-MgtC pT25-FeoA 
+[ 27 ] 
+wild-type mgtA-HA 
+This study This study This study This study This study 
+DmgtR : : KmR mgtA-HA DmgtR : : KmR DcorA DmgtCBR : : KmR DcorA DmgtCB : : KmR 
+[ 19 ] 
+F - cya-99 araD139 galE15 galK16 rpsL1 ( Strr ) hsdR2 mcrA1 mcrB1 
+rep R pMBI Ap lacIq 
+[ 17 ] 
+pUHE21-2lacIq mgtR repR6Kc ApR FRT KmR FRT rep ts R pSC101 Ap ParaBAD c b exo rep ts pSC101 ApR CmR cI857 kPRﬂp P p15A ori KmR lac Plac ColEI ori ApR pUT18 mgtA pKT25 mgtR pUT18 mgtC pKT25 feoA 
+This study [ 16 ] [ 16 ] [ 16 ] [ 18 ] [ 18 ] This study This study This study This stud 
+2.6. Bacterial two-hybrid (BACTH) assay
+To assess protein ( or peptide ) -- protein interactions in vivo , a BACTH assay was conducted as described [ 19 ] . 
+The Escherichia coli BTH101 ( cya ) strain was co-transformed with derivatives of the pUT18 and pKT25 plasmids . 
+The strains were grown overnight at 30 C in LB supplemented with Ap ( 50 lg/ml ) , Km ( 50 lg/ml ) and IPTG ( 0.5 mM ) and b-galactosidase activity was determined in the cultures as described [ 20 ] . 
+2.7. Measurement of bacterial growth
+Growth of Salmonella strains with or without the mgtR gene were monitored as follows . 
+Overnight cultures were grown in Nminimal medium containing 1 mM MgCl2 . 
+After washing twice with Mg2 + - free medium , cells were diluted 1:100 into wells of a 96-well plate containing 150 ll of 1 mM or 10 lM MgCl2 medium and covered with mineral oil to prevent evaporation . 
+By using a Victor3 plate reader ( PerkinElmer ) , bacterial cells were cultivated at 37 C with shaking , and their OD600 values were measured every 5 min and up to 5 h. 
+3. Results
+3.1 . 
+The MgtR peptide negatively regulates levels of the MgtA protein 
+In S. Typhimurium , the MgtR peptide that is encoded from the mgtCBR operon has been demonstrated to negatively control expression of the MgtC virulence protein [ 13 ] . 
+We initially wanted to explore whether the MgtR peptide could affect expression of the MgtA Mg2 + transporter . 
+For this purpose , we constructed a strain expressing the MgtA protein with a HA epitope at its C-terminus from the normal chromosomal location . 
+Western blot analysis determined that when bacterial cells were grown with 10 lM Mg2 + , which is a condition allowing MgtA expression [ 5,21 ] , levels of the MgtA protein were higher in the mgtR strain than in the mgtR + strain ( Fig. 1A , compare lanes 2 and 4 ) . 
+Consistent with the notion that MgtA expression is repressed by milimolar concentrations of Mg2 + [ 21 ] , we were unable to detect the MgtA protein in both the mgtR + and mgtR strains grown with 1 mM Mg2 + ( Fig. 1A , lanes 1 and 3 ) . 
+As these results showed the possibility of MgtR as a factor repressing MgtA expression , we reasoned that overexpression of the MgtR peptide might reduce the MgtA protein levels . 
+To test this idea , we constructed an mgtR deletion strain carrying a pMgtR plasmid in which expression of the mgtR gene is under control of the lac promoter . 
+Western blot analysis revealed that the IPTG-in-duced MgtR peptide reduces levels of the MgtA protein expressed at 10 lM Mg2 + ( Fig. 1B , compare lanes 3 and 5 ) . 
+Cumulatively , these results indicate that the MgtR peptide acts as a negative regulator for MgtA expression . 
+3.2. The MgtR peptide controls the timing of MgtA expression
+To further elucidate the role of MgtR in expression of the MgtA protein , we examined expression kinetics of MgtA in mgtR + and mgtR strains . 
+We initially grew bacteria in medium supplemented with 1 mM Mg2 + to suppress MgtA production and then transferred them into medium with 10 lM Mg2 + to induce MgtA expression . 
+Western blot analysis revealed that deletion of the mgtR gene enabled Salmonella to express the MgtA protein in low Mg2 + concentrations at an earlier time : when transferred to 10 lM Mg2 + , the mgtR + strain began to accumulate the MgtA protein after 45 min , whereas the mgtR strain did so after 30 min ( Fig. 1C ) . 
+We also found that the MgtA levels increased at all time points after induction in the absence of MgtR ( Fig. 1C ) . 
+Thus , these results indicate that MgtR can control not only the levels but also the timing of MgtA expression . 
+3.3. MgtR does not affect transcription of the mgtA gene
+We wondered whether the MgtR peptide inhibits transcription of the mgtA gene so that it reduces MgtA protein levels . 
+qRT-PCR revealed that the wild-type strain highly expresses the mgtA mRNA at 10 lM Mg2 + , levels of which were hardly changed by deletion of the mgtR gene ( Fig. 2A ) . 
+We also found that the overexpressed MgtR peptide does not affect mgtA transcription : when grown at 10 lM Mg2 + , the mgtR deletion strain carrying the pMgtR plasmid expressed the mgtA mRNA at similar levels regardless of MgtR-induction ( Fig. 2B ) . 
+Thus , these results suggest that the MgtR peptide controls MgtA expression at the posttranscriptional level . 
+Fig. 1 . 
+The MgtR peptide negatively controls the levels and timing of MgtA expression . 
+Western blot analysis was conducted on cell extracts prepared from Salmonella strains expressing the MgtA-HA protein from the normal chromosomal location ( A and B ) . 
+Strains were grown in N-minimal medium supplemented with 1 mM ( H , high ) or 10 lM ( L , low ) Mg2 + . 
+( A ) The MgtA-HA protein levels were determined in mgtR + ( WT , EN336 ) and mgtR ( DmgtR , EN343 ) strains . 
+( B ) The MgtA-HA protein expressed in the EN343 strain carrying the pMgtR plasmid . 
+IPTG ( mM ) was added into medium as indicated . 
+( C ) The levels of MgtA-HA protein were determined using cells extracts from the mgtR + ( WT , EN336 ) and mgtR ( DmgtR , EN343 ) strains that were grown in N-minimal medium containing 1 mM Mg2 + , transferred into medium with 10 lM Mg2 + , and harvested at th designated times . 
+The DnaK protein served as a control . 
+3.4. The MgtR peptide directly interacts with the MgtA protein
+The MgtR peptide was demonstrated to control expression of the MgtC protein at the posttranscriptional level . 
+This regulatory peptide directly bound to the MgtC protein in vivo and promoted MgtC degradation [ 13 ] . 
+Therefore , we reasoned that MgtR might also control MgtA expression via the peptide -- protein interaction . 
+To test this idea , we assessed the interaction between the MgtA protein and the MgtR peptide in vivo by employing a bacterial two-hybrid system [ 19 ] . 
+We constructed a series of plasmids in which proteins were expressed as forms fused to either the T18 or T25 catalytic domain of Bordetella pertussis adenylate cyclase . 
+We then introduced these plasmids into the E. coli BTH101 strain which lacks the endogenous adenylate cyclase activity . 
+A b-galac-tosidase assay determined that the BTH101 strain co-expressing the T18-MgtA and T25-MgtR fusion proteins displayed 14-fold higher levels of the enzyme activity than the strain co-expressing only the T18 and T25 domains ( Fig. 3 ) . 
+This result indicated that MgtA interacted with MgtR to complement adenylate cyclase activity , which consequently promoted cAMP-dependent expression of the lacZ gene . 
+We further validated the MgtA -- MgtR interaction . 
+Co-expression of the T18-MgtC and T25-MgtR fusion proteins in the BTH101 strain increased b-galactosidase activity by 5-fold over the control ( Fig. 3 ) , reproducing the result that MgtC binds to MgtR [ 13 ] . 
+Moreover , we observed that MgtA does not interact with FeoA , a cytosolic protein involved in ferrous iron uptake [ 22 ] : the BTH101 strain co-expressing the T18-MgtA and T25-FeoA fusion proteins produced b-galactosidase at levels similar to the control ( Fig. 3 ) . 
+Cumulatively , our results show that the MgtR peptide speciﬁcally binds to the MgtA protein in vivo . 
+3.5. MgtR-regulated MgtA expression affects Salmonella’s growth in Mg2+-limited conditions
+As deletion of the mgtR gene enhanced expression of the MgtA Mg2 + transporter in low Mg2 + ( Fig. 1A ) , we hypothesized that the mgtR deletion mutant might grow better than the wild-type strain under such a condition . 
+However , these two strains grew similarly in medium containing 10 lM Mg2 + ( data not shown ) . 
+We noted the fact that Salmonella can also import Mg2 + via other transporters such as CorA and MgtB [ 4 ] . 
+In addition , the MgtC protein contrib-utes to Salmonella 's growth in Mg2 + - deprived conditions [ 14 ] , though it is not a Mg2 + transporter per se [ 23,24 ] . 
+We reasoned that these proteins might mask the effect of MgtR-regulated MgtA expression on Salmonella growth . 
+Therefore , we reevaluated the role of MgtR using an EN553 strain in which the corA , mgtB , and mgtC genes were deleted . 
+We found that in 10 lM Mg2 + , the EN553 strain can grow to higher levels in the absence of MgtR than its presence ( Fig. 4A ) . 
+In contrast , when expression of the MgtA protein was repressed in 1 mM Mg2 + ( Fig. 1A ) , both the mgtR + and mgtR strains grew similarly ( Fig. 4B ) . 
+Cumulatively , these results suggest that the increase of MgtA expression resulting from mgtR deletion enhances Mg2 + uptake in Mg2 + - limited conditions . 
+4. Discussion
+In S. Typhimurium , expression of the MgtA Mg2 + transporter is regulated in highly complex fashions . 
+As external Mg2 + concentrations decrease to micromolar levels , the PhoP response regulator that is activated by the PhoQ sensor promotes transcription of the mgtA gene [ 7,21 ] . 
+Consistent with notion that the PhoP/PhoQ system can also be activated by two other signals , acidic pH and antimicrobial peptides [ 25,26 ] , the acidic pH-activated PhoP protein can promote transcription initiation of mgtA even at millimolar Mg2 + concentrations [ 11 ] . 
+However , under this circumstance , the mgtA gene is unable to be fully transcribed [ 11 ] because the mgtA leader sequences bind to cytoplasmic Mg2 + and form a distinct structure that leads to transcriptional termination [ 10 ] . 
+In addition to these regulations allowing the MgtA transporter to be expressed only under Mg2 + - deplete conditions , our results now reveal that Salmonella also possesses the mechanism to limit levels of the MgtA protein that is produced at low Mg2 + concentrations . 
+In response to low Mg2 + , the mgtCBR operon co-expresses the MgtC virulence protein , MgtB Mg2 + transporter and MgtR peptide [ 13 ] . 
+Once expressed , the MgtR peptide , which is predicted to be localized in the inner membrane , acts on the MgtC protein to repress MgtC levels [ 13 ] . 
+Our data show that the MgtA Mg2 + transporter is another protein of which expression is negatively controlled b the MgtR peptide : MgtA expression was enhanced in the mgtR deletion mutant but reduced in the strain overexpressing MgtR from a heterologous promoter ( Fig. 1 ) . 
+MgtR-regulated MgtA expression seems to be physiologically relevant because deletion of the mgtR gene enhanced growth of the Salmonella strain lacking the corA and mgtCB genes in low Mg2 + concentrations ( Fig. 4 ) , possibly by increasing MgtA-mediated Mg2 + uptake . 
+How then could the MgtR peptide repress MgtA expression ? 
+The MgtR peptide has been dem-onstrated to directly interact with the MgtC protein and proposed to unfold MgtC in the inner membrane [ 13 ] . 
+Interaction with MgtR leads to MgtC degradation by the membrane-bound FtsH protease [ 13 ] , though the precise role of MgtR in this event remains unknown . 
+We determined that the MgtR peptide speciﬁcally binds to the MgtA protein in vivo ( Fig. 3 ) without affecting transcription of the mgtA gene ( Fig. 2 ) . 
+Therefore , we propose that the MtgA transporter bound by the MgtR peptide might undergo the proteolytic pathway , similar to that of the MgtC protein . 
+What is the biological signiﬁcance of MgtR-controlled MgtA expression ? 
+Salmonella possesses at least three different Mg2 + transporters including CorA , MgtA and MgtB [ 4 ] . 
+In contrast to the constitutively expressed CorA protein [ 5 ] , two common mechanisms allow the MgtA and MgtB transporters to be produced only in low Mg2 + : the PhoP regulator activates transcription of the mgtA and mgtB genes [ 8,9,21 ] , message of which can be fully transcribed by function of the leader sequences [ 10 ] . 
+However , as the MgtA and MgtB proteins can import Mg2 + with similar efﬁciency [ 5 ] , there could be a condition where Salmonella needs to express the MgtA and MgtB proteins differentially . 
+The AmgR RNA has recently been identiﬁed as a regulator to limit levels of the MgtB protein that is produced in low Mg2 + concentrations [ 12 ] . 
+We propose that , together with the AmgR RNA , the MgtR peptide could be used for Sal-monella to achieve differential expression of MgtA and MgtB . 
+When activated by the low Mg2 + signal , the PhoP regulator promotes synthesis of both the MgtR peptide [ 13 ] and AmgR RNA [ 12 ] . 
+However , as PhoP displays much higher afﬁnity for the mgtCBR promoter than amgR promoter [ 12 ] , MgtR expression could be earlier than AmgR expression upon PhoP activation . 
+Consequently , the MgtRmediated MgtA degradation could take place preceding the AmgR-repression of MgtB , lowering the MgtA : MgtB ratio . 
+By balancing levels of the two PhoP-activated Mg2 + transporters , this regulatory mechanism could be important for Salmonella to maintain Mg2 + homeostasis . 
+Fig. 2 . 
+Neither deletion nor overexpression of mgtR affects transcription of the mgtA gene . 
+qRT-PCR was performed using RNA isolated from Salmonella strains that were grown in N-minimal medium containing 1 mM ( H , high ) or 10 lM ( L , low ) Mg2 + . 
+( A ) The mgtA mRNA levels were determined in wild-type ( WT , 14028s ) and mgtR deletion ( DmgtR , EN341 ) strains . 
+( B ) Levels of mgtA transcripts expressed in the EN341 strain carrying the pMgtR plasmid in the presence ( + ) or absence ( ) of 0.5 mM IPTG . 
+The relative mRNA levels in the y-axis correspond to the mgtA mRNA levels divided by 16S rRNA levels . 
+The mean values and standard deviations of three independent experiments are shown . 
+Fig. 3 . 
+The MgtR peptide binds to the MgtA protein in vivo . 
+Protein ( or peptide ) -- protein interaction was assessed using a bacterial two-hybrid system [ 19 ] . 
+b-galactosidase activity ( Miller units ) was determined in E. coli BTH101 strains harboring plasmids co-expressing T18 + T25 , T18-MgtA + T25-MgtR , T18-MgtC + T25-MgtR and T18-MgtA + T25-FeoA . 
+The mean values and standard deviations of three independent experiments are shown . 
+Acknowledgments
+This research was supported by Basic Science Research Program through the National Research Foundation of Korea ( NRF ) funded by the Ministry of Education , Science and Technology ( 2009-0069104 ) . 
+Appendix A. Supplementary data
+Supplementary data associated with this article can be found , in the online version , at doi :10.1016 / j.bbrc .2011.11.107 . 
+References 
+[ 1 ] A.M. Romani , A. Scarpa , Regulation of cellular magnesium , Frontiers in Bioscience 5 ( 2000 ) D720 -- D734 . 
+[ 2 ] R.A. Reinhart , Magnesium metabolism . 
+A review with special reference to the relationship between intracellular content and serum levels , Archives of Internal Medicine 148 ( 1988 ) 2415 -- 2420 . 
+[ 3 ] D.G. Kehres , M.E. Maguire , Structure , properties and regulation of magnesium transport proteins , BioMetals 15 ( 2002 ) 261 -- 270 . 
+[ 4 ] R.L. Smith , M.E. Maguire , Microbial magnesium transport : unusual transporters searching for identity , Molecular Microbiology 28 ( 1998 ) 217 -- 226 . 
+[ 5 ] M.D. Snavely , J.B. Florer , C.G. Miller , M.E. Maguire , Magnesium transport in Salmonella typhimurium : 28Mg2 + transport by the CorA , MgtA , and MgtB systems , Journal of Bacteriology 171 ( 1989 ) 4761 -- 4766 . 
+[ 6 ] M.D. Snavely , S.A. Gravina , T.T. Cheung , C.G. Miller , M.E. Maguire , Magnesium transport in Salmonella typhimurium . 
+Regulation of mgtA and mgtB expression , Journal of Biological Chemistry 266 ( 1991 ) 824 -- 829 . 
+[ 7 ] E. Garcia Vescovi , F.C. Soncini , E.A. Groisman , Mg2 + as an extracellular signal : environmental regulation of Salmonella virulence , Cell 84 ( 1996 ) 165 -- 174 . 
+[ 8 ] D. Shin , E.A. Groisman , Signal-dependent binding of the response regulators PhoP and PmrA to their target promoters in vivo , Journal of Biological Chemistry 280 ( 2005 ) 4089 -- 4094 . 
+[ 9 ] I. Zwir , D. Shin , A. Kato , K. Nishino , T. Latiﬁ , F. Solomon , J.M. Hare , H. Huang , E.A. Groisman , Dissecting the PhoP regulatory network of Escherichia coli and Salmonella enterica , Proceedings of the National Academy of Sciences of the United States of America 102 ( 2005 ) 2862 -- 2867 . 
+[ 10 ] M.J. Cromie , Y. Shi , T. Latiﬁ , E.A. Groisman , An RNA sensor for intracellular Mg2 + , Cell 125 ( 2006 ) 71 -- 84 . 
+[ 11 ] E. Choi , E.A. Groisman , D. Shin , Activated by different signals , the PhoP/PhoQ two-component system differentially regulates metal uptake , Journal of Bacteriology 191 ( 2009 ) 7174 -- 7181 . 
+[ 12 ] E.J. Lee , E.A. Groisman , An antisense RNA that governs the expression kinetics of a multifunctional virulence gene , Molecular Microbiology 76 ( 2010 ) 1020 -- 1033 . 
+[ 13 ] E. Alix , A.B. Blanc-Potard , Peptide-assisted degradation of the Salmonella MgtC virulence factor , EMBO Journal 27 ( 2008 ) 546 -- 557 . 
+[ 14 ] A.B. Blanc-Potard , E.A. Groisman , The Salmonella selC locus contains a pathogenicity island mediating intramacrophage survival , EMBO Journal 16 ( 1997 ) 5376 -- 5385 . 
+[ 15 ] R.W. Davis , D. Bolstein , J.R. Roth , Advanced Bacterial Genetics , Cold Spring Harbor Laboratory Press , Cold Spring Harbor , NY , 1980 . 
+[ 16 ] K.A. Datsenko , B.L. Wanner , One-step inactivation of chromosomal genes in Escherichia coli K-12 using PCR products , Proceedings of the National Academy of Sciences of the United States of America 97 ( 2000 ) 6640 -- 6645 . 
+[ 17 ] F.C. Soncini , E.G. Vescovi , E.A. Groisman , Transcriptional autoregulation of the Salmonella typhimurium phoPQ operon , Journal of Bacteriology 177 ( 1995 ) 4364 -- 4371 . 
+[ 18 ] G. Karimova , A. Ullmann , D. Ladant , Protein -- protein interaction between Bacillus stearothermophilus tyrosyl-tRNA synthetase subdomains revealed by a bacterial two-hybrid system , Journal of Molecular Microbiology and Biotechnology 3 ( 2001 ) 73 -- 82 . 
+[ 19 ] G. Karimova , J. Pidoux , A. Ullmann , D. Ladant , A bacterial two-hybrid system based on a reconstituted signal transduction pathway , Proceedings of the National Academy of Sciences of the United States of America 95 ( 1998 ) 5752 -- 5756 . 
+[ 20 ] J.H. Miller , Experiments in Molecular Genetics , Cold Spring Harbor Laboratory , Cold Spring Harbor , NY , 1972 
+[ 21 ] F.C. Soncini , E. Garcia Vescovi , F. Solomon , E.A. Groisman , Molecular basis of the magnesium deprivation response in Salmonella typhimurium : identiﬁcation of PhoP-regulated genes , Journal of Bacteriology 178 ( 1996 ) 5092 -- 5099 . 
+[ 22 ] M.L. Cartron , S. Maddocks , P. Gillingham , C.J. Craven , S.C. Andrews , Feotransport of ferrous iron into bacteria , BioMetals 19 ( 2006 ) 143 -- 157 . 
+[ 23 ] D. Gunzel , L.M. Kucharski , D.G. Kehres , M.F. Romero , M.E. Maguire , The MgtC virulence factor of Salmonella enterica serovar Typhimurium activates Na + , K + - ATPase , Journal of Bacteriology 188 ( 2006 ) 5586 -- 5594 . 
+[ 24 ] M.B. Moncrief , M.E. Maguire , Magnesium and the role of MgtC in growth of Salmonella typhimurium , Infection and Immunity 66 ( 1998 ) 3802 -- 3809 . 
+[ 25 ] M.W. Bader , S. Sanowar , M.E. Daley , A.R. Schneider , U. Cho , W. Xu , R.E. Klevit , H. Le Moual , S.I. Miller , Recognition of antimicrobial peptides by a bacterial sensor kinase , Cell 122 ( 2005 ) 461 -- 472 . 
+[ 26 ] L.R. Prost , M.E. Daley , V. Le Sage , M.W. Bader , H. Le Moual , R.E. Klevit , S.I. Miller , Activation of the bacterial sensor kinase PhoQ by acidic pH , Molecular Cell 26 ( 2007 ) 165 -- 174 . 
+[ 27 ] P.I. Fields , R.V. Swanson , C.G. Haidaris , F. Heffron , Mutants of Salmonella typhimurium that can not survive within the macrophage are avirulent , Proceedings of the National Academy of Sciences of the United States of America 83 ( 1986 ) 5189 -- 5193

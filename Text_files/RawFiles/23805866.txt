@@ -1,0 +1,386 @@
+Biochem . 
+J. ( 2013 ) 454 , 459 -- 466 ( Printed in Great Britain ) doi :10.1042 / BJ20121907 
+Structural basis for phosphorylation-triggered autophagic clearance of Salmonella
+Vladimir V. ROGOV * † 1 , Hironori SUZUKI ‡ 1 , Evgenij FISKIN § , Philipp WILD § , Andreas KNISS * , Alexis ROZENKNOP * § , Ryuichi KATO ‡ , Masato KAWASAKI ‡ , David G. MCEWAN § , Frank LÖHR * , Peter GÜNTERT * , Ivan DIKIC § 2 , Soichi WAKATSUKI ‡ 2 and Volker DÖTSCH * 2 * Institute of Biophysical Chemistry and Center for Biomolecular Magnetic Resonance , Goethe University , Max-van-Laue Str . 
+9 , 60438 Frankfurt am Main , Germany , † Institute of Protein Research , 142290 , Pushchino , Russia , ‡ Structural Biology Research Center , Photon Factory , Institute of Materials Structure Science , High Energy Accelerator Research Organization ( KEK ) , Tsukuba , Ibaraki 305-0801 , Japan , and § Buchmann Institute for Molecular Life Sciences and Institute of Biochemistry II , Goethe University , Theodor-Stern-Kai 7 , 60590 Frankfurt am Main , Germany 
+Selective autophagy is mediated by the interaction of autophagy modiﬁers and autophagy receptors that also bind to ubiquitinated cargo . 
+Optineurin is an autophagy receptor that plays a role in the clearance of cytosolic Salmonella . 
+The interaction between receptors and modiﬁers is often relatively weak , with typical values for the dissociation constant in the low micromolar range . 
+The interaction of optineurin with autophagy modiﬁers is even weaker , but can be signiﬁcantly enhanced through phosphorylation by the TBK1 { TANK [ TRAF ( tumour-necrosis-factor-receptor-associated factor ) - associated nuclear factor κB activator ] - binding kinase 1 } . 
+In the present study we describe the NMR and crystal structures of the autophagy modiﬁer LC3B ( microtubule-associated protein light chain 3 beta ) in complex with the LC3 interaction region of optineurin either phosphorylated or bearing phospho-mimicking mutations . 
+INTRODUCTION
+Autophagy is a process by which cells manage to deliver bulky cellular substrates , such as aggregates or damaged organelles , for degradation to the lysosome [ 1,2 ] . 
+Selectivity of the process is mediated by autophagy receptors that bind to cargo that is earmarked for degradation by modiﬁcation with ubiquitin [ 3 -- 4 ] . 
+Autophagy receptors also bind via a LIR [ LC3 ( microtubuleassociated protein light chain 3 ) interaction region ] to autophagy modiﬁers that belong to the MAP1/LC3/GABARAP ( γ-aminobutyric acid receptor-associated protein ) family and that are conjugated to phosphatidylethanolamine of the autophagosome membrane [ 5 -- 7 ] . 
+LIR motifs are short peptides with the consensus sequence xx with being an aromatic amino acid , most often tryptophan , and being a large aliphatic hydrophobic amino acid . 
+Both residues bind into deep hydrophobic pockets on the surface of autophagy modiﬁers [ 6 -- 10 ] . 
+Variation in the composition of the LIR sequences found in different proteins , and the apparent variation in the autophagic ` recognition code ' , raises the question how the speciﬁcity of LIR -- Atg8/LC3/GABARAP interactions are achieved . 
+This question is the subject of intense investigations , with a few completed studies on the selective interaction of the 
+The structures show that the negative charge induced by phosphorylation is recognized by the side chains of Arg11 and Lys51 in LC3B . 
+Further mutational analysis suggests that the replacement of the canonical tryptophan residue side chain of autophagy receptors with the smaller phenylalanine side chain in optineurin signiﬁcantly weakens its interaction with the autophagy modiﬁer LC3B . 
+Through phosphorylation of serine residues directly N-terminally located to the phenylalanine residue , the afﬁnity is increased to the level normally seen for receptor -- modiﬁer interactions . 
+Phosphorylation , therefore , acts as a switch for optineurin-based selective autophagy . 
+Key words : microtubule-associated protein light chain 3 beta ( LC3 ) , NMR spectroscopy , optineurin , protein -- protein interaction , selective autophagy , X-ray crystallography . 
+tryptophan-based [ 6 -- 9 ] , tyrosine-based [ 10 ] and non-canonical LIR sequences [ 11 ] . 
+The later study showed that the LIR sequence in the xenophagy receptor NDP52 ( nuclear domain 10 protein 52 ) comprises the sequence ILVV and lacks the aromatic residue ( W/F/Y ) found in the canonical LIRs . 
+Instead , the NDP52 LIR motif binds a hydrophobic pocket on the Ubl domain of LC3C via three consecutive hydrophobic residues ( LVV ) , with Ile133 being dispensable for this interaction . 
+In a recent study , we have found another feature of LIR motifs affecting speciﬁcity [ 12 ] . 
+We could show that the autophagy receptor OPTN ( optineurin ) is crucial for the clearance of cytosolic Salmonella bacteria . 
+The study revealed that phosphorylation of Ser177 located immediately N-terminal to the OPTN LIR motif by the TBK1 { TANK [ TRAF ( tumour-necrosis-factor-receptor-associated factor ) - associated nuclear factor κB activator ] - binding kinase 1 } signiﬁcantly enhanced the interaction with autophagy modiﬁers , whereas expression of a non-phosphorylatable mutant of OPTN impaired the clearance of cytosolic Salmonella [ 12 ] . 
+Many native LIR sequences ( Supplementary Figure S1 at http://www.biochemj.org/bj/454/bj4540459add.htm; for a comprehensive overview see [ 13 ] ) of autophagy receptors are preceded by one or more serine residues , suggesting that phosphorylation might be a general mechanism of regulation of autophagy . 
+To obtain insight into the mechanism of phosphorylation-triggered interaction between autophagy receptors and autophagy modiﬁers we performed extensive calorimetric and NMR studies of the interaction of LC3B and several mutants with the OPTN-LIR in various phosphorylation states . 
+Additionally we have solved the NMR structure of LC3B in complex with the phosphorylated LIR motif of OPTN and the crystal structures of LC3B free and in complex with a phosphomimicking LIR mutant . 
+Abbreviations used : Bnip3 , BCL2/adenovirus E1B 19 kDa interacting protein 3 ; GABARAP , γ-aminobutyric acid receptor-associated protein ; HSQC , heteronuclear single-quantum coherence ; ITC , isothermal titration calorimetry ; LC3B , microtubule-associated protein light chain 3 beta ; LIR , LC3 interaction region ; NDP52 , nuclear domain 10 protein 52 ; NBR1 , next to BRCA1 ( breast cancer 1 , early onset ) gene 1 protein ; OPTN , optineurin . 
+1 These authors contributed equally to this work . 
+2 Correspondence may be addressed to any of these authors ( email Ivan.Dikic@biochem2.de, soichi.wakatsuki@kek.jp or vdoetsch@em . 
+uni-frankfurt . 
+de ) . 
+Atomic co-ordinates and structure factors have been deposited in the Protein Data Bank with accession codes 3VTU , 3VTV , 3VTW and 2LUE . 
+NMR resonances assignments have been deposited in the Biological Magnetic Resonance Data Bank with accession code 18518 . 
+EXPERIMENTAL Protein and peptides sample preparation
+For the ITC ( isothermal titration calorimetry ) and NMR studies , the non-labelled and 13C,15N-labelled LC3/GABARAP proteins and their mutants were obtained using Ub-fusion technology [ 14 ] based on protocols described previously [ 10,14 ] . 
+The 95 % pure peptides representing the OPTN-LIR motif with different degrees of phosphorylation as well as their mutated versions were purchased from GenScript . 
+The peptides are summarized in Supplementary Figure S1 . 
+Before the experiment , the proteins and peptides were equilibrated with a buffer containing 70 mM Na2HPO4 and 30 mM NaCl ( pH 6.8 ) and supplied with 5 mM protease inhibitors cocktail . 
+For X-ray crystallography , the fragment of residues 2 -- 119 of human LC3B was ampliﬁed by PCR and inserted into a pGEX-4T-1 vector ( GE Healthcare ) . 
+The DNA fragment encoding OPTN-LIR ( residues 170 -- 181 ) in which ﬁve serine residues were substituted with glutamic acid was synthesized and inserted into the BamHI site of pGEX-4T-1 / LC3B , and the linker region between GST and LC3B was changed from GSPEF to GG by site-directed mutagenesis . 
+For T7-OPTN-LIR5xSE-LC3B , OPTN-LIR5xSE -- LC3B was inserted into a pET28a vector . 
+The proteins were expressed in Escherichia coli BL21 ( DE3 ) cells by inducing with 0.3 mM IPTG overnight at 16 ◦ C , and puriﬁed using + Glutathione Sepharose 4B ( GE Healthcare ) or Ni-NTA ( Ni2-nitrilotriacetate ; Invitrogen ) columns . 
+After cleavage of the tags , proteins were further puriﬁed by gel ﬁltration using a Superdex75 column . 
+Crystallization conditions were ﬁrst screened with an automated crystallization system [ 15 ] and further optimized manually . 
+All crystals were grown by the sitting or hanging drop vapour-diffusion method at 20 ◦ C . 
+The LC3B protein was crystallized with 2.0 M ammonium sulfate , 0.1 M tri-sodium citrate ( pH 5.6 ) and 0.2 M potassium sodium tartrate . 
+T7-OPTN-LIR5xSE-LC3B was crystallized with 2.0 M ammonium sulfate , 0.05 M tri-sodium citrate ( pH 5.6 ) , 0.1 M potassium sodium tartrate and 5 % glycerol , whereas for OPTN-LIR5xSE-LC3B , 10 % PEG3350 was added instead of 5 % glycerol . 
+For GST pull down , GST fusion proteins were expressed in E. coli BL21 ( DE3 ) cells in LB medium . 
+Expression was induced by the addition of 0.5 mM IPTG and cells were incubated at 16 ◦ C overnight . 
+The cells were harvested and lysed using sonication , the cell debris was removed by centrifugation and the supernatant was subsequently applied to Glutathione -- Sepharose 4B beads . 
+ITC
+All titration experiments were performed at 25 ◦ C using a VP-ITC microcalorimeter ( MicroCal ) . 
+The ITC data were analysed with the ITC-Origin 7.0 software with a ` one-site ' ﬁtting scheme . 
+The peptides at concentrations of ∼ 0.3 -- 0.9 mM were titrated into 
+0.02 -- 0.04 mM LC3/GABARAP proteins . 
+The concentrations of the LC3 / GABARAP proteins and W,Y-containing peptides like OPTN-LIR Phe178Trp were calculated from the UV absorption at 280 nm , phenylalanine-containing peptide concentrations were determined by phenylalanine absorption at 257.5 nm and veriﬁed by 1D-NMR spectroscopy . 
+The titration schemes were adopted to have optimum precision and signal intensity at the given temperature . 
+Usually 16 -- 26 steps were used , proportional to the molar enthalpy values . 
+NMR spectroscopy
+All structural NMR experiments were performed at 288 K on Bruker Avance spectrometers operating at proton frequencies of 500 , 600 , 700 , 800 and 900 MHz . 
+Spectra were analysed using the program Sparky ( http://www.cgl.ucsf.edu/home/sparky/ ) . 
+Backbone and side-chain resonances for LC3B in complex with the OPTN-LIR PTOT peptide were assigned using [ 15N-1H ] - TROSY versions of 3D HNCACB , HNCO , HN ( CA ) CO , ( H ) CC ( CO ) NH-TOCSY and H ( CCCO ) NH-TOCSY experiments . 
+The assignment was supported and completed with 3D 15N-separated NOESY-TROSY and 3D 13C-separated NOESY-HSQC ( heteronuclear single-quantum coherence ) experiments . 
+Assignments of the aromatic side chains were performed using ( H ) CB ( CGCCTOCSY ) Har experiments [ 16 ] and veriﬁed with a 3D 13Cseparated NOESY-TROSY experiment optimized for aromatic CH groups . 
+The proton resonance assignment for the nonlabelled OPTN-LIR PTOT peptide in complex with 13C ,15 Nlabeled LC3B were achieved with a 2D F1,F2-13C / 15N-ﬁltered NOESY [ 17 ] using a mixing time of 180 ms. Structure calculation followed a standard protocol ( for details see the Experimental section of the Supplementary Online data at http://www.biochemj.org/bj/454/bj4540459add.htm ) . 
+Titration experiments were performed at 298 K with a 0.15 mM 13C,15N-LC3B protein sample to which non-labelled synthetic OPTN-LIR peptides with different phosphorylation patterns were added stepwise until saturation ( 5 -- 15 times excess of the peptides proportionally to the Kd value ) . 
+The saturation was monitored by changes in the ﬁngerprint region [ 10 ] of LC3B [ 15N ,1 H ] TROSY-HSQC spectra . 
+1H/2H exchange experiments were performed at 288 K after lyophylization of the H2O-based NMR samples containing 15N-labelled LC3B in its free form or together with peptides . 
+The pH values were checked after the completion of each series and were found to be constant at pH 6.8 with correction of the shift due to the 2H2O . 
+X-ray data collection and structure determination
+Diffraction data were collected at beamlines BL-5A and AR-NW12A of the Photon Factory , KEK ( Tsukuba , Japan ) and BL41XU of SPring-8 ( Harima , Japan ) in a cryonitrogen gas stream [ 18 -- 20 ] . 
+The data were integrated with iMosﬂm [ 21 ] and scaled with Scala in the CCP4 Software Suite [ 22 ] . 
+The structures were solved by molecular replacement method with MOLREP [ 23 ] with the LC3A structure ( PDB code 3ECI ) for LC3B , the LC3B structure ( PDB code 3VTU ) for T7-OPTN-LIR5xSE-LC3B and the T7-OPTN-LIR5xSE-LC3B structure ( PDB code 3VTW ) for OPTN-LIR5xSE-LC3B ( PDB code 3VTV ) as search models . 
+All models were reﬁned by REFMAC5 [ 24 ] . 
+Manual adjustment of the models was performed with COOT [ 25 ] . 
+All structure ﬁgures were generated with PyMOL ( http://www.pymol.org ) . 
+Sections of [ 15N ,1 H ] - TROSY-HSQC spectra of 13C,15N-labelled LC3B upon titration with synthetic OPTN-LIR peptides with different degrees of phosphorylation are shown in the left-hand panels . 
+Arginine NHε side-chain signals are aliased in the ω1 dimension and appear at a 15N chemical shift 50 p.p.m. downﬁeld from their true position . 
+Red , spectrum of the free LC3B ; green , spectrum after adding a 5 -- 14-fold excess ( depending on the strength of interaction ) of peptide either bearing no phosphate group ( P00 ) , a single phosphate group ( P01 that corresponds to a peptide phosphorylated at Ser177 , P02-Ser174 , P03-Ser173 , P - Ser171 03 and P05-Ser170 ) or ﬁve phosphate groups ( PTOT ) . 
+Spectral sections representing selective chemical shift perturbations of backbone amide proton resonances of Arg16/Asp19 are shown in the middle panel . 
+The arrows show the direction of the movement of resonances upon titration . 
+The plots in the right-hand panels represent the corresponding ITC proﬁles . 
+The axis scales were ﬁxed for all titration proﬁles and were adjusted to the maximal heat effect of the PTOT titrations . 
+The Kd values are shown . 
+Similar spectra sections and titration proﬁles for OPTN-LIR peptides P -- P are 02 05 represented by those for P02 . 
+A complete data set is shown in Supplementary Figure S2 ( at http://www.biochemj.org/bj/454/bj4540459add.htm ) . 
+GST pull down
+For GST pull downs using cell lysates HEK ( human embryonic kidney ) -293 T cells were transfected with expression constructs encoding the protein of interest using GeneJuice transfection reagent ( Merck ) according to manufacturer 's instructions . 
+At 24 -- 48 h post-transfection cells were lysed in lysis buffer [ 50 mM Hepes ( pH 7.5 ) , 150 mM NaCl , 1 mM EDTA , 1 mM EGTA , 1 % Triton X-100 and 25 mM NaF ] and the lysates incubated for 2 -- 4 h with GST fusion protein-bound beads . 
+Following 3 washes , the beads and precipitated proteins were eluted with 2 × SDS/PAGE loading buffer , boiled and loaded on to 10 % SDS/PAGE gels for analysis . 
+Alternatively , proteins were transcribed/translated using the TNT T7 coupled reticulocyte lysate system ( Promega ) according to the manufacturer 's instructions . 
+RESULTS AND DISCUSSION Interaction between LC3B and OPTN LIR peptides
+In OPTN the residue ( Phe178 ) is directly preceded by Ser177 with four more serine residues located further N-terminally ( SSGSSEDSFVEI ) . 
+Mass spectrometric analysis using the SILAC ( stable isotope labelling with amino acids in cell culture ) method revealed that OPTN with a single phosphate group on 
+( A ) NMR structure of the LC3B complex with OPTN-LIR PTOT ( PDB code 2LUE ) . 
+The LC3B backbone is shown as a ribbon diagram , with helix α1 in orange , helix α2 in yellow and all β-strands in magenta . 
+The backbone of OPTN-LIR PTOT is shown is red . 
+The side chains of pSer177 ( yellow ) are represented as sticks and the side chains of LC3B Arg11 and Lys51 are also represented as sticks in an element-coloured mode ( carbons are cyan , nitrogen blue , oxygen red and protons grey ) . 
+( B ) Part of the LC3B β-sheet ( strands β1 and β2 ) with overlay of OPTN-LIR PTOT α-traces for all 20 conformers ( red ) . 
+Positions of phosphoserine residues are indicated in yellow . 
+Side chains of pSer177 , Arg11 and Lys51 are represented as sticks , but without protons . 
+( C ) Crystal structure of the OPTN-LIR5xSE -- LC3B fusion construct ( PDB code 3VTV ) shown as an orange ribbon diagram with the symmetry related molecule ( blue ribbons with N-terminal OPTN-LIR5xSE extension as sticks ) co-ordinated in the binding site via the LIR motif . 
+( D ) Superimposition of the NMR and crystal structures of the OPTN-LIR and LC3B complexes ( RMSD = 1.07 Å for the backbone atoms of LC3B residues 5 -- 115 without the loop 84 -- 94 ) . 
+The structures are shown in the same colour code as in ( A -- C ) . 
+Figure 1 Interaction between LC3B and OPTN-LIR by ITC and NMR 
+Ser177 is the most abundant OPTN phosphopeptide , whereas peptides with up to three phosphoserines could be detected as well [ 12 ] . 
+To characterize the importance of the individual phosphorylation sites we performed both NMR titrations as well as ITC experiments with peptides derived from the LIR motif of OPTN and LC3B . 
+Phosphorylation of Ser177 showed the largest decrease in the dissociation constant ( from 67 μM of the non-phosphorylated peptide to 13 μM [ 12 ] ) , whereas phosphorylation of the four additional serine residues added only a relatively small decrease ( to 5 μM ) [ 12 ] . 
+The other singly phosphorylated peptides ( P02 to P05 ) do bind more weakly than the peptide phosphorylated on Ser177 with Kd values around 20 μM , showing that phosphorylation of Ser177 is the most important modiﬁcation ( Figure 1 and Table 1 , and Supplementary Figure S2 at http://www.biochemj.org/bj/454/bj4540459add.htm ) . 
+NMR titration experiments of 15N-labelled LC3B with the nonphosphorylated peptide , all ﬁve single phosphorylated peptides and the penta-phosphorylated peptide conﬁrmed the ITC results . 
+These data revealed a very similar chemical shift perturbations pattern for all tested peptides , suggesting that the mode of binding is in all cases very similar ( Supplementary Figures S2 and S3A at http://www.biochemj.org/bj/454/bj4540459add.htm ) . 
+However , titration experiments with the Ser177 phosphorylated peptide and the penta-phosphorylated one showed speciﬁc chemical shift perturbations for the backbone resonances of Arg11 , Arg16 and Asp19 as well as the side-chain NHε of Arg11 , suggesting that these residues are involved in recognizing the peptide phosphorylated on Ser177 ( Figure 1 ) . 
+In addition , the side-chain NHε of Arg70 becomes detectable in experiments with all phosphorylated peptides and the NHε of Arg10 in experiments with the phosphorylated peptides P02 to P05 . 
+All arginine NHε resonances in LC3B were assigned ( Supplementary Figure S3B ) . 
+Figure 1 Interaction between LC3B and OPTN-LIR by ITC and NMR 
+Table 2 NMR and reﬁnement statistics for the LC3B -- OPTN-LIR PTOT complex 
+Structure of the LC3B–OPTN complex
+To investigate the interaction between OPTN and LC3B we solved the crystal structure of the free protein and the crystal and the NMR structures of its complex with the LIR motif ( structures are presented in Figure 2 and Supplementary Figures S4 and S5 at http://www.biochemj.org/bj/454/bj4540459add.htm; structural statistics are provided in Tables 2 and 3 ) . 
+LC3B exhibits the wellknown ubiquitin-like fold with two additional N-terminal helices , α1 and α2 ( Supplementary Figure S4 ) . 
+Interaction with the OPTN peptides does not change signiﬁcantly the structure of LC3B ( with an RMSD value between the backbone atoms of the free and complexed LC3B of 0.196 Å ) . 
+The peptide forms a β-strand of the intermolecular β-sheet via direct interaction with the β-strand 2 of LC3B ( Figure 2B and Supplementary Figure S4 ) . 
+It also inserts the two critical hydrophobic amino acids Phe178 and Ile181 into deep hydrophobic pockets on the LC3B surface ( Supplementary Figure S4B ) consistent with other autophagy modiﬁer / LIR motif complex structures [ 6 -- 10 ] . 
+Hydrophobic interactions with the OPTN core LIR motif ( FVEI ) are established with the side chains of Ile23 , Lys51 , Phe52 , Leu53 and Phe108 , equivalent to the interaction with the core LIR motif of the archetypical autophagy receptor p62 ( WTHL ) ( Supplementary Figure S6 at http://www.biochemj.org/bj/454/bj4540459add.htm ) . 
+Although phosphorylation of Ser177 is the most important modiﬁcation compared with phosphorylation of the other four serine residues near the LIR motif , we determined the NMR and the crystal structures with the penta-phosphorylated and penta serine-to-glutamic-acid substituted peptides ( OPTN-LIR5xSE ) . 
+H , molar enthalpy of the interaction ; S molar entropy of the interaction ; − T × S , entropy contribution term ; G , molar free ( Gibbs ) energy of interaction ; N , number of binding sites upon interaction . 
+N was ﬁxed to 1 for the weak binders ( no margins in the Table ) . 
+S ( cal/mol/K ) − T × S ( kcal/mol ) 
+G ( kcal/mol ) K ( × 105 M − 1 a ) Kd ( μM ) N 
+Protein 
+H ( kcal/mol ) † 
+LC3B 
+OPTN * − 0.68 + − 0.10 + 16.9 − 5.04 − 5.72 0.16 + − 0.045 1 OPTN − 0.92 + − 0.12 + 16.2 − 4.82 − 5.99 0.25 − + 0.026 1 OPTN P01 * − 1.32 + − 0.08 + 17.9 − 5.33 − 6.66 0.76 − + 0.011 1.14 + − 0.053 − OPTN P02 1.32 − + 0.06 + 17.0 − 5.07 − 6.39 0.49 + − 0.025 1.19 + − 0.042 OPTN P03 − 1.26 + − 0.01 + 17.2 − 5.13 − 6.39 0.49 + − 0.013 1 OPTN P04 − 1.55 + − 0.05 + 16.3 − 4.86 − 6.40 0.50 + − 0.041 1 OPTN P05 − 1.20 + − 0.02 + 17.5 − 5.22 − 6.41 0.50 + − 0.022 1 OPTN PTOT * − 2.23 + − 0.04 + 16.8 − 5.01 − 7.24 2.06 + − + + − − − 0.16 1.17 + − 0.016 OPTN PTOT 2.09 − 0.05 17.6 5.25 7.33 2.39 + − 0.15 1.13 + 0.018 OPTN F178W * − 4.84 + − 0.09 + 7.04 − 2.10 − 6.94 1.22 + − 0.05 1.05 − + − 0.015 OPTN F178W − 4.45 + − 0.48 + 8.34 − 2.49 − 6.93 1.21 + − 0.19 0.955 + − 0.080 OPTN 5xS-E , F178W − 2.68 + − 0.04 + 17.9 − 5.33 − 8.01 7.55 + − 0.44 0.967 + − 0.009 LC3B R11A OPTN − 1.62 + − 0.05 + 14.7 − 4.38 − 6.00 0.25 + − 0.017 1 OPTN PTOT − 1.51 + − 0.04 + 16.2 − 4.83 − 6.33 0.45 + − 0.028 1 OPTN 5xS-E , F178W − 2.74 + − 0.04 + 15.2 − 4.53 − 7.27 2.16 + − 0.12 0.987 + − 0.009 LC3B I23S OPTN PTOT − 2.01 + − 0.06 + 14.2 − 4.23 − 6.24 0.38 + − 0.024 1 OPTN 5xS-E , F178W − 1.95 + − 0.02 + 17.7 − 5.27 − 7.22 1.96 + − 0.09 0.972 + − 0.008 LC3B K51A OPTN PTOT − 1.21 + − 0.04 + 16.6 − 4.95 − 6.16 0.34 + − 0.024 1 OPTN 5xS-E , F178W − 1.18 − + 0.03 + 19.8 − 5.90 − 7.08 1.58 + − 0.11 0.973 + − 0.018 LC3A OPTN 5xS-E , F178W − 2.99 + − 0.03 + 17.7 − 5.27 − 8.27 11.3 + − 0.57 0.991 + − 0.006 GABARAPL1 OPTN 5xS-E , F178W − 2.64 + − 0.03 + 19.1 − 5.69 − 8.33 12.9 + − 0.92 1.00 + − 0.008 * Data were obtained in buffer containing 50 mM Na2HPO4 and 100 mM NaCl , pH 7.0 ( conditions reported by Wild et al. [ 12 ] ) . 
+† The + − values represent statistical error upon minimization . 
+The real experimental errors are mostly proportional to the uncertainty in concentration of peptides/proteins and were estimated less than 15 % . 
+64.52 40.00 13.16 20.28 20.28 20.00 20.00 4.85 4.18 8.20 8.26 1.32 
+40 22 
+4.63 
+27 
+5.10 
+30 
+6.33 
+0.89 
+0.77 
+to be 
+Table 2 NMR and reﬁnement statistics for the LC3B -- OPTN-LIR PTOT complex 
+LC3B -- OPTN-LIR PTOT ( PDB code 2LUE ) 
+Parameter 
+NMR distance and dihedral constraints Distance constraints Total NOE Intra-residue Inter-residue Sequential ( | i − j | = 1 ) Medium range ( 1 < | i − j | < 5 ) Long range ( | i − j | 5 ) Intermolecular Hydrogen bonds Total dihedral angle restraints ◦ φ ( ) ◦ ψ ( ) Structure statistics Violations ( mean + S.D. ) − Distance constraints ( Å ) Dihedral angle constraints ( ◦ ) Max . 
+dihedral angle violation ( ◦ ) Max . 
+distance constraint violation ( Å ) Deviations from idealized geometry Bond lengths ( Å ) Bond angles ( ◦ ) Average RMSD to mean ( 20 structures , Å ) Heavy atoms of residues 7 -- 116 , 176 -- 183 Backbone of residues 7 -- 116 , 176 -- 183 
+3472 750 2722 767 715 1240 249 47 
+126 130 
+0.0075 + − 0.003 0.38 + − 0.04 2.59 + − 0.59 0.10 − + 0.01 0.0132 + 0.001 − 2.34 + 0.02 − 
+0.90 + − 0.08 0.48 − + 0.08 
+Binding afﬁnities and features of conformational exchange behaviour of all other phosphorylated/phosphomimicking forms of the OPTN-LIR peptide made detailed structural studies not possible . 
+Whereas in the NMR titration experiments unphosphorylated peptide showed a fast exchange behaviour and the penta-phosphorylated PTOT peptide intermediate a slow exchange , experiments with the P01 peptide suffered from severe line broadening owing to intermediate exchange . 
+Likewise , the crystal structure had to be solved with the OPTN-LIR5xSE fused to the N-terminus of LC3B ( the electron density for the LIR5xSE peptide is shown in Supplementary Figure S5 ) . 
+This fusion , however , did not inﬂuence the structure of the protein as can be seen by the low RMSD value between the free and complexed crystal structures as reported above . 
+In the crystal the N-terminally fused LIR peptide of one molecule does not bind to its own LC3B fusion partner , but to the hydrophobic pockets of a second LC3B molecule ( Figure 2C ) . 
+In agreement with the identiﬁcation of Ser177 as the dominant phosphorylation site regulating interaction with LC3B , both the NMR and the crystal structures showed only the phosphorylated Ser177 or Glu177 to be ordered . 
+In the crystal structure with the OPTN-LIR5xSE peptide the side chain of Arg11 ﬂips inward to make a hydrogen bond with the side-chain oxygen of Glu177 at a distance of 2.7 Å ( Figure 2D ) . 
+This is consistent with the geometry seen in the NMR structure ( Figure 2A ) , and the observation that the NHε proton of Arg11 , which can not be detected in the free state of the protein , is visible in the spectrum of the complex argues for a crucial role of Arg11 in sensing the phosphorylation status of OPTN LIR . 
+Consequently , GST-pull down assays using LC3B wild-type or an Arg11 to alanine residue mutant showed only a minor effect on the association of non-phosphorylated fulllength OPTN , however , a strong decrease in binding of phosphomimetic OPTN5xSE protein could be observed ( Supplementary Figure S7 at http://www.biochemj.org/bj/454/bj4540459add . 
+htm ) . 
+These data were conﬁrmed by ITC experiments that revealed no signiﬁcant change in the Kd value between the mutant and wildtype protein with the non-phosphorylated peptide , but an increase in Kd from 5 μM to 22 μM with the PTOT peptide . 
+Binding of the Arg11 side chain to the negative charge on the OPTN LIR motif causes additional intramolecular effects within the hydrogen-bonding network of LC3B . 
+The movement of the Arg11 side chain towards the peptide brings it closer to the side chain of Asp19 as well . 
+The effect on Asp19 is consistent with the observation of selective chemical shift perturbations in the titration experiments with phosphorylated peptides . 
+In addition , Arg16 showed selective chemical shift perturbations . 
+The side chain of this residue contacts the backbone of Arg11 and is thus also part of this hydrogen-bonding network . 
+In addition to Arg11 , Lys51 interacts with the OPTN LIR peptide . 
+Whereas the positive charge of the side chain interacts with the phosphate of Ser177 , the hydrophobic part of its side chain contributes to the formation of hydrophobic pocket HP1 ( Figures 2 and 3 ) . 
+Therefore , mutating this invariant Lys51 to an alanine residue signiﬁcantly weakens the afﬁnity to even the PTOT peptide ( Kd = 30 μM ; Table 1 ) . 
+The structural data of the present study explain how LC3B recognizes phosphorylated OPTN and how the interaction with the phosphate group also affects the intramolecular hydrogenbonding network , resulting in an enhanced afﬁnity . 
+These changes in the hydrogen-bonding network can also explain why the side-chain NHε of Arg10 and Arg70 become visible upon interaction with phosphorylated peptides despite the fact that they do not directly contact the phosphate groups or other parts of the peptides . 
+Comparison of the crystal structures of the free LC3B and its complex suggest that both arginine residues form stronger intramolecular hydrogen bonds in the complex . 
+The increased compactness and stronger hydrogen bond formation can also be seen from 1H/2H amide proton-exchange experiments ( Figures 3A and 3B ) . 
+Upon complex formation with the phosphorylated PTOT peptide several regions of LC3B exchange signiﬁcantly slower than in the free protein state . 
+This is particularly obvious for amide protons located in helix 2 at the very N-terminus . 
+Table 3 Data collection and reﬁnement statistics of the X-ray structural analysis Values in parentheses are for the highest-resolution shell . 
+LC3B ( PDB code 3VTU ) T7-OPTN-LIR5xSE -- LC3B ( PDB code 3VTV ) OPTN-LIR-5xSE -- LC3B ( PDB code 3VTW ) 
+Parameter 
+Data collection Space group P212121 P212121 P212121 
+Cell dimensions a , b , c ( Å ) 34.68 , 53.55 , 61.02 61.17 , 64.12 , 149.77 35.20 , 53.00 , 60.96 α , β , γ ( ◦ ) 90.00 , 90.00 , 90.00 90.00 , 90.00 , 90.00 90.00 , 90.00 , 90.00 Resolution ( Å ) 22.91 -- 1.60 ( 1.69 -- 1.60 ) 49.92 -- 2.52 ( 2.66 -- 2.52 ) 29.32 -- 1.70 ( 1.79 -- 1.70 ) Rmerge 0.063 ( 0.373 ) 0.128 ( 0.701 ) 0.256 ( 0.464 ) * I / σI 22.1 ( 5.5 ) 12.9 ( 3.0 ) 6.0 ( 4.2 ) Completeness ( % ) 98.4 ( 97.6 ) 97.2 ( 95.1 ) 100.0 ( 100.0 ) Redundancy 7.0 ( 7.1 ) 10.2 ( 8.3 ) 6.9 ( 7.0 ) Reﬁnement Resolution ( Å ) 22.91 -- 1.60 49.92 -- 2.52 29.32 -- 1.70 Number of reﬂections 14550 18984 12438 Rwork/Rfree 0.181 / 0.231 0.211 / 0.280 0.192 / 0.252 Number of atoms Protein 1050 3102 1034 Ligand/ion 25 20 5 Water 108 85 112 B factors Protein 15.20 36.63 16.09 Ligand/ion 56.98 92.45 21.14 Water 26.06 33.64 26.08 RMSD Bond lengths ( Å ) 0.027 0.019 0.025 Bond angles ( ◦ ) 2.364 1.900 2.161 * The crystal is multi-crystalline , several split diffraction spots were observed even in low resolution shell . 
+Therefore , the overall Rmerge is relatively high . 
+Figure 3 Driving forces of the LC3B -- OPTN-LIR binding enhancement 
+( A ) Superimposition of the [ 15N ,1 H ] - TROSY-HSQC spectra for free LC3B ( left-hand panel ) and LC3B saturated with OPTN-LIR PTOT peptide ( molar ratio 1:8 ) after the 1H/2H exchange experiment ( right-hand panel ) . 
+All exchangeable resonances that remained visible after 1 h of exchange are yellow and those after 24 h are red . 
+( B ) 3D mapping of the deuteroexchange results presented above on the free LC3B structure ( left-hand panel ) and LC3B/OPTN-LIR PTOT complex ( right-hand panel ) . 
+( C ) Fine tuning of the fast-to-slow exchange behaviour observed by NMR for the LC3B binding to the discussed LIR peptides ( name of LIR source is given above each plot ) . 
+Fingerprint regions of LC3B [ 15N ,1 H ] - TROSY-HSQC spectra for free LC3B ( red ) and LC3B saturated with indicated peptides ( green ) are shown . 
+The exchange behaviour of interaction is shown by sections of these spectra for the Ile34 backbone HN resonance upon titrations ( small box within each plot ) . 
+The rainbow colour code indicates molar ratios upon titration ( red , 1:0 and violet , 1:8 ) . 
+( D ) Comparison of enthalpy ( H ) and entropy ( − TΔS ) contribution to the total Gibbs energy ( G ) of the LC3B -- LIR binding . 
+Mutational analysis of the LC3B–OPTN interaction
+The LIR motif of OTN differs from other autophagy receptors by the replacement of the usual tryptophan residue with the smaller aromatic residue phenylalanine . 
+Detailed investigations of the binding of LIR motifs to the autophagy receptor GABARAPL-1 had shown that the replacement of tryptophan , as it occurs in p62 , with a tyrosine residue , as it is present in NBR1 [ next to BRCA1 ( breast cancer 1 , early onset ) gene 1 protein ] , signiﬁcantly reduces the binding afﬁnity by decreasing the binding enthalpy [ 10 ] . 
+We expected that mutating the phenylalanine residue in the LIR motif of OPTN to a tryptophan residue would increase the binding afﬁnity , potentially to a level similar to the afﬁnity reached by phosphorylation . 
+NMR and ITC experiments with the phenylalanine-to-tryptophan mutated and non-phosphorylated LIR motif indeed showed an 8-fold decrease in the dissociation constant from 65 μM to 8 μM ( Figure 4 and Table 1 , and Supplementary Figure S8 at http://www.biochemj.org/bj/454/bj4540459add.htm ) . 
+This result suggests that the replacement of the canonical tryptophan residue with a smaller aromatic amino acid such as phenylalanine is necessary to make the system switchable by phosphorylation . 
+Mutating Phe178 to a tryptophan residue in the context of the 
+( A ) Comparison of the binding mode of phenylalanine and tryptophan residue side chains of the LIR motifs to the hydrophobic pocket of LC3B . 
+Left-hand panel : LC3B -- OPTN-LIR P complex ; TOT right-hand panel , LC3B -- p62-LIR complex ( PDB code 2ZJD ) . 
+The aromatic residues are shown as stick models , OPTN-LIR P Phe178 , magenta , p62 Trp340 , red . 
+In each structure the side TOT chain of the corresponding residue of the other LIR motif , i.e. phenylalanine for OPTN-LIR PTOT or tryptophan for p62-LIR , is also shown after superimposition of the LIR motifs . 
+The surrounding structure of LC3B is represented as a yellow surface . 
+Residues forming the upper rim are coloured orange and pink . 
+Residues forming the bottom of the pocket ( Pro32 , Val33 and Phe107 ) are shown in cyan and blue . 
+( B ) Side-chain orientation changes between the two complexes . 
+The two left-hand plots show the residues forming the hydrophobic pocket in the stick model of the LC3B -- OPTN-LIR PTOT complex alone and in superimposition with the LC3B -- p62 complex . 
+The middle plot represents the superimposition of the LC3B complexes viewed in a different direction . 
+The right-hand plot shows that the backbone structure and orientation are not affected by changing the phenylalanine residue to tryptophan . 
+The same colour code as in ( A ) is used . 
+( C ) Pull-down assays with the wild-type OPTN LIR motif and different mutants . 
+The interaction between LC3B and the Phe178Trp mutant is stronger than with the wild-type and can be further enhanced by mutating all ﬁve serine residues to glutamic acid . 
+The pull-down experiments on the left-hand side show control experiments with GST . 
+phosphomimicking OPTN-LIR5xSE protein increased the binding afﬁnity even more ( Figure 4 ) to Kd = 1.3 μM . 
+Even stronger submicromolar interactions can be measured with LC3A and GABARAPL1 proteins ( Table 1 ) . 
+Whereas the mutation of phenylalanine to a tryptophan residue increases the binding afﬁ-nity by a signiﬁcantly more favourable enthalpy , the binding entropy is reduced at the same time . 
+This mutant also shows a different dynamic behaviour in NMR titration experiments . 
+While even the PTOT peptide which has a higher binding afﬁnity still shows intermediate-to-slow exchange , the Phe178Trp mutant is in slow exchange ( Figure 3C ) . 
+Interestingly , binding of the tryptophan mutant in the context of the phosphomimicking OPTN-LIR5xSE is mainly driven by entropy , showing similarity to penta-phosphorylated OPTN-LIR . 
+Analysis of the complete ITC data set shows that in contrast to the enthalpy driven interaction between LC3B and the prototypical p62 LIR motif with signiﬁcantly unfavourable entropic contribution , interactions of all OPTN-LIR variants to 
+Schematic model of selective autophagy . 
+LC3 modiﬁers ( Atg8/LC3/GABARAP proteins ) are covalently modiﬁed with phosphatidylethanolamine and cover the surface of autophagophore membranes . 
+They can be packed close together to form a 2D-like array of oligomers . 
+Autophagy receptors , possessing oligomerization domains of several types , frequently function as oligomeric complexes . 
+Receptors also contain ubiquitin ( Ub ) - binding domains of different types and the LIR motif ( s ) . 
+Cargo is shown as a particle decorated by ubiquitin chains ( anchored spheres ) which frequently undergo oligomerization ( aggregation ) . 
+Oligomerization of receptors via polyubiquitinated cargo is possible as well , for example in aggrephagy , xenophagy , etc. , but the cargo can be also targeted directly by multiple copies of the receptors on surface , like in mitophagy . 
+The core interactions , either between LC3 modiﬁers and LIR within receptors or between ubiquitin moiety on the cargo and the receptor 's ubiquitin-binding domain , remain rather weak ( low micromolar level for short LIR peptides as measured by ITC and NMR reported in the present paper and earlier [ 2,10,12 ] ) . 
+Oligomerization enhances the apparent afﬁnity of these interactions by local concentration effect and facilitates completeness of the autophagy process . 
+The afﬁnity of these core interactions can be increased by post-translational modiﬁcations , for example phosphorylation as shown in the present study . 
+ATG8/LC3/GABARAP proteins are supported by a favourable entropic contribution ( Figure 3D ) . 
+It will be very interesting to correlate this observation with internal ﬂexibility of the free LC3 proteins and their complexes , but this requires separate studies involving protein dynamic investigations on different timescales . 
+The fact that Nature has not created such a high-afﬁnity interaction suggests that in general the interaction between autophagy modiﬁers and autophagy receptors is targeted for a modest afﬁnity of approximately 1 μM . 
+A binding afﬁnity in this range prevents signiﬁcant interaction between isolated proteins at low cellular concentrations , but allows to reach higher afﬁnities through avidity effects created by receptor dimerization , as observed for the classical autophagy receptors p62 and NBR1 , and/or clustering of modiﬁers on the autophagosomal membrane ( Figure 5 ) . 
+Many autophagy receptors contain negatively charged residues directly N-terminal to their core LIR motif . 
+In the structure of the complex of LC3B with the LIR motif of p62 , Arg11 makes similar contacts to the side-chain carboxylic group of Asp338 , whereas the side chains of Arg10 and Lys51 of LC3B form hydrogen bonds with Asp337 . 
+Asp339 , which is directly Nterminal to Trp340 , however , is not involved in direct hydrogen bonding ( Supplementary Figure S6 ) . 
+Negatively charged amino acids are also conserved in non-autophagy receptor proteins that bind to MAP1 LC3 family members such as calreticulin , NSF ( vesicle-fusing ATPase ) or Atg32 ( autophagy-related protein 32 ) , showing that negative charges in this region play a crucial role for binding . 
+Other autophagy receptors such as Nix ( NIP3-like protein X ) contain a high number of serine residues , which makes it possible that their interaction with autophagy modiﬁers can be regulated by phosphorylation as well . 
+Recently [ 26 ] , it was shown that the serine residues 17 and 24 ﬂanking the Bnip3-LIR ( Bnip3 is BCL2/adenovirus E1B 19kDa interacting protein 3 ) motif with Trp18 as the aromatic residue ( Supplementary Figure S1 ) , also undergoes phosphorylation in vivo and this phosphorylation plays an important role in induction of mitophagy by enhancing the interaction between Bnip3 and speciﬁc ATG8/LC3/GABARAP modiﬁers ( LC3B and GABARAPL2 ) . 
+The structural and biophysical characterization shown here demonstrates how phosphorylation can play a signiﬁcant role in regulating autophagy . 
+Figure 5 Role of oligomerization in selective autophagy 
+178 
+Figure 4 Phe Trp OPTN-LIR mutation increases its binding afﬁnity to LC3B 
+9 
+10 
+11 
+12 
+AUTHOR CONTRIBUTION
+Vladimir Rogov prepared all samples and determined the NMR structure of the complex and Kd values by NMR and ITC ; Frank Löhr performed NMR experiments ; Alexis Rozenknop and Andreas Kniss prepared mutants and performed ITC and NMR titration experiments ; Peter Güntert calculated and reﬁned the structure ; Volker Dötsch designed experiments and provided guidance and support ; Soichi Wakatsuki conceived and Hironori Suzuki designed and performed the protein preparation and crystallographic experiments and analysed the data ; Masato Kawasaki and Ryuichi Kato provided guidance and support of the protein expression , puriﬁcation and crystallographic work ; David G. McEwan , Evgenij Fiskin and Philipp Wild performed the biochemical characterization of LC3 forms ; and Ivan Dikic designed experiments and provided guidance . 
+13 
+14 
+15 
+16 
+FUNDING
+17 
+This work was supported by the Center for Biomolecular Magnetic Resonance ( BMRZ ) and the Cluster of Excellence Frankfurt Macromolecular Complexes ( CEF ) . 
+P.G. acknowledges support by the Lichtenberg program of the Volkswagen Foundation . 
+A.R. was funded by the Marie Curie ENDOCYTE training network . 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 
+26 
+Received 21 December 2012/6 June 2013 ; accepted 28 June 2013 Published as BJ Immediate Publication 28 June 2013 , doi :10.1042 / BJ20121907 
+EXPERIMENTAL Structure calculations
+Distance restraints for structure calculations were obtained from 3D 15N-separated NOESY and 13C-separated NOESY spectra with mixing times of 70 ms. Intermolecular distance restraints between non-labelled OPTN-LIR PTOT peptide and 13C,15N-labelled LC3B were obtained from a 3D F1-13C / 15N-ﬁltered NOESY - [ 13C ,15 N ] - HSQC experiment [ 1 ] recorded with a mixing time of 100 ms. Intramolecular distance restraints within the non-labelled OPTN-LIR PTOT peptide in complex with 13C,15N-labelled LC3B were obtained from the 2D F1,F2-13C / 15N-ﬁltered NOESY experiment [ 2 ] . 
+Restraints for the backbone torsion angles φ and ψ were generated on the basis of the chemical shift values with the program TALOS + [ 3 ] . 
+Structure calculations were performed with the program CYANA [ 4 ] using seven cycles of combined automated NOE assignment [ 5 ] and structure calculation by torsion angle dynamics [ 6 ] . 
+Each structure calculation was started from 100 conformers with random torsion angle values , and the standard CYANA simulated annealing schedule was applied with 10 000 torsion angle dynamics steps . 
+The 20 conformers with the lowest ﬁnal CYANA target function values were embedded in an 8 Å shell of explicit water molecules and subjected to restrained energy reﬁnement against the AMBER force ﬁeld [ 7 ] using the program OPALp [ 8,9 ] . 
+The 20 energy-reﬁned conformers that represent the solution structure have been deposited in the PDB under the accession code 2LUE . 
+The chemical shift assignments have been deposited in the BioMagResBank ( BMRB ) database under the accession code 18518 . 
+Figure S1 Selected LIR motifs reported for different proteins 
+Alignment of the reported LIR motifs ( for review see [ 10 ] ) grouped by aromatic residue in the 0-position . 
+The LIRs potentially regulated by phosphorylation ( with the serine or threonine residues at the − 1 position ) are placed under a line in each group . 
+The name of proteins containing such LIR are shown bold . 
+Additionally , the Expasy UniProtKB ID and the position of LIR aromatic residue in the protein sequence are shown . 
+The peptides used in the present study spanning OPTN-LIR are shown together with positions of individual phosphorylation sites ( from 1 to 5 ) . 
+Ser24 in BNIP3 -- LIR , discussed in the main text , is also shown . 
+SUPPLEMENTARY ONLINE DATA 
+Structural basis for phosphorylation-triggered of Salmonella 
+autophagic clearance 
+Vladimir V. ROGOV * † 1 , Hironori SUZUKI ‡ 1 , Evgenij FISKIN § , Philipp WILD § , Andreas KNISS * , Alexis ROZENKNOP * § , Ryuichi KATO ‡ , Masato KAWASAKI ‡ , David G. MCEWAN § , Frank LÖHR * , Peter GÜNTERT * , Ivan DIKIC § 2 , Soichi WAKATSUKI ‡ 2 and Volker DÖTSCH * 2 * Institute of Biophysical Chemistry and Center for Biomolecular Magnetic Resonance , Goethe University , Max-von-Laue Str . 
+9 , 60438 Frankfurt am Main , Germany , † Institute of Protein Research , 142290 , Pushchino , Russia , ‡ Structural Biology Research Center , Photon Factory , Institute of Materials Structure Science , High Energy Accelerator Research Organization ( KEK ) , Tsukuba , Ibaraki 305-0801 , Japan , and § Buchmann Institute for Molecular Life Sciences and Institute of Biochemistry II , Goethe University , Theodor-Stern-Kai 7 , 60590 Frankfurt am Main , Germany 
+Figure S1 Selected LIR motifs reported for different proteins 
+1 These authors contributed equally to this work . 
+2 Correspondence may be addressed to any of these authors ( email Ivan.Dikic@biochem2.de, soichi.wakatsuki@kek.jp or vdoetsch@em . 
+uni-frankfurt . 
+de ) . 
+Atomic co-ordinates and structure factors have been deposited in the Protein Data Bank with accession codes 3VTU , 3VTV , 3VTW and 2LUE . 
+NMR resonances assignments have been deposited in the Biological Magnetic Resonance Data Bank with accession code 18518 . 
+Figure S2 Complete set of NMR spectra of LC3B upon titration with all OPTN-LIR phosphorylated peptides and the complementary ITC proﬁles 
+[ 15N ,1 H ] - TROSY-HSQC spectra of 13C,15N-labelled LC3B upon titration with synthetic OPTN-LIR peptides with different degree of phosphorylation ( from P00 to PTOT ) . 
+The legends are the same as for Figure 1 of the main text . 
+The ITC proﬁles shown in the upper panel are the baseline corrected apparent heat capacity changes upon peptides injection over the time ( axis in min given at the top , and in μcal / s on the right-hand side ) . 
+The lower panel shows dilution-heat corrected experimental ( black quadrats ) and best-ﬁtted to it calculated thermograms ( line ) . 
+The calculation was done with the ` single binding site ' model as soon as the number of binding sites ( N ) in each case was close to 1 . 
+( A ) Chemical shift perturbations values plotted against residue numbers for the LC3B saturated with the OPTN-LIR P00 ( left-hand plot , molar ratio 1:14 ) and OPTN-LIR PTOT ( right-hand plot , molar ratio 1:5 ) peptides . 
+( B ) Section of [ 15N ,1 H ] - TROSY-HSQC spectra of 13C,15N-labelled LC3B protein saturated with OPTN-LIR PTOT showing all arginine side-chain Hε resonances . 
+They are aliased in the ω1 dimension and appear at a 15N chemical shift 50 p.p.m. downﬁeld from their true position . 
+The optimized conditions [ 50 mM sodium phosphate and 30 mM NaCl ( pH 6.8 ) at 15 ◦ C ] allowed us to visualize them and include them into the structure calculation . 
+Figure S4 NMR structure of the LC3B complex with OPTN-LIR PTOT 
+( A ) Ribbon diagram of the LC3B -- OPTN-LIR PTOT complex ( PDB code 2LUE ) . 
+The LC3B residues from Lys5 to Gln116 and the OPTN-LIR P residues from Asp176 TOT to Met183 which form a rigid structural core are shown . 
+The right-hand plot was obtained by rotation of the structure shown left for 85 ◦ anticlockwise . 
+OPTN-LIR PTOT is coloured red , and the helices of LC3B are orange ( α1 ) , yellow ( α2 ) , green ( α3 ) and blue ( α4 ) . 
+All LC3B β-strands are magenta . 
+Areas of hydrophobic pockets ( HP1 and HP2 ) are shown in grey . 
+( B ) Left-hand panel , Cα traces of the complex representing structural accuracy of the ﬁnal ensemble . 
+Right-hand panel , a representative complex structure ( ribbons ) with aromatic ( Phe178 ) and hydrophobic ( Ile181 ) side chains for all 20 conformers showing the precision of the complex structure . 
+The colour code is the same as for ( A ) . 
+Figure S4 NMR structure of the LC3B complex with OPTN-LIR PTOT 
+Figure S5 Omit map of OPTN-LIR5xSE oligomeric package of the T7_OPTN-LIR5xSE -- LC3B in the crystal and the additional contacts between LC3B moieties ( A ) Omit map of the OPTN-LIR5xSE moiety of the ﬁrst OPTN-LIR5xSE -- LC3B fused molecule in the crystal displayed over the ribbon diagram of LC3B of the symmetry related second molecule . 
+( B ) Three OPTN-LIR5xSE -- LC3B molecules in asymmetric unit of PDB code 3VTW forming additional contacts between LC3B moieties . 
+( C ) The involved residues , 74 -- 76 in the cyan subunit and 83 -- 85 in the green subunit are shown in yellow . 
+The β-strands 2 ( red ) , forming intermolecular β-sheet with LIR motifs , remains free and could participate in the effective LIR binding . 
+Figure S6 LC3B -- OPTN-LIR5xSE and LC3B -- p62-LIR interactions 
+Schematic representation showing the interaction between LC3B and OPTN-LIR5xSE ( left-hand panel ) and the p62 LIR domain ( right-hand panel ) . 
+GST pull-down assays using full-length wild-type ( WT ) or the phospho-mimetic penta-mutant 11 of OPTN ( 5E ) and analysis of their binding to LC3B wild-type or the LC3B R A mutant . 
+Mutation of Arg11 to an alanine residue has little effect on the afﬁnity of wild-type OPTN , but signiﬁcantly reduces the afﬁnity of OPTN5xSE to LC3B . 
+Figure S8 ITC of the LC3B with the OPTN-LIR Phe178Trp peptide 
+The titration proﬁle ( upper panel ) and ﬁtted molar enthalpy development ( lower panel ) are shown in comparison with the OPTN-LIR P00 and OPTN-LIR PTOT titration experiments ( smaller windows , taken from [ 11 ] ) . 
+REFERENCES
+1 Zwahlen , C. , Legault , P. , Vincent , S. J. F. , Greenblatt , J. , Konrat , R. and Kay , L. E. ( 1997 ) Methods for measurement of intermolecular NOEs by multinuclear NMR spectroscopy : application to a bacteriophage lambda N-peptide/boxB RNA complex . 
+J. Am . 
+Chem . 
+Soc . 
+119 , 6711 -- 6721 2 Iwahara , J. , Wojciak , J. M. and Clubb , R. T. ( 2001 ) Improved NMR spectra of a protein -- DNA complex through rational mutagenesis and the application of a sensitivity optimized isotope-ﬁltered NOESY experiment . 
+J. Biomol . 
+NMR 19 , 231 -- 241 3 Shen , Y. , Delaglio , F. , Cornilescu , G. and Bax , A. ( 2009 ) TALOS + : a hybrid method for predicting protein backbone torsion angles from NMR chemical shifts . 
+J. Biomol . 
+NMR 44 , 213 -- 223 4 Güntert , P. ( 2009 ) Automated structure determination from NMR spectra . 
+Eur . 
+Biophys . 
+J. 38 , 129 -- 143 5 Herrmann , T. , Güntert , P. and Wüthrich , K. ( 2002 ) Protein NMR structure determination with automated NOE assignment using the new software CANDID and the torsion angle dynamics algorithm DYANA . 
+J. Mol . 
+Biol . 
+319 , 209 -- 227 6 Guntert , P. , Mumenthaler , C. and Wuthrich , K. ( 1997 ) Torsion angle dynamics for NMR structure calculation with the new program DYANA . 
+J. Mol . 
+Biol . 
+273 , 283 -- 298 7 Ponder , J. W. and Case , D. A. ( 2003 ) Force ﬁelds for protein simulations . 
+Adv. Prot . 
+Chem . 
+66 , 27 -- 85 8 Koradi , R. , Billeter , M. and Güntert , P. ( 2000 ) Point-centered domain decomposition for parallel molecular dynamics simulation . 
+Comput . 
+Phys . 
+Commun . 
+124 , 139 -- 147 9 Luginbühl , P. , Güntert , P. , Billeter , M. and Wüthrich , K. ( 1996 ) The new program OPAL for molecular dynamics simulations and energy reﬁnements of biological macromolecules . 
+J. Biomol . 
+NMR 8 , 136 -- 146 10 Alemu , E. A. , Lamark , T. , Torgersen , K. M. , Birgisdottir , A. B. , Larsen , K. B. , Jain , A. , Olsvik , H. , Øvervatn , A. , Kirkin , V. and Johansen , T. ( 2012 ) ATG8 family proteins act as scaffolds for assembly of the ULK complex : sequence requirements for LC3-interacting region ( LIR ) motifs . 
+J. Biol . 
+Chem . 
+283 , 39275 -- 39290 11 Wild , P. , Farhan , H. , McEwan , D. G. , Wagner , S. , Rogov , V. V. , Brady , N. , Richter , B. , Korac , J. , Waidmann , O. , Choudhary , C. et al. ( 2011 ) Phosphorylation of the autophagy receptor optineurin restricts Salmonella growth . 
+Science 333 , 228 -- 233 
+REFERENCES 
+1 Mizushima , N. , Levine , B. , Cuervo , A. M. and Klionsky , D. J. ( 2008 ) Autophagy ﬁghts disease through cellular self-digestion . 
+Nature 451 , 1069 -- 1075 2 Novak , I. , Kirkin , V. , McEwan , D. G. , Zhang , J. , Wild , P. , Rozenknop , A. , Rogov , V. , Löhr , F. , Popovic , D. , Occhipinti , A. et al. ( 2010 ) Nix is a selective autophagy receptor for mitochondrial clearance . 
+EMBO Rep. 11 , 45 -- 51 3 Kirkin , V. , McEwan , D. G. , Novak , I. and Dikic , I. ( 2009 ) A role for ubiquitin in selective autophagy . 
+Mol . 
+Cell 34 , 259 -- 269 4 Kraft , C. , Peter , M. and Hofmann , K. ( 2010 ) Selective autophagy : ubiquitin-mediated recognition and beyond . 
+Nat . 
+Cell Biol . 
+12 , 836 -- 841 5 Pankiv , S. , Clausen , T. H. , Lamark , T. , Brech , A. , Bruun , J. A. , Outzen , H. , Overvatn , A. , Bjorkoy , G. and Johansen , T. ( 2007 ) p62/SQSTM1 binds directly to Atg8/LC3 to facilitate degradation of ubiquitinated protein aggregates by autophagy . 
+J. Biol . 
+Chem . 
+282 , 24131 -- 24145 6 Ichimura , Y. , Kumanomidou , T. , Sou , Y. S. , Mizushima , T. , Ezaki , J. , Ueno , T. , Kominami , E. , Yamane , T. , Tanaka , K. and Komatsu , M. ( 2008 ) Structural basis for sorting mechanism of p62 in selective autophagy . 
+J. Biol . 
+Chem . 
+283 , 22847 -- 22857 7 Noda , N. N. , Kumeta , H. , Nakatogawa , H. , Satoo , K. , Adachi , W. , Ishii , J. , Fujioka , Y. , Ohsumi , Y. and Inagaki , F. ( 2008 ) Structural basis of target recognition by Atg8/LC3 during selective autophagy . 
+Genes Cells 13 , 1211 -- 1218

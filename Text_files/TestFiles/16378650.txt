@@ -1,0 +1,214 @@
+Real-time reverse transcription P for the quantification of the expression f p and phagosome-like conditions o Salmonella enterica as a function of growth
+This article presents an experimental design for measuring the mRNA expression in Salmonella enterica of the mntH gene in phagosome-mimicking conditions . 
+The expression of mntH was quantified by real-time reverse transcription PCR for different S. enterica strains of porcine origin under different biological growth conditions which mimicked the environment inside the phagosome . 
+The expression of mntH and the different control genes ( 16S rRNA , rpoD and gmk ) varied according to the growth phase . 
+For mntH a maximum in the expression was detected in the early exponential phase . 
+To obtain an accurate quantification and reliable comparison of the mntH expression in different S. enterica strains under various biological conditions , the ratio mntH mRNA level to the normalization factor was determined . 
+The latter is the geometric mean of the RNA level of three housekeeping genes 16S rRNA , rpoD and gmk calculated by the geNorm program . 
+MntH was basally expressed in all tested S. enterica strains and induced by hydrogen peroxide ( H2O2 ) or ethylenediaminetetraacetic acid ( EDTA ) in Brain Heart Infusion . 
+Under the nutrient limiting conditions of Sauton medium , the basal mntH expression was higher than in BHI , whereas H2O2 induced the expression 40 times . 
+A similar induction was obtained for Salmonella in porcine peripheral blood monocytes ( PBM ) . 
+D 2005 Elsevier B.V. All rights reserved . 
+Keywords: Expression; Normalization; Real-time PCR; Salmonella
+1. Introduction
+A reversed transcriptase treatment followed by realtime quantitative PCR ( real-time RT PCR ) has proven for years to be a highly sensitive method , with a high dynamic range for the analysis of gene expression ( Bus-tin , 2002 ; Gibson et al. , 1996 ; Heid et al. , 1996 ; Johnson et al. , 2000 ) . 
+This technique relies on the monitoring of fluorescent PCR product accumulation after each cycle in the PCR ( Schneeberger et al. , 1995 ) . 
+Several chem-istries have been described for the detection of the amplification product . 
+The available chemistries are based on the use of a specific probe like Taqman probes or molecular beacons or on the nonspecific detection by the use of intercalating dyes such as SYBR Green I. To allow accurate quantification an appropriate normalization strategy using internal controls is a prerequisite . 
+It eliminates sample to sample variations and minimize the introduction of experimental errors during the multistage process of RNA extraction , DNase treatment , and cDNA synthesis ( Bustin , 2000 ; Eleaume and Jabbouri , 2004 ; Sue et al. , 2004 ; Vandecasteele et al. , 
+2001 , 2002 ) . 
+Many scientists have used 16S and 23S rRNA or bacterial housekeeping genes like rpoD , rpoB , gmk , gyrA , hsp-60 for the normalization of gene expression . 
+These control genes must be constantly expressed under all test conditions . 
+However , the phenomenon of exponential bacterial replication also contributes to significant changes in gene expression during the different growth stages ( Vandecasteele et al. , 2001 ) . 
+At least three stable internal control genes are recommended for the calculation of the normalization factor for eukaryotic mRNA quantification ( Bustin , 2000 ; Vandesompele et al. , 2002 ) . 
+For prokaryotic mRNA quantification , the expression stability of different housekeeping genes was validated for Pseudomo-nas aeruginosa and Actinobacillus pleuropneumoniae ( Nielsen and Boye , 2005 ; Savli et al. , 2003 ) . 
+The complex pathogenesis of Salmonella depends on the serotype of the strain , the host and its immunological status , and causes diseases ranging from gastro-enteritis to typhoid fever . 
+Initially , Salmonella cells respond to a variety of environmental signals , stress and antibacterial host defense mechanisms . 
+Once inside the Salmonella containing vacuole of the macrophage , a network of coordinately regulated genes is induced in Salmonella to counter the hostile environment ( Heith-off et al. , 1999 ) . 
+This expression of the virulence genes is regulated by a number of intracellular conditions , which has been studied by growing Salmonella on media with limiting nutrient conditions and a mild acid pH ( Lee et al. , 2000 ) . 
+In comparison with reporter gene constructs to study gene expression , real-time RT PCR has the advantage that it does not require any genetic manipulation of the strain ( Ayala et al. , 2004 ) . 
+In bacteria an orthologue of the eukaryotic Nramp1 ( natural resistance-associated macrophage protein 1 ) gene has been described , the mntH gene ( H - coupled + manganese transport ) ( Agranoff et al. , 1999 ; Kehres et al. , 2000 ; Makui et al. , 2000 ) . 
+In the phagosome the bacterial MntH and the eukaryotic NRAMP1 would compete for the transport of bivalent cations ( Agranoff and Krishna , 1998 ) . 
+In Nramp1 expressing macrophages isolated from mice , the mntH expression is much more upregulated than in Nramp1 cells . 
+In Nramp1 / G169 
+( susceptible ) primary macrophages and in Nramp1 G169 mice , the virulence of Salmonella Typhimurium mntH deletion mutant is attenuated ( Zaharik et al. , 2004 ) . 
+Three transcription factors with different binding sites and roles have been reported for Salmonella enterica serovar Typhimurium ( Kehres et al. , 2002 ) and Escher-ichia coli ( Patzer and Hantke , 2001 ) , notably OxyR , Fur and MntR . 
+2. Materials and methods
+2.1. Bacterial strains
+All Salmonella strains were porcine isolates obtained from either pigs , the farm environment or the slaughterhouse ( Botteldoorn et al. , 2003 ) . 
+A collection of 18 genotypically diverse Salmonella Typhimurium strains in combination with two strains belonging to Salmonella serotypes Enteritidis and Derby were selected ( Table 1 ) . 
+All tested Salmonella Typhimurium strains were characterized by pulsed field gel electrophoresis ( PFGE ) and antibiotic resistance profiling ( ARP ) ( Botteldoorn et al. , 
+MB : Bacterial collection of the Centre for Agricultural Research , Department for Animal Product Quality and Transformation Technology , Melle , Belgium . 
+a Salmonella strains isolated from pigs ( Botteldoorn et al. , 2003 ) and typed by PFGE and ( antibiotic resistance profile ) ARP ( Botteldoorn et al. , 2004 ) A : Ampicillin ; Ch : Chloramphenicol ; Su : Sulfadiazine ; S : Streptomycin ; T : Tetracycline ; Nal : Nalidixic acid . 
+b The mntH deletion mutant of strain MB 2486 , Vrije Universiteit Brussel , Laboratorium Genetische Virologie ( Dr. J.-P . 
+Hernalsteens ) , Brussels , Belgium . 
+c Salmonella Typhimurium ATCC 14028 , reference strain used in the in vitro studies of Kehres et al. ( 2000 ) ; in our study used for the intracellular mntH expression in porcine Peripheral Blood Monocytes ( PBM ) . 
+d Salmonella Enteritidis strains provided from Food Research Institute , Bratislava , Slovakia , detailed origin not known . 
+( BHI , Oxoid Ltd. . 
+London , England ) at 37 8C ( shaking at 150 rpm ) . 
+When a cell density of 10 colony forming 6 units per milliliter ( CFU/ml ) was obtained , 1 ml-ali-quots were taken every 30 min to prepare RNA . 
+Total cell counts ( CFU/ml ) were determined by plating serial dilutions on Tryptone Soy Agar ( TSA , Oxoid ) . 
+2.3. Induction with H2O2 and EDTA
+2.3.1 . 
+Optimization of induction time and concentration 
+The mntH expression was tested according to Kehres et al. ( 2002 ) before and after activation by 
+H2O2 ( Sigma Aldrich , St.-Louis , USA ) , which induces an oxidative stress , and with ethylenediaminetetraacetic acid ( EDTA , Sigma Aldrich , St.-Louis , USA ) , which depletes the medium for divalent cations . 
+To this end strain MB 2486 was grown in BHI at 37 8C ( shaking at 150 rpm ) to an optical density of about 0.05 at 610 nm ( OD610 , early exponential phase ) and an OD610 of about 0.30 ( late exponential phase ) . 
+At both time points the culture was divided in two . 
+For the optimization of the H2O2 induction time , one part was used as control sample , of which 1 ml aliquots was taken immediately ( 1 min ) as well as after 5 , 10 and 15 min incubation at 37 8C to prepare RNA ( basal expression ) . 
+H2O2 was added to the other part in a final concentration of 100 AM and 1 ml sub samples were taken at the same time points as the control sample ( expression after H2O2 stimulation ) . 
+All samples were subjected to RNA extraction . 
+Bacterial plate counts were determined on 
+TSA before and after H2O2 induction for 15 min . 
+For the optimization of the EDTA concentration and induction time , the mntH expression was measured when the strains were grown in BHI at 37 8C to an OD610 6 0.050 ( F1 107 CFU/ml ) . 
+Then the culture was divided in five parts . 
+The control sample was tested without induction , whereas to the other aliquots EDTA was added in final concentrations of 100 , 250 , 500 and 1000 AM , respectively . 
+One ml samples were taken after 15 and 45 min incubation at 37 8C , followed by subsequent RNA preparation . 
+2.3.2 . 
+H2O2 and EDTA induction of different S. enterica strains To compare the mntH expression of different S. enterica strains they were grown in BHI at 37 8C ( shaking at 150 rpm ) to an OD610 of about 0.050 ( F1 107 CFU / ml ) . 
+Subsequently , the culture was divided in three parts . 
+From the first aliquot a sample of 1 ml was taken immediately ( basal expression ) whereas to the second part freshly prepared H2O2 was added in a final concentration of 100 AM , and after 1 min 1 ml was taken . 
+To the third aliquot EDTA was added in a final concentration of 1 mM . 
+The control sample and the sample treated with EDTA were further incubated at 37 8C for 45 min . 
+All samples were subjected to RNA extraction . 
+The mntH expression was also determined in the minimal medium Sauton with low iron content ( 5 AM Fe ) before and after addition of 100 AM H2O2 to 2 + exponential phase cells ( OD610 6 0.050 ) ( Agranoff et al. , 1999 ) . 
+The Sauton medium consisted of asparagine ( 15 mM ) , MgSO4 ( 1 mM ) , sodium citrate ( 4 mM ) , KH2PO4 ( 7 mM ) , glycerol ( 2 % vol/vol ) and ferric ammonium citrate ( 5 AM Fe2 + ) ( pH 6.0 ) . 
+In parallel the mntH expression in some selected strains was tested in the minimal Sauton medium with an iron content of 1 AM ( Agranoff et al. , 1999 ) . 
+2.4 . 
+Intracellular mntH expression in porcine peripheral blood monocytes 
+The intracellular mntH expression was determined after infection of pig monocytes . 
+The Salmonella strains were grown under agitation at 37 8C for 4 h in Luria Broth medium ( LB , Life Technologies Inc. , Gaithersburg , MD , USA ) to an OD610 of about 0.050 . 
+The bacteria were collected by centrifugation ( 5 min at 8000 g ) and washed twice in RPMI 1640 medium ( Cambrex Bio Science Verviers , Verviers , Belgium ) . 
+Bacteria were resuspended in RPMI 1640 medium containing 15 % glycerol ( w/v ) and stored at 80 8C until use . 
+Pig monocytes were isolated and cultured according to Donné et al. ( 2005 ) in RPMI 1640 supplemented with 10 % fetal calf serum ( FCS ) ( Invitrogen Ltd , Paisley , UK ) . 
+The cells ( 1 10 cells per well ) were seeded 5 into 48-well tissue culture dishes and infected with a multiplicity of infection ( MOI ) of 10 . 
+To the control wells ( T0 ) 500 Al lysis buffer ( RLT , Qiagen Inc. , 
+Valencia , CA , USA ) was added immediately after inoculation with bacteria , and RNA was prepared . 
+For the other wells the plates were centrifuged ( 10 min ; 365 g ) after addition of the bacteria and subsequent incubation at 37 8C for 30 min . 
+Extracellular bacteria were killed by incubation at 37 8C for 2 h in the presence of gentamicin ( final concentration of 50 Ag/ml ) . 
+After 2 h ( T2 intracellular bacteria ) the medium was removed and 350 Al of lysis buffer was added to lyse the cells 
+2.5. RNA extraction
+Total RNAwas extracted from 1 ml of bacterial culture using the RNeasy Mini kit and the RNAprotect Bacteria Reagent ( Qiagen ) according to the manufacturer 's instructions . 
+Residual DNA was digested for 2 h at 37 8C in a total volume of 200 Al using 100 U of DNase I ( Roche diagnostics , Penzburg , Germany ) in 40 mM Tris -- HCl ( pH 7.5 ) containing 6 mM MgCl2 . 
+The DNase I was removed using standard phenolization and precipitation procedures ( Sambrook et al. , 1989 ) . 
+The RNA pellet was dissolved in 50 Al DEPC -- H2O and stored at 20 8C . 
+2.6. RT-PCR and real-time quantification
+Reverse transcription ( RT ) on the isolated RNA was performed in a total volume of 20 Al containing 5 mM gene ( GenBank accession number AF140283 ) the forward primer starting at position 520 ( 5V-TTG GCA GGG AGG CGT TT-3V ) and the reversed primer starting at position 584 ( 5V-GCG CGA AGT GCC GTA GTA AT-3V ) were used . 
+Gene transcript quantification was performed on the ABI Prism 7000 Sequence detection system using the SDS 1.0 application software ( Applied Biosystems ) 
+Thermal cycling conditions were as follows : 10 min incubation at 95 8C for activation of the polymerase , followed by 40 cycles of 15 s denaturation at 95 8C and 1 min annealing and elongation at 60 8C . 
+Data were collected during each elongation step . 
+Specificity of the PCR product was confirmed by analysis of the dissociation curve . 
+Each run included a negative control and a cDNA reaction without reverse transcriptase . 
+To quantify the gene expression , relative quantification by means of a standard curve was used . 
+A standard curve of the same RNA sample from Salmonella Typhimur-ium MB 2486 was registered in each run for each gene , by analysing a two fold serial dilutions of the cDNA in triplicate . 
+The amplification efficiency ( E ) was calculated from the standard curves using the equation E = ( ( 10 ) 1 ) * 100 . 
+The relative mntH expression 1 / slope was calculated as the ratio of the mntH expression relative to the expression of three control genes ( 16S rRNA , rpoD and gmk ) . 
+By using the software program geNorm ( Vandesompele et al. , 2002 ) , which calculates the average pairwise variation for a particular reference gene against the other reference genes tested , the gene stability ( M ) was calculated . 
+Ideally this M should be lower than or equal to 1.5 , the gene with the lowest M value is the most stable gene . 
+The program also generates the normalisation factor ( NF ) , i.e. , the geometric mean of multiple relatively stable control genes . 
+The mntH expression was described as the relative quantity of mntH against the NF . 
+To compare the mntH expression under the different biological conditions , all generated mRNA levels of the housekeeping genes were used to calculate the NF . 
+The normalized relative mntH expression was presented as mean value F standard deviation ( SD ) . 
+To determine differences in expression as a function of growth the most optimal black box fitting curve was determined by 
+3. Results
+3.1. Development of the real-time PCR assay
+The optimization of the real-time RT-PCR set-up is essential for accurate RNA quantification . 
+In each run a standard curve was used to determine the amplification efficiency ( E ) for all genes ( mntH , gmk , rpoD and 16S rRNA ) , as assessed by the slope of the standard curve . 
+The efficiency of all assays was N 90 % ( data not shown ) . 
+The reproducibility of the assay was determined in 10 repetitions of the cDNA synthesis and real-time PCR . 
+The intra-assay coefficients of variation ( CV ) for the cDNA synthesis and for the real-time PCR were 13.8 % and 7.3 % , respectively . 
+The mntH mRNA level was expressed relatively to the level of three endogenous controls : gmk , rpoD ( two mRNA 's , with one gene copy ) and 16S rRNA ( ribosomal RNA , with 7 gene copies ) . 
+All generated data were used for calculating the NF and the gene stability was 0.998 , 0911 and 0.782 for rpoD , 16S rRNA and gmk , respectively . 
+gmk was shown the be the most stable expressed housekeeping gene . 
+The expression of the housekeeping genes in Sauton ( 1 AM Fe2 + ) was too variable to be included in the normalization and therefore the mntH expression in this medium could not be compared with 
+3.2 . 
+Gene expression in function of the growth in BHI 
+The expression of mntH and the 16S rRNA and rpoD control genes as a function of the growth in BHI for several S. enterica strains is displayed in Fig. 1 . 
+The mntH expression is presented as rescaled ng calculated on the basis of the used standard curve . 
+The overall gene expression value varied with time . 
+The expression of mntH showed a maximum level in the early exponential growth phase ( F 5 107 CFU/ml ) and started to decrease when a bacterial count of approximately 1 10 CFU/ml was reached . 
+In the late 8 exponential and the early stationary phase , mntH expression was up to 5 times lower than in the early exponential phase . 
+The mntH deletion mutant strain ( MB 2535 ) was negative for mntH expression , whereas the control genes were equally expressed in all tested Salmonella strains . 
+The different growth curves for the four strains were fitted by the black box model as selected by TableCurve 2D , making a compromise between fit and model complexity . 
+All parameters estimated overlapped at the 95 % - level confidence interval , leading us to conclude that no significant differences could be observed between the different growth curves . 
+3.3. Optimization of the mntH induction
+3.3.1 . 
+Determination of the optimal hydrogen peroxide 
+Different hydrogen peroxide induction times ( 0 , 5 , 10 and 15 min ) were tested for Salmonella Typhimur ium strain MB 2486 at two time points in the growth curve . 
+The short hydrogen peroxide treatment and its low concentration ( 100 AM ) had no effect on bacterial growth in the early exponential growth phase ( data not shown ) . 
+At both test times the short oxidative stress induced by H2O2 increased the mntH expression instantaneously , although the induction rate at the beginning of the exponential phase was higher than the induction rate at the end of the exponential phase ( Fig. 2 ) . 
+After 5 , 
+10 and 15 min incubation in the presence of H2O2 the mntH expression level returned to its basal level . 
+3.3.2 . 
+Testing of different EDTA concentrations and 
+The mntH expression of Salmonella Typhimurium MB 2486 in the early exponential growth phase was tested after addition of different EDTA concentrations ( 100 , 250 and 1000 AM ) and for two induction times ( 15 and 45 min ) . 
+The highest induction rate compared with the basal mntH expression was observed after 45 min of incubation with 1 mM EDTA ( data not shown ) . 
+3.4 . 
+The relative mntH expression of different S. enterica strains under conditions mimicking the phagosome environment 
+3.4.1 . 
+The relative mntH expression before and after 
+For 18 porcine S. enterica strains the relative mntH expression before and after induction with H2O2 was determined at one time point in the growth curve ( OD610 6 0.050 ) ( Fig. 3 ( a ) ) . 
+The basal mntH expression relative to the NF of the three endogenous controls was comparable for all strains , with a mean value of 0.053 ( F0 .021 ) ( Table 2 ) . 
+After induction with H2O2 the mntH expression for the different strains increased to a mean of 0.532 ( F 0.323 ) , which is on average 10 times higher than the basal expression ( Table 2 ) . 
+The mntH expression after H2O2 treatment ranged from 0.115 for Salmo-nella Typhimurium MB 2108 to 1.312 for Salmonella Derby MB 1689 ( Fig. 3 ( a ) ) . 
+The relative mntH expression after induction by H2O2 in BHI varied between 0.358 to 0.746 ( Fig. 3 ( a ) ) for three repetitive analyses of Salmonella Typhimurium MB 2486 . 
+3.4.2 . 
+The relative mntH expression before and after 
+The mntH expression was compared for different S. enterica strains grown in Sauton medium before and after induction with H2O2 . 
+In Sauton medium with 5 AM Fe2 + content , the average basal mntH expression in the early exponential growth phase was 0.157 ( F0 .069 ) ( Table 2 , Fig. 4 ( a ) ) . 
+After induction with H2O2 the average mntH expression at T0 was on average 5.950 ( F4 .794 ) , resulting in a 40-fold increase compared to 
+At a later time point in the growth curve ( 1 10 8 CFU/ml ) , no induction with H2O2 was observed ( Fig. 4 ( b ) ) . 
+When the strains were grown under more limited iron concentrations ( Sauton with 1 AM Fe2 + , compared to the Sauton medium with 5 AM Fe2 + ) , the mntH expression being 60 times higher than the basal mntH expression in these iron limited conditions ( data not 
+3.4.3 . 
+The relative mntH expression after induction with 
+EDTA
+The mntH expression after 45 min induction with 1 mM EDTA was determined for 18 S. enterica strains . 
+A 5-fold increase in mntH expression was observed in comparison with the basal expression ( Table 2 , Fig. 3 ( b ) ) . 
+After induction the lowest ( 0.093 ) and highest ( 0.891 ) mntH expression levels were observed for Sal ¬ 
+The mean ( FSD ) relative mntH expression levels for ( n ) S. enterica strains in different environments ( BHI , Sauton , peripheral blood monocytes ) and normalized against the NF as calculated by geNorm software 
+Sauton
+NIT = 0 min 0.053 ( F0 .021 ) b 0.157 ( F0 .069 ) c 0.086 ( F0 .016 ) d H2O2 0.532 ( F0 .323 ) e 5.950 ( F4 .794 ) e , f 0.160 ( F0 .053 ) b , e NIT = 45 min 0.062 ( F0 .027 ) ND EDTA 0.323 ( F0 .202 ) e ND 
+ND : not determined . 
+a Strains grown to the beginning of the exponential phase . 
+b mntH expression at T2 ( the intracellular expression ) . 
+c Significant different ( P valueb0 .05 ) from the basal expression in BHI medium . 
+d mntH expression at T0 ( the extracellular expression ) . 
+e Significant different ( P valueb0 .05 ) from the basal expression . 
+f Significant different ( P valueb0 .05 ) from the induction in BHI . 
+monella Enteritidis MB 1170 and Salmonella Typhi-murium MB 2491 , respectively . 
+The intracellular mntH expression of different pig related S. enterica strains was determined after infection of pig monocytes . 
+After growing the strains to the early exponential phase , the monocytes were infected and the mntH expression of the extracellular bacteria was determined at T0 . 
+After 2 h ( T2 ) , the mntH expression of the intracellular bacteria was significantly induced ( F1 .8 times ) ( Table 2 ) and increased further with longer incubation times ( data not shown ) . 
+3.6 . 
+Comparison of the mntH expression under different conditions generated by the host 
+To compare the mntH expression under the different biological conditions tested the raw mntH expression data were normalized against the NF calculated from all the data collected during the different experiments ( BHI ( without induction and with H2O2 and EDTA induction ) , Sauton ( 5 AM Fe2 + ) without and with H2O2 induction and from the extracellular and intracellular Salmonella bacteria after infection of PBM ) in geNorm . 
+The gene stability of the housekeeping genes was lower than 1 when all the conditions were taken into account , with gmk as the most stable housekeeping gene ( M = 0.782 ) . 
+The expression of mntH was lowest in BHI ( 0.053 F 0.021 ) compared to the one in Sauton ( 0.157 F 0.069 ) and in extracellular Salmonella bacteria ( 0.089 F 0.016 ) ( Table 2 ) . 
+After induction the highest expression ( 5.950 F 4.794 ) was observed in 5 AM Fe2 + Sauton medium when compared to BHI ( 0.532 F 0.323 ) and intracellular Salmonella bacteria ( 0.160 F 0.053 ) . 
+4. Discussion
+The current study describes the development of a protocol for the accurate quantification of the mntH expression . 
+At a latter stage the mntH expression was compared for different S. enterica strains under phagosome simulating conditions . 
+A two-step reversed transcriptase reaction was followed by a quantitative real-time PCR with SYBR Green I detection . 
+By using three different control genes ( 16S rRNA , gmk and rpoD ) instead of only one a more accurate quantification of the expression could be performed ( Vandesompele et al. , 2002 ) . 
+Housekeeping genes , minimally regulated in response to experimental treatments , are of paramount importance in the quantification of virulence gene expression under different physiological conditions . 
+In our study the different biological conditions were compared for several Salmonella strains in the early exponential phase , where the expression of the housekeeping genes is minimally regulated in response to the experimental treatments . 
+The expression of mntH and the housekeeping genes varied according to the different bacterial growth stages . 
+The course of the gene expression as a function of the growth was the same for the various S. enterica strains tested . 
+Vandecasteele and coworkers ( 2001 ) demonstrated for Staphylococcus epidermidis also a highly variable expression of different housekeeping genes in function of the growth . 
+For our Salmonella strains a maximum in the mntH expression was observed at the beginning of the exponential growth phase , followed by a 4 to 5-fold decrease towards the end of the exponential phase . 
+These observations clearly demonstrate the importance of growth standardization when comparing gene expression levels of different strains . 
+The hostile conditions that are generated in vivo in the host macrophage/phagosome were mimicked in vitro by adding H2O2 ( oxidative stress ) and by EDTA treatment , which depletes divalent cations like the eukaryotic MntH homolog NRAMP1 . 
+Similarly to the work of Kehres et al. ( 2000 ) , where the expression of a Salmonella Typhimurium mntH : lacZ construct was strongly ( 20 times ) induced by H2O2 , we obtained a 10-fold higher mntH expression in salmonellae grown in BHI immediately after addition of 100 AM H2O2 . 
+The difference in induction values ( 20 times in the abovementioned study against 10 times in our experiments ) is probably due to different incubation procedures used ( i.e. , microaerobic versus aerobic growth ) . 
+The oxidative stress generated by H2O2 induces the expression on average with a factor 10 , which was two times higher than obtained after EDTA treatment . 
+After induction with H2O2 or EDTA clear differences in the mntH expression between the different S. enterica strains were observed but could not be correlated with serotype , origin or PFGE type . 
+The relative mntH expression varied for repeated analyses with the same Salmonella strain . 
+The use of a chemostat which allows a better control of bacterial growth would probably eliminate these differences . 
+The basal mntH expression under minimal nutrient conditions simulating the phagosome environment was higher compared to that in BHI . 
+In addition to the higher basal mntH level under limited nutrient conditions , H2O2 further increased the mntH expression by strains rather than to intrinsic strain expression differences . 
+Our results clearly show that the mntH mRNA level is highly dependent on the growth phase . 
+In addition , the time point during growth also strongly influenced the induction level after H2O2 or EDTA treatment . 
+An accurate mntH quantification protocol has been reported here , the normalization against three housekeeping genes being of paramount importance . 
+By normalization a more accurate quantification of the 
+Acknowledgements
+Adriaensen and Francine Deboeck for the construction of the mntH mutant .

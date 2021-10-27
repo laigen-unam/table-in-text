@@ -1,0 +1,294 @@
+Biosensors and Bioelectronics 21 ( 2006 ) 1434 -- 1442 
+Afﬁnity-selected ﬁlamentous bacteriophage as a probe for acoustic wave biodetectors of Salmonella typhimurium
+Eric V. Olsen a , Iryna B. Sorokulova b , Valery A. Petrenko c , I-Hsuan Chen c , James M. Barbaree a , Vitaly J. Vodyanoy b , ∗ 
+a Department of Biological Sciences , Auburn University , 101 Life Sciences Bldg. , Auburn , AL 36849 , USA b Department of Anatomy , Physiology and Pharmacology , Auburn University , 109 Greene Hall , College of Veterinary Medicine , Auburn , AL 36849 , USA c Department of Pathobiology , Auburn University , 252 Greene Hall , College of Veterinary Medicine , Auburn , AL 36849 , USA 
+Received 6 May 2005 ; received in revised form 6 June 2005 ; accepted 13 June 2005 Available online 8 August 2005 
+Abstract 
+tous phage prepared as probes physically adsorbed to piezoelectric transducers . 
+Quantitative deposition studies indicated that ≈ 3 × 1010 phage particles/cm2 could be irreversibly adsorbed for 1 h at room temperature to prepare working biosensors . 
+The quality of phage deposition was monitored by ﬂuorescent microscopy . 
+Speciﬁc-bacterial binding resulted in resonance frequency changes of prepared sensors , which were evaluated using linear regression analysis . 
+Sensors possessed a rapid response time of < 180 s , had a low-detection limit of 102 cells/ml and were linear over a range of 101 -- 107 cells/ml with a sensitivity of 10.9 Hz per order of magnitude of S. typhimurium concentration . 
+Viscosity effects due to increasing bacterial concentration and non-speciﬁc binding were not signiﬁcant to the piezoelectric platform as conﬁrmed by dose -- response analysis . 
+Phage -- bacterial binding was conﬁrmed by ﬂuorescence and scanning electron microscopy . 
+Overall , phage may constitute effective bioreceptors for use with analytical platforms for detecting and monitoring bacterial agents , including use in food products and possibly biological warfare applications . 
+© 2005 Published by Elsevier B.V. Proof-in-concept biosensors were prepared for the rapid detection of Salmonella typhimurium in solution , based on afﬁnity-selected ﬁlamen ¬ 
+Keywords: Biosensor; Filamentous bacteriophage; Phage display; Piezoelectric; Quartz crystal microbalance; Salmonella typhimurium
+1. Introduction
+gastrointestinal foodborne illness ( Preliminary foodnet data , 2003 ) and a potential weapon for bioterrorism ( Khan et al. , 2001 ) . 
+The ability to rapidly identify this biological agent and other pathogens , regardless of their contamination origin , is an important consideration of any comprehensive strategic plan to maintain safety and security of the public food supply ( Progress report to Secretary Tommy G. Thompson , 2003 ) . 
+Current research initiatives to replace conventional methods of food analysis that are slower , laborintensive , and cost-inefﬁcient include real-time , deployable Salmonella typhimurium remains a leading cause of threat agent detectors based on biosensors ( Alocilja and Radke , 2003 ) . 
+The majority of rapid detection biosensors described in the literature for S. typhimurium have utilized antibodies as bioreceptors ( Kaspar et al. , 2000 ; Skládal , 2003 ) . 
+Antibodies can be extremely narrow ( monoclonal ) or broad ( polyclonal ) in their speciﬁcity and generally have very high afﬁnities ( picomolar ) . 
+In the production of quartz crystal microbalance ( QCM ) - based immunosensors , they are immobilized to the substrate via their hydrophobic Fc fraction , with the antigen binding Fab fraction being oriented outward to capture the target . 
+However , while sensitive and selective , antibodies possess numerous disadvantages for use as biodetectors in food products or as diagnostic bench-top sensors . 
+These disadvantages include high cost of production , low availability , high fragility , lack of reusability , and the need for laborious immobilization methods to sensor substrates ( Petrenko and Vodyanoy , 2003 ) . 
+A resilient alternative to antibodies is ﬁlamentous phage afﬁnity-selected from a landscape library for speciﬁc , selective binding to a target biomolecules ( Sorokulova et al. , 2005 ) . 
+The Ff class of ﬁlamentous bacteriophage can tolerate the incorporation of foreign DNA through recombinant modiﬁcation -- expressing the foreign peptides on the surface of the virion for presentation to a complementary target , such as cell receptors on the outer membrane of Salmonella . 
+In this way , they can act as antibody substitutes , possessing distinct advantages over their natural counterparts including durability , reusability , stability , standardization , and low-cost production , while achieving equivalent speciﬁcity and sensitivity ( Petrenko and Smith , 2000 ) . 
+The use of phage display to prepare phage as antibody substitute probes to overcome the weak points of antibodies has been discussed ( Petrenko and Vodyanoy , 2003 ) . 
+Numerous phage applications have been proposed ( Smith and Petrenko , 1997 ) , including the detection of bacteria ( Petrenko and Sorokulova , 2004 ) . 
+Previously , we demonstrated that afﬁnity-selected landscape phage probes for S. typhimurium possess the speciﬁcity , selectivity , and afﬁnity of monoclonal antibodies and can be utilized as probes for the detection of S. typhimurium ( Sorokulova et al. , 2005 ) . 
+Phage-based electronic-based biodetectors for bacteria have not been described in the literature , although Petrenko and Vodyanoy ( 2003 ) have discussed the potential of phage in conjunction with the QCM for proof-in-concept detection of threat agents . 
+In addition to previously mentioned advantages over antibodies , the outer coat protein structure of ﬁlamentous phage appears to be highly amenable to simple immobilization through physical adsorption directly to the gold surface of the QCM electrode , thus providing another engineering advantage while maintaining peak biological functionality . 
+As proof-of-concept , we prepared biosensors for the rapid detection of S. typhimurium based on afﬁnityselected ﬁlamentous bacteriophage immobilized to acoustic wave transducers by physical adsorption . 
+∗ Corresponding author . 
+Tel. : +1 334 844 5405 ; fax : +1 334 844 5388 . 
+E-mail address : vodyavi@auburn.edu ( V.J. Vodyanoy ) . 
+0956-5663 / $ -- see front matter © 2005 Published by Elsevier B.V. doi :10.1016 / j.bios .2005.06.00 
+2. Materials and methods
+2.1. Microorganisms
+2.1.1. Bacteriophage
+typhimurium ( clone E2 -- displaying foreign peptide VTPPTQHQ used in this work ) were derived previously from a landscape f8/8 phage library ( Petrenko et al. , 1996 ) through afﬁnity-selection procedures described by Sorokulova et al. ( 2005 ) . 
+Filamentous phage as speciﬁc , selective probes for S. 
+2.1.2. Bacteria
+can Type Culture Collection ( Rockville , MD ) was conﬁrmed S. typhimurium ( ATCC 13311 ) obtained from the Amerifor identity , propagated , and maintained as described by Sorokulova et al. ( 2005 ) . 
+2.2. Test solutions
+The functional performance of biosensors was evaluated with bacterial suspensions prepared from an overnight culture of S. typhimurium in an orbital shaker -- incubator ( 37 ◦ C , ≈ 200 rpm ) . 
+The overnight culture was washed ( 3 × ) by centrifugation ( 5500 rpm , 15 min , 10 ◦ C ) in 20 ml sterile phosphate-buffered saline ( PBS , 0.15 M NaCl , 5 mM NaH2PO4 , [ pH 7.0 ] ) with ﬁnal resuspension in 2 ml PBS . 
+An aliquot ( ranging from 125 to 600 l depending upon growth ) of the culture was diluted with 4 ml 0.5 % ( v/v ) Tween20 in 1 × TBS ( 50 mM Tris -- HCl , 0.15 M NaCl , pH 7.5 ) to prepare a ﬁnal suspension of OD 0.8620 . 
+The suspension was serially diluted with PBS to prepare bacterial suspensions ranging from approximately 101 to 107 cells/ml . 
+Bacterial cell counts were conﬁrmed through standard plate count of the three most dilute cell suspensions giving 30 -- 300 colonies . 
+Plate counts were performed in triplicate , averaged , and multiplied by the dilution factor to derive CFU count per milliliter . 
+All test solutions were prepared the day of biosensor testing and maintained on ice or at 4 ◦ C until use , then brought to room temperature . 
+2.3. Bacteria binding measurements
+quartz resonators , and binding measurement procedures used in deposition experiments and sensor evaluations have been described ( Olsen et al. , 2003 ; Pathirana et al. , 2000 ) . 
+Monitors were calibrated prior to use . 
+All experiments were conducted at room temperature . 
+All components used in deposition experiments were contained within an AtmosbagTM isolation chamber ( Sigma -- Aldrich ) inﬂated with puriﬁed nitrogen gas to prevent airborne contamination of the resonator . 
+where sensor response output in the form of frequency or voltage changes were recorded . 
+Response data from experiments was analyzed using MicrocalTM Origin ® 6.0 ( Microcal Software , Northampton , MA ) . 
+For mass deposition , graphs depicting frequency change as a function of time were prepared . 
+The frequency difference between beginning ( prior to deposition ) and ending ( following deposition ) steady-state levels of masses was determined from these graphs . 
+For biosensors , a cumulative graph of frequency or voltage changes as a function of time was plotted for all bacterial suspensions tested on that sensor . 
+Visual inspection of this graph allowed estimation of steady-state sensor responses . 
+Generally , steady state was achieved within several 100 s following application of the test suspension , but in order to maintain data congruency between all sensors was considered to be the last 2 min of each 7-min test suspension incubation . 
+From these last 2 min , an average steady-state frequency response for each test suspension applied to a sensor was determine The Maxtek acoustic wave device ( AWD ) , accompanying The AWD was interfaced with a data-processing unit , statistically ( 120 data points ) , then plotted to derive a graph of the mean steady-state responses of the sensor as a function of the bacterial test suspension concentration . 
+Linear regression was applied to the data points to determine correlation coefﬁcient , slope , and signiﬁcance . 
+Biosensor results were considered statistically different when the p-value was less than 0.05 ( 95 % conﬁdence interval ) . 
+2.4. Microscopic analysis of sensors
+Conﬁrmation of phage immobilization and phage -- bacteria binding at the sensor surface was conducted by ﬂuorescent and scanning electron microscopy ( SEM ) . 
+Labeling of the phage has been previously described ( Sorokulova et al. , 2005 ) . 
+S. typhimurium cells were ﬂuorescently labeled ( Alexa Fluor 488 Protein Labeling Kit , Molecular Probes , Eugene , OR ) by adding a bacterial suspension ( 1 ml ; 107 cells/ml in PBS ) to a vial of reactive dye , then incubating 1 h at 4 ◦ C. Cells were washed ( 3 × ) with 20 ml PBS by centrifugation ( 3500 rpm , 10 min , 4 ◦ C ) prior to use . 
+Fluorescence microscopy arrangement consisted of an operational QCM apparatus with installed resonator viewed under a Nikon ( Tokyo , Japan ) ECLIPSE E800 ﬂuorescent microscope equipped with 100 W Hg lamp , and 4 × ( NA 0.13 ) , 40 × ( Plan Fluor DIC M , NA 0.75 ) , 60 × ( Plan Apo , NA 1.40 ) and 100 × objectives ( Plan Apo , NA 1.40 ) . 
+Digital images ( 500 -- 550 nm ) were captured using a SPOT RT Slider CCD video camera ( 1520 × 1080 pixels optical resolution ) ( Diagnostic Instruments , Inc. , Sterling Heights , MI ) with exposure settings : red , 1.3 s ; green , 2.02 s. Images were transferred to a data processing unit ( Dell Corp. , Round Rock , TX ) for storage and processing using SPOT Advanced software ( Ver . 
+3.5.9 for Windows 2000 ; build 6 August 2003 , Diagnostic Instruments ) and Adobe ® Photoshop ® ( Ver . 
+5.0 LE , Adobe Systems , San Jose , CA ) . 
+taken in 20 s intervals for up to 2 h. Following phage adsorption for a speciﬁed duration , the resonator was removed from the sensor probe using clean forceps , rinsed of excess phage by immersion in degassed water ( 3 × ) , and examined under ﬂuorescent oil immersion ( 1000 × ) . 
+A negative control , consisting of a new , clean resonator treated with Alexa 488 ﬂuorescent dye , was incorporated into the study for comparison . 
+at room temperature for 24 h in a sealed petri dish by elevating them over a small layer of desiccant using wooden applicator sticks . 
+A resonator incorporating only phage was prepared in the same manner as a control . 
+The dried sensors were mounted onto aluminum stubs with carbon adhesive tape then sputter-coated at 0.02 mbar Ar gas pressure with a 60:40 Au/Pd mixture at 30 mA for 1.5 min . 
+Sensors were examined using a Zeiss DSM 940 SEM ( Thornwood , NY ) at 10 kV . 
+Micrographs of the specimens were captured digitally using a Digital Image Transfer Recognition Program ( Zeiss ) , and processed with Adobe Photoshop 5.0 LE . 
+Sequential photos of phage adsorption to resonators were For SEM , previously assayed biosensors were air-dried 
+3. Results and discussion
+3.1. Phage deposition to resonators by physical adsorption
+An initial phage deposition study based on the `` dip and dry '' gravimetric procedure of Prusak-Sochaczewski and Luong ( 1990 ) was conducted to determine the feasibility of physically adsorbing ﬁlamentous phage to resonators and if successful , the optimal conditions of time and concentration necessary for the preparation of biosensors capable of detecting S. typhimurium under liquid conditions . 
+Dip and dry refers to measurement of the change in the resonant frequency , f , of a dry resonator prior to and after deposition of mass . 
+According to theory ( Sauerbrey , 1959 ) , a mass ( attributed here to the mass of phage ) , m , deposited to the active area of the sensing electrode results in a decrease of the resonator 's oscillation frequency , the total value of which can be solved for using Sauerbrey ( 1959 ) equation as follows , assuming that the mass creates a rigid , uniform ﬁlm that does not slip and has the same acousto -- elastic properties as quartz : where f is the observed change in frequency ( Hz ) of the resonator under oscillation at its fundamental frequency due to mass loading , Cf the sensitivity factor of the resonator in Hz / ( ng cm − 2 ) , and m is the change in mass per unit area in g/cm2 . 
+The sensitivity factor ( Cf ) of Maxtek 's 5 MHz AT-cut resonator is 0.0566 Hz / ( ng cm − 2 ) at 20 ◦ C , and takes into account the harmonic number at which the resonator is driven , resonant frequency ( Hz ) of the fundamental mode of the resonator , and the density and effective piezoelectrically stiffened shear modulus of the quartz substrate ( RQCM Operation and Service Manual , 2003 ) . 
+sensor , much like a very sensitive nanobalance . 
+A representative graph demonstrating phage adsorption as a function of time is shown in Fig. 1A . 
+The graph depicts the steady-state oscillation of a dry , clean resonator at resonance prior to the application of 1 ml of diluted stock phage E2 in suspension ( 6.7 × 1010 virions/ml ) ( fS ) , followed by an 18 h incubation period at room temperature , removal ( fR ) of the phage suspension and washing with degassed water , and ﬁnally drying , with a subsequent return to steady-state resonance ( fE ) . 
+The resulting frequency change , f , measured as a decrease , fS − fE , was − 161 ± 0.5 Hz , indicating that phage adsorbed to the resonator . 
+This is contrasted by a control ( Fig. 1B ) consisting of a clean resonator interrogated with degassed water only , which resulted in no frequency change ( fS − fE = 0 ± 0.5 Hz ) . 
+were determined for periods up to 24 h ( 1440 min ) ( Table 1 ) . 
+When the quantity of adhered phage is graphed as a function of time ( Fig. 2 ) and a sigmoidal curve is ﬁtted to the experimental data points , a strong relationship is eviden Using this approach , the resonator acts as a gravimetric Resonance frequency changes due to phage adsorption 
+= − Cf ( m ) 
+( 1 ) 
+f 
+Fig. 1 . 
+( A ) Representative graph depicting frequency change as a function of phage adsorption to resonator over time . 
+Eighteen-hour incubation period is shown . 
+fS , application of phage in suspension to clean , dry resonator at steady state : 5,012,338 ± 0.5 Hz . 
+fR , removal of phage suspension , washing , and air-drying of resonator . 
+fE , dried resonator at steady state : 5,012,177 ± 0.5 Hz . 
+f = fS − fE = − 161 ± 0.5 Hz . 
+( B ) Representative graph of a clean resonator with degassed water only ( control ) depicting frequency change as a function of time . 
+One-hour incubation period is shown . 
+fS , application of water to clean , dry resonator at steady state : 5,000,167 ± 0.5 Hz . 
+fR , removal of water and air-drying of resonator . 
+fE , dried resonator at steady state : 5,000,167 ± 0.5 Hz . 
+f = fS − fE = 0 ± 0.5 Hz . 
+( R2 = 0.98 ) . 
+Extrapolation of the curve at the 120 min time point yields f of approximately -- 150 Hz . 
+This represents a 92 % total frequency change in relation to the maximum frequency change observed at 24 h ( − 163 Hz ) , indicating that the majority of phage appears to adsorb within the ﬁrst few hours after deposition is commenced . 
+The quantity of phage , in virions , can be calculated from the total adsorbed biomass , m , if the mass of a single recombinant fd-tet phage is estimated at 2.66 × 107 Da , based on 4000 pVIII outer coat proteins each containing 55 amino acids with a total molecular weight 2.35 × 107 , and DNA with a molecular weight of 3.04 × 106 . 
+As shown in Table 1 , the total number of phage particles deposited to the active area of the sensing electrode ranged from 1.8 × 1010 to 6.5 × 1010 virions as a function of the substrate 's exposure time ( 20 min -- 24 h , respectively ) to phage in suspension . 
+Table 1 
+Quantity of phage physically adsorbed to resonators as a function of time Incubation − f ( Hz ) m Phage adsorbed ( min ) ( ng ) d ( virions ) e 20 45a 795 1.80 × 1010 40 60b 1065 2.41 × 1010 60 92c 1625 3.68 × 1010 1080 136 2402 5.45 × 1010 1440 163 2880 6.50 × 1010 sensing electrode as calculated from m/mv , where the mass of a single virion ( mv ) is 2.66 × 107 Da/6 .023 × 1023 Da = 44.1 × 10 − 9 ng . 
+a Mean average of ﬁve experiments , S.D. = 31.1 Hz . 
+b Mean average of three experiments , S.D. = 46.5 Hz . 
+c Mean average of four experiments , S.D. = 59.2 Hz . 
+d Adsorbed phage mass as determined by Sauerbrey equation , f = 0.0566 m. e Quantity of phage deposited to the active area ( 34.19 mm2 ) of the upper 
+Phage adsorption to the sensing electrode of the resonator was conﬁrmed in real-time by ﬂuorescence microscopy for periods up to two consecutive hours ( Fig. 3 ) . 
+Visual observations indicate that phage deposition may be affected by several factors in addition to the attractive force between the phage and gold ( electrode of the resonator ) , including sedimentation , refractory movements of the phage in suspension due to resonator perturbations , and the tendency of phage to aggregate in solution , resulting in decreased quantity and quality of deposition when large bundles deposit outside that portion of the sensing electrode where piezoelectricity , and thus frequency changes associated with the resonator , is active . 
+This statement is consistent with large standard deviations in 20 , 40 , and 60 min deposition experiments ( Fig. 2 ) . 
+Quantitative deposition data together with visual observations suggests that lateral phage aggregates or `` bundles , '' rather than individual particles , might be the prevalent state of deposition to the electrode if one considers the size of individual phage particles and the area of the electrode available for deposition . 
+If the dimensions of a single recombinant fd-tet virion are estimated at 10 nm ( diameter ) × 1300 nm ( length ) , then the approximate electrode surface area that would be occupied in a space-ﬁlling model by a single , laterally adsorbed phage particle would be 13,000 nm2 or 1.3 × 10 − 14 m2 . 
+The active area of the sensing electrode is equal to 34.19 mm2 or 34 × 10 − 6 m2 of the upper sensing electrode ( RQCM Operation and Service Manual , 2003 ) . 
+Given these dimensions , the estimated total number of adsorbed phage particles that could occupy the active sensing electrode surface area , if laterally aligned one layer thick , is 34 × 10 − 6 m2/1 .3 × 10 − 14 m2 = 2.6 × 109 virions . 
+Experimental data ( Table 1 ) shows that the amount of phage deposited within only 20 min exceeds this quantity ﬁve-fold . 
+This would seem to indicate that either ﬁve or more unidirectional aligned layers of individual particles , or more likely large bundles of phage particles that bind to each other as aggregates in solution , are deposited . 
+An alternative explanation is that phage is adsorbed on-end , that is , the particle attaches by its tip hydrophobically through charge differences or via cysteine residues in minor coat proteins , forming Au -- sulﬁde bonds . 
+According to the space-ﬁlling model of Yaglom ( 1972 ) , packaging occurs most economically when discs are arranged as a hexagonal lattice . 
+Therefore , if cylindrical phage particles are attached by the tip then the density of virions will be much larger compared to the oblique orientation . 
+In this case , the density of ﬁlling ( f ) is 
+Fig. 2 . 
+Conglomerate data from timed deposition studies ( Table 1 ) . 
+Fitted sigmoidal curve indicates a strong relationship ( R2 = 0.98 ) between time and frequency change as a result of phage adsorbing to resonators . 
+Bars are S.D 
+equal to : √ 
+= π 3 ≈ 0.907 6 The surface occupied by a single vertical phage particle would be estimated as : πd2 3.14 × 102 Sv = = = 78.5 nm2 = 7.85 × 10 − 17 m2 , 4 4 ( 3 ) and the number of phage particles covering the active area of electrode would be equal to : − 6 2 = S 0 907 × active Nv . 
+= 0.907 × 34 × 10 m S 7.85 × 10 − 17 v m2 = 0.907 × 4.33 × 1011 = 3.92 × 1011 virions . 
+Overman et al. , ( 2004 ) have demonstrated salt - and concentration-dependent associative properties of phage aggregates , resulting in different physical alignments ( unilateral or non-unidirectional ) based on molar concentration of salt and virion concentration in solution . 
+Thus , further experimentation with salt-virion proportions and concentrations may reveal different physical adsorption properties . 
+Deposition of phage to the sensing electrode was characterized by strong , non-reversible binding under aqueous conditions , as washing with numerous changes of water ( Fig. 4A ) or extended immersion in water ( Fig. 4B ) under operational conditions for durations up to 55 h resulted in no measurable loss of adsorbed phage from the surface of the resonator . 
+While the exact nature and strength of the attractive force between phage and resonator was not determined , possible explanations for protein physical adsorption to gold include hydrophobic bonding , weak H + bonding , and van der Waal forces , along with covalent bonding through Cys -- SH groups mentioned above . 
+equal to : √ 
+( 2 ) 
+f 
+( 4 ) 
+Fig. 4 . 
+( A ) Short-term phage adsorption stability . 
+Dry resonator previously adsorbed with ﬁlamentous phage for 18 h ( fS : 4,999,973 ± 0.5 Hz ) was washed ( W ) ﬁve times with degassed water then air-dried ( fE : 4,999,973 ± 0.5 Hz ) . 
+f = fS − fE = 0 ± 0.5 Hz , indicating no loss of phage from active area of the sensing electrode . 
+( B ) Long-term phage adsorption stability . 
+Dry resonator previously adsorbed with ﬁlamentous phage ( fS : 4,999,077 ± 0.5 Hz ) was incubated with degassed water for 55 h then air-dried ( fE : 4,999,077 ± 0.5 Hz ) . 
+f = fS − fE = 0 ± 0.5 Hz , again indicating no loss of phage from active area of the sensing electrode . 
+Fig. 5 . 
+( A ) Frequency responses of phage biosensor to differing concentrations of S. typhimurium as a function of time . 
+Concentrations ranged from 0 ( PBS ) to 107 cells/ml ( select values shown to right of response lines ) . 
+( B ) Dose -- response relation of mean values ( n = 2800 ± 2 ) of steady-state output sensor frequencies as a function of S. typhimurium concentration . 
+Bars are S.D. = 2.9 − 10.0 Hz . 
+Curve is linear least squares ﬁt to experimental data ( R = − 0.98 , slope = − 10.9 Hz , p < 0.001 ) . 
+( C ) Voltage responses of a clean , unmodiﬁed sensor to increasing concentrations of S. typhimurium as a function of time . 
+Concentrations ranged from 0 ( PBS ) to 1010 cells/ml . 
+( D ) Dose -- response relation of mean values ( n = 431 ) of steady-state output sensor voltages as a function of S. typhimurium concentration . 
+Bars are S.D. Curve is linear least squares ﬁt to experimental data points ( R = − 0.61 , slope = − 0.09 mV , p < 0.05 ) 
+3.2. Biosensor preparation and testing
+Based on phage deposition studies with concurrent visual observations , a period of 1 h was selected for the preparation of biosensors by physical adsorption . 
+For each sensor prepared , 1 ml of diluted phage ( 6.7 × 1010 virions/ml with PBS ) was incubated on the resonator for 1 h at room temperature , ensuring total immersion of the sensing electrode . 
+Following this period , the phage solution was gently removed then the resonator was washed ( 3 × ) by immersion in 25 ml PBS with gentle rocking and blocked with bovine serum albumin ( BSA ) ( 1 g/ml for 1 h at 4 ◦ C ) . 
+The resonator was again washed ( 3 × ) with PBS then tested with a logarithmic series of S. typhimurium test suspension as previously described ( Olsen et al. , 2003 ; Pathirana et al. , 2000 ) . 
+Fig. 5A depicts typical frequency changes resulting from bacterial binding as a function of increasing logarithmic concentrations of free bacteria in suspension . 
+These changes are hypothetically due to both mass changes associated with binding bacteria and viscoelastic changes resulting from phage -- bacteria interaction at the solid/liquid interface ( Pathirana et al. , 2000 ) . 
+For each concentration , the sensor quickly comes to steady-state equilibrium within several 100 s following speciﬁc phage -- bacteria binding . 
+When the mean values of steady-state frequency readings are plotted as a function of bacterial concentration ( Fig. 5B ) , and a linear line ﬁt , a high dose -- response relationship is evident ( R = − 0.98 , p < 0.001 ) with the biosensor being linear over six decades of bacterial concentration . 
+The sensitivity of the biosensor ( − 10.9 Hz ) , measured as the slope of the linear portion of the dose -- response was vastly greater than the established background ( < ± 1 Hz , data not shown ) . 
+The lower limit of detection based on the dose -- response curve was estimated at 100 cells/ml , well below the infectious dosage reported for Salmonella-induced gastroenteritis . 
+These results are very comparable with our previous observations for Salmonella biosensors prepared with polyclonal antibodies ( Olsen et al. , 2003 ; Pathirana et al. , 2000 ) . 
+Viscosity effects on the piezoelectric platform due to increasing bacterial concentration and non-speciﬁc binding are insignificant as conﬁrmed by dose -- response curves ( Fig. 5C and D ) from a clean , unmodiﬁed sensor . 
+Visual observation by ﬂuo-rescent and scanning electron microscopy ( Fig. 6 ) conﬁrmed attachment of bacteria to the surface of the resonator coated with ﬁlamentous phage . 
+While these results typify the majority of sensor dose -- responses , not all prepared sensors functioned in this manner . 
+Some sensors had ﬂat dose -- responses , exhibiting only an initial negative frequency change when challenged with the lowest concentrations of bacteria in comparison to the control solution , PBS . 
+This may suggest that saturation of the bioreceptor by the bacteria occurred early in the testing process . 
+Possibly , only a small amount of phage was actively adsorbed onto the sensor electrode and/or possessed unfavorable spatial orientation as a result of the somewhat uncontrolled phage adsorption process , resulting in a small number of ﬁrm binding sites for the bacterial receptor . 
+As well , a minority of sensors demonstrated distinct inverse correlation as previously noted with environmentally aged antibody sensors for S. typhimurium , and sensors prepared for E. coli using H-antigen antibodies ( Olsen et al. , 2003 ) . 
+Again , we hypothesize that the nature of the deposition process results in less than optimal spatial orderliness of phage on the sensor . 
+This in turn results in loose binding of the analyte at the solid/liquid interface . 
+We are currently researching the effects that tethered macromolecules have on resonator frequency and anticipate releasing these results in the near future to show loose binding as a mass -- spring system based on the research of Dybwad ( 1985 ) and others . 
+We also hope to identify the speciﬁc-bacterial receptor targeted by the phage , which would provide great insight into loose binding if the receptor is an outer membrane associated structure such as ﬂagella or ﬁmbriae ( Sorokulova et al. , 2005 ) . 
+Fig. 6 . 
+( A ) Fluorescence microscopy image of S. typhimurium attached to the surface of a resonator previously adsorbed with ﬁlamentous phage ( discernable in background ) . 
+The majority of bacteria demonstrated rigidly attached ﬂagella ( arrows ) . 
+Magniﬁcation 1000 × . 
+( B ) Scanning electron micrograph of S. typhimurium binding to phage immobilized to the surface of a sensor by physical adsorption . 
+Magniﬁcation 3000 × ; bar = 5 m. ( C ) Scanning electron micrograph of control sensor with only phage physically adsorbed . 
+The smooth surface is indicative of a polished resonator . 
+Phage resolution was not possible . 
+Magniﬁcation 1000 × black bar = 10 m. 
+4. Conclusions
+proof-of-concept biosensors for S. typhimurium in aqueous samples , based on afﬁnity-selected recombinant ﬁlamentous phage probes . 
+Sensors prepared with phage as probes could be an effective analytical method for detecting and monitoring quantitative changes of bacterial agents under any condi-The results of this research demonstrate developmental tions that warrant their recognition , including food products and possibly biological warfare applications . 
+Furthermore , the nature of the bioreceptor layer holds potential utilization for development against any bacteria , virus or toxin to which a corresponding phage could be afﬁnity-selected for . 
+Therefore , other potential markets include clinical-based diagnostics , research , and industrial use . 
+Acknowledgements
+This work was supported by the following grants : DARPA MDA972-00-1-0011 ( VJV ) , ARO/DARPA DAAD 19-01-10454 ( VAP ) , NIH NIH-1 R21 AI055645 ( VAP ) , Sigma Xi Grants-in-Aid of Research 10040088 ( EVO ) , and USDA 99-34394-7546 ( Dr. Bryan Chin ) . 
+We are grateful to Dr. Galina Kouzmitcheva for assistance in phage molecular weight calculations , Dr. Alexandre Samoylov and Oleg Pustovyy for assistance and discussion with QCM equipment , and Alexey Samoylov for development of data acquisition software . 
+References 
+Alocilja , E. , Radke , S.M. , 2003 . 
+Market analysis of biosensors for food safety . 
+Biosens . 
+Bioelectron . 
+18 , 841 -- 846 . 
+Dybwad , G.L. , 1985 . 
+A sensitive new method for the determination of Kaspar , M. , Stadler , H. , Weiss , T. , Ziegler , C. , 2000 . 
+Thickness shear Khan , A.S. , Swerdlow , D.L. , Juranek , D.D. , 2001 . 
+Precautions against Olsen , E.V. , Pathirana , S.T. , Samoylov , A.M. , Barbaree , J.M. , Chin , B.A. , Overman , S.A. , Kristensen , D.M. , Bondre , P. , Hewitt , B. , Thomas Jr. , Pathirana , S.T. , Barbaree , J. , Chin , B.A. , Hartell , M.G. , Neely , W.C. , Petrenko , V.A. , Smith , G.P. , 2000 . 
+Phages from landscape libraries as Petrenko , V.A. , Smith , G.P. , Gong , X. , Quinn , T. , 1996 . 
+A library of Petrenko , V.A. , Sorokulova , I.B. , 2004 . 
+Detection of biological threats . 
+A Petrenko , V.A. , Vodyanoy , V.J. , 2003 . 
+Phage display for detection of bioPreliminary Foodnet Data on the Incidence of Infection with Pathogens Progress Report to Secretary Tommy G. Thompson : Ensuring the Safety adhesive bonding between a particle and a substrate . 
+J. Appl . 
+Phys . 
+58 , 2789 -- 2790 . 
+mode resonators ( `` mass sensitive devices '' ) in bioanalysis . 
+Fresenius ' J. Anal . 
+Chem . 
+366 , 602 -- 610 . 
+biological and chemical terrorism directed at food and water supplies . 
+Public Health Rep. 116 , 3 -- 14 . 
+Neely , W.C. , Vodyanoy , V. , 2003 . 
+Speciﬁc and selective biosensor for Salmonella and its detection in the environment . 
+J. Microbiol . 
+Methods 53 , 273 -- 285 . 
+G.J. , 2004 . 
+Effects of virion and salt concentrations on the Raman signatures of ﬁlamentous phages fd , Pf1 , Pf3 , and PH75 . 
+Biochemistry 43 , 13129 -- 13136 . 
+Vodyanoy , V. , 2000 . 
+Rapid and sensitive biosensor for Salmonella . 
+Biosens . 
+Bioelectron . 
+15 , 135 -- 141 . 
+substitute antibodies . 
+Protein Eng . 
+13 , 589 -- 592 . 
+organic landscapes on ﬁlamentous phage . 
+Protein Eng . 
+9 , 797 -- 801 . 
+challenge for directed molecular evolution . 
+J. Microbiol . 
+Methods 58 , 147 -- 168 . 
+logical threats . 
+J. Microbiol . 
+Methods 53 , 253 -- 262 . 
+Transmitted Commonly Through Food -- Selected Sites , United States , 2003 . 
+Morbidity and Mortality Weekly Reports , 30 April 2004 . 
+Centers for Disease Control and Prevention , Atlanta , GA , 7 January 2005 . 
+www.cdc.gov/mmwr/preview/mmwrhtml/mm5316a2.htm . 
+and Security of the Nation 's Food Supply . 
+National Food Safet 
+Programs , 23 July 2003 . 
+U.S. Food and Drug Administration , Department of Health and Human Services , Center for Food Safety and Applied Nutrition , 9 November 2003 . 
+http://www.cfsan.fda.gov/ ∼ dms/fssrep.html . 
+Prusak-Sochaczewski , E. , Luong , J.H.T. , 1990 . 
+Development of a piezoelectric immunosensor for the detection of Salmonella typhimurium . 
+Enzyme Microb . 
+Tech . 
+12 , 173 -- 177 . 
+RQCM Operation and Service Manual , 2003 . 
+Maxtek , Inc. , Sante Fe Springs , CA , pp. 1 -- 55 . 
+Sauerbrey , G.Z.Z. , 1959 . 
+Use of quartz vibrator for weighing thin ﬁlms on a microbalance . 
+Z. Phys . 
+155 , 206 -- 212 
+Skládal , P. , 2003 . 
+Piezoelectric quartz crystal sensors applied for bioanalytical assays and characterization of afﬁnity interactions . 
+J. Braz . 
+Chem . 
+Soc . 
+14 , 491 -- 502 . 
+Smith , G.P. , Petrenko , V.A. , 1997 . 
+Phage display . 
+Chem . 
+Rev. 97 , 391 -- 410 . 
+Sorokulova , I.B. , Olsen , E.V. , Chen , I. , Fiebor , B. , Barbaree , J.M. , Vodyanoy , V.J. , Chin , B.A. , Petrenko , V.A. , 2005 . 
+Landscape phage probes for Salmonella typhimurium . 
+J. Microbiol . 
+Methods 63 , 55 -- 72 . 
+Yaglom , I.M. , 1972 . 
+Elementary Geometry Then and Now . 
+Knowledge , Mathematics , Moscow .

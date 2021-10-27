@@ -1,0 +1,900 @@
+Thiosulfate Reduction in Salmonella enterica Is Driven by the Proton Motive Force
+Laura Stoffels , a , b Martin Krehenbrink , b Ben C. Berks , b and Gottfried Undena 
+Institute for Microbiology and Wine Research , Johannes Gutenberg-University of Mainz , Mainz , Germany , a and Department of Biochemistry , University of Oxford , Oxford , United Kingdomb 
+Thiosulfate respiration in Salmonella enterica serovar Typhimurium is catalyzed by the membrane-bound enzyme thiosulfate reductase . 
+Experiments with quinone biosynthesis mutants show that menaquinol is the sole electron donor to thiosulfate reductase . 
+However , the reduction of thiosulfate by menaquinol is highly endergonic under standard conditions ( E ° = 328 mV ) . 
+Thiosulfate reductase activity was found to depend on the proton motive force ( PMF ) across the cytoplasmic membrane . 
+A structural model for thiosulfate reductase suggests that the PMF drives endergonic electron ﬂow within the enzyme by a reverse loop mechanism . 
+Thiosulfate reductase was able to catalyze the combined oxidation of sulﬁde and sulﬁte to thiosulfate in a reverse of the physiological reaction . 
+In contrast to the forward reaction the exergonic thiosulfate-forming reaction was PMF independent . 
+Electron transfer from formate to thiosulfate in whole cells occurs predominantly by intraspecies hydrogen transfer . 
+Thiosulfate is a potential respiratory electron acceptor for bacteria which live in anoxic environments or at the anoxic / oxic interface ( 6 ) . 
+The ability to respire thiosulfate is conferred by the enzyme thiosulfate reductase which catalyzes the reaction S O 2 2 3 2H 2e ¡ HS HSO3 . 
+Thiosulfate is a signiﬁcant intermediate in the sulfur cycle of anoxic marine and freshwater sediments , where it is involved in reduction , oxidation , and disproportionation pathways ( 34 ) . 
+The net effect of these reactions is to keep the thiosulfate concentration in these environments relatively low ( submicromolar to ca. 10 M ) . 
+Thiosulfate reduction in sediments is primarily carried out by sulfate-reducing bacteria . 
+Indeed , sulfate-reducing bacteria preferentially use thiosulfate over sulfate as an electron acceptor ( 35 ) . 
+In sulfate-reducing bacteria , the sulﬁte produced in the thiosulfate reductase reaction is further reduced to sulﬁde by sulﬁte reductase . 
+Sulﬁte reduction is an energy-yielding reaction that is also the ﬁnal step in sulfate respiration . 
+Certain sulfate-reducing bacteria are able to grow by thiosulfate disproportionation to sul-ﬁde and sulfate ( 20 ) , a pathway in which the ﬁrst step is proposed to be thiosulfate reduction by thiosulfate reductase . 
+Thiosulfate reductase activity is not restricted to sulfate-reducing bacteria but can be found in other types of environmentally abundant bacteria , such as Shewanella species ( 12 ) . 
+Thiosulfate can also be found in the mammalian gut . 
+Bacteria present in the lumen of the large intestine produce sulﬁde by reduction of dietary sulfate and sulﬁte , by fermentation of sulfurcontaining amino acids , and by metabolism of sulfated muco-polysaccharides . 
+To protect the animal from the toxic effects of this microbially produced sulﬁde , mitochondria in the colonic mucosa catalyze the oxidation of sulﬁde to thiosulfate ( 25 , 29 , 47 ) . 
+The thiosulfate produced is then available as a respiratory substrate for colonic bacteria . 
+The ability of certain enteric pathogens to produce sulﬁde from thiosulfate has been know for almost one hundred years ( 69 ) and is the basis of some commercial tests used for strain differentiation in clinical diagnostic laboratories . 
+Genera of enteric bacteria that typically reduce thiosulfate include Salmonella , Proteus , Citrobacter , and Edwardsiella . 
+The molecular basis of thiosulfate respiration has been best studied in the pathogen Salmonella enterica serovar Typhimu-rium . 
+The electron transfer chain of S. enterica , like that of the closely related bacterium Escherichia coli , possesses three different membrane quinones that mediate electron transfer between respiratory dehydrogenases and terminal reductases ( Fig. 1 ) ( 49 , 76 ) . 
+Ubiquinone ( UQ ) is the major quinone during aerobic growth , whereas the naphthoquinones menaqui-none ( MK ) and demethylmenaquinone ( DMK ) are produced and used mainly during anaerobic respiration ( for a review , see reference 75 ) . 
+Thiosulfate respiration in S. enterica is blocked in strains that can not synthesize naphthoquinones , suggesting that MKH2 and/or DMKH2 are the electron donors to thiosulfate reductase ( 44 , 45 ) . 
+Thiosulfate reductase in S. enterica is encoded by the phsABC operon ( 28 ) . 
+All three subunits of thiosulfate reductase exhibit sequence similarity to those of E. coli formate dehydrogenase-N , an enzyme for which a crystal structure has been obtained ( 36 ) . 
+By analogy to formate dehydro-genase-N , the PhsA subunit of thiosulfate reductase is predicted to be a peripheral membrane protein containing an active site bis ( molybdopterin guanine dinucleotide ) molybdenum ( MGD ) cofactor ( Fig. 2 ) ( 30 ) . 
+Similarly , PhsC is an integral membrane protein that anchors the other two subunits to the membrane . 
+PhsC is also predicted to contain the site for naphthoquinol oxidation and two heme cofactors located at opposite sides of the membrane ( 8 ) . 
+PhsB is predicted to possess four iron-sulfur centers that transfer electrons between PhsC and PhsA . 
+In S. enterica , the sulﬁte produced in the thiosulfate reductase reaction can be further reduced by an NADH-linked cytoplasmic sulﬁte reductase ( 26 , 32 ) . 
+Intriguingly , S. enterica has recently been shown to use colonic thiosulfate to support respiratory metabolism during infection by an additional mechanism in which induction of the host macrophage respiratory burst results in oxidation of thiosulfate to the superior electron acceptor tetrathionate ( 77 ) . 
+A remarkable aspect of thiosulfate reduction in S. enterica is that under standard conditions , the reduction potential of the electron acceptor couple ( E ° = [ S O 2 / HS SO 2 2 3 3 ] 402 mV ) is considerably lower than that of the electron donor couple ( E ° = 74 mV [ MK/MKH2 ] or 25 mV [ DMK/DMKH2 ] ) ( 64 , 70 ) . 
+This results in an unfavorable E ° = of 328 mV for the reaction when MKH2 is employed as the electron donor . 
+With DMK as the electron donor , the E ° = of the reaction becomes 99 mV more unfavorable . 
+The reaction catalyzed by thiosulfate reductase is , therefore , highly endergonic and must be linked to an exergonic process in order to operate in the observed direction . 
+The structural similarity between thiosulfate reductase and formate dehydrogenase-N allows us to propose a possible mechanism by which this could be achieved ( Fig. 2 ) ( 76 ) . 
+In formate dehydrogenase-N , formate is oxidized at the periplasmic side of the membrane . 
+The electrons released in this reaction are transferred across the membrane by means of the hemes in the membrane subunit to the site of MK reduction , which is located at the cytoplasmic face of the membrane . 
+This mechanism generates a proton motive force ( PMF ) because electrons have been moved across the membrane from periplasm to cytoplasm ( 8 , 33 , 41 ) . 
+The structural similarity of thiosulfate reductase to formate dehydro-genase-N suggests that the routes of electron transfer are the same in the two enzymes ( Fig. 2 ) . 
+However , the direction of this electron transfer is reversed in the thiosulfate reductase , with electrons being moved from the cytoplasmic side to the periplasmic side of the membrane . 
+As a consequence , the transmembrane electron movements consume , rather than contribute to , the PMF . 
+The homology model thus suggests a possible mechanism by which the transmembrane PMF is coupled to electron transfer to drive the otherwise endergonic reduction of thiosulfate by the electrons derived from naphthoquinone oxidation . 
+In this study , we investigate the bioenergetics of thiosulfate respiration in S. enterica and test the hypothesis that thiosulfate reduction is driven by the PMF . 
+Received 15 August 2011 Accepted 1 November 2011 Published ahead of print 11 November 2011 
+Address correspondence to Gottfried Unden , unden@uni-mainz.de, or Ben C. Berks , ben.berks@bioch.ox.ac.uk . 
+Copyright © 2012 , American Society for Microbiology . 
+All Rights Reserved . 
+doi :10.1128 / JB.06014-11 
+FIG 1 Organization of the anaerobic electron transfer pathways of S. enterica LT2 and E. coli K-12 . 
+Only pathways relevant to this work are depicted . 
+Electron donor molecules are shown on the left of the ﬁgure , with arrows indicating possible pathways of electron ﬂow to electron acceptors at the right of the ﬁgure . 
+Glyerol-3-phosphate is produced from glycerol by glycerol kinase . 
+Enzymes are boxed . 
+The protein subunits of each enzyme are given in parentheses . 
+All enzymes shown are integral or peripheral membrane proteins with the exception of TorA and NapAB , which are soluble periplasmic enzymes . 
+The H :2 e coupling stoichiometry of each enzyme is shown by an arrow through the box . 
+An upward arrow indicates generation of a PMF , and a downward arrow indicates consumption of the PMF . ? 
+H indicates that PMF generation by the enzyme is likely but has not been experimentally demonstrated . 
+The PMF-generating mechanism of FDH-N is given in Fig. 2 . 
+FDH-O , HYD-1 , NarGHI , and NarZYV generate a PMF by analogous redox loop mechanisms ( 8 , 76 ) . 
+The dashed box around thiosulfate reductase indicates that this enzyme is present only in S. enterica but can be functionally expressed in E. coli as in this work . 
+S. enterica possesses an additional hydrogen : quinone oxidase reductase that is homologous to HYD-1 but expressed under aerobic conditions and not depicted here ( 81 ) . 
+UQ , ubiquinone ; DMK , demethylmenaquinone ; MK , menaquinone ; DMSO , dimethyl sulfoxide ; TMAO , trimethylamine N-oxide . 
+Note that not all enzymes shown interacting with the quinone/quinol pool are able to use all three types of quinone ( 76 ) . 
+MATERIALS AND METHODS
+Strains and growth conditions . 
+The strains and plasmids used in this study are listed in Table 1 . 
+S. enterica and E. coli strains were cultured on Luria-Bertani ( LB ) medium at 37 °C ( 53 ) . 
+For experiments in which induction of the phsABC operon was desired , cells were grown to an optical density at 578 nm ( OD ) of 0.6 in anoxic liquid culture supplemented 578 with 50 mM sodium thiosulfate together with the electron donor to be used in subsequent experiments with the cells ( 25 mM sodium formate or 50 mM glycerol or 100 % hydrogen in the gas phase ) . 
+Anoxic conditions were obtained by sparging the medium with oxygen-free nitrogen ( or hydrogen as appropriate ) for 5 min following inoculation . 
+Antibiotics were used at the following concentrations : ampicillin ( Ap ) , 50 to 100 g ml 1 ; kanamycin ( Km ) , 25 to 50 g ml 1 . 
+Cells were harvested by centrifugation , washed two times in ice-cold 10 mM sodium phosphate ( pH 7.4 ) and 1 mM dithiothreitol ( DTT ) , then resuspended in 50 mM sodium phosphate ( pH 7.4 ) and 1 mM DTT , and used immediately for activity assays . 
+No attempt to maintain anaerobic conditions during cell preparation was made . 
+To prepare spheroplasts , washed cells were resuspended to an OD578 of 3 in 200 mM Tris-HCl ( pH 7.4 ) , 20 % sucrose , 10 mM EDTA , 1 mM DTT , and 0.6 mg/ml lysozyme , followed by an incubation for 30 min at 37 °C . 
+Spheroplasts were pelleted , resuspended in 50 mM sodium phosphate buffer ( pH 7.4 ) , 20 % sucrose , and 1 mM DTT , and used immediately . 
+Analytical methods . 
+Respiratory chain activity assays were performed in 50 mM sodium phosphate ( pH 7.4 ) at 37 °C . 
+Assays were carried out in glass vials sealed with a butyl rubber septum and rendered anoxic by sparging with oxygen-free nitrogen . 
+Samples were removed at different time points and assayed for sulﬁde or nitrite production or thiosulfate consumption . 
+Due to the presence of an induction phase for thiosulfate reductase activity in some experiments ( see Fig. 3 for an example ) , speciﬁc activities were calculated from the linear part of the curve . 
+Sulﬁde concentrations were determined by the methylene blue method of Fogo and Popowsky ( 21 ) as described in Hallenbeck et al. ( 26 ) . 
+All measurements of thiosulfate reduction in S. enterica by using the sulﬁde production assay were carried out with strain EB303 , which lacks dissimilatory sulﬁte reductase ( Asr ) . 
+This ensured that only sulﬁde production by thiosulfate reductase , and not from further reduction of sulﬁte by sulﬁte reductase , contributed to the measured sulﬁde concentration . 
+Thiosulfate concentrations were determined by high-performance liquid chromatography ( HPLC ) with an Aminex HPX87H column ( 300 by 7.8 mm ; Bio-Rad ) at 60 °C , in a liquid phase containing 6.5 mM H SO and at a ﬂow rate of 550 2 4 l/min . 
+Thiosulfate was quantiﬁed by absorbance at 215 nm relative to known standards . 
+Nitrite concentrations were determined by the method of Smarelli and Campbell ( 66 ) . 
+The assay was performed in 25 mM po-tassium phosphate buffer ( pH 7.3 ) containing 0.05 mM EDTA , 10 mM KNO3 , and a 0.42 mM concentration of the electron donor at 30 °C . 
+The reaction was stopped with 200 l 58 mM sulfanilamide in 3 N HCl and 200 l 0.77 mM N - ( 1-naphthyl ) ethylenediamine dihydrochloride . 
+The samples were incubated for 10 min at room temperature and centrifuged at 20,000 g for 2 min , and the absorbance of the supernatant was measured at 540 nm . 
+Protein concentrations were determined by the method of Schmidt et al. ( 63 ) . 
+All specialty chemicals were obtained from Sigma with the exceptions of TCS ( 3,3 = ,4 = ,5 - tetrachlorosalicylanilide ; Kodak ) and DMN ( 2,3-dimethyl-1 ,4 - naphthoquinone ; synthesized according to the method of Kruber [ 43 ] ; gift from the late A. Kröger , Frankfurt , Germany ) . 
+Spectrophotometric enzyme assays . 
+Methyl viologen ( MV ) , benzyl viologen ( BV ) , and DMN-linked assays were carried out in quartz ( for DMN-linked assays ) or optical glass ( for BV/MV-linked assays ) cuvettes sealed with a butyl rubber stopper and rendered anoxic by sparging with oxygen-free nitrogen . 
+The assay solution contained 50 mM sodium phosphate ( pH 7.4 ) and 1 mM BV2 , 1 mM MV2 , or 0.2 mM DMN , and the respective substrates ( 10 mM sodium thiosulfate , 2 mM sodium sulﬁde plus 2 mM sodium sulﬁte , or 100 % hydrogen at 1 atm in the gas phase ) . 
+For experiments measuring MV · oxidation , MV2 was ﬁrst reduced with sodium dithionite titrated into the cuvette from a 1 mg/ml stock . 
+The oxidation or reduction of the dyes was determined spectrophotometrically using the following changes in extinction coefﬁcients : 600 ( MV · MV2 ) , 13 mM 1 cm 1 ; ( BV · BV2 ) , 19.5 mM 1 546 cm 1 ; ( DMN DMNH ) , 15 mM 1 cm 1 ( 42 , 46 ) . 
+2 270 -- 290 
+FIG 2 A mechanistic and structural model that accounts for the PMF dependence of thiosulfate reduction in S. enterica . 
+The model is based on the sequence similarity between the FdnGHI subunits of E. coli formate dehydrogenase-N ( left ) and the PhsABC subunits of thiosulfate reductase ( right ) . 
+Although formate dehydrogenase-N contains three copies of each subunit , the electron transfer reaction occurs within a single FdnGHI unit . 
+Thus , for simplicity , we depict the enzyme as a heterotrimer . 
+The periplasmic location of the thiosulfate reductase active site is supported by the presence of a Tat signal peptide ( 7 ) on the PhsA subunit and by a requirement for the Tat protein transport system for the functional expression of thiosulfate reductase ( A. Hinsley and B. C. Berks , unpublished observations ) . 
+As discussed elsewhere ( 68 ) , the carboxy-terminal transmembrane helix found on the FdnH subunit of formate dehydrogenase-N is often transferred to the amino terminus of the integral membrane subunit in related proteins , including thiosulfate reductase . 
+The following cofactors are indicated : FeS , iron sulfur cluster ; Mo , bis ( molybdopterin guanine dinucleotide ) molybdenum ( or MGD ) cofactor ; b , heme b. 
+TABLE 1 Strains and plasmids 
+Source or reference 
+Strain or plasmid Salmonella enterica LT2a EB303 
+Relevant phenotype 
+Relevant genotype 
+2 
+Sulﬁte reductase deﬁcient 
+32 
+LT2a cysI68 asr-1 : : Tn5 ( Kmr ) 
+Escherichia coli DH5 
+fhuA2 ( argF-lacZ ) U169 phoA glnV44 80 ( lacZ ) M15 gyrA96 recA1 relA1 endA1 thi-1 hsdR17 lacIq rrnBT14 lacZWJ16 hsdR514 araBADAH33 rhaBADLD78 BW25113 ubiE : : Kmr BW25113 ubiC : : Kmr BW25113 menA : : Kmr F lacU169 araD139 rpsL150 relA1 ptsF rbs ﬂbB5301 MC4100 hyaB hybC MC4100 hyaB hybC hycE MC4100 hycE 
+27 
+16 
+BW25113 JW5581 JW5713 JW3901 MC4100 FTD89 FTD147 HD705 
+Keio collection ( 4 ) Keio collection ( 4 ) Keio collection ( 4 ) 13 54 17 56 
+UQ and MK deﬁcient UQ deﬁcient MK and DMK deﬁcient 
+Hydrogenase-1 and -2 deﬁcient Hydrogenase-1 , -2 , and -3 deﬁcient Hydrogenase-3 deﬁcient 
+phsABC ( 48 bp before transcript start site to 3 = NsiI site ) in pUC18 ( Apr ) 
+Thiosulfate reductase expression plasmid 
+A. Hinsley 
+Plasmid pAH2 
+( unpublished ) 
+RESULTS
+Menaquinol is the electron donor to thiosulfate reductase . 
+S. enterica possesses three respiratory quinones , namely , ubiquinone 
+( UQ ) and the naphthoquinones menaquinone ( MK ) and de-methylmenaquinone ( DMK ) . 
+Previous studies have demonstrated that naphthoquinones , but not UQ , are involved in thiosulfate respiration ( 44 , 45 ) . 
+However , it was not established whether both or only one of the naphthoquinols is able to serve as the electron donor to thiosulfate reductase . 
+As the E ° = for DMK reduction is much higher than that for MK reduction ( E ° = [ MK / MKH2 ] 74 mV ; [ DMK/DMKH2 ] 25 mV ) ( 64 , 70 , 76 ) , thiosulfate reduction by DMKH2 would be thermodynamically even more unfavorable than MKH2-mediated reduction . 
+The model bacterium Escherichia coli is closely related to S. enterica but is unable to respire thiosulfate . 
+However , E. coli cells transformed with a plasmid bearing the S. enterica phsABC operon show high levels of thiosulfate reduction with either physiological or artiﬁcial electron donors ( 22 ) . 
+This recombinant E. coli system allows the behavior of S. enterica thiosulfate reductase to be probed using E. coli genetic backgrounds and is used in this work for all experiments employing E. coli strains . 
+The abilities of the two respiratory naphthoquinols to act as electron donors to S. enterica thiosulfate reductase were assessed using an E. coli ubiE mutant that synthesizes DMK but not MK or UQ ( 78 ) . 
+High rates of thiosulfate reduction with either hydrogen or glycerol as the electron donor were observed for the parental strain but not for the DMK-only ( ubiE ) mutant ( Table 2 ) . 
+Control experiments using methyl viologen radical ( MV · ) as a direct electron donor to thiosulfate reductase veriﬁed that thiosulfate reductase was expressed at equivalent levels in the two strains . 
+Since both hydrogen and glycerol-3-phosphate are able to reduce DMK ( 78 ) , the very low rates of thiosulfate reduction exhibited by the ubiE mutant imply that DMKH2 is a poor substrate for thiosulfate reductase . 
+By inference , MKH2 is the principal electron donor to thiosulfate reductase . 
+The residual levels of hydrogen or glycerol-dependent thiosulfate reductase activity in the ubiE mutant may be due to trace amounts of MK produced by the mutant strain ( 1 % of the MK found in the parental strain in the study of Wissenbach et al. [ 78 ] ) or may reﬂect a low thiosulfate reductase activity with DMKH as the electron carrier . 
+By use of a qualitative 2 iron agar growth assay , thiosulfate reduction in cells metabolizing a complex carbon source was also found to depend on MK ( data not shown ) . 
+Experiments using a menA strain that produces UQ , but not MK or DMK , conﬁrm that UQ is not an electron donor to thiosulfate reductase ( Table 2 ) . 
+Thiosulfate reduction requires the proton motive force . 
+The proposal that the thiosulfate reductase reaction is driven by the proton motive force ( PMF ) was tested by investigating the effects of protonophores and ionophores on the reduction of thiosulfate . 
+Intact cells of S. enterica were able to produce sulﬁde from thiosulfate under anaerobic conditions when formate , glycerol , or hydrogen was present as an electron donor ( Fig. 3 and Table 3 ) . 
+Sulﬁde production was nearly completely inhibited ( 5 % residual activity ) when low concentrations of the protonophore carbonyl cyanide-3-chlorophenylhydrazone ( CCCP ) , carbonyl cyanide-p-triﬂuoromethoxyphenylhydrazone ( FCCP ) , or 3,3 = ,4 = ,5 - tetrachlorosalicylanilide ( TCS ) was added to the bacterial suspension ( Fig. 3 and Table 3 ) . 
+Control experiments showed that cell swimming ( observed by light microscopy ) , which depends upon 
+TABLE 2 Effect of quinone biosynthesis mutations on thiosulfate reduction in E. coli expressing S. enterica thiosulfate reductasea 
+Thiosulfate reductase sp act ( nmol thiosulfate reduced/min/mg protein ) with electron donor : 
+Bacterial strain Quinone ( s ) present Hydrogen ( H ) Glycerol ( G ) MV · ( G ) 
+BW25113 ( pAH2 ) BW25113 JW5713 ( pAH2 ) JW5581 ( pAH2 ) JW3901 ( pAH2 ) 
+UQ , MK , DM UQ , MK , DM MK , DMK DMK UQ 
+K K 
+28 9 ( 2 ) ND 20 10 ( 2 ) 3 1 ( 2 ) 0 0 ( 2 ) 
+27 0 30 8 1 
+4 ( 3 ) 0 ( 2 ) 2 ( 3 ) 4 ( 3 ) 0 ( 3 ) 
+246 21 218 242 343 
+27 ( 2 ) 8 ( 2 ) 42 ( 2 ) 7 ( 2 ) 4 ( 2 ) 
+a The indicated strains were transformed with plasmid pAH2 carrying S. enterica phsABC . 
+The bacteria were cultured anaerobically in LB medium supplemented with 50 mM sodium thiosulfate and either 100 % hydrogen ( H ) in the gas phase or 50 mM glycerol ( G ) . 
+After harvesting and washing , the bacteria were assayed for sulﬁde production from thiosulfate with hydrogen or glycerol as the electron donor or assayed for thiosulfate-dependent MV · oxidation . 
+The standard deviations of the measured activities are given . 
+The numbers of biological repeats are shown in parentheses . 
+UQ , ubiquinone ; MK , menaquinone ; DMK , demethylmenaquinone ; ND , not determined . 
+PMF-driven ﬂagellar rotation , was blocked at the protonophore concentrations used . 
+Valinomycin is an ionophore that disrupts the electrical component of the PMF . 
+Addition of 10 M valinomycin reduced sulﬁde production from thiosulfate with formate as the electron donor by S. enterica spheroplasts by about 70 % ( spheroplasts were used to facilitate ionophore access to the cytoplasmic membrane ) . 
+A combination of 10 M valinomycin together with 5 M nigericin , an ionophore that dissipates the proton concentration gradient component of the PMF , inhibited sulﬁde production in spheroplasts by 80 % . 
+In E. coli expressing S. enterica thiosulfate reductase [ E. coli DH5 ( pAH2 ) ] , the proto-nophore CCCP inhibited the reduction of thiosulfate by formate , hydrogen , or glycerol by at least 90 % ( Table 3 ) . 
+Thus , in both S. enterica and recombinant E. coli , thiosulfate reduction with physiological electron donors is strongly inhibited by agents that degrade the PMF . 
+To identify the site responsible for the PMF dependence of thiosulfate reduction , different sections of the respiratory chain were tested for their sensitivity to protonophores . 
+Electron transport to nitrate from hydrogen , formate , or glycerol was not inhibited by the addition of CCCP ( Table 3 ) , even though a PMF is essential for the reduction of thiosulfate by the same electron do-nors . 
+For each of these electron donors , the respiratory chains to thiosulfate and nitrate diverge only after the quinone/quinol pool ( Fig. 1 ) ( 67 , 76 ) . 
+It can , therefore , be inferred that the PMF-dependent site in thiosulfate respiration lies between MKH2 and thiosulfate and , thus , that the PMF acts directly on thiosulfate reductase . 
+To test this proposal , individual oxidoreductase activities were assayed using the MK analogue 2,3-dimethyl-1 ,4 naphthoquinone ( DMN ) ( 74 ) . 
+The reduction of DMN by hydrogen or glycerol was insensitive to the presence of the protono-phore CCCP ( Table 3 ) , conﬁrming that the PMF-dependent step in thiosulfate respiration is located after these dehydrogenases . 
+The assay of menaquinol : thiosulfate oxidoreductase with DMNH2 is complicated by the low-level activity of the reaction and by interference from other enzymes maintaining MKH2 ( and DMNH2 ) in the reduced state ( 74 ) . 
+Therefore , only the partial reaction of thiosulfate reductase with the dye methyl viologen could be tested . 
+Methyl viologen-linked thiosulfate reduction in S. enterica , or in the recombinant E. coli strain , was unaffected by the addition of CCCP ( Table 3 ) . 
+The methyl viologen radical ( MV · ) has a signiﬁcantly lower reduction potential ( E ° = [ MV2 / MV · ] 440 mV ) than MK ( E ° = [ MK/MKH2 ] 74 mV ) and so might bypass the MKH2-oxidizing site of thiosulfate reductase . 
+If this is the case , then the PMF-sensitive site in thiosulfate reductase lies between the sites of electron donation by MKH2 and MV · . 
+Alternatively , the electrons from MV · may take the physiological electron transfer route within the enzyme but be of suf-ﬁciently low potential that they are able to overcome the requirement for a PMF in thiosulfate respiration . 
+The ﬁrst explanation is supported by the carbon monoxide inhibition data reported below . 
+In either case , the data indicate that catalysis at the thiosulfate reductase active site is PMF independent . 
+In summary , the data presented here conﬁrm the prediction that thiosulfate respiration in S. enterica is driven by the PMF . 
+They further show that the PMF acts on the electron transfer pathway within thiosulfate reductase but prior to the thiosulfate-reducing catalytic site , consistent with the hypothesis that the PMF is required to drive transmembrane electron transfer within thiosulfate reductase ( Fig. 2 ) . 
+Thiosulfate respiration in S. enterica is close to thermodynamic equilibrium . 
+Sulﬁde production from thiosulfate by cell suspensions of S. enterica slows over time and then ceases ( Fig. 3 and 4 ) . 
+This behavior is characteristic of a reaction that is close to thermodynamic equilibrium . 
+Figure 4 compares levels of sulﬁde production by S. enterica EB303 at two initial thiosulfate concentrations ( 2 mM and 10 mM ) . 
+S. enterica EB303 lacks sulﬁte reductase and is therefore unable to convert the sulﬁte produced by thiosulfate reduction to sulﬁde . 
+The initial reaction velocities are similar at both thiosulfate concentrations , demonstrating thiosulfate saturation of the enzyme active site in both cases . 
+In the experiments with 2 mM and 10 mM initial thiosulfate concentrations , sulﬁde production ceased at ﬁnal sulﬁde concentrations of 0.21 mM and 0.27 mM , respectively ( Fig. 4 ) . 
+When a 200-fold excess of MKH2 over MK is assumed and the Nernst equation is applied , these sulﬁde concentrations yield respective E = values of 208 mV and 192 mV . 
+For aerobically growing E. coli , PMF values around 200 mV have been reported ( 24 , 83 ) , and the PMF in anaerobically respiring E. coli and S. Typhimurium is 15 to 20 mV less negative ( 65 , 72 ) , suggesting a PMF of up to 180 mV for the anaerobically respiring bacteria . 
+Therefore , the E = values for thiosulfate respiration are in a similar range to the reported PMF values and are consistent with the hypothesis that the physiological thiosulfate reductase reaction is close to equilibrium with the PMF . 
+Further evidence for this hypothesis comes from an experiment in which 0.19 mM sulﬁde was added to the cells at the same time as 2 mM thiosulfate . 
+Due to the high concentration of sulﬁde present at the start of the experiment , the thiosulfate reductase reaction was already close to equilibrium , and only limited additional sulﬁde was produced from thiosulfate ( measured ﬁnal sulﬁde concentration of 0.24 mM corresponding to a E = of 189 mV ; Fig. 4 ) . 
+Conversely , addition of 2 mM zinc acetate to precipitate free sulﬁde from the reaction as insoluble zinc sulﬁde allowed the reaction to continue ( Fig. 4 ) . 
+Similarly , lowering the potential of the direct electron donor to thiosulfate reductase by using MV · ( E ° = [ MV2 / MV · ] 440 mV ) instead of supplying electrons by the physiological route through MKH2 overcame the inhibition of thiosulfate reduction by 0.2 mM sodium sulﬁde ( MV · - dependent rate without sulﬁde , 230 45 nmol thiosulfate reduced/min/mg protein ; MV · - dependent rate in the presence of 0.2 mM Na-sulﬁde , 220 35 nmol thiosulfate reduced/min/mg protein ) . 
+This experiment also rules out the possibility of an inhibitory effect of sulﬁde on the thiosulfate-reducing catalytic site . 
+In summary , these experiments show that the physiological thiosulfate reductase reaction is close to thermodynamic equilibrium with the PMF . 
+The thiosulfate reductase reaction can be reversed under physiological conditions and is then PMF independent . 
+Since the reduction of thiosulfate with MKH2 is thermodynamically unfavorable , the reverse reaction ( formation of thiosulfate from sul-ﬁte and sulﬁde with MK as an electron acceptor ) should be thermodynamically favorable . 
+The ability of thiosulfate reductase to catalyze the reverse reaction was therefore investigated . 
+E. coli expressing S. enterica thiosulfate reductase was able to catalyze the oxidation of a combination of sulﬁde and sulﬁte with benzyl viologen ( BV2 ) or DMN as the electron acceptor ( Table 4 ) . 
+This activity was found only in cells expressing thiosulfate reductase and required both sulﬁde and sulﬁte to be present . 
+These experiments show that the chemistry at the thiosulfate reductase active site is reversible . 
+Combined sulﬁde and sulﬁte oxidation also occurred under physiological conditions with trimethylamine N-oxide ( TMAO ) 
+FIG 3 The effect of protonophores on sulﬁde production from thiosulfate in a cell suspension of Salmonella enterica serovar Typhimurium . 
+S. enterica EB303 was cultured anaerobically in LB medium with 25 mM sodium formate and 50 mM sodium thiosulfate . 
+Washed cells ( 0.66 mg protein/ml ) were incubated under anoxic conditions at 37 °C in 10 mM sodium phosphate ( pH 7.4 ) and 1 mM DTT with 10 mM sodium thiosulfate and 4 mM sodium formate . 
+Samples were removed at the indicated time points and assayed for sulﬁde formation . 
+x , no addition ; , 10 M CCCP ; , 20 M FCCP ; Œ , 50 M TCS . 
+TABLE 3 Effect of the protonophore CCCP on thiosulfate reduction in S. enterica and recombinant E. colia Sp act ( nmol electron acceptor reduced/min/mg protein ) 
+S. enterica EB303 
+E. coli DH5 ( pAH2 ) 
+No addition 
+10 M CCCP 
+Reaction ( growth medium ) Electron transport chains Formate ¡ thiosulfate ( A ) Glycerol ¡ thiosulfate ( B ) Hydrogen ¡ thiosulfate No added donor ¡ thiosulfate ( A ) Formate ¡ no added acceptor ( A ) Hydrogen ¡ nitrate ( A ) Formate ¡ nitrate ( A ) Glycerol ¡ nitrate ( A ) 
+No addition 
+10 M CCCP 
+0.1 † ( 3 ) 0.1 † ( 2 ) 
+0.8 0.6 0.7 ND ND 6.0 4.9 4.6 
+1.4 0.5 † ( 3 ) 1 1 ‡ ( 2 ) 0.7 0 † ( 2 ) ( C ) ND ND 6.7 0.6 § ( 2 ) 2.1 0.4 § ( 2 ) 1.5 0.2 § ( 2 ) 
+13.5 1.2 † ( 3 ) 13 4 ‡ ( 2 ) 6.7 3 † ( 2 ) ( C ) 3 3 † ( 2 ) ND 2.8 0.4 § ( 2 ) 1.1 0.0 § ( 2 ) 0.9 0.0 § ( 2 ) 
+29.1 10.8 † ( 6 ) 14.1 2.0 † ( 2 ) 52.2 10.4 † ( 4 ) ( A ) 4.2 0.6 † ( 2 ) 0 0 † ( 2 ) 7.1 3.6 § ( 2 ) 0.8 0.3 § ( 2 ) 3.8 0.3 § ( 2 ) 
+0.5 † ( 4 ) ( A ) 
+1.1 § ( 2 ) 0.4 § ( 2 ) 0.3 § ( 2 ) 
+Partial reactions 
+Hydrogen ¡ DMN ( A ) 64 15 ¶ ( 4 ) 69 6 ¶ ( 4 ) 57 8 ¶ ( 3 ) 55 6 ¶ ( 2 ) Glycerol ¡ DMN ( A ) 39 8 ¶ ( 2 ) 38 7 ¶ ( 3 ) 52 4 ¶ ( 7 ) 45 11 ¶ ( 3 ) MV · ¡ thiosulfate ( A ) 308 48 ( 5 ) 317 32 ( 4 ) 574 70 ( 4 ) 589 18 ( 4 ) a Bacteria were cultured anaerobically in LB medium supplemented with 50 mM sodium thiosulfate and 25 mM sodium formate ( A ) , 50 mM glycerol ( B ) , or 100 % hydrogen in the gas phase ( C ) . 
+Speciﬁc activities of whole cells were determined by the production of sulﬁde ( † ) , consumption of thiosulfate ( ‡ ) , production of nitrite ( § ) , reduction of 2,3-dimethyl-1 ,4 - naphthoquinone ( DMN ) ( ¶ ) , or oxidation of methyl viologen radical ( MV · ) ( ) . 
+Electron donors and acceptors for the electron transport chain assays were used at the following concentrations : 4 mM sodium formate , 4 mM glycerol , 1 atmosphere hydrogen , 2 mM sodium thiosulfate , and 0.04 mM potassium nitrate . 
+The standard deviations of the measured activities are given . 
+The number of biological repeats is shown in brackets . 
+ND , not determined . 
+FIG 4 Thiosulfate reduction in S. enterica is close to thermodynamic equilibrium . 
+S. enterica asr mutant EB303 was cultured anaerobically in LB medium supplemented with 50 mM sodium thiosulfate and 25 mM sodium formate . 
+Washed cells ( 0.95 mg protein/ml ) were incubated under anoxic conditions at 37 °C with 4 mM sodium formate and 2 mM sodium thiosulfate ( ) , 10 mM sodium thiosulfate ( ) , 2 mM sodium thiosulfate and 0.19 mM sodium sul-ﬁde ( ) , or 2 mM sodium thiosulfate and 2 mM zinc acetate ( Œ ) . 
+Samples were removed at the indicated time points and assayed for sulﬁde concentration . 
+TABLE 4 Thiosulfate production from a combination of sulﬁde plus sulﬁte by S. enterica thiosulfate reductasea 
+TABLE 5 Involvement of quinones in combined sulﬁde and sulﬁte oxidation by TMAOa 
+Sp act ( nmol sulﬁde sulﬁte oxidized/min/mg protein ) 
+Sp act ( nmol sulﬁde sulﬁte oxidized/min / 
+E. coli DH5 ( pAH2 ) 
+10 M E. coli DH5 CCCP ( no addition ) 240 88 ( 4 ) 2 2 ( 3 ) 
+Reaction 
+No addition 252 92 ( 9 ) 
+Sulﬁde sulﬁte ¡ BV2 ( a ) 
+Sulﬁte ¡ BV2 ( a ) Sulﬁde ¡ BV2 ( a ) Sulﬁde sulﬁte ¡ DMN ( b ) Sulﬁde sulﬁte ¡ TMAO ( c ) * Sulﬁde sulﬁte ( c ) * 4 5 ( 2 ) ND ND a E. coli strain DH5 , transformed where indicated with plasmid pAH2 carrying S. enterica phsABC , was cultured anaerobically in LB medium supplemented with 50 mM sodium thiosulfate and 50 mM glycerol . 
+In experiments labeled with an asterisk ( * ) , the medium was additionally supplemented with 50 mM trimethylamine N-oxide ( TMAO ) . 
+After harvesting and washing , the bacteria were assayed for the indicated activities . 
+Speciﬁc activities correspond to the reduction of benzyl viologen ( BV2 ) ( a ) or 2,3-dimethyl-1 ,4 - naphthoquinone ( DMN ) ( b ) or the production of thiosulfate ( c ) . 
+Electron donors and acceptors for the electron transport chain assays were used at the following concentrations : 2 mM sodium sulﬁde and 2 mM sodium sulﬁte , 5 mM TMAO . 
+The standard deviations of the measured activities are given . 
+The number of biological repeats is shown in brackets . 
+ND , not determined . 
+as the electron acceptor ( Table 4 ) . 
+Since the electron transfer pathways to TMAO receive electrons from MKH2 and DMKH2 ( Fig. 1 ) ( 48 , 78 ) , it can be inferred that electrons derived from the combined oxidation of sulﬁde and sulﬁte at the thiosulfate reductase active site ﬂow backwards through the enzyme to reduce the naphthoquinone pool . 
+This deduction was conﬁrmed by experiments using E. coli quinone biosynthesis mutants which showed that naphthoquinones are essential for electron transfer from sul-ﬁde plus sulﬁte to TMAO ( Table 5 ) . 
+It is striking that this reverse thiosulfate reductase reaction can function with DMK as the electron acceptor ( Table 5 ) while the physiological forward reaction can not utilize DMKH2 ( Table 2 ) . 
+This suggests that the inability of DMKH2 to support thiosulfate reduction is due to the unfavorable redox potential of DMKH2 relative to MKH2 rather than discrimination between the two types of naphthoquinol by the quinol-oxidizing site of thiosulfate reductase . 
+Combined sulﬁde and sulﬁte oxidation by bacterial cells was unaffected by the addition of the protonophore CCCP , regardless of whether BV2 , DMN , or TMAO was used as the electron acceptor ( Table 4 ) . 
+Thus , the reverse reaction of thiosulfate reductase , including the full reversal of electron ﬂow in the enzyme that is required when MK or DMK is the electron acceptor , is independent of PMF . 
+This is in stark contrast to the essential role of the PMF in the forward reaction with the physiological electron donor MKH2 . 
+This comparison represents further evidence that the role of the PMF in thiosulfate reduction is to provide the thermodynamic driving force for the otherwise endergonic electron ﬂow from MKH2 to thiosulfate rather than being required by the cata-lytic chemistry of the enzyme . 
+Hydrogen is an intermediate in electron transfer from formate to thiosulfate . 
+Formate is a good electron donor for thiosulfate respiration in S. enterica and in recombinant E. coli expressing 
+Bacterial strain Quinone(s) present mg protein)
+BW25113(pAH2) UQ, MK, DMK 328 36 JW5713(pAH2) MK, DMK 388 93
+JW5581 ( pAH2 ) DMK 599 25 JW3901 ( pAH2 ) UQ 0 0 a E. coli strains were transformed with plasmid pAH2 carrying S. enterica phsABC and cultured anaerobically in LB medium supplemented with 50 mM sodium thiosulfate , 50 mM glycerol , and 50 mM trimethylamine N-oxide ( TMAO ) . 
+After harvesting and washing , the bacteria were assayed for thiosulfate formation from sulﬁde plus sulﬁte with TMAO as electron acceptor . 
+The standard deviations of the measured activities ( two biological repeats ) are given . 
+thiosulfate reductase ( Table 3 ) . 
+S. enterica and E. coli have multiple enzymes for oxidizing formate ( 57 ) , and two pathways for transferring electrons from formate to thiosulfate reductase via the MK pool are conceivable ( Fig. 1 ) . 
+In one pathway , the isoenzymes formate dehydrogenase-N ( FDH-N ) and formate dehydroge-nase-O ( FDH-O ) donate electrons from formate directly to MK . 
+In contrast , formate dehydrogenase-H ( FDH-H ) associates with hydrogenase-3 ( HYD-3 ) to form the formate-hydrogen lyase ( FHL ) complex , in which formate reduces protons to hydrogen . 
+Since hydrogen is also a good electron donor for thiosulfate respiration ( Table 2 ) , it is conceivable that electrons from formate could reach thiosulfate by a pathway in which hydrogen produced by FHL is subsequently oxidized by the MK-reducing hydrogenases HYD-1 and HYD-2 . 
+Such hydrogen cycling has been inferred to occur in both S. enterica and E. coli under fermentative growth conditions ( 1 , 52 , 82 ) . 
+The involvement of these two possible formate-oxidizing pathways in electron transfer from formate to thiosulfate was assessed . 
+Carbon monoxide is a hydrogenase inhibitor ( 5 , 31 , 59 ) and was used in an attempt to distinguish between hydrogendependent and hydrogen-independent routes of electron transfer from formate to thiosulfate . 
+Formate-dependent thiosulfate reduction was almost completely inhibited in S. enterica when the assay vessels contained 100 % carbon monoxide in the headspace ( Table 6 ) . 
+However , carbon monoxide was also found to block electron transfer from glycerol to thiosulfate even though glycerol-3-phosphate dehydrogenase is not sensitive to carbon monoxide ( demonstrated by the failure of carbon monoxide to inhibit nitrate reduction by glycerol ) ( Table 6 ) . 
+In addition , thiosulfate reduction by glycerol was still severely inhibited by carbon monoxide ( 3 % residual activity ) in an E. coli mutant lacking all three hydrogenases ( HYD-1 , HYD-2 , and HYD-3 ) . 
+Thus , the inhibitory effect of carbon monoxide on electron transport from glycerol-3-phosphate to thiosulfate does not arise from the involvement of a hydrogen intermediate . 
+By implication , carbon monoxide acts directly on thiosulfate reductase . 
+However , thiosulfate reduction with MV · as an electron donor was unaffected by carbon monoxide ( Table 6 ) . 
+Thus , it can be inferred that the carbon monoxide-sensitive site in thiosulfate reductase lies between the site of MKH · 2 oxidation and the last site at which MV can act as an electron donor to the enzyme . 
+Carbon monoxide is a weak metal ligand that would not be expected to bind to the predicted electron transfer centers of thiosulfate reductase . 
+The inhi ¬ 
+1 ( 2 ) 1 ( 2 ) 5 ( 8 ) 
+0 0 
+ND ND 53 
+ND ND 14 
+55 
+7 ( 2 ) 
+7 ( 3 ) 
+258 147 ( 5 ) 274 42 ( 2 ) 0 
+0 ( 2 ) 
+Formate ¡ thiosulfate ( A ) 34.1 9.5 † Formate ¡ thiosulfate [ CO ] ( A ) 0.3 0.1 † Glycerol ¡ thiosulfate ( B ) 27.8 6.4 † Glycerol ¡ thiosulfate [ CO ] ( B ) 0.8 0 † · MV ¡ thiosulfate ( A ) 155 5 ‡ MV · ¡ thiosulfate [ CO ] ( A ) 165 5 ‡ Glycerol ¡ nitrate ( A ) 3.8 0.3 § Glycerol ¡ nitrate [ CO ] ( A ) 10.4 0.7 § a S. enterica EB303 was cultured anaerobically in LB medium supplemented with 50 mM sodium thiosulfate and 25 mM sodium formate ( A ) or 50 mM glycerol ( B ) . 
+Speciﬁc activities of washed whole cells were determined by the production of sulﬁde ( † ) , oxidation of methyl viologen radical ( MV · ) ( ‡ ) , or production of nitrite ( § ) . 
+The electron donor and acceptor concentrations used were the same as those in Table 2 . 
+The indicated assays ( CO ) contained one atmosphere carbon monoxide . 
+The standard deviations of the measured activities ( two biological repeats ) are given . 
+bition of thiosulfate reductase by carbon monoxide is , therefore , unexpected and currently unexplained . 
+As an alternative approach to elucidating the pathways of electron transfer from formate to thiosulfate , the effects of genetically removing components of the possible electron transport pathways were assessed using the recombinant E. coli model . 
+Formate-dependent thiosulfate reduction was abolished in strains lacking the MK-reducing hydrogenases HYD-1 and HYD-2 or in a strain deﬁcient in the hydrogen-producing hydrogenase HYD-3 ( Table 7 ) , suggesting that the bulk of the electron ﬂux from formate to thiosulfate goes through hydrogen as an intermediate . 
+Control experiments showed that electron transfer from glycerol to thiosulfate was unaffected in the hydrogenase mutant strains ( as expected of a process not involving a hydrogen intermediate or formate ) , thereby conﬁrming that thiosulfate reductase was expressed in all the mutant backgrounds ( Table 7 ) . 
+Electron donor 
+( HYD-1 HYD-2 ) 
+HD705 
+MC4100 
+( HYD-3 ) 
+Formate Glycerol None 
+15 30 3 
+3 4 1 
+4 
+1 3 1 
+3 
+1 2 1 
+3 
+1 1 1 
+31 4 
+27 4 
+26 4 
+DISCUSSION
+Thiosulfate is the lowest-potential respiratory electron acceptor used by enteric bacteria . 
+Nevertheless , electron transfer to thiosulfate proceeds via the quinone pool , resulting in the terminal thiosulfate reductase needing to catalyze a reaction at a reduction potential considerably below that of its quinol electron donor . 
+In this study , we showed how thiosulfate reductase is able to meet this challenge . 
+First , we found that thiosulfate reductase utilizes only MKH2 as an electron donor . 
+Since MKH2 has the lowest potential of the three membrane quinols present in the electron transport chain , this minimizes the energetic input required to reduce thiosulfate . 
+The idea that MKH2 is employed as the electron donor to thiosulfate reductase for thermodynamic reasons is supported by the observation that thiosulfate reductase is capable of catalyzing the exergonic reverse reaction using higher-potential DMK as the electron acceptor . 
+Second , we showed that endergonic electron transfer between MKH2 and the thiosulfate reductase catalytic site is driven by the transmembrane PMF . 
+A structural model for thiosulfate reductase based on the homologous enzyme formate dehydrogenase-N suggests that thiosulfate reductase operates by a reverse redox loop a Each strain was transformed with plasmid pAH2 carrying S. enterica phsABC . 
+The strains were cultured anaerobically in LB medium supplemented with 50 mM sodium thiosulfate and 25 mM sodium formate . 
+After harvesting and washing , the bacteria were assayed for sulﬁde production from thiosulfate in the presence of the indicated electron donors . 
+Electron donors were used at a concentration of 4 mM . 
+The standard deviations of the measured activities ( two biological repeats ) are given . 
+mechanism in which the PMF drives electron transfer from the cytoplasmic to the periplasmic side of the membrane ( Fig. 2 ) . 
+The accompanying oxidation/reduction reactions release protons to the cytoplasm and consume protons from the periplasm , leading to an overall coupling stoichiometry for thiosulfate reductase of 2 H :2 e . 
+An earlier study had observed that physiological thiosulfate reductase activity in S. enterica was abolished in strains lacking FoF1 ATP synthase ( 55 ) . 
+In principle , this effect might be explained by a requirement for the ATP synthase to generate the PMF required for thiosulfate reduction . 
+However , MV · - linked thiosulfate reductase activity , which we show bypasses the PMF-sensitive site in thiosulfate respiration , was also almost abolished in the ATP synthase mutants , suggesting that the primary effect of the lesions in these strains was on gene expression or assembly . 
+The use of an ion motive force to drive endergonic electron transfer is a well-established principle in microbial metabolism . 
+The most familiar example is the synthesis of NADH from higherpotential electron donors in many autotrophic bacteria , which proceeds by reverse electron transfer through proton-trans-locating NADH : quinone oxidoreductase , and also in some cases through the cytochrome bc1 complex ( 51 ) . 
+Other ion motive force-driven systems have been shown to operate by a reverse redox loop mechanism of the type proposed here for thiosulfate reductase . 
+Such examples include electron transfer from succinate to MK in the succinate dehydrogenases of MK-dependent Grampositive and anaerobic bacteria ( 62 , 80 ) and electron transfer from nitrite to cytochrome c in the nitrite oxidase reaction of nitrifying bacteria ( 14 ) . 
+Further examples of redox reactions driven by an ion motive force include the reduction of ferredoxin by hydrogen in methanogens ( 71 ) and the reduction of ferredoxin by NADH by the Rnf complex in bacteria ( 9 ) . 
+Even with MKH2 as the electron donor , the unfavorable E ° = of the thiosulfate reductase reaction is sufﬁciently large ( 328 mV ) that it is implausible that it could be driven by a transmembrane PMF of a magnitude unlikely to exceed 200 mV . 
+However , the reaction will not take place under standard conditions in vivo . 
+This has particularly important thermodynamic consequences for the S2O 2 3 3 / ( HS SO 2 ) couple because in a cleavage reaction the corresponding Nernst equation shows that the reduction potential of the couple increases as the absolute concentrations of the reactants decrease . 
+Thus , if the concentrations of thiosulfate , sulﬁte , and sulﬁde are set at a more physiologically reasonable 100 M , the reduction potential of the S O 2 3 2 3 / ( HS SO 2 ) couple becomes 308 mV and the unfavorable E for the thiosulfate reductase reaction falls to 233 mV . 
+If , in addition , we assume that the MK pool is very highly reduced , then the E for the overall thiosulfate reductase reaction falls below 200 mV , allowing the reaction to be driven by the PMF . 
+These approximate energetic calculations suggest that the PMF is only just sufﬁcient to drive the thiosulfate reductase reaction . 
+This supposition is borne out by our experimental data , which suggest that the thiosulfate reductase reaction in cells is close to thermodynamic equilibrium with the PMF . 
+Sulfur-sulfur bond formation and cleavage reactions are wide-spread in sulfur chemistry . 
+Thus , the principle that the reduction potentials of cleavage reactions are considerably higher under physiological conditions ( low product concentrations ) than under standard conditions should be borne in mind in any consideration of the energetics of microbial sulfur metabolism . 
+This principle may explain , for example , why thiosulfate-oxidizing bacteria feed electrons into the electron transport chain through high-potential cytochromes c ( E ° = in the range of 200 to 350 mV ) ( 23 ) even though thiosulfate would be expected to be a considerably better electron donor based on an E ° = ( 2SO 2 / 4 S O 2 ) of 245 mV ( 79 ) . 
+It could also explain why sulfate-2 3 reducing bacteria have distinct electron transfer chains leading to adenosine-5 = - phosphosulfate ( APS ) reductase and sulﬁte reductase , even though the two enzymes catalyze reactions with = similar standard reduction potentials ( E ° of 60 mV 2 2 [ APS / AMP HSO3 ] compared with 116 mV [ HSO3 / HS ] ) ( 38 ) . 
+Since APS reduction involves cleavage , APS should be a signiﬁcantly better electron acceptor than sulﬁte under physiological conditions . 
+APS reductase could , as a consequence , be linked to a different and more energy-conserving electron transport chain than sulﬁte reductase . 
+Operons encoding orthologs of S. enterica PhsABC can be found in the genomes of all enteric bacteria that respire thiosulfate , suggesting that the PMF-driven mechanism of thiosulfate reduction described here for S. enterica can be generalized to other thiosulfate-reducing enteric bacteria . 
+However , while phsA and phsB orthologs can be found in the genomes of nonenteric thiosulfate-reducing organisms , these operons do not encode a PhsC ortholog , leaving open the question of how these organisms are able to provide the enzyme with electrons at a suitably low potential . 
+A complication in addressing this issue is the high sequence similarity between the PhsAB subunits of thiosulfate reductase and the PsrAB subunits of the enzyme polysulﬁde reductase ( 30 , 40 ) , which leads to difﬁculty in distinguishing these two enzyme activities during genome annotation . 
+In the best-characterized polysulﬁde reductase enzymes , the integral membrane subunit PsrC contains no heme groups and oxidizes MKH2 at the periplasmic side of the membrane ( 37 ) . 
+PsrC has been proposed to be involved in PMF generation ( 18 ) , a suggestion that is at variance with the low reduction potential of the polysulﬁde reductase reaction { E ° = [ S - ( S ) n-S ] / [ S - ( S ) n 1-S HS ] 260 mV } ( 61 ) and evidence for signiﬁcant inhibition of physiological polysulﬁde reduction by protonophores ( 18 ) . 
+In this context , it is intriguing that the growth of Shewanella oneidensis MR-1 with thiosulfate as an electron acceptor requires an operon that contains a PsrC orthologue rather than a PhsC orthologue ( 12 ) , suggesting that PsrC family proteins may also be able to use the PMF to drive electrons from MKH2 to thiosulfate . 
+Putative thiosulfate reductase operons in sulfate-reducing bacteria do not code for integral membrane subunits . 
+In these bacteria , cytoplasmic thiosulfate reductases may receive electrons directly from ferredoxin , while periplasmic enzymes could take electrons from periplasmic hydrogenases . 
+The data reported here show that operation of the thiosulfate reductase of S. enterica consumes energy in the form of the PMF , posing the question of how this energetic expenditure beneﬁts the cell . 
+Thiosulfate respiration would be of net beneﬁt if the overall electron transfer pathway from electron donor to thiosulfate reductase contributed more to the PMF than is consumed by thiosulfate reductase . 
+Thiosulfate reduction takes place only in the absence of more electropositive electron acceptors and appears to function primarily as an adjunct to fermentative metabolism ( 6 , 28 ) . 
+Under these conditions , NADH and fermentation products are the most likely electron donors for thiosulfate respiration . 
+Linking NADH oxidation to thiosulfate reduction by using proton-translocating NADH dehydrogenase I ( coupling stoichi-ometry of 14H :2 e ) in combination with thiosulfate reductase ( coupling stoichiometry 22H :2 e ) would result in overall PMF generation of 12H :2 e ( Fig. 1 ) . 
+This pathway is possible since NADH I can be expressed under anaerobic conditions and is able to reduce MK ( 73 ) . 
+Net PMF generation by thiosulfate respiration is also plausible with formate as the electron donor . 
+Formate is a major product of fermentation via pyruvate . 
+Three formate oxidation pathways are present in enteric bacteria . 
+However , our data show that electron transfer from formate to thiosulfate occurs predominantly through a mechanism involving hydrogen as an intermediate ( Table 7 ) . 
+This pathway is proposed to involve formate-dependent hydrogen production by the formate hydrogen lyase complex . 
+The hydrogen then acts as an electron donor to a short electron transfer chain comprising a MK-reducing hydrogenase ( hydrogenase-1 or -2 ) , the MK pool , and thiosulfate reductase ( Fig. 1 ) . 
+Since hydrogenase-1 and thiosulfate reductase have equal and opposite coupling stoichiometries , electron transfer from hydrogen to thiosulfate using hydrogenase-1 generates no net PMF ( the situation for electron transfer via hydrogenase-2 is less clear , since the hydrogenase-2 coupling stoichiometry is unknown ) . 
+However , the formate-hydrogen lyase complex is almost certainly an additional coupling site because its reaction is significantly exergonic under physiological conditions ( 3 , 39 ) , because highly similar enzymes in methanogens generate ion motive gradients ( 11 , 50 ) , and because a fragment of mitochondrial complex I retaining homologues of the formate-hydrogen lyase membrane subunits is proton translocating ( 19 ) . 
+As a consequence , electron transfer from formate to thiosulfate by the formate-hydrogen lyase pathway is likely to generate a net PMF . 
+Recycling of the hydrogen produced by fermentation has long been proposed to occur in enteric bacteria ( 58 , 60 ) , but evidence in support of this phenomenon has only recently started to accrue ( 1 , 52 , 82 ) . 
+Our demonstration of hydrogen as an intermediate in formate-dependent thiosulfate respiration provides additional evidence for hydrogen cycling in enteric bacteria . 
+In addition to directly contributing to PMF generation , thiosulfate respiration may confer a further energetic advantage to fermenting S. enterica by disposing of NADH generated by the fermentative pathways . 
+This is because for each two moles of NADH that are reoxidized by a nonfermentative pathway , one mole of acetyl coenzyme A can be routed through the acetate kinase pathway to generate a mole of ATP by substrate-level phosphorylation rather than being used to regenerate NAD by reduction to ethanol ( 10 ) . 
+In this context , the greatest beneﬁt of thiosulfate reduction to S. enterica may be the production of sulﬁte , which can be further reduced to sulﬁde by the enzyme anaerobic sulﬁte reductase , consuming three molecules of NADH ( 26 ) . 
+In summary , we have suggested how thiosulfate respiration could play a positive role in the bioenergetics of S. enterica , despite our demonstration that the thiosulfate-reducing step in this me-tabolism is energy requiring . 
+Given the recent discovery that thiosulfate is a signiﬁcant host-generated electron acceptor in the mammalian gut , it is likely that thiosulfate respiration provides an important growth advantage and that thiosulfate respiration may contribute to the pathogenesis of Salmonella species at the stage of gut colonization . 
+3 
+1 2 1 
+3 
+1 1 1 
+31 4 
+27 4 
+26 4 
+ACKNOWLEDGMENTS
+The work was supported by grants from Deutsche Forschungsgemeinschaft and the German Academic Exchange Service ( DAAD ) and grant BB/F02150X/1 from the Biotechnology and Biotechnology and Biological Sciences Research Council . 
+We thank Andrew Hinsley and James Willby for their contributions to the early stages of this project . 
+We are grateful to F. Petry for providing the opportunity to use BSL-2 laboratories , to Nancy Berte and Pia Degreif-Dünnwald ( Mainz ) for carrying out experiments to the early stages of the project , and to Alison Parkin and Fraser Armstrong ( Oxford ) for access to facilities , reagents , and advice . 
+We also thank Frank Sargent and Tracy Palmer ( Dundee ) for providing hydrogenase and quinone biosynthesis mutants and Frank Sargent and Gary Sawers ( Halle ) for helpful discussions . 
+REFERENCES 
+1 . 
+Alam KY , Clark DP . 
+1989 . 
+Anaerobic fermentation balance of Escherichia coli as observed by in vivo nuclear magnetic resonance spectroscopy . 
+J. Bacteriol . 
+171:6213 -- 6217 . 
+2 . 
+Alper MD , Ames BN . 
+1978 . 
+Transport of antibiotics and metabolite analogs by systems under cyclic AMP control : positive selection of Salmo-nella typhimurium cya and crp mutants . 
+J. Bacteriol . 
+133:149 -- 157 . 
+3 . 
+Andrews SC , et al. 1997 . 
+A 12-cistron Escherichia coli operon ( hyf ) encoding a putative proton-translocating formate hydrogenlyase system . 
+Microbiology 143:3633 -- 3647 . 
+4 . 
+Baba T , et al. 2006 . 
+Construction of Escherichia coli K-12 in-frame , singlegene knock-out mutants : the Keio collection . 
+Mol . 
+Syst . 
+Biol . 
+2:2006.0008 . 
+5 . 
+Ballantine SP , Boxer DH . 
+1986 . 
+Isolation and characterisation of a soluble active fragment of hydrogenase isoenzyme 2 from the membranes of anaerobically grown Escherichia coli . 
+Eur . 
+J. Biochem . 
+156:277 -- 284 . 
+6 . 
+Barrett EL , Clark MA . 
+1987 . 
+Tetrathionate reduction and production of hydrogen sulﬁde from thiosulfate . 
+Microbiol . 
+Rev. 51:192 -- 205 . 
+7 . 
+Berks BC . 
+1996 . 
+A common export pathway for proteins binding complex redox cofactors ? 
+Mol . 
+Microbiol . 
+22:393 -- 404 . 
+8 . 
+Berks BC , et al. 1995 . 
+Sequence analysis of subunits of the membrane-bound nitrate reductase from a denitrifying bacterium : the integral membrane subunit provides a prototype for the dihaem electron-carrying arm of a redox loop . 
+Mol . 
+Microbiol . 
+15:319 -- 331 . 
+9 . 
+Biegel E , Schmidt S , González JM , Müller V. 2011 . 
+Biochemistry , evolution and physiological function of the Rnf complex , a novel ion-motive electron transport complex in prokaryotes . 
+Cell Mol . 
+Life . 
+Sci . 
+68 : 613 -- 634 . 
+10 . 
+Böck A , Sawers G. 1996 . 
+Fermentation , p 262 -- 282 . 
+In Neidhart FC ( ed ) , Escherichia coli and Salmonella : cellular and molecular biology , 2nd ed . 
+ASM Press , Washington , DC . 
+11 . 
+Bott M , Thauer RK . 
+1989 . 
+Proton translocation coupled to the oxidation of carbon monoxide to CO2 and H2 in Methanosarcina barkeri . 
+Eur . 
+J. Biochem . 
+179:469 -- 502 . 
+12 . 
+Burns JL , DiChristina TJ . 
+2009 . 
+Anaerobic respiration of elemental sulfur and thiosulfate by Shewanella oneidensis MR-1 requires psrA , a homolog of 
+the phsA gene of Salmonella enterica serovar typhimurium LT2 . 
+Appl . 
+Environ . 
+Microbiol . 
+75:5209 -- 5217 . 
+13 . 
+Casadaban MJ , Cohen SN . 
+1979 . 
+Lactose genes fused to exogenous promoters in one step using a Mu-lac bacteriophage : in vivo probe for transcriptional control sequences . 
+Proc . 
+Natl. Acad . 
+Sci . 
+U. S. A. 76 : 4530 -- 4533 . 
+14 . 
+Cobley JG . 
+1976 . 
+Reduction of cytochromes by nitrite in electrontransport particles from Nitrobacter winogradskyi : proposal of a mechanism for H translocation . 
+Biochem . 
+J. 156:493 -- 498 . 
+15 . 
+Reference deleted . 
+16 . 
+Datsenko KA , Wanner BL . 
+2000 . 
+One-step inactivation of chromosomal genes in Escherichia coli K-12 using PCR products . 
+Proc . 
+Natl. Acad . 
+Sci . 
+U. S. A. 97:6640 -- 6645 . 
+17 . 
+Deplanche K , Caldelari I , Mikheenko IP , Sargent F , Macaskie LE . 
+2010 . 
+Involvement of hydrogenases in the formation of highly catalytic Pd ( 0 ) nanoparticles by bioreduction of Pd ( II ) using Escherichia coli mutant strains . 
+Microbiology 156:2630 -- 2640 . 
+18 . 
+Dietrich W , Klimmek O. 2002 . 
+The function of methyl-menaquinone-6 and polysulﬁde reductase membrane anchor ( PsrC ) in polysulﬁde respiration of Wolinella succinogenes . 
+Eur . 
+J. Biochem . 
+269:1086 -- 1095 . 
+19 . 
+Dröse S , et al. 2011 . 
+Functional dissection of the proton pumping modules of mitochondrial complex I. PLoS Biol . 
+9 : e1001128 . 
+20 . 
+Finster K. 2008 . 
+Microbiological disproportionation of inorganic sulfur compounds . 
+J. Sulfur Chem . 
+29:281 -- 292 . 
+21 . 
+Fogo JK , Popowsky M. 1949 . 
+Spectrophotometric determination of hydrogen sulﬁde . 
+Anal . 
+Chem . 
+21:732 -- 734 . 
+22 . 
+Fong CL , Heinzinger NK , Tongklan S , Barrett EL . 
+1993 . 
+Cloning of the phs genetic locus from Salmonella typhimurium and a role for a phs product in its own induction . 
+J. Bacteriol . 
+175:6368 -- 6371 . 
+23 . 
+Friedrich CG , Rother D , Bardischewsky F , Quentmeier A , Fischer J. 2001 . 
+Oxidation of reduced inorganic sulfur compounds by bacteria : emergence of a common mechanism ? 
+Appl . 
+Environ . 
+Microbiol . 
+67 : 2873 -- 2882 . 
+24 . 
+Gennis RB , Stewart V. 1996 . 
+Respiration , p 217 -- 261 . 
+In Neidhart FC ( ed ) , Escherichia coli and Salmonella : cellular and molecular biology , 2nd ed . 
+ASM Press , Washington , DC . 
+25 . 
+Goubern M , Andriamihaja M , Nubel T , Blachier F , Bouillaud F. 2007 . 
+Sulﬁde , the ﬁrst inorganic substrate for human cells . 
+FASEB J. 21 : 1699 -- 1706 . 
+26 . 
+Hallenbeck PC , Clark MA , Barrett EL . 
+1989 . 
+Characterization of anaerobic sulﬁte reduction by Salmonella typhimurium and puriﬁcation of the anaerobically induced sulﬁte reductase . 
+J. Bacteriol . 
+171:3008 -- 3015 . 
+27 . 
+Hanahan D. 1983 . 
+Studies on transformation of Escherichia coli with plasmids . 
+J. Mol . 
+Biol . 
+166:557 -- 580 . 
+28 . 
+Heinzinger NK , Fujimoto SY , Clark MA , Moreno MS , Barrett EL . 
+1995 . 
+Sequence analysis of the phs operon in Salmonella typhimurium and the contribution of thiosulfate reduction to anaerobic energy metabolism . 
+J. Bacteriol . 
+177:2813 -- 2820 . 
+29 . 
+Hildebrandt TM , Grieshaber MK . 
+2008 . 
+Three enzymatic activities catalyze the oxidation of sulﬁde to thiosulfate in mammalian and invertebrate mitochondria . 
+FEBS J. 275:3352 -- 3361 . 
+30 . 
+Hinsley AP , Berks BC . 
+2002 . 
+Speciﬁcity of respiratory pathways involved in the reduction of sulfur compounds by Salmonella enterica . 
+Microbiology 148:3631 -- 3638 . 
+31 . 
+Hoberman HD , Rittenberg D. 1943 . 
+Biological catalysis of the exchange reaction between water and hydrogen . 
+J. Biol . 
+Chem . 
+147:211 -- 227 . 
+32 . 
+Huang CJ , Barrett EL . 
+1990 . 
+Identiﬁcation and cloning of genes involved in anaerobic sulﬁte reduction by Salmonella typhimurium . 
+J. Bacteriol . 
+172:4100 -- 4102 . 
+33 . 
+Jones RW . 
+1980 . 
+Proton translocation by the membrane-bound formate dehydrogenase of Escherichia coli . 
+FEMS Microbiol . 
+Lett . 
+8:167 -- 171 . 
+34 . 
+Jørgensen BB . 
+1990 . 
+A thiosulfate shunt in the sulfur cycle of marine sediments . 
+Science 249:152 -- 154 . 
+35 . 
+Jørgensen BB . 
+1990 . 
+The sulfur cycle of freshwater sediments : role of thiosulfate . 
+Limnol . 
+Oceanogr . 
+35:1329 -- 1343 . 
+36 . 
+Jormakka M , Törnroth S , Byrne B , Iwata S. 2002 . 
+Molecular basis of proton motive force generation : structure of formate dehydrogenase-N . 
+Science 295:1863 -- 1868 . 
+37 . 
+Jormakka M , et al. 2008 . 
+Molecular mechanism of energy conservation in polysulﬁde respiration . 
+Nat . 
+Struct . 
+Mol . 
+Biol . 
+15:730 -- 737 . 
+38 . 
+Keller KL , Wall JD . 
+2011 . 
+Genetics and molecular biology of the electron ﬂow for sulfate respiration in Desulfovibrio . 
+Front . 
+Microbiol . 
+2 : Article 135 . 
+39 . 
+Kim YJ , et al. 2010 . 
+Formate-driven growth coupled with H2 production . 
+Nature 467:352 -- 355 . 
+40 . 
+Krafft T , et al. 1992 . 
+Cloning and nucleotide sequence of the psrA gene of Wolinella succinogenes polysulphide reductase . 
+Eur . 
+J. Biochem . 
+206 : 503 -- 510 . 
+41 . 
+Kröger A. 1975 . 
+The electron transport coupled phosphorylation of the anaerobic bacterium Vibrio succinogenes , p 265 -- 270 . 
+In Quagliariello E , et al ( ed ) , Electron transfer chains and oxidative phosphorylation . 
+NorthHolland , Amsterdam , Netherlands . 
+42 . 
+Kröger A , Dorrer E , Winkler E. 1980 . 
+The orientation of the substrate sites of formate dehydrogenase and fumarate reductase in the membrane of Vibrio succinogenes . 
+Biochim . 
+Biophys . 
+Acta 589:118 -- 136 . 
+43 . 
+Kruber O. 1929 . 
+Über das 2.3-Dimethyl-naphthalin im Steinkohlenteer . 
+Chem . 
+Berichte . 
+62:3044 -- 3047 . 
+44 . 
+Kwan HS , Barrett EL . 
+1983 . 
+Roles for menaquinone and the two tri-methylamine oxide ( TMAO ) reductases in TMAO respiration in Salmo-nella typhimurium : Mu d ( Aprlac ) insertion mutations in men and tor . 
+J. Bacteriol . 
+155:1147 -- 1155 . 
+45 . 
+Kwan HS , Barrett EL . 
+1984 . 
+Map and locations and functions of Salmo-nella typhimurium men genes . 
+J. Bacteriol . 
+159:1090 -- 1092 . 
+46 . 
+Lemma E , Unden G , Kröger A. 1990 . 
+Menaquinone is an obligatory component of the chain catalyzing succinate respiration in Bacillus subti-lis . 
+Arch . 
+Microbiol . 
+155:62 -- 67 . 
+47 . 
+Levitt MD , Furne J , Springﬁeld J , Suarez F , DeMaster E. 1999 . 
+Detoxiﬁcation of hydrogen sulphide and methanethiol in the cecal mucosa . 
+J. Clin . 
+Invest . 
+104:1107 -- 1114 . 
+48 . 
+Meganathan R. 1984 . 
+Inability of men mutants of Escherichia coli to use trimethylamine-N-oxide as an electron acceptor . 
+FEMS Microbiol . 
+Lett . 
+24:57 -- 62 . 
+49 . 
+Meganathan R. 1996 . 
+Biosynthesis of the isoprenoid quinones menaqui-none ( vitamin K2 ) and ubiquinone ( coenzyme Q ) , p 642 -- 656 . 
+In Neidhardt FC ( ed ) , Escherichia coli and Salmonella : cellular and molecular biology , 2nd ed . 
+ASM Press , Washington , DC . 
+50 . 
+Meuer J , Kuettner HC , Zhang JK , Hedderich R , Metcalf WW . 
+2002 . 
+Genetic analysis of the archaeon Methanosarcina barkeri Fusaro reveals a central role for Ech hydrogenase and ferredoxin in methanogenesis and carbon ﬁxation . 
+Proc . 
+Natl. Acad . 
+Sci . 
+U. S. A. 99:5632 -- 5637 . 
+51 . 
+Nicholls DG , Ferguson SJ . 
+2002 . 
+Bioenergetics 3 . 
+Academic Press , London , United Kingdom . 
+52 . 
+Redwood MD , Mikheenko IP , Sargent F , Macaskie LE . 
+2008 . 
+Dissecting the roles of Escherichia coli hydrogenases in biohydrogen production . 
+FEMS Microbiol . 
+Lett . 
+278:48 -- 55 . 
+53 . 
+Sambrook J , Fritsch EF , Maniatis T. 1989 . 
+Molecular cloning : a laboratory manual , 2nd ed . 
+Cold Spring Harbor Laboratory Press , Cold Spring Harbor , NY . 
+54 . 
+Sargent F , Stanley NR , Berks BC , Palmer T. 1999 . 
+Sec-independent protein translocation in Escherichia coli : a distinct and pivotal role for the TatB protein . 
+J. Biol . 
+Chem . 
+274:36073 -- 36082 . 
+55 . 
+Sasahara KC , Heinzinger NK , Barrett EL . 
+1997 . 
+Hydrogen sulﬁde production and fermentative gas production by Salmonella typhimurium require FOF1 ATP synthase activity . 
+J. Bacteriol . 
+179:6736 -- 6740 . 
+56 . 
+Sauter M , Bohm R , Böck A. 1992 . 
+Mutational analysis of the operon ( hyc ) determining hydrogenase 3 formation in Escherichia coli . 
+Mol . 
+Microbiol . 
+6:1523 -- 1532 . 
+57 . 
+Sawers G. 1994 . 
+The hydrogenases and formate dehydrogenases of Esch-erichia coli . 
+Antonie Van Leeuwenhoek 66:57 -- 88 . 
+58 . 
+Sawers RG , Ballantine SP , Boxer DH . 
+1985 . 
+Differential expression of hydrogenase isoenzymes in Escherichia coli K-12 : evidence for a third isoenzyme . 
+J. Bacteriol . 
+164:1324 -- 1331 . 
+59 . 
+Sawers RG , Boxer DH . 
+1986 . 
+Puriﬁcation and properties of membrane-bound hydrogenase isoenzyme 1 from anaerobically grown Escherichia coli K12 . 
+Eur . 
+J. Biochem . 
+156:265 -- 275 . 
+60 . 
+Sawers RG , Jamieson DJ , Higgins CF , Boxer DH . 
+1986 . 
+Characterization and physiological roles of membrane-bound hydrogenase isoenzymes from Salmonella typhimurium . 
+J. Bacteriol . 
+168:398 -- 404 . 
+61 . 
+Schauder R , Kröger A. 1993 . 
+Bacterial sulphur respiration . 
+Arch . 
+Microbiol . 
+159:491 -- 497 . 
+62 . 
+Schirawski J , Unden G. 1998 . 
+Menaquinone-dependent succinate dehydrogenase of bacteria catalyzes reversed electron transport driven by the proton potential . 
+Eur . 
+J. Biochem . 
+257:210 -- 215 . 
+63 . 
+Schmidt K , Liaanen-Jensen S , Schlegel HG . 
+1963 . 
+Die Carotinoide der Thiorhodaceae . 
+Arch . 
+Microbiol . 
+46:117 -- 126 . 
+64 . 
+Schnorf U. 1966 . 
+PhD thesis . 
+Eidgenössiche Technische Hochschule , Zürich , Switzerland . 
+65 . 
+Shioi J , Taylor BL . 
+1984 . 
+Oxygen taxis and proton motive force in Sal-monella typhimurium . 
+J. Biol . 
+Chem . 
+259:10983 -- 10988 . 
+66 . 
+Smarrelli J , Jr. , Campbell WH . 
+1983 . 
+Heavy metal inactivation and ch-elator stimulation of higher plant nitrate reductase . 
+Biochim . 
+Biophys . 
+Acta 742:435 -- 445 . 
+67 . 
+Søballe B , Poole RK . 
+1999 . 
+Microbial ubiquinones : multiple roles in respiration , gene regulation and oxidative stress management . 
+Microbiol . 
+145:1817 -- 1830 . 
+68 . 
+Stanley NR , et al. 2002 . 
+Behaviour of topological marker proteins targeted to the Tat protein transport pathway . 
+Mol . 
+Microbiol . 
+43 : 1005 -- 1021 . 
+69 . 
+Tarr HLA . 
+1933 . 
+The enzymic formation of hydrogen sulphide by certain heterotrophic bacteria . 
+Biochem . 
+J. 27:1869 -- 1874 . 
+70 . 
+Thauer RK , Jungermann K , Decker K. 1977 . 
+Energy conservation in chemotrophic anaerobic bacteria . 
+Bacteriol . 
+Rev. 41:100 -- 180 . 
+71 . 
+Thauer RK , Kaster AK , Seedorf H , Buckel W , Hedderich R. 2008 . 
+Methanogenic archaea : ecologically relevant differences in energy conservation . 
+Nat . 
+Rev. Microbiol . 
+6:579 -- 591 . 
+72 . 
+Tran QH , Unden G. 1998 . 
+Changes in the proton potential and the cellular energetics of Escherichia coli during growth by aerobic or anaerobic respiration or by fermentation . 
+Eur . 
+J. Biochem . 
+251:538 -- 543 . 
+73 . 
+Tran QH , Bongaerts J , Vlad D , Unden G. 1997 . 
+Requirement for the proton-pumping NADH dehydrogenase I of Escherichia coli in respiration of NADH to fumarate and its bioenergetic implications . 
+Eur . 
+J. Biochem . 
+244:155 -- 160 . 
+74 . 
+Unden G , Kröger A. 1986 . 
+Reconstitution of a functional electrontransfer chain from puriﬁed formate dehydrogenase and fumarate reductase complexes . 
+Methods Enzymol . 
+126:387 -- 399 . 
+75 . 
+Unden G , Bongaerts J. 1997 . 
+Alternative respiratory pathways of Esche-richia coli : energetics and transcriptional regulation in response to electron acceptors . 
+Biochim . 
+Biophys . 
+Acta 1320:217 -- 234 . 
+76 . 
+Unden G , Dünnwald P. 2009 . 
+Chapter 3.2.2 , The aerobic and anaerobic respiratory chain of Escherichia coli and Salmonella enterica : enzymes and energetics . 
+In Böck R et al ( ed ) , EcoSal -- Escherichia and Salmonella : cellular and molecular biology . 
+ASM Press , Washington , DC . 
+77 . 
+Winter SE , et al. 2010 . 
+Gut inﬂammation provides a respiratory electron acceptor for Salmonella . 
+Nature 467:426 -- 429 . 
+78 . 
+Wissenbach U , Ternes D , Unden G. 1992 . 
+An Escherichia coli mutant containing only demethylmenaquinone , but no menaquinone : effects on fumarate , dimethylsulfoxide , trimethylamine N-oxide and nitrate respiration . 
+Arch . 
+Microbiol . 
+158:68 -- 73 . 
+79 . 
+Wood PM . 
+1988 . 
+Chemolithotrophy , p 183 -- 230 . 
+In Anthony C ( ed ) , Bacterial energy transduction . 
+Academic Press , London , United Kingdom . 
+80 . 
+Zaunmüller T , Kelly DJ , Glöckner FO , Unden G. 2006 . 
+Succinate dehydrogenase functioning by a reverse redox loop mechanism and fumarate reductase in sulphate-reducing bacteria . 
+Microbiology 152:2443 -- 2453 . 
+81 . 
+Zbell AL , Benoit SL , Maier RJ . 
+2007 . 
+Differential expression of NiFe uptake-type hydrogenase genes in Salmonella enterica serovar Typhimu-rium . 
+Microbiology 153:3508 -- 3516 . 
+82 . 
+Zbell AL , Maier RJ . 
+2009 . 
+Role of the Hya hydrogenase in recycling of anaerobically produced H2 in Salmonella enterica serovar Typhimurium . 
+Appl . 
+Environ . 
+Microbiol . 
+75:1456 -- 1459 . 
+83 . 
+Zilberstein D , Schuldiner S , Padan E. 1979 . 
+Proton electrochemical gradient in Escherichia coli cells and its relation to active transport of lactose . 
+Biochemistry 18:669 -- 673 .

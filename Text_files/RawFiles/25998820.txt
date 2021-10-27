@@ -1,0 +1,428 @@
+Food Microbiology 50 ( 2015 ) 88e96 
+lable at ScienceDirect Contents lists avai 
+Food Microbiology
+journal homepage : www.elsevier.com/locate/fm 
+Inactivation dynamics of Salmonella enterica , Listeria monocytogenes , 
+and Escherichia coli O157 : H7 in wash water during simulated chlorine 
+depletion and replenishment processes 
+Bin Zhou a , b , Yaguang Luo a , * , Xiangwu Nou a , Shuxia Lyu c , Qin Wang b 
+a U. S. Department of Agriculture , Agricultural Research Service , Beltsville Agricultural Research Center , Environmental Microbiology and Food Safety Laboratory , 10300 Baltimore Ave , Beltsville , MD 20705 , USA b Department of Nutrition and Food Science , University of Maryland , 0112 Skinner Building , College Park , MD 20742 , USA c College of Biological Sciences and Technology , Shenyang Agricultural University , Shenyang , PR China 
+abstract 
+article info 
+Article history : 
+Maintaining effective sanitizer concentration is of critical importance for preventing pathogen survival and transference during fresh-cut produce wash operation and for ensuring the safety of ﬁnished products . 
+However , maintaining an adequate level of sanitizer in wash water can be challenging for processors due to the large organic load in the wash system . 
+In this study , we investigated how the survival of human pathogens was affected by the dynamic changes in water quality during chlorine depletion and replenishment in simulated produce washing operations . 
+Lettuce extract was added incrementally into water containing pre-set levels of free chlorine to simulate the chlorine depletion process , and sodium hypochlorite was added incrementally into water containing pre-set levels of lettuce extract to simulate chlorine replenishment . 
+Key water quality parameters were closely monitored and the bactericidal activity of the wash water was evaluated using three-strain cocktails of Escherichia coli O157 : H7 , Salmonella enterica , and Listeria monocytogenes . 
+In both chlorine depletion and replenishment processes , no pathogen survival was observed when wash water free chlorine level was maintained above 3.66 mg/L , irrespective of the initial free chlorine levels ( 10 , 50 , 100 and 200 mg/L ) or organic loading ( chemical oxidation demand levels of 0 , 532 , 1013 and 1705 mg/L ) . 
+At this free chlorine concentration , the measured ORP was 843 mV and pH was 5.12 for the chlorine depletion process ; the measured ORP was 714 mV and pH was 6.97 for the chlorine replenishment process . 
+This study provides quantitative data needed by the fresh-cut produce industry and the regulatory agencies to establish critical operational control parameters to prevent pathogen survival and cross-contamination during fresh produce washing . 
+© 2015 Published by Elsevier Ltd. . 
+Received 9 December 2014 Received in revised form 5 March 2015 Accepted 24 March 2015 Available online 2 April 2015 
+Keywords : Wash water 
+Organic load Human pathogen Chlorine depletion Chlorine replenishment 
+1. Introduction
+Fresh and fresh-cut produce is susceptible to microbial contamination during wash operation ( Lehto et al. , 2011 ; Olaimat and Holley , 2012 ) . 
+Processing water is commonly re-circulated and reused for economic and environmental considerations . 
+This wash water often contains soils , plant debris , and organic materials released from cut or damaged produce . 
+Pathogens from contaminated produce can be dislodged from the plant surfaces and transferred to clean produce , thus resulting in cross-contamination . 
+Therefore , maintaining effective sanitizer concentrations in wash water is critical for ensuring food safety of fresh and fresh-cut produce ( Luo et al. , 2012 ; Gil et al. , 2009 ; Simons , 1997 ) . 
+Currently , several types of sanitizers are commonly used in the produce industry , including chlorine , peroxyacetic acid , ozone , and organic acids ( USFDA , 2013 ) . 
+Among those , chlorine is the most widely used sanitizer because of its low impact on the nutritional and aesthetic quality of the product , established ability to kill pathogens in suspension , and low cost ( Adams et al. , 1989 ; Zhuang et al. , 1995 ) . 
+Although chlorine has limited efﬁcacy on pathogen reduction from produce surface , its capacity in inactivating path-ogens in suspension make it an effective antimicrobial agent for controlling wash water pathogens 
+* Corresponding author . 
+Tel. : þ1 301 504 6186 ; fax : þ1 301 504 5107 . 
+E-mail address : yaguang.luo@ars.usda.gov ( Y. Luo ) . 
+http://dx.doi.org/10.1016/j.fm.2015.03.004 0740-0020 / © 2015 Published by Elsevier Ltd. . 
+Despite widespread use by the fresh-cut produce industry , chlorine 's rapid reaction with organic materials and consequent loss of efﬁcacy has been problematic ( Nou and Luo , 2010 ) . 
+Although coarse debris is typically removed by mechanical screens , soluble organic matter still accumulates in the wash water over time , along with the formation of chloramines and organochloramines ( Beuchat et al. , 1998 ; Garg , 1990 ; Luo et al. , 2012 ; Pirovani et al. , 2001 ) . 
+During the washing process , only a limited amount of fresh water is added to the wash system to compensate for water loss during washing . 
+Water re-circulation allows steady organic matter accumulation and accelerated free chlorine depletion . 
+To maintain a steady free chlorine level , concentrated sodium hypochlorite ( NaClO ) is frequently added to the wash system . 
+In the absence of organic matter , free chlorine concentration is proportional to the NaClO added in a given system . 
+However , in the presence of organic matter , chlorine dosing is a technical challenge as the complex chlorination breakpoint has to be considered ( Zhou et al. , 2014 ) . 
+Efﬁcacy of chlorine to inactivate pathogens is impacted by several factors , including chlorine concentration , pH , contact time , and pathogen strain ( Virto et al. , 2005 ) . 
+Chlorine 's efﬁcacy to inactivate pathogens is positively correlated with chlorine concentration and exposure time in the chlorine demand-free liquid system ( Kouame and Haas , 1991 ) . 
+In general , higher than 5 log cfu/L pathogen reduction can be achieved with 0.5 e1 .0 mg / L free chlorine with 30 s or longer exposure ( Luo et al. , 2011 ; Shen et al. , 2013 ; Van Haute et al. , 2013 ) . 
+However , studies regarding the effect of chlorine on pathogen inactivation in the presence of organic matters are limited , and critical data gaps exist in many areas ( Shen et al. , 2013 ; Gomez-Lopez , 2014 ; Van Haute et al. , 2013 ) . 
+Although chlorine is often considered a Critical Control Point ( CCP ) in the industry-wide Hazardous Analysis and Critical Control Point ( HACCP ) program , scientiﬁc validation for the critical control limit during produce wash operation is lacking . 
+The fresh-cut produce industry needs information on which operational parameters e.g. , sanitizer concentration , pH , residence time , organic load , etc. are critical to measure and monitor , as well as the signiﬁcance of the measurements in terms of the performance of the wash water as a microbial control system . 
+Hence , research projects that can address these data gaps are vital ( CPS , 2014 ; 2011 ; 2012 , 2013 ) . 
+Recently , a study from Gomez-Lopez et al. ( 2014 ) reported that the minimum free chlorine of 5 mg/L is required to keep water free from foodborne pathogens during produce wash using a dynamic produce wash system . 
+However , the exact role of initial chlorine concentration and the level of organic matter , and especially their interaction on chlorine depletion and replenishment processes remain unknown . 
+Furthermore , some studies shown that Listeria monocytegenes is more resistant to environmental stresses than Escherichia coli O157 : H7 , Salmonella enterica ; yet their comparative survival patterns during chlorine depletion and replenishment processes are unknown . 
+Thus , this study is designed to address these critical data gaps , and to identify the most critical factors that directly impact pathogen inactivation and survival during produce wash in the presence of organic load . 
+2. Materials and methods
+2.1. Lettuce extract preparation
+Iceberg lettuce was purchased from a local produce wholesale market , cut into pieces , pressed through a household juicer , and ﬁltered through eight layers of cheesecloth . 
+Filtered iceberg lettuce extract was aliquoted and stored at 20 C for use throughout this study . 
+2.2. Bacterial strains and culture preparation
+A three-strain cocktail of E. coli O157 : H7 with nalidixic acid resistance , a three-strain cocktail of S. enterica transformed with plasmid pGT-KAN , and a three-strain cocktail of Listeria monocytogenes were used in this study ( Table 1 ) . 
+A single colony for each strain was inoculated into 30 mL tryptic soy broth ( TSB , Neogen , Lansing , MI , USA ) with 50 mg/L nalidixic acid ( for E. coli ) , 50 mg/L kanamycin ( for Salmonella ) , or without antibiotics ( for L. monocytogenes ) and incubated for 20 h at 37 C with shaking . 
+Cells were harvested by centrifugation at 4,300 g for 5 min , washed once in sterile phosphate-buffered saline ( PBS ) , and re-suspended in 10 mL of PBS . 
+Equal volumes of cell suspensions from each strain were mixed and diluted in PBS to achieve a cocktail of inoculum with approximately 108 CFU/mL for each of the three species . 
+2.3. Simulation of chlorine depletion in wash water
+Sodium hypochlorite ( NaClO ) ( 7.56 % ) was added to 3 L of water to obtain chlorinated water with targeted initial free chlorine concentrations of 10 , 50 , 100 , and 200 mg/L . 
+The pH was adjusted to 6.5 with 25 % citric acid . 
+Lettuce extract was incrementally added to the chlorinated water in 2 mL aliquots every 2 min to simulate the accumulating organic load in commercial fresh-cut lettuce wash water . 
+Water samples were taken at varying intervals of lettuce extract addition , depending on the expected impact of the incremental increase in organic load on free chlorine concentration . 
+Higher sampling frequencies were applied when free chlorine levels changed more precipitously . 
+Water samples were taken one minute after lettuce extract addition and analyzed for chemical oxygen demand ( COD ) , oxidationereduction potential ( ORP ) , pH , and free and total chlorine . 
+Three aliquots ( 15 mL ) of wash water were removed at each of the indicated sampling points for assessing bactericidal activities using the cocktails representing the three bacterial species . 
+Bacteria cells in each cocktail were exposed to the water sample at a ratio of 1:100 for 30 s , followed by neutralizing the residual chlorine with 0.1 % sodium thiosulfate , and enumerating the surviving populations using a modiﬁed most probable number ( MPN ) method ( Section 2.5 ) . 
+2.4. Simulation of chlorine replenishment in wash water
+Wash water was simulated by adding lettuce extract to distilled water to reach a ﬁnal concentration of 1.2 % , 2.4 % , and 3.6 % with COD levels averaging at 532 , 1013 , and 1705 mg/L . 
+NaClO was repeatedly added in 4 mg/L increments in 3 min intervals to the simulated wash water containing different levels of lettuce extract until the ﬁnal chlorine concentration passed the chlorination breakpoint ( the point where chlorine demand in the simulated wash water was fully satisﬁed and free chlorine started to increase proportionally to added NaClO ) . 
+Two minutes after each chlorine addition , a water sample was taken and analyzed for ORP , pH , and free and total chlorine . 
+Bactericidal activity was determined as described in section 2.3 . 
+2.5. Water quality assays and bacterial enumeration
+COD , ORP , pH , total and free chlorine in simulated wash water were determined as previously described ( Zhou et al. , 2014 ) . 
+For bacterial enumeration , a previously described mini-most probable number ( MPN ) method was adapted with modiﬁcations ( Zho et al. , 2014 ) . 
+Brieﬂy , aliquots ( 0.3 mL ) of neutralized bacteria-wash water solutions were added to 2.7 mL of TSB containing 0.1 % so-dium pyruvate , with antibiotics ( 50 mg/L of nalidixic acid for E. coli O157 : H7 , or 50 mg/L of kanamycin for Salmonella , respectively ) , or to 2.7 mL of Listeria enrichment broth with selective supplements ( Thermal Scientiﬁc , Odessa , TX ) for L. monocytogenes . 
+After 10-fold serial dilutions in the same media and incubation at 37 C for 18 h , aliquots ( 3 ml ) of the enriched culture from each well were arrayed onto MacConkey agar containing 50 mg/L of nalidixic acid , TSA containing 50 mg/L of kanamycin , and PALCAM ( Thermal Scientiﬁc ) for E. coli O157 : H7 , S. enterica , and L. monocytogenes , respectively . 
+Following incubation at 37 C overnight , the numbers of wells for each dilution that gave rise to pale colonies characteristic of E. coli O157 : H7 , green ﬂuorescent colonies characteristic of Salmonella , and dark colonies characteristic of L. monocytogenes on respective selective plates were recorded and used for calculating the MPN of human pathogens in each water sample . 
+2.6. Experimental design and data analyses
+All experiments were run in triplicates . 
+Water-quality measurements for ORP , pH , and total and free chlorine were analyzed as a function of lettuce extract concentration and cumulative NaClO addition . 
+Data related to human pathogen populations were logtransformed and analyzed for statistical signiﬁcance among treatments using the general linear model of SAS 9.3 ( SAS Institute , Cary , NC , USA ) . 
+When the effects were statistically signiﬁcant , mean comparisons were determined with Sidak adjusted P values to maintain the experimentewise error ( a ) at 0.05 . 
+A correlation matrix for all measured parameters , including water quality attri-butes and the survival potential of each of the tested human pathogens was constructed using the CORR procedure of SAS , which provided a value for the Spearman correlation ( rs ) and the associated P value . 
+Fresh-cut produce processing consumes large amounts of fresh water . 
+In commercial operations , organic matter from plant tissue , debris , and soil disperse quickly in wash water upon entering the washing tank , leading to rapid water quality deterioration and chlorine depletion . 
+In this study , the chlorine depletion process in wash water was simulated by incremental increases of organic matters in the form of lettuce extract . 
+The changes in wash water quality and its association with the dynamics of pathogen survival in wash water during this process is closely monitored . 
+As shown in Fig. 1A , free chlorine concentration decreased immediately upon the introduction of organic matter , and eventually depleted following the continued introduction of organic matter . 
+This is in agreement with observations in previous studies ( Luo et al. , 2012 ; Van Haute et al. , 2013 ; Zhou et al. , 2014 ) . 
+However , in the high initial chlorine treatment groups ( 100 and 200 mg/L ) , when plotting the data against logarithmic scale , a two-phased decline in chlorine concentration was observed ( Fig. 1a ) , i.e. a rapid decline followed by a slow decline . 
+While free chlorine depleted rapidly in the low initial chlorine treatment , free chlorine leveled off at around 0.5 mg/L , following the continued introduction of organic materials . 
+This result is likely attributable to the conversion between chloramines and chlorine . 
+Studies have shown that organic chloramines can be hydrolyzed to release free chlorine ( Phenyl-arsine Oxide or N , N-diethyl-p-phenylenediamine ) , and , subsequently , interfere with the measurement of free chlorine using amperometric titration or DPD method ( Jensen and Johnson , 1990a , b ) . 
+As wash water is loaded continuously with organics , the formation of large amounts of organic chloramines could falsely augment free chlorine measurements using DPD method , and thus result in overestimation of available free chlorine . 
+Total chlorine also declines following the introduction of organic materials , however at a much slower rate than free chlorine ( Fig. 1B ) , since total chlorine includes both free chlorine and chloramines . 
+In addition , the residual total chlorine approaches a stable level , which is proportional to the initial free chlorine level . 
+This also indicates that chloramines accumulate during the addition of organic materials . 
+At the beginning of the test , the pH of all chlorinated water was adjusted to 6.5 with citric acid . 
+As the concentration of lettuce extract ( shown as COD ) increased , the organic materials were oxidized to combined chloramines , with the formation of protons ( White , 1999 ) . 
+This explains the steady declining pH ( Fig. 1C ) . 
+The decrease in pH of wash water with high initial concentration of NaClO was slower with the addition of organic material ( Fig. 1C ) . 
+Therefore , the actual measured pH level of the wash water is a function of the amount of lettuce extract and sodium hypochlorite added . 
+ORP values increased initially following the introduction of organic material ( Fig. 1D ) . 
+Since ORP is a function of pH and free chlorine , the slight increase in ORP is mostly likely attributable to the sharp decline in pH and slight decline in free chlorine initially . 
+However , with the continued organic load input and decline in free chlorine concentration , there were sharp declines in ORP values 
+Table 1 
+Strains used in this study . 
+Sourcesc 
+Strain E. coli O157 : H7a 
+Isolation source and relevant characteristics 
+RM1918 Bagged lettuce associated with illness outbreaks RM4406 Lettuce associated with illness outbreaks , RM5279 Bagged vegetables associated with illness outbreaks , S. entericab Typhimurium SL1344 Laboratory strain , kanR Thompson RM1987 Clinical , cilantro associated outbreak KanR , Newport FDA2757 Tomato linked to an outbreak , KanR L. monocytogenes NRRL B59186 Clinical , cantaloupe associated outbreak , serotype 2b Scott A 45A54 Clinical , foodborne disease outbreak , serotype 4b Scott A 45A65 Clinical , foodborne disease outbreak , serotype 4b a For all E. coli O157 : H7 strains , stable nalidixic acid resistant mutants were selected and used in this study . 
+b All S. enterica strains were transformed using plasmid pGT-kan , conferring kanamycin resistance . 
+c EMFSL referred to Environmental Microbiology and Food Safety Lab , USDA ARS ; FDA referred to U S Food and Drug Administration ; NRRL referred to Northern Regional Research Laboratory ( ARS Culture Collection ) , USDA ARS ; WRRC referred to Western Regional Research Center , USDA ARS . 
+WRRC WRRC WRRC 
+WRRC WRRC FDA 
+NRRL EMFSL EMFSL 
+3 . 
+Results and discussion 
+Fig. 1 . 
+Proﬁles of total and free chlorine , pH , and ORP of wash water during the simulated chlorine depletion process at different initial free chlorine levels . 
+( A ) Measured free chlorine ; ( B ) Total chlorine ; ( C ) pH ; and ( D ) OxidationeReduction Potential ( ORP ) . 
+Both cumulative addition of lettuce extract and corresponding COD values are shown in the x-axis . 
+Note that water sampling frequencies varied for wash water with different initial free chlorine levels and at different stages of free chlorine depletion . 
+E. coli O157 : H7 , S. enterica and L. monocytogenes are foodborne pathogens frequently associated with fresh produce ( Centers for Disease Control and Prevention , 2013 ; Grifﬁn and Tauxe , 1991 ; Scallan et al. , 2011 ) . 
+The FDA established a zero tolerance policy for these pathogens in fresh and fresh-cut produce . 
+In this study , the survival of these three types of human pathogens over the chlorine depletion process was investigated . 
+During chlorine decline , following the introduction of organic materials , wash water bactericidal activity remained strong initially with no pathogen survival in the wash solutions ( Fig. 2AeC ) . 
+However , with continued organic loading and free chlorine loss , survival was observed in the wash solution . 
+Among all four initial chlorine treatments , the higher the initial free chlorine level , the more organic loading the wash water handled before pathogen survival was observed . 
+Pathogen survival was observed ﬁrst with the lowest initial chlorine , occurring after the accumulated addition of 2.91 mL/L lettuce extract , or the COD level reached 169 mg/L . 
+On the other hand , the treatment containing the highest initial chlorine level did not shown any pathogen survival until after the accumulated addition of 39.58 mL/L of lettuce extract or the COD reached 1658 mg/L . 
+Plotting the pathogen survival against the free chlorine measured in the system ( Fig. 2DeF and Table 2 ) revealed that no pathogen survival was detected when free chlorine was maintained at 3.66 mg/L or above , regardless of initial chlorine concentration and organic loading . 
+These results also indicate that under high organic loads , the free chlorine concentration needed to ensure water free of pathogens needs to be kept higher than 3.66 mg/L . 
+Similar ﬁndings were reported by Gomez-Lopez et al. ( 2014 ) . 
+In addition , the simulated wash water with higher organic load has a lower critical free chlorine level than other treatments ( Table 2 ) , probably attributable to the microbial inactivation of chloramines . 
+The monochloramine can inactivate microorganisms by damaging cell membranes and breaking DNA ( Ingols , 1958 ; Rose et al. , 2007 ; Shih and Lederberg , 1976 ) . 
+Organic chloramines also can be used as disinfectants in water treatment ( Amiri et al. , 2010 ; Donnermair and Blatchley , 2003 ; Swango et al. , 1987 ) . 
+Furthermore , free chlorine and chloramines have a synergic effect on inactivating bacterial cells ( Kouame and Haas , 1991 ) . 
+Table 2 summarizes the wash water conditions when pathogen survival was ﬁrst observed during chlorine depletion . 
+S. enterica and L. monocytogenes have been reported as being more resistant to chlorine inactivation than E. coli O157 : H7 ( Shen et al. , 2013 ; Van Haute et al. , 2013 ) . 
+In our current study , a series of free chlorine residues was captured for the analysis of inactivation of three human pathogens . 
+The results indicated that no signiﬁcant difference in survival patterns was observed among those three major food-borne patho-gens ( P < 0.01 ) over the dynamic change of free chlorine residue . 
+This suggests that bacterial strain is not likely to be a signiﬁcant factor for bacterial inactivation in a free chlorine based produce washing system . 
+3.2 . 
+Pathogen survival dynamics during chlorine depletion process 
+Addition of NaClO to process water is a common practice within the fresh produce industry to restore chlorine level in order to avoid cross-contamination ( Gomez-Lopez et al. , 2014 ; Van Haute et al. , 2013 ) . 
+In this study , the chlorine replenishment in wash water was simulated by incremental addition of NaClO to water containing varying levels of lettuce extract . 
+The change in free chlorine level was monitored in wash water with varying organic load i response to accumulating NaClO . 
+As shown in Fig. 3A , the changes in free chlorine followed the typical pattern for breakpoint chlorination ( Zhou et al. , 2014 ) during the addition of NaClO . 
+In the absence of organic materials , free chlorine increased immediately following the addition of NaClO . 
+However , the increase in free chlorine concentration was signiﬁcantly delayed in the presence of organic materials ( P < 0.01 ) . 
+Increased organic loading resulted in longer lag periods before the chlorination breakpoint , when the chlorine demand in the wash water was fully met , and the free chlorine level increased linearly with the addition of NaClO . 
+It was also observed that under conditions of high organic load ( greater than 1000 mg/L ) , free chlorine concentration bounced around 1.00 mg/L , before the process approached the breakpoint . 
+Total chlorine increased immediately with the addition of NaClO , on the other hand , irrespective of the organic load ( Fig. 3B ) . 
+However , the coefﬁcient between total chlorine and cumulative NaClO input was far less than 1 , suggesting that there existed complex reactions between chlorine and organic components of lettuce extract : some generate chloramines , and others consume NaClO . 
+Toivonen and Lu ( 2013 ) found that the organic materials released from cut fruit and vegetable tissue have different potential to quench free chlorine from wash water . 
+In addition , Deborde and von Gunten ( 2008 ) have reported that there are three kinds of reactions : oxidation reactions , addition reactions to unsaturated bonds , and electrophilic substitution reactions at nucleophilic sites , depending on the chemical structure and oxidative capacity of free chlorine and the different components of organic materials . 
+Fig. 3C shows the pH changes in wash water with varying organic load as a function of chlorine addition . 
+During the cumulative addition of NaClO to wash water with varying concentrations of lettuce extract , the change in pH follows a three-stage progression that includes a steady increase , followed by a steep decline , and another sharp increase . 
+The bottom of the second stage coincided with the chlorination breakpoint . 
+This conﬁrms our earlier ﬁndings ( Zhou et al. , 2014 ) . 
+The changes in ORP during chlorine replenishment are shown in Fig. 3D . 
+ORP initially increases gradually , followed by a sharp increase until it reaches a plateau . 
+When the chlorine replenishment passes the breakpoints , the ORP of wash water for all levels of organic load was over 650 mV , which has been reported as the minimum threshold for typical anti-bacterial activity ( Steininger , 1985 ) . 
+It should be noted that during chlorine replenishment , the ORP reading past the breakpoint was much lower than the ORP reading at the corresponding point ( in terms of free chlorine and COD levels ) during the simulated chlorine depletion ( Fig. 1D ) . 
+This discrepancy was due to the water pH in these cases . 
+While pH was not controlled in the simulated chlorine replenishment , pH in the wash water used for simulating free chlorine depletion was initially adjusted to 6.5 , resulting in a lower pH when the lettuce extract was introduced . 
+Fig. 2 . 
+Survival of three tested human pathogens during the simulated chlorine depletion process at different initial free chlorine levels . 
+Graphs on the left show the survival populations of the three pathogens as a function of cumulative added lettuce extract ( also expressed as chemical oxygen demand ) . 
+Graphs on the right are scatter plots showing the measured free chlorine concentrations where survival of each pathogen was detected . 
+( A and D ) E. coli O157 : H7 ; ( B and E ) S. enteric ; ( C and F ) L. monocytogenes . 
+The detection limit 1/4 0.75 MPN/mL . 
+Table 2 
+Major water quality param 
+LEb added ( mL/L ) COD ( mg/L ) Free chlorine-measured ( mg/L ) pH ORP ( mv ) 
+Initial chlorine ( mg/L ) 
+10 2.92 169 0.71 5.49 755 50 8.33 390 3.66 5.12 843 100 19.17 907 1.86 4.84 826 200 39.58 1658 0.69 4.75 640 a All experiments were done in 3 L washing system with three replications . 
+The values associated with free chlorine measured are obtained at the lowest free chlorine level when the system was pathogen-free . 
+All other values reported are the system parameters at this free chlorine level b LE represents lettuce extract . 
+3.4. Pathogen survival dynamics during chlorine replenishment process
+Water recirculation could increase the potential risk of foodborne illness by readily distributing contaminants to noncontaminated produce . 
+It has been documented that E. coli O157 : H7 strains can survive in the holding tank if wash water is not sanitized effectively , be circulated back to the washing tank and cross-contaminate newly loaded produce during the washing process ( Gomez-Lopez , 2014 ) . 
+Fig. 4AeC depict the survival of E. coli 
+O157 : H7 , S. enterica and L. monocytogenes , respectively , during the course of chlorine replenishment as impacted by the wash water organic load . 
+In the absence of organic load , bacterial cell populations decline rapidly following the addition of NaClO to the wash water , quickly reaching undetectable level with the continued addition of NaClO . 
+In contrast , for wash water with varying levels of organic load , there is a period of time during which all added NaClO is reacting with organic matter and no free chlorine is available to inactivate bacteria . 
+Thus the bacterial cell population declined more gradually and survived through the addition of a number of aliquots of NaClO , which resulted in a signiﬁcantly less steep slope in Fig. 4AeC ( P < 0.01 ) . 
+The length of the survival period was positively and the slope was negatively correlated with the organic load . 
+Fig. 4DeF show scatter plots of the pathogen survival patterns over the measured free chlorine concentration . 
+Similar to that observed during the chlorine depletion process , pathogen survival was highly correlated to the free chlorine concentration , regardless of the initial organic load . 
+All pathogens were completed eliminated when the free chlorine exceeded 3.58 mg/L ( Fig. 4DeF and Table 3 ) , which corresponds to an ORP value of 740 mv ( Fig. 3A and D ) . 
+This suggests that the impact of organic load on pathogen inactivation is indirect , and its impact on chlorine concentration is direct ; the key factor controlling the pathogen survival and inactivation is the available or residual chlorine concentration . 
+It is worth noting that the maximal free chlorine level permissive to pathogen survival during chlorine depletion ( mean value 1/4 1.73 mg/L for four tested initial free chlorine levels ) was lower than that during the chlorine replenishment ( mean value 1/4 2.37 mg/L for four tested organic loads ) . 
+In addition , at the point just prior to pathogen survival during chlorine depletion , there was a lower pH ( mean value 1/4 5.05 ) and thus higher ORP ( mean value 1/4 766 mv ) ( Table 2 ) . 
+On the other hand , during chlorine replenishment , just after the pathogen became undetectable , there was a higher pH ( mean value 1/4 6.75 ) and lower ORP ( mea value 1/4 681 mv ) ( Table 3 ) . 
+Overall , no pathogen survival was observed when the free chlorine level was maintained above 3.66 mg/L or an ORP above 850 mv . 
+It is further worth noting that chlorine efﬁcacy to inactivate pathogens is dose-time dependant . 
+In this study , data presented are obtained with 30 s reaction time . 
+Higher chlorine concentration may be needed if a pathogen inactivation time less than 30 s is desired . 
+Fig. 3 . 
+Proﬁles of total and free chlorine , pH , and ORP value of wash water during the simulated chlorine replenishment process at different levels of organic load . 
+( A ) Measured Free chlorine , ( B ) Total chlorine ; ( C ) pH ; and ( D ) OxidationeReduction Potential ( ORP ) . 
+Fig. 4 . 
+Survival of human pathogen strains during the simulated chlorine replenishment process at different levels of organic load . 
+Graphs on the left show the survival populations of the three pathogens as a function of cumulative chlorine addition . 
+Graphs on the right are scatter plots showing the measured free chlorine concentrations where pathogen survival was detected . 
+( A and D ) E. coli O157 : H7 ; ( B and E ) S. enteric ; ( C and F ) L. monocytogenes . 
+The detection limit 1/4 0.75 MPN/mL . 
+3.5. Correlations of wash water bactericidal activity and other water quality tributes
+The survival of food-borne human pathogens is correlated to multiple variables that impact the quality of produce wash water . 
+Spearman 's correlation analyses were performed to determine the relationship between microbial populations and water quality parameters ( Table 4 ) . 
+For free chlorine depletion and replenishment in wash water , there were strong , negative , and monotonic correlations between surviving microbial populations and free chlorine ( P < 0.01 ) , and between surviving microbial populations and ORP ( P < 0.01 ) . 
+However , the negative monotonic correlations between microbial populations and total chlorine levels were strong for the free chlorine depletion process ( P < 0.01 ) , and weak for chlorine replenishment in simulated wash water ( P < 0.01 ) . 
+Regardless of the initial free chlorine ( in the free chlorine depletion process ) and COD ( in the chlorine replenishment process ) levels , both free chlorine levels ( Rs 1/4 0.76 to 0.85 ) and ORP ( Rs 1/4 0.60 to 0.65 ) are strong indicators of the survival potential by bacterial patho-gens in wash water . 
+In order to be effective however , ORP must be controlled tightly over a narrow range . 
+In current industry practices , ORP values vary with the tolerance of pH meter and controllers . 
+If the tolerance is 0.5 , the range of ORP measurements could be 100 mv ( Steininger , 1985 ) . 
+Therefore , it is difﬁcult to set 
+Table 3 
+Major water quality parameters associated with pathogen elimination in water during chlorine replenishment process.a 
+ORP ( mV ) 727 580 714 703 
+pH 
+Free chlorine-measured ( mg/L ) 0.91 2.78 3.58 2.2 
+Free chlorine-calculated ( mg/L ) 1 40 120 180 
+NaClO added ( mL/L ) 0.013 0.507 1.520 2.280 
+Organic load ( mg/L COD ) 0 532 1013 1705 
+5.14 7.94 6.97 6.93 
+a All experiments were done in 3 L washing system with three replicates . 
+The values associated with free chlorine measured are obtained at the lowest free chlorine when the system was pathogen-free . 
+NaClO added , pH , and ORP values are the system parameters at this selected free chlorine level . 
+Free chlorine calculated values are obtained based on the calculation of total NaClO used over the 3 L volume in an organic load free system 
+Spearman correlations between surviving pathogen populations and water quality parameters during simulated free chlorine depletion and replenishments processes . 
+and maintain a target ORP level during produce washing operations . 
+Bacterium Spearman coefﬁcient ( rs ) Total chlorine Free chlorine 
+pH 
+ORP 
+Free chlorine depletion E. coli O157 : H7 0.60 S. enteriaca 0.60 L. monocytogenes 0.61 Free chlorine replenishment E. coli O157 : H7 0.28 S. enteriaca 0.33 L. monocytogenes 0.30 
+0.76 0.76 0.76 
+0.40 0.39 0.39 
+0.64 0.64 0.65 
+0.84 0.85 0.83 
+0.39 0.43 0.39 
+0.65 0.60 0.63 
+4. Conclusion
+This study examined in-depth the inactivation dynamics of bacterial pathogens during chlorine depletion and replenishment processes with respect to varying initial chlorine concentration and organic load . 
+Even though initial chlorine concentration and organic matter load are two important process factors during fresh-cut produce wash operation , their impact on pathogen survival and inactivation is indirect . 
+Initial chlorine concentration primarily affects the capacity of the chlorinated wash water against decline in concentration as a result of its reaction with organic matter , whereas the organic load affects the rate of chlorine depletion or the total amount of concentrated sodium hypo-chlorite required to restore the desired chlorine concentration . 
+During both chlorine depletion and replenishment processes , the free chlorine concentration that led to no pathogen survival ﬂuctuated from 0.71 to 3.66 mg/L , with no particular patterns exerted by either initial free chlorine concentration or organic load . 
+This suggests that sanitizer strength as determined by available or re-sidual free chlorine concentration is the key factor controlling pathogen survival and inactivation in the wash system , irrespective of initial chlorine concentration and organic load . 
+Considering all variables tested and assuming a 30 s exposure time , a minimum of 3.66 mg/L free chlorine ( at pH 5.12 e6 .97 ) , which represents a pathogen reduction of greater than 6 log cycles , is required at all times to ensure that the wash water is free of pathogens . 
+However , a higher chlorine concentration is expected if the reaction time is shorter than 30 s . 
+These ﬁndings contribute to a better understanding of the complex relationship among wash water quality parameters and their association with pathogen survival and inactivation . 
+This information can be used to help industry identify standard operational parameters to better control and monitor fresh-cut produce wash processes with improved pathogen control . 
+Acknowledgments
+This work is supported by USDA-NIFA Specialty Crop Research Initiative Grant Award No. 2010-51181-21230 . 
+The authors wish to thank Dr. J. Atilio de Frias for proof reading the manuscript prior to its submission . 
+References 
+Adams , M.R. , Hartley , A.D. , Cox , L.J. , 1989 . 
+Factors affecting the efﬁciency of washing procedures used in the production of prepared salads . 
+Food Microbiol . 
+6 , 69e77 . 
+Amiri , F. , Mesquita , M.M. , Andrews , S.A. , 2010 . 
+Disinfection effectiveness of organic chloramines , investigating the effect of pH. Water Res . 
+44 ( 3 ) , 845e853 . 
+Beuchat , L.R. , Nail , B.V. , Adler , B.B. , Clavero , M.R. , 1998 . 
+Efﬁcacy of spray application of chlorinated water in killing pathogenic bacteria on raw apples , tomatoes , and lettuce . 
+J. Food Prot . 
+61 , 1305e1311 . 
+Center for Produce Safety , 2011 . 
+Grants Program : the Center for Produce Safety . 
+Available at : https://cps.ucdavis.edu/amass/documents/article/50/2011%20RFP % 20Guidance % 20Document.pdf ( accessed 30.10.14 . ) . 
+Center for Produce Safety , 2012 . 
+Grants Program : the Center for Produce Safety . 
+Available at : https://cps.ucdavis.edu/amass/documents/article/71/CPS% 202012 % 20RFP.pdf ( accessed 30.10.14 . ) . 
+Center for Produce Safety , 2013 . 
+Grants Program : the Center for Produce Safety . 
+Available at : https://cps.ucdavis.edu/amass/documents/article/81/CPS% 202013 % 20Request % 20for % 20Proposals % 20Final % 202-1-13.pdf ( accessed 30.10.14 . ) . 
+Center for Produce Safety , 2014 . 
+Grants Program : the Center for Produce Safety . 
+Available at : https://cps.ucdavis.edu/amass/documents/article/94/CPS% 202014 % 20Request % 20for % 20Proposals % 20Final % 201-14-14.pdf ( accessed 30.10.14 . ) . 
+Centers for Disease Control and Prevention , 2013 . 
+Reports of Selected Salmonella Outbreak Investigations . 
+Available at : http://www.cdc.gov/salmonella/ outbreaks.html ( accessed 19.06.13 . ) . 
+Deborde , M. , von Gunten , U. , 2008 . 
+Reactions of chlorine with inorganic and organic compounds during water treatment - Kinetics and mechanisms : a critical review . 
+Water Res . 
+42 , 13e51 . 
+Donnermair , M.M. , Blatchley III , E.R. , 2003 . 
+Disinfection efﬁcacy of organic chlora-mines . 
+Water Res . 
+37 ( 7 ) , 1557e1570 . 
+Garg , N.J. , 1990 . 
+Effect of processing conditions on the microﬂora of fresh-cut vegetables . 
+J. Food Prot . 
+53 , 701e703 . 
+Gil , M. , Allende , A. , Lopez-Galvez , F. , Selma , M. , 2009 . 
+Fresh-cut product sanitation and wash water disinfection : problems and solutions . 
+Int . 
+J. Food Microbiol . 
+134 , 37e45 . 
+Gomez-Lopez , V.M. , Lannoo , A.S. , Gil , M.I. , Allende , A. , 2014 . 
+Minimum free chlorine residual level required for the inactivation of Escherichia coli O157 : H7 and trihalomethane generation during dynamic washing of fresh-cut spinach . 
+Food Control 42 , 132e138 . 
+Griffin , P.M. , Tauxe , R.V. , 1991 . 
+The epidemiology of infections caused by Escherichia coliO157 : H7 , other enterohemorrhagicE . 
+coli , and the associated hemolytic uremic syndrome . 
+J. Epidemiol . 
+Rev. 13 , 60e98 . 
+Ingols , R.S. , 1958 . 
+The effect of monochloramine and chromate on bacterial chromosomes . 
+Public Health Works 89 , 105e106 . 
+Jensen , J.N. , Johnson , J.D. , 1990a . 
+Interferences by monochloramine and organic chloramines in free available chlorine methods . 
+1 . 
+Amperometric titration . 
+Environ . 
+Sci . 
+Technol . 
+24 ( 7 ) , 981e985 . 
+Jensen , J.N. , Johnson , J.D. , 1990b . 
+Interferences by monochloramine and organic chloramines in free available chlorine methods . 
+2 . 
+N , N-Diethyl-p-phenyl-enediamine . 
+Environ . 
+Sci . 
+Technol . 
+24 ( 7 ) , 985e990 . 
+Kouame , Y. , Haas , C.N. , 1991 . 
+Inactivation od E. coli by combined action of free chlorine and monochloramine . 
+Water Res . 
+25 ( 9 ) , 1027e1032 . 
+Lehto , M. , Kuisma , R. , Ma $ a $ tta $ , J. , Kyma $ la $ inen , H.R. , Ma $ ki , M. , 2011 . 
+Hygienic level and surface contamination in fresh-cut vegetable production plants . 
+Food Control 22 ( 3e4 ) , 469e475 . 
+Luo , Y.G. , Nou , X.W. , Yang , Y. , Alegre , I. , Turner , E. , Feng , H. , Abadias , M. , Conway , W. , 2011 . 
+Determination of free chlorine concentrations needed to prevent Escherichia coli O157 : H7 cross-contamination during freshcut produce wash . 
+J. Food Prot . 
+74 , 352e358 . 
+Luo , Y. , Nou , X. , Millner , P. , Zhou , B. , Shen , C. , Yang , Y. , Shelton , D. , 2012 . 
+A pilot plant scale evaluation of a new process aid for enhancing chlorine efﬁcacy against pathogen survival and cross-contamination during produce wash . 
+Int . 
+J. Food Microbiol . 
+158 ( 2 ) , 133e139 . 
+Nou , X.W. , Luo , Y. , 2010 . 
+Whole-leaf wash improves chlorine efﬁcacy for microbial reduction and prevents pathogen cross-contamination during fresh-cut lettuce processing . 
+J. Food Sci . 
+75 , M283eM290 . 
+Olaimat , A.N. , Holley , R.A. , 2012 . 
+Factors inﬂuencing the microbial safety of fresh produce : a review . 
+Food Microbiol . 
+32 ( 1 ) , 1e19 . 
+Pirovani , M. , Piagentini , A. , Guernes , D. , Arkwright , S. , 2001 . 
+Reduction of chlorine concentration and microbial load during washing-disinfection of shredded lettuce . 
+Int . 
+J. Food Sci . 
+Technol . 
+39 , 341e346 . 
+Rose , L.J. , Rice , E.W. , Hodges , L. , Peterson , A. , Arduino , M.J. , 2007 . 
+Monochloramine inactivation of bacterial select agents . 
+Appl . 
+Environ . 
+Microbiol . 
+73 ( 10 ) , 3437e3439 . 
+Scallan , E. , Hoekstra , R.M. , Angulo , F.J. , Tauxe , R.V. , Widdowson , M.A. , Roy , S.L. , Jones , J.L. , Grifﬁn , P.M. , 2011 . 
+Foodborne illness acquired in the United Statesdmajor pathogens . 
+Emerg . 
+Infect . 
+Dis . 
+17 , 7e15 . 
+Shen , C. , Luo , Y. , Nou , X. , Wang , Q. , Millner , P. , 2013 . 
+Dynamic effects of free chlorine concentration , organic load , and exposure time on the inactivation of Salmo-nella , Escherichia coli O157 : H7 , and non-O157 Shiga ToxineProducing E. coli . 
+J. Food Prot . 
+76 ( 3 ) , 386e393 . 
+Shih , K.L. , Lederberg , J. , 1976 . 
+Chloramine mutagenesis in Bacillus subtilis . 
+Science 192 ( 4244 ) , 1141e1143 . 
+Simons , L.K. , 1997 . 
+Advances in washing of minimally processed vegetables . 
+Food Aust . 
+49 , 75e80 . 
+Steininger , J. , 1985 . 
+PPM or ORP : Which Should Be Used ? 
+Swimming Pool Age & Spa Merchandiser , pp. 1e6 . 
+Swango , L.J. , Wilt , G.R. , Killen , A.D. , Williams , D.E. , Worley , S.D. , 1987 . 
+Inactivation of Legionella pneumophila by hypochlorite and an organic chloramine . 
+Appl . 
+Environ . 
+Microbiol . 
+53 ( 12 ) , 2983e2986 
+Toivonen , P. , Lu , C. , 2013 . 
+Differential quenching of free chlorine by organic compounds potentially exuded from injured plant tissues . 
+Postharvest Biol . 
+Technol . 
+86 , 192e194 . 
+U. S. Food and Drug Administration ( USFDA ) , 2013 . 
+Chapter V. Methods to Reduce / Eliminate Pathogens from Produce and Fresh-cut Produce . 
+Available at : http : / / www.fda.gov/Food/FoodScienceResearch/SafePracticesfor Food Processes / ucm091363.htm ( accessed 22.10.14 . ) . 
+Van Haute , S. , Sampers , I. , Holvoet , K. , Uyttendaele , M. , 2013 . 
+The use of chlorine as a reconditioning agent and wash water disinfectant for fresh-cut lettuce washing with respect to the physicochemical quality and chemical safety . 
+Appl . 
+Environ . 
+Microbiol . 
+79 , 2850e2861 . 
+Virto , R. , Sanz , D. , Alvarez , I. , Condon , S. , Raso , J. , 2005 . 
+Modeling the effect of initial concentration of Escherichia coli suspensions on their inactivation by chlorine . 
+J. Food Saf . 
+25 ( 2 ) , 120e129 . 
+White , G. , 1999 . 
+Handbook of Chlorination and Alternative Disinfectants , fourth ed . 
+John Wiley & Son , Inc. , New York . 
+Zhou , B. , Luo , Y. , Nou , X. , Millner , P. , 2014 . 
+Development of an algorithm for feedforward chlorine dosing of produce wash operations and correlation of chlorine proﬁle with E. coli O157 : H7 inactivation . 
+J. Food Prot . 
+77 ( 4 ) , 558e566 . 
+Zhuang , R.Y. , Beuchat , L.R. , Angulo , F.J. , 1995 . 
+Fate of Salmonella Montevideo on and in raw tomatoes as affected by temperature and treatment with chlorine . 
+Appl . 
+Environ . 
+Microbiol . 
+61 , 2127e2131

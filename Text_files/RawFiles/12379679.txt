@@ -1,0 +1,609 @@
+INFECTION AND IMMUNITY , Nov. 2002 , p. 6032 -- 6042 
+0019-9567/02 / $ 04.00 0 DOI : 10.1128 / IAI .70.11.6032 -- 6042.2002 Copyright © 2002 , American Society for Microbiology . 
+All Rights Reserved . 
+cquisition of Mn(II) in Addition to Fe(II) Is Required for F
+A 
+ull 
+Virulence of Salmonella enterica Serovar Typhimurium E. Boyer ,1 I. Bergevin ,1 D. Malo ,2 P. Gros ,3 and M. F. M. Cellier1 * Department of Human Health , INRS-Institut Armand-Frappier , Laval H7V 1B7 ,1 Center for the Study of Host Resistance , McGill University , Montreal General Hospital , Montreal H3G 1A4 ,2 and Department of Biochemistry , McGill University , Montreal H3G 1Y6 ,3 Quebec , Canada Received 29 October 2001/Returned for modiﬁcation 18 December 2001/Accepted 5 July 2002 
+The roles of the genes feoB ( ABC ferrous iron transporter ) , mntH ( proton-dependent manganese transport-er ) , and sitABCD ( putative ABC iron and/or manganese transporter ) in Salmonella pathogenicity were investigated by using mutant strains deﬁcient in one , two , or three transporters . 
+Our results indicated that sitABCD encodes an important transporter of Mn ( II ) and Fe ( II ) which is required for full virulence in susceptible animals ( Nramp1 / ) and for replication inside Nramp1 / macrophages in vitro . 
+The mntH sitABCD double mutant ( mutant MS ) showed minimal Mn ( II ) uptake and increased sensitivity to H2O2 and to the divalent metal chelator 2,2 - dipyridyl ( DP ) and was defective for replication in macrophages . 
+In vivo MS appeared to be as virulent as the sitABCD mutant in Nramp1 / animals . 
+The ferrous iron transporter Feo was required for full virulence in 129/Sv Nramp1 / mice , and infection with multiple mutants lacking FeoB was not fatal . 
+The sitABCD feoB mutant ( mutant SF ) and the mntH sitABCD feoB mutant ( mutant MSF ) showed minimal Fe ( II ) uptake and were slightly impaired for replication in susceptible macrophages . 
+MSF showed reduced growth in minimal medium deﬁcient in divalent cations . 
+The role of the mntH gene , which is homologous to mammalian Nramp genes , was also investigated after overexpression in the double mutant MS. MntH preferred Mn ( II ) over Fe ( II ) and could suppress MS sensitivity to H2O2 and to DP , and it also improved the intracellular survival in Nramp1 / macrophages . 
+This study indicates that acquisition of Mn ( II ) , in addition to Fe ( II ) , is required for intracellular survival and replication of Salmonella enterica serovar Typhimurium in macrophages in vitro and for virulence in vivo . 
+Salmonella enterica serovar Typhimurium produces an infection in mice resembling the typhoid fever caused by S. enterica serovar Typhi in humans . 
+After oral ingestion , serovar Typhi-murium colonizes the small intestine , penetrates the intestinal epithelium through specialized M cells that sample intestinal antigens , and enters Peyer 's patches . 
+From these lymphoid structures , bacteria spread to the general circulation via the lymphatic system , where they are rapidly taken up by phagocytes , including spleen and liver macrophages ( 28 ) . 
+Mice homozygous for the mutation G169D in natural resistance-asso-ciated macrophage protein 1 ( Nramp1 ) are unable to control serovar Typhimurium intracellular replication due to the absence of a functional Nramp1 protein at the phagosomal membrane ( 12 , 13 ) . 
+Nramp1 protein normally functions as an efﬂux pump to deplete the phagosomal space of divalent cations , such as Mn ( II ) , in a pH-dependent manner ( 16 ) . 
+Nramp1 / mice are highly susceptible to intravenous serovar Typhi-murium infection , indicating that Nramp1 is an antimicrobial defense important for innate host immunity ( 24 ) Members of the family Enterobacteriaceae are versatile microorganisms which can survive in a variety of hostile environments , including conditions in which the bioavailability of iron is reduced . 
+This vital redox element is necessary for energy metabolism and resistance to oxidative stress in most cells , although some microbes may prefer manganese in place of 
+* Corresponding author . 
+Mailing address : Department of Human Health , INRS-Institut Armand-Frappier , 531 , boul des Prairies , Laval , Quebec , Canada H7V 1B7 . 
+Phone : (450) 687-5010 , ext. 4681 . 
+Fax : (450) 686-5501 . 
+E-mail : mathieu.cellier@inrs-iaf.uquebec.ca . 
+iron ( 30 ) . 
+Escherichia coli and S. enterica do not seem to require Mn for growth in laboratory conditions but are strongly dependent on iron . 
+As a result of adaptation to various environments and growth conditions , these bacteria have maintained in their genomes , or acquired through horizontal gene transfer , a variety of iron uptake systems ( 14 , 32 ) . 
+Iron availability is affected by the environmental conditions . 
+At neutral pH under aerobic conditions , ferric Fe ( III ) is insoluble . 
+In these conditions , bacteria , including members of the Enterobacteriaceae , depend on siderophores to capture and take up sufﬁcient iron . 
+Under anaerobic or reducing conditions , Fe ( II ) is the predominant form and is acquired via Fe ( II ) uptake systems ( 32 ) . 
+The TonB protein is required for cellular uptake of different substrates , including Fe ( III ) siderophores , heme proteins , and siderophilins , via speciﬁc outer membrane receptors ( 32 ) . 
+Mutations in tonB block energy transfer from the cytoplasmic membrane to the outer membrane receptor of gram-negative bacteria ( 27 ) . 
+Once released in the periplasm , the Fe ( III ) - containing complexes are transported into the cytoplasm via periplasmic binding protein-dependent transport systems , which are ATP dependent ( e.g. , fepBCDG ) . 
+In contrast , Fe ( II ) diffuses freely to the inner membrane . 
+In E. coli uptake of Fe ( II ) is performed by the ATP-driven high-afﬁnity transporter FeoABC ( 19 ) , by the proton-dependent MntH ( 23 ) , and in certain conditions by CorAD ( 15 ) . 
+Previous studies showed that serovar Typhimurium feoB mutants were outcompeted by the wild type during mixed coloni-zation of the mouse intestine , but disruption of the feoB gene did not attenuate serovar Typhimurium for oral or intraperitoneal infection of BALB/c mice ( 34 ) . 
+The tonB mutation attenuated serovar Typhimurium for virulence in vivo ( intragastric route ) , and it was suggested that TonB-mediated uptake is required for colonization of the Peyer 's patches and mesenteric lymph nodes . 
+A Salmonella tonB feoB double mutant injected intraperitoneally was still able to colonize the liver and spleen with wild-type efﬁciency , indicating that there is further redundancy in iron acquisition systems for successful infection in vivo ( 34 ) . 
+One such complementary system may be the sitABCD operon , which is located on Salmonella pathogenicity island 1 ( 37 ) . 
+sitABCD encodes a member of a novel family cluster of the ABC transporter superfamily , a periplasmic binding pro-tein-dependent transport system that is speciﬁc for metal ions . 
+Homologous transport systems have been described for other gram-positive and gram-negative pathogens ( 2 , 4 , 9 , 37 ) . 
+In Yersinia pestis the YfeAD transport system transports both Fe and Mn and is required for full virulence in mice ( 3 ) . 
+The serovar Typhimurium SitABCD transport system is also required for full virulence in mice ( 18 ) , but whether it transports the divalent metal ions Fe ( II ) and Mn ( II ) remains to be established . 
+Another candidate metal permease possibly important for host colonization by serovar Typhimurium is the Nramp homolog designated MntH ( for proton-dependent manganese transporter ) . 
+The MntH/Nramp family is thought to have appeared in prokaryotes , to have been maintained in eukaryotes , and to have further diversiﬁed through gene duplication ( 7 ) . 
+In mammals , the Nramp1 protein is required for proper maturation of the phagosome in professional phagocytes ( 13 ) and to acquire manganese from the phagosome ( 16 ) . 
+In gram-positive and gram-negative bacteria , MntH proteins have also been characterized as manganese permeases that act on Mn and other divalent metal ions , including ferrous iron ( 1 , 20 , 23 , 31 ) . 
+The previous studies suggested that the homologous bacterial MntH and macrophage Nramp1 proteins could be in direct competition at the level of the phagosome for acquiring Mn and maybe other divalent metals . 
+We inactivated three loci of serovar Typhimurium that are known or presumed to be important for divalent cation acquisition and evaluated the virulence of mutant bacteria in mice bearing either a wild-type Nramp1 locus or a loss-of-function mutation at the Nramp1 locus . 
+The phenotypes of the bacterial mutants were also determined in vitro to investigate their resistance to various stresses , including growth in metal-limited media , exposure to H2O2 , and survival and intracellular replication in macrophages . 
+603 
+MATERIALS AND METHODS
+Biochemicals . 
+Antibiotics ( ampicillin , chloramphenicol , tetracycline , streptomycin , gentamicin , kanamycin ) , metal chelators ( 2,2 - dipyridyl [ DP ] , batho-phenanthroline disulfonic acid [ BPS ] , ferrozine , nitrilotriacetic acid ) , all buffers except HEPES , L - ( ) - arabinose , 2-deoxyglucose , and carbonyl cyanide m-chlo-rophenylhydrazone were purchased from Sigma Chemical Co. ( St. Louis , Mo. ) . 
+Other biochemicals were obtained from ICN ( Costa Mesa , Calif. ) . 
+Most enzymes used for molecular biology analyses were obtained from Pharmacia ( Peapack , N.J. ) or New England Biolabs ( Beverly , Mass. ) ; Pfu DNA polymerase was obtained from Stratagene ( La Jolla , Calif. ) , and Taq DNA polymerase was obtained from Gibco BRL Life Technologies ( Grand Island , N.Y. ) . 
+Dulbecco 's modiﬁed Eagle 's medium ( DMEM ) and HEPES were obtained from Gibco BRL , and fetal calf serum ( FCS ) was obtained from ( HyClone , Logan , Utah ) . 
+Twenty-four-well plates were obtained from Falcon Div. , Becton Dickinson ( Sparks , Md. ) , and gamma interferon ( IFN - ) was obtained from Cedarlane ( Hornby , Ontario , Canada ) . 
+Radioisotopes were purchased from NEN Life Science Products , Inc. ( Boston , Mass. ) . 
+Targeted disruption of mntH , sitABCD , and feoB genes of serovar Typhi-murium isolate Keller ( reference strain for Nramp1 phenotyping [ 33 ] ) . 
+The mntH gene was inactivated by insertion-duplication within the coding region . 
+A suicide plasmid derived from the plasposon pTnMod-RCm ( 10 ) was used to clone a fragment of the serovar Typhimurium mntH open reading frame ( ORF ) encoding a truncated protein lacking both N and C termini ( amino acids 28 to 305 ) . 
+The DNA fragment was ampliﬁed by PCR by using the oligonucleotide primers EB1F ( 5 - TTC GCG GCC GCG ATT GGT TAT ATC ) and EB1R ( 5 GTG GGT ACC ACA GTG GAG GAA ) and the following cycling parameters : 94 °C for 1 min , 57oC for 1 min , and 72oC for 1 min for ﬁve cycles and 94oC for 1 min , 67oC for 1 min , and 72oC for 1 min for 25 cycles . 
+The resulting 848-bp fragment was digested with restriction enzymes NotI and KpnI , gel puriﬁed , and ligated by using T4 DNA ligase to the plasposon pTnMod-RCm backbone ( R6K , Cmr ) obtained by restriction with the NotI and KpnI enzymes and gel puriﬁcation . 
+The recombination product , p2003-mntH , was cloned , puriﬁed , and digested with the XbaI enzyme before ligation to an XbaI DNA fragment corresponding to the RP4 oriT ( 10 ) . 
+This fragment was produced by PCR ampliﬁcation by using pTnMod-RCm as the template , oligonucleotide primers RP4F ( 5 - GTC TAG AAT TCT ACT GTT TGG G ) and RP4R ( 5 - GAT CTA GAT CTG ATC GGC CC ) , and the following cycling parameters : 94 °C for 1 min , 60 °C for 1 min , and 72 °C for 3.25 min for ﬁve cycles , 94 °C for 1 min , 58 °C for 1 min , and 72 °C for 3.25 min for ﬁve cycles , and 94 °C for 1 min , 56 °C for 1 min , and 72 °C for 3.25 min for 25 cycles . 
+The resulting construct ( p2003-mntH-RP4 ) was cloned and introduced into serovar Typhimurium by conjugation ; 500 l of a log-phase culture of each donor and recipient strain was concentrated 10-fold in Luria-Bertani ( LB ) medium , spread onto a nonselective LB medium plate , and incubated for 16 h at room temperature . 
+The cell lawn was resuspended in 2 ml of LB medium , and serial dilutions were plated on bismuth agar plates ( Difco , Becton Dickinson , Sparks , Md. ) containing 10 g of chloramphen-icol per ml . 
+Serovar Typhimurium exconjugants were identiﬁed as black colonies ( Bis ) resistant to chloramphenicol ( Cmr ) . 
+Genomic DNA of positive clones were puriﬁed and used for PCR and Southern analyses . 
+DNA from all the Bis Cmr clones failed to yield a PCR ampliﬁcation product with the oligonucleotides STyFN ( 5 - AAC CAT GGC TGA CAA TCG CGT AGA GA ) and STyRX ( 5 - GTT CTA GAA TCG GGC CTG CTA TCT ) , whereas DNA from wild-type serovar Typhimurium yielded a fragment of the expected size ( 1,242 bp ) when the following cycling parameters were used : 94 °C for 45 s , 60 °C for 45 s , and 72 °C for 2 min for eight cycles and 94 °C for 45 s , 67 °C for 45 s , and 72 °C for 2 min for r 25 cycles . 
+All the Bis Cm clones were positive in PCR performed with oligo-nucleotide primers EB1F and EB1R and the cycling parameters described above and also with the EB1F-StyRX and StyF-EB1R primer pairs when the same cycling parameters were used . 
+One Bis Cmr clone was further veriﬁed by Southern analysis after digestion of the genomic DNA with EcoRI and hybrid-ization with an mntH probe obtained by PCR performed with oligonucleotide primers EB1F and EB1R . 
+As expected , a speciﬁc band at 2.5 kb was obtained for serovar Typhimurium strains possessing a wild-type allele of mntH , whereas two bands at around 6 and 1 kb were obtained for strains in which the mntH gene had been targeted by insertion . 
+P22 transduction of the mntH Cmr allele yielded mntH feoB and mntH sitABCD double mutants and an mntH sitABCD feoB triple mutant , which were identiﬁed by the same mntH hybridization pattern with two EcoRI bands in all of the clones tested ( Table 1 ) . 
+feoB mutagenesis was also performed in serovar Typhimurium Keller because an feoB mutation could not be transduced with P22 from the ATCC 14028 background ( 34 ) . 
+The feoB gene was inactivated by replacement of the wild-type allele with a copy interrupted by a Tetr cassette by using the construct described previously ( a kind gift from R. Tsolis ) , as indicated by Tsolis et al. ( 34 ) . 
+The feoB mutation was veriﬁed by PCR ampliﬁcation and observation of a 2.9-kb DNA fragment due to insertion of the Tetr cassette instead of the 0.9-kb DNA fragment obtained with the wild-type serovar Typhimurium feoB gene . 
+This was conﬁrmed by Southern analysis with an feoB-speciﬁc probe and observation of an EcoRI restriction fragment length polymorphism between DNA from wild-type Salmonella and the feoB mutant . 
+As only a single feoB mutant could be obtained , feoB mntH double mutants were produced by transduction by using a P22 lysate carrying copies of the Cmr mntH allele , and feoB sitABCD double mutants were created by inactivation of the sit operon in the feoB mutant . 
+The wild-type sitABCD operon was exchanged with an altered copy in which an internal fragment spanning the end of the sitA ORF , the whole sitB and sitC ORF , and the beginning of the sitD ORF was replaced by an Smr cassette . 
+The 5 part of the operon was PCR ampliﬁed by using oligonucleotide primers SitAF ( 5 - AAT GCG GCC GCA CCG TTG ACG CCT ) and SitAR ( 5 - GGC GG 
+Bacterium , phage or plasmid 
+Derivation 
+Source or reference 
+S. enterica serovar Typhimurium strains W M S F T MS MF SF MT MSF AIR36 
+29 
+Clinical isolate S. enterica serovar Typhimurium W mntH ( Cmr ) W sitAD ( Smr ) W feoB ( Tetr ) W tonB ( Kmr ) S mntH ( Smr Cmr ) F mntH ( Tetr Cmr ) F sitAD ( Tetr Smr ) T mntH ( Kmr Cmr ) SF mntH ( Smr Tetr Cmr ) IR715 tonB ( Kmr ) 
+Keller 
+This study This study This study This study This study This study This study This study This study 30 
+W ( pTnmntH ) W ( pKOsitADSm ) 
+W ( pEP185.2-feoB : : Tet ) P22 ( AIR36 ) W P22 ( M ) S P22 ( M ) F F ( pKOsitADSm ) T ( pTnmntH ) P22 ( M ) SF 
+phage lysogen which contains gene and allows replication of plasmids with an R6K origin 
+E. coli S17 pir 
+Phage and plasmids P22 pTnMod-RCm pTnmntH 
+P22HTint 
+30 8 
+Plasposon with an RP4 origin for conjugation , Cmr pTnModCm derivative without Tn5 transposase gene carrying an internal PCR fragment of mntH ORF ( Cmr ) pSC101 derivative , which contains a temperature-sensitive origin of replication pKO3 derivative carrying the sitAD deletion construct composed of the 5 and 3 ends of the operon ligated to SmR K7 , replacing the central part of the operon , Cmr Smr pEP185 .2 with a cassette conferring tetracycline resistance inserted into an internal site of a 895-bp fragment of feoB gene , Tetr pBluescript SK carrying the complete mntH ORF , Ampr pSKmntH derivative in which the mntH ORF contains an internal deletion between two of the SacII sites , Ampr 
+This study 
+pKO3 
+19 
+pKOsitADSm 
+This study 
+pEP185.2-feoB : : Tet 
+30 
+pSKmntH 
+This study 
+pSKmntH 
+This study 
+TCC GCC ATC TGG CGA ATT T ) , Taq DNA polymerase , and the following cycling parameters : 94 °C for 1 min , 63 °C for 1 min , and 72 °C for 1 min for nine cycles and 94 °C for 1 min , 75 °C for 1 min , and 72 °C for 1 min for 26 cycles . 
+The ampliﬁcation product was digested with restriction enzymes NotI and BamHI , gel puriﬁed , and cloned in the vector pBluescript KS . 
+The 3 part of the operon was similarly PCR ampliﬁed by using oligonucleotide primers SitDF ( 5 - TGG CGC GGG GAT CCC CCT GGC GA ) and SitDR ( 5 - TTA AGC TTG CGG CCG CCA AAA AAC TTC A ) , Taq DNA polymerase , and the following cycling parameters : 94 °C for 1 min , 61 °C for 1 min , and 72 °C for 1.33 min for nine cycles and 94 °C for 1 min , 77 °C for 1 min , and 72 °C for 1.33 min for 26 cycles . 
+The DNA fragment obtained was digested with BamHI and HindIII and cloned into pKS-sitA . 
+A streptomycin resistance cassette ( a kind gift from J. G. Zylstra ) was inserted at the internal BamHI site . 
+The ﬁnal construct was transferred to the pKO3 plasmid to perform allelic exchange in the wild-type and feoB backgrounds , as previously described ( 22 , 23 ) . 
+Deletion of the sit operon was veriﬁed by PCR analysis by using genomic DNA as the template , oligonucleotide primers SitSmF ( 5 - GGA TAA TGC GCA GAT CTA ) and SitSmR ( 5 - GCT GTT ATC GTC CAG ATA ) , and the following cycling parameters with Taq DNA polymerase : 94 °C for 1 min , 47 °C for 1 min , and 72 °C for 2.5 min for 25 cycles . 
+After agarose gel electrophoresis of the reaction products , 2.4 - and 1.35-kb fragments were observed for the wild type and the sit mutants , respectively . 
+Southern blotting of the PCR products with a probe corresponding to the deleted portion of the sit operon ( SmaI-ClaI fragment ) demonstrated that there was no speciﬁc signal in any of the sitABCD mutants tested . 
+Culture conditions for bacteria . 
+Bacteria were grown in LB culture media ( 26 ) , tryptone soy broth ( Difco ) , or minimal medium as indicated below at 37 °C and 220 rpm unless otherwise speciﬁed . 
+G/M minimal medium was prepared as described previously ( 23 ) and buffered at pH 7.4 with morpholinepropanesulfo-nic acid ( MOPS ) . 
+Sterile 15-ml polystyrene tubes ( Simport , Beloeil , Quebec , 
+Canada ) were used for cultures in G/M medium . 
+Saturated cultures in LB medium containing the required antibiotics were used to inoculate LB medium without antibiotics . 
+Cultures were incubated for an additional 8 h and used to inoculate ( 1/100 ) G/M medium containing 10 M added iron ( 1 concentration ) and no other micronutrients . 
+After 24 h , 1 ml of culture was centrifuged at 7,600 g for 1 min . 
+Pelleted cells were washed in 5 mM EDTA and washed in G/M medium without added iron and micronutrients before resuspension in the same G/M medium . 
+These cells were used to inoculate G/M medium containing deﬁned amounts of added iron and manganese ( initial optical density at 600 nm [ OD600 ] , 0.05 ) . 
+Growth was estimated by measuring the OD600 after 17 h of culture and by determining numbers of CFU on LB medium plates by plating serial dilutions of the liquid cultures . 
+For metal uptake measurements , saturated cultures in LB medium were washed in G/M medium without micronutrients or iron added , resuspended in G/M medium containing 10 nM added iron ( 0.001 concentration ) , and incubated for 2.25 h. Ferrozine ( 500 M ) was added to the medium , and the cultures were incubated for an additional 45 min and stopped on ice before the cells were processed for uptake experiments . 
+Assay of sensitivity to H2O2 . 
+Saturated cultures in LB medium containing the required antibiotics were used to inoculate ( 1/100 ) fresh LB medium without antibiotics , and the resulting cultures were incubated until the OD600 was 0.35 . 
+These cultures were incubated for an additional 45 min in the presence of 200 M DP . 
+Then 100 l of each culture was mixed with 3 ml of molten top agar and poured onto an LB agar plate . 
+A 7-mm-diameter Whatman ﬁlter disk impregnated with 10 l of 30.4 % hydrogen peroxide ( H2O2 ) was placed in the center of the plate before incubation for 17 h at 37 °C . 
+Uptake measurement . 
+Bacteria starved for divalent metals by incubation in G/M medium containing 10 nM added iron and 500 M ferrozine were washed and treated to permeabilize the outer membrane as previously described for E. coli ( 23 ) . 
+Uptake medium ( 40 mM MOPS [ pH 7.4 ] , 5 mM sodium - glycero phosphate , 5 mM MgSO4 , 0.2 % glucose , 0.1 mM nitrilotriacetic acid , 1 mM sodium ascorbate ) was used with 55Fe ( II ) and 54Mn ( II ) isotopes ( speciﬁc activities , 6.5 and 4.1 Ci mmol 1 , respectively ) . 
+Fe ( II ) and Mn ( II ) were each added at a ﬁnal concentration of 3 M ( ﬁnal speciﬁc activities , 65 mCi mmol 1 and 41 Ci mmol 1 , respectively ) . 
+Uptake was measured by a quick ﬁltration assay as previously described ( 23 ) . 
+In vivo infections . 
+Inbred 129/SvJ mice obtained from the Jackson Laboratories ( Bar Harbor , Maine ) were bred and maintained in our animal facilities under conditions speciﬁed by the Canadian Council on Animal Care . 
+129/Sv and 129/Sv Nramp1 / mice were infected as previously described ( 36 ) . 
+The day before infection , 1-ml aliquots of 25 % glycerol stock solutions were used to inoculate 100 ml of Trypticase soy broth , and the cultures were each incubated until the OD was between 0.1 and 0.2 . 
+The cultures were stopped on ice , and 600 serial dilutions in 0.9 % NaCl were plated on LB medium plates to determine the number of CFU per milliliter . 
+The next day , bacterial suspensions were adjusted to a concentration of 5 103 CFU/ml in 0.9 % NaCl prior to injection of 200 l into the tail veins of the animals . 
+Serial dilutions of the suspensions were plated to determine the effective infectious doses . 
+Animals were examined every day for 30 days to determine the mortality due to the infection . 
+Animals that had to be sacriﬁced were counted as dead by infection on the next day . 
+In vitro macrophage infections . 
+The protocol used for in vitro macrophage infections was adapted from previous studies ( 12 , 21 ) . 
+Two cell lines were used : the macrophage-like Raw 264.7 ( ATCC TIB-71 ) cell line , which is naturally devoid of a functional Nramp1 protein , and clone 13 derived from Raw 264.7 , which expresses high levels of functional Nramp1 protein ( 12 ) . 
+Cells were grown in DMEM containing 10 % FCS , 25 mM HEPES , and 2 mM L-glutamine at 37 °C in a 5 % CO2 humidiﬁed atmosphere . 
+The day before infection , saturated cultures in LB medium were used to inoculate ( 1/50 ) 2-ml LB medium standing cultures at 37 °C , and the macrophage-like cells were seeded into 24-well plates at a concentration of 106 cells/ml of DMEM containing 10 % inactivated FCS and 100 U of IFN - per ml . 
+The bacterial standing cultures were adjusted to an OD600 of 0.9 ( or an OD600 of 0.95 for the MSF mutant ) and diluted in G/M medium to obtain 105 and 106 bacteria/ml for infection of Nramp1 / and Nramp1 / cells , respectively . 
+Macrophage-like cells were infected by adding 5 l of diluted bacteria to 500 l of cells ( multiplicities of infection , 0.01 for Nramp1 / cells and 0.1 for Nramp1 / cells ) . 
+The effective infectious doses were determined by plating serial dilutions of these suspensions of bacteria . 
+After 2 h of incubation at 37 °C , excess bacteria were removed and washed twice with phosphate-buffered saline ( PBS ) . 
+The infected cells were incubated for an additional 1 h in warm medium containing 100 g of gentamicin per ml , a concentration that inhibited the growth of all of the bacterial strains studied . 
+After 1 h of incubation in the presence of 100 g of gentamicin per ml , the cells were washed twice with PBS and either lysed ( time zero ) or incubated for an additional 4 h at 37 °C in the presence of 10 g of gentamicin per ml before lysis . 
+Cells were lysed by adding 500 l of PBS -- 1 % Triton X-100 , incubating the preparation for 5 min at 37 °C , and aspirating the lysate several times with a micropipette . 
+Serial dilutions of the lysate were plated for CFU determinations . 
+In some experiments with Nramp1 / cells , ferrous iron chelators were added to the culture medium immediately before infection and remained for the duration of the experiment . 
+The membrane-permeant chelator DP and the membrane-im-permeant chelator BPS were each used at a concentration of 65 M , which was determined to be nontoxic for the cells after 8 h of incubation in DMEM . 
+This concentration did not inﬂuence bacterial growth in LB medium . 
+Phenotypic complementation of mutant MS by the mntH gene . 
+A full-length mntH gene expressed under the control of its own promoter was cloned in pBluescript SK by using a DNA fragment ampliﬁed by PCR . 
+Genomic DNA from serovar Typhimurium isolate Keller was used with the Pfu DNA polymer-ase , oligonucleotide primers pmntHF ( 5 - GTT CTC GAG GAT CCA GGC CAG TAA TAC T ) and Styr ( GTT CTA GAA TCG GGC CTG CTA TCT ) , and the following cycling parameters : 94 °C for 1 min , 61 °C for 1 min , and 72 °C for 4 min for six cycles and 94 °C for min , 67 °C for 1 min , and 72 °C for 4 min for 25 cycles . 
+A single band at around 1.70 kb ( 1,763 bp ) was observed by agarose gel electrophoresis and was gel puriﬁed after digestion with restriction enzymes XbaI and BamHI . 
+The puriﬁed DNA fragment was ligated to plasmid pBluescript SK by using T4 DNA ligase . 
+Two independent recombinant clones were selected for use in complementation assays . 
+As a negative control , plasmid pSK-mntH was generated by deletion of an internal portion of the mntH ORF by using restriction enzyme SacII , followed by intramolecular ligation . 
+Plasmids pSKmntH and pSKmntH were introduced into all of the double mutants and the triple mutant MSF , and the resulting phenotypes ( divalent metal ion uptake , growth in LB medium containing DP , sensitivity to H O , intracellular replica-2 2 tion in Raw 264.7 cells ) were analyzed . 
+pSKmntH 
+This study 
+RESULTS
+Mutant MSF is deﬁcient in Fe ( II ) and Mn ( II ) uptake and shows decreased growth in minimal medium limited in metal ions . 
+To assess the role of the feo , sit , and mntH loci in divalent cation uptake and virulence , strains of serovar Typhimurium carrying mutations in feoB ( mutant F ) , sitABCD ( mutant S ) , and mntH ( mutant M ) were constructed by allelic exchange and insertion-duplication mutagenesis , respectively . 
+To identify potential compensatory functions of these transporters , mntH feoB , mntH sitABCD , and sitABCD feoB double mutants ( mutants MF , MS , and SF , respectively ) and an mntH sitABCD feoB triple mutant ( mutant MSF ) were generated . 
+The tonB mutation , which inactivates several siderophore-dependent Fe ( III ) uptake systems in S. enterica , was used as a control system for nondivalent metal uptake . 
+An mntH tonB double mutant ( mutant MT ) was also generated . 
+Growth of each mutant strain was compared with growth of the parental wild-type strain ( strain W ) in undeﬁned rich me-dium ( LB medium ) , both liquid and solid . 
+There were no notable differences ; only a slight decrease in the number of CFU per optical density unit was noted for MSF . 
+This suggested that metal ions like iron and manganese remained available to the mutant strains grown in LB medium . 
+The effects of the multiple mutations in MS , MF , SF , and MSF on growth in deﬁned minimal medium ( G/M medium ) containing limiting amounts of added iron and manganese were therefore investigated . 
+Although growth of wild-type serovar Typhimurium was affected by the level of iron available , this bacterium could still grow substantially in G/M medium containing only 1 nM added iron and no added micronutrients ( Co , Cu , Mn , Zn ) , reaching an OD600 of 1 after 17 h of aerated culture ( Fig. 1A ) . 
+Double mutants MS and MF showed no difference in growth compared with growth of strain W at any concentration of iron tested , whereas cultures of SF consistently reached higher optical densities ( Fig. 1B , no Mn added ) . 
+However , when the iron concentration was 100 nM or less , triple mutant MSF exhibited decreased growth compared to the growth of strain W ( Fig. 1A ) ( P 0.01 ) . 
+These results indicated that iron restriction reduced the growth of MSF compared to the growth of strains possessing at least one of the transporters studied and that the presence of MntH correlated with higher optical densities ( Fig. 1A ) and higher numbers of CFU ( data not shown ) . 
+Addition of Mn or the presence of the mntH gene is required for growth of the gram-positive bacterium Bacillus subtilis in minimal medium ( 31 ) . 
+We determined whether Mn inﬂuenced the growth of the mutant strains of serovar Typhi-murium when iron availability was limited . 
+Addition of Mn had a signiﬁcant positive effect on growth of the wild type and mutant strains MF and SF . 
+A much more limited effect of Mn addition on the growth of strains MS and MSF was observed ( Fig. 1B ) ( P 0.01 with 1 and 0.1 M Mn added ) . 
+This suggested that Mn addition could stimulate the growth of se-rovar Typhimurium in iron-limiting conditions and that mutants MS and MSF may lack Mn uptake systems . 
+Direct evidence of a role in divalent metal transport for the genes studied was obtained by measuring temperature-depen-dent uptake with bacteria starved for metals to stimulate expression of the transporters ( see Materials and Methods ) 
+FIG. 1 . 
+( A and B ) Growth in minimal medium limited in iron and manganese . 
+The OD600 after 17 h of culture at 37 °C and 220 rpm in the presence of various amounts of iron ( A ) and manganese ( B ) are indicated ( initial OD600 , 0.05 ) . 
+( C and D ) Divalent metal ion uptake as determined by a quick-ﬁltration assay with a liquid scintillation counter . 
+Bacteria were incubated in uptake medium for 6 min after addition of metals , including the radiotracers 54Mn ( C ) and 55Fe ( D ) . 
+The means standard errors of the means for three ( A and B ) or two ( C and D ) independent experiments are shown . 
+Active transport was indicated by the difference in metal uptake measured at 4 and 37 °C . 
+W , wild-type S. enterica serovar Typhimurium ; M , mntH mutant ; S , sitABCD mutant ; F , feoB mutant ; MS , mntH sitABCD mutant ; MF , mntH feoB mutant ; SF , sitABCD feoB mutant ; MSF , mntH sitABCD feoB mutant ; OD1 , optical density unit . 
+Pairwise Student 's t tests were performed to determine whether the difference observed between a mutant and the wild type is signiﬁcant . 
+One asterisk indicates that the P value is 0.05 , and two asterisks indicate that the P value is 0.01 . 
+Metal uptake measurements were performed at 37 and 4 °C to discriminate between active transport and external binding for each strain . 
+Mutants MS and MSF appeared to be totally deﬁcient in Mn ( II ) transport ( 1 pmol/optical density unit ) ( Fig. 1C ) . 
+Mutants S and SF exhibited low levels of Mn ( II ) accumulation ( 6 pmol/optical density unit ) ( Fig. 1C ) , presumably due to the MntH transporter . 
+MntH-dependent Mn uptake was underestimated in these analyses , which were performed at pH 7.4 , since MntH is a pH - and proton-dependent transporter ( 20 , 23 ) . 
+A 70 % increase in Mn uptake would be expected at pH 6 , based on studies of an E. coli strain lacking the F1/F0 ATPase ( I. Bergevin and M. Cellier , unpublished data ) . 
+Elimination of Mn ( II ) transport after preincubation with the membrane protonophore carbonyl cyanide m-chlorophenylhydra-zone at a concentration of 8 M was observed only with strains S and SF , indicating that MntH-dependent transport is sensitive to the membrane potential ( data not shown ) . 
+These results indicate that sitABCD and mntH encode two high-afﬁnity Mn transporters in serovar Typhimurium and that SitABCD may be more important . 
+Mutants SF and MSF showed low levels of temperaturedependent Fe ( II ) uptake under the conditions tested ( 17 and 13 pmol/optical density unit , respectively ) ( Fig. 1D ) , whereas single mutants M , S , and F exhibited uptake levels close to that of the wild type . 
+These data suggest that the ABC-type Feo and Sit systems may compensate for each other for Fe ( II ) uptake . 
+Double mutant MF exhibited a normal uptake capacity for Fe ( II ) ( 90 pmol/optical density unit ) ( Fig. 1D ) and also showed the highest levels of Mn ( II ) accumulation ( 70 pmol / optical density unit ) ( Fig. 1C ) . 
+This could have been due to up-regulation of the SitABCD transport system , which would have compensated for the inactivation of both feoB and mntH . 
+These data indicate that both sitABCD and feoB encode highafﬁnity Fe ( II ) transporters in serovar Typhimurium . 
+Salmonella strains deﬁcient in divalent metal ion uptake are attenuated in vivo and in vitro . 
+The effects of the mutations in the mntH , sit , feo , and tonB genes on virulence were tested in a mouse typhoid model by using animals with different susceptibilities to infection due to the presence or absence of a functional Nramp1 gene . 
+Nine different mutant strains and the wild-type serovar Typhimurium strain were injected intrave-nously , and the mortality due to infection was scored for 30 days . 
+All Nramp1 / animals ( resistant ) controlled infection with either the wild type or any of the mutants ; no death was recorded during the observation period ( Fig. 2 ) . 
+However , several mutations substantially affected virulence in vivo , including the median survival times in permissive Nramp1 / animals . 
+Mice infected with mutants M and T showed median survival times similar to those of mice infected with the wildtype strain ( 7 days ) , whereas mice infected with mutant strains F and S showed markedly increased median survival times ( 24 and 30 days , respectively ) . 
+Mice infected with mutant strains F and S also differed in the time that elapsed before the ﬁrst animal died ( 7 and 18 days , respectively ) . 
+These data suggest the ABC-type transporters Feo and Sit are essential for virulence 
+Double mutant MT maintained full virulence in Nramp1 / animals ( median survival time , 7.0 days ) , suggesting that other genes compensated for the inactivation of both tonB and mntH . 
+Strain MS was signiﬁcantly attenuated , with a median survival time of 22 days ( Fig. 2B ) , but infection remained 100 % fatal at the end of the experiment . 
+MS did not appear to be more attenuated than mutant S ( Fig. 2A ) , as animals seemed to succumb even more rapidly after infection . 
+In contrast , all the susceptible mice infected with either MF , SF , or MSF survived for the 30 days of the experiment . 
+These data dem-onstrate that the feoB mutation impaired the virulence of se-rovar Typhimurium injected intravenously into Nramp1 / 129/Sv mice . 
+The signiﬁcant attenuation of the mntH sitABCD double mutant suggests that acquisition of Mn is required for virulence of serovar Typhimurium . 
+The effect of inactivation of mntH was dependent on the other mutation with which it was combined . 
+In vivo intravenously introduced Salmonella cells are rapidly taken up by spleen and liver macrophages , in which the bacteria replicate to produce a fatal infection . 
+Raw 264.7 Nramp1 / macrophages and an Nramp1 / transfectant ( clone 13 ) expressing high levels of the protein ( 12 ) were used to study the effects of the mutations on the intracellular survival and replication of serovar Typhimurium ( 21 ) . 
+In Raw 264.7 cells , strains W , MS , SF , MF , and MSF were all capable of intracellular replication in a 4-h assay , and no signiﬁcant differences were detected between strains ( P 0.05 ) ( Fig. 3A ) . 
+Thus , in the absence of functional mammalian Nramp1 , none of the mutations in the iron and/or manganese acquisition system of Salmonella affects the capacity of the organism to replicate intracellularly . 
+In contrast , neither the wild type nor any of the Salmonella mutants replicated in the Nramp1 Raw macrophages during the 4-h assay ( Fig. 3B ) . 
+Nramp1 is thought to exert its bacteriostatic effect by depleting the Salmonella phagosomes of divalent metal cations . 
+We therefore aimed at limiting the availability of intracellular divalent cations in Nramp1 / permissive macrophages and tested the effects of Salmonella mutations on survival under such limiting conditions . 
+We used the membrane-permeant divalent metal cation che-lator DP , since it is known to sequester the intracellular labile Fe ( II ) pool and possibly other divalent metal ions [ e.g. , Co ( II ) and Mn ( II ) ] . 
+We also separately observed that addition of a high concentration of DP to rich bacterial broth reduced the growth of strain MS and , to a lesser extent , the growth of mutants MSF and S ( Fig. 4C ) . 
+DP at a concentration that had no effect on bacterial growth in rich broth ( 65 M ) was added to the cell culture medium used for infection of Raw 267 . 
+FIG. 2 . 
+Mortality after intravenous infection of 129/Sv and 129/Sv Nramp1 / mice with 103 bacteria . 
+Ten animals per group were used for each serovar Typhimurium strain . 
+The values are the percentages of animals surviving the infections . 
+The data for single mutants ( A ) and multiple mutants ( B ) are presented separately for the sake of clarity . 
+The dashed line in panel B above the solid line indicates 100 % survival . 
+T , serovar Typhimurium tonB mutant ; MT , mntH tonB mutant . 
+For an explanation of other strains see the legend to Fig. 1 . 
+Nramp1 / macrophages . 
+The membrane-impermeant chelator BPS was also tested under identical conditions as a negative control . 
+The effects of the Fe ( II ) chelators on the intracellular growth of Salmonella wild-type and mutant strains were estimated by determining the numbers of CFU recovered after infection in the presence of these chelators . 
+BPS was found to have no signiﬁcant effect on replication of the wild-type strain or any of the mutant strains tested ( data not shown ) . 
+On the other hand , DP produced signiﬁcant differences in the growth the various strains tested . 
+Growth of the MS strain in Nramp1 / macrophages appeared to be most sensitive to cation depletion by DP ( no replication versus 2.6-fold replication for strain W in 4 h ) . 
+Intracellular growth of single mutant S was similarly affected ( P 0.01 ) ( Fig. 3C ) . 
+The presence of DP also slightly decreased the intracellular multiplication of strains SF and MSF ( P 0.05 ) ( Fig. 3C ) , whereas strain MF appeared to be unaffected . 
+These results highlight the important role of SitAD in intracellular survival of serovar Typhimurium . 
+mntH overexpression complements mntH sitABCD strains for divalent metal uptake and resistance to peroxide stress and to divalent metal deprivation . 
+The possible role of MntH in intracellular survival and replication was further investigated by examining overexpression by using a multicopy plasmid . 
+We ﬁrst tested complementation of the double mutants ( MS , SF , and MF ) and the triple mutant ( MSF ) for divalent metal ion uptake by the mntH gene expressed under control of its promoter . 
+A truncated construct lacking most of the coding region was used as a negative control for each strain tested . 
+Overexpression of MntH restored high Mn ( II ) uptake capacity in the mutants lacking a functional sitABCD operon ( MS and SF ) ( Fig. 4A ) . 
+More modest up-regulation of Fe ( II ) uptake due to mntH gene expression was also detected in strains lacking both the sit and feo genes ( SF and MSF ) ( Fig. 4B ) . 
+The increases in uptake due to MntH overexpression were small in triple mutant MSF , indicating that there was an alteration of either the general transport capacity or mntH gene expression in this strain . 
+Hence , MntH overexpression complemented deﬁciencies in Mn ( II ) uptake and , to a lesser extent , in Fe ( II ) uptake . 
+Strain MS deﬁcient in Mn ( II ) uptake appeared to be sensitive to DP upon subculture in fresh rich medium containing 200 M DP ( Fig. 4C ) . 
+Normal growth of MS was restored by mntH overexpression ( Fig. 4C ) or by adding 10 M Mn or 50 M Fe to LB medium containing DP ( data not shown ) . 
+Growth of triple mutant MSF appeared to be less affected by DP and by MntH overexpression ( Fig. 4C ) , which was consistent with the limited effect of expression of MntH on metal transport in MSF ( Fig. 4A and B ) . 
+The data obtained with the MS mutant suggest that DP impaired the growth of strain MS by diminishing primarily Mn ( II ) availability 
+FIG. 3 . 
+Intracellular survival and replication of Salmonella strains in macrophage-like cells as determined by CFU plating . 
+Cells were grown for 17 h in DMEM containing 100 U of IFN - per ml prior to infection at ratios of 1 bacterium/100 Nramp1 / cells and 1 bacterium/10 Nramp1 / cells . 
+( A ) RAW 264.7 ; ( B ) RAW 264.7 Nramp1 / ; ( C ) RAW 264.7 in the presence of 65 M DP . 
+The means standard errors of the means for four ( A ) or three ( B and C ) independent experiments are shown . 
+For an explanation of the Salmonella strains see the legend to Fig. 1 . 
+Increased sensitivity to hydrogen peroxide was observed previously in a B. subtilis mutant lacking mntH , which is deﬁcient in Mn ( II ) uptake ( 31 ) . 
+We also observed increased sensitivity to H2O2 in an E. coli mntH mutant , which is also deﬁcient in Mn ( II ) uptake ( data not shown ) . 
+In serovar Typhimurium , inactivation of both the mntH and sitABCD genes resulted in H2O2 sensitivity ( Fig. 4D ) and in a deﬁciency in Mn ( II ) uptake ( Fig. 1C and 4A ) . 
+The sensitivity to H2O2 in mutant MS was observed without limitation of metal availability in the disk assay ; it was not a secondary consequence of a growth defec such as the one observed in the presence of a high concentration of DP ( Fig. 4C ) . 
+The sensitivity to H2O2 in mutant MS was corrected by supplementation of the medium with 10 M Mn ( data not shown ) or by overexpression of MntH ( Fig. 4D ) . 
+Triple mutant MSF was less sensitive to H2O2 and to the effect of the expression of MntH than double mutant MS. The capacity to grow in Raw 264.7 Nramp1 / cells in the presence of 65 M DP was also tested by complementation with mntH by comparing the intracellular replication of strain MS ( pSKmntH ) and the intracellular replication of strain MS ( pSKmntH ) . 
+As shown in Fig. 4E , the mntH gene improved bacterial intracellular survival , and this trend was also observed in Nramp1 macrophages ( data not shown ) . 
+These data suggest that mntH overexpression facilitates primarily Mn ( II ) acquisition , contributing to resistance to oxidative stress and metal privation and possibly also promoting intracellular survival . 
+FIG. 4 . 
+Functional complementation of the serovar Typhimurium mntH sitABCD ( mutant MS ) phenotype in vitro by overexpression of the full-length mntH gene . 
+( A and B ) Divalent metal ion uptake ( see Fig. 1C and D ) . 
+( C ) Sensitivity to DP as measured by the OD600 reached after 6 h of subculture at 37 °C and 220 rpm in LB medium containing 200 M DP . 
+( D ) Sensitivity to H2O2 measured by a disk assay , as described in the text . 
+( E ) Intracellular survival and replication in macrophage-like cells in the presence of 65 M DP , as determined by CFU plating ( see Fig. 3C ) . 
+The means standard errors of the means for two ( A and B ) , at least ﬁve ( C ) , at least six ( D ) , or three ( E ) independent experiments are shown . 
+For an explanation of the Salmonella strains see the legend to Fig. 1 . 
+pSKmntH , pBluescript plasmid with mntH gene ; pSKmntH , plasmid with a nonfunctional , truncated mntH ORF ; OD1 , optical density unit ; , diameter . 
+DISCUSSION
+The main objectives of this study were to determine whether divalent metal transporters of serovar Typhimurium are required for infection of a permissive host lacking Nramp1 and to examine the possible contribution of the permease MntH to virulence . 
+The results demonstrated that the serovar Typhimurium sit-ABCD operon encodes a major high-afﬁnity transporter of both Mn ( II ) and Fe ( II ) that is required for virulence in Nramp1 / susceptible animals . 
+There was a good correlation between the disruption of the sitABCD operon and an important decrease in Mn ( II ) uptake ( Fig. 1C and D ) , reduced virulence in vivo ( Fig. 2A ) , and increased sensitivity to macro-phages in vitro ( Fig. 3C ) . 
+Thus , the sitABCD operon is important for divalent metal ion uptake and microbial pathogenesis , like homologous systems described in gram-negative and grampositive pathogens ( 2 , 4 , 9 , 17 ) . 
+The strong effect of SitABCD on the virulence of serovar Typhimurium could be due to its capacity to transport both Fe ( II ) and Mn ( II ) with high afﬁnity or to high-level expression of Sit during infection . 
+An important role for the Feo Fe ( II ) transport system in the virulence of serovar Typhimurium was shown by the marked negative impact of feoB gene disruption on in vivo infection ( Fig. 2A ) . 
+However , this mutation had no apparent effect on divalent metal uptake ( Fig. 1C and D ) or survival in macro-phages in vitro ( Fig. 3C ) . 
+The impact of the feoB mutation on the outcome of infection of 129/Sv Nramp1 / mice by serovar Typhimurium isolate Keller injected intravenously was more important than the impact observed for the same feoB mutation in serovar Typhimurium strain ATCC 14028 administered by either intragrastic or intraperitoneal injection in BALB/c mice ( 34 ) . 
+The difference in attenuation could be due to genetic polymorphism between Salmonella isolates or could be associated with the differences in the genetic backgrounds of the inbred mouse strains used in the study . 
+Our data suggest that feoB-dependent Fe ( II ) uptake is required during infection of 129/Sv Nramp1 / mice . 
+Similarly , the Helicobacter pylori FeoB homolog is also a major Fe ( II ) acquisition system that is important for colonization of the gastric mucosa of mice ( 35 ) . 
+The attenuation of virulence observed separately with the sit and feo mutations indicates that the encoded ABC-type transport systems are nonredundant , due to differences either in function or in regulation . 
+The kinetics of animal mortality resulting from infection with these mutants were different , suggesting that the Sit system may be more important during the early stages of infection ( Fig. 2A ) . 
+Interestingly , combining the feo and sit mutations had additive effects on reducing Fe ( II ) uptake in vitro ( Fig. 1C and D ) and eliminating virulence in vivo ( Fig. 2B ) . 
+A slight diminution of bacterial replication within macrophages in vitro was also observed ( Fig. 3C ) . 
+This suggests that reduced acquisition of Fe ( II ) , and possibly also Mn ( II ) , may be the basis for SF avirulence in vivo . 
+Iron is a well-known nutrient essential for microbial growth ; Fe and Mn are important cofactors for enzymatic antioxidant defenses of several pathogens ( e.g. , catalase , peroxidase , and superoxide dismutases [ 6 , 8 ] ) . 
+The contribution of the mntH mutation to virulence appears to be less important since this mutation did not attenuate virulence either alone or in combination with tonB ( Fig. 2 ) . 
+Also , despite the presence of the functional Mn ( II ) permease MntH , the double mutant lacking the SitABCD and FeoABC systems was avirulent . 
+Lastly , combination of the mntH and sit mutations , which eliminated Mn ( II ) transport and increased sensitivity to metal ion restriction and oxidative stress in vitro ( Fig. 4C and D ) , did not result in avirulence . 
+In contrast , despite elevated levels of both Mn ( II ) and Fe ( II ) uptake and a wild-type level of replication within Nramp1 / macrophages infected in the presence of DP ( Fig. 3C ) , combination of the mntH mutation with the feo mutation eliminated virulence . 
+It is intriguing that the presence of a functional Sit transporter in MF correlates with avirulence , whereas the presence of Feo in MS leads to partial attenuation ( Fig. 2B ) . 
+It is possible that different mechanisms operate for attenuation of MS and MF . 
+Inactivation of both MntH and Sit was required to eliminate Mn ( II ) transport , whereas Fe ( II ) uptake was significantly diminished by inactivation of both Feo and Sit ( Fig. 1C and D ) , suggesting that SitABCD may compensate for the elimination of both MntH and Feo . 
+It is thus possible that the regulation of Sit is altered in double mutant MF , which may in turn be detrimental for virulence in the model tested . 
+In contrast , the partial attenuation of mutant MS could be the direct result of deﬁcient Mn ( II ) acquisition , which affects in vitro bacterial resistance to DP and H2O2 and survival in macrophages ( Fig. 3 and 4C and D ) . 
+Attenuation of MS in vivo and within macrophages seemed to result mostly from inactivation of Sit . 
+Of note is the fact that inactivation of the orthologous mntH gene in Mycobacterium tuberculosis did not attenuate mycobacterial virulence after intravenous infection or increase sensitivity to macrophages in vitro , suggesting that the mycobacterial permease does not play a major role in this mouse model ( 11 ) . 
+The results obtained so far with mntH mutants of serovar Typhimurium do not support a strong role for MntH permease in virulence during the systemic phase of infection . 
+Use of a more sensitive measure with mixed infections ( 5 ) may be required to detect small effects of mntH inactivation on virulence and to better understand the interplay between the transporters studied . 
+Manganese acquisition appears to be required for the full virulence of serovar Typhimurium since double mutant MS is signiﬁcantly attenuated , while it can still acquire Fe ( II ) . 
+The elimination of high-afﬁnity Mn ( II ) transport resulting fro inactivation of mntH and sitABCD correlated with decreased aerobic growth in metal-limiting medium and increased sensitivity to hydrogen peroxide in vitro ; overexpression of the permease MntH complemented these defects ( Fig. 4 ) . 
+MS also showed impaired intracellular survival in Nramp1 / macro-phages and deﬁcient replication within permissive macro-phages in the presence of DP ( Fig. 3 ) . 
+These results are consistent with the observation that Nramp1 extrudes Mn ( II ) from the phagosome in which Salmonella resides , preventing its intracellular replication ( 9 , 13 ) , and support the hypothesis that Mn acquisition has an important role during Salmonella infection . 
+Addition of Mn ( II ) to iron-limiting minimal medium stimulated the growth of serovar Typhimurium strains expressing the mntH and sitABCD genes . 
+In E. coli , a positive effect of Mn on growth was observed only for strains having a growth defect , possibly resulting from endogenous oxidative stress ( Bergevin and Cellier , unpublished data ) . 
+Since Mn ( II ) may be used to scavenge and detoxify superoxides and peroxides either directly or as an enzyme cofactor , its acquisition may improve the oxygen-detoxifying capacities of the bacteria , which could grow better as a consequence . 
+The Mn uptake capacity of serovar Typhimurium could confer a growth advantage when the iron supply is limited and favor Salmonella pathogenesis . 
+It was thus surprising to ﬁnd that MS was only partially attenuated in vivo and could still produce a fatal infection . 
+We expected that since this strain is less resistant to metal privation and peroxide stress in vitro , it would require a delay to reach bacterial titers that induce host death ( 108 bacteria ) . 
+However , this was not observed when we compared the mortalities due to infection with MS and S ( Fig. 2 ) . 
+One possibility is that the sensitivity to DP and H2O2 is irrelevant to serovar Typhi-murium pathogenesis in vivo , and since increased sensitivity to these agents was correlated with the lack of Mn ( II ) uptake in MS , this would imply that Mn ( II ) acquisition is irrelevant to Salmonella virulence . 
+This seems to be inconsistent with the major role of the Sit ABC-type transporter in Mn ( II ) uptake , resistance to macrophages in vitro , and virulence in vivo , which is distinct from and complementary to the role of the Feo ferrous iron transport system . 
+Another possible explanation is that MS residual virulence results from an Mn deﬁcit , which may regulate the expression of virulence factors . 
+Several bacteria , including pathogens , express Mn-depen-dent transcriptional repressors that function like the regulators Fur and DtxR , which control the bacterial response to iron limitation ( 29 ) . 
+These regulators may be used by pathogens to up-regulate key functions and virulence factors ( e.g. , toxins , adhesins , and transport systems ) in response to host restriction of iron availability during infection ( 32 ) . 
+In the initial stages of S. enterica intravenous infection , a large fraction of bacteria are captured and eliminated by phagocytes , which rely on the production of reactive oxygen and nitrogen intermediates and expression of Nramp1 to destroy bacteria ( 25 ) . 
+However , intracellular survival is key to virulence in the murine model of typhoid fever , and further studies thus appear to be warranted to elucidate the role of Mn acquisition in S. enterica virulence and intracellular resistance . 
+Iron availability also limited the growth of serovar Typhi-murium in vitro , although this organism appeared to be more resistant to metal starvation in minimal medium than E. coli 
+K-12 ( data not shown ) . 
+Iron acquisition is critical to pathogenesis to support bacterial growth and provide a vital cofactor to many components of microbial antioxidative stress defenses ( e.g. , Fe superoxide dismutase , catalase , peroxidase [ 6 ] ) . 
+Several iron transport systems have been found in serovar Typhi-murium , and these systems could be required at speciﬁc stages during mouse infection ( 18 , 33 , 34 ) . 
+The feoB gene appeared to contribute to bacterial growth at intraintestinal sites , whereas the tonB gene was required for subsequent colonization of the Peyer 's patches and mesenteric lymph nodes ( 34 ) and the sit-ABCD gene was preferentially expressed and required for growth in the liver and spleen ( 18 ) . 
+Using intravenous infection , we conﬁrmed both the important role of sitABCD and the absence of a role for tonB-dependent uptake systems during the systemic stages of murine infection , and we also showed that the feoB gene can inﬂuence bacterial growth during later stages of infection . 
+These results support the hypothesis that iron acquisition has an important role in the pathogenesis of serovar Typhimurium . 
+We concluded from this study that ( i ) both sitABCD and feoB are required for Salmonella virulence during systemic infection of 129/Sv Nramp1 / mice , ( ii ) mntH is partially redundant with sitABCD and has a comparatively minor effect on in vivo and in vitro infections , and ( iii ) acquisition of both Fe ( II ) and Mn ( II ) is required for virulent intravenous infection with serovar Typhimurium . 
+ACKNOWLEDGMENTS
+This work was supported by research grants from the Natural Sciences and Engineering Research Council of Canada and the Canadian Institutes of Health Research . 
+E.B. and I.B. were supported by the Fondation Armand-Frappier and the Natural Sciences and Engineering Research Council of Canada , respectively . 
+In vivo studies were supported by grants from the Canadian Institutes of Health Research and the Howard Hughes Medical Institute ( Infectious Diseases and Parasitology Program ) and by NIH grant 1R01 A135237-06 to P.G. D.M is a scholar of the Canadian Institutes of Health Research and an international research scholar of the Howard Hughes Medical Institute . 
+P.G. is a international research scholar of the Howard Hughes Medical Institute and a career scientist of the Canadian Institutes of Health Research . 
+M.F.M.C. is a scholar of the Fonds pour la Recherche en Santé du Québec . 
+The expert technical assistance of J. Beaubien is gratefully acknowledged . 
+We also thank L. Laroche for assistance with mouse infections and I. Stojiljkovic , R. M. Tsolis , and G. J. Zylstra for supplying strains and reagents that were used in this study . 
+REFERENCES 
+1 . 
+Agranoff , D. , I. M. Monahan , J. A. Mangan , P. D. Butcher , and S. Krishna . 
+1999 . 
+Mycobacterium tuberculosis expresses a novel pH-dependent divalent cation transporter belonging to the Nramp family . 
+J. Exp . 
+Med . 
+190:717 -- 724 . 
+2 . 
+Bartsevich , V. V. , and H. B. Pakrasi . 
+1995 . 
+Molecular identiﬁcation of an ABC transporter complex for manganese : analysis of a cyanobacterial mutant strain impaired in the photosynthetic oxygen evolution process . 
+EMBO J. 14:1845 -- 1853 . 
+3 . 
+Bearden , S. W. , and R. D. Perry . 
+1999 . 
+The Yfe system of Yersinia pestis transports iron and manganese and is required for full virulence of plague . 
+Mol . 
+Microbiol . 
+32:403 -- 414 . 
+4 . 
+Bearden , S. W. , T. M. Staggs , and R. D. Perry . 
+1998 . 
+An ABC transporter system of Yersinia pestis allows utilization of chelated iron by Escherichia coli SAB11 . 
+J. Bacteriol . 
+180:1135 -- 1147 . 
+5 . 
+Beuzon , C. R. , and D. W. Holden . 
+2001 . 
+Use of mixed infections with Sal-monella strains to study virulence genes and their interactions in vivo . 
+Microbes Infect . 
+3:1345 -- 1352 . 
+6 . 
+Byers , B. R. , and J. E. L. Arceneaux . 
+1998 . 
+Microbial iron transport : iron acquisition by pathogenic microorganisms , p. 37 -- 66 . 
+In A. Sigel and H. Sigel ( ed . ) 
+, Iron transport and storage in microorganisms , plants and animals Marcel Dekker Inc. , New York , N.Y 
+7 . 
+Cellier , M. F. , I. Bergevin , E. Boyer , and E. Richer . 
+2001 . 
+Polyphyletic origins of bacterial Nramp transporters . 
+Trends Genet . 
+17:365 -- 370 . 
+8 . 
+Christianson , D. W. 1997 . 
+Structural chemistry and biology of manganese metalloenzymes . 
+Prog . 
+Biophys . 
+Mol . 
+Biol . 
+67:217 -- 252 . 
+9 . 
+Claverys , J. P. 2001 . 
+A new family of high-afﬁnity ABC manganese and zinc permeases . 
+Res . 
+Microbiol . 
+152:231 -- 243 . 
+10 . 
+Dennis , J. J. , and G. J. Zylstra . 
+1998 . 
+Plasposons : modular self-cloning minitransposon derivatives for rapid genetic analysis of gram-negative bacterial genomes . 
+Appl . 
+Environ . 
+Microbiol . 
+64:2710 -- 2715 . 
+11 . 
+Domenech , P. , A. S. Pym , M. Cellier , C. E. Barry , and S. T. Cole . 
+2002 . 
+Inactivation of the Mycobacterium tuberculosis Nramp orthologue ( mntH ) does not affect virulence in a mouse model of tuberculosis . 
+FEMS Microbiol . 
+Lett . 
+207:81 -- 86 . 
+12 . 
+Govoni , G. , F. Canonne-Hergaux , C. G. Pfeifer , S. L. Marcus , S. D. Mills , D. J. Hackam , S. Grinstein , D. Malo , B. B. Finlay , and P. Gros . 
+1999 . 
+Functional expression of Nramp1 in vitro in the murine macrophage line RAW264 .7 . 
+Infect . 
+Immun . 
+67:2225 -- 2232 . 
+13 . 
+Gruenheid , S. , E. Pinner , M. Desjardins , and P. Gros . 
+1997 . 
+Natural resistance to infection with intracellular pathogens : the Nramp1 protein is recruited to the membrane of the phagosome . 
+J. Exp . 
+Med . 
+185:717 -- 730 . 
+14 . 
+Hacker , J. , and J. B. Kaper . 
+2000 . 
+Pathogenicity islands and the evolution of microbes . 
+Annu . 
+Rev. Microbiol . 
+54:641 -- 679 . 
+15 . 
+1997 . 
+Ferrous iron uptake by a magnesium transport system is Hantke , K. toxic for and . 
+J. Bacteriol . 
+6201 -- Escherichia coli Salmonella typhimurium 179 : 6204 . 
+16 . 
+Jabado , N. , A. Jankowski , S. Dougaparsad , V. Picard , S. Grinstein , and P. Gros . 
+2000 . 
+Natural resistance to intracellular infections : natural resistanceassociated macrophage protein 1 ( Nramp1 ) functions as a pH-dependent manganese transporter at the phagosomal membrane . 
+J. Exp . 
+Med . 
+192 : 1237 -- 1248 . 
+17 . 
+Jakubovics , N. S. , and H. F. Jenkinson . 
+2001 . 
+Out of the iron age : new insights into the critical role of manganese homeostasis in bacteria . 
+Microbiology 147:1709 -- 1718 . 
+18 . 
+Janakiraman , A. , and J. M. Slauch . 
+2000 . 
+The putative iron transport system sitABCD encoded on SPI1 is required for full virulence of Salmonella typhi-murium . 
+Mol . 
+Microbiol . 
+35:1146 -- 1155 . 
+19 . 
+Kammler , M. , C. Schon , and K. Hantke . 
+1993 . 
+Characterization of the ferrous iron uptake system of Escherichia coli . 
+J. Bacteriol . 
+175:6212 -- 6219 . 
+20 . 
+Kehres , D. G. , M. L. Zaharik , B. B. Finlay , and M. E. Maguire . 
+2000 . 
+The NRAMP proteins of Salmonella typhimurium and Escherichia coli are selective manganese transporters involved in the response to reactive oxygen . 
+Mol . 
+Microbiol . 
+36:1085 -- 1100 . 
+21 . 
+Leung , K. Y. , and B. B. Finlay . 
+1991 . 
+Intracellular replication is essential for the virulence of Salmonella typhimurium . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 88 : 11470 -- 11474 . 
+22 . 
+Link , A. J. , D. Phillips , and G. M. Church . 
+1997 . 
+Methods for generating precise deletions and insertions in the genome of wild-type Escherichia coli : 
+application to open reading frame characterization . 
+J. Bacteriol . 
+179:6228 -- 6237 . 
+23 . 
+Makui , H. , E. Roig , S. T. Cole , J. D. Helmann , P. Gros , and M. F. Cellier . 
+2000 . 
+Identiﬁcation of the Escherichia coli K-12 Nramp orthologue ( mntH ) as a selective divalent metal ion transporter . 
+Mol . 
+Microbiol . 
+35:1065 -- 1078 . 
+24 . 
+Malo , D. , K. Vogan , S. Vidal , J. Hu , M. Cellier , E. Schurr , A. Fuks , N. Bumstead , K. Morgan , and P. Gros . 
+1994 . 
+Haplotype mapping and sequence analysis of the mouse Nramp gene predict susceptibility to infection with intracellular parasites . 
+Genomics 23:51 -- 61 . 
+25 . 
+Mastroeni , P. , A. Vazquez-Torres , F. C. Fang , Y. Xu , S. Khan , C. E. Hormaeche , and G. Dougan . 
+2000 . 
+Antimicrobial actions of the NADPH phagocyte oxidase and inducible nitric oxide synthase in experimental salmonello-sis . 
+II . 
+Effects on microbial proliferation and host survival in vivo . 
+J. Exp . 
+Med . 
+192:237 -- 248 . 
+26 . 
+Miller , J. H. ( ed . ) . 
+1992 . 
+A laboratory manual and handbook for E. coli and related bacteria , p. 24.5 -- 24.6 . 
+Cold Spring Harbor Laboratory Press , Cold Spring Harbor , N.Y. 27 . 
+Moeck , G. S. , and J. W. Coulton . 
+1998 . 
+TonB-dependent iron acquisition : mechanisms of siderophore-mediated active transport . 
+Mol . 
+Microbiol . 
+28 : 675 -- 681 . 
+28 . 
+Ohl , M. E. , and S. I. Miller . 
+2001 . 
+Salmonella : a model for bacterial pathogenesis . 
+Annu . 
+Rev. Med . 
+52:259 -- 274 . 
+2 29 . 
+Patzer , S. I. , and K. Hantke . 
+2001 . 
+Dual repression by Fe - Fur and Mn2-MntR of the mntH gene , encoding an NRAMP-like Mn2 transporter in Escherichia coli . 
+J. Bacteriol . 
+183:4806 -- 4813 . 
+30 . 
+Posey , J. E. , and F. C. Gherardini . 
+2000 . 
+Lack of a role for iron in the Lyme disease pathogen . 
+Science 288:1651 -- 1653 . 
+31 . 
+Que , Q. , and J. D. Helmann . 
+2000 . 
+Manganese homeostasis in Bacillus subtilis is regulated by MntR , a bifunctional regulator related to the diphtheria toxin repressor family of proteins . 
+Mol . 
+Microbiol . 
+35:1454 -- 1468 . 
+32 . 
+Ratledge , C. , and L. G. Dover . 
+2000 . 
+Iron metabolism in pathogenic bacteria . 
+Annu . 
+Rev. Microbiol . 
+54:881 -- 941 . 
+33 . 
+Robson , H. G. , and S. I. Vas . 
+1972 . 
+Resistance of inbred mice to Salmonella typhimurium . 
+J. Infect . 
+Dis . 
+126:378 -- 386 . 
+34 . 
+Tsolis , R. M. , A. J. Baumler , F. Heffron , and I. Stojiljkovic . 
+1996 . 
+Contribution of TonB - and Feo-mediated iron uptake to growth of Salmonella typhi-murium in the mouse . 
+Infect . 
+Immun . 
+64:4549 -- 4556 . 
+35 . 
+Velayudhan , J. , N. J. Hughes , A. A. McColm , J. Bagshaw , C. L. Clayton , S. C. Andrews , and D. J. Kelly . 
+2000 . 
+Iron acquisition and virulence in Helicobacter pylori : a major role for FeoB , a high-afﬁnity ferrous iron transporter . 
+Mol . 
+Microbiol . 
+37:274 -- 286 . 
+36 . 
+Vidal , S. , M. L. Tremblay , G. Govoni , S. Gauthier , G. Sebastiani , D. Malo , E. Skamene , M. Olivier , S. Jothy , and P. Gros . 
+1995 . 
+The ity/lsh/bcg locus : natural resistance to infection with intracellular parasites is abrogated by disruption of the Nramp1 gene . 
+J. Exp . 
+Med . 
+182:655 -- 666 . 
+37 . 
+Zhou , D. , W. D. Hardt , and J. E. Galan . 
+1999 . 
+Salmonella typhimurium encodes a putative iron transport system within the centisome 63 pathoge-nicity island . 
+Infect . 
+Immun . 
+67:1974 -- 1981 .

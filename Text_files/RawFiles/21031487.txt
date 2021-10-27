@@ -1,0 +1,451 @@
+The crystal structures of the Salmonella 
+type III secretion system tip protein SipD
+in complex with deoxycholate and 
+chenodeoxycholate 
+Srirupa Chatterjee , Dalian Zhong , Bryce A. Nordhues , Kevin P. Battaile , 1 1 1 2 Scott Lovell , and Roberto N. De Guzman * 3 1 
+1 
+Department of Molecular Biosciences , University of Kansas , Lawrence , Kansas 66045 2 IMCA-CAT , Hauptman-Woodward Medical Research Institute , Argonne , Illinois 60439 3 Structural Biology Center , University of Kansas , Lawrence , Kansas 66047 
+Received 18 August 2010 ; Revised 18 October 2010 ; Accepted 19 October 2010 DOI : 10.1002 / pro .537 Published online 28 October 2010 proteinscience.org 
+Abstract : The type III secretion system ( T3SS ) is a protein injection nanomachinery required for virulence by many human pathogenic bacteria including Salmonella and Shigella . 
+An essential component of the T3SS is the tip protein and the Salmonella SipD and the Shigella IpaD tip proteins interact with bile salts , which serve as environmental sensors for these enteric pathogens . 
+SipD and IpaD have long central coiled coils and their N-terminal regions form a-helical hairpins and a short helix a3 that pack against the coiled coil . 
+Using AutoDock , others have predicted that the bile salt deoxycholate binds IpaD in a cleft formed by the a-helical hairpin and its long central coiled coil . 
+NMR chemical shift mapping , however , indicated that the SipD residues most affected by bile salts are located in a disordered region near helix a3 . 
+Thus , how bile salts interact with SipD and IpaD is unclear . 
+Here , we report the crystal structures of SipD in complex with the bile salts deoxycholate and chenodeoxycholate . 
+Bile salts bind SipD in a region different from what was predicted for IpaD . 
+In SipD , bile salts bind part of helix a3 and the C-terminus of the long central coiled coil , towards the C-terminus of the protein . 
+We discuss the biological implication of the differences in how bile salts interact with SipD and IpaD . 
+Keywords : gram-negative bacteria ; type III secretion system ; tip protein ; SipD ; bile salts 
+Introduction
+Many Gram-negative bacteria such as Salmonella , Shigella , and Burkholderia species , which are leading agents of infectious diseases and mortality worldwide , utilize the type III secretion system 
+Additional Supporting Information may be found in the online version of this article . 
+Grant sponsor : NIH ; Grant numbers : R01AI074856 , RR017708 . 
+Dalian Zhong 's current address is : Department of Physiology , University of Texas-Southwestern Medical Center , Dallas , TX 75390 . 
+* Correspondence to : Roberto N. De Guzman , Department of Molecular Biosciences , University of Kansas , Lawrence , KS 66045 . 
+E-mail : rdguzman@ku.edu 
+( T3SS ) to inject bacterial proteins directly into their host cells to initiate infections . 
+The structural component of the T3SS is a needle apparatus , which is assembled from over 20 different proteins , and con-1 sists of a base , an external needle and a tip complex ( Supporting Information Fig . 
+S1 ) . 
+The tip complex is assembled by the tip proteins , which are bound directly on top of the needle , and by the translocon proteins , which are membrane-spanning proteins . 
+The T3SS tip proteins are SipD in the Salmonella 2 3 typhimurium pathogenicity island 1 ( SPI-1 ) , IpaD in Shigella flexneri and BipD in Burkholderia pseudomallei . 
+The crystal structures of IpaD and 4 4,5 BipD show common features such as a long central coiled coil that imparts an overall oblong shape to these proteins , and an N-terminal a-helical hairpin . 
+The a-helical hairpin motif is also common to PrgI , MxiH , and BsaL , which are the 6,7 8 9 T3SS needle proteins of Salmonella typhimurium , Shigella flexneri , and Burkholderia pseudomallei , respectively . 
+Shigella and Salmonella are enteric pathogens and their invasiveness to human cells is affected by bile salts . 
+The intestines are enriched in bile 10 -- 14 salts such as deoxycholate and chenodeoxycholate and Shigella and Salmonella utilize bile salts 11,12 15 as environmental sensors . 
+Bile salts affect the activity of the Shigella and Salmonella T3SS , how-11 ,12 15 ever , bile salts affect the invasiveness of Shigella and Salmonella in an opposite manner . 
+Bile salts activate the Shigella T3SS and increase the invasiveness of Shigella to epithelial cells , whereas 11,12 bile salts repress the T3SS and decrease invasiveness in Salmonella . 
+The opposing responses of 13,14 
+Published by Wiley-Blackwell . 
+V C 2010 The Protein Society 
+Shigella and Salmonella T3SSs to bile salts are poorly understood . 
+To date , the only T3SS proteins that have been shown to interact directly with bile salts are the Shigella IpaD and the Salmonella 11 SipD tip proteins . 
+Further , IpaD and SipD are 11,16 12 2 present on the bacterial surface before host cell contact . 
+Thus , IpaD and SipD are exposed to the environment before bacterial invasion and could function as sensors for environmental molecules . 
+How IpaD and SipD interact with bile salts is not well understood . 
+Stensrud et al. used computer 11 docking simulation to predict that an IpaD pocket formed between the long central coiled-coil and the N-terminal a-helical hairpin is the binding site for deoxycholate . 
+However , using NMR chemical shift 11 mapping , we showed previously that SipD bound to deoxycholate , chenodeoxycholate and taurodeoxycho-late in a different manner from what was predicted for the IpaD-deoxycholate interaction . 
+Thus , it is 16 not clear why IpaD and SipD , which are expected to share a high degree of structural similarity , would interact with bile salts differently . 
+Here we report the 1.9 Å resolution crystal structures of SipD in complex with deoxycholate and chenodeoxycholate and show that bile salts bind to SipD in a different manner as predicted for IpaD . 
+Results
+SipD crystallization
+The N-terminal 30-39 residues were disordered in the BipD and IpaD crystals , therefore , the corre-5 4 sponding N-terminal 38 residues of SipD were truncated to form the SipD construct ( residues 39-343 ) used in this study . 
+The lone native cysteine residue ( C244 ) , which contributed in a slight dimerization of SipD during purification , was mutated into a serine residue . 
+Both wild-type ( WT ) and C244S mutant SipD afforded high level of expression in E. coli as fusion proteins with GB1 ( the 56-residue B1 immu-noglobulin domain of Streptococcal protein G ) . 
+After purification by Ni - affinity chromatography and 2þ digestion with the tobacco etch virus protease , purified SipD ( WT and C244S forms ) formed crystals under crystallization conditions . 
+The SipD-deoxycho-late complex was obtained by cocrystallization whereas the SipD-chenodeoxycholate complex was obtained by soaking apo SipD crystals in chenodeox-ycholate . 
+Other bile salts such as taurodeoxycholate and cholate hydrate failed to crystallize with SipD . 
+The four crystals reported here -- the two apo forms ( WT and C244S ) and the two bound forms ( with deoxycholate and chenodeoxycholate ) yielded high quality X-ray diffraction data ( Table I ) . 
+The SipD crystals crystallized with C2 space group and contained two molecules ( A and B ) in the asymmetric unit and were refined to 1.7 Å for apo SipD WT , 1.9 Å for apo SipD C244S ; and 1.9 Å for the SipD-deoxy-cholate and SipD-chenodeoxycholate complexes ( Table I ) . 
+For the SipD-deoxycholate complex , the bur-ied surface area between molecules A and B was 520 Å as determined by PISA . 
+2 17 
+Overall structure of SipD
+The crystal structures of SipD in the apo and bound forms are nearly identical ( Fig. 1 and Supporting Information Fig . 
+S2 ) . 
+For the SipD-deoxycholate crystal ( Fig. 1 ) , the final model includes residues 39-342 for molecule A and 46-336 for molecule B. However , residues 110-132 in molecule A and residues 92-94 and 118-134 in molecule B can not be fit to the electron density due to disorder . 
+SipD is a highly a-heli-cal protein , with 62 % of residues in 8 a-helices ( a1-a8 ) , 6 % residues in 5 short beta strands ( b1-b5 ) , and the rest in loops and disordered regions . 
+A prominent structural feature of T3SS tip proteins is a long central coiled coil . 
+In SipD , this long coiled coil 4,5,18 is formed by helix a4 and helix a8 , which defines a central axis and imparts an overall oblong shape to SipD ( Fig. 1 ) . 
+Among the four SipD crystals , there is a slight variability in the length of helix a4 -- it is shortest ( spanning residues 133-177 ) in molecule A of apo SipD ( WT and C244S ) , and it is longest ( spanning residues 136-177 ) in molecule B of the SipDchenodeoxycholate complex . 
+There is also variability regarding the length of helix a8 , which is the longest helix in SipD and defines its entire length . 
+Helix a8 can be as long as 55 residues ( in molecule A of apo and bound SipD ) or as short as 49 residues ( in mole-cule B of apo SipD ) . 
+The long central coiled coil as depicted in Figure 
+1 orients an arbitrary `` top '' and `` bottom '' of the mole-cule . 
+On top of the coiled coil sits three short anti-parallel b-strands ( b1 , b2 , and b5 ) ( Fig. 1 ) , which in turn is followed by a small mixed a/b domain formed by three a-helices ( a5 , a6 , and a7 ) and two b strands ( b3 and b4 ) . 
+The mixed a/b domain extends into the middle part of the coiled coil ( Fig. 1 ) . 
+Finally , at the bottom of the coiled coil , the SipD N-terminal region ( residues 39-132 ) forms 3 helices ( a1 , a2 , and a3 ) . 
+Helix a1 and a2 form an a-helical hairpin that packs on one face of the coiled coil and on the opposite face packs helix a3 and a long 23-residue loop ( residue 110-132 ) . 
+The a-helical hairpin of molecule A is in close contact with molecule B ( Fig. 1 ) , which likely contributes in the variability of the lengths of the ahelical hairpins of molecules A and B . 
+The a-helical hairpin is longer in molecule A compared to mole ¬ 
+Table I. Crystallographic Statistics for the SipD Crystals 
+apo SipD 
+apo SipD C244S 
+SipD C244S -- deoxycholate 
+SipD-chenodeoxycholate 
+3NZZ 
+3O00 
+3O01 
+3O02 
+PDB ID 
+Data collection Unit-cell param 
+a 1/4 203.06 b 1/4 52.25 
+a 1/4 203.35 b 1/4 52.15 
+a 1/4 201.93 b 1/4 52.33 
+a 1/4 202.22 b 1/4 52.37 
+eters ( Å , ) 
+c 1/4 57.52 b 1/4 90.05 C2 ( No. 5 ) 50.0 -- 1.65 ( 1.71 -- 1.65 ) 1.0000 100 256,708 69,282 39.2 ( 1.9 ) 95.5 ( 86.1 ) 3.7 ( 3.0 ) 4.4 ( 49.6 ) 
+c 1/4 57.56 b 1/4 90.45 C2 ( No. 5 ) 50.0 -- 1.85 ( 1.92 -- 1.85 ) 1.000 100 195,676 50,066 36.1 ( 3.5 ) 97.0 ( 81.6 ) 3.9 ( 3.3 ) 5.3 ( 32.4 ) 
+c 1/4 57.31 b 1/4 90.3 C2 ( No. 5 ) 50.0 -- 1.9 ( 1.97 -- 1.90 ) 1.000 100 170,803 46,924 20.3 ( 1.9 ) 98.5 ( 88.1 ) 3.6 ( 3.1 ) 5.3 ( 38.1 ) 
+c 1/4 57.32 b 1/4 90.20 C2 ( No. 5 ) 50.0 -- 1.9 ( 1.97 -- 1.90 ) 1.000 100 169,943 46,661 27.9 ( 3.7 ) 97.9 ( 83.5 ) 3.69 ( 2.8 ) 5.3 ( 23.0 ) 
+Space group Resolution range 
+a Wavelength ( Å ) Temperature ( K ) Observed reflections Unique reflections < I/r ( I ) > a Completeness Redundancy a Rmerge ( % ) a , b Refinement Resolution ( Å ) Reflections ( working/test ) Rfactor/Rfree ( % ) c No . 
+of atoms ( protein ( A : B ) / Ni / ligand/water ) 2þ Model quality R.m.s. deviations Bond lengths ( Å ) Bond angles ( ) Average B factor ( Å ) 2 All atoms Protein ( chain A/B ) Ni 2þ Deoxycholate or chenodeoxycholate Water Coordinate error based on maximum likelihood ( Å ) Ramachandran plot Most favored ( % ) Additionally allowed ( % ) 
+25.35 -- 1.65 62,042 / 3 , 296 
+32.07 -- 1.85 46,099 / 2,477 
+27.98 -- 1.90 42,527 / 2,249 
+24.97 -- 1.90 43,463 / 2,308 
+19.7 / 23.7 2,190:2,018 / 1/348 
+19.5 / 24.6 2,186:2,019 / 1/297 
+19.6 / 25.8 2,184:2,053 / 1/28/252 
+18.5 / 23.6 2,177:2,032 / 1/28/330 
+0.014 1.478 
+0.015 1.461 
+0.017 1.556 
+0.018 1.614 
+29.6 
+29.7 
+32.0 
+28.2 
+29.0 / 29.2 22.0 -- 35.4 0.25 
+28.6 / 30.3 21.3 -- 34.0 0.26 
+31.5 / 32.3 26.6 28.6 34.6 0.26 
+27.6 / 27.9 21.8 26.2 33.5 0.26 
+98.9 1.1 
+99.1 0.9 
+98.9 1.1 
+98.9 1.1 
+a Values in parentheses are for the highest resolution shell . 
+b Rmerge 1/4 RhklRi | Ii ( hkl ) < I ( hkl ) > | / RhklRi | Ii ( hkl ) , where Ii ( hkl ) is the intensity measured for the ith reflection and < Ii ( hkl ) > is the average intensity of all reflections with indices hkl . 
+c Rfactor 1/4 Rhkl | | Fobs ( hkl ) | | Fcalc ( hkl ) | | / Rhkl | Fobs ( hkl ) | ; Rfree is calculated in an identical manner using 5 % of randomly selected reflections that were not included in the refinement 
+[ Fig. 2 ( B ) ] . 
+Binding of deoxycholate and chenodeoxycholate to SipD is mainly through hydrophobic contacts and stabilized by hydrogen bonds . 
+The apo and bound forms of SipD differ by only 0.34 Å Ca back ¬ 
+cule B. 
+Binding site of bile salts in SipD
+Crystals of the SipD-deoxycholate and SipD-cheno-deoxycholate complexes show a large amount of positive difference density ( Fo-Fc ) that are consistent with deoxycholate [ Fig. 2 ( A ) ] and chenodeoxycholate [ Fig. 2 ( B ) ] . 
+The deoxycholate and chenodeoxycholate molecules are located between the ends of a noncrystallographic SipD dimer but are also in close proximity to another molecule A related by a crystallographic ( 011 ) translation ( Supporting Information and A108 ) and helix a8 ( N321 , L322 and L318 ) of molecule B . 
+The carboxylate of deoxycholate is in hydrogen bonding distance with the side chains of K338 and N321 whereas the rest of deoxycholate is surrounded by hydrophobic residues [ Fig. 2 ( A ) ] . 
+Two residues ( S221 and G222 ) from another molecule A related by a crystallographic ( 011 ) translation are also in close proximity to deoxycholate . 
+For the SipD-chenodeoxycholate complex , the same residues that are in close proximity to deoxycholate [ Fig. 2 ( A ) ] are also involved in binding chenodeoxycholate bone rmsd , however , the side chains of F340 and N104 reorient to accommodate the bile salts in the binding pocket [ Fig. 2 ( C ) ] . 
+By comparison , our previous NMR results showed the largest chemical shift perturbations of SipD residues near ( S96 ) or on loop 110-134 ( S114 , L116 , F117 , and E133 ) upon binding 16 to bile salts . 
+cule B. 
+Effect of SipD mutations on bacterial invasiveness
+To determine which regions of SipD might be important for function , we used the Salmonella invasion ability of Salmonella to invade cultured human epi-thelial cells . 
+We made point mutations and deletions ( shown in Supporting Information Fig . 
+S4 ) in the loop region between helix a3 and a4 ( D116-124 ) , the b2 beta strand ( D186-190 and D187-188 ) , and the extreme C-terminal five residues ( CD5 ) based on the following rationale : previously , we reported that residues in the 23-residue loop between helix a3 and a4 loop and the b2 beta strand showed significant chemical shift perturbation upon titration with bile salts and in the crystal structures reported here , 16 the C-terminus of SipD formed an ordered loop that is in close contact with the bile salts [ Fig. 1 and Supporting Information Fig . 
+S2 ( A ) ] . 
+Results of Salmo-nella invasion assay with respect to mutations in SipD are shown in Figure 3 ( A ) . 
+Overall , point mutations ( F117A and Q124A ) did not affect bacterial invasiveness , although some point mutations ( L116A , V187A , and K188A ) decreased invasiveness . 
+A 9-residue deletion ( D116-124 ) in the 23-residue loop ( spanning residues 110-134 ) did not affect bacterial invasiveness , thus the long loop between helix a3 and a4 , which had no electron density in the crystal structure , was not important in the function of SipD . 
+The most drastic effect on the invasiveness occurred from short deletions in the b2 strand ( D186-187 and D187-188 ) and the extreme C-termi-nus ( CD5 ) , which were noninvasive . 
+The noninvasiveness of the SipD CD5 mutant was similar to the results of the Shigella IpaD CD5 mutation reported previously . 
+3 
+Fig . 
+S3 ) . 
+Deoxycholate binds in a hydrophobic pocket [ Fig. 2 ( A ) ] with a surface area of about 520 Å and 2 formed by residues on the C-terminus ( K338 and F340 ) and helix a1 ( R41 and I45 ) of molecule A , and 
+residues of helix a3 towards the loop 110-134 ( N104 assay to assess the effect of SipD mutations on the 
+CD and NMR of SipD deletion mutants
+We used CD spectroscopy to assess the folding of the SipD deletion mutants ( D116-124 , D186-189 , D187-188 , and CD5 ) that were noninvasive . 
+The CD plots for WT and mutant SipD [ Fig. 3 ( B ) ] , showing minima at 208 and 222 indicated folded and highly ahelical proteins . 
+Further , the ratio of molar ellipticity at 222 and 208 nm of nearly 1.0 [ insert , Fig. 3 ( B ) ] indicated extensive interhelical contacts . 
+19 -- 21 However , the D186-189 and D187-188 deletions showed different melting behavior compared to WT SipD [ Fig. 3 ( C ) ] . 
+This suggested conformational changes in the folding of the D186-189 and D187-188 deletions , which showed only one transition temperature of 63.4 [ Fig. 3 ( C ) ] compared to two transition temperatures for WT SipD . 
+NMR spectroscopy indicated that the CD5 , D186-189 , and D187-188 deletion mutants were folded ( Fig. 4 ) . 
+Because the four SipD tryptophan residues ( W135 , W177 , W234 , and W290 ) were located in different regions of SipD ( Supporting Information Fig . 
+S4 ) and their side chain NMR resonances were easily identified ( boxed in Fig. 4 ) , we used the tryptophan side chain resonances to assess the overall changes in the conformation of SipD for the CD5 , D186-189 , and D187-188 deletions . 
+Among the deletions , the D186-189 deletion showed the most drastic change in the tryptophan side chain resonances ( Fig. 4 ) . 
+The W177 side chain resonance of D186-189 [ Fig. 4 ( C ) ] changed significantly compared to WT SipD [ Fig. 4 ( A ) ] . 
+W177 was located at an end of helix a4 and faced helix a5 , which immediately followed the b2 strand [ Supporting Information Fig . 
+S4 ( B ) ] . 
+The b2 strand was deleted in D186-189 , thus changing the local environment of the W177 side chain with respect to helix a5 . 
+Nevertheless , the three other tryptophan residues ( W135 , W234 , and W290 ) showed similar side chain resonances as WT indicating there were no drastic conformation changes in other regions of SipD surrounding W135 , W234 , and W290 . 
+W135 ( in helix a4 ) was buried in a pocket formed by the central coiled coil ( helix a4/a8 ) and the N-terminal helices ( a1 , a2 , and a3 ) , W234 ( in helix a6 ) faced the middle portion of the central coiled coil , and W290 ( in helix a8 ) faced helix a7 of the mixed a/b domain . 
+Based on the tryptophan side chain resonances ( Fig. 4 ) , the D186-189 deletion resulted in a more significant change in the conformation of SipD compared to the CD5 and D187-188 deletions . 
+Figure 2 . 
+Fo-Fc omit maps contoured at 3r of ( A ) deoxycholate and ( B ) chenodeoxycholate in complex with 
+SipD shown with residues within 5 Å of bile salts ( color scheme : molecule A , yellow ; molecule B , cyan ; and another 
+molecule A related by a crystallographic ( 011 ) translation , pink ) . 
+( C ) Conformational changes in SipD upon binding 
+deoxycholate and chenodeoxycholate ( color scheme : apo SipD , green ; SipD-deoxycholate complex , blue ; and SipD ¬ 
+chenodeoxycholate complex , gold ) . 
+Bile salts have been removed for clarity . 
+Upon binding bile salts , the side chain 
+of F340 shifts by 5.8 Å and that of N104 by 2.1 Å . 
+Discussion
+Previous results have established that bile salts activate the Shigella T3SS and repress the Salmo-11 ,12 nella T3SS , and that bile salts bind directly to the 14 T3SS tip proteins IpaD and SipD . 
+Here , we 11 11,16 report the crystal structure of SipD in complex with the bile salts deoxycholate and chenodeoxycholate . 
+The main significance of this work is that the crystal structures reported here are currently the only available atomic structures of a T3SS tip protein in complex with bile salts . 
+SipD and IpaD have backbone Ca rmsd of 1.4 Å , however , the binding site of bile salts in SipD is different from what was predicted previously for IpaD . 
+Using AutoDock , Stensrud et al. predicted that bile salts bind at the 11 interface formed by the N-terminal a-helical hairpin ( equivalent to SipD helix a1/a2 , Fig. 1 ) and the coiled coil motif ( equivalent to SipD helix a4/a8 ) . 
+For the SipD-bile salt complexes [ Fig. 1 and Supporting Information Fig . 
+S2 ( A ) ] , crystallography shows that bile salts bind at the interface of two SipD mole-cules , suggesting that SipD oligomerization is impor ¬ 
+SipD is expected to oligomerize at the tip of the Salmonella needle based on the following observations : the Yersinia pestis and Shigella flexneri 22 8,23 tip proteins form complexes on top of their respec-22 tive needles . 
+Further , in Shigella , there are 5.6 8 needle subunits per turn of the needle , thus , it is estimated that the Shigella tip protein forms a pentameric complex on top of the needle . 
+In solution , 4,23 the T3SS tip proteins of Shigella flexneri , Pseudo-4 monas aeruginosa , and Yersinia pestis oligomer-24 24 ize into tetramers or pentamers under certain conditions . 
+Recently , Galkin et al. showed there are 6.3 25 needle subunits per turn in the Salmonella needle , thus , it is expected that 6 SipD molecules may form a complex on top of the Salmonella needle . 
+We propose that SipD complex formation on top of the needle could provide the binding pocket for bile salts . 
+The oligomerization of SipD with respect to binding bile salts could explain the different results of crystallography and NMR spectroscopy . 
+NMR previously indicated that the loop 110-134 showed the largest chemical shift perturbations upon bile salt interaction , whereas in the crystal structures presented here , the extreme C-terminus of SipD appears to be the major site involved in bile salt binding . 
+Under NMR conditions , SipD is monomeric and bile salts mainly affect residues that are near or on loop 110-134 . 
+Upon oligomerization , bile salts 16 bind at the interface of two SipD molecules formed partly by the CD5 residues . 
+tant in bile salt binding . 
+Figure 3 . 
+( A ) Results of Salmonella invasion assay ( legends : WT , wild-type strain ; sipD , sipD null strain ; SipD , wild-þ 
+type sipD introduced by the plasmid pRK2-sipD into the sipD strain ; L116A , F117A , Q124A , K188A , and C244S are SipD point mutations in pRK2-sipD ; D116-124 , D186-189 , D187-188 , and CD5 are SipD deletions in pRK2-sipD ) . 
+( B ) CD spectra of SipD and deletion mutants ( insert : ratio of molar ellipticity at 222 and 208 nm ) . 
+( C ) CD thermal 
+denaturation monitored by the molar ellipticity at 222 nm of SipD and various deletion mutants ( insert : estimated 
+transition temperatures , Tm ) . 
+What could explain the difference in the bile salts binding sites in IpaD and SipD ? 
+It is currently unknown how a T3SS tip protein docks on top of an assembled needle . 
+Based on the structural similarity of the tip protein a-helical hairpin with the needle protein a-helical hairpin , others have hypothesized that the tip protein central coiled coil is the primary binding site for the needle monomers . 
+We have 8,23 recently shown by NMR paramagnetic relaxation enhancement ( PRE ) that a region in the SipD coiled coil facing the N-terminal a-helical hairpin is the binding site for the Salmonella needle protein PrgI ( Rathinavelan et al. , submitted for publication ) . 
+The PRE data regarding SipD-PrgI interaction together with the recent atomic model of the Salmonella needle constrains the possible orientation of SipD on 25 top of the needle , allowing us to model how SipD docks on top of the needle . 
+In this model , the C-ter-minal region of helix a8 and the C-terminus of SipD are expected to be facing towards the needle channel . 
+Thus , the bile salts binding site in SipD is expected to be facing towards the needle channel . 
+We hypothesize that bile salts , by binding in a region of SipD that is expected to form the wall of the needle channel , could be in a position to interfere with the passage of other proteins through the needle , which could lead to the inactivation of the Salmonella T3SS in the presence of bile salts . 
+On 14 the other hand , in Shigella , bile salts are proposed to bind between the IpaD coiled coil motif and the a-helical hairpin , which in the assembled needle-tip complex is expected to be positioned away from the needle channel . 
+This binding results in the activation of the Shigella T3SS by promoting the assembly of the translocon . 
+Thus , the difference in the 12 binding of bile salts in IpaD and SipD probably accounts for the observed differences in the behavior of the Shigella and Salmonella T3SSs with respect to bile salts . 
+It is also possible that the difference in the proposed bile salts binding sites in SipD and IpaD are due to the difference in the techniques used ( crystallography vs. AutoDock ) . 
+Figure 4 . 
+Two-dimensional H - N TROSY spectra of ( A ) SipD ( residues 39-343 ) and the ( B ) CD5 , ( C ) D186-189 and the ( D ) 1 15 D187-188 deletion mutants ( boxed : tryptophan side chain peaks ) . 
+Peak assignments for SipD were reported previously .16 The noise peak ( asterisk ) in the tryptophan side chain region in ( C ) is absent in the 2D H - N HSQC spectrum . 
+1 15 
+Comparison with other tip proteins
+Together with the Salmonella SipD structure presented here , there are currently crystal structures of five T3SS tip proteins ( Fig. 5 ) : Yersinia LcrV , Shi-18 gella IpaD , Burkholderia BipD , and a SipD homo-4 4,5 log from a soil bacterium , Chromobacterium viola-ceum , a Gram-negative soil bacterium . 
+Of the five 26 structures , IpaD , BipD and SipD are structurally more similar to each other than LcrV in that their Nterminal regions form a-helical hairpins ( colored blue in Fig. 5 ) that pack at one end of the central coiled coil , whereas LcrV lacks this domain . 
+Instead , LcrV has a protein chaperone , LcrG ( 95 residues ) that is expected to be highly helical and interact with LcrV . 
+IpaD , BipD and SipD have no known chap-27 -- 30 erones , hence , the a-helical hairpins were suggested to function as self-chaperones for IpaD and BipD . 
+4 Another importance of the SipD crystal structure reported here is its usefulness in modeling how SipD is assembled on top of the Salmonella needle and how the translocon is assembled on top of the SipD complex ( Supporting Information Fig . 
+S1 ) . 
+Among the T3SS tip proteins ( Fig. 5 ) , IpaD and SipD are the closest structural homologs with an overall Ca RMSD of 1.4 Å ; thus the IpaD crystal structure might be used to obtain a homology model of the SipD structure . 
+However , there are significant differences in how the N-terminal regions ( comprising helix a1-a3 ) of IpaD and SipD pack against their respective central coiled coils . 
+The a-helical hairpins of IpaD and 
+SipD pack differently by about 18 from each other with respect to their corresponding central coiled coils [ Fig. 6 ( A ) ] , and the packing of helix a3 to the central coiled coil in IpaD and SipD differs by an angle of 26 [ Fig. 6 ( B ) ] . 
+Because the region of the coiled coil facing the a-helical hairpin on one side and helix a3 on the other side is hypothesized to be important in how the tip protein docks on top of the assembled needle , the significant differences in packing angles may suggest differences in how IpaD and SipD might dock on their respective needles . 
+Additionally , the difference in the number of needle mono-mers per turn in the Salmonella and the Shigella 25 8 needles suggests that the packing of the Salmonella and Shigella tip proteins would be different as well . 
+Thus , using an experimentally derived high-resolu-tion structure of SipD to model the SipD-needle complex would lead to a more accurate result rather than using a homology modeled structure of SipD . 
+In summary , we present high-resolution crystal structures of SipD in the apo form and in complex with bile salts . 
+Currently , these are the only available atomic resolution crystal structures of a T3SS tip protein in complex with bile salts . 
+These structures are important in identifying how bile salts interact with a T3SS tip protein and are needed in modeling how SipD is assembled at the tip of the 
+needle . 
+Materials and Methods
+Protein expression and purification
+SipD ( residues 39-343 ) with WT or C244S point mutation was overexpressed in Escherichia coli using the pDZ1-SipD plasmid as a fusion protein with the Streptococcal GB1 domain and a hexahistidine tag and purified by nickel affinity chromatography as described . 
+Following cleavage of the fusion 16 protein with the tobacco etch virus protease , puri-16 fied SipD was dialyzed against 1 L of buffer ( 20 mM Tris , 196 mM NaCl , pH 8.0 ) , concentrated to 20 mg/mL ( 0.6 mM ) and stored at 4 C before crystallization . 
+s a 
+needle . 
+CD spectroscopy
+Samples for circular dichroism spectroscopy contained 0.15 mM protein in buffer ( 20 mM Tris , 196 mM NaCl , pH 8.0 ) and CD spectra were acquired in triplicate using a JASCO J-815 Spectropolarimeter . 
+Wavelength scans were collected at 20 C at a scan rate of 50 nm/min and thermal denaturation curves were monitored at 222 nm at a temperature ramp 
+rate of 15 C/h . 
+confirmed by DNA sequencing . 
+Preparation of Salmonella sipD knockout strain
+A Salmonella typhimurium sipD nonpolar knockout strain was constructed using the lambda Red recombinase method . 
+WT Salmonella typhimurium 31 
+SL1344 strain was obtained from Dr. Bradley Jones ( University of Iowa ) and the plasmids pKD46 and pKD3 were obtained from the E. coli Genetic Stock 31 Center ( Yale University ) . 
+Briefly , WT Salmonella typhimurium SL1344 strain was electroporated with pKD46 , which contained the genes needed for 31 lambda Red-mediated recombination , and grown at 30 C . 
+The chloramphenicol resistance gene in pKD3 was PCR-amplified using primers that contained complementary sequences to the chloramphenicol resistance gene and the sipD flanking regions and the PCR product was electroporated into the SL1344 / pKD46 strain . 
+Transformants were grown at 37 C to expel the temperature-sensitive pKD46 plasmid and selected against chloramphenicol resistance . 
+PCR and DNA sequencing confirmed the sipD nonpolar null mutation . 
+To rescue the sipD null mutation , full-length sipD was subcloned into the NdeI/SalI site of pRK2 . 
+Mutations in sipD were introduced 32 by PCR in pRK2-sipD for invasion assay and in pDZ1-SipD for protein expression . 
+Mutations were 
+confirmed by DNA sequencing . 
+Salmonella invasion assay
+The effect of sipD mutations on the ability of S. typhimurium to invade a cultured human epithelial cell line ( Henle 407 ) was assayed as follows . 
+Henle 
+407 cells ( American Type Culture Collection CCL-6 ) were grown in Dulbecco 's modified Eagle 's medium ( DMEM ) with 10 % newborn calf serum at 37 C in 5 % CO2 in 24-well plates before confluence ( which typically occurred within 24 hours ) . 
+The plasmid pRK2-sipD with either WT or mutant sipD was electroporated into the S. typhimurium sipD strain and single colonies were inoculated into LB media supplemented with 25 mg/L trimethoprim , 50 mg/L ampicillin , 50 mg/L kanamycin and grown in standing cultures overnight . 
+A 10 mL LB culture with 1 mM IPTG was inoculated with 1 mL of overnight bacterial growth , and incubated at 37 C on standing for 2.5-3 hours ( until A600 0.4 ) . 
+Approximately 15-30 uL of bacterial suspension was added with 300 uL DMEM into the Henle 407 cells and incubated at 37 C for 60 min to allow invasion before the suspension was removed by aspiration . 
+The Henle 407 cells were incubated with fresh DMEM with 100 mg/L of gentamycin for 1.5 hours , aspirated , rinsed with DMEM , and lysed with 1 % Triton X-100 to free the entrapped bacteria . 
+The number of bacterial colo-nies , which correlated with invasiveness , was estimated by serial dilution and plating . 
+The Salmonella invasion assay was done in triplicate for each sipD 
+construct . 
+Crystallization of apo SipD
+WT and C244S SipD were concentrated to 20 mg/mL in buffer ( 20 mM Tris pH , 196 mM NaCl pH 8.0 ) and screened for crystallization in Compact Jr. ( Emerald Biosystems ) sitting drop plates using 0.75 uL of protein and crystallization solution ( Hampton 
+Research ) equilibrated against 100 uL of the latter . 
+Crystals were obtained in 24 hours at 20 C . 
+The WT SipD crystallized in the Hampton Research Index screen condition 69 ( 25 % ( w/v ) PEG 3350 , 100 mM Tris pH 8.5 , 200 mM ( NH4 ) 2SO4 ) and SipD C244S crystallized in Index screen condition 45 ( 25 % ( w/v ) PEG 3350 , 100 mM Tris pH 8.5 ) . 
+Single crystals were sequentially transferred to solutions containing 25 % ( w/v ) PEG 3350 , 100 mM Tris pH 8.5 and 10 % glycerol and frozen in the same solution containing 15 -- 20 % glycerol for X-ray data collection . 
+Crystallization of SipD-deoxycholate/ chenodeoxycholate complexes
+A SipD C244S-deoxycholate solution was prepared by mixing 1 lL 400 mM sodium deoxycholate 
+( Amresco ) with 100 lL of 0.3 mM SipD C244S . 
+For crystallization , hanging drops were prepared by mixing 1.5 lL of SipD C244S-deoxycholate solution with 1.5 uL crystallization screening solution on a cover slip and placed over 600 lL of reservoir volume and stored at 25 C . 
+The SipD C244S-deoxycholate cocrystals grew in about 12 days in crystallization solution containing 0.2 M magnesium formate dihydrate and 20 % ( w/v ) PEG 3350 . 
+The amount of PEG was optimized and diffraction-quality crystals were obtained with 0.2 M magnesium formate dihydrate and 15 % PEG 3350 in 8 days . 
+To crystallize the SipD-cheno-deoxycholate complex , crystals of WT SipD were soaked for 4 hours in 4 mM chenodeoxycholate 
+( Sigma ) dissolved in crystallization solution . 
+Crystals suitable for X-ray diffraction were soaked in 80 % crystallization solution and 20 % glycerol and flash frozen in liquid nitrogen . 
+Crystal structure determination
+X-ray diffraction data were collected to 1.9 Å at the Advanced Photon Source ( APS ) beamline 17BM 
+( IMCA-CAT ) using an ADSC Q210 CCD detector . 
+Intensities were integrated and scaled using the HKL2000 package . 
+For the SipD-deoxycholate coc-33 rystal , indexing indicated a C-centered orthorhombic lattice or a C-centered monoclinic lattice with the b angle 90 for the latter . 
+The Laue class was checked using POINTLESS which yielded the 34 highest score for 2/m indicating that C2 was indeed the correct space group . 
+A solvent content of 46.2 % ( Vm 1/4 2.3 Å3 / Da ) was calculated for two molecules in the asymmetric unit . 
+Additionally , the self rotation function calculated with POLARRFN using 35 data between 15 and 3.5 Å resolution and an integration radius of 20 Å yielded a peak on the j 1/4 180 section at x 1/4 49.1 , / 1/4 180 indicating the presence of a noncrystallographic 2-fold axis . 
+Structure solution was carried out by molecular replacement with PHASER and the pathogenicity island 36 1 effector protein from Chromobacterium violaceum ( PDB ID : 2P7N ) served as the search model . 
+The 26 amino acid sequence of 2P7N was 50 % identical to SipD and a homology model for molecular replacement was created using CHAINSAW . 
+Rotation and 35 translation searches for two molecules in the asymmetric unit yielded a clear solution and initial refinement converged at R 1/4 42 % , Rfree 1/4 46 % . 
+The structure was improved by employing automated model building with ARP/WARP and successive 37 rounds of manual model building and refinement with COOT and REFMAC , respectively . 
+During 38 39 successive rounds of refinement , a large difference density peak was observed at the N-terminus of mol-ecule A of the SipD-deoxycholate crystal . 
+Subsequently , residues G36 , H37 and M38 , which were cloning artifacts , were fit to the residual electron density . 
+Following refinement with these residues included , a large peak of difference density remained that appeared to be coordinated in a square planar arrangement to G36 and H37 of molecule A and H40 from another molecule A related by a crystallographic 2-fold rotation . 
+A Ni ion was ultimately 2þ assigned at this site , which was likely obtained during purification by Ni - affinity chromatography . 
+2þ Molecular replacement by MOLREP was used to 40 solve the structures of apo SipD , apo SipD C244S mutant and the SipD-chenodeoxycholate complex . 
+Only the protein portion of the refined structure of SipD-deoxycholate crystal was used as search model to solve the crystal structures of apo SipD and SipDchenodeoxycholate complex , whereas the refined structure of apo SipD was used as search model to determine the crystal structure of the apo SipD C244S mutant . 
+Structures were validated using MOLPROBITY and analyzed using PYMOL . 
+He-41 42 lix crossing angles were calculated using MOLMOL and buried surface areas were calculated 43 using PISA . 
+17 
+Structure Coordinates
+Coordinates have been deposited at the Protein Data Bank with accession codes : 3NZZ , 3O00 , 3O01 , and 3O02 . 
+Acknowledgment
+The authors thank Dr. Audrey Lamb , Dr. Qianyi Luo , and Andrew Ouellette for assistance in crystallography and to Asokan Anbanandam for NMR spectroscopy . 
+They thank the Industrial Macromolecular Crystallography Association , the Hauptman-Woodward Medical Research Institute and the U. S. Department of Energy Office of Basic Energy Sciences ( Contract No . 
+W-31 - 
+109-Eng-38 ) for the use of the IMCA-CAT beamline 17-BM at the Advanced Photon Source . 
+References 
+1 . 
+Cornelis GR ( 2006 ) The type III secretion injectisome . 
+Nat Rev Microbiol 4:811 -- 825 . 
+2 . 
+Lara-Tejero M , Galan JE ( 2009 ) Salmonella enterica serovar typhimurium pathogenicity island 1-encoded type III secretion system translocases mediate intimate attachment to nonphagocytic cells . 
+Infect Immun 77 : 2635 -- 2642 . 
+3 . 
+Espina M , Olive AJ , Kenjale R , Moore DS , Ausar SF , Kaminski RW , Oaks EV , Middaugh CR , Picking WD , Picking WL ( 2006 ) IpaD localizes to the tip of the type III secretion system needle of Shigella flexneri . 
+Infect Immun 74:4391 -- 4400 . 
+4 . 
+Johnson S , Roversi P , Espina M , Olive A , Deane JE , Birket S , Field T , Picking WD , Blocker AJ , Galyov EE , Picking WL , Lea SM ( 2007 ) Self-chaperoning of the type III secretion system needle tip proteins IpaD and BipD . 
+J Biol Chem 282:4035 -- 4044 . 
+5 . 
+Erskine PT , Knight MJ , Ruaux A , Mikolajek H , Sang NW , Withers J , Gill R , Wood SP , Wood M , Fox GC , Cooper JB ( 2006 ) High resolution structure of BipD : an invasion protein associated with the type III secretion system of Burkholderia pseudomallei . 
+J Mol Biol 363 : 125 -- 136 . 
+6 . 
+Wang Y , Ouellette AN , Egan CE , Rathinavelan T , Im W , De Guzman RN ( 2007 ) Differences in the electrostatic surfaces of the type III secretion needle proteins PrgI , BsaL , and MxiH . 
+J Mol Biol 371:1304 -- 1314 . 
+7 . 
+Poyraz O , Schmidt H , Seidel K , Delissen F , Ader C , Tenenboim H , Goosmann C , Laube B , Thunemann AF , Zychlinsky A , Baldus M , Lange A , Griesinger C , Kolbe M ( 2010 ) Protein refolding is required for assembly of the type three secretion needle . 
+Nat Struct Mol Biol 17 : 788 -- 792 . 
+8 . 
+Deane JE , Roversi P , Cordes FS , Johnson S , Kenjale R , Daniell S , Booy F , Picking WD , Picking WL , Blocker AJ , Lea SM ( 2006 ) Molecular model of a type III secretion system needle : Implications for host-cell sensing . 
+Proc Natl Acad Sci USA 103:12529 -- 12533 . 
+9 . 
+Zhang L , Wang Y , Picking WL , Picking WD , De Guzman RN ( 2006 ) Solution structure of monomeric BsaL , the type III secretion needle protein of Burkholderia pseudomallei . 
+J Mol Biol 359:322 -- 330 . 
+10 . 
+Pope LM , Reed KE , Payne SM ( 1995 ) Increased protein secretion and adherence to HeLa cells by Shigella spp . 
+following growth in the presence of bile salts . 
+Infect Immun 63:3642 -- 3648 . 
+11 . 
+Stensrud KF , Adam PR , La Mar CD , Olive AJ , Lushington GH , Sudharsan R , Shelton NL , Givens RS , Picking WL , Picking WD ( 2008 ) Deoxycholate interacts with IpaD of Shigella flexneri in inducing the recruitment of IpaB to the type III secretion apparatus needle tip . 
+J Biol Chem 283:18646 -- 18654 . 
+12 . 
+Olive AJ , Kenjale R , Espina M , Moore DS , Picking WL , Picking WD ( 2007 ) Bile salts stimulate recruitment of IpaB to the Shigella flexneri surface , where it colocalizes with IpaD at the tip of the type III secretion needle . 
+Infect Immun 75:2626 -- 2629 . 
+13 . 
+Prouty AM , Brodsky IE , Manos J , Belas R , Falkow S , Gunn JS ( 2004 ) Transcriptional regulation of Salmo-nella enterica serovar Typhimurium genes by bile . 
+FEMS Immunol Med Microbiol 41:177 -- 185 . 
+14 . 
+Prouty AM , Gunn JS ( 2000 ) Salmonella enterica sero-var typhimurium invasion is repressed in the presence of bile . 
+Infect Immun 68:6763 -- 6769 . 
+15 . 
+Gunn JS ( 2000 ) Mechanisms of bacterial resistance and response to bile . 
+Microbes Infect 2:907 -- 913 . 
+16 . 
+Wang Y , Nordhues BA , Zhong D , De Guzman RN ( 2010 ) NMR Characterization of the interaction of the Salmonella type III secretion system protein SipD and bile salts . 
+Biochemistry 49:4220 -- 4226 . 
+17 . 
+Krissinel E , Henrick K ( 2007 ) Inference of macromolecular assemblies from crystalline state . 
+J Mol Biol 372 : 774 -- 797 . 
+18 . 
+Derewenda U , Mateja A , Devedjiev Y , Routzahn KM , Evdokimov AG , Derewenda ZS , Waugh DS ( 2004 ) The structure of Yersinia pestis V-antigen , an essential virulence factor and mediator of immunity against plague . 
+Structure 12:301 -- 306 . 
+19 . 
+Zhou NE , Zhu BY , Kay CM , Hodges RS ( 1992 ) The two-stranded alpha-helical coiled-coil is an ideal model for studying protein stability and subunit interactions . 
+Biopolymers 32:419 -- 426 . 
+20 . 
+Kiss RS , Kay CM , Ryan RO ( 1999 ) Amphipathic alphahelix bundle organization of lipid-free chicken apolipo-protein A-I . 
+Biochemistry 38:4327 -- 4334 . 
+21 . 
+Choy N , Raussens V , Narayanaswami V ( 2003 ) Intermolecular coiled-coil formation in human apolipoprotein E C-terminal domain . 
+J Mol Biol 334:527 -- 539 . 
+22 . 
+Mueller CA , Broz P , Muller SA , Ringler P , Erne-Brand F , Sorg I , Kuhn M , Engel A , Cornelis GR ( 2005 ) The V-antigen of Yersinia forms a distinct structure at the tip of injectisome needles . 
+Science 310:674 -- 676 . 
+23 . 
+Blocker AJ , Deane JE , Veenendaal AK , Roversi P , Hodgkinson JL , Johnson S , Lea SM ( 2008 ) What 's the point of the type III secretion system needle ? 
+Proc Natl Acad Sci USA 105:6507 -- 6513 . 
+24 . 
+Gebus C , Faudry E , Bohn YS , Elsen S , Attree I ( 2008 ) Oligomerization of PcrV and LcrV , protective antigens of Pseudomonas aeruginosa and Yersinia pestis . 
+J Biol Chem 283:23940 -- 23949 . 
+25 . 
+Galkin VE , Schmied WH , Schraidt O , Marlovits TC , Egelman EH ( 2010 ) The structure of the Salmonella 
+typhimurium type III secretion system needle shows divergence from the flagellar system . 
+J Mol Biol 396 : 1392 -- 1397 . 
+26 . 
+Benach J , Abashidze M , Seetharaman , J. Zhao L , Janjua H , Cunningham K , Ma LC , Xiao R , Liu J , Baran MC , et al. ( to be published ) Crystal structure of the Pathogenicity island 1 effector protein from Chromo-bacterium violaceum . 
+Northeast Structural Genomics Consortium ( NESGC ) target CvR69 . 
+27 . 
+Lawton DG , Longstaff C , Wallace BA , Hill J , Leary SE , Titball RW , Brown KA ( 2002 ) Interactions of the type III secretion pathway proteins LcrV and LcrG from Yer-sinia pestis are mediated by coiled-coil domains . 
+J Biol Chem 277:38714 -- 38722 . 
+28 . 
+Matson JS , Nilles ML ( 2002 ) Interaction of the Yersinia pestis type III regulatory proteins LcrG and LcrV occurs at a hydrophobic interface . 
+BMC Microbiol 2:16 . 
+29 . 
+Matson JS , Nilles ML ( 2001 ) LcrG-LcrV interaction is required for control of Yops secretion in Yersinia pestis . 
+J Bacteriol 183:5082 -- 5091 . 
+30 . 
+Lee VT , Tam C , Schneewind O ( 2000 ) LcrV , a substrate for Yersinia enterocolitica type III secretion , is required for toxin targeting into the cytosol of HeLa cells . 
+J Biol Chem 275:36869 -- 36875 . 
+31 . 
+Datsenko KA , Wanner BL ( 2000 ) One-step inactivation of chromosomal genes in Escherichia coli K-12 using PCR products . 
+Proc Natl Acad Sci USA 97 : 6640 -- 6645 . 
+32 . 
+Kenjale R , Wilson J , Zenk SF , Saurya S , Picking WL , Picking WD , Blocker A ( 2005 ) The needle component of the type III secreton of Shigella regulates the activity of the secretion apparatus . 
+J Biol Chem 280 : 42929 -- 42937 . 
+33 . 
+Otwinowski Z , Minor W ( 1997 ) Processing of x-ray dif-fraction data collected in oscillation mode . 
+Methods Enzymol 276:307 -- 326 . 
+34 . 
+Evans PR ( 2006 ) Scaling and assessment of data quality . 
+Acta Cryst D 62:72 -- 82 . 
+35 . 
+Collaborative Computational Project N ( 1994 ) The CCP4 suite : programs for protein crystallography . 
+Acta Cryst D 50:760 -- 763 . 
+36 . 
+McCoy AJ , Grosse-Kunstleve RW , Adams PD , Winn MD , Storoni LC , Read RJ ( 2007 ) Phaser crystallographic software . 
+J Appl Cryst 40:658 -- 674 . 
+37 . 
+Cohen SX , Jelloul MB , Long F , Vagin A , Knipscheer P , Lebbink J , Sixma TK , Lamzin VS , Murshudov GN , Perrakis A ( 2008 ) ARP/wARP and molecular replacement : the next generation . 
+Acta Cryst D 64:49 -- 60 . 
+38 . 
+Emsley P , Cowtan K ( 2004 ) Coot : model-building tools for molecular graphics . 
+Acta Crystallogr D Biol Crystallogr 60:2126 -- 2132 . 
+39 . 
+Murshudov GN , Vagin AA , Dodson EJ ( 1997 ) Refinement of macromolecular structures by the maximumlikelihood method . 
+Acta Cryst D 53:240 -- 255 . 
+40 . 
+Vagin AA , Teplyakov A ( 1997 ) MOLREP : an automated program for molecular replacement . 
+J Appl Cryst 30 : 1022 -- 1025 . 
+41 . 
+Lovell SC , Davis IW , Arendall WB , III , de Bakker PI , Word JM , Prisant MG , Richardson JS , Richardson DC ( 2003 ) Structure validation by Ca geometry : phi , psi and Cb deviation . 
+Proteins 50:437 -- 450 . 
+42 . 
+DeLano WL ( 2002 ) The PyMOL molecular graphics system . 
+California : DeLano Scientific . 
+43 . 
+Koradi R , Billeter M , Wuthrich K ( 1996 ) MOLMOL : a program for display and analysis of macromolecular structures . 
+J Mol Graph 14:51 -- 32 .

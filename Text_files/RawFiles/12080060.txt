@@ -1,0 +1,545 @@
+Autoinduction of the ompR response regulator by acid n enterica a 
+shock a d control of the Salmonella
+cid 
+tolerance response 
+Iel Soo Bang ,1 † Jonathon P. Audia ,1 Yong Keun Park2 and John W. Foster1 * 1Department of Microbiology and Immunology , University of South Alabama College of Medicine , Mobile , AL 36688 , USA . 
+2Graduate School of Biotechnology , Korea University , Seoul 136-701 , Korea . 
+Summary
+Salmonella enterica serovar Typhimurium periodically experiences acid stress in a variety of host and non-host environments . 
+An encounter with non-lethal acid stress ( pH > 4 ) induces an assortment of physiological changes , called the acid tolerance response ( ATR ) , that helps the cell to tolerate extreme low pH ( pH 3 ) . 
+These physiological changes differ in log phase and stationary phase cells and are controlled by different regulatory proteins . 
+OmpR is an acid-induced response regulator critical to the stationary phase ATR but not to the log phase ATR . 
+As OmpR also controls the expression of the acid-induced virulence operon ssrAB , acid shock induction of ompR was examined to gain insight into how Salmonella links virulence with survival at extreme acid pH. The results indicate that acid pH induces ompR from a promoter different from that used for basal expression . 
+Transcription from this promoter is repressed by the histone-like protein H-NS and requires OmpR-P for induction . 
+The classic sensor kinase EnvZ and acetyl phosphate collaborate to produce the optimum level of OmpR-P needed for autoinduction . 
+Although OmpR-P is required for acid-induced expression of ompR in wild-type cells , OmpR is not needed for ompR transcription in the absence of H-NS . 
+Thus , the role of OmpR-P in autoinduction is to help to counteract repression by H-NS . 
+This evidence , combined with the ﬁnding that relaxing DNA supercoiling with novobiocin also increased ompR transcription , suggests that acid stress induces ompR by altering local 
+Accepted 7 February , 2002 . 
+* For correspondence . 
+E-mail fosterj @ sungcg.usouthal.edu ; Tel. ( +1 ) 251 660 7111 ; Fax ( +1 ) 251 460 7931 . 
+† Present address : Laboratory Medicine , University of Washington School of Medicine , Seattle , WA , USA . 
+DNA topology, not by changing the phosphorylation status of OmpR.
+Introduction
+The impact of acidic pH on the pathogenesis of Salmonella is profound . 
+For example , the infectious dose for Salmo-nella species , including Salmonella typhi , is signiﬁcantly decreased if stomach acidity is buffered ( Hornick et al. , 1970 ; Blaser and Newman , 1982 ) . 
+This suggests that the better prepared an organism is to tolerate acid , the more likely it will survive passage through the stomach and cause disease . 
+Although stomach acidity is a barrier that must be breached , the less severe acid pH present in the macrophage phagolysosome environment , while not a threat to survival , is an important virulence signal , evoking the synthesis of numerous virulence factors ( Rathman et al. , 1996 ; Cirillo et al. , 1998 ; Beuz et al. , 1999 ) . 
+Early evidence suggesting that low pH plays a critical role in the pathogenesis of Salmonella typhimurium triggered a series of studies to explore how this organism senses and adapts to acid stress ( reviewed by Foster and Moreno , 1999 ; Foster , 1999 ) . 
+The results indicate that the organism undergoes a remarkable molecular response to acid pH that provides tolerance to many different stress conditions . 
+Salmonella typhimurium growing at pH 7.7 ( minimal medium ) die rapidly when shifted to conditions below pH 3.5 ( acid challenge ) . 
+However , adapting organisms to mild acid before severe acid challenge increases tolerance , enabling a 1000-fold improvement in survival over a 2 h period at pH 3 ( Foster and Hall , 1990 ) . 
+This inducible acid survival system , called the acid tolerance response ( ATR ) , requires protein synthesis and a series of acid shock proteins ( ASPs ) induced upon shifts below pH 5 . 
+There are two distinct ATR systems classiﬁed as log phase ATR and stationary phase ATR . 
+Each system is deﬁned by distinctly different sets of ASPs and separate regulators controlling ASP production and acid tolerance ( Foster , 1991 ; 1993 ; Lee et al. , 1994 ; 1995 ) . 
+One system is induced in exponentially growing cells subjected to an acid shock , whereas the other is evident after acid treatment of stationary phase cells . 
+Regulators such as rpoS and fur , required to control log phase ATR ( Lee et al. , 1995 ; Hall and Foster , 1996 ) , have little effect on the stationary phase , acid-inducible ATR ( Lee et al. , 1994 ) . 
+© 2002 Blackwell Science Lt 
+Recently , a brute force screening method was used to identify several MudJ insertion mutants selectively defective in the stationary phase ATR ( Bang et al. , 2000 ) . 
+Although lacking the stationary phase ATR , these mutants exhibited normal log phase acid tolerance . 
+Sequence analysis of the Mu junctions revealed that two of the insertions occurred within the regulatory gene ompR . 
+The ompR product is part of a classic two-component signal transduction system in which EnvZ is the membrane-bound sensor kinase and OmpR is the response regulator ( Mizuno and Mizushima , 1990 ) . 
+EnvZ appears to sense a variety of environmental signals , the most actively studied being osmolarity . 
+Upon sensing a signal , EnvZ phosphorylates itself at histidine residue 243 ( Igo and Silhavy , 1988 ; Roberts et al. , 1994 ) and then transfers the phosphate to aspartate 55 of OmpR ( Delgado et al. , 1993 ) . 
+Phosphorylated OmpR then binds and activates target genes such as those encoding the outer membrane porins OmpC and OmpF . 
+As one might predict , unphosphorylated OmpR is not sufﬁcient to induce the stationary phase ATR , phosphorylation is critical . 
+Mutants lacking two major OmpR phosphodonors , EnvZ and acetyl phosphate , are acid sensitive . 
+However , this phenotype is suppressed by converting OmpR residue D55 ( the phosphorylation site ) to a glutamate . 
+The D55E mutation mimics phosphorylation and results in a constitutively active OmpR protein that does not require phosphorylation to activate target genes . 
+This result indicates that phosphorylated OmpR is required for stationary phase-dependent , acid-induced acid tolerance . 
+We have also demonstrated that OmpR is itself an acid shock protein thought to be induced at the transcriptional level ( Bang et al. , 2000 ) . 
+The model developed from those studies was that acid shock induces the production of OmpR , which , in its phosphorylated state , can trigger the expression of genes needed for acid-induced stationary phase acid tolerance . 
+How acid shock regulated ompR transcription was not examined . 
+Before this study , potential environmental control over ompR expression was not examined extensively even though OmpR is an important Salmonella virulence factor ( Bernardini et al. , 1990 ; Chatﬁeld et al. , 1991 ; Lindgren et al. , 1996 ) . 
+What has been reported is that CRP and cAMP in Escherichia coli affect ompR transcription from four potential start sites ( Huang et al. , 1992 ) . 
+Two of the transcripts are negatively regulated by CRP-cAMP , whereas the other two are positively regulated by this complex . 
+In addition , integration host factor ( IHF ) has been shown to bind to the promoter region and inhibit transcription ( Tsui et al. , 1991 ) . 
+However , the ompR regulatory region in S. typhimurium is unique relative to its E. coli counterpart in both sequence and function ( Liljestrom et al. , 1988 ; Puente et al. , 1991 ; Martinez-Flores et al. , 1999 ) ( Fig. 1 ) . 
+Although E. coli ompR is transcribed from four promoters , two strong and two weak , S. typhimurium ompR is reportedly transcribed from only a single promoter ( Liljestrom et al. , 1988 ; Tsui et al. , 1991 ) . 
+In this paper , we examine the details of ompR induction by low pH and the potential roles of alternative OmpR phosphodonors in acid tolerance . 
+Fig. 1 . 
+Nucleotide sequence of ompR regulatory region of S. typhimurium . 
+Top sequence represents the DNA region upstream from the ompR coding sequence in Salmonella , whereas the bottom sequence is the equivalent region from E. coli . 
+The bold ATG marks the start of the OmpR coding region . 
+Transcriptional start sites for Salmonella and E. coli are shown as bent arrows above and below the sequences respectively . 
+The putative OmpR binding sites ( shaded boxes labelled R1 , R2 and R3 ) and the E. coli Crp binding site ( open box ) are indicated . 
+The location of the Tn10 insertion in JF4485 ( ompR : : Tn10 ) is also indicated . 
+The circled A represents the Salmonella transcriptional start site identiﬁed previously ( Liljestrom et al. , 1988 ) . 
+Results
+Acid, but not osmotic, stress induces ompR
+In E. coli , OmpR is clearly involved in the cellular response to osmotic stress , mediating the reciprocal osmotic control of ompC and ompF ( Hall and Silhavy , 1981 ; Slauch and Silhavy , 1989 ; Tate et al. , 1988 ; Lan and Igo , 1998 ) . 
+In contrast , the Salmonella ompC porin gene is not osmoregulated , even though the expression of both ompC and ompF still require OmpR ( Puente et al. , 1991 ; Martinez-Flores et al. , 1999 ) . 
+Nevertheless , the ompC genes in both organisms are induced by acid in an OmpR-dependent manner ( Thomas and Booth , 1992 ; Foster et al. , 1994 ; Heyde et al. , 2000 ; Sato et al. , 2000 ) . 
+Because of the historical connection between osmolarity and OmpR in E. coli , we examined whether OmpR levels in Salmonella might increase in response to osmolarity as well as they do to acid shock . 
+The results presented in Fig. 2A reveal that OmpR levels increased most notably in acid-shocked stationary phase cells . 
+Although less pronounced , an acid shock induction of OmpR was also demonstrated in log phase cells ( Fig. 2B ) . 
+In contrast , OmpR levels did not increase in response to osmotic shock in exponential ( data not shown ) or in stationary phase cells , but actually decreased relative to untreated cells ( Fig. 2A ) . 
+This decrease occurred with NaCl ( Fig. 2 ) or sucrose as the osmolyte ( data not shown ) . 
+Fig. 2 . 
+Effect of acid and osmotic shock on OmpR induction . 
+A. Wild-type cells ( UK1 ) grown to stationary phase ( 20 h ) were washed and resuspended in either EG pH 7.0 ( 0.5 M NaCl ) medium or EG pH 4.4 medium and incubated for two more hours . 
+B. Exponentially growing cells ( OD600 = 0.4 ) in EG pH 7.7 medium were acidiﬁed by HCl to pH 4.4 , and periodic samples were taken for analysis . 
+Total cellular proteins ( 5 mg ) were electrophoresed in a 10 % SDS -- PAGE gel and subjected to immunoblot analysis . 
+OmpR autoregulates its own expression
+The ompR promoter region in Salmonella contains three potential OmpR binding sites located at -- 33 bp ( R1 ) , -- 97 bp ( R2 ) and -- 138 bp ( R3 ) from the AUG start codon ( Fig. 1 ) . 
+These sites are most homologous to the E. coli OmpR binding site F1 ( 5 cents - ACTTTTGGTTACATATTT ) for ompF , matching at 10 ( R1 ) , 11 ( R2 ) and nine ( R3 ) out of 18 bases . 
+This observation raised the possibility that OmpR controls its own expression . 
+To explore this + hypothesis , ompR / ompR -- lacZ and ompR/ompR -- lacZ merodiploid strains were constructed . 
+As described in Experimental procedures , an ompR -- lacZ operon fusion was placed within the putPA operon on the Salmonella chromosome . 
+The fusion contained 283 bp of DNA upstream of the ompR translational start including all areas suspected of participating in ompR control . 
+The results presented in Fig. 3A measuring b-galactosidase activity ( top ) and protein levels ( Western blot , bottom ) illustrate that b-galactosidase production from the ompR promoter was , indeed , induced by acid pH ( pH 4.4 ) in stationary phase cells . 
+However , a Lac -- MudJ insertion within the native copy of ompR prevented acid induction of the putPA : : Km-ompR -- lacZ construct . 
+The results indicated that OmpR acts as a positive regulator of its own expression . 
+Western blot analysis next revealed that ompR in a strain containing an R2 : : Tn10 insertion was constitutively expressed at a low level and was not acid inducible ( Fig. 3B , bottom ) , a result consistent with autoregulation . 
+This resulting low level of OmpR was not sufﬁcient for the induction of acid tolerance ( Fig. 3B , top , second bar set ) but was adequate to enable the acid induction of ompC in log phase cells ( Fig. 3C ) . 
+Even though the overall level of ompC -- lacZ expression was low in the ompR : : Tn10 mutant , acid pH still induced ompC fourfold compared with 2.5-fold in the ompR + parent . 
+A similar effect was noted in stationary phase , although acid induction of ompC in stationary phase is much less dramatic ( data not shown ) . 
+The data indicate that a minimum level of OmpR is necessary for stationary phase acid tolerance . 
+The data further suggest that the minimum level of OmpR required for acid tolerance is higher than the minimum level needed to regulate at least some OmpR-dependent genes . 
+Acid shock induces ompR transcription from a second promoter
+We next questioned whether acid shock increases transcription from the single ompR promoter identiﬁed previously in Salmonella or induces transcription from a second , previously unrecognized promoter . 
+Primer extension analysis of RNA extracted from stationary phase pH 8-grown cells and from cells shocked at pH 4.4 for 30 min revealed that acid shock triggers expression from a second promoter ( P2 ) located 20 bp upstream of a constitutively expressed promoter ( P1 ) ( Fig. 4 , lanes 5 versus 6 ) . 
+The level of expression from P1 did not change perceptibly , so the increased expression of OmpR transcript in response to acid appears to be determined solely by P2 . 
+Consistent with OmpR serving as an activator of ompR transcription during acid shock , the P2 , but not P1 , transcript was eliminated by an insertion into the OmpR open reading frame ( ORF ; Fig. 4 , lanes 9 and 10 ) . 
+It should be noted that neither of the Salmonella transcript start sites observed in this study ( using minimal glucose media ) matches the previously reported transcript start identiﬁed from cells grown in LB . 
+The published start site is located 2 bases upstream from our P2 transcript ( Liljestrom et al. , 1988 ) . 
+Fig. 3 . 
+Autoregulation of ompR expression . 
+A. b-Galactosidase activity of ompR -- lacZ merodiploid strains ( putPA1303 : : Km-ompR-lac ) . 
+b-Galactosidase activity ( top ) was measured in stationary phase cells grown in EG ( pH 8 ) as described in the legend to Fig. 2A . 
+Open and ﬁlled bars indicate results from unadapted cells and cells adapted at pH 4.4 for 2 h respectively . 
+The strains used were WT ( JF4484 ) and ompR : : MudJLac -- ( JF4534 ) . 
+The same cells were also used for immunoblot analysis with anti-b-galactosidase antibody ( bottom ) . 
+B. Effect of ompR induction on acid tolerance . 
+Top : the survival of stationary phase cells after 2 h ( light bars ) and 4 h ( dark bars ) of pH 3 acid challenge . 
+Unadapted cells ( -- ) ; cells adapted at pH 4.4 for 2 h ( + ) . 
+Bottom : the effect of acid shock on the level of OmpR , visualized by immunoblot . 
+Total cellular proteins were extracted from acid-adapted ( + ) or unadapted ( -- ) stationary phase cells . 
+The strains used were UK1 ( WT ) , ompR : : Tn10 ( JF4485 ) and ompR : : MudJ ( Lac -- , JF2757 ) . 
+C. Transcription of ompC -- lacZ in log phase cells at pH 7.7 versus pH 5.5 . 
+Cells were grown in minimal E glucose media to mid-log phase . 
+Wild type ( JF4178 ) , ompR : : Tn10 ( JF4752 ) . 
+Phosphorylation of OmpR is required for autoinduction Previously , we demonstrated that an EnvZ mutation reduces acid tolerance 10-fold ( Bang et al. , 2000 ) . 
+In contrast , ack pta mutations , which prevent acetyl phosphate production , reduce acid tolerance 500-fold . 
+A constitutively active OmpRD55E protein that mimics phosphorylated OmpR suppresses these phosphodonor-dependent acid tolerance defects . 
+To determine whether the EnvZ and acetyl phosphate effects on acid tolerance resulted from effects on ompR induction , a series of Western blots was performed using anti-OmpR antibody to measure native OmpR levels as well as anti-b-galactosidase antibody to monitor merodiploid ompR -- lacZ expression . 
+The results , shown in Fig. 5A reveal that phosphorylation is required for induction ( Fig. 5A , lanes 1 and 2 versus 7 and 8 ) and that both EnvZ and acetyl phosphate are required for optimum ompR autoinduction ( Fig. 5A , lanes 1 and 2 versus 3 and 4 ) . 
+Curiously , the loss of EnvZ had a greater effect on ompR induction than the loss of acetyl phosphate ( Fig. 5A , lanes 1 and 2 versus 3 and 4 ) . 
+This is in contrast to what was observed previously when measuring stationary phase acid tolerance ( Bang et al. , 2000 ) . 
+The observation that phosphorylation of OmpR was required for autoinduction was then conﬁrmed using the ompR -- lacZ merodiploid fusion strains . 
+Figure 5B pre-sents Western blot results documenting the acid shock production of b-galactosidase from the ompR -- lacZ fusion in wild-type and ack pta envZ mutant strains . 
+Loss of these two major sources of phosphorylation ( EnvZ and acetyl phosphate ) prevented the acid induction of ompR ( Fig. 5B , lanes 7 and 8 ) . 
+Differential contributions of EnvZ and acetyl phosphate to ompR induction were also con-ﬁrmed using the ompR -- lacZ strains ( Fig. 5B , lanes 3 -- 6 ) . 
+Once again , the loss of EnvZ had a greater effect on ompR autoinduction than loss of acetyl phosphate . 
+OmpR binds to its own promoter
+Although the evidence suggests that OmpR can regulate its own expression , OmpR autoregulation could be indirect , with OmpR controlling the expression of a second gene , the product of which directly controls the ompR promoter . 
+Consequently , DNA mobility shift assays were performed to determine whether OmpR actually binds to the ompR promoter region . 
+A 545 bp region of the ompR promoter was radiolabelled and mixed with different amounts of puriﬁed OmpR or OmpR-P to look at ompR promoter binding . 
+The results presented in Fig. 6 clearly demonstrate that phosphorylated OmpR protein binds to the ompR promoter region with a greater afﬁnity than that of unphosphorylated OmpR . 
+As expected , the control fragments did not show a mobility shift under any of the conditions tested . 
+It is interesting to note that the electrophoretic mobility shift assay ( EMSA ) with OmpR-P exhibited an apparent stepwise shifting of the ompR promoter fragment with increasing concentrations of OmpR-P , as opposed to a single shift . 
+The most obvious explanation for this result becomes apparent from analysis of the ompR promoter DNA sequence used in the EMSA , which contains at least three potential OmpR binding sites ( Fig. 1 ) . 
+It is likely that all three sites are bound by OmpR-P when the concentration reaches 8 mM . 
+It is also possible that binding of OmpR-P to one binding site facilitates binding to subsequent sites on the promoter region . 
+In this way , subsequent binding sites remain unoccupied until the ﬁrst site becomes completely saturated , resulting in the observed stepwise shift of the OmpR-P -- ompR promoter DNA complex . 
+Fig. 4 . 
+Primer extension analysis of ompR messages . 
+Wild-type and ompR : : MudJ strains were grown to stationary phase at pH 8 and acid shock adapted for 2 h at pH 4.4 . 
+Unadapted ( -- ) ; adapted ( + ) . 
+Primer extensions were performed on RNA extracts using labelled oligonucleotide 311 . 
+DNA sequence using the same oligo is shown on the left . 
+However , the sequence autoradiograph was reversed to show the sequence of the coding strand . 
+OmpR footprint
+In vitro DNA footprinting experiments were then conducted to determine which of the three potential OmpR binding sites in the ompR promoter are actually bound by OmpR . 
+The results , shown in Fig. 7 , illustrate that OmpR ¬ 
+Fig. 5 . 
+Phosphorylation-dependent OmpR activation . 
+Cells were grown as described in Fig. 2A . 
+A. Immunoblot assay of OmpR protein . 
+WT ( UK1 ) ; envZ ( JF4240 ) ; ack pta ( JF4414 ) , envZ ack pta ( JF4529 ) . 
+5 mg of protein was loaded per well . 
+( -- ) Unadapted ; ( + ) adapted at pH 4.4 for 2 h. B. Immunoblot of b-galactosidase protein produced from an ompR -- lacZ fusion . 
+WT ( JF4484 ) , envZ ( JF4487 ) , ack pta JF4488 ) , ack pta envZ ( JF4530 ) . 
+2 mg of protein was loaded per well . 
+( -- ) Unadapted ; ( + ) adapted at pH 4.4 for 90 min . 
+Fig. 6 . 
+Binding of puriﬁed OmpR protein to the ompR promoter . 
+A radiolabelled ompR promoter DNA fragment and two control fragments ( 5000 c.p.m. ) were incubated with increasing quantities of OmpR or OmpR-P ( as indicated ) for 2 h at room temperature and assayed for an electrophoretic mobility shift . 
+The centre lane contains labelled fragments run in the absence of OmpR/OmpR-P protein ( denoted as 0 mM ) . 
+Shifted and unshifted bands are indicated by arrows . 
+Fig. 7 . 
+DNA footprint analysis of OmpR binding to the ompR promoter region . 
+DNase I protection experiments were carried out on PCR-generated templates ( oligonucleotides 278 and 311 ) . 
+Bottom ( left ) and top ( right ) strands were analysed by labelling PCR products using radiolabelled oligos 311 versus 278 respectively . 
+Lane1 and lane 2 represent T and C sequencing ladders . 
+OmpR-P was added to the DNase I reactions as follows : lane 3 ( none ) , lane 4 ( 10 pmol ) , lane 5 ( 20 pmol ) lane 6 ( 42 pmol ) , lane 7 ( 85 pmol ) , lane 8 ( 170 pmol ) . 
+Predicted OmpR binding sites are represented by single lines next to the autoradiograph and shaded boxes over the sequence . 
+Actual protected bases are indicated by open boxes , whereas hypersensitive bases are marked with an asterisk . 
+Vertical arrows depict the direction of transcription . 
+The bent arrow on the bottom strand indicates the start of transcript P2 . 
+P binds to a region encompassing site R2 ( see Fig. 1 ) on both top and bottom strands . 
+OmpR-P then binds asymmetrically to site R3 on the top strand and site R1 on the bottom strand . 
+Binding to site R3 on the top strands generates a series of DNase I hypersensitive nucleotides on the bottom strand . 
+The results conﬁrm that OmpR-P binds to the predicted sites but also indicate that protection extends beyond those sites . 
+HN-S is a negative regulator of ompR expression A previous report using E. coli demonstrated that cAMP and CRP affected ompR expression ( Huang et al. , 1992 ) . 
+However , the CRP binding site present in E. coli is severely compromised in Salmonella ( Fig. 1 ) . 
+Analysis of OmpR production and ompR -- lacZ expression in crp + and crp mutant strains conﬁrmed that cAMP-CRP does not affect OmpR expression ( data not shown ) . 
+However , another report indicated that the nucleoid protein H-NS , shown to regulate many genes , was a negative regulator of E. coli ompC ( Tsuzuki et al. , 1994 ) . 
+We suspected that H-NS might regulate ompC indirectly , at least in part , by controlling ompR . 
+Figure 8 illustrates that H-NS is , indeed , a negative regulator of ompR . 
+Mutants defective in hns exhibited high , constitutive levels of OmpR not subject to further induction by acid shock ( Fig. 8A , lanes 3 and 4 ) . 
+The table inserted within Fig. 8B shows the effect of an hns mutation on an ompR -- lacZ operon fusion . 
+Consistent with the Western blot results , the hns mutant exhibited constitutively high levels of b-galactosidase , indicating that hns affects ompR expression at the transcriptional level . 
+Acid shock control of ompR expression
+The evidence suggested that H-NS bound to the ompR promoter represses transcription . 
+This could be the result of H-NS hindering OmpR-P binding at the R2 binding site or preventing OmpR interaction with RNA polymerase . 
+Acid shock could alter the ability of H-NS to bind this region , thereby allowing OmpR-P to bind freely and induce expression from P2 . 
+Results presented in Fig. 8B are consistent with this model . 
+However , OmpR-P might only be required to counteract the repressive effect of H-NS . 
+We then asked whether OmpR was required for ompR expression in an hns mutant . 
+To test this hypothesis , expression of ompR -- lac was examined in a hns ompR double mutant . 
+The data presented in Fig. 8B show that , in cells lacking H-NS , OmpR , and thus OmpR-P , was not required for high levels of ompR expression . 
+Thus , the autoinduction role of OmpR-P is most likely to overcome H-NS repression . 
+The next question addressed was whether acid shock might control ompR expression by changing the phosphorylation level of OmpR or , perhaps , by modulating ompR P2 repression by H-NS . 
+Table 1 reveals that the constitutively active ompRD55E gene product did not eliminate acid induction of ompR -- lacZ , arguing against a model predicting that pH only controls ompR expression by changing the phosphorylation level of OmpR ( Table 1 , 
+Fig. 8 . 
+H-NS represses ompR expression . 
+A. Western blot analysis of OmpR was used to examine the effect of hns on the acid shock induction of ompR . 
+Cells were grown and processed as described in Fig. 2 . 
+UK1 ( wild-type SF530 ) , JF2764 ( hns mutant ) . 
+B . 
+The effect of hns on ompR -- lacZ expression . 
+Cells were grown to stationary phase ( pH 8 , 20 h ) and assayed for b-galactosidase activity directly or after a 90 min acid shock . 
+All strains contain the putPA1303 : : Km-ompR -- lac operon fusion . 
+Values represent the mean of triplicate experiments . 
+JF4541 versus JF4542 and 4544 ) . 
+An alternative model states that acid regulates ompR by modulating repression by H-NS . 
+Support for this is provided in Fig. 8B , showing that an hns mutant loses most , if not all , pH control of ompR and produces constitutively high levels of OmpR protein even in the absence of OmpR . 
+Effect of DNA supercoiling on ompR expression The fact that EnvZ-dependent phosphorylation of OmpR is required to induce ompR suggests that acid stress helps OmpR-P to bind the R2 site and overcome the repressive effect of H-NS . 
+One way in which this could be accomplished is through acid stress effects on DNA supercoiling in the ompR promoter region . 
+Previous work from this laboratory has shown that acid stress will change DNA topology by decreasing negative supercoiling , and that these topological changes can alter gene expression ( Karem and Foster , 1993 ) . 
+H-NS has also been implicated as a modulator of DNA supercoiling in some instances ( Hulton et al. , 1990 ) and was shown here to affect ompR expression . 
+Consequently , we tested whether or not altering DNA supercoiling with the DNA gyrase inhibitor novobiocin ( which also decreases negative supercoiling ; Dorman et al. , 1988 ) would affect ompR expression in a manner similar to acid stress . 
+Figure 9 reveals that increasing concentrations of novobiocin progressively increased ompR -- lacZ expression in an ompR + merodiploid . 
+This effect was dependent on the presence of OmpR , as novobiocin only marginally changed ompR -- lacZ expression in an ompR mutant . 
+In contrast to acid , high osmolarity increases negative supercoiling ( Higgins et al. , 1988 ; Karem and Foster , 1993 ) . 
+If the model is correct , then high osmolarity should decrease expression of OmpR . 
+The Western blot presented in Fig. 2A shows that high osmolarity reduced OmpR levels , a result consistent with this model . 
+Discussion
+The EnvZ -- OmpR regulatory system is a paradigm of intracellular signal transduction involving two common families of signalling components , sensor histidine kinases and response regulators , that communicate by phosphotransfer mechanisms ( Mizuno and Mizushima , 1990 ; Forst and Roberts , 1994 ) . 
+EnvZ , a transmembrane protein , is thought to sense various environmental signals such as osmolarity . 
+Upon sensing a signal , EnvZ phosphorylates itself at histidine residue 243 ( Igo and Silhavy , 1988 ; Roberts et al. , 1994 ) and then transfers the phosphate to aspartate 55 of OmpR ( Delgado et al. , 1993 ) . 
+How EnvZ senses environmental change is unclear , as the periplasmic region may not be required ( Leonardo and Forst , 1996 ) . 
+EnvZ also possesses a phosphatase that will remove phosphate from OmpR-P ( Igo et al. , 1989a , b ; Hsing et al. , 1998 ) . 
+The conventional model for OmpR regulation holds that the degree of OmpR phosphorylation governs the expression of ompC and ompF , two genes encoding major outer membrane proteins ( Aiba et al. , 1989 ; Russo and Silhavy , 1993 ) . 
+Phosphorylation of OmpR induces a conformational change in the protein ( Kenney et al. , 1995 ) , but how this change inﬂu-ences OmpR control of ompC and ompF is not clearly understood ( Head et al. , 1998 ) . 
+Conformational reshaping of OmpR may increase DNA-binding afﬁnity to the ompC and ompF promoters and enable OmpR interaction with the a-subunit of RNA polymerase , thereby activating transcription ( Kenney et al. , 1995 ) . 
+Studies have connected OmpR with ﬂagellar expression ( Shin and Park , 1995 ) , cell division ( Pruss , 1998 ) , fatty acid transport ( Higashitani et al. , 1993 ) , microcin synthesis ( Mao and Siegele , 1998 ) , curli ﬁbres ( Romling et al. , 1998 ) and Sal-monella virulence ( Dorman et al. , 1989 ; Bernardini et al. , 1990 ; Chatﬁeld et al. , 1991 ; Lindgren et al. , 1996 ; Lee et al. , 2000 ) . 
+Consistent with OmpR being an acid-induced regulator important to Salmonella pathogenicity , Lee et al. ( 2000 ) have recently shown that OmpR regulates the acid induction of the ssrAB two-component signal transduction system located within the Spi2 pathogenicity island . 
+The results presented here reveal that H-NS represses ompR , and that OmpR protein directly autoregulates its own expression in response to acid shock by overcoming H-NS repression . 
+Direct autoregulation is strongly supported by gel shift and DNA footprint analyses . 
+Figure 7 illustrates that OmpR-P asymmetrically protects the ompR promoter from DNase I digestion in vitro . 
+Binding is centred around the predicted OmpR binding site ( R2 ) , which was protected in both strands . 
+However , site R3 was only protected in the top strand , and site R1 was only protected in the bottom strand . 
+All three ompR sites exhibit about 60 % identity to the ompF F1 site . 
+However , R2 exhibits the highest homology ( 51 % ) to the published consensus sequence for OmpR binding and contains the central GXXAC motif important to binding ( Harlocker et al. , 1995 ) . 
+The ﬁnding that reduced supercoiling imposed by a DNA gyrase inhibitor stimulates OmpR-dependent ompR expression at neutral pH suggests that acid-induced changes in DNA supercoiling around the ompR promoter may inﬂuence OmpR-P binding . 
+In one model , the bound 
+b-Galactosidase activity 
+Strain Relevant genotype pH 8 
+pH 4.4 Fold induction 
+2 550 ± 120 2 540 ± 190 13 700 ± 740 700 ± 54 1 590 ± 100 12 240 ± 960 
+JF4484 JF4541 JF4542 JF4530 JF4543 JF4544 
+3.7 4.0 2.7 1.1 1.1 2.4 
+Wild type 
+690 ± 40 630 ± 35 5100 ± 45 610 ± 48 1410 ± 84 5190 ± 310 
+/ pLAN701 ( ompR + ) / pLAN702 ( ompRD55E ) envZ ack pta envZ ack pta ( ompR + ) envZ ack pta ( ompRD55E ) 
+Values represent the mean of triplicate experiments . 
+Fig. 9 . 
+Effect of novobiocin on ompR -- lacZ expression . 
+Cells ( JF4484 ) containing an ompR -- lacZ operon fusion were grown to late log phase ( OD600 = 0.8 ) , and novobiocin was added at the concentrations indicated . 
+After cultures entered stationary phase ( +12 h ) , cells were assayed for b-galactosidase activity . 
+Squares indicate ompR + ; triangles represent ompR -- . 
+OmpR-P could recruit RNA polymerase ( RNAP ) , thereby overcoming H-NS repression at P2 , whereas in the second model , OmpR-P does not recruit RNAP but displaces H-NS , thereby allowing RNAP free access to the P2 promoter . 
+The fact that OmpR is not needed in the absence of H-NS indicates that OmpR-P is not absolutely required to recruit or activate RNAP , but it may still be needed in that capacity in the presence of H-NS . 
+The data also clearly indicate that phosphorylation of OmpR is important for autoinduction , as an envZ ack pta mutant failed to induce ompR . 
+However , it seems unlikely that acid induction of ompR results from changes in phosphorylation levels , as ompR remains acid inducible in a mutant containing a constitutively active yet nonphosphorylated OmpRD55E . 
+This agrees with the DNA supercoiling model above . 
+Nevertheless , the data in Table 1 suggest that the more OmpR-P there is relative to OmpR , the more autoinduction occurs , as the D55E mutant , which would mimic a very high OmpR-P -- OmpR ratio , expressed eightfold more ompR -- lacZ than did wildtype OmpR at either pH. The results do not distinguish between whether the absolute level of OmpR-P or the OmpR-P -- OmpR ratio determines the extent of auto-induction . 
+The observation that EnvZ is more important than acetyl phosphate for ompR autoinduction does not necessarily mean that EnvZ is the primary phosphodonor . 
+The reason for this is that the phosphatase activity of EnvZ inﬂuences the amount of OmpR-P made from EnvZ or acetyl phosphate and , thus , impacts on the ratio of OmpR-P -- OmpR . 
+The loss of the EnvZ phosphatase in an envZ mutant will change that ratio . 
+Likewise , the relative roles of EnvZ and acetyl phosphate in ompR autoinduction versus acid tolerance are , at ﬁrst glance , paradoxical . 
+EnvZ appears to be most important for ompR autoinduction , but envZ mutants only lower acid tolerance 10-fold . 
+In contrast , acetyl phosphate seems to be less important for ompR expression but affects acid tolerance 500-fold . 
+This differential effect of EnvZ and acetyl phosphate might also reﬂect differences in either the absolute level of OmpR-P or OmpR-P -- OmpR ratios . 
+A further complexity of this system becomes evident with the following question . 
+If EnvZ-dependent phosphorylation of OmpR is required for ompR autoinduction , then why do envZ mutations reduce acid tolerance 10-fold versus the 500-fold reduction seen with ompR mutants ? 
+The simplest explanation for this is that the uninduced level of OmpR produced in an envZ mutant is enough to provide some acid-induced acid tolerance as long as the protein can be phosphorylated by acetyl phosphate . 
+It seems unlikely that acid shock increases AcP-dependent phosphorylation of OmpR , as in vitro studies indicate that mild acid actually decreases this reaction ( L. Kenney , personal communication ) . 
+Consequently , acid stress most likely induces the OmpR-P-dependent ATR genes by some alternative means ( altered DNA topology ? ) . 
+Thus , the developing model for acid shock induction of stationary phase acid tolerance involves a combination of factors . 
+These include ( i ) increasing OmpR levels through autoinduction in which OmpR-P overcomes H-NS repression of ompR ; ( ii ) binding of OmpR-P to speciﬁc ATR genes ; and ( iii ) an undeﬁned effect of acid pH on OmpR-P-dependent ATR gene promoters . 
+These effects could involve changing DNA topology or an acid-induced recon-ﬁguration of DNA-bound OmpR-P . 
+The signiﬁcance of the acid-induced autoregulation of OmpR is in providing increased acid tolerance and , by controlling members of the Spi2 island , survival of Salmonella in the macrophage phagolysosome . 
+Experimental procedures
+Bacterial strains and cultural conditions
+The bacterial strains and plasmids used in this study are listed in Table 2 . 
+Cells were grown routinely in Luria -- Bertani ( LB ) complex media or E minimal medium containing 0.4 % glucose at 37 ∞ C ( Vogel and Bonner , 1956 ) . 
+The following antibiotics -- 1 were used as indicated : ampicillin ( 60 mg ml ) ; kanamycin -- 1 -- 1 ( 40 mg ml ) ; tetracycline ( 10 or 20 mg ml for minimal and rich -- 1 medium respectively ) ; chloramphenicol ( 30 mg ml ) . 
+Genetic manipulations and b-galactosidase assay
+General transduction was performed with P22 HT 105/int , and non-lysogenic segregants were identiﬁed as described previously ( Holley and Foster , 1982 ; Maloy , 1990 ) . 
+Standard molecular biological manipulations were performed according to the procedures described by Sambrook et al. ( 1989 ) and Ausubel et al. ( 1999 ) . 
+The oligonucleotides for polymerase chain reaction ( PCR ) were purchased from Life Technologies . 
+b-Galactosidase assays were performed as described by Miller ( 1992 ) and expressed as nmol min -- 1 optical density unit -- 1 ( 600 nm ) . 
+For acid-adapted samples , cells grown overnight were collected by centrifugation , washed and resuspended in EG media , pH 4.4 , for 90 min before assay . 
+For unadapted samples , overnight cultures were used directly for assay . 
+The data presented represent the means and standard deviations from at least three experiments . 
+Stationary phase acid tolerance assay
+Stationary phase ATR assays were performed with strains grown overnight at 37 ∞ C in E glucose ( EG ) broth containing appropriate antibiotics . 
+To prepare acid-adapted cultures , a 500 ml sample of each strain was harvested , cells were washed in EG broth , pH 4.3 , resuspended to 2 ¥ 108 colonyforming units ( cfus ) ml -- 1 in 3 ml of the same pH broth and incubated for 2 h. For acid challenge , unadapted and acid-adapted cells were washed once in EG broth , pH 3.0 , and resuspended to the same optical density ( 0.4 OD600 ) in 3 ml of EG broth , pH 3.0 ( total manipulation time 5 min ) . 
+Viable counts were measured by dilution and plating on LB agar at timed intervals . 
+Percentage survival was calculated by dividing the cfus at time points after acid challenge by the cfus before acid challenge and multiplying by 100 . 
+Values given are representative of triplicate experiments . 
+Construction of a merodiploid ompR–lacZ operon
+An ompR -- lacZ fusion was constructed and introduced into the put operon of Salmonella using the basic strategy of Elliott ( 1992 ) . 
+An 885 bp EcoRI -- BglII fragment of pOR2 ( EK400 ) containing the ompR promoter region and part of the ompR ORF were cloned into an EcoRI -- BamHI-digested pRS551 ( KmR ) operon fusion vector ( Simons et al. , 1987 ) resulting in pBF407 ( EF694 ) . 
+The plasmid pBF694 was linearized by XhoI digestion and transformed into an E. coli recD strain , EK298 ( CmR KmS ) , containing a KmS-lacZ cassette inserted into a putPA operon that was itself inserted into the trp locus of E. coli . 
+Successful transformants in which recombination occurred between KmR-ompR -- lacZ fusion and the chromosomal KmSCmR-lacZ were identiﬁed as KmR CmS ( Elliott , 1992 ) . 
+Chromosomal insertion of the ompR -- lacZ fusion was veriﬁed by PCR with oligo 278 ( 5 cents - AGC TCT TGT TTG AGT GTTT T-3 cents ) for the ompR promoter and oligo 194 ( 5 cents - AGT ATC GGC CTC AGG AAG ATC-3 cents ) for lacZ . 
+To transfer the ompR -- lacZ fusion from E. coli ( EF695 ) to S. typhimurium , we used zygotic induction of EF695 with EK297 ( F cents lac [ P22HT105 ] ) . 
+A phage lysate generated by co-culture of EK297 and EF695 was used to transduce the restrictionless Salmonella strain SF586 . 
+Successful transductants were isolated and veriﬁed by PCR with oligos 278/194 for the ompR -- lacZ fusion and oligos 278/230 ( 5 cents - TCA TGC TTT AGA ACC GTC CG-3 cents ) to conﬁrm the presence of the wild-type + ompR gene . 
+RNA preparation and primer extension analysis
+Total RNA was extracted by the method described previously ( Bang et al. , 2000 ) . 
+Brieﬂy , 500 ml cultures grown overnight were harvested and reconstituted with 500 ml of lysis solution [ 20 mM sodium acetate ( pH 5.5 ) , 1 mM EDTA , 0.5 % SDS ] . 
+Then , hot ( 65 ∞ C ) phenol was added to the cell lysates and equilibrated for 5 min at 65 ∞ C. Phenol extraction was performed until no visible residue was apparent at the interface . 
+The nucleic acids were precipitated with 0.1 M KCl and three volumes of ethanol at -- 70 ∞ C . 
+After centrifugation , DNA was removed by reconstituting the pellets in 200 ml of RNase-free water containing 50 mM MgCl2 and 4 units of DNase I ( RNase-free ; Promega ) . 
+After additional phenol -- chloroform extraction , the RNA was precipitated and resuspended in RNase-free water . 
+For primer extension analysis of ompR transcription , 20 pmol of oligonucleotide primer 306 ( 5 cents - AAA GATTCACGGGTCAGCAGA ) or 311 ( 5 cents - AGATAACGTTCCA GTAGCGCC ) was 5 cents end labelled with [ g-32P ] - ATP ( 6000 Ci mmol -- 1 ; ICN ) and T4 polynucleotide kinase ( Promega ) ; a 2 pmol primer was incubated with 20 mg of RNA for 90 min at 65 ∞ C . 
+The primer and RNA mixture was cooled at room temperature to 42 ∞ C , and extension was performed with 10 U of avian myeloblastosis virus reverse transcriptase ( Promega ) , 
+Table 2 . 
+Strains and plasmids used . 
+Strains 
+Genotype/description 
+Source 
+E. coli EK112 
+[ XL1-Blue ] recA1 lac -- endA1 gyrA96 thi hsdR17 supE44 relA1/F cents proAB + lacIq lacZdel ( M15 ) [ MC4100 JLS ] F -- araD139 D ( argF-lac ) U169 rpsL150 relA1 ﬁb5301 deoC1 ptsF24 rbsR ( TE1335 ) trpD ( lac ) X74 str-r/F cents 128 ( lac + trp + ) P22HT105/1-int -201 sieA44 + ( TE2680 ) F-l-IN ( rrnD-rrnE ) 1 D ( lac ) X74 rpsL galK2 recD1903 : : Tn10dTc trpDC : : putPA1303 : : [ KmS-CmR-lac ] MC4100 ( EK180 ) / pLAN701 ( OmpREC into pACYC177 ) MC4100 ( EK180 ) / pLAN702 ( OmpR D55E EC into pACYC177 ) EK112/pOR2 [ a 1.2 kb SacI -- EcoRI chromosomal DNA containing greB cents - ompR-envZ cents region cloned into pSK + ] HB101 ( EK76 ) / pRS551 [ KmR ApR lacZ operon fusion vector ] XL-1 Blue ( EK112 ) / pBF407 [ EcoRI -- HincII fragment of pOR2 containing greB cents - ompR promoter cloned into pRS551 ] D ( lac ) X74 rpsL galK2 recD1903 : : Tn10dTc trpDC : : putPA1303 : : KmR-ompR-lacZ ( O ) EK112 [ XL1-Blue ] / pBF421 [ EcoRI -- HincII fragment of pOR2 containing greB cents - ompR promoter cloned into pSK + ] 
+Bullock et al. ( 1987 ) 
+EK180 
+Lan and Igo ( 1998 ) ; Elliott ( 1992 ) 
+EK297 EK298 
+Elliott ( 1992 ) Elliott ( 1992 ) 
+EK370 EK371 EK400 
+Lan and Igo ( 1998 ) Lan and Igo ( 1998 ) This study 
+EF432 EF694 
+Simons et al. ( 1987 ) This study 
+EF695 EF716 
+This study This study 
+S. enterica serovar SF145 SF270 SF479 SF480 SF530 ( c3761 ) SF586 ( JR501 ) 
+Typhimurium LT2 cya : : Tn10a , trpB 
+P. Postma P. Postma 
+LT2 crp : : Tn10 trpB223 LT2 hns-105 : : IS10 oppB255 : : Tn10 hns-105 : : IS10 ( osmZ5 ) oppB5 zde-1710 : : Tn10 [ Tn10 near hns , 80 % ] Wild-type UK1 hsdSA29 hsdSB121 hsdL6 metA22 metE551 trpC2 ilv-452 rpsL120 xyl-404 galE719 H1-6 h2-e , n , x nml ( Fels2 ) -- ﬂa-66 ( CJD359 ) SL1344 ompR : : Tn10 ( TT15265 ) LT2 envZ1005 : : MudP ( Cm ) UK1 rpoS : : Ap UK1 ompR43 : : MudJ UK1 hns-105 : : IS10 zde - 1710 : : Tn10 UK1 cya : : Tn10 UK1 crp : : Tn10 UK1 ompC : : MudJ UK1 envZ : : MudJ UK1 envZ1005 : : MudP UK1 ompR43 : : MudJ ack-408 : : Tn10dTet pta : : Tn10dCm UK1 ack-408 : : Tn10dTet pta : : Tn10dCm SF586 putPA1303 : : KmR-ompR-lacZ ( op ) UK1 putPA1303 : : KmR-ompR-lacZ ( op ) UK1 ompR : : Tn10 ( Tn10 in promoter ) UK1 ompR : : Tn10 putPA1303 : : KmR-ompR-lacZ ( op ) UK1 envZ : : MudP putPA1303 : : KmR-ompR-lacZ ( op ) UK1 ack-109 : : Tn10dTet pta : : Tn10dCm putPA1303 : : KmR-ompR-lacZ ( op ) UK1 cya : : Tn10 putPA1303 : : KmR-ompR-lacZ ( op ) UK1 crp : : Tn10 putPA1303 : : KmR-ompR-lacZ ( op ) UK1 envZ1005 : : MudP ack-408 : : Tn10dTc pta : : Tn10dCm UK1 envZ1005 : : MudP ack-408 : : Tn10dTet pta : : Tn10dCm putPA1303 : : KmR-ompR-lacZ ( op ) UK1 ompR : : Tn10 ompR : : MudJ UK1 putPA1303 : : KmR-ompR-lacZ ( op ) ompR : : Tn10 ompR : : MudJ UK1 putPA1303 : : KmR-ompR-lacZ ( op ) / pLAN701 [ OmpREC ] UK1 putPA1303 : : KmR-ompR-lacZ ( op ) / pLAN702 [ OmpR D55E EC ] UK1 putPA1303 : : KmR-ompR-lacZ ( op ) envZ1005 : : MudP ack-408 : : Tn10dTet pta : : Tn10dCm/pLAN701 [ OmpREC ] UK1 putPA1303 : : KmR-ompR-lacZ ( op ) envZ1005 : : MudP ack-408 : : Tn10dTet pta : : Tn10dCm/pLAN702 [ OmpR D55E EC ] UK1 hns-105 oppB255 : : Tn10 putPA1303 : : KmR-ompR-lacZ ( op ) UK1 rpoS : : Ap hns-105 oppB255 : : Tn10 putPA1303 : : KmR-ompR-lacZ ( op ) UK1 ompR43 : : MudJ putPA1303 : : KmR-ompR-lacZ ( op ) UK1 hns-105 oppB255 : : Tn10 ompR43 : : MudJ putPA1303 : : KmR-ompR-lacZ ( op ) UK1 ompC : : MudJ ompR : : Tn10 
+Hulton et al. ( 1990 ) Hulton et al. ( 1990 ) Curtiss et al. ( 1991 ) Bullas and Ryu ( 1983 ) 
+SF793 SF799 JF2690 JF2757 JF2764 JF2997 JF2998 JF4178 JF4240 JF4353 JF4370 JF4414 JF4483 JF4484 JF4485 JF4486 JF4487 JF4488 JF4489 JF4528 JF4529 JF4530 
+Mills et al. ( 1998 ) Mills et al. ( 1998 ) 
+Bang et al. ( 2000 ) Bang et al. ( 2000 ) SF480 ¥ SF530 SF145 ¥ SF530 SF270 ¥ SF530 Foster et al. ( 1994 ) Bang et al. ( 2000 ) SF799 ¥ SF530 Bang et al. ( 2000 ) Bang et al. ( 2000 ) ( EK297 + EF694 ) ¥ SF586 JF4483 ¥ SF530 SF793 ¥ SF530 JF4484 ¥ JF4485 JF4484 ¥ JF4353 JF4484 ¥ JF4414 JF4484 ¥ JF2997 JF4484 ¥ JF2997 JF4414 ¥ JF4353 JF4484 ¥ JF4353 
+SF793 ¥ JF2757 JF4484 ¥ JF4533 EK370 ¥ JF4484 EK371 ¥ JF4484 EK370 ¥ JF4530 
+JF4533 JF4534 JF4541 JF4542 JF4543 
+EK371 ¥ JF4530 
+JF4544 
+SF479 ¥ JF4484 JF2690 ¥ JF4699 
+JF4699 JF4700 JF4701 JF4738 JF4752 
+JF4534 TcS on fusaric acid SF479 ¥ JF4701 JF4485 ¥ JF4178 
+a. Tn10 confers TcR , MudJ confers KmR . 
+2.5 mM dNTP , and 10 U of RNasin ( Promega ) in reverse transcriptase buffer for 90 min at 42 ∞ C . 
+After extension , any remaining RNA was eliminated by a further 30 min incubation with 40 mg of DNase-free RNase ( Sigma ) . 
+The reaction mixture was extracted with phenol -- chloroform , ethanol precipitated at -- 70 ∞ C and resuspended in the formamide loading buffer . 
+Extension products were analysed by denaturing polyacrylamide ( 8 % ) gel electrophoresis . 
+DNA sequence ladders were prepared using a T7 Sequenase kit ( USB ) with the same primers as those used for primer extension analysis . 
+OmpR phosphorylation
+The OmpR phosphorylation reaction was carried out as described by Qin et al. ( 2001 ) . 
+Brieﬂy , 100 mg of OmpR was mixed with or without 60 mg of glutathione S-transferase ( GST ) - EnvZc11 ( a ` superkinase ' mutant of EnvZ fused to GST ) in modiﬁed buffer A ( 50 mM Tris-HCl , pH 8 , 50 mM KCl , 5 % glycerol , 5 mM MgCl2 , 5 mM CaCl2 , 5 mM ATP ) to a ﬁnal volume of 200 ml and incubated at room temperature for 1 h . 
+The OmpR and OmpR-P used in the electrophoretic mobility shift assay ( EMSA ) were taken directly from this reaction mixture and added to the EMSA mixture ( described below ) . 
+Puriﬁed OmpR protein was a generous gift from L. Kenney ( Oregon Health Services University , USA ) . 
+Before use , OmpR protein was desalted using PD-10 columns ( Amersham ) and eluted in modiﬁed buffer A ( no CaCl2 or ATP ) . 
+Desalted protein was then concentrated using a Centricon YM-10 centrifugal ﬁlter device ( Amicon Bioseparations ) before use in the EMSA . 
+Puriﬁed ( GST ) - EnvZc11 was kindly provided by M. Inouye ( Robert Wood Johnson Medical School , USA ) . 
+Electrophoretic mobility shift assays
+For the gel mobility shift assays , a region of DNA encompassing the ompR promoter region and the OmpR open reading frame ( ORF ) was ampliﬁed by PCR ( Taq polymerase ) using Salmonella enterica strain UK1 chromosomal DNA as template with oligos 178 and 335 ( 5 cents - GGTCGACA CCAGGCTGACGAACAG3 cents ; SalI site underlined ) under the following conditions : 25 cycles of 94 ∞ C for 30 s , 55 ∞ C for 30 s and 72 ∞ C for 90 s with a ﬁnal extension at 72 ∞ C for 5 min . 
+The resulting 1084 bp DNA fragment was puriﬁed ( BioRad Quick Kleen ) and digested with BglII and HincII to produce a 545 bp product containing the ompR promoter region and two other fragments ( a 344 bp fragment containing the OmpR ORF and a 195 bp fragment ) , which serve as internal controls for spurious binding of OmpR . 
+All three DNA fragments were treated with shrimp alkaline phosphatase ( 0.2 U ; USB ) according to the manufacturer 's instructions and end-labelled with T4 polynucleotide kinase ( 5 U ; Promega ) and [ g-32P ] - ATP ( 64 mCi ; ICN ) . 
+Labelled DNA fragments ( ª 5000 c.p.m. ) , varying amounts of OmpR or OmpR-P ( 20 , 40 , 80 , and 160 pmol , prepared as described above ) and 1 mg of sonicated salmon sperm DNA were mixed in the EMSA binding buffer ( 10 mM Tris-HCl , pH 8 , 50 mM KCl , 5 % glycerol , 20 mM MgCl2 , 0.5 mM EDTA pH 8 , 1 mM dithiothreitol ) to a ﬁnal volume of 20 ml and incubated at room temperature for 2 h . 
+The entire reaction mixture was then loaded onto a non-denaturing 5 % ( TBE ) polyacrylamide gel ( Criterion , Bio-Rad ) that had been prerun in 0.5 ¥ TBE buffer for 1 h and separated by electrophoresis ( 60 V for 2 h ) . 
+DNase I footprinting
+The templates used for DNase I footprinting were generated by PCR . 
+32P-labelled oligomer 278 and unlabelled oligomer 311 were used to label the coding strand . 
+Unlabelled oligomer 278 and 32P-labelled oligomer 311 were used to label the non-coding ( template ) strand . 
+Binding reactions for DNase I were identical to the binding reaction conditions used for the gel mobility shift experiments except that glycerol was omitted . 
+DNase I cleavage was done by adding 20 ml of a solution containing 5 mM CaCl2 , 10 mM MgCl2 and 1 unit of RNase-free DNase I ( Promega ) . 
+After 5 min , the DNase I reaction was stopped by the addition of 20 ml of 4 M ammonium acetate and 30 mM EDTA . 
+The DNA was extracted with phenol -- chloroform , precipitated with 95 % ethanol and washed with 70 % ethanol . 
+The pellet was dissolved in formamide loading buffer , heated at 95 ∞ C for 5 min and subsequently analysed by electrophoresis through a denaturing 8 % polyacrylamide gel . 
+Western blot analysis
+OmpR and b-galactosidase protein levels were estimated by Western blot analysis . 
+For OmpR , the method used was essentially as described previously ( Bang et al. , 2000 ) . 
+For b-galactosidase , 2 mg of total protein was electrophoresed through a 7.5 % SDS -- polyacrylamide gel . 
+After transfer to polyvinylidene diﬂuoride ( PVDF ) membranes ( Millipore ) , nonspeciﬁc protein interactions were blocked with 5 % powdered milk in TBST buffer [ 150 mM NaCl , 10 mM Tris-HCl ( pH 8.0 ) , 0.05 % ( v/v ) Tween 20 ] for 2 h at room temperature . 
+The membrane was probed with a 1:2000 dilution of polyclonal antisera against b-galactosidase ( Sigma ) in TBST buffer for 1 h at room temperature . 
+The blots were washed several times in TBST buffer , then incubated with a 1:2000 dilution of secondary anti-mouse immunoglobulin G -- peroxidase conjugate ( Sigma ) in TBST buffer containing 5 % powdered milk for 1 h. Proteins were visualized using a chemiluminescence kit according to the manufacturer 's speciﬁed protocol ( ECL Western blotting detection reagent , Amersham-Pharmacia Biotech ) . 
+After autoradiography , densitometry was used to analyse relative levels of OmpR protein and message using Scion IMAGE software . 
+The data presented are representative of three independent experiments . 
+Acknowledgements
+This work was supported by Public Health Service grant GM48017 from the National Institutes of Health . 
+The authors thank Linda Kenney and Masayori Inouye for supplying OmpR and ( GST ) - EnvZc11 proteins respectively . 
+We also thank L. Kenney for in vitro OmpR phosphorylation data . 
+References 
+Aiba , H. , Nakasai , F. , Mizushima , S. , and Mizuno , T. ( 1989 ) 
+Phosphorylation of a bacterial activator protein , OmpR , by a protein kinase , EnvZ , results in stimulation of its DNA-binding ability . 
+J Biochem ( Tokyo ) 106 : 5 -- 7 . 
+Ausubel , F.M. , Brent , R. , Kingston , R.E. , Moore , D.D. , Seidman , J.G. , Smith , J.A. , and Struhl , K. ( 1999 ) Short Protocols in Molecular Biology . 
+New York : John Wiley and Sons . 
+Bang , I.S. , Kim , B.H. , Foster , J.W. , and Park , Y.K. ( 2000 ) OmpR regulates the stationary-phase acid tolerance response of Salmonella enterica serovar typhimurium . 
+J Bacteriol 182 : 2245 -- 2252 . 
+Bernardini , M.L. , Fontaine , A. , and Sansonetti , P.J. ( 1990 ) The two-component regulatory system ompR-envZ controls the virulence of Shigella ﬂexneri . 
+J Bacteriol 172 : 6274 -- 6281 . 
+Beuz , N.C.R. , Banks , G. , Deiwick , J. , Hensel , M. , and Holden , D.W. ( 1999 ) pH-dependent secretion of SseB , a product of the SPI-2 type III secretion system of Salmo-nella typhimurium . 
+Mol Microbiol 33 : 806 -- 816 . 
+Blaser , M.J. , and Newman , L.S. ( 1982 ) A review of human salmonellosis . 
+I. Infective dose . 
+Rev Infect Dis 4 : 1096 -- 1106 . 
+Bullas , L.R. , and Ryu , J.-I . 
+( 1983 ) Salmonella typhimurium LT2 strains which are r -- m + for all three chromosomally located systems of DNA restriction and modiﬁcation . 
+J Bacteriol 156 : 471 -- 474 . 
+Bullock , W.O. , Fernandez , J.M. , and Short , J.M. ( 1987 ) XL1-blue : a high efﬁciency plasmid transforming RecA Escherichia coli . 
+Biotechniques 5 : 376 -- 379 . 
+Chatﬁeld , S.N. , Dorman , C.J. , Hayward , C. , and Dougan , G. ( 1991 ) Role of ompR-dependent genes in Salmonella typhimurium virulence : mutants deﬁcient in both OmpC and OmpF are attenuated in vivo . 
+Infect Immun 59 : 449 -- 452 . 
+Cirillo , D.M. , Valdivia , R.H. , Monack , D.M. , and Falkow , S. ( 1998 ) Macrophage-dependent induction of the Salmonella pathogenicity island 2 type III secretion system and its role in intracellular survival . 
+Mol Microbiol 30 : 175 -- 188 . 
+Curtiss , R. , III , Porter , S.B. , Munson , M. , Tinge , S.A. , Hassan , J.O. , Gentry-Weeks , C. , and Kelly , S.M. ( 1991 ) Nonrecombinant and recombinant avirulent Salmonella vaccines for poultry . 
+In Colonization Control of Human Bacterial Enteropathogens in Poultry . 
+Blankenship , L.C. , Bailey , J.H.S. , Cox , N.A. , Stern , N.J. , and Meinersmann , R.J. ( eds ) . 
+New York : Academic Press , pp. 169 -- 198 . 
+Delgado , J. , Forst , S. , Harlocker , S. , and Inouye , M. ( 1993 ) Identiﬁcation of a phosphorylation site and functional analysis of conserved aspartic acid residues of OmpR , a transcriptional activator for ompF and ompC . 
+Escherichia coli . 
+Mol Microbiol 10 : 1037 -- 1047 . 
+Dorman , C.J. , Barr , G.C. , Bhriain , N.N. , and Higgins , C.F. ( 1988 ) DNA supercoiling and the anaerobic and growth phase regulation of tonB gene expression . 
+J Bacteriol 170 : 2816 -- 2826 . 
+Dorman , C.J. , Chatﬁeld , S. , Higgins , C.F. , Hayward , C. , and Dougan , G. ( 1989 ) Characterization of porin and ompR mutants of a virulent strain of Salmonella typhimurium : ompR mutants are attenuated in vivo . 
+Infect Immun 57 : 2136 -- 2140 . 
+Elliott , T. ( 1992 ) A method for constructing single-copy lac 
+fusions in Salmonella typhimurium and its application to the hemA-prfA operon . 
+J Bacteriol 174 : 245 -- 253 . 
+Forst , S.A. , and Roberts , D.L. ( 1994 ) Signal transduction by the EnvZ-OmpR phosphotransfer system in bacteria . 
+Res Microbiol 145 : 363 -- 373 . 
+Foster , J.W. ( 1991 ) Salmonella acid shock proteins are required for the adaptive acid tolerance response . 
+J Bacteriol 173 : 6896 -- 6902 . 
+Foster , J.W. ( 1993 ) The acid tolerance response of Salmo-nella typhimurium involves transient synthesis of key acid shock proteins . 
+J Bacteriol 175 : 1981 -- 1987 . 
+Foster , J.W. ( 1999 ) When protons attack ; microbial strategies of acid adaptation . 
+Curr Opin Microbiol 2 : 170 -- 174 . 
+Foster , J.W. , and Hall , H.K. ( 1990 ) Adaptive acidiﬁcation tolerance response of Salmonella typhimurium . 
+J Bacteriol 172 : 771 -- 778 . 
+Foster , J.W. , and Moreno , M. ( 1999 ) Inducible acid tolerance mechanisms in enteric bacteria . 
+In Bacterial Response to pH. Chadwick , D.J. and Cardew , G. ( eds ) . 
+Chichester : John Wiley & Sons , pp. 55 -- 70 . 
+Foster , J.W. , Park , Y.K. , Bang , I.S. , Karem , K. , Betts , H. , Hall , H.K. , and Shaw , E. ( 1994 ) Regulatory circuits involved with pH-regulated gene expression in Salmonella typhimurium . 
+Microbiology 140 : 341 -- 352 . 
+Hall , H.K. , and Foster , J.W. ( 1996 ) The role of fur in the acid tolerance response of Salmonella typhimurium is physiologically and genetically separable from its role in iron acquisition . 
+J Bacteriol 178 : 5683 -- 5691 . 
+Hall , M.N. , and Silhavy , T.J. ( 1981 ) The ompB locus and the regulation of the major outer membrane porin proteins of Escherichia coli K12 . 
+J Mol Biol 146 : 23 -- 43 . 
+Harlocker , S.L. , Bergstrom , L. , and Inouye , M. ( 1995 ) Tandem binding of six OmpR proteins to the ompF upstream regulatory sequence of Escherichia coli . 
+J Biol Chem 270 : 26849 -- 26856 . 
+Head , C.G. , Tardy , A. , and Kenney , L.J. ( 1998 ) Relative binding afﬁnities of OmpR and OmpR-phosphate at the ompF and ompC regulatory sites . 
+J Mol Biol 281 : 857 -- 870 . 
+Heyde , M. , Laloi , P. , and Portalier , R. ( 2000 ) Involvement of carbon source and acetyl phosphate in the external-pH-dependent expression of porin genes in Escherichia coli . 
+J Bacteriol 182 : 198 -- 202 . 
+Higashitani , A. , Nishimura , Y. , Hara , H. , Aiba , H. , Mizuno , T. , and Horiuchi , K. ( 1993 ) Osmoregulation of the fatty acid receptor gene fadL in Escherichia coli . 
+Mol Gen Genet 240 : 339 -- 347 . 
+Higgins , C.F. , Dorman , C.J. , Stirling , D.A. , Waddel , L. , Booth , L.R. , May , G. , and Brewer , E. ( 1988 ) A physiological role for DNA supercoiling in the osmotic regulation of gene expression in Salmonella typhimurium and E. coli . 
+Cell 52 : 569 -- 584 . 
+Holley , E.A. , and Foster , J.W. ( 1982 ) Bacteriophage P22 as a vector for Mu mutagenesis in Salmonella typhimurium : isolation of nad -- lac and pnc -- lac gene fusions . 
+J Bacteriol 152 : 959 -- 962 . 
+Hornick , R.B. , Greisman , S.E. , Woodward , T.E. , DuPont , H.L. , Dawkins , A.T. , and Snyder , M.J. ( 1970 ) Typhoid fever : pathogeneses and immunological control . 
+N Engl J Med 283 : 739 -- 746 . 
+Hsing , W. , Russo , F.D. , Bernd , K.K. , and Silhavy , T.J. ( 1998 ) Mutations that alter the kinase and phosphatase activities 
+of the two-component sensor EnvZ . 
+J Bacteriol 180 : 4538 -- 4546 . 
+Huang , L. , Tsui , P. , and Freundlich , M. ( 1992 ) Positive and negative control of ompB transcription in Escherichia coli by cyclic AMP and the cyclic AMP receptor protein . 
+J Bacteriol 174 : 664 -- 670 . 
+Hulton , C.S.T. , Sieraﬁ , A. , Hinton , J.C.D. , Sidebotham , J.M. , Waddell , L. , Pavitt , G.D. , et al. ( 1990 ) Histone-like protein H1 ( H-NS ) , DNA supercoiling and gene expression in bacteria . 
+Cell 63 : 631 -- 642 . 
+Igo , M.M. , and Silhavy , T.J. ( 1988 ) EnvZ , a transmembrane environmental sensor of E. coli K-12 is phosphorylated in vitro . 
+J Bacteriol 170 : 5971 -- 5973 . 
+Igo , M.M. , Ninfa , A.J. , and Silhavy , T.J. ( 1989a ) A bacterial environmental sensor that functions as a protein kinase and stimulates transcriptional activation . 
+Genes Dev 3 : 598 -- 605 . 
+Igo , M.M. , Ninfa , A.J. , Stock , J.B. , and Silhavy , T.J. ( 1989b ) Phosphorylation and dephosphorylation of a bacterial transcriptional activator by a transmembrane receptor . 
+Genes Dev 3 : 1725 -- 1734 . 
+Karem , K. , and Foster , J.W. ( 1993 ) The inﬂuence of DNA topology on the environmental regulation of a pH-regulated locus in Salmonella typhimurium . 
+Mol Microbiol 10 : 75 -- 86 . 
+Kenney , L.J. , Bauer , M.D. , and Silhavy , T.J. ( 1995 ) Phosphorylation-dependent conformational changes in OmpR , an osmoregulatory DNA-binding protein of Esche-richia coli . 
+Proc Natl Acad Sci USA 92 : 8866 -- 8870 . 
+Lan , C.Y. , and Igo , M.M. ( 1998 ) Differential expression of the OmpF and OmpC porin proteins in Escherichia coli K-12 depends upon the level of active OmpR . 
+J Bacteriol 180 : 171 -- 174 . 
+Lee , A.K. , Detweiler , C.S. , and Falkow , S. ( 2000 ) OmpR regulates the two-component system SsrA-ssrB in Salmonella pathogenicity island 2 . 
+J Bacteriol 182 : 771 -- 781 . 
+Lee , I.S. , Slonczewski , J.L. , and Foster , J.W. ( 1994 ) A lowpH inducible stationary phase acid tolerance response in Salmonella typhimurium . 
+J Bacteriol 176 : 1422 -- 1426 . 
+Lee , I.S. , Lin , J. , Hall , H.K. , Bearson , B. , and Foster , J.W. ( 1995 ) The stationary-phase sigma factor ss ( RpoS ) is required for a sustained acid tolerance response in virulent Salmonella typhimurium . 
+Mol Microbiol 17 : 155 -- 167 . 
+Leonardo , M.R. , and Forst , S. ( 1996 ) Re-examination of the role of the periplasmic domain of EnvZ in sensing of osmolarity signals in Escherichia coli . 
+Mol Microbiol 22 : 405 -- 413 . 
+Liljestrom , P. , Laamanen , I. , and Palva , E.T. ( 1988 ) Structure and expression of the ompB operon , the regulatory locus for the outer membrane porin regulon in Salmonella typhimurium LT-2 . 
+J Mol Biol 201 : 663 -- 673 . 
+Lindgren , S.W. , Stojiljkovic , I. , and Heffron , F. ( 1996 ) Macrophage killing is an essential virulence mechanism of Salmonella typhimurium . 
+Proc Natl Acad Sci USA 93 : 4197 -- 4201 . 
+Maloy , S. ( 1990 ) Experimental Techniques in Bacterial Genetics . 
+Boston , MA : Jones and Bartlett . 
+Mao , W. , and Siegele , D.A. ( 1998 ) Genetic analysis of the stationary phase-induced mcb operon promoter in Escherichia coli . 
+Mol Microbiol 27 : 415 -- 424 . 
+Martinez-Flores , I. , Cano , R. , Bustamante , V.H. , Calva , E. , and Puente , J.L. ( 1999 ) The ompB operon partially deter ¬ 
+mines differential expression of OmpC in Salmonella typhi and Escherichia coli . 
+J Bacteriol 181 : 556 -- 562 . 
+Miller , J.H. ( 1992 ) A Short Course in Bacterial Genetics . 
+A Laboratory Manual and Handbook for Escherichia coli and Related Bacteria . 
+Cold Spring Harbor , NY : Cold Spring Harbor Laboratory Press . 
+Mills , S.D. , Ruschkowski , S.R. , Stein , M.A. , and Finlay , B.B. ( 1998 ) Trafﬁcking of porin-deﬁcient Salmonella typhimu-rium mutants inside HeLa cells : ompR and envZ mutants are defective for the formation of Salmonella-induced ﬁlaments . 
+Infect Immun 66 : 1806 -- 1811 . 
+Mizuno , T. , and Mizushima , S. ( 1990 ) Signal transduction and gene regulation through the phosphorylation of two regulatory components : the molecular basis for the osmotic regulation of the porin genes . 
+Mol Microbiol 4 : 1077 -- 1082 . 
+Pruss , B.M. ( 1998 ) Acetyl phosphate and the phosphorylation of OmpR are involved in the regulation of the cell division rate in Escherichia coli . 
+Arch Microbiol 170 : 141 -- 146 . 
+Puente , J.L. , Verdugo-Rodriguez , A. , and Calva , E. ( 1991 ) Expression of Salmonella typhi and Escherichia coli OmpC is inﬂuenced differently by medium osmolarity ; depend-ence on Escherichia coli OmpR . 
+Mol Microbiol 5 : 1205 -- 1210 . 
+Qin , L. , Yoshida , T. , and Inouye , M. ( 2001 ) The critical role of DNA in the equilibrium between OmpR and phosphorylated OmpR mediated by EnvZ in Escherichia coli . 
+Proc Natl Acad Sci USA 98 : 908 -- 913 . 
+Rathman , M. , Sjaastad , M.D. , and Falkow , S. ( 1996 ) Acidiﬁcation of phagosomes containing Salmonella typhimurium in murine macrophages . 
+Infect Immun 64 : 2765 -- 2773 . 
+Roberts , D.L. , Bennett , D.W. , and Forst , S.A. ( 1994 ) Identiﬁcation of the site of phosphorylation on the osmosensor , EnvZ , of Escherichia coli . 
+J Biol Chem 269 : 8728 -- 8733 . 
+Romling , U. , Bian , Z. , Hammar , M. , Sierralta , W.D. , and Normark , S. ( 1998 ) Curli ﬁbers are highly conserved between Salmonella typhimurium and Escherichia coli with respect to operon structure and regulation . 
+J Bacteriol 180 : 722 -- 731 . 
+Russo , F.D. , and Silhavy , T.J. ( 1993 ) The essential tension : opposed reactions in bacterial two-component regulatory systems . 
+Trends Microbiol 1 : 306 -- 310 . 
+Sambrook , J. , Fritsch , E.F. , and Maniatis , T. ( 1989 ) Molecular Cloning : a Laboratory Manual . 
+Cold Spring Harbor , NY : Cold Spring Harbor Laboratory Press . 
+Sato , M. , Machida , K. , Arikado , E. , Saito , H. , Kakegawa , T. , and Kobayashi , H. ( 2000 ) Expression of outer membrane proteins in Escherichia coli growing at acid pH. Appl Environ Microbiol 66 : 943 -- 947 . 
+Shin , S. , and Park , C. ( 1995 ) Modulation of ﬂagellar expression in Escherichia coli by acetyl phosphate and the osmoregulator OmpR . 
+J Bacteriol 177 : 4696 -- 4702 . 
+Simons , R.W. , Houman , F. , and Kleckner , N. ( 1987 ) Improved single and multicopy lac-based cloning vectors for protein and operon fusions . 
+Gene 53 : 85 -- 96 . 
+Slauch , J.M. , and Silhavy , T.J. ( 1989 ) Genetic analysis of the switch that controls porin gene expression in Escherichia coli K-12 . 
+J Mol Biol 210 : 281 -- 292 . 
+Tate , S.-i. , Kato , M. , Nishimura , Y. , Arata , Y. , and Mizuno , T. ( 1988 ) Location of DNA-binding segment of a positive regulator , OmpR , involved in activation of the ompF and ompC genes of Escherichia coli . 
+FEBS Lett 242 : 27 -- 30 . 
+Thomas , A.D. , and Booth , I.R. ( 1992 ) The regulation of expression of the porin gene ompC by acid pH. Microbiology 138 : 1829 -- 1835 . 
+Tsui , P. , Huang , L. , and Freundlich , M. ( 1991 ) Integration host factor binds speciﬁcally to multiple sites in the ompB promoter of Escherichia coli and inhibits transcription . 
+J Bacteriol 173 : 5800 -- 5807 . 
+Tsuzuki , M. , Aiba , H. , and Mizuno , T. ( 1994 ) Gene activation by the Escherichia coli positive regulator , OmpR . 
+Phos-phorylation-independent mechanism of activation by an OmpR mutant . 
+J Mol Biol 242 : 607 -- 613 . 
+Vogel , H.J. , and Bonner , D.M. ( 1956 ) Acetylornithase of Escherichia coli : partial puriﬁcation and some properties . 
+J Biol Chem 218 : 97 -- 106 .

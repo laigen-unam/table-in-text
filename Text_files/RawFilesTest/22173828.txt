@@ -1,0 +1,242 @@
+Arch Microbiol ( 2012 ) 194:453 -- 460 DOI 10.1007 / s00203-011-0779-5 
+ORIGINAL PAPER 
+Characterization of the BaeSR two-component system from Salmonella Typhimurium and its role in ciproXoxacin-induced mdtA expression
+P. Guerrero · B. Collao · E. H. Morales · I. L. Calderón · F. Ipinza · S. Parra · C. P. Saavedra · F. Gil 
+Abstract Two-component systems are one of the most prevalent mechanisms by which bacteria sense , respond and adapt to changes in their environment . 
+The activation of a sensor histidine kinase leads to autophosphorylation of a conserved histidine residue followed by transfer of the phosphoryl group to a cognate response regulator in an aspartate residue . 
+The search for antibiotics that inhibit molecular targets has led to study prokaryotic two-component systems . 
+In this study , we characterized in vitro and in vivo the BaeSR two-component system from Salmonella Typhimurium and evaluated its role in mdtA regulation in response to ciproXoxacin treatment . 
+We dem-onstrated in vitro that residue histidine 250 is essential for BaeS autophosphorylation and aspartic acid 61 for BaeR transphosphorylation . 
+By real-time PCR , we showed that mdtA activation in the presence of ciproXoxacin depends on both members of this system and that histidine 250 of BaeS and aspartic acid 61 of BaeR are needed for this . 
+Moreover , the mdtA expression is directly regulated by binding of BaeR at the promoter region , and this interaction is enhanced when the protein is phosphorylated . 
+In agreement , a BaeR mutant unable to phosphorylate at aspartic acid 61 presents a lower aYnity with the mdtA promoter . 
+Received: 30 September 2011 / Revised: 21 November 2011 / Accepted: 2 December 2011 / Published online: 16 December 2011 © Springer-Verlag 2011
+Keywords Two-component system · BaeSR · CiproXoxacin
+Introduction
+In prokaryotes , two-component systems ( TCSs ) transduce and interpret speciWc signals such as pH , temperature , osmolarity , light , nutrients , ions and toxins to regulate a wide range of processes including motility , virulence , metabolism , developmental switches , antibiotic resistance and stress responses ( Batchelor and Goulian 2003 ; Cai and Inouye 2002 ; Stock et al. 2000 ) . 
+Most of bacterial TCS sensors are membrane-associated histidine kinases ( HK ) ( Cock and Whitworth 2007 ; Grebe and Stock 1999 ; Laub and Goulian 2007 ) that undergo autophosphorylation at a conserved histidine ( His ) residue in response to environmental signal ( s ) . 
+Subsequently , the His-bound phosphoryl group is transferred to an aspartic acid ( Asp ) residue located at the cognate response regulator ( RR ) . 
+Once activated , the RR binds to target promoter regions and therefore controls gene expression in response to external signals ( Batchelor and Goulian 2006 ; Koretke et al. 2000 ) . 
+In E. coli , the baeSR genes were Wrst described as putative members of a TCS ( Nagasawa et al. 1993 ) involved in drug resistance by regulating the expression of genes that codify for drug transporters ( Baranova and Nikaido 2002 ; Nagakubo et al. 2002 ) and participating in response to envelope stress ( Leblanc et al. 2011 ) . 
+The baeSR genes are part of the yegMNOBbaeSR operon . 
+It is likely that both YegN ( MdtB ) and YegO ( MdtC ) produce a complex ( es ) with the membrane fusion protein family member YegM ( MdtA ) and pump out novobiocin and deoxycholate ( Baranova and Nikaido 2002 ) , indole ( Hirakawa et al. 2005 ) and condensed tannins ( Zoetendal et al. 2008 ) . 
+The response regulator BaeR modulates the expression of mdtABC and acrD , which encode multidrug exporter systems ( Hirakawa et al. 2005 ) . 
+BaeR overexpression in a acrB E. coli strain confers resistance against - lactams , novobiocin , sodium dodecyl sulfate and bile salts ( Baranova and Nikaido 2002 ) . 
+However , the physiological role of the BaeSR TCS remains unknown . 
+In this context , Nishino et al. ( 2005 ) hypothesized that the BaeSR system controls the expression of a wide range of genes . 
+Moreover , in Salmonella enterica serovar Typhimurium ( S. Typhimurium ) , this system was reported to increase multidrug ( Nishino et al. 2007 ) and metal resistance ( Yamamoto et al. 2008 ) through the induction of drug eZux systems , and Hu et al. ( 2005 ) described that a S. Typhimurium baeR knockout mutant showed a more-than-fourfold reduction in ceftriaxone resistance , suggesting that baeR plays a role in the resistance to this antibiotic . 
+The emergence and spread of antimicrobial-resistant Salmonella enterica , particularly those that are resistant to several antimicrobial agents , are a major public health concern . 
+Multidrug resistance in salmonellae can be conferred by acquisition of multiple speciWc antibiotic resistance genes carried on plasmids and integrons or from mutations in chromosomal genes that reduce accumulation of multiple antibiotics ( Ricci and Piddock 2009 ) . 
+In this study , we characterized in vitro and in vivo the BaeSR two-component system from S. Typhimurium and evaluated its role in mdtA regulation in response to ciproXoxacin treatment . 
+We demonstrated in vitro that His 250 residue is essential for BaeS autophosphorylation and Asp 61 residue for BaeR transphosphorylation . 
+Moreover , we show that both members of this system are required for mdtA activation under ciproXoxacin treatment and conWrmed that His 250 from BaeS and Asp 61 from BaeR are required , even though BaeR binds speciWcally to the mdtA promoter with more aYnity when the protein is phosphorylated . 
+Communicated by Jan-Roelof van der Meer . 
+P. Guerrero and B. Collao were contributed equally to this work . 
+P. Guerrero · B. Collao · E. H. Morales · I. L. Calderón · F. Ipinza · S. Parra · C. P. Saavedra · F. Gil ( & ) Laboratorio de Microbiología Molecular , Departamento de Ciencias Biológicas , Facultad de Ciencias Biológicas , Universidad Andres Bello , República 217 , Santiago , Chile e-mail : fernandogil@unab.cl 
+Methods
+Bacterial strains and culture conditions
+The strains used were derivatives of S. Typhimurium 14028s . 
+Cells were grown at 37 °C , with shaking at 200 rpm in Luria -- Bertani ( LB ) broth containing 10 g of bacto-tryptone , 10 g of bacto-yeast extract and 5 g of NaCl per liter . 
+The antibiotic ampicillin ( 100 g ml ¡ 1 ) was used for the selection of plas-mid-containing cells , arabinose 1 mM for pBAD-TOPO and IPTG 1 mM for pET101 TOPO induction . 
+Gene disruption
+Gene disruption was performed according to the method described by Datsenko and Wanner ( 2000 ) , and the resistance genes were eliminated by using the helper plasmid pCP20 encoding the FLP recombinase ( Table 1 ) . 
+Table 1 Bacterial strains used in this study 
+Strain Relevant characteristic ( s ) or genotype 
+Source 
+S. Typhimurium 14028s 
+Wild-type strain baeS : : FRT 
+G. Mora This work 
+baeS baeS/pBAD-baeS baeS/pBAD-baeS H250A 
+baeS strain complemented with pBAD vector carrying the S. Typhimurium baeS gene baeS strain complemented with pBAD vector carrying the S. Typhimurium baeS gene mutated at position 250 
+This work This work 
+This work This work This work 
+baeR 
+baeR : : FRT 
+baeR gene 
+baeR strain complemented with pBAD vector carrying the S. Typhimurium baeR strain complemented with pBAD vector carrying the S. Typhimurium baeR gene mutated at position 61 
+baeR/pBAD-baeR 
+baeR/pBAD-baeR D61A 
+E. coli Top10 
+F ¡ mcrA ( mrr-hsdRMS-mcrBC ) 80lacZ M15 lacX74 nupG recA1 araD139 ( ara-leu ) 7,697 galE15 galK16 rpsL ( StrR ) endA1 ¡ F ¡ ompT gal dcm lon hsdS ¡ B B ( rB m ¡ ) ( DE3 [ lacI lacUV5-T7 gene 1 ind1 sam7 nin5 ] ) BL21 ( DE3 ) transformed with the pET-TOPObaeS vector carrying the S. Typhimurium baeS gene BL21 ( DE3 ) transformed with the pET-TOPObaeS vector carrying the S. Typhimurium baeS gene mutated at position 250 BL21 ( DE3 ) transformed with the pET-TOPObaeS vector carrying the S. Typhimurium baeR gene BL21 ( DE3 ) transformed with the pET-TOPObaeS vector carrying the S. Typhimurium baeR gene mutated at position 61 
+Invitrogen 
+BL21 ( DE3 ) 
+Invitrogen This work 
+BL21 pET-TOPObaeS 
+This work 
+BL21 pET-TOPObaeS H250A 
+This work 
+BL21 pET-TOPObaeR 
+This work 
+BL21 pET-TOPObaeR D61A 
+The S. Typhimurium baeS and baeR genes were ampliWed by PCR , cloned into pBAD-TOPO TA ® and transformed into E. coli TOP10 following the manufacturer 's instructions ( Invitrogen ) . 
+Primer sequences were ATGAAAG TCTGGCGGCCCGG ( pBAD-baeSFw ) ; TACTTCTCTCT GTAAATCGC ( pBAD-baeSRv ) ; ATGACTGAATTACCC ATTGA ( pBAD-baeRFw ) and TACCAGGCGACACGCA TCCG ( pBAD-baeRRv ) . 
+The recombinant plasmids pBADbaeS or pBAD-baeR were used for complementation and site-directed mutagenesis experiments . 
+For overexpression and protein puriWcation , the S. Typhimurium baeS and baeR genes were ampliWed by PCR , cloned into pET101-TOPO and transformed into E. coli BL21 ( DE3 ) following the manufacturer 's instructions ( Invitrogen ) . 
+Primer sequences were CACCATGAAAGTCTGGCGGCCCGG ( pETbaeSFw ) ; TACTTCTCTCTGTAAATCGC ( pET-baeSRv ) ; CACCATGACTGAATTACCCATTGA ( pET-baeRFw ) and TACCAGGCGACACGCATCCG ( pET-baeRRv ) . 
+Site-directed mutagenesis
+BaeS H250A and BaeR D61A mutations were generated with the QuickChange-Site-Directed Mutagenesis kit ( Stratagene , USA ) using primers BaeSH250AFw ( ATGGCGGA TATTTCCGCCGAACTGCGCACGCCG ) , BaeSH250ARv ( CGGCGTGCGCAGTTCCGGGGAAATATCCGCCAT ) , BaeRD61AFw ( GATCTGATCCTGCTGGCCCTGATGC TGCCGGGT ) and BaeRD61ARv ( ACCCGGCAGCATC AGGGCCAGCAGGATCAGATC ) according to the manufacturer 's instructions using pBAD-baeS , pET-baeS , pBADbaeR and pET-baeR as parental plasmids , respectively . 
+Mutations were conWrmed by sequencing ( Macrogen ) . 
+Protein puriWcation
+Frozen E. coli BL21 ( DE3 ) carrying pET-baeS or pETbaeR were suspended in 3 ml of lysis buVer containing 100 mM phenylmethylsulfonyl Xuoride . 
+After addition of 80 l of lysozyme ( 10 mg ml ¡ 1 ) , the cell suspension was stored on ice for 30 min and lysed by sonication . 
+After centrifugation at 15,000 rpm for 20 min at 4 °C , the supernatant was mixed with 2 ml of nickel -- sepharose suspension ( GE Healthcare ) and loaded onto a column . 
+After washing with 10 ml of lysis buVer , the His-tagged BaeS , BaeS H250A , BaeR or BaeR D61A proteins were then eluted with 2 ml each of lysis buVer containing 0.05 , 0.1 or 0.5 M imidazole . 
+The recovery and purity of proteins in each eluate was checked by SDS-PAGE . 
+The puriWed protein fractions were pooled and dialyzed against storage buVer ( 50 mM Tris -- HCl , pH 7.6 , 4 °C , 200 mM KCl , 10 mM MgCl2 , 0.1 mM EDTA , 1 mM dithiothreitol and 50 % glycerol ) . 
+The protein concentration was determined by the Coomassie Plus Protein Assay Reagent ( Thermo ScientiWc ) , and the purity was checked by SDS-PAGE . 
+Cloning and overexpression of baeS and baeR 
+BaeS autophosphorylation
+The autophosphorylation reaction was performed according to Yamamoto et al. ( 2005 ) . 
+PuriWed BaeS was diluted to 1 M in kinase buVer ( 50 mM Tris -- HCl , pH 8.0 , 37 °C , 50 mM KCl , and 10 mM MgCl2 ) , and the phosphorylation reaction was initiated by adding 1 Ci of [ -32 P ] ATP at a Wnal concentration of 2.5 M . 
+The reaction was carried out at 37 °C for various times and terminated by adding an equal volume of sample buVer ( 120 mM Tris -- HCl , pH 6.8 , 4 °C , 20 % glycerol , 4 % SDS , 10 % - mercaptoethanol and 0.1 % bromphenol blue ) . 
+After SDS-PAGE , the gel was washed with 45 % methanol , 10 % acetic acid , dried and exposed onto an image plate . 
+Transphosphorylation of BaeR by BaeS
+The transphosphorylation reaction was performed according to Yamamoto et al. ( 2005 ) . 
+Phosphorylated BaeS ( 1 M ) was mixed on ice with a mixture of BaeR ( 1 M ) and an excess of cold ATP ( 0.5 mM ) and then incubated at 37 °C for various times . 
+The reaction was terminated by adding an equal volume of sample buVer . 
+The samples were analyzed by SDS-PAGE . 
+The gel was washed with 45 % methanol , 10 % acetate , dried and exposed onto an image plate . 
+RNA isolation and mdtA mRNA detection
+An overnight bacterial culture ( wild-type and TCS mutant strains ) was diluted 100-fold with fresh LB medium and grown at 37 °C with shaking up to an OD600 t 0.5 . 
+The culture was split into two 10 ml aliquots , and one of them was incubated with 13 ng ml ¡ 1 ciproXoxacin ( Applichem ) . 
+Cells were grown at 37 °C , and 4 ml aliquots were withdrawn 20 min after ciproXoxacin exposure . 
+Total RNA was extracted using the GenElute Total RNA puriWcation kit ( Sigma ) following the manufacturer 's instructions . 
+Total RNA was treated with 2 U of DNase I to remove trace amounts of DNA . 
+cDNA synthesis was carried out at 37 °C for 1 h in 25 ml of a mixture that contained 2.5 pmol of the speciWc primers , 10 l of template RNA ( 5 g ) , 0.2 mM dNTPs , 1 l of nuclease-free water and 4 l of 5 # buVer [ 250 mM Tris -- HCl pH 8.3 , 375 mM KCl , 15 mM MgCl2 , 10 mM DTT , 40 U of RNasin and 200 U of MMLV reverse transcriptase ( Invitrogen ) ] . 
+Relative quantiWcation of mdtA transcript levels was performed by real-time RT-PCR ( qRT-PCR ) using the Brilliant II SYBR Green QPCR Master Reagent kit and the Mx3000P detection system ( Stratagene ) . 
+16S rRNA levels were used for normalization . 
+The qRT-PCR mixture ( 20 l ) contained 1 l of cDNA template , 120 nM of each primers [ TTCTGGTTCTGGCATAGCCG ( mdtARTFw ) and TAACGGTATTCGCGGCGGTC ( mdtARTRv ) for the mdtA gene ; GTAGAATTCCAGGTGTAGCG ( 16SFw ) and TTATCACTGGCAGTCTCCTT ( 16SRv ) for the 16S rRNA gene ( 16S ) ] and 10 l of ROX ( 1:200 ) . 
+The qRT-PCR was performed under the following conditions : 10 min at 95 °C followed by 40 cycles of 30 s at 95 °C , 45 s at 53 °C and 30 s at 72 °C , followed by a melting cycle from 53 to 95 °C to check for ampliWcation speciWcity . 
+A previous standard quantiWcation curve with serial dilutions of RT-PCR products was constructed for each gene to calculate the ampliWcation eYciency . 
+These values were used to obtain the ratio between the gene of interest and the expression of the 16S rRNA gene as described by PfaZ ( 2001 ) . 
+All experiments were performed in three biological and technical replicates . 
+The graphics were performed using the Graphpad Prism 5 software . 
+Gel electrophoretic mobility shift assay (EMSA)
+Non-radioactive EMSA was performed according to the protocol described by De la Cruz et al. ( 2007 ) . 
+The probes were obtained by PCR using speciWc primers ( mdtApromFw : GAT GATTTCGGCTCCGTCAC and mdtApromRv : CGGTCGG GCTTTCGCTACGG ) for promoter region ampliWcation ( 600 bp upstream to ATG ) . 
+Each promoter and negative control DNA ( 199 bp from mdtA-codifying region , ampliWed using the mdtARTFw and mdtARTRv primers ) ( '' 2 ng ml ¡ 1 ) was mixed with increasing concentrations of puriWed BaeR , BaeR-P ( phosphorylated BaeR ) , BaeR D61A or BaeR D61A-P ( phosphorylated BaeR D61A ) in the presence of binding buVer ( 10 mM Tris -- Cl [ pH 7.5 ] , 50 mM KCl , 5 mM MgCl2 , 1 mM dithiothreitol , 2.5 % glycerol , 0.05 % NP-40 ) . 
+For the preparation of BaeR-P and BaeR D61A-P used in DNA binding studies , a standard phosphorylation reaction was used in which the proteins ( 60 g ml ¡ 1 , Wnal concentration ) were incubated for 1 h at 30 °C in a buVer containing 100 mM Tris -- Cl ( pH 7 ) , 10 mM MgCl , 125 mM KCl and 50 mM 2 disodium carbamyl phosphate ( Sigma ) ( Lynch and Lin , 1996 ) . 
+The mixture was incubated for 30 min at room temperature and loaded on a native 6 % polyacrylamide gel in 1 # Tris -- borate -- EDTA buVer at 150 mV for 1.5 h . 
+The DNA bands were visualized by ethidium bromide staining . 
+Results
+PuriWcation of TCS components
+For in vitro analysis of HK -- RR interaction , 6 # His-tagged BaeR and BaeS from S. Typhimurium were puriWed . 
+The sensor HK is generally composed of two domains , the amino-terminal membrane-associated domain for monitoring an external signal ( s ) and the carboxyl-terminal cytoplasmic domain with catalytic function of His phosphorylation . 
+We puriWed the cytoplasmic BaeS domain , which retains the autophosphorylation and transphosphorylation activity to the cognate RR BaeR in the absence of the eVector-binding domain as described to this system in E. coli ( Yamamoto et al. 2005 ) . 
+The coding sequences for the carboxyl-termi-nal domain for BaeS with the 6 # His tag sequence at the carboxyl terminus were PCR-ampliWed and inserted into pET101 to generate the respective recombinant plasmid . 
+BaeS and BaeS H250A autophosphorylation
+PuriWed BaeS and BaeS H250A from S. Typhimurium were subjected to autophosphorylation in the presence of radio-active ATP . 
+As shown in Fig. 1 , puriWed BaeS was able to autophosphorylate , reaching the highest level of phosphor-ylation after 15 min . 
+After this point , the phosphorylation level did not increase . 
+In parallel , BaeS H250A was incubated in the same conditions as the native protein ; however , autophosphorylation was not observed ( data not shown ) at any times , indicating that His 250 residue is required for BaeS autophosphorylation in vitro . 
+BaeR transphosphorylation by BaeS
+To evaluate whether BaeS was able to transphosphorylate BaeR , a Wxed amount of BaeS was incubated with [ -32 P ] ATP , allowed to autophosphorylate until saturation ( see Fig. 1 ) and then mixed with an equal molar amount of BaeR and an excess amount of unlabeled ATP ( 100-fold molar excess over the radiolabeled ATP ) . 
+BaeR phosphorylation level was estimated by detecting both the increase in BaeR-associated 32P radioactivity and the decrease in BaeS-associated radioactivity ( Fig. 2a ) . 
+The maximum level of transphosphorylation was observed within 15 min . 
+As a control , BaeR protein was incubated in the presence of [ -32 P ] ATP for 30 min , and no phosphorylation was observed , conWrming that the presence on BaeS -- P is fundamental for transphosphorylation to BaeR . 
+For the case of 
+Fig. 1 In vitro BaeS autophosphorylation . 
+One micromolar of puriWed BaeS was incubated in kinase buVer containing 1 Ci of 32 [ - P ] ATP at a Wnal concentration of 2.5 M at 37 °C for the indicated times ( 30 s -- 30 min ) . 
+The autophosphorylation reaction was terminated by adding an equal volume of 2 # sample buVer . 
+The reaction mixture was directly subjected to SDS-PAGE . 
+After electrophoresis , the gel was washed , dried and exposed onto an image plate 
+BaeS -- BaeR D61A , transphosphorylation was not observed as indicated by the absence of BaeR radioactivity , indicating that Asp 61 residue is critical in phosphate transfer ( Fig. 2b ) . 
+Detection of mdtA mRNA after ciproXoxacin treatment
+BaeS and BaeR are members of a TCS and are suggested to be part of an operon being the last two genes of a cluster of 6 genes , whose expression is positively regulated by BaeR in multidrug and metals treatment ( Nishino et al. 2007 ) . 
+For this reason , mdtA , the Wrst gene of the operon , was used as a positive control to characterize BaeSR functionality . 
+The mdtA mRNA was detected in a wild-type , baeR and baeS strain . 
+As shown in Fig. 3a , mdtA mRNA levels were dramatically decreased in both baeR and baeS with respect to the wild-type strain and restored in the complemented strain . 
+When ciproXoxacin was added , mdtA transcript levels were increased about tenfold in a WT strain ( Fig. 3b ) ; however , in the baeS and baeR strains treated with ciproXoxacin , mdtA levels showed no increase and remained lowered . 
+When the baeS and baeR strains were complemented in trans with pBAD-baeS and pBADbaeR , respectively , mdtA transcript levels were established in the presence of ciproXoxacin ( Fig. 3b ) ; however , after complementating the baeS strain with a pBAD-baeS H250A , mdtA levels were not restored . 
+Similar results were observed in a baeR strain complemented with pBADbaeR D61A ( Fig. 3b ) . 
+These results indicate that His 250 residue from BaeS and Asp 61 residue from BaeR are essential for the function of this two-component system and the activation of the target gene mdtA in S. Typhimurium . 
+BaeR–P binds to the mdtA promoter region
+Electrophoretic mobility shift assays were performed with phosphorylated BaeR-6 # His and a 600 bp DNA fragment of the upstream region of mdtA as described in methods . 
+As a negative control , a 199 bp fragment including an mdtAcodifying region was used . 
+With 0.3 M BaeR-P ( phosphorylated BaeR ) , we observed the formation of a discrete complex between BaeR-6 # His and the mdtA promoter that remained stable during electrophoresis ( Fig. 4b ) . 
+In the presence of increasing concentrations of BaeR-6 # His , more probes became associated with the protein . 
+In addition , no interaction was observed with a 199 bp DNA fragment of the S. Typhimurium mdtA-codifying region . 
+When we used non-phosphorylated BaeR , the band shift pattern was diVerent and bound at higher protein concentrations , suggesting that phosphorylation is critical for BaeR aYnity to the promoter region ( Fig. 4a ) . 
+The BaeR D61A protein showed lower aYnity for the mdtA promoter at the same concentrations used for the native BaeR protein ( Fig. 4c ) , and even after phosphorylating BaeR D61A , the aYnity was lower than that observed for BaeR-P , indicating that phosphorylation of residue Asp 61 is important for BaeR binding to DNA ( Fig. 4d ) . 
+Discussion
+The growing number of clinical isolates showing multiple antibiotic resistance due to the indiscriminate use of these increases on a daily basis , therefore , having a clear understanding of the physiology and bacterial response to antibiotic would develop more eVective therapies . 
+In the search of new targets for antibiotic action , the characterization of TCSs is attractive for several reasons . 
+First of all , they are widespread in bacteria and , so far , absent in mammals ( Stock et al. 2000 ) . 
+Therefore , general HK or RR inhibitors could potentially be used as targets for broad-spectrum antibiotics . 
+Alternatively , by targeting speciWc HKs or RRs , selective inhibition may be achieved . 
+Perhaps , the most attractive reason for targeting TCSs is that they are used by pathogenic bacteria to control the expression of virulence factors required for infectivity ( Stock et al. 2000 ) . 
+Interestingly , some bacteria have developed TCSs that regulate resistance to certain chemotherapeutics . 
+These include the vancomycin resistance systems in Enterococcus faecalis 
+Fig. 2 In vitro transphosphoryl-ation of BaeR by BaeS . 
+Phosphorylated BaeS was prepared by incubation with [ -32 P ] ATP at 37 °C for 15 min . 
+Transphosphorylation in vitro was performed by mixing equimolar amounts of phosphorylated BaeS and puriWed BaeR in the presence of an excess amount of unlabeled ATP ( 0.5 mM ) for the indicated times ( 30 s -- 15 min ) at 37 °C . 
+The reaction mixture was directly subjected to SDS-PAGE . 
+The amounts of phosphorylated BaeS and BaeR were measured as in Fig. 1 . 
+a Transphosphorylation from BaeS -- P to BaeR . 
+b Transphosphorylation from BaeS -- P to BaeR D61A 
+( VanR/VanS ) ( Evers and Courvalin 1996 ) and Streptococcus pneumoniae ( VncS/VncR ) ( Novak et al. 1999 ) , as well as the system associated with tetracycline resistance in Bacteroides fragilis ( RprX/RprY ) ( Rasmussen and Kovacs 1993 ) . 
+Genome sequencing projects have demonstrated that two-component signal transduction systems represent the single largest paralogous family of signaling proteins in the bacterial kingdom ( Laub and Goulian 2007 ) . 
+A great diversity of regulatory mechanisms has been overlaid on the central phosphotransfer/phosphorelay pathways , allowing optimization of signal transmission for the speciWc needs of each system ( Pratt and Silhavy 1995 ) . 
+In this study , we show novel evidence that demonstrated the functionality of the BaeSR TCS from S. Typhimurium determining its auto-and transphosphorylation in vitro and the mdtA expression under ciproXoxacin treatment . 
+Typically in TCSs , a speciWc signal is sensed by the HK , which undergoes autophosphorylation at a speciWc histidine residue , in this case His 250 from BaeS in S. Typhimurium . 
+This phosphoryl group is then transferred to an aspartate residue of the cognate response regulator ( Hoch 2000 ) , which for the case of BaeR is Asp 61 , resulting in its activation . 
+The BaeSR system has been related to resistance to diverse antibiotics like novobi-ocin in E. coli , in which a baeR cloned in multicopy plasmid signiWcantly increased the resistance of the acrAB ( described as acridine eZux system ) host strain to this anti-biotic ( Baranova and Nikaido 2002 ) and a S. Typhimurium strain in which a transposon mutant in the regulator gene baeR of this two-component system showed a more-than-fourfold reduction in the resistance to ceftriaxone ( Hu et al. 2005 ) . 
+This evidence suggests that overproduction of BaeR decreased drastically the drug accumulation , presumably via increased active eZux , or the absence of the regulator is involved in a loss of resistance . 
+Our results show that mdtA expression ( member of a multidrug eZux system ) in S. Typhimurium is upregulated in response to subinhibitory concentrations of ciproXoxacin . 
+This is a chemotherapeutic bactericidal antibiotic of the Xuoroquinolone drug class and kills bacteria by stopping DNA synthesis ( Nelson et al. 2007 ) and is widely used to treat a number of infections , including those caused by Enterobacteriaceae . 
+Moreover , Baek et al. ( 2009 ) conducted a study of both the transcriptome and the proteome of E. coli strains treated with methyl methanesulfonate ( compound that causes DNA damage ) , which showed an increase in the expression of several transcriptional factors , as well as an increase in the expression of baeR . 
+This suggests a possible role for this TCS in the regulation of gene expression against damage , such as the one caused to DNA by ROS-generating compounds , as a consequence of bactericidal antibiotics like ciproXoxa-cin ( Kohanski et al. 2007 ) . 
+In this sense , we found sequences resembling the BaeR box ( Nishino et al. 2005 ) in the upstream region of the mdt-bae operon from 
+Fig. 3 mdtA expression in a S. Typhimurium wild type , baeS and baeR . 
+Exponentially growing cells were exposed to ciproXoxacin ¡ 1 ( 13 ng ml ) for 20 min . 
+Controls received no treatment . 
+a mdtA transcripts were detected by qRT-PCR in wild-type , baeS , baeR mutant strains and complemented strains . 
+b mdtA transcripts were detected by qRT-PCR in wild-type control and ciproXoxacin treatment for wildtype , baeS and baeR strains , and complementation of mutant strains with plasmids carrying wild-type ( baeS/pBAD-baeS and baeR / pBAD-baeR ) or mutagenic ( baeS/pBAD-baeS H250A and baeR / pBAD-baeR D61A ) genes 
+Fig. 4 Electrophoretic mobility shift assay for the BaeR binding to the mdtA promoter region . 
+A total of 0.15 pmol of DNA fragments including the mdtA promoter region ( 600 bp ) and negative control ( 199 bp from mdtA-codifying region ) were incubated with or without various concentrations of BaeR ( a ) , BaeR-P ( b ) ( phosphorylated BaeR ) , BaeR D61A ( c ) and BaeR D61A-P ( d ) ( phosphorylated BaeR D61A ) . 
+Samples were electro-phoresed on a 6 % non-denatur-ing PAGE and stained with ethidium bromide 
+S. Typhimurium , and consistent with this , we show by means an electrophoretic mobility shift assay that the BaeR protein binds to this region and had more aYnity when the protein was phosphorylated . 
+However , we also observed more aYnity when the D61A mutant was phosphorylated with carbamyl phosphate . 
+This could be explained due to unspeciWc phosphorylation by carbamyl phosphate at other residues of the protein as reported for ArcA by Jeon et al. ( 2001 ) . 
+This unspeciWc phosphorylation could produce conformational changes in the protein that increase its aYnity for the promoter , although this has not been determined so far . 
+Taken together , our results and the previous evidence suggest that the BaeS/BaeR TCS might generate a positive feedback loop by regulating the mdt-bae operon in the presence of ciproXoxacin , probably overexpressing the members of the operon that function like a multidrug transporter or activating genes that participate in bacteria detoxiWcation and DNA damage repair . 
+Further investigation in the regulation of TCSs in several natural environments , such as those found inside hosts , or under certain drugs treatments is needed in order to understand the biological signiWcance of their regulatory networks . 
+Such investigation may provide further insights into the role of this and other systems in the physiology of the cell . 
+Acknowledgments This work was supported by grants from FOND-ECYT # 11100142 and DI-UNAB 08-10 / R to FG . 
+References 
+Baek JH , Han MJ , Lee SY , Yoo JS ( 2009 ) Transcriptome and proteome analyses of adaptive responses to methyl methanesulfonate in Esch-erichia coli K-12 and ada mutant strains . 
+BMC Microbiol 9:186 Baranova N , Nikaido H ( 2002 ) The baeSR two-component regulatory system activates transcription of the yegMNOB ( mdtABCD ) transporter gene cluster in Escherichia coli and increases its resistance to novobiocin and deoxycholate . 
+J Bacteriol 184:4168 -- 4176 Batchelor E , Goulian M ( 2003 ) Robustness and the cycle of phosphor-ylation and dephosphorylation in a two-component regulatory system . 
+Proc Natl Acad Sci USA 100:691 -- 696 Batchelor E , Goulian M ( 2006 ) Imaging OmpR localization in Esche-richia coli . 
+Mol Microbiol 59:1767 -- 1778 Cai SJ , Inouye M ( 2002 ) EnvZ -- OmpR interaction and osmoregulation in Escherichia coli . 
+J Biol Chem 277:24155 -- 24161 Cock PJ , Whitworth DE ( 2007 ) Evolution of prokaryotic two-compo-nent system signaling pathways : gene fusions and Wssions . 
+Mol Biol Evol 24:2355 -- 2357 Datsenko KA , Wanner BL ( 2000 ) One-step inactivation of chromosomal genes in Escherichia coli K-12 using PCR products . 
+Proc Natl Acad Sci USA 97:6640 -- 6645 De la Cruz MA , Fernández-Mora M , Guadarrama C , Flores-Valdez MA , Bustamante VH , Vázquez A , Calva E ( 2007 ) LeuO antagonizes H-NS and StpA-dependent repression in Salmonella enterica ompS1 . 
+Mol Microbiol 66:727 -- 743 Evers S , Courvalin P ( 1996 ) Regulation of VanB-type vancomycin resistance gene expression by the VanS ( B ) -- VanR ( B ) two-com-ponent regulatory system in Enterococcus faecalis V583 . 
+J Bacteriol 178:1302 -- 1309 Grebe TW , Stock JB ( 1999 ) The histidine protein kinase superfamily . 
+Adv Microb Physiol 41:139 -- 227 
+Hirakawa H , Inazumi Y , Masaki T , Hirata T , Yamaguchi A ( 2005 ) Indole induces the expression of multidrug exporter genes in Escherichia coli . 
+Mol Microbiol 55:1113 -- 1126 Hoch JA ( 2000 ) Two-component and phosphorelay signal transduction . 
+Curr Opin Microbiol 3:165 -- 170 Hu WS , Li PC , Cheng CY ( 2005 ) Correlation between ceftriaxone resistance of Salmonella enterica serovar Typhimurium and expression of outer membrane proteins OmpW and Ail/OmpXlike protein , which are regulated by BaeR of a two-component system . 
+Antimicrob Agents Chemother 49:3955 -- 3958 Jeon Y , Lee YS , Han JS , Kim JB , Hwang DS ( 2001 ) Multimerization of phosphorylated and non-phosphorylated ArcA is necessary for the response regulator function of the Arc two-component signal transduction system . 
+J Biol Chem 276:40873 -- 40879 Kohanski MA , Dwyer DJ , Hayete B , Lawrence CA , Collins JJ ( 2007 ) A common mechanism of cellular death induced by bactericidal antibiotics . 
+Cell 130:797 -- 810 Koretke KK , Lupas AN , Warren PV , Rosenberg M , Brown JR ( 2000 ) Evolution of two-component signal transduction . 
+Mol Biol Evol 17:1956 -- 1970 Laub MT , Goulian M ( 2007 ) SpeciWcity in two-component signal transduction pathways . 
+Annu Rev Genet 41:121 -- 145 Leblanc SK , Oates CW , Raivio TL ( 2011 ) Characterization of the induction and cellular role of the BaeSR two-component envelope stress response of Escherichia coli . 
+J Bacteriol 193:3367 -- 3375 Lynch AS , Lin EC ( 1996 ) Transcriptional control mediated by the ArcA two-component response regulator protein of Escherichia coli : characterization of DNA binding at target promoters . 
+J Bacteriol 178:6238 -- 6249 Nagakubo S , Nishino K , Hirata T , Yamaguchi A ( 2002 ) The putative response regulator BaeR stimulates multidrug resistance of Esch-erichia coli via a novel multidrug exporter system , MdtABC . 
+J Bacteriol 184:4161 -- 4167 Nagasawa S , Ishige K , Mizuno T ( 1993 ) Novel members of the two-component signal transduction genes in Escherichia coli . 
+J Biochem 114:350 -- 357 Nelson JM , Chiller TM , Powers JH , Angulo FJ ( 2007 ) Fluoroquinolone-resistant Campylobacter species and the withdrawal of Xuoro ¬ 
+quinolones from use in poultry : a public health success story . 
+Clin Infect Dis 44:977 -- 980 Nishino K , Honda T , Yamaguchi A ( 2005 ) Genome-wide analyses of Escherichia coli gene expression responsive to the BaeSR two-component regulatory system . 
+J Bacteriol 187:1763 -- 1772 Nishino K , Nikaido E , Yamaguchi A ( 2007 ) Regulation of multidrug eZux systems involved in multidrug and metal resistance of Salmonella enterica serovar Typhimurium . 
+J Bacteriol 189 : 9066 -- 9075 Novak R , Henriques B , Charpentier E , Normark S , Tuomanen E ( 1999 ) Emergence of vancomycin tolerance in Streptococcus pneumoniae . 
+Nature 399:590 -- 593 PfaZ MW ( 2001 ) A new mathematical model for relative quantiWcation in real-time RT-PCR . 
+Nucleic Acids Res 29:45 Pratt LA , Silhavy TJ ( 1995 ) IdentiWcation of base pairs important for OmpR-DNA interaction . 
+Mol Microbiol 17:565 -- 573 Rasmussen BA , Kovacs E ( 1993 ) Cloning and identiWcation of a two-component signal-transducing regulatory system from Bacteroi-des fragilis . 
+Mol Microbiol 7:765 -- 776 Ricci V , Piddock LJ ( 2009 ) CiproXoxacin selects for multidrug resistance in Salmonella enterica serovar Typhimurium mediated by at least two diVerent pathways . 
+J Antimicrob Chemother 63:909 -- 916 Stock AM , Robinson VL , Goudreau PN ( 2000 ) Two-component signal transduction . 
+Annu Rev Biochem 69:183 -- 215 Yamamoto K , Hirao K , Oshima T , Aiba H , Utsumi R , Ishihama A ( 2005 ) Functional characterization in vitro of all two-component signal transduction systems from Escherichia coli . 
+J Biol Chem 280:1448 -- 1456 Yamamoto K , Ogasawara H , Ishihama A ( 2008 ) Involvement of multiple transcription factors for metal-induced spy gene expression in Escherichia coli . 
+J Biotechnol 133:196 -- 200 Zoetendal EG , Smith AH , Sundset MA , Mackie RI ( 2008 ) The BaeSR two-component regulatory system mediates resistance to condensed tannins in Escherichia coli . 
+Appl Environ Microbiol 74:535 -- 539

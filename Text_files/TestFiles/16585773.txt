@@ -1,0 +1,324 @@
+JOURNAL OF BACTERIOLOGY , Apr. 2006 , p. 3126 -- 3129 
+0021-9193/06 / $ 08.00 0 doi :10.1128 / JB .188.8.3126 -- 3129.2006 Copyright © 2006 , American Society for Microbiology . 
+All Rights Reserved . 
+An Allele of gyrA Prevents Salmonella enterica Serovar Typhimurium from Using Succinate as a Carbon Source
+George E. Schmitz and Diana M. Downs * 
+Departm 
+ent of Bacteriology , University of Wisconsin -- Madison , Madison , W Received 13 January 2006/Accepted 3 February 2006 
+isconsin 53706 
+A mutant gyrA allele resulting in an A271E substitution in the DNA gyrase protein generated a strain unable to grow on the C4-dicarboxylates succinate , malate , and fumarate . 
+Bacteria harboring gyrA751 displayed decreased negative supercoiling in cells . 
+Expression of the dctA gene , which encodes the C4-dicarboxylate transporter , was reduced in a gyrA751 mutant , providing the ﬁrst evidence that dctA expression is supercoiling sensitive and uncovering a simple metabolic screen for lesions in gyrase that reduce negative supercoiling . 
+DNA supercoiling is implicated in genome dynamics affecting processes such as DNA replication , gene expression , and phage genome integration ( 4 , 20 ) . 
+DNA gyrase , an ATP-de-pendent enzyme encoded by the essential genes gyrA and gyrB , is the only known bacterial topoisomerase that introduces negative supercoils ( 13 ) . 
+Perturbing DNA gyrase via mutations or antibiotics results in reduced growth rates and altered gene expression and can lead to cell death as a result of aberrant DNA supercoiling ( 15 , 27 , 28 ) . 
+Many studies on gyrA have identiﬁed mutant alleles that confer resistance to speciﬁc antibiotics but few alleles with easily screened metabolic phenotypes . 
+This work reports the identiﬁcation of an allele of gyrA in Salmonella enterica serovar Typhimurium that results in a mutant gyrase ( A271E ) and generates a strong metabolic phenotype . 
+Strains carrying the mutant gyrase ( A271E ) are defective in C4-dicarboxylate transport mediated by DctA . 
+The dctA gene encodes the aerobically expressed transporter for succinate , malate , and fumarate and is catabolite ( cyclic AMP receptor protein ) and anaerobically ( ArcA ) repressed ( 9 ) . 
+This is the ﬁrst report of the strong inﬂuence of DNA supercoiling on dctA expression sufﬁcient to generate a clear metabolic defect and provides a means to identify mutant strains with decreased negative supercoiling . 
+An allele of gyrA prevents growth on succinate , malate , and fumarate . 
+In the course of other work , a mutant strain unable to utilize succinate ( Fig. 1 ) as a sole carbon source for growth was isolated following mutagenesis by diethyl sulfate ( 11 ) . 
+Representative growth data are shown in Fig. 1 . 
+An otherwise wild-type strain carrying the causative lesion ( gyrA751 , as described below ) was surveyed for growth on a variety of carbon sources . 
+Nearly wild-type growth of the mutant strain was observed on the majority of carbon sources tested , including glucose , gluconate , galactose , glycerol , fructose , mannitol , acetate , and citrate ( data not shown ) . 
+However , similar to succinate , neither malate nor fumarate supported growth at 30 , 37 , or 42 °C . 
+The ability to use other speciﬁc tricarboxylic acid 
+* Corresponding author . 
+Mailing address : Department of Bacteriology , University of Wisconsin -- Madison , 420 Henry Mall , Rm . 
+120 , Madison , WI 53706 . 
+Phone : (608) 265-4630 . 
+Fax : (608) 890-0785 . 
+E-mail : downs@bact.wisc.edu . 
+cycle intermediates ( e.g. , citrate and acetate ) indicated that the causative lesion was not in a tricarboxylic acid cycle enzyme . 
+A Tn10d ( Tc ) insertion mutation linked by P22 to the caus-ative mutation was identiﬁed with standard techniques ( 18 ) . 
+In a transductional cross using a donor pool of Tn10d ( Tc ) insertions , 36 of 18,000 Tcr transductants had gained the ability to grow on succinate . 
+The linkage of these insertions to the caus-ative mutation was determined . 
+The location of one insertion [ rcsC71 : : Tn10d ( Tc ) ] , subsequently shown to be 56 % linked to the succinate-negative phenotype , was identiﬁed by degenerate sequencing ( 5 ) . 
+A genetic map of the region surrounding rcsC is shown in Fig. 2A . 
+When used as donors in transduction crosses , strains with insertions in rcsB , yojN , apbE , ompC , STM2273 , STM2274 , or STM2275 generated two phenotypic classes ( Suc and Suc ) when the succinate-negative mutant was the recipient . 
+Since sequence analyses determined that the relevant insertions were located internal to open reading frames ( ORFs ) , they were assumed to eliminate gene function . 
+Because these insertions neither eliminated nor caused the succinate-negative phenotype , it was concluded that the caus-ative mutation was not an allele of the eight genes mentioned above . 
+Because of its location in the relevant region , the gyrA gene was PCR ampliﬁed and sequenced from strains isogenic for the causative lesion ( i.e. , phenotypically Suc or Suc ) . 
+Compared to the wild-type sequence , the mutant strain carried a C-to-A transversion at nucleotide 811 of the gyrA gene . 
+This mutation resulted in the substitution of a glutamic acid for an alanine at residue 271 ( A271E ) in the gyrase protein . 
+This residue is conserved in 26/41 gyrase homologs from diverse bacteria analyzed by standard BLAST analyses ( 1 ) . 
+The A271E form of gyrase results in reduced negative supercoiling but not quinolone resistance . 
+The majority of alleles of gyrA that have been described were identiﬁed because they resulted in resistance to the quinolone class of antibiotics , such as nalidixic acid and oxolinic acid , though a few gyrA alleles ( hisW ) were isolated as regulatory mutants of the his operon ( 2 , 26 ) . 
+Numerous mutations in gyrA resulting in quinolone resistance have been sequenced , and a well-described quino-lone resistance-determining region spans residues 51 to 106 ( 12 , 29 ) . 
+Residue 271 does not fall in this region ( Fig. 2B ) , so the demonstration that the gyrA751 allele did not affect sensitivity to nalidixic acid or oxolinic acid was not surprising ( data not shown ) . 
+In fact , residue 271 is in a region of the gyrase protein where no previous mutations have been reported . 
+The expression of a number of genes is affected by supercoiling , and therefore , aberrant expression of these genes occurs when DNA supercoiling has been altered by a gyr mutation ( s ) or by addition of various drugs , in particular quinolones and coumarins ( 15 , 28 ) . 
+Transcriptional fusions in a number of genes ( hisD9953 : : MudJ , trp-3615 : : MudJ , and ilvD2654 : : MudJ ) were moved by P22 transduction into strains with and without the gyrA751 allele . 
+The resulting pairs of strains were assayed for - galactosidase activity , and the results are shown in Table 1 . 
+The gyrA751 mutation increased expression of the his operon fourfold under repressing conditions ( e.g. , Luria broth ) and prevented the normal sevenfold derepression of the ilv operon under inducing conditions ( deﬁned medium with limiting , branched-chain amino acids ) . 
+Conversely , no effect on expression of the trp operon was observed under growth conditions expected to either induce or repress the operon . 
+Deregulation of the his and ilv operons , but not the trp operon , has been reported for cells with reduced negative supercoiling ( e.g. , the hisW class of alleles ) ( 8 , 10 , 27 ) . 
+As predicted from the derepression of the his operon , strain DM8306 ( gyrA751 ) formed wrinkled colonies on medium with 2 % glucose and was resistant to the histidine analog amino triazole ( 22 , 27 ) . 
+Both of these phenotypes are reported for hisW and hisU ( alleles of gyrB that result in similar consequences ) alleles ( 27 ) . 
+Together , these results suggest that the A271E substitution in GyrA , similar to the hisW allele class , decreases negative supercoiling and that the decreased supercoiling alters the transcription of the expected loci . 
+The gyrA751 mutant strain is deﬁcient in extrachromosomal DNA maintenance and supercoiling . 
+Plasmid DNA ( pSU19 ) ( 3 ) was isolated with a commercial product ( Promega , Madison , WI ) from 109 CFU of strains isogenic for the gyrA751 or gyrA alleles . 
+The yield of plasmid DNA was consistently lower from the gyrA751 mutant than from the wild-type strain ( 1.1 0.32 versus 5.1 0.75 g , respectively ) , though both strains were grown in the same medium . 
+The plasmid DNA isolated from a gyrA751 mutant was transformed into a wild-type strain . 
+Subsequent isolation of the plasmid DNA conﬁrmed that the 
+312 
+FIG. 1 . 
+A gyrA271 mutant is unable to utilize succinate as a sole carbon source . 
+Growth of gyrA751 and gyrA strains was measured as described previously ( 23 , 24 ) in no-carbon E medium with either 24 mM succinate ( A ) or 11 mM glucose ( B ) . 
+Growth levels for DM8306 [ gyrA751 ompC396 : : Tn10d ( Tc ) ] ( ‚ ) and DM8307 [ gyrA ompC396 : : Tn10d ( Tc ) ] ( ■ ) in a representative experiment are shown . 
+FIG. 2 . 
+Physical map of the gyrA region and GyrA topology . 
+( A ) Insertions linked to the mutation causing loss of growth on succinate are shown as triangles . 
+Based on the location of the insertions in the ORFs , the insertions were considered to cause null mutations . 
+Double mutants containing an insertion and the succinate growth defect demonstrated that the causative lesion was not in any of these ORFs . 
+( B ) A schematic of the primary sequence of GyrA is shown ( drawn to scale ) . 
+Regions relevant to function and/or phenotype are noted as follows : # , active-site Y122 ; ‡ , hot spots for Nalr mutations in Escherichia coli or S. enterica serovar Typhimurium ; hatched box , quinolone resistance-determining area ; dotted box , C-terminal chain ; * , A271E ( gyrA751 ) 
+Strain Growth gyrA Fusion Expression level Expression allele locus ( Miller units ) ratio 
+DM9063 gyrA751 hisD 71.3 5.4 Repressed 4.0 DM9065 gyrA hisD 17.9 1.5 Repressed DM9123 gyrA751 ilvD 11.6 2.2 Repressed 0.53 DM9122 gyrA ilvD 21.7 1.9 Repressed DM9123 gyrA751 ilvD 52.9 34 Induced 0.14 DM9122 gyrA ilvD 390 26 Induced DM9113 gyrA751 trp 6.1 0.1 Repressed 0.84 DM9112 gyrA trp 7.3 0.3 Repressed DM9113 gyrA751 trp 25.0 3.1 Induced 1.0 DM9112 gyrA trp 25.2 1.1 Induced a Operon fusions ( MudJ ) ( 6 ) in the indicated loci were transduced to strains with or without the gyrA751 allele , and - galactosidase assays were performed on the resulting strains . 
+Repressing conditions represent growth in Luria broth , while inducing conditions indicate growth in no-carbon E medium supplemented with 11 mM glucose , 1 mM MgSO4 , and relevant amino acids at the following concentrations : Ile , Leu , Val , 60 M each ; Trp , 50 M . 
+The last column displays the ratio of transcription found in the mutant to that of the wild-type genetic background . 
+plasmid had reestablished itself to wild-type levels , indicating that the gyrA751 mutant inefﬁciently maintained episomal DNA . 
+Although it was formally possible that the gyrA751 mutant was unable to maintain only pSU19 , a similar result was obtained when pBR322 was isolated from isogenic strains . 
+Since plasmids pSU19 and pBR322 have different origins of replication , it was concluded that the gyrA751 mutant was in general unable to efﬁciently maintain plasmids . 
+In a different study , gyrase inhibitors such as novobiocin were shown to promote plasmid curing , implicating a role for supercoiling in plasmid maintenance , which would be consistent with the interpretation of the data above ( 14 ) . 
+To measure directly the extent of plasmid supercoiling , the pSU19 topoisomers were separated by electrophoresis in a 1 % agarose gel containing chloroquine ( Fig. 3 ) . 
+The topoisomer mobility of plasmid DNA isolated from the gyrA751 mutant was visibly decreased , con-ﬁrming that the gyrA751 mutant strain maintained a lower level of DNA supercoiling . 
+Decreased dctA expression is responsible for the succinate-negative phenotype of gyrA751 . 
+Since the gyrA751 allele caused multiple transcriptional changes , it was hypothesized that the inability of the gyrA751 mutant to grow on C4-dicarboxylates was due to reduced expression of a gene ( s ) required for C4-dicarboxylate utilization . 
+Similar to the gyrA751 mutant , strains lacking dctA are unable to grow with malate , fumarate , or succinate as a carbon source ( 17 ) . 
+DctA is an inner membrane permease responsible for transporting these three dicarboxylic acids during aerobic growth conditions ( 19 , 25 ) . 
+To determine whether the growth behavior of a gyrA751 mutant was consistent with a reduction in DctA activity , transport assays were performed . 
+Cells were harvested from media containing 24 mM glycerol ( as a carbon source ) and 16 mM succinate ( to induce transport ) , and the rates of [ 2,3-14C ] succinic acid transport in a pair of strains isogenic for the gyrA or gyrA751 allele are shown in Fig. 4 . 
+The rate of succinate uptake by the gyrA751 mutant was signiﬁcantly lower than that of the wildtype strain and in fact was not signiﬁcantly higher than that of a dctA mutant . 
+That the gyrA751 mutant was strongly deﬁcient in DctA activity was consistent with the succinate-negative growth phenotype . 
+To determine whether the transcriptional expression of the dctA gene was reduced in a gyrA751 mutant background , a lacZ operon fusion ( MudJ ) in dctA was isolated from a pool of random MudJ insertions . 
+The dctA81 : : MudJ insertion was transduced into strains with or without the gyrA751 mutation , and the resulting strains were assayed for - galactosidase activity . 
+Expression of dctA was twofold lower in the gyr mutant than in the wild-type strain ( 163 5 versus 358 22 Miller units , respectively ) , indicating that the dctA promoter is sensitive to supercoiling . 
+The relatively small effect on transcription was surprising given the large effect of the gyrA751 mutation on both the phenotype and DctA-dependent transport . 
+It had previously been noted that inactivation of dctA with a lacZ fusion caused constitutive expression of dctA and suggested that DctA might be autoregulatory ( 9 ) , thus complicating the interpretation of the fusion data . 
+Total cellular RNA was isolated ( RNeasy ; QIAGEN ) from gyrA751 or gyrA isogenic strains cultured in 24 mM glycerol , 16 mM fumarate in midlogarithmic phase , and reverse transcription-PCR was performed as previously described ( 7 ) . 
+The levels of dctA mRNA were determined in at least two isolates of isogenic strains and were normalized to trp mRNA levels as a control . 
+The amount of dctA mRNA was 13-fold lower in the gyrA751 strain than in the wild-type strain ( 2,896 4,007 versus 38,298 2,922 arbitrary units , respectively ) , demonstrating that dctA expression is strongly regulated by the extent of DNA supercoiling . 
+Conclusion . 
+The data herein identify dctA as a locus whose transcription is sensitive to levels of DNA supercoiling . 
+Further , a temperature-insensitive allele of the essential gyrA gene that decreased supercoiling yet did not inﬂuence the sensitivity of the strain to growth inhibition by quinolones was identiﬁed . 
+Visualization of the relevant A271 residue in the crystal structure of the breakage-reunion domain of GyrA ( GyrA59 ) ( 21 ) reveals that this residue is in the 11 helix that is proximal to , but not in , the quinolone resistance-determining region and catalytic tyrosine region . 
+To the best of our knowledge , no mutations in the 11 helix have been reported , and the importance of the 11 helix for protein function remains to be determined biochemically . 
+The proximity of the 11 helix to the catalytic site might suggest that the A271 residue has a role in DNA recognition or catalysis . 
+This work has identiﬁed a simple metabolic screen ( the inability to grow on succinate ) for the isolation of alleles and other genes that result in gyrA reduced supercoiling . 
+3128 
+J. BACTERIOL . 
+TABLE 1 . 
+gyrA751 mutants have altered expression levels of amino acid biosynthetic operonsa 
+FIG. 3 . 
+The gyrA751 mutant has lower DNA supercoiling levels than the wild type . 
+Plasmid pSU19 was isolated from mutant strain gyrA751 ( A to C ) and the wild type ( D to F ) , and topoisomers were separated by agarose gel electrophoresis in the presence of 2.8 g/ml chloroquine diphosphate . 
+Mobility is from top to bottom . 
+FIG. 4 . 
+The gyrA751 mutant is unable to transport succinate . 
+Succinate uptake was measured with radiolabeled [ 2,3-14C ] succinate . 
+Cultures were grown in minimal no-carbon E medium supplemented with 1 mM MgSO , 24 mM glycerol , and 16 mM fumarate . 
+Cells were 4 harvested in mid-exponential phase and washed twice in 3 ml nocarbon E buffer . 
+Succinate transport assays were performed at 37 °C and contained the following : 100 mM potassium phosphate ( KP ) buffer ( pH 7.4 ) , 100 mM MgSO4 , 0.2 mM succinate ( 2.4 nCi/nmol ) , and approximately 7 107 CFU in a total volume of 0.520 ml . 
+Aliquots of 0.1 ml were taken every 15 seconds after the addition of succinate , applied to a 25-mm , 0.4 - m-pore-size nitrocellulose membrane , and washed twice in rapid succession with 3 ml KP · MgSO4 buffer over a vacuum manifold . 
+Filters were dried , and radioactivity retained on ﬁlters was measured by standard methods . 
+Representative transport levels for DM8306 [ gyrA751 ompC396 : : Tn10d ( Tc ) ] ( ‚ ) , DM8307 [ gyrA ompC396 : : Tn10d ( Tc ) ] ( ) , and FM2 ( dct-71 ) ( 16 ) ( ■ ) in a representative experiment are shown 
+This work was supported by competitive grant GM47296 from the NIH and an S. C. Johnson Distinguished Fellowship . 
+Funds were also provided by a 21st Century Scientists Scholars Award from the J. M. McDonnell fund to D.M.D. G. Schmitz was supported as a trainee by a Molecular Biosciences Training Grant from the NIH ( GM07215 ) . 
+We acknowledge the assistance of Inna Larsen in the preparation of the manuscript and thank Heidi Goodrich-Blair and Kimberly Cowles for use of their quantitative PCR thermocycler and expertise in performing the reverse transcription-PCR experiment . 
+REFERENCES 
+1 . 
+Altschul , S. F. , W. Gish , W. Miller , E. W. Myers , and D. J. Lipman . 
+1990 . 
+Basic local alignment search tool . 
+J. Mol . 
+Biol . 
+215:403 -- 410 . 
+2 . 
+Anton , D. N. 1968 . 
+Histidine regulatory mutants in Salmonella typhimurium . 
+V. Two new classes histidine regulatory mutants . 
+J. Mol . 
+Biol . 
+33:533 -- 546 . 
+3 . 
+Bartolomé , B. , Y. Jubete , E. Martinez , and F. de la Cruz . 
+1991 . 
+Construction and properties of a family of pACYC184-derived cloning vectors compatible with pBR322 and its derivatives . 
+Gene 102:75 -- 78 . 
+4 . 
+Brahms , J. G. , O. Dargouge , S. Brahms , Y. Ohara , and V. Vagner . 
+1985 . 
+Activation and inhibition of transcription by supercoiling . 
+J. Mol . 
+Biol . 
+181 : 455 -- 465 . 
+5 . 
+Caetano-Annoles , G. 1993 . 
+Amplifying DNA with arbitrary oligonucleotide primers . 
+PCR Methods Appl . 
+3:85 -- 92 . 
+6 . 
+Castilho , B. A. , P. Olfson , and M. J. Casadaban . 
+1984 . 
+Plasmid insertion mutagenesis and lac gene fusion with mini-Mu bacteriophage transposons . 
+J. Bacteriol . 
+158:488 -- 495 . 
+7 . 
+Cowles , K. N. , and Goodrich-Blair , H. 2005 . 
+Expression and activity of a Xenorhabdus nematophila haemolysin required for full virulence towards Manduca sexta insects . 
+Cell . 
+Microbiol . 
+7:209 -- 219 . 
+8 . 
+Davidson , J. P. , D. J. Wilson , and L. S. Williams . 
+1982 . 
+Role of a hisU gene in the control of stable RNA synthesis in Salmonella typhimurium . 
+J. Mol . 
+Biol . 
+157:237 -- 264 . 
+9 . 
+Davies , S. J. , P. Golby , D. Omrani , S. A. Broad , V. L. Harrington , J. R. Guest , D. J. Kelly , and S. C. Andrews . 
+1999 . 
+Inactivation and regulation of the aerobic C4-dicarboxylate transport ( dctA ) gene of Escherichia coli . 
+J. Bacteriol . 
+181:5624 -- 5635 . 
+10 . 
+Davis , L. , and L. S. Williams . 
+1982 . 
+Altered regulation of isoleucine-valine biosynthesis in a hisW mutant of Salmonella typhimurium . 
+J. Bacteriol . 
+151 : 860 -- 866 . 
+11 . 
+Davis , R. W. , D. Botstein , and J. R. Roth . 
+1980 . 
+Advanced bacterial genetics . 
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 12 . 
+Friedman , S. M. , T. Lu , and K. Drlica . 
+2001 . 
+Mutation in the DNA gyrase A gene of Escherichia coli that expands the quinolone resistance-determining region . 
+Antimicrob . 
+Agents Chemother . 
+45:2378 -- 2380 . 
+13 . 
+Gellert , M. , K. Mizuuchi , M. H. O'Dea , and H. A. Nash . 
+1976 . 
+DNA gyrase : an enzyme that introduces superhelical turns into DNA . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 73:3872 -- 3876 . 
+14 . 
+Hooper , D. C. , J. S. Wolfson , G. L. McHugh , M. D. Swartz , C. Tung , and M. N. Swartz . 
+1984 . 
+Elimination of plasmid pMG110 from Escherichia coli by novobiocin and other inhibitors of DNA gyrase . 
+Antimicrob . 
+Agents Che-mother . 
+25:586 -- 590 . 
+15 . 
+Jovanovich , S. B. , and J. Lebowitz . 
+1987 . 
+Estimation of the effect of coumer-mycin A1 on Salmonella typhimurium promoters by using random operon fusions . 
+J. Bacteriol . 
+169:4431 -- 4435 . 
+16 . 
+Kay , W. W. , and M. Cameron . 
+1978 . 
+Citrate transport in Salmonella typhi-murium . 
+Arch . 
+Biochem . 
+Biophys . 
+190:270 -- 280 . 
+17 . 
+Kay , W. W. , and H. L. Kornberg . 
+1971 . 
+The uptake of C4-dicarboxylic acids by Escherichia coli . 
+Eur . 
+J. Biochem . 
+18:274 -- 281 . 
+18 . 
+Kleckner , N. , R. M. Chalmers , D. Kwon , J. Sakai , and S. Bolland . 
+1996 . 
+Tn10 and IS10 transposition and chromosome rearrangements : mechanism and regulation in vivo and in vitro . 
+Curr . 
+Top . 
+Microbiol . 
+Immunol . 
+204 : 49 -- 82 . 
+19 . 
+Lo , T. C. , M. K. Rayman , and B. D. Sanwal . 
+1972 . 
+Transport of succinate in Escherichia coli . 
+I. Biochemical and genetic studies of transport in whole cells . 
+J. Biol . 
+Chem . 
+247:6323 -- 6331 . 
+20 . 
+Mizuuchi , K. , and H. A. Nash . 
+1976 . 
+Restriction assay for integrative recombination of bacteriophage lambda DNA in vitro : requirement for closed circular DNA substrate . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 73:3524 -- 3528 . 
+21 . 
+Morais Cabral , J. H. , A. P. Jackson , C. V. Smith , N. Shikotra , A. Maxwell , and R. C. Liddington . 
+1997 . 
+Crystal structure of the breakage-reunion domain of DNA gyrase . 
+Nature 388:903 -- 906 . 
+22 . 
+Murray , M. L. , and P. E. Hartman . 
+1972 . 
+Overproduction of hisH and hisF gene products leads to inhibition of cell cell division in Salmonella . 
+Can . 
+J. Microbiol . 
+18:671 -- 681 . 
+23 . 
+Petersen , L. , and D. M. Downs . 
+1996 . 
+Mutations in apbC ( mrp ) prevent function of the alternative pyrimidine biosynthetic pathway in Salmonella typhimurium . 
+J. Bacteriol . 
+178:5676 -- 5682 . 
+24 . 
+Petersen , L. A. , J. E. Enos-Berlage , and D. M. Downs . 
+1996 . 
+Genetic analysis of metabolic crosstalk and its impact on thiamine synthesis in Salmonella typhimurium . 
+Genetics 143:37 -- 44 . 
+25 . 
+Rayman , M. K. , T. C. Lo , and B. D. Sanwal . 
+1972 . 
+Transport of succinate in Escherichia coli . 
+II . 
+Characteristics of uptake and energy coupling with transport in membrane preparations . 
+J. Biol . 
+Chem . 
+247:6332 -- 6339 . 
+26 . 
+Roth , J. R. , D. N. Anton , and P. E. Hartman . 
+1966 . 
+Histidine regulatory mutants in Salmonella typhimurium . 
+I. Isolation and general properties . 
+J. Mol . 
+Biol . 
+22:305 -- 323 . 
+27 . 
+Rudd , K. E. , and R. Menzel . 
+1987 . 
+his operons of Escherichia coli and Salmonella typhimurium are regulated by DNA supercoiling . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 84:517 -- 521 . 
+28 . 
+Sanzey , B. 1979 . 
+Modulation of gene expression by drugs affecting deoxyribonucleic acid gyrase . 
+J. Bacteriol . 
+138:40 -- 47 . 
+29 . 
+Yoshida , H. , M. Bogaki , M. Nakamura , and S. Nakamura . 
+1990 . 
+Quinolone resistance-determining region in the DNA gyrase gyrA gene of Escherichia coli . 
+Antimicrob . 
+Agents Chemother . 
+34:1271 -- 1272

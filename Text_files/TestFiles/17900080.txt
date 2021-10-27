@@ -1,0 +1,643 @@
+Journal of Food Protection , Vol . 
+70 , No. 9 , 2007 , Pages 2036 -- 2044 Copyright , International Association for Food Protection 
+Applying the Food Safety Objective and Related Standards to Thermal Inactivation of Salmonella in Poultry Meat
+JEANNE-MARIE MEMBRÉ , * JOHN BASSETT , AND LEON G. M. GORRIS 
+Safety and Environmental Assurance Centre , Unilever , Colworth Park , Sharnbrook , Bedford MK44 1LQ , UK 
+MS 06-544 : Received 19 October 2006/Accepted 26 February 2007 
+ABSTRACT 
+The objective of this study was to investigate the practicality of designing a heat treatment process in a food manufacturing operation for a product governed by a Food Safety Objective ( FSO ) . 
+Salmonella in cooked poultry meat was taken as the working example . 
+Although there is no FSO for this product in current legislation , this may change in the ( near ) future . 
+Four different process design calculations were explored by means of deterministic and probabilistic approaches to mathematical data handling and modeling . 
+It was found that the probabilistic approach was a more objective , transparent , and quantiﬁable approach to establish the stringency of food safety management systems . 
+It also allowed the introduction of speciﬁc prevalence rates . 
+The key input analyzed in this study was the minimum time required for the heat treatment at a ﬁxed temperature to produce a product that complied with the criterion for product safety , i.e. , the FSO . 
+By means of the four alternative process design calculations , the minimum time requirement at 70 C was established and ranged from 0.26 to 0.43 min . 
+This is comparable to the U.S. regulation recommendations and signiﬁcantly less than that of 2 min at 70 C used , for instance , in the United Kingdom regulation concerning vegetative microorganisms in ready-to-eat foods . 
+However , the objective of this study was not to challenge existing regulations but to provide an illustration of how an FSO established by a competent authority can guide decisions on safe product and process designs in practical operation ; it hopefully contributes to the collaborative work between regulators , academia , and industries that need to continue learning and gaining experience from each other in order to translate risk-based concepts such as the FSO into everyday operational practice . 
+The food industry has been using preservation and processing techniques to control microbial hazards ever since products were ﬁrst marketed . 
+As technology and the knowledge of microbial hazards have improved , these techniques and the deﬁnition of what they should deliver to ensure products that are safe and wholesome for consumers have become more standardized and often embedded in legislation . 
+Current standards , either prescribed by regulation or ingrained in industry practice , include such examples as a 6-log reduction of Listeria monocytogenes in ready-to-eat ( RTE ) food ( 27 ) , a 7-log reduction of Salmonella in poultry ( 47 ) , and a 12-log reduction of spores of Clostridium bot-ulinum in canned food ( 5 ) . 
+The time and temperature of a thermal process , in practice referred to as the process criteria ( 23 ) , have generally been set on the basis of worst-case contamination levels , considering the most heat-resis-tant relevant organisms , and shortcomings in industry in terms of compliance and hazard control capability . 
+These standards are sometimes considered overly conservative ; nevertheless , they have provided the industry with a history of safe operation when they have been met consistently . 
+In many places around the world , this has resulted in a progressive minimization of foodborne disease burdens and a reduction of foodborne hazards to levels that are considered `` as low as reasonably achievable . '' 
+However , comparing 
+* Author for correspondence . 
+Tel : 44 - ( 0 ) 1234 264881 ; Fax : 44 - ( 0 ) 1234 222632 ; E-mail : jeanne-marie.membre@unilever.com . 
+the situation in different countries , it is evident that what is an as low as reasonably achievable hazard level in one country can be very different in another , and the same goes for the disease burden . 
+In an attempt to address the differences between ca-pability-driven levels of hazard control between countries , the World Trade Organization has issued the SPS agreement ( 59 ) , and in conjunction with this , Codex Alimentarius has developed the Risk Analysis framework to help countries link food control measures to public health ( 8 ) . 
+Within Risk Analysis , risk assessment is the scientiﬁc and technical component that can determine the risk in a population associated with a particular pathogen-food combination and can evaluate risk mitigation options . 
+In the risk management part , the risk assessment outcomes are considered by risk managers residing in a competent authority and used in deciding on measures required to address an undue risk to their population . 
+Codex Alimentarius is developing guidelines for the risk management process ( 9 ) and has introduced the concepts of Food Safety Objective ( FSO ) , Performance Objective ( PO ) , and Performance Criterion ( PC ) ( 10 ) that are intended to help in this process by translating risk management decisions on risk in the population to measures that industry needs to implement in their daily operations ( 17 , 18 , 20 , 42 , 43 , 45 , 54 , 60 ) . 
+In the Codex Microbial Risk Management process ( 9 ) , among the many risk management options in addressing risk are to establish an FSO ( which signiﬁes a maximum hazard level at consumption that still constitutes a product that is safe for consumption ) , a PO ( similar to an FSO but earlier in the farm-to-fork food supply chain ) , or both . 
+Industry then has to make sure its operations are designed to meet prescribed FSO or PO values through the deployment of adequate food safety management systems and the application of appropriate controls . 
+In this respect , the PC concept is relevant , as it signiﬁes the change required to a hazard level at each step on the food chain in order to meet a PO or FSO . 
+Often , one key operation is at the heart of a food safety management program , such as the hazard analysis critical control point ( HACCP ) system . 
+This , for instance , is the case with products for which a thermal inactivation treatment needs to ensure product safety as part of manufacturing . 
+In operational terms , this is referred to as a critical control point . 
+The HACCP system has been used successfully for many years within the food industry , and the FSO concept now provides a functional link between food safety management systems and risk assessment ( 43 ) . 
+Decisions by industry on the appropriate operational parameters ( i.e. , the process criteria ) for such a thermal treatment need to be based on knowledge of whether the parameters will ensure that FSO or PO values will actually be met . 
+The Codex risk management process and the new risk-based concepts of FSO and PO are not yet actively utilized by many governments around the world , and there are several conceptual and practical hurdles en route that may inﬂuence their introduction in legislation ( 17 , 18 , 20 , 42 , 43 , 45 , 54 , 57 , 60 ) . 
+Among the reasons for this are that the Risk Analysis framework is still in a relatively early stage of development globally and , in particular , the problem that scientiﬁcally sound approaches to establishing FSO and PO values related to risk management have not been agreed upon . 
+A number of theoretical studies have been published concerning the FSO-setting process and suggesting possible FSO values for certain products ( 17 -- 20 , 38 , 42 , 43 , 45 , 54 , 55 , 57 , 60 ) . 
+To date , there is no country that has already adopted FSOs or POs in legislation and enforces them , but this is expected to happen in the ( near ) future . 
+In this article , a protocol is provided to decide on appropriate process criteria for a practical heat treatment re-gime intended to meet a hypothetical FSO . 
+This is based on the example of thermal inactivation of Salmonella in poultry meat . 
+Salmonella was determined to be the limiting organism with respect to the thermal processing of poultry products in an earlier exercise ( data not shown ) . 
+Several risk assessment approaches involving Salmonella in poultry meat , eggs , or both have already been described ( 6 , 26 , 35 , 36 , 56 , 58 ) . 
+Some other publications deal with microbiological risk assessment in an industrial context ( 44 , 49 ) or with practical applications of these concepts ( 4 , 7 , 60 ) . 
+The aim of the present study is not to undertake yet another risk assessment , but to investigate how the FSO and related concepts can be practically applied to design a heat treatment at an operational level . 
+In this example , the chicken meat is cooked at 70 C as part of product manufacture and marketed frozen . 
+Since the product appears cooked , it is possible that some consumers will consume the product without thorough reheating ; hence , there is a need to pasteurize the product prior to consumer use . 
+Four different approaches were followed in the design of a suitable process , focusing on the heat treatment time ( HTT ) as the key variable . 
+The modeling approaches were tested with a data set ( 25 ) previously used in the United States in conjunction with the 7-log reduction standard for Salmonella in poultry meat ( 47 , 48 ) . 
+The different steps taken in this desk exercise to come from FSO values to heat treatment process criteria will be described , as will the main ﬁndings and discoveries regarding the pro 's and con 's of the various alternative approaches followed . 
+MATERIALS AND METHODS
+Deciding on a hypothetical FSO for Salmonella in poultry meat . 
+Salmonella is a genus of the family Enterobacteriaceae , which are characterized as gram-negative , facultatively anaerobic , non -- spore-forming , rod-shaped bacteria that are motile by perit-richous ﬂagella or nonmotile . 
+Most are found in the intestines of humans and other animals and are considered pathogens ( 22 , 40 ) . 
+In literature , there are two ways of reporting the infectious dose ; some authors express it in absolute number of cells , and other authors express it in cells per gram of food . 
+In healthy adults , the infectious dose is generally reported to be more than 107 cells per g of food ( 24 ) . 
+However , in some outbreaks , lower values , such as 103 cells per g of food ( 52 ) or even 10 to 100 ( total number ) cells , have been found to cause illness in situations in which the organisms in the food are protected from gastric juices , e.g. , because of high fat levels ( 3 , 11 , 12 ) . 
+In susceptible children and adults , the infectious dose may be below 10 cells per g of food ( 52 ) . 
+In the United Kingdom 's Public Health Laboratory Service guidelines for RTE foods ( 16 ) , it is stated that RTE foods containing salmonellae `` may not always cause illness but there is good microbiological and epidemiological evidence that small numbers of pathogens in foods have caused illness . '' 
+The guidelines furthermore state that an RTE food is deemed unacceptable and potentially hazardous if Salmonella is detected in 25 g of food . 
+To translate this rule into an FSO , we have more than one possibility . 
+For instance , `` absence in 25 g '' could be interpreted either as FSO 0 or 1 CFU/25 g , because it is a situation of either having 0 viable Salmonella cells in the 25-g sample or 1 . 
+Mathematically , with a log transformation , it is difﬁcult to handle zero . 
+FSO 1 CFU/25 g seems incorrect , as `` absence in 25 g '' can not be 1 viable cell per 25 g. However , since the FSO signiﬁes a maximum level of a hazard , it is actually a target of `` up to 1 CFU/25 g , '' which still is typically interpreted as `` zero . '' 
+This interpretation is quite convenient to use in conjunction with the conceptual equation ( equation 1 ) proposed by the International Commission on Microbiological Speciﬁcations for Foods ( ICMSF ) ( 23 ) , in which log transformation is required ( 20 , 37 , 53 , 55 , 60 ) . 
+I 
+R 
+H 
+( 1 ) 
+FSO 
+0 
+In equation 1 , H0 is the initial level of the hazard at the manufacturing step ( i.e. , in the raw chicken , before cooking ) , R represents any reduction in the level of the hazard occurring in the manufacturing step , and I represents any increase in the level of the hazard occurring in the step . 
+Product and process design simulated . 
+The product simulated is frozen chicken meat , which the consumer needs to cook or fry as part of the ﬁnal preparation . 
+In industrial manufacture , the heat treatment of the raw chicken meat is a critical control point regarding the safety of the ﬁnal product . 
+The product is quickly frozen after industrial cooking and is kept frozen until just before ﬁnal preparation by the consumer . 
+Because of this , there is no growth possible after manufacturing until the consumer thaws the product . 
+It is also assumed that during manufacture , recontamination is effectively excluded , which makes I 0 . 
+As part of the product and process design , there is no hazard level reduction step that can be relied on after industrial cooking . 
+Also , ﬁnal prep-aration is not considered as such , since the cooking or frying might not always be applied adequately . 
+In effect , the industrial product is considered RTE , and the hazard level at the end of manufacturing ( i.e. , the PO for the manufacturing step ) equals the hazard level deﬁned by the FSO . 
+Since I 0 in this case example , the PC for the step is equal to R ; thus , the following equation applies : 
+PC 1 1.4 3.18 5.58 ( 3 ) 
+HTT PC D ( 4 ) 
+H0 R PO with PO FSO 
+Deriving the time parameter for the heat treatment from 
+FSO values . 
+In this study , we assume that the heat treatment temperature is always 70 C and that the variable endpoint is the time of the heat treatment ( noted as the HTT ) . 
+The time has been chosen , because at a practical level , the key factor that the operator can modify is the speed of the conveyor taking the pieces of chicken into and through the oven and consequently the residence time . 
+The approaches followed to calculate the HTT move gradually from deterministic assumptions , with single point estimates for each input , up to probabilistic concepts in which distributions of values are used as inputs , and the required HTT is derived probabilistically . 
+PC 1.4 3.18 4.58 ( 5 ) HTT PC Dupper limit of the 95 % CI ( 6 ) 
+Deterministic approaches : alternatives 1 and 2 . 
+When 1 CFU in 25 g is used as the FSO , this is equivalent to 0.04 CFU / g. And with the logarithm transformation , this corresponds to 1.4 . 
+This log transformation follows the same principle as this one developed by Isabel Walls and the International Life Sciences Institute group in 2005 ( 53 ) , working on L. monocytogenes ( p. 1993 ) : `` level of L. monocytogenes 1 CFU/100 g , i.e. , FSO of 2 log . '' 
+With I 0 , and PO FSO , equation 1 can be modiﬁed to obtain equation 2 : 
+R 
+H 
+( 2 ) 
+1.4 
+0 
+In this simulation , therefore , the cooking step is the control measure that needs to deliver the required PC , and this depends on the value of H0 . 
+With the temperature of the heat treatment ﬁxed at 70 C , what needs to be calculated is the HTT . 
+To obtain realistic values for the H0 without elaborate experimentation and testing , a literature review was conducted . 
+From studies that reported on the concentration of Salmonella in raw poultry ( 3 , 11 , 14 , 32 , 58 ) , a conservative worst-case level of contamination was set at 1,500 CFU/g of chicken meat . 
+Although literature references were found that reported the prevalence of Salmonella in chicken meat signiﬁcantly lower than 100 % ( 1 , 15 , 21 , 29 ) , this information was not used in the initial calculations of the four alternatives . 
+These calculations were done taking the prevalence as 100 % . 
+However , in the `` Results , '' the impact of the lower prevalence is considered . 
+In alternative 1 , it is assumed that 100 % of the raw chicken may have Salmonella present at a concentration of 1,500 CFU/g when coming into the cooking step . 
+Thus , the H0 is 3.18 log CFU/g . 
+Also , in this alternative , a safety margin of 1 log unit is considered in the process design , as suggested in a publication by 
+Walls ( 53 ) . 
+With a PO of 1.4 log CFU/g , a margin of safety in meeting the PO of 1 log CFU/g and an H0 of 3.18 log CFU , the PC follows from equation 3 : 
+This means that the heat treatment has to be set up to deliver at least a 5.58-log reduction to meet the PO . 
+The HTT is calculated as described in equation 4 : 
+To select a suitable D-value for use in alternative 1 , published literature served as the source of information ( 25 ) . 
+These data were used to estimate a mean value for D at 70 C by linear regression . 
+In alternative 2 , the PC is considered the minimum log reduction required to meet the PO without a 1-log safety margin . 
+The upper limit of the 95 % conﬁdence interval ( CI ) of the Dvalue at 70 C is taken as the input point estimate and not the mean value for the D-value . 
+The 95th percentile is approximately 1.6 standard deviations from the mean . 
+This way of building in a margin of safety has been proposed by Van Gerwen et al. ( 50 ) . 
+Details of the calculation are given in equations 5 and 6 . 
+First step in probabilistic approaches : alternative 3 . 
+Alternative 3 is a further progression from alternative 2 that uses the whole distribution of predicted D-values at 70 C as input rather than only the upper limit of the 95 % CI as a point estimate . 
+In addition , the raw material contamination , H0 , is input as a distribution of values and not as the highest concentration reported in the literature . 
+The distribution for H0 was constructed on the basis of 1 CFU/g as a minimum level in a realistic distribution scenario and 10 CFU/g as the most likely level . 
+This was combined with the assumed worst-case concentration ( i.e. , 1,500 CFU/g ) . 
+A Pert distribution ( 51 ) was built with H0 ( in log CFU per gram ) set up as minimum 0 , most likely 1 , and maximum 3.18 . 
+The consequence of this stochastic approach for the input values is that also the output , the HTT , is described by a distribution of values . 
+To compare the outcome of alternative 3 with the other approaches , one value of the HTT distribution needs to be chosen . 
+In this example , the HTT chosen for the comparison was the 95th percentile of the distribution of times following from equations 7 and 8 . 
+ment : alternative 4 . 
+The three approaches described above used the ICMSF conceptual equation ( equation 1 ) in the design of an appropriate process and interpreted the PC as a number of log reductions from which to derive the HTT at 70 C that would deliver the PC . 
+But more generally , PC time/D ( inverse of equation 4 ) is derived from equation 9 as follows : 
+PC 1.4 H ( 7 ) 0 
+HTT 95th percentile of equation 7 ( 8 ) 
+Further probabilistic interpretation of the heat treat ¬ 
+log N log N time/D ( 9 ) 0 
+In equation 9 , N is the number of surviving bacteria after the HTT , and N0 is the initial number of bacteria . 
+Equation 9 could be employed either when N ( and thus , consistently , also N0 ) is the quantity of bacteria per gram or per 25-g portion ( 30 , 34 ) . 
+Taking N and N0 as the number of bacteria in a 25-g portion , the same equation can be rewritten as shown in equation 10 . 
+From equation 10 , the probability , P , for one bacterium to survive in 25-g portions when the heat treatment is applied ( 30 , 34 ) can be deduced ( equation 11 ) . 
+P 10 ( time/D ) ( 11 ) 
+0.26 b 
+0.30 b 
+This probabilistic interpretation of the heat treatment leads to the consideration that with N0 bacteria in 25-g portions of chicken before the heat treatment and a probability P for each bacterium to survive , the number of bacteria in the 25-g heattreated portions follows a binomial distribution , with parameters N0 and P ( 28 , 31 , 34 , 51 ) as written in equation 12 . 
+N B ( N , P ) ( 12 ) 0 
+a Not possible to calculate in a log concept . 
+On the basis of probability theory ( 51 ) , P is also expressed as a function of the initial number of bacteria ( N0 ) and the targeted bacterial level in ﬁnal product ( N ) , as shown in equation 13 . 
+P beta ( 1 N , 1 N N ) ( 13 ) 0 Considering inputs for D and H0 distributions of values , the HTT is then deduced from P as indicated in equation 14 : 
+HTT 95th percentile of { log ( P ) D } ( 14 ) When the probabilistic approach described in alternative 4 is used , FSO can be either 0 or 1 per portion , e.g. , 0 in 25 g or 1 in 25 g. 
+Data sets . 
+The set of data used in this study was identical to the one used to inform HTT options to meet the U.S. standard of a 7-log reduction of Salmonella in poultry meat ( 47 , 48 ) . 
+In that study , a cocktail of eight strains was used to generate the data . 
+Full details regarding materials and methods can be found in the original article ( 25 ) . 
+The eight data sets from the reference study that concerned chicken meat with low levels of fat ( 2 and 6.3 % ) were utilized in the current study ( Fig. 1 ) . 
+Decimal logarithms of D-values , obtained at 58 , 60 , 62.5 , and 65 C , were plotted versus temperature values , and a linear regression ( see section below ) was carried out to estimate log D-values at 70 C ( mean values , standard deviation , and 95 % CI ) . 
+Deﬁnitively , when the heat treatment is recalculated at 70 C , there is an extrapolation . 
+The U.S. recommendations ( 47 , 48 ) , which are based on the same original data sets , are also based on extrapolation . 
+Scientiﬁcally , this adds uncertainty in the analysis . 
+The advantage of a probabilistic technique to deal explicitly with this uncertainty is emphasized in the `` Discussion . '' 
+b 95th percentile of the distribution , which is approximately 1.6 standard deviations from the mean . 
+Statistical techniques and software package . 
+To estimate the log D-values at 70 C , the equation log D log D T/z ref was solved by linear regression by the REG procedure of SAS software ( SAS Institute Inc. , Cary , N.C. ) . 
+First , the mean of the output value was used ( alternative 1 ) ; then , the upper limit of the 95 % CI based on the normal approximation was employed ( alternative 2 ) ; and ﬁnally , the whole distribution was used ( alternatives 3 and 4 ) . 
+When distributions of values were used as input , @Risk software ( Palisade Corporation , Newﬁeld , N.J. ) was deployed , running 50,000 iterations per output . 
+RESULTS HTT when FSO is interpreted as 1 CFU in 25 g. 
+For a cooking temperature of 70 C , the HTT that would deliver an appropriate level of hazard inactivation was calculated by four alternative approaches and two different FSO values as targets ( Table 1 ) . 
+For FSO 1 CFU/25 g and the conceptual equation of the ICMSF ( equation 1 ) , alternatives 1 and 2 , which used point estimates as inputs for the H and D-value , established HTT values of 0.32 and 0 0.43 min , respectively . 
+When inputs for both D-values and H0 were distributions rather than point estimates , the cooking times computed were even shorter , namely 0.27 min in alternative 3 , which considered the impact of the heat treatment a log reduction concept , or 0.26 min in alternative 4 , which considered the impact a probabilistic concept . 
+HTT for FSO 0 CFU/25 g . 
+The ﬁrst three alternatives suggested in this article used the conceptual equation of the ICMSF ( 23 ) . 
+A constraint of this approach is that this can not be utilized to design an HTT when FSO 0 CFU/25 g , i.e. , with a target of strict absence of a single viable Salmonella cell in a sample . 
+Only in alternative 4 , which follows a probabilistic interpretation of the impact of the heat treatment , can a numerical value `` 0 '' be used as the target ; thus , an FSO 0 CFU/25 g can also be used to derive the required cooking time . 
+The HTT computed with alternative 4 was 0.30 min ( Table 1 ) . 
+Xa 0.32 
+Alternative 1 , N0 as 1,500 CFU/g , D as equation 4 the expected value , addition of 1 log as safety margin , heat treatment as a log reduction concept Alternative 2 , N0 as 1,500 CFU/g , D as equation 6 the 95th conﬁdence interval upper limit , heat treatment as a log reduction concept Alternative 3 , N0 as a distribution , D as a equation 8 distribution , heat treatment as a log reduction concept Alternative 4 , N0 as a distribution , D as a equation 14 distribution , heat treatment as a probabilistic concept 
+Xa 
+0.43 
+FIGURE 1 . 
+D-values , as collected by Juneja et al. ( 26 ) and expressed as logarithms , are plotted versus heat treatment temperature . 
+Experimental data , predicted values , and upper limit of the 95 % conﬁdence interval are represented . 
+Xa 
+0.27 b 
+N N0 10 ( time/D ) ( 10 ) 
+0.26 b 
+0.30 b 
+a Not possible to calculate in a log concept . 
+RESULTS HTT when FSO is interpreted as 1 CFU in 25 g. 
+Assessing the probability of meeting an FSO . 
+The point has been made ( 18 , 20 ) that risk managers should specify the expected rate of compliance when stipulating an FSO , since a 100 % compliance would be excessively conservative . 
+After all , industries designing their operations to meet the FSO would have to build in large , operational conﬁdence margins in order to remain signiﬁcantly distant from the FSO level . 
+Should an expected level of compliance be speciﬁed , the probabilistic approach allows the calculation of the likelihood in meeting the FSO , depending on the setting of the HTT or vice versa . 
+The analysis of the likelihood of compliance was conducted assuming a prevalence of Salmonella in the raw poultry meat of either 100 or 5.7 % and with either an FSO 1 CFU/25 g or an FSO 0 CFU/25 g as the design target . 
+An illustrative result is given in Figure 2a , in which the outcome is shown assuming that 100 % of the product is contaminated and that N0 and D are input as point estimates , following the approach in alternative 1 . 
+With N0 at 1,500 CFU/g , D as the mean predicted value for D at 70 C and a 1-log of margin of safety , the minimum HTT has been calculated ( Table 1 ) to be 0.32 min , which , according to Figure 2a , corresponds to a probability of 99.3 % or of 88.2 % to meet the FSO when it is interpreted either as 1 CFU/25 g or as 0 CFU/25 g , respectively . 
+It can be seen from Figure 2a that the likelihood of meeting the FSO changes dramatically and over a wide range between HTTs of approximately 0.23 and 0.30 min and that a cooking time of approximately HTT 0.40 min is required for an optimal likelihood of compliance . 
+Conducting the analysis for a low prevalence of 5.7 % reported in the literature ( 15 ) with the two different FSO target values yielded results like the one shown in Figure 2b . 
+It was assumed that for a production batch considered , the prevalence would be exactly 5.7 % with a perfect mixing of the poultry minced meat in the 25-g portions , i.e. , that 5.7 % of the 25-g portions were contaminated and that 94.3 % of the portions were uncontaminated . 
+For alternative 1 ( with an HTT of 0.32 min ) , the analysis indicates a probability of meeting an FSO 1 and 0 CFU/25 g of 100.0 or 99.6 % , respectively . 
+DISCUSSION
+When heat treatment rules are implemented in an operational environment , a two-step process is required . 
+First , a targeted value is set . 
+Second , this targeted value is translated into operational parameters . 
+The study reported in this article is focused on the ﬁrst step . 
+With the four alternative process design calculations , the minimum time requirement at 70 C ranged from 0.26 to 0.43 min . 
+In practice ( the second step ) , longer HTTs might be required because of the control of spoilage and conﬁdence in the operational control of the process . 
+The four approaches differed in the types of input data considered and the mathematical modeling used to establish the HTT ; they are summarized in Table 1 . 
+Alternatives 1 and 2 follow deterministic approaches but differ in the way they manage the uncertainty of the input data by introducing an arbitrary safety margin ( as in alternative 1 ) or using the upper limit of the 95 % CI of log D-values and not the mean value for the D-value at 70 C ( alternative 2 ) . 
+Alternatives 3 and 4 , in contrast , use probabilistic inputs and are thus more explicit about the impact of uncertainty in establishing the HTT . 
+Depending on the approach followed , the outcomes of the calculations showed that it would be sufﬁcient to heat chicken meat at 70 C for between 0.26 and 0.43 min to achieve the target . 
+It is evident that the four approaches followed here yield results that are in the same order of magnitude and represent the minimum HTT required under certain conditions and considering one target pathogen only . 
+Our results are in agreement with U.S. recommendations ( 47 , 48 ) , and this is not unexpected , as we have used the same set of data as the U.S. Department of Ag-riculture , Food Safety and Inspection Service ( 25 ) . 
+Nevertheless , the results of this study indicate that the use of an articulated FSO derived from an `` absence of Salmonella spp . 
+in 25-g samples of poultry meat '' standard may establish process criteria that are signiﬁcantly different from the 70 C for 2 min advised in the United Kingdom to control vegetative pathogens in RTE foods ( 27 ) . 
+In an industrial context , such a reduction would bring substantial beneﬁts -- for instance , in the saving of energy , increased speed of throughput , improved raw material yield ( reduction of water loss ) , and improved end-product quality ( reduction of water loss and burning ) . 
+These factors can deliver substantial operational beneﬁts to manufacturers and ultimately provide signiﬁcant quality beneﬁts to the consumer without compromising product safety , which remains the primary consideration . 
+It should be stressed that the FSO values that were articulated in this study are hypothetical values used here solely to illustrate how such a concept could guide the establishment of an industry process . 
+In the guidelines that are under development by Codex Alimentatius ( 9 ) , it is clearly stated that setting an FSO is the prerogative of competent authorities in countries . 
+As the basis for deciding on a suitable FSO , when one is to be set , the competent authority may use different types of information , such as ep-idemiological evidence of a public health burden due to a particular pathogen associated with a food product , a microbiological risk assessment , or a microbiological criterion that already is in use . 
+For this article , the latter approach was chosen to decide on the FSO . 
+For Salmonella in RTE foods , the limit in a commonly used microbiological criterion is `` absence in 25 g. '' It seems a sensible target for a pathogen such as Salmonella , in which low doses have been associated with illness ( 3 , 11 , 12 ) . 
+While a 25-g portion size was chosen as an example in this study , other sizes could have been chosen as well to support our discussion or in practice by competent authorities ; for instance , a 100-g portion is a likely consumer 's portion size . 
+Converting this criterion to an FSO presented an issue with the correct numerical interpretation . 
+For this article , we chose to interpret it as either FSO 0 or 1 CFU/25 g . 
+A competent authority might use a different interpretation or might wish to add some margin of safety into the FSO value . 
+The use of both interpretations of the FSO in this article mimics the likely practical interpretation of `` absence of '' in a sample , since it may be viewed as the numerical `` 0 '' but also as `` up to 1 viable cell '' in the sample size . 
+As for the latter , `` up to 1 CFU/25 g '' complies better with the deﬁnition of the FSO , as coined by Codex Alimentarius , than FSO 1 CFU/25 g , but it can not be handled mathematically with a logarithmic transformation . 
+On the other hand , setting the FSO at 0 CFU/25 g made it difﬁcult to use the conceptual equation of the ICMSF in deriving the required PC from the FSO and , from it , the required process criteria because this approach requires logarithmic transformation . 
+A comparison of the outcomes of the two FSO targets is possible only by the alternative 4 approach . 
+It was found that the values for HTT at 70 C to comply with an FSO 0 or 1 CFU/25 g are not very different , being 0.30 or 0.26 min , respectively . 
+It seems that a lot of research groups use the conceptual equation of the ICMSF and then implicitly apply the FSO 1 CFU per portion size approach ( 20 , 55 , 60 ) , while the microbiological criteria for Salmonella are more in line with the FSO 0 CFU/25 g interpretation ( 13 ) . 
+The four alternative scenarios were chosen to illustrate how both deterministic and probabilistic approaches can be used to establish the HTT as part of the operational process criteria . 
+Since there was not a large difference between the outcomes of the deterministic and probabilistic scenarios , it could be noted that both might ﬁnd good utility and allow ﬁt-for-purpose application . 
+With the probabilistic approaches , the outcome is no longer a point estimate of HTT but a range of possible HTT outcomes . 
+For the process criterion , a single value still needs to be chosen , and in the current examples , this was chosen to be the value that encompasses 95 % of the possible HTT outcomes . 
+The point has been made by several authors that , to make an informed choice for a point estimate from a distribution of output values , a good understanding of the uncertainty and variability behind each input value is required ( 2 , 33 , 39 , 46 ) . 
+While choosing a value from the output distribution may seem to add some complexity , during the process , more insight is gained about the variability and uncertainty underlying the HTT value . 
+Moreover , even in the deterministic approach , choices are required about the point estimate values for input parameters ( e.g. , whether it is the mean , the upper 95 % CI , or the worst case ) . 
+In the process of deriving the HTT , the different approaches followed the use one or more assumptions , regarding the input data or the mathematical modeling . 
+The validity and impact of assumptions are important aspects and should be given due attention . 
+A critical assumption when the deterministic approach was used was that the prevalence of Salmonella on the raw chicken meat was 100 % . 
+This is a de facto assumption when the conceptual equation proposed by the ICMSF is used , which is not a truly mathematical formula but rather an articulation of the thought process followed when establishing a product and process design . 
+Thus , this equation would not allow a consideration of the impact of prevalence on the process criteria or on the ability of a process to meet an FSO . 
+This limitation has also been highlighted previously ( 20 ) . 
+From Figure 2 , it is possible to see that integrating prevalence has a profound effect on the probability that an FSO will be met . 
+In the simulations performed , even at low treatment times , the probability of meeting the FSO is relatively high ( ca. 99 % ) when a much lower prevalence of 5.7 % is considered . 
+When it is indeed known that the prevalence of the hazard in a raw material is low , assuming 100 % contamination is unrealistic , though it may be a way to include an additional safety margin . 
+However , it may well be that such a margin has already been considered , and an overly conservative design is being made . 
+A signiﬁcant advantage of the probabilistic approaches investigated in alternative 4 may be that they offer the possibility of quantifying explicitly the likelihood of meeting or failing the FSO target , as illustrated in Figure 2 . 
+Considering that FSO values might be set in conjunction with an expected performance rate to meet the FSO , this may be an important characteristic . 
+The operational heat treatment performance could be chosen to reach the FSO in , for example , 99.99 , 99.9 , 99 , 95 % , or some other percentage of cases , and the probabilistic modeling could be employed to establish the process criteria that meet the target with the expected performance . 
+A complication of the FSO concept is that it is mathematically difﬁcult to practically implement , and this is because of the equivalence of different choices for designs of the processing and product . 
+Different designs may result in different concentrations and frequencies of a hazard in the food production chain or at consumption . 
+Different combinations of hazard concentration and frequency that result in equal probabilities of consumer risk have been referred to as `` iso-probabilities '' ( 41 ) and developed into a preva-lence-dose equivalence curve by Havelaar et al. ( 20 ) . 
+The FSO concept as deﬁned by Codex Alimentarius allows different combinations of contamination concentrations and frequencies , but how will one be able to assess equivalent combinations either in terms of risk per serving or on a population level ? 
+Expressing expected performance by risk managers will also not be a straightforward affair when both concentration and frequency are part of the guidance . 
+In conclusion , with the increasing uptake of probabi-listic techniques , the onus is on governments and other relevant stakeholders to accommodate realistic outputs generated by these methods in the targets they set for microbial presence at the point of consumption . 
+While the early descriptions of concepts of FSO and PO have come with a 
+FIGURE 2 . 
+Probabilities to meet the FSO for different heat treatment times at 70 C are plotted . 
+Two interpretations of the FSO relative to the `` absence of Salmonella in 25 g '' are represented in each ﬁgure . 
+Differences in outputs as a function of the raw poultry prevalence are illustrated in the two panels : ( a ) simulations based on 100 % prevalence in raw poultry and ( b ) simulations based on 5.7 % prevalence in raw poultry . 
+`` clear line in the sand '' interpretation , stipulating a value that should never be exceeded ( 43 , 53 ) , the reality is that there will always be some quantiﬁable probability to exceed such a limit . 
+When the outputs of a risk assessment are therefore used to derive a process criterion from an FSO , it will also be necessary to have an explicit statement associated with the FSO value on the acceptable likelihood of exceeding that value . 
+In deciding on such qualiﬁed FSO values , the suitability to effectively verify compliance in operational practice by establishing mandatory microbiological criteria would have to be assessed . 
+Other researchers have also called for clariﬁcation on these points ( 13 , 20 ) , and it is advocated in this study that more advanced probabilistic approaches to risk assessment modeling are an important way to help increase the utility of risk-based concepts and make well-informed , realistic decisions on the required stringency of hazard control from the public as well as the private perspective . 
+While it appears the opportunities provided by risk-based food safety management are now being recognized and advanced ( 57 ) , the relationships between FSOs , sampling plans , and probabilistic risk assessment still need further elucidation , not only for governmental application but also for use in industry , as it continues to embrace the new methods to assist product and process design . 
+Governments , having unlocked the genie of microbiological risk assessment for food safety , now need to provide risk management guidance to industries that is consistent and compatible with the power of this new tool . 
+REFERENCES 
+1 . 
+Anonymous . 
+2004 . 
+Progress report on Salmonella testing of raw meat and poultry products , 1998 -- 2003 . 
+Available at : http://www . 
+fsis.usda.gov/oa/pubs/labterm.htm . 
+Accessed 7 October 2006 . 
+2 . 
+Barker , G. C. , P. K. Malakar , and M. W. Peck . 
+2005 . 
+Germination and growth from spores : variability and uncertainty in the assessment of food borne hazards . 
+Int . 
+J. Food Microbiol . 
+100:67 -- 76 . 
+3 . 
+Bell , C. , and A. Kyriakides . 
+2002 . 
+Salmonella , p. 307 -- 335 . 
+In C. d. W. Blackburn and P. J. McClure ( ed . ) 
+, Foodborne pathogens -- hazards , risk analysis and control . 
+Woodhead Publishing Ltd. , Cambridge . 
+4 . 
+Brooke-Taylor , S. 2001 . 
+Practical approaches to risk assessment . 
+Bio-med . 
+Environ . 
+Sci . 
+14:14 -- 20 . 
+5 . 
+Brown , B. E. 1997 . 
+Thermal processes -- development , validation , adjustment and control , p. 451 -- 488 . 
+In J. Larousse ( ed . ) 
+, Food canning and technology . 
+Wiley-VCH , New York . 
+6 . 
+Brown , M. H. , K. W. Davies , C. M. P. Billon , C. Adair , and P. J. McClure . 
+1998 . 
+Quantitative microbiological risk assessment : principles applied to determining the comparative risk of salmonellosis from chicken products . 
+J. Food Prot . 
+61:1446 -- 1453 . 
+7 . 
+Buchanan , R. L. , S. Dennis , and M. Miliotis . 
+2004 . 
+Initiating and managing risk assessments within a risk analysis framework : FDA / CFSAN 'S practical approach . 
+J. Food Prot . 
+67:2058 -- 2062 . 
+8 . 
+Codex Alimentarius Commission . 
+2006 . 
+Procedural manual . 
+Joint FAO/WHO Food Standards Programme , CAC Secretariat , Rome . 
+9 . 
+Codex Committee on Food Hygiene . 
+2005 . 
+Proposed draft principles and guidelines for the conduct of microbiological risk management . 
+In Report of the 37th Session of the Codex Committee on Food Hygiene , Buenos Aires , Argentina , 14 to 19 March 2005 . 
+ALINORM 05/28/13 , Appendix III . 
+10 . 
+Codex Committee on General Principles . 
+2005 . 
+Proposed draft working principles for risk analysis for food safety . 
+In Report of the 21st Session of the Codex Committee on General Principles , Paris , France , 11 to 15 April 2005 . 
+ALINORM 05/28/33A . 
+11 . 
+Cox , J. 2004 . 
+Salmonella , p. 1928 -- 1976 . 
+In R. K. Robinson , C. A. 
+Batt , and P. D. Patel ( ed . ) 
+, Encyclopaedia of food microbiology . 
+Ac-ademic Press , London . 
+12 . 
+Craven , P. C. , D. C. Mackel , W. B. Baine , W. H. Barker , E. J. Gangarosa , M. Goldﬁeld , H. Rosenfeld , R. Altman , G. Lachapelle , J. W. Davies , and R. C. Swanson . 
+1975 . 
+International outbreak of Sal-monella eastbourne infection traced to contaminated chocolate . 
+Lan-cet 1:788 -- 793 . 
+13 . 
+Dahms , S. 2004 . 
+Sampling plans and microbiological criteria as risk management options in recently developed food safety concepts . 
+Berl . 
+Muench . 
+Tieraerztl . 
+Wochenschr . 
+117:193 -- 200 . 
+14 . 
+Dufrenne , J. , W. Ritmeester , E. Delfgou-van Asch , F. van Leusden , and R. de Jonge . 
+2001 . 
+Quantiﬁcation of the contamination of chicken and chicken products in The Netherlands with Salmonella and Campylobacter . 
+J. Food Prot . 
+64:538 -- 541 . 
+15 . 
+Food Standards Agency . 
+1 January 2001 . 
+UK-wide survey of Sal-monella and Campylobacter contamination of fresh and frozen chicken on retail sale . 
+Available at : http://www.foodstandards.gov . 
+uk . 
+Accessed 7 October 2006 . 
+16 . 
+Gilbert , R. J. , J. de Louvois , T. Donovan , C. Little , K. Nye , C. D. Ribeiro , J. Richards , D. Roberts , and F. J. Bolton . 
+2000 . 
+Guidelines for the microbiological quality of some ready-to-eat foods sampled at the point of sale . 
+PHLS Advisory Committee for Food and Dairy Products . 
+Dis . 
+Public Health 3:163 -- 167 . 
+17 . 
+Gorris , L. G. M. 2005 . 
+Food Safety Objective : an integral part of food chain management . 
+Food Control 16:801 -- 809 . 
+18 . 
+Gorris , L. G. M. , J. Bassett , and J.-M . 
+Membré . 
+2006 . 
+The role of Food Safety Objectives in dealing with emerging pathogens , p. 153 -- 178 . 
+In Y. Motarjemi and M. Adams ( ed . ) 
+, Emerging foodborne path-ogens . 
+Woodhead Publishing Limited , Cambridge . 
+19 . 
+Gram , L. 2004 . 
+How to meet an FSO -- control of Listeria monocytogenes in the smoked ﬁsh industry . 
+Mitt . 
+Lebensmittelunters . 
+Hyg . 
+95:59 -- 67 . 
+20 . 
+Havelaar , A. H. , M. J. Nauta , and J. T. Jansen . 
+2004 . 
+Fine-tuning Food Safety Objectives and risk assessment . 
+Int . 
+J. Food Microbiol . 
+93:11 -- 29 . 
+21 . 
+Hernandez , T. , A. Sierra , C. Rodriguez-Alvarez , A. Torres , M. P. Arevalo , M. Calvo , and A. Arias . 
+2005 . 
+Salmonella enterica sero-types isolated from imported frozen chicken meat in the Canary Islands . 
+J. Food Prot . 
+68:2702 -- 2706 . 
+22 . 
+International Commission on Microbiological Speciﬁcations for Foods . 
+1996 . 
+Microorganisms in foods 5 : characteristics of microbial pathogens . 
+Chapman & Hall , London . 
+23 . 
+International Commission on Microbiological Speciﬁcations for Foods . 
+2002 . 
+Microorganisms in foods 7 : microbiological testing in food safety management . 
+Kluwer Academic/Plenum Publishers , New York . 
+24 . 
+Jay , J. M. , M. J. Loessner , and D. A. Golden . 
+2005 . 
+Foodborne gastroenteritis caused by Salmonella and Shigella , p. 619 -- 636 . 
+In D. R. Heldman ( ed . ) 
+, Modern food microbiology . 
+Springer Science , New York . 
+25 . 
+Juneja , V. K. , B. S. Eblen , and H. M. Marks . 
+2001 . 
+Modeling nonlinear survival curves to calculate thermal inactivation of Salmonella in poultry of different fat levels . 
+Int . 
+J. Food Microbiol . 
+70:37 -- 51 . 
+26 . 
+Juneja , V. K. , H. M. Marks , and L. H. Huang . 
+2003 . 
+Growth and heat resistance kinetic variation among various isolates of Salmo-nella and its application to risk assessment . 
+Risk Anal . 
+23:199 -- 213 . 
+27 . 
+Lund , B. M. , M. R. Knox , and M. B. Cole . 
+1989 . 
+Destruction of Listeria monocytogenes during microwave cooking . 
+Lancet i :218 . 
+28 . 
+Marks , H. M. , M. E. Coleman , C. T. J. Lin , and T. Roberts . 
+1998 . 
+Topics in microbial risk assessment : dynamic ﬂow tree process . 
+Risk Anal . 
+18:309 -- 328 . 
+29 . 
+Meldrum , R. J. , D. Tucker , R. M. M. Smith , and C. Edwards . 
+2005 . 
+Survey of Salmonella and Campylobacter contamination of whole , raw poultry on retail sale in Wales in 2003 . 
+J. Food Prot . 
+68:1447 -- 1449 . 
+30 . 
+Membré , J.-M. , A. Amézquita , J. Bassett , P. Giavedoni , C. d. W. Blackburn , and L. G. M. Gorris . 
+2006 . 
+A probabilistic modeling approach in thermal inactivation : estimation of postprocess Bacillus cereus spore prevalence and concentration . 
+J. Food Prot . 
+69:118 -- 129 . 
+31 . 
+Montville , R. , and D. Schaffner . 
+2005 . 
+Monte Carlo simulation of pathogen behavior during the sprout production process . 
+Appl . 
+Environ . 
+Microbiol . 
+71:746 -- 753 . 
+32 . 
+Mulder , R. W. A. W. , S. Notermans , and E. H. Kampelmacher . 
+1977 . 
+Inactivation of Salmonellae on chilled and deep frozen broiler carcasses by irradiation . 
+J. Appl . 
+Bacteriol . 
+42:179 -- 185 . 
+33 . 
+Nauta , M. J. 2000 . 
+Separation of uncertainty and variability in quantitative microbial risk assessment models . 
+Int . 
+J. Food Microbiol . 
+57 : 9 -- 18 . 
+34 . 
+Nauta , M. J. 2001 . 
+A modular process risk model structure for quantitative microbiological risk assessment and its application in an exposure assessment of Bacillus cereus in REPFED . 
+Available at : http://www.rivm.nl/bibliotheek/rapporten/149106007.html . 
+Accessed 7 October 2006 . 
+35 . 
+Oscar , T. P. 2004 . 
+A quantitative risk assessment model for Salmo-nella and whole chickens . 
+Int . 
+J. Food Microbiol . 
+93:231 -- 247 . 
+36 . 
+Parsons , D. J. , T. G. Orton , J. D'Souza , A. Moore , R. Jones , and C. E. R. Dodd . 
+2005 . 
+A comparison of three modelling approaches for quantitative risk assessment using the case study of Salmonella spp . 
+in poultry meat . 
+Int . 
+J. Food Microbiol . 
+98:35 -- 52 . 
+37 . 
+Pérez - Rodrıguez , F. , E. C. D. Todd , A. Valero , E. Carrasco , R. M. Garcıa , and G. Zurera . 
+2006 . 
+Linking quantitative exposure assessment and risk management using the Food Safety Objective concept : an example with Listeria monocytogenes in different cross-contam-ination scenarios . 
+J. Food Prot . 
+69:2384 -- 2394 . 
+38 . 
+Pitt , J. I. 2004 . 
+Application of the Food Safety Objective concept to the problem of aﬂatoxins in peanuts . 
+Mitt . 
+Lebensmittelunters . 
+Hyg . 
+95:52 -- 58 . 
+39 . 
+Pouillot , R. , I. Albert , M. Cornu , and J. B. Denis . 
+2003 . 
+Estimation of uncertainty and variability in bacterial growth using Bayesian inference . 
+Application to Listeria monocytogenes . 
+Int . 
+J. Food Microbiol . 
+81:87 -- 104 . 
+40 . 
+Prescott , L. M. , J. P. Harley , and D. A. Klein . 
+1996 . 
+The bacteria : gram negative bacteria of general , medical or industrial importance , p. 415 -- 437 . 
+In E. M. Sievers ( ed . ) 
+, Microbiology . 
+Wm. C. Brown Publishers , Boston . 
+41 . 
+Ross , T. , and C. Chan . 
+2002 . 
+Microbial criteria and microbiological risk assessment , p. 214 -- 247 . 
+In M. Brown and M. Stringer ( ed . ) 
+, Microbiological risk assessment in food processing . 
+Woodhead Publishing , Cambridge . 
+42 . 
+Stewart , C. M. , M. B. Cole , and D. W. Schaffner . 
+2003 . 
+Managing the risk of staphylococcal food poisoning from cream-ﬁlled baked goods to meet a Food Safety Objective . 
+J. Food Prot . 
+66:1310 -- 1325 . 
+43 . 
+Stringer , M. 2005 . 
+Food Safety Objectives -- role in microbiological food safety management . 
+Food Control 16:775 -- 794 . 
+44 . 
+Syposs , Z. , O. Reichart , and L. Meszaros . 
+2005 . 
+Microbiological risk assessment in the beverage industry . 
+Food Control 16:515 -- 521 . 
+45 . 
+Szabo , E. A. , L. Simons , M. J. Coventry , and M. B. Cole . 
+2003 . 
+Assessment of control measures to achieve a Food Safety Objective of less than 100 CFU of Listeria monocytogenes per gram at the point of consumption for fresh precut iceberg lettuce . 
+J. Food Prot . 
+66:256 -- 264 . 
+46 . 
+Thompson , K. M. 2002 . 
+Variability and uncertainty meet risk management and risk communication . 
+Risk Anal . 
+22:647 -- 654 . 
+47 . 
+U.S. Department of Agriculture , Food Safety and Inspection Service . 
+1999 . 
+Appendix A -- compliance guidelines for meeting lethality performance standards for certain meat and poultry products . 
+Available at : http://www.fsis.usda.gov/oa/fr/95033F-a.htm . 
+Accessed 7 October 2006 . 
+48 . 
+U.S. Department of Agriculture , Food Safety and Inspection Service . 
+2005 . 
+Time-temperature tables for cooking ready-to-eat poultry products . 
+Available at : http://www.fsis.usda.gov/OPPDE/rdad/ FSISNotices/RTE Poultry Tables.pdf . 
+Accessed 1 February 2007 . 
+49 . 
+Van Gerwen , S. J. C. , and L. G. M. Gorris . 
+2004 . 
+Application of elements of microbiological risk assessment in the food industry via a tiered approach . 
+J. Food Prot . 
+67:2033 -- 2040 . 
+50 . 
+Van Gerwen , S. J. C. , M. C. te Giffel , K. ' t Riet , R. R. Beumer , and M. H. Zwietering . 
+2000 . 
+Stepwise quantitative risk assessment as a tool for characterization of microbiological food safety . 
+J. Appl . 
+Microbiol . 
+88:938 -- 951 . 
+51 . 
+Vose , D. 2001 . 
+Probability distributions , p. 132 -- 134 . 
+In Risk analysis , a quantitative guide . 
+John Wiley & Sons Ltd. , Chichester , UK . 
+52 . 
+Vought , K. J. , and S. R. Tatini . 
+1998 . 
+Salmonella enteritidis contamination of ice cream associated with a 1994 multistate outbreak . 
+J. Food Prot . 
+61:5 -- 10 . 
+53 . 
+Walls , I. 2005 . 
+Achieving continuous improvement in reductions in foodborne listeriosis -- a risk-based approach . 
+J. Food Prot . 
+68:1932 -- 1994 . 
+54 . 
+Walls , I. 2006 . 
+Role of quantitative risk assessment and Food Safety Objectives in managing Listeria monocytogenes on ready-to-eat meats . 
+Meat Sci . 
+74:66 -- 75 . 
+55 . 
+Walls , I. , and R. L. Buchanan . 
+2005 . 
+Use of Food Safety Objectives as a tool for reducing foodborne listeriosis . 
+Food Control 16:795 -- 799 . 
+56 . 
+Whiting , R. C. , and R. L. Buchanan . 
+1997 . 
+Development of a quantitative risk assessment model for Salmonella enteritidis in pasteurized liquid eggs . 
+Int . 
+J. Food Microbiol . 
+36:111 -- 125 . 
+57 . 
+Whiting , R. C. , A. Rainosek , R. L. Buchanan , M. Miliotis , D. LaBarre , W. Long , A. Ruple , and S. Schaub . 
+2006 . 
+Determining the microbiological criteria for lot rejection from the performance objective or Food Safety Objective . 
+Int . 
+J. Food Microbiol . 
+110:263 -- 267 . 
+58 . 
+World Health Organization/Food and Agricultural Organization of the United Nations . 
+1 January 2002 . 
+Risk assessment of Salmonella in eggs and broiler chickens . 
+Available at : http://www.who.int/ foodsafety/publications/micro/en/salmonella.pdf . 
+Accessed 7 October 2006 . 
+59 . 
+World Trade Organization . 
+1 January 1995 . 
+The WTO agreement on the application of sanitary and phytosanitary measures ( SPS agreement ) . 
+Available at : http://www.wto.org/english/tratop e/sps e / spsagr e.htm . 
+Accessed 7 October 2006 . 
+60 . 
+Zwietering , M. H. 2005 . 
+Practical considerations on Food Safety Objectives . 
+Food Control 16:817 -- 823 .

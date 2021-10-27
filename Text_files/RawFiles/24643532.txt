@@ -1,0 +1,542 @@
+Salmonella enterica Serovar Typhi Impairs CD4 T Cell Responses by Reducing Antigen Availability
+Shaikh M. Atif , a Sebastian E. Winter , b * Maria G. Winter , b * Stephen J. McSorley , a Andreas J. Bäumlerb 
+Center for Comparative Medicine , Department of Anatomy , Physiology and Cell Biology , School of Veterinary Medicine , University of California , Davis , Davis , California , USAa ; Department of Medical Microbiology and Immunology , School of Medicine , University of California , Davis , Davis , California , USAb 
+Salmonella enterica serovar Typhi is associated with a disseminated febrile illness in humans , termed typhoid fever , while Sal-monella enterica serovar Typhimurium causes localized gastroenteritis in immunocompetent individuals . 
+One of the genetic differences between both pathogens is the presence in S. Typhi of TviA , a regulatory protein that shuts down ﬂagellin ( FliC ) expression when bacteria transit from the intestinal lumen into the intestinal mucosa . 
+Here we investigated the consequences of TviA-mediated ﬂagellum gene regulation on ﬂagellin-speciﬁc CD4 T cell responses in a mouse model of S. Typhimurium infection . 
+Introduction of the S. Typhi tviA gene into S. Typhimurium suppressed antigen presentation of dendritic cells to ﬂagellin-speciﬁc CD4 T cells in vitro . 
+Furthermore , TviA-mediated repression of ﬂagellin expression impaired the activation and proliferation of naive ﬂagellin-speciﬁc CD4 T cells in Peyer 's patches and mesenteric lymph nodes , which was accompanied by increased bacterial dissemination to the spleen . 
+We conclude that TviA-mediated repression of ﬂagellin expression reduces antigen availability , thereby weakening ﬂagellin-speciﬁc CD4 T cell responses . 
+The genus Salmonella comprises a group of pathogens associated with human illnesses ranging from localized gastroenteritis to disseminated febrile illness , termed typhoid fever ( reviewed in reference 1 ) . 
+The causative agent of typhoid fever , Salmonella enterica serovar Typhi , is strictly human adapted , and the resulting lack of suitable animal models has limited studies on its pathogenesis . 
+S. enterica serovar Typhimurium causes disseminated infection in mice , which is commonly used to model typhoid fever ( reviewed in reference 2 ) . 
+However , S. Typhimurium does not cause typhoid fever in humans but instead is associated with localized gastroenteritis in immunocompetent individuals ( reviewed in reference 3 ) . 
+Thus , genetic differences between S. Typhimurium and S. Typhi must account for the fact that the former pathogen is associated with localized enteric infection in humans while the latter disseminates to cause typhoid fever ( 4 , 5 ) . 
+An understanding of how relevant genetic differences between S. Typhimurium and S. Typhi inﬂuence the outcome of host-pathogen interactions will be required for a full comprehension of typhoid fever pathogenesis . 
+One relevant genetic difference is the presence in S. Typhi of Salmonella pathogenicity island 7 ( SPI7 ) , a large DNA region that is absent from the S. Typhimurium genome ( 6 ) . 
+Located on SPI7 is the viaB locus , composed of a regulatory gene , tviA , and an adjacent operon formed by the tviBCDE and vexABCDE genes . 
+TviA is a positive regulator of the tviBCDE vexABCDE operon , which encodes functions for the biosynthesis and the export of the virulence-associated ( Vi ) capsular polysaccharide of S. Typhi ( 7 , 8 ) . 
+Expression of the Vi capsular polysaccharide alters host-patho-gen interactions by preventing complement deposition ( 9 , 10 ) and by blunting the induction of proinﬂammatory host responses during infection ( 11 -- 14 ) . 
+However , the role of TviA during hostpathogen interactions is not limited to its function as a positive regulator of Vi capsular polysaccharide expression . 
+Osmoregulation prevents the expression of TviA in the intes-tinal lumen , but the expression of this regulatory protein rapidly commences when bacteria encounter tissue osmolarity during epithelial cell invasion ( 15 -- 17 ) . 
+Once available , TviA engages the response regulator RcsB as an auxiliary protein , thereby activating Vi capsular polysaccharide expression while repressing the expression of genes located outside SPI7 , including those involved in ﬂagellum-mediated motility and epithelial cell invasion ( 15 , 18 , 19 ) . 
+As a result , S. Typhi rapidly becomes nonmotile , noninvasive , and capsulated during its transition through the intestinal epithelium into mucosal tissue ( 16 , 20 ) . 
+While the above-mentioned data suggest that S. Typhi is non-ﬂagellated when it resides in intestinal tissue , ﬂagella are expressed by S. Typhimurium in Peyer 's patches ( 21 ) . 
+How does this difference in ﬂagellum expression between S. Typhi and S. Typhimu-rium affect the outcome of host-pathogen interactions ? 
+One of the consequences of TviA-mediated repression of ﬂagellum gene expression is the evasion of innate immune surveillance by Toll-like receptor 5 ( TLR5 ) ( 22 ) . 
+However , the ﬂagellar ﬁlament protein FliC ( ﬂagellin ) is also a major target of the adaptive immune response , as illustrated by the fact that a signiﬁcant fraction of S. Typhimurium-speciﬁc CD4 T cells generated during natural infection respond to this antigen ( 23 , 24 ) . 
+The goal of this study was to determine whether TviA-mediated gene regulation diminishes the development of mucosal FliC-speciﬁc CD4 T cell responses during infection . 
+Received 3 January 2014 Returned for modiﬁcation 31 January 2014 Accepted 6 March 2014 
+Published ahead of print 18 March 2014 Editor : B. A. McCormick Address correspondence to Andreas J. Bäumler , ajbaumler@ucdavis.edu . 
+* Present address : Sebastian E. Winter and Maria G. Winter , Department of Microbiology , University of Texas Southwestern Medical Center at Dallas , Dallas , Texas , USA . 
+S.M.A. and S.E.W. contributed equally to this work . 
+Copyright © 2014 , American Society for Microbiology . 
+All Rights Reserved . 
+doi :10.1128 / IAI.00020-14 
+Infection and Immunity p. 2247 -- 2254 
+MATERIALS AND METHODS
+Bacterial strains and culture conditions . 
+All Salmonella strains used in this study are listed in Table 1 . 
+Unless noted otherwise , Salmonella strains were routinely cultured at 37 °C in Luria-Bertani ( LB ) broth ( 10 g/liter tryptone , 5 g/liter yeast extract , 10 g/liter NaCl ) or on LB agar plates ( 15 g/liter agar ) . 
+For optimal expression of tviA , strains were ﬁrst cultured in LB broth for 16 h , diluted 1:50 in tryptone-yeast extract ( TYE ) broth ( 10 g/liter tryptone , 5 g/liter yeast extract ) , and incubated aerobically at 37 °C for another 3 h , as described previously ( 15 ) . 
+When appropriate , growth medium was supplemented with chloramphenicol at a ﬁnal concentration of 0.03 mg/ml , kanamycin at a ﬁnal concentration of 0.05 mg/ml , and nalidixic acid at a ﬁnal concentration of 0.01 mg/ml . 
+The turbidity of bacterial cultures was measured at a wavelength of 600 nm after dilution in phosphate-buffered saline ( PBS ) ( pH 7.4 ) . 
+Determination of gene transcription . 
+Salmonella strains were cultured as described above in TYE broth for 3 h . 
+A volume of 1 ml of bacterial culture was centrifuged for 2 min at 4 °C , and the supernatant was discarded . 
+RNA was isolated by using the Aurum Total RNA minikit ( Bio-Rad ) . 
+The DNA-free kit ( Life Technologies ) was used to minimize DNA contamination . 
+cDNA was generated from 0.1 g of RNA by using murine leukemia virus ( MuLV ) reverse transcriptase and reverse tran-scription-PCR ( RT-PCR ) reagents ( Life Technologies ) ( 22 ) . 
+As a control , a mock reaction with a mixture lacking the reverse transcriptase was performed to detect DNA contamination . 
+SYBR green-based real-time PCR was performed ( 22 ) with the primers listed in Table 2 . 
+Data were analyzed by employing the comparative threshold cycle ( CT ) method , normalizing ﬂiC and ﬂjB transcription to 16S rRNA levels . 
+The murine cell line JAWSII , obtained from the American Type Culture Collection ( ATCC CRL-11904 ) , was routinely passaged in complete growth medium consisting of alpha minimum essential medium supplemented with ribonucleosides , deoxyribonucleosides , 4 mM L-glutamine , 1 mM sodium pyruvate ( Life Technologies ) , 5 ng/ml murine granulocyte-macrophage colony-stimulating factor ( PeproTech ) , and 20 % fetal bo-vine serum ( Life Technologies ) . 
+For infection experiments , cells were seeded at a density of 1 105 cells per well into a 24-well plate ( Corning ) and incubated for 24 h at 37 °C in a water-saturated atmosphere containing 5 % carbon dioxide . 
+Cells were infected with S. Typhimurium strains and cultured in TYE broth as described above , at a multiplicity of infection ( MOI ) of 10 . 
+Plates were centrifuged at 500 g for 5 min to synchronize infection . 
+After 30 min , the supernatant was replaced with complete growth medium containing 0.1 mg/ml gentamicin . 
+Cells were lysed with Tri reagent ( Molecular Research Center ) 3 h 30 min later , and total RNA was extracted according to the recommendations of the manufacturer . 
+RNA was further puriﬁed by using the RNeasy MinElute Cleanup kit ( Qiagen ) and subjected to DNase treatment with the DNA-free kit ( Life Technologies ) . 
+Reverse transcription-PCR and real-time PCR were performed as outlined above . 
+Analysis of FliC protein levels by Western blotting . 
+The indicated Salmonella strains were cultured in TYE broth for 3 h , as described above . 
+Cell lysates corresponding to about 5 107 CFU were resolved by sodium dodecyl sulfate-polyacrylamide gel electrophoresis and transferred onto a polyvinylidene ﬂuoride membrane ( Millipore ) ( 22 ) . 
+FliC and the housekeeping protein GroEL were analyzed by using rabbit Salmonella H antiserum i ( Difco ) , rabbit Salmonella H antiserum d ( Difco ) , and rabbit GroEL antiserum ( Sigma ) , in conjunction with a horseradish peroxidase-conjugated goat anti-rabbit secondary antibody ( Bio-Rad Laboratories ) . 
+Chemiluminescence was detected by using a ChemiDoc-It system ( UVP ) . 
+Images were processed with Photoshop ( Adobe ) to adjust brightness and contrast uniformly to the entire image . 
+Ethics statement . 
+This study was performed in accordance with recommendations in the Guide for the Care and Use of Laboratory Animals ( 25 ) All animal experimentation was approved by the Institutional Animal Care and Use Committee of the University of California , Davis . 
+Mouse strains and husbandry . 
+C57BL/6 mice were purchased from Jackson Laboratory . 
+Nramp / ( Slc11a1 / ) mice on the C57BL/6 background were generated by the Barton laboratory ( 26 ) and provided by Renée Tsolis ( University of California , Davis ) . 
+Rag1-deﬁcient , CD90 .1 congenic , ﬂagellin-speciﬁc , SM1 T cell receptor ( TCR ) transgenic mice ( 27 , 28 ) were bred in our animal facility . 
+All mice used in this study were age and sex matched . 
+Water and food were provided ad libitum throughout the experiment . 
+Adoptive transfer and oral infection . 
+Spleen and inguinal , brachial , cervical , and mesenteric lymph nodes were harvested from SM1 mice , and red blood cells were lysed by using ammonium-chloride-potassium ( ACK ) lysis buffer ( Lonza ) before labeling with carboxyﬂuorescein succinimidyl ester ( CFSE ) ( 29 ) . 
+The percentage of transgenic T cells was determined , and 800,000 to 1 106 cells were transferred intravenously into recipient mice . 
+One day after the transfer , groups of mice were given 0.1 ml of a 5 % sodium bicarbonate solution to neutralize the pH of the stomach and then intragastrically inoculated with 1 109 CFU of the indicated S. Typhimurium strains suspended in 0.1 ml PBS or mock treated with 0.1 ml PBS . 
+The dose of bacteria in the inoculum was con-ﬁrmed by plating onto MacConkey agar plates . 
+In vitro antigen presentation assay . 
+Antigen presentation assays were performed as described previously ( 30 ) . 
+Brieﬂy , spleens from C57BL/6 mice were digested by using collagenase D ( Roche Diagnostics ) , and dendritic cells ( DC ) were enriched to a purity of 85 to 95 % by using CD11c MicroBeads ( Miltenyi Biotech ) . 
+DCs , seeded at a density of 1 105 cells per well , were infected for 30 min with various concentrations of bacteria suspended in Dulbecco 's PBS ( DPBS ) , corresponding to the MOIs indicated in the ﬁgure legend . 
+Cells were washed three times with serum-free medium to remove extracellular bacteria . 
+Infected DCs were incubated in a 1:1 ratio with SM1 T cells . 
+Activation of CD4 T cells was examined after 16 h of culture by surface staining . 
+In vivo expansion of SM1 TCR transgenic T cells , ﬂow cytometric analysis , and antibodies . 
+Spleen , mesenteric lymph nodes , and Peyer 's patches were collected 5 days after infection and were homogenized to generate a single-cell suspension in PBS ( pH 7.4 ) . 
+T cell activation was examined by using antibodies speciﬁc for CD4 , CD90 .1 , CD11a , and CD69 ( eBioscience ) . 
+Cells were analyzed by using a Fortessa ﬂow cytom ¬ 
+Strain 
+Source or reference 
+S. Typhi Ty2 STY2 SW74 SW483 
+ATCC 700931 40 22 15 
+ild y2 y2 y2 
+W T T T 
+type ; Vi 
+viaB : : Kanr tviB-vexE : : C viaB ﬂiC 
+mr ; Vi 
+S. Typhimurium IR715 
+Nalidixic acid-resistant derivative of ATCC 14028 ; wild type r IR715 phoN : : Kan r IR715 phoN : : tviA-Cm r IR715 phoN : : Kan ﬂiC ﬂjB : : MudCm 
+41 
+478 474 681 
+SW SW SW 
+42 15 16 
+TABLE 2 Oligonucleotides used in this study 
+Target Sequence Reference S. Typhimurium 16S rRNA 5 = - TGTTGTGGTTAATAACCGCA-3 = 43 5 = - GACTACCAGGGTATCTAATCC-3 = 
+S. Typhimurium ﬂiC 5 = - GTAACGCTAACGACGGTATC-3 = This study 5 = - ATTTCAGCCTGGATGGAGTC-3 = 
+S. Typhimurium ﬂjB 5 = - CTACGCGCTTCAGACAGATT-3 = This study 5 = - GATCTGGGTGCGGTACAAA-3 = eter ( BD Biosciences ) , and data were analyzed by using FlowJo software ( Treestar ) . 
+Bacterial load in organs . 
+SM1 T cells were transferred into C57BL/6 Nramp / mice and orally infected as described above . 
+Animals were euthanized 3 days after infection , and tissues were collected . 
+The bacterial load in Peyer 's patches , mesenteric lymph node , and spleen was determined by spreading tissue homogenates onto LB agar plates containing the appropriate antibiotics . 
+Statistical analysis . 
+An unpaired Student t test was employed to determine statistical signiﬁcance . 
+A P value of 0.05 was considered statistically signiﬁcant . 
+42 15 16 
+TABLE 2 Oligonucleotides used in this study 
+RESULTS
+S. Typhimurium as a model to study TviA-mediated ﬂagellin regulation . 
+Since S. Typhi is not pathogenic for mice , we wanted to investigate how TviA affects the development of CD4 T cell responses using a mouse-virulent S. Typhimurium strain expressing the S. Typhi tviA gene . 
+To this end , we employed a S. Typhi-murium phoN : : tviA mutant in which the tviA promoter as well as the tviA coding sequence are inserted chromosomally into the phoN gene ( 15 ) . 
+The tviA gene and remnants of the phoN gene are encoded by opposite strands , ensuring that the transcription of tviA is controlled solely by its native promoter . 
+The phoN gene is disrupted in the S. Typhimurium phoN : : tviA mutant , and the contribution of tviA to host-microbe interactions can be ascertained by comparing it with an isogenic S. Typhimurium phoN mutant . 
+To compare responses to those generated when phase I ﬂagellin ( FliC ) and phase II ﬂagellin ( FljB ) proteins of S. Typhimurium are completely absent , we used an isogenic nonﬂagellated S. Typhi-murium phoN ﬂiC ﬂjB mutant ( 16 ) . 
+To provide a proof of concept for our approach , we compared FliC expression in the above-described S. Typhimurium strains with those in equivalent S. Typhi strains grown under tviA-induc-ing conditions using detection of the heat shock protein GroEL as a loading control . 
+Using anti-S . 
+Typhi FliC serum ( anti-Hd se-rum ) , low-level FliC expression was detected in S. Typhi strains carrying an intact tviA gene ( wild type and tviB-vexE mutant ) ( Fig. 1A and B ) . 
+Consistent with a role for TviA in ﬂagellin repression ( 15 ) , the FliC expression level was markedly increased in a S. 
+FIG 1 TviA represses ﬂagellin expression in vitro and during infection of cultured mononuclear cells . 
+( A ) Schematic of the viaB locus of S. Typhi . 
+Sizes and locations of deletions present in the S. Typhi tviB-vexE mutant ( SW74 ) and the S. Typhi viaB mutant ( SW347 ) are indicated . 
+( B and C ) S. Typhi wild-type ( Ty2 ) , tviB-vexE mutant ( SW74 ) , viaB mutant ( SW347 ) , and viaB ﬂiC mutant ( SW483 ) strains as well as S. Typhimurium wild-type ( IR715 ) , phoN mutant ( SW478 ) , phoN : : tviA mutant ( SW474 ) , and phoN ﬂiC ﬂjB mutant ( SW681 ) strains were cultured in TYE medium for 3 h. Expression of FliC was determined by Western blotting using Hd-speciﬁc antiserum ( Hd ) ( B ) or Hi-speciﬁc antiserum ( Hi ) ( C ) . 
+As a loading control , the expression of GroEL was examined ( GroEL ) . 
+The approximate location of marker proteins is indicated on the left . 
+( D and E ) Transcription of ﬂiC ( D ) and ﬂjB ( E ) in S. Typhimurium wild-type ( IR715 ) , phoN mutant ( SW478 ) , and tviA-expressing phoN : : tviA mutant ( SW474 ) strains during growth in TYE broth . 
+Levels of mRNA were determined by quantitative RT-PCR and normalized to levels of 16S rRNA . 
+( F ) Murine mononuclear cells ( JAWSII cell line ) were infected with the indicated S. Typhimurium strains for 4 h. Transcription of ﬂiC , normalized to 16S rRNA levels , was determined by quantitative RT-PCR . 
+Bars represent the geometric means standard errors . 
+, P 0.05 ; , P 0.001 ; ND , none detected ; ns , not statistically signiﬁcant . 
+Typhi strain lacking the tviA gene ( viaB mutant ) . 
+As expected , deletion of ﬂiC , the sole ﬂagellin gene present in this monophasic serovar , abrogated FliC expression in S. Typhi ( viaB ﬂiC mutant ) . 
+Similarly , S. Typhimurium strains lacking the tviA gene ( wild type and phoN mutant ) exhibited FliC expression at a higher level than did a strain carrying the tviA gene ( phoN : : tviA mutant ) ( Fig. 1C ) . 
+In the nonﬂagellated S. Typhimurium phoN ﬂiC ﬂjB mutant , FliC expression was no longer detectable by using anti-S . 
+Typhimurium FliC serum ( anti-Hi serum ) . 
+In S. Typhi , TviA acts as an auxiliary protein for RcsB , the response regulator of the Rcs phosphorelay system ( 15 , 18 ) . 
+TviA exerts its effect on ﬂagellar gene regulation in conjunction with RcsB by repressing transcription of the ﬂagellar master regulators ﬂhDC , which control the expression of ﬂagellar genes ( 15 , 16 ) . 
+Consistent with this idea , the expression of tviA in S. Typhimu-rium resulted in the concomitant downregulation of ﬂiC and ﬂjB mRNA levels ( Fig. 1D and E ) , as determined by quantitative realtime PCR . 
+Thus , the TviA-mediated repression of ﬂagellin expression observed in S. Typhi could be recapitulated by introducing the tviA regulatory gene into S. Typhimurium . 
+TviA-mediated gene regulation reduces antigen presentation in cell culture . 
+We initiated our analysis by investigating whether tviA-mediated gene regulation would lower ﬂiC expression levels when bacteria reside within host cells . 
+Murine mono-nuclear ( JAWSII ) cells were infected with S. Typhimurium strains carrying the S. Typhi tviA gene ( phoN : : tviA mutant ) or lacking the tviA gene ( phoN mutant ) , and the expression level of ﬂiC in intracellular bacteria was determined 4 h later by quantitative real-time PCR . 
+The presence of the tviA gene signiﬁcantly ( P 0.05 ) reduced ﬂiC transcript levels in intracellular bacteria ( Fig. 1F ) . 
+As expected , no ﬂiC expression could be detected in JAWSII cells infected with the S. Typhimurium phoN ﬂiC ﬂjB mutant . 
+The observation that TviA reduced ﬂiC transcript levels within phagocytes was intriguing , since it raised the possibility that bacterial gene regulation might diminish the amount of antigen available for presentation . 
+To test this hypothesis , we isolated CD11c dendritic cells from spleens of mice ( C57BL/6 Nramp / mice ) and treated them with the vehicle control ( DPBS ) or with different MOIs of S. Typhimurium strains carrying the tviA gene ( phoN : : tviA mutant ) , lacking the tviA gene ( phoN mutant ) , or lacking ﬂagellum expression ( phoN ﬂiC ﬂjB mutant ) . 
+To assess antigen presentation , CD11c dendritic cells were cocultured for 16 h with CD4 T cells expressing a S. Typhimurium FliC-speciﬁc T cell antigen receptor ( TCR ) ( ﬂagellin-speciﬁc SM1 T cells ) ( 27 , 28 ) . 
+Finally , the activation of ﬂagellin-speciﬁc SM1 T cells was assessed by detecting the expression of CD69 , an early marker of T cell activation which is expressed rapidly on the surface of activated T cells after TCR ligation ( 31 ) . 
+Prominent CD69 expression on ﬂagellin-speciﬁc SM1 T cells was observed after coculture with dendritic cells infected with the S. Typhimurium phoN mutant at MOIs of 10 and 100 ( Fig. 2A ) . 
+In contrast , coculture with dendritic cells infected with the S. Typhimurium phoN : : tviA mutant at an MOI of 10 did not result in CD69 expression on ﬂagellin-speciﬁc SM1 T cells , while CD69 expression was signiﬁcantly ( P 0.05 ) reduced at an MOI of 100 compared to that elicited by the phoN mutant ( Fig. 2B ) . 
+No activation of ﬂagellin-speciﬁc SM1 T cells was observed after coculture with dendritic cells infected with the nonﬂagellated S. Typhimurium phoN ﬂiC ﬂjB mutant , suggesting that the observed CD4 T cell responses were antigen speciﬁc . 
+Collectively , these data supported the idea that TviA-mediated repression of ﬂagellum expression diminished antigen presentation in vitro . 
+TviA diminishes ﬂagellin-speciﬁc , naive CD4 T cell responses in vivo . 
+To test the in vivo relevance of our observations , ﬂagellin-speciﬁc SM1 T cells were adoptively transferred into recipient mice ( C57BL/6 Nramp / ) . 
+One day later , recipient mice were inoculated intragastrically with sterile medium ( mock infection ) or with the S. Typhimurium phoN mutant , the phoN : : tviA mutant , or the phoN ﬂiC ﬂjB mutant . 
+Flagellin-speciﬁc T cell responses to infection with virulent S. Typhimurium remain localized to the gut-associated lymphoid tissue ( 27 ) . 
+We thus measured the expansion of ﬂagellin-speciﬁc SM1 T cells 5 days after infection in Peyer 's patches using ﬂow cytometry . 
+The CD90 .1 marker was used to distinguish ﬂagellin-speciﬁc SM1 T cells of the donor mouse ( CD90 .1 cells ) from T cells of the recipient mouse ( CD90 .1 cells ) ( Fig. 3A ) . 
+The fraction of CD4 CD90 .1 cells present in the Peyer 's patch lymphocyte population was signiﬁcantly ( P 0.05 ) increased in mice infected with the S. Typhimu-rium phoN mutant compared to mice infected with the phoN : : tviA mutant or the phoN ﬂiC ﬂjB mutant ( Fig. 3B ) . 
+These data suggested that TviA-mediated ﬂagellin repression blunted the expansion of naive ﬂagellin-speciﬁc CD4 T cells during S. Typhimurium infection . 
+To further examine the effect of TviA on the activation and proliferation of CD4 T cells , ﬂagellin-speciﬁc SM1 T cells were labeled with CFSE and adoptively transferred into recipient mice ( C57BL/6 Nramp / ) . 
+Recipient mice were inoculated intragastrically with sterile medium ( mock infection ) or with the S. Typhimurium phoN mutant , the phoN : : tviA mutant , or the phoN ﬂiC ﬂjB mutant . 
+The progressive halving of CFSE ﬂuorescence intensity associated with T cell proliferation was monitored 5 days after infection in both Peyer 's patches ( Fig. 4A ) and mesenteric lymph nodes ( Fig. 4B ) . 
+Expression of CD11a , an integrin important for the expansion and differentiation of primary T cells ( 32 ) , was monitored to assess T cell activation . 
+The presence of the tviA gene signiﬁcantly ( P 0.05 ) blunted the proliferation of ﬂagellin-speciﬁc T cells in both Peyer 's patches ( Fig. 4C ) and mesenteric lymph nodes ( Fig. 4D ) during infection with the phoN : : tviA mutant compared to infection with the phoN mutant . 
+Proliferation of ﬂagellin-speciﬁc T cells was antigen speciﬁc , because it was not observed during infection with a S. Typhimurium strain lacking ﬂagellin antigens ( phoN ﬂiC ﬂjB mutant ) . 
+These data suggested that TviA-mediated ﬂagellin regulation suppressed the proliferation of ﬂagellin-speciﬁc CD4 T cells at mucosal sites during S. Typhimurium infection . 
+To investigate how the pathogen is affected by TviA-mediated ﬂagellin regulation , ﬂagellin-speciﬁc SM1 T cells were adoptively transferred into recipient mice ( C57BL/6 Nramp / ) . 
+One day later , recipient mice were inoculated intragastrically with sterile medium ( mock infection ) or with the S. Typhimurium phoN mutant or the phoN : : tviA mutant . 
+Bacterial loads at mucosal sites ( i.e. , 
+FIG 2 Impact of TviA-mediated gene regulation on antigen presentation in / cell culture . 
+CD11c dendritic cells isolated from C57BL/6 Nramp mice were treated with medium alone ( DPBS ) or infected with various amounts of the indicated S. Typhimurium strains suspended in DPBS . 
+The MOI is indicated below each panel . 
+Thirty minutes after infection , cells were washed and subsequently cocultured for 16 h with ﬂagellin-speciﬁc SM1 T cells . 
+( A ) Representative histograms of CD69 expression on gated SM1 T cells ( CD4 CD90 .1 ) . 
+( B ) Bars represent the geometric means standard errors of activated SM1 T cells as a percentage of all SM1 T cells . 
+The experiment was performed in triplicate . 
+, P 0.05 ; , P 0.001 . 
+FIG 3 TviA modulates ﬂagellin-speciﬁc , naive CD4 T cell responses in vivo . 
+The expansion of adoptively transferred SM1 T cells ( CD4 CD90 .1 ) in Peyer 's patches in response to infection with various S. Typhimurium strains was investigated . 
+Mice were orally infected for 5 days with a phoN mutant ( SW478 ) , a phoN : : tviA mutant ( SW474 ) , or a phoN ﬂiC ﬂjB mutant ( SW681 ) or were mock treated ( transfer only ) . 
+( A ) Representative plots show ﬂagellin-speciﬁc SM1 T cells ( CD4 CD90 .1 ) . 
+( B ) Bars represent the geometric means standard errors of gated SM1 T cells ( CD4 CD90 .1 ) for groups of 5 mice . 
+, P 0.05 . 
+Peyer 's patches and mesenteric lymph nodes ) and bacterial dissemination to the spleen were assessed 3 days after infection ( Fig. 5A to C ) . 
+Dissemination of S. Typhimurium to the spleen was increased approximately 10-fold ( P 0.05 ) by the presence of the tviA gene ( Fig. 5C ) . 
+DISCUSSION
+Flagellin is a dominant CD4 T cell antigen during S. Typhimurium infection ( 23 , 24 ) . 
+Tracking of the fate of naive ﬂagellin-speciﬁc CD4 T cells during oral S. Typhimurium infection using an adoptive transfer system revealed rapid activation in Peyer 's patches and mesenteric lymph nodes but no response in the spleen ( 27 ) . 
+This activation pattern is unrelated to the bacterial load within these organs , but as our data suggest , it might be inﬂuenced by antigen availability . 
+During infection of mice , ﬂiC transcription is detected only in S. Typhimurium bacteria recovered from Peyer 's patches but not in bacteria recovered from the mesenteric lymph node and spleen ( 21 ) . 
+Here we show that by lowering FliC expression levels , the introduction of the tviA gene into S. Typhimurium reduced the activation of ﬂagellin-speciﬁc CD4 T cells in Peyer 's patches and mesenteric lymph nodes . 
+Collectively , these data suggest that antigen availability in Peyer 's patches is critical for the activation of naive ﬂagellin-speciﬁc CD4 T cells in Peyer 's patches and mesenteric lymph nodes . 
+TviA has emerged as a master regulator of processes that enable S. Typhi to cause disseminated illness in humans , rather than remaining localized to the intestine and mesenteric lymph node ( 33 ) . 
+Through osmoregulation of TviA expression , S. Typhi can sense its transition from the intestinal lumen into tissue and respond rapidly by repressing ﬂagellum and invasion gene expression while activating the expression of the Vi capsular polysaccharide ( 16 , 20 ) . 
+Speciﬁcally , TviA represses the transcription of 105 genes involved in the function of the invasion-associated type III secretion system , in chemotaxis , and in ﬂagellum biosynthesis , including ﬂiC and ﬂjB ( 15 ) . 
+Our results suggest that by repressing ﬂagellum gene expression , TviA can suppress ﬂagellin-speciﬁc CD4 T cell responses that help limit dissemination from the mes-enteric lymph node to the spleen . 
+These observations add to a growing body of work suggesting that ﬂagellin expression in the intestinal mucosa is an obstacle for bacterial dissemination to systemic sites . 
+The nonﬂagellate organism S. enterica serovar Gallinarum causes a disseminated illness in poultry , termed fowl typhoid . 
+Restoration of ﬂagellum expression in S. Gallinarum results in severe attenuation and limits the patho-gen 's ability to disseminate within its avian host ( 34 ) . 
+Similarly , ﬂagellin expression limits the dissemination of S. Typhimurium to the spleen in a chick model of infection ( 16 , 35 ) . 
+A S. Typhimu-rium variant , termed deﬁnitive phage type 2 ( DT2 ) , which is associated exclusively with disseminated disease in pigeons ( 36 ) , exhibits repressed ﬂagellum expression after growth at 42 °C , the approximate body temperature of its avian host ( 37 ) . 
+This observation suggests that disseminated disease caused by DT2 in pigeons is also accompanied by a repression of ﬂagellum expression in host tissue . 
+One caveat of comparing data from avian hosts with those from mammalian hosts is the lack of lymph nodes in the former group . 
+S. Typhimurium does not spread beyond the mesenteric lymph node in immunocompetent humans , although mice infected with the pathogen develop bacteremia ( 2 ) . 
+While barrier functions are impaired in mice compared to humans , the mesenteric lymph node of mice still serves as a protective ﬁlter to restrain the dissemination of bacteria , because its surgical removal increases bacterial loads in the spleen ( 38 , 39 ) . 
+Our data suggest that TviA-mediated suppression of ﬂagellin-speciﬁc CD4 T cell responses facilitates passing the barrier formed by the mesenteric lymph node , thereby resulting in increased bacterial dissemination to the spleen . 
+In conclusion , TviA-mediated repression of ﬂagellin expression in intestinal tissue is one of the properties that help explain why S. Typhi is more efﬁcient than S. Typhimurium in disseminating beyond the mesenteric lymph node and causes bacteremia . 
+FIG 4 Effect of TviA on activation and proliferation of ﬂagellin-speciﬁc , naive SM1 T cells in Peyer 's patches and mesenteric lymph nodes . 
+A total of 1 106 CFSE-labeled , ﬂagellin-speciﬁc SM1 T cells were adoptively transferred into C57BL/6 Nramp / mice . 
+Groups of these mice were mock treated ( transfer only ) or orally infected with the indicated S. Typhimurium strains . 
+T cells were isolated from Peyer 's patches ( A and C ) and mesenteric lymph nodes ( B and D ) 5 days after infection . 
+CFSE staining as well as CD11a expression on SM1 T cells were examined by ﬂow cytometry ( gated on CD4 CD90 .1 SM1 T cells ) . 
+( A and B ) Representative plots for CD11a and CFSE staining ( top ) and representative histogram plots for CFSE staining in SM1 T cells ( bottom ) . 
+( C and D ) Bars represent the geometric means standard errors of CD11a-expressing , CFSE-low SM1 T cells in groups of 3 mice . 
+, P 0.05 ; , P 0.01 ; , P 0.001 . 
+FIG 5 TviA augments dissemination to the spleen . 
+Flagellin-speciﬁc SM1 T cells were adoptively transferred into Nramp / mice . 
+Animals were mock treated ( n 3 ) or orally inoculated with the S. Typhimurium phoN mutant ( SW478 ) ( n 5 ) or the phoN : : tviA mutant ( SW474 ) ( n 5 ) . 
+The bacterial load in Peyer 's patches ( A ) , mesenteric lymph node ( B ) , or spleen ( C ) was determined 3 days after infection . 
+Bars represent the geometric means standard errors . 
+, P 0.05 . 
+ACKNOWLEDGMENTS
+This investigation was conducted in a facility constructed with support from Research Facilities Improvement Program grant number C06 RR12088-01 from the National Center for Research Resources , National Institutes of Health . 
+This work was supported by Public Health Service grants AI044170 ( A.J.B. ) , AI103248 ( S.E.W. ) , AI055743 ( S.J.M. ) , and AI076278 ( S.J.M. ) . 
+REFERENCES 
+1 . 
+Santos RL , Zhang S , Tsolis RM , Kingsley RA , Adams LG , Bäumler AJ . 
+2001 . 
+Animal models of Salmonella infections : enteritis vs. typhoid fever . 
+Mircrobes Infect . 
+3:1335 -- 1344 . 
+http://dx.doi.org/10.1016/S1286-4579 ( 01 ) 01495-2 . 
+2 . 
+Tsolis RM , Xavier MN , Santos RL , Bäumler AJ . 
+2011 . 
+How to become a top model : impact of animal experimentation on human Salmonella disease research . 
+Infect . 
+Immun . 
+79:1806 -- 1814 . 
+http://dx.doi.org/10.1128 / IAI.01369-10 . 
+3 . 
+Rabsch W , Tschape H , Bäumler AJ . 
+2001 . 
+Non-typhoidal salmonellosis : emerging problems . 
+Microbes Infect . 
+3:237 -- 247 . 
+http://dx.doi.org/10 .1016 / S1286-4579 ( 01 ) 01375-2 . 
+4 . 
+Raffatellu M , Chessa D , Wilson RP , Tukel C , Akcelik M , Bäumler AJ . 
+2006 . 
+Capsule-mediated immune evasion : a new hypothesis explaining aspects of typhoid fever pathogenesis . 
+Infect . 
+Immun . 
+74:19 -- 27 . 
+http://dx . 
+doi.org/10.1128/IAI.74.1.19-27.2006 . 
+5 . 
+Tsolis RM , Young GM , Solnick JV , Bäumler AJ . 
+2008 . 
+From bench to bedside : stealth of enteroinvasive pathogens . 
+Nat . 
+Rev. Microbiol . 
+6:883 -- 892 . 
+http://dx.doi.org/10.1038/nrmicro2012 . 
+6 . 
+Parkhill J , Dougan G , James KD , Thomson NR , Pickard D , Wain J , Churcher C , Mungall KL , Bentley SD , Holden MT , Sebaihia M , Baker S , Basham D , Brooks K , Chillingworth T , Connerton P , Cronin A , Davis P , Davies RM , Dowd L , White N , Farrar J , Feltwell T , Hamlin N , Haque A , Hien TT , Holroyd S , Jagels K , Krogh A , Larsen TS , Leather S , Moule S , O'Gaora P , Parry C , Quail M , Rutherford K , Simmonds M , Skelton J , Stevens K , Whitehead S , Barrell BG . 
+2001 . 
+Complete genome sequence of a multiple drug resistant Salmonella enterica serovar Typhi CT18 . 
+Nature 413:848 -- 852 . 
+http://dx.doi.org/10.1038/35101607 . 
+7 . 
+Virlogeux I , Waxin H , Ecobichon C , Popoff MY . 
+1995 . 
+Role of the viaB locus in synthesis , transport and expression of Salmonella typhi Vi antigen . 
+Microbiology 141 ( Part 12 ) :3039 -- 3047 . 
+8 . 
+Wetter M , Goulding D , Pickard D , Kowarik M , Waechter CJ , Dougan G , Wacker M. 2012 . 
+Molecular characterization of the viaB locus encoding the biosynthetic machinery for Vi capsule formation in Salmonella Typhi . 
+PLoS One 7 : e45609 . 
+http://dx.doi.org/10.1371/journal.pone .0045609 . 
+9 . 
+Looney RJ , Steigbigel RT. 1986 . 
+Role of the Vi antigen of Salmonella typhi in resistance to host defense in vitro . 
+J. Lab . 
+Clin . 
+Med . 
+108:506 -- 516 . 
+10 . 
+Wilson RP , Winter SE , Spees AM , Winter MG , Nishimori JH , Sanchez JF , Nuccio SP , Crawford RW , Tukel C , Bäumler AJ . 
+2011 . 
+The Vi capsular polysaccharide prevents complement receptor 3-mediated clearance of Salmonella enterica serotype Typhi . 
+Infect . 
+Immun . 
+79:830 -- 837 . 
+http://dx.doi.org/10.1128/IAI.00961-10 . 
+11 . 
+Wilson RP , Raffatellu M , Chessa D , Winter SE , Tukel C , Bäumler AJ . 
+2008 . 
+The Vi-capsule prevents Toll-like receptor 4 recognition of Salmo-nella . 
+Cell . 
+Microbiol . 
+10:876 -- 890 . 
+http://dx.doi.org/10.1111/j.1462-5822 .2007.01090 . 
+x. 12 . 
+Haneda T , Winter SE , Butler BP , Wilson RP , Tukel C , Winter MG , Godinez I , Tsolis RM , Bäumler AJ . 
+2009 . 
+The capsule-encoding viaB 
+locus reduces intestinal inﬂammation by a Salmonella pathogenicity island 1-independent mechanism . 
+Infect . 
+Immun . 
+77:2932 -- 2942 . 
+http://dx . 
+doi.org/10.1128/IAI.00172-09 . 
+13 . 
+Jansen AM , Hall LJ , Clare S , Goulding D , Holt KE , Grant AJ , Mastroeni P , Dougan G , Kingsley RA . 
+2011 . 
+A Salmonella Typhimurium-Typhi genomic chimera : a model to study Vi polysaccharide capsule function in vivo . 
+PLoS Pathog . 
+7 : e1002131 . 
+http://dx.doi.org/10.1371/journal.ppat .1002131 . 
+14 . 
+Crawford RW , Wangdi T , Spees AM , Xavier MN , Tsolis RM , Bäumler AJ . 
+2013 . 
+Loss of very-long O-antigen chains optimizes capsule-mediated immune evasion by Salmonella enterica serovar Typhi . 
+mBio 4 ( 4 ) :00232 -- 13 . 
+http://dx.doi.org/10.1128/mBio.00232-13 . 
+15 . 
+Winter SE , Winter MG , Thiennimitr P , Gerriets VA , Nuccio SP , Russmann H , Bäumler AJ . 
+2009 . 
+The TviA auxiliary protein renders the Salmonella enterica serotype Typhi RcsB regulon responsive to changes in osmolarity . 
+Mol . 
+Microbiol . 
+74:175 -- 193 . 
+http://dx.doi.org/10.1111/j.1365 -2958.2009.06859 . 
+x. 16 . 
+Winter SE , Winter MG , Godinez I , Yang H-J , Russmann H , Andrews-Polymenis HL , Bäumler AJ . 
+2010 . 
+A rapid change in virulence gene expression during the transition from the intestinal lumen into tissue promotes systemic dissemination of Salmonella . 
+PLoS Pathog . 
+6 : e1001060 . 
+http://dx.doi.org/10.1371/journal.ppat.1001060 . 
+17 . 
+Perkins TT , Davies MR , Klemm EJ , Rowley G , Wileman T , James K , Keane T , Maskell D , Hinton JC , Dougan G , Kingsley RA . 
+2013 . 
+ChIP-seq and transcriptome analysis of the OmpR regulon of Salmonella enterica serovars Typhi and Typhimurium reveals accessory genes implicated in host colonization . 
+Mol . 
+Microbiol . 
+87:526 -- 538 . 
+http://dx.doi.org / 10.1111 / mmi .12111 . 
+18 . 
+Virlogeux I , Waxin H , Ecobichon C , Lee JO , Popoff MY . 
+1996 . 
+Characterization of the rcsA and rcsB genes from Salmonella typhi : rcsB through tviA is involved in regulation of Vi antigen synthesis . 
+J. Bacteriol . 
+178:1691 -- 1698 . 
+19 . 
+Arricau N , Hermant D , Waxin H , Ecobichon C , Duffey PS , Popoff MY . 
+1998 . 
+The RcsB-RcsC regulatory system of Salmonella typhi differentially modulates the expression of invasion proteins , ﬂagellin and Vi antigen in response to osmolarity . 
+Mol . 
+Microbiol . 
+29:835 -- 850 . 
+http://dx.doi.org/10 .1046 / j.1365-2958.1998.00976.x . 
+20 . 
+Tran QT , Gomez G , Khare S , Lawhon SD , Raffatellu M , Bäumler AJ , Ajithdoss D , Dhavala S , Adams LG . 
+2010 . 
+The Salmonella enterica serotype Typhi Vi capsular antigen is expressed after the bacterium enters the ileal mucosa . 
+Infect . 
+Immun . 
+78:527 -- 535 . 
+http://dx.doi.org/10.1128 / IAI.00972-09 . 
+21 . 
+Cummings LA , Wilkerson WD , Bergsbaken T , Cookson BT . 
+2006 . 
+In vivo , ﬂiC expression by Salmonella enterica serovar Typhimurium is heterogeneous , regulated by ClpX , and anatomically restricted . 
+Mol . 
+Microbiol . 
+61:795 -- 809 . 
+http://dx.doi.org/10.1111/j.1365-2958.2006.05271.x . 
+22 . 
+Winter SE , Raffatellu M , Wilson RP , Russmann H , Bäumler AJ . 
+2008 . 
+The Salmonella enterica serotype Typhi regulator TviA reduces interleu-kin-8 production in intestinal epithelial cells by repressing ﬂagellin secretion . 
+Cell . 
+Microbiol . 
+10:247 -- 261 . 
+http://dx.doi.org/10.1111/j.1462-5822 .2007.01037 . 
+x. 23 . 
+McSorley SJ , Cookson BT , Jenkins MK . 
+2000 . 
+Characterization of CD4 T cell responses during natural infection with Salmonella typhimurium . 
+J. Immunol . 
+164:986 -- 993 . 
+http://www.jimmunol.org/content/164/2/986.long . 
+24 . 
+Cookson BT , Bevan MJ . 
+1997 . 
+Identiﬁcation of a natural T cell epitope presented by Salmonella-infected macrophages and recognized by T cells from orally immunized mice . 
+J. Immunol . 
+158:4310 -- 4319 . 
+25 . 
+National Research Council . 
+2011 . 
+Guide for the care and use of laboratory animals , 8th ed . 
+National Academies Press , Washington , DC . 
+26 . 
+Arpaia N , Godec J , Lau L , Sivick KE , McLaughlin LM , Jones MB , Dracheva T , Peterson SN , Monack DM , Barton GM . 
+2011 . 
+TLR signaling is required for Salmonella Typhimurium virulence . 
+Cell 144:675 -- 688 . 
+http://dx.doi.org/10.1016/j.cell.2011.01.031 . 
+27 . 
+McSorley SJ , Asch S , Costalonga M , Reinhardt RL , Jenkins MK . 
+2002 . 
+Tracking Salmonella-speciﬁc CD4 T cells in vivo reveals a local mucosal response to a disseminated infection . 
+Immunity 16:365 -- 377 . 
+http://dx.doi . 
+org/10 .1016 / S1074-7613 ( 02 ) 00289-3 . 
+28 . 
+Srinivasan A , Foley J , Ravindran R , McSorley SJ . 
+2004 . 
+Low-dose Salmo-nella infection evades activation of ﬂagellin-speciﬁc CD4 T cells . 
+J. Immunol . 
+173:4091 -- 4099 . 
+http://www.jimmunol.org/content/173/6/4091.long . 
+29 . 
+Parish CR . 
+1999 . 
+Fluorescent dyes for lymphocyte migration and proliferation studies . 
+Immunol . 
+Cell Biol . 
+77:499 -- 508 . 
+http://dx.doi.org/10 .1046 / j.1440-1711.1999.00877.x . 
+30 . 
+Salazar-Gonzalez RM , Srinivasan A , Grifﬁn A , Muralimohan G , Ertelt JM , Ravindran R , Vella AT , McSorley SJ . 
+2007 . 
+Salmonella ﬂagellin induces bystander activation of splenic dendritic cells and hinders bacterial replication in vivo . 
+J. Immunol . 
+179:6169 -- 6175 . 
+http://www . 
+jimmunol.org/content/179/9/6169.long . 
+31 . 
+Cochran JR , Cameron TO , Stern LJ . 
+2000 . 
+The relationship of MHC-peptide binding and T cell activation probed using chemically deﬁned MHC class II oligomers . 
+Immunity 12:241 -- 250 . 
+http://dx.doi.org/10.1016 / S1074-7613 ( 00 ) 80177-6 . 
+32 . 
+Bose TO , Pham QM , Jellison ER , Mouries J , Ballantyne CM , Lefrancois L. 2013 . 
+CD11a regulates effector CD8 T cell differentiation and central memory development in response to infection with Listeria monocytogenes . 
+Infect . 
+Immun . 
+81:1140 -- 1151 . 
+http://dx.doi.org/10.1128/IAI.00749-12 . 
+33 . 
+Wangdi T , Winter SE , Bäumler AJ . 
+2012 . 
+Typhoid fever : `` you ca n't hit what you ca n't see . '' 
+Gut Microbes 3:88 -- 92 . 
+http://dx.doi.org/10.4161 / gmic .18602 . 
+34 . 
+de Freitas Neto OC , Setta A , Imre A , Bukovinski A , Elazomi A , Kaiser P , Berchieri A , Jr , Barrow P , Jones M. 2013 . 
+A ﬂagellated motile Salmonella Gallinarum mutant ( SG Fla ) elicits a pro-inﬂammatory response from avian epithelial cells and macrophages and is less virulent to chickens . 
+Vet . 
+Microbiol . 
+165:425 -- 433 . 
+http://dx.doi.org/10.1016/j.vetmic.2013.04.015 . 
+35 . 
+Iqbal M , Philbin VJ , Withanage GS , Wigley P , Beal RK , Goodchild MJ , Barrow P , McConnell I , Maskell DJ , Young J , Bumstead N , Boyd Y , Smith AL. 2005 . 
+Identiﬁcation and functional characterization of chicken Toll-like receptor 5 reveals a fundamental role in the biology of infection with Salmonella enterica serovar Typhimurium . 
+Infect . 
+Immun . 
+73:2344 -- 2350 . 
+http://dx.doi.org/10.1128/IAI.73.4.2344-2350.2005 . 
+36 . 
+Rabsch W , Andrews HL , Kingsley RA , Prager R , Tschape H , Adams LG , Bäumler AJ . 
+2002 . 
+Salmonella enterica serotype Typhimurium and its host-adapted variants . 
+Infect . 
+Immun . 
+70:2249 -- 2255 . 
+http://dx.doi.org / 10.1128 / IAI.70.5.2249-2255 .2002 . 
+37 . 
+Kingsley RA , Kay S , Connor T , Barquist L , Sait L , Holt KE , Sivaraman K , Wileman T , Goulding D , Clare S , Hale C , Seshasayee A , Harris S , 
+J , Dougan G. 2013 . 
+Genome and transcriptome adaptation accompanying emergence of the deﬁnitive type 2 host-restricted Salmonella enterica serovar Typhimurium pathovar . 
+mBio 4 ( 5 ) : e00565 -- 13 . 
+http://dx.doi.org / 10.1128 / mBio.00565-13 . 
+38 . 
+Voedisch S , Koenecke C , David S , Herbrand H , Forster R , Rhen M , Pabst O. 2009 . 
+Mesenteric lymph nodes conﬁne dendritic cell-mediated dissemination of Salmonella enterica serovar Typhimurium and limit systemic disease in mice . 
+Infect . 
+Immun . 
+77:3170 -- 3180 . 
+http://dx.doi.org/10 .1128 / IAI.00272-09 . 
+39 . 
+Grifﬁn AJ , Li LX , Voedisch S , Pabst O , McSorley SJ . 
+2011 . 
+Dissemination of persistent intestinal bacteria via the mesenteric lymph nodes causes typhoid relapse . 
+Infect . 
+Immun . 
+79:1479 -- 1488 . 
+http://dx.doi.org/10.1128 / IAI.01033-10 . 
+40 . 
+Raffatellu M , Chessa D , Wilson RP , Dusold R , Rubino S , Bäumler AJ . 
+2005 . 
+The Vi capsular antigen of Salmonella enterica serotype Typhi reduces Toll-like receptor-dependent interleukin-8 expression in the intes-tinal mucosa . 
+Infect . 
+Immun . 
+73:3367 -- 3374 . 
+http://dx.doi.org/10.1128 / IAI.73.6.3367-3374 .2005 . 
+41 . 
+Stojiljkovic I , Bäumler AJ , Heffron F. 1995 . 
+Ethanolamine utilization in Salmonella typhimurium : nucleotide sequence , protein expression , and mutational analysis of the cchA cchB eutE eutJ eutG eutH gene cluster . 
+J. Bacteriol . 
+177:1357 -- 1366 . 
+42 . 
+Kingsley RA , Humphries AD , Weening EH , De Zoete MR , Winter S , Papaconstantinopoulou A , Dougan G , Bäumler AJ . 
+2003 . 
+Molecular and phenotypic analysis of the CS54 island of Salmonella enterica serotype Typhimurium : identiﬁcation of intestinal colonization and persistence determinants . 
+Infect . 
+Immun . 
+71:629 -- 640 . 
+http://dx.doi.org/10.1128/IAI .71.2.629 -640.2003 . 
+43 . 
+Bohez L , Ducatelle R , Pasmans F , Botteldoorn N , Haesebrouck F , Van Immerseel F. 2006 . 
+Salmonella enterica serovar Enteritidis colonization of the chicken caecum requires the HilA regulatory protein . 
+Vet . 
+Microbiol . 
+116:202 -- 210 . 
+http://dx.doi.org/10.1016/j.vetmic.2006.03.007 .

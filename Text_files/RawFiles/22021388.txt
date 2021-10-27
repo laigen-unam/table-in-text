@@ -1,0 +1,639 @@
+INVESTIGATION 
+Integrating Global Regulatory Input Into the Salmonella 
+Pathogenicity Island 1 Type III Secretion System 
+Yekaterina A. Golubeva , * Adam Y. Sadik , * Jeremy R. Ellermeier , * ,1 and James M. Slauch * , † ,2 * Department of Microbiology and † College of Medicine , University of Illinois , Urbana , Illinois 61801 
+ABSTRACT Salmonella enterica serovar Typhimurium uses the Salmonella pathogenicity island 1 ( SPI1 ) type III secretion system to induce inﬂammatory diarrhea and bacterial uptake into intestinal epithelial cells . 
+The expression of hilA , encoding the transcriptional activator of the SPI1 structural genes , is directly controlled by three AraC-like regulators , HilD , HilC , and RtsA , each of which can activate the hilD , hilC , rtsA , and hilA genes , forming a complex feed-forward regulatory loop . 
+A large number of factors and environmental signals have been implicated in SPI1 regulation . 
+We have developed a series of genetic tests that allows us to determine where these factors feed into the SPI1 regulatory circuit . 
+Using this approach , we have grouped 21 of the known SPI1 regulators and environmental signals into distinct classes on the basis of observed regulatory patterns , anchored by those few systems where the mechanism of regulation is best understood . 
+Many of these factors are shown to work post-transcriptionally at the level of HilD , while others act at the hilA promoter or affect all SPI1 promoters . 
+Analysis of the published transcriptomic data reveals apparent coregulation of the SPI1 and ﬂagellar genes in various conditions . 
+However , we show that in most cases , the factors that affect both systems control SPI1 independently of the ﬂagellar protein FliZ , despite its role as an important SPI1 regulator and coordinator of the two systems . 
+These results provide a comprehensive model for SPI1 regulation that serves as a framework for future molecular analyses of this complex regulatory network . 
+DURING infection, Salmonella enterica serovar Typhimu- rium induces inﬂammatory diarrhea and invades non- phagocytic epithelial cells using the type III secretion system (T3SS) encoded on Salmonella pathogenicity island 1 (SPI1) (Galan and Curtiss 1989; Watson et al. 1998; Tsolis et al. 1999; Wallis and Galyov 2000). The T3SS apparatus is a needle-like structure that injects bacterial effector proteins into the host cell cytosol. A subset of these proteins is re- quired to promote actin cytoskeletal rearrangements leading to the engulfment of the bacterium (Zhou and Galan 2001). Structural genes for the assembly of the functional T3SS apparatus and several effector proteins are encoded in the
+Copyright © 2012 by the Genetics Society of America doi : 10.1534 / genetics .111.132779 
+Manuscript received July 14 , 2011 ; accepted for publication October 15 , 2011 Supporting information is available online at http://www.genetics.org/content/ suppl/2011/10 / 20/genetics .111.132779 . 
+DC1 . 
+1Present address : ImmuVen , Inc. , 60 Hazelwood Dr. , Suite 207 , Champaign , IL 61820 . 
+2Corresponding author : Department of Microbiology , University of Illinois , B103 Chemical and Life Sciences Laboratory , MC110 , 601 S. Goodwin Ave. , Urbana , IL 61801 . 
+E-mail : slauch@illinois.edu 
+SPI1 prg/org , inv/spa , and sic/sip operons , while other effectors are encoded elsewhere on the chromosome . 
+The SPI1 locus also encodes several regulators of the system . 
+One goal of systems biology is a complete description of biological molecular networks , including the components , their interactions , and environmental inputs , with a hope of revealing emergent properties that are otherwise not apparent during studies of individual constituents . 
+We strive for such an in-depth understanding of SPI1 regulation . 
+On the basis of our genetic analyses and results from numerous other investigators , we have clariﬁed the roles of a number of key regulators and effectively established the central regulatory framework of the SPI1 system ( Ellermeier et al. 2005 ) . 
+SPI1-encoded HilA directly activates expression of the prg/org and the inv/spa operons , the latter encoding the AraC-like regulator InvF ( Bajaj et al. 1995 ; Darwin and Miller 1999 ; Eichelberg and Galan 1999 ; Lostroh and Lee 2001 ) . 
+InvF , in complex with SicA , then activates expression of a number of genes encoding secreted effectors including the sic/sip operon , sopE , and sigD ( Darwin and Miller 2000 , 2001 ) . 
+Three AraC-like regulators , HilD , HilC , and RtsA , control expression of hilA , and thereby induction of the SPI1 system . 
+While HilD and HilC are encoded in the SPI1 locus ( Mills et al. 1995 ) , RtsA is encoded on a 15-kb island inserted in the Salmonella chromosome at tRNAPheU ( Ellermeier and Slauch 2003 ) . 
+Each of these regulators is independently capable of inducing expression of the hilD , hilC , and rtsA genes , as well as hilA , forming a complex feed-forward regulatory loop to control SPI1 expression ( Figure 1 ) ( Ellermeier et al. 2005 ) . 
+Previous studies have shown that HilD , HilC , and RtsA bind to similar sites within the hilD , hilC , rtsA , and hilA promoter regions to counteract H-NS/Hha silencing ( Olekhnovich and Kadner 2002 , 2006 , 2007 ; Schechter et al. 2003 ) . 
+HilD is the dominant regulator of the system , while HilC and RtsA work as ampliﬁers of the signal ( Ellermeier et al. 2005 ; Saini et al. 2010a ) . 
+The system works as a switch to turn on SPI1 ( Song et al. 2004 ; Passerat et al. 2009 ; Bailly-Bechet et al. 2010 ) . 
+The switch is controlled primarily by affecting the threshold of HilD required for autoactivation ( Saini et al. 2010a ) . 
+A substantial number of genes and environmental conditions have been implicated in regulation of SPI1 on the basis of genetic and transcriptomic data . 
+Supporting information , Table S1 lists these factors along with the supporting references for each ( File S1 ) . 
+These external regulatory inputs presumably ensure that SPI1 is only expressed at the appropriate time and place within the host . 
+However , the complicated nature of the feed-forward loop has made it difﬁcult to understand how these various systems feed into the regulatory circuit , and in most cases this question has never been addressed . 
+We have recently studied the roles of three such regulatory factors in some detail , with the overall goal of understanding how input into the SPI1 system is integrated . 
+HilE is a negative regulator of HilD activity that works by direct protein -- protein interaction ( Baxter et al. 2003 ; J. E. Chubiz and J. M. Slauch , unpublished data ) . 
+FliZ is expressed as part of the ﬂagellar regulon and presumably acts to coordinate ﬂagellar expression with other systems in the cell , including SPI1 and the RpoS regulon ( Saini et al. 2008 ; Pesavento et al. 2008 ; Chubiz et al. 2010 ; Saini et al. 2010c ) . 
+FliZ also works at the level of HilD protein to positively control its activity ( Chubiz et al. 2010 ) . 
+The action of Fur in SPI1 regulation is more complicated ( Troxell et al. 2010 ; Teixido et al. 2011 ) , but also requires HilD ( Ellermeier and Slauch 2008 ) . 
+Through our experiences characterizing the regulatory factors described above , we have developed a set of genetic assays that allow us to determine where any given factor feeds into the SPI1 regulatory circuit . 
+Here , we utilize this system to characterize the role of 20 regulatory factors and environmental conditions . 
+Although the molecular details await further analysis , using our system and taking into account published data , we have grouped the known regulators of SPI1 into distinct classes . 
+Our results provide increasing evidence for the feed-forward loop model of SPI1 regulation and give insights into the mechanism of action of individual regulators . 
+Our data suggest that the majority of SPI1 regulators control HilD post-transcriptionally ( classes I , II , and V ) , consistent with the idea that HilD acts as a major point of integration of regulatory signals . 
+Class III and class IV regulators control the system at the level of hilA or affect promoters of all genes in the feed-forward loop , respectively . 
+Flagella are secreted and assembled via a distinct T3SS . 
+The ﬂagellar regulon contains .60 genes grouped into clas-ses according to their transcriptional hierarchy ( Frye et al. 2006 ) . 
+Class I genes encode the FlhD4C2 transcriptional activator , which activates class II genes encoding proteins required for the assembly of the ﬂagellar hook-basal body , as well as the alternative s-factor FliA and the anti -- s-factor FlgM . 
+Upon completion of the hook-basal body , FlgM is secreted , freeing FliA to activate class III operons that encode ﬂagellin subunits and motor proteins ( Ohnishi et al. 1992 ; Hughes et al. 1993 ) . 
+FliZ , encoded in an operon with ﬂiA , indirectly enhances class II ﬂagellar gene expression by posttranslationally affecting FlhD4C2 ( Ikebe et al. 1999 ; Saini et al. 2008 ; Saini et al. 2010b ; Wada et al. 2011 ) . 
+FliZ also positively regulates hilA expression ( Eichelberg and Galan 2000 ; Lucas et al. 2000 ; Iyoda et al. 2001 ; Chubiz et al. 2010 ) thus serving as an important connection between the ﬂagellar and SPI1 systems . 
+Despite the coregulation of SPI1 and ﬂagellar genes revealed by several microarray experiments , we show that a limited subset of the known SPI1 regulatory factors affect the system by controlling the ﬂagellar regulon and hence function through FliZ . 
+Overall , our results conﬁrm that detailed genetic analyses are required to gain a full understanding of complex biological networks . 
+7 
+Genetics , Vol . 
+190 , 79 -- 90 January 2012 
+Figure 1 Working model for SPI1 regulation . 
+Blue lines indicate transcriptional regulation . 
+Red lines indicate post-transcriptional regulation . 
+Green lines represent post-translational regulation . 
+The effect of each regulator , positive ( + ) or negative ( 2 ) on hilA expression is indicated . 
+For clarity , the genes encoding HilC , RtsA , and HilA are not shown . 
+80 
+Y. A. Golubeva et al 
+Materials and Methods Bacterial strains and growth conditions 
+All Salmonella strains used in this study ( Table S2 ) are isogenic derivatives of Salmonella enterica serovar Typhimu-rium 14028 ( American Type Culture Collection ) and were constructed using P22 HT105/1 int-201 ( P22 ) - mediated transduction ( Maloy et al. 1996 ) . 
+SOC medium was used for the recovery of transformants ( Maloy et al. 1996 ) . 
+Luria-Bertani ( LB ) medium containing 10 % tryptone , 5 % yeast extract , and 5 % NaCl was the standard medium used in experiments for growth of bacteria in aeration . 
+Bacterial strains were grown at 37 except for the strains containing temper-ature-sensitive plasmids pCP20 and pKD46 ( Cherepanov and Wackernagel 1995 ; Datsenko and Wanner 2000 ) , which were grown at 30 . 
+Antibiotics were used at the following concentrations : 100 mg/ml ampicillin ; 20 mg/ml chloramphenicol ; 50 mg/ml kanamycin ; 25 mg/ml tetracycline ( Tet ) ; and 50 mg/ml apramycin . 
+Enzymes were purchased from Invitrogen or New England Biolabs and used according to the manufacturer 's recommendations . 
+Primers were purchased from IDT . 
+Deletion of various genes and concomitant insertion of an antibiotic resistance cassette was carried out using l-red -- mediated recombination ( Datsenko and Wanner 2000 ; Yu et al. 2000 ) as described in Ellermeier et al. ( 2002 ) . 
+The endpoints of each deletion/insertion are indicated in Table S2 . 
+The appropriate insertion of the antibiotic resistance marker was checked by P22 linkage to known markers and/or PCR analysis . 
+In each case , the constructs resulting from this procedure were moved into a clean wild-type background ( 14028 ) by P22 transduction . 
+In some cases , antibiotic resistance cassettes were removed using the tem-perature-sensitive plasmid pCP20 carrying the FLP recombinase ( Cherepanov and Wackernagel 1995 ) . 
+We have noted that the original phoQ24 constitutive mutant strain ( Miller and Mekalanos 1990 ; Gunn et al. 1996 ) has a secondary mutation ( s ) that affects hilA expression ( data not shown ) . 
+Using l-red recombinase , we inserted a kanamycin resistance cassette in ycfD , just downstream of phoQ . 
+This allowed us to transduce the phoQ24 allele into various strains of interest . 
+In each case , the resulting strains were carefully checked to make sure that phoQ was not duplicated . 
+Such duplicated strains were common , suggesting that there is a selection against the phoQ24 allele . 
+The rebuilt phoQ24 strains still showed decreased hilA expression , while having no apparent secondary background mutation ( s ) . 
+Transcriptional and translational lac fusions to hilD were generated by FLP-mediated integration of fusion plasmids as described by Ellermeier et al. ( 2002 ) . 
+The integrated plasmid was tested by PCR to ensure that only a single copy was present . 
+Standard recombinant DNA techniques were used for construction of plasmids ( Sambrook et al. 1989 ) . 
+The Salmonella rfaH gene was ampliﬁed using primers carrying a site for either EcoRI or BamHI restriction endonucleases 
+( rfaH forward primer , ACGACTCGAGGCAACAGGACAG ; rfaH reverse primer , ACGATCTAGAGTTGGCTCTTCG ) and then cloned into vector pWKS30 ( Wang and Kushner 1991 ) . 
+b-Galactosidase assays b-Galactosidase assays were performed using a microtiter plate assay as previously described ( Slauch and Silhavy 1991 ) on strains grown under the indicated conditions . 
+b-Galactosidase activity units are deﬁned as [ mmol of ortho-nitrophenol ( ONP ) formed min21 ] · 106 / ( OD600 · ml of cell suspension ) and are reported as mean 6 SD , where n = 4 . 
+Cultures grown in standard SPI1-inducing conditions were initially inoculated into LB ( 0.5 % NaCl ) , grown for 8 -- 12 hr , then subcultured 1/100 , and grown statically for 18 -- 22 hr in 3 ml LB with 1 % NaCl ( high salt LB , HSLB ) in 13 · 100-mm tubes . 
+LB or LB without NaCl ( NSLB ) were used where indicated . 
+Results Rationale and approach
+We have previously shown that HilE , FliZ , and Fur control hilA expression via HilD ( Ellermeier and Slauch 2008 ; Lin et al. 2008 ; Chubiz et al. 2010 ) . 
+Indeed , the amassed data suggest that HilD is the primary point of integration of regulatory signals into SPI1 , but only a fraction of the many systems that have been implicated in SPI1 regulation have been examined . 
+We utilized a series of genetic tests that allowed us to group additional regulatory factors into distinct classes on the basis of how they feed into the SPI1 regulatory circuit . 
+For each of the systems to be studied , we created a deletion in the regulatory gene of interest and transduced this deletion into a series of backgrounds . 
+Alternatively , we tested the series of strains under a given environmental condition or in the presence of an added compound . 
+Initially , we tested whether a given regulatory factor affected hilA expression under the indicated growth conditions in both wild type and hilD null backgrounds using a hilA -- lacZ transcriptional single-copy chromosomal fusion ( Lin et al. 2008 ) ( Figure 2A ) . 
+The effect of a regulatory mutation on hilA expression in a hilD null background is difﬁcult to accurately determine because hilA expression is greatly reduced in the absence of HilD ; SPI1 is effectively shut off . 
+Thus , to distinguish whether factors regulate hilA via HilD , or independently of HilD , we placed rtsA expression under the control of a tetracycline-inducible promoter ( tetRA -- rtsA ) . 
+This allowed us to induce rtsA , with concom-itant induction of hilA ( and hilC ) expression , independently of HilD ( Figure 2B ) . 
+Under these conditions we could clearly see whether a mutation of interest has an effect on hilA expression in the absence of HilD . 
+In addition , the effects of the regulatory mutations / conditions on hilD transcription and translation were studied using a hilD -- lac transcriptional and hilD ' - ` lac translational fusion , respectively . 
+Both hilD fusions have the same fusion joint at +67 from the start site of transcription , corresponding to 11 amino acids into the open reading frame . 
+These fusions were constructed in the hilD locus in the Salmonella chromosome , and thus these strains are hilD nulls . 
+This allows us to monitor transcription and translation of hilD without the complication of HilD autoinduction ( Figure 2C ) . 
+The effects of various regulatory mutations and environmental conditions on SPI1 , studied using the fusion constructs outlined above , are summarized in Table 1 . 
+On the basis of patterns of regulation observed , we have assigned these regulators to different classes . 
+Described below are detailed results for each class of regulators using those examples where we generally understand the mechanism of action . 
+Comparing these patterns to those obtained with unknown regulators provides a more comprehensive understanding of SPI1 regulation . 
+Class I : regulation via the post-translational control of HilD Class I regulators function through HilD protein to affect hilA expression . 
+HilE is a negative regulator of SPI1 that has been shown to directly interact with the HilD protein ( Baxter et al. 2003 ; J. E. Chubiz and J. M. Slauch , unpublished data ) . 
+Although the exact function of HilE remains to be determined , it clearly affects HilD protein activity ( Ellermeier and Slauch 2008 ; Chubiz et al. 2010 ) and serves as an important example in the following experiments . 
+In our series of assays , deletion of hilE resulted in a fourfold increase in b-galactosidase activity from the transcriptional hilA -- lac fusion ( Figure 3A ) , while it had no effect in a hilD null background . 
+However , the absence of HilD resulted in a very low level of hilA expression . 
+Therefore , it remained possible that HilE functions downstream of HilD , for example at the hilA promoter , but that this regulation is not evident in the hilD null background . 
+To distinguish whether HilE regulates hilA via HilD , we induced hilA ( and hilC ) transcription in the presence or absence of HilD by the addition of increasing concentrations of tetracycline in a tetRA -- rtsA background . 
+If HilE controls hilA expression via HilD , we should no longer see the effect of a hilE deletion in the hilD null background . 
+In the hilD + tetRA -- rtsA strain , in the absence of tetracycline , loss of HilE caused a 7.5-fold increase in hilA transcription . 
+Moreover , at higher Tet concentrations , HilE-dependent regulation was evident when HilD was present ( Figure 3B ) , although regulation became less dramatic . 
+This is consistent with the proposed interaction of the HilE and HilD proteins ; there is not enough HilE available to bind the overproduced HilD . 
+In the absence of HilD , at 1 mg/mL tetracycline , hilA -- lac expression reached the level observed in the wild-type strain ( compare with Figure 3A ) . 
+But under these conditions , deletion of hilE had no effect on tetRA -- rtsA-driven hilA expression in the absence of HilD . 
+This result conﬁrms that HilE works through HilD , which is consistent with previous data ( Baxter et al. 2003 ; J. E. Chubiz and J. M. Slauch , unpublished data ) . 
+In theory , HilE could regulate hilA expression by controlling transcription or translation of hilD . 
+If this were true , we would expect that loss of HilE would have an effect on the hilD -- lac transcriptional and/or hilD ' - ` lac translational fusion . 
+( Both are located at the hilD locus , and are hilD nulls . ) 
+However , the absence of HilE had no effect on the hilD -- lac transcriptional and hilD ' - ` lac translational fusions , showing that the presence of the functional HilD protein is required for regulation ( Figure 3C ) . 
+These results again are consistent with the known mechanism of HilE acting at the level of HilD protein . 
+We have previously provided evidence that the ﬂagellar protein FliZ positively regulates hilA expression via HilD protein and showed that FliZ , like HilE , had no effect on hilA expression in the absence of HilD ( Chubiz et al. 2010 ) . 
+Results in Figure S1 show that the hilD -- lac transcriptional and translational fusions were also not affected by the loss of FliZ , conﬁrming that FliZ controls hilA expression via the post-translational control of HilD . 
+In our previously published data , we also showed that both HilE and FliZ were able to regulate an ectopically expressed HilD protein ( Chubiz et al. 2010 ) . 
+Thus , the results from this series of assays are consistent with these regulators controlling HilD protein activity . 
+This set of experiments was performed for all of the regulatory factors tested , and the resulting data are summarized in Table 1 . 
+Comparing the results for HilE and FliZ with those of other uncharacterized regulators shows that EnvZ and FadD also belong in class I ( Figure S2 and Figure S3 , respectively ) . 
+It is possible that FliZ , EnvZ , and FadD affect hilA expression via HilE , but both published 
+Figure 2 Rationale for interpretation of panels A , B , and C of the bar graphs in Figures 3 -- 6 and Figure S1 , Figure S2 , Figure S3 , Figure S4 , Figure S5 , Figure S6 , Figure S7 , Figure S8 , Figure S9 , Figure S11 , Figure S12 , Figure S13 , Figure S14 , Figure S15 , Figure S16 . 
+( A ) The transcriptional hilA -- lac fusion serves as a major readout for SPI1 expression . 
+First , test the effects of a regulatory factor on hilA expression in both hilD + and hilD2 backgrounds . 
+( B ) Second , test the effects of a regulatory factor on hilA expression in a background where the system can be induced via tetracycline control of rtsA with or without HilD . 
+( C ) Third , test the effects of a regulatory factor on hilD -- lac transcriptional and hilD ' - ' lac translational locus fusions , which provide a readout of hilD transcription and translation , respectively , in the absence of HilD autoinduction . 
+See detailed description of the experimental setup in Rationale and approach in Results . 
+Table 1 Integration of regulators and conditions that affect hilA expression into SPI1 regulatory circuit 
+Mode of 
+Fold effect of Regulation null mutation or of change in growth hilA conditions via HilD 
+Regulation of Regulation of hilD -- lac hilD ' - ` lac transcriptional translational fusion fusion 
+regulation ( positive or negative regulator ) 
+Medium , 
+Regulator 
+Class 
+growth conditions 
+HilE FliZ 
+I 
+HSLB HSLB HSLB HSLB 
+4 · [ 4 · Y 
+2 + + 
+Yes No No 
+EnvZ FadD 
+3.5 · Y 3 · Y 
++ 
+HSLB HSLB 
+SirA Dam 
+II 
+Yes 
+Yes 
+Yes/no 
++ + + + + 
+3 · Y 5 · Y 
+HSLB HSLB , w HSLB 
+YfgL Ack Pta TrkA 
+5 · Y 2 · Y 2.5 · Y 
+ith M 
+OPS pH 6.0 
+III 
+2 
+No 
+No 
+No 
+PhoPQ ( phoQ24 ) Dimethyl sulﬁde Fnr 
+HSLB 
+10 · Y 2.5 · Y 2 · [ 
+2 
+S 
+DM 
+HSLB , 1.5 % HSLB 
+2 
+( Y ) 
+H-NSa Hha 
+IV 
+NSLB HSLB 
+No 
+Yes 
+2 2 + + + 2 
+Yes 
+[ 
+3.5 · [ 15 · Y 4.7 · Y 4 · Y 3 · Y 22 · Y 
+HSLB HSLB HSLB HSLB , 10 mM HSLB 
+Fis HU RfaH Butyrate ppGpp ( relA spoT ) 
+butyrate 
++ 
+V Fur HSLB + 5· Y Yes
+No 
+Yes 
+HSLB, high salt LB broth—standard SPI1 inducing conditions as described in Materials and Methods; NSLB, no salt LB broth. a Based on published data (Schechter et al. 2003; Olekhnovich and Kadner 2006, 2007).
+and unpublished data show that these regulators act independently of HilE ; they regulate hilA expression in a hilE null background ( Chubiz et al. 2010 and data not shown ) . 
+Below we show that HilE , EnvZ , and FadD also act independently of FliZ . 
+Note also that while data suggest that HilE regulates HilD activity via direct interaction , we can make no such conclusion about FliZ , EnvZ ( a two-component sensor kinase ) , or FadD ( encoding acyl-CoA synthetase ) . 
+These factors could certainly act indirectly ; we are concluding only that they ultimately affect SPI1 via control of HilD protein activity . 
+Class II: control of hilD mRNA stability/degradation or translation initiation
+Class II regulators function through HilD to control hilA expression , but do so by controlling hilD mRNA stability or translation . 
+The BarA/SirA two-component system is a known positive regulator of SPI1 ( Johnston et al. 1996 ; Altier et al. 2000 ; Lawhon et al. 2002 ; Ellermeier et al. 2005 ; Ellermeier and Slauch 2007 ; Van et al. 2008 ; Martinez et al. 2011 ) . 
+SirA controls the transcription of two RNAs , CsrB and CsrC , which are antagonistic to the RNA-binding protein CsrA ( Romeo 1998 ; Weilbacher et al. 2003 ; Fortune et al. 2006 ) . 
+We have previously shown that SirA-dependent regulation of hilA requires both HilD ( Ellermeier et al. 2005 ) and CsrA ( data not shown and Ellermeier and Slauch 2007 ) , and Martinez et al. ( 2011 ) recently showed that CsrA directly binds the hilD mRNA near the ribosome binding site to block translation . 
+In our system , deletion of sirA resulted in a 2.5-fold decrease in hilA transcription ( Figure 4A ) . 
+Figure 4B shows that while the sirA deletion decreased hilA expression in the presence of HilD , it had no effect on the hilA expression when hilA was being activated by the tetRA -- rtsA construct at 1 mg/mL tetracycline in the absence of HilD . 
+This result conﬁrms that SirA controls hilA via HilD . 
+However , in striking contrast to class I regulators , both the hilD -- lac transcriptional and the hilD ' - ` lac translational fusions were regulated by SirA in the absence of HilD protein ( Figure 4C ) , consistent with the RNA-binding protein CsrA acting at the level of the hilD mRNA to control stability or translatability . 
+Thus , the pattern of expression observed in our system conﬁrms that SirA functions through HilD , acting at the level of hilD mRNA . 
+Comparing the results for SirA with those of other regulators shows that Dam , YfgL , Ack Pta , and TrkA ( Figure S4 , Figure S5 , Figure S6 , and Figure S7 , respectively ) also belong to class II . 
+Although regulation of the hilD -- lac transcriptional fusion was evident in the case of SirA , Dam had only a small effect on expression of the hilD transcriptional fusion , but a signiﬁcant effect on the translational fusion , in agreement with the recent study showing that Dam post-transcriptionally affects hilD mRNA stability ( Lopez-Garrido and Casadesus 2010 ) . 
+Likewise , the loss of YfgL , Ack Pta , or TrkA primarily affected hilD translation . 
+Accordingly , these regulators are all considered class II . 
+We presume that the effect of these factors on hilD mRNA is indirect , and , in the case of Dam , YfgL , Ack Pta , and TrkA , the mechanism of this regulation remains to be determined . 
+Class III : regulation at the level of the hilA promoter The two-component regulatory system PhoPQ belongs to the class III regulators , which do not require the presence of the functional HilD protein and work at the level of the hilA promoter . 
+Deletion of phoP does not have a signiﬁcant effect on hilA expression in rich medium ( HSLB ) . 
+In these experiments , we are using the phoQ24 constitutive mutation , which results in a hyperphosphorylation of the PhoP response regulator ( Miller and Mekalanos 1990 ; Gunn et al. 1996 ) . 
+Introduction of the phoQ24 constitutive allele caused a 10-fold reduction in hilA transcription ( Figure 5A ) . 
+In the tetRA -- rtsA strain , the phoQ24 mutation caused a decrease in hilA expression regardless of the presence or absence of HilD ( Figure 5B ) . 
+Thus , the phoQ24 effect on hilA expression is independent of HilD . 
+Results in Figure 5C showed that the hilD -- lac transcriptional and the hilD ' - ` lac translational fusions were not regulated in phoQ24 background , indicating that the PhoPQ system does not affect hilD transcription or translation . 
+The simplest explanation for these results is that the PhoP response regulator acts directly or indirectly at the hilA promoter . 
+However , it was possible that PhoPQ regulates hilA through HilC or RtsA . 
+Therefore , we measured the effect of the phoQ24 allele on hilA expression in hilC null or rtsA null backgrounds . 
+Results in Figure S10A clearly showed that the PhoPQ effect on hilA expression was independent of either HilC or RtsA . 
+In addition to PhoPQ , the global regulator Fnr , as well as the effect of adding dimethyl sulﬁde ( DMS ) to the growth medium , belongs in Class III ( Figure S8 , Figure S9 ) . 
+Interestingly , despite the fact that Fnr is a negative regulator of hilA expression independent of HilD , the hilD ' - ` lac translational fusion showed a slight decrease in activity in the absence of Fnr . 
+This phenomenon is likely attributed to the pleiotropic effects of the fnr deletion ( Fink et al. 2007 ) . 
+Fnr controls a large number of genes in anaerobic conditions , so the loss of Fnr could potentially affect SPI1 through more than one mechanism . 
+However , repression of SPI1 independently of HilD is a predominant mechanism of Fnr action on the basis of our data . 
+We have also shown that both DMS and Fnr act independently of HilC or RtsA ( Figure S10B and Figure S10C , respectively ) . 
+These results conﬁrm that DMS and Fnr act at the level of hilA . 
+To determine whether DMS and Fnr acted via PhoPQ , their effect on hilA expression was tested in a phoPQ null background . 
+The resulting data in Figure S10D showed that addition of DMS , as well as the loss of Fnr , still affected hilA expression in the absence of PhoPQ . 
+Therefore , DMS and Fnr control hilA independently of the PhoPQ system . 
+All of these systems could be acting indirectly and the exact mechanisms of action will require further analyses . 
+Class IV : regulation of all SPI1 regulatory promoters Class IV is composed of a number of regulators and environmental conditions that apparently affect the promoters of all of the regulatory genes in SPI1 . 
+For example , the small nucleoid proteins H-NS and Hha have been shown to directly bind to the promoter regions and silence transcription of SPI1 genes including hilD , hilC , rtsA , and hilA ( Olekhnovich and Kadner 2006 , 2007 ; Banos et al. 2009 ) . 
+Deletion of hha caused a 3.5-fold increase in hilA transcription as expected ( Figure 6A ) . 
+This increase was also evident in the hilD null strain , although the absolute level of expression was decreased . 
+With hilA expression driven by increasing concentrations of tetracycline in the tetRA -- rtsA strain , loss of Hha still resulted in hilA induction ( Figure 6B ) . 
+Deleting hilD in this strain did not abolish the Hha regulation showing that Hha acts independently of HilD . 
+Not surprisingly , the hilD -- lac transcriptional and translational fusions were also regulated by Hha ( Figure 6C ) . 
+Thus , we conclude that Hha does not require HilD protein , but rather regulates both hilA and hilD ( as well as hilC and rtsA ) transcription . 
+In Figure S11 and Figure S12 , we showed that nucleoid proteins Fis and HU also independently control both hilA and hilD transcription . 
+In addition to nucleoid proteins , the RfaH and RelA SpoT deletion mutations , as well as the presence of butyrate , resulted in similar expression proﬁles ( Figure S13 , Figure S14 , Figure S15 ) . 
+Changes in temperature likely affect hilA independently of HilD , with H-NS implicated in this regulation ( Ono et al. 2005 ) . 
+Whether some of these additional factors and conditions function through H-NS/Hha remains to be determined . 
+Figure 4 Class II , SirA activates hilA expression via the post-transcriptional control of hilD . 
+See Figure 3 legend for details . 
+Figure 3 Class I , HilE regulates hilA expression via the post-translational control of HilD . 
+( A ) b-Galactosidase activity in strains containing a hilA -- lac transcriptional fusion and the indicated mutations after growth under SPI1 inducing conditions . 
+( B ) b-Galactosidase activity of strains containing a hilA -- lac transcriptional fusion and indicated mutations with rtsA under the control of a tetracycline-regulated promoter . 
+Strains were grown under SPI1-inducing conditions with the indicated tetracycline concentrations . 
+( C ) b-Galactosidase activity in strains containing a hilD -- lac transcriptional or a hilD ' - ' lac translational fusion and the indicated mutations after growth under SPI1 inducing conditions . 
+b-Galactosidase activity units are deﬁned as ( mmol of ONP formed min21 ) · 106 / ( OD600 · ml of cell suspension ) and are reported as mean 6 SD , where n 1/4 4 . 
+Class V: regulation by Fur
+The global transcriptional regulator Fur has been placed in a separate class V ( Figure S16 ) due to the fact that Fur requires both the HilD protein and hilD promoter to regulate hilA ( Ellermeier and Slauch 2008 ) . 
+More recently , it was proposed that Fur activates hilA by repressing H-NS ( Troxell et al. 2010 ) . 
+Together , these data suggest that Fur might activate SPI1 by reducing the H-NS -- mediated silencing of the hilD promoter region and thereby lowering the threshold of HilD required to activate the hilD promoter , as we originally proposed ( Ellermeier and Slauch 2008 ) . 
+However , Teixido et al. ( 2011 ) propose that Fur acts directly at the hilD promoter . 
+Further analysis is required to determine the exact mechanism of Fur activation of SPI1 , but in our hands , Fur behaves differently than other factors characterized here . 
+Other regulators not characterized here : We are not presenting results for some of the regulators listed in Table S1 ( with references in File S1 ) due to the fact that the phenotypes conferred by these mutations/compounds ( ﬁmZY , mlc , lrp , pmrM , cpxA , ygdP/apaH , ramA , mitomycin , hydrogen peroxide ) were not robust enough to draw conclusions under the conditions used in this study . 
+Also , we have not characterized the effects of a number of regulators and conditions . 
+We have included these so that Table S1 serves as a comprehensive list of factors previously implicated in SPI1 regulation . 
+Regulation via FliZ : Some of the factors that regulate SPI1 do so by affecting expression of the ﬂagellar regulon in Sal-monella . 
+We have previously shown that DsbA and RcsCDB regulate hilA through HilD via FliZ ( Lin et al. 2008 ; Chubiz et al. 2010 ) . 
+In addition , proteases ClpXP and Lon were suggested to affect hilA expression by indirectly or directly affecting FliZ levels ( Kage et al. 2008 ; Chubiz et al. 2010 ) . 
+Published transcriptomic datasets reveal that SPI1 and ﬂa-gellar genes are coregulated in response to a number of regulatory signals , including CsrA , YfgL , Fnr , Fis , and RfaH , as well as several environmental conditions ( Table S3 ) . 
+These factors presumably affect expression or function of the ﬂagellar master regulator FlhD4C2 . 
+Given that the ﬂagellar protein FliZ , controlled by FlhD4C2 , is a signiﬁcant regulator of HilD activity ( Chubiz et al. 2010 ) , we originally hypothesized that these factors would regulate SPI1 through FliZ . 
+We directly tested this hypothesis by performing tests of epistasis . 
+From published data we know that FliZ controls hilA expression independently of FlhD4C2 and other ﬂagellar proteins , since ectopic expression of FliZ activates hilA in an ﬂhDC null background ( Chubiz et al. 2010 ) . 
+We characterized the effect of loss of a given SPI1 regulator on hilA expression in otherwise wild-type , ﬂiZ null , and hilD null backgrounds , as well as in a strain in which FliZ is expressed under the control of the tetRA promoter , and thus independently of FlhD4C2 . 
+If the regulator of interest controls hilA by affecting expression of FliZ , loss of this regulator would no longer affect hilA expression in the absence of FliZ or when FliZ was ectopically expressed . 
+First , we tested the class I factors . 
+Since our data show that each functions at the level of HilD protein , it is possible that they do so via FliZ . 
+As a control , we tested HilE , which we have previously shown acts independently of FliZ ( Chubiz et al. 2010 ) . 
+As expected , deletion of hilE induced hilA transcription 4.5 fold in both wild-type and ﬂiZ null backgrounds ( Figure 7 ) . 
+Moreover , loss of HilE still had an effect on hilA expression when ﬂiZ production was controlled by tetracycline . 
+These results conﬁrmed that HilE functions independently of FliZ to control hilA expression , consistent with the previously published data ( Chubiz et al. 2010 ) . 
+We also tested the other two class I regulators , EnvZ and FadD , and showed that both regulate hilA independently of FliZ ( Figure S17A , Figure S17B ) . 
+The transcriptional regulator TdcA has been suggested to regulate SPI1 via FliZ ( Kim et al. 2009 ) . 
+The authors reported that a deletion of tdcA , which resulted in less than a twofold decrease of ﬂiZ transcription , also decreased expression of hilA . 
+We saw a similar decrease of ﬂiZ expression when the tdcA mutation was introduced ( data not shown ) . 
+However , loss of TdcA caused the same less-than-twofold decrease in hilA transcription in both wild-type and in the ﬂiZ null background , as well as when ﬂiZ production was controlled by tetracycline ( Figure S17C ) . 
+These results suggest that , while TdcA regulates ﬂiZ transcription , its effect on hilA expression is independent of FliZ . 
+On the basis of the classiﬁcation of SPI1 regulators above , we presumed that the class II -- IV regulators can not function through FliZ , given that these factors do not control SPI1 at the level of HilD protein activity . 
+Using the set of experiments described above , we have conﬁrmed that the class II -- IV factors act independently of FliZ to control hilA expression , as expected ( data not shown ) . 
+Thus , a number of regulatory signals in Table S3 , shown to affect expression of both ﬂagellar and SPI1 genes , appear to control these two systems independently . 
+Figure 5 Class III , PhoPQ ( PhoQ24 ) represses hilA expression independently of HilD . 
+See Figure 3 legend for details . 
+Figure 6 Class IV , Hha represses SPI1 expression independently of HilD ( affects all regulators in the feed-forward loop ) . 
+See Figure 3 legend for details . 
+Discussion
+Expression of the SPI1 T3SS is controlled by HilD , HilC , and RtsA , acting in a complex feed-forward loop to activate the hilD , hilC , and rtsA genes , as well as hilA , which encodes the transcriptional activator of the T3SS structural genes ( Figure 1 ) . 
+HilD is the predominant regulator of the system , while HilC and RtsA act as ampliﬁers of activating signals ( Ellermeier et al. 2005 ; Saini et al. 2010a ) . 
+For years , numerous regulatory systems and conditions have been added to the growing list of factors that affect SPI1 expression . 
+In this study , we determined where a number of these factors feed into the regulatory circuit . 
+In agreement with the feedforward loop model , we show that most of the known SPI1 regulators function via HilD . 
+On the basis of previously published ( Baxter et al. 2003 ; Ellermeier et al. 2005 ; Ellermeier and Slauch 2008 ; Lin et al. 2008 ) and unpublished data , we hypothesized that the majority of regulators would function post-translationally through HilD . 
+However , our study shows that the regulation of SPI1 is more complex , with control exerted at multiple levels ( Figure 1 ) . 
+Class I regulators work post-translationally at HilD , controlling some aspect of HilD protein activity and/or stability . 
+One of these , HilE , is a negative regulator of SPI1 that directly binds HilD protein ( Baxter et al. 2003 ; J. E. Chubiz and J. M. Slauch , unpublished results ) . 
+We recently reported that the positive regulator FliZ acts independently of HilE to control HilD protein activity ( Chubiz et al. 2010 ) . 
+Although the exact mechanism of action of EnvZ and FadD has not been elucidated , they apparently affect factors independent of HilE and FliZ that work at the level of HilD protein and control some aspect of its function . 
+Class II regulators include those that affect hilD mRNA translation and/or stability . 
+SirA activates expression of the CsrB and CsrC RNAs , which antagonize the action of CsrA ( Romeo 1998 ; Weilbacher et al. 2003 ; Fortune et al. 2006 ) . 
+CsrA protein binding to hilD mRNA prevents translation of the hilD message ( Martinez et al. 2011 ) . 
+Thus , SirA activates hilD expression post-transcriptionally . 
+Data from our system are in agreement with this mechanism . 
+In a recent study , the authors concluded that Dam affects hilD mRNA stability ( Lopez-Garrido and Casadesus 2010 ) , consistent with our results . 
+Loss of YfgL , Ack Pta , or TrkA conferred similar patterns of expression in our fusion strains , suggesting that these regulators control hilD post-transcriptionally . 
+The effects of Dam , YfgL , Ack Pta , and TrkA are most certainly indirect , and the details of this regulation remain to be elucidated . 
+Figure 7 HilE and FliZ affect hilA expression independently of each other . 
+b-Galactosidase activity in strains containing a hilA -- lac transcriptional fusion and the indicated mutations after growth under SPI1 inducing conditions . 
+b-Galactosidase activity units are deﬁned as ( mmol of ONP formed min21 ) · 106 / ( OD600 · ml of cell suspension ) and are reported as 1/4 mean 6 SD , where n 4 . 
+SPI1 expression is activated when HilD reaches the threshold required to autoactivate the hilD promoter . 
+HilE acts as a check to keep the system from inadvertently turning on ( Saini et al. 2010a ) . 
+We envision that the remaining class I , II , and V regulators , which act positively , are the primary systems responsible for precise induction of the system in conditions favorable for invasion . 
+They act by increasing the level of HilD protein to overcome HilE , and controlling HilD activity , or in the case of Fur , lowering the threshold required at the promoter , such that HilD activates its own promoter as well as induces expression of HilC and RtsA , which then act to amplify and accelerate SPI1 expression ( Saini et al. 2010a ) . 
+Thus , the external signals that allow Salmonella to determine its location in the small intestine are integrated at HilD and only when the proper combination of signals is received is the system licensed for induction . 
+This regulatory input gets ampliﬁed by the feed-forward regulatory loop to induce hilA , resulting in a full activation and timely production of the SPI1 T3SS . 
+After invasion has been accomplished , or when conditions are not favorable , the SPI1 system needs to be shut off . 
+Factors in class III ( and perhaps some in class IV ) act at the level of hilA or affect all SPI1 promoters , respectively , providing a potentially fast turn-off mechanism that bypasses the feed-forward loop . 
+PhoPQ , a two-component regulatory system known to negatively affect SPI1 , and classiﬁed as class III , acts at the hilA promoter . 
+A putative PhoP binding site in the hilA promoter region was predicted computationally by Zwir et al. ( 2005 ) . 
+However , direct repression by PhoP awaits experimental conﬁrmation . 
+The PhoPQ system is activated as Salmonella adapts to the intracellular environment of the macrophage ( Groisman 2001 ) and SPI1 is no longer needed . 
+This negative control by the PhoPQ system could allow for the fast turn off of SPI1 expression directly at the level of hilA during the systemic stage of infection . 
+The presence of DMSO reductases in intestinal bacteria , and the fact that dimethyl sulﬁde ( the product of DMSO reduction ) is found in the large intestine of mammals , suggest that this compound could serve as an environmental cue for Salmonella ( Suarez et al. 1997 , 1998 ; Antunes et al. 2010 ) , although a direct role for dimethyl sulﬁde during Salmonella infection has not been demonstrated . 
+Antunes et al. ( 2010 ) reported that dimethyl sulﬁde decreased expression of hilA and downstream SPI1 genes , but the mechanism of regulation was not characterized . 
+Our data suggest that dimethyl sulﬁde inhibits SPI1 expression at the level of hilA independently of PhoPQ . 
+Fnr , a global regulator of an-aerobic metabolism , acts as a cytoplasmic oxygen sensor and regulates expression of target genes in response to oxygen availability . 
+Previously , Fnr was suggested to activate SPI1 genes in anaerobic conditions ( Fink et al. 2007 ) . 
+Subsequent studies ( Van et al. 2008 ) and our results have shown that Fnr is a negative regulator of SPI1 gene expression . 
+Fnr also represses SPI1 at the level of hilA independently of the PhoPQ system . 
+Both of these systems could provide a mechanism to shut off the SPI1 system in the large intestine when the bacteria are beyond the point of optimal invasion or are being shed into the environment . 
+Nucleoid proteins H-NS and Hha have been implicated in silencing of horizontally acquired DNA ( Lucchini et al. 2006 ; Navarre et al. 2006 ) ; activating signals must counteract this repression to turn on the respective genes . 
+H-NS and Hha , members of class IV , repress transcription by binding to the promoter regions of all SPI1 genes ( Schechter et al. 2003 ; Olekhnovich and Kadner 2006 , 2007 ) . 
+Likewise , we show that nucleoid proteins Fis and HU fall into the same class with H-NS and Hha , acting independently of HilD by presumably affecting all promoters in the system . 
+We do not envision that the overall levels of H-NS/Hha are changing signiﬁcantly during normal colonization and invasion of the intestine . 
+Rather , HilD , HilC , and RtsA are overcoming the effects of these proteins at the individual promoters and it is the regulation of HilD levels and action that is the key . 
+Only a few other regulators and environmental conditions have been shown to belong to class IV , including RfaH , temperature , butyrate , and ppGpp . 
+The effect of these regulatory mutations/conditions on SPI1 is likely indirect and further studies are warranted to determine whether they function through H-NS/Hha or Fis/HU . 
+Coregulation of the SPI1 and ﬂagellar genes has been reported in a number of conditions ( see Table S3 ) , suggesting a regulatory overlap in the two systems . 
+There is certainly a strong tie between the two ; FliZ is a signiﬁcant regulator of HilD activity and has been shown to play a role in Salmonella virulence only during oral infection , the observed virulence phenotype being largely dependent on SPI1 ( Chubiz et al. 2010 ) . 
+A subset of SPI1 regulators enters the circuit via FliZ , including FlhD4C2 , required for the activation of FliZ , and RcsCDB , which represses ﬂhDC expression ( Lin et al. 2008 ; Chubiz et al. 2010 ) . 
+We also recently published a study showing that Lon protease affects SPI1 expression primarily via FliZ ( Chubiz et al. 2010 ) . 
+TdcA has also been suggested to regulate SPI1 via FliZ ( Kim et al. 2009 ) . 
+However , our results suggest that while TdcA regulates ﬂiZ transcription , its effect on hilA expression is independent of FliZ . 
+We have tested whether any of the other SPI1 regulators work through FliZ . 
+On the basis of our classiﬁcation of SPI1 regulators , we would expect that only the rest of class I factors can possibly function via FliZ . 
+However , we showed that HilE , EnvZ , and FadD regulate SPI1 independently of FliZ . 
+The class II -- V regulators also work independently of FliZ , as expected . 
+These results suggest that only a limited fraction of the overall regulatory input into SPI1 is FliZ dependent , despite the facts that FliZ is a signiﬁcant regulator of HilD and many regulators affect both SPI1 and ﬂagellar gene expression . 
+The reason for coordination of expression of the ﬂagellar genes and the SPI1 genes during infection in the host is not completely understood ( Saini et al. 2010c ) . 
+Induction of the ﬂagellar regulon might help Salmonella to colonize the intestine of the host ( Stecher et al. 2008 ) . 
+Additionally , ﬂagellin-related inﬂammation is beneﬁcial for Salmonella during intestinal infection ( Stecher et al. 2007 ) . 
+Much work remains to understand the detailed mechanisms by which the various regulatory factors control this critical virulence machine , as well as the relative importance of each during infection . 
+However , we are beginning to comprehend this biological network in some detail . 
+Not surprisingly , the circuit is complex with regulation occurring at multiple levels . 
+High throughput transcriptomic data reveal only the outlines of this regulation . 
+Genetic analyses have been required to uncover the details . 
+This more complete understanding of the regulatory inputs into the SPI1 T3SS provides an important foundation for future analysis . 
+Acknowledgments
+We thank Jessica Remke for help with some strain constructions . 
+This work was supported by Public Health Service grants AI63230 and AI080705 . 
+Communicating editor : A. Hochschild 
+90 
+Y. A. Golubeva et al 
+Supporting Information
+Literature Cited 
+Altier , C. , M. Suyemoto , and S. D. Lawhon , 2000 Regulation of Salmonella enterica serovar typhimurium invasion genes by csrA . 
+Infect . 
+Immun . 
+68 : 6790 -- 6797 . 
+Antunes , L. C. , M. M. Buckner , S. D. Auweter , R. B. Ferreira , P. Lolic et al. , 2010 Inhibition of Salmonella host cell invasion by dimethyl sulﬁde . 
+Appl . 
+Environ . 
+Microbiol . 
+76 : 5300 -- 5304 . 
+Bailly-Bechet , M. , A. Benecke , W. D. Hardt , V. Lanza , A. Sturm et al. , 2010 An externally modulated , noise-driven switch for the regulation of SPI1 in Salmonella enterica serovar Typhimu-rium . 
+J. Math . 
+Biol . 
+PMID : 21107576 . 
+Bajaj , V. , C. Hwang , and C. A. Lee , 1995 hilA is a novel ompR / toxR family member that activates the expression of Salmonella typhimurium invasion genes . 
+Mol . 
+Microbiol . 
+18 : 715 -- 727 . 
+Banos , R. C. , A. Vivero , S. Aznar , J. Garcia , M. Pons et al. , 2009 Differential regulation of horizontally acquired and core genome genes by the bacterial modulator H-NS . 
+PLoS Genet . 
+5 : e1000513 . 
+Baxter , M. A. , T. F. Fahlen , R. L. Wilson , and B. D. Jones , 2003 HilE interacts with HilD and negatively regulates hilA transcription and expression of the Salmonella enterica serovar Typhimurium invasive phenotype . 
+Infect . 
+Immun . 
+71 : 1295 -- 1305 . 
+Cherepanov , P. P. , and W. Wackernagel , 1995 Gene disruption in Escherichia coli : TcR and KmR cassettes with the option of Flpcatalyzed excision of the antibiotic-resistance determinant . 
+Gene 158 : 9 -- 14 . 
+Chubiz , J. E. , Y. A. Golubeva , D. Lin , L. D. Miller , and J. M. Slauch , 2010 FliZ regulates expression of the SPI1 invasion locus by controlling HilD protein activity in Salmonella enterica serovar Typhimurium . 
+J. Bacteriol . 
+192 : 6261 -- 6270 . 
+Darwin , K. H. , and V. L. Miller , 1999 InvF is required for expression of genes encoding proteins secreted by the SPI1 type III secretion apparatus in Salmonella typhimurium . 
+J. Bacteriol . 
+181 : 4949 -- 4954 . 
+Darwin , K. H. , and V. L. Miller , 2000 The putative invasion protein chaperone SicA acts together with InvF to activate the expression of Salmonella typhimurium virulence genes . 
+Mol . 
+Microbiol . 
+35 : 949 -- 960 . 
+Darwin , K. H. , and V. L. Miller , 2001 Type III secretion chaperone-dependent regulation : activation of virulence genes by SicA and InvF in Salmonella typhimurium . 
+EMBO J. 20 : 1850 -- 1862 . 
+Datsenko , K. A. , and B. L. Wanner , 2000 One-step inactivation of chromosomal genes in Escherichia coli K-12 using PCR products . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 97 : 6640 -- 6645 . 
+Eichelberg , K. , and J. E. Galan , 1999 Differential regulation of Salmonella typhimurium type III secreted proteins by pathoge-nicity island 1 ( SPI-1 ) - encoded transcriptional activators InvF and HilA . 
+Infect . 
+Immun . 
+67 : 4099 -- 4105 . 
+Eichelberg , K. , and J. E. Galan , 2000 The ﬂagellar sigma factor FliA ( sigma ( 28 ) ) regulates the expression of Salmonella genes associated with the centisome 63 type III secretion system . 
+Infect . 
+Immun . 
+68 : 2735 -- 2743 . 
+Ellermeier , C. D. , and J. M. Slauch , 2003 RtsA and RtsB coordinately regulate expression of the invasion and ﬂagellar genes in Salmonella enterica serovar Typhimurium . 
+J. Bacteriol . 
+185 : 5096 -- 5108 . 
+Ellermeier , C. D. , A. Janakiraman , and J. M. Slauch , 2002 Con struction of targeted single copy lac fusions using lambda Red and FLP-mediated site-speciﬁc recombination in bacteria . 
+Gene 290 : 153 -- 161 . 
+Ellermeier , C. D. , J. R. Ellermeier , and J. M. Slauch , 2005 HilD , HilC and RtsA constitute a feed forward loop that controls expression of the SPI1 type three secretion system regulator hilA in Salmonella enterica serovar Typhimurium . 
+Mol . 
+Microbiol . 
+57 : 691 -- 705 . 
+Ellermeier , J. R. , and J. M. Slauch , 2007 Adaptation to the host environment : regulation of the SPI1 type III secretion system in Salmonella enterica serovar Typhimurium . 
+Curr . 
+Opin . 
+Microbiol . 
+10 : 24 -- 29 . 
+Ellermeier , J. R. , and J. M. Slauch , 2008 Fur regulates expression of the Salmonella pathogenicity island 1 type III secretion system through HilD . 
+J. Bacteriol . 
+190 : 476 -- 486 . 
+Fink , R. C. , M. R. Evans , S. Porwollik , A. Vazquez-Torres , J. Jones-Carson et al. , 2007 FNR is a global regulator of virulence and anaerobic metabolism in Salmonella enterica serovar Typhimu-rium ( ATCC 14028s ) . 
+J. Bacteriol . 
+189 : 2262 -- 2273 . 
+Fortune , D. R. , M. Suyemoto , and C. Altier , 2006 Identiﬁcation of CsrC and characterization of its role in epithelial cell invasion in Salmonella enterica serovar Typhimurium . 
+Infect . 
+Immun . 
+74 : 331 -- 339 . 
+Frye , J. , J. E. Karlinsey , H. R. Felise , B. Marzolf , N. Dowidar et al. , 2006 Identiﬁcation of new ﬂagellar genes of Salmonella enterica serovar Typhimurium . 
+J. Bacteriol . 
+188 : 2233 -- 2243 . 
+Galan , J. E. , and R. Curtiss III . 
+1989 Cloning and molecular characterization of genes whose products allow Salmonella typhimu-rium to penetrate tissue culture cells . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 86 : 6383 -- 6387 . 
+Groisman , E. A. , 2001 The pleiotropic two-component regulatory system PhoP-PhoQ . 
+J. Bacteriol . 
+183 : 1835 -- 1842 . 
+Gunn , J. S. , E. L. Hohmann , and S. I. Miller , 1996 Transcriptional regulation of Salmonella virulence : a PhoQ periplasmic domain mutation results in increased net phosphotransfer to PhoP . 
+J. Bacteriol . 
+178 : 6369 -- 6373 . 
+Hughes , K. T. , K. L. Gillen , M. J. Semon , and J. E. Karlinsey , 1993 Sensing structural intermediates in bacterial ﬂagellar assembly by export of a negative regulator . 
+Science 262 : 1277 -- 1280 . 
+Ikebe , T. , S. Iyoda , and K. Kutsukake , 1999 Promoter analysis of the class 2 ﬂagellar operons of Salmonella . 
+Genes Genet . 
+Syst . 
+74 : 179 -- 183 . 
+Iyoda , S. , T. Kamidoi , K. Hirose , K. Kutsukake , and H. Watanabe , 2001 A ﬂagellar gene ﬂiZ regulates the expression of invasion genes and virulence phenotype in Salmonella enterica serovar Typhimurium . 
+Microb . 
+Pathog . 
+30 : 81 -- 90 . 
+Johnston , C. , D. A. Pegues , C. J. Hueck , A. Lee , and S. I. Miller , 1996 Transcriptional activation of Salmonella typhimurium invasion genes by a member of the phosphorylated response-regulator superfamily . 
+Mol . 
+Microbiol . 
+22 : 715 -- 727 . 
+Kage , H. , A. Takaya , M. Ohya , and T. Yamamoto , 2008 Co ordinated regulation of expression of Salmonella pathogenicity island 1 and ﬂagellar type III secretion systems by ATP-dependent ClpXP protease . 
+J. Bacteriol . 
+190 : 2470 -- 2478 . 
+Kim , M. , S. Lim , D. Kim , H. E. Choy , and S. Ryu , 2009 A tdcA mutation reduces the invasive ability of Salmonella enterica se-rovar typhimurium . 
+Mol . 
+Cells 28 : 389 -- 395 . 
+Lawhon , S. D. , R. Maurer , M. Suyemoto , and C. Altier , 2002 In testinal short-chain fatty acids alter Salmonella typhimurium invasion gene expression and virulence through BarA/SirA . 
+Mol . 
+Microbiol . 
+46 : 1451 -- 1464 . 
+Lin , D. , C. V. Rao , and J. M. Slauch , 2008 The Salmonella SPI1 type three secretion system responds to periplasmic disulﬁde bond status via the ﬂagellar apparatus and the RcsCDB system . 
+J. Bacteriol . 
+190 : 87 -- 97 . 
+Lopez-Garrido , J. , and J. Casadesus , 2010 Regulation of Salmo-nella enterica pathogenicity island 1 by DNA adenine methylation . 
+Genetics 184 : 637 -- 649 . 
+Lostroh , C. P. , and C. A. Lee , 2001 The HilA box and sequences outside it determine the magnitude of HilA-dependent activation of P ( prgH ) from Salmonella pathogenicity island 1 . 
+J. Bacteriol . 
+183 : 4876 -- 4885 . 
+Lucas , R. L. , C. P. Lostroh , C. C. DiRusso , M. P. Spector , B. L. Wanner et al. , 2000 Multiple factors independently regulate hilA and invasion gene expression in Salmonella enterica serovar typhimurium . 
+J. Bacteriol . 
+182 : 1872 -- 1882 . 
+Lucchini , S. , G. Rowley , M. D. Goldberg , D. Hurd , M. Harrison et al. , 2006 H-NS mediates the silencing of laterally acquired genes in bacteria . 
+PLoS Pathog . 
+2 : e81 . 
+Maloy , S. R. , V. J. Stewart , and R. K. Taylor , 1996 Genetic Analysis of Pathogenic Bacteria : a Laboratory Manual . 
+Cold Spring Harbor Laboratory Press , Plainview , NY . 
+Martinez , L. C. , H. Yakhnin , M. I. Camacho , D. Georgellis , P. Babitzke et al. , 2011 Integration of a complex regulatory cascade involving the SirA/BarA and Csr global regulatory systems that controls expression of the Salmonella SPI-1 and SPI-2 virulence regulons through HilD . 
+Mol . 
+Microbiol . 
+80 : 1637 -- 1656 . 
+Miller , S. I. , and J. J. Mekalanos , 1990 Constitutive expression of the phoP regulon attenuates Salmonella virulence and survival within macrophages . 
+J. Bacteriol . 
+172 : 2485 -- 2490 . 
+Mills , D. M. , V. Bajaj , and C. A. Lee , 1995 A 40 kb chromosomal fragment encoding Salmonella typhimurium invasion genes is absent from the corresponding region of the Escherichia coli K - 12 chromosome . 
+Mol . 
+Microbiol . 
+15 : 749 -- 759 . 
+Navarre , W. W. , S. Porwollik , Y. Wang , M. McClelland , H. Rosen et al. , 2006 Selective silencing of foreign DNA with low GC content by the H-NS protein in Salmonella . 
+Science 313 : 236 -- 238 . 
+Ohnishi , K. , K. Kutsukake , H. Suzuki , and T. Lino , 1992 A novel transcriptional regulation mechanism in the ﬂagellar regulon of Salmonella typhimurium : an antisigma factor inhibits the activity of the ﬂagellum-speciﬁc sigma factor , sigma F. Mol . 
+Microbiol . 
+6 : 3149 -- 3157 . 
+Olekhnovich , I. N. , and R. J. Kadner , 2002 DNA-binding activities of the HilC and HilD virulence regulatory proteins of Salmonella enterica serovar Typhimurium . 
+J. Bacteriol . 
+184 : 4148 -- 4160 . 
+Olekhnovich , I. N. , and R. J. Kadner , 2006 Crucial roles of both ﬂanking sequences in silencing of the hilA promoter in Salmo-nella enterica . 
+J. Mol . 
+Biol . 
+357 : 373 -- 386 . 
+Olekhnovich , I. N. , and R. J. Kadner , 2007 Role of nucleoid-associated proteins Hha and H-NS in expression of Salmonella enterica activators HilD , HilC , and RtsA required for cell invasion . 
+J. Bacteriol . 
+189 : 6882 -- 6890 . 
+Ono , S. , M. D. Goldberg , T. Olsson , D. Esposito , J. C. Hinton et al. , 2005 H-NS is a part of a thermally controlled mechanism for bacterial gene regulation . 
+Biochem . 
+J. 391 : 203 -- 213 . 
+Passerat , J. , P. Got , S. Dukan , and P. Monfort , 2009 Respective roles of culturable and viable-but-nonculturable cells in the heterogeneity of Salmonella enterica serovar Typhimurium invasiveness . 
+Appl . 
+Environ . 
+Microbiol . 
+75 : 5179 -- 5185 . 
+Pesavento , C. , G. Becker , N. Sommerfeldt , A. Possling , N. Tschowri et al. , 2008 Inverse regulatory coordination of motility and curli-mediated adhesion in Escherichia coli . 
+Genes Dev . 
+22 : 2434 -- 2446 . 
+Romeo , T. , 1998 Global regulation by the small RNA-binding protein CsrA and the non-coding RNA molecule CsrB . 
+Mol . 
+Microbiol . 
+29 : 1321 -- 1330 . 
+Saini , S. , J. D. Brown , P. D. Aldridge , and C. V. Rao , 2008 FliZ Is a posttranslational activator of FlhD4C2-dependent ﬂagellar gene expression . 
+J. Bacteriol . 
+190 : 4979 -- 4988 . 
+Saini , S. , J. R. Ellermeier , J. M. Slauch , and C. V. Rao , 2010a The role of coupled positive feedback in the expression of the SPI1 type three secretion system in Salmonella . 
+PLoS Pathog . 
+6 : e1001025 . 
+Saini , S. , S. Koirala , E. Floess , P. J. Mears , Y. R. Chemla et al. , 2010b FliZ induces a kinetic switch in ﬂagellar gene expression . 
+J. Bacteriol . 
+192 : 6477 -- 6481 . 
+Saini , S. , J. M. Slauch , P. D. Aldridge , and C. V. Rao , 2010c The role of crosstalk in regulating the dynamic expression of the ﬂagellar , Salmonella pathogenicity island 1 ( SPI1 ) , and type 1 ﬁmbrial genes . 
+J. Bacteriol . 
+192 : 5767 -- 5777 . 
+Sambrook , J. , E. F. Fritsch , and T. Maniatis , 1989 Molecular Clon-ing : a Laboratory Manual . 
+Cold Spring Harbor Laboratory Press , Cold Spring Harbor , NY . 
+Schechter , L. M. , S. Jain , S. Akbar , and C. A. Lee , 2003 The small nucleoid-binding proteins H-NS , HU , and Fis affect hilA expression in Salmonella enterica serovar Typhimurium . 
+Infect . 
+Immun . 
+71 : 5432 -- 5435 . 
+Slauch , J. M. , and T. J. Silhavy , 1991 cis-acting ompF mutations that result in OmpR-dependent constitutive expression . 
+J. Bacteriol . 
+173 : 4039 -- 4048 . 
+Song , M. , H. J. Kim , E. Y. Kim , M. Shin , H. C. Lee et al. , 2004 ppGpp-dependent stationary phase induction of genes on Salmonella pathogenicity island 1 . 
+J. Biol . 
+Chem . 
+279 : 34183 -- 34190 . 
+Stecher , B. , R. Robbiani , A. W. Walker , A. M. Westendorf , M. Barthel et al. , 2007 Salmonella enterica serovar typhimurium exploits inﬂammation to compete with the intestinal microbiota . 
+PLoS Biol . 
+5 : 2177 -- 2189 . 
+Stecher , B. , M. Barthel , M. C. Schlumberger , L. Haberli , W. Rabsch et al. , 2008 Motility allows S. typhimurium to beneﬁt from the mucosal defence . 
+Cell . 
+Microbiol . 
+10 : 1166 -- 1180 . 
+Suarez , F. , J. Furne , J. Springﬁeld , and M. Levitt , 1997 Insights into human colonic physiology obtained from the study of ﬂatus composition . 
+Am . 
+J. Physiol . 
+272 : G1028 -- G1033 . 
+Suarez , F. , J. Furne , J. Springﬁeld , and M. Levitt , 1998 Pro duction and elimination of sulfur-containing gases in the rat colon . 
+Am . 
+J. Physiol . 
+274 : G727 -- G733 . 
+Teixido , L. , B. Carrasco , J. C. Alonso , J. Barbe , and S. Campoy , 2011 Fur activates the expression of Salmonella enterica path-ogenicity island 1 by directly interacting with the hilD operator in vivo and in vitro . 
+PLoS ONE 6 : e19711 . 
+Troxell , B. , M. L. Sikes , R. C. Fink , A. Vazquez-Torres , J. Jones-Carson et al. , 2010 Fur negatively regulates hns and is required for the expression of hilA and virulence in Salmonella enterica serovar Typhimurium . 
+J. Bacteriol . 
+193 : 497 -- 505 . 
+Tsolis , R. M. , L. G. Adams , T. A. Ficht , and A. J. Baumler , 1999 Contribution of Salmonella typhimurium virulence factors to diarrheal disease in calves . 
+Infect . 
+Immun . 
+67 : 4879 -- 4885 . 
+Van , I. F. , V. Eeckhaut , F. Boyen , F. Pasmans , F. Haesebrouck et al. , 2008 Mutations inﬂuencing expression of the Salmonella enterica serovar Enteritidis pathogenicity island I key regulator hilA . 
+Antonie van Leeuwenhoek 94 : 455 -- 461 . 
+Wada , T. , Y. Tanabe , and K. Kutsukake , 2011 FliZ acts as a repressor of the ydiV Gene , which encodes an anti-FlhD4C2 factor of the ﬂagellar regulon in Salmonella enterica serovar Typhimu-rium . 
+J. Bacteriol . 
+193 : 5191 -- 5198 . 
+Wallis , T. S. , and E. E. Galyov , 2000 Molecular basis of Salmo-nella-induced enteritis . 
+Mol . 
+Microbiol . 
+36 : 997 -- 1005 . 
+Wang , R. F. , and S. R. Kushner , 1991 Construction of versatile low-copy-number vectors for cloning , sequencing and gene expression in Escherichia coli . 
+Gene 100 : 195 -- 199 . 
+Watson , P. R. , E. E. Galyov , S. M. Paulin , P. W. Jones , and T. S. Wallis , 1998 Mutation of invH , but not stn , reduces Salmo-nella-induced enteritis in cattle . 
+Infect . 
+Immun . 
+66 : 1432 -- 1438 . 
+Weilbacher , T. , K. Suzuki , A. K. Dubey , X. Wang , S. Gudapaty et al. , 2003 A novel sRNA component of the carbon storage regulatory system of Escherichia coli . 
+Mol . 
+Microbiol . 
+48 : 657 -- 670 . 
+Yu , D. , H. M. Ellis , E. C. Lee , N. A. Jenkins , N. G. Copeland et al. , 2000 An efﬁcient recombination system for chromosome engineering in Escherichia coli . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 97 : 5978 -- 5983 . 
+Zhou , D. , and J. Galan , 2001 Salmonella entry into host cells : the work in concert of type III secreted effector proteins . 
+Microbes Infect . 
+3 : 1293 -- 1298 . 
+Zwir , I. , D. Shin , A. Kato , K. Nishino , T. Latiﬁ et al. , 2005 Dissecting the PhoP regulatory network of Escherichia coli and Salmonella enterica . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 102 : 2862 -- 2867 .

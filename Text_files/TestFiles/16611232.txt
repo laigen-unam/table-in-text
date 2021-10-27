@@ -1,0 +1,477 @@
+Blackwell Science , LtdOxford , UKCMICellular Microbiology 1462-5814 © 2005TheAuthors ; Journal compilation © 2005 Blackwell Publishing Ltd ? 
+200585837846OriginalArticleA . 
+HaragaandS.I.MillerSalmonellaeffectorinteractswithPKN1 
+Cellular Microbiology ( 2006 ) 8 ( 5 ) , 837 -- 846 
+doi :10.1111 / j.1462-5822.2005.00670.x First published online 21 December 2005 
+A Salmonella type III secretion effector interacts with the m
+ma malian serine/threonine protein kinase PKN1 
+Andrea Haraga1 and Samuel I. Miller1 ,2,3 * 
+Departments of 1Microbiology , 2Medicine and 3Genome Sciences , University of Washington , Seattle , WA 98195 , USA . 
+Summary 
+Essential to salmonellae pathogenesis is an export device called the type III secretion system ( TTSS ) , which mediates the transfer of bacterial effector proteins from the bacterial cell into the host cell cytoplasm . 
+Once inside the host cell , these effectors are then capable of altering a variety of host cellular functions in order to promote bacterial survival and colonization . 
+SspH1 is a Salmonella enterica serovar Typhimurium TTSS effector that localizes to the mammalian nucleus and down-modulates production of proinﬂammatory cytokines by inhibiting nuclear factor ( NF ) - κB-dependent gene expression . 
+To identify mammalian binding partners of SspH1 a yeast two-hybrid screen against a human spleen cDNA library was performed . 
+It yielded a serine/threonine protein kinase called protein kinase N 1 ( PKN1 ) . 
+The leucine-rich repeat domain of SspH1 was demonstrated to mediate this interaction and also inhibition of NF-κB-dependent gene expression . 
+This suggested that PKN1 may play a role in modulation of the NF-κB signalling pathway . 
+Indeed , we found that expression of constitutively active PKN1 in mammalian cells results in a decrease , while depletion of PKN1 by RNA interference causes an increase in NF-κB-dependent reporter gene expression . 
+These data indicate that SspH1 may inhibit the host 's inﬂammatory response by interacting with PKN1 . 
+Introduction
+Salmonellae are Gram-negative bacterial pathogens that can cause a variety of serious diseases in humans and animals , ranging from self-limiting gastroenteritis to the potentially life-threatening systemic illness typhoid fever ( Pegues et al. , 2005 ) . 
+One strategy of salmonellae to survive within animal hosts is their ability to subvert an array 
+Received 11 August , 2005 ; revised 2 November , 2005 ; accepted 3 November , 2005 . 
+* For correspondence . 
+E-mail millersi @ u.washington.edu ; Tel. ( +1 ) 206 616 5107 ; Fax ( +1 ) 206 616 5109 . 
+of host cellular functions by delivering bacterial proteins , called effectors , directly into the host cells ' cytoplasm ( Galan , 2001 ) . 
+After translocation these effectors localize to speciﬁc compartments within host cells and target speciﬁc host signalling pathways , often via their enzymatic activities . 
+Salmonellae encode two separate effector transport systems , termed type III secretion systems ( TTSS ) , within Salmonella pathogenicity islands ( SPI ) 1 and 2 that function at different times during the infection . 
+The SPI1 TTSS translocates effectors across the plasma membrane and mediates invasion of the host cell , while the SPI2 TTSS secrets proteins across the vacuolar membrane and promotes intracellular survival and replication . 
+The Salmonella enterica serovar Typhimurium effector protein SspH1 can be delivered into mammalian cells by both the SPI1 and the SPI2 TTSS ; however , it appears to be constitutively expressed ( Miao et al. , 1999 ) . 
+Once inside the host cell , it localizes to the nucleus , inhibits nuclear factor ( NF ) - κB-dependent gene expression , and contributes to down-modulation of proinﬂammatory cytokine production by S. enterica serovar Typhimurium ( Haraga and Miller , 2003 ) . 
+SspH1 belongs to a family of bacterial proteins that contains leucine-rich repeats ( LRR ) of the LPX type ( Miao et al. , 1999 ) . 
+This family includes at least 15 effectors from six bacterial genera , including the Salmonella SspH2 and SlrP , the Yersinia YopM and the Shigella IpaH9 .8 . 
+The LRR is a motif that typically mediates protein -- protein interactions in eukaryotes ( Buchanan and Gay , 1996 ) . 
+Since no enzymatic activities have been found for these LPX repeat proteins , it is plausible that this effector family simply functions to bind mammalian proteins as its pathogenic mechanism . 
+This manuscript demonstrates that SspH1 interacts with the human serine/threonine kinase protein kinase N 1 ( PKN1 ) . 
+Since PKN1 activation can also down-modulate NF-κB-dependent gene expression , we hypothesize that SspH1 inhibits the NF-κB signalling pathway by interacting with PKN1 . 
+Results
+SspH1 interacts with the mammalian serine/threonine kinase PKN1
+Since SspH1 contains LRR , which is thought to be a protein -- protein recognition motif in eukaryotes , we hypothesized that SspH1 interacts with a host protein after translocation by the TTSS . 
+To identify mammalian interacting partners SspH1 was assayed by the yeast two-hybrid system . 
+S. enterica serovar Typhimurium SspH1 was fused to the DNA binding domain ( BD ) of the yeast Gal4 transcriptional activator and was coexpressed in yeast with a human spleen cDNA library fused to the Gal4 activator domain ( AD ) . 
+Approximately 4 × 106 transformants were screened by growth on synthetic medium lacking histidine , and the resulting colonies were further tested for expression of two additional reporter genes , ADE2 and LacZ . 
+Eighty-four colonies containing nine different cDNA were selected , none of which encoded a protein that bound to the controls SspH2 and SlrP , when they were expressed in yeast as Gal4 BD -- effector protein fusions . 
+One of the identiﬁed cDNA encoded PKN1 ( also called protein kinase C-like 1 or PRKCL1 , and protein kinase C-related kinase 1 or PRK1 ) , a fatty acid - and Rho-activated serine/threonine protein kinase that has a cata-lytic domain highly homologous to that of protein kinase C ( PKC ) ( for review see Mukai , 2003 ) . 
+We decided to conﬁrm this interaction by co-immuno-precipitation , because another member of the PKN family , PKN2/PRK2 , has been shown to interact with YopM ( McDonald et al. , 2003 ) , a Yersinia effector containing the same type of LRR as SspH1 . 
+CHO-K1 cells were transiently transfected with vectors expressing haemaggluti-nin ( HA ) - tagged SspH1 or another bacterial LPX repeat protein , such as SspH2 , YopM , IpaH9 .8 and SlrP , as controls , and FLAG-tagged PKN1 . 
+The proteins were then immunoprecipitated with anti-FLAG - ( data not shown ) or anti-HA-agarose antibody conjugate . 
+As shown in Fig. 1A and B , PKN1-FLAG co-immunoprecipitated with SspH1-HA but not with SspH2-HA , HA-YopM , HA-IpaH9 .8 and SlrP-HA . 
+Similarly , endogenous PKN1 co-immunoprecip-itated with HA-tagged SspH1 but not SseJ , another SPI2 TTSS effector , when these proteins were delivered into HeLa cells by bacterial translocation , instead of transfection ( Fig. 1C ) . 
+The speciﬁcity of the SspH1-PKN1 binding was further demonstrated by showing that the highly similar PRK2 did not co-immunoprecipitate with SspH1 . 
+[ Note that SspH1 migrates on polyacrylamide gels as a doublet , when expressed in mammalian cells by transfection , while it is a single band , when it is delivered into cells by the bacterial TTSS ( Fig. 1A and C ) . 
+We hypothesize that the amino-terminus of this protein is unstable in the absence of a bacterial chaperone , resulting in the appearance of an additional smaller , faster migrating band . ] 
+Therefore , these data demonstrate that SspH1 speciﬁcally binds PKN1 , most likely through a direct protein -- protein interaction . 
+SspH1-HA HA-YopM HA-IpaH9 .8 SlrP-HA 
+SspH1-HA IP 
+SspH2-HA IP SspH1-HA SUP 
+SspH2-HA SUP 
+SspH1-HA-HA IP 
+SseJ-HA-HA IP 
+SspH1-HA-HA SUP 
+SseJ-HA-HA SU 
+SspH1 interacts with the amino-terminal regulatory domain of PKN1 within three antiparallel coiled-coil folds
+PKN1 can be divided into two main domains , an amino-terminal regulatory domain and a carboxy-terminal serine / threonine kinase domain , which is constitutively active in the absence of the regulatory domain ( Takahashi et al. , 1998 ) . 
+To determine which of these two PKN1 regions SspH1 interacts with , SspH1-HA was coexpressed in 
+Fig. 1 . 
+SspH1 interacts with PKN1 . 
+A 
+C 
+A. PKN1 co-immunoprecipitates with SspH1 from transfected cells . 
+CHO-K1 cells were transiently transfected with vectors expressing PKN1-FLAG and SspH1-HA or SspH2-HA . 
+Twenty-four hours later the HA-tagged proteins were immunoprecipitated , and the immunoprecipitates ( IP ) and the supernatants ( SUP ) were immunoblotted with antibodies to the HA and the FLAG tags . 
+The asterisk ( * ) denotes a cleaved SspH1-HA product . 
+B. PKN1 does not co-immunoprecipitate with other LPX repeat proteins . 
+SspH1-HA , HA-YopM , HA-IpaH9 .8 or SlrP-HA were coexpressed in CHO-K1 cells with PKN1-FLAG and were immunoprecipitated . 
+The IP and the SUP were probed with antibodies speciﬁc for the HA and the FLAG tags . 
+C. Endogenous PKN1 , but not PRK2 , co-immu-noprecipitates with SspH1 from Salmonella-infected cells . 
+HeLa were infected with S. enterica serovar Typhimurium expressing SspH1-HA-HA or SseJ-HA-HA at an moi of 20 for 17 h . 
+The HA-tagged proteins were immu-noprecipitated using an anti-HA-agarose antibody conjugate , and the IP and the SUP were blotted with anti-HA , anti-PKN1 and anti-PRK2 antibodies . 
+anti-HA 
+* 
+anti-FLAG 
+anti-HA 
+B 
+anti-PKN1 
+anti-PRK2 
+IP 
+anti-HA 
+IP 
+anti-FLAG 
+SUP 
++ 
+¬ 
++ 
+¬ 
++ 
+¬ 
+CHO-K1 cells with epitope-tagged versions of these PKN1 fragments and was immunoprecipitated using anti-HA-agarose antibody conjugate . 
+We found that SspH1 interacted with the amino - but not the carboxy-terminal portion of PKN1 . 
+As shown in Fig. 2A and B , Myc-PKN1 ( 1-560 ) co-immunoprecipitated with SspH1-HA , while PKN1 ( 561-942 ) - FLAG did not . 
+The control SspH2 did not precipitate either of these fragments . 
+To further deﬁne the region of interaction , the PKN1 amino acid sequence was submitted to Robetta ( http://robetta.bakerlab.org ) , a fully automated full-chain protein structure prediction server , and the sequence was parsed into domains by Ginzu and subsequently modelled by homology or ab initio depending on the extent of existing information ( Kim et al. , 2004 ) . 
+Based on this analysis the amino-terminus of PKN1 consists of ﬁve domains : three homologous antiparallel coiled-coil ( ACC ) fold domains ( amino acids 1 -- 343 ) , which function as a binding interface to various proteins including the small GTPases RhoA and Rac1 ( Maesaki et al. , 1999 ) , a putative Ras BD ( amino acids 344 -- 437 ) predicted by its similarity to that of the serine/threonine kinase Raf-1 ( Terada et al. , 1999 ) , and a Src homology ( SH ) 2/3 domain ( amino acids 438 -- 560 ) , which provides the structural basis for the autoinhibition of the c-Abl tyrosine kinase ( Nagar et al. , 2003 ) . 
+As shown in Fig. 2C , HA-tagged SspH1 , but not the control SspH2 , immunoprecipitated Myc-PKN1 ( 1-437 ) and Myc-PKN1 ( 1-343 ) , while it did not immunoprecipitate PKN1 ( 438-942 ) - FLAG and PKN1 ( 344-942 ) - FLAG . 
+These results , which are summarized in Fig. 2D , indicate that SspH1 binds to PKN1 within its three ACC fold domains . 
+The LRR domain of SspH1 mediates interaction with PKN1 and inhibition of NF-κB-dependent gene expression 
+Since SspH2 and SlrP do not interact with PKN1 but share high homology to SspH1 , chimeric proteins of SspH1 and SspH2 or SspH1 and SlrP were constructed based on their similar structure to identify the SspH1 domain mediating the interaction with PKN1 . 
+DNA sequences encoding the amino-terminal , the LRR , and the carboxy-terminal domains of SspH1 and SspH2 or SlrP were swapped by Strand Overlap Exchange ( SOE ) PCR and were labelled with an HA tag . 
+The resulting constructs were then coexpressed with FLAG-tagged PKN1 in CHO-K1 cells by transient transfection and those that encoded stable proteins were immunoprecipitated with an antibody to the HA tag . 
+As shown in Fig. 3 , PKN1-FLAG co-immunoprecipi-tated only with those chimeras that contained the LRR domain of SspH1 , amino acid residues 206 -- 372 . 
+This suggests that the LRR domain of SspH1 mediates the interaction with PKN1 . 
+Since neither SspH2 nor SlrP has an effect on NF-κB-dependent gene expression ( Haraga and Miller , 2003 ) , these chimeras were also used to determine whether the LRR domain of SspH1 is the same domain involved in inhibition of NF-κB . 
+Therefore , they were expressed in CHO-K1 cells with a reporter construct to measure NF-κB-dependent gene expression , a plasmid to normalize for transfection efﬁciency , and a vector expressing mouse CD14 , which is part of the lipopolysaccharide ( LPS ) receptor complex . 
+Cells were then stimulated with LPS or treated with fresh medium , lysed and assayed for reporter gene activity . 
+As shown in Fig. 4 , only those cells that expressed chimeras containing the LRR domain of SspH1 had reduced levels of NF-κB-dependent reporter gene expression and activity . 
+This suggests that the LRR domain of SspH1 , which mediates interaction with PKN1 , is also involved in inhibition of NF-κB . 
+The variation in the level of inhibition by the different chimeras is most likely due to their dissimilar stabilities when expressed in mammalian cells , as shown in Fig. 3 . 
+In conclusion , interaction with PKN1 and inhibition of NF-κB activity are both mediated by the LRR domain of SspH1 . 
+P anti-HA SspH1-HA SspH2-HA 
+I 
+anti-HA 
+PKN1 ( 1-942 ) - FLAG 
+IP 
+IP 
+anti-FLAG 
+anti-Myc 
+SUP 
+PKN1 ( 1-942 ) - FLAG 
+SUP 
+anti-FLAG 
+PKN1 ( 561-942 ) - FLAG 
+C 
+IP 
+IP 
+anti-HA 
+anti-HA 
+PKN1 ( 1-942 ) - FLAG 
+IP 
+Myc-PKN1 ( 1-437 ) Myc-PKN1 ( 1-343 ) Myc-PKN1 ( 1-437 ) Myc-PKN1 ( 1-343 ) 
+IP 
+SspH1-HA SspH1-HA SspH2-HA SspH2-H 
+anti-Myc 
+anti-FLAG SUP anti-FLAG 
+SspH1-HA SspH1-HA SspH1-HA 
+PKN1 ( 1-942 ) - FLAG PKN1 ( 344-942 ) - FLAG PKN1 ( 438-942 ) - FLAG 
+SUP 
+anti-Myc 
+ACC domains SH3/2 PKC-like domain Ras binding 
+D 
+SspH1 interaction 
++ 
+344 438 
+942 
+561 
+1 
++ 
+¬ 
++ 
+¬ 
++ 
+¬ 
+## 
+14 
+** 
+*** 
+12 
+10 
+# 
+SspH1-HA SspH2-HA 
+* 
+8 
+LPS 
+* 
+Medium 
+6 
+SspH1 ( N+L ) SspH2 ( C ) - HA SspH1 ( N ) SspH2 ( L+C ) - HA 
+4 
+* 
+2 
+SspH2 ( N+L ) SspH1 ( C ) - HA SspH2 ( N ) SspH1 ( L+C ) - HA 
+0 
+SlrP-HA 
+SlrP ( N ) SspH1 ( L+C ) - HA 
+SspH1 ( N ) SlrP ( L+C ) - HA 
+Fig. 4 . 
+The LRR domain of SspH1 mediates inhibition of NF-κB-dependent gene expression . 
+CHO-K1 cells were transiently transfected with a plasmid in which expression of ﬁreﬂy luciferase is under the NF-κB-dependent ELAM-1 promoter , a construct in which Renilla luciferase is expressed from the constitutive HSV TK promoter , vectors expressing mouse CD14 , plus constructs expressing the indicated proteins . 
+Twenty-four hours after transfection the cells were incubated with E. coli LPS ( open bars ) or fresh medium ( solid bars ) for 5 h , and luciferase activity was measured . 
+Fireﬂy luciferase activity was normalized to the activity of Renilla luciferase . 
+Data are representative of one of at least three independent experiments and presented as the mean ± standard deviation of triplicate samples . 
+Statistical signiﬁcance was evaluated by one-way ANOVA . 
+* P < 0.001 , ** P = 0.871 , *** P = 0.954 , # P = 0.005 and ## P = 0.071 versus LPS-stimulated Vector control . 
+SspH1 ( N+L ) SspH2 ( C ) SspH1 ( N ) SspH2 ( L+C ) 
+Relative Light Units 
+Vector 
+SspH1 
+SspH2 ( N+L ) SspH1 ( C ) 
+SspH2 ( N ) SspH1 ( L+C ) 
+SlrP ( N ) SspH1 ( L+C ) 
+SspH1 ( N ) SlrP ( L+C 
+IP 
+anti-HA 
+PKN1 activation inhibits NF-κB-dependent reporter gene expression
+Since the same domain that interacts with PKN1 also inhibits NF-κB-dependent gene expression , we hypothesized that PKN1 plays a role in modulation of the NF-κB pathway . 
+To test this hypothesis , CHO-K1 cells were transiently transfected with a vector expressing only the kinase domain of PKN1 , residues 561 -- 942 , which is constitutively active without its regulatory domain ( Takahashi et al. , 1998 ) , or the same fragment with a mutation in the putative ATP binding site , K644E , which results in a kinase-dead PKN1 ( Gao et al. , 2000 ) , along with the constructs described above to measure NF-κB-dependent reporter gene expression . 
+Cells were then stimulated with LPS or treated with fresh medium and assayed for reporter gene activity . 
+As shown in Fig. 5 , cells expressing the constitutively active form of PKN1 had reduced reporter gene expression and activity compared to cells expressing the kinase-dead PKN1 or the control cells not containing any PKN1-expressing construct , which suggests that activated PKN1 can inhibit NF-κB . 
+To measure the effect of endogenous PKN1 on NF-κB , cells were depleted of PKN1 using RNA interference ( RNAi ) . 
+HeLa cells were transfected with PKN1-speciﬁc or non-targeting small interfering RNA ( siRNA ) and the NF-κB reporter construct , were stimulated with tumour necrosis factor ( TNF ) - α , and reporter gene activity was measured . 
+Depletion of PKN1 was conﬁrmed by immuno-blotting the cell lysates with an anti-PKN1 antibody . 
+As shown in Fig. 6 , these results agreed with our previous ﬁnding using the exogenously expressed constitutively active PKN1 . 
+Cells that had reduced levels of PKN1 had increased NF-κB-dependent reporter gene expression and activity , which suggests that PKN1 can inhibit NF-κB-dependent gene expression and may play a role in the NF-κB signalling pathway . 
+IP 
+anti-FLAG 
+SUP 
+Fig. 3 . 
+PKN1 interacts with the LRR domain of SspH1 . 
+PKN1-FLAG was coexpressed in CHO-K1 cells with vectors expressing HA-tagged SspH1 , SspH2 , SlrP , or the indicated SspH1/SspH2 and SspH1/SlrP chimeras . 
+The following abbreviations are used : amino-terminal ( N ) , LRR ( L ) and carboxy-terminal ( C ) domain . 
+The proteins were immunoprecipitated using an anti-HA antibody-agarose conjugate , and the IP and the SUP were blotted with anti-HA and anti-FLAG antibodies . 
+35 
+30 
+25 
+20 
+TNF ¬ 
+* 
+15 
+Medium 
+10 
+5 
+0 
+PKN1 siRNA Non-targeting siRNA 
+anti-PKN1 
+Fig. 6 . 
+PKN1 inhibits NF-κB-dependent reporter gene expression . 
+HeLa cells were transfected with PKN1-speciﬁc or non-targeting siRNA , pELAM-1-ﬂuc and pRL-TK . 
+Twenty-four hours later the cells were stimulated with TNF-α ( open bars ) or treated with fresh culture medium ( solid bars ) for 5 h and luciferase activity was measured . 
+Fireﬂy luciferase activity was normalized to the activity of Renilla luciferase . 
+Data are representative of one of at least three independent experiments and presented as the mean ± standard deviation of triplicate samples . 
+Statistical signiﬁcance was evaluated by one-way ANOVA . 
+* P < 0.001 . 
+Depletion of PKN1 was conﬁrmed by immunoblotting the cell lysates with an antibody to PKN1 . 
+PKN1 is phosphorylated during Salmonella infection To determine whether PKN1 activity is modulated during Salmonella infection , the phosphorylation level of PKN1 
+Salmonella effector interacts with PKN1 841 was examined during infection . 
+Since phosphorylation at threonine ( Thr ) -774 within the activation loop of PKN1 has been shown to be required for its catalytic activity in vivo ( Flynn et al. , 2000 ) , measuring phosphorylation at this residue is thus an indication of PKN1 activity . 
+Intestine-407 cells were infected with S. enterica serovar Typhimu-rium at a multiplicity of infection ( moi ) of 50 for 0 , 0.5 , 1 , 2 , 3 and 4.5 h , the infected cells were lysed , and the lysates were immunoblotted with antibodies speciﬁc for unphosphorylated PKN1 and PKN1 phosphorylated at Thr-774 . 
+As shown in Fig. 7A , PKN1 becomes phosphorylated approximately 3 h after infection . 
+( Although the phospho-speciﬁc antibody also detects PRK2 phosphorylated at its activation loop , based on their size the bands in Fig. 7 represent phosphorylated PKN1 , not PRK2 . ) 
+This occurs approximately 2 h after the invasion-associated signalling cascade , as demonstrated by the phosphorylation level of p38 ( Fig. 7A ) , suggesting that these two events are independent ( Hobbie et al. , 1997 ) . 
+The timing of the PKN1 phosphorylation also indicates that perhaps an effector translocated by the SPI2 TTSS activates PKN1 . 
+To determine whether this effector is SspH1 , Intes-tine-407 cells were infected with wild-type S. enterica serovar Typhimurium or the same strain deleted for sspH1 and the phosphorylation levels of PKN1 at Thr-774 were compared in these cells . 
+As shown in Fig. 7B , PKN1 is phosphorylated in cells infected with the ∆ sspH1 Salmo-nella similarly to those infected with the wild-type strain . 
+This implies either that SspH1 is not required for phosphorylation of PKN1 during infection or that other effectors or mechanisms are also capable of activating PKN1 . 
+Fig. 5 . 
+Constitutively active PKN1 inhibits NF-κB-dependent reporter gene expression . 
+CHO-K1 cells were transiently transfected with only the pELAM-1-ﬂuc , pRL-TK and pCDNA3 .1 / Zeo/mCD14 vectors ( Control ) , or also with a plasmid expressing either constitutively active ( CA ) or kinase-dead ( KD ) PKN1 . 
+Twenty-four hours later the cells were incubated with E. coli LPS ( open bars ) or fresh medium ( solid bars ) for 5 h , and luciferase activity was measured . 
+Fireﬂy luciferase activity was normalized to the activity of Renilla luciferase . 
+Data are representative of one of at least three independent experiments and presented as the mean ± standard deviation of triplicate samples . 
+Statistical signiﬁcance was evaluated by one-way ANOVA . 
+* P < 0.001 versus LPS-stimulated Control and KD PKN1 . 
+Relative Light Unit 
+35 
+30 
+25 
+20 
+TNF ¬ 
+* 
+15 
+Medium 
+10 
+5 
+0 
+PKN1 siRNA Non-targeting siRNA 
+anti-PKN1 
+Fig. 6 . 
+PKN1 inhibits NF-κB-dependent reporter gene expression . 
+HeLa cells were transfected with PKN1-speciﬁc or non-targeting siRNA , pELAM-1-ﬂuc and pRL-TK . 
+Twenty-four hours later the cells were stimulated with TNF-α ( open bars ) or treated with fresh culture medium ( solid bars ) for 5 h and luciferase activity was measured . 
+Fireﬂy luciferase activity was normalized to the activity of Renilla luciferase . 
+Data are representative of one of at least three independent experiments and presented as the mean ± standard deviation of triplicate samples . 
+Statistical signiﬁcance was evaluated by one-way ANOVA . 
+* P < 0.001 . 
+Depletion of PKN1 was conﬁrmed by immunoblotting the cell lysates with an antibody to PKN1 . 
+A 
+Hours post infection : 
+0 
+0.5 
+1 
+2 
+3 
+4.5 
+Phospho-PKN1 
+PKN1 
+Phospho-p38 
+p38 
+B 
+Wild type 
+sspH1 
+2.5 4.5 
+Hours post infection : 
+0 
+0 2.5 4.5 
+Phospho-PKN1 
+PKN1 
+Fig. 7 . 
+PKN1 is phosphorylated during Salmonella infection . 
+A. Intestine-407 cells were infected with wild-type S. enterica serovar Typhimurium at an moi of 50 for 0 , 0.5 , 1 , 2 , 3 and 4.5 h , lysed , and immunblotted with antibodies speciﬁc for PKN1 , activation loopphosphorylated PKN1 , p38 and phosphorylated p38 . 
+B. Intestine-407 cells were infected with wild-type or ∆ sspH1 S. enterica serovar Typhimurium at an moi of 50 for 0 , 2.5 and 4.5 h . 
+The infected cells were lysed and blotted with anti-PKN1 and anti-phospho-PKN1 antibodies . 
+Discussion
+Salmonella enterica serovar Typhimurium induces a complex array of mammalian signalling pathways essential for its survival in host tissues . 
+It stimulates rearrangement of the actin cytoskeleton leading to membrane rufﬂing and internalization of the bacterium , and nuclear responses resulting in the production of proinﬂammatory cytokines and diarrhoea ( Galan , 2001 ) . 
+The bacterium also has the ability to interfere with the maturation of the Salmonellacontaining vacuole , allowing it to avoid phagocytic killing and to replicate intracellularly , and to down-modulate the host 's inﬂammatory response presumably to persist within its host for prolonged periods ( Haraga and Miller , 2003 ) . 
+The ability of the bacterium to stimulate such host responses is dependent on the functions of the SPI1 and the SPI2 TTSS . 
+S. enterica serovar Typhimurium encodes at least 27 translocated effectors , many of whose functions and host cellular targets have been determined . 
+In this study we describe the identiﬁcation of an intracellular binding partner of SspH1 , an effector of both TTSS that participates in suppression of proinﬂammatory cytokine secretion by inhibiting NF-κB-dependent gene expression ( Haraga and Miller , 2003 ) . 
+We demonstrate by the yeast two-hybrid assay and co-immunoprecipitation experiments that SspH1 speciﬁcally interacts with the human serine/threonine protein kinase PKN1 . 
+PKN1 is a versatile molecule that regulates a diverse set of cellular functions . 
+It has been implicated in cytosk-eletal regulation , vesicle transport , apoptosis , control of the cell cycle and cell signalling ( Kawamata et al. , 1998 ; Takahashi et al. , 1998 ; 2003 ; Dong et al. , 2000 ; Isagawa et al. , 2005 ) . 
+It has been shown to be activated by interaction with fatty acids , such as arachidonic acid , and several members of the Rho family of small GTPases , such as RhoA and Rac1 , and by cleavage of the amino-terminal regulatory domain by caspase-3 during apoptosis ( Mukai et al. , 1994 ; Amano et al. , 1996 ; Takahashi et al. , 1998 ) . 
+It has the ability to localize to several compartments within the cell , including the cytoplasm , the plasma membrane , vesicles and the nucleus , under different cellular conditions ( Mukai et al. , 1996 ; Torbett et al. , 2003 ; Zhu et al. , 2004 ) . 
+For example , in response to heat shock , serum starvation and treatment with sodium ars-enite PKN1 has been shown to translocate into the nucleus . 
+It is interesting to speculate whether infection with Salmonella may present a similar stress response resulting in the nuclear localization of PKN1 and its consequent interaction with SspH1 . 
+In fact , since SspH1 contains no classical nuclear localization signal and is too large for nucleocytoplasmic diffusion , it may be transported into the nucleus via PKN1 . 
+We found that SspH1 binds to the amino-terminal regulatory domain of PKN1 within a region containing three ACC fold repeats . 
+The ACC fold domain has been described as a well-deﬁned structure containing two long intertwined alpha-helices and a short amino-terminal helix folded back onto them to form a hydrophobic core that contributes to the stability of the structure ( Maesaki et al. , 1999 ) . 
+Although ACC domains are also present in other Rho effector proteins , such as PRK2 , SspH1 speciﬁcally interacts with the PKN1 ACC . 
+In addition , each ACC fold in PKN1 is unique in that each has different afﬁnities for different Rho members . 
+For example , while ACC1 binds to RhoA and Rac1 with similar high afﬁnities , ACC2 interacts selectively with Rac1 , and ACC3 does not bind either of these two GTPases ( Flynn et al. , 1998 ; Owen et al. , 2003 ) . 
+ACC1 has also been shown to contain a pseudosubstrate site that inhibits the kinase activity of PKN1 ( Kitagawa et al. , 1996 ) . 
+In fact , yeast two-hybrid and in vitro binding assays have demonstrated that the amino-terminal regulatory region of PKN1 can interact with the carboxy-terminal catalytic half of the molecule and this inhibits PKN1 kinase activity . 
+These data suggest that an autoinhibitory intramolecular contact may keep PKN1 in a closed inactive conformation and that binding by activated Rho may act to disrupt this interaction , thereby unmasking the active catalytic domain of PKN1 . 
+This hypothesis is supported by the observation that Rho binding is required for activation of PKN1 by phosphoinositide-dependent protein kinase-1 ( PDK1 ) , a known activator of PKN1 ( Flynn et al. , 2000 ) . 
+We hypothesize that SspH1 could induce a similar conformational change in PKN1 that is permissive for binding to PDK1 or another activator of PKN1 . 
+SspH1 contains three main domains , a LRR domain containing eight LRR that separates an amino - and a carboxy-terminal domain . 
+Since the LRR is a short repeating sequence motif that is thought to present a structural framework for the formation of protein -- protein interactions , we were not surprised to ﬁnd that this domain was mediating the interaction with PKN1 ( Buchanan and Gay , 1996 ) . 
+However , the SspH1 -- PKN1 interaction is speciﬁc and is not simply the result of the ` stickiness ' of the curved horseshoe structure of the LRR , because four other TTSS effectors containing very similar LRR , SspH2 , SlrP , IpaH9 .8 and YopM , did not bind to PKN1 . 
+Interestingly , the Yersinia enterocolitica YopM , an effector composed almost entirely of LRR , was recently reported to also interact with two serine/threonine kinases , PRK2 and ribosomal S6 protein kinase 1 ( RSK1 ) ( McDonald et al. , 2003 ) . 
+It is possible that other effectors containing the LPX type of LRR also interact with different serine/threonine kinases . 
+Their functional differences may lie within their speciﬁcities for the interacting host kinase . 
+To date no host targets have been identiﬁed for SlrP , IpaH9 .8 and the LRR domain of SspH2 , and it is tempting to speculate that the function of their LRR domains is to bind kinases . 
+LPX repeatcontaining proteins may be a unique family of TTSS effectors in that they do not have enzymatic activities . 
+They may simply function as protein binding and localizing mol-ecules , altering mammalian function by changing the subcellular localization of kinases . 
+With the exception of YopM , these effectors have additional domains besides the LRR that may promote localization and/or bind other molecules , such as kinase substrates . 
+Therefore , this family of proteins in bacterial pathogenesis may have evolved to bind kinases to redirect their subcellular localization and/or to bring them in contact with speciﬁc substrates that would not otherwise be accessible . 
+The fact that the LRR domain of SspH1 is also involved in inhibition of NF-κB-dependent gene expression further supports the idea that interaction with a serine/threonine kinase is important for the function of an effector of the LPX repeat protein family . 
+Unfortunately we were not able determine whether suppression of NF-κB activity by SspH1 requires PKN1 , because sufﬁcient depletion of PKN1 by RNAi took 48 h and SspH1 expression signiﬁcantly declined after 24 h , most likely due to cell toxicity . 
+Salmonella effector interacts with PKN1 843 In addition , we were not able to use translocated SspH1 for this experiment , because S. enterica serovar Typhimu-rium possesses several other effectors that can also inhibit the NF-κB pathway and our attempts to identify all of them have not been successful . 
+However , we did ﬁnd that activated PKN1 could also inhibit NF-κB-dependent gene expression . 
+Whether or not SspH1 directly activates PKN1 is not yet clear . 
+The observation that the sspH1 mutant S. enterica serovar Typhimurium could also induce phosphorylation of PKN1 does not rule out the possible importance of SspH1 in PKN1 regulation . 
+As there are multiple effectors capable of down-modulating proinﬂammatory signalling , S. enterica serovar Typhimurium may translocate several effectors , whose actions , one way or another , trigger activation of PKN1 . 
+Experimental procedures
+Bacterial strains, mammalian cell lines, culture and infection conditions
+The S. enterica serovar Typhimurium strain CS401 , which is a spontaneous streptomycin-resistant derivative of ATCC ( American Type Culture Collection ) 14028 and carries a phoN : : Tn10d insertion , and its mutant derivative with non-polar deletion of sspH1 ( EM124 ) have been described previously ( Miao et al. , 1999 ; Rakeman et al. , 1999 ) . 
+AH58 , which is CS401 transformed with the SspH1-HA-HA-expressing plasmid pAH41 ( Haraga and Miller , 2003 ) , and JAF119 , which is CS401 harbouring the SseJ-HA-HA-expressing plasmid pJAF111 ( Freeman et al. , 2003 ) , have also been published . 
+Human Intestine-407 , HeLa and CHO-K1 cells were obtained from the ATCC and were cultured in Dulbecco 's modiﬁed Eagle 's medium ( Intestine-407 and HeLa ) or RPMI 1640 ( CHO-K1 ) supplemented with 10 % fetal bovine serum , 100 U ml − 1 penicillin and 100 µg ml − 1 streptomycin , at 37 °C with 5 % CO2 . 
+For infection of mammalian cells bacterial strains were grown in Luria -- Bertani broth overnight , and the cultures were diluted 1:50 and were grown for 3 h at 37 °C with aeration . 
+Bacteria were added to mammalian cells at the indicated moi in antibiotic-free culture medium for 1 h , after which the infected cells were washed three times with phosphatebuffered saline ( PBS ) and were incubated with culture medium containing 50 µg ml − 1 gentamicin for the indicated length of time . 
+Plasmid constructions
+pAH47 and pAH48 were constructed by inserting the Shigella ﬂexneri ipaH9 .8 and the Yersinia pestis yopM , respectively , into the mammalian expression vector pCMV-HA ( BD Biosciences ) . 
+3 ′ HA-tagged chimeric S. enterica serovar Typhimurium sspH1 ( 1-1116 ) sspH2 ( 1372-2367 ) , sspH1 ( 1-617 ) sspH2 ( 637-2367 ) , sspH2 ( 1-1371 ) sspH1 ( 1117-2103 ) , sspH2 ( 1-636 ) sspH1 ( 618-2103 ) , slrP ( 1-567 ) sspH1 ( 618-2103 ) and sspH1 ( 1-617 ) slrP ( 568-2298 ) open reading frames were generated by SOE PCR and were inserted into pTIGZ ( Underhill et al. , 1999 ) , resulting in pAH11 , pAH12 , pAH13 , pAH14 , pAH18 and pAH25 respectively . 
+pAH51 , pAH53 and pAH55 were made by PCR amplifying the ﬁrst 1680 , 1311 and 1029 base pairs of human PKN1 , respectively , and inserting them into pCMV-Myc ( BD Biosciences ) . 
+3 ′ FLAG-tagged 1312 -- 2826 and 1030 -- 2826 base pair fragments of human PKN1 were PCR ampliﬁed and inserted into pRc/CMV ( Invitrogen ) to yield pAH54 and pAH56 respectively . 
+Transfections
+Mammalian cells were transiently transfected by electroporation . 
+Brieﬂy , DNA in 50 µl of PBS was mixed with 5 × 106 − 107 cells in 0.2 ml of culture medium in a 0.4 cm gap electroporation cuvette ( Bio-Rad ) . 
+The cells were pulsed in a Bio-Rad Gene Pulser set at 260 V and 960 µFD and were washed with 5 ml of culture medium , before seeding them into 60 mm , 100 mm or 24-well tissue culture dishes . 
+After allowing the cells to adhere to the dish for 3 h , the culture medium was changed again and left on until assaying . 
+Yeast two-hybrid screen
+The pGBD-U plasmid pEM118 expressing the Gal4 DNA BD fused to SspH1 ( Miao et al. , 2003 ) was expressed in the Saccharomyces cerevisiae strain PJ69-4 ( James et al. , 1996 ) . 
+The resulting yeast strain then was transformed with Human Spleen MATCHMAKER cDNA Library ( BD Biosciences ) , which expresses the yeast Gal4 AD fused to cDNA library inserts . 
+Cotransformants were plated onto medium lacking uracil , leucine and histidine and containing 3 mM 3-aminotriazole . 
+HIS3 + colo-nies were further tested for growth on adenine-deﬁcient medium and for production of β-galactosidase by the ﬁlter assay ( James et al. , 1996 ) . 
+Clones expressing all three reporter genes , HIS3 + ADE2 + LacZ + , were then cured of the bait sspH1 plasmid on plates containing 5-ﬂuoro-orotic acid and the target cDNA plasmids were rescued . 
+To verify the interactions fresh PJ69-4 was retransformed with each target plasmid and was mated with yeast expressing the bait , and the resultant diploids were screened for expression of the HIS3 , ADE2 and LacZ genes . 
+PJ69-4 harbouring pEM119 , a plasmid expressing a Gal4 BD -- SspH2 fusion protein , and pEM125 , which expresses Gal4 BD -- SlrP , were used as controls ( Miao et al. , 2003 ) . 
+Immunoprecipitations and immunoblotting
+CHO-K1 cells were transfected with 5 µg of pRc/CMV/PKN-FL expressing human PKN1-FLAG ( Takahashi et al. , 1998 ) , pRC / CMV/PKN/AF3-FL expressing PKN1 ( 561 -- 942 ) - FLAG , pAH51 , pAH53 , pAH54 , pAH55 or pAH56 , and 4 µg of pNeo/Tak expressing the tetracycline transactivator ( Underhill et al. , 1999 ) , along with 5 µg of pAH8 , pAH9 , pAH10 , pAH47 or pAH48 , expressing SlrP-HA , SspH1-HA , SspH2-HA , HA-IpaH9 .8 and HA-YopM respectively ( Haraga and Miller , 2003 ) . 
+Transfected cells were seeded into 60 mm or 100 mm tissue culture dishes . 
+Alternatively , HeLa cells were seeded into 100 mm tissue culture dishes and were infected with S. enterica serovar Typhimurium strain AH58 or JAF119 at an moi of 20 . 
+Twenty-four hours after transfection or 17 h after infection the cells were washed twice with PBS and were lysed with 0.5 ml of lysis buffer ( 1 % Nonidet P-40 , 150 mM NaCl , 50 mM Tris pH 8.0 and 5 mM EDTA ) supplemented with Complete Mini EDTA-free Protease Inhibitor Cocktail ( Roche Diagnostics ) on ice for 30 min . 
+The lysates were centrifuged at 10 000 r.p.m. for 30 min at 4 °C , and the superna-tants were incubated with mouse monoclonal anti-HA-agarose antibody conjugate or anti-FLAG M2 afﬁnity gel ( Sigma ) for 4 h on a rotator at 4 °C . 
+The supernatants were collected and the precipitates were washed six to seven times with lysis buffer before SDS-polyacrylamide gel electrophoresis and immunoblotting . 
+HA - , FLAG - and Myc-tagged proteins were detected with HA .11 ( Covance ) , anti-FLAG M2 ( Sigma ) and c-Myc mouse monoclonal antibodies ( BD Biosciences ) respectively . 
+p38 was probed with anti-p38 MAPK rabbit polyclonal antibody ( Cell Signaling Technology ) , while PKN1 and PRK2 were detected with anti-PKN1 goat ( Santa Cruz Biotechnology ) and anti-PRK2 rabbit polyclonal antibodies ( Cell Signaling Technology ) respectively . 
+Phosphorylated PKN1 and p38 were blotted with rabbit anti-phospho-PRK1 ( Thr774 ) / PRK2 ( Thr816 ) and anti-phospho-p38 MAPK ( Thr180/Tyr182 ) antibodies respectively ( Cell Signaling Technology ) . 
+The secondary anti-goat , anti-mouse and anti-rab-bit horseradish peroxidase antibody conjugates were from Amersham Biosciences . 
+Luciferase assays
+CHO-K1 or HeLa cells were transfected with 3 µg of pELAM-1-ﬂuc expressing ﬁreﬂy luciferase from the NF-κB-dependent endothelial cell-leukocyte adhesion molecule ( ELAM ) -1 promoter ( Schindler and Baichwal , 1994 ) , 0.3 µg of pRL-TK expressing Renilla luciferase from the constitutive herpes simplex virus ( HSV ) thymidine kinase ( TK ) promoter ( Promega ) , and the indicated plasmids . 
+In addition , cells stimulated via toll-like receptor ( TLR ) -4 were also transfected with 5 µg of pCDNA3 .1 / Zeo / mCD14 expressing mouse CD14 ( Underhill et al. , 1999 ) . 
+RNA interference was performed by co-transfecting HeLa cells with 5 µg of PKN1-speciﬁc siGENOME SMARTpool Reagent or 5 µg of siCONTROL Non-Targeting siRNA ( Dharmacon ) . 
+For testing the effect of PKN1 on NF-κB-dependent gene expression , pRC / CMV/PKN/AF3-FL ( Takahashi et al. , 1998 ) , which is a mamma-lian expression vector for the constitutively active PKN1 ( 561-942 ) - FLAG fragment , and pRC/CMV/PKN / AF3 ( K664E ) - FL ( Gao et al. , 2000 ) , which expresses the kinase-dead fragment PKN1 ( 561-942 , K644E ) - FLAG , were used at 5 µg per transfection . 
+Transfected cells were incubated for 24 or 48 h ( RNAi ) − 1 before assaying . 
+CHO-K1 cells were incubated with 100 ng ml Escherichia coli LPS ( Sigma ) or fresh medium , while HeLa cells were stimulated with 50 ng ml − 1 TNF-α ( Endogen ) or medium alone for 4 -- 5 h. Luciferase activity was measured using the Dual Luciferase Reporter Assay System ( Promega ) in a Berthold LB9501 luminometer . 
+Fireﬂy luciferase activity was normalized to the activity of Renilla luciferase . 
+Statistical analyses
+Values are expressed as the mean ± standard deviation of triplicate samples . 
+Differences among groups were statistically analysed by a one-way analysis of variance ( ANOVA ) using the ANOVA1 function of MATLAB ( The MathWorks , Natick , MA ) . 
+A value of P < 0.05 was considered signiﬁcant . 
+Acknowledgements
+We thank Lukasz A. Joachimiak for running the PKN1 sequence on the Robetta server , Mitch Brittnacher for help with the statistical analyses , Steve L. Moseley for use of the Bio-Rad Gene Pulser , and David M. Underhill and Yoshitaka Ono for generously providing reagents . 
+In addition , we are grateful to Steve L. Moseley and David M. Underhill for critical review of this manu-script . 
+This work was supported in part by Public Health Service National Research Service Award T32 G07270 from the National Institute of General Medical Sciences ( A.H. ) , the Helen Riaboff Whiteley Fellowship Award ( A.H. ) and Grant RO1 AI48683 from the National Institute of Health ( S.I.M. ) . 
+References 
+Amano , M. , Mukai , H. , Ono , Y. , Chihara , K. , Matsui , T. , Hamajima , Y. , et al. ( 1996 ) Identiﬁcation of a putative target for Rho as the serine-threonine kinase protein kinase N. Science 271 : 648 -- 650 . 
+Buchanan , S.G. , and Gay , N.J. ( 1996 ) Structural and functional diversity in the leucine-rich repeat family of proteins . 
+Prog Biophys Mol Biol 65 : 1 -- 44 . 
+Dong , L.Q. , Landa , L.R. , Wick , M.J. , Zhu , L. , Mukai , H. , Ono , Y. , and Liu , F. ( 2000 ) Phosphorylation of protein kinase N by phosphoinositide-dependent protein kinase-1 mediates insulin signals to the actin cytoskeleton . 
+Proc Natl Acad Sci USA 97 : 5089 -- 5094 . 
+Flynn , P. , Mellor , H. , Palmer , R. , Panayotou , G. , and Parker , P.J. ( 1998 ) Multiple interactions of PRK1 with RhoA . 
+Functional assignment of the Hr1 repeat motif . 
+J Biol Chem 273 : 2698 -- 2705 . 
+Flynn , P. , Mellor , H. , Casamassima , A. , and Parker , P.J. ( 2000 ) Rho GTPase control of protein kinase C-related protein kinase activation by 3-phosphoinositide-dependent protein kinase . 
+J Biol Chem 275 : 11064 -- 11070 . 
+Freeman , J.A. , Ohl , M.E. , and Miller , S.I. ( 2003 ) The Salmo-nella enterica serovar Typhimurium translocated effectors SseJ and SifB are targeted to the Salmonella-containing vacuole . 
+Infect Immun 71 : 418 -- 427 . 
+Galan , J.E. ( 2001 ) Salmonella interactions with host cells : type III secretion at work . 
+Annu Rev Cell Dev Biol 17 : 53 -- 86 . 
+Gao , Q. , Kumar , A. , Srinivasan , S. , Singh , L. , Mukai , H. , Ono , Y. , et al. ( 2000 ) PKN binds and phosphorylates human papillomavirus E6 oncoprotein . 
+J Biol Chem 275 : 14824 -- 14830 . 
+Haraga , A. , and Miller , S.I. ( 2003 ) A Salmonella enterica serovar Typhimurium translocated leucine-rich repeat effector protein inhibits NF-kappa B-dependent gene expression . 
+Infect Immun 71 : 4052 -- 4058 . 
+Hobbie , S. , Chen , L.M. , Davis , R.J. , and Galan , J.E. ( 1997 ) Involvement of mitogen-activated protein kinase pathways in the nuclear responses and cytokine production induced by Salmonella typhimurium in cultured intestinal epithelial cells . 
+J Immunol 159 : 5550 -- 5559 . 
+Isagawa , T. , Takahashi , M. , Kato , T. , Jr , Mukai , H. , and Ono , Y. ( 2005 ) Involvement of protein kinase PKN1 in G ( 2 ) / M delay caused by arsenite . 
+Mol Carcinog 43 : 1 -- 12 . 
+James , P. , Halladay , J. , and Craig , E.A. ( 1996 ) Genomic libraries and a host strain designed for highly efﬁcient two-hybrid selection in yeast . 
+Genetics 144 : 1425 -- 1436 . 
+Kawamata , T. , Taniguchi , T. , Mukai , H. , Kitagawa , M. , Hashimoto , T. , Maeda , K. , et al. ( 1998 ) A protein kinase , PKN , accumulates in Alzheimer neuroﬁbrillary tangles and 
+associated endoplasmic reticulum-derived vesicles and phosphorylates tau protein . 
+J Neurosci 18 : 7402 -- 7410 . 
+Kim , D.E. , Chivian , D. , and Baker , D. ( 2004 ) Protein structure prediction and analysis using the Robetta server . 
+Nucleic Acids Res 32 : W526 -- W531 . 
+Kitagawa , M. , Shibata , H. , Toshimori , M. , Mukai , H. , and Ono , Y. ( 1996 ) The role of the unique motifs in the amino-terminal region of PKN on its enzymatic activity . 
+Biochem Biophys Res Commun 220 : 963 -- 968 . 
+McDonald , C. , Vacratsis , P.O. , Bliska , J.B. , and Dixon , J.E. ( 2003 ) The Yersinia virulence factor YopM forms a novel protein complex with two cellular kinases . 
+J Biol Chem 278 : 18514 -- 18523 . 
+Maesaki , R. , Ihara , K. , Shimizu , T. , Kuroda , S. , Kaibuchi , K. , and Hakoshima , T. ( 1999 ) The structural basis of Rho effector recognition revealed by the crystal structure of human RhoA complexed with the effector domain of PKN / PRK1 . 
+Mol Cell 4 : 793 -- 803 . 
+Miao , E.A. , Scherer , C.A. , Tsolis , R.M. , Kingsley , R.A. , Adams , L.G. , Baumler , A.J. , and Miller , S.I. ( 1999 ) Salmo-nella typhimurium leucine-rich repeat proteins are targeted to the SPI1 and SPI2 type III secretion systems . 
+Mol Microbiol 34 : 850 -- 864 . 
+Miao , E.A. , Brittnacher , M. , Haraga , A. , Jeng , R.L. , Welch , M.D. , and Miller , S.I. ( 2003 ) Salmonella effectors translocated across the vacuolar membrane interact with the actin cytoskeleton . 
+Mol Microbiol 48 : 401 -- 415 . 
+Mukai , H. ( 2003 ) The structure and function of PKN , a protein kinase having a catalytic domain homologous to that of PKC . 
+J Biochem ( Tokyo ) 133 : 17 -- 27 . 
+Mukai , H. , Kitagawa , M. , Shibata , H. , Takanaga , H. , Mori , K. , Shimakawa , M. , et al. ( 1994 ) Activation of PKN , a novel 120-kDa protein kinase with leucine zipper-like sequences , by unsaturated fatty acids and by limited proteolysis . 
+Bio-chem Biophys Res Commun 204 : 348 -- 356 . 
+Mukai , H. , Miyahara , M. , Sunakawa , H. , Shibata , H. , Toshimori , M. , Kitagawa , M. , et al. ( 1996 ) Translocation of PKN from the cytosol to the nucleus induced by stresses . 
+Proc Natl Acad Sci USA 93 : 10195 -- 10199 . 
+Nagar , B. , Hantschel , O. , Young , M.A. , Scheffzek , K. , Veach , D. , Bornmann , W. , et al. ( 2003 ) Structural basis for the autoinhibition of c-Abl tyrosine kinase . 
+Cell 112 : 859 -- 871 . 
+Owen , D. , Lowe , P.N. , Nietlispach , D. , Brosnan , C.E. , Chirgadze , D.Y. , Parker , P.J. , et al. ( 2003 ) Molecular dissection of the interaction between the small G proteins Rac1 and RhoA and protein kinase C-related kinase 1 ( PRK1 ) . 
+J Biol Chem 278 : 50578 -- 50587 . 
+Pegues , D.A. , Ohl , M.E. , and Miller , S.I. ( 2005 ) Salmonella species , including Salmonella typhi . 
+In Principles and Practice of Infectious Diseases . 
+Mandell , G.L. , Bennet , J.E. , and Dolin , R. ( eds ) . 
+New York : Churchill Livingstone , pp. 2636 -- 2654 . 
+Rakeman , J.L. , Boniﬁeld , H.R. , and Miller , S.I. ( 1999 ) A HilA-independent pathway to Salmonella typhimurium invasion gene transcription . 
+J Bacteriol 181 : 3096 -- 3104 . 
+Schindler , U. , and Baichwal , V.R. ( 1994 ) Three NF-kappa B binding sites in the human E-selectin gene required for maximal tumor necrosis factor alpha-induced expression . 
+Mol Cell Biol 14 : 5820 -- 5831 . 
+Takahashi , M. , Mukai , H. , Toshimori , M. , Miyamoto , M. , and Ono , Y. ( 1998 ) Proteolytic activation of PKN by caspase-3 or related protease during apoptosis . 
+Proc Natl Acad Sci USA 95 : 11566 -- 11571 . 
+Takahashi , M. , Gotoh , Y. , Isagawa , T. , Nishimura , T. , 
+Goyama , E. , Kim , H.S. , et al. ( 2003 ) Regulation of a mitogen-activated protein kinase kinase kinase , MLTK by PKN . 
+J Biochem ( Tokyo ) 133 : 181 -- 187 . 
+Terada , T. , Ito , Y. , Shirouzu , M. , Tateno , M. , Hashimoto , K. , Kigawa , T. , et al. ( 1999 ) Nuclear magnetic resonance and molecular dynamics studies on the interactions of the Rasbinding domain of Raf-1 with wild-type and mutant Ras proteins . 
+J Mol Biol 286 : 219 -- 232 . 
+Torbett , N.E. , Casamassima , A. , and Parker , P.J. ( 2003 ) Hyperosmotic-induced protein kinase N 1 activation in a vesicular compartment is dependent upon Rac1 and 
+3-phosphoinositide-dependent kinase 1 . 
+J Biol Chem 278 : 32344 -- 32351 . 
+Underhill , D.M. , Ozinsky , A. , Hajjar , A.M. , Stevens , A. , Wilson , C.B. , Bassetti , M. , and Aderem , A. ( 1999 ) The Tolllike receptor 2 is recruited to macrophage phagosomes and discriminates between pathogens . 
+Nature 401 : 811 -- 815 . 
+Zhu , Y. , Stolz , D.B. , Guo , F. , Ross , M.A. , Watkins , S.C. , Tan , B.J. , et al. ( 2004 ) Signaling via a novel integral plasma membrane pool of a serine/threonine protein kinase PRK1 in mammalian cells . 
+FASEB J 18 : 1722 -- 1724 .

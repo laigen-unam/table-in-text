@@ -1,0 +1,264 @@
+6 ) 6 -- 11 
+Gene 377 ( 200 
+www.elsevier.com/locate/gene 
+A Salmonella-based, propionate-inducible, expression system for Salmonella enterica
+Sung Kuk Lee a , Jay D. Keasling a , b , c , 
+a 
+Department of Chemical Engineering , University of California , Berkeley , CA 94720 , USA b Department of Bioengineering , University of California , Berkeley , CA 94720 , USA c Synthetic Biology Department , Physical Biosciences Division , Lawrence Berkeley National Laboratory , Berkeley , C 
+A 94720 , USA 
+Received 23 November 2005 ; received in revised form 17 February 2006 ; accepted 22 February 2006 Available online 17 April 2006 Received by D.L. Court 
+Abstract 
+The expression and regulatory properties of a propionate-regulated overexpression system ( Salmonella enterica prpBCDE promoter ( PprpB ) and positive regulator ( prpR ) ) were evaluated in wild-type S. enterica serovar Typhimurium TR6583 and prpB − or prpD − versions of this strain and compared with the arabinose-regulated T7 expression system . 
+The wild-type strain showed low expression in the absence of propionate and high expression in the presence of propionate under all growth conditions . 
+In 96-well plates and culture tubes , the wild-type strain exhibited a long delay before full induction ; the time delay was significantly shorter in shake flasks . 
+The prpD − strain exhibited low expression in the presence of glucose , highly regulatable expression over a wide range of propionate concentrations , and , in contrast to the wild-type strain , fast induction to full expression under all growth conditions . 
+In contrast , the prpB − strain showed very high background expression in both culture tubes and shake flasks . 
+© 2006 Elsevier B.V. All rights reserved . 
+Keywords : Expression system ; Inducible promoter ; prpBCDE promoter ; prpR ; Salmonella enterica 
+1 . 
+Introduction 
+The T7-based expression systems have been used for overexpression of recombinant proteins in Salmonella strains ( McKinney et al. , 2002 ; Santiago-Machuca et al. , 2002 ) . 
+However , these systems have high leaky expression leading to inconsistency in expression and instability of the clones ( Santiago-Machuca et al. , 2002 ) . 
+Promoters typically used for high-level protein production should have high maximal expression , low un-induced expression , consistent expression in all cells of a culture , and an inexpensive inducer . 
+Recently , a new T7 expression system in Escherichia coli and Salmonella 
+Abbreviations : cAMP , cyclic adenosine monophosphate ; CRP , cAMP receptor protein ; GFP , green fluorescent protein ; IHF , integration host factor ; 2-MC , 2-methycitrate ; PCR , polymerase chain reaction ; RBS , ribosome binding site ; RFU , relative fluorescence units . 
+Corresponding author . 
+Berkeley Center for Synthetic Biology , 717 Potter Street , Building 977 , Mail code 3224 , University of California , Berkeley , CA 94720-3224 , USA . 
+Tel. : +1 510 642 4862 ; fax : +1 510 495 2630 . 
+E-mail address : keasling@berkeley.edu ( J.D. Keasling ) . 
+0378-1119 / $ - see front matter © 2006 Elsevier B.V. All rights reserved . 
+doi :10.1016 / j.gene .2006.02.013 has been constructed to facilitate tightly regulated gene expression by expressing the gene encoding the T7 RNA polymerase on the chromosome under control of araC-PBAD ( Chao et al. , 2002 ; McKinney et al. , 2002 ) . 
+The new PBAD-T7 system is not without problems . 
+The first problem is that the cell population consists of both induced and uninduced cells at subsaturating L-arabinose concentrations due to active uptake of arabinose by two independent transport systems , araE and araFG operons ( Lee et al. , 1982 ; Siegele and Hu , 1997 ) . 
+Since arabinose does not have a synthetic analogue that can freely diffuse across the cell membrane , the arabinose transport genes were placed under control of a constitutive promoter to alleviate the all-or-none expression ( Khlebnikov et al. , 2000 ) . 
+Although arabinose is 10-fold less expensive than IPTG ( Wycuff and Matthews , 2000 ) , the arabinose-inducible T7 system has the practical difficulty that arabinose is quite expensive for large-scale protein production because PBAD requires a saturating L-arabinose concentration up to 0.2 % ( 2 g/l ) for full induction . 
+Propionate is about 30-fold less expensive than arabinose per gram . 
+If 20 mM ( 1.92 g/l ) propionate is required for ful induction of the pPro system , the cost savings in large bioreactors can be significant . 
+Recently , it has been reported that propionate , a membrane-permeable weak acid ( Blankenhorn et al. , 1999 ) , is metabolized into pyruvate and succinate by the four enzymes ( PrpBCDE ) of the 2-methylcitiric cycle in Salmonella enterica serovar Typhimurium ( Horswill and Escalante-Semerena , 1997 , 1999 ) . 
+The transcriptional expression of prpBCDE from the prpBCDE promoter ( PprpB ) is regulated by IHF , cAMP-CRP complex , PrpR ( a transcriptional regulator ) , and 2-methycitrate ( 2-MC ) ( Horswill et al. , 2001 ; Lee and Keasling , 2005 ; Lee et al. , 2005 ) . 
+The 2-MC-activated PrpR binds to an enhancer-like element located at a distance 5 ′ to the P , contacts the σ54 prpBdependent RNA polymerase by means of DNA loop formation , and activates transcription of prpBCDE from PprpB . 
+We have developed a propionate-regulated overexpression system ( Sal-monella-based pPro ) containing the S. enterica PprpB responsible for expression of the propionate catabolic genes ( prpBCDE ) and prpR encoding the positive regulator of this promoter in E. coli ( Lee and Keasling , 2006 ) . 
+Here , we tested the Salmonella-based pPro system in Salmonella and constructed a new expression host , a Salmo-nella prpD knockout mutant , which has an increased induction rate and induced expression levels compared with the arabinose-regulated T7 expression system . 
+Fig. 1 . 
+Comparison of culture-average fluorescence of S. enterica SB300A # 1 strains harboring the pET7-gfp ( A ) , pPro7 ( E ) - gfp ( B ) , or pPro7 ( S ) - gfp ( C ) grown in 96-well plates . 
+Cells carrying the plasmid were grown overnight in LB medium at 37 °C and were subcultured ( 1:100 ) into fresh LB medium ( 5 ml ) with ampicillin ( 100 μg / ml ) , grown at 37 °C in a shaking incubator until the OD600 reached about 0.5 , and then exposed to different concentrations of inducer in 96-well plates at 37 °C with shaking in a Tecan SpectraFluor Plus plate reader . 
+The data are raw ; e.g. , background fluorescence intensity was not removed by using background subtraction . 
+Symbols indicate inducer concentrations . 
+( A ) Solid diamonds , 40 mM arabinose ; solid rectangles , 20 mM ; solid triangles , 10 mM ; open circles , 0 mM . 
+( B ) and ( C ) Solid diamonds , 100 mM propionate ; solid rectangles , 50 mM ; solid triangles , 10 mM ; open circles , 0 mM . 
+The data are representative of three independent experiments . 
+RFU , relative fluorescence units . 
+2. Materials and methods
+2.1. Bacterial strains and media
+The bacterial strains used in this study are listed in Table 1 . 
+Cultures were grown in Luria -- Bertani ( LB ) medium at 37 °C . 
+Cell growth was monitored as the optical density at a wavelength of 600 nm ( OD600 ) . 
+Media were supplemented with ampicillin ( 100 μg / ml ) . 
+Either L-arabinose or sodium propionate ( pH 8.0 ) was used as an inducer . 
+E. coli or S. enterica strains and plasmids used in this study 
+Strains or Description plasmids 
+Reference or source 
+2.2. Plasmid and strain construction
+All DNA manipulations were performed in E. coli DH10B using established protocols ( Sambrook and Russel , 2001 ) . 
+Plasmid pET7-gfp was constructed by PCR-amplifying gfpuv using a 5 ′ primer containing the consensus ribosome binding site ( RBS ) sequence AAGAAGG that originated from the pET vector and by ligating the PCR products into the BglII/XhoI-digested pET31b . 
+To construct pPro7 ( E ) - gfp , the small DN fragments of pPro7 ( S ) - gfp resulting from digestion with NheI / SalI were ligated into the NheI/SalI-digested pPro18 ( Lee and Keasling , 2005 , 2006 ) . 
+Mutation in prpB or prpD in S. enterica TR6583 strain was constructed by a PCR-medicated gene disruption method ( Datsenko and Wanner , 2000 ) . 
+The kanamycin resistance gene was then eliminated by using a helper plasmid encoding the FLP recombinase . 
+The mutants were verified by PCR and designated TRB and TRD , respectively ( Table 1 ) . 
+ins 
+tra E 
+S 
+. 
+coli DH10 
+F − mcrA Δ ( mrr-hsdRMS mcrBC ) Life 
+B 
+ϕ80dlacZΔM15 ΔlacX74 deoR recA1 Technologies araΔ139 Δ ( ara leu ) 7697 galU galKλ − rpsL endA1 nupG Strr S. enterica SB300A # 1 λDE3 McKinney et al. , 2002 TR6583 metE205 ara-9 Spector et al. , 1999 TRB TR6583/prpB − This study TRD TR6583/prpD − This study Plasmids pET7-gfp pET31b without lac operator carrying gfpuv , This study pBR322 ori pPro7 ( E ) - gfp pPro24 ( E ) - gfp derivative with This study AAGAAGG RBS pPro7 ( S ) - gfp pPro24 ( S ) - gfp derivative with Lee and AAGAAGG RBS Keasling , 2006 
+Fig. 1 . 
+Comparison of culture-average fluorescence of S. enterica SB300A # 1 strains harboring the pET7-gfp ( A ) , pPro7 ( E ) - gfp ( B ) , or pPro7 ( S ) - gfp ( C ) grown in 96-well plates . 
+Cells carrying the plasmid were grown overnight in LB medium at 37 °C and were subcultured ( 1:100 ) into fresh LB medium ( 5 ml ) with ampicillin ( 100 μg / ml ) , grown at 37 °C in a shaking incubator until the OD600 reached about 0.5 , and then exposed to different concentrations of inducer in 96-well plates at 37 °C with shaking in a Tecan SpectraFluor Plus plate reader . 
+The data are raw ; e.g. , background fluorescence intensity was not removed by using background subtraction . 
+Symbols indicate inducer concentrations . 
+( A ) Solid diamonds , 40 mM arabinose ; solid rectangles , 20 mM ; solid triangles , 10 mM ; open circles , 0 mM . 
+( B ) and ( C ) Solid diamonds , 100 mM propionate ; solid rectangles , 50 mM ; solid triangles , 10 mM ; open circles , 0 mM . 
+The data are representative of three independent experiments . 
+RFU , relative fluorescence units . 
+2.3. Determination of in vivo promoter activities
+Promoter activities were tested by using GFP for an indirect , quantitative measurement of the transcriptional properties of cloned gfp ( DeLisa et al. , 1999 ; Zhang et al. , 1998 ) . 
+Overnight grown cells in LB medium at 37 °C were subcultured ( 1:100 ) into fresh LB medium ( 5 ml in culture tube and 20 ml in shake flask ) containing ampicillin ( 100 μg / ml ) , grown at 37 °C in a shaking incubator until the OD600 reached about 0.5 , and then induced at 37 °C with inducers in 96-well plates with shaking in a Tecan SpectraFluor Plus plate reader ( Tecan-US , Durham , N.C. ) or in a shaking incubator . 
+The GFP fluorescence and OD600 were measured in the Tecan SpectraFluor Plus plate reader and expressed as relative fluorescence units ( RFU ) . 
+RFU is defined as the culture fluorescence relative to the culture biomass at OD600 and plotted against induction time . 
+3. Results
+3.1 . 
+Comparison of GFP production by the E. coli - and S. enterica-based pPro and T7 expression systems 
+The gene encoding GFP was used to compare the expression kinetics from the pPro and T7 systems in S. enterica and E. coli . 
+As was the case using E. coli as the host ( Lee and Keasling , 2006 ) , the S. enterica-based pPro system showed higher induced expression than the E. coli-based pPro system when using S. enterica as the host ( Fig. 1B and C ) . 
+Both pPro systems had a long delay before gfp expression was fully induced in S. enterica . 
+This may be due to consumption of the inducer by the enzymatic conversion of 2-MC to other metabolites via the 2-methylcitric cycle . 
+In contrast , the T7 expression system exhibited a faster induction rate and higher fully induced expression than the pPro systems ( Fig. 1 ) . 
+However , the T7 expression system showed much higher un-induced gfp expression than the pPro expression systems and a decrease in GFP production after about 10 h of induction ( Fig. 1A ) . 
+3.2 . 
+Comparison of GFP production by the S. enterica-based pPro in S. enterica mutants and the T7 expression systems 
+To remove the time delay before high expression and to increase the induced expression level of the S. enterica-based pPro system in S. enterica , prpB − and prpD − mutant strains were constructed . 
+As expected , S. enterica TRB ( prpB − ) and TRD ( prpD − ) showed faster induction rates and higher induced expression levels than the wild-type S. enterica TR6583 in shake flasks , probably due to the accumulation of 2-MC in these mutant strains ( Figs. 2 and 3 ) . 
+In the shake flask experiment ( Fig. 2 ) , the background expression in TRD was slightly higher than that obtained in the wild-type strain , while TRB showed much higher background expression , similar to that of the induced cells . 
+This result was unexpected since more 2-MC should have accumulated in TRD than in TRB . 
+Compared to the T7 expression system , TRD harboring pPro7 ( S ) - gfp exhibited about 1.5 and 4-fold higher induced gfp expression at the 4 and 6 h time points , respectively , than SB300A # 1 harboring the PT7-gfp plasmid . 
+Interestingly , the Salmonella T7 system showed decreased induced gfp expression after 4 h of induction , while the S. enterica-based pPro system exhibited increasing GFP expression levels throughout induction period ( Fig. 2 ) . 
+In general , the Salmonella T7 system showed less background expression in the shake flask experiments ( Fig. 2A ) than in the 96-well plates ( Fig. 1A ) and culture tubes ( data not shown ) . 
+Indeed , un-induced expression was similar to induced expression after 6 h , indicating that the arabinose-inducible T7 expression system is not controllable in SB300A # 1 ( Fig. 2A ) . 
+With the exception of the prpB − mutant , which showed some background expression , both expression systems showed almost no un-induced gfp expression in the presence of glucose due to the catabolite repressed PprpB and PBAD promoters ( Fig. 2 ) . 
+The Salmonella pPro system could be regulatable using va-rious concentrations of propionate throughout the induction period in TRD , while production of GFP from wild-type S. enterica TR6583 did not depend on the propionate concentration added to culture medium ( Fig. 3A and C ) . 
+However , dose-dependent GFP expression was observed in the wild-type strain at the 6 - and 8-h time points . 
+We speculated that this could be because of utilization of propionate and its derivatives as a carbon source by the PrpBCDE enzymes after around 4 h that causes increased cell mass at higher propionate concentrations ( Fig. 3A and B ) . 
+Fig. 2 . 
+Comparison of cell growth and GFP expression levels between the pPro and T7 expression systems in shaking flask experiment . 
+S. enterica SB300A # 1 harboring plasmid pET7-gfp ( A ) and S. enterica TR6583 ( B ) , TRB ( C ) , or TRD ( D ) harboring plasmid pPro7 ( S ) - gfp . 
+GFP expression levels and OD600 were determined using a Tecan SpectraFluor Plus plate reader after ( 1:5 ) dilution into LB medium . 
+Open and solid symbols indicate cell growth and GFP production , respectively . 
+Solid diamonds indicate GFP production in the presence of 0.4 % glucose . 
+Rectangles , 0 mM arabinose ( A ) or 0 mM propionate ( B , C , D ) ; circles , 15 mM arabinose ( A ) or 20 mM propionate ( B , C , D ) . 
+Error bars show the standard deviation of experiments performed in triplicate . 
+RFU , relative fluorescenc units . 
+3.3. Propionate inhibition of growth in S. enterica
+It has been reported that the intermediate of the 2-methylcitric acid cycle , 2-MC , or a derivative of it , is an inhibitor of cell growth ( Hammelman et al. , 1996 ; Horswill and Escalante-Semerena , 1999 ; Horswill et al. , 2001 ) . 
+Consistent with previous results , the growth of the prpD − mutant was strongly inhibited when the medium was supplemented with high concentrations of propionate ( data not shown ) . 
+In the presence of 20 mM propionate , the wild-type strain showed increased growth rate , while both prpB − and prpD − mutants exhibited slight growth inhibition ( Figs. 2 and 3 ) . 
+However , no significant difference in growth rate was observed between wild-type and mutant cultures in the absence of propionate . 
+It may be because the wild-type strain , unlike both mutants , can use propionate as a carbon source via the 2-methylcitric acid cycle . 
+Interestingly , strain SB300A # 1 carrying pET7-gfp showed a sort of diauxic growth in the presence of arabinose ( Fig. 2A ) . 
+4. Discussion
+We developed a propionate-inducible overexpression vector for E. coli comprising the prpBCDE promoter and prpR , which encodes the 2-MC-activated regulatory protein ( PrpR ) of S. enterica . 
+The vector allows simple control of heterologous gene expression using the inexpensive inducer propionate and exhibits low background and high induced expression in E. coli ( Lee and Keasling , 2006 ) . 
+In this work , we tested the expression system in S. enterica and improved the expression system by using a prpD − mutant . 
+This new strain showed lower background expression in the absence of glucose and higher and faster induced expression at induction conditions compared to the Salmonella T7 expression system . 
+In the presence of glucose , both expression systems had very low background expression . 
+Previous studies ( Hammelman et al. , 1996 ; Horswill et al. , 2001 ) demonstrated that S. enterica showed increased sensitivity to propionate when the 2-methylcitric acid cycle was blocked . 
+Specifically , the prpD − mutant accumulated 2-methyl-citrate and grew poorly when the medium was supplemented with propionate , indicating that 2-MC or a derivative of it inhibits cells growth . 
+Also , it has been reported that the lack of PrpB activity resulted in the accumulation of 2-MC and 2-methyl-cis-aconitate in S. enterica ( Horswill and Escalante-Semerena , 1999 ) . 
+Consistent with previous results , the growth of TRB and TRD was inhibited in cultures supplemented with concentrations of propionate above 30 mM . 
+Similar results were observed in E. coli BL21 prpB − and prpD − mutants , and as expected , the prpD − mutant in both E. coli and S. enterica showed more serious growth inhibition than the prpB − mutant in E. coli and S. enterica ( data not shown ) . 
+In particular , E. coli BL21 prpD − showed higher growth inhibition than TRD in the presence of propionate . 
+It might be related to the fact that propionate is a good substrate for S. enterica but not for E. coli ( Blank et al. , 2002 ) ; we do not understand the cause of the significant growth inhibition in the E. coli prpD mutant . 
+In contrast , the presence of propionate in the medium positively affected the cell growth of the wild-type strain , probably due to utilization of propionate as a carbon source via the 2-methyl-citric acid cycle , unlike prpB − and prpD − mutants ( Figs. 2B and 3B ) . 
+From these results , the Salmonella pPro system should is useful for tight regulation and high-level expression of foreign genes in wild-type or prpD − mutant S. enterica using approximately 20 mM propionate as an inducer . 
+It has been reported that propionate can result from β-oxidation of odd-chain fatty acids ( Reitzer and Schneider , 2001 ) and that propionyl-CoA can be produced from several metabolic pathways ( Palacios et al. , 2003 ) . 
+Thus , the inducer , 2-MC , can be produced from these two pathways . 
+In terms of background expression , the prpD − mutant displayed low background expression similar to that of the wild-type strain in both Tecan and culture tube experiments ( data not shown ) . 
+However , the prpB − mutant showed much higher uninduced expression in the absence of propionate than wild-type and prpD − mutant strains at all culture conditions tested . 
+These results were unexpected , because the inducer , 2-MC , can be further metabolized into 2-methyl-cis-aconitate in the prpB − mutant . 
+Our findings could indicate that background expression might not only be related to the amount of accumulated 2-MC , and that something produced from 2-MC may regulate prpBCDE expression positively . 
+Fig. 3 . 
+The culture-average fluorescence and cell growth of S. enterica strains TR6583 ( A and B ) and prpD mutant ( C and D ) harbouring pPro7 ( S ) - gfp at various concentrations of propionate . 
+This experiment was performed using the same culture method as described in Fig. 2 . 
+Symbols indicate propionate concentrations added into culture medium . 
+Error bars show the standard deviation of experiments performed in triplicate 
+To our surprise , we found that the growth curve of SB300A # 1 cultures growing on LB containing arabinose was diauxic . 
+Presumably , this pattern seems to be related to the decrease of GFP production after 4 h of induction , indicating that arabinose is metabolized preferentially during growth . 
+Like the E. coli T7 expression system ( Lee and Keasling , 2006 ) , the S. enterica arabinose-inducible T7 system showed significantly reduced background expression in the shake flask experiments , compared to the Tecan and culture tube experiments . 
+The high level of oxygen transfer rates of shake flask might change metabolic reactions within the microorganisms , which may differentially affect expression from PBAD and PT7 . 
+Although more experimental data are necessary to understand the precise mechanism of how prpBCDE expression is controlled differently in the prpB − and prpD − mutants , this work demonstrated a propionate-inducible overexpression system in S. enterica prpD − mutant with low basal expression in the presence of glucose and high regulatable expression . 
+Finally , since propionate is 1/30th of the cost of arabinose , the use of propionate for gene expression induction in large bioreactors can be significant . 
+Acknowledgements
+This work was supported by a grant from the National Institutes of Health ( GM070763-01 ) . 
+References 
+Blank , L. , Green , J. , Guest , J.R. , 2002 . 
+AcnC of Escherichia coli is a 2-methylcitrate dehydratase ( PrpD ) that can use citrate and isocitrate as substrates . 
+Microbiology 148 , 133 -- 146 . 
+Blankenhorn , D. , Phillips , J. , Slonczewski , J.L. , 1999 . 
+Acid - and base-induced proteins during aerobic and anaerobic growth of Escherichia coli revealed by two-dimensional gel electrophoresis . 
+J. Bacteriol . 
+181 , 2209 -- 2216 . 
+Chao , Y.-P. , Chiang , C.-J. , Hung , W.-B. , 2002 . 
+Stringent regulation and highlevel expression of heterologous genes in Escherichia coli using T7 system controllable by the araBAD Promoter . 
+Biotechnol . 
+Prog . 
+18 , 394 -- 400 . 
+Datsenko , K.A. , Wanner , B.L. , 2000 . 
+One-step inactivation of chromosomal genes in Escherichia coli K-12 using PCR products . 
+Proc . 
+Natl. Acad . 
+Sci . 
+U. S. A. 97 , 6640 -- 6645 . 
+DeLisa , M.P. , Li , J. , Rao , G. , Weigand , W.A. , Bentley , W.E. , 1999 . 
+Monitoring GFP-operon fusion protein expression during high cell density cultivation of Escherichia coli using an on-line optical sensor . 
+Biotechnol . 
+Bioeng . 
+65 , 54 -- 64 . 
+Hammelman , T.A. , O'Toole , G.A. , Trzebiatowski , J.R. , Tsang , A.W. , Rank , D. , Escalante-Semerena , J.C. , 1996 . 
+Identification of a new prp locus required for propionate catabolism in Salmonella typhimurium LT2 . 
+FEMS Microbiol . 
+Lett . 
+137 , 233 -- 239 . 
+Horswill , A.R. , Escalante-Semerena , J.C. , 1997 . 
+Propionate catabolism in Salmonella typhimurium LT2 : two divergently transcribed units comprise the prp locus at 8.5 centisomes , prpR encodes a member of the sigma-54 family of activators , and the prpBCDE genes constitute an operon . 
+J. Bacteriol . 
+179 , 928 -- 940 . 
+Horswill , A.R. , Escalante-Semerena , J.C. , 1999 . 
+Salmonella typhimurium LT2 catabolizes propionate via the 2-methylcitric acid cycle . 
+J. Bacteriol . 
+181 , 5615 -- 5623 . 
+Horswill , A.R. , Dudding , A.R. , Escalante-Semerena , J.C. , 2001 . 
+Studies of propionate toxicity in Salmonella enterica identify 2-methylcitrate as a potent inhibitor of cell growth . 
+J. Biol . 
+Chem . 
+276 , 19094 -- 19101 
+Khlebnikov , A. , Risa , O. , Skaug , T. , Carrier , T.A. , Keasling , J.D. , 2000 . 
+Regulatable arabinose-inducible gene expression system with consistent control in all cells of a culture . 
+J. Bacteriol . 
+182 , 7029 -- 7034 . 
+Lee , S.K. , Keasling , J.D. , 2005 . 
+A propionate-inducible expression system for enteric bacteria . 
+Appl . 
+Microbiol . 
+Environ . 
+71 , 6856 -- 6862 . 
+Lee , S.K. , Keasling , J.D. , 2006 . 
+A propionate-regulated high-yield protein production in Escherichia coli . 
+Biotechnol . 
+Bioeng . 
+93 , 912 -- 918 . 
+Lee , J.H. , Russo , R.J. , Heffernan , L. , Wilcox , G. , 1982 . 
+Regulation of L-arabinose transport in Salmonella typhimurium LT2 . 
+Mol . 
+Gen. Genet . 
+185 , 136 -- 141 . 
+Lee , S.K. , Newman , J.D. , Keasling , J.D. , 2005 . 
+Catabolite repression of the propionate catabolic genes in Escherichia coli and Salmonella enterica : evidence for involvement of the cyclic AMP receptor protein . 
+J. Bacteriol . 
+187 , 2793 -- 2800 . 
+McKinney , J. , Guerrier-Takada , C. , Galan , J. , Altman , S. , 2002 . 
+Tightly regulated gene expression system in Salmonella enterica serovar Typhimurium . 
+J. Bacteriol . 
+184 , 6056 -- 6059 . 
+Palacios , S. , Starai , V.J. , Escalante-Semerena , J.C. , 2003 . 
+Propionyl coenzyme A is a common intermediate in the 1,2-propanediol and propionate catabolic pathways needed for expression of the prpBCDE operon during growth of Salmonella enterica on 1,2-propanediol . 
+J. Bacteriol . 
+185 , 2802 -- 2810 . 
+Reitzer , L. , Schneider , B.L. , 2001 . 
+Metabolic context and possible physiological themes of σ54-dependent genes in Escherichia coli . 
+Microbiol . 
+Mol . 
+Biol . 
+Rev. 65 , 422 -- 444 . 
+Santiago-Machuca , A.E. , Ruiz-Perez , F. , Delgado-Dominguez , J.S. , Becker , I. , Isibasi , A. , Gonzalez-Bonilla , C.R. , 2002 . 
+Attenuated Salmonella enterica serovar typhi live vector with inducible chromosomal expression of the T7 RNA polymerase and its evaluation with reporter genes . 
+Plasmid 47 , 108 -- 119 . 
+Sambrook , J. , Russel , D.W. , 2001 . 
+Molecular Cloning : A Laboratory Manual , 3rd ed . 
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. Siegele , D.A. , Hu , J.C. , 1997 . 
+Gene expression from plasmids containing the araBAD promoter at subsaturating inducer concentrations represents mixed populations . 
+Proc . 
+Natl. Acad . 
+Sci . 
+U. S. A. 94 , 8168 -- 8172 . 
+Spector , M.P. , DiRusso , C.C. , Pallen , M.J. , Portillo , F.G.D. , Dougan , G. , Finlay , B.B. , 1999 . 
+The medium/long-chain fatty acyl-CoA dehydrogenase ( fadF ) gene of Salmonella typhimurium is a phase 1 starvation-stress response ( SSR ) locus . 
+Microbiology 145 , 15 -- 31 . 
+Wycuff , D.R. , Matthews , K.S. , 2000 . 
+Generation of an AraC-araBAD promoterregulated T7 expression system . 
+Anal . 
+Biochem . 
+277 , 67 -- 73 . 
+Zhang , Q. , Tiersch , T.R. , Cooper , R.K. , 1998 . 
+Inducible expression of green fluorescent protein within channel catfish cells by a cecropin gene promoter . 
+Gene 216 , 207 -- 213

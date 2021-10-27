@@ -1,0 +1,777 @@
+JOURNAL OF BACTERIOLOGY , Mar. 2008 , p. 1658 -- 1670 0021-9193 / 08 / $ 08.00 0 doi :10.1128 / JB.01649-07 
+Copyright © 2008 , American Society for Microbiology . 
+All Rights Reserved . 
+LysR-Type Transcriptional Regulator LeuO Controls Expression
+The 
+of Several Genes in Salmonella enterica Serovar Typhi † I. Hernández - Lucas ,1 ‡ A. L. Gallego-Herna ́ndez ,1 ‡ S. Encarnación ,2 M. Fernández - Mora ,1 A. G. Martınez-Batallar ,2 H. Salgado ,2 R. Oropeza ,1 and E. Calva1 * 
+Departamento de Microbiologıa Molecular , Instituto de Biotecnologıa , Universidad Nacional Autónoma de México , Cuernavaca , Morelos 62210 , México ,1 and Centro de Ciencias Genómicas , Universidad Nacional Autónoma de México , Cuernavaca , Morelos 62210 , México2 
+Received 11 October 2007/Accepted 11 December 2007 
+LeuO is a LysR-type transcriptional regulator that has been implicated in the bacterial stringent response and in the virulence of Salmonella . 
+A genomic analysis with Salmonella enterica serovar Typhi revealed that LeuO is a positive regulator of OmpS1 , OmpS2 , AssT , and STY3070 . 
+In contrast , LeuO down-regulated the expression of OmpX , Tpx , and STY1978 . 
+Transcriptional fusions supported the positive and negative LeuO regulation . 
+Expression of ompS1 , assT , and STY3070 was induced in an hns mutant , consistent with the notion that H-NS represses these genes ; transcriptional activity was lower for tpx and STY1978 in an hns background , suggesting that this global regulatory protein has a positive effect . 
+In contrast , ompS2 and ompX expression appeared to be H-NS independent . 
+LeuO speciﬁcally bound to the 5 intergenic regions of ompS2 , assT , STY3070 , ompX , and tpx , while it was not observed to bind to the promoter region of STY1978 , suggesting that LeuO regulates in direct and indirect ways . 
+In this work , a novel set of genes belonging to the LeuO regulon are described ; interestingly , these genes are involved in a variety of biological processes , suggesting that LeuO is a global regulator in Salmonella . 
+Salmonella enterica serovar Typhi is a gram-negative facultative intracellular pathogen that causes typhoid fever in humans . 
+The complete genomic sequence of Salmonella serovar Typhi is composed of a 4.8-Mb chromosome and two small replicons ( 218 and 106 kb ) . 
+The genome includes 250 genes involved in transcriptional regulatory functions ( 41 ) . 
+LeuO belongs to the LysR family of transcription regulators present in Enterobacteriaceae such as Yersinia , Shigella , Escherichia coli , and Salmonella ; these regulators typically are 300 amino acids long and have an N-terminal DNA binding domain and a C-terminal sensing domain . 
+They can function as activators or repressors and regulate genes with promoters that are divergent from their own promoter . 
+The family of LysR transcriptional factors is involved in microbe-plant and microbe-animal interactions ( 48 ) . 
+The LeuO regulator has been reported to be a virulence factor in Caenorhabditis elegans and in the mouse model with Salmonella ( 26 , 46 , 52 ) . 
+LeuO expression is enhanced in stationary phase and by phosphorous restriction ( 10 , 56 ) ; it is also involved in Vibrio cholerae bioﬁlm formation and in the stringent response ( 30 , 35 ) . 
+LeuO regulates the bgl and cadAB operons , as well as the ompS1 , ompS2 , dsrA , and rovA genes ( 5 , 12 , 27 , 45 , 50 , 55 ) , and has been shown to be part of a promoter relay mechanism that explains the coordinate expression of the ilvIH-leuO-leuABCD gene cluster ( 9 ) . 
+In this 
+* Corresponding author . 
+Mailing address : Departamento de Microbiologıa Molecular , Instituto de Biotecnologıa , Universidad Nacional Autónoma de México , Av . 
+Universidad 2001 , Cuernavaca , Morelos 62210 , México . 
+Phone : ( 52 ) (777) 329-1645 . 
+Fax : ( 52 ) (777) 313-8673 . 
+E-mail : ecalva@ibt.unam.mx . 
+† Supplemental material for this article may be found at http://jb . 
+asm.org / . 
+‡ I.H.-L . 
+and A.L.G.-H . 
+contributed equally to this work . 
+Published ahead of print on 21 December 2007 . 
+paper , a novel set of proteins that was induced by the LeuO regulator in Salmonella serovar Typhi is described . 
+Transcriptional fusions validated the proteomic data and showed that the genes regulated positively by LeuO are strictly LeuO dependent . 
+Expression proﬁles of the LeuO-regulated genes showed that some members of the LeuO regulon described here are either negatively or positively regulated by the global regulatory protein H-NS . 
+Based on primer extension and footprinting experiments , the transcription initiation sites and the LeuO regions protected from DNase I were determined for new members of the LeuO regulon . 
+Interestingly , bioinformatics analyses showed that LeuO did not recognize a speciﬁc motif in the promoter region of the LeuO-dependent genes . 
+MATERIALS AND METHODS
+Bacterial strains and culture conditions . 
+The bacterial strains and plasmids used are listed in Table S1 in the supplemental material . 
+Salmonella serovar Typhi was grown in LB medium ( 10 g of tryptone per liter , 5 g of yeast extract per liter , 10 g of NaCl per liter ) or in liquid MA medium ( 7 g of nutrient broth per liter , 1 g of yeast extract per liter , 2 g of glycerol per liter , 3.75 g of K2HPO4 per liter , 1.3 g of KH2PO4 per liter ) ( 21 ) . 
+When required , the following antibiotics were added : kanamycin ( 30 g/ml ) , tetracycline ( 12 g/ml ) , and ampicillin ( 100 g/ml ) . 
+Salmonella serovar Typhi and E. coli strains were grown aerobically at 37 °C . 
+DNA manipulation . 
+Plasmid isolation and genomic DNA isolation were performed using previously described protocols ( 47 ) . 
+Primers for PCR ampliﬁcation were provided by the oligonucleotide synthesis facility at our institute ( see Table S2 in the supplemental material ) . 
+Restriction enzymes , ligase , kinases , nucleo-tides , and polymerases were obtained from New England Biolabs or Gibco BRL . 
+For sequencing , double-stranded DNA was puriﬁed with a High Pure plasmid isolation kit ( Boehringer , Mannheim , Germany ) , and sequencing was performed with an automatic Perkin Elmer/Applied Biosystems 377-18 system . 
+Preparation of crude cell extracts . 
+Salmonella serovar Typhi harboring plasmid pFMTrc12 ( strain IMSS-II ) ( 12 ) or plasmid pFMTrcleuO-50 ( strain IMSS-III ) ( 5 ) and Salmonella serovar Typhi leuO harboring plasmid pFMTrc12 ( strain IMSS-32 ) were grown in MA medium supplemented with ampicillin and isopropyl - - D-thiogalactopyranoside ( IPTG ) ( 50 M ) to an optical density at 595 nm ( OD595 ) of 0.6 . 
+Salmonella cultures ( 100 ml ) were pelleted and washed with 1 phosphate-buffered saline . 
+Cellular proteins were obtained by sonication at 24 kHz for 1 min in the on position and 1 min in the off position for ﬁve cycles at 4 °C using a Vibra Cell ( Sonics , United States ) in the presence of a protease inhibitor ( Complete tablets ; Roche Diagnostics GmbH , Mannheim , Germany ) . 
+To further limit proteolysis , protein isolation was performed using phenol extraction ( 17 ) . 
+To solubilize proteins and to obtain completely denatured and reduced proteins , pellets were dried and resuspended as previously reported ( 6 ) . 
+Prior to electrophoresis samples were mixed with 7 M urea , 2 M thiourea , 4 % 3 - [ ( 3-choloamidopropyl ) - dimethylammonio ] -1 - propanesulfonate ( CHAPS ) ( Roche Diagnostics GmbH , Germany ) , 2 mM tributhyl phosphine , 2 % ampholytes , and 60 mM dithiothreitol . 
+2-DGE . 
+The methods used for sample preparation , analytical two-dimensional gel electrophoresis ( 2-DGE ) , image analysis , and preparative 2-DGE have been described previously ( 7 ) , and pH gradients were determined using a two-dimen-sional sodium dodecyl sulfate-polyacrylamide gel electrophoresis standard ( Sigma , United States ) . 
+For isoelectric focusing 500 g of total protein was loaded . 
+All gel experiments were performed more than three times . 
+In-gel digestion and mass spectrometry ( MS ) - based identiﬁcation of proteins . 
+Selected spots from Coomassie blue-stained preparative two-dimensional gels were excised manually and frozen at 70 °C until they were used . 
+Samples were prepared for mass spectrum analysis by using a slight modiﬁcation of a previously described procedure ( 6 , 7 , 49 ) . 
+Protein spots were destained , reduced , alkylated , and digested with trypsin ( Promega , Madison , WI ) . 
+Before the mass spectra of the peptide mixtures were obtained , the mixtures were desalted using a C18 Zip Tip ( Millipore , Bedford , MA ) according to the manufacturer 's recommendations . 
+Mass spectra were obtained using a Bruker Daltonics Autoﬂex ( Bruker Daltonics , Billerica , MA ) operated in the delayed extraction and reﬂectron mode . 
+Spectra were externally calibrated using a peptide calibration standard ( Bruker Daltonics 206095 ) . 
+Peptide mixtures were analyzed using a saturated solution of alpha-cyano-4-hydroxycinnamic acid in 50 % acetonitrile-0 .1 % triﬂuoroacetic acid . 
+Peak lists of the tryptic peptide masses were generated and searched against the NCBI nr databases using the Mascot search program ( Matrix Science , Ltd. , London , United Kingdom ; http://www.matrixscience.com ) . 
+Proteins not identi-ﬁed by matrix-assisted laser desorption ionization -- time of ﬂight ( MALDI-TOF ) analysis were excised from preparative gels and analyzed by liquid chromatog-raphy-MS/MS using a nanoﬂow chromatograph ( Agilent 1100 LC NanoPump ; Agilent , Waldbronn , Germany ) coupled to a hybrid triple quadrupole linear ion trap ( 3200 Q TRAP system ; Applied Biosystems/MDS Sciex , Ontario , Canada ) equipped with a Nanospray II source and using information-dependent acquisition . 
+Digested proteins were separated using a 60-min acetonitrile-0 .1 % formic acid elution gradient ( Mallinckrodt Baker , United States ) and a ﬂow rate of 0.4 l/min with a Zorbax C18 column ( 75 m by 150 mm ; 3.5 m ) . 
+Precursor ions were determined using an enhanced MS scan over a mass range from m/z 400 to 1,500 at 4,000 atomic mass units/s ( with no trapping in Qo and a LIT ﬁll time of 20.00 ms ) with an ion spray voltage of 2,400 V applied to a Picotip ( FS360-75-15 ; New Objective , Woburn , MA ) with ion spray gas ( nitrogen ) . 
+Precursors ions were collided in Q2 using rolling collision energy ( maximum allowed collision energy , CE-80 ) . 
+Enhanced product ion scans ( MS/MS ) were performed over a mass range from 50 to 1,700 m/z at 4,000 atomic mass units/s , and collision voltages were determined dynamically . 
+The entire precursor ion mass/charge ratio was conﬁrmed with an Enhance Resolution scan . 
+Proteins were identiﬁed by using the Mascot algorithm ( available at http://www.matrixscience.com ) ( 59 ) . 
+Determination of LeuO cellular concentration . 
+To evaluate the LeuO concentration used in this work , Salmonella serovar Typhi IMSS-III was grown in MA medium ( supplemented with 50 M IPTG ) to an OD595 of 0.6 ; a total-extract sample was collected , boiled , and loaded on a 12.5 % sodium dodecyl sulfate-polyacrylamide gel electrophoresis gel . 
+Proteins were transferred to nitrocellulose membranes using the Trans-Blot SD system ( Bio-Rad ) . 
+Membranes were probed using rabbit anti-LeuO His-tagged polyclonal antibody . 
+Protein concentrations were determined with the Bradford protein assay reagent using bovine serum albumin as a standard ( Bio-Rad ) . 
+To calculate the LeuO concentration , a comparative analysis of the LeuO blot signals from the total extract and from various amounts of the LeuO puriﬁed protein was performed . 
+Construction of transcriptional reporter fusions . 
+Oligonucleotides ( see Table S2 in the supplemental material ) were designed to PCR amplify the complete 5 intergenic regions of the genes regulated by LeuO . 
+PCR fragments were double digested with BamHI-KpnI or BamHI-HindIII and ligated into pKK232-8 or pKK232-9 ( see Table S1 in the supplemental material ) , which contained the promoterless cat gene . 
+Fusions were sequenced in order to verify the DNA sequences of the PCR fragments . 
+165 
+CAT assays . 
+The chloramphenicol acetyltransferase ( CAT ) assays were performed as follows ( 31 ) . 
+Salmonella serovar Typhi strains were grown in MA medium supplemented with ampicillin or kanamycin and with IPTG ( 50 M ) to OD595 of 0.4 , 0.6 , 0.8 , and 1 and for 12 h. Salmonella serovar Typhi STYhns99 was also grown in MA medium . 
+Portions ( 1.5 ml ) of bacterial cultures were collected by centrifugation and washed with 0.8 ml of TDTT buffer ( 50 mM Tris-HCl [ pH 7.8 ] , 30 M DL-dithiothreitol ) . 
+Bacterial cells were resuspended in 0.6 ml of TDTT buffer and sonicated on ice using 10-s bursts with 10-s rest periods until the extract was clear . 
+The homogenate was centrifuged , and the supernatant was used to measure activity . 
+For CAT assays 5 l of each extract was added in duplicate to a 96-well enzyme-linked immunosorbent assay plate , which was followed by addition of 0.2 ml of a reaction mixture that contained 1 mM 5,5 - dithiobis ( 2-nitrobenzoic acid ) , 0.1 mM acetyl coenzyme A , and 0.1 mM chloramphenicol in 0.1 M Tris-HCl ( pH 7.8 ) . 
+The absorbance at 412 nm was measured every 5 s for 5 min using a scanning autoreader and Ceres 900 microplate workstation . 
+The protein concentrations of the cell extracts used in the CAT assays were determined using the bicinchoninic acid protein assay reagent ( Pierce ) . 
+The protein values and the mean rate of product formation by cat were used to determine the CAT speciﬁc activity , which was expressed in micromoles per minute per milligram of protein . 
+The results presented below are the means of three independent experiments . 
+RNA isolation and primer extension analysis . 
+Salmonella serovar Typhi strains were grown at 37 °C in MA medium for 12 h. Bacterial cells ( 5 ml ) were collected , and total RNA was isolated using a commercial kit ( RNeasy ; Qiagen ) . 
+The concentration of RNA was determined by measuring the absorbance at 260 nm . 
+The integrity of RNA was determined by using a 1.5 % agarose gel . 
+Five to 20 g of total RNA was denatured at 95 °C for 3 min and then slowly cooled to 45 °C . 
+The RNA was annealed with [ -32 P ] ATP-labeled primers . 
+Primers were extended with reverse transcriptase at 42 °C for 1 h , and then the extended products were puriﬁed by ethanol precipitation and analyzed by electrophoresis in 8 % polyacrylamide-8 M urea gels alongside sequencing ladders ( 39 ) . 
+Sequencing ladders were generated from plasmids that contained the regulatory regions of the LeuO-controlled genes . 
+DNase I footprinting assays . 
+DNA fragments encompassing the promoter regions of the LeuO-controlled genes were PCR ampliﬁed using labeled primers . 
+LeuO was puriﬁed as previously described ( 12 ) . 
+Binding of the recombinant LeuO protein to the labeled promoter was performed at room temperature for 30 min in a reaction buffer containing 20 mM HEPES ( pH 7.9 ) , 100 mM KCl , 2 mM MgCl , 0.1 mM EDTA , 0.1 mM dithiothreitol , 20 % glycerol , and 1.0 g of 2 poly ( dI-dC ) ( Boehringer ) / ml . 
+The reaction mixture was treated without DNase I and with 0.4 U of DNase I . 
+After precipitation with ethanol , the digested DNA fragments were separated by electrophoresis in 8 % polyacrylamide-8 M urea gels alongside sequencing ladders . 
+Sequencing ladders were generated , with the labeled primer used for PCR ampliﬁcation , from plasmids containing the regulatory regions of the LeuO-controlled genes . 
+Bioinformatic analysis . 
+To determine whether LeuO recognizes a speciﬁc DNA sequence , two bioinformatics approaches were used : pattern matching and pattern discovery . 
+In both approaches , we used 400 bp upstream and 50 bp downstream of the putative ATG translational start codon . 
+In the ﬁrst method , the experimental LeuO regions protected from DNase I were used as a training set to run the consensus program ( 16 ) ; thus , we obtained alignments and weight matrices of binding sites that were 8 to 12 bp long . 
+To assign match scores , we used an `` alphabet '' based on the frequency of occurrence of each base in the regulatory regions analyzed . 
+The search was conducted with a single strand . 
+The weight matrix generated ( highest information content ) was used to search binding sites . 
+Using patser , we searched for the highest-scoring sequence in each region of the training set . 
+To evaluate the quality of the matrix , we evaluated different sets , including upstream regions of LeuO-regulated genes , 1,000 groups of six randomly selected regions , and non-LeuO-regulated genes . 
+The mid-value of the scores was used as a threshold because negative scores were obtained with the training set . 
+The second method , pattern discovery , assumed that LeuO binding sites are unknown ; thus , the regulated LeuO sequences together with the Oligo and dyad analysis programs were used to identify a motif in the LeuO interacting sites ( 57 ) . 
+To evaluate this approach , we counted the number of times that we could locate a known binding site in a collection of upstream regions . 
+The dyad and Oligo analysis programs were designed to ﬁnd overrepresented `` small words '' ( 57 ) . 
+Overrepresented `` words '' would be expected to occur at the binding sites , and thus we determined whether the resulting Oligo or dyad analysis was in agreement with the LeuO sites detected experimentally . 
+The parameters used to determine the LeuO consensus sequence are available at http://www.ccg.unam . 
+mx/Computational _ Genomics/tools/LeuO / 
+FIG. 1 . 
+Proteomic proﬁles of Salmonella serovar Typhi total protein extracts . 
+( A ) Salmonella serovar Typhi leuO containing pFMTrc12 ( IMSS-32 ) . 
+( B ) Salmonella serovar Typhi containing pFMTrcleuO-50 ( IMSS-III ) . 
+Cells were grown in MA broth to an OD595 of 0.6 . 
+Cultures were supplemented with 50 M IPTG . 
+The labeled spots were excised and identiﬁed using MALDI-TOF MS. The identities of circled proteins are shown in Table 1 . 
+More than three independent experiments were performed , and representative 2-DGE gels are shown . 
+RESULTS
+Detection and identiﬁcation of LeuO-regulated proteins in Salmonella serovar Typhi . 
+In order to deﬁne the LeuO-regu-lated proteins , Salmonella serovar Typhi harboring plasmid pFMTrc12 ( strain IMSS-II ) ( 12 ) or pFMTrcleuO-50 ( strain IMSS-III ) ( 5 ) and Salmonella serovar Typhi leuO containing plasmid pFMTrc12 ( strain IMSS-32 ) were grown to an OD595 of 0.6 in MA medium supplemented with IPTG ( 50 M ) . 
+These conditions were the conditions determined previously for simultaneous expression of the two minor porins OmpS1 and OmpS2 , as the activation of the corresponding genes is dependent on the level of induction of LeuO ( 5 ) . 
+Whole-cell proteins were obtained and separated by 2-DGE ; about 600 proteins with pI values ranging from 4 to 8 and with molecular masses ranging from 20 to 90 kDa were resolved in each gel . 
+The protein patterns of IMSS-II and IMSS-32 were similar . 
+However , a comparison of the proteomic proﬁles of IMSS-III and IMSS-32 showed that overexpression of LeuO quantitatively up-regulated and down-regulated 10 and 3 protein spots , respectively ( Fig. 1 ) . 
+To identify the LeuO-regulated proteins , spots of interest were excised , trypsin digested , and analyzed by MALDI-TOF MS. These analysis showed that LeuO activated the expression of OmpS1 ( ﬁve isoforms ) , OmpS2 , AssT ( two isoforms ) , and STY3068 , the third gene of the STY3070-STY3064 operon . 
+In contrast , LeuO repressed the expression of OmpX , STY1978 , and Tpx . 
+As expected , recombinant LeuO was also detected in the 2-DGE gel ( Table 1 ) . 
+The sequence coverage of the LeuO-dependent proteins ranged from 7.2 to 54 % , and the Mascot database search algorithm revealed that the proteins identiﬁed are identical to the corresponding proteins of Salmonella serovar Typhi CT18 ( 41 ) ( Table 1 ) . 
+OmpS1 and AssT were detected in ﬁve and two isoforms , respectively . 
+The OmpS1 pI values were 4.44 , 4.25 , 5.09 , 5.06 , and 6.12 , and the AssT pI values were 6.71 and 6.51 . 
+The variation in pI values was not accompanied by a substantial change in molecular weight ( Table 1 ) , suggesting that the isoforms may involve modiﬁcations such as phosphorylation , methylation , or deamidation rather than introduction of high-molecular-weight groups . 
+Previous studies with prokaryotes showed that posttranslational modiﬁcations , such as methyl-ation , are relevant in bacterial pathogenesis ( 42 , 54 ) . 
+Multiple protein isoforms have been found previously in Salmonella , including isoforms involved in carbon metabolism in S. enterica serovar Typhimurium and S. enterica serovar Pullorum ( 8 ) . 
+Previously , other loci regulated by LeuO , such as bgl , rovA , dsrA , cadC , and leuO , have been reported ( 9 , 27,45 , 50 , 55 ) ; however , they were not detected in our proteomic analysis . 
+The bgl and rovA genes are not present in Salmonella serovar Typhi , and dsrA codes for a small RNA . 
+CadC and LeuO were not found , perhaps due to mRNA instability or low expression because they overlapped with other proteins on the 2-DGE , or because the LeuO concentration was not the optimal concentration for induction of these genes . 
+The cellular LeuO concentration in IMSS-III harboring pFMTrcleuO-50 with 50 M IPTG was calculated by Western blot analysis of total proteins and comparison to puriﬁed LeuO ( data not shown ) . 
+The data obtained indicated that LeuO was present at a level of 6 105 molecules per cell ( or 0.4 g/100 g of total cellular protein ) . 
+The proteins identiﬁed in this study thus corresponded to outer membrane proteins , such as OmpS1 , OmpS2 , and OmpX ( 11 , 12 , 33 ) ; to proteins involved in detoxiﬁcation , such as Tpx and AssT ( 20 , 22 , 24 ) ; and to the hypothetical STY1978 and STY3068 proteins ( 41 ) . 
+Previously , we described isolation , characterization , and regulation analysis of the quiescent porins OmpS1 and OmpS2 ; furthermore , we showed that the genes encoding these proteins are LeuO targets , and thus we considered these proteins relevant controls for proteomic analysis . 
+Transcriptional analysis of the LeuO-regulated Salmonella serovar Typhi genes . 
+To deﬁne the role of LeuO in the regulation of the identiﬁed genes , transcriptional fusions were constructed with each of the LeuO-regulated genes . 
+PCR fragments containing the putative promoter sequence of these genes were obtained and cloned into pKK232-9 , which contained the cat reporter gene . 
+The plasmids harboring the fusions ( see Table S1 in the supplemental material ) were transformed independently into Salmonella serovar Typhi IMSS-III and Salmonella serovar Typhi IMSS-II , which contained pFMTrcleuO-50 and pFMTrc12 , respectively . 
+To measure CAT speciﬁc activity , Salmonella cells were grown to different optical densities in MA medium supplemented with 50 M IPTG when necessary . 
+HERNÁNDEZ - LUCAS ET AL. . 
+J. BACTERIOL . 
+FIG. 1 . 
+Proteomic proﬁles of Salmonella serovar Typhi total protein extracts . 
+( A ) Salmonella serovar Typhi leuO containing pFMTrc12 ( IMSS-32 ) . 
+( B ) Salmonella serovar Typhi containing pFMTrcleuO-50 ( IMSS-III ) . 
+Cells were grown in MA broth to an OD595 of 0.6 . 
+Cultures were supplemented with 50 M IPTG . 
+The labeled spots were excised and identiﬁed using MALDI-TOF MS. The identities of circled proteins are shown in Table 1 . 
+More than three independent experiments were performed , and representative 2-DGE gels are shown . 
+The effect of LeuO on the transcription of the STY3068 gene , the third gene of a putative large operon consisting of seven open reading frames , was analyzed by fusing the STY3068 upstream region to the cat reporter . 
+Interestingly , we were unable to detect expression ( data not shown ) , indicating that a LeuO-dependent promoter is not present in the closest 5 region ( 602 bp ) of STY3068 . 
+Thus , a gene reporter fusion was constructed with the complete 5 intergenic region of the ﬁrst gene ( STY3070 ) of the operon , showing that this gene was positively regulated by LeuO , since we found CAT activity at all ODs tested ( Fig. 2a ) . 
+Low transcriptional activity of STY3070 was also detected at 12 h without IPTG , suggesting that the basal accumulation of LeuO was enough for induction . 
+This indicates that LeuO positively regulates the putative STY3070-STY3064 operon . 
+In the case of assT and ompS1 , no transcriptional activity was detected when LeuO was absent , but upon induction with IPTG , high transcriptional activity of the assT and ompS1 fusions was detected ( Fig. 2b and c ) . 
+For ompS2 , we found that in the absence of IPTG considerable transcriptional activity was detected only at 12 h , showing that , as observed for STY3070 , the basal expression from the recombinant LeuO plasmid was enough for induction of the quiescent porin and the putative operon . 
+Expression from the ompS2 fusion was also detected in the presence of IPTG at different ODs ( Fig. 2d ) ; however , the activities obtained at different ODs with IPTG were three times lower than the activity detected without IPTG at 12 h , in accordance with the previous observation that the amount of LeuO determines the expression level of ompS2 ( 5 ) . 
+It is relevant that in the case of STY3070 , assT , ompS1 , and ompS2 , transcriptional activity was not detected with pFMTrc12 ( Fig. 2a to d ) , indicating that these genes are strictly LeuO dependent 
+LeuO-REGULATED GENES IN SALMONELLA SEROVAR TYPHI 1661 
+TABLE 1 . 
+LeuO-regulated proteins in Salmonella serovar Typhi identiﬁed by MALDI-TOF MSa 
+Matching database protein Organism Accession no . 
+Sequence coverage ( % ) 
+Mol wt ( 103 ) c 
+Abundance 
+LeuO 
+pIc 
+Protein 
+Spot 
+Gene 
+( LeuO / LeuO ) b 
+induction 
+Porin ompS1 Porin ompS1 
+1 
+247.5 / 0 54.9 / 0 441.2 / 0 547.8 / 0 
+26 21 21 33 
+Salmonella serovar Typhi Salmonella serovar Typhi Salmonella serovar Typhi Salmonella serovar Typhi 
+gi 16760937 gi 16760937 gi 16760442 gi 16761966 
+4.44 4.42 4.28 6.71 
+51.00 50.99 51.01 65.24 
+2 
+Porin ompS2 Arylsulfate assT sulfotransferase Arylsulfate assT sulfotransferase LysR regulatord leuO Outer membrane ompX protein Thiol peroxidase tpx 9 Hypothetical STY1978 protein 10 Porin ompS1 11 Porin ompS1 12 Porin ompS1 13 Hypothetical STY3068 protein a Mass ﬁngerprints of proteins were analyzed with the Mascot program . 
+b Protein spot intensity ( OD ) of Salmonella serovar Typhi containing pFMTrcleuO-50 ( IM containing pFMTrc12 ( IMSS-32 ) . 
+c The values were obtained in three independent experiments . 
+d LeuO recombinant plasmid . 
+e Determined by N-terminal sequencing . 
+3 
+4 
+5 
+12 Salmonella serovar Typhi gi 16761966 6.59 65.66 
+351.3 / 0 
+6 
+848.4 / 0 
+Salmonella serovar Typhi Salmonella serovar Typhimurium Salmonella serovar Typhi Salmonella serovar Typhi 
+32 44 
+gi 16759110 gi 16764195 
+7.20 5.17 
+47.51 19.80 
+7 
+57.7 / 261.2 
+54 
+8 
+123.8 / 287.5 38/222 .4 
+gi 16502500 gi 16503032 
+5.17 5.15 
+21.50 23.2 
+7.21 e 
+20 13 20 35 
+49.6 / 0 103.1 / 0 123.2 / 0 66/0 
+Salmonella serovar Typhi Salmonella serovar Typhi Salmonella serovar Typhi Salmonella serovar Typhi 
+gi 16760937 gi 16760937 gi 16760937 gi 16504014 
+5.09 5.06 5.03 6.12 
+51.89 52.45 52.47 51.89 
+SS-III ) / protein spot intensity ( OD ) of Salmonella serovar Typhi leuO 
+FIG. 2
+166 
+FIG. 2 -- Continued 166 
+The proteomic data mentioned above also revealed that LeuO represses the expression of tpx , ompX , and STY1978 . 
+The results obtained with the fusions showed that in the absence of LeuO these three loci are constitutively expressed , but when LeuO was induced with 50 M IPTG , strong repression was observed for tpx ( Fig. 2e ) . 
+In the case of ompX and STY1978 , down-regulation by LeuO was also observed at different ODs ( Fig. 2f and g ) . 
+To demonstrate the speciﬁcity of the LeuO-mediated regulation , a transcriptional fusion containing the complete 5 intergenic region of the ompC gene was evaluated . 
+As we expected , no regulation of ompC by LeuO was observed since no differences in CAT activity were detected in the presence or absence of LeuO ( data not shown ) . 
+The results obtained with the transcriptional fusions support the proteomic data in dem-onstrating the positive and negative regulatory roles of LeuO in Salmonella serovar Typhi . 
+Identiﬁcation of the transcription start site of the genes regulated by LeuO . 
+To determine the promoters associated with each of the LeuO-dependent genes , primer extension experiments were performed . 
+Salmonella serovar Typhi IMSS-II and Salmonella serovar Typhi IMSS-III , transformed with pKK232-9 derivatives harboring the 5 regions of the LeuO-dependent genes ( see Table S1 in the supplemental material ) , were grown in MA medium to stationary phase . 
+Using total RNA isolated from MA medium-grown cells , the transcription start sites of STY3070 , assT , ompX , tpx , and STY1978 were determined ( Fig. 3 ) . 
+The transcription initiation sites of ompS1 and ompS2 were reported previously ( 12 , 39 ) . 
+The primer extension results showed that STY3070 contains two transcription start sites ( Fig. 3a , panel A ) , whereas assT , ompX , tpx , and STY1978 each had a single transcription initiation site ( Fig. 3b , panel A ; Fig. 3d , panel A ; Fig. 3e , panel A ; and Fig. 3f , panel A , respectively ) . 
+Our results also show that in the case of STY3070 ( Fig. 3a , panel A ) and assT ( Fig. 3b , panel A ) , the initiation sites were detected only in IMSS-III ( containing pFMTrcleuO-50 ) , while no signals were detected in the absence of LeuO ( pFMTrc12 ) . 
+In contrast , for ompX , tpx , and STY1978 the initiation sites were detected in the presence of pFMTrc12 , but diminished signals were observed with pFMTrcleuO-50 ( Fig. 3d , panel A ; Fig. 3e , panel A ; and Fig. 3f , panel A , respectively ) . 
+This observation supports the hypothesis that there is strict LeuO dependence of STY3070 and assT , as well as the hypothesis that down-regulation of ompX , tpx , and STY1978 is exerted by the LeuO regulator . 
+In Fig. 3 , the nucleotide sequences corresponding to the region containing the transcription start sites of STY3070 , assT , ompX , tpx , and STY1978 are shown . 
+To further support the experimentally determined transcription start sites , we used neural network promoter prediction ( 38 ) . 
+The in silico promoter prediction results were similar to the experimental data , since for STY3070 the experimental data showed that there were two initiation sites at 85 and 90 bp upstream of the ATG codon , whereas the in silico analysis predicted that there was a single promoter at 85 bp upstream of the ATG codon . 
+For ompX , tpx , assT , and STY1978 the experimental results showed that the initiation sites were 240 , 33 , 165 , and 11 bp upstream of the ATG codon , respectively , and the in silico results predicted that the transcription initiation sites were located 240 , 34 , 135 , and 29 bp upstream of th 
+FIG. 2 . 
+Transcriptional proﬁles of the LeuO-dependent genes fused to the cat reporter gene . 
+Bacterial strains IMSS-II ( Salmonella serovar Typhi IMSS-1 harboring plasmid pFMTrc12 ) and IMSS-III ( Salmonella serovar Typhi IMSS-1 harboring plasmid pFMTrcleuO-50 ) were independently transformed with fusions of each of the LeuO-regulated genes ( pKK232-9 [ STY3070 ] , pKK232-9 [ assT ] , pKK232-9 [ ompS1 ] , pKK232-9 [ ompS2 ] , pKK232-9 [ tpx ] , pKK232-9 [ ompX ] , and pKK232-9 [ STY1978 ] ) to generate individual strains containing the LeuO regulator , as well as the promoter region of the LeuO-dependent gene . 
+To evaluate the effect of H-NS in the regulation of each of the LeuO-regulated genes , individual fusions were transformed into Salmonella serovar Typhi hns mutant STYhns99 . 
+The CAT speciﬁc activity of each strain was determined using samples collected at OD595 of 0.4 , 0.6 , 0.8 , and 1 and at 12 h. For strains IMSS-II and IMSS-III 50 M IPTG was used as an inducer . 
+The bars indicate the means of three independent experiments performed in duplicate . 
+FIG. 3 166 
+FIG. 3 -- Continue 
+ATG codon , respectively . 
+Hence , the locations of two LeuO-dependent promoters ( STY3070 and ompX ) were in agreement as determined by the experimental and in silico approaches . 
+LeuO binds to the regulatory regions of the LeuO-controlled genes . 
+The proteomic data , the gene fusions , and the primer extension experiments described above indicated that LeuO is a genetic component involved in the regulation of STY3070 , assT , ompS1 , ompS2 , tpx , ompX , and STY1978 . 
+In order to elucidate whether LeuO directly interacted with the 5 upstream regulatory region of these LeuO-dependent genes , footprinting experiments were performed . 
+A previous report showed that LeuO bound to the promoter region of ompS2 at 93 to 109 and 139 to 152 bp with respect to the transcription start site ( 12 ) . 
+In this work the same footprinting proﬁle was obtained ( Fig. 3c ) . 
+For ompS1 , two LeuO binding sites were recently detected ( 5 ) . 
+Interestingly , for the novel LeuO-dependent genes , two regions protected from DNase I by LeuO were also detected . 
+In the 5 intergenic region of STY3070 , the sites were identiﬁed at nucleotides 65 to 105 and 110 to 140 ( Fig. 3a , panel B ) . 
+In the case of the regulatory region of assT , the ﬁrst protected sequence was located at nucleotides 112 to 122 and the second was located at nucleotides 132 to 165 ( Fig. 3b , panel B ) . 
+For the 5 region of ompX , the LeuO DNase I-protected sites were detected at nucleotides 1 to 9 and 28 to 60 ( Fig. 3d , panel B ) . 
+The promoter region of tpx had two LeuO binding regions located between nucleotides 22 to 46 and between nucle-otides 51 to 59 ( Fig. 3e , panel B ) . 
+In the footprinting experiments ( Fig. 3 ) , a LeuO concentration of 150 nM was high enough for protection of ompS2 ( 12 ) , whereas a higher concentration was required for STY3070 , assT , ompX , and tpx . 
+Interestingly , in the 5 intergenic region ( 41 bp ) of STY1978 , no LeuO protected sites were detected , suggesting that LeuO indirectly regulates the expression of this gene . 
+Furthermore , we evaluated 131 bp upstream and 38 bp downstream of the 5 intergenic region of STY1978 in order to see whether LeuO bound at a greater distance , but protection from DNase I was not detected . 
+Alternatively , binding of LeuO to the 5 regulatory region of STY1978 might require an accessory molecule , as reported for other LysR family members ( 48 ) , or even could occur outside the boundaries of the region studied . 
+Hence , the footprinting results showed that LeuO directly interacts with the regulatory regions of STY3070 , assT , ompX , and tpx and with ompS2 , as previously shown ( 12 ) . 
+Likewise , LeuO interacts directly with the ompS1 regulatory region , as has been recently illustrated ( 5 ) . 
+In addition , LeuO probably indirectly regulates STY1978 . 
+Figure 3 shows the DNA sequences recognized by LeuO in each member of the LeuO regulon . 
+To determine a consensus sequence for LeuO interaction , the LeuO sites determined in this study were analyzed by using two bioinformatics approaches . 
+The results showed that the matrix generated with the pattern-matching method identiﬁed binding sites in the non-LeuO-regulated genes and in the random sequences and detected only one-half of the experimental DNA binding sites reported in this work . 
+In this set of genes false DNA binding sites were also detected ( see http://www.ccg . 
+unam.mx / Computational_Genomics / tools/LeuO / ) , indicating that the interacting sites are not sequence speciﬁc . 
+In addition , the lack of either signiﬁcant oligonucleotides or dyads in the upstream regulatory region of the LeuO-dependent genes supported the notion that the LeuO binding sites are not sequence speciﬁc and may not be easily represented with a consensus . 
+The results of the complete analysis are available at http://www . 
+ccg.unam.mx / Computational_Genomics / tools/LeuO / . 
+Effect of the nucleoid-associated protein H-NS on regulation of the LeuO-dependent genes . 
+Since the proposed role of LeuO has been as an antagonist of H-NS action ( 2 , 5 , 55 ) , the functional effect of the global regulatory protein H-NS on the genetic expression of the LeuO-regulated genes was evaluated . 
+To this end , transcriptional fusions of each member of the LeuO regulon were transformed independently into Salmo-nella serovar Typhi STYhns99 and CAT speciﬁc activity was measured in MA medium at different ODs . 
+The transcriptional proﬁle obtained was consistent with the hypothesis that H-NS represses the expression of ompS1 ( 5 ) ( Fig. 2c ) , assT ( Fig. 2b ) , and STY307O ( Fig. 2a ) , suggesting that the STY3070-STY3064 operon also belongs to the H-NS regulon . 
+For ompS2 and ompX expression , no change in the transcriptional pattern was observed in the hns mutant ( Fig. 2d and f ) . 
+In the case of tpx and STY1978 , the CAT activity decreased 60 % in each case in the absence of H-NS , suggesting that H-NS enhances positive regulation ( Fig. 2e and g ) . 
+These data are in agreement with the notion that LeuO and H-NS regulate the same genetic loci ( 2 , 5 , 27 , 45 , 50 , 55 ) . 
+DISCUSSION
+In this study , a proteomic approach was used to elucidate the genes regulated by LeuO in Salmonella under a particular set of conditions . 
+We found that LeuO regulates the expression of seven proteins with different biological functions . 
+For instance , the OmpS1 porin of Salmonella serovar Typhimurium is proposed to be involved in swarming , motility , and bioﬁlm formation ( 34 , 53 , 58 ) , and expression proﬁles of Salmonella serovar Typhi and Salmonella serovar Typhimurium showed that the ompS1 gene is induced with hydrogen peroxide ( 43 ) . 
+Interestingly , the microarray results showed that the ompS2 gene was also expressed with hydrogen peroxide , although signiﬁcant induction was detected only in Salmonella serovar Typhi ( 43 ) . 
+The assT gene encodes a putative arylsulfate sulfotransferase that converts toxic phenolic compounds into nontoxic compounds and is proposed to be involved in a detoxiﬁcation process ( 20 , 24 ) . 
+The STY3070 operon encodes uncharacterized proteins predicted to be involved in DNA repair , replication , and recombination ( 18 ) . 
+The STY3070 to STY3064 open reading frames are also associated with short palindromic repeats ( CRISPR ) that are widely distributed in prokaryotes ( 15 ) and have been proposed to represent a form of mobile genetic elements which move via horizontal gene transfer ( 14 ) . 
+Another LeuO-dependent gene reported in this work is ompX , encoding an outer membrane protein which increases E E activity when multiple copies are present ( 32 , 33 ) and which also appears to be expressed under different pH conditions ( 51 ) . 
+Inactivation of ompX increased tolerance to sodium dodecyl sulfate and antibiotic compounds , suggesting that OmpX affects transport of hydrophobic compounds across the membrane ( 40 ) . 
+The tpx gene was also negatively regulated by LeuO ; this gene is proposed to code for a periplasmic antioxidant enzyme that is induced under several pH conditions ( 51 ) , in the exponential growth phase , and during bioﬁlm formation ( 22 ) . 
+STY1978 is another LeuO-depen-dent gene , and it encodes a hypothetical protein with no assigned functional role ( 41 ) . 
+Recent data have shown that LeuO is involved in the regulation of mechanosensitive channels that allow bacteria to survive during a rapid increase in turgor pressure ( 28 ) . 
+Interestingly , Wu and Fang have commented that LeuO affects the expression of at least 27 genes either positive or negatively ( 60 ) . 
+Together , all these data indicate that LeuO regulates proteins involved in several biological processes and may be a global regulator in . 
+Enterobacteriaceae To further support the proteomic data , transcriptional gene fusions were constructed , and similar results were obtained . 
+Interestingly , the transcriptional results showed that LeuO positively induced STY3070 , assT , and ompS1 at different points of the growth curve , and the highest activity was observed in stationary phase ( Fig. 2a to c ) . 
+In order to verify that this effect was dependent on the LeuO concentration , growth curves were obtained with different amounts of IPTG ( 25 , 50 , 100 , and 200 M ) . 
+The gene reporter results with different IPTG concentrations suggest that for assT and STY3070 induction is dependent on the LeuO concentration ( data not shown ) . 
+In the case of ompS2 , LeuO also acted positively when it was present at low levels , but if the amount of LeuO increased , ompS2 expression diminished ( Fig. 2d ) , supporting the observation that an ompS2 gene fusion is expressed at higher levels at an OD of 0.6 upon induction of LeuO with 20 M IPTG from pFMTrcleuO-50 ( 5 ) . 
+In the case of tpx , LeuO was a strong repressor since low transcription levels were detected at any OD ( Fig. 2e ) ; for ompX and STY1978 , transcriptional down-regulation was also observed ( Fig. 2f and g ) . 
+These results suggest that LeuO has the ability to differentially repress gene expression . 
+To elucidate whether LeuO directly regulates the LeuO-dependent genes , footprinting experiments were performed . 
+The results showed that two LeuO protected sites were found in the LeuO-dependent genes reported in this work , and a DNase I hypersensitivity region was observed when increasing amounts of LeuO were used , suggesting that there was a DNA conformational change upon binding of LeuO ( Fig. 3 ) , which is consistent with our previous observations for the ompS2 and ompS1 genes ( 5 , 12 ) . 
+For the positively regulated LeuO-de-pendent genes , the LeuO regions protected from DNase I are far from the transcription initiation site , suggesting that additional regulatory inputs might be involved in the regulation of these genes . 
+For the repressed genes , the LeuO sites overlap with the initiation site and with the putative promoter region ; thus , the down-regulation exerted by LeuO could be explained by competition or hindrance with RNA polymerase . 
+Further work is necessary to validate these hypotheses . 
+In previous work ( 2 ) , three LeuO binding sites were found in the ilvIH-leuO-leuABCD cluster . 
+Two of these sites ( AT7 and AT3 ) were mapped upstream of the leuO promoter , whereas the third site was located downstream of the leuO gene , and it was suggested that H-NS represses leuO expression by interacting with an AT8 region located between LeuO binding sites AT7 and AT3 . 
+However , the LeuO protein interacts with the AT7 region and the LeuO binding site located downstream of leuO , making a DNA loop to counteract repression by H-NS ( 2 , 3 ) . 
+Recently , our group reported a novel ompS1 regulatory mechanism in which LeuO acts as an antirepressor by displacing the negative regulator H-NS ( 5 ) . 
+Therefore , different LeuO regulatory mechanisms are present in Enterobacteriaceae ; hence , the two LeuO sites detected in every member of the LeuO regulon described here will be the subject of future studies to explain the mechanism of LeuO regulation in detail . 
+Previous reports showed that LeuO reduces the expression of the dsrA gene ( 45 ) and that the nucleotide sequences necessary for this effect have a high A T content . 
+Additional reports ( 2 , 3 , 4 ) on gene expression of the ilvIH-leuO-leuABCD gene cluster in Salmonella serovar Typhimurium and E. coli showed that the AT7 and the EAT16 regions have high A T contents . 
+However , at present , we believe that it is difﬁcult to deﬁne a consensus DNA binding motif for the LeuO-depen-dent genes reported in this work . 
+Thus , each of the LeuO protected regions should be evaluated by site-directed mutagenesis to determine the speciﬁc LeuO interacting motifs . 
+LeuO and H-NS are involved in regulation of leuO and ompS1 ( 2 , 5 ) , in addition to bgl , cadC , dsrA , and rovA ( 27 , 45 , 50 , 55 ) . 
+In order to determine whether the LeuO-dependent genes described in this work were regulated by this nucleoid protein , transcriptional expression of the LeuO-dependent genes was evaluated in a Salmonella serovar Typhi hns mutant . 
+The results of our experiments concur with the concept that H-NS represses the expression of STY3070 , assT , and ompS1 in Salmonella serovar Typhi ( Fig. 2a to c ) . 
+Previous studies also showed that assT and ompS1 are repressed by H-NS in Salmo-nella serovar Typhimurium and Salmonella serovar Typhi , respectively ( 13 , 37 ) . 
+Moreover , microarrays for the STY3070-STY3064 operon indicated that in three of the genes , repression was exerted by H-NS , although ChIP on-chip analysis suggested that there was indirect regulation since no co-immunoprecipitation was reported ( 29 , 37 ) . 
+Interestingly , the results presented here indicate that H-NS is a positive regulator of tpx and STY1978 ; one possibility is that in an hns mutant the levels of LeuO increase since leuO is repressed by H-NS . 
+The microarray experiments with Salmonella serovar Typhi-murium ( 37 ) also showed that H-NS positively induces the expression of STY1978 ; however , in contrast to our data , th a Expression analyses were performed using MA medium and different OD , 595 as shown in Fig. 2 . 
+, positive regulation ; , negative regulation ; NE , no effect . 
+global microarray analysis indicated that H-NS represses tpx expression . 
+In E. coli , a positive role of H-NS has been described for MalT , lamB , and malE ( 19 ) , and a proteomic analysis has also revealed that H-NS has the ability to act as a positive regulator ( 25 , 36 , 61 ) . 
+Previous reports claimed that H-NS plays an indirect role in the ﬂhDC operon involved in ﬂagellation synthesis via HdfR ( 1 , 23 ) . 
+The data obtained in this work suggest that tpx and STY1978 belong to the repertoire of genes that are positively regulated by H-NS ; however , additional work is necessary to determine if this regulation is direct or if other proteins are involved in this process . 
+The transcription experiments also revealed no evident changes in the expression of the ompS2 and ompX genes in the hns mutant . 
+In both cases our results are opposite those of a Salmonella serovar Typhimurium microarray analysis , which indicated that H-NS represses the expression of these two genes ( 37 ) . 
+This suggests that there is differential regulation by H-NS even in highly related bacterial serovars . 
+Altogether , these data support the hypothesis that most of the LeuO-regulated genes described in this work are dependent on H-NS ( Table 2 ) . 
+Under the conditions used in this work , a discrete number of LeuO-dependent genes were identiﬁed ; however , the use of other approaches , such as microarray and ChIP on-chip analyses , could increase the number of LeuO-regulated genes detected in Salmonella . 
+LeuO-REGULATED GENES IN SALMONELLA SEROVAR TYPHI 1667 
+FIG. 3 . 
+Transcriptional start sites and LeuO protected regions of genes belonging to the LeuO regulon . 
+Primer extension and DNase I protection assays for the STY3070 , assT ompS2 , ompX , and tpx genes were performed . 
+For STY1978 , only the transcriptional initiation results are shown . 
+( A ) Transcription initiation in the presence ( ) or absence ( ) of LeuO . 
+( B ) LeuO sites protected from DNase I . 
+The LeuO concentrations used are indicated at the top . 
+D and D indicate without and with DNase I , respectively . 
+DHR , DNase I hypersensitive regions . 
+( C ) Schematic diagram of the regulatory region of the LeuO-dependent genes . 
+The nucleotides corresponding to the transcription initiation site ( ) the LeuO regions protected from DNase I ( I and II ) , and the translation initiation sites ( ATG ) are indicated 
+Gene 
+LeuO regulation H-NS regulation 
+STY3070 assT 
+ompS1 ompS2 tpx ompX STY1978 
+NE 
+NE 
+ACKNOWLEDGMENTS
+We thank S. Contreras , R. Noguez , M. A. De la Cruz , C. Guadarrama , A. Vazquez , F. J. Santana , J. A. Ramirez-Trujillo , M. Wiesner , E. Villa , P. Jarillo , J. Tellez , E. Lopez , S. Becerra , J. Yañez , P. Gaytan , S. C. Janga , A. Medina-Rivera , and L. Medina for technical help and useful scientiﬁc opinions that improved this work . 
+This research was supported in part by grants to E.C. from CONACyT , Mexico ( grant 46115Q ) and DGAPA/UNAM ( grant IN201407 ) and to I.H.-L . 
+from DGAPA/UNAM ( grant IN206705 ) . 
+REFERENCES 
+1 . 
+Bertin , P. , E. Terao , E. H. Lee , P. Lejeune , C. Colson , A. Danchin , and E. Collatz . 
+1994 . 
+The H-NS protein is involved in the biogenesis of ﬂagella in Escherichia coli . 
+J. Bacteriol . 
+176:5537 -- 5540 . 
+2 . 
+Chen , C. C. , M. Y. Chou , C. H. Huang , A. Majumder , and H. Y. Wu . 
+2005 . 
+A cis-spreading nucleoprotein ﬁlament is responsible for the gene silencing activity found in the promoter relay mechanism . 
+J. Biol . 
+Chem . 
+280:5101 -- 5112 . 
+3 . 
+Chen , C. C. , and H. Y. Wu . 
+2005 . 
+LeuO protein delimits the transcriptionally active and repressive domains on the bacterial chromosome . 
+J. Biol . 
+Chem . 
+280:15111 -- 15121 . 
+4 . 
+Chen , C. C. , M. Ghole , A. Majumder , Z. Wang , S. Chandana , and H. Y. Wu . 
+2003 . 
+LeuO-mediated transcriptional derepression . 
+J. Biol . 
+Chem . 
+278:38094 -- 38103 . 
+5 . 
+De la Cruz , M. A. , M. Fernández - Mora , C. Guadarrama , M . 
+A Flores ¬ 
+Valdez , V. H. Bustamante , A. Vázquez , and E. Calva . 
+2007 . 
+LeuO antagonizes H-NS and StpA-dependent repression in Salmonella enterica ompS1 . 
+Mol . 
+Microbiol . 
+66:727 -- 743 . 
+6 . 
+Encarnación , S. , M. Hernández , S. Contreras , G. Martınez-Batallar , M. C. Vargas , and J. Mora . 
+2005 . 
+Comparative proteomics using 2-D gel electro-phoresis and mass spectrometry as tools to dissect stimulons and regulons in bacteria with sequenced or partially sequenced genomes . 
+Biol . 
+Proced . 
+Online 7:117 -- 135 . 
+7 . 
+Encarnación , S. , Y. Guzmán , M. F. Dunn , M. Hernández , M. C. Vargas , and J. Mora . 
+2003 . 
+Proteome analysis of aerobic and fermentative metabolism in Rhizobium etli CE3 . 
+Proteomics 3:1077 -- 1085 . 
+8 . 
+Encheva , V. , R. Wait , S. E. Gharbia , S. Begum , and H. N. Shah . 
+2005 . 
+Proteome analysis of serovars Typhimurium and Pullorum of Salmonella enterica subspecies I. BMC Microbiol . 
+5:42 -- 52 . 
+9 . 
+Fang , M. , and H. Y. Wu . 
+1998 . 
+A promotor relay mechanism for sequential gene activation . 
+J. Bacteriol . 
+180:626 -- 633 . 
+10 . 
+Fang , M. , A. Majumder , K.-J . 
+Tsai , and H. Y. Wu . 
+2000 . 
+ppGpp-dependent leuO expression in bacteria under stress . 
+Biochem . 
+Biophys . 
+Res . 
+Commun . 
+276:64 -- 70 . 
+11 . 
+Fernández - Mora , M. , R. Oropeza , J. L. Puente , and E. Calva . 
+1995 . 
+Isolation and characterization of ompS1 , a novel Salmonella Typhi outer membrane protein-encoding gene . 
+Gene 159:67 -- 72 . 
+12 . 
+Fernández - Mora , M. , J. L. Puente , and E. Calva . 
+2004 . 
+OmpR and LeuO positively regulate the Salmonella enterica serovar Typhi ompS2 porin gene . 
+J. Bacteriol . 
+186:2909 -- 2920 . 
+13 . 
+Flores-Valdez , M. A. , J. L. Puente , and E. Calva . 
+2003 . 
+Negative osmoregulation of the Salmonella ompS1 porin gene independently of OmpR in an hns background . 
+J. Bacteriol . 
+185:6497 -- 6506 . 
+14 . 
+Godde , J. S. , and A. Bickerton . 
+2006 . 
+The repetitive DNA elements called CRISPRs and their associated genes : evidence of horizontal transfer among prokaryotes . 
+J. Mol . 
+Evol . 
+67:718 -- 729 . 
+15 . 
+Haft , D. H. , J. Selengut , E. F. Mongodin , and K. E. Nelson . 
+2005 . 
+A guild of 45 CRISPR-associated ( Cas ) protein families and multiple CRISPR/Cas subtypes exist in prokaryotic genomes . 
+PLoS Comput . 
+Biol . 
+1 : e60 . 
+16 . 
+Hertz , G. Z. , and G. D. Stormo . 
+1999 . 
+Identifying DNA and protein patterns with statistically signiﬁcant alignments of multiple sequences . 
+Bioinformatics 15:563 -- 577 . 
+17 . 
+Hurkman , W. J. , and C. K. Tanaka . 
+1986 . 
+Solubilization of plant membrane proteins for analysis by two-dimensional gel electrophoresis . 
+Plant Physiol . 
+81:802 -- 806 . 
+18 . 
+Jansen , R. , D. A. Jan , D. A. van Embden , W. Gaastra , and L. M. Schouls . 
+2002 . 
+Identiﬁcation of genes that are associated with DNA repeats in pro-karyotes . 
+Mol . 
+Microbiol . 
+43:1565 -- 1575 . 
+19 . 
+Johansson , J. , B. Dagberg , E. Richet , and B. E. Uhlin . 
+1998 . 
+H-NS and StpA proteins stimulate expression of the maltose regulon in Escherichia coli . 
+J. Bacteriol . 
+180:6117 -- 6125 . 
+20 . 
+Kang , J. W. , A. R. Kwon , D. A. Kim , and E. C. Choi . 
+2001 . 
+Cloning and sequencing of the astA gene encoding arylsulfate sulfotransferase from Sal-monella Typhimurium . 
+Biol . 
+Pharm . 
+Bull . 
+24:570 -- 574 . 
+21 . 
+Kawaji , H. , T. Mizuno , and S. Mizushima . 
+1979 . 
+Inﬂuence of molecular size and osmolarity of sugars and dextrans on the synthesis of outer membrane proteins O-8 and O-9 of Escherichia coli K-12 . 
+J. Bacteriol . 
+140:843 -- 847 . 
+22 . 
+Kim , Y. H. , Y. Lee , S. Kim , J. Yeom , S. Yeom , B. S. Kim , S. Oh , S. Park , C. O. Jeon , and W. Park . 
+2006 . 
+The role of periplasmic antioxidant enzymes ( superoxide dismutase and thiol peroxidase ) of the Shiga toxin-producing Escherichia coli O157 : H7 in the formation of bioﬁlms . 
+Proteomics 6:6181 -- 6193 . 
+23 . 
+Ko , M. , and C. Park . 
+2000 . 
+H-NS-dependent regulation of ﬂagellar synthesis is mediated by a LysR family protein . 
+J. Bacteriol . 
+182:4670 -- 4672 . 
+24 . 
+Kwon , A.-R. , T.-G . 
+Oh , D.-H . 
+Kim , and E.-C . 
+Choi . 
+1999 . 
+Molecular cloning of arylsulfate sulfotransferase gene and characterization of its product from Enterobacter amnigenus AR-37 . 
+Protein Expr . 
+Purif . 
+17:366 -- 372 . 
+25 . 
+Laurent-Winter , C. , S. Ngo , A. Danchin , and P. Bertin . 
+1997 . 
+Role of Esch-erichia coli histone-like nucleoid-structuring protein in bacterial metabolism and stress response identiﬁcation of targets by two-dimensional electro-phoresis . 
+Eur . 
+J. Biochem . 
+244:767 -- 773 . 
+26 . 
+Lawley , T. D. , K. Chan , L. J. Thompson , C. C. Kim , G. R. Govoni , and D. M. Monack . 
+2006 . 
+Genome-wide screen for Salmonella genes required for long-term systemic infection of the mouse . 
+PLoS Pathog . 
+2 : e11 . 
+27 . 
+Lawrenz , M. B. , and V. L. Miller . 
+2007 . 
+Comparative analysis of the regulation of rovA from the pathogenic yersiniae . 
+J. Bacteriol . 
+189:5963 -- 5975 . 
+28 . 
+Li , C. , M. D. Edwards , H. Jeong , J. Roth , and I. R. Booth . 
+2007 . 
+Identiﬁcation of mutations that alter the gating of the Escherichia coli mechanosensitive channel protein , MscK . 
+Mol . 
+Microbiol . 
+64:560 -- 574 . 
+29 . 
+Lucchini , S. , G. Rowley , M. D. Goldberg , D. Hurd , M. Harrison , and J. C. D. Hinton . 
+2006 . 
+H-NS mediates the silencing of laterally acquired genes in bacteria . 
+PLoS Pathog . 
+2:746 -- 752 . 
+30 . 
+Majumder , A. , M. Fang , K.-J . 
+Tsai , C. Ueguchi , T. Mizuno , and H. Y. Wu . 
+2001 . 
+LeuO expression in response to starvation for branched-chain amino acids . 
+J. Biol . 
+Chem . 
+276:19046 -- 19051 . 
+31 . 
+Martinez-Laguna , Y. , E. Calva , and J. L. Puente . 
+1999 . 
+Autoactivation and environmental regulation of bfpT expression , the gene coding for the tran 
+scriptional activator of bfpA in enteropathogenic Escherichia coli . 
+Mol . 
+Microbiol . 
+33:153 -- 166 . 
+32 . 
+Mecsas , J. , P. E. Rouviere , J. W. Erickson , T. J. Donohue , and C. A. Gross . 
+1993 . 
+The activity of E , an Escherichia coli heat-inducible sigma-factor , is modulated by expression of outer membrane proteins . 
+Genes Dev . 
+7:2618 -- 2628 . 
+33 . 
+Mecsas , J. , R. Welch , J. W. Erickson , and C. A. Gross . 
+1995 . 
+Identiﬁcation and characterization of an outer membrane protein , OmpX , in Escherichia coli that is homologous to a family of outer membrane proteins including Ail of Yersinia enterocolitica . 
+J. Bacteriol . 
+177:799 -- 804 . 
+34 . 
+Mireles , J. R. , II , A. Toguchi , and R. M. Harshey . 
+2001 . 
+Salmonella enterica serovar Typhimurium swarming mutants with altered bioﬁlm-forming abilities : surfactin inhibits bioﬁlm formation . 
+J. Bacteriol . 
+183:5848 -- 5854 . 
+35 . 
+Moorthy , S. , and P. Watnick . 
+2005 . 
+Identiﬁcation of novel stage-speciﬁc genetic requirements through whole genome transcription proﬁling of Vibrio cholerae bioﬁlm development . 
+Mol . 
+Microbiol . 
+56:1623 -- 1635 . 
+36 . 
+Muller , C. M. , U. Dobrindt , G. Nagy , I. Emody , B. E. Uhlin , and J. Hacker . 
+2006 . 
+Role of histone-like proteins H-NS and StpA in expression of virulence determinants of uropathogenic Escherichia coli . 
+J. Bacteriol . 
+188:5428 -- 5438 . 
+37 . 
+Navarre , W. W. , S. Porwollik , Y. Wang , M. McClelland , H. Rosen , S. J. Libby , and F. C. Fang . 
+2006 . 
+Selective silencing of foreign DNA with low GC content by the H-NS protein in Salmonella . 
+Science 313:236 -- 238 . 
+38 . 
+Ohler , U. , G. Liao , H. Niemann , and G. M. Rubin . 
+2002 . 
+Computational analysis of core promoters in the Drosophila genome . 
+Genome Biol . 
+3 : RESEARCH0087 . 
+39 . 
+Oropeza , R. , C. L. Sampieri , J. L. Puente , and E. Calva . 
+1999 . 
+Negative and positive regulation of the non-osmoregulated ompS1 porin gene in Salmo-nella Typhi : a novel regulatory mechanism that involves OmpR . 
+Mol . 
+Microbiol . 
+32:243 -- 252 . 
+40 . 
+Otto , K. , and M. Hermansson . 
+2004 . 
+Inactivation of ompX causes increased interactions of type 1 ﬁmbriated Escherichia coli with abiotic surfaces . 
+J. Bacteriol . 
+186:226 -- 234 . 
+41 . 
+Parkhill , J. , G. Dougan , K. D. James , N. R. Thomson , D. Pickard , J. Wain , C. Churcher , K. L. Mungall , S. D. Bentley , M. T. G. Holden , M. Sebaihia , S. Baker , D. Basham , K. Brooks , T. Chillingworth , P. Connerton , A. Cronin , P. Davis , R. M. Davies , L. Dowd , N. White , J. Farrar , T. Feltwell , N. Hamlin , A. Haque , T. T. Hien , S. Holroyd , K. Jagels , A. Krogh , T. S. Larsen , S. Leather , S. Moule , P. Ó ' Gaora , C. Parry , M. Quail , K. Rutherford , M. Simmonds , J. Skelton , K. Stevens , S. Whitehead , and B. G. Barrell . 
+2001 . 
+Complete genome sequence of a multiple drug resistant Salmonella enterica serovar Typhi CT18 . 
+Nature 413:848 -- 852 . 
+42 . 
+Pethe , K. , P. Bifani , H. Drobecq , C. Sergheraert , A. S. Debrie , C. Locht , and F. D. Menozzi . 
+2002 . 
+Mycobacterial heparin-binding hemagglutinin and lami-nin-binding protein share antigenic methyllysines that confer resistance to proteolysis . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 99:10759 -- 10764 . 
+43 . 
+Porwollik , S. , J. Frye , L. D. Florea , F. Blackmer , and M. McClelland . 
+2003 . 
+A non-redundant microarray of genes for two related bacteria . 
+Nucleic Acids Res . 
+31:1869 -- 1876 . 
+44 . 
+Reference deleted . 
+45 . 
+Repoila , F. , and S. Gottesman . 
+2001 . 
+Signal transduction cascade for regulation of RpoS : temperature regulation of DsrA . 
+J. Bacteriol . 
+183:4012 -- 4023 . 
+46 . 
+Rodriguez-Morales , O. , M. Fernandez-Mora , I. Hernandez-Lucas , A. Vazquez , J. L. Puente , and E. Calva . 
+2006 . 
+Salmonella enterica serovar Typhimurium ompS1 and ompS2 mutants are attenuated for virulence in mice . 
+Infect . 
+Immun . 
+74:1398 -- 1402 . 
+47 . 
+Sambrook , J. , E. F. Fritsch , and T. Maniatis . 
+1989 . 
+Molecular cloning : a laboratory manual , 2nd ed . 
+Cold Spring Harbor Laboratory Press , Cold Spring Harbor , NY . 
+48 . 
+Schell , M. A. 1993 . 
+Molecular biology of the LysR family of transcriptional regulators . 
+Annu . 
+Rev. Microbiol . 
+47:597 -- 626 . 
+49 . 
+Shevchenko , A. , M. Wilm , O. Vorm , and M. Mann . 
+1996 . 
+Mass spectrometric sequencing of proteins silver-stained polyacrylamide gels . 
+Anal . 
+Chem . 
+68 : 850 -- 858 . 
+50 . 
+Shi , X. , and G. N. Bennett . 
+1995 . 
+Effects of multicopy LeuO on the expression of the acid-inducible lysine decarboxylase gene in Escherichia coli . 
+J. Bacteriol . 
+177:810 -- 814 . 
+51 . 
+Stancik , L. M. , D. M. Stancik , B. Schmidt , D. M. Barnhart , Y. N. Yoncheva , and J. L. Slonczewski . 
+2002 . 
+pH-dependent expression of periplasmic proteins and amino acid catabolism in Escherichia coli . 
+J. Bacteriol . 
+184 : 4246 -- 4258 . 
+52 . 
+Tenor , J. L. , B. A. McCormick , F. M. Ausubel , and A. Aballay . 
+2004 . 
+Cae-norhabditis elegans-based screen identiﬁes Salmonella virulence factors required for conserved host-pathogen interactions . 
+Curr . 
+Biol . 
+14:1018 -- 1024 . 
+53 . 
+Toguchi , A. , M. Siano , M. Burkart , and R. M. Harshey . 
+2000 . 
+Genetics of swarming motility in Salmonella enterica serovar Typhimurium : critical role for lipopolysaccharide . 
+J. Bacteriol . 
+182:6308 -- 6321 . 
+54 . 
+Tronick , S. R. , and R. J. Martinez . 
+1971 . 
+Methylation of the ﬂagellin of Salmonella typhimurium . 
+J. Bacteriol . 
+105:211 -- 219 . 
+55 . 
+Ueguchi , C. , T. Ohta , C. Seto , T. Suzuki , and T. Mizuno . 
+1998 . 
+The leuO gene product has a latent ability to relieve bgl silencing in Escherichia coli . 
+J. Bacteriol . 
+180:190 -- 193 . 
+56 . 
+VanBogelen , R. A. , E. R. Olson , B. L. Wanner , and F. C. Neidhardt . 
+1996 . 
+Global analysis of proteins synthesized during phosphorus restriction in Escherichia coli . 
+J. Bacteriol . 
+178:4344 -- 4366 . 
+57 . 
+Van Helden , J. , A. F. Rios , and J. Collado-Vides . 
+2000 . 
+Discovering regulatory elements in non-coding sequences by analysis of spaced dyads . 
+Nucleic Acids Res . 
+28:1808 -- 1818 . 
+58 . 
+Wang , Q. , J. G. Frye , M. McClelland , and R. M. Harshey . 
+2004 . 
+Gene expression patterns during swarming in Salmonella typhimurium : genes spe-ciﬁc to surface growth and putative new motility and pathogenicity genes . 
+Mol . 
+Microbiol . 
+52:169 -- 187 . 
+59 . 
+Washburn , M. P. , D. Wolters , and J. R. Yates III . 
+2001 . 
+Large-scale analysis of the yeast proteome by multidimensional protein identiﬁcation technology . 
+Nat . 
+Biotechnol . 
+19:242 -- 247 . 
+60 . 
+Wu , H. Y. , and M. Fang . 
+2003 . 
+DNA supercoiling and transcription control : a model from the study of suppression of the leu-500 mutation in Salmonella typhimurium topA strains . 
+Prog . 
+Nucleic Acid Res . 
+Mol . 
+Biol . 
+73:43 -- 68 . 
+61 . 
+Zhang , A. , S. Rimsky , M. E. Reaban , H. Buc , and M. Belfort . 
+1996 . 
+Esche-richia coli protein analogs StpA and H-NS : regulatory loops , similar and disparate effects on nucleic acid dynamics . 
+EMBO J. 15:1340 -- 1349

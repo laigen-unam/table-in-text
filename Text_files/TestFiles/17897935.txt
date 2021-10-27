@@ -1,0 +1,437 @@
+Journal of Antimicrobial Chemotherapy ( 2007 ) 60 , 1273 -- 1280 doi :10.1093 / jac/dkm359 Advance Access publication 25 September 2007 
+mmonly used farm disinfectants can select for mutant Salmonella enterica serovar Typhimurium with decreased susceptibility to biocides and antibiotics without compromising virulence
+Co 
+L. P. Randall1 , S. W. Cooles1 , N. G. Coldham1 , E. G. Penuela2 , A. C. Mott2 , M. J. Woodward1 , L. J. V. Piddock2 and M. A. Webber2 * 
+1 
+Department of Food and Environmental Safety , Veterinary Laboratories Agency , New Haw , Surrey KT15 3NB , UK ; Antimicrobial Agents Research Group , Division of Immunity and Infection , 2 University of Birmingham , Birmingham B15 2TT , UK 
+Received 4 June 2007 ; returned 31 July 2007 ; revised 3 August 2007 ; accepted 20 August 2007 
+Objectives : To determine if one passage of Salmonella enterica serovar Typhimurium in the presence of farm disinfectants selected for mutants with decreased susceptibility to disinfectants and/or antibiotics . 
+Methods : Eight Salmonella Typhimurium strains including ﬁeld isolates and laboratory mutants were exposed to either a tar oil phenol ( PFD ) disinfectant , an oxidizing compound disinfectant ( OXC ) , an aldehyde based disinfectant ( ABD ) or a dairy sterilizer disinfectant ( based on quaternary ammonium biocide ) in agar . 
+The susceptibility of mutants obtained after disinfectant exposure to antibiotics and disinfectants was determined as was the accumulation of norﬂoxacin . 
+The proteome of SL1344 after exposure to PFD and OXC was analysed using two-dimensional liquid chromatography mass spectrometry . 
+Results : Strains with either acrB or tolC inactivated were more susceptible to most disinfectants than other strains . 
+The majority ( 3/5 ) of mutants recovered after disinfectant exposure required statistically signiﬁcantly longer exposure times to disinfectants than their parent strains to generate a 5 log kill . 
+Small decreases in antibiotic susceptibility were observed but no mutants were multiply antibiotic-resistant ( MAR ) . 
+Notably exposure to ABD decreased susceptibility to ciproﬂoxacin in some strains . 
+Mutants with increased disinfectant tolerance were able to survive and persist in chicks as well as in parent strains . 
+Analysis of proteomes revealed signiﬁcantly increased expression of the AcrAB -- TolC efﬂux system after PFD exposure . 
+Conclusions : Data presented demonstrate that efﬂux pumps are required for intrinsic resistance to some disinfectants and that exposure to disinfectants can induce expression of the AcrAB -- TolC efﬂux system , but that single exposure was insufﬁcient to select for MAR strains . 
+Keywords : MAR , efﬂux , proteomics , biocide resistance 
+Introduction
+In two recent studies , we demonstrated that growth of Salmonella enterica and Escherichia coli with subinhibitory concentrations of farm disinfectants led to a small but statistically signiﬁcant increase in isolation of multiply antibiotic-resistant ( MAR ) strains , which were detected when subsequently exposed to cyclohexane or antibiotics . 
+In E. coli and S. enterica serovar 1,2 Typhimurium ( hereafter referred to as Salmonella Typhimurium ) , 
+MAR is associated with reduced susceptibility to antibiotics such as b-lactams , chloramphenicol , ﬂuoroquinolones and tetracyclines , increased tolerance to organic solvents and decreased susceptibility to disinfectants such as pine oil . 
+In E. coli , over-3 -- 5 expression of the efﬂux pump acrAB and regulators marA and soxS can all lead to MAR. . 
+Although the mechanisms of MAR in 2 S. enterica are not so clearly deﬁned as for E. coli , the same resistance phenotype is seen in isolates from farms and farm animals . 
+4 
+... 
+* Corresponding author . 
+Tel : þ44-121-414-2859 ; Fax : þ44-121-415-6819 ; E-mail : m.a.webber@bham.ac.uk 
+... 
+# The Author 2007 . 
+Published by Oxford University Press on behalf of the British Society for Antimicrobial Chem For Permissions , please e-mail : journals.permissions@oxfordjournals.org 
+otherapy . 
+All rights reserved . 
+In recent years , there have been increasing concerns that disinfectant exposure may help drive selection of antibiotic-resistant bacteria . 
+Disinfectants are often a mixture of active 6,7 compounds and as a result usually have multiple , intracellular targets , therefore it has been proposed that disinfectant resistance is unlikely to arise from a single mutational event as can occur with antibiotic resistance . 
+Consequently , for high-level disinfec-8 tant resistance to arise as a result of target site mutations repeated selection events and alteration of a number of target proteins may be necessary . 
+Previous studies have demonstrated that overexpression of multidrug xenobiotic efﬂux transporters ( e.g. AcrAB -- TolC ) with broad substrate speciﬁcity can confer decreased resistance to antibiotics , dyes , disinfectants and detergents . 
+The selection of MAR is a concern as such strains may 9 be able to act as a stepping stone to high-level resistance in E. 1,4 -- 5 coli and S. enterica . 
+In our previous studies , however , there were essentially two 1,2 selection stages , the ﬁrst being growth in subinhibitory concentrations of disinfectants and the second being plating the strains on either media with 4 MIC of antibiotics or media overlaid with cyclohexane . 
+We were not able to isolate strains with reduced susceptibility to the farm disinfectants themselves , nor were we able to isolate MAR mutants after exposure to farm disinfectants , without the additional exposure to either antibiotics or cyclohexane . 
+In a farm environment it is possible that bacteria will be exposed to both antibiotics and disinfectants and that over time multiple exposures may occur , so we were interested in whether limited exposure to farm disinfectants alone could select antibiotic-resistant strains . 
+The aim of this study , therefore , was to select strains of Salmonella Typhimurium from agar containing four different commonly used farm disinfectants and to compare the phenotype of mutant and parent strains with respect to efﬂux , anti-biotic and disinfectant susceptibility , growth in the presence of subinhibitory concentrations of disinfectants , protein expression and the ability to survive and persist in chicks . 
+We attempted to select mutants with increased disinfectant tolerance from a relevant panel of strains including ciproﬂoxacin-resistant and - susceptible isolates , Salmonella Typhimurium phage type DT104 isolates as well as from deﬁned mutants in which efﬂux pump genes have been inactivated . 
+Table 1 . 
+Strains used in this study to select mutants and control strains 
+Description 
+Reference 
+Designation 
+Parent strains for mutant selection L354 SL1344 ; originally isolated from a calf with diarrhoea SL1344 ; tolC : : aph SL1344 ; acrB : : aph SL1344 ; laboratory-selected , ciproﬂoxacin-resistant mutant ( GyrA Asp-87 ! 
+Gly ) SL1344 ; laboratory-selected , cyclohexane-resistant mutant DT104 ; representative isolate , antibiotic-susceptible DT104 ; representative pentaresistant isolate , ciproﬂoxacin-resistant ( GyrA Ser-83 ! 
+Phe ) ciproﬂoxacin-resistant ﬁeld isolate ( GyrA Ser-83 ! 
+Phe ) Control strains AG100 E. coli K12 
+22 
+L108 L643 L696 
+23 15 11 
+L699 
+24 
+L357 
+24 
+L358 
+24 
+L378 
+this study 
+25 25 14 
+AG102 AG100 ( cyclohexane-tolerant , DmarR ) I113 E. coli K12 ( NCTC 10418 ) 
+Materials and methods
+Strains, media and chemicals
+The panel of strains used to select for disinfectant tolerant mutants comprised a mixture of wild-type and laboratory mutants as well as animal isolates . 
+As ciproﬂoxacin resistance is a problem in Salmonella Typhimurium , ciproﬂoxacin-resistant mutants and 10 isolates were included , also representative DT104 isolates were included in the panel . 
+In order to analyse the contribution of active efﬂux to intrinsic and high-level disinfectant tolerance , mutants lacking either acrB or tolC were also included . 
+E. coli I113 ( NCTC 10418 ) and Salmonella Typhimurium SL1344 were used as susceptible control strains for all susceptibility testing experiments . 
+E. coli AG100 and AG102 were used as controls for cyclohexane tolerance assays . 
+All strains used in this study are listed in Table 1 and were 25 routinely cultured on Luria -- Bertani ( LB ) agar and in LB broth unless stated otherwise . 
+All chemicals were obtained from Sigma-Aldrich ( Poole , Dorset , UK ) except for ciproﬂoxacin , which was kindly donated by Bayer ( Newbury , Berkshire , UK ) . 
+The farm disinfectants used were a tar oil phenol ( PFD ) which was a blend of high boiling point tar acids and organic acids , an oxidizing compound based disinfectant ( OXC ) , an aldehyde based disinfectant ( ABD ) and a dairy sterilizing disinfectant ( DSD ) which comprised a quaternary ammonium biocide , non-ionic surfactant and excipients . 
+Selection of mutants after single exposure to disinfectants
+Mutants were selected as previously described . 
+Parent strains were 11 grown overnight in antibiotic-free broth , concentrated by centrifugation and re-suspended in sterile broth to give a range of inocula ( 10 -- 10 cfu/mL ) . 
+Agar plates containing disinfectants at 2 the 6 10 MIC ( v/v ; Table 2 ) were inoculated with 100 mL ( 10 -- 10 cfu ) of 5 9 each cell suspension and incubated at 378C in air for up to 7 days . 
+Ten colonies with the typical size and morphology of the original strain were chosen randomly from each selecting plate and subcultured onto disinfectant-free media and retained for further study of the mechanism of resistance . 
+Calculation of disinfectant exposure times required for a 5 log kill
+Disinfectant activity was quantiﬁed by determining the ability of a disinfectant to reduce the viable numbers of a suspension of bacteria . 
+The decimal reduction time ( D value ) is the time required for a speciﬁed concentration of disinfectant to lead to a 1 log ( 90 % ) reduction in viable numbers . 
+In this study , the ability of each dis-12 infectant used to kill mutants with decreased susceptibility was determined using an assay based on the European suspension test which requires a 5 log ( 99.999 % ) kill ( EN1040 ) . 
+Initial experiments deﬁned the concentrations of each disinfectant required to give a 5 log reduction in viable numbers of bacteria within 30 min . 
+These conditions were then used to compare the time required for a 5 log kill for mutant and parent strains . 
+For each strain , an overnight culture in LB broth was diluted to 5 10 cfu/mL , 1 mL of this 8 suspension was then added to 8 mL of test disinfectant solution and 1 mL of sterile water . 
+At 5 min time intervals , 0.5 mL aliquots were removed and added to universal tubes containing 0.5 mL of sterile water and 4.5 mL of neutralizing buffer . 
+Each suspension created 12 in this way was serially diluted in sterile water and aliquots plated 8 onto LB agar plates , which were incubated overnight at 37 C before colony numbers were recorded . 
+Viable counts were performed in parallel from the original cultures used in order to allow enumeration of the numbers of cells killed after disinfectant treatment . 
+Viable count data were also used to correct for differences in sizes of the original inocula within each experiment in order to allow comparison of data from parent and mutant strains . 
+Data were ana-lysed using Excel ( Microsoft , USA ) to calculate means and standard deviations for each strain . 
+Differences between strains were analysed for statistical signiﬁcance using the Student 's t-test . 
+MICs and cyclohexane resistance
+Organic solvent ( cyclohexane and hexane ) tolerance was determined as previously described . 
+MIC testing of antibiotics and farm disin-4 fectants used the BSAC agar doubling dilution method . 
+13 
+Cell envelope analysis
+The expression of major outer membrane proteins and lipopolysaccharide was investigated as described previously and patterns com-14 pared between parent and mutant strains . 
+All strains were also visualized microscopically in order to detect any ﬁlamentation or other gross morphological changes . 
+Sequencing of quinolone resistance determining regions (QRDRs) of gyrA, gyrB, parC and parE
+The QRDRs of gyrA , gyrB , parC and parE from ABD-1 with crossresistance to ciproﬂoxacin were ampliﬁed and sequenced as previously described . 
+15 
+In vitro analysis of growth kinetics
+The ability of parent and disinfectant tolerant strains to grow in the presence of concentrations of disinfectants at MIC and sub-MIC concentrations was monitored in LB broth using a FLUOstar OPTIMA ( BMG LABTECH , UK ) . 
+Sterile LB broth ( 100 mL ) was dispensed into sterile microtitre trays and inoculated with overnight culture of each strain to give a ﬁnal inoculum of 4 % v/v . 
+Readings were taken every 10 min of the optical density of each well ( scanned at 600 nm ) in the microtitre trays over the 24 h time period and results recorded automatically . 
+Each strain was analysed in tri-plicate wells on at least three separate occasions to give nine data sets for analysis . 
+Additionally , each strain was challenged with either 0.5 or the MIC of the selective biocide for the parent after 2 h of growth ( mid-logarithmic growth phase ) in order to determine whether the inhibitory ability of each biocide was reduced in mutants , respective to parent strains . 
+Data were analysed using Excel ( Microsoft , USA ) to calculate means and standard deviations for each strain . 
+Differences between strains were analysed for stat-istical signiﬁcance using the Student 's t-test . 
+Accumulation of norﬂoxacin
+As it is a good substrate of the AcrAB -- TolC system and easily detected the accumulation of norﬂoxacin by each strain in the pre-16 sence and absence of CCCP ( carbonyl cyanide-m-chlorophenylhy-drazone , which dissipates the proton motive force and hence acts as an inhibitor of active efﬂux ) was directly measured as previously described . 
+16 
+Table 2 . 
+Susceptibility of mutants to antibiotics and disinfectants and times for a 5 log reduction in viable numbers 
+Disinfectant susceptibility 
+time ( min ) for 5 log kill 
+Antibiotic susceptibility MIC ( mg/L ) 
+MIC ( % , v/v ) 
+OXC ( 0.6 % , v/v ) 
+ABD 
+DSD 
+PFD 
+Selective agent 
+( 0.025 % , v/v ) 
+( 0.2 % , v/v ) 
+( 0.075 % , v/v ) O 
+CIP 
+CHL TET EtBr AF KA 
+PFD 
+Strain 
+XC ABD DSD 
+N 
+.1 
+0.2 
+L354 NA ( parent ) 0.015 4 1 1024 128 2 8.2 + 0.8 OXC-1 OXC 0.015 8 0.5 1024 128 2 11.5 + 1 
+0.4 0.8 0.8 
+0.025 0 
+.8 
+0.2 
+L358 NA ( parent ) 0.5 .256 128 1024 256 2 12.1 + 0.2 ABD-1 ABD 2 .256 256 1024 256 14.2 + 0.7 L378 NA ( parent ) 4 .256 256 2048 256 2 38 + 3.2 DSD-1 DSD 4 .256 128 1024 256 2 34 + 2.1 L108 NA ( parent ) ,0.015 1 0.5 16 8 .32 15 + 0.8 DSD-2 DSD ,0.015 1 0.5 16 8 .32 25 + 1.2 L357 NA ( parent ) 0.015 2 1 512 128 2 14.5 + 0.5 PFD-1 PFD 0.015 1 1024 128 8 6.2 + 0.3 
+0.025 0 0.025 
+2 
+.2 
+0.4 
+0.025 1.6 0 > 3.2 0.006 ,0.003 0.025 0.12 0.025 0.1 0.2 0.2 
+0.4 
+0.4 
+4 
+CIP , ciproﬂoxacin ; CHL , chloramphenicol ; TET , tetracycline ; EtBr , ethidium bromide ; AF , acriﬂavine ; KAN , kanamycin ; OXC , oxidizing compound ; ABD , aldehyde based farm disinfectant ; DSD , dairy sanitizer disinfectant ; PFD , phenolic farm disinfectant . 
+Values in bold indicate changes in MIC of antibiotics or disinfectants for mutants compared with their respective parent strains or changes in the time required to provoke a 5 log reduction in viable numbers ; + values indicate standard deviation from the mean . 
+Effect of disinfectant exposure on the proteome of SL1344
+Protein expression was assessed in order to determine bacterial stress response after disinfectant treatment . 
+Proteomes were prepared in triplicate from SL1344 with and without exposure to PFD ( 0.04 % , v/v ) and OXC ( 0.15 % , w/v ) disinfectants for 90 min . 
+Protein extracts were prepared and analysed by 2D-LC-MS as n described previously . 
+The relative abundance of the proteins 17,18 was compared using the spectrum count method following pub-19 lished guidelines and denotes the number of peptide counts 20 ( ` hits ' ) detected for each protein . 
+Protein expression was given as a ratio of the spectrum count . 
+Expression analysis was limited to only those proteins common to all three replicates from control or disinfectant-treated cultures . 
+Proteomes were compared using Microsoft Access and Excel . 
+The statistical signiﬁcance of percen-tage changes in protein expression was determined using the two-tailed Student 's t-test . 
+Figure 1 . 
+Survival of SL1344 ( white bars ) and OXC-1 ( black bars ) after exposure to OXC ( 0.6 % ) . 
+* P . 
+0.05 relative to parent strain at the same time point . 
+Survival of mutant strains in chicks
+Chick studies were performed in a similar manner to previous studies . 
+In brief , at three weeks of age , each group of birds was 21 infected by intra-gastric gavage with 10 cfu per bird with either 6 strain DSD-1 or PFD-1 or OXC-1 ( Table 2 ) . 
+For each of these groups of birds , there was a control group of birds infected with the respective parent strain ( Table 2 ) . 
+Cloacal swabs were taken from each bird twice weekly for up to 27 days after inoculation using pre-weighed swabs , which were weighed after swabbing so that results gave cfu/g of caecal contents . 
+Swabs were plated onto Rambach agar ( Merck , Darmstadt , Germany ) , which was incubated overnight at 378C . 
+As chicks were kept together in groups , for statistical analysis , individual birds were regarded as independent units that did not interact with any other birds in the same group as far as the infection is concerned . 
+With this assumption , the non-parametric Mann -- Whitney was used to compare the mean log counts of the parent and disinfectant tolerant strains for each day post-infection . 
+All animal studies were conducted under the jurisdiction of the Animals Scientiﬁc Procedures Act ( 1986 ) and were reviewed by the local ethics review committee . 
+Results
+Mutants with increased disinfectant tolerance were selected
+Disinfectant tolerant mutants were selected from a range of strains ( Tables 1 and 2 ) at a frequency between 1 10 and 29 1 10 . 
+It was only possible to select disinfectant tolerant 210 strains from agar containing 2 MIC of disinfectants , not from agar with 4 or higher multiples of disinfectant MICs . 
+In general , multiple mutants with an identical phenotype were selected from each parent , when this was the case , data for one representative mutant has been displayed ( Table 2 ) . 
+Disinfectant, antibiotic and organic solvent susceptibility
+L108 ( SL1344 , tolC : : aph ) and L643 ( SL1344 , acrB : : aph ) were both hyper-susceptible to the phenolic ( PFD ) , quaternary ammonium ( DSD ) and aldehyde ( ABD ) based disinfectants with 8-fold increases in susceptibility to these agents with respect to SL1344 , but were not more susceptible to the oxidative disinfectant ( OXC ) . 
+There was little variation in the susceptibility of the other strains to disinfectants ; the ABD was signiﬁcantly ( ~ 10-fold ) more active than the other agents tested ( Table 2 ) . 
+Using the European suspension test ( EN1040 ) , three of the ﬁve mutants required statistically signiﬁcantly longer times to generate a 5 log reduction in viability than their respective parents ( Table 2 ) . 
+OXC-1 required longer exposure to OXC for a 5 log kill ( Figure 1 ) and the MIC of OXC was one-dilution higher in this mutant than its parent ( Table 2 ) . 
+Mutants isolated after exposure to ABD displayed a 4-fold increase in MIC of ciproﬂoxacin as well as requiring longer exposure to ABD for a 5 log kill ( Table 2 ) . 
+Mutants obtained after exposure to DSD were more resistant to exposure to DSD as seen by MIC ( DSD-1 ) or increased time required to obtain a 5 log kill ( DSD-2 ) . 
+Interestingly , DSD-2 was obtained from L108 ( tolC : : aph ) after exposure to DSD and was signiﬁcantly more resistant than its parent to DSD but not to the other agents tested where it retained the hyper-susceptibility seen in L108 after inactivation of tolC ( Table 2 ) . 
+Mutant PFD-1 obtained after exposure to PFD showed an increased tolerance to chloramphenicol , ethidium bromide and kanamycin but was not more tolerant to disinfectants ; in fact this mutant actually required a shorter PFD contact time to provoke a 5 log reduction in viable cell numbers , which is an unexplained observation . 
+No increased organic solvent tolerance was detected for any of the disinfectant-selected mutants compared with their respect-ive parent strains ( data not shown ) . 
+Growth kinetics and accumulation assays
+Accumulation of norﬂoxacin was unchanged for all mutants apart from ABD-1 ( derived from L358 after exposure to ABD ) , which accumulated signiﬁcantly less norﬂoxacin than their parent ( Figure 2 ) . 
+The addition of CCCP increased norﬂoxacin accumulation in ABD-1 mutant indicating that the reduced accumulation seen in these strains is likely to be a consequence of active efﬂux . 
+None of the disinfectant-selected mutants was compromised in their ability to grow in LB broth relative to their parents in the absence of disinfectant . 
+The disinfectant-selected mutants were more resistant to the addition of disinfectants to the media than their respective parent strains , including those strains for which the MIC of the selective disinfectant had remained unchanged when compared with the parent . 
+DSD-selected mutant DSD-2 was able to grow signiﬁcantly ( P . 
+0.01 ) better upon both the addition of 0.1 % and 0.2 % DSD to the media ( Figure 3 ) . 
+ABD-selected mutant ABD-1 and OXC-selected mutant OXC-1 both grew signiﬁcantly ( P . 
+0.01 ) faster than their parents when challenged with 0.5 or the MIC of ABD or OXC ( data not shown ) . 
+No signiﬁcant differences were observed between PFD-selected mutant PFD-1 parent L357 in disinfectant-free broth or when exposed to 0.5 the MIC of PFD . 
+However , PFD-1 did grow signiﬁcantly ( P . 
+0.05 ) better when challenged with the MIC of PFD ( data not shown ) . 
+Mechanism of increased ciproﬂoxacin resistance in ABD mutants
+The frequency of mutant selection of ABD-1 ( and other mutants selected at the same time from the same parent with an identical ciproﬂoxacin resistance phenotype ) was consistent with a one - step point mutation . 
+The parent of ABD-1 , L358 , carries a Ser-83 ! 
+Phe substitution within GyrA ; despite the increased resistance to ciproﬂoxacin in ABD-1 , no additional changes were found in the QRDRs of any of the topoisome-rase genes investigated . 
+Investigation of the LPS and OMP proﬁles of all three ABD mutants indicated no changes compared with L358 demonstrating that loss of porins was not responsible for increased ciproﬂoxacin resistance in these strains . 
+The accumulation data ( Figure 2 ) suggests that increased efﬂux activity alone is responsible for this increased ciproﬂoxacin resistance . 
+Different disinfectants provoke different changes in the proteome of SL1344
+As the MIC data ( Table 2 ) suggested that PFD , DSD and ABD are subject to active efﬂux but OXC is not , the effect of the PFD ( 0.04 % , v/v ) and the OXC ( 0.15 % , w/v ) disinfectants on the proteome of SL1344 was determined . 
+Treatment with both disinfectants had no signiﬁcant effect on the total number of proteins detected . 
+For the PFD experiment , a mean number of 360 proteins were detected in both the treatment and control ( no disinfectant ) and 424 proteins were detected in the OXC experiment ( Table 3 ) . 
+The expression of 12 and 32 proteins were signiﬁcantly ( P . 
+0.05 ) altered following treatment with the PFD and OXC disinfectants , respectively ( Tables 3 and 4 ) . 
+The pattern of protein expression was very different after exposure to the two disinfectants . 
+The PFD disinfectant signiﬁcantly ( P , 0.05 ) increased expression of proteins consistent with efﬂux being required for disinfectant tolerance including the AcrAB / TolC efﬂux pump , EmrA another multidrug efﬂux pump protein and others associated with detoxiﬁcation of hydroperoxides ( AhpC and AhpE ) and pyruvate dehydrogenase ( AceE and AceF ) ( Table 4 ) . 
+The OXC disinfectant increased expression of a range of proteins including RpsC , a 30S ribosomal subunit ; HtrA , a periplasmic serine protease ; and FhuA , a transporter for ferrichrome ( Table 5 ) . 
+Both disinfectants increased expression of PqiB the paraquat-inducible protein . 
+Figure 2 . 
+Norﬂoxacin accumulation . 
+White bars , 2CCCP ; black bars , þCCCP . 
+* P . 
+0.05 relative to parent strain at the same time point . 
+Disinfectant-selected mutants are ﬁt in the chick model
+There were no statistically signiﬁcant differences between the ability of the parent and disinfectant mutant strains in their 
+Figure 3 . 
+Growth of L108 and DSD-2 with and without exposure to DSD . 
+Each point is the average of nine values ; error bars are omitted for clarity . 
+The arrow indicates the time at which DSD was added to each well . 
+Grey symbols , L108 ; open symbols , DSD-2 ; triangles , no disinfectant ; squares , 0.1 % DSD ; circles , 0.2 % DSD . 
+Table 3 . 
+Summary of protein changes after disinfectant exposure 
+Number of proteins 
+increased expression ( P , 0.05 ) 
+decreased expression ( P , 0.05 ) 
+common to treatment and control 
+control 
+treated control treatment ( mean + SD ) only only 
+( mean + SD ) 
+Exposure 
+0.04 % v/v PFD 0.15 % w/v OXC 
+70 
+12 
+23 
+437 ( 696 + 129 ) 429 ( 682 + 69 ) 596 ( 927 + 91 ) 511 ( 861 + 45 ) 
+79 
+360 424 
+88 
+32 
+67 
+173 
+Table 4 . 
+Proteins with statistically signiﬁcantly altered expression after treatment with PFD 
+Group 
+Description 
+Protein 
+Ratio 
+Efﬂux 
+RND family , multidrug efﬂux pump multidrug efﬂux pump membrane fusion protein of AcrAB -- TolC outer membrane efﬂux channel OmpF assembly 
+AcrB EmrA AcrA TolC AsmA 
+2.8 ** 2.7 ** 1.9 ** 1.8 *** 0.5 * 
+ATP synthesis 
+membrane-bound ATP synthase , F1 sector , b-subunit membrane-bound ATP synthase , F0 sector , subunit b 
+AtpD AtpF 
+0.9 * 0.8 * 
+Chemotaxis 
+methyl-accepting chemotaxis protein I 
+TsR TcP 
+0.4 ** 0.3 *** 0.2 *** 
+methyl-accepting transmembrane citrate/phenol chemoreceptor methyl-accepting chemotaxis protein II Hydrogenase/dehydrogenase pyruvate dehydrogenase , dihydrolipoyltransacetylase component pyruvate dehydrogenase , decarboxylase component putative hydrogenase , membrane component 2-oxoglutarate dehydrogenase plasma membrane proline dehydrogenase/pyrroline -5 - carboxylate dehydrogenase 
+CheM 
+AceF AceE OmpA SucA PutA 
+2.2 ** 2.0 *** 1.3 * 0.5 * 0.3 ** 
+Miscellaneous 
+RpoD AhpC Fbp RplF PykF OsmE HupA SucC HﬂC YbaY ClpB PckA AnsB GlpQ 
+sigma D ( sigma 70 ) factor of RNA polymerase alkyl hydroperoxide reductase 
+2.5 * 
+2.2 ** 1.7 * 1.6 * 1.4 * 0.8 * 0.7 * 0.7 *** 0.6 ** 0.6 * 0.6 * 0.5 * 0.5 * 0.5 * 
+fructose-bisphosphatase 50S ribosomal subunit protein L6 pyruvate kinase I transcriptional activator of ntrl gene DNA-binding protein HU-a succinyl-coa synthetase , b-subunit part of modulator for protease speciﬁc for ftsh phage lambda cii repressor glycoprotein/polysaccharide metabolism ATP-dependent protease , Hsp 100 phosphoenolpyruvate carboxykinase periplasmic L-asparaginase II glycerophosphodiester phosphodiesterase 
+0.4 * 0.4 * 0.4 * 0.4 ** 0.4 * 0.4 * 
+ManZ 
+mannose-speciﬁc enzyme IID putative outer membrane lipoprotein 
+STM1607 Gor SspA AspA MipA 
+glutathione oxidoreductase stringent starvation protein A , transcriptional regulator aspartate ammonia-lyase ( aspartase ) scaffolding protein for murein-synthesizing holoenzyme 
+Ratio indicates protein expression after disinfectant treatment divided by expression in untreated control . 
+* P , 0.05 . 
+** P , 0.01 . 
+*** P , 0.001 . 
+30S ribosomal subunit protein S3 8.0 *** Uptake of enterochelin ; tonB-dependent 6.5 *** uptake of B colicins Membrane-bound lytic murein 3.8 *** transglycosylase A Subunit of cysteine synthase A and 3.6 *** O-acetylserine sulfhydrolase A ABC superfamily ( atp & memb ) , cytochrome-related transporter Periplasmic serine protease Do , heat shock protein Glucose dehydrogenase 3.3 * Outer membrane protein receptor/transporter 3.3 *** for ferrichrome , colicin M , and phages T1 , 
+RpsC ExbB 
+MltA 
+CysK 
+CydC 
+3.5 ** 
+HtrA 
+3.5 ** 
+Gcd 
+FhuA 
+T5 , and phi80 Putative outer membrane lipoprotein 
+2.6 ** 2.4 * 0.2 * 0.2 * 
+YiaD RhlB Pps GcvP 
+Putative helicase Phosphoenolpyruvate synthase Glycine cleavage complex protein P , glycine decarboxylase Putative methyl-accepting chemotaxis protein STM3138 0.1 ** Methyl-accepting chemotaxis protein III , Trg 0.1 ** ribose and galactose sensor receptor L-Lactate dehydrogenase 0.1 * Periplasmic L-asparaginase II 0.1 ** Phosphoenolpyruvate carboxykinase 0.1 *** Fumarate reductase , anaerobic , ﬂavoprotein 0.1 * subunit Flagellar biosynthesis ; ﬂagellin , ﬁlament 0.1 *** structural protein Putative methyl-accepting chemotaxis protein STM3216 0.1 *** 
+LldD AnsB PckA FrdA 
+FliC 
+Ratio indicates protein expression after disinfectant treatment divided by expression in untreated control . 
+* P , 0.05 . 
+** P , 0.01 . 
+*** P , 0.001 . 
+ability to colonize and persist in chicks ( data not shown ) . 
+All groups of birds were still shedding ~ 10 cfu of Salmonella/g of 6 caecal contents at the end of the experiments , 27 days after infection indicating that mutants colonized and persisted as well as parent strains . 
+Discussion
+In this study , mutants of Salmonella Typhimurium with a stable increased tolerance to disinfectants were selected from a range of strains at a frequency which suggests one mutational event and that a single target of each disinfectant has been altered in each mutant . 
+As the disinfectants used all have multiple modes of antibacterial action , it is likely that selection of mutants highly resistant to disinfectants will require multiple exposures to disinfectant and successive selection events . 
+The MIC data indicated that an intact AcrAB -- TolC system contributes to intrinsic resistance to PFD , DSD and ABD but not OXC . 
+The proteomic data support this conclusion with increased levels of AcrAB -- TolC and EmrA detected after exposure to PFD but not after exposure to OXC , which would appear to be insensitive to active efﬂux . 
+The selection of mutant DSD-2 ( selected from L109 , tolC : : aph ) with a level of tolerance to DSD similar to most strains , although it lacks a functional tolC gene , suggests that another efﬂux system may compensate for the loss of TolC in this mutant and that secondary transpor-ters , other than AcrAB -- TolC , may also be able to transport DSD . 
+These data suggest that different disinfectants may differ with respect to their potential to select for mutants which overexpress efﬂux pumps . 
+None of the disinfectant-selected mutants was MAR , indicating that short , single exposure to these agents was insufﬁcient to select for such mutants . 
+In previous studies , disinfectant exposure followed by antibiotic exposure did lead to selection of MAR. . 
+However , the pattern of proteins whose expression was 1,2 increased by exposure to the PFD was consistent with those previously associated with MAR , including increased expression 1 -- 5 of AcrAB -- TolC . 
+These data suggest that there is a link between disinfectant exposure and the major effectors of MAR. . 
+These ﬁrst-step mutants with a low level of disinfectant resistance could act as a stepping stone to MAR strains . 
+The pattern of increased protein expression after treatment with OXC and PFD was distinct reﬂecting the different active constituents of each disinfectant . 
+Any overlap was limited to increased expression of PqiB the paraquat-inducible protein which is a member of the soxRS regulon and therefore may have roles in both response to oxidative stress and regulation of acrAB . 
+Although PFD induced expression of several efﬂux proteins , OXC increased expression of different proteins including NfnB ( dihydropteridine reductase/oxygen-insensitive NAD ( P ) H nitroreductase ) and AhpF ( alkyl hydroperoxide reductase , F52a subunit ; detoxiﬁcation of hydroperoxides ) , which have been associated with resistance to hydrogen peroxide , this is likely to reﬂect a stress response provoked by the oxidizing compounds contained by the OXC . 
+The increase in the MIC of ciproﬂoxacin seen for mutant ABD-1 , after exposure to ABD , is likely to be a result of decreased accumulation of ciproﬂoxacin in these mutants , as no topoisomerase substitutions in addition to the Ser-83 ! 
+Phe substitution present in the parent or alterations in porin expression were found . 
+The accumulation of norﬂoxacin was reduced in these strains compared with their parent and the susceptibility of these strains to CCCP suggests that active efﬂux is responsible for the reduced norﬂoxacin accumulation observed . 
+No decreased susceptibility to ciproﬂoxacin was detected in any of the other mutants selected from other strains after exposure to ABD ( data not shown ) suggesting that the GyrA substitution in L358 may predispose selection of higher level ciproﬂoxacin resistance as seen in ABD-1 . 
+The potential for disinfectants to drive resistance to ciproﬂoxacin is a real concern and may 6 provide a selective pressure for the selection or maintenance of ciproﬂoxacin-resistant strains in the farm environment in the absence of ciproﬂoxacin itself . 
+None of the disinfectant-selected mutants was compromised in their ability to grow in vitro and was better able to tolerate challenge with disinfectants . 
+The ﬁtness of disinfectant tolerant strains in chicks was not compromised . 
+A key consideration for assessing the risk that any mutants may present is their ability to survive in different food production environments . 
+These may include the general farm environment , and associated speciﬁc niches , and the animals themselves where different selective pressures may apply . 
+The present observation that the ﬁtness of the disinfectant tolerant mutants was not compromised in chickens is a cause for concern as survival in birds would enable both persistence on the farm and transit through the food chain . 
+2.6 ** 2.4 * 0.2 * 0.2 * 
+YiaD RhlB Pps GcvP 
+LldD AnsB PckA FrdA 
+FliC 
+Funding 13 . 
+Andrews JM . 
+Determination of minimum inhibitory concentrations . 
+J Antimicrob Chemother 2001 ; 48 Suppl 1 : 5 -- 16 . 
+This work was supported by the UK Department for Environment , Food and Rural Affairs , grant reference numbers OD2010 and OD2011 to M. J. W. , N. G. C. and L. J. V. P. A. C. M. is supported by grant GA678 from the BSAC to M. A. W. and L. J. V. P. 
+References 
+1 . 
+Randall LP , Cooles SW , Piddock LJ et al. . 
+Effect of triclosan or a phenolic farm disinfectant upon the selection of antibiotic resistant Salmonella enterica . 
+J Antimicrob Chemother 2004 ; 54 : 621 -- 7 . 
+2 . 
+Randall LP , Clouting CS , Gradel KO et al. . 
+Farm disinfectants 
+select for cyclohexane resistance , a marker of multiple antibiotic resist-ance , in Escherichia coli . 
+J Appl Microbiol 2005 ; 98 : 556 -- 63 . 
+3 . 
+Alekshun MN , Levy SB . 
+Regulation of chromosomally mediated multiple antibiotic resistance : the mar regulon . 
+Antimicrob Agents 
+4 . 
+Randall LP , Cooles SW , Sayers AR et al. . 
+Cyclohexane resist-ance in Salmonella of different serovars is associated with increased resistance to multiple antibiotics , disinfectants and dyes . 
+J Med 
+5 . 
+Randall LP , Woodward MJ . 
+The multiple antibiotic resistance ( mar ) locus and its signiﬁcance . 
+Res Vet Sci 2002 ; 72 : 87 -- 93 . 
+6 . 
+Russell AD . 
+Do biocides select for antibiotic resistance ? 
+7 . 
+Russell AD . 
+Introduction of biocides into clinical practice and the impact on antibiotic-resistant bacteria . 
+J Appl Microbiol 2002 ; 92 : S121 -- 35 . 
+8 . 
+Jones RD , Jampani HB , Newman JL et al. . 
+Triclosan : a review of effectiveness and safety in health care settings . 
+Am J Infect Control 2000 ; 28 : 184 -- 96 . 
+9 . 
+Piddock LJ . 
+Multidrug-resistance efﬂux pumps -- not just for 
+10 . 
+Threlfall EJ , Day M , de Pinna E et al. . 
+Assessment of factors contributing to changes in the incidence of antimicrobial drug 
+resistance in Salmonella enterica serotypes Enteritidis and Typhimurium from humans in England and Wales in 2000 , 2002 and 2004 . 
+Int J Antimicrob Agents 2006 ; 28 : 389 -- 95 . 
+11 . 
+Ricci V , Tzakas P , Buckley AM et al. . 
+Ciproﬂoxacin-resistant Salmonella enterica serovar Typhimurium strains are difﬁcult to select in the absence of AcrB and TolC . 
+Antimicrob Agents Chemother 2006 ; 50 : 38 -- 42 . 
+12 . 
+Mazzola PG , Penna TC , Martins AM . 
+Determination of decimal reduction time ( D value ) of chemical agents used in hospitals for disinfection purposes . 
+BMC Infect Dis 2003 ; 3 : 24 . 
+14 . 
+Everett MJ , Jin YF , Ricci V. Contributions of individual mechan-isms to ﬂuoroquinolone resistance in 36 Escherichia coli strains isolated from humans and animals . 
+Antimicrob Agents Chemother 1996 ; 40 : 2380 -- 6 . 
+15 . 
+Eaves DJ , Ricci V , Piddock LJ . 
+Expression of acrB , acrF , acrD , marA , and soxS in Salmonella enterica serovar Typhimurium : role in multiple antibiotic resistance . 
+Antimicrob Agents Chemother 2004 ; 48 : 1145 -- 50 . 
+16 . 
+Mortimer PG , Piddock LJ . 
+A comparison of methods used for measuring the accumulation of quinolones by Enterobacteriaceae , 
+Pseudomonas aeruginosa and Staphylococcus aureus . 
+J Antimicrob Chemother 1991 ; 28 : 639 -- 53 . 
+17 . 
+Coldham NG , Woodward MJ . 
+Characterisation of the Salmonella Typhimurium proteome by semi-automated two-dimensional HPLC-mass spectrometry : detection of proteins implicated in multiple antibiotic resistance . 
+J Proteome Res 2004 ; 3 : 595 -- 603 . 
+18 . 
+Coldham NG , Randall LP , Piddock LJ et al. . 
+Effect of ﬂuoroquino-lone exposure on the proteome of Salmonella enterica serovar Typhimurium . 
+J Antimicrob Chemother 2006 ; 58 : 1145 -- 53 . 
+19 . 
+Liu H , Sadygov RG , Yates JR. . 
+A model for random sampling and estimation of relative protein abundance in shotgun proteomics . 
+Anal Chem 2004 ; 76 : 4193 -- 201 . 
+20 . 
+Gao J , Friedrichs MS , Dongre AR et al. . 
+Guidelines for the routine application of the peptide hits technique . 
+J Am Soc Mass Spectrom 2004 ; 16 : 1231 -- 8 . 
+21 . 
+Randall LP , Woodward MJ . 
+Role of the mar locus in virulence of Salmonella enterica serovar Typhimurium DT104 in chickens . 
+J Med 
+23 . 
+Buckley AM , Webber MA , Cooles SW et al. . 
+The AcrAB-TolC efﬂux system of Salmonella enterica serovar Typhimurium plays a role in pathogenesis . 
+Cell Microbiol 2006 ; 8 : 847 -- 56 . 
+24 . 
+Webber MA , Buckley AM , Randall LP et al. . 
+Overexpression of marA , soxS and acrB in veterinary isolates of Salmonella enterica rarely correlates with cyclohexane tolerance . 
+J Antimicrob Chemother 2006 ; 57 : 673 -- 9 . 
+25 . 
+George AM , Levy SB . 
+Ampliﬁable resistance to tetracycline , chloramphenicol , and other antibiotics in Escherichia coli : involvement of a non-plasmid-determined efﬂux of tetracycline . 
+J Bacteriol 1983 ; 155 : 531 -- 40 .

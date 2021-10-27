@@ -1,0 +1,321 @@
+Contents lists available at SciVerse ScienceDirect 
+Journal of Microbiological Methods 
+journal homepage : www . 
+else vi er . 
+com / locate/jmicmeth 
+Multilocus sequence typing of Salmonella strains by high-throughput sequencing of selectively ampliﬁed target genes☆
+b Division of Microbiology , National Center for Toxicological Research , U.S. Food and Drug Administration , Jefferson , AR 72079 , USA c Department of Poultry Science , University of Arkansas , Fayetteville , AR 72701 , USA 
+article 
+info 
+Rapid development of next generation sequencing ( NGS ) technologies in recent years has made whole ge-nome sequencing of bacterial genomes widely accessible . 
+However , it is often unnecessary or not feasible to sequence the whole genome for most applications of genetic analyses in bacteria . 
+Selectively capturing de-ﬁned genomic regions followed by NGS analysis could be a promising approach for high-resolution molecular typing of a large set of strains . 
+In this study , we describe a novel and straightforward PCR-based targetcapturing method , hairpin-primed multiplex ampliﬁcation ( HPMA ) , which allows for simultaneous ampliﬁcation of numerous target genes . 
+To test the feasibility of NGS-based strain typing using HPMA , 20 target gene sequences were simultaneously ampliﬁed with barcode tagging in each of 41 Salmonella strains . 
+The amplicons were then pooled and analyzed by 454 pyrosequencing . 
+Analysis of the sequence data , as an extension of multilocus sequence typing ( MLST ) , demonstrated the utility and potential of this novel typing method , MLST-seq , as a high-resolution strain typing method . 
+With the rapidly increasing sequencing capacity of NGS , MLST-seq or its variations using different target enrichment methods can be expected to become a high-resolution typing method in the near future for high-throughput analysis of a large collection of bacterial strains . 
+© 2011 Elsevier B.V. All rights reserved . 
+Article history : Received 12 May 2011 
+Received in revised form 1 November 2011 Accepted 1 November 2011 Available online 11 November 2011 
+Keywords : 
+Multiplex ampliﬁcation Next generation sequencing PCR Salmonella Strain typing 
+Pallavi Singh a, Steven L. Foley b, Rajesh Nayak b, Young Min Kwon a,c,⁎
+a Cell and Molecular Biology Program , University of Arkansas , Fayetteville , AR 72701 , USA 
+1. Introduction
+abstract
+Multilocus sequence typing ( MLST ) is a valuable molecular technique widely used for epidemiological studies . 
+This is a PCR ampliﬁcation-based method , wherein housekeeping genes along with other conserved genes are analyzed according to nucleotide var-iation for the characterization of bacterial pathogens ( Maiden et al. , 1998 ) . 
+Although traditional Salmonella MLST employs seven housekeeping genes ( http://pubmlst.org/ ) , several different variations have been proposed ( Kotetishvili et al. , 2002 ; Sukhnanand et al. , 2005 ; Tankouo-Sandjong et al. , 2007 ) . 
+Compared to other strain typing methods , MLST has many advantages such as the digital format of MLST data that allows precise comparison of data obtained from different laboratories . 
+One of the major limitations of MLST is the insufﬁcient resolution of the MLST in the current scheme , which often limits its utility in local epidemiological studies ( Fakhr et al. , 2005 ) . 
+In theory , increasing the number of target genes should help in providing higher discrimination and better insight for strain characterization . 
+However , 
+☆ Disclaimer : Views presented in this manuscript do not necessarily represent those of the U.S. Food and Drug Administration . 
+Corresponding author at : Department of Poultry Science , University of Arkansas , Fayetteville , AR 72701 , USA . 
+Tel. : +1 479 575 4935 ; fax : +1 479 575 8775 . 
+E-mail address : ykwon@uark.edu ( Y.M. Kwon ) . 
+this strategy would result in substantial increase in labor and cost of the analysis , especially when a large number of strains are analyzed . 
+We reasoned that combining multiplex target ampliﬁcation and next generation sequencing ( NGS ) technology to capture multiple target genes and sequence them en mass to obtain comprehensive sequence information from all predeﬁned target genes would be a viable means to overcome the challenge . 
+Traditionally , multiplex ampliﬁcation protocols combine numerous primers in a single PCR reaction to amplify several target genes in an effort to deduce desirable information in a time-saving manner ( Settanni and Corsetti , 2007 ) . 
+However , with this approach , the multiplexing is typically limited to a maximum of several genes due to primer dimer formation and mispriming events ( Fan et al. , 2006 ; Wang et al. , 2005 ) . 
+Recently with development of NGS technologies , there has been a renewed interest in ` capturing ' or ` enriching ' target genes for subsequent NGS analysis . 
+Various target enrichment strategies have been devised to selectively and efﬁciently capture speciﬁc regions in the genome that contain signiﬁcant information , thereby avoiding the need for sequencing the whole genome ( Mamanova et al. , 2010 ) . 
+In this study , we have developed a novel PCR-based multiplex ampliﬁcation protocol using hairpin primers and used this method , hairpin-primed multiplex ampliﬁcation ( HPMA ) , to analyze 20 target loci including housekeeping genes and virulence genes from 4 
+0167-7012 / $ -- see front matter © 2011 Elsevier B.V. All rights reserved . 
+doi :10.1016 / j.mimet .2011.11.004 
+Salmonella strains . 
+In this proof-of-concept study , we demonstrated the utility and potential of our approach , referred to as MLST-seq , in high-resolution and high-throughput bacterial strain typing as an extension of the traditional MLST method . 
+2. Materials and methods
+2.1. Bacterial strains, culture conditions and genomic DNA preparation
+Forty-one Salmonella enterica isolates , including serotype Heidelberg ( n = 25 ) , Montevideo ( 3 ) , Senftenberg ( 3 ) , Typhimurium ( 2 ) , Enteritidis ( 2 ) , Gaminara ( 2 ) , Anatum ( 1 ) , Worthington ( 1 ) , Muenster ( 1 ) , and rough ( 1 ) were used in the study ( Supplementary Table 1 ) . 
+The strains were maintained at − 80 °C in Brain Heart Infusion ( BHI ) broth with 30 % glycerol . 
+For genomic DNA isolation , the strains were cultured over-night in Luria -- Bertani ( LB ) broth at 37 °C in a shaking incubator , and genomic DNA was isolated from the overnight cultures using QIAamp DNA mini Kit ( Qiagen , Valencia , CA ) . 
+The puriﬁed genomic DNA samples were stored at − 20 °C until used . 
+2.2. Design of hairpin primers and universal primers
+Twenty target genes were selected from the genes that have been previously used for different Salmonella MLST schemes ( Fakhr et al. , 2005 ; Harbottle et al. , 2006 ; Kotetishvili et al. , 2002 ; Tankouo-Sandjong et al. , 2007 ) , including the seven genes used in the current Salmonella MLST scheme ( Table 1 ) . 
+Target speciﬁc sequences of 18 to 20 bp were carefully selected to include the coding regions of the target genes that produce ampliﬁcation products with a uniform length of 666 bp and have comparable annealing temperatures that would aid efﬁcient annealing of hairpin primers to all target genes during multiplex ampliﬁcation ( Table 1 ) . 
+These target speciﬁc sequences were validated for compatibility between the 2 hairpin primers for each target gene by Primer3 software ( http://frodo.wi . 
+mit.edu/primer3/ ) . 
+Hairpin primers were designed such that they contained the target speciﬁc sequences and a stem-loop region that contains a hairpin structure and a universal primer binding site ( Fig. 1A ) . 
+Two hairpin primers ( HP-F and HP-R ) were designed and synthesized for each of the 20 target genes ( Integrated DNA Technologies , Coral-ville , IA ) with a standard desalting puriﬁcation . 
+Next , universal primers , UP-F and UP-R , were designed such that universal priming sequences were linked at their 5 ′ ends to unique 10 bp multiplex identiﬁers ( MIDs ; tested by Roche and available at www.454.com ; Supplementary Table 2 ) , to a 4 bp key and to 454 platform-speciﬁc sequences 454 A and B , respectively ( Fig. 1A ) . 
+The use of universal primers tagged with different MIDs allows for the identiﬁcation of the different strains as well as forward and reverse reads after sequencing . 
+2.3. Preparation of multiplex amplicons for NGS analysis
+The schematic diagram for HPMA is shown in Fig. 1B . 
+It consists of two steps of PCR reactions : the ﬁrst step is to enrich all target genes simultaneously via low cycle PCR ampliﬁcation with the mixture of HP primers to produce target gene sequences ﬂanked by two universal priming sequences at both ends . 
+The second step is to perform a PCR ampliﬁcation using the pair of universal primers to amplify all target gene sequences . 
+For the ﬁrst ampliﬁcation step , the thermal cycler was programmed for initial denaturation at 94 °C for 2 min followed by 5 cycles for 1 min at 94 °C , 120 min at 50 °C and 3 min at 72 °C . 
+The reaction mixture consisted of 2 μl DNA template , 0.9 μl each of 1 μM HP-F and HP-R , 5 μl of 10 X NEB Buffer , 4 μl of 2.5 mM dNTP mix , 1 μl of NEB Taq DNA polymerase ( New England Biolabs , Ipswich , MA ) and sterile H2O to make the volume up to 50 μl . 
+One microliter of the ﬁrst ampliﬁcation reaction was then used as a template in the second PCR reaction with a pair of the universal primers . 
+The reaction contained 1 μl DNA template , 1 μl Taq DNA po-lymerase ( New England BioLabs , Ipswich , MA ) , 5 μl Taq DNA polymerase buffer , 1 μl each of 350 ng / μl UP-F and UP-R , 4 μl of 2.5 mM dNTP mix and ddH2O to make up the ﬁnal 50 μl volume . 
+The thermal cycler was programmed for a hot start ampliﬁcation reaction , with the initial denaturation step at 94 °C for 2 min ; followed by 25 cycles at 94 °C for 30 s , 62 °C for 1 min , and 72 °C for 3 min ; and a ﬁnal extended elongation step at 72 °C for 10 min . 
+Equal volumes ( 1 μl ) of the ampliﬁcation products from all 41 strains were pooled together and run on 1 % agarose gel followed by gel puriﬁcation using QIAquick gel extraction kit ( Qiagen , Valencia , CA ) . 
+The concentration of the pu-riﬁed product was measured using a NanoDrop1000 ( Thermo Fisher Scientiﬁc , Wilmington , DE ) and sent to the Interdisciplinary Center for Biotechnology Research ( ICBR ) , Genomics Division , University of Florida , for 454 pyrosequencing using Titanium chemistry . 
+2.4. Data analysis
+Sequencing results from 454 pyrosequencing were ﬁrst ﬁltered for the reads equal to or longer than 50 bp for further analysis using the pipeline initial process option in Ribosomal Database Project ( RDP ) 's pyrosequencing pipeline ( http://pyro.cme.msu.edu ) . 
+The ﬁltered sequence reads were then sorted according to the 41 pairs of barcodes linked to either universal primer 454 A or 454 B , using a custom Jython script , into strain-speciﬁc groups . 
+Each of the strain-sorted reads were then analyzed using BLAST2 ( http://blast.ncbi.nlm.nih.gov/Blast.cgi ) to identify reads matching the corresponding 20 target gene sequences in S. Typhimurium strain LT2 . 
+The BLAST2 results were further analyzed by counting the number of the sequence reads corresponding to each of the 20 target genes to determine the efﬁciency of target capturing ( uniformity , range and coverage ) accomplished by HPMA . 
+Table 1 
+List of target genes and target-speciﬁc sequences for hairpin primers . 
+Target gene HP-Forward ( 5 ′ → 3 ′ ) HP-Reverse ( 5 ′ → 3 ′ ) thrA GGCCATTACCTTGAATCTAC ATAGAACTCATCCTGCATCG purE TTTTAAGACGCATGTCTTCC ATCTCTGCGGTAATGACG sucA CGAAGAGAAACGCTGGAT AGTGGGTTAGAGGTGGTGA hisD GTCTCGTCTGTCGGTCTGTA TGCGCTGGTAATCGCATC aroC GGACTACAGCGCGATTAA ATCATTTCGACTTCTTCACC hemD ATGAGTATTCTGATCACCCG ATCAGCGACCTTAATATCTTGCCA dnaN TTACCGTTGAACGTGAACAT CGCGGATATTATTACTGC mdh ACCGTTCCGACCTGTTTA CTTCACCCAACTGAATATCT manB ATCAGTGTTAACAATCTCACC CGCCAGTCTGCTGTTGAT ﬁmA GTGTGTAATTCAAGGGAAAT TTCCTTATCATCTGCTATGTT panB TACAGCTTCGCTAAGTTATTT AGCCATATACTGCTGTACG aceK ACCGGGTATTTAAAATCATT CTTTAATACGCGTCTGTAGC icdA CCCTTGATTTAATTCGTGAC AAATATAGTCACCGTTCAGG gyrB CTACATGGACAAAGAAGGCT TGACGATAGAAGAAGGTCAA atpD GGTGTAGGTAAAACCGTAAA GATGTCTTTCAGTTCCTGAT ﬂiC CTGAATGTGCAACAAAAATA CTGTGCTTTAAAGTTGTGAC ﬂjB TGACGCAGATAATAACAAG TTGGTGATAGCAGAGTTGA glnA AGGATATCCGTTCTGAAATG CTACCTGTGGGATCTCTTT glpF TACTTTTGGACAGTGGGA AAATGACGGCCAATAAAT pgm ATAATGGCTTTACGCCAAC GATGCTGGAACAGATAGTTA 
+No. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 
+2.5. Pulsed ﬁeld gel electrophoresis (PFGE)
+PFGE analysis was carried out on the 25 S. Heidelberg strains using the PulseNet protocol developed by the Centers for Disease Control and Prevention ( CDC ) with XbaI as the restriction enzyme ( Ribot et al. , 2006 ) . 
+2.6. Phylogenetic analysis
+The good quality 454 pyrosequencing bi-directional reads sorted by source strain and gene locus were assembled with the help o 
+SeqMan Pro ( version 8.0 , LaserGene , DNAStar , Madison , WI ) . 
+The assembled consensus sequences for each locus in each strain were imported to the Excel spreadsheet program ( Microsoft , Redmond , WA ) for further analysis . 
+The tags from the 3 ` and 5 ` ends were trimmed along with an additional 5 -- 10 bp to allow for an efﬁcient alignment and comparison of locus-speciﬁc sequences among different strains . 
+These trimmed assembled sequences were used to determine the ﬁnal coverage for each target sequence in each strain . 
+Allelic proﬁles of S. Heidelberg were obtained and used to construct phylogenetic trees based on the Unweighted Pair Group Meth-od using Arithmetic Averages ( UPGMA ) , with the help of Tree drawing online program which utilizes PHYLIP suite of programs ( http://pubmlst.org/perl/mlstanalyse/mlstanalyse.pl?site=pubmlst& page = treedraw & referer = pubmlst.org ) . 
+For PFGE , the current gold standard typing technique , the genetic relationship among the Salmonella strains was statistically analyzed using the BioNumerics software ( version 6.0 , Applied Maths , Sint-Martens-Latem , Belgium ) . 
+The similarity matrix and clustering dendrogram type used for cluster analyses were calculated using the Dice band matching coefﬁcient with a 2 % tolerance and optimization setting and UPGMA algorithm , respectively ( Nayak and Stewart-King , 2008 ) . 
+3. Results
+3.1. Overview of the hairpin-primed multiplex ampliﬁcation
+We devised a simple multiplex target ampliﬁcation strategy using hairpin primers , hairpin-primed multiplex ampliﬁcation ( HPMA ) , to improve the multiplexing capacity of conventional PCR ampliﬁcation . 
+A schematic diagram of the hairpin primers is shown in Fig. 1A . 
+The hairpin primers were designed by adding 66 bp of common sequence at the 5 ' ends of target speciﬁc 18 -- 20 bp primer sequences . 
+The design was such that the 66-bp sequence would form a strong hairpin structure in which complementary 30 -- 31 bp spans would have perfect base pairing with each other . 
+The advantage of this design is that the stem-loop region remains double stranded and is thus kinetically ` inert ' to avoid potential base-pairing with any other DNA sequence . 
+Thus the binding of the hairpin primers to the template will be guided only by the target-speciﬁc sequences , ( as would occur in a normal PCR reaction ) , reducing non-speciﬁc target binding and unwanted interactions among the primers . 
+However , upon binding of the hairpin primers to speciﬁc targets and initial extension during PCR cycles , the 5 ′ regions of the primers participating in the strong hairpin structures will be cleaved off by the 5 ′ → 3 ′ nuclease activity of the Taq DNA polymerase and DNA will be extended to the 5 ' end of the loop region . 
+As a result , target-speciﬁc PCR products with common sequences attached at both ends , but without hairpin structures will be ampliﬁed . 
+The common sequences then provide universal primer binding sites for subsequent PCR cycles with universal primers ( Fig. 1B ) . 
+Although ampliﬁcation of the target sequences should occur during the 5 cycles of the ﬁrst PCR reaction , these initial cycles should be considered as a means to create universal PCR targets containing different target gene sequences , which will then be used as a template in the second PCR ampliﬁcation step . 
+The second PCR step is where true exponential ampliﬁcation occurs using the universal primers . 
+3.2. Testing and optimization of HPMA
+When this concept was ﬁrst tested , using a 1 min annealing time for the ﬁrst 5 cycles with hairpin primers prior to the 25 cycles wit universal primers , the ampliﬁcation efﬁcacy for different single targets was inconsistent ( data not shown ) . 
+Therefore , the annealing time was increased from 1 min to 2 h in the ﬁrst ﬁve cycles with hairpin primers to allow sufﬁcient time for all hairpin primers to bind to their targets . 
+This improvement resulted in consistently robust ampli-ﬁcation of all 20 targets , when each target was tested individually using the genomic DNA of S. Typhimurium 14028 strain as a template . 
+To test if this protocol could amplify multiple targets simultaneously , 20 targets were ampliﬁed from the same genomic DNA , using hairpin primers for all 20 targets through 5 cycles . 
+One microliter of the amplicon was then used as the template in the second PCR ampliﬁcation using universal primers . 
+Since all the amplicons were of the same length , the presence of different target sequences could not be detected by gel electrophoresis of the amplicons . 
+Therefore , 7 target genes ( hemD , thrA , purE , sucA , hisD , aroC and dnaN ) were randomly selected from the 20 targets and digested in silico using NEBcutter software V2 .0 ( http://tools.neb.com/NEBcutter2/ ) . 
+Then the restriction enzyme sites that were uniquely present only in each of the 7 selected target genes were searched for . 
+A restriction digestion reaction of the 20-plex amplicons was performed with each of the seven restriction enzymes and analyzed by gel electrophoresis . 
+The result conﬁrmed the presence of each of the 7 targets in the multiplex amplicon at similar levels , with no noticeable ampliﬁcation bias , as judged by the intensities of the digested fragments ( data not shown ) . 
+A 
+Universal primer-F 10bp MID 
+CGTATCGCCTCCCTCGCGCCATCAG OOOOOO 454 primer A OOOO CCTGAATTCGGATGGAATTCATG C CCCGGCCGGCCTGAATTCGGATGGAATTCATGGGCCATTACCTTGAATCTAC-3 ' G G GGGCCGGCCGGACTTAAGCCTACCTTAAGT-5 ' C Hairpin primer-F 
+gene-specific primer sequence 
+Universal primer-R CTATGCGCCTTGCCAGCCCGCTCAG OOOOOOO 
+454 primer B OOO key CTGAATTCGGATGTCTAGAATG C GGGGCCCGGCTGAATTCGGATGTCTAGAATGATAGAACTCATCCTGCATCG-3 ' C G CCCCGGGCCGACTTAAGCCTACAGATCTTAC-5 ' G Hairpin primer-R 
+B 
+Fig. 1 . 
+Hairpin-primed multiplex ampliﬁcation ( HPMA ) . 
+( A ) The design of hairpin primers and universal primers . 
+The 454 platform-speciﬁc sequences ( 454 primers A & B ) , 10 bp multiplex identiﬁer ( MID ) , universal primer binding site and gene-speciﬁc primer sequence are shown . 
+The thrA-speciﬁc sequences are used here as an example . 
+( B ) Schematic diagram of the HPMA procedure . 
+3.3. Multiplex target ampliﬁcation using HPMA
+Multiplex reactions for all 41 Salmonella isolates were performed with universal primers tagged with different MIDs , utilizing the PCR conditions and master mix optimized above . 
+The resulting 20-plex amplicons were checked for each strain by gel electrophoresis . 
+Amplicons from 20-plex ampliﬁcation reaction of all 41 Salmonella strains were pooled together in equal volumes ( 1 μl ) , which was then gel-puriﬁed for 454 pyrosequencing analysis . 
+3.4. Analysis of pyrosequencing data
+A total of 66,291 sequence reads were received from 1/8th plate run using 454 Titanium chemistry platforms for bidirectional sequencing . 
+The number of sequence reads that passed the ﬁltering was 45,852 . 
+The overall distribution of the quality reads across 20 target genes and the range of the read numbers for each gene for each of the 41 strains , are shown in Fig. 2A . 
+The number of total reads for each gene showed great variations , indicating a signiﬁcant bias in ampliﬁcation among different targets . 
+It is not clear what caused this ampli-ﬁcation bias . 
+Also , following analysis of the sequence reads after assembly with SeqMan , it was observed that the consensus target sequence was missing for 2 -- 14 target genes in each strain ( Fig. 2B ) . 
+From the results , it was clear that some target genes were severely underrepresented . 
+Particularly for the genes thrA , ﬂiC and icdA , no assembled target sequence was obtained for the majority of the strains . 
+The only target genes for which the consensus sequences were obtained for all 41 strains were sucA and atpD . 
+3.5. Subtyping by MLST-seq
+The strains with at least one missing target gene sequence can not be included in the analysis for allelic proﬁling . 
+Since many target sequences were missing , a MLST-like analysis using all target gene sequences could not be completed , unless additional sequenc coverage was obtained by more 454 pyrosequencing of the same pooled sample or manual Sanger sequencing of missing target genes . 
+We found that 22 out of 25 S. Heidelberg strains had a complete set of target sequences for all target genes except for thrA , ﬂiC , and icdA ( Fig. 2B ) . 
+Therefore , analyses were carried out with the mo-lecular subtyping data of those 22 S. Heidelberg strains ( marked with `` * '' ) using two different numbers of target genes ( 6 vs. 17 target genes ) . 
+The 17 genes were selected as the maximum number of target genes that can be included in the analysis , and 6 genes ( purE , sucA , hisD , aroC , hemD , and dnaN ) were selected because they are among the 7 genes used in the traditional MLST scheme ( along with thrA , which did not sequence well ) ( Kidgell et al. , 2002 ) . 
+The comparison of the results based on two different numbers of target genes provided insight into the potential advantage of increasing the number of target genes in terms of discriminatory power . 
+The results of phylogenetic analysis , performed using allelic proﬁles obtained based on two different sets of target genes , are shown in Fig. 3 . 
+A 
+B 
+6-gene 
+MLST-seq analysis 
+17-gene 
+MLST-seq analysis 
+not used in MLST-seq 
+Fig. 2 . 
+Summary of 454 pyrosequencing data . 
+( A ) the graph shows the overall number of good quality reads obtained for each target gene ( thick bar ; left Y-axis ) and the range of number of reads aligned to each target gene among 41 different isolates ( thin bar ; right Y-axis ) . 
+( B ) Coverage of the assembled target genes for each of the 41 isolates . 
+The empty box indicates that no consensus sequence was obtained upon assembly of the sequence reads . 
+The target genes are listed from the top in the order of the 6 genes used in 6-gene analysis , the rest of the 11 genes used in 17-gene analysis , and the 3 genes that were not included in MLST-seq analysis . 
+The 22 strains that were included in MLST-seq analysis are marked with `` * '' . 
+The total number of base pairs analyzed in traditional Salmonella MLST with the 7 housekeeping genes is approximately 3336 bp ( http://mlst.ucc.ie/mlst/dbs/Senterica ) , whereas total coverage for the 6 target genes ampliﬁed in this study was 3680 bp in length . 
+The nucleotide coverage of the 17 target genes is 10,399 bp . 
+The allele proﬁling resulted in 22 different MLST types , based on either 6 target genes or all 17 of the target genes ( Fig. 3 ) . 
+Therefore , all of the 22 S. Heidelberg strains had unique allelic patterns . 
+Conversely , only 11 PFGE patterns were observed upon ﬁngerprinting these 22 strains ( Fig. 4 ) . 
+Comparison of the phylogenetic trees demonstrates the superiority of MLST-seq , in terms of discriminatory ability , over PFGE for the given set of 22 S. Heidelberg strains , regardless of whether 6 or 17 target genes were used in the MLST-seq analysis . 
+4. Discussion
+This study describes a novel strategy for target enrichment to aid in simultaneous ampliﬁcation of multiple target gene regions . 
+Several other techniques have been developed in attempts to solve the problems related to multiplexing ( Brownie et al. , 1997 ; Shapero et al. , 2001 ) . 
+The strategy presented here is a straightforward PCR-based strategy devised to simplify and enhance the multiplexing capability . 
+The multiplex reactions have been tested with up to 20 target genes . 
+We have been able to perform multiplex ampliﬁcation on large size amplicons of 666 bp covering more than half of the coding region for most target genes of interest , which is longer than those reported by any other PCR-based target enrichment technique ( Dahl et al. , 2005 , 2007 ; Meuzelaar et al. , 2007 ; Ting et al. , 2009 ) . 
+Also , with the improvement in 454 pyrosequencing by introduction of 454 Titanium chemistry platforms , the sequencing amplicon length has increased substantially to an average of about 400 bp , with total amplicon length recommended to be up to 800 bp for bidirectional sequencing . 
+In this study , identical lengths of PCR amplicons were chosen to obtain optimal uniformity during target enrichment and sequencing with NGS sequencing technologies and to allow improved normalization of the DNA quantity of samples for each multiplex reaction in the ﬁnal pooling of amplicons . 
+However , the sequencing of 782 bp amplicons pushed the sequencing read lengths to their upper limits , whic could have been one of the factors that resulted in uneven distribution of assembled reads and thus a large number of missed targets . 
+We hope to solve this problem by reducing the size of the ampliﬁed products so that they fall farther below the 800 bp limit , which should lead to increased target coverage by assembled reads . 
+In the current study , subtyping of S. Heidelberg isolates by MLST-seq was performed using 17 of the 20 target genes that were selectively ampliﬁed . 
+The remaining three genes ( thrA , ﬂiC and icdA ) could not be used due to the lack of assembled target sequence reads . 
+The lack of these target genes in the ﬁnal assembly may reﬂect the absence of sequence variations in these target genes . 
+Even though including only 6 genes in the current isolate set was sufﬁcient for discriminating all 22 tested strains into unique allele proﬁles , this may not be true for larger or different sets of strains . 
+This higher discriminatory power could have been partly due to the longer amplicons that were utilized in MLST-seq as compared to those of traditional MLST . 
+Even though NGS technologies have drastically cut down the cost and time involved in genome sequencing , target enrichment techniques based on PCR , such as HPMA , will likely hold an important spot for genotypic analysis and understanding bacterial diversity because they could provide a great amount of genotypic information at a relatively low cost . 
+Although some target enrichment protocols based on hybridization allow capturing a much larger set of target sequences , they are much less sensitive or have a lower percentage of the targets represented by one or more sequence reads , than PCR-based enrichment methods ( Mamanova et al. , 2010 ) . 
+Therefore , the use of hybridization-based target enrichment methods would not be suitable for experiments where the same set of the target regions are required for analysis , such as with MLST-seq demonstrated in this study . 
+This proof-of-concept study demonstrated the potential of this novel strain typing method , MLST-seq . 
+We have used Salmonella as a model organism in this study , but MLST-seq can be readily applied to other bacterial species . 
+This method still requires further reﬁnement , particularly in reducing the variations in the number of sequence reads among different targets . 
+There have been continuing efforts to develop more efﬁcient target capturing methods using novel strategies ( Elshire et al. , 2011 ; Johansson et al. , 2011 ; Maricic et al. , 2010 ; Shen et al. , 2011 ) . 
+Employing these methods , which outperform the target capturing method used in this study in many aspects , is expected to accomplish a more even distribution of sequence reads , therefore increasing the coverage of the target genes for each individual strain . 
+On the other hand , more sequencing can contribute to an increase in the target gene coverage , whether it is by additional 454 pyrosequencing of the same pooled sample or individual sequencing of missing targets by the Sanger method . 
+Since this strain typing approach requires only a single good quality assembled read covering the target region , PCR ampliﬁcation and Sanger sequencing of a small number of the missing target genes could be a practical and economical way to increase the target coverage signiﬁcantly . 
+The analyses of sequence data were rather time-consuming in this study . 
+However , if an efﬁcient pipeline for bioinformatics analyses is established , the processing of sequence data to obtain ﬁnal allele types can be done in a shorter amount of time with limited user input . 
+One intrinsic drawback of this method , or for that matter any NGS technology in general , is that we can not perform the analysis on a small scale beyond a certain limit ( e.g. 1/16th region plate is the smallest scale for 454 pyrosequencing run , which produces up to 30,000 reads ) , even when we have only a few samples for strain typing . 
+As NGS technologies develop rapidly and become more widely accessible , it is a reasonable expectation that NGS sequencing facilities will offer more ﬂexible service options for customers . 
+For example , some laboratories offer 454 pyrosequencing service options to mix samples from multiple customers and separate the reads based on barcodes , such that the sequencing can be done even for small scale individual projects . 
+As this type of sequencing service becomes more common , a laboratory technician might perform multiplex ampliﬁcation for individual strains with different barcode tagging , as the new samples come into the testing laboratory , and send the pooled multiplex amplicons for sequencing when a certain number of samples are obtained . 
+In addition , a number of NGS platforms are coming out with bench top sequencer for fast sequencing analysis of smaller scale projects ( e.g. Roche GS Junior , and Illumina MiSeq ) . 
+These benchtop NGS sequencers might be more suitable for routine MLST-seq type of analysis . 
+In summary , we have demonstrated the feasibility of a novel strain typing method , MLST-seq . 
+The major strength of MLST-seq is that the resolution of the typing can be easily increased by adding more target genes in the analysis , even for a large set of typing strains , with a mar-ginal increase in labor and time . 
+In addition , as the sequencing capacity of NGS increases rapidly while the cost is dropping continuously , MLST-seq analysis may become a more practical and economical way for strain typing of an increasing number of strains at highresolution . 
+Supplementary materials related to this article can be found online at doi :10.1016 / j.mimet .2011.11.004 . 
+Fig. 4 . 
+Phylogenetic tree obtained by PFGE patterns . 
+UPGMA dendrogram based on XbaI PFGE macrorestriction proﬁles of Salmonella enterica serovar Heidelberg strains . 
+The dendrogram axis represents percent similarity between strains ( Nayak and Stewart-King , 2008 ) . 
+Fig. 3 . 
+Dendrograms generated by allelic proﬁle analysis . 
+UPGMA dendrogram based on analysis of allelic proﬁles for Salmonella enterica serovar Heidelberg strains . 
+( A ) 6-gene analysis ( B ) 17-gene analysis . 
+Acknowledgements
+This project has been funded by the USDA Food Safety Consortium grant . 
+References 
+Brownie , J. , Shawcross , S. , Theaker , J. , Whitcombe , D. , Ferrie , R. , Newton , C. , Little , S. , 1997 . 
+The elimination of primer -- dimer accumulation in PCR . 
+Nucleic Acids Res . 
+25 , 3235 -- 3241 . 
+Dahl , F. , Gullberg , M. , Stenberg , J. , Landegren , U. , Nilsson , M. , 2005 . 
+Multiplex ampliﬁcation enables by selective circularization of large sets of genomic DNA fragments . 
+Nucleic Acids Res . 
+33 , e71 . 
+Dahl , F. , Stenberg , J. , Fredriksson , S. , Welch , K. , Zhang , M. , Nilsson , M. , Bicknell , D. , Bodmer , W.F. , Davis , R.W. , Ji , H. , 2007 . 
+Multigene ampliﬁcation and massively parallel sequencing for cancer mutation discovery . 
+PNAS 104 , 9387 -- 9392 . 
+Elshire , R.J. , Glaubitz , J.C. , Sun , Q. , Poland , J.A. , Kawamoto , K. , Buckler , E.S. , Mitchell , S.E. , 2011 . 
+A robust , simple genotyping-by-sequencing ( GBS ) approach for high diversity species . 
+PLoS One 6 , e19379 . 
+Fakhr , M.K. , Nolan , L.K. , Logue , C.M. , 2005 . 
+Multilocus sequence typing lacks the discriminatory ability of pulsed-ﬁeld gel electrophoresis for typing Salmonella enterica Serovar typhimurium . 
+J. Clin . 
+Microbiol . 
+43 , 2215 -- 2219 . 
+Fan , J.-B. , Chee , M.S. , Gunderson , K.L. , 2006 . 
+Highly parallel genomic assays . 
+Nat . 
+Rev. Genet . 
+7 , 632 -- 644 . 
+Harbottle , H. , White , D.G. , McDermott , P.F. , Walker , R.D. , Zhao , S. , 2006 . 
+comparison of multilocus sequence typing , pulsed-ﬁeld gel electrophoresis , and antimicrobial susceptibility typing for characterization of Salmonella enterica Serotype newport isolates . 
+J. Clin . 
+Microbiol . 
+44 , 2449 -- 2457 . 
+Johansson , H. , Isaksson , M. , Sörqvist , E.F. , Roos , F. , Stenberg , J. , Sjöblom , T. , Botling , J. , Micke , P. , Edlund , K. , Fredriksson , S. , Kultima , H.G. , Ericsson , O. , Nilsson , M. , 2011 . 
+Targeted resequencing of candidate genes using selector probes . 
+Nucleic Acids Res . 
+39 , e8 . 
+Kidgell , C. , Reichard , U. , Wain , J. , Linz , B. , Torpdahl , M. , Dougan , G. , Achtman , M. , 2002 . 
+Salmonella typhi , the causative agent of typhoid fever , is approximately 50,000 years old . 
+Infect . 
+Genet . 
+Evol . 
+2 , 39 -- 45 . 
+Kotetishvili , M. , Stine , C.O. , Kreger , A. , Morris , G.J.J. , Sulakvelidze , A. , 2002 . 
+Multilocus sequence typing for characterization of clinical and environmental Salmonella strains . 
+J. Clin . 
+Microbiol . 
+40 , 1626 -- 1635 . 
+Maiden , M.C.J. , Bygraves , J.A. , Feil , E. , Morelli , G. , Russell , J.E. , Urwin , R. , Zhang , Q. , Zhou , J. , Zurth , K. , Caugant , D.A. , Feavers , I.M. , Achtman , M. , Spratt , B.G. , 1998 . 
+Multilocus sequence typing : a portable approach to the identiﬁcation of clones within populations of pathogenic microorganisms . 
+PNAS 95 , 3140 -- 3145 . 
+Mamanova , L. , Coffey , A.J. , Scott , C.E. , Kozarewa , I. , Turner , E.H. , Kumar , A. , Howard , E. , Shendure , J. , Turner , D.J. , 2010 . 
+Target-enrichment strategies for next-generation sequencing . 
+Nat . 
+Methods 7 , 111 -- 118 . 
+Maricic , T. , Whitten , M. , Pääbo , S. , 2010 . 
+Multiplexed DNA sequence capture of mitochondrial genomes using PCR products . 
+PLoS One 5 , e14004 . 
+Meuzelaar , L.S. , Lancaster , O. , Pasche , J.P. , Kopal , G. , Brookes , A.J. , 2007 . 
+MegaPlex PCR : a strategy for multiplex ampliﬁcation . 
+Nat . 
+Methods 4 , 835 -- 837 . 
+Nayak , R. , Stewart-King , T. , 2008 . 
+Molecular epidemiological analysis and microbial source tracking of Salmonella enterica Serovars in a preharvest Turkey production environment . 
+Foodborne Pathog . 
+Dis . 
+5 , 115 -- 126 . 
+Ribot , E. , Fair , M. , Gautom , R. , Cameron , D. , Hunter , S. , Swaminathan , B. , Barett , T. , 2006 . 
+Standardization of pulse-ﬁeld gel electrophoresis protocols for the subtyping of Escherichia coli O157 : H7 , Salmonella and Shigella for PulseNet . 
+Foodborne Pathog . 
+Dis . 
+3 , 59 -- 67 
+Settanni , L. , Corsetti , A. , 2007 . 
+The use of multiplex PCR to detect and differentiate food-and beverage-associated microorganisms : a review . 
+J. Microbiol . 
+Methods 69 , 1 -- 22 . 
+Shapero , M.H. , Leuther , K.K. , Nguyen , A. , Scott , Melissa , Jones , K.W. , 2001 . 
+SNP genotyping by multiplexed solid-phase ampliﬁcation and ﬂuorescent minisequencing . 
+Ge-nome Res . 
+11 , 1926 -- 1934 . 
+Shen , P. , Wang , W. , Krishnakumar , S. , Palm , C. , Chi , A.K. , Enns , G.M. , Davis , R.W. , Speed , T.P. , Mindrinos , M.N. , Scharfe , C. , 2011 . 
+High-quality DNA sequence capture of 524 disease candidate genes . 
+Proc . 
+Natl. Acad . 
+Sci . 
+U. S. A. 108 , 6549 -- 6554 . 
+Sukhnanand , S. , Alcaine , S. , Warnick , L.D. , Su , W.-L. , Hof , J. , Craver , M.P.J. , McDonough , P. , Boor , K.J. , Wiedmann , M. , 2005 . 
+DNA sequence-based subtyping and evolutionary analysis of selected Salmonella enterica Serotypes . 
+J. Clin . 
+Microbiol . 
+43 , 3688 -- 3698 . 
+Tankouo-Sandjong , B. , Sessitsch , A. , Liebana , E. , Kornschober , C. , Allerberger , F. , Hächler , H. , Bodross , L. , 2007 . 
+MLST-v , multilocus sequence typing based on virulence genes , for molecular typing of Salmonella enterica subsp . 
+enterica serovars . 
+J. Microbiol . 
+Methods 69 , 23 -- 36 . 
+Ting , N. , Han , W. , Shen , S. , Mark , J. , Jun , Z. , 2009 . 
+Selective gene ampliﬁcation for highthroughput sequencing . 
+Recent Pat . 
+DNA Gene Seq. 3 , 29 -- 38 . 
+Wang , H.-Y. , Luo , M. , Tereshchenko , I.V. , Frikker , D.M. , Cui , X. , Li , J.Y. , Hu , G. , Chu , Y. , Azaro , M.A. , Lin , Y. , Shen , L. , Yang , Q. , Kambouris , M.E. , Gao , R. , Shih , W. , Li , H. , 2005 . 
+A genotyping system capable of simultaneously analyzing > 1000 single nucleotide polymorphisms in a haploid genome . 
+Genome Res . 
+15 , 276 -- 283

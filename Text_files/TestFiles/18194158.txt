@@ -1,0 +1,399 @@
+Molecular Microbiology ( 2008 ) 67 ( 5 ) , 971 -- 983 
+doi :10.1111 / j.1365-2958.2007.06089.x First published online 8 January 2008 
+Biosynthesis and IroC-dependent export of the siderophore 
+salmochelin are essential for virulence of Salmonella
+enterica serovar Typhimurium 
+Marie-Laure V. Crouch ,1 Margaret Castor ,1 Joyce E. Karlinsey ,2 Thomas Kalhorn3 and Ferric C. Fang1 ,2 * Departments of 1Laboratory Medicine , 2Microbiology , and 3Medicinal Chemistry , University of Washington , Seattle , WA 98195 , USA . 
+Summary
+In response to iron deprivation , Salmonella enterica serovar Typhimurium secretes two catecholate-type siderophores , enterobactin and its glucosylated derivative salmochelin . 
+Although the systems responsible for enterobactin synthesis and acquisition are well characterized , the mechanisms of salmo-chelin secretion and acquisition , as well as its role in Salmonella virulence , are incompletely understood . 
+Herein we show by liquid chromatography-mass spectrometry analysis of culture supernatants from wild type and isogenic mutant bacterial strains that the Major Facilitator Superfamily pump EntS is the major exporter of enterobactin and the ABC transporter IroC exports both salmochelin and enterobactin . 
+Growth promotion experiments demonstrate that IroC is not required for utilization of Fe-enterobactin or Fe-salmochelin , as had been previously suggested , but the ABC transporter protein FepD is required for utilization of both siderophores . 
+Salmonella mutants deﬁcient in salmochelin synthesis or secretion exhibit reduced virulence during systemic infection of mice . 
+Introduction
+Iron is an essential element for many biological processes of bacterial pathogens , but mammalian hosts limit iron availability in tissues , body ﬂuids and serum by producing the iron-binding proteins lactoferrin and transferrin ( Hentze et al. , 2004 ) . 
+These glycoproteins effectively restrict iron to a concentration approximating 10-18 M that 
+Accepted 12 December , 2007 . 
+* For correspondences . 
+E-mail fcfang@u.washington.edu; Tel. ( +1 ) 206 221 6770 ; Fax ( +1 ) 206 616 1575 . 
+is inadequate to sustain bacterial growth . 
+Intracellular pathogens ﬁnd that iron is also restricted in the intracellular environment , resulting from sequestration by storage proteins called ferritins or active efflux from cellular compartments via specialized pumps ( Kaplan , 2002 ; Lam-Yuk-Tseung et al. , 2003 ; Hentze et al. , 2004 ; Nairz and Weiss , 2006 ) . 
+To obtain iron despite withholding by the host , bacteria secrete small molecules called sidero-phores , which have the capacity to chelate iron with high affinity ( Schaible and Kaufmann , 2004 ) . 
+In response to iron limitation , all pathogenic Salmonella serovars produce the catecholate siderophore enterobactin , and all serovars with the exception of Salmonella bongori also produce the C-glucosylated enterobactin derivative salmochelin ( Baumler et al. , 1998 ; Hantke et al. , 2003 ) . 
+Certain clinical isolates of Salmonella Typhimurium can produce hydroxamate siderophores ( Rabsch et al. , 1987 ; Kingsley et al. , 1996 ) , and excreted a-keto acids can also bind iron and support growth under iron-limiting conditions ( Reissbrodt et al. , 1997 ) . 
+Much is known about the synthesis and subsequent acquisition of iron-loaded enterobactin and other siderophores . 
+However , the means by which newly synthesized siderophores are secreted by bacterial cells are incompletely understood . 
+It is clear that an active mechanism is required , as the size and charge of siderophore molecules prevent their passive diffusion from the cell ( Furrer et al. , 2002 ) . 
+Presumably to coordinate secretion with synthesis , many loci containing genes for side-rophore synthesis also encode an efflux pump . 
+For instance , the entS ( ybdA ) gene located between fepB and fepD in the enterobactin locus ( Fig. 1A ) encodes a 12 trans-membrane domain-containing efflux pump belonging to the Major Facilitator Superfamily ( MFS ) that was shown to secrete enterobactin in Escherichia coli ( Furrer et al. , 2002 ) . 
+The enterobactin secretion process also appears to require the outer membrane channel TolC ( Bleuel et al. , 2005 ) . 
+Secretion of siderophores in S. Typhimurium is complicated by the fact that a portion of enterobactin is C-glucosylated by IroB , a glucosyl transferase encoded within the iroA gene cluster ( iroBCDE iroN , Fig. 1A ) ( Hantke et al. , 2003 ; Fischbach et al. , 2005 ) . 
+This modiﬁed enterobactin , designated salmochelin ( Fig. 1B ) , was reported to comprise the majority of siderophore produced by Salmonella Typhimu-rium ( Hantke et al. , 2003 ; Bister et al. , 2004 ) . 
+The addition of two carbohydrate moieties to enterobactin gives the molecule distinctive properties that affect its biology ( Luo et al. , 2006 ) , including reduced hydrophobicity and an inability to be bound by the host protein siderocalin ( also known as lipocalin-2 or 24p3 ) ( Fischbach et al. , 2006 ) . 
+The mechanism by which Salmonella secretes salmo-chelin has not been established . 
+A candidate ABC ( ATPBinding Cassette ) transporter designated IroC is encoded within the iroA gene cluster . 
+Conserved domain analysis of IroC suggests that it is a prototypical four-domain ABC exporter similar to the eukaryotic ABC multi-drug transporter , P-glycoprotein ( Ambudkar et al. , 2003 ) . 
+However , Zhu et al. have recently suggested that IroC might mediate salmochelin uptake in the absence of the FepBDGC , the ABC transporter normally responsible for this function ( Zhu et al. , 2005 ) . 
+Despite a wealth of research on enterobactin and its function in E. coli pathogenesis , evidence for a role of enterobactin and salmochelin in Salmonella virulence has been conﬂicting . 
+Yancey reported that a chemically mutagenized strain lacking enterobactin or salmochelin production was highly attenuated for virulence following intraperitoneal inoculation of Salmonella enterica serovar Typhimurium ( S. Typhimurium ) into outbred mice ( Yancey et al. , 1979 ) . 
+However , subsequent studies were unable to conﬁrm these ﬁndings ( Benjamin et al. , 1985 ) . 
+Tsolis et al. found no effect of a tonB mutation , which abrogated siderophore uptake , on S. Typhimurium virulence after intraperitoneal inoculation , while intragastric infection showed reduced numbers of tonB mutant bacteria in mesenteric lymph nodes ( Tsolis et al. , 1996 ) . 
+More recent investigations found S. Typhimurium carrying deletions in fepA and iroN , encoding the two major siderophore receptors , to be fully virulent , although a Salmonella strain lacking fepA , iroN and cir , encoding a receptor for entero-bactin and salmochelin degradation products , was attenuated by both intravenous and intragastric routes of infection in the mouse model ( Rabsch et al. , 2003 ; Will-iams et al. , 2006 ) . 
+Fischbach et al. recently provided supportive evidence for a role of salmochelin synthesis in bacterial pathogenesis , demonstrating that E. coli heter-ologously expressing iroA has increased virulence in mice after intraperitoneal inoculation of > 107 colony-forming units ( cfu ) ( Fischbach et al. , 2006 ) . 
+The purpose of this study was to examine several aspects of Salmonella siderophore biology : ( i ) the requirement for siderophore synthesis , secretion and uptake during growth under iron-limiting conditions , ( ii ) the role of the entS - and iroC-encoded pumps in the secretion of enterobactin and salmochelin and ( iii ) the function of siderophores during systemic infection . 
+We report that overlapping transporter systems are responsible for enterobactin and salmochelin export and uptake , and demonstrate an essential role for salmochelin production in the pathogenesis of systemic Salmonella infections . 
+Fig. 1 . 
+Siderophores of Salmonella Typhimurium . 
+A. Genetic organization of the enterobactin ( ent ) and salmochelin ( iroA ) synthetic ( black arrows ) , export ( white arrows ) , and utilization ( grey arrows ) loci ( not to scale ) . 
+B. Chemical structures and ions ( m/z ) of enterobactin , salmochelin and degradation products analysed in this study . 
+Results
+Siderophore products in culture supernatants of wild type and mutant Salmonella
+An assay was developed to quantitatively compare sid-erophore secretion by various Salmonella strains . 
+Previous methods processed culture supernatants by organic extraction and evaporation prior to chromatographic analysis of siderophores ( Furrer et al. , 2002 ; Bleuel et al. , 2005 ) . 
+In order to precisely quantify siderophore concentrations with minimal sample processing , we established that ﬁltered supernatants from cultures incubated for 14 -- 16 h ( see Experimental procedures ) could be subjected to direct liquid chromatography-mass spectrometry ( LC-MS ) analysis without acidiﬁcation , extraction or concentration of samples . 
+Representative LC-MS spectra for wild-type S. Typhimurium grown for 15 h in M9-0 .2 % arabinose ( Fig. 2A ) demonstrated that cyclic enterobactin ( Ent ) and salmochelin ( S4 ) could be readily measured , with linear trimers ( DHBS3 and S2 ) undetectable under these conditions at this stage of growth . 
+In contrast , supernatants obtained from cultures harvested at 18 -- 20 h contained a greater proportion of DHBS3 and S2 but little intact enterobactin or salmochelin . 
+All subsequent experiments were performed on supernatants collected after 15 h growth . 
+By this procedure , we found that superna-tants from wild-type Salmonella contain 10-fold more enterobactin than salmochelin S4 , with enterobactin comprising 33 % of the total siderophore products measured . 
+Although salmochelin S4 represented only 2.7 % of total siderophore products in the supernatant , salmochelin degradation products S1 and SX accounted for 44 % of the total , while enterobactin dimer and monomer ( DHBS2 and DHBS1 ) comprised only 19 % . 
+To further validate our experimental procedure , the secretion proﬁle of wild-type Salmonella was compared with entC ( DentC : : aph ) and entB ( DentB : : cat ) siderophore-deﬁcient mutant strains , as well as mutant strains deﬁcient in salmochelin production because of the deletion of either the entire iroA gene cluster comprising genes involved in synthesis , uptake , utilization and possibly export ( DiroBCDE iroN : : aph , see Fig. 1A ) , or the iroB-encoded glucosylase alone ( DiroB : : aph ) . 
+As anticipated , no siderophore products were detected from entC ( Fig. 2B ) and entB mutants ( data not shown ) , while supernatants from mutants lacking either the glucosylase iroB or the entire iroA cluster lacked all salmochelin products ( Fig. 2B and data not shown ) . 
+The latter mutant strains , unable to produce salmochelin , exhibited a concomitant increase in enterobactin secretion , averaging two-fold higher levels than wild type . 
+As stated above and in contrast to previous reports ( Hantke et al. , 2003 ) , we did not consistently detect linear trimers of enterobactin and salmochelin under these experimental conditions , except in iroB and iroA mutants for which 
+Fig. 2 . 
+Representative chromatograms of supernatants from wild type and mutant Salmonella strains using liquid chromatographymass spectrometry ( LC-MS ) . 
+Culture supernatants were prepared as described in Experimental procedures and analysed by LC-MS . 
+A. Each wild-type sample was analysed twice . 
+The chromatograms shown were obtained from a single sample interrogated for salmochelin ( upper ) or enterobactin ( lower ) products respectively . 
+Enterobactin and salmochelin were measured in both chromatographs as internal controls . 
+The percentage of each siderophore product described in the text is based on a total peak area of 348 632 with salmochelin S4 and enterobactin counted once . 
+B. Salmochelin S4 and enterobactin chromatograms from supernatants of wild type and isogenic entC , iroB and iroA mutant S. Typhimurium strains are compared . 
+Peak intensity is normalized , with the highest peak assigned a value of 100 . 
+Peaks were identiﬁed using commercial HPLC-grade standards ( data not shown ) . 
+DHBS3 was a prominent component of the overall sidero-phore proﬁle . 
+Consistent with their siderophore proﬁles , iroB and iroA mutants did not display a growth defect under iron-limiting conditions , whereas the siderophore-null entC and entB strains exhibited severely reduced growth rates compared with wild type ( data not shown ) . 
+Salmonella requirement for IroC and EntS under iron-restricted conditions
+In E. coli , enterobactin is secreted by EntS , an efflux pump belonging to the MFS ( Furrer et al. , 2002 ) , and the outer membrane channel TolC ( Bleuel et al. , 2005 ) . 
+The mechanism of salmochelin secretion is presently uncharacterized , although iroC in the salmochelin synthetic locus encodes a putative ABC transporter of uncertain function . 
+Some investigators have suggested that IroC might be involved in the uptake of ferric-salmochelin into the cytoplasm ( Zhu et al. , 2005 ) , rather than in export . 
+The growth of wild-type S. Typhimurium or isogenic derivatives with deletions of one or both genes encoding the putative export pumps entS ( DentS : : cat ) and iroC ( DiroC : : FRT ) was measured in Luria -- Bertania ( LB ) supplemented with 200 mM of the extracellular iron chelator DTPA and 0.2 % arabinose . 
+Wild-type Salmonella and an isogenic entS mutant strain grew at similar rates of about 0.54 generations per hour ( Fig. 3A and additional data not shown ) . 
+In contrast , the iroC mutant had a growth rate of 0.18 , and the entS iroC double mutant was severely compromised with a growth rate of 0.06 . 
+The iroC gene was cloned on the high copy arabinose-inducible vector pBAD33 ( see Experimental procedures ) . 
+Expression in trans of iroC in the iroC and entS iroC mutants restored the growth rates of these strains to wild-type levels ( Fig. 3A ) . 
+The growth of iroC or entS iroC strains was unimpaired ( data not shown ) in M9 minimal medium with an iron concentration less than 2 mM in the absence of a chelator , suggesting that growth impairment of these strains in LB-DTPA results from impaired iron acquisition . 
+Siderophore-independent iron uptake in the absence of DTPA can be mediated by the Fe ( II ) transporters feoAB and sitABCD ( Kammler et al. , 1993 ; Zhou et al. , 1999 ) . 
+Fig. 3 . 
+Growth promotion experiments . 
+Overnight LB cultures of wild-type Salmonella and indicated mutant strains were diluted to 4 ¥ 105 cfu ml-1 in fresh LB medium supplemented with 200 mM DTPA . 
+Growth was monitored for up to 24 h on a Bioscreen C microplate reader with agitation at 37 °C . 
+Data represent the mean of two independent cultures for each strain and are representative of three independent experiments . 
+A. Growth in iron-restricted medium supplemented with 0.2 % arabinose , of the iroC pBAD30 ( red ) and entS iroC pBAD30 ( green ) mutants , and iroC pBAD30 : iroC ( teal ) and iroC entS pBAD30 : iroC ( yellow ) complemented with pBAD30 : iroC , was compared with wild-type Salmonella pBAD30 ( dark blue ) . 
+B. Overnight cultures of wild type , entC ( yellow ) iroC entC ( teal ) , fepD entC ( green ) and iroC fepD entC ( pink ) mutant strains were prepared as outlined above , with or without the addition of 5 mM ferric-enterobactin ( Fe-Ent ) or ferric-salmochelin S4 ( Fe-S4 ) . 
+Growth of wild-type Salmonella ( dark blue ) is shown for comparison . 
+C. Growth of wild-type Salmonella , entC pJK537 ( yellow ) , fepD entC pJK537 ( green ) and fepD entC pjK537 : fepDGC ( red ) was monitored in LB-DTPA-arabinose ( 0.2 % ) with Fe-Ent or Fe-S4 supplementation as described in part B. Wild-type Salmonella pJK537 ( dark blue ) is shown for comparison purposes . 
+Salmonella siderophore secretion by IroC and EntS Siderophore secretion proﬁles of wild-type Salmonella or isogenic mutants carrying deletions in one or both genes encoding the pumps EntS and IroC were determined in M9-0 .2 % arabinose . 
+The entS mutant secreted 71 % less enterobactin than wild type ( Fig. 4 ) , conﬁrming that EntS is the major exporter of enterobactin . 
+Secretion of salmochelin S4 was increased twofold in the entS mutant ( Fig. 4 ) , possibly accounting for the absence of a growth defect under iron-limiting conditions . 
+Increased salmochelin secretion most likely reﬂected increased glucosylation of accumulating enterobactin and subsequent export via an EntS-independent mechanism . 
+Our results conﬁrm the role of EntS in enterobactin secretion and suggest that salmochelin is secreted in an EntS-independent manner . 
+The culture supernatant of a mutant lacking the ABC-type exporter IroC did not contain detectable salmochelin S4 ( Fig. 4 ) and contained 60 % , and 30 % less salmochelin S1 and SX respectively . 
+The iroC mutant also secreted 44 % less enterobactin than wild type , while DHBS2 and DHBS1 levels were similar to or higher than wild-type levels ( data not shown ) . 
+These results suggest that iroC is required for salmochelin secretion and may also play a role in enterobactin export . 
+The absence of either entero-bactin or salmochelin in the culture supernatant of a strain carrying deletions in both entS and iroC is consistent with this interpretation ( Fig. 4 and Table 1 ) . 
+Furthermore , while the entS iroC double mutant secreted twice the amounts of DHBS1 and SX compared with wild-type Salmonella , the growth of this strain remained poor in iron-restricted LB medium , suggesting that secreted siderophore mono-mers are inefficient at acquiring iron under these experimental conditions ( Fig. 3A ) . 
+Finally , the iroC gene cloned on the low-copy vector pJK537 under the control of an arabinose-inducible promoter ( see Experimental procedures ) was used to complement the iroC and entS iroC double mutants . 
+As before , the strains were grown in minimal M9 medium supplemented with 0.2 % arabinose . 
+Mass spectrometric analysis of culture supernatants ( Fig. 4 ) showed that the iroC mutant strain expressing the ABC transporter in trans secreted nearly twice ( 176 % ) as much salmochelin S4 as wild-type cells , conﬁrming the role of IroC as a salmoch-elin export pump . 
+Furthermore , overexpression of iroC more than doubled the quantity of enterobactin in supernatants compared with wild type ( Fig. 4 ) . 
+Complementation of the entS iroC double mutant with the plasmid-encoded iroC also resulted in a nearly twofold increase in S4 secretion compared with wild-type Salmo-nella ( Fig. 4 ) . 
+The supernatant of the complemented double mutant contained approximately half the quantity of enterobactin seen in wild-type bacteria , consistent with a supporting role for IroC in enterobactin secretion . 
+Fig. 4 . 
+LC-MS analysis of culture supernatants from entS , iroC and entS iroC mutant S. Typhimurium . 
+LC-MS chromatograms for salmochelin S4 ( left ) and enterobactin ( right ) from siderophore pump mutants and complemented strains are shown . 
+Peak intensities are normalized , with the highest peak set to 100 . 
+Numbers above each peak represent actual retention time during HPLC separation . 
+Table 1 . 
+Per cent distribution of siderophore products detected in culture supernatants . 
+Per cent Salmochelin Per cent Enterobactin 
+Strains Total areaa S4 S1 SX Ent DHBS2 DHBS1 
+3.4 b 13.4 NDc 5.4 NDc 7.2 
+11.5 29.4 25.6 12.6 27.1 20.7 
+6.9 
+28.3 17.4 25.0 57.2 NDc 17.6 
+30.5 21.2 30.8 10.5 66.5 26.7 
+19.4 8.1 9.7 7.1 NDc 16.9 
+177 234 84 569 132 816 195 466 160 516 140 903 
+Wild-type pJK537 entS pJK537 iroC pJK537 iroC piroC entS iroC pJK537 entS iroC piroC 
+10.5 8.9 7.4 6.5 10.1 
+a. Total area refers to the sum of all peak areas from LC-MS spectra of the siderophores and their degradation products ( S4 , S1 , SX , Ent , DHBS2 , DHBS1 ) from 10 ml of prepared supernatants . 
+b. Percentage of the total area for each ion quantiﬁed by LC-MS for each strain . 
+c. None detected . 
+Requirement for the inner membrane protein FepD but not IroC in salmochelin uptake
+Enterobactin uptake has been extensively characterized . 
+The iron-loaded siderophore is taken up by the outer membrane receptor-channel FepA and transported to the periplasm where it is bound by the FepB binding protein ( Sprencel et al. , 2000 ) and delivered to the ABC transporter FepDGC for transport into the cytoplasm ( Payne and Rey , 2004 ) . 
+The uptake system for Fe-salmochelin is less well deﬁned . 
+IroN is the outer membrane receptor for salmochelin ( Hantke et al. , 2003 ) , but FepB does not seem to function as a periplasmic binding protein for this siderophore according to earlier investigators ( Zhu et al. , 2005 ) . 
+To identify transporters required for translocation of Fe-salmochelin across the inner membrane , DiroC : : FRT ( ABC-family exporter ) and DfepD : : cat ( integral membrane component of ABC-type importer involved in enterobactin uptake ) mutations were introduced into an DentC : : aph mutant unable to synthesize siderophores . 
+Growth of all DentC strains was poor under low-iron conditions ( Fig. 3B ) compared with wild-type Salmonella . 
+Cultures were supplemented with 5 mM of Fe-enterobactin ( Fe-Ent ) , Fe-salmochelin ( Fe-S4 ) or deferoxamine ( DFO ) , and bacterial growth was monitored for 24 h. Deferoxamine uptake is independent of the enterobactin system , utilizing instead the outer membrane receptor FoxA and the cytoplasmic ABC transporter FhuBCD ( Kingsley et al. , 1999 ) . 
+Consequently , the addition of deferoxamine as an iron source restored growth of each of the DentC strains to wild-type levels ( 0.7 ) ( data not shown ) . 
+As expected , strains lacking fepD were unable to grow in the presence of Fe-enterobactin ( Fig. 3B ) , while entC and iroC entC strains regained growth rates similar to wild type ( 0.67 ) . 
+The addition of 5 mM Fe-salmochelin S4 comparably increased the growth rates of entC and iroC entC mutants , demonstrating that iroC is not involved in salmo-chelin uptake ( Fig. 3B ) . 
+However , the addition of a fepD mutation essentially eliminated short-term growth stimulation by salmochelin S4 , indicating that the FepDGC ABC transporter is involved in uptake of salmochelin . 
+The fepDGC locus was cloned on the low-copy arabinose-inducible vector pJK537 and transformed into the fepD entC mutant strains . 
+As shown in Fig. 3C , expression in trans of FepDGC restored the ability of Salmonella to utilize Fe-Enterobactin as an iron source by increasing the growth rate from 0.005 without Fe-Ent to 0.9 with addition of the siderophore . 
+Furthermore , complementation with pJK537 : fepDGC also allowed a growth rate on Fe-S4 of 0.4 , comparable to the entC mutant when similarly supplemented , demonstrating that uptake of iron-loaded salmochelin requires the FepDGC ABC transporter . 
+Similar experiments using a fepB mutant also demonstrated a role for the periplasmic binding protein in salmo-chelin S4 utilization ( data not shown ) . 
+Requirement for siderophore synthesis and secretion in Salmonella virulence 
+Previous studies have failed to ﬁrmly establish a role for enterobactin and salmochelin synthesis in Salmonella virulence during systemic infection of mice ( Yancey et al. , 1979 ; Benjamin et al. , 1985 ; Tsolis et al. , 1996 ; Rabsch et al. , 2003 ) . 
+We examined the virulence phenotype of Salmonella strains defective in siderophore secretion by injecting C3H/HeN ( Nramp1 + , Ity r ) mice intraperitoneally with wild-type Salmonella or isogenic entS , iroC and entS iroC mutant strains . 
+As shown in Fig. 5A , mice infected with entS mutant and wild-type Salmonella succumbed to infection at a virtually identical rate . 
+In contrast , mice infected with the iroC mutant strain had a delayed time of death ( P-value 0.06 ) , and the entS iroC double mutant showed an even greater delay and fewer animals succumbing to infection ( P < 0.05 , Fig. 5A ) . 
+These results suggest that the secretion of siderophores plays a role in Salmonella virulence . 
+Mice were similarly challenged with entC , entB and iroB mutant strains deﬁcient in siderophore synthesis . 
+These three mutant strains demonstrated comparably reduced virulence in comparison to wild type ( P < 0.05 , Fig. 5B ) . 
+In addition , infected mouse livers were harvested on days 3 , 5 or 7 post infection , plated on LB agar and bacteria enumerated after 18 h growth at 37 °C . 
+Median bacterial counts showed that the mice infected with siderophore mutant strain had lower bacterial loads in the liver on all three days ( Fig. 5C ) . 
+Measurements from the ﬁfth day post infection demonstrated the most signiﬁcant difference ( 10-fold ) compared with wild typeinfected mice ( P < 0.05 , Fig. 5D ) . 
+These observations provide clear evidence for a role of salmochelin in Salmonella virulence . 
+A and B. Six to 8-week-old C3H/HeN mice were inoculated i.p. with 2.5 -- 3.0 ¥ 103 cfu of either wild-type ( ) Salmonella strain 14028s or the isogenic siderophore secretion mutants ( A ) entS ( ) , iroC ( ) , entS iroC ( ) or the siderophore synthetic mutants ( B ) entC ( ) , entB ( ) and iroB ( ) . 
+Data for each strain represent two groups of 5 mice assayed independently . 
+For clarity , results are presented in two panels . 
+Wilcoxon test for homogeneity of survival showed that mice infected with entC , entB , iroB and entS iroC mutant strains had P 0.05 , while P-values for iroC and entS mutant-infected mice were 0.06 and 0.8 respectively . 
+C. Quantiﬁcation of bacterial burden of mouse livers at days 3 , 5 and 7 post infection with wild-type S. Typhimurium strain 14028s or isogenic mutant strains deﬁcient in siderophore synthesis ( entC , entB and iroB ) . 
+Data are presented as median bacterial load of two independent experiments consisting each of 5 mice per Salmonella strain per day harvested . 
+Asterisk denotes P < 0.05 ( Wilcoxon Rank Sum ) for day 3 and 7 cfu counts . 
+See part D for day 5 statistical analysis . 
+D. Scatter plot of liver bacterial burden at day 5 post infection . 
+Each symbol represents the cfu counts from an individual mouse liver . 
+Bars represent the median cfu for each group . 
+Wilcoxon rank sum showed P < 0.05 for all strains . 
+Discussion
+Iron withholding resulting from sequestration by proteins such as lactoferrin and transferrin is critically important for the innate resistance of mammalian hosts to microbial infection . 
+Bacteria secrete small secondary metabolites called siderophores that compete with host proteins for iron and can be re-assimilated via speciﬁc transport systems ( Schaible and Kaufmann , 2004 ) . 
+S. Typhimurium synthesizes two catecholate siderophores : enterobactin and the recently described diglucosylated derivative salmochelin ( Fig. 1B ) ( Hantke et al. , 2003 ; Payne and Rey , 2004 ) . 
+The mechanisms of siderophore export from bacterial cells have been relatively less characterized than the pathways of synthesis and uptake . 
+The siderophore export systems identiﬁed to date represent at least two major superfamilies of export pumps , the ATP-Binding Cassette ( ABC ) transporters and the MFS . 
+ExiT , the putative exochelin pump of Mycobacterium smegmatis ( Zhu et al. , 1998 ) , and PvdE and PchHI , exporters of pyoverdin and pyochelin respectively ( Reimmann et al. , 
+2001 ; Ochsner et al. , 2002 ) , are ABC transporters related to the multi-drug resistance ( MDR ) pump P-glycoprotein ( Ambudkar et al. , 2003 ; Hantke et al. , 2003 ) . 
+MFS-type pumps appear to be responsible for the exportation of azotochelin , alcaligin , vibrioferrin and enterobactin ( Furrer et al. , 2002 ; Page et al. , 2003 ; Brickman and Armstrong , 2005 ; Tanabe et al. , 2006 ) . 
+In E. coli and Salmonella , the entS ( ybdA ) gene encoding a putative MFS pump for enterobactin secretion is located within the enterobactin synthesis and uptake gene cluster ( Fig. 1A ) . 
+In the present study , LC-MS analysis of wild type and entS mutant culture supernatants conﬁrmed that EntS is responsible for enterobactin secretion in Salmonella ( Fig. 4 and Table 1 ) , as in E. coli . 
+However , the normal growth of an entS mutant under iron-limiting conditions ( data not shown ) and the absence of a virulence phenotype in mice ( Fig. 5A ) suggest that enterobactin and EntS play relatively minor roles in Salmonella pathogenesis . 
+Secretion of salmochelin ( S4 ) is actually elevated twofold in an entS mutant ( Fig. 4 ) , indicating that EntS is not responsible for salmochelin secretion . 
+Enterobactin accumulating in the cytoplasm of an entS mutant strain evidently can still be modiﬁed and exported in its glycosylated form ( S4 ) . 
+IroC , encoded within iroBCDEiroN ( iroA ) ( Fig. 1A ) , is closely related to the MDR subfamily of ABC transporters that consist of a single polypeptide with duplicate nucleotide binding domains ( NBD ) and trans-membrane domains ( TMD ) . 
+As such , IroC might be predicted to be involved in siderophore export rather than uptake ( Ambudkar et al. , 2003 ; Hantke et al. , 2003 ) . 
+Our observations conﬁrm this prediction : the culture supernatant of a Salmonella iroC mutant contained no salmochelin S4 ( Fig. 4 ) and reduced levels of S1 dimer ( Table 1 ) . 
+Expression of iroC on a plasmid in trans restored secretion of salmochelin S4 by the iroC mutant to wild-type levels . 
+In contrast to an entS mutation , deletion of iroC and the loss of salmochelin secretion resulted in a signiﬁcant growth defect under iron-limiting conditions in comparison to wildtype Salmonella ( Fig. 3A ) . 
+This is consistent with the irreversibility of enterobactin glucosylation ( Fischbach et al. , 2005 ) , which prevents conversion of salmochelin back to enterobactin to compensate for an iroC mutation . 
+The culture supernatant of an entS iroC double mutant contained no intact siderophores and elevated levels of DHBS1 and SX , the monomeric forms of enterobactin and salmochelin respectively ( Table 1 ) . 
+This mutant exhibited a severe growth defect in low-iron medium ( Fig. 3A ) and was almost completely avirulent in a mouse model ( Fig. 5A ) providing further evidence for the importance of siderophore synthesis in Salmonella pathogenesis . 
+Ferric-enterobactin utilization requires the periplasmic binding protein FepB to shuttle iron-loaded siderophore from the outer membrane receptor FepA to the inner membrane transporter FepDGC for subsequent transport to the cytoplasm and degradation and iron release by the Fes esterase ( Payne and Rey , 2004 ) . 
+Hantke et al. compared the siderophore products in the supernatants of wild type and fepB mutant E. coli carrying the iroA gene cluster in trans . 
+Their analysis found a greater proportion of the S1/S2 degradation products and the absence of salmochelin S4 , suggesting that E. coli could still utilize salmochelin in the absence of FepB . 
+As FepB was thought to be required for FepDGC function , these authors concluded that the Fep system is not involved in uptake of ferric-salmochelin and IroC is responsible for salmochelin uptake ( Zhu et al. , 2005 ) . 
+However , our analysis suggests a different interpretation of these observations . 
+We examined whether a Sal-monella siderophore-null mutant ( entC ) could grow with Fe-salmochelin as a sole iron source in the absence of IroC , FepD or both . 
+An entC iroC mutant was able to utilize 5 mM Fe-salmochelin as an iron source ( Fig. 3B ) , demonstrating that IroC is not required for uptake of ironloaded salmochelin . 
+In contrast , entC fepD and entC fepD iroC strains exhibited longer lag phases and greatly reduced growth rates when supplemented with either Fe-enterobactin or Fe-salmochelin . 
+Similar results were obtained with a fepB mutant ( data not shown ) . 
+Complementation in trans of the entC fepD mutant with fepDGC restored the ability of Salmonella to utilize both entero-bactin and salmochelin ( Fig. 3C ) , suggesting that FepDGC as well as FepB are involved in the uptake of both siderophores . 
+These results provide a more complete picture of the role of the various constituents of the ent and iroA gene clusters . 
+Brieﬂy , enterobactin is secreted via EntS and IroC while salmochelin requires only IroC . 
+The iron-loaded siderophores are transported to the periplasm via FepA and IroN , where FepB shuttles them to the ABC transporter FepDGC . 
+Finally , iron is released by the Fes - and IroD-dependent degradation of enterobactin and salmochelin ( Fig. 6 ) . 
+The periplasmic esterase IroE does not appear to be involved in uptake of enterobactin or salmochelin as an entC iroE mutant could utilize these siderophores as iron sources ( data not shown ) . 
+Despite the conservation of enterobactin and salmoch-elin synthesis among all pathogenic Salmonella serovars ( Baumler et al. , 1998 ; Hantke et al. , 2003 ) , previous attempts to demonstrate a contribution of siderophore production to Salmonella virulence in mouse systemic infection models have been generally unsuccessful ( Benjamin et al. , 1985 ; Tsolis et al. , 1996 ; Rabsch et al. , 2003 ) . 
+A single exceptional report that chemically mutagenized ent-deﬁcient Salmonella strains exhibited attenuated virulence in outbred mice ( Yancey et al. , 1979 ) could not be replicated by other investigators ( Benjamin et al. , 1985 ) . 
+We attribute the inconclusive results of previous studies of siderophores in Salmonella virulence to several factors , including the use of incompletely characterized chemically generated mutant bacterial strains ( Yancey et al. , 1979 ) and the use of mouse strains ( e.g. C57BL/6 , BALB/c ) that lack a functional Nramp1 ( Slc11a1 ) pump to efflux divalent cations from the phagosomal vacuole ( Forbes and Gros , 2003 ) . 
+Inbred mouse strains lacking Nramp1 are well known to be immunocompromised , exhibiting enhanced susceptibility to intracellular patho-gens including Leishmania spp. , Mycobacterium bovis and S. Typhimurium ( Vidal et al. , 1993 ) . 
+We have previously demonstrated that the Sit and MntH cation uptake systems of Salmonella are only required for virulence in mice carrying an intact Nramp1 locus ( Zaharik et al. , 2004 ) . 
+We therefore hypothesized that siderophore production might similarly play a role during the infection of hosts with the capacity to limit iron availability in the intracellular environment by means of Nramp1 . 
+We used mutant S. Typhimurium strains deﬁcient in siderophore synthesis or secretion to test the contribution of siderophores , and speciﬁcally salmochelin , to Salmo-nella virulence during systemic infection of inbred C3H / 
+A and B. Six to 8-week-old C3H/HeN mice were inoculated i.p. with 2.5 -- 3.0 ¥ 103 cfu of either wild-type ( ) Salmonella strain 14028s or the isogenic siderophore secretion mutants ( A ) entS ( ) , iroC ( ) , entS iroC ( ) or the siderophore synthetic mutants ( B ) entC ( ) , entB ( ) and iroB ( ) . 
+Data for each strain represent two groups of 5 mice assayed independently . 
+For clarity , results are presented in two panels . 
+Wilcoxon test for homogeneity of survival showed that mice infected with entC , entB , iroB and entS iroC mutant strains had P 0.05 , while P-values for iroC and entS mutant-infected mice were 0.06 and 0.8 respectively . 
+C. Quantiﬁcation of bacterial burden of mouse livers at days 3 , 5 and 7 post infection with wild-type S. Typhimurium strain 14028s or isogenic mutant strains deﬁcient in siderophore synthesis ( entC , entB and iroB ) . 
+Data are presented as median bacterial load of two independent experiments consisting each of 5 mice per Salmonella strain per day harvested . 
+Asterisk denotes P < 0.05 ( Wilcoxon Rank Sum ) for day 3 and 7 cfu counts . 
+See part D for day 5 statistical analysis . 
+D. Scatter plot of liver bacterial burden at day 5 post infection . 
+Each symbol represents the cfu counts from an individual mouse liver . 
+Bars represent the median cfu for each group . 
+Wilcoxon rank sum showed P < 0.05 for all strains . 
+HeN ( Nramp1 + ) mice . 
+Mutants lacking EntS , the major exporter of enterobactin , retained essentially full virulence ( Fig. 5A ) , whereas strains lacking the salmochelin pump IroC caused delayed mortality in infected mice , and double mutants lacking both efflux systems were even further attenuated for virulence . 
+Isogenic mutant S. Typhimurium strains lacking synthesis of both entero-bactin and salmochelin ( entC , entB ) were far less successful than wild type at colonizing mouse livers , and lower bacterial burdens correlated with decreased virulence ( Fig. 5B -- D ) . 
+An iroB mutation also substantially reduced mortality ( Fig. 5B ) , consistent with a role for salmochelin synthesis in Salmonella virulence , although effects of this mutation on colony counts were more modest than that of entB or entC ( Fig. 5C and D ) . 
+These observations provide clear evidence for the importance of siderophores , and speciﬁcally salmochelin , in the pathogenesis of Salmonella infections . 
+The intermediate phenotype may in part be resulting from a compensatory increase in enterobactin secretion by an iroB mutant ( Fig. 2B ) . 
+Moreover , it is possible that the contribution of salmochelin to bacterial proliferation would be more evident in tissues not examined in the present study . 
+For example , Tsolis et al. showed that mice infected with tonB mutant S. Typhimurium lacking the energy-producing system required for sidero-phore uptake exhibited reduced bacterial loads in mesenteric lymph nodes and Peyer 's patches following oral infection ( Tsolis et al. , 1996 ) . 
+It will be of interest to revisit this infection model using more speciﬁc salmochelindeﬁcient mutant strains in future studies . 
+Recent discoveries are elucidating the importance of the distinctive chemistry of enterobactin and salmochelin in their respective biological roles . 
+The addition of glucose residues to enterobactin signiﬁcantly alters its chemical properties ( Luo et al. , 2006 ) . 
+The enhanced hydrophilicity of salmochelin may help to avoid sequestration by lipid-rich membranes , thereby enhancing its iron-scavenging function ( Luo et al. , 2006 ) . 
+Moreover , salmochelin is resistant to binding by the host protein siderocalin produced in response to inﬂammatory stimuli ( Flo et al. , 2004 ; Abergel et al. , 2006 ) , and promotes the virulence of E. coli in mice ( Fischbach et al. , 2006 ) . 
+Our observations have demonstrated that the diglucosylated siderophore salmochelin is secreted by IroC , imported by FepDGC , and of crucial signiﬁcance for Salmonella virulence in immunocompetent ( Nramp1 + ) mice . 
+Establishing the precise mechanism by which salmochelin promotes Salmonella virulence will be an important goal of future studies . 
+Experimental procedures
+Strains and culture conditions
+Salmonella enterica serovar Typhimurium strain 14028s and isogenic mutant derivatives used in this study are described in Table 2 . 
+Strains were routinely grown in LB broth and the following antibiotics were added as indicated : kanamycin ( 50 mg ml-1 ) , penicillin ( 200 mg ml-1 ) , chloramphenicol ( 40 mg ml-1 ) , tetracycline ( 25 mg ml-1 ) , spectinomy-cin ( 100 mg ml-1 ) . 
+As needed , iron was depleted from culture medium by addition of the chelator diethylenetriaminepentaacetic acid ( DTPA , Sigma-Aldrich ) to LB broth at the stated concentrations ( Scheiber and Goldenberg , 1996 ; Andrews , 1998 ) . 
+In addition , growth medium was supplemented as indicated with Fe-enterobactin ( EMC microcollections GmbH , Tubingen , Germany ) , Fe-salmochelin S4 ( EMC microcollections GmbH ) or deferoxamine ( Sigma-Aldrich ) . 
+For LC-MS analysis , bacteria were grown in miminal M9 medium containing 0.2 % arabinose . 
+Fig. 6 . 
+Model of siderophore secretion and uptake in Salmonella . 
+Enterobactin ( grey ovals ) is secreted by both EntS and IroC , whereas salmochelin ( purple ovals ) can only be exported from the cell via IroC . 
+Extracellular iron-loaded siderophores bind to the outer membrane receptors , FepA and IroN , for translocation to the periplasm . 
+Fe-enterobactin and Fe-salmochelin are chaperoned by FepB to the ATPase-dependent transporter FepDGC and shuttled to the cytoplasm . 
+Within the cytoplasm , siderophores can be degraded by the Fes and IroD esterases to release iron . 
+Generation of deletion mutants and complementing plasmids
+Mutant Salmonella enterica serovar Typhimurium strains listed in Table 2 were constructed by the lRed recombinase method with the gene of interest replaced by FRT-ﬂanked aph or cat genes ( Datsenko and Wanner , 2000 ) . 
+To obtain isogenic strains , each mutation was transduced with phage P22 into parent wild-type S. Typhimurium strain 14028s . 
+All mutants and transductants were conﬁrmed by polymerase chain reaction ( PCR ) analysis using gene-ﬂanking primer sets ( Table 3 ) . 
+To combine mutant alleles and complementing plasmids , the antibiotic cassette was removed according to a published protocol with retention of a residual FRT ` scar ' ( Datsenko and Wanner , 2000 ) . 
+A low copy cloning vector , pJK537 , for expression of genes from an arabinose-inducible promoter was constructed as follows : The pBAD18 vector ( Guzman et al. , 1995 ) was digested with ClaI , ﬁlled in with T4 DNA polymerase and subsequently digested with HindIII . 
+A 1361 bp fragment containing the araC gene , PBAD promoter and multiple cloning site was gel-puriﬁed . 
+The low-copy vector pMS421 ( Grana et al. , 1988 ) was digested with EcoRI , ﬁlled in with T4 DNA polymerase and digested with 
+HindIII . 
+A 4000 bp fragment containing a StrepR/SpecR resistance gene and origin of replication from pSC101 was gel-puriﬁed and ligated to the 1361 bp fragment of pBAD18 using T4 DNA ligase . 
+To construct the iroC complementing plasmid , the iroC gene was PCR-ampliﬁed from S. Typhimurium genomic DNA using the high-ﬁdelity DNA polymerase Phusion ( Finnzymes , NEB ) and primers 5 ′ - CGCCGAAT GTCCGTCTAGAGTCGACTGGCT-3 ′ and 5 ′ - TCGTCTAGA ACTATCCTA TGACCTCTCCTTGCGTATC-3 ′ , which incorporate restriction sites for XbaI . 
+The product was modiﬁed with T4 polynucleotide kinase and ligated into the pcrSMART ™ cloning vector according to manufacturer 's instructions ( Lucigen , Middleton WI ) . 
+The insert was excised with XbaI and ligated into corresponding sites of the arabinose-inducible low-copy vector pJK537 or the medium-copy vector pBAD30 ( Guzman et al. , 1995 ) . 
+The locus fepDGC was ampliﬁed using primers 5 ′ - TCGTCTAGACGGCTTTGTCA TCAGTGTGG-3 ′ and 5 ′ - TCGTCTA GAAACGATAATTAC TATCATTATCAGGGAAG-3 , which incorporate XbaI restriction sites , and cloned into pJK537 as described for iroC . 
+Sample preparation for LC-MS analysis of siderophore secretion
+Duplicate bacterial cultures for each strain were started in 2 ml LB ( supplemented with 0.2 % glucose and 100 mg ml-1 spectinomycin for complementation experiments ) from frozen stocks . 
+After 4 h growth at 37 °C , each strain was diluted 1:5000 into M9-0 .2 % arabinose and grown for 15 h at 37 °C with agitation . 
+Cell-free culture supernatants were collected by centrifugation at 8000 r.p.m. , followed by successive ﬁltration on a 0.2 mm HT Tuffryn ® membrane ( Acrodisc ) and spin ﬁltration using a Microcon YM-3 regenerated cellulose membrane with a 3000 dalton molecular weight cut-off . 
+Filtrates were stored at 4 °C until analysed by LC-MS . 
+Analytical separation was performed using a Gemini C18 , 5 mm , 2.0 ¥ 150 mm HPLC column ( Phenom-enex ) using a gradient consisting of 5 -- 90 % acetonitrile in water with constant 0.05 % triﬂuoroacetic acid . 
+Injection and separation were performed using an Agilent 1100 Diode Array detector . 
+Signal was detected at 254 nm , ﬂow rate was set at 300 ml min-1 for 20min and 10 ml of samples were injected . 
+Mass spectrophotometry in the positive mode was performed on each sample to identify enterobactin and salmochelin and their degradation products . 
+Results represent the average of two independent cultures prepared and analysed in parallel , and each experiment was performed at least three times . 
+Sets of HPLC-grade standards for entero-bactin and salmochelin were obtained from Biophore Research Products ( EMC microcollections GmBH , Tubingen , Germany ) . 
+Table 2 . 
+Strains and plasmids used in this study . 
+Strain or plasmid Genotype or relevant characteristics 
+Source or reference 
+Strains 14028s MLC619 MLC630 MLC645 MLC647 MLC651 MLC669 MLC694 MLC725 MLC729 MLC732 MLC736 MLC737 MLC738 MLC740 MLC741 MLC743 MLC801 MLC802 MLC806 MLC811 MLC813 MLC814 MLC815 MLC816 MLC821 
+Wild-type Salmonella enterica serovar Typhimurium 14028s DentC : : aph 14028s DentS : : cat 14028s DentS : : FRT DiroC : : FRT 14028s DiroB : : aph 14028s DentB : : cat 14028s DiroC : : FRT 14028s DiroBCDEiroN : : aph ( iroA gene cluster ) 14028s DiroC : : FRT DentC : : aph 14028s DiroC : : FRT DfepD : : cat DentC : : aph 14028s DfepD : : cat DentC : : aph 14028s pJK537 MLC645 pJK537 MLC645 pJK537 : iroC MLC669 pJK537 MLC669 pJK537 : iroC MLC630 pJK537 MLC732 pJK537 MLC732 pJK537 : fepDGC MLC619 pJK537 14028s pBAD30 MLC645 pBAD30 MLC645 pBAD30 : iroC MLC669 pBAD30 MLC669 pBAD30 : iroC MLC630 pBAD30 
+ATCC 
+This study This study This study This study This study This study This study This study This study This study This study This study This study This study This study This study This study This study This study This study This study This study This study This study This study 
+Plasmids pKD3 pKD4 pCP20 pJK537 pBAD30 
+bla FRT cat FRT PS1 PS2 ori6K bla FRT aph FRT PS1 PS2 ori6K bla cat cl857 lPr ﬂp pSC101 oriTS araC , araBAD promoter , pSC101 , spec araC , araBAD promoter , pACYC184 , bla 
+Datsenko and Wanner ( 2000 ) Datsenko and Wanner ( 2000 ) Cherepanov and Wackernagel ( 1995 ) This study Guzman et al. ( 1995 ) 
+Growth kinetics experiments
+Growth kinetics under iron-limiting conditions were determined by measuring optical density at 600 nm at 37 °C on a Bioscreen C Microbiology Microplate reader ( Growth Curves USA , Piscataway , NJ ) . 
+Bacteria grown overnight in LB were serially diluted into fresh medium to a concentration of 4 ¥ 105 bacteria ml-1 in a 300 ml total volume , with or without the addition of 200 mM DTPA and 0.2 % arabinose as indicated for each experiment . 
+Growth was monitored for up to 24 h. 
+Mouse virulence assays + r
+Six to eight week-old C3H/HeN ( Nramp1 , Ity ) mice ( Charles River Laboratories ) were used to measure the virulence of wild type and isogenic mutant S. Typhimurium strains . 
+Mice 3 were injected intraperitoneally with 2.5 -- 3.0 ¥ 10 cfu . 
+Inocula were veriﬁed by quantitative plating on LB agar . 
+The mice were monitored twice daily for signs of illness , and moribund animals were euthanized . 
+For colony counts , livers from infected mice were harvested on day 3 , 5 and 7 post infection and homogenized in 1 ml sterile PBS . 
+Liver homogenates were serially diluted and plated on LB agar . 
+Viable colonies were counted after 18 h at 37 °C . 
+Acknowledgements
+We are grateful to Kelly Hughes for the gift of plasmid pJK537 and Andrea Robertson for statistical analysis . 
+This work was supported in part by a training award to M.L.C. ( AI54052 ) and research grants to F.C.F. ( AI39557 , AI50660 ) from the National Institutes of Health . 
+References 
+Abergel , R.J. , Moore , E.G. , Strong , R.K. , and Raymond , K.N. ( 2006 ) Microbial evasion of the immune system : structural modiﬁcations of enterobactin impair siderocalin re-cognition . 
+J Am Chem Soc 128 : 10998 -- 10999 . 
+Ambudkar , S.V. , Kimchi-Sarfaty , C. , Sauna , Z.E. , and Got-tesman , M.M. ( 2003 ) P-glycoprotein : from genomics to mechanism . 
+Oncogene 22 : 7468 -- 7485 . 
+Andrews , S.C. ( 1998 ) Iron storage in bacteria . 
+Adv Microb Physiol 40 : 281 -- 351 . 
+Baumler , A.J. , Norris , T.L. , Lasco , T. , Voight , W. , Reissbrodt , R. , Rabsch , W. , and Heffron , F. ( 1998 ) IroN , a novel outer membrane siderophore receptor characteristic of Salmo-nella enterica . 
+J Bacteriol 180 : 1446 -- 1453 . 
+Benjamin , W.H. , Jr , Turnbough , C.L. , Jr , Posey , B.S. , and Briles , D.E. ( 1985 ) The ability of Salmonella typhimurium to produce the siderophore enterobactin is not a virulence factor in mouse typhoid . 
+Infect Immun 50 : 392 -- 397 . 
+Bister , B. , Bischoff , D. , Nicholson , G.J. , Valdebenito , M. , Schneider , K. , Winkelmann , G. , et al. ( 2004 ) The structure of salmochelins : C-glucosylated enterobactins of Salmo-nella enterica . 
+Biometals 17 : 471 -- 481 . 
+Bleuel , C. , Grosse , C. , Taudte , N. , Scherer , J. , Wesenberg , D. , Krauss , G.J. , et al. ( 2005 ) TolC is involved in entero-bactin efflux across the outer membrane of Escherichia coli . 
+J Bacteriol 187 : 6701 -- 6707 . 
+Brickman , T.J. , and Armstrong , S.K. ( 2005 ) Bordetella AlcS transporter functions in alcaligin siderophore export and is central to inducer sensing in positive regulation of alcaligin system gene expression . 
+J Bacteriol 187 : 3650 -- 3661 . 
+Cherepanov , P.P. , and Wackernagel , W. ( 1995 ) Gene disruption in Escherichia coli : TcR and KmR cassettes with the option of Flp-catalyzed excision of the antibiotic-resistance determinant . 
+Gene 158 : 9 -- 14 . 
+Datsenko , K.A. , and Wanner , B.L. ( 2000 ) One-step inactivation of chromosomal genes in Escherichia coli K-12 using PCR products . 
+Proc Natl Acad Sci USA 97 : 6640 -- 6645 . 
+Fischbach , M.A. , Lin , H. , Liu , D.R. , and Walsh , C.T. ( 2005 ) In vitro characterization of IroB , a pathogen-associated C-glycosyltransferase . 
+Proc Natl Acad Sci USA 102 : 571 -- 576 . 
+Fischbach , M.A. , Lin , H. , Zhou , L. , Yu , Y. , Abergel , R.J. , Liu , D.R. , et al. ( 2006 ) The pathogen-associated iroA gene cluster mediates bacterial evasion of lipocalin 2 . 
+Proc Natl Acad Sci USA 103 : 16502 -- 16507 . 
+Flo , T.H. , Smith , K.D. , Sato , S. , Rodriguez , D.J. , Holmes , M.A. , Strong , R.K. , et al. ( 2004 ) Lipocalin 2 mediates an innate immune response to bacterial infection by sequestrating iron . 
+Nature 432 : 917 -- 921 . 
+Forbes , J.R. , and Gros , P. ( 2003 ) Iron , manganese , and cobalt transport by Nramp1 ( Slc11a1 ) and Nramp2 ( Slc11a2 ) expressed at the plasma membrane . 
+Blood 102 : 1884 -- 1892 . 
+Furrer , J.L. , Sanders , D.N. , Hook-Barnard , I.G. , and McIntosh , M.A. ( 2002 ) Export of the siderophore enterobactin in Escherichia coli : involvement of a 43 kDa membrane exporter . 
+Mol Microbiol 44 : 1225 -- 1234 . 
+Grana , D. , Gardella , T. , and Susskind , M.M. ( 1988 ) The effects of mutations in the ant promoter of phage P22 depend on context . 
+Genetics 120 : 319 -- 327 . 
+Guzman , L.M. , Belin , D. , Carson , M.J. , and Beckwith , J. ( 1995 ) Tight regulation , modulation , and high-level expression by vectors containing the arabinose PBAD promoter . 
+J Bacteriol 177 : 4121 -- 4130 . 
+Hantke , K. , Nicholson , G. , Rabsch , W. , and Winkelmann , G. ( 2003 ) Salmochelins , siderophores of Salmonella enterica and uropathogenic Escherichia coli strains , are recognized by the outer membrane receptor IroN . 
+Proc Natl Acad Sci USA 100 : 3677 -- 3682 . 
+Hentze , M.W. , Muckenthaler , M.U. , and Andrews , N.C. ( 2004 ) Balancing acts : molecular control of mammalian iron metabolism . 
+Cell 117 : 285 -- 297 . 
+Kammler , M. , Schon , C. , and Hantke , K. ( 1993 ) Characterization of the ferrous iron uptake system of Escherichia coli . 
+J Bacteriol 175 : 6212 -- 6219 . 
+Kaplan , J. ( 2002 ) Mechanisms of cellular iron acquisition : another iron in the ﬁre . 
+Cell 111 : 603 -- 606 . 
+Kingsley , R. , Rabsch , W. , Roberts , M. , Reissbrodt , R. , and Williams , P.H. ( 1996 ) TonB-dependent iron supply in Sal-monella by alpha-ketoacids and alpha-hydroxyacids . 
+FEMS Microbiol Lett 140 : 65 -- 70 . 
+Kingsley , R.A. , Reissbrodt , R. , Rabsch , W. , Ketley , J.M. , Tsolis , R.M. , Everest , P. , et al. ( 1999 ) Ferrioxaminemediated Iron ( III ) utilization by Salmonella enterica . 
+Appl Environ Microbiol 65 : 1610 -- 1618 . 
+Lam-Yuk-Tseung , S. , Govoni , G. , Forbes , J. , and Gros , P. ( 2003 ) Iron transport by Nramp2/DMT1 : pH regulation of transport by 2 histidines in transmembrane domain 6 . 
+Blood 101 : 3699 -- 3707 . 
+Luo , M. , Lin , H. , Fischbach , M.A. , Liu , D.R. , Walsh , C.T. , and Groves , J.T. ( 2006 ) Enzymatic tailoring of enterobactin alters membrane partitioning and iron acquisition . 
+ACS Chem Biol 1 : 29 -- 32 . 
+Nairz , M. , and Weiss , G. ( 2006 ) Molecular and clinical aspects of iron homeostasis : from anemia to hemochromatosis . 
+Wien Klin Wochenschr 118 : 442 -- 462 . 
+Ochsner , U.A. , Wilderman , P.J. , Vasil , A.I. , and Vasil , M.L. ( 2002 ) GeneChip expression analysis of the iron starvation response in Pseudomonas aeruginosa : identiﬁcation of novel pyoverdine biosynthesis genes . 
+Mol Microbiol 45 : 1277 -- 1287 . 
+Page , W.J. , Kwon , E. , Cornish , A.S. , and Tindale , A.E. ( 2003 ) The csbX gene of Azotobacter vinelandii encodes an MFS efflux pump required for catecholate siderophore export . 
+FEMS Microbiol Lett 228 : 211 -- 216 . 
+Payne , S.M. , and Rey , A.R. ( 2004 ) Pathogenic Escherichia coli , Shigella , and Salmonella . 
+In Iron Transport in Bacteria . 
+Crosa , J.H. , Mey , A.R. , and Payne , S.M. ( eds . ) 
+Washington , DC : ASM Press , pp. 199 -- 218 . 
+Rabsch , W. , Paul , P. , and Reissbrodt , R. ( 1987 ) A new hydroxamate siderophore for iron supply of Salmonella . 
+Acta Microbiol Hung 34 : 85 -- 92 . 
+Rabsch , W. , Methner , U. , Voigt , W. , Tschape , H. , Reissbrodt , R. , and Williams , P.H. ( 2003 ) Role of receptor proteins for enterobactin and 2,3-dihydroxybenzoylserine in virulence of Salmonella enterica . 
+Infect Immun 71 : 6953 -- 6961 . 
+Reimmann , C. , Patel , H.M. , Serino , L. , Barone , M. , Walsh , C.T. , and Haas , D. ( 2001 ) Essential PchG-dependent reduction in pyochelin biosynthesis of Pseudomonas aeruginosa . 
+J Bacteriol 183 : 813 -- 820 . 
+Reissbrodt , R. , Kingsley , R. , Rabsch , W. , Beer , W. , Roberts , M. , and Williams , P.H. ( 1997 ) Iron-regulated excretion of alpha-keto acids by Salmonella typhimurium . 
+J Bacteriol 179 : 4538 -- 4544 . 
+Schaible , U.E. , and Kaufmann , S.H. ( 2004 ) Iron and microbial infection . 
+Nat Rev Microbiol 2 : 946 -- 953 . 
+Scheiber , B. , and Goldenberg , H. ( 1996 ) Uptake of iron by isolated rat hepatocytes from a hydrophilic impermeant ferric chelate , Fe ( III ) - DTPA . 
+Arch Biochem Biophys 326 : 185 -- 192 . 
+Sprencel , C. , Cao , Z. , Qi , Z. , Scott , D.C. , Montague , M.A. , Ivanoff , N. , et al. ( 2000 ) Binding of ferric enterobactin by the Escherichia coli periplasmic protein FepB . 
+J Bacteriol 182 : 5359 -- 5364 . 
+Tanabe , T. , Nakao , H. , Kuroda , T. , Tsuchiya , T. , and Yama-moto , S. ( 2006 ) Involvement of the Vibrio parahaemolyticus pvsC gene in export of the siderophore vibrioferrin . 
+Microbiol Immunol 50 : 871 -- 876 . 
+Tsolis , R.M. , Baumler , A.J. , Heffron , F. , and Stojiljkovic , I. ( 1996 ) Contribution of TonB - and Feo-mediated iron uptake to growth of Salmonella typhimurium in the mouse . 
+Infect Immun 64 : 4549 -- 4556 . 
+Vidal , S.M. , Malo , D. , Vogan , K. , Skamene , E. , and Gros , P. ( 1993 ) Natural resistance to infection with intracellular parasites : isolation of a candidate for Bcg . 
+Cell 73 : 469 -- 485 . 
+Williams , P.H. , Rabsch , W. , Methner , U. , Voigt , W. , Tschape , H. , and Reissbrodt , R. ( 2006 ) Catecholate receptor proteins in Salmonella enterica : role in virulence and implications for vaccine development . 
+Vaccine 24 : 3840 -- 3844 . 
+Yancey , R.J. , Breeding , S.A. , and Lankford , C.E. ( 1979 ) Enterochelin ( enterobactin ) : virulence factor for Salmonella typhimurium . 
+Infect Immun 24 : 174 -- 180 . 
+Zaharik , M.L. , Cullen , V.L. , Fung , A.M. , Libby , S.J. , Kujat Choy , S.L. , Coburn , B. , et al. ( 2004 ) The Salmonella enterica serovar Typhimurium divalent cation transport systems MntH and SitABCD are essential for virulence in an Nramp1G169 murine typhoid model . 
+Infect Immun 72 : 5522 -- 5525 . 
+Zhou , D. , Hardt , W.D. , and Galan , J.E. ( 1999 ) Salmonella typhimurium encodes a putative iron transport system within the centisome 63 pathogenicity island . 
+Infect Immun 67 : 1974 -- 1981 . 
+Zhu , M. , Valdebenito , M. , Winkelmann , G. , and Hantke , K. ( 2005 ) Functions of the siderophore esterases IroD and IroE in iron-salmochelin utilization . 
+Microbiology 151 : 2363 -- 2372 . 
+Zhu , W. , Arceneaux , J.E. , Beggs , M.L. , Byers , B.R. , Eisen-ach , K.D. , and Lundrigan , M.D. ( 1998 ) Exochelin genes in Mycobacterium smegmatis : identiﬁcation of an ABC transporter and two non-ribosomal peptide synthetase genes . 
+Mol Microbiol 29 : 629 -- 639 .

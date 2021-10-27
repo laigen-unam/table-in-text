@@ -1,0 +1,778 @@
+APPLIED AND ENVIRONMENTAL MICROBIOLOGY , Mar. 2008 , p. 1508 -- 1516 0099-2240 / 08 / $ 08.00 0 doi :10.1128 / AEM.01931-07 Copyright © 2008 , American Society for Microbiology . 
+All Rights Reserved . 
+Phenotypic and Proteomic Characterization of Multiply Antibiotic-Resistant
+Variants of Salmonella enterica Serovar Typhimurium Selected Following Exposure to Disinfectants † Kimon A. G. Karatzas ,1 * Luke P. Randall ,3 Mark Webber ,2 Laura J. V. Piddock ,2 Tom J. Humphrey ,1 Martin J. Woodward ,3 and Nick G. Coldham3 Division of Veterinary Pathology , Infection and Immunity , School of Clinical Veterinary Science , University of Bristol , Langford House , Langford , Bristol BS40 5DU , United Kingdom1 ; Antimicrobial Agents Research Group , Division of Immunity and Infection , The Medical School , The University of Birmingham , Birmingham B15 2TT , United Kingdom2 ; and Department of Food and Environmental Safety , Veterinary Laboratories Agency ( Weybridge ) , New Haw , Addlestone , Surrey KT15 3NB , United Kingdom3 
+Received 22 August 2007/Accepted 6 December 2007 
+In previous work , Salmonella enterica serovar Typhimurium strain SL1344 was exposed to sublethal concentrations of three widely used farm disinfectants in daily serial passages for 7 days in an attempt to investigate possible links between the use of disinfectants and antimicrobial resistance . 
+Stable variants OXCR1 , QACFGR2 , and TOPR2 were obtained following treatment with an oxidizing compound blend , a quaternary ammonium disinfectant containing formaldehyde and glutaraldehyde , and a tar acid-based disinfectant , respectively . 
+All variants exhibited ca . 
+fourfold-reduced susceptibility to ciproﬂoxacin , chloramphen-icol , tetracycline , and ampicillin . 
+This coincided with reduced levels of outer membrane proteins for all strains and high levels of AcrAB-TolC for OXCR1 and QACFGR2 , as demonstrated by two-dimensional high-perfor-mance liquid chromatography -- mass spectrometry . 
+The protein proﬁles of OXCR1 and QACFGR2 were similar , but they were different from that of TOPR2 . 
+An array of different proteins protecting against oxidants , nitroaromatics , disulﬁdes , and peroxides were overexpressed in all strains . 
+The growth and motility of variants were reduced compared to the growth and motility of the parent strain , the expression of several virulence proteins was altered , and the invasiveness in an enteric epithelial cell line was reduced . 
+The colony morphology of OXCR1 and QACFGR2 was smooth , and both variants exhibited a loss of modal distribution of the lipopolysaccharide O-antigen chain length , favoring the production of short O-antigen chain molecules . 
+Metabolic changes were also detected , suggesting that there was increased protein synthesis and a shift from oxidative phosphorylation to substrate level phosphorylation . 
+In this study , we obtained evidence that farm disinfectants can select for strains with reduced susceptibility to antibiotics , and here we describe changes in protein expression in such strains . 
+Salmonella enterica is one of the most important food-borne pathogens worldwide ; it affects over one billion humans and results in around three million deaths every year ( http://www . 
+who.int / mediacentre/factsheets/fs139 / en / ) . 
+In addition , a high percentage of isolates ( 30 % in Europe in 2004 ) are resistant to multiple antibiotics , resulting in serious problems when S. enterica infections are treated ( http://www.hpa.org.uk/hpa/inter / enter-net/Enter-net % 20annual % 20report % 202004 . 
+pdf ) . 
+Resistance is thought to have arisen and to be sustained by the intensive use of antibiotics not only for therapeutic needs in clinical and veterinary medicine but also for growth promotion ( prophylactic ) in farm animals . 
+Recent regulations in Europe have banned the use of growth promoters in animals ( http://europa . 
+eu/rapid/pressReleasesAction . 
+do?reference IP/05/1687 & format HTML & aged 0 & language EN & guiLanguage en ) . 
+There is growing concern that the use of disinfectants may also contrib-ute to the emergence of multiple antibiotic resistance ( MAR ) 
+* Corresponding author . 
+Mailing address : Bacterial Stress Response Group , Department of Microbiology , National University of Ireland , Galway , Ireland . 
+Phone : 353 91 495091 . 
+Fax : 353 91 494598 . 
+E-mail : Kimon-Andreas.Karatzas@nuigalway.ie . 
+† Supplemental material for this article may be found at http://aem . 
+asm.org / . 
+Published ahead of print on 14 December 2007 . 
+( 43 ) , and this has potentially serious implications due to the widespread application of these agents . 
+The term biocide includes disinfectants , antiseptics , and pre-servatives but not antibiotics , which in spite of being biocides in the strictest sense tend to be categorized separately ( 14 ) . 
+Disinfectants and antiseptics , in contrast to antibiotics , are usually a mixture of different antimicrobial compounds that results in inactivation of multiple cellular targets , and due to this , resistance to these products is usually uncommon ( 31 , 44 ) . 
+In cases where a biocide , such as triclosan , inactivates a speciﬁc cellular target , resistance can occur as a result of a speciﬁc mutation within the gene encoding the target protein ( 41 ) . 
+Reduced susceptibility to quaternary ammonium compounds , chlorhexidine , diamidines , and acridines ( 37 ) is often associated with increased efﬂux and reduced permeability , which are also implicated in reduced susceptibility to antibiotics . 
+Efﬂux pumps , like AcrAB-TolC , have the potential to act on a range of chemically dissimilar compounds , including biocides and anti-biotics ( 24 ) . 
+Cell wall changes that result in reduced permeability can also be responsible for resistance to biocides and antibiotics . 
+These common mechanisms of resistance to biocides and antibiotics should be a public health concern , and prevention of the dissemination of antibiotic-resistant strains in the environment and animal hosts , including farm animals and humans , is important ( 46 ) . 
+Studies have demonstrated that antibiotic-resistant bacteria are not signiﬁcantly more resistant to antiseptics and disinfectants than sensitive strains ( 2 , 10 ) . 
+This could be due to the fact that antibiotic resistance might occur because of alteration of a target that does not play a role in resistance to disinfectants . 
+Conversely , disinfectants have been shown to select for antibiotic resistance . 
+Moken et al. ( 34 ) demonstrated that low concentrations of pine oil disinfectant could select for Escherichia coli mutants with reduced susceptibility to antibiotics through activation of the marRAB operon . 
+This operon confers MAR , and in E. coli more than 60 chromosomal genes are part of its regulon . 
+Recent studies also demonstrated that in salmonellae exposed to a phenolic farm disinfectant or triclosan there is a small but statistically significantly increased risk of selection of resistant mutants when the organisms are subsequently exposed to ampicillin ( AMP ) , cip-roﬂoxacin ( CIP ) , tetracycline ( TET ) , or cyclohexane ( 41 ) . 
+Although there is experimental evidence linking biocides with antibiotic resistance , the epidemiological data are equivocal ( 14 ) even though the use of disinfectants is widespread . 
+Work is needed to identify speciﬁc disinfectants which might contribute to antibiotic resistance . 
+In addition , at the molecular level it is important to identify any common mechanisms of resistance to biocides and antibiotics . 
+In a previous study , we obtained three variants of Salmonella serovar Typhimurium following prolonged growth in the presence of sublethal concentrations of three widely used farm disinfectants ( 22 ) . 
+Here we describe the growth characteristics , colony morphology , lipopolysaccharide ( LPS ) contents , motility , invasiveness , and resistance to heat or desiccation of these organisms . 
+Furthermore , we analyzed the proteomes and LPS contents of all of the variants in an attempt to explain the molecular mechanisms behind the phenotypic alterations . 
+150 
+MATERIALS AND METHODS
+Antibiotics , disinfectants , dyes , and other chemicals used . 
+Most dyes and antibiotics were purchased from Sigma-Aldrich ( Poole , United Kingdom ) ; the only exceptions were CIP , which was obtained from Fluka Chemie ( Buchs , Switzerland ) , and triclosan , which was obtained from Ciba Geigy ( United Kingdom ) . 
+The disinfectants were obtained from the manufacturers and were a blend of oxidizing compounds containing inorganic peroxygen compounds , inorganic salts , organic acid , anionic detergent , fragrance , and dye ( OXC ) ; a quaternary ammonium disinfectant containing formaldehyde and glutaraldehyde ( QACFG ) ; a biocide composed of tar acids , organic acids , and surfactants ( TOP ) ; and a dairy quaternary ammonium sterilizer containing nonionic surfactant and excipients ( DQACS ) . 
+Bacterial strains , growth conditions , and isolation of variants . 
+Wild-type S. enterica serovar Typhimurium strain SL1344 ( 49 ) was the parent strain used in this study . 
+In previous work , three derivatives , OXCR1 , QACFGR2 , and TOPR2 , were obtained following sequential growth of SL1344 for 7 days in Luria-Bertani ( LB ) broth supplemented with sublethal concentrations of the disinfectants OXC ( 0.2 % ) , QACFG ( 0.006 % ) , and TOP ( 0.025 % ) ( 22 ) . 
+Each day , cultures were prepared using a 1 % ( vol/vol ) inoculum from the overnight culture grown the previous day . 
+Variant QACFGR2 was obtained by streaking a sample from the day 7 culture in the QACFG disinfectant on LB agar plates containing no antimicrobials . 
+OXCR1 and TOPR2 were isolated by streaking cultures on agar plates containing 400 g/ml acriﬂavine and 6 g/ml chloramphenicol ( CHL ) , respectively . 
+As demonstrated previously , variants similar to OXCR1 and TOPR2 comprised 0.02 and 0.001 % of the corresponding populations , respectively , and appeared only following prolonged treatment with the corresponding disinfectants ( 22 ) . 
+All strains were stored in microbank tubes ( Pro-lab Diagnostics , Neston , Wirral , United Kingdom ) at 80 °C and were routinely grown in LB broth and on LB agar ( Oxoid , Basingstoke , United Kingdom ) at 37 °C with shaking at 160 rpm for the planktonic cultures . 
+Determination of MICs . 
+The MICs of a range of antibiotics , dyes , and disinfectants were determined using the agar doubling dilution method according to the recommendations of the British Society for Antimicrobial Chemotherapy ( 3 ) . 
+Colony morphology . 
+A small amount of each overnight stationary-phase culture was inoculated on Columbia blood ( COLB ) and brilliant green agar by use of a sterile needle . 
+Subsequently , plates were incubated at 20 °C for 2 weeks , and their colony morphology was observed daily . 
+For 10 colonies of each strain , derived from a different culture each time , the diameter measured as an indication of the colony size . 
+Analysis of growth kinetics . 
+Growth characteristics of all variants were assessed at 37 or 42 °C with shaking ( 160 rpm ) . 
+Five microliters from an overnight culture of each variant was inoculated into 200 l of fresh LB broth . 
+Samples were placed in microtiter plates , and bacterial growth was assessed by measuring the optical densities at 600 nm of the samples with a Bioscreen C microplate reader ( Labsystems , Finland ) . 
+Growth curves were constructed in triplicate . 
+Motility tests . 
+The motility of each strain was tested using semisolid motility test medium consisting of 10 g/liter peptone ( Oxoid , Basingstoke , United Kingdom ) , 5 g/liter NaCl ( Merck , Darmstadt , Germany ) , 4 g/liter agar ( Oxoid , Basingstoke , United Kingdom ) , 3 g/liter beef extract ( Oxoid , Basingstoke , United Kingdom ) , and 0.05 g/liter 2,3,5-triphenyltetrazolium chloride ( Sigma-Aldrich Chemie , Steinheim , Germany ) . 
+Following sterilization ( 15 min at 121 °C ) the medium was poured into sterile petri dishes . 
+Overnight cultures in LB broth were transferred in motility test medium dishes by stabbing , followed by incubation at 20 or 30 °C for 4 days . 
+Bacterial metabolism reduces 2,3,5-triphenyltetrazolium chloride to formazan , which is red , allowing measurement of the distance that the cells cover through the semisolid medium by swimming away from the initial inoculum site as an indication of the motility . 
+Stability of phenotypes . 
+The phenotype stability of all variants was assessed after daily subculture for 10 consecutive days using 0.3 % ( vol/vol ) inocula in fresh LB medium in the absence of any disinfectant at 37 °C . 
+On day 10 , cultures were tested to determine their reduced susceptibility to antibiotics and disinfectants , colony morphology , and growth characteristics . 
+Heat treatment . 
+Thermotolerance was assessed as described previously , with modiﬁcations ( 21 ) . 
+In brief , overnight cultures of each variant and SL1344 were placed in 2-ml plastic tubes ( Eppendorf , Hamburg , Germany ) and incubated in a water bath at 55 °C for up to 20 min . 
+Before heat treatment and subsequently at regular intervals , samples were taken , decimal dilutions were prepared , and viability was determined on COLB agar by enumeration of CFU following incubation at 37 °C overnight . 
+Desiccation treatment . 
+The desiccation resistance of strains was assessed as described previously by Jørgensen et al. , with minor modiﬁcations ( 20 ) . 
+In brief , three overnight cultures of each strain were prepared , and 100 - l samples were poured on sterile glass cupules , which were placed in sterile petri dishes and left to dry at room temperature . 
+Every second day , 100 l of a sterile saline solution ( Oxoid , Basingstoke , United Kingdom ) was added to each of three cupules for each strain , decimal dilutions were prepared and plated on COLB agar , and CFU were enumerated following incubation at 37 °C overnight . 
+H2O2 treatment . 
+Susceptibility to hydrogen peroxide ( H2O2 ) was determined by the disk diffusion method as previously described by DeGroote et al. ( 12 ) . 
+In brief , 15 l of 3 % H2O2 was added to a blank paper disk ( Oxoid , Basingstoke , United Kingdom ) placed over a lawn containing 106 CFU/ml on M9 minimal agar with 0.2 % glucose . 
+The zone of inhibition was measured after overnight incubation . 
+Gentamicin protection assay ( invasiveness ) . 
+The gentamicin protection assay was performed with strain SL1344 and all variants as described previously by Elsinghorst ( 13 ) . 
+In brief , Caco-2 human colon adenocarcinoma cells ( ECACC number 86010202 ) were maintained in suitable tissue culture media prior to infection with a standardized amount of bacterial suspensions , resulting in 106 CFU per well and yielding an estimated ratio of bacteria to cells ( multiplicity of infection ) of 2.5:1 . 
+Cells were incubated for 1 h at 37 °C and were subsequently washed twice with phosphate-buffered saline ( PBS ) and suspended in PBS containing 100 g/ml gentamicin , which was followed by incubation for 2 h at room temperature . 
+Following rinsing with PBS , Caco-2 cells were lysed with 2 ml of 1 % ( vol/vol ) Triton X-100 in PBS and incubated at 37 °C for 5 min . 
+Cell lysates were serially diluted and plated on COLB agar to quantify the number of intracellular bacteria . 
+Invasion assays and estimation of numbers of bacterial cells were performed in triplicate . 
+Proteome analysis using 2D HPLC-MSn . 
+The bacterial strains ( wild type and variants ) were cultured ( n 3 for each strain ) , and their proteomes were analyzed by two-dimensional high-performance liquid chromatography -- mass spectrometry ( 2D HPLC-MS ) as described elsewhere ( 8 ) . 
+The relative levels of abundance of proteins were compared using the spectrum count ( 26 ) by following previously described guidelines ( 15 ) and indicated the number of peptid counts ( `` hits '' ) detected for each protein . 
+The expression analysis was limited to the proteins found in all three replicates of the wild type , OXCR1 , QACFGR2 , and TOPR2 . 
+Proteomes were compared using Microsoft Access to obtain the following ﬁve groups , each of which was represented by a separate Excel work sheet : group 1 , proteins found in the wild-type strain ; group 2 , proteins found in the disinfectant-cycled strain ; group 3 , proteins found only in the wild-type strain ; group 4 , proteins found only in the disinfectant-cycled strain ; and group 5 , proteins found in controls and the disinfectant-cycled strain . 
+Analysis of LPS using gel electrophoresis . 
+Electrophoretic samples were prepared using the method described by Chart ( 7 ) for whole-cell LPS preparation with proteinase K digestion . 
+LPS preparations were electrophoresed using the Laemmli system with 4.5 % stacking and 12.5 % resolving gels in a Bio-Rad Protean II tank with a cooling core . 
+Each lane was loaded with 15 l of sample ( equivalent to 250 g bacterial mass ) , and the gels were run using constant current ( 16 mA for the stacking gel and 24 mA for the resolving gel ) . 
+The gels were negatively stained using zinc-imidazole ( 17 ) and photographed . 
+Subsequently , images were analyzed with the Quantity One software ( Bio-Rad Laboratories , Hemel Hempstead , United Kingdom ) , and the intensity of each band was determined . 
+Genetic typing of parent and derivatives strains by VNTR and PFGE analyses . 
+Variable-number tandem repeat ( VNTR ) analysis of all strains was performed as described by Lindstedt et al. ( 25 ) , and all strains were assessed by pulsed-ﬁeld gel electrophoresis ( PFGE ) following XbaI digestion of genomic DNA using the standard 1-day protocol of the Centers for Disease Control and Prevention ( 6 ) . 
+Sequencing of acrR . 
+PCR ampliﬁcation of the acrR gene was performed using standard methods ( 45 ) . 
+Chromosomal DNA of strains was isolated and puriﬁed using a QIAamp DNA mini kit ( Qiagen , Hilden , Germany ) according to the instructions of the manufacturer . 
+PCRs to amplify the acrR gene were performed using primers acrRF ( 5 - ATG TAA ACC TCG AGT GTC CG-3 ) and acrRR ( 5 - TCG CAA GAA TAT CAC GCC TG-3 ) provided by MWG Biotech AG ( Ebersberg , Germany ) . 
+PCR products were puriﬁed using a QIAquick PCR puriﬁcation kit ( Qiagen , Hilden , Germany ) , and sequence analysis was performed in duplicate ( MWG Biotech AG , Ebersberg , Germany ) . 
+Statistical analysis . 
+Two-tailed Student 's t test assuming equal variances was used to determine statistically signiﬁcant differences between counts for the strains and the wild type . 
+MIC of selected antimicrobial agent AMP Triclosan ( g/ml ) ( g/ml ) OXC ( % ) 
+Isolate 
+CIP 
+CHL 
+TET 
+KAN 
+TOP ( % ) 
+QACFG ( % ) 
+DQACS ( % ) 
+( g/ml ) 
+( g/ml ) 
+( g/ml ) 
+( g/ml ) 
+0.03 0.13 0.13 0.03 
+Wild type OXCR1 QACFGR2 TOPR2 
+8 
+2 8 
+2 1 2 
+0.2 -- 0.4 0.40 0.05 0.10 
+0.03 0.03 0.03 0.03 
+0.20 0.40 0.10 0.10 
+2 8 8 
+0.06 0.25 0.25 0.25 
+0.20 0.20 0.20 0.20 
+32 32 16 
+16 16 
+2 
+4 
+RESULTS
+Reduced susceptibility to antibiotics and antimicrobials . 
+All variants exhibited reduced susceptibility to multiple antibiotics ( Table 1 ) . 
+For OXCR1 there was a fourfold increase in the MICs of CIP , CHL , and AMP , as shown previously ( 22 ) . 
+There was also a twofold reduction in the MIC of kanamycin . 
+For QACFGR2 the MICs of CHL and AMP increased fourfold and the MIC of TET increased eightfold compared to the wild type . 
+In addition , for this variant there were eight - and fourfold decreases in the MICs of TOP and DQACS , respectively . 
+For TOPR2 there was an eightfold increase in the MIC of TET compared to the wild type , and there were also fourfold reductions in the MICs of TOP and DQACS . 
+All variants were resistant to cyclohexane , and for all of them there was a fourfold increase in the MIC of triclosan . 
+Phenotypes of variants . 
+Variants OXCR1 and TOPR2 had a smooth-colony phenotype , the colonies of QACFGR2 were marginally convoluted , and the colonies of the wild type were convoluted ( Fig. 1 ) . 
+The colonies of QACFGR2 , TOPR2 , and OXCR1 were 49.6 % 4.1 % , 48.1 % 2 % , and 45.6 % 2 % smaller than the wild-type colonies , and they were also moderately transparent , as shown by the QACFGR2 colony in Fig. 1 . 
+All variants exhibited impaired growth compared to the wild type at 37 °C with shaking ( Fig. 2 ) . 
+The doubling times for QACFGR2 , TOPR2 , and OXCR1 during the exponential phase were estimated to be 3.98 , 3.92 , and 4.0338 h , respectively , compared to 3.66 h for the wild type . 
+In addition , the optical densities at 600 nm of all of the variants in the stationary phase ( 18 to 24 h ) were signiﬁcantly lower ( range , 0.51 to 0.54 ) than those of the wild type , which were between 0.96 and 0.98 . 
+Similarly , when cultures were grown at 42 °C , all of the variants exhibited impaired growth compared to the wild type . 
+OXCR1 , QACFGR2 , and TOPR2 showed 30 , 25 , and 30 % reductions in motility , respectively , compared to the wild type . 
+All of the variants had a stable phenotype following sequential growth in LB medium for 10 days . 
+Stress tolerance of variants . 
+No difference in thermotolerance or susceptibility to hydrogen peroxide was detected in any of the variants . 
+All of the variants except QACFGR2 exhibited desiccation resistance similar to that of the wild type . 
+QACFGR2 had survival levels that were 2 log cycles higher than those of the wild type for 13 days of desiccation treatment ( Fig. 3 ) . 
+Gentamicin protection assay ( invasiveness ) . 
+The abilities of all of the variants to invade Caco-2 human colon adenocarcinoma epithelial cells were lower than the ability of the wild type ( Fig. 4 ) . 
+The invasiveness of the wild type was 53,000 - , 5,600 - , and 1,000-fold higher than the invasiveness of OXCR1 , QACFGR2 , and TOPR2 , respectively ; these values were signiﬁcant . 
+Proteome analysis using 2D HPLC-MS . 
+The numbers of proteins detected in the proteomes of the wild type and variants following analysis by 2D HPLC-MS are summarized in Table S1 in the supplemental material . 
+The values include the numbers of proteins detected in the untreated wild type , in each of the three variants , in only the wild-type strain , in only disinfectant-cycled strains , and in both controls and disinfec-tant-cycled strains . 
+There was no signiﬁcant difference between the total number of proteins detected in the wild type and the total number of proteins detected in the variants . 
+TOPR2 was characterized by a relatively small number of proteins with statistically signiﬁcant ( P 0.05 ) increased expression and a large number of proteins with decreased expression compared to QACFGR2 and OXCR1 , in which increased protein expression predominated . 
+The percent changes in the expression of selected proteins in each variant relative to the wild type are shown in Table 2 . 
+Full details concerning protein expression in the variants and the wild type are shown in the supplemental material . 
+The changes in the proteomes of the OXCR1 and QACFGR2 variants were broadly similar . 
+The spectrum count is plotted for each protein in Fig . 
+S1 in the supplemental material to illustrate the similarity between the proteomes . 
+All variants exhibited reduced levels of outer membrane ( OmpC , OmpF , and OmpA ) and F1F0 ATP synthase proteins . 
+QACFGR2 and OXCR1 had very similar protein proﬁles and showed increased levels of AcrAB and TolC , while this was not the case for TOPR2 . 
+Several proteins related to antimicrobial resistance ( TolB and ElaB ) , ribosomal activity ( RplY , RpsF , Udp , and GuaA ) , stress resistance ( PhoP , ClpX , HtrA , and UspA ) , carbon metabolism ( AcnB , SucB , AckA , Eno , PtsI , and PtsH ) , and DNA repair ( PolA ) were overexpressed in the variants , mainly in QACFGR2 and OXCR1 . 
+In the QACFGR2 strain there was increased expression of the invasion gene transcriptional activator HilA , and a number of other invasion proteins , including SipA , SipB , SipC , and SipD , were overexpressed in both QACFGR2 and OXCR1 . 
+LPS analysis . 
+The results of an analysis of the intensity of the LPS bands performed with the Quantity One software are presented in Fig. 5A , B , and C and are expressed as the inverse of the relative light intensity . 
+It is obvious that the difference in band intensity between the OXCR1 and QACFGR2 variants and the wild type decreases from left to right in the graphs . 
+The peaks on the right side of the graphs correspond to the bands formed by the short-O-antigen-chain molecules , which seemed to represent a greater fraction of the overall LPS at the expense of the larger molecules . 
+This suggests that there was a loss of modal distribution of the chain length of the O-antigen component of the LPS , favoring the short-O-antigen-chain molecules ( Fig. 5 ) . 
+This effect was not seen in TOPR2 
+32 32 16 
+16 16 
+2 
+4 
+FIG. 2 . 
+Growth monitored by determining the optical densities at 600 nm ( OD600 ) of wild-type Salmonella serovar Typhimurium strain SL1344 ( open circle ) , OXCR1 ( ﬁlled triangle ) , QACFGR2 ( grey diamond ) , and TOPR2 ( grey circle ) in LB broth at 37 °C with shaking . 
+Experiments were performed in triplicate , and the error bars indicate standard deviations 
+FIG. 1 . 
+Colony morphology of the wild type ( WT ) , OXCR1 , QACFGR2 , and TOPR2 grown on brilliant green agar at 20 °C for 2 weeks . 
+FIG. 3 . 
+Reductions in the numbers of viable wild-type Salmonella serovar Typhimurium strain SL1344 ( open circle ) , OXCR1 ( ﬁlled triangle ) , QACFGR2 ( grey diamond ) , and TOPR2 ( grey circle ) cells after desiccation at 20 °C for 13 days . 
+Cells were grown until stationary phase before treatment in LB broth at 37 °C . 
+Experiments were performed in duplicate , and the error bars indicate standard deviations . 
+An asterisk indicates a statistically signiﬁcant difference compared to the wild type ( P 0.05 ) . 
+FIG. 4 . 
+Invasiveness of wild-type Salmonella serovar Typhimurium strain SL1344 ( WT ) , OXCR1 , QACFGR2 , and TOPR2 in Caco-2 human colon adenocarcinoma cells at 37 °C . 
+Experiments were performed in triplicate , and the error bars indicate standard deviations . 
+An asterisk indicates a statistically signiﬁcant difference compared to the wild type ( P 0.05 ) . 
+TABLE 2 . 
+Percent changes in protein expression in the variants relative to the wild type % Change in protein expression OXCR1 QACFGR2 TOPR2 
+Protein 
+Antimicrobial resistance AcrA AcrB TolC 
+Acridine efﬂux pump RND family , acridine efﬂux pump 
+135 ** 113 ** 355 *** 
+151 *** 158 *** 295 *** 
+5 42 
+Outer membrane channel ; speciﬁc tolerance to colicin E1 ; segregation of daughter chromosomes ; role in organic solvent tolerance Organic solvent tolerance protein Outer membrane protein 1b ( ib ; c ) ; porin Outer membrane protein 1a ( ia ; b ; f ) ; porin Putative hydrogenase , membrane component Glutaredoxin 3 Glutaredoxin 2 Thiol peroxidase Alkyl hydroperoxide reductase , F52a subunit ; detoxiﬁcation of hydroperoxides Alkyl hydroperoxide reductase , C22 subunit ; detoxiﬁcation of hydroperoxides Superoxide dismutase , iron Tol protein required for outer membrane integrity , uptake of group A colicins , and translocation of phage DNA to cytoplasm ; may be part of multiprotein peptidoglycan recycling complex Nucleoside channel ; receptor of phage T6 and colicin K Putative inner membrane protein Dihydropteridine reductase/oxygen-insensitive NAD ( P ) H nitroreductase Enoyl - ( acyl-carrier-protein ) reductase ( NADH ) 
+64 ** 
+Imp 
+9.3 66 ** 
+0 
+60 ** 100 † 
+OmpC OmpF OmpA GrxC GrxB Tpx AhpF 
+100 † 100 † 44 ** 100 † 217 * 100 † 100 † 
+100 † 38 * 100 † 317 *** 100 † 100 † 
+100 † 35 * 100 33 ND 100 *** 
+AhpC 
+150 ** 
+100 
+6 
+SodB TolB 
+100 † 275 * 
+100 † 350 ** 
+ND 150 * 
+Tsx 
+138 ** 225 ** 300 * 
+8 
+100 *** 100 * 100 † 
+ElaB NfnB 
+187 * 340 
+FabI 
+200 * 
+275 
+ND 
+Virulence SipA SipB SipC SipD InvB InvG InvH PrgH PrgK 
+Cell invasion protein Cell invasion protein 
+33 
+133 * 625 ** 257 ** 100 † 54 185 ** ND 22 13 
+67 
+400 * 157 100 † 15 100 100 † 22 33 
+100 † 14 ND 62 75 * 100 † 11 46 
+Cell invasion protein Cell invasion protein Antigen surface presentation ; secretory protein Invasion protein ; outer membrane Invasion protein Cell invasion protein Cell invasion protein ; lipoprotein ; may link inner and outer membranes Cell invasion protein ; cytoplasmic Invasion gene transcription activator Salmonella outer protein ; plasmid protein stabilization ; homologous to IpgD of Shigella 
+ND ND 225 * 
+PrgI HilA SopB 
+100 † 80 800 * 
+ND 20 100 † 
+Metabolism : tricarboxylic acid cycle AcnB SucB 
+47 * 18 
+168 *** 
+168 *** 
+Aconitate hydratase 2 
+109 ** 
+2-Oxoglutarate dehydrogenase ( dihydrolipoyltranssuccinase E2 component ) Malate dehydrogenase 
+140 ** 
+21 
+202 ** 
+243 *** 
+Mdh 
+Metabolism : glycolysis AckA Pgi Eno PykF 
+ND 12 48 * 45 * 
+Acetate kinase A ( propionate kinase 2 ) Glucose phosphate isomerase Enolase Pyruvate kinase I , fructose stimulated 
+162 
+250 * 100 * 80 * 141 * 
+162 * 100 * 112 ** 
+Metabolism : phosphotransferase system PtsI 
+11 
+322 *** 
+377 *** 
+General phosphotransferase family ( enzyme I ) phosphoenolpyruvate-protein phosphotransferase Phosphotransferase family ; Hpr protein ; phosphohistidinoprotein-hexose phosphotransferase 
+133 ** 
+166 *** 
+PtsH 
+8 
+ATP synthase AtpC 
+68 * 
+64 ** 68 * 
+Membrane-bound ATP synthase , F1 sector , epsilon subunit 
+Continued on facing pag 
+Motility CheA 
+Sensory histitine protein kinase ; transduces signal between chemosignal receptors and CheB and CheY Chemotaxis regulator ; transmits chemoreceptor signals to ﬂagellar motor components Flagellar biosynthesis ; possible export of ﬂagellar proteins Flagellar biosynthesis ; ﬂagellin , ﬁlament structural protein 
+48 * 
+56 ** 
+25 
+CheY 
+66 
+50 
+83 
+FlhA FliC 
+ND 48 ** 
+25 
+ND 
+75 *** 
+100 ** 
+LPS 
+WzzB RfbG 
+Regulator of length of O-antigen component of LPS chains LPS side chain defect ; CDP glucose 4,6-dehydratase 
+ND 
+100 
+300 ** 160 * 
+240 ** 
+0 
+Stress PhoP 
+Response regulator in two-component regulatory system with PhoQ ; transcribes genes expressed at low Mg2 concn 
+293 *** 
+243 ** 
+18 
+( OmpR family ) ClpX Speciﬁcity component of ClpA-ClpP ATP-dependent serine 240 * 120 60 protease ; chaperone HtrA Periplasmic serine protease Do ; heat shock protein 775 ** 600 ** ND UspA Universal stress protein A 500 ** 500 *** ND a , P 0.05 ; , P 0.01 ; , P 0.001 ; ND , not detected ; † , protein that was found only in the proteome of the wild type ; 100 † , protein that was found only in the proteome of the disinfectant-cycled strain . 
+Bold type indicates protein overexpression . 
+VNTR and PFGE analysis . 
+VNTR and PFGE analysis con-ﬁrmed that all strains were similar to the wild type ( see Table S2 and Fig . 
+S2 in the supplemental material ) . 
+Sequencing of acrR . 
+Sequencing of the acrR genes of all variants revealed no mutations compared to the wild type . 
+DISCUSSION
+Disinfectants and antiseptics are important for maintenance of the required levels of hygiene on farms and food-processing premises . 
+Lately , the widespread distribution and use of these compounds have been linked to the development of antibiotic resistance ( 14 , 43 , 44 ) . 
+Following prolonged treatment ( 7 days ) of Salmonella serovar Typhimurium with three widely used farm disinfectants , OXC , QACFG , and TOP , we obtained one stable individual variant from each treatment . 
+To our knowledge , this is the ﬁrst study investigating the alterations in the proteomes of MAR variants obtained following treatment with disinfectants aiming to elucidate the molecular basis of their distinctive phenotypes . 
+All variants exhibited reduced susceptibility to several anti-biotics and increased cyclohexane tolerance . 
+The phenotype of bacteria that are termed MAR includes a ca . 
+fourfold reduction in sensitivity to antibiotics such as AMP , CHL , CIP , na-lidixic acid , and TET and also often includes tolerance to organic solvents such as cyclohexane ( 33 , 34 ) . 
+Thus , the variants had a classical MAR phenotype . 
+Isolation of OXCR1 and TOPR2 , unlike isolation of QACFGR2 , required an additional selection step on agar containing acriﬂavine or CHL due to their low concentrations in the populations . 
+These variants represent subpopulations that appeared only following 7 days of prolonged growth in sublethal concentrations of the disinfectants ( 22 ) . 
+Sublethal concentrations might occur on farms and other premises in selected niches ( e.g. , under objects or in cracks in wood and masonry ) or when the disinfectant comes into contact with materials that can dilute it , especially high concentrations of organic matter , or bioﬁlms which can reduce the efﬁcacy of disinfectants ( 41 ) . 
+Although OXCR1 and QACFGR2 were isolated by using different agents , they had very similar protein proﬁles , which were divergent from that of TOPR2 . 
+All variants showed reduced levels of outer membrane proteins ( OmpC and OmpF ) associated with reduced susceptibility to antimicrobial compounds ( 35 ) . 
+In OXCR1 and QACFGR2 , this was complemented with increased levels o 
+25 
+ND 
+75 *** 
+100 ** 
+LPS 
+WzzB RfbG 
+Regulator of length of O-antigen component of LPS chains LPS side chain defect ; CDP glucose 4,6-dehydratase 
+ND 
+100 
+300 ** 160 * 
+240 ** 
+0 
+Stress PhoP 
+Response regulator in two-component regulatory system with PhoQ ; transcribes genes expressed at low Mg2 concn 
+293 *** 
+243 ** 
+18 
+( OmpR family ) ClpX Speciﬁcity component of ClpA-ClpP ATP-dependent serine 240 * 120 60 protease ; chaperone HtrA Periplasmic serine protease Do ; heat shock protein 775 ** 600 ** ND UspA Universal stress protein A 500 ** 500 *** ND a , P 0.05 ; , P 0.01 ; , P 0.001 ; ND , not detected ; † , protein that was found only in the proteome of the wild type ; 100 † , protein that was found only in the proteome of the disinfectant-cycled strain . 
+Bold type indicates protein overexpression . 
+AcrAB-TolC associated with increased efﬂux and low permeability to antibiotics . 
+Reduced susceptibility to quaternary ammonium compounds ( 34 ) and to CHL , TET , and AMP ( 5 , 48 ) is known to be related to overexpression of acrAB-tolC . 
+The reduced susceptibility to triclosan of OXCR1 and QACFGR2 could be attributed to overexpression of AcrAB and FabI , which is the main cellular target of this biocide ( 33 ) . 
+In E. coli and S. enterica , AcrR represses expression of acrAB ( 28 , 36 ) . 
+However , no mutations were found in the acrR genes of the variants . 
+Other efﬂux pumps , including AcrD , AcrE , and AcrF , were not detected in the present study , suggesting that they might not play an important role in the efﬂux of the biocides present in the disinfectants used in this study . 
+Similarly , it has been suggested that these proteins are not important for efﬂux of ﬂuoroquinolones ( 42 ) . 
+Certain proteins , including TolB and ElaB , were overexpressed in all three variants . 
+TolB has been associated with the uptake of proteins , including colicins , and may also be important for the recycling of peptidoglycan and for envelope integrity . 
+In contrast , the precise biological role of ElaB ( a putative inner membrane protein ) remains unknown . 
+High levels of AcnA , which plays a role in defense against paraquat-generated superoxide anions and general oxidative stress ( 27 ) , were found in QACFGR2 and OXCR1 but not in TOPR2 . 
+This explains the increased frequency of such variants following treatment with the quaternary ammonium disinfectant QACFG and OXC , which contains peroxygen . 
+The differential expression of enzymes involved in reduction of oxidants ( Tpx ) , nitroaromatics ( NfnB ) , disulﬁdes ( Grx ) , and peroxides ( AhpC and AhpF ) was similar in the OXCR1 and QACFGR2 strains but divergent in TOPR2 ( 38 ) . 
+However , the changes did not affect the susceptibility of the variants to H2O2 . 
+Reduced amounts of superoxide dismutase ( SodB ) , which plays a role in oxidative stress ( 5 ) , were found in OXCR1 and QACFGR2 . 
+All variants had reduced invasiveness . 
+The whole population from which QACFGR2 was derived showed reduced invasiveness in Caco-2 epithelial cells ( 22 ) . 
+This was also seen in triclosan-resistant populations and isolates obtained in similar experiments ( data not shown ) . 
+In subsequent experiments with chicks , variants OXCR1 and QACFGR2 were less ﬁt to disseminate than the parent strain and were not preferentially selected by therapeutic antibiotic treatment ( 39 ) . 
+However , although these strains are unlikely to present a great problem in chickens , it is not known if certain antimicrobial resistance mechanisms are responsible for the reduced virulence characteristics . 
+If this is not the case , it is possible that normal virulence is restored under certain conditions without a loss of reduced susceptibility to antibiotics . 
+Compromised growth of variants could be responsible for the impaired virulence characteristics of these strains . 
+In addition , the impaired invasiveness of TOPR2 could be attributed to low levels of several invasion proteins , like SipB , SipC , InvG , and PrgK . 
+The other two variants , surprisingly , contained large amounts of numerous secreted invasion proteins ( SipB , SipC , and SipD ) compared to the wild type ; in the case of SipB there were sevenfold and ﬁvefold larger amounts in QACFGR2 and OXCR1 , respectively . 
+Increased levels of invasion proteins , like PrgI , InvB , and InvG , were found in QACFGR2 , which could be attributed to increased levels of HilA , which is the master regulator of the transcription of the type III secretion system proteins . 
+Interestingly , overexpression of PhoP in QACFGR2 was unable to repress the expression of proteins of the type III secretion system , as previously reported ( 1 ) . 
+However , the reduced levels of PrgH , which were 22 % lower , might be responsible for their lower invasiveness . 
+This protein , together with PrgK , whose level was reduced by 33 % in OXCR1 , and InvG are major membrane components of the needle complex of the type III secretion system ( 9 ) . 
+Reduced amounts of PrgH might be associated with fewer functioning needles on the cells , resulting in accumulation of the Sip secreted proteins within the cell , and with reduced invasiveness . 
+It was shown previously that in a prgH deletion mutant , Sip proteins accumulated in the cell because of the defective type III secretion system ( 23 ) . 
+A common characteristic of all variants was the reduced levels ( 1.5-fold reduced ) of the membrane-bound F1F0 AT synthase subunits ( AtpA , AtpB , AtpC , AtpD , AtpF , AtpG , and AtpH ) . 
+F1F0 ATP synthase is known to be important for virulence in Salmonella serovar Typhimurium ( 16 ) , and its reduced levels in the variants could be responsible for the impaired invasiveness . 
+ATP synthase is responsible for the oxidative phosphorylation of ADP to ATP , and in addition , it pumps protons across the inner membrane to provide a proton gradient maintaining the intracellular pH and to drive efﬂux pumps . 
+However , it has previously been shown that in Listeria monocytogenes increased ATP synthase activity could lead to sensitivity to acidic conditions due to depletion of the cell 's supply of ATP , causing cell death ( 32 ) . 
+This might explain its low levels in the variants . 
+An E. coli mutant containing , similar to the variants , 50 % lower levels of ATP synthase than the corresponding wild type showed increased ATP synthesis by substrate level phosphorylation , respiration , and carbon ﬂow through the glycolytic pathway and the tricarboxylic acid cycle ( 19 ) . 
+The protein proﬁles of OXCR1 and QACFGR2 reﬂect a similar metabolic state , with the majority of the enzymes involved in uptake , phosphorylation , and metabolism of sugars overexpressed . 
+The proteins involved in glycolysis ( e.g. , Pgi and Eno ) and the tricarboxylic acid cycle ( e.g. , AcnA , SucB , and Mdh ) were also overexpressed an average of 2.4 - and 2.2-fold in OXCR1 ( see Fig . 
+S3 in the supplemental material ) and QACFGR2 ( see Fig . 
+S4 in the supplemental material ) , respectively . 
+However , these metabolic processes were mainly unaffected in TOPR2 ( see Fig . 
+S5 in the supplemental material ) . 
+Perhaps the increased efﬂux in the two other variants might be linked to higher energy requirements and greater uptake of sugars . 
+The possible increased carbon ﬂux in OXCR1 and QACFGR2 might account for the increased amounts of phosphotransacetylase ( Pta ) and acetate kinase ( AckA ) , which convert the excess acetyl coenzyme A to acetate and ATP ( 18 ) . 
+It is known that reduced ATP synthase activity is also associated with increased amounts of intracellular acetate ( 19 ) , which can lead to impaired motility , as found in the variants , by reducing the internal pH and proton motive force , impairing the ﬂagellar rotation ( 30 ) . 
+In addition , the low levels of CheA in all variants , which is responsible for transduction of the signal between chemosignal receptors and CheY , might be associated with the impaired motility . 
+Reduced levels of other motility-related proteins , like CheY , FliC , and FlhA , in TOPR2 could also be responsible for the reduced motility of this variant . 
+Several proteins related to the metabolism of purine and pyrimidine nucleotides , like Udp , GuaA , and GcvP , were overexpressed in the strains . 
+Udp , which was overexpressed 30-fold in OXR1 , is involved in salvage of the nucleotide uracil and probably linked to high levels of mRNA synthesis . 
+GuaA , which has been shown to play a role in long-term survival in stress conditions , is involved in growth rate-dependent control of ribosome synthesis , which helps to maintain the cellular pool of ribosomes at the level required by the protein synthesis ( 11 ) . 
+The increased protein synthesis is supported by the higher levels of ribosomal proteins ( RpsF , RpsV , and RplY ) . 
+The upregulation of proteins which are part of the biosynthetic machinery ( ribosomal protein subunits and amino acid biosynthetic proteins ) has previously been shown to be important for reduced susceptibility to quaternary ammonium compounds like benzalkonium chloride ( 29 ) . 
+In addition , high levels of DNA polymerase ( PolA ) were present in OXCR1 and 
+FIG. 5 . 
+LPS proﬁles of Salmonella serovar Typhimurium strains . 
+The graphs show the band intensities expressed as the inverse of the relative light intensity for the LPS proﬁles of TOPR2 ( A ) , QACFGR2 ( B ) , and OXCR1 ( C ) compared with the proﬁle of the wild type ( WT ) . 
+Gel electrophoresis and analyses were repeated three times to conﬁrm the reproducibility , and representative results are shown . 
+QACFGR2 but not in TOPR2 , stressing the importance of the DNA repair activity . 
+This could also explain the increased desiccation tolerance of QACFGR2 , but this increased tolerance was not seen in OXCR1 despite its high levels of PolA . 
+Several stress proteins , like HtrA , UspA , and DegQ , were overexpressed in OXCR1 and QACFGR2 , as was ClpX in all variants . 
+UspA is known to confer resistance to DNA-damag-ing agents and a variety of other stresses , including nutrient depletion and starvation . 
+These proteins could play an important role in the survival of these strains when they are challenged with disinfectants . 
+However , they did not seem to affect the thermotolerance and the H2O2 resistance of the variants . 
+The variants also exhibited smooth-colony morphology , which has previously been linked in E. coli with reduced susceptibility to hydrophobic disinfectants ( quaternary ammonium compounds ) and antibiotics ( 31 ) . 
+Colony morphology is known to be affected by LPS structure and curli ﬁmbria production . 
+In OXCR1 and QACFGR2 there was a loss of the modal distribution of LPS , favoring the short-O-antigen-chain molecules which could be responsible for the smooth-colony phenotype . 
+However , this was not seen in TOPR2 , and other factors , like altered curli ﬁmbria production , might be responsible for its altered colony morphology . 
+Altered LPS structure in OXCR1 and QACFGR2 could be attributed to the high levels of PhoP and WzzB . 
+Baker et al. ( 4 ) have shown that constitutive expression of PhoP causes overexpression of wzzB , which results in production of shorter O-antigen chains of the LPS . 
+The effects described above have also been linked to reduced virulence . 
+The PhoP/PhoQ system controls expression of 3 % of the genome and is important for the stability of RpoS ( 47 ) , H2O2 resistance , and survival at low pH , which explains the selection of these strains by disinfectants . 
+However , no H2O2 resistance was found in the variants . 
+In this paper we present evidence that prolonged treatment with disinfectants might result in reduced susceptibility to several antibiotics and antimicrobials linked to low levels of outer membrane proteins and overexpression of acrAB-tolC . 
+This conﬁrms a previous hypothesis that active efﬂux could be a connecting link between disinfectant resistance and antibiotic resistance ( 24 , 40 ) . 
+We also demonstrate that this effect often coincides with reduced motility and invasiveness , increased RNA and protein synthesis , and overexpression of several stress proteins . 
+Reduced oxidative level phosphorylation and increased substrate level phosphorylation , as well as increased amounts of the shorter O-antigen chains , were also found in some of the variants . 
+Through proteome analysis we showed how mechanisms of antimicrobial resistance can affect other important characteristics , like virulence , possibly resulting in low dissemination of such strains . 
+Further work focusing on the interactions between antimicrobial resistance and virulence mechanisms is important . 
+There is also a need for further epidemiological studies to determine the contributions of different kinds of disinfectants to the emergence of antibiotic resistance in order to establish the best practices to prevent or minimize the selection of antibiotic resistance . 
+ACKNOWLEDGMENTS
+We acknowledge receipt of funding for this study from the Department for Environment , Food , and Rural Affairs UK ( project OD2010 ) 
+The help of Emma Best , who performed the VNTR analysis , the help of Mary Bagnall , who performed the PFGE analysis , the help of Mark Jepson with the invasion assays , and the help of Karen Coles with analysis of the LPS were invaluable . 
+REFERENCES 
+1 . 
+Aguirre , A. , M. L. Cabeza , S. V. Spinelli , M. McClelland , E. Garcia Vescovi , and F. C. Soncini . 
+2006 . 
+PhoP-induced genes within Salmonella pathogenicity island 1 . 
+J. Bacteriol . 
+188:6889 -- 6898 . 
+2 . 
+Anderson , R. L. , J. H. Carr , W. W. Bond , and M. S. Favero . 
+1997 . 
+Susceptibility of vancomycin-resistant enterococci to environmental disinfectants . 
+Infect . 
+Control Hosp . 
+Epidemiol . 
+18:195 -- 199 . 
+3 . 
+Andrews , J. M. 2001 . 
+Determination of minimum inhibitory concentrations . 
+J. Antimicrob . 
+Chemother . 
+48 ( Suppl . 
+S1 ) :5 -- 16 . 
+4 . 
+Baker , S. J. , J. S. Gunn , and R. Morona . 
+1999 . 
+The Salmonella typhi melittin resistance gene pqaB affects intracellular growth in PMA differentiated U937 cells , polymyxin B resistance and lipopolysaccharide . 
+Microbiology 145:367 -- 378 . 
+5 . 
+Baucheron , S. , S. Tyler , D. Boyd , M. R. Mulvey , E. Chaslus-Dancla , and A. Cloeckaert . 
+2004 . 
+AcrAB-TolC directs efﬂux-mediated multidrug resistance in Salmonella enterica serovar Typhimurium DT104 . 
+Antimicrob . 
+Agents Chemother . 
+48:3729 -- 3735 . 
+6 . 
+Centers for Disease Control and Prevention . 
+2002 . 
+One-day ( 24 -- 48 h ) standardized laboratory protocol for molecular subtyping of Escherichia coli O157 : H7 , non-typhoidal Salmonella serotypes , and Shigella sonnei by pulsed ﬁeld gel electrophoresis ( PFGE ) . 
+PulseNet PFGE manual . 
+Centers for Disease Control and Prevention , Atlanta , GA. 7 . 
+Chart , H. 1994 . 
+Methods in practical laboratory microbiology . 
+CRC Press Inc. , Boca Raton , FL . 
+8 . 
+Coldham , N. G. , L. P. Randall , L. J. V. Piddock , and M. J. Woodward . 
+2006 . 
+Effect of ﬂuoroquinolone exposure on the proteome of Salmonella enterica serovar Typhimurium . 
+J. Antimicrob . 
+Chemother . 
+58:1145 -- 1153 . 
+9 . 
+Collazo , C. M. , and J. E. Galan . 
+1997 . 
+The invasion-associated type III system of Salmonella typhimurium directs the translocation of Sip proteins into the host cell . 
+Mol . 
+Microbiol . 
+24:747 -- 756 . 
+10 . 
+Cookson , B. D. , M. C. Bolton , and J. H. Platt . 
+1991 . 
+Chlorhexidine resistance in Staphylococcus aureus or just an elevated MIC ? 
+An in vitro and in vivo assessment . 
+Antimicrob . 
+Agents Chemother . 
+35:1997 -- 2002 . 
+11 . 
+Davies , I. J. , and W. T. Drabble . 
+1996 . 
+Stringent and growth rate-dependent control of the gua operon of Escherichia coli K-12 . 
+Microbiology 142:2429 -- 2437 . 
+12 . 
+DeGroote , M. A. , D. Granger , Y. Xu , G. Campbell , R. Prince , and F. C. Fang . 
+1995 . 
+Genetic and redox determinants of nitric oxide cytotoxicity in a Sal-monella typhimurium model . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 92:6399 -- 6403 . 
+13 . 
+Elsinghorst , E. A. 1994 . 
+Measurement of invasion by gentamicin resistance . 
+Methods Enzymol . 
+236:405 -- 420 . 
+14 . 
+Fraise , A. P. 2002 . 
+Biocide abuse and antimicrobial resistance -- a cause for concern ? 
+J. Antimicrob . 
+Chemother . 
+49:11 -- 12 . 
+15 . 
+Gao , J. , M. S. Friedrichs , and A. R. Dongre . 
+2005 . 
+Guidelines for the routine application of the peptide hits technique . 
+J. Am . 
+Soc . 
+Mass Spectrom . 
+16 : 1231 -- 1238 . 
+16 . 
+Garcia-del Portillo , F. , J. W. Foster , and B. B. Finlay . 
+1993 . 
+Role of acid tolerance response genes in Salmonella typhimurium virulence . 
+Infect . 
+Immun . 
+61:4489 -- 4492 . 
+17 . 
+Hardy , E. , E. Pupo , L. Castellanos-Serra , J. Reyes , and C. FernandezPatron . 
+1997 . 
+Sensitive reverse staining of bacterial lipopolysaccharides on polyacrylamide gels by using zinc and imidazole salts . 
+Anal . 
+Biochem . 
+244 : 28 -- 32 . 
+18 . 
+Ingram-Smith , C. , S. R. Martin , and K. S. Smith . 
+2006 . 
+Acetate kinase : not just a bacterial enzyme . 
+Trends Microbiol . 
+14:249 -- 253 . 
+19 . 
+Jensen , P. R. , and O. Michelsen . 
+1992 . 
+Carbon and energy metabolism of atp mutants of Escherichia coli . 
+J. Bacteriol . 
+174:7635 -- 7641 . 
+20 . 
+Jørgensen , F. , S. Leach , S. J. Wilde , A. Davies , G. S. A. B. Stewart , and T. Humphrey . 
+2000 . 
+Invasiveness in chickens , stress resistance and RpoS status of wild-type Salmonella enterica subsp . 
+enterica serovar Typhimurium de-ﬁnitive type 104 and serovar Enteritidis phage type 4 strains . 
+Microbiology 146:3227 -- 3235 . 
+21 . 
+Karatzas , K. A. G. , and M. H. J. Bennik . 
+2002 . 
+Characterization of a Listeria monocytogenes Scott A isolate with high tolerance towards high hydrostatic pressure . 
+Appl . 
+Environ . 
+Microbiol . 
+68:3183 -- 3189 . 
+22 . 
+Karatzas , K. A. G. , M. A. Webber , F. Jorgensen , M. J. Woodward , L. J. V. Piddock , and T. J. Humphrey . 
+2007 . 
+Prolonged treatment of Salmonella enterica serovar Typhimurium with commercial disinfectants selects for multiple antibiotic resistance , increased efﬂux and reduced invasiveness . 
+J. Antimicrob . 
+Chemother . 
+60:947 -- 955 . 
+23 . 
+Kimbrough , T. G. , and S. I. Miller . 
+2000 . 
+Contribution of Salmonella typhi-murium type III secretion components to needle complex formation . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 97:11008 -- 11013 . 
+24 . 
+Levy , S. B. 2002 . 
+Active efﬂux , a common mechanism for biocide and anti-biotic resistance . 
+J. Appl . 
+Microbiol . 
+92:65 S -- 71S . 
+25 . 
+Lindstedt , B. A. , T. Vardund , L. Aas , and G. Kapperud . 
+2004 . 
+Multiple-locus variable-number tandem-repeats analysis of Salmonella enterica subsp . 
+enterica serovar Typhimurium using PCR multiplexing and multicolor capillary electrophoresis . 
+J. Microbiol . 
+Methods 59:163 -- 172 . 
+26 . 
+Liu , H. , R. G. Sadygov , and J. R. Yates . 
+2004 . 
+A model for random sampling and estimation of relative protein abundance in shotgun proteomics . 
+Anal . 
+Chem . 
+76:4193 -- 4201 . 
+27 . 
+Lu , C. , W. E. Bentley , and G. Rao . 
+2004 . 
+A high-throughput approach to promoter study using green ﬂuorescent protein . 
+Biotechnol . 
+Prog . 
+20:1634 -- 1640 . 
+28 . 
+Ma , D. , M. Alberti , C. Lynch , H. Nikaido , and J. E. Hearst . 
+1996 . 
+The local repressor AcrR plays a modulating role in the regulation of acrAB genes of Escherichia coli by global stress signals . 
+Mol . 
+Microbiol . 
+19:101 -- 112 . 
+29 . 
+Mangalappalli-Illathu , A. K. , and D. R. Korber . 
+2006 . 
+Adaptive resistance and differential protein expression of Salmonella enterica serovar Enteritidis bioﬁlms exposed to benzalkonium chloride . 
+Antimicrob . 
+Agents Chemother . 
+50:3588 -- 3596 . 
+30 . 
+Maurer , L. M. , E. Yohannes , S. S. Bondurant , M. Radmacher , and J. L. Slonczewski . 
+2005 . 
+pH regulates genes for ﬂagellar motility , catabolism , and oxidative stress in Escherichia coli . 
+J. Bacteriol . 
+187:304 -- 319 . 
+31 . 
+McDonnell , G. , and A. D. Russell . 
+1999 . 
+Antiseptics and disinfectants : activity , action , and resistance . 
+Clin . 
+Microbiol . 
+Rev. 12:147 -- 179 . 
+32 . 
+McEntire , J. C. , G. M. Carman , and T. J. Montville . 
+2004 . 
+Increased ATPase activity is responsible for acid sensitivity of nisin-resistant Listeria monocytogenes ATCC 700302 . 
+Appl . 
+Environ . 
+Microbiol . 
+70:2717 -- 2721 . 
+33 . 
+McMurry , L. M. , M. Oethinger , and S. B. Levy . 
+1998 . 
+Overexpression of marA , soxS , or acrAB produces resistance to triclosan in laboratory and clinical strains of Escherichia coli . 
+FEMS Microbiol . 
+Lett . 
+166:305 -- 309 . 
+34 . 
+Moken , M. C. , L. M. McMurry , and S. B. Levy . 
+1997 . 
+Selection of multiple-antibiotic-resistant ( mar ) mutants of Escherichia coli by using the disinfectant pine oil : roles of the mar and acrAB loci . 
+Antimicrob . 
+Agents Chemother . 
+41:2770 -- 2772 . 
+35 . 
+Nikaido , H. 2003 . 
+Molecular basis of bacterial outer membrane permeability revisited . 
+Microbiol . 
+Mol . 
+Biol . 
+Rev. 67:593 -- 656 . 
+36 . 
+Olliver , A. , M. Vallé , E. Chaslus-Dancla , and A. Cloeckaert . 
+2004 . 
+Role of an acrR mutation in multidrug resistance of in vitro-selected ﬂuoroquinolone-resistant mutants of Salmonella enterica serovar Typhimurium . 
+FEMS Microbiol . 
+Lett . 
+238:267 -- 272 . 
+37 . 
+Poole , K. 2002 . 
+Mechanisms of bacterial biocide and antibiotic resistance . 
+Symp . 
+Ser . 
+Soc . 
+Appl . 
+Microbiol . 
+31:55 S -- 64S . 
+38 . 
+Prinz , W. A. , F. Åslund , A. Holmgren , and J. Beckwith . 
+1997 . 
+The role of the thioredoxin and glutaredoxin pathways in reducing protein disulﬁde bonds in the Escherichia coli cytoplasm . 
+J. Biol . 
+Chem . 
+272:15661 -- 15667 . 
+39 . 
+Randall , L. P. , M. C. Bagnall , K. A. G. Karatzas , N. C. Coldham , L. J. V. Piddock , and M. J. Woodward . 
+2007 . 
+Fitness and dissemination of disinfec-tant-selected multiple-antibiotic-resistant ( MAR ) strains of Salmonella enterica serovar Typhimurium in chickens . 
+J. Antimicrob . 
+Chemother . 
+61:156 -- 162 . 
+40 . 
+Randall , L. P. , S. W. Cooles , A. R. Sayers , and M. J. Woodward . 
+2001 . 
+Association between cyclohexane resistance in Salmonella of different sero-vars and increased resistance to multiple antibiotics , disinfectants and dyes . 
+J. Med . 
+Microbiol . 
+50:919 -- 924 . 
+41 . 
+Randall , L. P. , S. W. Cooles , L. J. V. Piddock , and M. J. Woodward . 
+2004 . 
+Effect of triclosan or a phenolic farm disinfectant on the selection of anti-biotic-resistant Salmonella enterica . 
+J. Antimicrob . 
+Chemother . 
+54:621 -- 627 . 
+42 . 
+Ricci , V. , P. Tzakas , A. Buckley , N. C. Coldham , and L. J. V. Piddock . 
+2006 . 
+Ciproﬂoxacin-resistant Salmonella enterica serovar Typhimurium strains are difﬁcult to select in the absence of AcrB and TolC . 
+Antimicrob . 
+Agents Chemother . 
+50:38 -- 42 . 
+43 . 
+Russell , A. D. 2000 . 
+Do biocides select for antibiotic resistance ? 
+J. Pharm . 
+Pharmacol . 
+52:227 -- 233 . 
+44 . 
+Russell , A. D. 2003 . 
+Biocide use and antibiotic resistance : the relevance of laboratory ﬁndings to clinical and environmental situations . 
+Lancet Infect . 
+Dis . 
+3:794 -- 803 . 
+45 . 
+Sambrook , J. , E. F. Fritsch , and T. Maniatis . 
+1989 . 
+Molecular cloning : a laboratory manual , 2nd ed . 
+Cold Spring Harbor Laboratory Press , Cold Spring Harbor , NY . 
+46 . 
+Threlfall , E. J. 2000 . 
+Epidemic Salmonella typhimurium DT 104 -- a truly international multiresistant clone . 
+J. Antimicrob . 
+Chemother . 
+46:7 -- 10 . 
+47 . 
+Tu , X. , T. Latiﬁ , A. Bougdour , S. Gottesman , and E. A. Groisman . 
+2006 . 
+The PhoP/PhoQ two-component system stabilizes the alternative sigma factor RpoS in Salmonella enterica . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 36:13503 -- 13508 . 
+48 . 
+Visalli , M. A. , E. Murphy , S. J. Projan , and P. A. Bradford . 
+2003 . 
+AcrAB multidrug efﬂux pump is associated with reduced levels of susceptibility to tigecycline ( GAR-936 ) in Proteus mirabilis . 
+Antimicrob . 
+Agents Chemother . 
+47:665 -- 669 . 
+49 . 
+Wray , C. , and W. J. Sojka . 
+1978 . 
+Experimental Salmonella Typhimurium infection in calves . 
+Res . 
+Vet . 
+Sci . 
+25:139 -- 143

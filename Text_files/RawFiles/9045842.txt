@@ -1,0 +1,528 @@
+JOURNAL OF BACTERIOLOGY , Mar. 1997 , p. 1787 -- 1795 0021-9193 / 97 / $ 04.0010 Copyright q 1997 , American Society for Microbiology 
+Mutations in the Alpha and Sigma-70 Subunits of RNA Polymerase Affect Expression of the mer Operon
+LAURIE F. CASLAKE , † SHOVON I. ASHRAF , ‡ AND ANNE O. SUMMERS * Department of Microbiology , The University of Georgia , Athens , Georgia 30602-2605 
+Received 10 October 1996/Accepted 17 December 1996 
+The mercury resistance ( mer ) operon is transcribed from overlapping , divergent promoters : PR for the regulatory gene merR and PTPCAD for the structural genes merTPCAD . 
+The dyadic binding site for MerR lies within the 19-bp spacer of the s70-dependent PTPCAD . 
+Unlike typical repressors , MerR does not exclude RNA polymerase from PTPCAD but rather forms an inactive complex with RNA polymerase at PTPCAD prior to addition of the inducer , the mercuric ion Hg ( II ) . 
+In this `` active repression '' complex , MerR prevents transcriptional initiation at merTPCAD until Hg ( II ) is added . 
+When Hg ( II ) is added , MerR remains bound to the same position and activates transcription of merTPCAD by distorting the DNA of the spacer region . 
+MerR also represses its own transcription from PR regardless of the presence or absence of Hg ( II ) . 
+To explore the role of MerR-RNA polymerase in these processes , we examined mutations in the s70 and a subunits of RNA polymerase , mutations known to inﬂuence other activators but not to impair transcription generally . 
+We assessed the effects of these s70 and a mutants on unregulated PTPCAD and PR transcription ( i.e. , MerR-independent transcription ) and on the two MerR-dependent processes : repression of PTPCAD and of PR and Hg ( II ) - induced activation of PTPCAD . 
+Among the MerR-independent effects , we found that mutations in regions 2.1 and 4.2 of rpoD suppress the deleterious effects of nonoptimal promoter spacing . 
+Some C-terminal rpoA mutants also have this property to a considerably lesser degree . 
+Certain `` spacer suppressor '' variants of rpoA and of rpoD also interfere with the MerR-dependent repression of PTPCAD and PR . 
+MerR-Hg ( II ) - mediated transcriptional activation of PTPCAD was also affected in an allele-speciﬁc manner by substitutions at position 596 of s70 and at positions 311 and 323 of a. Thus , certain changes in s70 or a render them either more or less effective in participating in the topologically novel transcriptional control effected by MerR at the divergent mer operons . 
+MerR , the regulatory protein of the bacterial mercury resistance operon , is unusual among prokaryotic activator proteins in that its dyadic binding site lies between the recognition elements of the s70-dependent mer structural gene promoter , PTPCAD ( 34 ) ( Fig. 1A ) . 
+This promoter has 235 and 210 hexamers which closely approximate consensus , but it deviates from consensus in that there are 19 bp separating the s70 recognition hexamers ( 26 ) . 
+Single and double base pair deletions in the interhexamer spacer result in stronger MerR-in-dependent expression from PTPCAD ( 22 , 27 ) . 
+MerR , when bound to the mer operator , bends the DNA ( ca. 258 [ 2 ] ) and represses transcription of the structural genes to a level 10-fold below that observed for a merR deletion strain . 
+Nonetheless , in this repressed condition , MerR fosters the stable binding of RNA polymerase , which can be clearly seen to occupy the 235 region ( but not the 210 region [ 1 ] ) of the merTPCAD promoter , even before the inducer , Hg ( II ) , is added ( 14 ) . 
+A similar phenomenon in which an inactive preinitiation complex is established has been observed with certain eukaryotic promoters ( 9 , 11 ) and is referred to as `` active repression '' to distinguish it from `` passive repression , '' in which the repressor simply occludes the binding site for the polymer ¬ 
+* Corresponding author . 
+Mailing address : Department of Microbiology , 527 Biological Sciences Building , The University of Georgia , Athens , GA 30602-2605 . 
+Phone : (706) 542-2669 . 
+Fax : (706) 542-6140 . 
+E-mail : summers@bscr.uga.edu . 
+† Present address : Department of Biology , Warren Wilson College , Asheville , NC 28815-9000 . 
+‡ Present address : Department of Biochemistry and Molecular Biology , University of Massachusetts Medical Center , Worcester , MA 01655 . 
+ase at the promoter . 
+Paradoxically , MerR remains bound to the dyadic operator site ( 14 ) when it subsequently activates transcription of the structural genes ( to a level as much as 100-fold above the repressed level [ 29 ] ) in response to Hg ( II ) . 
+When added , Hg ( II ) provokes MerR to unwind the spacer DNA ( ca. 558 ) thereby allowing RNA polymerase to contact the 210 sequence and initiate transcription ( 1 , 2 , 25 ) . 
+The tightly overlapped divergent promoter PR directs the synthesis of the merR transcript in a Hg ( II ) - independent fashion . 
+The PR promoter also has near-consensus 210 and 235 hexamers but differs from consensus in having a 15-bp spacer ( 26 ) . 
+When bound to the dyadic operator , MerR occludes the 11 position but not the 210 or 235 hexamers of P . 
+R The close juxtaposition of the MerR binding site and the recognition elements for s70 RNA polymerase suggested that there might be some physical contact ( s ) between these proteins which could be important both in repression and in Hg ( II ) - dependent activation of transcription . 
+Indeed , three pairs of acidic residues clustered within 17 amino acids in the central region of MerR ( D68 and E69 , E77 and D78 , and E83 and E84 ) resemble an acidic patch found on other activator proteins ( 6 , 7 , 15 ) . 
+Replacement of one pair of these residues with neutral residues ( E83Q and E84Q ) resulted in a MerR protein deﬁcient in repression ; however , neither the DNA binding afﬁnity ( Kd , ; 10210M ) nor the ability to activate transcription was altered ( 8 ) . 
+This suggests that these acidic resi-dues might be important during repression rather than activation . 
+The mer operon 's topologically novel regulatory mechanism makes unusual demands on RNA polymerase . 
+During repression , the holoenzyme ( Es70 ) engages in interactions with either 
+1 
+78 
+FIG. 1 . 
+( A ) Sequence of wild-type Tn21 merOP . 
+Previously isolated mutants ( 26 , 29 ) used in this study are indicated . 
+The solid arrows between the strands indicate the palindromic MerR binding region . 
+The 210 and 235 recognition hexamers of the structural gene promoter ( top strand ) and the merR promoter ( bottom strand ) are indicated by bars whose shading corresponds to the relevant transcript ( indicated by the large grey and black arrows ) . 
+( B ) Linear map of the RpoD and RpoA subunits of RNA polymerase . 
+The locations of mutations used in these studies are indicated below each polypeptide ; amino acids are shown in single-letter code . 
+Mutations are designated by a letter representing the wild-type amino acid followed by the residue position in the protein and a letter representing the mutant amino acid . 
+The four previously deﬁned regions of RpoD ( 13 ) and the two previously deﬁned regions of RpoA ( 18 ) are shown . 
+HTH , helix-turn-helix . 
+MerR or DNA or both , which allow it to stably occupy an inactive promoter . 
+Upon exposure to the inducer , Hg ( II ) , MerR changes its own conformation and thereby effects a change in DNA conformation . 
+RNA polymerase must be able to adjust its contacts accordingly ( with either MerR or the DNA or both ) in order to begin transcription . 
+We expected that the regions of RNA polymerase engaged in such interactions at mer might in some cases , but not in others , be the same as those previously deﬁned as important in other activation processes . 
+The availability of mutations of the genes encoding the Escherichia coli s70 ( s70 ) ( rpoD ) ( 31 , 32 ) and E. coli and Salmonella typhimurium a ( rpoA ) ( 21 , 33 ) subunits of RNA polymerase ( Fig. 1B ) with well-deﬁned speciﬁc effects on ac-tivator-dependent transcription in other systems provided us with an opportunity to assess the overlap between mer-related domains of RNA polymerase and domains ﬁguring in other activation processes . 
+Measurement of the MerR-independent ( i.e. , derepressed ) expression and the MerR-dependent repression of PTPCAD and PR and of the MerR-dependent Hg ( II ) - induced activation of PTPCAD provided an assessment of the ability of these RNA polymerase mutants to exploit the unusual aspects of transcriptional control in this system . 
+Because of the proximity of the MerR binding site to the s70 binding positions at 210 and 235 , we expected to see greater effects of mutations in s70 than of mutations in a , which has a binding site more distant from MerR . 
+Moreover , in vitro data obtained with truncated a proteins have indicated no role for the C terminus of a in MerR-mediated activation ( data cited in reference 17 ) . 
+Surprisingly , we found allele-speciﬁc effects of both a and s70 mutants on MerR-mediated processes . 
+We also observed a new property ( the ability to suppress the ill effects of nonideal spacers ) in one group of s70 mutants 
+Strains E. coli
+CAG1574 CAG7365 
+araD139 D ( ara leu ) 7697 DlacX74 galU galK hsdR rpsL recA56 srl gal3 Dcya D ( pro , lac ) XIII zaj : : Tn10 rpoD1 zgh : : Tn10 Kan , derived from MG1655 rpoD901 , derived from CAG7365 ( S389F ) rpoD904 , derived from CAG7365 ( Y571C ) rpoD911 , derived from CAG7365 ( E575K ) rpoD912 , derived from CAG7365 ( D570N ) Dlacchi74 galOP308 : : IS2 rpsL rpoD1 zgh : : Tn10 , derived from RV308 rpoD2 , derived from MS4274 ( R596H ) rpoD807 , derived from MS4274 ( R596C ) rpoD801 , derived from MS4274 ( R596S ) araD1 F ( ompF9-lacZ1 ) 16-13 zhc-3 : : Tn10 ( rpoA1 ) , derived from MC4100 rpoA85 , derived from JMS4540 ( P323L ) rpoA52 , derived from JMS4540 ( P323S ) rpoA53 , derived from JMS4540 ( G3S ) rpoA54 , derived from JMS4540 ( P322S ) 
+C. A. Gross D. A. Siegele 
+32 
+CAG7366 CAG7367 CAG7368 CAG7369 MS4274 MS4276 MS4278 MS4280 JMS4540 JMS4542 JMS4544 JMS4545 JMS4546 
+D. A. Siegele D. A. Siegele D. A. Siegele D. A. Siegele M. M. Susskind M. M. Susskind M. M. Susskind M. M. Susskind T. J. Silhavy T. J. Silhavy T. J. Silhavy T. J. Silhavy T. J. Silhavy 
+32 32 32 32 20 20 20 20 33 33 33 33 33 
+S. typhimurium TN2262 TN2758 TN3567 TN3569 TN3570 TN3571 
+leuBCD485 pepT7 : : MudJ ( rpoA1 ) 
+C C C C C C 
+. 
+G . 
+G . 
+G . 
+G . 
+G . 
+G 
+. 
+M . 
+M . 
+M . 
+M . 
+M . 
+M 
+ille ille ille ille ille ille 
+r r r r r r 
+leuBCD485 pepT7 : : MudJ zhb-1624 : : Tn10DrpoA8 ( oxrB8 ) ( G311R ) rpoA151 , derived from TN2262 ( G311E ) rpoA155 , derived from TN2262 ( L289F ) rpoA153 , derived from TN2262 ( R317H ) rpoA154 , derived from TN2262 ( W321 * ) 
+21 21 21 21 21 
+Plasmids
+Kanr p15A replicon Tetr Cmlr p15A replicon 
+pACYC177 AmpD pACYC184 pNH9 pSA1 pSJ43 pSJ206 , pSJ209 , pSJ238 
+W. Ross 
+29 
+merR1 merOP1 ; Kanr p15A replicon merR1 merOP1 ; Cmlr p15A replicon phoA-R ( D10 ) - T9-lacZ1 ; Ampr pMB1 replicon Derivative of pSJ43 with single base pair substitutions in the 235 and 210 hexamers merR1 merOP1 merT9-lacZ1 ; Ampr pMB1 replicon ; HindIII linker replaces EcoRI at nucleotide 26 of pWR2 Derivative of pSJ51 with a single base pair substitution in the 235 hexamer merR1 merOP1 merT9-lacZ1 ; Ampr pMB1 replicon merOP1 merT9-lacZ1 ; Ampr pMB1 replicon Derivative of pWR2 with a single base pair substitution in the 235 hexamer 
+N. Hamlett 
+12 
+This study 26 26 
+S.-J . 
+Park S.-J . 
+Park 
+pSJ51 
+S.-J . 
+Park 
+26 
+pSJ217 
+S.-J . 
+Park 
+26 
+W. Ross W. Ross W. Ross 
+pWR2 
+29 29 29 
+pWR10 pWR126 
+MATERIALS AND METHODS
+Bacterial strains and plasmids . 
+All plasmids used or constructed and the E. coli and S. typhimurium strains used in this work are listed in Table 1 . 
+The growth 70 rates of isogenic strains with mutations in the s and a subunits were similar to those of their respective parental strains . 
+Therefore , the effects on mer expression are not due to any general changes in growth rate caused by these rpo mutants . 
+The PhoA-LacZ reporter construct pSJ43 has lower absolute expression of P than does pWR2 ( 26 , 29 ) . 
+However , since the induction ratios of these TPCAD two reporter plasmids are similar , we infer that merT9-lacZ expression in pWR2 and merT9-lacZ and merR9-phoA expression in pSJ43 and its mutant derivatives reﬂect the natural expression of the mer operon to the same degree . 
+The levels of activated expression of mer in all of the wild-type parental strains used here average ﬁvefold higher than the derepressed levels , rather than the 10-fold increase seen with our benchmark strain CAG1574 ( 26 , 29 ) . 
+Since each of these parental rpoD1 strains differs from CAG1574 at several loci ( Table 1 ) , the basis for their differences in activated mer expression is not obvious . 
+For this reason each series of mutants is always compared to its otherwise isogenic parental strain . 
+General methods and media . 
+Plasmid DNA was prepared by the alkaline lysis method described by Birnboim and Doly ( 4 ) . 
+Restriction enzymes and T4 DNA ligase were from Promega Corporation ( Madison , Wis. ) and New England BioLabs ( Beverly , Mass. ) , respectively , and were used according to the speciﬁcations of the manufacturer . 
+Competent cells for electroporation were prepared according to the method described by the manufacturer ( Bio-Rad , Inc. ) . 
+Ampicillin ( 50 mg ml21 ) , kanamycin ( 50 mg ml21 ) , and chloramphenicol ( 25 mg ml21 ) were added , where appropriate , for the selection and maintenance of plasmids . 
+Luria-Bertani ( LB ) medium and agar plates were prepared as described by Miller ( 24 ) . 
+Plasmid construction and plasmid load . 
+pSA1 was constructed by digesting pWR2 ( 29 ) with EcoRI and pACYC184 with EagI and by ﬁlling in the 59 overhanging ends with the Klenow fragment of DNA polymerase . 
+The linearized plasmids ( pWR2 and pACYC184 ) were then digested with BamHI . 
+After gel puriﬁcation , the 670-bp EcoRI ( blunt ) - BamHI fragment of pWR2 was ligated to the 3.68-kbp EagI ( blunt ) - BamHI fragment from pACYC184 . 
+pSA1 contains Tn21 merR , merOP , and 29 codons of merT ( mer nucleotides 26 to 693 [ 3 ] ) . 
+b-Galactosidase and alkaline phosphatase assays with pSJ43 or one of its mutant derivatives as the reporter plasmid were done with MerR supplied in trans . 
+In the derepressed condition ( i.e. , no MerR ) a second plasmid was also present to equalize the number of plasmids present in each strain . 
+The plasmid copy number of each strain was determined by alkaline lysis extraction of plasmid DNA from 1.5 ml of cells removed from the Klett ﬂask just prior to Hg ( II ) induction . 
+A photographic negative of the ethidium bromide-stained agarose gel of linearized plasmid DNA was scanned on a Molecular Dynamics computing densitometer , model 300A . 
+The copy number of the reporter plasmid in each strain relative to that in the strain carrying wild-type s70 and a was determined densitometrically . 
+This number was used to correct the reporter activity in each of the mutant strains to that of the strain carrying wild-type s70 and a. b-Galactosidase assay . 
+Overnight cultures in LB broth were diluted 1/20 with fresh LB broth with the appropriate antibiotic . 
+The cells were grown an additional 50 Klett units and aliquoted into separate ﬂasks for induction with Hg ( II ) ( 1 mM for 20 min ) . 
+The cultures then were chilled rapidly on ice to preven further induction and/or growth , washed with minimal medium basal salts ( 24 ) , and then assayed for b-galactosidase activity ( 24 ) . 
+Since the E. coli strains designated JMS ( 33 ) have a chromosomal lacZ gene , the average background b-galactosidase activity for each strain was subtracted from MerR-Hg ( II ) - induced , MerR-repressed , and MerR-independent activities . 
+Alkaline phosphatase assay . 
+Cells were prepared as for the b-galactosidase assay except that after the induction period , the cells were washed with 1 mM Tris-HCl , pH 8.0 . 
+The washed cells were resuspended in 0.7 ml of 1 mM Tris-HCl , pH 8.0 . 
+After lysis of the cells with a solution containing 40 ml of chloroform per ml and 0.002 % sodium dodecyl sulfate , the reactions were started by addition of 50 ml of 0.4 % Sigma 104 phosphatase substrate ( Sigma Chemical Company ) , and the reaction mixtures were incubated at 378C . 
+To stop the reactions , 100 ml of KH2PO4 ( 1 M , pH 8.0 ) was added . 
+Alkaline phosphatase activity was determined as described by Schneider and Beck ( 30 ) . 
+The alkaline phosphatase activities of plasmid-free strains were determined to be negligible ( ,0.001 U ) . 
+W. Ross W. Ross W. Ross 
+pWR2 
+29 29 29 
+pWR10 pWR126 
+RESULTS AND DISCUSSION
+The response of mer expression to mutations in rpoD . 
+( i ) Alterations in regions 2.1 and 4.2 of E. coli s70 suppress nonoptimal spacers in PTPCAD and PR . 
+The amino acid substitutions D570N , Y571C , and E575K are encoded in s70 region 4.2 , while the mutation yielding S389F lies in region 2.1 . 
+In the absence of MerR , all four of these Es70 mutants increased expression from PTPCAD as much as 3.5-fold compared to wild-type Es70 ( Fig. 2A ) in a Hg ( II ) - independent manner . 
+Moreover , D570N and E575K also overcame MerR repression ( 2.5 - and 3.7-fold increases respectively , compared to Es70 ) . 
+Surprisingly , in the activated condition [ with both MerR and Hg ( II ) ] , these region 2.1 and 4.2 Es70 mutants did not significantly alter PTPCAD expression compared to that of their pa-rental strain , CAG7365 . 
+With the divergent PR promoter , holoenzymes containing these s70 mutants similarly effected a two - to threefold increase in expression compared to Es70 when MerR was absent ( Fig. 2B ) , and they also overcame MerR repression of its own promoter 15 - to 20-fold , although the absolute activities were low ( ,8 U ) . 
+As seen with the wild-type holoenzyme , neither repressed nor derepressed expression of P was affected by R Hg ( II ) . 
+70 ( ii ) The region 2.1 and 4.2 s mutants still use canonical contacts in PTPCAD and PR . 
+There are two primary possibilities for the enhanced expression by these mutants under derepressed conditions of both P and P : these s70 proteins TPCAD R may ( i ) be utilizing alternate recognition elements or ( ii ) be less sensitive to the long interhexamer spacer . 
+To distinguish between these two alternatives , we analyzed expression by Es70-S389F and Es70-E575K from promoters with nucleotide substitutions in the 235 ( pSJ217 and pWR126 ) ( Fig. 3 ) or the 
+FIG. 2 . 
+( A ) LacZ activities from the merT9-lacZ fusion ( PTPCAD ) in isogenic strains containing mutant rpoD alleles . 
+The reporter constructs were pWR2 ( with MerR ) and pWR10 ( without MerR ) . 
+Only the rpoD mutation is shown for clarity . 
+Activity of b-galactosidase was determined as described in Materials and Methods . 
+Each bar represents the average b-galactosidase activity in two independent assays . 
+( B ) PhoA activities from the merR9-phoA fusion ( PR ) in isogenic strains containing mutant rpoD alleles . 
+Each strain contained the reporter construct pSJ43 with either pSA1 ( supplying MerR in trans ) or pACYC184 ( MerR2 control for nonspeciﬁc plasmid burden on growth ) . 
+Only the rpoD mutation is shown for clarity . 
+Activity of alkaline phosphatase was determined as described in Materials and Methods . 
+Each bar represents the average alkaline phosphatase activity in two independent assays . 
+Numbers shown above each bar are the fold differences between the mutant strains and the parental strain under each condition tested . 
+The standard deviations are shown . 
+FIG. 3 . 
+LacZ activities from the merT9-lacZ fusion ( PTPCAD ) in isogenic strains containing mutant rpoD alleles and nucleotide substitutions in the 235 recognition hexamer . 
+The reporter constructs were pSJ217 ( with MerR ) , pSJ217DR ( without MerR ) , pWR126 ( with MerR ) , and pWR126DR ( without MerR ) . 
+The wild-type promoter constructs are pWR2 ( with MerR ) and pWR10 ( without MerR ) . 
+Only the rpoD mutation is shown for clarity . 
+Activity of b-ga-lactosidase was determined as described in Materials and Methods . 
+Each bar represents the average b-galactosidase activity . 
+b-Galactosidase assays were performed on three days , and relative values were consistent . 
+Numbers shown above each bar are the fold differences between the mutant strains and the parental strain under each condition tested . 
+The standard deviations are shown 
+210 ( pSJ206 , pSJ209 , and pSJ238 ) ( Fig. 4A ) recognition hexamers of PTPCAD . 
+In the absence of MerR , Es70-S389F expressed the 235 hexamer mutants at levels 27-fold ( pSJ217 ) and 2-fold ( pWR126 ) higher than those obtained with the wild-type Es70 ( Fig. 3 ) . 
+Indeed , Es70-S389F transcribes from pSJ217 ( 235 hexamer GTGACT [ mutant nucleotide underlined ] ) as well as it does from the wild-type promoter ( TTGACT ) ( Fig. 2A ) . 
+However , Es70-E575K is severely inhibited in its MerR-inde-pendent transcription by changes at either of these positions in the 235 hexamer of PTPCAD . 
+Nucleotide substitutions in two highly conserved positions of the 210 hexamer ( pSJ206 , TGAGGT , and pSJ209 , TAAG GA ) caused Es70 as well as Es70-S389F and Es70-E575K to lose the ability to transcribe from the derepressed mutant promoter ( Fig. 4A ) . 
+Moreover , the substitution in pSJ238 , which changes the less highly conserved nucleotide at position 211 ( to TACGGT ) , also abolishes MerR-independent expression from P for wild-type Es70 and both mutant holoen-TPCAD zymes , but all holoenzymes retain some activated expression . 
+Since the 210 hexamers of PTPCAD and PR overlap ( Fig. 1A ) , this same set of 210 hexamer mutations can be used to assess the requirements of these s70 mutant holoenzymes for canonical contacts in the PR promoter with its short ( 15-bp ) spacer . 
+Two of the promoter mutations , one in pSJ209 and one in pSJ238 , are located in the 210 hexamer of PR , while the third , in pSJ206 , lies immediately downstream of the 210 hexamer of P . 
+The alteration in pSJ206 had no effect on the R elevated expression seen with Es70-S389F and Es70-E575K ( Fig. 4B ) ; however , the wild-type holoenzyme exhibited two-fold-lower expression from this mutant promoter . 
+Wild-type Es70 expression from pSJ209 , which carries a 210 hexamer more similar to consensus ( TATCCT ) , was twofold higher than that from the wild-type promoter , and Es70-S389F and Es70-E575K further increased expression from this mutant promoter as much as 1.8-fold . 
+The substitution in pSJ238 ( TAA CCG ) , which changes one of the most highly conserved nucleotides in the 210 hexamer , abolishes expression from PR with wild-type Es70 as well as Es70-S389F and Es70-E575K . 
+These mutants with point mutations in regions 2.1 and 4.2 of s70 were originally isolated as allowing high-level expression of lac in an activator-independent manner in a Dcya strain of E. coli ( 31 ) . 
+They are also able to transcribe Plac with many different mutations in the 210 or 235 hexamers but are not speciﬁc to a particular position of the promoter ( 31 , 32 ) , suggesting that these changes affect DNA sequence-independent interactions . 
+Recently , in vivo examination of some of these mutants has established that s70 is also important as a `` ruler '' in sensing the dimensions of the spacer between the 210 and 235 recognition hexamers ( 10 ) . 
+In the absence of MerR , holoenzymes containing each of these s70 mutants vigorously transcribed both mer promoters . 
+At least some of the consensus promoter contacts are essential for this enhanced activity , since Es70-S389F and Es70-E575K are unable to suppress both a nonoptimal spacer and certain nonconsensus hexamers of PTPCAD or of PR ( either 235 [ Fig. 3 ] or 210 [ Fig. 4 ] ) . 
+The sole exception on this point was the ability of Es70-S389F to transcribe PTPCAD with the 235 hexamer mutation GTGACT . 
+Amino acid 389 of s70 lies in region 2.1 , which is believed to contact the core RNA polymerase ( 19 ) . 
+Enhanced transcription by Es70-S389F from a promoter with a nonconsensus 235 hexamer was also seen with Plac ( 32 ) . 
+Without cyclic AMP receptor protein , Es70-S389F expression from Plac with a T-to-G transversion at 236 ( analogous to the change in pSJ217 ) was similar to that from wild-type Plac . 
+Thus , s70 region 2.1 alterations may be less sensitive to changes near the 59 end of the 235 hexamer than to changes at other positions . 
+The vigorous transcription effected by these mutant holoenzymes was not entirely repressible by MerR at either PTPCA or P . 
+This impairment of repression suggests that either di-R rectly ( via overlapping binding sites or protein-protein contacts ) or indirectly ( via modulation of DNA ﬂexibility or MerR-DNA contacts ) these RNA polymerases are interfering with the action of MerR at PTPCAD and PR . 
+In the presence of MerR-Hg ( II ) , Es70-S389F and Es70-E575K can transcribe from all of these mutant promoters nearly as well as or better than wild-type Es70 . 
+This suggests that when MerR-Hg ( II ) underwinds the spacer DNA , thereby compensating for the interhexamer spacing defect , Es70-S389F and Es70-E575K can tolerate nucleotide changes at these positions in the 235 and 210 recognition hexamers . 
+Data presented above show that these s70 variants still require most of the canonical promoter contacts , and Dombroski et al. ( 10 ) have shown that they use the same start site with Ptac regardless of spacer length . 
+However , none of these data rule out the possibility that these variants also require additional contacts in the promoter for their enhanced activity , some of which might be occluded when MerR is present . 
+An alternative explanation for the behavior of these rpoD variants is that they can reconﬁgure either the DNA or MerR or both into an `` activation-like '' conformation in the absence of Hg ( II ) but are no more effective at forming an open complex and clearing the promoter than the wild-type polymerase in the presence of MerR-Hg ( II ) . 
+( iii ) Effects of alterations in the extreme carboxyl-terminal portion of E. coli s70 on PTPCAD and PR . 
+The amino acid of the s70 product identiﬁed as contacting lcI and AraC is R596 in the carboxyl terminus ( 16 , 20 ) . 
+In MerR-independent activity , holoenzymes containing any of three changes at this position ( Es70-R596H , Es70-R596C , and Es70-R596S ) increased PTPCAD expression ( up to 2.7-fold , Es70-R596H ) ( Fig. 5A ) regardless of the presence of Hg ( II ) . 
+However , they show no increase above wild-type s70 expression in their expression of the derepressed PR ( Fig. 5B ) . 
+For the two MerR-dependent functions , these C-terminal s70 mutants displayed distinctly different behaviors . 
+In active repression , Es70-R596S did not compromise MerR function but Es70-R596H overcame repression ( 2.6-fold ) . 
+In Hg ( II ) - dependent activation , Es70-R596S had only 40 % of the MerR ¬ 
+FIG. 4 . 
+( A ) LacZ activities from the merT9-lacZ fusion ( PTPCAD ) in isogenic strains containing mutant rpoD alleles and nucleotide substitutions in the 210 recognition hexamer . 
+Each strain contained the reporter construct pSJ206 , pSJ209 , or pSJ238 with either pSA1 ( supplying MerR in trans ) or pACYC184 ( MerR2 control for nonspeciﬁc plasmid burden on growth ) . 
+The wild-type promoter construct is pSJ43 . 
+Only the rpoD mutation is shown for clarity . 
+Activity of b-galactosidase was determined as described in Materials and Methods . 
+Each bar represents the average b-galactosidase activity in three independent assays . 
+( B ) PhoA activities from the merR9-phoA fusion ( PR ) in isogenic strains containing mutant rpoD alleles and nucleotide substitutions in the 210 recognition hexamer . 
+Each strain contained the reporter construct pSJ206 , pSJ209 , or pSJ238 with either pSA1 ( supplying MerR in trans ) or pACYC184 ( MerR2 control for nonspeciﬁc plasmid burden on growth ) . 
+The wild-type promoter construct is pSJ43 . 
+Only the rpoD mutation is shown for clarity . 
+Activity of alkaline phosphatase was determined as described in Materials and Methods . 
+Each bar represents the average alkaline phosphatase activity . 
+Alkaline phosphatase assays were performed on two days , and relative values were consistent . 
+Numbers shown above each bar are the fold differences between the mutant strains and the parental strain under each condition tested . 
+The standard deviations are shown . 
+Hg ( II ) - dependent P expression that wild-type Es70 TPCAD had , whereas Es70-R596H was slightly better at MerR-Hg ( II ) - de-pendent expression than wild-type Es70 . 
+Finally , unlike the other two mutants , the R596C mutant was indistinguishable from wild-type Es70 in both MerR-dependent functions . 
+Thus , alterations in the extreme C-terminal position 596 of s70 show allele-speciﬁc effects on both MerR-mediated activation and repression . 
+While all three changes at s70-R596 yield mutants that are better than the wild type at derepressed expression of the 19-bp spacer of PTPCAD , they show no improvement for the 15-bp spacer of PR ; thus , they are not general spacer suppressors . 
+However , substitution with histidine results in slightly better MerR-Hg ( II ) - dependent activation and in overcoming of repression at both PTPCAD and PR ; substitution with cysteine or serine impairs activation and has little or no effect on repression at either promoter . 
+Thus , MerR-related processes may have requirements for contacts at R596 of s70 which are distinct from the requirements of MerR-independent processes . 
+Since the region in which residue 596 lies is only known to interact with other activator proteins and not with DNA , it is less likely that the effects of these mutants on MerR-related processes arise from simple competition for promoter binding . 
+Alternatively , the R596H holoenzyme may interact very effectively with the MerR-DNA complex , perhaps even fostering an activation-like conﬁguration before Hg ( II ) is added . 
+In contrast , the R596C or R596S holoenzyme may interact less effectively with the activated conﬁguration of the MerR-Hg ( II ) - DNA complex . 
+In summary , there are very dramatic effects of holoenzymes containing s70 mutations in regions 2.1 and 4.2 on MerR-independent expression from PTPCAD and PR . 
+While retaining the requirement for canonical contacts in the 210 and 235 recognition hexamers , holoenzymes containing these s70 mutants behave as spacer suppressors capable of enhanced expression at interhexamer spacers of either 19 bp ( PTPCAD ) or 15 bp ( PR ) . 
+Some of these holoenzymes also interfere with MerR-mediated active repression at both promoters . 
+In contrast , mutations in the extreme C terminus of s70 enhance the derepressed expression from promoters with a long spacer but not from promoters with a short spacer . 
+The latter mutant also have allele-speciﬁc effects on MerR-Hg ( II ) - mediated repression and activation at PTPCAD . 
+Response of mer expression to mutations in rpoA . 
+Effects of alterations in E. coli and S. typhimurium a on PTPCAD and PR . 
+The C terminus of the a subunit of RNA polymerase interacts with DNA in the upstream regions of certain promoters ( 5 ) and with activators binding on the 59 side of the 235 hexamer ( reviewed in reference 17 ) . 
+Because MerR binds on the 39 side of the 235 hexamer , we expected that alterations in a would not affect either of the MerR-dependent processes of active repression or transcriptional activation of mer . 
+However , al-lele-speciﬁc effects on MerR-dependent functions were found at two amino acids in the C terminus of the a subunit . 
+Such effects were observed in a set of four a mutants originally isolated in E. coli as defective in OmpR-regulated transcription of ompF9-lacZ ( 33 ) . 
+All of these mutant holoenzymes have slightly increased activity in the derepressed condition at both PTPCAD and PR ( Fig. 6 ) . 
+However , in MerR-dependent processes , the holoenzyme containing a leucine substitution ( a-P323L ) exhibits twofold higher activation and is also 2.5-fold more active in the repressed condition than is the wildtype holoenzyme ( Fig. 6A ) . 
+In contrast , a serine substitution at the same position ( a-P323S ) exhibits near wild-type levels of activity under both MerR-dependent conditions . 
+A serine substitution at the adjacent position ( a-P322S ) interferes with MerR repression of PTPCAD but has little effect on Hg ( II ) - induced activation . 
+This latter mutant ( a-P322S ) also interferes with MerR repression at PR as does a-G3S ( Fig. 6B ) . 
+A second group of a mutants were originally isolated in S. typhimurium based on their diminished expression of OxrA-dependent genes during anaerobic growth ( 21 ) . 
+Holoenzymes containing these point mutations in the a subunit ( a-L289F , a-G311E , a-G311R , a-R317H , and a-W321 * ; the asterisk re-fers to a nonsense codon ) were signiﬁcantly inhibited in expression from PTPCAD under both MerR-repressed and - dere-pressed conditions ( Fig. 7A ) . 
+In the activated condition , only the holoenzyme containing a-G311R transcribes PTPCAD at levels similar to those obtained with wild-type Es70 , while a holoenzyme with a different substitution at the same position ( a-G311E ) is only half as active at PTPCAD . 
+At PR this group of a mutants were all impaired in derepressed activity , variously allowing only 30 to 50 % of wild-type activity , and none significantly overcame MerR-mediated repression of PR ( Fig. 7B ) . 
+Prior to the work reported here there have been no published studies addressing the effect of a on regulators which bind downstream of the 235 region . 
+As noted above , unpublished studies ( cited in reference 17 ) had shown that deletion of contact site I of the a subunit did not interfere with MerR-Hg ( II ) - induced transcriptional activation in vitro . 
+However , in contrast to the in vitro behavior of MerR with truncated a subunits , MerR is sensitive in vivo to alterations at G311 and P323 . 
+Changing either residue results in distinct MerR-depen-dent responses of the mer promoter ( Fig. 6 ) . 
+The rpoA mutants originally identiﬁed as impaired in OmpR activation ( G3S , P322S , P323L , and P323S ) are all more effective ( 50 to 90 % more effective than the wild type ) in expressing PTPCAD but are no better than the wild type at PR . 
+Thus , they are not general spacer suppressors like the rpoD mutants described above but are simply able to do well on this promoter with a 19-bp spacer . 
+Moreover , none of them is defective in MerR-mediated activation ( Fig. 6A ) , so MerR does not require the contacts altered by these mutations in the same way as OmpR does . 
+However , substitution of leucine for proline at position 323 stimulates twofold-higher expression of PTPCAD under both activated and repressed conditions , although MerR-independent expression is unaffected ( Fig. 6B ) . 
+In contrast , a mutant with a serine substitution at this same position is little different from the wild type in these two MerR-depen-dent processes . 
+Substitution of serine for the adjacent proline ( position 322 ) results only in impairment of repression ; it does not stimulate activation . 
+The group of a mutants originally selected for their effects on OxrA show lower MerR-independent expression of both the 19-bp ( Fig. 7A ) and 15-bp ( Fig. 7B ) spacers and do no overcome MerR repression of either promoter . 
+With one exception ( G311R ) , they are also defective in MerR-dependent activated expression of PTPCAD ( Fig. 7A ) . 
+The transcription proﬁciency of the arginine-substituted holoenzyme at 311 compared to that of the glutamate-substituted variant suggests that a positive charge ( but not a negative one ) at 311 allows interaction with some MerR-related structure to restore transcriptional competence . 
+However , a charge difference at position 311 is irrelevant in MerR-independent transcription of the promoter . 
+Thus , the MerR-related processes of repression and activation of PTPCAD may have residue-speciﬁc requirements in the regions around G311 and P323 of a . 
+Such requirements suggest interactions , perhaps through the ﬂexible linker arm of the a subunit ( 5 , 28 , 35 ) , through another subunit of RNA polymerase ( s70 has been cross-linked to the C terminus of a between residues 209 and 329 [ 23 ] ) , or with some MerR-me-diated DNA conformation . 
+In summary , we have examined the abilities of well-charac-terized rpoD and rpoA mutants to exploit the unusual aspects of transcriptional control in the mer operon . 
+In addition to observing a novel general effect of certain rpoD mutants ( the ability to function with nonoptimal spacers ) , we have also noted allele-speciﬁc effects of other mutants in s70 and in a . 
+The behaviors of strains with mutations at R596 of rpoD and at G311 and P323 of rpoA are consistent with there being required structures at these residues to support interactions either with MerR or with some MerR-related conformation of the promoter DNA . 
+Mutations at these three residues can affect the ability of holoenzymes containing these altered subunits to engage in the MerR-dependent processes of mer transcriptional control . 
+These observations suggest a certain intimacy in the relationship between MerR and RNA polymerase in the merOP region , perhaps even physical contact . 
+Current studies with puriﬁed MerR and RNA polymerase are testing this hypothesis . 
+FIG. 5 . 
+( A ) LacZ activities from the merT9-lacZ fusion ( PTPCAD ) in isogenic strains containing mutant rpoD alleles . 
+The reporter constructs were pWR2 ( with MerR ) and pWR10 ( without MerR ) . 
+Only the rpoD mutation is shown for clarity . 
+Activity of b-galactosidase was determined as described in Materials and Methods . 
+Each bar represents the average b-galactosidase activity . 
+b-Galactosidase assays were performed on three days , and relative values were consistent . 
+( B ) PhoA activities from the merR9-phoA fusion ( PR ) in isogenic strains containing mutant rpoD alleles . 
+Each strain contained the reporter construct pSJ43 with either pNH9 ( supplying MerR in trans ) or pACYC177 AmpD ( MerR2 control for nonspeciﬁc plasmid burden on growth ) . 
+Only the rpoD mutation is shown for clarity . 
+Activity of alkaline phosphatase was determined as described in Materials and Methods . 
+Each bar is the average alkaline phosphatase activity in three independent assays . 
+Numbers shown above each bar are the fold differences between the mutant strains and the parental strain under each condition tested . 
+The standard deviations are shown . 
+FIG. 6 . 
+( A ) LacZ activities from the merT9-lacZ fusion ( PTPCAD ) in isogenic strains containing mutant rpoA alleles . 
+The reporter constructs were pWR2 ( with MerR ) and pWR10 ( without MerR ) . 
+Only the rpoA mutation is shown for clarity . 
+Activity of b-galactosidase was determined as described in Materials and Methods . 
+Each bar represents the average b-galactosidase activity in six independent assays . 
+( B ) PhoA activities from the merR9-phoA fusion ( PR ) in isogenic strains containing mutant rpoA alleles . 
+Each strain contained the reporter construct pSJ43 with either pNH9 ( supplying MerR in trans ) or pACYC177 AmpD ( Mer2 control for nonspeciﬁc plasmid burden on growth ) . 
+Only the rpoA mutation is shown for clarity . 
+Activity of alkaline phosphatase was determined as described in Materials and Methods . 
+Each bar represents the average alkaline phosphatase activity in two independent assays . 
+Numbers shown above each bar are the fold differences between the mutant strains and the parental strain under each condition tested . 
+The standard deviations are shown . 
+ACKNOWLEDGMENTS
+We are grateful to Carol Gross , Mimi Susskind , Tom Silhavy , and Charles Miller for bacterial strains and to Alicia Dombroski for communication of results prior to publication . 
+We thank Tim Hoover , Alicia Dombroski , John Helmann , Charlie Moran , Linc Sonenshein , and an anonymous reviewer for helpful discussions and/or critical reading of the manuscript . 
+We thank Joy Wireman and Scott Jacobs for technical assistance with the activity assays . 
+This work was supported by NSF grant 9218636 to A.O.S. 
+REFERENCES 
+1 . 
+Ansari , A. Z. , J. E. Bradner , and T. V. O'Halloran . 
+1995 . 
+DNA-bend modulation in a repressor-to-activator switching mechanism . 
+Nature 374:371 -- 375 . 
+2 . 
+Ansari , A. Z. , M. L. Chael , and T. V. O'Halloran . 
+1992 . 
+Allosteric underwinding of DNA is a critical step in positive control of transcription by Hg-MerR . 
+Nature 355:87 -- 89 . 
+3 . 
+Barrineau , P. , P. Gilbert , W. J. Jackson , C. S. Jones , A. O. Summers , and S. Wisdom . 
+1984 . 
+The DNA sequence of the mercury resistance operon of the IncFII plasmid NR1 . 
+J. Mol . 
+Appl . 
+Genet . 
+2:601 -- 619 . 
+4 . 
+Birnboim , H. C. , and J. Doly . 
+1979 . 
+A rapid alkaline extraction procedure for screening recombinant plasmid DNA . 
+Nucleic Acids Res . 
+7:1513 -- 1523 . 
+5 . 
+Blatter , E. E. , W. Ross , H. Tang , R. L. Gourse , and R. H. Ebright . 
+1994 . 
+Domain organization of RNA polymerase a subunit : C-terminal 85 amino acids constitute a domain capable of dimerization and DNA binding . 
+Cell 78:889 -- 896 . 
+6 . 
+Bushman , F. D. , and M. Ptashne . 
+1988 . 
+Turning l Cro into a transcriptional activator . 
+Cell 54:191 -- 197 . 
+7 . 
+Bushman , F. D. , C. Shang , and M. Ptashne . 
+1989 . 
+A single glutamic acid residue plays a key role in the transcriptional activation function of lambda repressor . 
+Cell 58:1163 -- 1171 . 
+8 . 
+Comess , K. M. , L. M. Shewchuk , K. Ivanetich , and C. T. Walsh . 
+1994 . 
+Construction of a synthetic gene for the metalloregulatory protein MerR and analysis of regionally mutated proteins for transcriptional regulation . 
+Biochemistry 33:4175 -- 4186 . 
+9 . 
+Cowell , I. G. 1994 . 
+Repression versus activation in the control of gene transcription . 
+Trends Biochem . 
+Sci . 
+19:38 -- 42 . 
+10 . 
+Dombroski , A. J. , B. D. Johnson , M. Lonetto , and C. A. Gross . 
+1996 . 
+The sigma-subunit of Escherichia coli RNA-polymerase senses promoter spacing . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 93:8858 -- 8862 . 
+11 . 
+Fondell , J. D. , A. L. Roy , and R. G. Roeder . 
+1994 . 
+Unliganded thyroid hormone receptor inhibits formation of a functional preinitiation complex : implications for active repression . 
+Genes Dev . 
+7:1400 -- 1410 
+12 . 
+Hamlett , N. V. , E. C. Landale , B. H. Davis , and A. O. Summers . 
+1992 . 
+Roles of the Tn21 merT , merP , and merC gene products in mercury resistance and mercury binding . 
+J. Bacteriol . 
+174:6377 -- 6385 . 
+13 . 
+Helmann , J. D. , and M. J. Chamberlin . 
+1988 . 
+Structure and function of bacterial sigma factors . 
+Annu . 
+Rev. Biochem . 
+57:839 -- 872 . 
+14 . 
+Heltzel , A. , I. W. Lee , P. A. Totis , and A. O. Summers . 
+1990 . 
+Activator-dependent preinduction binding of s-70 RNA polymerase at the metalregulated mer promoter . 
+Biochemistry 29:9572 -- 9584 . 
+15 . 
+Hochschild , A. , N. Irwin , and M. Ptashne . 
+1983 . 
+Repressor structure and the mechanism of positive control . 
+Cell 32:319 -- 325 . 
+16 . 
+Hu , J. C. , and C. A. Gross . 
+1985 . 
+Mutations in the sigma subunit of E. coli RNA polymerase which affect positive control of transcription . 
+Mol . 
+Gen. Genet . 
+199:7 -- 13 . 
+17 . 
+Ishihama , A. 1993 . 
+Protein-protein communication within the transcription apparatus . 
+J. Bacteriol . 
+175:2483 -- 2489 . 
+18 . 
+Kimura , M. , N. Fujita , and A. Ishihama . 
+1994 . 
+Functional map of the alpha subunit of Escherichia coli RNA polymerase . 
+Deletion analysis of the amino-terminal assembly domain . 
+J. Mol . 
+Biol . 
+242:107 -- 115 . 
+19 . 
+Lesley , S. A. , and R. R. Burgess . 
+1989 . 
+Characterization of the Escherichia coli transcription factor s70 : localization of a region involved in the interaction with core RNA polymerase . 
+Biochemistry 28:7728 -- 7734 . 
+20 . 
+Li , M. , H. Moyle , and M. M. Susskind . 
+1994 . 
+Target of the transcriptional activation function of phage l cI protein . 
+Science 263:75 -- 77 . 
+21 . 
+Lombardo , M.-J. , D. Bagga , and C. G. Miller . 
+1991 . 
+Mutations in rpoA affect expression of anaerobically regulated genes in Salmonella typhimurium . 
+J. Bacteriol . 
+173:7511 -- 7518 . 
+22 . 
+Lund , P. A. , and N. L. Brown . 
+1987 . 
+Role of the merT and merP gene products of Tn501 in the induction and expression of resistance to mercuric ions . 
+Gene 52:207 -- 214 . 
+23 . 
+McMahan , S. A. , and R. R. Burgess . 
+1994 . 
+Use of aryl azide cross-linkers to investigate protein-protein interactions : an optimization of important conditions as applied to Escherichia coli RNA polymerase and localization of a s70-a cross-link to the C-terminal region of a. Biochemistry 33:12092 -- 12099 . 
+24 . 
+Miller , J. H. 1972 . 
+Experiments in molecular genetics . 
+Cold Spring Harbor 
+25 . 
+O'Halloran , T. V. , B. Frantz , M. K. Shin , D. M. Ralston , and J. G. Wright . 
+1989 . 
+The MerR heavy metal receptor mediates positive activation in a topologically novel transcription complex . 
+Cell 56:119 -- 129 . 
+26 . 
+Park , S.-J. , J. Wireman , and A. O. Summers . 
+1992 . 
+Genetic analysis of the Tn21 mer operator-promoter . 
+J. Bacteriol . 
+174:2160 -- 2171 . 
+27 . 
+Parkhill , J. , and N. L. Brown . 
+1990 . 
+Site-speciﬁc insertion and deletion mutants in the mer promoter-operator region of Tn501 ; the nineteen basepair spacer is essential for normal induction of the promoter by MerR . 
+Nucleic Acids Res . 
+18:5157 -- 5162 . 
+28 . 
+Ross , W. , K. K. Gosink , J. Salomon , K. Igarashi , C. Zou , A. Ishihama , K. Severinov , and R. L. Gourse . 
+1993 . 
+A third recognition element in bacterial promoters : DNA binding by the a subunit of RNA polymerase . 
+Science 262:1407 -- 1413 . 
+29 . 
+Ross , W. , S.-J . 
+Park , and A. O. Summers . 
+1989 . 
+Genetic analysis of transcriptional activation and repression in the Tn21 mer operon . 
+J. Bacteriol . 
+171:4009 -- 4018 . 
+30 . 
+Schneider , K. , and C. F. Beck . 
+1986 . 
+Promoter-probe vectors for the analysis of divergently arranged promoters . 
+Gene 42:37 -- 48 . 
+31 . 
+Siegele , D. A. , J. C. Hu , and C. A. Gross . 
+1988 . 
+Mutations in rpoD , the gene encoding the s70 subunit of Escherichia coli RNA polymerase , that increase expression of the lac operon in the absence of CAP-cAMP . 
+J. Mol . 
+Biol . 
+203:29 -- 37 . 
+32 . 
+Siegele , D. A. , J. C. Hu , W. A. Walter , and C. A. Gross . 
+1989 . 
+Altered promoter recognition by mutant forms of the s70 subunit of Escherichia coli RNA polymerase . 
+J. Mol . 
+Biol . 
+206:591 -- 603 . 
+33 . 
+Slauch , J. M. , F. D. Russo , and T. J. Silhavy . 
+1991 . 
+Suppressor mutations in rpoA suggest that OmpR controls transcription by direct interaction with the a subunit of RNA polymerase . 
+J. Bacteriol . 
+173:7501 -- 7510 . 
+34 . 
+Summers , A. O. 1992 . 
+Untwist and shout : a heavy metal-responsive transcriptional regulator . 
+J. Bacteriol . 
+174:3097 -- 3101 . 
+35 . 
+Zhou , Y. , P. S. Pendergrast , A. Bell , R. Williams , S. Busby , and R. H. Ebright . 
+1994 . 
+The functional subunit of a dimeric transcription activator protein depends on promoter architecture . 
+EMBO J. 13:4549 -- 4557

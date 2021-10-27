@@ -1,0 +1,451 @@
+6 ) 360 -- 367 
+Virology 351 ( 200 
+www.elsevier.com/locate/yviro 
+Induction of the SOS response y bacteriophage lytic development in Salmonella enterica b
+Susana Campoy a , Anna Hervàs b , Núria Busquets b , Ivan Erill c , Laura Teixidó b , Jordi Barbé a , b , 
+a 
+Centre de Recerca en Sanitat Animal ( CReSA ) , Universitat Autònoma de Barcelona , Bellaterra , 08193 Barcelona , Spain b Departament de Genètica i Microbiologia , Universitat Autònoma de Barcelona , Unitat de Microbiologia , Edifici C , Bellaterra , 08193 Barcelona , Spain c Department of Biological Sciences , University of Maryland , Baltimore County ( UMBC ) ,1000 Hilltop Circle , Baltimore , MD 21250 , USA 
+Received 20 December 2005 ; returned to author for revision 26 March 2006 ; accepted 1 April 2006 Available online 19 May 2006 
+Abstract 
+Infection of Salmonella enterica with lytic mutants of either P22 or SE1 bacteriophages triggers the expression of its DNA damage-inducible SOS response through a lexA-dependent pathway . 
+This induction of the SOS system strictly requires the presence of the bacteriophage kil gene . 
+Accordingly , plasmid overexpression of the kil gene also promotes the S. enterica SOS network induction . 
+Furthermore , S. enterica Gifsy prophages are induced following the infection with SE1 and P22 lytic derivatives . 
+The observed data reveal a hitherto unknown SOS system-mediated fail-safe mechanism of resident prophages against infection with heteroimmune lytic bacteriophages and suggest a novel role for the kil family of proteins . 
+© 2006 Elsevier Inc. . 
+All rights reserved . 
+Keywords: Bacteriophage lytic cycle; SOS system; Salmonella enterica; Resident prophages; Kil gene
+Introduction
+The bacterial SOS system comprises a battery of genes aimed at guaranteeing cell survival in the presence of extensive DNA damage ( Walker , 1984 ) . 
+The SOS response is induced by the activation of the RecA protein after binding to single-stranded DNA fragments ( ssDNA ) ( Sassanfar and Roberts , 1990 ) . 
+Activated RecA ( RecA * ) promotes the autocatalytic cleavage of the Ala84-Gly85 bond of the Escherichia coli LexA repressor ( Little , 1991 ) . 
+This cleavage , mediated by LexA residues Ser119 and Lys156 , is similar in mechanism to that observed for serine proteases ( Luo et al. , 2001 ) and prevents LexA from binding to its specific recognition motif in the promoter region of SOS genes . 
+The cleavage of the LexA protein in many other bacterial species belonging to different Phyla follows the same mechanism that in E. coli ( Campoy et al. , 2003 ; Fernández de Henestrosa et al. , 1998 ; Winterling et al. , 1998 ) . 
+The set of genes induced during the SOS response of both E. coli ( Kenyon and 
+Walker , 1980 ) and Salmonella enterica ( Smith et al. , 1991 ) includes , among others , error-prone polymerases ( UmuDC and DinB ) , excision repair proteins ( UvrAB ) , and a protein determining the reversible inhibition of cell division ( SulA ) . 
+In addition to the genes directly regulated by LexA , the induction of the SOS response via ssDNA activation of RecA promotes cleavage of other repressors . 
+Among these , several lytic cycle repressors of temperate bacteriophages have been shown to undergo RecA * - mediated autocatalytic cleavage through their serine protease domain ( Roberts and Devoret , 1983 ; Sauer et al. , 1982 ) , which is very similar to that of LexA . 
+Another class of temperate bacteriophages carry a gene ( tum ) encoding an anti-repressor protein that is under direct negative control of LexA ( Shearwin et al. , 1998 ) . 
+Whether it is due to the direct RecA * - mediated cleavage of the phage repressor or to the binding of SOS-induced Tum protein to the repressor , the net result of both mechanisms is the inactivation of the phage repressor as a result of DNA damage . 
+Infection of bacterial cells with either non-temperate bacteriophages or lytic mutants of temperate bacteriophages interferes with several cellular processes ( Nechaev and Severinov , 2003 ) , including the normal replication of th bacterial chromosome ( Smith and Levine , 1965 ) . 
+Furthermore , and depending on the bacteriophage , either a significant amount of ssDNA ( Inciarte et al. , 1980 ) or a massive degradation of the bacterial chromosome ( Schmiger and Buch , 1975 ; Woodworth-Gutai et al. , 1972 ) may be generated during the development of the bacteriophage lytic cycle . 
+Nevertheless , the putative impact of bacteriophage lytic cycle development on the bacterial SOS response has not been analyzed to date . 
+In the present work , the behavior of the S. enterica SOS system after cell infection with either wild type or lytic mutants of P22 and SE1 bacteriophages has been studied . 
+In addition , and taking advantage of the fact that S. enterica contains several prophages ( Bunny et al. , 2002 , FigueroaBossi et al. , 1997 ) , the effect of the infection with either P22 or SE1 derivatives on these resident prophages has also been analyzed . 
+Corresponding author . 
+Centre de Recerca en Sanitat Animal ( CReSA Universitat Autònoma de Barcelona , Bellaterra , 08193 Barcelona , Spain . 
+E-mail address : jordi.barbe@uab.es ( J. Barbé ) . 
+) , 
+0042-6822 / $ - see front matter © 2006 Elsevier Inc. . 
+All rights reserved . 
+doi :10.1016 / j.virol .2006.04.001 
+Results and discussion
+Infection of S. enterica serovar Typhimurium with P22 and SE1 lytic c2 mutants induces the SOS system 
+To analyze the behavior of the S. enterica SOS regulon during phage infection , the expression of its recA gene was measured by quantitative RT-PCR assays . 
+Total RNA of S. enterica cells was extracted after infection with either wild-type P22 bacteriophage or a lytic derivative carrying a mutation inactivating the c2 gene which encodes the lytic cycle repressor ( Table 1 ) . 
+Fig. 1 shows how recA expression in P22c2-infected cells remained invariable up to 10 min post-infection . 
+By 20 and 30 min following phage infection , however , the level of recA transcription has clearly increased ( Fig. 1A ) . 
+In contrast , no significant change in recA transcription levels was detected when the wild-type P22 bacteriophage was used ( Fig. 1A ) . 
+Table 1 
+Spontaneous lytic mutants of P22 , SE1 and their kil derivatives used in this work Phage kil Genotype Characteristics of c2 Position b mutation a 
++127 
+P22c2 
+Wild type Frameshift ( A insertion ) 
+129-bp internal Nonsense deletion c ( A → T ; Lys16 → Amber codon ) Wild type Transition ( C → T ; Arg9 → Cys9 ) 129-bp internal Transition ( T → C ; deletion c Ser113 → Pro113 ) a For each lytic mutant bacteriophage , the c2 gene was sequenced by dideoxy method ( Sanger et al. , 1977 ) on an ALF Sequencer ( Pharmacia Biotech ) using the suitable oligonucleotide and the Thermo Sequenase Cy5 Dye Terminator cycle sequencing kit ( Amersham Biosciences ) . 
+b Position of each mutation with respect to the translational starting point of c2 gene of either P22 or SE1 bacteriophages or their derivatives . 
+c The 129-bp deletion introduced into the kil gene is described in Materials and methods section . 
+To confirm that the recA gene induction is not P22 exclusive , the effect of infection with another S. enterica specific bacteriophage ( SE1 ) ( Llagostera et al. , 1986 ) was also studied . 
+In accordance with the abovementioned results , a similar increase in recA expression is detected after infection with a c2 mutant ( Table 1 ) of SE1 ( Fig. 1A ) , while no change in the recA transcription level can be appreciated when the SE1 wild-type temperate bacteriophage is used for S. enterica infection ( Fig. 1A ) . 
+To further determine whether this induction was LexA-dependent , a lexA ( Ind ) S. enterica derivative was constructed ( Table 2 ) , and its recA expression after bacteriophage infection was also analyzed . 
+As expected , the lexA ( Ind ) mutant strain did not show any increase in recA transcription levels after infection with either P22 or SE1 c2 mutant bacteriophages ( Fig. 1B ) . 
+Likewise , a S. enterica recA-defective mutant ( Table 2 ) did not show bacteriophage-mediated SOS response activation ( Fig. 1B ) . 
+Phage infection-mediated induction of the SOS system requires the bacteriophage kil gene 
+As many other bacteriophages ( Casjens et al. , 2004 ; Juhala et al. , 2000 ; Perna et al. , 2001 ; Sato et al. , 2003 ) , λ and P22 phages ( Greer , 1975 ; Vander Byl and Kropinski , 2000 ) contain a gene annotated as kil that has been hypothetically linked to the bacterial cell-cycle regulation , since its expression has been shown to transiently block cell division ( Semerjian et al. , 1989 ; Sergueev et al. , 2002 ) . 
+Similarly , sequencing of the SE1 genome has revealed the presence of a kil gene with a 74 % amino acid sequence identity to that of P22 . 
+( Busquets et al. , 2005 ) . 
+Because of the relationship between the induction of the SOS response and the inhibition of cell division ( Walker , 1984 ) , we decided to analyze here the effect of infection with a kil knockout mutant of both P22 and SE1 lytic derivatives on the behavior of S. enterica recA expression . 
+An internal 129-bp deletion was introduced in the P22 bacteriophage kil gene as described in Materials and methods and , through RT-PCR studies , it was confirmed that the transcription of genes located downstream of kil is not affected ( data not shown ) . 
+Afterwards , a spontaneous clear mutant of the P22 kil derivative was isolated ( Table 1 ) , and the effect upon the SOS response was analyzed . 
+Fig. 2A shows that the c2 lytic derivative of P22 kil mutant is unable to trigger the expression of the S. enterica recA gene . 
+The same results were obtained when S. enterica was infected with an SE1 kil lytic mutant , suggesting that the kil gene product might be responsible for the observed SOS induction . 
+To further confirm this hypothesis , the kil gene was cloned into the pUA1085 plasmid ( Table 2 ) , downstream the Ptac promoter that is negatively regulated by the LacI protein . 
+As expected , real-time RT-PCR assays clearly pointed out that the IPTG-mediated overexpression of the kil gene induces the recA expression ( Fig. 2B ) . 
+The function of the kil gene has been traditionally assumed to be related to cell division inhibition , although the mechanism by which the kil gene would block cell divisio has yet to be elucidated . 
+However , and since SOS induction leads to cell filamentation due to expression of the cell division inhibitor SulA ( Schoemaker et al. , 1984 ) , the above data suggest that the kil cell division inhibitory effect ( Semerjian et al. , 1989 ; Sergueev et al. , 2002 ) might be actually mediated by SulA after bacteriophage-triggered expression of the host SOS response . 
+P22 kil c2 
++46 
++25 
+SE1c2 
+SE1 kil c2 
++337 
+Fig. 1 . 
+( A ) Induction factor of recA gene at 10 , 20 , and 30 min after infection of the S. enterica ATCC14028 wild-type strain with either P22 or SE1 wild-type or c2 mutant derivatives at MOI of 5 . 
+( B ) Induction factor of the recA and lexA genes , respectively , in S. enterica ATCC14028 lexA ( Ind ) and recA ( Def ) mutants . 
+Samples were taken at 20 min post-infection with either P22c2 or SE1c2 at MOI of 5 . 
+As a control , the induction factor of both genes in the wild-type strain is also shown . 
+The induction factor measured by quantitative RT-PCR is the ratio of the relative mRNA concentration for the studied gene ( recA or lexA ) in infected cells to that in noninfected cells . 
+The relative mRNA concentration for each gene is normalized to that of the trpA gene . 
+In each case , error bars indicate the standard error of the mean from three independent experiments ( each in triplicate ) . 
+Gifsy prophages are induced by infection with heteroimmune lytic bacteriophages 
+The inactivation of the lexA gene and the consequent deregulation of the SOS response in S. enterica stimulates the expression of several genes ( e.g. , tum , STM2605 or STM1048 ) encoded in Gifsy-1 and Gifsy-2 prophages ( Bunny et al. , 2002 ) . 
+Therefore , we analyzed here the effect of P22c2 infection on the lysogenic cycle stability of Gifsy prophages using several approaches . 
+Firstly , the expression of genes STM2605 and STM1048 of the Gifsy-1 and Gifsy-2 prophages , respectively , was studied . 
+Induction of these two genes can be taken as an indicator of lytic gene expression , since it has been shown that neither is a moron , and each is located in the morphogenesis module of their respective prophages ( Bunny et al. , 2002 ; Frye et al. , 2005 ) . 
+The behavior of these genes was analyzed at 20 min post-infection with a P22c2 mutant . 
+Levels of expression of STM2605 and STM1048 increased about 3 - to 4-fold in these conditions ( Fig. 3A ) . 
+Likewise , the mRNA levels of Gifsy-1 and Gifsy-2 tum genes were also enhanced following P22c2 infection ( Fig. 3A ) , even though the induction levels for all the monitored Gifsy-1 and Gifsy-2 genes were lower than those observed following mytomicin-C induction of the SOS response ( Fig. 3B ) . 
+The same results were obtained when the expression levels of these Gifsy genes were analyzed after SE1c2 mutant infection ( data not shown ) . 
+On the other hand , tum , STM1048 and STM2605 expression was not stimulated in a S. enterica lexA ( Ind ) genetic background ( data not shown ) . 
+Secondly , and since this method has been recently employed to monitor Gifsy prophage induction ( Alonso et al. , 2005 ; Frye et al. , 2005 ) , the amount of Gifsy phage produced DNA was monitored by real-time PCR experiments . 
+In agreement with the abovementioned results for prophage gene expression ( Fig. 3 ) , a significant increase of intracellula 
+Gifsy DNA concentration was observed after P22c2 infection ( Fig. 4A ) , and accordingly , the same rise in intracellular Gifsy DNA concentration was obtained when SE1c2 bacteriophage was used ( data not shown ) . 
+Finally , an increase in the production of Gifsy infective particles was also detected 80 min after P22 ( Fig. 4B ) or SE1 bacteriophage infection ( data not shown ) . 
+The P22 genome encodes the ant gene whose product has been shown to block the c2 repressor of this bacteriophage , as well as that of those of other related phages ( Levine et al. , 1975 ; Prell , 1978 , 1979 ) . 
+It must be noted that this ant gene is negatively regulated by the product of the P22 arc gene ( Levine et al. , 1975 ; Susskind and Botstein , 1978 ) , and that P22 mutants presenting a constitutive expression of the ant gene exhibit a virulent phenotype ( Levine et al. , 1975 ) . 
+In this context , it could be argued that the stimulatory effect upon the lytic cycle of Gifsy phages described in this work was due to the effect of an overproduction of the ant product , which could then inhibit the action of the Gifsy c2 repressor . 
+However , it must be stressed that the SE1 phage genome lacks the ant gene ( Busquets et al. , 2005 ) , thus providing a convenient negative control for this effect . 
+Several mechanisms of defensive strategy against hetero-immune infecting phages , as rexAB or sieAB ( Hofer et al. , 1995 ; Ranade and Poteete , 1993 ; Shinedling et al. , 1987 ) , have been described for prophages . 
+These mechanisms aim at guaranteeing prophage persistence and include evasive strategies , like super-infection exclusion or lysogenic conversion of the host cell wall , as well as active mechanisms , such as targeted DNA restriction systems . 
+Nonetheless , our data demonstrate that , at least in S. enterica , infection of a lysogenic cell by a heteroimmune lytic bacteriophage triggers the SOS system , and that this response , in turn , induces lytic cycle of the resident prophages . 
+Thus , SOS-mediated induction of prophage lytic cycle in lysogenic cells may not have evolved only as an early warning mechanism of relatively infrequent DNA damage , but also , as a hitherto unknown fail-safe mechanism to prevent loss of these prophages in an evolutionary arms race with competing lytic phages . 
+Finally , and given that bacterial virulence factors are frequently encoded in the genome of temperate bacter-iophages ( Boyd and Brussow , 2002 ) , it must be noted that the prophage induction mechanism described in this work may be a relevant dissemination pathway of these factors among bacterial populations . 
+Table 2 
+Bacterial strains and plasmids used in this work 
+Relevant features Bacterial strains 
+Source 
+ATCC14028 S. enterica serovar Typhimurium ATCC14028 wild type strain . 
+GE13 S. enterica strain lexA3 ( Ind ) malE : : Tn10 . 
+CmR . 
+MA6684 As ATCC14028 but bio-106 : : Tn10 , galE496 Gifsy-1 [ - ] Gifsy-2 [ - ] As ATCC14028 but RifR As UA1770 but recAΩKm . 
+RifR and KmR As ATCC14028 but recAΩKm . 
+KmR As ATCC14028 but lexA3 ( Ind ) . 
+Obtained by transduction using GE13 strain as donor . 
+CmR . 
+As ATCC14028 but carrying the pUA1092 plasmid . 
+ApR. . 
+ATCC 
+( Salles et al. , 1987 ) 
+Dr. Nara Figueroa-Bossi 
+UA1770 UA1820 
+( Campoy et al. , 2002 ) This work 
+UA1821 
+This work 
+UA1822 
+This work 
+UA1823 
+This work 
+Plasmids pGE108 
+ColE1 derivative carrying the cea : : lacZ fusion . 
+KmR . 
+Suicide vector . 
+ApR. . 
+Glutathione S-transferase gene fusion vector.ApR . 
+pGEMT vector containing the E. coli Ptac promoter and the lacIq gene of the pGEX 4T-1 vector . 
+ApR. . 
+As pUA1085 but with the P22 kil gene placed downstream of the Ptac promoter . 
+ApR. . 
+( Salles et al. , 1987 ) 
+pGP704 
+( de Lorenzo et al. , 1990 ) Amersham Biosciences 
+pGEX 4T-1 
+pUA1085 
+This laboratory 
+pUA1092 
+This work 
+Fig. 2 . 
+( A ) Induction factor of the S. enterica ATCC14028 recA gene at 20 min post-infection with c2 virulent derivatives of either P22 or SE1 kil mutants . 
+As a control , the induction factor of this gene after infection with either P22c2 or SE1c2 is also shown . 
+The induction factor is the ratio of the relative mRNA concentration for recA gene measured by quantitative RT-PCR in infected and non-infected wild-type cells . 
+( B ) RT-PCR analysis of recA gene induction after kil gene overexpression . 
+The relative recA mRNA amount in the absence ( - IPTG ) or presence ( + IPTG ) of IPTG ( 1 mM ) is shown . 
+Always , the relative mRNA concentration for recA gene is normalized to the trpA gene . 
+In each case , error bars indicate the standard error of the mean from three independent experiments ( each in triplicate ) 
+Fig. 3 . 
+( A ) Induction factor of STM2605 ( Gifsy-1 ) , STM1048 ( Gifsy-2 ) and tum ( from Gifsy-1 and Gifsy-2 ) genes at 20 min post-infection with a P22c2 mutant . 
+( B ) Induction factor of recA , STM2605 , STM1048 and tum after 2 h of mitomycin-C treatment . 
+In all cases , the induction factors were measured by quantitative RT-PCR , and they are the ratio of the relative mRNA amount of each gene in infected cells with respect to that of non-infected cells . 
+The relative mRNA concentration for each gene is normalized to trpA gene . 
+In each case , error bars indicate the standard error of the mean from three independent experiments ( each in triplicate ) . 
+Materials and methods
+Bacteria and plasmids
+S. enterica strains and plasmids used in this work are listed in Table 2 . 
+S. enterica was grown either at 37 ° or 42 ° in LB . 
+When necessary , ampicillin ( 100 μg / ml ) , kanamycin ( 100 μg / ml ) or chloramphenicol ( 34 μg / ml ) were added to the bacterial culture . 
+DNA extractions , cloning , transformation and other molecular techniques used in this work were performed as described elsewhere ( Sambrook and Russell , 2001 ) . 
+Construction of P22 and SE1 kil mutants and isolation of their c2 bacteriophage derivatives 
+P22 and SE1 kil defective mutants were obtained from their respective lysogenic strains via a PCR-based gene replacement method ( Datsenko and Wanner , 2000 ) . 
+The antibiotic resistance cassette from the pKD3 plasmid was amplified using KilP1 and KilP2 70-nt long oligonucleotides . 
+These primers contain 20-mers that prime with pKD3 vector ( Datsenko and Wanner , 2000 ) and 50-mers presenting kil homology ( from position − 21 to +33 and from +150 to +200 with respect to the kil translation start point , in KilP1 and KilP2 primers , respectively ) . 
+After PCR product transformation into S. enterica ATCC14028 strain lysogenic for P22 phage , and containing the pKD46 expressing the λ Red-recombinase vector ( Datsenko and Wanner , 2000 ) , kil defective chloramphenicol resistant derivatives were selected . 
+Afterwards , and using the pCP20 FLP-recombinase expression vector ( Cherepanov and Wackernagel , 1995 ) , the chloramphenicol resistance cassette was eliminated . 
+Spontane-ous clear mutants of either P22 or SE1 wild type , as well as of their kil defective derivatives , were isolated as described ( Davis et al. , 1980 ) . 
+Afterwards , their c2 gene was amplified from bacteriophages DNA , with the appropriate oligonucleotides , and sequenced twice by the dideoxy method ( Sanger et al. , 1977 ) on an ALF Sequencer ( Amersham-Pharmacia ) using the Thermo Sequenase Cy5 Dye Terminator Sequencing Kit ( Amersham Biosciences ) . 
+Mutations in the c2 gene of each virulent bacteriophage derivative used in this work are listed in Table 1 . 
+Fig. 4 . 
+( A ) Increase of relative intracellular Gifsy bacteriophage DNA amount following P22c2 mutant infection . 
+Samples were taken 10 , 30 , 50 , and 70 min after P22c2 adsorption to S. enterica cells . 
+It is worth noting that the lysis of P22c2-infected bacteria occurred 80 min post-infection . 
+The DNA increase was measured by quantitative PCR and it is the ratio of the STM2633 ( from Gifsy-1 ) and STM1008 ( from Gyfsy-2 ) relative gene amount in infected cells with respect to that of noninfected cells . 
+The behavior of both Gifsy genes was simultaneously analyzed . 
+The intracellular Gifsy DNA quantity was normalized to that of the trpA gene as nonbacteriophage gene indicator . 
+( B ) Increase of relative Gifsy infective particles production after either 80 min post P22c2 infection or 2 h treatment with mitomycin-C ( 20 μg / ml ) . 
+The relative increase is the concentration of the infective particles detected after each treatment with respect to that of non-treated cultures . 
+In all cases , error bars indicate the standard error of the mean of three independent experiments ( each in triplicate ) 
+Construction of S. enterica mutants
+S. enterica serovar typhimurium ATCC14028 lexA ( Ind ) strain , was obtained by transduction using GE13 strain ( Salles et al. , 1987 ) as a donor ( Table 2 ) . 
+Among kanamycin-resistant tranductants , the presence of the lexA ( Ind ) mutation was confirmed through β-galactosidase assay after introduction of the pGE108 plasmid ( Table 2 ) which contains a LexA-regulated cea ∷ lacZ fusion ( Salles et al. , 1987 ) . 
+The S. enterica serovar Typhimurium recA knockout mutant was constructed as described before ( Campoy et al. , 2002 ) . 
+Briefly , the S. enterica ATCC14028 recA gene was amplified , cloned in the pGEMT vector and a 2.2 kb cassette encoding kanamycin resistance ( ΩKm ) was inserted into its ClaI internal site . 
+After cloning the recAΩKm construction into the pGP704 suicide vector ( de Lorenzo et al. , 1990 ) , the obtained plasmid was introduced by triparental mating into a S. enterica ATCC14028 RifR derivative . 
+Kanamycin-resistant transconjugants were screened for the loss of vector-mediated ampicillin resistance and the presence of the recA mutation was confirmed by PCR . 
+Afterwards , the recAΩKm construction was transferred by transduction to a S. enterica ATCC14028 wild-type strain as described before ( Campoy et al. , 2002 ) . 
+The absence of P22int7 ( HT ) prophage in kanamycin-resistant tranductants was determined by streaking the mutants onto green plates in which S. enterica P22 lysogenic colonies were dark green whereas non-lysogenic cells formed light-colored colonies ( Davis et al. , 1980 ) . 
+Afterwards , the presence of recAΩKm construction was confirmed by PCR . 
+Cloning and overexpression of kil gene
+The kil gene was amplified by PCR using Ndekil ( GGAATTCCATATGACCATTACGCCTG ) and Bamkil 
+( CGGGATCCGTCATGAACATGACGCCTC ) oligonucleo-tides carrying NdeI and BamHI restriction sites at their 5 ′ - end , respectively . 
+The PCR product was digested using NdeI and BamHI endonucleases and cloned into a pUA1085 plasmid ( Table 2 ) , placing the kil gene downstream the Ptac promoter to obtain plasmid pUA1092 . 
+Afterwards , the construction was confirmed by sequencing , and the plasmid pUA1092 was electro-transformed into S. enterica ATCC14028 , giving rise to the UA1823 strain . 
+For kil overexpression , IPTG ( 1 mM ) was added to an exponential growing culture of the UA1823 strain . 
+After 2-h incubation at 37 °C , total RNA was extracted using RNeasy Mini kit ( Quiagen ) . 
+Quantitative RT-PCR and PCR experiments
+Quantitation of the expression and the DNA amount for several genes in S. enterica cells following bacteriophage infection was analyzed through quantitative RT-PCR and PCR analysis , respectively , according the following procedure . 
+P22 or SE1 bacteriophages were added to a multiplicity of infection of 5 pfu/cfu into fresh-growing S. enterica cultures previously treated with KCN ( 5 mM ) during 10 min , allowing absorption for 25 min without agitation . 
+Afterwards , the mixture was centrifuged , and the pellet was resuspended in LB media and incubated with agitation at 37 °C . 
+Samples were periodically taken and either total RNA or DNA extractions were performed using RNeasy Mini kit ( Quiagen ) or Easy-DNA ( Invitrogen ) , respectively . 
+For RT-PCR assays , absence of DNA in RNA extractions was confirmed by PCR analysis . 
+The level of recA , STM2605 , STM1048 or tum genes transcription was in all cases , and in concordance with standard methodology ( Brooks et al. , 2001 ; Campoy et al. , 2003 ) , normalized with respect to that of trpA gene , since this gene has been shown to be non-inducible by DNA damage in the Gamma Proteobacteria ( Courcelle et al. , 2001 ) . 
+The increase in intracellular DNA concentration for Gifsy-1 and Gifsy-2 bacteriophages was measured , as described previously , by analyzing the behavior of STM2633 and STM1008 genes , respectively ( Frye et al. , 2005 ) . 
+Both genes were tested simultaneously using the same primer pair in infected and non-infected cells . 
+In all cases , the amount of Gifsy DNA was normalized with respect to that of S. enterica trpA gene as a non-bacteriophage gene indicator . 
+When required , S. enterica ATCC14028 cultures were treated with mitomycin-C as described before ( Campoy et al. , 2003 ) . 
+Measurement of in vivo Gifsy phage induction
+Samples of S. enterica ATCC14028 cultures either infected with P22c2 or SE1c2 bacteriophages or treated during 2 h with mitomycin-C were taken out , centrifuged and filtered . 
+Afterwards , the presence of Gifsy infective particles in these samples was determined as described before ( Figueroa-Bossi and Bossi , 1999 ) by using S. enterica MA6684 as an indicator strain . 
+The MA6684 strain is resistant to both P2 and SE1 bacteriophages because it is a galE defective mutant ( Table 2 ) . 
+Acknowledgments
+This work was funded by Grants GEN2003-20234-C06-04 / NAC from the Ministerio de Educación y Ciencia ( MEC ) de España , 2005SGR-533 from the Departament d'Universitats , Recerca i Societat de la Informació ( DURSI ) de la Generalitat de Catalunya and by the Consejo Superior de Investigaciones Científicas ( CSIC ) . 
+N. Busquets and Dra . 
+S. Campoy were recipients of a predoctoral fellowship from the Direcció General d'Universitats de la Generalitat de Catalunya and a postdoctoral contract from INIA-IRTA , respectively . 
+We are deeply indebted to Drs. Lionello Bossi and Nara Figueroa-Bossi for their kindly gift of the S. enterica MA6684 strain and for their critical reading of the manuscript , to Dr. D. I. Andersson for his generous gift of the S. enterica LT2 lexA ( Ind ) mutant , and to Joan Ruiz and Dra . 
+Pilar Cortés for their excellent technical assistance . 
+References 
+Alonso , A. , Pucciarelli , M.G. , Figueroa-Bossi , N. , Garcia-del Portillo , F. , 2005 . 
+Increased excision of the Salmonella prophage ST64B caused by a deficiency in Dam methylase . 
+J. Bacteriol . 
+187 , 7901 -- 7911 . 
+Brooks , P.C. , Movahedzadeh , F. , Davis , E.O. , 2001 . 
+Identification of some DNA damage-inducible genes of Mycobacterium tuberculosis : apparent lack of correlation with LexA binding . 
+J. Bacteriol . 
+15 , 4459 -- 4467 . 
+Boyd , E.F. , Brussow , H. , 2002 . 
+Common themes among bacteriophage-encoded virulence factors and diversity among the bacteriophages involved . 
+Trends Microbiol . 
+10 , 521 -- 529 . 
+Bunny , K. , Liu , J. , Roth , J. , 2002 . 
+Phenotypes of lexA mutations in Salmonella enterica : evidence for a lethal null phenotype due to the Fels-2 prophage . 
+J. Bacteriol . 
+184 , 6235 -- 6249 . 
+Busquets , N. , Campoy , S. , Barbé , J. , 2005 . 
+Salmonella enterica bacteriophage SE1 , complete genome . 
+GenBank Database . 
+Accession number DQ003260 . 
+Campoy , S. , Jara , M. , Busquets , N. , Pérez de Rozas , A.M. , Badiola , I. , Barbé , J. , 2002 . 
+Role of the high-affinity zinc uptake znuABC system in Salmonella enterica serovar typhimurium virulence . 
+Infect . 
+Immun . 
+70 , 4721 -- 4725 . 
+Campoy , S. , Fontes , M. , Padmanabhan , S. , Cortes , P. , Llagostera , M. , Barbé , J. , 2003 . 
+LexA-independent DNA damage-mediated induction of gene expression in Myxococcus xanthus . 
+Mol . 
+Microbiol . 
+49 , 769 -- 781 . 
+Casjens , S. , Winn-Stapley , D.A. , Gilcrease , E.B. , Morona , R. , Kuhlewein , C. , Chua , J.E. , Manning , P.A. , Inwood , W. , Clark , A.J. , 2004 . 
+The chromosome of Shigella flexneri bacteriophage Sf6 : complete nucleotide sequence , genetic mosaicism , and DNA packaging . 
+J. Mol . 
+Biol . 
+339 , 379 -- 394 . 
+Cherepanov , P.P. , Wackernagel , W. , 1995 . 
+Gene disruption in Escherichia coli : TcR and KmR cassettes with the option of Flp-catalyzed excision of the antibiotic-resistance determinant . 
+Gene 158 , 9 -- 14 . 
+Courcelle , J. , Khodursky , A. , Peter , B. , Brown , P.O. , Hanawalt , P.C. , 2001 . 
+Comparative gene expression profiles following UV exposure in wild-type and SOS-deficient Escherichia coli . 
+Genetics 158 , 41 -- 64 . 
+Datsenko , K.A. , Wanner , B.L. , 2000 . 
+One-step inactivation of chromosomal genes in Escherichia coli K-12 . 
+Proc . 
+Natl. Acad . 
+Sci . 
+U. S. A. 97 , 6640 -- 6645 . 
+Davis , R.W. , Botstein , D. , Roth , J.R. , 1980 . 
+Advanced Bacterial Genetics . 
+A Manual for Genetic Engineering . 
+Cold Spring Harbor Laboratory , Cold Spring Harbor , NY . 
+de Lorenzo , V. , Herrero , M. , Jakubzik , U. , Timmis , K.N. , 1990 . 
+Mini-Tn5 transposon derivatives for insertion mutagenesis , promoter probing , chromosomal insertion of cloned DNA in gram-negative eubacteria . 
+J. Bacteriol . 
+172 , 6568 -- 6572 . 
+Fernández de Henestrosa , A.R. , Rivera , E. , Tapias , A. , Barbé , J. , 1998 . 
+Identification of the Rhodobacter sphaeroides SOS box . 
+Mol . 
+Microbiol . 
+28 , 991 -- 1003 . 
+Figueroa-Bossi , N. , Bossi , L. , 1999 . 
+Inducible prophages contribute to Salmonella virulence in mice . 
+Mol . 
+Microbiol . 
+33 , 167 -- 176 . 
+Figueroa-Bossi , N. , Coissac , E. , Netter , P. , Bossi , L. , 1997 . 
+Unsuspected prophage-like elements in Salmonella typhimurium . 
+Mol . 
+Microbiol . 
+25 , 161 -- 173 . 
+Frye , J.G. , Porwollik , S. , Blackmer , F. , Cheng , P. , McClelland , M. , 2005 . 
+Host gene expression changes and DNA amplification during temperate phage induction . 
+J. Bacteriol . 
+187 , 1485 -- 1492 . 
+Greer , H. , 1975 . 
+The kil gene of bacteriophage lambda . 
+Virology 66 , 589 -- 604 . 
+Hofer , B. , Ruge , M. , Dreiseikelmann , B. , 1995 . 
+The superinfection exclusion gene ( sieA ) of bacteriophage P22 : identification and overexpression of gene and localization of the gene product . 
+J. Bacteriol . 
+177 , 3080 -- 3086 . 
+Inciarte , M.R. , Salas , M. , Sogo , J.M. , 1980 . 
+Structure of replicating DNA molecules of Bacillus subtilis bacteriophage φ29 . 
+J. Virol . 
+34 , 187 -- 199 . 
+Juhala , R.J. , Ford , M.E. , Duda , R.L. , Youlton , A. , Hatfull , G.F. , Hendrix , R.W. , 2000 . 
+Genomic sequences of bacteriophages H97 and HJ022 : pervasive genetic mosaicism in the lambdoid bacteriophages . 
+J. Mol . 
+Biol . 
+299 , 27 -- 51 . 
+Kenyon , C.J. , Walker , G.C. , 1980 . 
+DNA-damaging agents stimulate gene expression at specific loci in Escherichia coli . 
+Proc . 
+Natl. Acad . 
+Sci . 
+U. S. A. 77 , 2809 -- 2815 . 
+Levine , M. , Truesdell , S. , Ramakrishnan , T. , Bronson , M.J. , 1975 . 
+Dual control of lysogeny by bacteriophage P22 : an antirepressor locus and its controlling elements . 
+J. Mol . 
+Biol . 
+91 , 421 -- 438 . 
+Little , J.W. , 1991 . 
+Mechanism of specific LexA cleavage : autodigestion and the role of RecA coprotease . 
+Biochimie 73 , 411 -- 422 . 
+Llagostera , M. , Barbé , J. , Guerrero , R. , 1986 . 
+Characterization of SE1 , a new general transducing phage of Salmonella typhimurium . 
+J. Gen. Microbiol . 
+132 , 1035 -- 1041 . 
+Luo , Y. , Pfuetzner , R.A. , Mosimann , S. , Paetzel , M. , Frey , E.A. , Cherney , M. , Kim , B. , Little , J.W. , Strynadka , C.J. , 2001 . 
+Crystal structure of LexA : a conformational switch for regulation of self-cleavage . 
+Cell 106 , 585 -- 594 . 
+Nechaev , S. , Severinov , K. , 2003 . 
+Bacteriophage-induced modifications of host RNA polymerase . 
+Annu . 
+Rev. Microbiol . 
+57 , 301 -- 322 . 
+Perna , N.T. , Plunkett III , G. , Burland , V. , Mau , B. , Glasner , J.D. , et al. , 2001 . 
+Genome sequence of enterohaemorrhagic Escherichia coli O157 : H7 . 
+Nature 410 , 529 -- 533 . 
+Prell , H.H. , 1978 . 
+The activity of ant product of the Salmonella phage P22 against the closely related but heteroimmune phage L. Mol . 
+Gen. Genet . 
+161 , 197 -- 204 . 
+Prell , H.H. , 1979 . 
+Cis - and trans-activity of P22 antirepressor protein against c-repression specified by the closely related Salmonella phages L and Px1 . 
+Mol . 
+Gen. Genet . 
+168 , 323 -- 329 . 
+Ranade , K. , Poteete , A.R. , 1993 . 
+Superinfection exclusion ( sieB ) genes of bacteriophages P22 and lambda . 
+J. Bacteriol . 
+175 , 4712 -- 4718 . 
+Roberts , J.W. , Devoret , R. , 1983 . 
+Lysogenic Induction . 
+Cold Spring Harbor Laboratory , Cold Spring harbor , NY . 
+Salles , B. , Weisemann , J.M. , Weinstock , G.M. , 1987 . 
+Temporal control of colicin E1 induction . 
+J. Bacteriol . 
+169 , 5028 -- 5034 . 
+Sambrook , J. , Russell , D.W. , 2001 . 
+Molecular Cloning . 
+A Laboratory Manual , 2nd ed . 
+Cold Spring Harbor , Cold Spring Harbor , NY . 
+Sanger , F. , Nicklen , S. , Coulson , S. , 1977 . 
+DNA sequencing with chainterminating inhibitors . 
+Proc . 
+Natl. Acad . 
+Sci . 
+U. S. A. 74 , 5463 -- 5467 . 
+Sassanfar , M. , Roberts , J.W. , 1990 . 
+Nature of SOS-inducing signal in Escherichia coli . 
+The involvement of DNA replication . 
+J. Mol . 
+Biol . 
+212 , 79 -- 96 . 
+Sato , T. , Shimizu , T. , Watarai , M. , Kobayashi , M. , Kano , S. , Hamabata , T. , Takeda , Y. , Yamasaki , S. , 2003 . 
+Genome analysis of a novel Shiga toxin 1 ( Stx1 ) - converting phage which is closely related to Stx2-converting phage but not to other Stx1-converting phages . 
+J. Bacteriol . 
+185 , 3966 -- 3971 . 
+Sauer , R.T. , Ross , M.J. , Ptashne , M. , 1982 . 
+Cleavage of the lambda and P22 repressors by RecA protein . 
+J. Biol . 
+Chem . 
+257 , 4458 -- 4462 . 
+Schmiger , H. , Buch , U. , 1975 . 
+Appearance of transducing particles and the fate of host DNA after infection of Salmonella typhimurium with P22-mutants with increased transducing ability . 
+Mol . 
+Gen. Genet . 
+140 , 111 -- 122 
+Schoemaker , J.M. , Gayda , R.C. , Markovitz , A. , 1984 . 
+Regulation of cell division in Escherichia coli : SOS induction and cellular location of the sulA protein , a key to lon-associated filamentation and death . 
+J. Bacteriol . 
+158 , 551 -- 561 . 
+Semerjian , A.V. , Malloy , D.C. , Poteete , A.R. , 1989 . 
+Genetic structure of the bacteriophage P22 PL operon . 
+J. Mol . 
+Biol . 
+207 , 1 -- 13 . 
+Sergueev , K. , Court , D. , Reaves , L. , Austin , S. , 2002 . 
+E. coli cell-cycle regulation by bacteriophage Lambda . 
+J. Mol . 
+Biol . 
+324 , 297 -- 307 . 
+Shearwin , K.E. , Brumby , A.M. , Egan , J.B. , 1998 . 
+The Tum protein of coliphage 186 is an antirepressor . 
+J. Biol . 
+Chem . 
+257 , 4458 -- 4462 . 
+Shinedling , S. , Parma , D. , Gold , L. , 1987 . 
+Wild-type bacteriophage T4 is restricted by the lambda rex genes . 
+J. Virol . 
+61 , 3790 -- 3794 . 
+Smith , H.O. , Levine , M. , 1965 . 
+The synthesis of phage and host DNA in the establishment of lysogeny . 
+Virology 25 , 585 -- 590 . 
+Smith , C.M. , Arany , Z. , Orrego , C. , Eisenstadt , E. , 1991 . 
+DNA damage-inducible loci in Salmonella typhimurium . 
+J. Bacteriol . 
+173 , 2590 -- 3587 . 
+Susskind , M. , Botstein , D. , 1978 . 
+Molecular genetics of bacteriophage P22 . 
+Microbiol . 
+Rev. 42 , 385 -- 413 . 
+Vander Byl , C. , Kropinski , A.M. , 2000 . 
+Sequence of the genome of Salmonella bacteriophage P22 . 
+J. Bacteriol . 
+182 , 6472 -- 6481 . 
+Walker , G.C. , 1984 . 
+Mutagenesis and inducible responses to deoxyriboncleic acid damage in Escherichia coli . 
+Microbiol . 
+Rev. 48 , 60 -- 93 . 
+Winterling , K.W. , Chafin , D. , Hayes , J.J. , Sun , J. , Levine , A.S. , Yasbin , R.E. , Woodgate , R. , 1998 . 
+The Bacillus subtilis DinR binding site : redefinition of the consensus sequence . 
+J. Bacteriol . 
+180 , 2201 -- 2211 . 
+Woodworth-Gutai , M. , Israel , V. , Levine , M. , 1972 . 
+New deoxyribonuclease activity after bacteriophage P22 infection . 
+J. Virol . 
+9 , 746 -- 751

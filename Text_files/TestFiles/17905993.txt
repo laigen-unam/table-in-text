@@ -1,0 +1,610 @@
+JOURNAL OF BACTERIOLOGY , Dec. 2007 , p. 8496 -- 8502 0021-9193 / 07 / $ 08.00 0 doi :10.1128 / JB.01156-07 
+Copyright © 2007 , American Society for Microbiology . 
+All Rights Reserved . 
+ATC-Binding Protein SeqA Is Required for Bile Resistance
+The G 
+and 
+Virulence in Salmonella enterica Serovar Typhimurium † Ana I. Prieto ,1 ‡ Marcello Jakomin ,1 Ignacio Segura ,1 M. Graciela Pucciarelli ,2 Francisco Ramos-Morales ,1 Francisco Garcıa-del Portillo ,2 and Josep Casadesús1 * Departamento de Genética , Facultad de Biologıa , Universidad de Sevilla , Apartado 1095 , Sevilla 41080,1 and Departamento de Biotecnologıa Microbiana , Centro Nacional de Biotecnologıa , CSIC , Campus de Cantoblanco , 28049 Madrid ,2 Spain 
+Received 21 July 2007/Accepted 14 September 2007 
+Disruption of the seqA gene of Salmonella enterica serovar Typhimurium causes defects similar to those described in E. coli : ﬁlament formation , aberrant nucleoid segregation , induction of the SOS response , envelope instability , and increased sensitivity to membrane-damaging agents . 
+Differences between SeqA mutants of E. coli and S. enterica , however , are found . 
+SeqA mutants of S. enterica form normal colonies and do not exhibit alterations in phage plaquing morphology . 
+Lack of SeqA causes attenuation of S. enterica virulence by the oral route but not by the intraperitoneal route , suggesting a virulence defect in the intestinal stage of infection . 
+However , SeqA mutants are fully proﬁcient in the invasion of epithelial cells . 
+We hypothesize that attenuation of SeqA mutants by the oral route may be caused by bile sensitivity , which in turn may be a consequence of envelope instability . 
+The ability of Salmonella enterica to induce disease in animals relies on the possession of virulence genes , some of which are clustered in pathogenicity islands while others are scattered in the chromosome ( 16 ) . 
+In Salmonella subspecies I , some virulence genes are plasmid borne ( 33 ) . 
+In addition to virulence genes , whose products are required only for animal infection , certain housekeeping genes play relevant roles in the interaction of Salmonella with its animal host ( 15 ) . 
+Examples are two-component systems , such as PhoPQ and RcsBCD , which regulate virulence gene expression in speciﬁc stages of the infection process but also play relevant physiological roles outside the animal ( 34 ) . 
+Another example of a housekeeping function with a role in host-pathogen interactions is DNA adenine ( Dam ) methylation , which is essential for virulence in Salmonella and other bacterial pathogens ( 6 , 21 , 26 , 47 ) . 
+Mutants of S. enterica serovar Typhimurium lacking Dam methylation are severely attenuated in the mouse model , especially by the oral route ( 12 , 18 ) . 
+Virulence attenuation caused by dam mutations is pleiotropic and involves reduced invasion of epithelial cells ( 12 ) , lowered cytotoxicity after infection of M cells ( 12 ) , inefﬁcient colonization of Peyer 's patches and mesenteric lymph nodes ( 12 , 18 ) , sensitivity to bile and to other DNA-damaging agents produced inside the animal ( 19 , 31 ) , and envelope instability accompanied by leakage of proteins ( 32 ) . 
+A transcriptomic study of Dam methylation in S. enterica serovar Typhimurium has provided evidence that some of these virulence defects are caused by altered patterns of gene expression ( 2 ) . 
+However , Dam methylation is not a 
+* Corresponding author . 
+Mailing address : Departamento de Ge-ne ́tica , Facultad de Biologıa , Universidad de Sevilla , Apartado 1095 , Sevilla 41080 , Spain . 
+Phone : 34 95 455 7105 . 
+Fax : 34 95 455 7104 . 
+E-mail : casadesus@us.es . 
+‡ Present address : Department of Pathology , Cambridge University , Tennis Court Road , Cambridge CB2 1QP , England . 
+† Supplemental material for this article may be found at http://jb . 
+asm.org / . 
+Published ahead of print on 28 September 2007 . 
+regulator of gene expression per se but a signaling system for DNA-protein interactions ( 47 ) , and the proteins that regulate Dam-dependent expression of Salmonella virulence genes remain to be identiﬁed . 
+SeqA was discovered as a protein involved in the methyl-ation/hemimethylation cycle of Escherichia coli DNA ( 27 ) . 
+SeqA binds to hemimethylated GATC sites formed by DNA replication and regulates activation of the E. coli chromosome replication origin ( 27 ) . 
+Proper chromosome segregation also requires SeqA ( 1 ) . 
+Furthermore , SeqA trails the DNA replication fork and may contribute to nucleoid organization in newly replicated DNA ( 4 , 24 , 25 , 48 ) . 
+Aside from its roles in chromosome replication and nucleoid segregation , SeqA is known to regulate the transcription of certain genes . 
+In bacteriophage lambda , SeqA activates the pR promoter in a GATC methylation-dependent fashion ( 41 ) . 
+SeqA also acts as a transcriptional coactivator by facilitating binding of the cII transcription factor to the lambda pI and paQ promoters ( 40 ) . 
+Competition between SeqA and the OxyR repressor for hemi-methylated GATC sites has been shown to regulate phase variation in the E. coli agn43 gene ( 9 ) . 
+These examples raised the possibility that SeqA binding to critical GATC sites might likewise regulate the expression of S. enterica genes . 
+Here , we examine the consequences of seqA gene disruption in Salmonella enterica serovar Typhimurium and describe anal-ogies and differences between E. coli and S. enterica SeqA mutants . 
+Of special interest is the observation that disruption of the seqA gene in S. enterica serovar Typhimurium causes attenuation of virulence by the oral route , a trait that may be correlated with sensitivity to bile salts encountered in the host intestine . 
+Transcriptomic analysis does not provide evidence for SeqA-mediated regulation of known virulence genes in Salmonella . 
+In fact , lack of SeqA causes minor changes in the global transcriptional proﬁle of the cell , as previously described in E. coli ( 25 ) . 
+However , an intriguing observation is that the relatively short list of SeqA-regulated loci in S. enterica includes a signiﬁcant number of Salmonella-speciﬁc genes . 
+849 
+MATERIALS AND METHODS
+Bacterial strains , plasmids , and phages . 
+The strains of Salmonella enterica used in this study ( Table 1 ) belong to serovar Typhimurium and derive from the mouse-virulent strain ATCC 14028 . 
+An exception is DA6522 , an LT2 derivative kindly provided by Dan I. Andersson , University of Uppsala , Uppsala , Sweden . 
+E. coli DH5 ( 49 ) was the standard host for recombinant plasmids . 
+E. coli CC118 ( 20 ) was kindly provided by Victor de Lorenzo , CNB , CSIC , Cantoblanco , Spain . 
+Plasmid pGE108 ( Kmr ) is a ColE1 derivative carrying a cea : : lacZ fusion ( 35 ) . 
+Plasmid pIZ1574 , constructed for this study , is a pBluescript II SK ( ) derivative containing the seqA coding sequence from strain ATCC 14028 , previously ampliﬁed by PCR ( see below ) . 
+Plasmid pIZ1588 is a pBAD18 derivative expressing the S. enterica seqA gene from the arabinose-dependent PBAD promoter ( 17 ) and was constructed by cloning an XbaI-HindIII fragment from pIZ1574 onto pBAD18 . 
+Transductional crosses using phage P22 HT 105/1 int201 ( 36 ; G. Roberts , unpublished data ) were used for strain construction operations involving chromosomal markers and for transfer of plasmids among Salmonella strains . 
+The transduction protocol has been described elsewhere ( 13 ) . 
+To obtain phagefree isolates , transductants were puriﬁed by streaking them on green plates ( 7 ) . 
+Phage sensitivity was tested by cross-streaking them with the clear-plaque mutant P22 H5 . 
+Strain SV4861 was constructed by transducing the invJ : : Kmr allele from SB302 to ATCC 14028 . 
+SB302 is a derivative of strain SL1344 of S. enterica serovar Typhimurium ( 23 ) , obtained from J. E. Galán , Yale University , New Haven , CT. . 
+Media and chemicals . 
+Luria-Bertani broth ( LB ) was used as a rich medium . 
+E medium of Vogel and Bonner ( 45 ) was used as a minimal medium . 
+Unless otherwise indicated , the carbon source for both LB and E medium was 0.2 % glucose . 
+Solid media contained agar at 1.5 % ﬁnal concentration . 
+Deoxycholic acid ( sodium salt ) and sodium choleate ( ox bile extract ) were both from Sigma Chemical Co. , St. Louis , MO. . 
+Antibiotics were used at the ﬁnal concentrations described previously ( 44 ) . 
+Green plates were prepared according to the method of Chan et al. ( 7 ) , except that methyl blue ( Sigma ) was substituted for aniline blue . 
+MICs of DOC , ox bile extract , and ethanol . 
+Exponential cultures in LB were prepared as previously described ( 31 ) . 
+Samples containing around 3 102 CFU were transferred to polypropylene microtiter plates ( Soria Genlab , Valdemoro , Spain ) containing known amounts of sodium deoxycholate ( DOC ) , ox bile extract , or 96 % ethanol . 
+After 12 h of incubation at 37 °C , growth was visually monitored . 
+Assays were carried out in triplicate . 
+Construction of an S. enterica SeqA mutant . 
+The seqA gene from strain ATCC 14028 of S. enterica serovar Typhimurium was ampliﬁed by PCR using two 30-nucleotide primers : 5 ATG CGA ATT CAG GGC GGA ATG GTT TCC CAG 3 and 5 ATG CGA ATT CAG CGC ATT GGC GCG ATC TTC 3 . 
+The resulting 1.8-kb fragment , which contained both the seqA coding sequence and the promoter region , was digested with EcoRI and ligated to a dephosphorylated pBluescript II SK ( ) vector . 
+Transformation of E. coli DH5 and a search for Lac colonies permitted the detection of pBluescript derivatives carrying the seqA insert . 
+One such clone was then used to generate a deletion in the seqA coding sequence . 
+Because seqA is the upstream gene in a two-cistron transcriptional unit that also includes the pgm gene ( 28 ) , an in-frame deletion 300 bp long was generated to prevent polarity . 
+The deletion was obtained by PCR using primers 5 CGT AAG ATC TCG CAC GCG CGT CTA TTT TG 3 and 5 GCT GAA GAT CTG CTA TAG AGT CTA TCA TCA AC 3 . 
+The resulting fragment was digested with BglII and ligated to obtain a deleted pBluescript deriv-ative that contained only 243 bp ( 81 codons ) of the seqA coding sequence . 
+The deleted pBluescript derivative was introduced into E. coli DH5 by transformation . 
+Its insert was then excised with KpnI and SacI , cloned onto pDMS197 ( 11 ) , and propagated in E. coli CC118 pir ( 20 ) . 
+One pMDS197 derivative containing the seqA allele was transformed into E. coli S17-1 pir ( 38 ) . 
+The resulting strain was used as a donor in matings with S. enterica ATCC 14028 , selecting Tcr transconjugants on E medium plates supplemented with tetracycline ( 30 mg / liter ) . 
+Several Tcr transconjugants were grown in nutrient broth ( without NaCl ) containing 5 % sucrose . 
+Individual tetracycline-sensitive segregants were then examined for the incorporation of the seqA allele . 
+Replacement of the chromosomal seqA gene by the seqA construct was detected by PCR ampliﬁcation , using the same pair of oligonucleotides employed to generate the deletion . 
+One such isolate was propagated as strain SV4752 ( seqA1 ) . 
+RNA isolation , microarray procedures , and data analysis . 
+To prepare cells for RNA extraction , 25 ml of fresh LB was inoculated with a 1:100 dilution from an overnight bacterial culture and grown in a 250-ml ﬂask incubated with shaking at 250 rpm in a New Brunswick Innova 3100 water bath at 37 °C . 
+Three biological replicates were performed for each strain , and RNA was extracted at an optical density at 600 nm ( OD600 ) of 0.5 to 0.6 ( exponential phase ) and 3 ( stationary phase ) . 
+Speciﬁcally , the OD600s for RNA extractions from exponential-phase cultures of the wild type were 0.53 , 0.52 , and 0.53 ; for exponential-phase cultures of SV4752 , 0.60 , 0.64 , and 0.62 ; for stationary-phase cultures of the wild type , 3.10 , 3.21 , and 3.19 ; and for stationary-phase cultures of SV4752 , 3.18 , 3.20 , and 3.15 . 
+RNA extractions were performed as described by Mangan et al. ( 29 ) , and their quality was assessed on an Agilent 2100 Bioanalyzer . 
+Transcriptomic analyses were performed on a DNA microarray engineered by the Salgenomics consortium of research groups . 
+The Salgenomics microarray contained 6,992 probes ( including open reading frames , RNA genes , and intergenic regions ) from the genome sequence of S. enterica SL1344 and was developed using genome sequences from the Wellcome Trust Sanger Institute ( ftp : / / ftp.sanger . 
+ac.uk / pub/pathogens/Salmonella ) . 
+Use of an SL1344 microarray was justiﬁed because the ATCC 14028 genome is not completely sequenced ; however , pairwise comparisons of sequenced genes indicated that SL1344 and ATCC 14028 are closely related strains ( data not shown ) . 
+Hybridization , microarray scanning , and data analysis were performed as described elsewhere ( 2 ; J. Mariscotti and F. Garcia-del Portillo , submitted for publication ) . 
+Raw transcriptomic data are provided in Tables S1 and S2 in the supplemental material . 
+Preparation of protein extracts . 
+Bacteria were grown overnight in LB medium at 37 °C in nonshaking , static cultures . 
+Under these growth conditions , the ﬁnal OD600 reached 1.0 . 
+Bacteria contained in 10 ml of the culture were centrifuged at 15,000 g for 10 min at 4 °C . 
+The supernatant was ﬁltered with a 0.45 - m-pore-size Millipore device , and the extracellular proteins were precipitated with 10 % trichloroacetic acid , washed in acetone , and resuspended in cold phosphatebuffered saline , pH 7.4 , as previously described ( 32 ) . 
+Bacteria present in the pellet were directly suspended in cold phosphate-buffered saline , pH 7.4 . 
+Finally , an appropriate volume of sodium dodecyl sulfate ( SDS ) - Laemmli buffer was added to both fractions , extracellular soluble proteins and total bacterium-asso-ciated protein , and boiled for 5 min at 95 °C . 
+Upon centrifugation ( 15,000 g ; 5 min ; room temperature ) , the volumes to be load into the gels were adjusted to 1 108 bacterial cells ( total bacterium-associated proteins ) or 5 109 bacterial cells ( extracellular soluble proteins ) . 
+CI virulence assays . 
+Eight-week-old female BALB/c mice ( Charles River Laboratories , Santa Perpetua de Mogoda , Spain ) were used for virulence tests . 
+Groups of three or four animals were inoculated with a 1:1 ratio of two strains . 
+The bacteria were grown overnight at 37 °C in LB without shaking . 
+Oral inoculation was performed by feeding the mice with 25 l of saline ( 0.9 % NaCl ) containing 0.1 % lactose and 108 bacterial CFU . 
+Bacteria were recovered from the mouse spleens 6 days after inoculation , and the CFU were enumerated on appropriate media . 
+A competitive index ( CI ) for each mutant was calculated as the ratio between the wild type and the mutant strain in the output divided by their ratio in the input ( 3 ) . 
+To compare the virulence of a double mutant with that of a single mutant , a `` cancelled-out '' CI ( COI ) was calculated . 
+A COI is the ratio between the double mutant and the single mutant in the output divided by their ratio in the input ( 3 ) . 
+Assays were carried out in triplicate . 
+Student 's t test was used to analyze CIs and COIs . 
+The null hypothesis was that CIs were not signiﬁcantly different from 1 . 
+COIs were analyzed with two null hypotheses : ( i ) the mean COI is not signiﬁcantly different from 1 and ( ii ) the mean COI is not signiﬁcantly different from the CI of the corresponding single mutant . 
+P values of 0.01 or less were considered signiﬁcant . 
+- Galactosidase assays . 
+Levels of - galactosidase activity were assayed as described by Miller ( 30 ) , using the CHCl3-sodium dodecyl sulfate permeabilization procedure . 
+Bacterial infection of epithelial cells . 
+Bacteria were grown overnight in LB medium at 37 °C under static , nonshaking conditions . 
+HeLa epithelial cells were seeded the day before infection in 24-well plates and grown at 37 °C and 5 % CO2 to obtain 80 % conﬂuence . 
+Bacteria were added to reach a multiplicity of infection of 10 bacteria/eukaryotic cell . 
+Simultaneous infection with two strains permitted the calculation of a CI for invasion ( CII ) ( 37 ) . 
+HeLa cells were infected for 30 min to obtain an infection rate of 70 to 80 % of the cell population 
+TABLE 1 . 
+Strain list 
+Sourcea 
+Strain Genotype DA6522 lexA39 ( Ind ) Cmr SV4698 dam-225 : : MudJ SV4752 seqA1 SV4784 dam-225 : : MudJ seqA1 SV4861 invJ : : Kmr SV4972 seqA1/pGE108 a Omitted for strains described in this study . 
+Dan I. Andersson Laboratory stock 
+Strain 
+Genotype 
+C 
+Ethanol 
+DO 
+14 6 5 
+4 0.2 
+6 
+14028 Wild type SV4752 seqA1 SV4698 dam-225 : : MudJ 
+0.8 0.4 
+NTa 
+FIG. 1 . 
+Photomicrographs of SeqA and SeqA S. enterica cells during exponential growth , visualized by the ﬂuo-phase combined method of Hiraga et al. ( 22 ) . 
+a NT , not tested . 
+Infected cells were washed three times with phosphate-buffered saline and incubated in fresh tissue culture medium containing 100 mg/liter gentamicin . 
+At 2 h postinfection , the concentration of gentamicin was lowered to 10 mg/liter . 
+The numbers of viable intracellular bacteria were obtained by lysing infected cells with 1 % Triton X-100 and subsequent plating . 
+CII calculations and statistical analysis were as described previously ( 37 ) . 
+Microscopic observation of cells and nucleoids . 
+Cells were harvested by centrifugation , washed , and resuspended in saline . 
+A small aliquot was spread on a glass slide and dried at room temperature . 
+Nucleoid staining with DAPI ( 4 ,6 - diamino-2-phenyl-indole ) and cell visualization followed the `` ﬂuo-phase '' combined method of Hiraga et al. ( 22 ) . 
+RESULTS
+Phenotypes of S. enterica SeqA mutants . 
+In E. coli , SeqA mutants form very small colonies ( 27 ) . 
+In contrast , the seqA1 allele did not alter the morphology of S. enterica colonies . 
+The absence of a growth difference associated with a seqA mutation was also observed in liquid cultures : the growth rates of an S. enterica SeqA strain in both LB and minimal E medium remained largely unaltered ( data not shown ) . 
+Another difference between SeqA mutants of E. coli and Salmonella was found in phage-plaquing experiments . 
+While phage lambda has been shown to form large plaques on E. coli ( 46 ) , the lambdoid phage P22 HT and its clear-plaque derivative , H5 , formed plaques of similar sizes on both 14028 ( seqA ) and SV4752 ( seqA1 ) . 
+An effect of SeqA on lysogenization , as described for lambda ( 46 ) , was also ruled out for P22 : the plaques formed by P22 HT on strains ATCC 14028 ( seqA ) and SV4752 ( seqA1 ) of S. enterica were identical ( small and turbid ) , and the percentage of clear plaques was below 0.01 % in both cases ( data not shown ) . 
+Aside from these differences , SeqA mutants of S. enterica resemble those of E. coli in the following traits . 
+( i ) Nucleoid staining with DAPI and cell visualization following the `` ﬂuo-phase '' combined method of Hiraga et al. showed ﬁlament formation and aberrant nucleoid segregation ( Fig. 1 ) . 
+Similar phenotypes have been described in E. coli SeqA mutants ( 27 ) . 
+( ii ) A pBluescript derivative carrying the wild-type seqA gene ( pIZ1574 ) could not be maintained in a Dam strain ( SV4698 ) . 
+The same construct was easily introduced in a Dam isogenic strain ( ATCC 14028 ) . 
+In contrast , expression of seqA from an arabinose-driven PBAD promoter permitted the introduction of a pBAD-seqA plasmid ( pIZ1588 ) in both Dam and Dam hosts . 
+However , a Dam host carrying pIZ1588 formed normal colonies only in the absence of arabinose ( and at low arabinose concentrations ) . 
+From these observations , we concluded that overproduction of Salmonella SeqA is lethal in a Dam background , as described for E. coli ( 27 ) . 
+( iii ) A SeqA mutant of S. enterica ( strain SV4972 ) showed moderate SOS induction , as previously described for E. coli 
+( 27 ) . 
+Induction of the S. enterica SOS system was monitored using a cea : : lac fusion carried on plasmid pGE108 ( 35 ) . 
+This fusion has been extensively used in our laboratory to monitor SOS induction in Salmonella ( 14 , 31 ) . 
+The presence of a seqA mutation in the background increased cea : : lac expression three - to fourfold : 40 16 Miller units in ATCC 14028 / pGE108 versus 188 23 Miller units in its isogenic derivative , SV4972 ( averages of four independent experiments ) . 
+( iv ) In E. coli , the viability of SeqA mutants requires induction of the SOS system , since the cell division inhibitor SulA is necessary for survival ( 27 ) . 
+In an analogous fashion , we were unable to transduce the lexA ( Ind ) allele of DA6522 to SV4972 , suggesting that an S. enterica SeqA LexA ( Ind ) mutant is nonviable . 
+( v ) The antecedent that seqA mutations cause sensitivity to DOC in E. coli ( 46 ) suggested the possibility that SeqA mutants of Salmonella might likewise be sensitive to bile salts . 
+Bile salt sensitivity was tested as previously described ( 31 ) . 
+The results , summarized in Table 2 , indicated that lack of SeqA renders S. enterica sensitive to both DOC and ox bile extract . 
+The MICs of both DOC and bile were similar to those previously described for Dam strains ( 31 , 32 ) . 
+( vi ) Because E. coli SeqA mutants are sensitive to ethanol ( 46 ) , we tested whether their Salmonella counterparts had a similar phenotype . 
+The MIC of ethanol was found to be 20-fold reduced in a SeqA background ( Table 2 ) . 
+Envelope instability in S. enterica SeqA mutants . 
+In previous studies , we showed that DNA adenine methylase mutants of S. enterica secrete large amounts of proteins into the culture medium , a trait that can be easily observed in SDS-PAGE gels from culture supernatants ( 32 ) . 
+The extreme sensitivity to bile and to membrane-damaging agents shown by SeqA mutants raised the possibility that they could have a similar phenotype . 
+Figure 2 shows an SDS-polyacrylamide gel electrophoresis gel in which the proﬁles of extracellular proteins present in supernatants of SeqA , Dam , and SeqA Dam strains were compared with that of the wild type . 
+Lack of SeqA seems to cause exacerbated release of proteins into the extracellular milieu , to a degree similar to that of Dam mutants . 
+Virulence assays with S. enterica SeqA mutants . 
+The observation that a SeqA mutant of S. enterica was sensitive to bile raised the possibility that a seqA mutation might impair Salmonella virulence . 
+BALB/c mice were subjected to mixed infections by inoculating groups of three or four animals with a 1:1 ratio of SeqA and SeqA isogenic strains . 
+CI analysis indicated that a seqA mutation caused moderate but signiﬁcant attenuation of virulence by the oral route but had no effect by the intraperitoneal route ( Fig. 3 ) . 
+This observation suggests that the SeqA mutant is impaired for virulence at the intes-tinal stage of infection and can be tentatively correlated with the sensitivity to bile salts conferred by a seqA mutation . 
+Our ﬁnding that lack of SeqA does not attenuate Salmonella virulence by the intraperitoneal route disagrees with a previous report ( 8 ) . 
+However , it must be noted that the seqA : : MudI1734 allele used by Chatti et al. ( 8 ) is known to be polar on the downstream gene pgm ( 5 ) , while we employed a nonpolar , in-frame deletion allele of seqA . 
+Lack of phosphoglucomutase , the product of the pgm gene , in fact has a mild attenuating effect on Salmonella virulence , both orally and intraperitone-ally ( D. A. Cano and J. Casadesús , unpublished data ) . 
+This may also explain why the seqA : : MudI1734 allele causes a stron-ger attenuation by the oral route than the seqA1 allele ( 8 ) . 
+COI analysis with isogenic SeqA and SeqA Dam strains indicated that a dam mutation was epistatic over a seqA mutation , both orally and intraperitoneally . 
+The latter observation can be explained by the well-known fact that the SeqA protein does not bind to unmethylated DNA ( 47 ) . 
+Hence , whatever the function of SeqA in the infection process , it can not be exerted in the absence of methylated or hemimethylated GATCs . 
+COI analysis conﬁrmed the attenuation of SeqA mutants by the oral route , since the SeqA / Dam SeqA COI was 10-fold lower than the wild-type/Dam CI ( Fig. 3 ) . 
+The observation that S. enterica SeqA mutants are less virulent upon oral inoculation raised the possibility that lack of SeqA might impair invasion of the intestinal epithelium . 
+This possibility was investigated by comparing the invasion rates of cultured HeLa cells by SeqA and SeqA isogenic strains . 
+A noninvading InvJ mutant ( SV4861 ) was included in these experiments as an internal control . 
+The average invasion rate glnP Glutamine ABC transporter 5.53 permease component STM4212 Putative phage tail core protein 2.21 STM1329 Putative inner membrane protein 0.43 STM2911 Putative permease 0.38 STM0284 Putative Shiga-like toxin A subunit 0.38 STM2137 Putative cytoplasmic protein 0.38 a SeqA is an activator for genes with relative expression values below 1.0 and a repressor for genes with values above 1.0 . 
+obtained in standard 2-h infection assays of HeLa cells were similar for both SeqA and SeqA strains ( CII 0.911 ) and 50-fold lower ( CII 0.019 ) in SV4861 ( InvJ ) , indicating that a seqA mutation does not impair invasion of epithelial cells . 
+Transcriptomic analysis of SeqA-dependent gene expression . 
+Wild-type ATCC 14028 and its isogenic SeqA derivative , SV4752 , were grown in LB medium , and RNA extraction for microarray analysis was carried out in exponential - and stationary-phase cultures . 
+Use of these two conditions was justiﬁed by the fact that SeqA binds to methylated DNA , found in both exponential - and stationary-phase cells , and hemimeth-ylated DNA , present in dividing cells only ( 48 ) . 
+The experiments were based on the rationale that higher RNA content in a SeqA background would indicate that SeqA represses gene expression in the wild type . 
+In turn , lower RNA content in a SeqA background would indicate that SeqA activates gene expression in the wild type . 
+As shown in the computer image diagrams in Fig. 4 , the RNA contents for most S. enterica loci were similar in SeqA and SeqA hosts , in both exponential-and stationary-phase cultures , suggesting that SeqA-regulated genes are rare in Salmonella . 
+A similar conclusion was drawn from a SeqA transcriptomic study of E. coli ( 25 ) . 
+A number of SOS genes showed moderately increased expression in a SeqA background , as previously described for E. coli ( 25 ) . 
+Aside from SOS genes , a small number of genes showed differences higher than the twofold cutoff arbitrarily chosen as a threshold . 
+In exponential-phase cultures ( Table 3 ) , two SeqA-repressed genes and four SeqA-activated genes were found . 
+In stationary-phase cultures ( Table 4 ) , 4 SeqA-repressed genes and 32 SeqA-activated genes were found . 
+A noteworthy observation is that a signiﬁcant proportion ( 16/42 ) of such genes are Salmonella-speciﬁc and in most cases have unknown functions . 
+The existence of six SeqA-regulated genes with unkown functions that are not Salmonella speciﬁc is likewise intriguing , since it raises the putative number of SeqA-regulated genes with unknown functions to about half of the total detected . 
+FIG. 1 . 
+Photomicrographs of SeqA and SeqA S. enterica cells during exponential growth , visualized by the ﬂuo-phase combined method of Hiraga et al. ( 22 ) . 
+a NT , not tested . 
+FIG. 2 . 
+Lack of SeqA causes exacerbated release of proteins into the extracellular medium . 
+TP , bacterium-associated total protein ; SP , extracellular soluble protein present in the culture supernatant . 
+The lanes corrrespond to the following strains : 1 , wild type ( ATCC 14028 ) ; 2 , Dam ( SV4698 ) ; 3 , SeqA ( SV4752 ) ; 4 , Dam SeqA ( SV4784 ) . 
+Samples loaded in the gel were adjusted to 1 108 bacterial cells ( TP ) or 5 109 bacterial cells ( SP ) 
+FIG. 3 . 
+Graphical representation of CI analyses of SeqA ( SV4752 ) , Dam ( SV4698 ) , and SeqA Dam ( SV4784 ) strains after oral or intraperitoneal infection of BALB/c mice . 
+The mixed infections performed were as follows : ( a ) wild type/SeqA , oral infection ; ( b ) wild type/Dam , oral ; ( c ) Dam SeqA / Dam , oral ; ( d ) SeqA / Dam SeqA , oral ; ( e ) wild type/SeqA , intraperitoneal ; ( f ) wild type/Dam , intraperitoneal . 
+The indices represented are the means from 3 infections . 
+The error bars represent the standard deviations . 
+FIG. 4 . 
+Computer-generated normalized representation of microarray data . 
+The Cy5/Cy3 ﬂuorescence intensity of each locus in the wild type ( horizonal axis ) is plotted versus the intensity of the same locus in the mutant ( vertical axis ) . 
+Most genes fall near the imaginary bisectrix ( slope 1 ) , indicating identical or similar expression . 
+Genes above the bisectrix show higher expression in the mutant strain , indicating that SeqA represses their expression . 
+Genes below the bisectrix show lower expression in the mutant strain , indicating that SeqA activates their expression . 
+30S ribosomal protein S8 Precorrin-8w decarboxylase 
+rpsH cbiT 
+2.94 2.84 2.70 2.69 0.40 0.40 
+Putative transcriptional regulator Putative cytoplasmic protein Putative autotransporter Potassium-transporting ATPase subunit A Putative oxidoreductase Glycogen phosphorylase Tail assembly protein I like Acetylornithine deacetylase Putative D-glucarate permease Putative curli operon transcriptional regulator Putative transcriptional regulator Putative inner membrane protein 30S ribosomal protein S1 DNA packaging-like protein Putative cytoplasmic protein Putative cytoplasmic protein Menaquinone-speciﬁc isochorismate synthase Putative cytoplasmic protein Putative regulatory protein Putative cytoplasmic protein Cation transport regulator Putative integral membrane protein Putative cytoplasmic protein Thymidine phosphorylase Hypothetical protein Secreted effector protein ATP-dependent double-stranded DNA exonuclease Putative cytoplasmic protein Putative cytoplasmic protein Glycogen phosphorylase Putative cytoplasmic protein Catabolic arginine decarboxylase Putative transcriptional regulator Nitrate reductase 1 delta subunit 
+STM3098 STM2133 misL kdpA 
+ydhL glgP 
+0.39 0.39 0.39 0.39 0.39 0.38 
+STM2590 argE gudT csgG 
+STM0053 yrfF 
+0.38 0.38 0.38 0.38 0.38 0.37 0.37 
+rpsA STM2609 yeaR ygiN menF 
+STM2743 STM1671 STM4493 chaB yijP STM4192 deoA yidE avrA sbcC 
+0.37 0.37 0.37 0.36 0.36 0.36 0.36 0.35 0.35 0.35 
+ybeU STM4493 
+0.34 0.34 0.34 0.33 0.32 0.30 0.24 
+glgP STM4015 adi yeeY narJ 
+DISCUSSION
+The cell division abnormalities observed in SeqA mutants of S. enterica closely resemble those previously described in their E. coli counterparts , which have been the subject of more a SeqA is an activator for genes with relative expression values below 1.0 and a repressor for genes with values above 1.0 . 
+numerous and deeper studies ( 1 , 4 , 10 , 25 , 27 , 39 , 46 , 48 ) . 
+Other analogies between E. coli and Salmonella SeqA mutants include SOS induction , requirement for the SOS regulon for viability , envelope instability , and sensitivity to bile salts and other envelope-damaging agents . 
+Given these analogies , the observation that a seqA mutation does not alter the morphology of P22 plaques is anecdotal and should not blur the tentative conclusion that the well-known roles of SeqA in E. coli chromosome replication and nucleoid organization ( 1 , 4 , 25 , 27 , 39 , 48 ) can be tentatively extended to a relatively close bacterial genus like Salmonella . 
+This view is consistent with the 87 % amino acid identity found between the E. coli and Sal-monella SeqA proteins ( data not shown ) . 
+An interesting trait of Salmonella SeqA mutants is their virulence attenuation by the oral route . 
+In vitro assays have indicated that SeqA mutants are not impaired for invasion o epithelial cells , suggesting that attenuation is not caused by deﬁcient interaction with the intestinal epithelium . 
+Furthermore , global gene expression ( microarray ) analysis has not unveiled altered expression of any known locus involved in Salmonella infection ( either at the intestinal stage or during systemic infection ) . 
+Hence , a tentative explanation for oral attenuation in SeqA mutants may be their sensitivity to bile salts . 
+During passage through the small intestine , Salmonella faces periodic release of bile , and the extreme sensitivity of SeqA mutants to bile salts may cause massive cell killing in the Salmonella population with concomitant reduction of virulence . 
+In fact , SeqA mutants are not attenuated upon intra-peritoneal infection , which spares the bacterial population from exposure to bile in the host intestine . 
+The cause of bile sensitivity associated with seqA disruption remains unknown . 
+In E. coli , SeqA mutants show altered membrane permeability ( 46 ) and abnormal phospholipid composition ( 10 ) , which may explain their increased sensitivity to a number of dyes . 
+Our observation that the envelope of S. enterica SeqA mutants is likewise unstable can be tentatively correlated with bile sensitivity , because unconjugated bile salts can enter the cell by diffusion ( 43 ) . 
+How a seqA mutation can impair membrane stability is an interesting enigma . 
+In E. coli , SeqA has been shown to associate with the E. coli outer membrane in a replication cycle-dependent manner ( 39 ) . 
+Thus , a structural role of SeqA in envelope stability can not be discounted ( 46 ) . 
+An alternative explanation is that SeqA might regulate the expression of genes involved in the stability of the cell membranes , a possibility also considered in E. coli ( 42 ) . 
+Our conclusion that SeqA does not play a major role in gene regulation in S. enterica is in agreement with a previous study carried out with E. coli ( 25 ) . 
+This view does not exclude the possibility that SeqA could play subtle roles , hardly visible by transcriptome analysis , in the expression of certain genes . 
+For instance , the SeqA/OxyR competition described in the E. coli agn43 gene ( 9 ) would likely be overlooked in a microarray study . 
+Another possibility , not investigated here , is that SeqA might control bacteriophage P22 promoters , as shown for the pR , pI , and paQ promoters of bacteriophage lambda ( 40 , 41 ) . 
+Despite these caveats , our study has detected a small number of Salmonella genes whose expression is impaired in a SeqA background . 
+The list includes both loci activated by SeqA and loci repressed by SeqA , and one-third of such genes ( 16/42 ) are Salmonella speciﬁc . 
+However , impaired gene expression in a SeqA background does not imply a role for SeqA in the control of transcription . 
+A well-documented example of this kind involves DNA adenine methylase mutants of E. coli and Salmonella , which show increased expression of the SOS regulon without any direct effect of Dam methylation on LexAcontrolled transcription ( 25 , 47 ) . 
+In a similar fashion , the existence of SeqA-regulated genes might reﬂect physiological changes occurring in response to a seqA mutation rather than a direct role of SeqA in transcriptional control . 
+STM0053 yrfF 
+0.38 0.38 0.38 0.38 0.38 0.37 0.37 
+rpsA STM2609 yeaR ygiN menF 
+STM2743 STM1671 STM4493 chaB yijP STM4192 deoA yidE avrA sbcC 
+0.37 0.37 0.37 0.36 0.36 0.36 0.36 0.35 0.35 0.35 
+ybeU STM4493 
+0.34 0.34 0.34 0.33 0.32 0.30 0.24 
+glgP STM4015 adi yeeY narJ 
+ACKNOWLEDGMENTS
+This work was supported by grants BIO2004-3455-CO2-02 and GEN2003-20234-CO6-03 ( to J.C. ) and BIO2004-3455-CO2-01 and GEN2003-20234-CO6-01 ( to F.G.D.P. ) , all from the Spanish Ministry of Education and Science and the European Regional Fund . 
+A.I.P. was supported by a predoctoral fellowship from the Fundación Ramón Areces . 
+M.J. and I.S. were supported by FPI predoctoral fellowships from the Spanish Ministry of Education and Science . 
+M.G.P. is an investigator supported by a contract of the Ramón y Cajal program of the Spanish Ministry of Education and Science . 
+We thank Dan I. Andersson , Victor de Lorenzo , and Jorge Galan for providing bacterial strains and Roberto Balbontın for advice on microarray experiments . 
+REFERENCES 
+1 . 
+Bach , T. , M. A. Krekling , and K. Skarstad . 
+2003 . 
+Excess SeqA prolongs sequestration of oriC and delays nucleoid segregation and cell division . 
+EMBO J. 22:315 -- 323 . 
+2 . 
+Balbontın , R. , G. Rowley , M. G. Pucciarelli , J. López - Garrido , Y. Wormstone , S. Lucchini , F. Garcıa-del Portillo , J. C. D. Hinton , and J. Casadesús . 
+2006 . 
+DNA adenine methylation regulates virulence gene expresssion in Salmonella enterica serovar Typhimurium . 
+J. Bacteriol . 
+188:8160 -- 8168 . 
+3 . 
+Beuzón , C. R. , and D. W. Holden . 
+2001 . 
+Use of mixed infections with Sal-monella strains to study virulence genes and their interactions in vivo . 
+Microbes Infect . 
+3:1345 -- 1352 . 
+4 . 
+Brendler , T. , J. Sawitzke , K. Seerguev , and S. Austin . 
+2000 . 
+A case for sliding SeqA tracts at anchored replication forks during Escherichia coli chromosome replication and segregation . 
+EMBO J. 19:6249 -- 6258 . 
+5 . 
+Cánovas , D. , S. A. Fletcher , M. Hayashi , and L. Csonka . 
+2001 . 
+Role of trehalose in growth at high temperature of Salmonella enterica serovar Typhimurium . 
+J. Bacteriol . 
+183:3365 -- 3371 . 
+6 . 
+Casadesús , J. , and D. A. Low . 
+2006 . 
+Epigenetic gene regulation in the bacterial world . 
+Microbiol . 
+Mol . 
+Biol . 
+Rev. 70:830 -- 856 . 
+7 . 
+Chan , R. K. , D. Botstein , T. Watanabe , and Y. Ogata . 
+1972 . 
+Specialized transduction of tetracycline by phage P22 in Salmonella typhimurium . 
+II . 
+Properties of a high frequency transducing lysate . 
+Virology 50:883 -- 898 . 
+8 . 
+Chatti , A. , D. Daghfous , and A. Landoulsi . 
+2007 . 
+Effect of seqA mutation on Salmonella typhimurium virulence . 
+J. Infect . 
+54:241 -- 245 . 
+9 . 
+Correnti , J. , M. Munster , T. Chan , and M. van der Woude . 
+2002 . 
+Dam-dependent phase variation of Ag43 in Escherichia coli is altered in a seqA mutant . 
+Mol . 
+Microbiol . 
+44:521 -- 532 . 
+10 . 
+Daghfous , D. , A. Chatti , B. Marzouk , and A. Landoulsi . 
+2006 . 
+Phospholipid changes in seqA and dam mutants of Escherichia coli . 
+Crit . 
+Rev. Biol . 
+329 : 271 -- 276 . 
+11 . 
+Edwards , R. A. , H. K. Linda , and D. M. Schifferli . 
+1998 . 
+Improved allelic exchange vectors and their use to analyze 987P ﬁmbria gene expression . 
+Gene 207:149 -- 157 . 
+12 . 
+Garcıa-del Portillo , F. , M. G. Pucciarelli , and J. Casadesús . 
+1999 . 
+DNA adenine methylase mutants of Salmonella typhimurium are deﬁcient in protein secretion , cell invasion and M cell cytotoxicity . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 96:11578 -- 11583 . 
+13 . 
+Garzón , A. , D. A. Cano , and J. Casadesús . 
+1995 . 
+Role of Erf recombinase in P22-mediated plasmid transduction . 
+Genetics 140:427 -- 434 . 
+14 . 
+Gibert , I. , and J. Casadesús . 
+1990 . 
+sulA-independent division inhibition in His-constitutive strains of Salmonella typhimurium . 
+FEMS Microbiol . 
+Lett . 
+69:205 -- 210 . 
+15 . 
+Groisman , E. A. , and J. Casadesús . 
+2005 . 
+The origin and evolution of human pathogens . 
+Mol . 
+Microbiol . 
+56:1 -- 7 . 
+16 . 
+Groisman , E. A. , and H. Ochman . 
+1997 . 
+How Salmonella became a patho-gen . 
+Trends Microbiol . 
+5:343 -- 349 . 
+17 . 
+Guzman , L. M. , D. Belin , M. J. Carson , and J. Beckwith . 
+1995 . 
+Tight regulation , modulation , and high-level expression by vectors containing the arabinose P promoter . 
+J. Bacteriol . 
+177:4121 -- 4130 . 
+BAD 18 . 
+Heithoff , D. , R. L. Sinsheimer , D. A. Low , and M. J. Mahan . 
+1999 . 
+An essential role for DNA adenine methylation in bacterial virulence . 
+Science 284:967 -- 970 . 
+19 . 
+Heithoff , D. M. , E. I. Enioutina , R. A. Daynes , R. L. Sinsheimer , D. A. Low , and M. J. Mahan . 
+2001 . 
+Salmonella DNA adenine methylase mutants confer cross-protective immunity . 
+Infect . 
+Immun . 
+69:6725 -- 6730 . 
+20 . 
+Herrero , M. , V. de Lorenzo , and K. N. Timmis . 
+1992 . 
+Transposon vectors containing non-antibiotic resistance selection markers for cloning and stable chromosomal insertion of foreign genes in gram-negative bacteria . 
+J. Bacteriol . 
+172:6557 -- 6567 . 
+21 . 
+Heusipp , G. , S. Fälker , and M. A. Schmidt . 
+2007 . 
+DNA adenine methylation and bacterial pathogenesis . 
+Int . 
+J. Med . 
+Microbiol . 
+297:1 -- 7 . 
+22 . 
+Hiraga , S. , H. Niki , T. Ogura , C. Ichinose , H. Mori , B. Ezaki , and A. Jaffé . 
+1989 . 
+Chromosome partitioning in Escherichia coli : novel mutants producing anucleate cells . 
+J. Bacteriol . 
+171:1496 -- 1505 . 
+23 . 
+Hoiseth , S. K. , and B. A. Stocker . 
+1981 . 
+Aromatic-dependent Salmonella enterica are non-virulent and effective as live vaccines . 
+Nature 291:238 -- 239 . 
+24 . 
+Klungsøyr , H. K. , and K. Skarstad . 
+2004 . 
+Positive supercoiling is generated in the presence of Escherichia coli SeqA protein . 
+Mol . 
+Microbiol . 
+54:123 -- 131 . 
+25 . 
+Løbner-Olesen , A. , M. G. Marinus , and F. G. Hanssen . 
+2003 . 
+Role of SeqA and Dam in Escherichia coli gene expression : a global/microarray analysis . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 100:4672 -- 4677 . 
+26 . 
+Løbner-Olesen , A. , O. Skovgaard , and M. G. Marinus . 
+2005 . 
+Dam methyl-ation : coordinating cellular processes . 
+Curr . 
+Opin . 
+Microbiol . 
+8:154 -- 160 
+27 . 
+Lu , M. , J. L. Campbell , E. Boye , and N. Kleckner . 
+1994 . 
+SeqA : a negative modulator of replication initiation in E. coli . 
+Cell 77:413 -- 426 . 
+28 . 
+Lu , M. , and N. Kleckner . 
+1994 . 
+Molecular cloning of the pgm gene encoding phosphoglucomutase of Escherichia coli . 
+J. Bacteriol . 
+176:5847 -- 5851 . 
+29 . 
+Mangan , M. W. , S. Lucchini , V. Danino , T. O. Croinin , J. C. Hinton , and C. J. Dorman . 
+2006 . 
+The integration host factor ( IHF ) integrates stationary-phase and virulence gene expression in Salmonella enterica serovar Typhi-murium . 
+Mol . 
+Microbiol . 
+59:1831 -- 1847 . 
+30 . 
+Miller , J. H. 1972 . 
+Experiments in molecular genetics . 
+Cold Spring Harbor Laboratory Press , Cold Spring Harbor , NY . 
+31 . 
+Prieto , A. I. , F. Ramos-Morales , and J. Casadesús . 
+2004 . 
+Bile-induced DNA damage in Salmonella enterica . 
+Genetics 168:1787 -- 1794 . 
+32 . 
+Pucciarelli , M. G. , A. I. Prieto , J. Casadesús , and F. Garcıa-del Portillo . 
+2002 . 
+Envelope instability in DNA adenine methylase mutants of Salmonella enterica . 
+Microbiology 148:1171 -- 1182 . 
+33 . 
+Rotger , R. , and J. Casadesús . 
+1999 . 
+The virulence plasmids of Salmonella . 
+Int . 
+Microbiol . 
+2:177 -- 184 . 
+34 . 
+Rychlik , I. , and P. A. Barrow . 
+2005 . 
+Salmonella stress management and its relevance to behaviour during intestinal colonisation and infection . 
+FEMS Microbiol . 
+Rev. 29:1021 -- 1040 . 
+35 . 
+Salles , B. , J. M. Weiseman , and G. Weinstock . 
+1987 . 
+Temporal control of colicin E1 induction . 
+J. Bacteriol . 
+169:5028 -- 5034 . 
+36 . 
+Schmieger , H. 1972 . 
+Phage P22 mutants with increased or decreased transducing abilities . 
+Mol . 
+Gen. Genet . 
+119:75 -- 88 . 
+37 . 
+Segura , I. , J. Casadesús , and F. Ramos-Morales . 
+2004 . 
+Use of mixed infections to study cell invasion and intracellular proliferation of Salmonella enterica in eukaryotic cell cultures . 
+J. Microbiol . 
+Methods 56:83 -- 91 . 
+38 . 
+Simon , R. , U. Priefer , and A. Pühler . 
+1983 . 
+A broad host-range mobilization system for in vivo genetic engineering : transposon mutagenesis in Gramnegative bacteria . 
+Bio/Technol . 
+1:784 -- 791 . 
+39 . 
+Slater , S. , S. Wold , M. Lu , E. Boye , K. Skarstad , and N. Kleckner . 
+1995 . 
+E. 
+coli SeqA protein binds oriC in two different methyl-modulated reactions appropriate to its roles in DNA replication and origin sequestration . 
+Cell 82:927 -- 936 . 
+40 . 
+Slominska , M. , G. Konopa , J. Ostrowska , B. Kedzierska , G. Wegrzyn , and A. Wegrzyn . 
+2003 . 
+SeqA-mediated stimulation of a promoter activity by facilitating functions of a transcription activator . 
+Mol . 
+Microbiol . 
+47:1669 -- 1679 . 
+41 . 
+Slominska , M. , A. Wegrzyn , A. Konopa , K. Skarstad , and G. Wegrzyn . 
+1999 . 
+SeqA , the Escherichia coli origin sequestration protein , is also a transcription factor . 
+Mol . 
+Microbiol . 
+40:1371 -- 1379 . 
+42 . 
+Strzelczyk , B. , M. Slominska-Wojewodzka , G. Wegrzyn , and A. Wegrzyn . 
+2003 . 
+Non-random distribution of GATC sequences in regions of promoters stimulated by the SeqA protein of Escherichia coli . 
+Acta Biochim . 
+Pol . 
+50:941 -- 945 . 
+43 . 
+Thanassi , D. G. , L. W. Cheng , and H. Nikaido . 
+1997 . 
+Active efﬂux of bile salts by Escherichia coli . 
+J. Bacteriol . 
+179:2512 -- 2518 . 
+44 . 
+Torreblanca , J. , and J. Casadesús . 
+1996 . 
+DNA adenine methylase mutants of Salmonella typhimurium and a novel Dam-regulated locus . 
+Genetics 144 : 15 -- 26 . 
+45 . 
+Vogel , H. , and D. Bonner . 
+1956 . 
+Acetylornithase of Escherichia coli : partial puriﬁcation and some properties . 
+J. Biol . 
+Chem . 
+218:97 -- 106 . 
+46 . 
+Wegrzyn , A. , B. Wrobel , and G. Wegrzyn . 
+1999 . 
+Altered biological properties of cell membranes in Escherichia coli dnaA and seqA mutants . 
+Mol . 
+Gen. Genet . 
+261:762 -- 769 . 
+47 . 
+Wion , D. , and J. Casadesús . 
+2006 . 
+N6-methyl-adenine : an epigenetic signal for DNA-protein interactions . 
+Nat . 
+Rev. Microbiol . 
+4:183 -- 192 . 
+48 . 
+Yamazoe , M. , S. Adachi , S. Kanava , K. Obsumi , and S. Hiraga . 
+2005 . 
+Sequential binding of SeqA protein to nascent DNA segments at replication forks in synchronized cultures of E. coli . 
+Mol . 
+Microbiol . 
+55:289 -- 298 . 
+49 . 
+Yanisch-Perron , C. , J. Vieira , and J. Messing . 
+1985 . 
+Improved M13 phage cloning vectors and host strains : nucleotide sequences of the M13mp18 and pUC19 vector . 
+Gene 33:103 -- 119

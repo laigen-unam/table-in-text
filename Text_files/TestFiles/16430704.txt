@@ -1,0 +1,559 @@
+Blackwell Science , LtdOxford , UKMMIMolecular Microbiology0950-382X © 2005 The Authors ; Journal compilation © 2005 Blackwell Publishing Ltd ? 
+200559413271340Original ArticleDnaK chaperone activates FlhD2C2complexA.Takaya etal . 
+Molecular Microbiology ( 2006 ) 59 ( 4 ) , 1327 -- 1340 
+doi :10.1111 / j.1365-2958.2005.05016.x First published online 16 December 2005 
+The DnaK chaperone machinery converts the native
+FlhD2C2 hetero-tetramer into a functional transcriptional regulator o agellar 
+f ﬂ 
+regulon expression in Salmonella 
+Akiko Takaya , Mari Matsui , Toshifumi Tomoyasu , Michihiro Kaya and Tomoko Yamamoto * 
+Department of Microbiology and Molecular Genetics , Graduate School of Pharmaceutical Sciences , Chiba University , Chiba , 263-8522 , Japan . 
+Summary 
+The DnaK chaperone binds non-speciﬁcally to many unfolded polypeptides and also binds selectively to speciﬁc substrates . 
+Although its involvement in targeting the unfolded polypeptides to assist proper folding is well documented , less is known about its role in targeting the folded polypeptides . 
+We demonstrate that DnaK regulates the expression of the Sal-monella ﬂagellar regulon by modulating the FlhD and FlhC proteins , which function as master regulators at the apex of a transcription hierarchy comprising three classes of genes . 
+FlhD and FlhC form an FlhD2C2 complex that activates s70 promoter of class 2 genes . 
+In DdnaK cells , FlhD and FlhC proteins seemed to be assembled into hetero-tetrameric FlhD2C2 but the complex was not fully active in class 2 gene transcription , suggesting that the DnaK chaperone is involved in activating native FlhD2C2 complex into a regulator of ﬂagellar regulon expression . 
+This is the ﬁrst time that involvement of the DnaK chaperone machinery in activating folded oligomerized proteins has been demonstrated . 
+Introduction
+The HSP70 machinery is one of the most highly conserved chaperone families , ubiquitous among prokaryotes and in cellular compartments of eukaryotes . 
+DnaK , the eubacterial homologue of HSP70 , is an ATP-dependent molecular chaperone that functions together with the co-chaperone DnaJ and the nucleotide exchange factor GrpE to form the chaperone machinery ( for reviews , see Georgopoulos et al. , 1994 ; Bukau and Horwich , 1998 ) . 
+DnaK 
+Accepted 22 November , 2005 . 
+* For correspondence . 
+E-mail tomoko-y@p.chiba-u.ac.jp; Tel. ( +81 ) 43 290 2928 ; Fax ( +81 ) 43 290 2929 . 
+protein comprises an actin-like N-terminal ATPase domain of 45 kDa , a substrate binding domain of approximately 15 kDa and a C-terminal domain of approximately 10 kDa that is involved in co-chaperone binding and probably has other functions ( Zhu et al. , 1996 ) . 
+The chaperone function of DnaK relies on its ability to associate with short stretches of protein substrates in a transient and ATP-controlled manner ( for review , see Hartl and Hayer-Hartl , 2002 ) . 
+Through cycles of ATP-regulated binding and release , the DnaK machinery facilitates substrate folding to the native state . 
+ATP-bound DnaK has a low afﬁnity for its substrate but is converted to the ADP-bound high afﬁn-ity form by interaction with the co-chaperone DnaJ , which induces hydrolysis of the bound ATP ( for review , see Bukau and Horwich , 1998 ) . 
+DnaJ comprises an N-termi-nal J domain followed by a G/F motif , a linker domain and a Zn2 + ﬁnger domain , followed in turn by the C-terminal substrate binding domain ( Mayer et al. , 2000 ; Pellecchia et al. , 2000 ) . 
+GrpE binds to DnaK and acts as nucleotide exchange factor promoting the conversion of the ADP form of DnaK to the ATP form ( Zylicz et al. , 1987 ; Harrison et al. , 1997 ) . 
+It comprises an N-terminal domain of unknown type followed by an α-helical dimerization domain , followed in turn by a C-terminal β-sheet domain . 
+The DnaK chaperone machinery binds non-speciﬁcally to unfolded and misfolded polypeptides by recognizing extended hydrophobic sequences and therefore assists proper folding , helps refolding and prevents aggregation ( for reviews , see Bukau and Horwich , 1998 ; Hartl and Hayer-Hartl , 2002 ) . 
+It has also been shown to bind selectively to speciﬁc intracellular substrates that are already folded . 
+The dnaK , dnaJ and grpE genes were originally discovered because mutations in them blocked bacteriophage λ DNA replication ( for review , see Friedman et al. , 1984 ) . 
+Their main function is to liberate the DnaB helicase from its complex with λ P protein , allowing the initiation of DNA replication ( Yamamoto et al. , 1987 ; Liberek et al. , 1988 ; Zylicz et al. , 1989 ) . 
+The DnaK chaperone is also involved in the replication of plasmids P1 , F and R6K DNA by catalysing the conversion of dimeric initiator proteins into DNA-bound monomers ( Wickner et al. , 1991 ; Kawasaki et al. , 1992 ; Zzaman et al. , 2004 ) . 
+The roles of the DnaK chaperone machinery in these replication systems are dissociation of multidomain protein structures or conversion of oligomeric proteins to monomers through speciﬁc interaction with them . 
+Mutations in dnaK , dnaJ and grpE genes lead to similar phenotypes in bacterial physiology and gene expression . 
+These include ( i ) overexpression of all of the heat shock genes which are normally expressed at low levels , but their expression is enhanced in response to sudden temperature increase ( for review , see Georgopoulos et al. , 1994 ) . 
+The heat shock response is positively regulated by the σ32 transcription factor and negatively by the DnaK , DnaJ and GrpE which are also known as heat shock proteins . 
+It has been proposed that the DnaK chaperone machinery prevents the association of σ32 with the RNA polymerase core and thereby permits its efﬁcient degradation ( Tomoyasu et al. , 1998 ; Zhao et al. , 2005 ) . 
+They also include ( ii ) a blocking host DNA and RNA synthesis at non-permissive temperatures ( Itikawa and Ryu , 1979 ; Sakakibara , 1988 ) and ( iii ) a generalized defect in proteolysis ( Keller and Simon , 1988 ; Straus et al. , 1988 ) . 
+Whereas the involvement of the DnaK chaperone machinery in targeting unfolded polypeptides is well documented , little information is available about its interaction with folded or oligomerized proteins and regulation of their activity . 
+In the present paper , we demonstrate that the DnaK chaperone activates a hetero-oligomerized protein complex into a regulator of transcriptional of the regulon for ﬂagellum biogenesis . 
+We initially found that a ∆ dnaK mutant derived from Salmonella enterica serovar Typh-imurium is defective in ﬂagellar synthesis . 
+The ﬂagellar genes form a three-class transcription hierarchy . 
+The ﬂhDC operon lies at the apex of this hierarchy and functions as a positive regulator for expression of all the ﬂagellar regulon genes . 
+The products , FlhD and FlhC , act together in an FlhD2C2 complex to activate the σ70 promoter of class 2 genes . 
+We propose that the DnaK chaperone machinery is involved in activating the native FlhD2C2 hetero-tetrameric protein into a transcriptional regulator of Salmonella ﬂagellar regulon expression . 
++ P 
++ K / K aK na na D ∆ n D ∆ D 
+kDa 116.2 97.0 66.0 
+SipA 
+FljB FliC 
+45.0 
+31.0 
+21.5 
+Fig. 1 . 
+Coomassie brilliant blue-stained SDS polyacrylamide gel patterns of proteins secreted into medium by S. enterica serovar Typh-imurium strains χ3306 ( DnaK + ) , CS2021 ( ∆ DnaK ) and CS2501 ( ∆ DnaK/P + ) . 
+The secreted proteins were collected as described in Experimental procedures and then subjected to 10 % SDS-PAGE . 
+Protein bands indicated by arrows were analysed by mass spectrometry . 
+SipA , SPI1-encoded protein ; FljB and FliC , ﬂagellar ﬁlament proteins ; P + , pTKY608 . 
+Results
+The Salmonella dnaK mutant is defective in ﬂagellum biogenesis
+In a previous study , we constructed an insertional mutation in the dnaK gene of S. enterica serovar Typhimurium pathogenic strain χ3306 and examined the culture medium . 
+We detected none of the proteins secreted by either of the type III protein secretion systems encoded by Salmonella pathogenicity island 1 ( SPI1 ) and ﬂagel-lum-related genes ( Takaya et al. , 2004 ) . 
+As shown in Fig. 1 , the predominant proteins secreted into the culture medium of wild-type strain χ3306 were the SPI1-encoded 
+SipA and the ﬂagellum-related proteins , FliC and FljB . 
+The ﬂagellum is composed of a ﬁlament , a hook and a basal body . 
+The ﬁlament comprises about 20 000 subunits of a single protein , ﬂagellin ( Macnab , 1996 ) . 
+S. enterica sero-var Typhimurium is known to express two antigenically distinct ﬂagellins , FliC and FljB , neither of which was detected in the culture medium of the ∆ dnaK cells . 
+The mutation was created by inserting a chloramphenicolresistance cassette including a stop codon , and therefore resulted in a polar effect on dnaJ expression in the operon ( Takaya et al. , 2004 ) . 
+Because DnaK functions as a molecular chaperone with the co-chaperone DnaJ , we decided to use this mutant strain CS2021 , carrying the dnaK : : Cm allele , for further analysis . 
+To conﬁrm that the absence of ﬂagellins from the culture medium of this strain is due to the depletion of DnaK and DnaJ , the dnaK : : Cm mutation was complemented by a functional dnaK-dnaJ operon from χ3306 on a low-copy-number plasmid in trans and tested for ﬂagellin proteins . 
+As shown in Fig. 1 , FliC and FljB were restored in the culture medium of the complemented strain , suggesting that the DnaK chaperone machinery is essential for ﬂagellum biogenesis in S. enterica serovar Typhimurium . 
+Electron micrographs show that the dnaK : : Cm mutant failed to make ﬂagella ( Fig. 2 ) . 
+We then examined whether the impaired ability of the ∆ dnaK mutant to synthesize the ﬂagellum is due to decreased expression of the relevant genes . 
+The transcription of ﬂagellum-related genes forms a highly ordered cascade called the ﬂagellar regulon , the operons of which are divided into three classes ( Kutsukake et al. , 1990 ) . 
+The transcription of ﬂiC and ﬂjB in class 3 ( furthest downstream in the cascade ) requires the class 3-speciﬁc sigma factor , σ28 , encoded by ﬂiA gene in class 2 operons higher in the transcription hierarchy . 
+In turn , ﬂiA is positively controlled by the gene products FlhD and FlhC , which are encoded by the sole operon lying at the apex of the hierarchy . 
+Alternate expression of the two ﬂagellin genes , ﬂiC and ﬂjB , results in an oscillation of phenotype known as phase variation , which occurs with frequencies ranging from 10 − 3 to 10 − 5 per bacterium per generation ( Stocker , 1949 ) . 
+The ﬂiC gene is subject to repression by the product of the ﬂjA gene , which is contained in the ﬂjB operon . 
+To avoid this effect of FljA , we used the ﬂjB : : Tn10 mutation as background for further analysis . 
+Chromosomal ﬂiC -- lac , ﬂiA -- lac and ﬂhD -- lac fusions were introduced into the dnaK + and ∆ dnaK cells by P22 transduction and β-galac-tosidase activity was examined in the resulting transductants . 
+As shown in Fig. 3A , transcription from the ﬂiA and ﬂiC promoters of the fusion genes was dramatically decreased by depletion of the DnaK chaperone machinery . 
+In contrast , the ﬂhD -- lac fusion was transcribed normally in the ∆ dnaK cells . 
+The FlhD and FlhC proteins act together in an FlhD2C2 hetero-tetramer to activate the σ70 promoter of ﬂiA gene ( Ikebe et al. , 1999 ) . 
+We have previously demonstrated that an ATP-dependent ClpXP protease degrades the FlhD2C2 complex , leading to downregulation of ﬂagellar regulon expression ( Tomoyasu et al. , 2002 ; 2003 ) . 
+The ClpXP protease , a member of the heat shock protein family ( Georgopoulos et al. , 1994 ) , is presumed to accumulate in cells on depletion of DnaK , which negatively modulates the expression of the heat shock regulon . 
+DnaK chaperone activates FlhD2C2 complex 1329 
+β-galactosidase activity ( Miller Units ) 
+( A ) 
+( B ) 
+Fig. 2 . 
+Transmission electron microscopy of wild-type strain χ3306 ( A ) and the ∆ DnaK mutant strain CS2011 ( B ) grown in L broth at 30 °C . 
+β-galactosidase activity ( Miller Units 
+Fig. 3 . 
+Effects of depletion of DnaK chaperone machinery ( A ) and both DnaK and ClpP protease ( B ) on transcription of class 1 , 2 and 3 genes in the Salmonella ﬂagellar regulon . 
+The levels of β-galactosidase activity in transcriptional fusions of the class 1 ( ﬂhD ) , 2 ( ﬂiA ) and 3 ( ﬂiC ) genes with lac were assayed in bacterial cells of strains CS2055 ( DnaK + ClpP + ﬂiC -- lac ) , CS2140 ( DnaK + ClpP + ﬂiA -- lac ) , CS2144 ( DnaK + ClpP + ﬂhD -- lac ) , CS2279 ( ∆ DnaK ClpP + ﬂiC -- lac ) , CS2280 ( ∆ DnaK ClpP + ﬂiA -- lac ) , CS2281 ( ∆ DnaK ClpP + ﬂhD -- lac ) , CS2955 ( ∆ DnaK ∆ ClpP ﬂiA -- lac ) , CS2956 ( ∆ DnaK ∆ ClpP ﬂiC -- lac ) and CS2958 ( ∆ DnaK ∆ ClpP ﬂhD -- lac ) . 
+B 
+A 
+500 
+500 
+DnaK + 
+DnaK + ∆ DnaK 
+∆ DnaK ∆ ClpP 
+400 
+400 
+300 
+300 
+200 
+200 
+100 
+100 
+0 
+0 
+fliC 
+fliA 
+flhD 
+fliC 
+fliA 
+flhD 
+Therefore , the marked decrease of transcription from the ﬂiA and ﬂiC promoters might be due to excessive degradation of the FlhD2C2 complex by the ClpXP protease if this accumulates in the ∆ dnaK cells . 
+To determine whether this was the case , we measured the levels of transcription from the promoter of the ﬂiA -- lac or ﬂiC -- lac fusions in the ∆ dnaK ∆ clpP double mutant cells . 
+As shown in Fig. 3B , the depletion of ClpXP protease did not compensate the diminished ability of cells with ∆ dnaK background to activate transcription from these promoters , suggesting that accumulation of ClpXP protease in the ∆ dnaK cells was not responsible for the dramatically decreased rate of transcription of ﬂiA and ﬂiC . 
+In view of all these ﬁndings , we suggest that the DnaK chaperone machinery is responsible for modulating FlhD and FlhC , which are the master regulators at the post-transcriptional and/or posttranslational levels . 
+The DnaK chaperone machinery is not essential for assembling of FlhD and FlhC proteins into the FlhD2C2 complex
+The loss of transcription of class 2 and class 3 genes incurred by depleting the DnaK chaperone machinery could be explained if ( i ) FlhD and FlhC were not properly folded and therefore degraded by proteases ; ( ii ) FlhD and FlhC could not be assembled into the FlhD2C2 complex ; or ( iii ) native FlhD2C2 needed to be activated in order to function as a bona ﬁde activator of expression of genes lower in the transcriptional hierarchy . 
+To address these possibilities , we ﬁrst examined the levels of FlhD and FlhC proteins in the ∆ dnaK and ∆ dnaK ∆ clpP cells . 
+As far as we know , antibody detection of FlhD or FlhC in Salmonella or Escherichia coli cells has not been reported , suggesting that both regulator proteins are short-lived and/or present at low levels . 
+Therefore , we used the strains harbouring a plasmid , pTKY594 , capable of overexpressing the ﬂhDC operon under the regulation of the PA1/lacO1 promoter/operator system . 
+The results are shown in Fig. 4 . 
+Both FlhD and FlhD were detectable even in the absence of IPTG , a condition in which the operon expressed by readthrough from the PA1/lacO1 promoter . 
+FlhD and FlhC were present in the ∆ dnaK cells at levels almost equivalent to those in the dnaK + cells , suggesting no great difference between in the ∆ dnaK and dnaK + cells in the stability of either protein . 
+We previously demonstrated that the cellular concentration of the FlhD2C2 master regulator is tightly controlled at the post-translational level by ClpXP protease , which degrades both FlhD and FlhC proteins in the FlhD C 2 2 complex but does not degrade the respective subunits individually ( Tomoyasu et al. , 2003 ) . 
+Therefore , if the FlhD2C2 complex is assembled independently of the DnaK chaperone machinery , depletion of ClpXP protease would result in accumulation of FlhD and FlhC proteins even in the ∆ dnaK cells . 
+This possibility was examined by comparing the levels of FlhD and FlhC in the ∆ dnaK and ∆ dnaK ∆ clpP cells . 
+As shown in Fig. 4 , both proteins accumulated when ClpXP protease was depleted even in the ∆ dnaK background , suggesting that the DnaK chaperone machinery is not essential for assembling the FlhD2C2 complex . 
+Fig. 4 . 
+Effects of depletion of DnaK chaperone machinery and/or ClpP protease on cellular levels of FlhD , FlhC and FliC . 
+Whole cell lysates were prepared from bacterial cell of strains CS2743 ( DnaK + ClpP + , pTKY594 + ) , CS2744 ( DnaK + ∆ ClpP , pTKY594 + ) , CS2745 ( ∆ DnaK ClpP + , pTKY594 + ) and CS2911 ( ∆ DnaK ∆ ClpP , pTKY594 + ) . 
+A. Immunoblotting analysis using anti-FlhC , anti-FlhD and anti-FliC sera . 
+B. Coomassie brilliant blue-stained 15 % SDS-PAGE patterns of the same samples used for immunoblotting analysis . 
+Lane M contains the following molecular mass standards from top to bottom : 97.4 , 66.2 , 45.0 , 31.0 , 21.5 and 14.4 kDa . 
+The molecular sizes of the FlhC , FlhD and FliC are 21.6 , 14.1 and 51.6 kDa respectively . 
+B 
+A 
++ 
+∆ 
+∆ 
++ 
++ 
+∆ DnaK ClpP ∆ 
+∆ 
+DnaK + ClpP + 
+M 
+∆ 
++ 
+∆ 
++ 
+∆ 
++ 
+FlhC 
+FlhD 
+FliC 
+The DnaK chaperone machinery activates the FlhD2C2 complex into a functional transcriptional regulator 
+The immunoblotting analyses in Fig. 4 show no accumulation of FliC in the ∆ dnaK ∆ clpP cells but signiﬁcant accumulation of what appears to be the FlhD2C2 complex . 
+This suggests that the complex accumulated when the ClpXP protease was depleted , but it was not a functional activator of expression of lower transcriptional hierarchy genes in the ∆ dnaK background . 
+To examine whether native FlhD2C2 needs to be activated in order to function as a bona ﬁde activator of ﬂagellar gene expression , we determined the levels and activities of FlhD2C2 proteins in cells where ﬂhD and ﬂhC expression is tightly controlled by IPTG concentration in the presence of lacIq . 
+For this purpose , a strain was constructed in which the chromosomal ﬂhDC operon was disrupted by transduction of ﬂhD : : Tn10 . 
+This transductant was transformed with the plasmids , pTKY594 , in which the ﬂhDC operon promoter is replaced with the PA1/lacO1 promoter/operator system and pTKY705 carrying lacIq . 
+The FlhD and FlhC levels were determined by immunoblotting analysis at various times after ﬂhD and ﬂhC transcription was induced by 50 µM IPTG . 
+The immunoblots of Fig. 5 show that the levels of FlhD and FlhC increase more slowly in the ∆ dnaK cells than in the dnaK + cells even in the absence of ClpP , suggesting that the DnaK chaperone machinery may play a role in the protection of FlhD and FlhC monomers from degradation by protease ( s ) other than ClpXP . 
+Most proteolysis in bacteria is elicited by members of ATP-depen-dent protease family , including ClpXP , ClpAP , HslVU and Lon . 
+These proteases are also known as heat shock proteins whose levels are increased by depletion of DnaK , a negative regulator of the heat shock response . 
+Therefore , the slower increasing of FlhD and FlhC proteins in the ∆ dnaK cells could be due to the degradation of both monomers by the increased level of protease ( s ) such as ClpAP , HslVU and Lon . 
+Our previous report in which the ∆ lon mutation resulted in approximately twofold increase in expression from the ﬂiC promoter in serovar Typhimu-rium ( Tomoyasu et al. , 2003 ) suggests that Lon protease may be involved in the degradation of monomers . 
+The transcriptional regulating activity of the FlhD2C2 complex was monitored by measuring the β-galactosidase activity in the ﬂiA -- lac transcriptional fusion . 
+The results are shown in Fig. 5 . 
+In the dnaK + cells , the β-galactosi-dase activity increased with increasing FlhD and FlhC levels . 
+In contrast , in the ∆ dnaK cells , the β-galactosidase activity was signiﬁcantly lower even after 3 h of incubation with IPTG , when the FlhD and FlhC proteins reached levels similar to those in the dnaK + cells . 
+Similar experiments were performed using the ∆ dnaK ∆ clpP cells . 
+Again , the FlhD2C2 activity was markedly lower at the time when both FlhD and FlhC had accumulated . 
+These results 
+DnaK chaperone activates FlhD2C2 complex 1331 suggest that the FlhD2C2 complex needs to be activated by the DnaK chaperone machinery to function as a transcriptional regulator . 
+Alternatively , folding , assembling and/or activation of FlhD and FlhC might occur independently on the DnaK chaperone machinery , though at a very low rate because the β-galactosidase activity in the ﬂiA -- lac fusion increased only slightly in the ∆ dnaK cells . 
+To examine this alternative possibility , we took advantage of a condition in which the synthesis of new FlhD and FlhC proteins was shut off . 
+Bacterial cells carrying a P - controlled ﬂhDC operon and lacIq A1/lacO1 were incubated for 1 h with 50 µM IPTG to produce the FlhD and FlhC proteins , collected by centrifugation and resuspended in M9 medium . 
+They were incubated again in the absence of IPTG for the times indicated in Fig. 6 . 
+The levels of FlhD and FlhC , and their capacity to initiate the transcription from the ﬂiA promoter , were then determined . 
+The results show that these proteins accumulated during incubation with IPTG ; they actively initiated ﬂiA transcription in the dnaK + cells , but were not fully functional in the ∆ dnaK cells . 
+The most convincing evidence indicating the importance of DnaK for the activation of FlhD2C2 complex is as follows ; in the wild-type cells , the levels of FlhD and FlhC decreased with time while in the ∆ dnaK ∆ clpP cells the levels of both proteins stayed constantly high , but this is contrasted by the transcriptional regulating activity of FhlD and FlhC , which was high in the wild-type cells but mark-edly low in the ∆ dnaK ∆ clpP cells . 
+Therefore , we strongly suggest that the DnaK chaperone machinery is important for the activation of the FlhD2C2 complex to function as a transcriptional regulator . 
+The FlhD2C2 that accumulated in the ∆ dnaK ∆ clpP cells showed residual activity in initiating ﬂiA transcription , so a small fraction of the complex is probably activated by a DnaK chaperone-independent pathway . 
+Physical interaction of FlhD, FlhC and DnaK proteins in vivo
+To examine the association of FlhD2C2 tetramer with DnaK in vivo , we ﬁrst constructed a plasmid , pTKY597 , encoding an N-terminally His-tagged FlhD . 
+As the FlhD and FlhC subunits homodimerize and then assemble into the FlhD2C2 hetero-oligomer ( Claret and Hughes , 2000 ) , FlhC can be co-puriﬁed with the N-His-tagged FlhD by Ni2 + - NTA afﬁnity column chromatography . 
+Furthermore , if the FlhD2C2 hetero-tetramer physically interacts with the DnaK chaperone , the Ni2 + - NTA column chromatography will allow the efﬁcient puriﬁcation of FlhD2C2-DnaK complex from crude lysates . 
+A soluble extract of Salmonella cells harbouring pTKY597 was obtained by detergent-free lysis and loaded onto a Ni2 + - NTA Superﬂow column . 
+Bound proteins were eluted by ligand competition , using 50 , 75 , 100 , 150 or 200 mM imidazole , and were characterized by SDS-PAGE ( Fig. 7A ) . 
+Fraction of 75 mM imidazole elution was then run on a size exclusion chromatography column to see the existence of FlhD2C2-DnaK complexes . 
+As shown in Fig. 7B , immunoblot analysis of the fractions with DnaK - , FlhD - and FlhC-speciﬁc antisera revealed that three proteins are co-puriﬁed at a position corresponding to mole-cule having a molecular mass of > 140 kDa ( fractions 23 -- 24 ) , suggesting the existence of FlhD2C2-DnaK complexes . 
+The immunoblot also showed that the absolute amount of FlhD and FlhC in the FlhD2C2-DnaK complexes was lower than that in FlhD2C2 complexes eluted at a position corresponding to molecular mass of approximately 70 kDa , suggesting the cycle of binding and release of the DnaK chaperone in the physical interaction with FlhD2C2 complex in vivo . 
+A 
+DnaK + ClpP + ∆ DnaK ClpP + Incubation 
+DnaK + ClpP + ∆ DnaK ∆ ClpP 
+time ( hr ) 0 0.5 1.0 2.0 3.0 0 0.5 1.0 2.0 3.0 
+0 0.5 1.0 2.0 3.0 0 0.5 1.0 2.0 3.0 
+FlhC 
+FlhD 
+M 
+M 
+β-galactosidase activity ( Miller Units 
+B 
+DnaK + ClpP + ∆ DnaK ClpP + ∆ DnaK ∆ ClpP 
+3000 
+2000 
+1000 
+0 
+1.0 1.5 2.0 2.5 Incubation time ( hr ) 
+3.0 
+0.5 
+0 
+Fig. 5 . 
+Accumulation and expression of activity of FlhD and FlhC proteins in initiating the transcription of ﬂiA-fused lacZ gene after induction of IPTG-controlled ﬂhDC genes in cells depleted either of DnaK or of both DnaK and ClpP . 
+Bacterial cells of strains CS2962 ( DnaK + ClpP + , pTLY705 + ) , CS2967 ( ∆ DnaK ClpP + , pTKY705 + ) and CS2968 ( ∆ DnaK ∆ ClpP , pTKY705 + ) , which carry the ﬂiA -- lacZ fusion on the chromosome and PA1/lacO1 - ﬂhDC on plasmid pTKY705 , were grown in M9 medium to OD600 of 0.5 at 30 °C , followed by the induction of ﬂhD and ﬂhC by adding 50 µM IPTG . 
+Samples were taken at the times indicated and a portion of each was subjected to 15 % SDS-PAGE , followed by immunoblotting with antisera against FlhC or FlhD . 
+The proteins separated on the gel were also stained with Coomassie brilliant blue ( A ) . 
+β-Galactosidase from the ﬂiA -- lacZ fusion was determined in each sample ( B ) . 
+The values represent the means and standard deviations of samples tested in triplicate . 
+Fig. 6 . 
+Initiation of the transcription of ﬂiA-fused lacZ gene by FlhD and FlhC in the absence of new synthesis of these proteins . 
+Bacterial cells of strains CS2962 ( DnaK + ClpP + , pTLY705 + ) , CS2967 ( ∆ DnaK ClpP + , pTKY705 + ) and CS2968 ( ∆ DnaK ∆ ClpP , pTKY705 + ) , which carry the ﬂiA -- lacZ fusion on the chromosome and PA1/lacO1 - ﬂhDC on plasmid pTKY705 , were grown in M9 medium to OD600 of 0.5 at 30 °C . 
+The expression of ﬂhD and ﬂhC was induced by 50 µM IPTG . 
+After incubation for 1 h at the same temperature , the bacterial cells were centrifuged and resuspended in prewarmed M9 medium . 
+After incubation at 30 °C , samples were taken at each time indicated and a portion of each was subjected to 15 % SDS-PAGE , followed by immunoblotting using antiserum against FlhC or FlhD.The proteins separated on the gel were also stained with Coomassie brilliant blue ( A ) . 
+β-Galactosidase from the ﬂiA -- lacZ fusion was determined in each sample ( B ) . 
+The values represent the means and standard deviations of samples tested in triplicate . 
+DnaK seems to bind to the FlhD2C2 hetero-tetramer and dissociate from the complex in an ATP-dependent manner
+We then examined the possible interaction between the 
+FlhD2C2 hetero-tetramer and the DnaK chaperone by an in vitro binding and release assay . 
+To purify the FlhD and FlhC proteins as a complex , a soluble extract of cells harbouring pTKY597 was obtained by detergent-free lysis and loaded onto a Ni2 + - NTA column . 
+Bound proteins were eluted by ligand competition , using 250 mM imidazole , and were characterized by SDS-PAGE and immunoblotting ( data not shown ) . 
+Fractions containing FlhD and FlhC were collected and separated by size exclusion gel chromatography on Superdex ™ 75 . 
+Figure 8A shows that the FlhD and FlhC subunits co-eluted at a position corresponding to the expected 71.5 kDa , consisting of the His-tagged FlhD dimer ( Mr = 28 246 Da ) and FlhC dimer ( Mr = 43 200 Da ) relative to molecular weight standards . 
+Components of the DnaK chaperone machinery have been shown to interact physically with His-tagged σ32 in crude cell extracts and in a puriﬁed system ; a binding and release experiment demonstrated that DnaK binds σ32 efﬁciently in the absence of ATP , and ATP destabilizes the DnaK-σ32 interactions ( Gamer et al. , 1996 ) . 
+We therefore conducted binding and release experiments to determine the ATP-dependency of the interaction between DnaK and the FlhD2C2 multimer . 
+Excess amounts of puriﬁed N-His-FlhD2C2 multimer were mixed with Ni2 + - NTA beads and incubated at 4 °C . 
+The beads were washed to remove the unbound N-His-FlhD2C2 and then incubated at 37 °C with culture lysate from dnaK + cells under conditions that allowed efﬁcient N-His-FlhD2C2 binding to DnaK in the absence of ATP . 
+They were then incubated with ATP to allow complex dissociation . 
+Finally , the DnaK and FlhD2C2 remaining on the beads were eluted with EDTA and subjected to SDS-PAGE , followed by staining with Coomassie brilliant blue ( Fig. 8B ) and immunoblotting analysis ( Fig. 8C ) . 
+The results show that DnaK was bound to the FlhD2C2 multimer in the absence of ATP and released from the complex in the presence of ATP . 
+These ﬁndings suggest that DnaK associates with the FlhD2C2 multimer in an ATP-dependent manner . 
+DnaK + ClpP + ∆ DnaK ClpP + Incubation 
+DnaK + ClpP + ∆ DnaK ∆ ClpP 0 0.5 1.0 2.0 3.0 0 0.5 1.0 2.0 3.0 
+time ( hr ) 0 0.5 1.0 2.0 3.0 0 0.5 1.0 2.0 3.0 
+FlhC 
+FlhD 
+M 
+M 
+β-galactosidase activity ( Miller Units 
+B 
+DnaK + ClpP + ∆ DnaK ClpP + ∆ DnaK ∆ ClpP 
+5000 
+4000 
+3000 
+2000 
+1000 
+0 
+3.0 
+0.5 1.0 1.5 2.0 2.5 Incubation time ( hr ) 
+0 
+Fig. 6 . 
+Initiation of the transcription of ﬂiA-fused lacZ gene by FlhD and FlhC in the absence of new synthesis of these proteins . 
+Bacterial cells of strains CS2962 ( DnaK + ClpP + , pTLY705 + ) , CS2967 ( ∆ DnaK ClpP + , pTKY705 + ) and CS2968 ( ∆ DnaK ∆ ClpP , pTKY705 + ) , which carry the ﬂiA -- lacZ fusion on the chromosome and PA1/lacO1 - ﬂhDC on plasmid pTKY705 , were grown in M9 medium to OD600 of 0.5 at 30 °C . 
+The expression of ﬂhD and ﬂhC was induced by 50 µM IPTG . 
+After incubation for 1 h at the same temperature , the bacterial cells were centrifuged and resuspended in prewarmed M9 medium . 
+After incubation at 30 °C , samples were taken at each time indicated and a portion of each was subjected to 15 % SDS-PAGE , followed by immunoblotting using antiserum against FlhC or FlhD.The proteins separated on the gel were also stained with Coomassie brilliant blue ( A ) . 
+β-Galactosidase from the ﬂiA -- lacZ fusion was determined in each sample ( B ) . 
+The values represent the means and standard deviations of samples tested in triplicate . 
+Discussion
+In this study , we have demonstrated that S. enterica sero-var Typhimurium cells depleted of the DnaK chaperone machinery are defective in ﬂagellar synthesis ( Figs 1 and 2 ) and show dramatically reduced rates of transcription of class 2 and 3 genes in the ﬂagellar regulon . 
+In contrast , the transcription of the ﬂhDC operon at the apex of the hierarchy remains normal ( Fig. 3 ) . 
+Furthermore , the FlhD and FlhC proteins are detectable in the mutant cells ( Fig. 4 ) , suggesting that the proteins are modulated at the post-translational levels by the DnaK chaperone machinery . 
+It was previously reported that E. coli in which dnaK is deleted lack ﬂagella , exhibit a 10 - to 20-fold decrease in the rate of synthesis of ﬂagellin , and show reduced rates of transcription of both the ﬂhDC master operon and the ﬂiA operon ( Shi et al. , 1992 ) . 
+It was suggested that the DnaK chaperone machinery is responsible for expression of the ﬂagellar regulon by controlling the ﬂhDC master operon at the transcriptional level . 
+A number of possible mechanisms could be envisioned . 
+For instance , the DnaK chaperone machinery might be required for the proper folding , translational efﬁciency , degradation or activity of an unknown positive regulator of the ﬂhDC operon ( Shi et al. , 1992 ) . 
+It appears that the DnaK chaperone machinery regulates ﬂagella biogenesis in both S. enterica serovar Typhimurium and E. coli , but by different mechanisms . 
+As molecular chaperones are believed to help protein assembly ( Ellis and van der Vies , 1991 ; Morimoto et al. , 1994 ) , it seemed likely that the DnaK chaperone machinery was responsible for assembling the FlhD2 and FlhC2 homodimers and/or combining these to form the hetero-oligomer , FlhD2C2 , which is a transcriptional activator for class 2 gene expression in the ﬂagellar regulon . 
+This possibility was excluded by the observation that FlhD and FlhC accumulated in the ∆ dnaK mutant cells depleted of the ClpXP protease ( Figs 4 -- 6 ) , which degrades the FlhD2C2 complex but not the individual subunits ( Tomo-yasu et al. , 2003 ) . 
+However , the FlhD2C2 complex that accumulated in the ∆ dnaK ∆ clpP double mutant cells was not a fully functional activator of class 2 gene transcription , suggesting that the DnaK chaperone is responsible for activating the native FlhD2C2 complex to form a bona ﬁde regulator of expression of these genes , thus allowing all the genes in the Salmonella ﬂagellar regulon to be expressed . 
+In E. coli , DNase I footprinting and an in vitro transcription assay using σ70-RNA polymerase showed that FlhD2C2 binds 50 -- 60 bp upstream of the transcription start sites of the class 2 genes and activates their transcription ( Liu and Matsumura , 1994 ; 1996 ) . 
+It was also demonstrated that both FlhC and FlhD contact the DNA within the FlhD2C2 tetramer by using photo-cross-linking technique to identify DNA binding by proteins in multimeric complexes ( Claret and Hughes , 2002 ) . 
+These suggest that speciﬁcity of recognition and stability of the FlhD2C2 / DNA complex require protein -- protein interaction and interaction of both subunits with the DNA . 
+In the present study , the size exclusion chromatography of elute from Ni2 + - NTA column showed that the FlhD and FlhC are assembled into the FlhD2C2 complex in vivo ( Figs 7 and 8 ) . 
+Furthermore , physical interaction of FlhD , FlhC and DnaK chaperone was conﬁrmed by the existence of FlhD2C2-DnaK complexes on a size exclusion chromatography column ( Fig. 7B ) . 
+As indicated by comparing the levels of FlhD and FlhC in the ∆ dnaK and ∆ dnaK ∆ clpP cells ( Fig. 4 ) , assembling of FlhD2 and FlhC2 into the het-ero-tetramer seems to be independent of DnaK chaperone machinery . 
+When the crude lysate of ∆ dnaK cells was run on Ni2 + - NTA column , FlhC could be co-puriﬁed with the N-terminally His-tagged FlhD in a single step , suggesting the assembling of FlhD2C2 by a DnaK chaperone-independent pathway . 
+However , the FlhD2C2 complexes could not be retained during the subsequent size exclusion column chromatography ( data not shown ) , whereas the tetramers from the lysate of dnaK + cells stably stayed during the chromatography . 
+Therefore , it is likely that the DnaK chaperone machinery interacts with the FlhD2C2 hetero-tetramer and converts it into a stable form capable of binding to the promoter to form the FlhD2C2/DNA complex . 
+It has been shown using DNA replication systems that the DnaK chaperone machinery targets speciﬁc proteins that are oligomerized into multidomain proteins . 
+In bacteriophage λ , the phage-encoded P protein recruits DnaB helicase to the replication origin , λori , with the λ O replication initiation protein but the λ P protein shuts down the DnaB activity in the helicase-λP complex . 
+The DnaK chaperone machinery dissociates the λ P protein from the λori-λO-λP-DnaB complex , thus restoring the helicase activity needed to initiate replication ( Yamamoto et al. , 1987 ; Zyl-icz et al. , 1989 ) . 
+In plasmids P1 and F , in contrast to the system for λ DNA replication , the DnaK chaperone machinery converts the inert dimeric RepA protein into origin-bound monomers to allow initiation of replication ( Wickner et al. , 1991 ; Kawasaki et al. , 1992 ) . 
+Recently , the DnaK chaperone machinery has been shown to activate the dimeric inert π protein into iteron-bound mono-mers in plasmid R6K , ensuring that replication is initiated at the correct origin ( Zzaman et al. , 2004 ) . 
+In these DNA replication systems , the function of the DnaK chaperone machinery is to dissociate multidomain protein structures or to convert the oligomeric proteins to monomers by speciﬁc binding to proteins that have been folded and then oligomerized . 
+On the other hand , DnaK , DnaJ and GrpE are also known as heat shock proteins , normally present in the cell at lower concentrations unless their synthesis is enhanced in response to thermal shock ( Georgopoulos et al. , 1994 ) . 
+The heat shock genes are regulated by the antagonistic actions of the transcriptional activator , the σ32 subunit of RNA polymerase , and negative modulators ( Bukau , 1993 ; Yura et al. , 1993 ) . 
+The DnaK chaperone functions as a negative modulator that inactivates and destabilizes σ32 ( Tilly et al. , 1989 ; Straus et al. , 1990 ; Liberek et al. , 1992 ; Liberek and Georgopoulos , 1993 ; Zhao et al. , 2005 ) . 
+The homeostatic regulation model proposes that induction of the heat shock response relies on sequestering the DnaK by binding to the damaged proteins that accumulate during stress ( Tomoyasu et al. , 1998 ) . 
+Another limiting factor for regulating heat shock expression is the FtsH protease , which is largely responsible for σ32 degradation ( Herman et al. , 1995 ; Tomoyasu et al. , 1995 ) . 
+Although FtsH is clearly important in controlling σ32 , as indicated by the marked accumulation of σ32 in the ∆ ftsH mutant , the DnaK chaperone machinery appears to be more important than FtsH with respect to the overall control of heat shock gene expression . 
+This is indicated by a previous report showing that the accumulated σ32 in FtsH-depleted cells is inactive in inducing heat shock gene expression in the DnaK + cells , but active when DnaK is depleted , suggesting that the DnaK chaperone machinery is involved in controlling the activity of σ32 as well as degrading it ( Tatsuta et al. , 1998 ; Tomoyasu et al. , 1998 ) . 
+Although the exact mechanism by which DnaK promotes degradation is not clear , one possibility is competition between DnaK and core RNA polymerase for σ32 binding at speciﬁc regions . 
+The DnaK could thereby prevent its efﬁcient degradation ; in vitro analysis showed that the substrate for FtsH is free rather than RNA polymerase-bound σ32 ( Tomoyasu et al. , 1998 ) . 
+On the other hand , it still remains unclear how the DnaK chaperone machinery acts as a negative controller of σ32 activity . 
+The DnaK chaperone assists protein folding because it associates with short peptide stretches of protein substrate in a transient and ATP-controlled manner ( Bukau and Horwich , 1998 ; Agashe and Hartl , 2000 ) . 
+ATP binding to the N-terminal domain of DnaK causes a conformational signal to be transduced to the C-terminal domain . 
+This signal opens the peptide binding cleft by lifting the α-helical lid , representing the binding and release state . 
+ATP hydrolysis by the N-terminal domain causes the peptide binding cleft to close , thereby retaining the bound substrate . 
+It has been also revealed that a cycle of binding and release of the DnaK chaperone machinery in an ATP-controlled manner regulates σ32 ( Gamer et al. , 1996 ) . 
+The binding and release assay using puriﬁed FlhD2C2 and the lysates with or without DnaK ( Fig. 8 ) showed a possible direct ATP-dependent interaction between the FlhD2C2 complex and the DnaK . 
+Taken together , the results of the present study suggest that the DnaK chaperone machinery converts the native FlhD2C2 hetero-tetramer into a transcriptional regulator of ﬂagellar regulon expression in an ATP-dependent manner . 
+Although it is still unclear how the DnaK chaperone machinery regulates the activity of the FlhD2C2 complex , this is the ﬁrst time that the involvement of the DnaK chaperone machinery in the activation of inert hetero-oligomeric proteins has been demonstrated . 
+A 
+B 
+Fraction No . 
+20 21 22 23 24 25 26 27 28 29 30 31 32 
+Imidazole ( mM ) 
+DnaK 
+M 50 75 100 150 200 
+FlhC 
+FlhD 
+FlhC C Fraction No . 
+M 20 21 22 23 24 25 26 27 28 29 30 31 32 
+FlhD 
+FlhC 
+FlhD 
+Fig. 7 . 
+Gel ﬁltration of N-His-FlhD-containing imidazole elution fraction . 
+A . 
+A Ni2 + - NTA Superﬂow column was loaded with the extracts from CS3077 cells , washed and developed by a stepwise concentration of imidazole . 
+The fractions were separated by SDS-PAGE and visualized by staining of the gel with Coomassie brilliant blue . 
+B. Aliquots of fraction by 75 mM imidazole elution shown in ( A ) were subjected to size exclusion chromatography using a Superose ™ 12 . 
+Aliquots of the collected fractions were subjected to SDS-PAGE and immunoblot analysis with DnaK - , FlhD - and FlhC-speciﬁc antisera . 
+C . 
+The gel in ( B ) was visualized by staining with Coomassie brilliant blue . 
+Lane M contains the following molecular mass standard from top to bottom : 97 , 66 , 45 , 30 , 20.1 and 14.4 kDa . 
+A 
+B 
+C 
+Fraction No . 
+- DnaK - ATP 
+- DnaK - ATP 
++ + 
++ + 
+¬ 
+¬ 
+M + - + 
++ - + 
+M 25 26 27 28 29 30 31 32 33 34 
+DnaK 
+FlhC 
+FlhC 
+FlhD 
+FlhD 
+Fig. 8 . 
+Binding of DnaK to the FlhD2C2 hetero-oligomer and ATP-dependent release from the complex . 
+A. Gel chromatography of the His-tagged FlhD-FlhC complex eluted from a Ni2 + - NTA Superﬂow column . 
+A portion of each fraction indicated was separated on 15 % SDS-PAGE and stained with Coomassie brilliant blue . 
+Relative to the standards of known molecular weights on the gel chromatography , a value of Mr = 71 500 for the protein complex was calculated . 
+This value corresponds to a hetero-oligomer composed of the His-tagged FlhD dimer ( Mr = 28 246 ) and the FlhC dimer ( Mr = 43 200 ) . 
+B. Coomassie brilliant blue-stained 15 % SDS-PAGE patterns of proteins recovered from the Ni2 + - NTA Superﬂow beads . 
+Cell lysates were prepared from strains χ3306 ( DnaK + ) and CS2021 ( ∆ DnaK ) and mixed with beads to which His-tagged FlhD was bound in association with FlhC , as described in Experimental procedures . 
+The release of DnaK from the beads was examined in the presence or absence of ATP . 
+C. Detection of DnaK , FlhC and FlhD proteins in the samples shown in ( B ) using antisera against the corresponding proteins . 
+Lane M contains the following molecular mass standard from top to bottom : 97 , 66 , 45 , 30 , 20.1 and 14.4 kDa . 
+Experimental procedures
+Bacterial strains, plasmids and media
+The bacterial strains and plasmids used in this study are shown in Table 1 . 
+L broth ( 1 % Bacto tryptone , 0.5 % Bacto yeast extract , 0.5 % sodium chloride , pH 7.4 ) and L-agar were supplemented when necessary with either chloramphenicol 
+Cm, chloramphenicol-resistance; Km, kanamycin-resistance; Ap, ampicillin-resistance; Sp, spectinomycin-resistance.
+( 20 µg ml − 1 ) , tetracycline ( 10 µg ml − 1 ) , ampicillin ( 25 µg ml − 1 ) , kanamycin ( 25 µg ml − 1 ) or spectinomycin ( 25 µg ml − 1 ) . 
+M9 medium was supplemented with 0.4 % glucose , 2 mM MgSO4 , 0.1 mM CaCl2 , 0.4 % casamino acids and 0.0005 % thiamine . 
+Construction of plasmids
+To construct plasmid pTKY597 encoding N-terminally His-tagged FlhD , the locus of the ﬂhDC operon was ampliﬁed from the chromosome of strain χ3306 using the primers FlhDF ( 5 ′ - GGTTAGGATCCATGGGAACAATGCATATCCG-3 ′ ) and FlhCR ( 5 ′ - CACCGCTGCAGTTAAACAGCCTGTTC GATCTG-3 ′ ) . 
+The fragment generated was cleaved with BamHI at the 5 ′ end and PstI at the 3 ′ end and then cloned into the vector pUHE212-1 . 
+Plasmid pTKY705 , in which the expression of ﬂhDC is controlled by the PA1/lacO1 promoter -- operator system , was constructed by cloning the BamHI -- PstI fragment carrying the ﬂhDC gene from pTKY594 into the pBR535 plasmid cleaved with PstI and EcoRI . 
+Puriﬁcation of His-tagged proteins and gel ﬁltration
+Three litre cultures of E. coli CS5193 were incubated at 30 °C until the cell density reached an OD600 of 1.0 . 
+IPTG was added to a ﬁnal concentration of 1 mM for 3 h at 30 °C , and the cells were collected by centrifugation . 
+Wet cell pastes were resuspended in 10 ml cold buffer A ( 50 mM Na-phos-phate buffer , pH 8.0 , 0.3 M NaCl , 10 mM imidazole ) containing lysozyme ( 1 mg ml − 1 ) and incubated for 30 min on ice . 
+The bacterial cells were disrupted by sonication . 
+After centrifugation of the disrupted cells at 100 000 g for 30 min , the supernatant was passed through a 0.45 µm pore ﬁlter ( MILLEX-HV ) . 
+The ﬁltrate was loaded onto a Ni2 + - NTA Super-ﬂow column ( 10 ml , HR16/5 Amersham-Pharmacia ) and then washed with the buffer B ( 50 mM Na-phosphate buffer , pH 8.0 , 50 mM imidazole ) . 
+His-tagged protein was eluted with buffer C ( 50 mM Na-phosphate buffer , pH 8.0 , 250 mM imidazole ) . 
+The fraction containing the His-tagged protein was subjected to gel chromatography on Superdex ™ 75 ( HR26/60 Amersham-Pharmacia Biotech ) with buffer D ( 20 mM Hepes-KOH , pH 7.6 , 100 mM NaCl , 1 mM MgSO , 4 0.1 mM DTT ) . 
+The molecular mass standards are thyroglobulin ( 670 000 ) , γ-globulin ( 158 000 ) , ovalbumin ( 44 000 ) , myoglobin ( 17 000 ) and vitamin B12 ( 1350 ) . 
+The fractions were judged to contain FlhD and FlhC proteins by 15 % SDS-PAGE followed by staining with Coomassie brilliant blue and immunoblotting analysis with anti-FlhD and anti-FlhC sera . 
+The puriﬁed FlhD2C2 were used for further binding and release assay . 
+Table 1 . 
+Bacterial strains and plasmids used in this study . 
+Strain or plasmid Relevant properties S. enterica serovar Typhimuriuma 
+Reference or source 
+χ3306 gyrA CS2021 dnaK : : Cm CS2055 ﬂiC -- lac ﬂjB : : Tn10 CS2140 ﬂiA -- lac ﬂjB : : Tn10 CS2144 ﬂhD -- lac ﬂjB : : Tn10 CS2279 ﬂiC -- lac dnaK : : Cm ﬂjB : : Tn10 CS2280 ﬂiA -- lac dnaK : : Cm ﬂjB : : Tn10 CS2281 ﬂhD -- lac dnaK : : Cm ﬂjB : : Tn10 CS2501 CS2021 harbouring pTKY608 CS2743 ﬂjB : : Tn10 harbouring pZA4lacIq and pTKY594 CS2744 ﬂjB : : Tn10 clpP : : Km harbouring pZA4lacIq and pTKY594 CS2745 ﬂjB : : Tn10 dnaK : : Cm harbouring pZA4lacIq and pTKY594 CS2911 ﬂjB : : Tn10 dnaK : : Cm clpP : : Km harbouring pZA4lacIq and pTKY594 CS2962 ﬂiA -- lac ﬂhD : : Tn10 harbouring pTKY705 CS2955 ﬂiA -- lac dnaK : : Cm clpP : : Km ﬂjB : : Tn10 CS2956 ﬂiC -- lac dnaK : : Cm clpP : : Km ﬂjB : : Tn10 CS2958 ﬂhD -- lac dnaK : : Cm clpP : : Km ﬂjB : : Tn10 CS2964 ﬂiA -- lac ﬂhD : : Tn10 clpP : : Km harbouring pTKY705 CS2967 ﬂiA -- lac ﬂhD : : Tn10 dnaK : : Cm harbouring pTKY705 CS2968 ﬂiA -- lac ﬂhD : : Tn10 dnaK : : Cm clpP : : Km harbouring pTKY705 CS3077 clpP : : Km ﬂhD : : Tn10 harbouring pZA4lacIq and pTKY597 CS3078 dnaK : : Cm clpP : : Km ﬂhD : : Tn10 harbouring pZA4lacIq and pTKY597 E. coli DH5αZ1 F -- recA endA gyrA thi hsdR supE relA ∆ ( lacZYA-argF ) deoR φ80lac ( ∆ lacZ ) M15 lacIq CS5193 DH5αZ1 harbouring pTKY597 Plasmid pTKY594 pUHE21 -- 2 ∆ fd12 carrying ﬂhDC genes , Ap pTKY597 pUHE212-1 carrying ﬂhDC genes , Ap pTKY608 pMW119 carrying the dnaK-dnaJ operon of strain χ3306 pTKY705 pBB535 carrying ﬂhDC genes , Sp pUHE212-1 N-terminally His-tag vector , Ap pBB535 p15A derivative with PA1/lacO1 , Sp pZA4lacIq Carrying lacIq , Ap 
+Gulig and Curtiss ( 1987 ) Takaya et al. ( 2004 ) Tomoyasu et al. ( 2003 ) Tomoyasu et al. ( 2003 ) Tomoyasu et al. ( 2003 ) This study This study This study Takaya et al. ( 2004 ) This study This study This study This study This study This study This study 
+This study This study This study This study This study 
+Our collection This study 
+Tomoyasu et al. ( 2003 ) This study Takaya et al. ( 2004 ) This study Gamer et al. ( 1992 ) Tomoyasu et al. ( 2003 ) Our collection 
+a. All Salmonella derivatives are originally from strain χ3306 . 
+To see a physical interaction between FlhD2C2 complex and DnaK , 1 l cultures of Salmonella CS3077 were incubated at 30 °C until the cell density reached an OD600 of 0.5 . 
+IPTG was added to a ﬁnal concentration of 1 mM for 3 h at 30 °C . 
+The cell extracts were prepared by a method described above and loaded onto a Ni2 + - NTA Superﬂow column ( 10 ml , HR16/5 Amersham-Pharmacia ) and then washed with the buffer B. His-tagged protein was eluted with 50 , 75 , 100 , 150 and 200 mM imidazole . 
+Fraction by 75 mM imidazole elution was subjected to size exclusion chromatography on Superose ™ 12 ( HR10/30 Amersham-Pharmacia Biotech ) . 
+Binding and release assay
+Puriﬁed FlhD2C2 ( 800 µg as complex ) was mixed with Ni2 + - NTA Superﬂow beads ( 40 µl ) and incubated for 1 h at 4 °C with gentle shaking to allow binding of the proteins to the beads . 
+The mixture was divided into four parts and each part ( in duplicate ) was mixed with 800 µl of cell lysate prepared from strains χ3306 and CS2021 by the procedure described below . 
+After incubation for 2 h at 4 °C , the beads were collected by centrifugation at 1500 g for 10 min , washed twice with buffer B , and resuspended in buffer E ( 25 mM Hepes-KOH , pH 7.6 , 50 mM KCl , 5 mM β-mercaptoethanol , 10 % glycerol ) with 2 mM ATP-MgCl2 to release the DnaK from the putative DnaK-FlhD2C2 complex . 
+After incubation for 30 min at 37 °C , the beads were collected by centrifugation at 1500 g for 5 min . 
+DnaK was released from the beads by three cycles of incubation in the presence of ATP-Mg and centrifugation . 
+As a control , the beads were incubated in buffer E without Mg-ATP . 
+Finally , the beads were collected by centrifugation at 1500 g for 5 min and suspended in sample buffer ( Laem-mli , 1970 ) containing 10 mM EDTA , heated for 5 min at 95 °C and quickly chilled . 
+After centrifugation at 15 000 g for 10 min , the samples were used for SDS-PAGE . 
+To prepare the lysates for the binding and release assay , 300 ml cultures of strains χ3306 and CS2021 were incubated to late-log phase growth at 30 °C . 
+The bacterial cells were collected by centrifugation at 6000 g for 10 min , washed once with buffer E and resuspended in 1 ml of buffer E . 
+The cells were sonically disrupted and then subjected to centrifugation at 14 000 g for 10 min . 
+The resultant supernatant was used for subsequent analysis . 
+β-Galactosidase assay 
+SDS-PAGE and immunoblotting
+Gel electrophoresis was carried out according to the method of Laemmli ( 1970 ) using SDS-10 % or 15 % polyacrylamide gel and staining with Coomassie brilliant blue . 
+The separated proteins were transferred onto Immun-Blot ™ PVDF membranes ( Bio-Rad ) and incubated with anti-FlhD ( 1:25 000 ) , anti-FlhC ( 1:25 000 ) or anti-FliC ( 1:25 000 ) serum , followed by alkaline phosphatase-conjugated anti-rabbit immunoglobulin G . 
+The enzyme was detected by a mixture of 0.3 mg ml − 1 nitro blue tetrazolium ( Wako ) and 0.15 mg ml − 1 5-bromo-4-chloro-3-indolyphosphate ( Sigma ) . 
+Anti-FlhD and anti-FlhC sera were previously established by us ( Tomoyasu et al. , 2003 ) . 
+Anti-FliC serum was kindly provided by K. Kutsukake . 
+Preparation of proteins secreted into the medium and mass-spectrometric analysis
+To prepare the secreted proteins , the bacterial culture was incubated at 30 °C overnight and then centrifuged to remove cells . 
+The ﬁltered supernatant was mixed with TCA ( ﬁnal concentration 10 % ) , chilled on ice for 15 min and centrifuged at 10 000 g for 20 min . 
+The pellets were washed once with 5 % cold TCA and then with acetone . 
+The acetone washing was repeated twice to remove TCA completely from the precipitate . 
+The pellet was solubilized in sample buffer and subjected to SDS-10 % PAGE . 
+The separated proteins were stained with Coomassie brilliant blue . 
+Protein bands of interest on the gel were excised , destained and digested in situ with endopeptidase Lys-C . 
+After digestion overnight at 37 °C , the samples were centrifuged and further puriﬁed by ZipTipC18 pipette tips ( Millipore ) . 
+An aliquot of the sample was taken for analysis by matrix-assisted laser desorption ionization -- mass spectrometry . 
+β-Galactosidase activity was determined by the method of Miller ( 1972 ) . 
+The enzyme units presented are averages of at least three independent assays . 
+Acknowledgements
+We are very grateful to K. Sekiya , School of Pharmaceutical Sciences , Kitasato University , for electron microscopy . 
+This work was supported by grant-in-aid for scientiﬁc research 16790252 and 17390125 to A.T and T.Y. respectively , from the Ministry of Education , Culture , Sports , Science and Technology of the Japanese government . 
+References 
+Agashe , V.R. , and Hartl , F.U. ( 2000 ) Roles of molecular chaperones in cytoplasmic protein folding . 
+Semin Cell Dev Biol 11 : 15 -- 25 . 
+Bukau , B. ( 1993 ) Regulation of the E. coli heat shock response . 
+Mol Microbiol 9 : 671 -- 680 . 
+Bukau , B. , and Horwich , A. ( 1998 ) The Hsp70 and Hsp60 chaperone machines . 
+Cell 92 : 351 -- 366 . 
+Claret , L. , and Hughes , C. ( 2000 ) Functions of the subunits in the FlhD2C2 transcriptional master regulatorof bacterial ﬂagellum biogenesis and swarming . 
+J Mol Biol 303 : 466 -- 478 . 
+Claret , L. , and Hughes , C. ( 2002 ) Interaction of the atypical prokaryotic transcription activator FlhD2C2 with early promoters of the ﬂagellar gene hierarchy . 
+J Mol Biol 321 : 185 -- 199 . 
+Ellis , R.J. , and van der Vies , S.M. ( 1991 ) Molecular chaperones . 
+Annu Rev Biochem 60 : 321 -- 347 . 
+Friedman , D.I. , Olson , E.R. , Georgopoulos , C. , Tilly , K. , Herskowitz , I. , and Banuett , F. ( 1984 ) Interactions of bacteriophage and host macromolecules in the growth of bacteriophage lambda . 
+Microbiol Rev 48 : 299 -- 325 . 
+Gamer , J. , Bujard , H. , and Bukau , B. ( 1992 ) Pysical interaction between heat shock proteins DnaK , DnaJ , and GrpE 
+and the bacterial heat shock transcription factor sigma 32 . 
+Cell 69 : 833 -- 842 . 
+Gamer , J. , Multhaup , G. , Tomoyasu , T. , McCarty , J. , Rudiger , S. , Schonfeld , H. , et al. ( 1996 ) A cycle of binding and release of the DnaK , DnaJ and GrpE chaperones regulates activity of the Escherichia coli heat shock transcription factor σ32 . 
+EMBO J 15 : 607 -- 617 . 
+Georgopoulos , C. , Liberek , K. , and Zylicz , M. ( 1994 ) Properties of the heat shock proteins of Escherichia coli and the autoregulation of the heat shock response . 
+In The Biology of Heat Shock Proteins and Molecular Chaperones . 
+Georgopoulos C. ( ed . ) . 
+New York : Cold Spring Harbor Laboratory Press , pp. 209 -- 249 . 
+Gulig , P.A. , and Curtis , R. III ( 1987 ) Plasmid-associated virulence of Salmonella typhimurium . 
+Infect Immun 55 : 2891 -- 2901 . 
+Harrison , C.J. , Hayer-Hartl , M. , Di Liberto , M. , Hartl , F. , and Kuriyan , J. ( 1997 ) Crystal structure of the nucleotide exchange factor GrpE bound to the ATPase domain of the molecular chaperone DnaK . 
+Science 276 : 431 -- 435 . 
+Hartl , F.U. , and Hayer-Hartl , M. ( 2002 ) Molecular chaperones in the cytosol : from nascent chain to folded protein . 
+Science 295 : 1852 -- 1858 . 
+Herman , C. , Thevenet , D. , D'Ari , R. , and Bouloc , P. ( 1995 ) Degradation of σ32 , the heat shock regulator in Escherichia coli , is governed by HﬂB . 
+Proc Natl Acad Sci USA 92 : 3516 -- 3520 . 
+Ikebe , T. , Iyoda , S. , and Kutsukake , K. ( 1999 ) Promoter analysis of the class 2 ﬂagellar operons of Salmonella . 
+Genes Genet Syst 74 : 179 -- 183 . 
+Itikawa , H. , and Ryu , J.I. ( 1979 ) Isolation and characterization of a temperature-sensitive dnaK mutant of Escherichia coli B. J Bacteriol 138 : 339 -- 344 . 
+Kawasaki , Y. , Wada , C. , and Yura , T. ( 1992 ) Binding of RepE initiator protein to mini-F DNA origin ( ori2 ) . 
+Enhancing effects of repE mutations and DnaJ heat shock protein . 
+J Biol Chem 267 : 11520 -- 11524 . 
+Keller , J.A. , and Simon , L.D. ( 1988 ) Divergent effects of a dnaK mutation on abnormal protein degradation in Escher-ichia coli . 
+Mol Microbiol 2 : 31 -- 41 . 
+Kutsukake , K. , Ohya , Y. , and Iino , T. ( 1990 ) Transcription analysis of the ﬂagellar genes in Salmonella typhimurium . 
+J Bacteriol 172 : 741 -- 747 . 
+Laemmli , U. ( 1970 ) Cleavage of structural proteins during the assembly of the head of bacteriophage T4 . 
+Nature 227 : 680 -- 685 . 
+Liberek , K. , and Georgopoulos , C. ( 1993 ) Autoregulation of the Escherichia coli heat shock response by the DnaK and DnaJ heat shock proteins . 
+Proc Natl Acad Sci USA 90 : 11019 -- 11023 . 
+Liberek , K. , Georgopoulos , C. , and Zylicz , M. ( 1988 ) Role of the Escherichia coli DnaK and DnaJ heat shock proteins in the initiation of bacteriophage lambda DNA replication . 
+Proc Natl Acad Sci USA 85 : 6632 -- 6636 . 
+Liberek , K. , Galitski , T.P. , Zylicz , M. , and Georgopoulos , C. ( 1992 ) The DnaK chaperone modulates the heat shockresponse of Escherichia coli by binding to the σ32 transcription factor . 
+Proc Natl Acad Sci USA 89 : 3516 -- 3520 . 
+Liu , X. , and Matsumura , P. ( 1994 ) The FlhD/FlhC complex , a transcriptional activator of the Escherichia coli ﬂagellar class II operons . 
+J Bacteriol 176 : 7345 -- 7351 . 
+Liu , X. , and Matsumura , P. ( 1996 ) Differential regulation of multiple overlapping promoters in fagella class II operons in Escherichia coli . 
+Mol Microbiol 21 : 613 -- 620 . 
+Macnab , R.M. ( 1996 ) Flagella and motility . 
+In Escherichia coli and Salmonella : Cellular and Molecular Biology , 2nd edn . 
+Umbarge H.E. ( ed . ) . 
+Washington , DC : American Society for Microbiology Press , pp. 123 -- 145 . 
+Mayer , M.P. , Schroder , H. , Rudiger , S. , Paal , K. , Laufen , T. , and Bukau , B. ( 2000 ) Multistep mechanism of substrate binding determines chaperone activity of Hsp70 . 
+Nat Struct Biol 7 : 586 -- 593 . 
+Miller , J. ( 1972 ) Experiments in Molecular Genetics . 
+Cold Spring Harbor , New York : Cold Spring Harbor Laboratory Press . 
+Morimoto , R.I. , Tissieres , A. , and Georgopoulos , C. ( 1994 ) Progress and perspectives on the biology of heat shock proteins and molecular chaperone . 
+In The Biology of Heat Shock Proteins and Molecular Chaperones . 
+Georgopoulos C. ( ed . ) . 
+New York : Cold Spring Harbor Laboratory Press , pp. 1 -- 30 . 
+Pellecchia , M. , Montgomery , D.L. , Stevens , S.Y. , Vander Kooi , C.W. , Feng , H.P. , Gierasch , L.M. , and Zuiderweg , E.R. ( 2000 ) Structural insights into substrate binding by the molecular chaperone DnaK . 
+Nat Struct Biol 7 : 298 -- 303 . 
+Sakakibara , Y. ( 1988 ) The dnaK gene of Escherichia coli functions in initiation of chromosome replication . 
+J Bacteriol 170 : 972 -- 979 . 
+Shi , W. , Zhou , Y. , Wild , J. , Alder , J. , and Gross , C.A. ( 1992 ) DnaK , DnaJ , and GrpE are required for ﬂagellum synthesis . 
+J Bacteriol 174 : 6256 -- 6263 . 
+Stocker , B.A.D. ( 1949 ) Measurement of the rate of mutation of ﬂagellar antigenic phase in Salmonella typhimurium . 
+J Hyg 47 : 398 -- 413 . 
+Straus , D.B. , Walter , W.A. , and Gross , C.A. ( 1988 ) Escheri-chia coli heat shock gene mutants are defective in proteolysis . 
+Genes Dev 2 : 1851 -- 1858 . 
+Straus , D. , Walter , W. , and Gross , C. ( 1990 ) DnaK , DnaJ , and GrpE heat shock proteins negatively regulate heat shock gene expression by controlling the synthesis andstability of σ32 . 
+Genes Dev 4 : 2202 -- 2209 . 
+Tatsuta , T. , Tomoyasu , T. , Bukau , B. , Kitagawa , M. , Mori , H. , Karata , K. , and Ogura , T. ( 1998 ) Heat shock regulation in the ftsH null mutant of Escherichia coli : dissection of stability and activity control mechanisms of sigma32 in vivo . 
+Mol Microbiol 30 : 583 -- 593 . 
+Takaya , A. , Tomoyasu , T. , Matsui , H. , and Yamamoto , T. ( 2004 ) The DnaK/DnaJ chaperone machinery of Salmo-nella enterica serovar Typhimurium is essential for invasion of epithelial cells and survival within macrophages , leading to systemic infection . 
+Infect Immun 72 : 690 -- 696 . 
+Tilly , K. , Spence , J. , and Georgopoulos , C. ( 1989 ) Modulationof stability of the Escherichia coli heat shock regulatoryfactor σ32 . 
+J Bacteriol 171 : 1585 -- 1589 . 
+Tomoyasu , T. , Gamer , J. , Bukau , B. , Kanemori , M. , Mori , H. , Rutman , A.J. , et al. ( 1995 ) Escherichia coli FtsH is a mem-brane-bound , ATP-dependent protease which degrades the heat-shock transcription factor σ32 . 
+EMBO J 14 : 2551 -- 2560 . 
+Tomoyasu , T. , Ogura , T. , Tatsuta , T. , and Bukau , B. ( 1998 ) Levels of DnaK and DnaJ provide tight control of heat shock gene expression and protein repair in Escherichia coli . 
+Mol Microbiol 30 : 567 -- 581 . 
+Tomoyasu , T. , Ohkishi , T. , Ukyo , Y. , Tokumitsu , A. , Takaya , A. , Suzuki , M. , et al. ( 2002 ) The ClpXP ATP-dependent protease regulates ﬂagellum synthesis in Salmonella enterica serovar Typhimurium . 
+J Bacteriol 184 : 645 -- 653 . 
+Tomoyasu , T. , Takaya , A. , Isogai , E. , and Yamamoto , T. ( 2003 ) Turnover of FlhD and FlhC , master regulator proteins for Salmonella ﬂagellum biogenesis , by the ATP-dependent ClpXP protease . 
+Mol Microbiol 48 : 443 -- 452 . 
+Wickner , S. , Hoskins , J. , and McKenney , K. ( 1991 ) Function of DnaJ and DnaK as chaperones in origin-speciﬁc DNA binding by RepA . 
+Nature 350 : 165 -- 167 . 
+Yamamoto , T. , McIntyre , J. , Sell , S.M. , Georgopoulos , C. , Skowyra , D. , and Zylicz , M. ( 1987 ) Enzymology of the pre-priming steps in lambda dv DNA replication in vitro . 
+J Biol Chem 262 : 7996 -- 7999 . 
+Yura , T. , Nagai , H. , and Mori , H. ( 1993 ) Regulation of the heat-shock response in bacteria . 
+Annu Rev Microbiol 47 : 321 -- 350 . 
+Zhao , K. , Liu , M. , and Burgess , R.R. ( 2005 ) The global transcriptional response of Escherichia coli to induced sigma32 protein involves sigma32 regulon activation followed by inactivation and degradation of sigma32 in vivo . 
+J Biol Chem 280 : 17758 -- 17768 . 
+Zhu , X. , Zhao , X. , Burkholder , W.F. , Gragerov , A. , Ogata , C.M. , Gottesman , M.E. , and Hendrickson , W.A. ( 1996 ) Structural analysis of substrate binding by the molecular chaperone DnaK . 
+Science 272 : 16060 -- 11614 . 
+Zylicz , M. , Ang , D. , and Georgopoulos , C. ( 1987 ) The grpE protein of Escherichia coli . 
+Puriﬁcation and properties . 
+J Biol Chem 262 : 17437 -- 17442 . 
+Zylicz , M. , Ang , D. , Liberek , K. , and Georgopoulos , C. ( 1989 ) Initiation of lambda DNA replication with puriﬁed host - and bacteriophage-encoded proteins : the role of the dnaK , dnaJ and grpE heat shock proteins . 
+EMBO J 8 : 1601 -- 1608 . 
+Zzaman , S. , Reddy , J.M. , and Bastia , D. ( 2004 ) The DnaK-DnaJ-GrpE chaperone system activates inert wild type pi initiator protein of R6K into a form active in replication initiation . 
+J Biol Chem 279 : 50886 -- 50894 .

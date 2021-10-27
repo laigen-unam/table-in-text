@@ -1,0 +1,353 @@
+J Mol Model ( 2012 ) 18:4709 -- 4719 DOI 10.1007 / s00894-012-1469-1 
+ORIGINAL PAPER 
+Molecular d active site analysis of Sdi putative quorum sensor for Salmonella typhimurium pathogenecity reveals specific binding patterns of A transcriptional regulators
+The Gram-negative bacilli , S. typhimurium is the most prev-alent food borne pathogen that causes enteric fever ( typhoid ) and gastroenteritis in human [ 1 , 2 ] . 
+The important survival strategy of S. typhimurium is colonization during infection . 
+Many countries documented outbreaks associated with drug-resistant S. typhimurium in humans , poultry , cattle , and swine [ 3 , 4 ] . 
+Emerging antibiotic resistance of S. typhimurium in both humans and animals is a serious and potential public health problem [ 5 , 6 ] . 
+Many Gram-negative bacteria including S. typhimurium employ a cell -- cell signaling system referred to as quorum sensing ( QS ) to control the expression of several genes in response to its population size . 
+In S. typhimurium virulence gene clusters SPI1 ( Salmonella pathogenicity island 1 ) and spv ( Salmonella plasmid virulence ) are under the control of population density [ 7 ] . 
+This phenomenon is mediated by a signal molecule 's N-acyl-L-homoserine lactone ( AHL ) often known as auto inducers which generally binds to and actives its cognate receptor ( LuxR homologs ) [ 8 -- 10 ] . 
+S. typhimurium encodes a LuxR homolog , SdiA ( suppressor of cell division inhibition ) but does not encode an AHL synthase ( LuxI homolog ) [ 11 , 12 ] . 
+Hence the acyl homoserin lactone ( AHL ) signal molecules can not be produced by S. typhimurium itself . 
+Instead it responds to the AHL signals produced by the other bacterial species [ 13 ] . 
+For instance , Salmonella SdiA is functional during co-infection with an AHL producing pathogen Y. enterocolitica , and the regulated genes promoted by SdiA are involved in Salmonella 's colonization of the intestine [ 14 , 15 ] . 
+The expression of virulence gene network by the activated SdiA is illustrated in Fig. 1 . 
+AHLs produced by other bacterial species such as Y. enterocolitica diffuse across the membrane and are bound by SdiA . 
+SdiA then increases the expression of the genes found on the virulence plasmid pSLT . 
+These genes include pefI , srgD , srgA , srgB , rck , and srgC [ 16 , 17 ] . 
+srgE ( SdiA-regulated gene E ) is a chromosomal gene regulated by SdiA that also appears to be found on the virulence plasmid pSLT [ 13 ] . 
+sirA ( Salmonella invasion regulator ) is a response regulator and an apparent `` housekeeping '' also at the regulatory cascade of SdiA . 
+The Salmonella pathogenecity island 1 ( SPI1 ) is regulated by sirA regulating motility and invasion functions and directly regulates the activation of the hilA and hilC expression encoding a type III and type I secretion systems and csrB expression which encodes RNA-binding protein [ 18 ] . 
+In the present study , the quorum sensing enhanced transcriptional regulator SdiA from S. typhimurium was chosen as a potential drug target due to its manifestation in regulating the genes involved in colonization and virulence factors and modeled using homology modeling method . 
+In addition the molecular docking studies between AHL auto inducer and SdiA , and the other three LuxR homolog 's LasR from P. aeruginosa , TraR from A. tumifaciens and CviR from C. violaceum were pursued to find the unique binding patterns of SdiA , which will be helpful in designing potential inhibitors for quorum sensing . 
+modeling an 
+A homolog , 
+a 
+HL 
+Shanmugam Gnanendra & Shanmugam Anusuya & Jeyakumar Natarajan 
+Received : 24 April 2012 / Accepted : 13 May 2012 / Published online : 2 June 2012 # Springer-Verlag 2012 
+Abstract Salmonella typhimurium is a Gram-negative bacterium responsible for human diseases including gastroenter-itis and typhoid fever and its quorum sensing system is currently being intensively researched . 
+Molecular modeling and binding site analysis of SdiA homolog , a putative quorum sensor of the LuxR family and responsible for S. typhimurium pathogenecity revealed a high structural homology of their active site with three other LuxR family proteins LasR from Pseudomonas aeruginosa , TraR from Agrobacterium tumifaciens and CviR from Chromobacterium violaceum . 
+The results show that all the LuxR family proteins harbor three conserved amino acids Tryptophan ( W67 ) and Aspartic acid ( D80 ) for formation of hydrogen bridges and Tyrosine ( Y71 ) for the hydrophobic interactions ( corresponding to their position in S. typhimurium SdiA ) with acyl homoserine lactones ( AHL ) -- dependent transcriptional regulators . 
+However , in addition to the above conserved residues , Arginine ( R60 ) also plays an important role in S. typhimurium SdiA binding with its AHL auto inducers and the complex is found to be stronger because of the interactions between nitrogen atoms of 
+Arginine with the carbonyl oxygen in the lactone ring of AHL . 
+The specific binding patterns would be helpful in guiding both enzymatic studies as well as design of specific inhibitors to overcome S. typhimurium pathogenecity . 
+Keywords AHL auto inducers . 
+LuxR family proteins . 
+Quorum-sensing . 
+Salmonella typhimurium . 
+Transcriptional regulators . 
+Co-infection 
+Introduction 
+S. Gnanendra ( * ) 
+Department of Bioinformatics , Vivekanandha College of Arts and Sciences for Women , Tiruchengode 637 205 , India e-mail : gnani.science@gmail.com 
+S. Anusuya ( * ) 
+Department of Bioinformatics , VMKV Engineering College , Vinayaka Missions University , Salem 636 308 , India e-mail : anushya_bioin@yahoo.co.in 
+: : 
+S. Gnanendra S. Anusuya J. Natarajan ( * ) Department of Bioinformatics , Bharathiar University , Coimbatore 641 046 , India e-mail : n.jeyakumar@yahoo.co.in 
+Materials and methods
+Target sequence and potential template search
+The quorum sensing cognate receptor of S. typhimurium , SdiA sequence was retrieved from the National Centre for Biotechnology Information ( NCBI ) [ 19 ] ( NCBI protein code EFX49656 ) . 
+The homologous sequences were searched against PDB using NCBI-BlastP ( basic local alignment search tool ) [ 20 ] . 
+The most homologous sequence obtained was considered as the potential template structure for homology modeling . 
+The atomic co-ordinate file of the template structure was obtained from the PDB [ 21 ] . 
+The ClustalW [ 22 ] program was used for sequence alignment and refinement of alignment errors as homology modeling relies on the sequence alignment 
+Homology modeling of S. typhimurium SdiA
+The final sequence alignment file of target and the template sequence and the atomic coordinate file of the template structure was used to build the model using the automated homology modeling software Modeler9v9 [ 23 ] that generates 3D model by satisfaction of spatial restraints . 
+A bundle of 50 models from random generation of the starting structure was calculated and among the generated models , the best model with the least RMSD value was selected by superimposing the model with its template using SUPERPOSE [ 24 ] . 
+This model was subjected for energy minimization by applying 20 steps of each steepest descent and conjugate gradient using GROMOS [ 25 ] of SwissPDBviewer and was used for further analysis . 
+Fig. 1 The virulence gene network of S. typhimurium SdiA by the activated exogenous AHL 
+Model assessment 
+The quality of the generated model was assessed by checking the stereo chemical parameters using PROCHECK [ 26 ] , Verfiy3D [ 27 ] and ERRAT [ 28 ] at SAVES server [ 29 ] . 
+The pdbsum [ 30 ] was used to predict the secondary structure conformations for the built model . 
+Prediction of conserved residues among the LuxR family proteins
+The LuxR family proteins from the following four species LasR from P. aeruginosa ( PDB ID : 2UV0 ) , TraR from A. tumifaciens ( PDB ID : 1L3L ) , CviR from C. violaceum ( PDB ID : 3QP5 ) and the developed model of SdiA from S. typhimurium were used for the prediction of conserved residues among the LuxR proteins . 
+Multiple sequence alignment using ClustalW [ 22 ] was carried out among these four transcriptional regulators to trace out the homology and conserved residues . 
+Prediction of binding site
+To determine the binding affinities between S. typhimu-rium SdiA and its AHL auto inducers , the amino acids in the binding site of the developed model of SdiA was predicted through Q-site finder [ 31 ] . 
+In addition , the binding sites of the other three LuxR family proteins LasR , TraR , and CviR from the other three species were also analyzed with their experimentally determined crystal structures with bound ligands . 
+Finally , the binding site of SdiA was compared with binding sites of other LuxR family proteins to find the strictly conserved residues located in the active sites . 
+Ligand generation and flexible docking
+The AHL auto inducer molecules of Y. enterocolitica C6-Homoserine Lactone , C8-Homoserine Lactone , 3-Oxo-C6-Homoserine Lactone and 3-oxo-C8-Homoserine Lactone were drawn in ACD-Chemsketch [ 32 ] and their SMILES notation was obtained . 
+They were converted into SDF files using ` Online SMILES convertor and Structure file generator ' [ 33 ] . 
+The developed SDF structures were docked with the amino acids in the binding site of S. typhimurium SdiA using FlexX [ 34 ] with following parameters i ) default general docking informations , ii ) base placement using triangle matching , iii ) scoring of full score contribution and threshold of 0,30 and No score contribution and threshold of 0,70 . 
+iv ) chemical parameters of clash handling values for protein ligand clashes with maximum allowed overlap volume of 2.9 A03 and intra-ligand clashes with clash factor of 0.6 and considering the hydrogen in internal clash tests . 
+v ) default docking details values of 200 for both the maximum number of solutions per iteration and maximum number of solutions per fragmentation . 
+Model assessment 
+Fig. 3 a Ribbon diagram of the modeled S. typhimurium SdiA showing the α-Helices , β-Strands and loops in pink , yellow and blue respectively . 
+b Superimposition of the template C. violaceum CviR ( PDB ID : 3QP5 ) ( red ) and the generated model S. typhimurium SdiA ( yellow 
+The interactions of AHL molecules with SdiA in the docked complex were analyzed by the pose-view of LeadIT [ 35 ] . 
+The other three LuxR family proteins considered for this study , LasR , TraR , and CviR were the complexes of AHL receptors with their bound ligands and available in PDB databank [ 21 ] . 
+LasR is a LuxR homolog bound with native ligand N-3-oxo-dodecanoyl-L-HSL . 
+Similarly TraR is a LuxR homolog bound with its ligand 3-oxo-Octanoic acid . 
+CviR is a LuxR homolog bound to a potential anatagonist 4 - ( 4-chlorophenoxy ) N - [ ( 3S ) -2 - oxo tetrahydrofuran-3-yl butamide . 
+The ligand receptor interactions in these LuxR homologs with the bound ligands were analyzed using the pose view of PDB Ligand Explorer [ 35 ] . 
+Results and discussion
+S. typhimurium, SdiA as drug target
+S. typhimurium encode a single LuxR homolog named SdiA , but lack a corresponding LuxI homolog . 
+The 
+LuxI homologs in most of the Gram-negative bacteria generate the signal molecules known as AHL auto inducers . 
+Usually these signals were detected by the LuxR homologs . 
+However in S. typhimurium the LuxI homolog has not been present , indicating that it does not produce AHL of its own . 
+Instead it responds to the signals produced by the other pathogenic bacteria such as Y. enetrocolitica [ 14 , 15 ] . 
+Thus S. typhimurium path-ogenecity is most favorably expressed only during co-infection with other AHL producing pathogens . 
+As SdiA is a transcriptional regulator of many of the virulent genes , it was considered as a potential drug target and modeled and reported in this work . 
+Prediction of ligand - receptor interactions 
+Sequence analysis and potential template for comparative modeling
+The BLASTP analysis of target sequence of the transcriptional regulator SdiA from S. typhimurium , against PDB resulted that crystal structure of A-chain of CviR , LuxR - type transcriptional factor from C. violaceum ( PDB ID : 3QP5 ) as the most homologous sequence with the sequence identity of 40 % at an E-value cutoff of 4e-15 . 
+As both the sequences belong to the same LuxR family the resultant homologous sequence was selected as template structure for homology modeling . 
+The pair wise sequence alignment of target SdiA and the template CviR was refined using ClustalW and the alignment was shown in Fig. 2 . 
+Prediction of ligand - receptor interactions 
+Table 1 Validation of the model SdiA by SAVES Server 
+Protein PROCHECK 
+VERIFY-3D 
+ERRAT 
+Ramachandran plot 
+G-Factor 
+DAR 
+GAR 
+AAR 
+MFR 
+92.62 % 93.25 % 
+73.216 75.309 
+0.9 % 0.5 % 
+0.5 % 0.0 % 
+9.9 % 13.1 % 
+88.7 % 86.5 % 
+- 0.15 - 0.12 
+SdiA CviR 
+MFR - Most favored region 
+AAR - Additionally allowed regions 
+GAR - Generously allowed regions DAR - Disallowed region 
+Homology modeling of S. typhimurium SdiA
+The sequence alignment file was used as input to build the initial model of SdiA using Modeler 9v9 by applying spatial restraints from the initial structure , a bundle of 50 models were developed using random generation and the best model was selected for further analysis based on its structural compatibility ( structure with lowest DOPE score ) . 
+The modeled structure was shown in Fig. 3a . 
+The quality of the model was accessed by the results of the server SUPERPOSE . 
+SUPERPOSE compared the predicted structure of S. typhimurium SdiA to crystal structure of C. violaceum CviR , ( PDB ID : 3QP5 ) via superposition and was shown in Fig. 3b . 
+The root mean square deviation ( RMSD ) of the modeled protein from the experimentally determined structure of C. violaceum CviR was found to be 0.80 A0 . 
+As both sequences belong to LuxR family , their sequence identity ( 40 % ) and the low RMSD values suggested that this model is valid . 
+The overall stereo chemical quality of the model was assessed by PROCHECK , Verfiy3D , and ERRAT of SAVES server . 
+The Ramachandran plot of the energy minimized model of SdiA showed 88.7 % of the residues in the most favorable region , 9.9 % in the additionally allowed region , 0.5 % in the generously allowed region and 0.9 % in the disallowed region ; whereas the corresponding values for the C. violaceum CviR , template were 86.5 % , 13.1 % , 0.0 % and 0.5 % , respectively ( Fig. 4 ) . 
+This ensures that the generated model was good when compared with the template structure which shows only 86.5 % of residues in most favored region . 
+The total quality G-factor was − 0.15 . 
+Further the overall quality factor and compatibility of an atomic model ( 3D ) with amino acid sequence ( 1D ) for the modeled protein SdiA was observed as 73.216 and 92.62 % from ERRAT and Verify3D respectively . 
+Where as in the case of template C. violaceum CviR the values for ERRAT and Verify3D were 75.309 and 93.25 % respectively ( Table 1 ) . 
+The results of ERRAT and Verify-3D also confirm the model was reliable and of good quality . 
+The secondary structure prediction for the model showed 15 Helices , 5 Strands , 10 Beta turns , 3 Gamma turns and 3 Beta hairpins ( Fig. 5 ) indicating that the protein belongs to class alpha + beta . 
+Conservation amino acid residues in active site region of SdiA and other LuxR family proteins
+The validated and the final model of S. typhimurium SdiA was then used for finding conserved and active site residues in SdiA and similar LuxR homolog proteins from other species to evaluate its binding patterns with AHL auto inducer molecules . 
+The sequences of three LuxR homologs , LasR from P. aeruginosa ( PDB ID : 2UV0 ) , TraR from A. tumifaciens ( PDB ID : 1L3L ) , CviR from C. violaceum 
+Fig. 5 Predicted secondary structure for the S. typhimurium SdiA . 
+The secondary structural elements α-helices , β-strands and loops are shown above the alignmen 
+( PDB ID : 3QP5 ) were aligned with the SdiA of S. typhimu-rium using the ClustalW program and the final alignment was optimized manually . 
+The residues invariant across LuxR homologs were illustrated in Fig. 6 . 
+Prediction of the binding site of S. typhimurium SdiA was carried-out using Q-site finder , which yields putative amino acid residues in the binding pocket . 
+Similarly , the binding pocket for the other three LuxR proteins , LasR , TraR and CviR , whose crystal structures were already available in PDB database were obtained using ligand explorer [ 35 ] . 
+The conserved amino acids observed all four LuxR proteins with their binding site residues and are shown in Table 2 . 
+Fig. 6 Multiple sequence alignment of LuxR type family proteins P. aeruginosa LasR , A.tumifaciens TraR , C. violaceum CviR and S. typhimurium SdiA . 
+The conserved amino acids found in the active site are indicated in boxes 
+Table 2 The conserved amino acids of the LuxR family proteins LasR , TraR , CviR and SdiA 
+CviR ( C. violaceum ) 
+TraR ( A. tumifaciens ) 
+LasR ( P. aeruginosa ) 
+SdiA ( S. typhimurium ) 
+Tyr 53a Trp 57a Tyr 61a Asp 70a 
+Tyr 56a Trp 60a Tyr 66a Asp 73a 
+Tyr 63 Trp 67a Tyr 71a Asp 80a Pro 81 Trp 95 
+Tyr 80 Trp 84a Tyr 88a Asp 97a Pro 98 Trp 111 
+Pro 71 Trp 85 
+Pro 76 Trp 90 
+Ala 110 Gly 114 
+Ala 130 Gly 134 
+Ala 105 Gly 109 
+Ala 107 Gly 111 
+Gly 118 Thr 120 
+Gly 138 Thr 140 
+Gly 113 Thr 115 
+Gly 115 Thr 117 
+a 
+Residues bind with ligand 
+Dyszel et al. [ 14 ] reported that the Salmonella SdiA is functional only during the co-infection of AHL producing patho-gens . 
+The studies of Throup et al. [ 36 ] reported that SdiA is consistent with specific preference to AHLs N-hexanoyl homoserine lactone ( C6-HSL ) , N - ( 3-oxohexanoyl ) homoserine lactone ( 3-oxo-C6-HSL ) , N-octanoyl homoserine lactone ( C8-HSL ) and N - ( 3-oxo-octanoyl ) homoserine lactone ( 3-oxo-C8-HSL ) produced by Y. enetrocolitica . 
+These four AHL autoinducers , C6-HSL , 3-oxo-C6-HSL , C8-HSL and 3-oxo-C8-HSL ( Fig. 7 ) from Y. enterocolitica were docked with modeled SdiA and also with its template CviR from C.violaceum using the docking program FlexX and the ligand-receptor interactions were analyzed using LeadIT . 
+The other three LuxR homologous proteins , LasR from P. aeruginosa , TraR from A. tumifaciens and CviR from C. violaceum were also docked with their native ligands N-3-oxo-dodecanoyl-L-HSL , 3-oxo-Octanoic acid and 4 - ( 4-chlor-ophenoxy ) N - [ ( 3S ) -2 - oxo tetrahydrofuran-3-yl butamide respectively and the binding interactions were studied . 
+The docking interactions of the exogenous AHL mole-cules with modeled SdiA and its template CviR ( 3QP5 ) implies that the AHL molecule 3-oxo-C6-HSL has highest binding energy of -12.991 kJ mol-1 and -14.548 kJ mol-1 respectively and C8-HSL showed lowest binding energy of-9 .615 kJ mol-1 and -11.066 kJ mol-1 respectively . 
+This observation suggests that the folding of SdiA would be the same as its template protein CviR and Table 3 summarizes these results . 
+Figures 8 and 9 show the docking results of SdiA and the other three LuxR homologous proteins and Table 4 shows the corresponding amino acids with their specific binding energies favoring the interactions . 
+The binding energy scores of the three LuxR homologous were distributed closely from -19.33 kJ mol-1 to -20.76 kJ mol-1 and in the case of SdiA from -9.61 kJ mol-1 to -12.99 kJ mol-1 . 
+The binding energy scores of AHL auto inducers with SdiA showed greater variability when compare to the other three LuxR homologous . 
+The overall docking results of AHL molecules with LuxR family proteins discloses the importance of lactone ring and the alkyl chains in AHL molecules in forming most of the interactions with the residues in the active site of LuxR family protein . 
+The amino acids that interacted with AHL molecules were found to be Y56 , W60 , D73 , S129 in LasR , Y53 , W57 , D70 in TraR and W84 , Y88 , D97 in CviR . 
+These findings suggested that the conserved Tryptophan ( W ) , Aspartic acid ( D ) and Tyrosine ( Y ) in the active site of LuxR family proteins are crucial for AHL binding . 
+Similar binding interactions were also observed in the docking studies of S. typhimurium SdiA with AHL mole-cules . 
+The conserved amino acids Tryptophan ( W67 ) , Aspartic acid ( D80 ) , Tyrosine ( Y71 ) and Arginine ( R60 ) were involved in the AHL interaction ( Fig. 9a -- d ) . 
+This 
+Fig. 7 Structures of AHLs produced by Y. enterocolitica a C6-homoserine lactone b C8-homoserine lactone c 3-oxo-C6-homoserine lactone d 3-oxo-C8-homoserine lactone 
+Docking studies with AHL auto inducers 
+Fig. 8 Amino acid involved in binding of the native ligands to their respective cognate receptors a LasR bound with N-3-oxo-dodecanoyl-L-HSL b TraR bound with 3-oxo-Octanoic acid ( c ) CviR bound with 4 - ( 4-chlorophenoxy ) N - [ ( 3S ) -2 - oxo tetrahydrofuran-3-yl butamide 
+Table 3 Binding energies of docked ligands ( produced by Yersinia enterocolitica ) between modeled SdiA and the template CviR ( 3QP5 ) 
+Ligands with binding energies ( kJ/mol ) 
+Receptors 
+3-oxo-C8-HSL 
+3-oxo-C6-HSL 
+C8-HSL 
+C6-HSL 
+-11.426 -11.59 
+-12.991 -14.548 
+-9.615 -11.066 
+-12.490 -13.924 
+SdiA ( predicted model ) S. typhimurium CviR ( 3QP5-template ) C.violaceum 
+Table 4 Binding residues of LuxR family proteins LasR , TraR , CviR and SdiA with their corresponding ligands 
+Protein LasR ( P. aeruginosa ) TraR ( A. tumifaciens ) CviR ( C. violaceum ) SdiA ( S. typhimurium ) 
+Liga Ligb Ligc Ligd Lige 
+f 
+g 
+Lig 
+Lig 
+Bound ligand 
+¬ 
+¬ 
+¬ 
+¬ 
+¬ 
+Tyr 41 ¬ 
+Tyr 41 ¬ 
+¬ ¬ 
+Tyr 47 
+¬ 
+¬ 
+¬ 
+- ¬ 
+Ala 50 Tyr 56 
+¬ 
+¬ 
+¬ 
+¬ ¬ 
+- - - ¬ 
+Tyr 53 ¬ 
+Arg 60 Arg 60 Arg 60 Arg 60 - - - ¬ 
+¬ ¬ 
+Leu 57 Trp 84 
+¬ 
+Trp 67 Trp 67 Trp 67 Trp 67 Tyr 71 Tyr 71 Tyr 71 Tyr 71 
+Trp 57 
+Trp 60 Tyr 64 
+Tyr 88 Asp 97 
+Tyr 61 Asp 70 
+Asp 80 Asp 80 Asp 80 Asp 80 - Val 82 - ¬ 
+Asp 73 Val 76 
+¬ ¬ 
+¬ ¬ 
+¬ ¬ 
+- Leu 83 -- Trp 95 Trp 95 Trp 95 Trp 95 
+¬ 
+¬ 
+¬ ¬ 
+Leu 100 
+- - -- Val 119 - ¬ 
+¬ 
+¬ ¬ 
+¬ ¬ 
+Ser 129 
+- ¬ 
+- ¬ 
+Binding energy (kJ/mol) -19.3133
+-12.991 -11.426 
+-19.5402 
+-20.7605 
+-12.490 -9.615 
+Liga - N-3-oxo-dodecanoyl-L-HSL Ligb - 3-oxo-octanoic acid
+Ligc - 4 - ( 4-chlorophenoxy ) N - [ ( 3S ) -2 - oxo tetrahydrofuran-3-yl butam Ligd - C6-HSL Lige - C8-HSL Ligf - 3-oxo-C6-HSL Ligg - 3-oxo-C8-HS result indicates that in S. typhimurium SdiA , in addition to the involvement of essential residues Tryptophan , Aspartic acid and Tyrosine in binding with AHL molecules , Arginine ( R60 ) is also found to be necessary in favoring the interactions . 
+The docking studies of S. typhimurium SdiA and other LuxR family proteins with their respective AHL molecules implies that the electro negative element present in the lactone ring of AHL binds with Aspartic acid in the active site of LuxR family proteins . 
+Whereas the carbonyl oxygen present in the lactone ring of AHL prefers to bind with Tyrosine residues in the active site . 
+In SdiA , in addition to these interactions , the complex is found to be stronger because of the electrostatic and hydrogen bonding interactions between two nitrogen atoms of Arginine with the carbonyl oxygen in the lactone ring of AHL . 
+Conclusions
+The S. typhimurium transcriptional regulator SdiA , involves in the cross-chemical communication with different patho-gens which leads to co-infection . 
+The AHLs produced by the Y. enterocolitica ( C6-HSL , C8-HSL , oxo-C6-HSL and oxo-C8-HSL ) binds to Salmonella SdiA to regulate the genes involved in pathogenicity , which are downstream to SdiA . 
+Hence , SdiA is considered as a valid drug target . 
+The binding mode of the AHL with SdiA might explain the potentiality of AHL analogous as quorum sensing inhibi-tors . 
+Based on this , a model of SdiA was generated by comparative modeling and was validated . 
+The binding mode of the AHLs was evaluated by docking studies . 
+This work imparted that the conserved amino acids in the active site of LuxR family proteins Aspartic acid ( D ) , Tryptophan ( W ) and Tyrosine ( Y ) were involved in the binding of AHL . 
+The interaction is favored by the bond formation with lactone ring and hydrophobic interaction with the alkyl chain of AHL . 
+However , in SdiA , in addition to these interactions Arginine ( R60 ) is also found to be crucial in favoring the interactions and the complex is found to be stronger because of the electrostatic and hydrogen bonding interactions between two nitrogen atoms of Arginine with the carbonyl oxygen in the lactone ring of AHL . 
+The present model and the binding features form the basis for further molecular studies on S. typhimurium SdiA quorum sensing inhibitor design which can serve as an alternate strategy for the treatment of diseases caused by S. typhimurium . 
+References 
+1 . 
+Scherer CA , Miller SI ( 2001 ) Molecular pathogenesis of salmo-nellae . 
+In : Groisman EA ( ed ) Principles of bacterial pathogenesis . 
+Academic , New York , pp 266 -- 333 2 . 
+Grein T , O'Flanagan D , McCarthy T , Bauer D ( 1999 ) An outbreak of multidrug-resistant Salmonella typhimurium food poisoning at a wedding reception . 
+Ir Med J 92:238 -- 241 3 . 
+Davies A , O'Neill P , Towers L , Cooke M ( 1996 ) An outbreak of Salmonella typhimurium DT104 food poisoning associated with eating beef . 
+Commun Dis Rep CDR Rev 6 ( 11 ) : R159 -- R162 4 . 
+Molbak K , Baggesen DL , Aarestrup FM , Ebbesen JM , Engberg J , Frydendahl K , Gerner-Smidt P , Petersen AM , Wegener HC ( 1999 ) An outbreak of multidrug-resistant , quinolone-resistant Salmonella enterica serotype typhimurium DT104 . 
+N Engl J Med 341 ( 19 ) :1420 -- 1425 5 . 
+Cloeckaert A , Chaslus-Dancla E ( 2001 ) Mechanisms of quinolone resistance in Salmonella . 
+Vet Res 32:291 -- 300 6 . 
+Piddock LJ ( 2002 ) Fluoroquinolone resistance in Salmonella sero-vars isolated from humans and food animals . 
+FEMS Microbiol Rev 26:3 -- 16 7 . 
+Coombes BK , Coburn BA , Potter AA , Gomis S , Mirakhur K , Li Y , Finlay BB ( 2005 ) Analysis of the contribution of Salmonella pathogenicity islands 1 and 2 to enteric disease progression using a novel bovine ileal loop model and a murine model of infectious enterocolitis . 
+Infect Immun 73:7161 -- 7169 8 . 
+Marketon MM , Gronquist MR , Eberhard A , Gonzales JE ( 2002 ) Characterization of the Sinorhizobium meliloti sinR/sinI locus and the production of novel N-acyl homoserine lactone . 
+J Bacteriol 184:5686 -- 5695 9 . 
+Parsek MR , Greenberg EP ( 2000 ) Acyl-homoserine lactone quorum sensing in Gram-negative bacteria : a signaling mechanism 
+involved in associations with higher organisms . 
+Proc Natl Acad Sci USA 97:8789 -- 8793 10 . 
+Steindler L , Venturi V ( 2007 ) Detection of quorum-sensing N-acyl homoserine lactone signal molecules by bacterial biosensors . 
+FEMS Microbiol Lett 266:1 -- 9 11 . 
+Ahmer BMM , Jv R , Timmers CD , Valentine PJ , Heffron F ( 1998 ) Salmonella typhimurium encodes an SdiA homolog , a putative quorum sensor of the LuxR family , that regulates genes on the virulence plasmid . 
+J Bacteriol 180:1185 -- 1193 12 . 
+Janssens JC , Metzger K , Daniels R , Ptacek D , Verhoeven T ( 2007 ) Synthesis of N-acyl homoserine lactone analogues reveals strong activators of SdiA , the Salmonella enteric serovar Typhimurium LuxR homologue . 
+Appl Environ Microbiol 73:535 -- 544 13 . 
+Smith JN , Ahmer BM ( 2003 ) Detection of other microbial species by Salmonella : expression of the SdiA regulon . 
+J Bacteriol 185:1357 -- 1366 14 . 
+Dyszel JL , Smith JN , Lucas DE , Soares JA , Swearingen MC , Vross MA , Young GM , Ahmer BM ( 2010 ) Salmonella enteric serovar Typhimurium can detect acyl homoserine lactone production by Yersinia enterocolitica in mice . 
+J Bacteriol 192:29 -- 37 15 . 
+Smith JN , Dyszel JL , Soares JA , Ellermeier CD , Altier C , Lawhon SD , Adams LG , Konjufca V , Curtiss R III , Slauch JM , Ahmer BM ( 2008 ) SdiA , an N-acylhomoserine lactone receptor , becomes active during the transit of Salmonella enteric through the gastrointestinal tract of turtles . 
+PloS ONE 3 : e2826 16 . 
+Nicholson B , Low D ( 2000 ) DNA methylation-dependent regulation of pef expression in Salmonella typhimurium . 
+Mol Microbiol 35:728 -- 742 17 . 
+Michael B , Smith JN , Swift S , Heffron F , Ahmer BM ( 2001 ) SdiA of Salmonella enteric is a LuxR homolog that detects mixed microbial communities . 
+J Bacteriol 183:5733 -- 5742 18 . 
+Jiménez-Gómez P , Pozuelo de Felipe MJ , Llinares Pinell F , García de los Ríos JE ( 2007 ) Quorum-sensing in Pseudomo-nas aeruginosa and Salmonella : active natural compounds as antagonists . 
+Commun Curr Res Edu Topics Trends App Microbiol 1:41 -- 51 19 . 
+NCBI . 
+http://www.ncbi.nlm.nih.gov/ 20 . 
+Altschul SF , Gish W , Miller W , Myers EW , Lipman DJ ( 1990 ) Basic local alignment search tool . 
+J Mol Biol 215:403 -- 410 21 . 
+Berman HM , Westbrook J , Feng Z , Gilliland G , Bhat TN , Weissig H , Shindyalov IN , Bourne PE ( 2000 ) The protein data bank . 
+Nucl Acids Res 28:235 -- 242 22 . 
+Thompson JD , Higgins DG , Gibson TJ ( 1994 ) Clustal W : improving the sensitivity of progressive multiple sequence alignment through sequence weighting position - specific gap penalties and weight matrix choice . 
+Nucl Acids Res 22:4673 -- 4680 23 . 
+Sali A , Blundell TL ( 1993 ) Comparative protein modelling by satisfaction of spatial restraints . 
+J Mol Biol 234:779 -- 815 24 . 
+Maiti R , Van Domselaar GH , Zhang H , Wishart DS ( 2004 ) SuperPose : a simple server for sophisticated structural superposition . 
+Nucleic Acids Res 32 ( 1 ) : W590 -- W594 25 . 
+Walter RP , Scott PH , Hunenberger IG , Tironi AE , Mark SR , Billeter JF , Torda AE , Huber T , Kruger P , van Gunsteren WF ( 1999 ) The GROMOS biomolecular simulation program package . 
+J Phys Chem A 103 ( 19 ) :3596 -- 3607 26 . 
+Laskowski RA , MacArthur MW , Moss DS , Thornton JM ( 1993 ) PROCHECK a program to check the stereo chemical quality of protein structure . 
+J Appl Cryst 26:283 -- 291 27 . 
+Luthy R , Bowie JU , Eisenberg D ( 1992 ) Assessment of protein models with three-dimensional profiles . 
+Nature 356:83 -- 85 28 . 
+Colovos C , Yeates TO ( 1993 ) Verification of protein structures : patterns of nonbonded atomic interactions . 
+Protein Sci 2:1511 -- 1519 29 . 
+SAVES ( 2011 ) http://nihserver.mbi.ucla.edu/SAVE 
+30 . 
+Laskowski RA , Chistyakov VV , Thornton JM ( 2005 ) PDBsum more : new summaries and analyses of the known 3D structures of proteins and nucleic acids . 
+Nucleic Acids Res 33 : D266 -- D268 31 . 
+Laurie AT , Jackson RM ( 2005 ) Q-SiteFinder : an energy-based method for the prediction of protein-ligand binding sites . 
+Bioinformatics 21:1908 -- 1916 32 . 
+ACD/ChemSketch Freeware , version 11 ( 2006 ) Advanced Chemistry Development , Inc. . 
+Toronto , ON , Canada , www.acdlabs.com 33 . 
+Weininger D ( 1988 ) SMILES , a chemical language and information system . 
+Introduction to methodology and encoding rules . 
+J Chem Inf Comput Sci 28:31 -- 36 
+34 . 
+Rarey M , Kramer B , Lengauer T , Klebe G ( 1996 ) A fast flexible docking method using an incremental construction algorithm . 
+J Mol Biol 261:470 -- 89 35 . 
+Stierand K , Maab P , Rarey M ( 2006 ) Molecular complexes at a glance : automated generation of two-dimensional complex diagrams . 
+Bioinformatics 22:1710 -- 1716 36 . 
+Throup JP , Camara M , Briggs GS , Winson MK , Chhabra SR , Bycroft BW , Williams P , Stewart GS ( 1995 ) Characterisation of the yenI/yenR locus from Yersinia enterocolitica mediating the synthesis of two nacylhomoserine lactone signal molecules . 
+Mol Microbiol 17:345 -- 35

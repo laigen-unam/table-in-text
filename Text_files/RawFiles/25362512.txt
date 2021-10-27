@@ -1,0 +1,477 @@
+Curr Microbiol ( 2015 ) 70:315 -- 323 DOI 10.1007 / s00284-014-0720-7 
+Loss of the lac Operon Contributes to Salmonella Invasion of Epithelial Cells Through Derepression of Flagellar Synthesis
+Lingyan Jiang • Zhiwei Ni • Lei Wang • Lu Feng • Bin Liu 
+Received : 30 March 2014 / Accepted : 18 September 2014 / Published online : 2 November 2014 Springer Science + Business Media New York 2014 
+Abstract Salmonella , a genus that is closely related to Escherichia coli , includes many pathogens of humans and other animals . 
+A notable feature that distinguishes Salmo-nella from E. coli is lactose negativity , because the lac operon is lost in most Salmonella genomes . 
+Here , we expressed the lac operon in Salmonella enterica serovar Typhimurium and compared the virulence of the Lac ? 
+strain to that of the wild-type strain in a murine model , invasion assays , and macrophage replication assays . 
+We showed that the Lac strain is attenuated in vivo and the ? 
+attenuation of virulence is caused by its defect in epithelial cell invasion . 
+However , the invasion-defective phenotype is unrelated to lactose utilization . 
+Through sequencing and the comparison of the transcriptome proﬁle between the Lac and wild-type strains during invasion , we found that ? 
+most ﬂagellar genes were markedly downregulated in the 
+Lac strain , while other genes associated with invasion , ? 
+such as the majority of genes encoded in Salmonella pathogenicity island 1 , were not differentially expressed . 
+Moreover , we discovered that lacA is the major repressor of ﬂagellar gene expression in the lac operon . 
+In conclusion , these data demonstrate that the lac operon decreases Salmonella invasion of epithelial cells through repression of ﬂagellar biosynthesis . 
+As the ability to invade epithelial cells is a critical virulence determinant of Salmonella , our results provide important evidence that the loss of the lac operon contributes to the evolution of Salmonella pathogenicity . 
+Introduction
+Salmonella are important enteropathogenic bacteria that are thought to have diverged from a common ancestor with Escherichia coli about 100 million years ago [ 9 ] . 
+Two species were included in the Salmonella genus : S. enterica and S. bongori , and S. bongori represents a phylogenetically older separation from the genus Salmonella [ 1 , 4 ] . 
+S. enterica is comprised of six subspecies and further divided into more than 2,500 serovars [ 21 ] . 
+Most of the serovars that cause disease in humans and other mammals belong to subspecies I , while S. bongori and S. enterica subspecies II , IIIa , IIIb , IV , VI , and VII are mostly found in cold-blooded animals [ 3 , 7 , 32 ] . 
+The two hallmarks of Salmonella pathogenesis are the invasion of non-phagocytic cells , such as epithelial cells of the intestinal mucosa , and the survival and replication inside infected phagocytic cells [ 17 ] . 
+Salmonella virulence evolution has been generally attributed to the horizontal acquirement of different virulence elements , such as 
+Electronic supplementary material The online version of this 
+article ( doi :10.1007 / s00284-014-0720-7 ) contains supplementary material , which is available to authorized users . 
+L. Jiang Z. Ni L. Wang L. Feng B. Liu ( & ) TEDA Institute of Biological Sciences and Biotechnology , Nankai University , Tianjin 300457 , People 's Republic of China e-mail : liubin1981@nankai.edu.cn 
+L. Jiang Z. Ni L. Wang L. Feng B. Liu The Key Laboratory of Molecular Microbiology and Technology , Ministry of Education , Tianjin , People 's Republic of China 
+L. Wang B. Liu 
+Tianjin Key Laboratory of Microbial Functional Genomics , Tianjin , People 's Republic of China 
+L. Wang 
+State Key Laboratory of Medicinal Chemical Biology , Nankai University , Tianjin , People 's Republic of China 
+Salmonella pathogenicity islands ( SPIs ) , bacteriophages , and plasmids [ 25 , 33 ] . 
+SPI-1 and SPI-2 represent two of the most important virulence elements . 
+SPI-1 is present in both S. bongori and S. enterica and is required for bacterial invasion of the intestinal epithelium . 
+Whereas , SPI-2 is present only in S. enterica and is essential for bacterial replication within macrophages [ 15 , 25 ] . 
+Besides the acquirement of virulence elements , the evolution of Salmonella has also been shaped by gene loss [ 5 , 28 , 29 ] . 
+An average of 25 % of genes are absent in S. enterica compared with E. coli K-12 [ 27 ] . 
+It is possible that gene loss contributes to the early divergence of Salmonella from E. coli , because the expression of the newly acquired virulence factors ( e.g. , SPI-1 and SPI-2 ) may be hindered by some ancestral traits that had been already present in bacteria . 
+Although such issues are not currently well deﬁned in Salmonella , it has been well recognized in Shi-gella , which is another close relative of E. coli and a wellknown enteric pathogen [ 35 ] . 
+Shigella evolution prominently exempliﬁes the inactivation of the so-called `` antivirulence genes '' that are present in various nonpathogenic E. coli strains , such as cadA and ompT [ 26 , 30 ] . 
+Lactose fermentation is a classic experiment that distinguishes Salmonella from E. coli , because most Salmo-nella strains can not ferment lactose . 
+Lactose utilization in E. coli is mediated by the lac operon , which consists of three structural genes ( lacZ , lacY , and lacA ) that encode bgalactosidase , lactose permease , and transacetylase , respectively . 
+LacZ and LacY , which are responsible for the cleavage of lactose into glucose and galactose and the transportation of lactose into the cell , respectively , are necessary for lactose catabolism . 
+LacA is responsible for the transfer of an acetyl group from acetyl-CoA to the 6-hydroxyl of some galactopyranosides . 
+A regulatory gene lacI that is located adjacent to lacZYA encodes the lac repressor regulating the transcription of the lac operon . 
+In S. enterica , the lac region , including the lac operon and lacI , has been completely lost , whereas , in S. bongori , homolog genes of lacI and lacZ are still present in the genome [ 12 ] . 
+It has been demonstrated that the loss of lacI in S. enterica contributes to its virulence evolution , because LacI interferes with the expression of SPI-2 genes [ 10 ] . 
+Considering that the complete or partial loss of the lac operon in the Salmonella genus is more widespread than the loss of LacI , it is possible that the loss of the ability to utilize lactose in S. bongori and S. enterica contributed to the early divergence of Salmonella from E. coli . 
+In the current study , we investigated the signiﬁcance of the loss of the lac operon to Salmonella pathogenicity . 
+We expressed the lac operon in S. Typhimurium 14028 and compared the virulence between the Lac strain and wild - ? 
+type strain . 
+Our results showed that the Lac strain was ? 
+attenuated in vivo and defective in epithelial cell invasion . 
+As bacterial invasion of epithelial cells of the gastrointes-tinal mucosa is an essential step in the pathogenesis of Salmonella [ 6 , 24 ] , we propose that the loss of the lac operon has contributed to the evolution of Salmonella to be pathogens . 
+Materials and Methods
+Bacterial Strains
+Bacterial strains and plasmids used in this study are listed in Table 1 . 
+Primers used in this study are provided in Supplementary Table S1 . 
+S. Typhimurium strain 14028 was used as wild-type Salmonella strain throughout this study . 
+LB broth and agar plates were used for growth and maintenance of bacterial strains . 
+RPMI-1640 medium ( Gibco ; a lactose-free medium ) supplemented with 10 mM lactose was used for growth of bacterial strains during the process of invasion and intracellular replication assays . 
+Moreover , RPMI-1640 medium supplemented with different concentrations of lactose ( 1 , 5 , 10 , 30 , 60 , and 100 ) or without lactose ( 0 mM ) was used for testing effects of lactose utilization on Salmonella virulence . 
+When required , medium was supplemented with antibiotics at the following concentrations : ampicillin 100 lg/mL , kanamycin 50 lg/mL , chloramphenicol 15 lg/mL , and gentamicin 10 or 50 lg/mL . 
+To generate plasmids to constitutively express the lac operon or LacZ/Y/A / I in S. Typhimurium 14028 , the lowcopy expression vector pACYC184 was used . 
+The lac promoter sequence of E. coli K12 MG1655 was ﬁrstly ligated into pACYC184 to generate the plasmid pYM , so the expression of the lac operon or LacZ/Y/A in S. Typhimurium 14028 were all under the control of lac promoter . 
+LacI expression in 14028 was also under the control of its native promoter by inserting both lacI promoter and lacI gene sequence to pACYC184 . 
+Plasmid pYM-LacZYA , pYM-LacZ , pYM-LacY , pYM-LacA , and pACYC-LacI were generated from pYM or pACYC184 by Red/ET Recombination as previously described by Zhang et al. [ 38 , 39 ] . 
+Brieﬂy , a linear DNA fragment carrying a chlor-amphenicol-resistance ( cat ) gene ﬂanked by two oligonucleotide homology arms of the chosen target DNA , was PCR ampliﬁed from the plasmid pYM or pACYC184 . 
+Next , the linear fragment was electroporated into E. coli K12 MG1655 to clone the target DNA region by homologous recombination and then to generate plasmid pYMLacZYA , pYM-LacZ , pYM-LacY , pYM-LacA , and pA-CYC-LacI , respectively . 
+Thereafter , these plasmids were transformed into S. Typhimurium strain 14028 to generate strains Lac , LacZ , LacY , LacA , and LacI , respec - ? ? ? ? ? 
+tively . 
+All constructs were veriﬁed by PCR and DNA sequencing . 
+Additionally , the expression of the lac operon in 14028 was conﬁrmed by the lactose fermentation experiment , which showed that the Lac strain can use ? 
+lactose as its sole carbon source , implying the expression of lac genes under the lac promoter in 14028 . 
+Further , we conﬁrmed the expression of lac genes in 14028 by Quantitative real-time PCR analysis ( see Supplementary Fig . 
+S1 ) . 
+S. Typhimurium 14028 Lac ? 
+LacZ ? 
+LacY ? 
+LacA ? 
+LacI ? 
+Escherichia coli 
+Wild-type S. Typhimurium strain 
+Lab collection This study This study 
+S. Typhimurium 14028 contain plasmid pYM S. Typhimurium 14028 contain plasmid pYM 
+- LacZYA - LacZ 
+id pYM-LacY id pYM-LacA id pACYC-LacI 
+14028 contain plasm 14028 contain plasm 14028 contain plasm 
+urium urium urium 
+S. Typhim S. Typhim S. Typhim 
+This study This study This study 
+Wild-type E. coli strain for cloning lac sequence 
+K12 MG1655 
+Lab collection 
+Invasion Assays 
+Mice Infections 
+Mice experiments were conducted according to the principles outlined by the National Research Council ( US ) . 
+Overnight bacterial cultures were serially diluted to suitable colony forming unit ( CFU ) / ml in phosphate-buffered saline ( PBS ) for infection . 
+Six - to eight-week-old BALB/c mice were inoculated intragastrically with 1 9 10 CFUs 6 of wild-type 14028 or Lac strains . 
+The survival of the ? 
+infected mice was monitored for up to 28 days and the survival rate values were recorded . 
+For competitive index ( CI ) infection experiments , mice were infected orally with mixed inoculum containing the wild-type 14028 and Lac ? 
+strains . 
+Mice were sacriﬁced after 3 days post-infection . 
+Spleen and liver were homogenized , diluted , and then plated on LB plates for determination of total CFUs . 
+Col-onies were replica-plated under chloramphenicol selection for enumeration of Lac strain . 
+CI value was calculated as ? 
+[ Lac / wild-type ] / [ Lac / wild-type ] . ? ? 
+output input 
+The invasion assays were performed as previously descri-bed by Isberg and Falkow [ 18 ] . 
+HeLa cells ( ATCC CCL2 ) were seeded into 24-well tissue culture plates with a den-5 sity of 1 9 10 per/well 2 days before infection . 
+Cultures of different Salmonella strains grown to mid-log phase were added to HeLa cells monolayers at the multiplicity of infection ( MOI ) of 10 . 
+After 1 h of incubation followed by the addition of gentamicin ( 50 mg/mL ) to kill extracellular bacteria , intracellular bacteria were quantiﬁed to determine the level of invasion . 
+The invasion rate was calculated based on recovered intracellular bacteria relative to the input . 
+Experiments were repeated three times . 
+Mice Infections 
+Macrophage Replication Assays
+Replication of bacterial strains in macrophages was performed as previously described [ 36 ] . 
+Cultures of different Salmonella strains grown to mid-log phase were added to murine RAW264 .7 macrophage cells ( ATCC TIB 71 ) at a MOI of 10 . 
+After incubation at 37 C for 30 min , infected cell monolayers were washed three times with PBS ; then RPMI-1640 medium containing 50 lg/mL of gentamicin was added to kill non-invasive bacterial cells . 
+Fold intracellular multiplication was calculated by dividing the intracellular bacterial load at 4 , 8 , and 24 h by the intracellular bacterial load at 2 h. 
+S. Typhimurium 14028 contain plasmid pYM S. Typhimurium 14028 contain plasmid pYM 
+- LacZYA - LacZ 
+id pYM-LacY id pYM-LacA id pACYC-LacI 
+14028 contain plasm 14028 contain plasm 14028 contain plasm 
+urium urium urium 
+S. Typhim S. Typhim S. Typhim 
+This study This study This study 
+Wild-type E. coli strain for cloning lac sequence 
+K12 MG1655 
+Lab collection 
+Invasion Assays 
+Mice Infections 
+RNA for transcriptome sequencing was extracted from Lac or wild-type bacteria during invasion of HeLa cells ? 
+with TRIzol reagent according to the manufacturer 's instructions ( Invitrogen ) . 
+RNA samples were further puri-ﬁed by the RNeasy Mini Kit ( QIAGEN ) , and treated according to the manufacturer 's protocol , including an oncolumn DNase digestion ( RNase-Free DNase , QIAGEN ) . 
+cDNA was generated using the SuperScript Double-Stranded cDNA Synthesis Kit ( Invitrogen ) according to the manufacturer 's instructions . 
+cDNA libraries for Illumina sequencing were constructed using the mRNA-Seq 8-Sample Prep Kit ( Illumina ) . 
+The number of reads per CDS was normalized according to the number of reads mapping to the CDS in each library and the length of the CDS . 
+Quantitative Real-Time PCR Analysis (qRT-PCR)
+qRT-PCR was performed using the 7300 Fast Real-Time PCR systems ( Applied Biosystems ) . 
+RNA was extracted ? 
+from Lac or wild-type bacteria during invasion and then reverse-transcribed to generate cDNA using SuperScript II ( Invitrogen ) with random hexamers ( Sigma ) . 
+Each qRTPCR reaction was carried out in a total volume of 20 lL on a 96-well optical reaction plate ( Applied Biosystems ) containing 5 lL FastStart Universal SYBR Green Master ( ROX ) mix ; 1 lL cDNA ; and two gene-speciﬁc primers with a ﬁnal concentration of 0.3 mM each . 
+The fold change in target gene relative to the housekeeping gene ( 16S rRNA ) was determined by the 2 method . 
+- DDCt 
+Results
+? 
+Lac Strain is Attenuated in the Murine Model
+We examined the effect of the lac operon on S. Typhimurium virulence in a murine model . 
+BALB/c mice were inoculated intragastrically with approximately 6 ? 
+1 9 10 CFUs of wild-type 14028 or Lac strains and monitored for survival over a 28-day period . 
+As shown in Fig. 1a , all the mice infected with the wild-type strain were dead by day 12 of infection , while only 30 % of the mice ? 
+infected with Lac strain had died by day 12 . 
+Surprisingly , 50 % of the mice infected with Lac strain survived after ? 
+28 days of infection . 
+Furthermore , the LD50 for the Lac ? 
+strain ( 4.6 9 10 ) was 11-fold higher compared with the 7 wild-type strain ( 4.2 9 10 ) . 
+Additionally , we compared 6 the bacterial load of the wild-type and Lac strains in the ? 
+spleen and liver of infected mice after 3 days using the CI approach . 
+We observed that the mean CI for the Lac ? 
+strain relative to wild-type strain was 0.29 for spleen and 0.36 for liver ( P \ 0.05 ; Fig. 1b ) , indicating the survival ability of wild-type strain in spleen or liver is 3 -- 4-fold higher than that of the Lac strain . 
+These results collec - ? 
+tively demonstrated that the Lac strain is attenuated in the ? 
+murine model . 
+Lac Strain is Defective in Epithelial Cell Invasion 1
+To investigate how the lac operon attenuates S. Typhimurium virulence , we tested the effect of the lac operon on the ability of S. Typhimurium to invade HeLa epithelial cells and to replicate in murine RAW264 .7 macrophages . 
+The Lac strain showed a signiﬁcantly decreased ability to ? 
+invade HeLa cells compared with the wild-type strain ( [ 10-fold ; Fig. 2a ) . 
+In contrast , the replication of Lac ? 
+strain in macrophages was comparable to that of the wildtype strain ( Fig. 2b ) . 
+The ability of Salmonella strains to invade HeLa cells in vitro can reﬂect their capacity to invade intestinal mucosa in vivo [ 13 ] . 
+Collectively , this result demonstrates that the lac operon attenuates S. Typhimurium virulence by decreasing bacterial invasion of epithelial cells . 
+Invasion-Defective Phenotype of the Lac Strain is 1 Unrelated to Lactose Utilization
+We sought to understand how the lac operon inﬂuenced the bacterial invasion of epithelial cells and to investigate whether the ability to utilize lactose in the Lac strain is ? 
+responsible for its invasion defect . 
+To address this issue , we supplemented RPMI-1640 medium with different concentrations of lactose ( 1 , 5 , 10 , 30 , 60 , and 100 ) and examined the invasion ability of the Lac strain to HeLa ? 
+cells under these conditions . 
+We showed that in all these media , the Lac strain exhibited a signiﬁcant decrease in ? 
+invasion ability compared with the wild-type strain ( Fig. 3 ) . 
+Furthermore , the data indicate that the invasiondefective phenotype of the Lac strain is unrelated to its ? 
+lactose utilization ability , as the Lac strain showed ? 
+comparable invasion ability to HeLa cells in media with different concentrations of lactose , even in medium without lactose ( Fig. 3 ) . 
+? 
+Lac Operon Inhibits the Transcription of Most Flagellar Genes During Invasion
+We performed transcriptome sequencing and compared the transcriptome proﬁles between Lac strain and wild-type ? 
+strain at their invasion stage to HeLa cells . 
+We observed 156 upregulated genes and 96 downregulated genes in the Lac strain during invasion compared with the wild-type ? 
+values were shown for the spleen and liver . 
+Mice were inoculated intragastrically with a 1:1 mixed inoculum of wild-type 14028 and Lac strains and were sacriﬁced after 3 days . 
+The data represent ? 
+results from three independent experiments . 
+Student 's t test was used to calculate P value to RAW264 .7 macrophages at a MOI of 10 . 
+Fold intracellular multiplication was calculated by dividing the intracellular bacterial load at 4 , 8 , and 24 h by the intracellular bacterial load at 2 h.The data from each graph represents the average of three independent experiments . 
+Error bars indicate standard deviations of the mean . 
+Student 's t test was used to calculate P value . 
+* P \ 0.05 , ** P \ 0.01 strain ( [ 2-fold and P \ 0.05 ; see Supplementary Table S2 ) . 
+The upregulated genes include : genes involved in the transport of galactose , gluconate , and arginine ; genes involved in the biosynthesis of Heme O and arginine ; 3 SPI-2 genes ( ssaGJR ) ; as well as 85 hypothetical genes and genes of undeﬁned function . 
+The downregulated gene include : gene involved in the ﬂagellar biosynthesis and the synthesis of hydrogenase III ; genes involved in the transport of mannose , protoheme IX , and lysine ; as well as 35 hypothetical genes and genes of undeﬁned function . 
+The transcriptome data indicate some metabolic differences between the Lac strain and the wild-type strain during ? 
+invasion . 
+Among the differentially regulated genes , we looked for the genes that were associated with bacterial invasion . 
+Interestingly , most ﬂagellar genes were found to be signiﬁcantly downregulated in the Lac background ? 
+( Table 2 ) . 
+For example , the ﬂiC ( encoding the phase-1 ﬂagellin ) and ﬂjB ( encoding the phase-2 ﬂagellin ) genes were downregulated 3.8 - and 2.3-fold , respectively ; and the ﬂhD and ﬂhC genes that encode the two master ﬂagellar regulators were downregulated 4.5 and 6.0-fold , respectively . 
+In addition , we conﬁrmed the downregulation of these ﬂagellar genes by qRT-PCR ( see Supplementary Fig . 
+S2 ) . 
+It is well recognized that ﬂagella contribute to the full invasive potential of Salmonella to the intestinal epithelial cells [ 19 , 20 , 31 , 34 ] . 
+Thus , our data show that the inva-sion-defective phenotype of the Lac strain unequivocally ? 
+correlated with its repression of ﬂagellar genes . 
+In contrast , the transcription of other genes involved in invasion , such as most SPI-1 genes and genes involved in chemotaxis system ( cheAWMR ) , were not signiﬁcantly altered in the Lac strain . 
+Thus , we conclude that the lac operon ? 
+decreases bacterial invasion of epithelial cells through repression of ﬂagellar genes . 
+Fig. 1 Expression of the lac operon in S. Typhimurium 14028 attenuated bacterial virulence in BALB/c mice . 
+a Survival curves for BALB/c mice infected with wild-type 14028 or Lac strain . 
+Mice ? 
+were inoculated intragastrically with approximately 1 9 10 CFUs of 6 wild-type 14028 strain or Lac strain and monitored for survival over ? 
+a 28-day period . 
+b The geometrical means of competitive index ( CI ) 
+Fig. 2 Expression of the lac operon in S. Typhimurium 14028 reduced bacterial invasion of HeLa epithelial cells , whereas it did not inﬂuence bacterial replication in murine macrophages . 
+a Invasion assays of wild-type 14028 and Lac strains . 
+HeLa cells were infected ? 
+with the wild-type or Lac strains at a MOI of 10 . 
+Cells were lysed at ? 
+1 h post-infection and CFU was counted . 
+b Replication assays of 14028 and Lac strain in murine macrophages . 
+Bacteria were added ? 
+LacA is the Major Repressor of Flagellar Gene Expression in the Lac Operon
+To investigate which gene in the lac operon inhibits ﬂa-gellar gene expression , we expressed LacZ , LacY , and LacA in the S. Typhimurium strain 14028 , respectively , and investigated the transcription of the four major ﬂagellar genes ( ﬂiC , ﬂjB , ﬂhD , and ﬂhC ) in these strains during invasion . 
+The abundance of the transcripts in each strain was determined by qRT-PCR . 
+Surprisingly , we observed negligible change in ﬂagellar gene expression caused by lacZ and lacY . 
+However , lacA signiﬁcantly inhibited the transcription of the four genes , and the inhibition is comparable to that of the lac operon ( Fig. 4 ) . 
+This result indicates that lacA represses ﬂagellar gene expression in the lac operon , whereas the underlying mechanism is unknown and needs further study . 
+Fig. 3 The invasion-defective phenotype of the Lac strain is ? 
+unrelated to lactose utilization . 
+HeLa cells were infected with wildtype 14028 or Lac strains at a MOI of 10 in the absence or presence ? 
+of differing concentrations of lactose ( 1 , 5 , 10 , 30 , 60 , and 100 ) . 
+The data represent the average of three independent experiments . 
+Error bars indicate standard deviations of the mean . 
+Student 's t test was used to calculate P value . 
+* P \ 0.05 , ** P \ 0.01 
+Discussion
+In this study , we show that the expression of the lac operon attenuates S. Typhimurium in vivo and inhibits its invasion of epithelial cells . 
+We demonstrate that the invasion - ? 
+defective phenotype of the Lac strain is caused by ﬂa-gellar synthesis repression . 
+These ﬁndings establish that the loss of the lac operon is an important step during the evolution of Salmonella pathogenicity , and is positively selected by Salmonella virulence . 
+The mechanisms by which lacA inhibits ﬂagellar gene expression are uncertain . 
+LacA is known to encode a bgalactoside transacetylase , which transfer an acetyl group from acetyl-CoA to b-galactosides . 
+Protein acetylation has been demonstrated to be associated with regulation of cellular metabolism , cellular resistance to stress , and bacterial pathogenicity in many previous studies [ 2 , 14 , 16 , 23 , 37 ] . 
+We propose LacA can also transfer acetyl groups to some regulators of ﬂagellar genes , which can modify the activities of these regulators and result in ﬂagellar synthesis repression . 
+Besides , it is also possible that lacA gene can works as DNA element to regulate the ﬂagella synthesis . 
+However , further studies are needed to conﬁrm these hypotheses . 
+lacZ and lacY are necessary for lactose catabolism , whereas the expression of these genes did not affect ﬂagellar gene expression . 
+This result is consistent with the fact that the invasion-defective phenotype of the Lac strain is unrelated to lactose utilization . 
+Thus , we can ? 
+also suggest that the presence of lacZ in S. bongori do not inﬂuence its pathogenicity in cold-blooded animals . 
+Moreover , we propose that the loss of lac operon ( primarily lacA ) may play a more signiﬁcant role than the loss of LacI in the evolution of Salmonella . 
+Although the pre-sence of LacI attenuated Salmonella virulence in vivo , it mainly affects bacterial replication in macrophages [ 10 ] . 
+We demonstrated in this study that the presence of LacI in S. Typhimurium 14028 did not inﬂuence bacterial invasion of epithelial cells ( see Supplementary Fig . 
+S3 ) . 
+In contrast , the presence of the lac operon inﬂuences bacterial invasion of epithelial cells , which is the critical ﬁrst step in Sal-monella pathogenesis [ 6 , 11 , 24 ] . 
+It is well-known that most Salmonella serovars are non-typhoidal Salmonella , which restrict their lifestyle in the intestinal tract , and lack the ability to replicate in host macrophages [ 8 , 22 ] . 
+Thus , loss of the lac operon which can increase bacterial invasion of epithelial cells is essential for almost all Salmonella serovars . 
+In comparison , the loss of lacI seems not necessary for the pathogenicity of the large number of nontyphoidal Salmonella . 
+In conclusion , our results suggest that the loss of the lac operon contributes to the virulence evolution of Salmonella by increasing bacterial invasion of epithelial cells . 
+Because invasion of epithelial cells is the ﬁrst hallmark of Salmo-nella virulence [ 6 , 11 , 24 ] , we suggest that the loss of the lac operon may have facilitated the ﬁrst step of Salmonella evolution as pathogens . 
+Table 2 Transcriptome proﬁle of S. Typhimurium genes associated with invasion 
+Gene 
+Gene 
+Gene name 
+Fold change ( Lac / ? 
+wild-type ) * 
+P value 
+Gene name 
+Fold change ( Lac / wild - ? 
+type ) * 
+P value 
+number 
+number 
+1.0000 0.7790 1.0000 
+1.10 0.71 1.34 
+SPI-1 genes : STM2860 STM2861 
+STM STM STM 
+2898 2899 2900 
+invG invF invH 
+1.25 0.55 0.90 
+0.7207 0.5869 0.6072 
+ygbA sitA 
+STM STM STM 
+2862 2863 2864 
+sitB sitC sitD 
+Flagellar genes : 
+0.82 0.73 0.72 
+0.7994 0.7790 0.1433 
+0.3290 
+STM1171 ﬂgN STM1172 ﬂgM 
+0.57 1.03 
+0.9657 
+0.0115 0.0234 0.0701 0.0068 0.0010 0.0037 0.0073 0.0285 0.1448 0.1279 0.0481 
+STM STM STM 
+2865 2866 2867 
+avrA sprB hilC 
+STM STM STM 
+1173 1174 1175 
+ﬂgA ﬂgB ﬂgC 
+0.39 0.09 0.08 
+1.39 0.49 1.45 
+0.1174 0.2863 0.7919 
+2868 2869 2870 
+STM STM STM 
+STM STM STM 
+1176 1177 1178 
+ﬂgD ﬂgE ﬂgF 
+0.08 0.10 0.10 
+orgA 
+2.64 2.62 0.62 
+0.2645 0.5268 0.5610 
+prgK prgJ prgI 
+2871 2872 2873 
+STM STM STM 
+STM1179 STM1180 STM1181 
+ﬂgG ﬂgH ﬂgI 
+0.05 0.21 0.30 
+0.64 0.60 1.32 
+0.6656 0.5829 0.6608 
+rgH ilD ilA 
+STM STM STM 
+p h h 
+2874 2875 2876 
+STM1182 STM1183 STM1184 
+ﬂgJ ﬂgK ﬂgL 
+0.25 0.30 0.39 
+1.85 0.88 0.55 
+0.2880 0.4434 0.4487 
+0.1152 0.5345 0.0192 
+iagB sptP sicP 
+2877 2878 2879 
+STM STM STM 
+STM1912 STM1913 STM1914 
+ﬂhE ﬂhA ﬂhB 
+0.34 0.38 0.58 
+0.8920 0.9352 1.0000 
+0.92 1.13 1.05 
+0.6795 
+0.0100 0.0190 0.0343 0.6649 0.6655 0.3770 0.0335 
+iacP sipA sipD 
+2881 2882 2883 
+STM STM STM 
+STM STM STM 
+1924 . 
+S 1925 1959 
+ﬂhC ﬂhD ﬂiC 
+0.35 0.34 0.25 
+0.3559 0.1151 0.6977 
+1.70 1.84 0.79 
+STM STM STM 
+1960 1961 1962 
+C B A 
+sip sip sic 
+2884 2885 2886 
+STM STM STM 
+ﬂiD ﬂiS ﬂiT 
+0.78 0.67 0.47 
+0.9818 0.0014 1.0000 
+0.99 0.89 0.97 
+STM2771 ﬂjB 0.37 
+spaS spaR spaQ 
+2887 2888 2889 
+STM STM STM 
+0.1005 0.0365 1.0000 
+0.96 0.85 1.23 
+Mobility and chemotaxis genes : STM1915 cheZ 0.83 
+0.7539 0.7580 0.7469 
+1.20 0.74 1.13 
+cheY cheB cheR 
+1916 1917 1918 
+STM STM STM 
+spaP spaO invJ 
+2890 2891 2892 
+STM STM STM 
+1.0000 1.0000 1.0000 
+1.39 7.93 0.98 
+0.8847 0.7162 0.2042 
+1.24 0.45 0.43 
+cheM cheW cheA 
+1919 1920 1921 
+STM STM STM 
+invI invC invB 
+2893 2894 2895 
+STM STM STM 
+0.0465 1.0000 1.0000 
+1.08 1.01 1.10 
+* The signiﬁcantly 
+0.1530 0.3861 0.5303 
+downregulated genes are highlighted in bold ( [ 2-fold and P value \ 0.05 ) 
+STM1922 motB 0.47 STM1923 motA 0.61 
+STM2896 invA STM2897 invE 
+1.0000 
+1.18 
+Acknowledgments This work was supported by the International Science & Technology Cooperation Program of China ( 2012 DFG31680 ) , National Key Program for Infectious Diseases of China ( 2013ZX10004216-001-001 ) , and National Natural Science Foundation of China ( NSFC ) Program ( 31270003 ) . 
+References 
+6 . 
+Coburn B , Grassl GA , Finlay BB ( 2007 ) Salmonella , the host and disease : a brief review . 
+Immunol Cell Biol 85:112 -- 118 7 . 
+Crosa JH , Brenner DJ , Ewing WH , Falkow S ( 1973 ) Molecular relationships among the Salmonelleae . 
+J Bacteriol 115:307 -- 315 8 . 
+de Jong HK , Parry CM , van der Poll T , Wiersinga WJ ( 2012 ) Host-pathogen interaction in invasive salmonellosis . 
+PLoS Pa-thog 8 : e1002933 9 . 
+Doolittle RF , Feng DF , Tsang S , Cho G , Little E ( 1996 ) Determining divergence times of the major kingdoms of living organisms with a protein clock . 
+Science 271:470 -- 477 10 . 
+Eswarappa SM , Karnam G , Nagarajan AG , Chakraborty S , Chakravortty D ( 2009 ) lac repressor is an antivirulence factor of Salmonella enterica : its role in the evolution of virulence in Salmonella . 
+PLoS ONE 4 : e5789 11 . 
+Finlay BB , Brumell JH ( 2000 ) Salmonella interactions with host cells : in vitro to in vivo . 
+Philos Trans R Soc Lond B Biol Sci 355:623 -- 631 12 . 
+Fookes M , Schroeder GN , Langridge GC , Blondel CJ , Mammina C , Connor TR , Seth-Smith H , Vernikos GS , Robinson KS , Sanders M , Petty NK , Kingsley RA , Baumler AJ , Nuccio SP , Contreras I , Santiviago CA , Maskell D , Barrow P , Humphrey T , Nastasi A , Roberts M , Frankel G , Parkhill J , Dougan G , Thomson NR ( 2011 ) Salmonella bongori provides insights into the evolution of the Salmonellae . 
+PLoS Pathog 7 : e1002191 13 . 
+Giannella RA , Washington O , Gemski P , Formal SB ( 1973 ) Invasion of HeLa cells by Salmonella typhimurium : a model for study of invasiveness of Salmonella . 
+J Infect Dis 128:69 -- 75 14 . 
+Guise AJ , Budayeva HG , Diner BA , Cristea IM ( 2013 ) Histone deacetylases in herpesvirus replication and virus-stimulated host defense . 
+Viruses 5:1607 -- 1632 15 . 
+Hensel M ( 2004 ) Evolution of pathogenicity islands of Salmo-nella enterica . 
+Int J Med Microbiol 294:95 -- 102 16 . 
+Huang W , Wang Z , Lei QY ( 2014 ) Acetylation control of met-abolic enzymes in cancer : an updated version . 
+Acta Biochim Biophys Sin ( Shanghai ) 46:204 -- 213 17 . 
+Ibarra JA , Steele-Mortimer O ( 2009 ) Salmonella -- the ultimate insider . 
+Salmonella virulence factors that modulate intracellular survival . 
+Cell Microbiol 11:1579 -- 1586 18 . 
+Isberg RR , Falkow S ( 1985 ) A single genetic locus encoded by Yersinia pseudotuberculosis permits invasion of cultured animal cells by Escherichia coli K-12 . 
+Nature 317:262 -- 264 19 . 
+Jones BD , Lee CA , Falkow S ( 1992 ) Invasion by Salmonella typhimurium is affected by the direction of ﬂagellar rotation . 
+Infect Immun 60:2475 -- 2480 20 . 
+Jones GW , Richardson LA , Uhlman D ( 1981 ) The invasion of HeLa cells by Salmonella typhimurium : reversible and irrevers ¬ 
+ible bacterial attachment and the role of bacterial motility . 
+J Gen Microbiol 127:351 -- 360 21 . 
+Lan R , Reeves PR , Octavia S ( 2009 ) Population structure , origins and evolution of major Salmonella enterica clones . 
+Infect Genet Evol 9:996 -- 1005 22 . 
+Le Minor L , Veron M , Popoff M ( 1982 ) The taxonomy of Sal-monella . 
+Ann Microbiol ( Paris ) 133:223 -- 243 23 . 
+Mahlknecht U , Hoelzer D ( 2000 ) Histone acetylation modiﬁers in the pathogenesis of malignant disease . 
+Mol Med 6:623 -- 644 24 . 
+Malik-Kale P , Jolly CE , Lathrop S , Winfree S , Luterbach C , Steele-Mortimer O ( 2011 ) Salmonella -- at home in the host cell . 
+Front Microbiol 2:125 25 . 
+Marcus SL , Brumell JH , Pfeifer CG , Finlay BB ( 2000 ) Salmo-nella pathogenicity islands : big virulence in small packages . 
+Microbes Infect 2:145 -- 156 26 . 
+Maurelli AT , Fernandez RE , Bloch CA , Rode CK , Fasano A ( 1998 ) `` Black holes '' and bacterial pathogenicity : a large geno-mic deletion that enhances the virulence of Shigella spp . 
+and enteroinvasive Escherichia coli . 
+Proc Natl Acad Sci U S A 95:3943 -- 3948 
+27 . 
+McClelland M , Florea L , Sanderson K , Clifton SW , Parkhill J , Churcher C , Dougan G , Wilson RK , Miller W ( 2000 ) Comparison of the Escherichia coli K-12 genome with sampled genomes of a Klebsiella pneumoniae and three Salmonella enterica sero-vars , Typhimurium , Typhi and Paratyphi . 
+Nucleic Acids Res 28:4974 -- 4986 28 . 
+Merhej V , Georgiades K , Raoult D ( 2013 ) Postgenomic analysis of bacterial pathogens repertoire reveals genome reduction rather than virulence factors . 
+Brief Funct Genomics 12:291 -- 304 29 . 
+Mira A , Ochman H , Moran NA ( 2001 ) Deletional bias and the evolution of bacterial genomes . 
+Trends Genet 17:589 -- 596 30 . 
+Nakata N , Tobe T , Fukuda I , Suzuki T , Komatsu K , Yoshikawa M , Sasakawa C ( 1993 ) The absence of a surface protease , OmpT , determines the intercellular spreading ability of Shigella : the relationship between the ompT and kcpA loci . 
+Mol Microbiol 9:459 -- 468 31 . 
+Olsen JE , Hoegh-Andersen KH , Casadesus J , Rosenkranzt J , Chadﬁeld MS , Thomsen LE ( 2013 ) The role of ﬂagella and chemotaxis genes in host pathogen interaction of the host adapted Salmonella enterica serovar Dublin compared to the broad host range serovar S. Typhimurium . 
+BMC Microbiol 13:67 32 . 
+Scheelings TF , Lightfoot D , Holz P ( 2011 ) Prevalence of Sal-monella in Australian reptiles . 
+J Wildl Dis 47:1 -- 11 33 . 
+Schmidt H , Hensel M ( 2004 ) Pathogenicity islands in bacterial pathogenesis . 
+Clin Microbiol Rev 17:14 -- 56 
+34 . 
+Schmitt CK , Ikeda JS , Darnell SC , Watson PR , Bispham J , Wallis TS , Weinstein DL , Metcalf ES , O'Brien AD ( 2001 ) Absence of all components of the ﬂagellar export and synthesis machinery differentially alters virulence of Salmonella enterica serovar Typhimurium in models of typhoid fever , survival in macro-phages , tissue culture invasiveness , and calf enterocolitis . 
+Infect Immun 69:5619 -- 5625 35 . 
+Schroeder GN , Hilbi H ( 2008 ) Molecular pathogenesis of Shi-gella spp. : controlling host cell signaling , invasion , and death by type III secretion . 
+Clin Microbiol Rev 21:134 -- 156 36 . 
+Sittka A , Pfeiffer V , Tedin K , Vogel J ( 2007 ) The RNA chaperone Hfq is essential for the virulence of Salmonella typhimu-rium . 
+Mol Microbiol 63:193 -- 217 37 . 
+Wang Q , Zhang Y , Yang C , Xiong H , Lin Y , Yao J , Li H , Xie L , Zhao W , Yao Y , Ning ZB , Zeng R , Xiong Y , Guan KL , Zhao S , Zhao GP ( 2010 ) Acetylation of metabolic enzymes coordinates carbon source utilization and metabolic ﬂux . 
+Science 327:1004 -- 1007 38 . 
+Zhang Y , Buchholz F , Muyrers JP , Stewart AF ( 1998 ) A new logic for DNA engineering using recombination in Escherichia coli . 
+Nat Genet 20:123 -- 128 39 . 
+Zhang Y , Muyrers JP , Testa G , Stewart AF ( 2000 ) DNA cloning by homologous recombination in Escherichia coli . 
+Nat Biotechnol 18:1314 -- 1317

@@ -1,0 +1,545 @@
+Effect of iacP Mutation on Flagellar Phase Variation in Salmonella enterica Serovar Typhimurium Strain UK-1
+Jeong Seon Eom , a Jin Seok Kim , a Jung Im Jang , a Hyeon Guk Kim , a , b Iel-Soo Bang , c and Yong Keun Parka School of Life Sciences and Biotechnology , Korea University , Seoul , South Koreaa ; National Center for Lot Release , Korea Food and Drug Administration , Chungchungbukdo , South Koreab ; and Department of Microbiology and Immunology , Chosun University School of Dentistry , Gwang ju , South Koreac 
+Flagella are surface appendages that are important for bacterial motility and invasion of host cells . 
+Two ﬂagellin subunits in Sal-monella enterica serovar Typhimurium , FliC and FljB , are alternatively expressed by a site-speciﬁc DNA inversion mechanism called ﬂagellar phase variation . 
+Although this inversion mechanism is understood at the molecular level , the key factor controlling the expression of the two ﬂagellin subunits has not been determined . 
+In this study , we found that a putative acyl carrier protein , IacP , affects ﬂagellar phase variation in S. Typhimurium strain UK-1 under Salmonella pathogenicity island 1 ( SPI1 ) - induc-ing conditions . 
+Liquid chromatography-mass spectrometry analysis of the secreted proteins from S. Typhimurium determined that the amount of FljB secreted was signiﬁcantly higher in the iacP mutant strain , a ﬁnding conﬁrmed by Western blot analysis . 
+Northern blotting , quantitative PCR , and microarray data showed that the level of FljB in the iacP mutant strain was regulated at the transcriptional level , although the transcription and expression of the ﬂiC gene were independent of IacP . 
+FljB production was abolished by the deletion of the Hin DNA invertase but could be restored by the introduction of a plasmid carrying the hin gene . 
+We also found that in the iacP mutant strain , the orientation of the invertible H segment is in the FljB-expressing phase . 
+Furthermore , electron microscopy observations indicated that the iacP mutant strain had more ﬂagella per cell than the wildtype strain . 
+These results suggest that IacP is associated with ﬂagellar phase switching under SPI1-inducing conditions . 
+Flagella play crucial roles in bacterial motility , chemotactic behavior , and host cell invasion as a virulence determinant ( 1 ) . 
+Salmonella enterica serovar Typhimurium has 5 to 10 ﬂagella emanating from the bacterial surface . 
+The individual ﬂagellum is a complex structure composed of three basic parts : a basal body , a hook , and a ﬁlament ( 22 ) . 
+The ﬂagellar ﬁlament consists of thousands of ﬂagellin protein monomers , which are polymerized into a helical structure that can be 10 m long . 
+S. Typhimurium possesses two genetically distinct ﬂagellin subunits , FliC ( phase 1 ﬂagellin ) and FljB ( phase 2 ﬂagellin ) , which are alternatively expressed via a site-speciﬁc DNA inversion process ( 19 , 30 ) . 
+When the 1-kb upstream region of the ﬂjB gene ( H segment ) is inverted by the DNA invertase Hin , the promoter for the ﬂjB gene is properly oriented for the transcription of the ﬂjB-ﬂjA operon . 
+Because FljA is responsible for the posttranscriptional and posttranslational inhibition of FliC expression ( 2 , 38 ) , only FljB ﬂagellin is produced . 
+Although the molecular mechanism of the Hin-medi-ated DNA inversion mechanism has been studied intensively ( 6 , 24 , 28 ) , the question of which cellular signals control the ﬂagellin-switching mechanism and the frequency of DNA inversion remains unclear . 
+Salmonella pathogenicity island 1 ( SPI1 ) encodes a type III secretion system ( T3SS ) that is required for the translocation of virulence proteins directly into the host cytoplasm in order to invade nonepithelial cells ( 21 ) . 
+In a recent report , the acyl carrier protein ( ACP ) IacP was shown to be encoded in the sicA-sipB-CDA-iacP locus of SPI1 and to promote the secretion and trans-location of effector proteins SopB , SopA , and SopD , thereby contributing to bacterial invasion and virulence ( 18 ) . 
+ACP is an essential metabolic cofactor that transports acyl intermediates during the biosynthesis of fatty acids or polyketides ( 3 ) . 
+ACP is posttranslationally modiﬁed with a 4 = - phosphopantetheine ( 4 = - PP ) prosthetic group , to which the growing acyl group is attached via a thioester linkage ( 17 ) . 
+In Escherichia coli , substitution of the conserved serine-36 residue for the 4 = - PP binding site of ACP resulted in a biologically inactive protein ( 27 ) . 
+The observation that replacement with alanine of the serine-38 residue ( IacPS38A ) , a putative attachment site for the 4 = - PP moiety of IacP , did not complement the iacP mutation indicated that that the acylated form of IacP or its ability to carry acyl groups is required for its action during bacterial invasion of host cells ( 18 ) . 
+In this study , we found that FljB secretion levels were higher in the iacP mutant strain grown under SPI1-inducing conditions and that the expression of FljB was regulated by ﬂagellar phase variation . 
+These results indicate that alterations in lipid metabolism during the bacterial invasion process could trigger the expression of the alternative ﬂagellin monomer FljB . 
+MATERIALS AND METHODS
+Bacterial strains and growth conditions . 
+The S. Typhimurium strains used in this study are listed in Table 1 . 
+Unless otherwise indicated , bacteria were grown at 37 °C in Luria-Bertani ( LB ) broth containing 0.3 M NaCl ( SPI1-inducing conditions ) or in LB broth without NaCl ( SPI1-repress-ing conditions ) as described previously ( 9 ) . 
+For the growth study , over-night cultures of the S. Typhimurium wild-type strain , the iacP mutant strain , and the iacP-complemented strain were diluted 100-fold into 100 ml of fresh LB broth containing 0.3 M NaCl . 
+Growth was monitored hourly ( optical density at 600 nm [ OD600 ] ) over a 24-h period using a spectrophotometer ( Spectronic 20D ; Thermo Spectronic , Rochester , NY ) . 
+To induce the expression of the iacP gene ( pYKJ034 ) and the ﬂjA gene ( pYKJ297 ) from the P promoter , - arabinose was added to a ﬁnal BAD L concentration of either 0.05 % or 0.1 % . 
+For selection , antibiotics were added at the following concentrations : ampicillin ( Ap ) , 100 g ml 1 ; tetracycline ( Tc ) , 20 g ml 1 ; kanamycin ( Km ) , 50 g ml 1 . 
+Construction of S. Typhimurium mutant strains . 
+The ﬂiGHI : : Tn10 mutant strain ( YKJ052 ) was constructed using P22 HT105/int-mediated transduction of the ﬂiGHI : : Tn10 allele from M587 ( 8 ) into the S. Typhi-murium wild-type strain UK-1 . 
+Phage-free transductants were conﬁrmed by their sensitivity to P22 H5 ( 5 ) . 
+Transductions were veriﬁed by PCR and by the swarming motility assay . 
+A disruption of the ﬂjB and hin genes was generated using the lambda-red recombinase method as described by Datsenko and Wanner ( 4 ) . 
+To construct the ﬂjB mutant strain ( YKJ227 ) , the kanamycin resistance gene cassettes ( Kmr ) from pKD4 were ampliﬁed with primer pairs muﬂjB-L and muﬂjB-R as described previously ( 36 ) , and the resulting PCR product was electroporated into S. Typhimurium strain UK-1 carrying plasmid pKD46 . 
+Cells were selected by culturing transformants on kanamycin plates at 37 °C . 
+Clones believed to have an insertion of the kanamycin resistance gene were veriﬁed by colony PCR and DNA sequencing . 
+To generate an iacP ﬂjB double mutant strain ( YKJ231 ) , the ﬂjB : : Km allele from YKJ227 was transduced into the iacP mutant strain ( YKJ035 ) by P22-mediated transduction . 
+The hin gene was disrupted in the same way as the ﬂjB mutant strain , except that we used the hin-speciﬁc primers hinf1P3 and hinr1P2 ( 20 ) . 
+Among the hin : : Km mutants , we isolated the phase-locked strains expressing only FliC ( YKJ289 ) or FljB ( YKJ299 ) . 
+Strains YKJ290 and YKJ300 were generated by P22 transduction of the hin : : Km allele from strain YKJ289 or YKJ299 into the iacP mutant strain , respectively . 
+The phage sensitivity test was performed with P22 H5 . 
+Plasmid construction . 
+All plasmids and primers used in this study are presented in Tables 1 and 2 . 
+To construct the plasmid encoding a FLAG-tagged FljA protein ( pYKJ297 ) , the ﬂjA gene was ampliﬁed from the genomic DNA of the iacP mutant strain with primer pairs BﬂjA-L and BﬂjA-R and was subsequently inserted into the EcoRI/PstI sites of the pBAD24 plasmid . 
+To construct plasmid pYKJ346 , the hin gene , with its promoter region , was ampliﬁed from the genomic DNA of S. Typhimu-rium strain UK-1 using primers phin-L and phin-R . 
+The PCR product was cloned into the EcoRI/SacI sites of the pMW118 plasmid . 
+The integrity of the resulting plasmid constructs was veriﬁed by DNA sequencing analysis . 
+Preparation of secreted proteins and whole-cell lysates for SDS-PAGE . 
+Overnight cultures were diluted 1:20 in 10 ml of LB containing 0.3 M NaCl and were incubated for 3 h . 
+The bacterial cultures were then centrifuged at 8,000 g for 10 min to separate the cell pellet and supernatant . 
+The resulting pellets were directly resuspended in 30 l of sodium dodecyl sulfate-polyacrylamide gel electrophoresis ( SDS-PAGE ) sample buffer . 
+The supernatants were ﬁltered through a 0.45 - m-pore-size syringe ﬁlter to remove any remaining bacteria . 
+The secreted proteins were precipitated by the addition of trichloroacetic acid ( 10 % , wt/vol ) and were incubated on ice overnight . 
+The resulting pellet was washed with acetone and was resuspended in phosphate-buffered saline containing 80 mM Tris-HCl ( pH 8.0 ) . 
+Samples corresponding to 100 l of whole bacterial culture and 450 l of culture supernatants were separated by 12 % SDS-PAGE and subsequently were visualized by silver staining or were transferred to a nitrocellulose membrane for immunoblotting . 
+LC-MS analysis of secreted proteins . 
+After the imaging of secreted proteins from S. Typhimurium by silver staining , the selected protein bands from the iacP mutant strain were excised from the gel and digested with trypsin . 
+Peptide samples were dissolved in a solution of 80 % aceto-nitrile , 0.5 % acetic acid , and 0.02 % formic acid prior to the liquid chro-matography-mass spectrometry ( LC-MS ) analysis . 
+The LC-MS analysis was conducted at the Korea Basic Science Institute ( KBSI ; Seoul , South Korea ) using the Thermo Finnigan LCQ Deca Xp Max mass spectrometer equipped with Xcalibur software ( Thermo Finnigan , San Jose , CA ) . 
+Immunoblotting . 
+Membranes were blocked with 5 % skim milk in Tris-buffered saline with 0.1 % Tween 20 ( TBS-T ) for 1 h and were then immunoblotted with the following primary antibodies at the appropriate dilution in TBS-T for 1 h : a monoclonal anti-FliC antibody ( BioLegend , San Diego , CA ) , a polyclonal anti-FljB antibody ( Becton Dickinson , Franklin Lakes , NJ ) , a monoclonal anti-DnaK antibody ( Enzo Life Sciences , Farmingdale , NY ) , and a monoclonal anti-FLAG antibody ( Sigma , St. Louis , MO ) . 
+After washing with TBS-T , the membranes were incubated with horseradish peroxidase-conjugated goat IgG secondary antibodies in TBS-T for 1 h and were then washed three times with TBS-T . 
+The blots were developed using a Boehringer-Mannheim chemiluminescence blotting substrate ( peroxidase [ POD ] ) ( Roche , Mannheim , Germany ) . 
+The membranes to be reprobed were treated with stripping buffer ( 200 mM glycine-HCl [ pH 2.0 ] , 0.1 % SDS , and 1 % Tween 20 ) for 1 h and were then washed several times with TBS-T . 
+RNA isolation and Northern blot analysis . 
+Total RNA was isolated from S. Typhimurium grown under SPI1-inducing conditions by using the RNeasy Plus minikit ( Qiagen , Hilden , Germany ) according to the manufacturer 's protocol . 
+The ﬂjB and ﬂiC probes for Northern blot analysis were ampliﬁed from S. Typhimurium UK-1 genomic DNA using the primer pairs listed in Table 2 . 
+The PCR products were column puriﬁed and were labeled with a digoxigenin ( DIG ) DNA labeling kit containing DIG-11-dUTP ( Roche ) . 
+Total RNA isolated from S. Typhimurium was separated by formaldehyde-agarose gel electrophoresis and was transferred to a GeneScreen Plus nylon membrane ( Perkin-Elmer , Courta-boeuf , France ) . 
+After UV cross-linking for 5 min , the blots were prehybridized at 55 °C for 1 h and were then hybridized with DIG-labeled probes at 55 °C for 20 h. Blots were soaked in blocking reagent ( Roche ) for 1 h , incubated with alkaline phosphatase ( AP ) - conjugated anti-digoxigenin Fab fragments ( Roche ) , and visualized using CDP-Star ( Roche ) according to the manufacturer 's instructions . 
+The amount of transcript was semiquantiﬁed using ImageJ software ( NIH , Bethesda , MD ) , and measurements for each sample were shown as relative mRNA expression normalized to the expression of 16S rRNA . 
+Reverse transcription-PCR ( RT-PCR ) and qPCR analysis . 
+cDNA was synthesized using 1 g of isolated RNA template , Moloney murine leukemia virus ( M-MLV ) reverse transcriptase , a random hexamer , an 
+Received 17 January 2012 Accepted 4 June 2012 Published ahead of print 8 June 2012 
+Address correspondence to Yong Keun Park , ykpark@korea.ac.kr . 
+J.S.E. and J.S.K. contributed equally to this work . 
+Copyright © 2012 , American Society for Microbiology . 
+All Rights Reserved . 
+doi :10.1128 / JB.00076-12 
+Journal of Bacteriology p. 4332 -- 4341 
+TABLE 1 Bacterial strains and plasm Strain or plasmid 
+ids used in this study 
+Source or reference 
+Genotype or descriptiona 
+Strains UK-1 
+Salmonella enterica serovar Typhimurium , wild type SL1344 ﬂiGHI : : Tn10 ; Tcr UK-1 iacP UK-1 ﬂiGHI : : Tn10 ; Tcr r UK-1 ﬂjB : : Km ; Km r UK-1 iacP ﬂjB : : Km ; Km r off UK-1 hin : : Km ; Km ( FljB ) r UK-1 iacP hin : : Km ; Km ( FljB r on UK-1 hin : : Km ; Km ( FljB ) r UK-1 iacP hin : : Km ; Km ( FljB 
+26 
+M587 YKJ035 YKJ052 YKJ227 YKJ231 YKJ289 YKJ290 YKJ299 YKJ300 
+8 18 
+This study This study This study This study This study This study This study 
+off ) 
+on ) 
+Plasmids pKD46 pKD4 pMW118 pBAD24 
+pSC101 ; P - gam bet exo , oriTS ; Apr BAD FRT-aph-FRT , oriR6K ; Apr Kmr Low-copy-number plasmid ; Apr Expression plasmid containing the arabinose-inducible promoter P ; Apr BAD pMW118 piacPHA ; Apr pBAD24 P - iacPHA ; Apr BAD pMW118 piacP HA ; Apr S38A pBAD24 P - ﬂjAFLAG ; Apr BAD pMW118 phin ; Apr 
+4 4 
+Nippon Gene 11 
+18 18 
+pYKJ033 pYKJ034 pYKJ035 pYKJ297 pYKJ346 
+18 This study This study 
+a FRT , ﬂippase recognition target . 
+Description YKJ227 
+muﬂjB-Lb 5 = - TAACGTAACAGAGACAGCACGTTCTGCGGGACCTGGTTAGCCTGCGTGTAGGC TGGAGCTGCTTC muﬂjB-Rb 5 = - TTATGGCACAAGTAATCAACACTAACAGTCTGTCGCTGCTGACCCCATATGAAT ATCCTCCTTAGT hinf1P3c 5 = - TTGGGTATATTCGGGTGTCAACAATTGACCAAAATATCGATTTACAGCGTTGTA GGCTGGAGCTGCTTCG hinr1P2c 5 = - CTAATTTCCAGACGACAAGAGTATCGCCTTTATTTACATACTTTAACGCTCATA TGAATATCCTCCTTAG BﬂjA-L 5 = - CCGGAATTCATGGAATGTATGGCTGTAAATGA BﬂjA-R 5 = - CCGCTGCAGTTACTTATCGTCGTCATCCTTGTAATCTTCAGCGTAGTCCGAAGAC phin-L 5 = - CCGGAATTCTTTTGCGTAAAAATCGGGAA phin-R 5 = - CCGGAGCTCAAAATTTTCCTTTTGGAAGGT ﬂjB-L 5 = - TCTGACCTCGACTCCGTCCA ﬂjB-R 5 = - ATCTGCTGAAACAACTGCCG ﬂjA-L 5 = - TGGAATGTATGGCTGTAAATGA ﬂjA-R 5 = - AGCGTAGTCCGAAGACGTGA ﬂiC-L 5 = - GTGTCAACCTGTGCCAAAGC ﬂiC-R 5 = - CTGCGACAGCAACTGAGGAT hin-L 5 = - AGTGCAAATTGTGACCGCAT hin-R 5 = - TAGCTAGTTGCTGCCGAGGA 16S rRNA-L 5 = - AGAGTTTGATCMTGGCTCAG 16S rRNA-R 5 = - TACGGYTACCTTGTTACGACTT 5S rRNA-L 5 = - GGTGGTCCCACCTGACCC 5S rRNA-R 5 = - ATGCCTGGCAGTTCCCTACT HRf1c 5 = - TGACCAACTCAGCGCCATTA HLr1c 5 = - AGGTAAACGTACCGACAGCA hinf4c 5 = - AGTGTAACGCGCTCACGATA hinr4c 5 = - TATCGTGAGCGCGTTACACT 
+YKJ227 
+YKJ289 
+YKJ289 
+pYKJ297 pYKJ297 
+pYKJ346 pYKJ346 Northern blotting , RT-PCR , qPCR Northern blotting , RT-PCR , qPCR Northern blotting , RT-PCR , qPCR Northern blotting , RT-PCR , qPCR Northern blotting , RT-PCR , qPCR Northern blotting , RT-PCR , qPCR RT-PCR RT-PCR Northern blotting Northern blotting RT-PCR , qPCR RT-PCR , qPCR H orientation H orientation H orientation H orientation 
+a Underlined sequences represent restriction enzym b Primer sequence described previously ( 36 ) . 
+c Primer sequences described previously ( 20 ) . 
+e recognition sites . 
+RNase inhibitor , and deoxynucleoside triphosphates ( dNTP ) according to the manufacturer 's protocol ( Promega , Madison , WI ) . 
+All items used in cDNA synthesis were purchased from Promega . 
+The absence of contamination of genomic DNA in the RT reactions was veriﬁed by carrying out the cDNA synthesis without the reverse transcriptase enzyme . 
+A subset of the genes was ampliﬁed with Ex-Taq DNA polymerase ( TaKaRa Bio Inc. , Shiga , Japan ) using gene-speciﬁc primers listed in Table 2 . 
+The quantitative real-time PCR ( qPCR ) analyses were performed using an ABI Prism 7900 HT system ( Applied Biosystems , Foster City , CA ) in a total volume of 20 l , containing 10 l of SYBR green I mixture , 200 nM ( each ) primers listed in Table 2 , 0.5 l of sample cDNA , and 8.7 l of distilled water . 
+The PCR conditions were as follows : 50 °C for 2 min and 95 °C for 10 min , followed by 40 cycles of 95 °C for 30 s , 60 °C for 30 s , and 72 °C for 30 s. Microarray analysis . 
+Microarray analysis was performed using two independent RNA samples of the wild-type strain and the iacP mutant strain grown under SPI1-inducing conditions . 
+The total RNA sample from each strain was labeled with cyanine 3 ( Cy3 ) - conjugated dCTP by a reverse transcription reaction prior to resuspension in 10 l of hybridization solution ( GenoCheck , Seoul , South Korea ) . 
+Labeled cDNAs were hybridized to a NimbleGen 4-plex array that was based on S. Typhimu-rium strain LT2 ( Roche NimbleGen , Inc. , Madison , WI ) for 12 h at 42 °C using the MAUI system ( BioMicro Systems , Inc. , Salt Lake City , UT ) . 
+Arrays were washed and scanned using an Axon GenePix 4000B scanner ( Molecular Devices , Sunnyvale , CA ) . 
+Gene expression levels were calculated with NimbleScan software , version 2.4 ( Roche NimbleGen , Inc. ) , using the median polish normalization method , and the relative signal intensities were generated using the robust multiarray average algorithm . 
+Data analyses were performed using GeneSpring GX , version 7.3.1 ( Agilent Technologies , Santa Clara , CA ) . 
+Determination of frequency of ﬂagellar phase variation . 
+The frequency of phase variation was determined as described by Stocker ( 33 ) with some modiﬁcation . 
+Brieﬂy , a single colony of the wild-type strain and the iacP mutant strain expressing only FliC or FljB ﬂagellin was grown under SPI1-inducing conditions for 3 h. Cells were resuspended in phos-phate-buffered saline and were then plated on an LB plate containing 1.2 % agar . 
+After incubation at 30 °C for 20 h , plates were overlaid with 0.35 % agar containing anti-FljB or anti-FliC ( Becton Dickinson ) antibodies , and the mixture was further incubated at 37 °C for an additional 2 h to examine the potential motility of bacteria . 
+In this method , a switch in the ﬂagellar phase allowed phase 1 bacteria to swarm on motility agar plates containing the anti-FliC antibody or phase 2 bacteria to swarm on motility agar plates containing the anti-FljB antibody . 
+The frequency of ﬂagellar phase variation was determined as the proportion of switched variations as a function of the number of generations . 
+Determination of phase-on/off orientation . 
+Primer pairs used to determine the orientation of the H segment have been described previously ( 20 ) . 
+To determine the orientation of the ﬂagellin phase , the hixL and hixR sites ﬂanking the invertible segment of hin-ﬂjB was ampliﬁed from the genomic DNA of the wild-type strain UK-1 , the iacP mutant strain , and the iacP-complemented strain grown under SPI1-inducing conditions . 
+The PCR conditions used were as follows : 95 °C for 10 min , followed by 25 cycles of 95 °C for 30 s , 50 °C for 30 s , and 72 °C for 75 s. TEM . 
+The bacterial cultures grown in LB medium containing 0.3 M NaCl at 37 °C for 3 h were centrifuged at 1,000 rpm for 20 min and were subsequently washed in water . 
+Carbon Formvar-coated 200-mesh copper grids were rendered hydrophilic by high-voltage glow discharge ( JFC-1100E ion sputter ; JEOL Co. , Tokyo , Japan ) . 
+The bacteria on the grids were negatively stained with 2 % uranyl acetate for 30 s and were subsequently rinsed three times ( for 10-s intervals ) in water . 
+The excess ﬂuid was then removed with a ﬁlter paper , and the grid was air dried . 
+The samples were examined using a Tecnai 12 transmission electron microscope ( TEM ) ( Philips , Eindhoven , Netherlands ) at an acceleration voltage of 120 kV . 
+Motility assay . 
+Bacterial suspensions grown under SPI1-inducing conditions were spotted onto a motility plate containing 0.3 M NaCl and 0.4 % agar . 
+The plate was incubated at 30 °C for 6 h , and zones of motility from the point of inoculation were measured . 
+Statistical analysis . 
+Statistically signiﬁcant differences between strains were determined using Student 's t test to determine the P value . 
+Differences were considered statistically signiﬁcant when the P value was less than 0.05 . 
+Microarray data accession number . 
+The complete microarray data set is available at GEO ( accession no . 
+GSE34663 ) . 
+e recognition sites . 
+RESULTS
+Identiﬁcation of secreted protein in the iacP mutant strain . 
+IacP could potentially affect the secretion of some SPI1 effector proteins , including SopB , SopA , and SopD ( 18 ) . 
+To search for other proteins that were differentially secreted in the iacP mutant strain versus the wild-type strain , we investigated the secretion proﬁles of S. Typhimurium grown under SPI1-inducing conditions . 
+Secreted proteins in the culture supernatant were separated by 12 % SDS-PAGE and were then visualized by silver staining . 
+As shown in Fig. 1A , the secretion of an approximately 57 kDa protein was increased in the iacP mutant strain over that with the parental wild-type strain UK-1 or the iacP-complemented strain . 
+The resulting protein bands were excised from the gel , digested with trypsin , and analyzed by liquid chromatography-mass spectrometry ( LC-MS ) . 
+Interestingly , this 57-kDa protein was identiﬁed as the ﬂagellin subunit FljB ( Fig. 1C ) . 
+To conﬁrm FljB secretion from the iacP mutant strain , we constructed the iacP ﬂjB double mutant strain . 
+When the protein secretion patterns of the iacP and iacP ﬂjB mutant strains were compared , a protein highly secreted in the iacP mutant strain was not observed ( Fig. 1B ) . 
+The data demonstrated that FljB secretion was induced in the iacP mutant strain , while the levels of the other ﬂagellin subunit , FliC , were apparently the same in the supernatants of all strains . 
+FljB repression by an acyl carrier function of IacP . 
+To investigate whether FljB expression and secretion were both negatively regulated by IacP , we performed complementation studies with the iacP-encoding plasmid ( PBAD-iacP ) , in which IacP expression was controlled by the arabinose-inducible promoter . 
+In a complementation experiment , 30 ml of a bacterial culture with an OD600 of 0.6 was divided into three subcultures , and L-arabinose was added to a ﬁnal concentration of 0.05 % or 0.1 % to induce IacP expression . 
+After further incubation for 1 h , whole-cell lysates were collected and were then subjected to Western blot analysis . 
+Figure 2A shows that FljB was detected in the cytoplasm of the iacP mutant strain without arabinose induction , while FljB expression levels were dramatically lower in the complemented strains . 
+These results indicate that FljB expression was repressed by IacP under SPI1-inducing conditions . 
+Next , to investigate whether IacP acts as an acyl carrier protein in the context of FljB regulation , we used a plasmid with an alanine replacement of the serine-38 residue ( piacP HA S38A ) , which eliminated a putative 4 = - PP attachment site for IacP ( 18 ) . 
+No differences in the growth curves of these strains were observed under SPI1-inducing conditions ( Fig. 2B ) . 
+Consistent with the results in Fig. 2A , no FljB expression or secretion was observed in the complemented strain ( Fig. 2C ) . 
+However , IacPmediated FljB repression was impaired by IacPS38A , suggesting that IacP might play a role as an ACP in FljB repression under SPI1-inducing conditions . 
+We found that under SPI1-repressing conditions , no increase of FljB production was observed in the iacP mutant strain over that under SPI1-inducing conditions ( Fig. 2D ) . 
+The SPI1 substrate SipB was used for the veriﬁcation of SPI1 activation . 
+These results demonstrate that the iacP mutation has no effect on FljB synthesis under SPI1-repressing conditions and that expression of FljB is speciﬁcally observed in the iacP mutant grown under SPI1-inducing conditions . 
+However , we found no statistically signiﬁcant differences between the FliC expression levels in the presence or absence of IacP complementation . 
+Transcriptional activation of the ﬂjB-ﬂjA operon in the iacP mutant strain . 
+We subsequently determined whether FljB expression levels in the iacP mutant strain were regulated at the transcriptional level . 
+Total RNAs from the S. Typhimurium wild-type strain , the iacP mutant strain , and the iacP-complemented strain grown under SPI1-inducing conditions were isolated and hybrid-ized with DIG-labeled probes complementary to ﬂjB or ﬂiC mRNA . 
+Northern blot analyses showed that the ﬂjB mRNA level was signiﬁcantly higher in the iacP mutant strain than in the wildtype and complemented strains ( Fig. 3A ) , indicating that ﬂjB transcription was enhanced in the absence of IacP . 
+Because the ﬂjA gene is located downstream of the ﬂjB gene in the same operon , we expected that it would also be transcribed in the iacP mutant strain . 
+However , no ﬂjA transcript was detected by Northern blot analysis ; it is likely that the ﬂjA transcription was attenuated by a rho-independent terminator located downstream of the ﬂjB translation stop codon ( 12 , 38 ) . 
+Thus , an RT-PCR analysis and a qPCR analysis were performed to improve our sensitivity for the detection of ﬂjB and ﬂjA transcription in the iacP mutant . 
+As shown in Fig. 3B , RT-PCR experiments showed that the transcription levels of the ﬂjB and ﬂjA genes were increased in the iacP mutant strain over those in the wild-type strain or the iacP-com-plemented strain . 
+However , the transcription levels of ﬂiC and hin genes in the iacP mutant strain were similar to those in the wildtype strain . 
+The qPCR data also conﬁrmed the RT-PCR results , showing 6.4-fold and 2.2-fold increases in the relative expression of the ﬂjB and ﬂjA genes in the iacP mutant strain , respectively ( Fig. 3C ) . 
+To compare the gene expression patterns in the wildtype strain and the iacP mutant strain , and to search for other possible genes involved in IacP-mediated ﬂagellin expression , a cDNA microarray analysis was conducted using RNA isolated from the wild-type strain and the iacP mutant strain . 
+Only a few genes were differentially expressed in the iacP mutant strain ( Table 3 ) : 12 genes were upregulated and 12 genes were downregulated in the iacP mutant strain relative to the wild-type strain . 
+Most of these genes have not been previously reported to be involved in ﬂagellin expression or to have a role in the acyl carrier protein . 
+As expected , the ﬂjB gene was found to be strongly upregulated in the iacP mutant strain , in agreement with the results shown in Fig. 3 . 
+In addition , although the difference was not statistically signiﬁcant ( P 0.05 ) , the transcription of the ﬂjA gene was 1.8-fold higher . 
+These results demonstrate that FljB was regulated at the transcriptional level in the iacP mutant strain . 
+Inversion of H orientation in the iacP mutant strain under SPI1-inducing conditions . 
+Because the alternative expression of FliC and FljB is regulated by the DNA invertase Hin protein , we constructed the iacP hin double mutant locked in phase 1 ( FljBoff ) or phase 2 ( FljBon ) to investigate whether the increase of FljB expression in the iacP mutant strain was dependent on Hin . 
+As shown in Fig. 4A , we found that FljB expression was abolished in the iacP hin ( FljBoff ) double mutant strain but was fully restored by the introduction of a plasmid harboring an intact hin gene . 
+In contrast , no effect from plasmid complementation of a hin deletion mutation on FljB expression was observed in a wild-type background . 
+To test whether the transcriptional activity of the ﬂjB promoter was increased in the iacP mutant , we examined the levels of the ﬂjB transcript and FljB production in the iacP mutant and the complemented strains by qPCR and Western blotting , respectively . 
+Figure 4B showed that IacP had no effect on the transcription or synthesis of the ﬂjB gene under SPI1-inducing conditions , suggesting that FljB synthesis in the iacP mutant results from ﬂagellar phase variation , not from the increased transcriptional activity of the ﬂjB promoter . 
+We next determined the switching frequencies of ﬂagellar phase variation in the wild-type strain and the iacP mutant strain . 
+The switching frequency from phase 1 to phase 2 in the iacP mutant strain was about 3-fold higher than that observed in the wild-type strain , while the conversion rates of the switch from phase 1 to phase 2 were not signiﬁcantly different for the iacP mutant strain and the wild-type strain ( Table 4 ) . 
+Furthermore , we examined whether the H orientation of the FliC - or FljB-expressing phase was switched during 
+FIG 1 FljB secretion is increased in the iacP mutant strain . 
+( A ) Secreted proteins in the wild-type strain , the iacP mutant strain , and the iacP-comple-mented strain grown under SPI1-inducing conditions were analyzed by silver staining . 
+To identify differentially secreted proteins in the iacP mutant strain , two bands were excised ( band 1 with an increased expression level ; band 2 with an unchanged expression level ) from the gel and were analyzed by LC-MS . 
+( B ) The secretion proﬁles of the iacP mutant strain were compared with those of the iacP ﬂjB double mutant strain . 
+Secreted proteins from culture supernatants were subjected to SDS-PAGE and were visualized by silver staining . 
+( C ) Amino acid sequences of FljB . 
+Peptide sequences identiﬁed by LC-MS analysis are indicated by white letters on a black background . 
+Sequences speciﬁc to FljB , but not to FliC , are boxed . 
+FIG 2 IacP repressed FljB expression under SPI1-inducing conditions . 
+( A ) To induce IacP expression , L-arabinose was added to the cultures at the indicated concentrations during mid-log phase for 1 h before harvesting of the cells . 
+( B ) Growth curves of the S. Typhimurium wild-type strain ( ﬁlled circles ) , the iacP mutant strain ( ﬁlled triangles ) , and the iacP-complemented strain ( ﬁlled squares ) in LB broth containing 0.3 M NaCl at 37 °C . 
+Data are means for three independent experiments . 
+( C and D ) Whole-cell lysates and secreted proteins were prepared from the cultures of the wild-type strain , the iacP mutant strain , and the iacP mutant strain carrying the wild-type or point-mutated iacP gene on a plasmid . 
+All strains were grown under SPI1-inducing conditions ( 0.3 M NaCl ) or SPI1-repressing conditions ( no NaCl ) for 3 h. Western blot analyses were conducted by separating samples on an SDS-PAGE gel and immunoblotting with anti-FljB and anti-FliC antibodies . 
+Anti-SipB and anti-DnaK antibodies were used as an SPI1 substrate and as a loading control for cytoplasmic proteins , respectively . 
+SPI1 activation . 
+The orientations of the two recombination sites , hixL and hixR , in the invertible H segment were determined as described previously ( 20 ) . 
+As shown in Fig. 4C , the H segment in the FliC-expressing phase ( FljB off orientation ) was observed in the wild type and the iacP-complemented strain . 
+However , the H segment was preferentially oriented toward the FljB-expressing phase ( FljB on orientation ) in the iacP mutant strain . 
+These results indicate that under SPI1-inducing conditions , IacP inﬂuenced Hin element switches toward the expression of phase 1 ﬂagellin . 
+Inhibition of FliC expression by the plasmid-encoded FljA protein in the iacP mutant strain . 
+Although the ﬂjA gene was cotranscribed with the ﬂjB gene in the iacP mutant strain after the Hin-mediated inversion of the H segment , the ﬂiC mRNA level in the iacP mutant strain was unchanged . 
+Therefore , we hypothesized that the amount of FljA in the iacP mutant strain is insufﬁcient to suppress FliC expression . 
+To test this possibility , we tagged the chromosomal ﬂjA gene with 3 FLAG to investigate whether there is a difference in the amount of FljA protein , but no FLAG-tagged protein was detected in either the wild-type or the iacP mutant strain ( data not shown ) . 
+Thus , we constructed a plasmid carrying the ﬂjA gene under the control of an arabinose-inducible promoter . 
+When the expression of ﬂjA was induced by the addition of L-arabinose to a ﬁnal concentration of 0.1 % ( wt / vol ) , FliC was not detected in the wild-type or iacP mutant strain ( Fig. 5 ) . 
+Repression of FliC synthesis occurred even in the absence of arabinose induction , in which the FljA protein was not detected by Western blot analysis , indicating that intracellular expression of FljA in the iacP mutant strain was substantially less than the basal expression level from the arabinose-inducible promoter ( about 1/300 of the induced level ) ( 29 ) . 
+The wild-type strain and the iacP mutant strain carrying the pBAD24 plasmid were used as controls , whereby no inhibition of FliC expression was observed . 
+These results suggest that FliC expression is independent of phase variation in the UK-1 strain background due to insufﬁcient levels of FljA . 
+Flagellar biosynthesis in the iacP mutant strain . 
+Given the observations that the transcription and translation of FliC were not repressed by FljA and that the expression of FliC was constantly detected in the iacP mutant strain under SPI1-inducing conditions , we examined ﬂagellar biosynthesis on a bacterial surface at the-single cell level by electron microscopy . 
+As shown in Fig. 6A , more ﬂagellar ﬁlaments were observed on the surface of the iacP mutant strain than on that of the wild-type strain or the iacP-complemented strain under SPI1-inducing conditions . 
+Electron microscopy analysis demonstrated that the iacP mutant possessed ﬁve to six ﬂagella with lengths similar to those of the wildtype strain and one or two slightly longer ﬂagella . 
+These long ﬂagellar ﬁlaments were sometimes detected in the wild-type strain , while this phenotype was observed in more than 70 % of the iacP mutant strains ( Fig. 6B ) . 
+In addition , FljB synthesis in the iacP mutant strain seemed to have an effect on bacterial motility , which was suggested by an increase in bacterial motility on agar plates ( Fig. 6C ) . 
+These results imply that some iacP mutant strains may produce both types of ﬂagella on a single cell surface . 
+FIG 3 FljB is regulated at the transcriptional level by IacP . 
+( A and B ) Total RNAs were isolated from the wild-type strain , the iacP mutant strain , and the iacP-complemented strain grown under SPI1-inducing conditions for 3 h . 
+The levels of ﬂiC and ﬂjB mRNAs were determined by Northern blot analysis ( A ) and RT-PCR experiments ( B ) . 
+Band intensities were quantiﬁed by densitometry and normalized to the level of the 16S rRNA and 5S rRNA , respectively . 
+Experiments were performed on three independent samples , and representative results are shown . 
+Graphs represent the relative mRNA levels for the ﬂjB , ﬂiC , ﬂjA , and hin genes . 
+( C ) For the real-time PCR data , expression values were normalized to the 5S rRNA levels and were expressed relative to the expression level in the wild-type strain . 
+Error bars represent the means standard deviations for three independent experiments . 
+Asterisks indicate statistically signiﬁcant differences by Student 's t test ( P 0.05 ) . 
+DISCUSSION
+IacP , an invasion-associated acyl carrier protein , plays an important role in S. Typhimurium virulence by promoting the secretion of SPI1 T3SS effectors ( 18 ) . 
+During the investigation of secretion proﬁles of the iacP mutant strain , we found that IacP is involved in the regulation of ﬂagellin expression in S. Typhimurium under SPI1-inducing conditions . 
+S. Typhimurium has two different ﬂagellin genes , FliC ( phase 1 ) and FljB ( phase 2 ) , which are alternatively expressed by the inversion of speciﬁc DNA segments ( H inversion ) . 
+In this study , we showed that IacP affects ﬂagellar phase variation by a Hin-mediated DNA inversion reaction , since the ﬂagellar switching frequency from phase 1 to phase 2 was higher than that observed in the wild-type strain and FljB expression in the iacP mutant was suppressed by an additional mutation of the hin gene . 
+The ﬂagellar phase variation was previously reported to result from another DNA invertase gene , ﬁn , which is located within the P2-like prophage Fels-2 of S. Typhimurium strain LT2 ( 20 ) . 
+However , prophage Fels-2 and the ﬁn gene were absent from the iacP mutant strain and its parental strain UK-1 , as evidenced by colony PCR analysis using speciﬁc primers ( data not shown ) . 
+These results indicate that Hin is responsible for the synthesis of FljB in the iacP mutant strain . 
+Interestingly , RT-PCR results showed that the transcript levels of the hin gene were comparable for the wild-type and iacP mutant strains , suggesting that other factors related to the activation of Hin may be involved in ﬂagellar phase variation in iacP mutant strains grown under SPI1-inducing conditions ( 14 , 23 ) . 
+Flagellar phase variation was observed in the S. Typhimurium 
+TABLE 3 List of genes signiﬁcantly induced or represseda in the iacP mutant 
+Gene 
+P 
+Fold change 
+Seq ID Function 
+Upregulated genes ﬂjB pth STM0054 iscA yihI phoQ rplS ssaT STM2133 ahpF STM2372 wzxC 
+STM2771 STM1783 STM0054 STM2541 STM4003 STM1230 STM2673 STM1421 STM2133 STM0609 STM2372 STM2102 
+Flagellar biosynthesis protein ( phase 2 ﬂagellin ) Peptidyl-tRNA hydrolase Putative oxaloacetate decarboxylase , subunit beta Iron-sulfur cluster assembly protein Hypothetical protein Sensor kinase protein 50S ribosomal protein L19 Type III secretion system apparatus protein Putative cytoplasmic protein Alkyl hydroperoxide reductase F52a subunit Hypothetical protein Putative export protein 
+6.63 1.80 1.72 1.70 1.69 1.61 1.60 1.60 1.57 1.54 1.54 1.52 
+0.001 0.043 0.018 0.041 0.001 0.019 0.005 0.004 0.000 0.049 0.002 0.003 
+Downregulated genes 
+rfbM STM2084 Mannose-1-phosphate guanylyltransferase celA STM1312 Sugar-speciﬁc enzyme IIB tdcE STM3241 Pyruvate formate-lyase 4/2-ketobutyrate formate-lyase yjcE STM4269 Na/H transport protein sicP STM2879 Secretion chaperone ccmG STM2248 Heme lyase/disul ﬁde oxidoreductase psd STM4348 Phosphatidylserine decarboxylase yjgA STM4437 Hypothetical protein STM1911 STM1911 Putative cytoplasmic protein STM4258 STM4258 Putative methyl-accepting chemotaxis protein recR STM0486 Recombination protein RecR malE STM4229 Periplasmic maltose-binding protein a Genes induced ( 1.5-fold ) or repressed ( 0.67-fold ) with a P value of 0.05 were considered signiﬁcantly induced or repressed . 
+0.53 0.54 0.58 0.62 0.63 0.63 0.63 0.64 0.65 0.65 0.66 0.66 
+0.024 0.001 0.005 0.012 0.043 0.003 0.001 0.006 0.002 0.037 0.013 0.026 
+Strain Phase 1 ¡ phase 2 Phase 2 ¡ phase 1 strain SL1344 lacking luxS ( 16 ) . 
+When we examined LuxS expression levels in S. Typhimurium grown under SPI1-inducing conditions , the expression level of LuxS was not affected by the disruption of the iacP gene ( data not shown ) , indicating that the ﬂagellar phase variation in the iacP mutant strain was a LuxS-independent mechanism . 
+LuxS is a metabolically important protein for the recycling of the toxic by-product S-adenosylhomocys-teine during the synthesis of quorum-sensing signal molecules ( 37 ) , and notably , ﬂagellin switching in the luxS mutant strain was independent of quorum sensing . 
+These results imply that intracellular metabolic signals could change the pattern of ﬂagellin synthesis . 
+Therefore , FljB activation in the iacP mutant strain may be triggered by metabolic stress , such as a lack of speciﬁc ACPs at high osmolarity in the SPI1-inducing medium , which results from the disruption of the iacP gene or the introduction of the S38A point mutation in the IacP protein . 
+Recently , it was reported that RpoE , a sigma factor induced by envelope stress at the cell surface , is involved in ﬂagellar synthesis in Salmonella enterica serovar Typhi grown under conditions of hyperosmotic stress and that the expression of the ﬂagellin gene ﬂjB : z66 is dramatically decreased in the rpoE mutant ( 7 ) . 
+In this study , a microarray analysis dem-onstrated that the transcription of the rpoE gene in the iacP mutant strain was slightly higher ( 1.23-fold ) than that in the wildtype strain , which may represent another regulatory mechanism for FljB expression by rpoE activation . 
+To examine the transcription levels of a ﬂiC repressor gene , ﬂjA , in S. Typhimurium strain UK-1 , we initially performed conventional Northern blotting and RT-PCR analyses . 
+However , we could not detect the ﬂjA transcript in the Northern blot analysis , and notably , the PCR band of the ﬂjA transcript was observed only after 40 cycles of ampliﬁcation in RT-PCR experiments . 
+The ampliﬁcation plot of qPCR analysis also showed that PCR products of the ﬂjA transcript were detected at later ampliﬁcation cycles than the ﬂjB or ﬂiC transcripts ( data not shown ) , indicating that the initial concentrations of cDNA in the ﬂjA gene were less than those in the ﬂjB gene . 
+These results support the earlier ﬁndings that transcription of the ﬂjA gene may be affected by the rho-indepen-dent terminator located between the ﬂjB and ﬂjA genes ( 12 , 38 ) . 
+Interestingly , although the ﬂjA gene was transcribed in the iacP mutant grown under SPI1-inducing conditions , the level of ﬂiC mRNA or protein was not downregulated in the iacP mutant strain from those in the wild-type strain and the iacP-comple-mented strain . 
+In addition , better ﬂagellation and motility were observed in the iacP mutant strain . 
+Therefore , the ratio of phase 2 cells in the culture of the iacP mutant strain under SPI1-inducing conditions increased rapidly , such that this strain may synthesize ﬂagella consisting of both types of ﬂagellins . 
+The ﬂagellin monomer , a ligand for the Toll-like receptor 5 ( TLR5 ) protein , is a potent inducer of the innate immune response , including the activation of proinﬂammatory cytokines and chemokines ( 10 , 13 , 35 ) . 
+In addition , after Salmonella entry into host cells , ﬂagellin monomers are continuously secreted through the SPI1 T3SS and are then recognized by a Nod-like receptor in the host cytoplasm , which triggers the host immune response ( 25 , 34 ) . 
+Recent ﬁndings have shown that both FliC and FljB are able to stimulate NF - B activation and interleukin 1 ( IL-1 ) secretion through TLR5 - and Ipaf-dependent pathways , where their activation is dependent on ﬂagellin production ( 31 , 32 ) . 
+Furthermore , FljB-expressing cells are outcompeted by FliCexpressing cells , and the production of FljB results in virulence attenuation in murine models of systemic infection ( 15 ) . 
+Thus , the dual expression of FliC and FljB in the iacP mutant strain is expected to induce more immune responses in host cells infected with the iacP mutant strain and may partly contribute to the attenuation of virulence ( 18 ) . 
+In conclusion , we show here that the disruption of the iacP gene in S. Typhimurium grown under SPI1-inducing conditions speciﬁcally enhances the frequency of ﬂagellin switching in the direction of FliC to FljB , suggesting that intracellular metabolic changes would control ﬂagellin synthesis in S. Typhimurium . 
+TABLE 4 Frequencies of ﬂagellar phase variation in wild-type S. Typhimurium strain UK-1 and the iacP mutant strain Switching frequency per cell generation ( 10 3 ) a 
+UK-1 1.47 0.41 3.89 0.89 iacP strain 4.42 0.62 4.35 0.42 
+a Data are presented as means standard errors of the means from at least four independent experiments ( P , 0.05 by a paired t test ) . 
+FIG 4 The orientation of the invertible H segment was determined in S. Typhi-murium grown under SPI1-inducing conditions . 
+( A ) The hin genes in the wildtype and iacP mutant strains were disrupted , and hin-encoding plasmids were transformed into the respective deletion strains . 
+All strains were grown under SPI1-inducing conditions for 3 h. Western blot analysis was conducted by separating samples on an SDS-PAGE gel and immunoblotting with anti-FljB and antiFliC antibodies . 
+An anti-DnaK antibody was used as a loading control . 
+The data shown are representative of three experiments performed independently . 
+( B ) The transcription and expression of FljB in the hin mutant , the iacP hin double mutant , and the iacP-complemented strain were assessed by qPCR ( left ) and Western blotting ( right ) . 
+( C ) To determine the orientation of the FliC - or FljB-expressing cells , two hix sites for the off orientation ( top ) or the on orientation ( bottom ) were PCR ampliﬁed from the genomic DNA of the wild-type strain , the iacP mutant strain , and the iacP-complemented strain grown under SPI1-inducing conditions . 
+The expected sizes of PCR products were as follows : in the off orientation , 543 bp for hixLand1 ,769 bpforhixR ; intheonorientation ,1,125 bpforhixLand1 ,188 bpfor hixR . 
+FIG 5 FliC expression in the iacP mutant strain is repressed by plasmid-encoded FljA . 
+The wild-type strain and the iacP mutant strain carrying either a FljA-encoding plasmid ( pYKJ297 ) or an empty vector ( pBAD24 ) were grown under SPI1-inducing conditions . 
+For the activation of the PBAD promoter , L-arabinose was added to bacterial cultures at a concentration of 0.1 % ( wt / vol ) . 
+Western blot analysis was conducted by separating samples on an SDS-PAGE gel and immunoblotting with anti-FliC , anti-FljB , and anti-FLAG antibodies . 
+FIG 6 The iacP mutant strain possesses more ﬂagellar ﬁlaments than the wild-type strain . 
+( A ) Bacteria and surface ﬂagella were negatively stained with uranyl acetate and were visualized by transmission electron microscopy . 
+Bars , 2 m. Images are representative of three independent experiments . 
+( B ) For each strain , the number of ﬂagella per cell was quantiﬁed from at least 50 cells . 
+Error bars represent means standard deviations for three independent experiments . 
+( C ) After incubation for 6 h at 30 °C on semisolid agar , the zones of motility were measured for the wild-type and iacP mutant strains . 
+The ﬂiGHI : : Tn10 mutant was used as a nonmotile control . 
+Analysis by Student 's t test indicated that the differences were statistically signiﬁcant ( * , P 0.05 ) . 
+This research was supported by the Basic Science Research Program through the National Research Foundation of Korea ( NRF ) , funded by the Ministry of Education , Science and Technology ( 2010-0012804 ) and by a grant of the Korea Healthcare Technology R&D Project , Ministry for Health , Welfare & Family Affairs , Republic of Korea ( A090891 ) . 
+REFERENCES 
+1 . 
+Blair DF . 
+1995 . 
+How bacteria sense and swim . 
+Annu . 
+Rev. Microbiol . 
+49:489 -- 522 . 
+2 . 
+Boniﬁeld HR , Hughes KT . 
+2003 . 
+Flagellar phase variation in Salmonella enterica is mediated by a posttranscriptional control mechanism . 
+J. Bacteriol . 
+185:3567 -- 3574 . 
+3 . 
+Byers DM , Gong H. 2007 . 
+Acyl carrier protein : structure-function relationships in a conserved multifunctional protein family . 
+Biochem . 
+Cell Biol . 
+85:649 -- 662 . 
+4 . 
+Datsenko KA , Wanner BL . 
+2000 . 
+One-step inactivation of chromosomal genes in Escherichia coli K-12 using PCR products . 
+Proc . 
+Natl. Acad . 
+Sci . 
+U. S. A. 97:6640 -- 6645 . 
+5 . 
+Davis RW , Botstein D , Roth JR , Cold Spring Harbor Laboratory . 
+1980 . 
+Advanced bacterial genetics . 
+Cold Spring Harbor Laboratory , Cold Spring Harbor , NY . 
+6 . 
+Dhar G , Heiss JK , Johnson RC . 
+2009 . 
+Mechanical constraints on Hin subunit rotation imposed by the Fis/enhancer system and DNA supercoiling during site-speciﬁc recombination . 
+Mol . 
+Cell 34:746 -- 759 . 
+7 . 
+Du H , et al. 2011 . 
+RpoE may promote ﬂagellar gene expression in Salmo-nella enterica serovar Typhi under hyperosmotic stress . 
+Curr . 
+Microbiol . 
+62:492 -- 500 . 
+8 . 
+Ehrbar K , Winnen B , Hardt WD . 
+2006 . 
+The chaperone binding domain of SopE inhibits transport via ﬂagellar and SPI-1 TTSS in the absence of InvB . 
+Mol . 
+Microbiol . 
+59:248 -- 264 . 
+9 . 
+Ellermeier CD , Slauch JM . 
+2003 . 
+RtsA and RtsB coordinately regulate expression of the invasion and ﬂagellar genes in Salmonella enterica sero-var Typhimurium . 
+J. Bacteriol . 
+185:5096 -- 5108 . 
+10 . 
+Feuillet V , et al. 2006 . 
+Involvement of Toll-like receptor 5 in the recognition of ﬂagellated bacteria . 
+Proc . 
+Natl. Acad . 
+Sci . 
+U. S. A. 103:12487 -- 12492 . 
+11 . 
+Guzman LM , Belin D , Carson MJ , Beckwith J. 1995 . 
+Tight regulation , modulation , and high-level expression by vectors containing the arabinose PBAD promoter . 
+J. Bacteriol . 
+177:4121 -- 4130 . 
+12 . 
+Hanafusa T , Saito K , Tominaga A , Enomoto M. 1993 . 
+Nucleotide sequence and regulated expression of the Salmonella ﬂjA gene encoding a repressor of the phase 1 ﬂagellin gene . 
+Mol . 
+Gen. Genet . 
+236:260 -- 266 . 
+13 . 
+Hayashi F , et al. 2001 . 
+The innate immune response to bacterial ﬂagellin is mediated by Toll-like receptor 5 . 
+Nature 410:1099 -- 1103 . 
+14 . 
+Ibarra JA , et al. 2010 . 
+Induction of Salmonella pathogenicity island 1 under different growth conditions can affect Salmonella-host cell interactions in vitro . 
+Microbiology 156:1120 -- 1133 . 
+15 . 
+Ikeda JS , et al. 2001 . 
+Flagellar phase variation of Salmonella enterica serovar Typhimurium contributes to virulence in the murine typhoid infection model but does not inﬂuence Salmonella-induced enteropathogenesis . 
+Infect . 
+Immun . 
+69:3021 -- 3030 . 
+16 . 
+Karavolos MH , et al. 2008 . 
+LuxS affects ﬂagellar phase variation independently of quorum sensing in Salmonella enterica serovar Typhimurium . 
+J. Bacteriol . 
+190:769 -- 771 . 
+17 . 
+Keating DH , Carey MR , and Cronan JE , Jr. 1995 . 
+The unmodiﬁed ( apo ) form of Escherichia coli acyl carrier protein is a potent inhibitor of cell growth . 
+J. Biol . 
+Chem . 
+270:22229 -- 22235 . 
+18 . 
+Kim JS , et al. 2011 . 
+Role of Salmonella pathogenicity island 1 protein IacP in Salmonella enterica serovar Typhimurium pathogenesis . 
+Infect . 
+Immun . 
+79:1440 -- 1450 . 
+19 . 
+Kutsukake K , Iino T. 1980 . 
+A trans-acting factor mediates inversion of a speciﬁc DNA segment in ﬂagellar phase variation of Salmonella . 
+Nature 284:479 -- 481 . 
+20 . 
+Kutsukake K , Nakashima H , Tominaga A , Abo T. 2006 . 
+Two DNA invertases contribute to ﬂagellar phase variation in Salmonella enterica serovar Typhimurium strain LT2 . 
+J. Bacteriol . 
+188:950 -- 957 . 
+21 . 
+Ly KT , Casanova JE . 
+2007 . 
+Mechanisms of Salmonella entry into host cells . 
+Cell . 
+Microbiol . 
+9:2103 -- 2111 . 
+22 . 
+Macnab RM . 
+2003 . 
+How bacteria assemble ﬂagella . 
+Annu . 
+Rev. Microbiol . 
+57:77 -- 100 . 
+23 . 
+McQuiston Jr , Fields PI , Tauxe RV , Logsdon JM , Jr. 2008 . 
+Do Salmo-nella carry spare tyres ? 
+Trends Microbiol . 
+16:142 -- 148 . 
+24 . 
+Merickel SK , Johnson RC . 
+2004 . 
+Topological analysis of Hin-catalysed DNA recombination in vivo and in vitro . 
+Mol . 
+Microbiol . 
+51:1143 -- 1154 . 
+25 . 
+Miao EA , et al. 2006 . 
+Cytoplasmic ﬂagellin activates caspase-1 and secretion of interleukin 1 via Ipaf . 
+Nat . 
+Immunol . 
+7:569 -- 575 . 
+26 . 
+Moreno M , Audia JP , Bearson SM , Webb C , Foster JW . 
+2000 . 
+Regulation of sigma S degradation in Salmonella enterica var . 
+Typhimurium : in vivo interactions between sigma S , the response regulator MviA ( RssB ) and ClpX . 
+J. Mol . 
+Microbiol . 
+Biotechnol . 
+2:245 -- 254 . 
+27 . 
+Polacco ML , Cronan JE , Jr. 1981 . 
+A mutant of Escherichia coli conditionally defective in the synthesis of holo - [ acyl carrier protein ] . 
+J. Biol . 
+Chem . 
+256:5750 -- 5754 . 
+28 . 
+Sanders ER , Johnson RC . 
+2004 . 
+Stepwise dissection of the Hin-catalyzed recombination reaction from synapsis to resolution . 
+J. Mol . 
+Biol . 
+340:753 -- 766 . 
+29 . 
+Schleif R , Hess W , Finkelstein S , Ellis D. 1973 . 
+Induction kinetics of the L-arabinose operon of Escherichia coli . 
+J. Bacteriol . 
+115:9 -- 14 . 
+30 . 
+Silverman M , Simon M. 1980 . 
+Phase variation : genetic analysis of switching mutants . 
+Cell 19:845 -- 854 . 
+31 . 
+Simon R , Samuel CE . 
+2007 . 
+Activation of NF - B-dependent gene expression by Salmonella ﬂagellins FliC and FljB . 
+Biochem . 
+Biophys . 
+Res . 
+Commun . 
+355:280 -- 285 . 
+32 . 
+Simon R , Samuel CE . 
+2008 . 
+Interleukin-1 secretion is activated comparably by FliC and FljB ﬂagellins but differentially by wild-type and DNA adenine methylase-deﬁcient salmonella . 
+J. Interferon Cytokine Res . 
+28 : 661 -- 666 . 
+33 . 
+Stocker BA . 
+1949 . 
+Measurements of rate of mutation of ﬂagellar antigenic phase in Salmonella typhimurium . 
+J. Hyg . 
+( Lond . ) 
+47:398 -- 413 . 
+34 . 
+Sun YH , Rolan HG , Tsolis RM . 
+2007 . 
+Injection of ﬂagellin into the host cell cytosol by Salmonella enterica serotype Typhimurium . 
+J. Biol . 
+Chem . 
+282:33897 -- 33901 . 
+35 . 
+Tallant T , et al. 2004 . 
+Flagellin acting via TLR5 is the major activator of key signaling pathways leading to NF - B and proinﬂammatory gene program activation in intestinal epithelial cells . 
+BMC Microbiol . 
+4:33 . 
+doi : 10.1186 / 1471-2180-4-33 . 
+36 . 
+Uchiya K , Nikai T. 2008 . 
+Salmonella virulence factor SpiC is involved in expression of ﬂagellin protein and mediates activation of the signal transduction pathways in macrophages . 
+Microbiology 154:3491 -- 3502 . 
+37 . 
+Winzer K , et al. 2002 . 
+LuxS : its role in central metabolism and the in vitro synthesis of 4-hydroxy-5-methyl-3 ( 2H ) - furanone . 
+Microbiology 148 : 909 -- 922 . 
+38 . 
+Yamamoto S , Kutsukake K. 2006 . 
+FljA-mediated posttranscriptional control of phase 1 ﬂagellin expression in ﬂagellar phase variation of Sal-monella enterica serovar Typhimurium . 
+J. Bacteriol . 
+188:958 -- 967 .

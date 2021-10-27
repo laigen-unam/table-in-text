@@ -1,0 +1,425 @@
+I Public A
+N H 
+ccess 
+Author Manuscript 
+Microbiology . 
+Author manuscript ; available in PM Published in final edited form as : Microbiology . 
+2005 July ; 151 ( Pt 7 ) : 2373 -- 2383 . 
+C 2006 July 7 . 
+Shifts from glucose to certain secondary carbon-sources result in 
+activation of the extracytoplasmic function sigma factor σE in 
+Salmonella enterica serovar Typhimurium 
+William J. Kenyon1 , Sheena M. Thomas1 , Erin Johnson1 , Mark J. Pallen2 , and Michael P. Spector1 
+1Department of Biomedical Sciences , University of South Alabama , Mobile , AL 36688 , USA 2Bacterial Pathogenesis and Genomics Unit , Division of Immunity and Infection , Medical School , University of Birmingham , Birmingham B15 2TT , UK 
+stract 
+b 
+A 
+Salmonella enterica serovar Typhimurium ( S. Typhimurium ) elicits the starvation-stress response ( SSR ) due to starvation for an essential nutrient , e.g. a carbon/energy source ( C-source ) . 
+As part of the SSR , the alternative sigma factor σE is activated and induced . 
+The authors suspect that this activation is , in part , triggered by changes in the S. Typhimurium cell envelope occurring during the adaptation from growth to carbon/energy starvation ( C-starvation ) , and resulting in an increased need for σE-regulated factors involved in the proper folding and assembly of newly synthesized proteins destined for this extracytoplasmic compartment . 
+This led to the hypothesis that a σE activation signal might arise during C-source shifts that cause the induction of proteins localized to the extracytoplasmic compartment , i.e. the outer membrane or periplasm , of the cell . 
+To test this hypothesis , cultures were grown in minimal medium containing enough glucose to reach mid-exponential-phase , plus a non-limiting amount of a secondary ` less-preferred ' but utilizable carbon / energy source . 
+The σE activity was then monitored using plasmids carrying rpoEP1 -- and rpoEP2 -- lacZ transcriptional fusions , which exhibit σE-independent and - dependent lacZ expression , respectively . 
+The secondary C-sources maltose , succinate and citrate , which have extracytoplasmic components involved in their utilization ( e.g. LamB ) , resulted in a discernible diauxic lag period and a sustained increase in σE activity . 
+Growth transition from glucose to other utilizable phosphotransferase ( PTS ) and non-PTS C-sources , such as trehalose , mannose , mannitol , fructose , glycerol , D-galactose or L-arabinose , did not cause a discernible diauxic lag period or a sustained increase in σE activity . 
+Interestingly , a shift from glucose to melibiose , which does not use an extracytoplasmic-localized protein for uptake , did cause an observable diauxic lag period but did not result in a sustained increase in σE activity . 
+In addition , overexpression of LamB from an arabinose-inducible promoter leads to a significant increase in σE activity in the absence of a glucose to maltose shift or C-starvation . 
+Furthermore , a ΔlamB : : Ω-Kmr mutant , lacking the LamB maltoporin , exhibited an approximately twofold reduction in the sustained σE activity observed during a glucose to maltose shift , again supporting the hypothesis . 
+Interestingly , the LamB protein lacks the typical Y-X-F terminal tripeptide of the OmpC-like peptides that activate DegS protease activity leading to σE activation . 
+It does , however , possess a terminal pentapeptide ( Q-M-E-I-W-W ) that may function as a ligand for a putative class II PDZ-binding site . 
+The authors therefore propose that the σE regulon of S. Typhimurium not only is induced in response to deleterious environmental conditions , but also plays a role in the adaptation of cells to new growth conditions that necessitate changes in the extracytoplasmic compartment of the cell , which may involve alternative signal recognition and activation pathways that are independent of DegS . 
+Correspondence Michael P. Spector , mspector@usouthal.edu . 
+C-source , carbon/energy source ; C-starvation , carbon/energy starvation ; IM , inner membrane ; MS hiC , MOPS-buffered salts medium non-limiting in glucose ; MS loC , MOPS-buffered salts medium limiting for glucose ; OM , outer membrane ; OMP , outer-membrane protein ; PEP , phosphoenolpyruvate ; PP , periplasmic ; PTS , phosphotransferase ; SSR , starvation-stress response 
+UCTION 
+OD 
+INTR 
+Salmonella enterica serovar Typhimurium ( Salmonella Typhimurium ) is an aetiological agent of water/food-borne gastrointestinal-based disease in both animals and humans ( Spector , 1998 ) . 
+An important feature of S. Typhimurium epidemiology and pathogenesis in both warm-and cold-blooded hosts is its ability to sense , adapt to and survive in a number of environments that expose the bacteria to stresses , such as nutrient starvation , extremes in osmolarity , temperatures or pH , which can threaten viability and/or limit growth ( Spector , 1998 ; Humphreys et al. , 1999 , 2003 ) . 
+Thus , bacterial responses to these stresses can affect the spread and pathogenesis of this important pathogen . 
+One of the most common stresses encountered by S. Typhimurium , and many other bacteria , outside the confines of the laboratory is starvation for a carbon/energy source ( C-source ) . 
+S. Typhimurium , as well as other non-spore-forming bacteria , responds to carbon/energy starvation ( C-starvation ) with global alterations in gene expression , morphology and physiology . 
+This response is known as the starvation-stress response ( SSR ) ( Spector & Cubitt , 1992 ; Seymour et al. , 1996 ; Spector , 1998 ; Spector et al. , 1999b ) . 
+The SSR serves two functions : ( 1 ) to combat the long-term effects of C-starvation , and ( 2 ) to generate crossresistance to other environmental stresses . 
+The SSR includes aspects of : ( a ) avoidance , involving the production of new or higher-affinity C-source-utilization systems in an attempt to scavenge any utilizable C-sources from the environment ; and ( b ) starvation/stress survival if an alternative C-source remains unavailable , ultimately generating a more efficient and hardy cell ( Spector , 1998 ) . 
+The SSR genes identified thus far are under the control of one or more of three sigma factors , σ70 , σS and σE ( O'Neal et al. , 1994 ; Spector et al. , 1999a ; Kenyon et al. , 2002 ) . 
+The alternative sigma factor σS is encoded by the rpoS gene ( Tanaka et al. , 1993 ) . 
+During the SSR , σS is induced early in the response to C-starvation in both Salmonella and Escherichia coli ( W. J. Kenyon & M. P. Spector , unpublished data ; Fang et al. , 1992 ; Tanaka et al. , 1993 ) , and during the shift from glucose to lactose utilization in E. coli ( Fischer et al. , 1998 ) . 
+Glucose is the carbon source of choice for Salmonella and many other bacteria . 
+While Salmonella is growing on glucose , the uptake and utilization of other carbon sources is inhibited , in part as a result of catabolite repression and/or inducer exclusion ( Notley & Ferenci , 1995 ; Moat et al. , 2002 ) . 
+Glucose exhaustion results in a shift to utilize alternative C-sources present in the growth medium . 
+In E. coli , a shift from glucose to lactose utilization causes growth to transiently halt , producing what is called a diauxic lag period . 
+During diauxie , functions needed for lactose utilization are induced , allowing the cell to resume growth . 
+In addition , σS and σS-dependent genes are induced during this diauxic lag period ( Fischer et al. , 1998 ) . 
+The alternative sigma factor σE ( encoded by the rpoE gene ) is activated by certain stresses to the cell envelope that lead to the accumulation of denatured/unfolded proteins ( Mecsas et al. , 1993 , 1995 ; Missiakas et al. , 1996 ; Jones et al. , 1997 ; Alba et al. , 2002 ) . 
+Previous studies indicate that , once activated , σE initiates the transcription of several genes with extracytoplasmic functions required for the cell envelope to combat the effects of the stress . 
+In the absence of stress , σE is normally bound to the inner-membrane ( IM ) protein RseA , an 
+UCTION 
+OD 
+INTR 
+METHODS
+anti-sigma factor or inhibitor of σE , preventing its interaction with RNA polymerase , and thus the transcription of σE-dependent genes ( De Las Penas et al. , 1997 ; Missiakas et al. , 1997 ; Alba et al. , 2002 , Miticka et al. , 2003 ) . 
+When a specific stress occurs to the cell envelope , RseA is degraded by DegS and YaeL , σE is then released and is able to bind to core RNA polymerase ( E ) . 
+EσE then directs the transcription of its dependent genes , many of which possess extracytoplasmic functions . 
+A number of σE-regulated genes identified in E. coli encode cell-envelope-associated proteins that act on misfolded proteins , leading to their degradation , proper refolding or correct insertion into the outer membrane ( OM ) , e.g. periplasmic ( PP ) proteases , peptidyl-prolyl isomerases and molecular chaperones ( Erickson & Gross , 1989 ; Danese & Silhavy , 1997 ; Dartigalongue et al. , 2001 ; Alba et al. , 2002 ) . 
+Previous findings in our laboratory ( Kenyon et al. , 2002 ) showed that σE activity and protein levels increase during the initial 4 -- 5 h of C-starvation , and reach peak levels at around 48 -- 72 h of C-starvation . 
+This suggests that C-starvation produces signals that lead to σE activation . 
+Furthermore , rpoE mutants are defective in long-term C-starvation and C-starvation-inducible cross-resistance ( Kenyon et al. , 2002 ) , indicating that σE is an additional key regulator of the SSR . 
+What is more , σE is critical for the virulence of S. Typhimurium in the mouse virulence model ( Humphreys et al. , 1999 ) . 
+In an effort to discern the role of the σE regulon in the SSR , we examined its activity in the avoidance component of the SSR by measuring σE-dependent transcription during shifts from glucose to less-preferred but utilizable C-sources . 
+Here we report that shifts to some but not all secondary C-sources tested resulted in a sustained increase in σE activity . 
+The common feature of C-sources resulting in increased σE activity appears to be the induction of an OM-associated and/or PP-binding-protein component involved in its utilization . 
+Based on our findings and apparent common features of these utilization systems , we hypothesized that one or more members of the σE regulon is needed for the adaptation of the cell envelope to growth on less-preferred but utilizable C-sources , specifically those C-sources with transport systems possessing extracytoplasmic solute receptors and/or OM proteins . 
+Therefore , σE-regulated functions appear to play a role not only in the responses to certain environmental stresses , but also in the adaptation of Salmonella to new environmental conditions not typically associated with cell envelope stress . 
+Bacterial strains, plasmids and oligonucleotide primers—The bacterial strains,
+plasmids and oligonucleotide primers ( Invitrogen ) used are listed in Table 1 . 
+Transductions were carried out using the high-transducing derivative of bacteriophage P22 , P22 HT int-105 ( Chan et al. , 1972 ) . 
+All strains were determined to be non-lysogens for P22 by demonstrating sensitivity to the H5 derivative of bacteriophage P22 ( Maloy , 1990 ) . 
+Media and supplements -- Cultures of the desired strains were grown in a modified MOPS-buffered salts ( MS ) minimal medium ( Neidhardt et al. , 1974 ) containing either 0 · 4 % ( w/v ) glucose ( MS hiC ) or 0 · 03 % ( w/v ) glucose ( MS loC ) , and are described in detail elsewhere ( Spector & Cubitt , 1992 ; O'Neal et al. , 1994 ) . 
+Histidine was added to minimal medium to a final concentration of 20 μM . 
+The appropriate antibiotics were added as needed : ampicillin ( Ap ) ( 30 μg ml − 1 ) , kanamycin ( Km ) ( 50 μg ml − 1 ) and chloramphenicol ( Cm ) ( 50 μg ml − 1 ) . 
+The rich medium used was Luria -- Bertani ( LB ) broth and agar ( Difco ) . 
+single-primer PCR , DNA sequence analysis and BLASTP search analysis as previously described ( Spector et al. , 1999a , b ) . 
+The insertion of the MudJ : : lac in lamB was confirmed by the presence of the correct size PCR product using chromosomal DNA from ST55 as a template , a forward primer specific for the 3 ′ - end of MudJ ( PR18 ) and a reverse primer specific for the 3 ′ - end of lamB ( PR49 ) . 
+ntification of a lamB : : MudJ ( lac Kmr ) - carrying strain from a library of C-rvation-inducible MudJ : : lac fusion ( insertion ) strains -- A lamB : : MudJ ( lac r ) fusion-carrying strain was identified from our library of strains carrying MudJ ( lac r ) insertions demonstrating C-starvation induction ( Spector et al. , 1988 , 1999a ) , using 
+Ide sta Km Km 
+Growth and σE activation during C-source shifts -- For growth and σE-activation analysis during glucose to alternative C-source shifts , overnight cultures of the desired strains were diluted 1 : 100 into fresh MS loC medium supplemented with one of the following : maltose , succinate , citrate , melibiose , D-trehalose , D-mannose , D-mannitol , D-fructose , glycerol , L-arabinose or D-galactose , all at a final concentration of 0 · 4 % ( w/v ) , or no additional C-source ( all C-sources were purchased from Sigma ) . 
+The appropriate antibiotics were added as needed . 
+The concentration of glucose in MS loC is the concentration used to produce C-starved cells ( Spector & Cubitt , 1992 ; O'Neal et al. , 1994 ; Kenyon et al. , 2002 ) and provides sufficient glucose to support growth for 3 -- 4 generations before being exhausted . 
+Therefore , growth can only continue if an alternative utilizable C-source is available in the growth medium . 
+Growth was monitored spectrophotometrically by determining OD600 at pre-determined time intervals . 
+Activation of σE was determined by measuring β-galactosidase activity as a reporter of promoter activity from plasmid pTF-P2 ; in addition , β-galactosidase activity driven by a rpoE-independent promoter ( pTF-P1 ) was measured as a control ( Kenyon et al. , 2002 ) . 
+βGalactosidase activity was assayed by the method of Miller ( 1992 ) and is expressed in Miller units . 
+The results presented represent the mean ± SEM from at least three separate experiments . 
+Generation of the lamB deletion mutant -- The λ-Red mutagenesis system provides a more efficient way of disrupting and deleting chromosomal genes , allowing the characterization of a gene 's function ( Datsenko & Wanner , 2000 ) , using the precise insertion of a selected antibiotic-resistance cassette into the gene of interest accompanied by a selected deletion . 
+Using a slightly modified protocol and S. Typhimurium strain ST276 ( carrying pKD46 , a plasmid with the λ-Red recombination enzymes under the control of the L-arabinose-inducible ParaBAD promoter ; Table 1 ) , we constructed a defined deletion of the lamB gene from the S. Typhimurium chromosome , replacing it with an Ω-Kmr cassette . 
+Following the protocol of Datsenko & Wanner ( 2000 ) , a PCR product was generated containing the Kmr cassette from pKD4 and sequence from the flanking region of the lamB gene of S. Typhimurium . 
+PCR primers PR122 and PR123 ( Table 1 ) were designed to contain a 40 bp sequence homologous to lamB DNA , and a sequence corresponding to the P1 and P2 sites on pKD4 . 
+PCR reactions using these primers , PCR SuperMix High Fidelity ( Invitrogen ) and pKD4 as a template were run in an Ericomp Thermal Cycler . 
+The size of the PCR product ( approximately 1 · 6 kb ) was confirmed by agarose gel electrophoresis , and the DNA was cleaned using the Promega Wizard PCR Prep Kit . 
+The DNA was then digested with DpnI ( Promega ) for 3 h at 37 °C , and cleaned using the Promega Wizard DNA Clean-up Kit . 
+Electrocompetent cells of strain ST276 were prepared by growing an overnight culture of ST276 in 1 ml LB-Ap with shaking at 37 °C . 
+The following morning , the overnight culture was diluted 1 : 100 into 25 ml of LB containing 1 mM L-arabinose , and grown to an OD600 of between 0 · 6 and 0 · 8 . 
+Freshly grown cells were pelleted , washed twice with 10 ml ice-cold sterile distilled water , and once with 10 ml ice-cold sterile 10 % ( v/v ) glycerol . 
+DpnI-digested DNA was then electroporated into the freshly prepared electrocompetent cells using an E. coli Pulsar electroporation unit and the protocol provided by the manufacturer ( BioRad ) . 
+The cells were plated onto LB-Km agar and incubated overnight at 37 °C . 
+Km-resistant colonies were then streaked for isolation onto LB-Km agar , and DNA was isolated from LB-Km overnight cultures using the Promega Genomic DNA Purification Kit . 
+The presence of the 
+Construction of plasmid pKS34 carrying lamB under the control of an arabinose-inducible promoter , ParaBAD : : lamB -- Chromosomal DNA isolated from S. Typhimurium SL1344 ( Wizard Genomic DNA Purification Kit ; Promega ) served as template for high-fidelity PCR amplification ( Platinum PCR SuperMix High Fidelity ; Invitrogen ) of the lamB gene using the forward primer PR48 and the reverse primer PR49 ( Table 1 ) . 
+The 1 · 4 kb PCR product was purified and ligated into pGEM-T Easy ( Promega ) , and E. coli JM109 competent cells ( Promega ) were transformed with this , following the manufacturer 's protocols . 
+Plasmid minipreps ( Wizard Plus Minipreps ; Promega ) from the ampicillin-resistant transformants were screened by PCR using primers PR48 and PR29 ( Table 1 ) to determine that the insert was oriented in the same direction as the lacZ gene in order to facilitate cloning into pBAD33 . 
+The subsequent plasmid was designated pKS33 . 
+Digestion of pKS33 with SacI and SphI yielded a 1 · 5 kb fragment carrying the lamB gene . 
+This fragment was isolated using agarose gel electrophoresis , extracted ( Freeze ′ N Squeeze columns ; Bio-Rad ) and cleaned ( Wizard DNA Clean-Up System ; Promega ) . 
+It was then ligated with SacI/SphI-digested pBAD33 ( a generous gift from Dr Jon Beckwith , Harvard University , Boston , MA , USA ) , and E. coli JM109 cells ( Promega ) were transformed with it and plated onto LB-Cm plates . 
+Plasmid minipreps ( Wizard Plus Minipreps ; Promega ) from transformant colonies were screened for the lamB insert by digestion with SacI and SphI , and agarose gel electrophoresis . 
+The resultant plasmid was designated pKS34 . 
+Overexpression of LamB and σE activation -- To measure the effect of LamB overproduction on σE activation as measured from a σE-dependent promoter in pTF-p2 we transformed SMS760 ( SL1344/pTF-p 2 ) with pKS34 to produce strain SMS908 ( Table 1 ) . 
+The desired strains were grown overnight in LB plus the appropriate antibiotic . 
+Overnight cultures were then diluted 1 : 100 into fresh LB broth with the appropriate antibiotic ( s ) , and grown to mid-exponential phase before being divided into six separate cultures to which 0 , 25 , 50 , 100 , 200 or 400 μM L-arabinose was added . 
+Cultures were then incubated for an additional 1 h at 37 °C with aeration , at which point β-galactosidase activity was assayed using the method of Miller ( 1992 ) . 
+In S. Typhimurium , a number of C-source utilization enzymes and systems are induced during the transition from growth to C-starvation in an effort to scavenge any and all available Csources , and avoid entry into the physiologically more drastic ` survival ' mode ( Spector , 1998 ) . 
+Many of the utilization systems involve the induction of OM , PP and/or IM components in addition to cytoplasmic proteins . 
+An example of an OM component of an alternative Csource utilization system is LamB , which functions as a porin-like protein involved in the uptake of maltose and maltodextrins ( Schulein & Benz , 1990 ; Hall et al. , 1997 ) . 
+Induction of a lamB : : lacZ fusion during C-starvation , as well as during shifts from glucose to maltose , showed that lamB is induced approximately 17-fold by C-starvation ( 1 · 4 ± 0 · 4 Miller units in exponential-phase cells compared to 23 · 9 ± 2 · 4 Miller units in 5 h C-starved cells ) , and approximately 46-fold during shifts from glucose to maltose ( 1 · 5 ± 0 · 7 Miller units in cells prior to the shift to maltose compared to 70 · 1 ± 1 · 7 Miller units 4 h after the shift to maltose ) . 
+These results , along with previous findings that σE is a key regulator of the SSR and is activated within the first few hours of C-starvation ( Kenyon et al. , 2002 ) , led us to examine the role of σE early in the SSR during the ` avoidance ' phase . 
+For this , we assessed σE activity during the transition from growth on glucose to less-preferred but utilizable C-sources in S. Typhimurium . 
+Fig. 1 ( a ) illustrates the typical increase in σE activity ( as determined by increased βgalactosidase expression driven by an σE-dependent promoter ) observed during C-starvation ( Kenyon et al. , 2002 ) , and is included for comparison purposes . 
+Shifts from glucose to maltose , citrate or succinate all produced discernible , yet transient , diauxic lag periods , and more importantly sustained increases in σE activity ( Fig. 1b -- d ) comparable to C-starved cells ( Fig. 1a ) over the same time period . 
+In contrast , shifts from glucose to maltose , citrate , succinate or any other alternative C-source tested , as well as C-starvation , produced relatively constant βgalactosidase activity [ 2478 ± 69 ( SEM ) Miller units ] over the same time period from the σE-independent ( σ70-dependent ) promoter in pTF-p1 . 
+desired mutation was confirmed by PCR analysis using primers PR48 and PR49 ( Table 1 ) specific for the lamB sequence outside of the deletion site . 
+RESULTS AND DISCCUSION 
+Shifts from glucose to maltose , citrate or succinate result in a sustained increase in σE activity 
+A common feature of the utilization systems for these C-sources appears to be the presence of an OM - and/or PP-protein component in addition to IM transporters . 
+In S. Typhimurium , this includes the LamB OM-maltoporin complex and the MalE extracytoplasmic solute receptor ( binding protein ) for maltose utilization ( Schulein & Benz , 1990 ; Hall et al. , 1997 ; Lawhon et al. , 2003 ) . 
+Utilization of citrate ( a C6-tricarboxylate ) involves an extracytoplasmic ( PP ) solute-receptor ( binding ) protein without a specific OM component . 
+TctC is the tricarboxylate-binding-receptor component of the TctABC tripartite-tricarboxylate transporter ( TTT ) of S. Typhimurium involved in citrate utilization ( Winnen et al. , 2003 ) . 
+The scenario for succinate utilization in S. Typhimurium is more complicated . 
+The homologues of the dctPQM genes encoding the aerobic dicarboxylate-transporter system DctPQM in Rhodobacter capsulatus ( Rabus et al. , 1999 ; Janausch et al. , 2002 ) are apparently absent from the S. Typhimurium genome ( McClelland et al. , 2001 ) . 
+However , there are at least three hypothetical genes encoding putative extracytoplasmic solute receptors for C4-dicarboxylates that may play a role in succinate utilization ( STM3169 , GenBank accession number AE008845 ,17756 -- 18746 ; yiaO , accession number AE008870 , 9637 -- 10623 ; STM4054 , accession number AE008889 , complement 10233 -- 11216 ) . 
+Of these three , YiaO along with YiaM/YiaN , and STM4054 along with STM4052/STM4053 may constitute tripartite ATP-independent periplasmic - ( TRAP ) transporter systems involved in succinate utilization ( Rabus et al. , 1999 ; Janausch et al. , 2002 ) . 
+In addition , S. Typhimurium possesses the genes for two other C4-dicarboxylate-transport systems : ( 1 ) the anaerobic Dcu dicarboxylate-transporter system , which appears to be involved in fumarate respiration rather than C4-dicarboxylate utilization and as part of this function actually results in succinate efflux from the cytoplasm ( Janausch et al. , 2002 ) , and ( 2 ) a homologue of the DctA H + / Na + : C4-dicarboxylate / dicarboxylic amino acid symporter , which was found to be a major C4-dicarboxylate transporter during aerobic growth in E. coli . 
+Mutants of dctA in E. coli grow very poorly or not at all on succinate and other C4-dicarboxylates ( Davies et al. , 1999 ) . 
+However , its cognate extracytoplasmic solute receptor ( i.e. succinate-binding protein ) has not been definitively identified . 
+In E. coli , the cbt gene was proposed as the putative C4-dicarboxylate-binding protein possibly as part of an OM porin ( Lo , 1977 ; Lo & Bewick , 1981 ) . 
+Whether this complex is expressed under the conditions tested in this study has not been demonstrated , but recent evidence suggests that cbt may be an allele of the ferric-enterobactin-transport component gene fepA , which is iron regulated ( Braun & Braun , 2002 ) in both E. coli and Salmonella . 
+Thus , the involvement of PP and/or OM component ( s ) in succinate utilization in S. Typhimurium , although likely , is ambiguous and clearly complicated . 
+sugars , and some other non-PTS sugars , is catabolite repressed and/or subject to inducer exclusion during growth on glucose . 
+This is in part a result of low intracellular levels of the signal nucleotide cyclic AMP ( cAMP ) caused by greatly reduced adenylate cyclase activity , resulting from greatly reduced levels of the phosphorylated Enzyme IIA component of the glucose-specific PTS ( P ~ EnzIIAgluc ) . 
+The exhaustion of glucose leads to accumulation of P ~ Enz IIAgluc and the activation of adenylate cyclase . 
+The resulting increased cAMP levels , and in some cases the presence of the C-source ( or a derivative ) , induces the expression of the utilization enzymes for the secondary C-source . 
+For some of these C-sources , this involves the production of specific Enzyme IIA and IIB components for its PTS . 
+The IIB component for these PTS sugars is an IM protein , while their IIA component is associated with the cytoplasmic side of the IM ; however , there are no PP or OM components involved in the PTS . 
+We therefore wanted to determine if shifts from glucose to known PTS sugars might also generate signals leading to sustained σE activation . 
+Shifts from glucose to the PEP : PTS-dependent sugars trehalose , mannose , mannitol or fructose do not result in a sustained increase in σE activity 
+Many sugars are translocated into the cell by the phosphoenolpyruvate ( PEP ) : sugar phosphotransferase system ( PTS ) ( Postma et al. , 1993 ) . 
+The utilization of secondary PTS 
+In contrast to maltose , citrate and succinate , a shift from glucose to the PTS-dependent sugars trehalose ( Fig. 2a ) , fructose ( Fig. 2b ) , mannose or mannitol ( data not shown ) did not lead to a discernible diauxic lag period or sustained σE activation . 
+Results for mannose and mannitol were very similar to that of fructose . 
+These results indicate that a shift from glucose to a secondary C-source , in general , is insufficient to cause sustained σE activation . 
+It also demonstrated more specifically that shifts from glucose to PTS sugars do not generate signals leading to sustained σE activation , thus supporting our hypothesis , given that their utilization does not involve PP and/or OM components . 
+ifts from glucose to the non-PTS C-sources melibiose , l-arabinose , d-galactose or glycerol not result in a sustained increase in σE activity 
+h o 
+S d 
+Some secondary C-sources do not require the PTS for their utilization , but instead rely on a specific IM-associated transporter , permease or channel to bring them into the cytoplasm for utilization ; although they may exhibit catabolite repression and/or inducer exclusion ( as described above ) . 
+Moreover , in some cases , their expression in S. Typhimurium is uncertain . 
+Examples of non-PTS C-sources that exhibit these characteristics include glycerol , L-arabinose , D-galactose and melibiose in S. Typhimurium ( Postma , 1977 ; Muller et al. , 1985 ; Benner-Luger & Boos , 1988 ; Horazdovsky & Hogg , 1989 ; Kehres & Hogg , 1992 ; Moat et al. , 2002 ) . 
+Thus , we examined whether shifts from glucose to one of these C-sources would result in a sustained increase in σE activity . 
+Neither shifts from glucose to melibiose ( Fig. 3a ) , L-arabinose ( Fig. 3b ) , D-galactose , nor glycerol ( data not shown ) resulted in a sustained increase in σE activity ; although there was a transient increase in some cases . 
+The results for D-galactose and glycerol were very similar to the result for L-arabinose . 
+Interestingly , the shift from glucose to melibiose produced an observable transitory diauxic lag period , but again this was not accompanied by a sustained elevation in σE activity ( Fig. 3a ) . 
+These latter findings suggest that it is not the occurrence of a diauxic lag period that results in signals leading to a sustained rise in σE activity . 
+In E. coli , there appears to be a high-affinity arabinose-transport system encoded by the araFGH operon , with AraF being an arabinose-binding protein and AraGH composing an IM-transport system ( Horazdovsky & Hogg , 1989 ; Kehres & Hogg , 1992 ) . 
+However , the araFG genes are not present in the S. Typhimurium genome ( McClelland et al. , 2001 ; GenBank accession number AE006468 or NC_003197 ) . 
+This supports our hypothesis since the PP-binding protein for arabinose AraF would not be produced . 
+Database analysis of the S. Typhimurium LT-2 genome sequence did not indicate known or putative AraF homologues . 
+galactoside Mgl system ( Postma , 1977 ; Muller et al. , 1985 ; Benner-Luger & Boos , 1988 ) . 
+The mglB-encoded protein is a PP-binding protein that can bind to galactose as well as other sugars , e.g. fucose . 
+Although this might appear contradictory to our hypothesis , galactose only slightly induces the mgl genes in a galP + strain background ( Postma , 1977 ; Muller et al. , 1985 ; BennerLuger & Boos , 1988 ) . 
+Thus , the MglB protein is not induced significantly under our experimental conditions . 
+So , the lack of a sustained increase in σE activity during a glucose to D-galactose shift can still be explained in the context of our hypothesis . 
+The pertinent characteristics for all the secondary C-sources tested are summarized in Table 2 . 
+In both E. coli and S. Typhimurium , D-galactose can be transported into the cell through the galactose-specific galactose permease GalP or the binding-protein-dependent methyl ¬ 
+Inability to produce the LamB protein reduces the activation of σE during a shift from glucose to maltose 
+As stated previously , a common feature of maltose , citrate and succinate utilization appears to be the production of an OM and/or extracytoplasmic ( PP ) solute-receptor component ( s ) involved in their utilization , e.g. the LamB OM-porin-like protein complex ( Schulein & Benz , 1990 ) , or the extracytoplasmic solute receptors involved in C4-dicarboxylate and C6-tricarboxylate transport ( Widenhorn et al. , 1988 ; Rabus et al. , 1999 ; Janausch et al. , 2002 ; Winnen et al. , 2003 ) . 
+Another possible factor involved in σE activation under these conditions might be a slower growth rate produced by the secondary C-source , e.g. shifts to citrate or succinate ( Fig. 1b -- c ) . 
+To investigate this , we created a targeted deletion of the lamB gene to knock-out LamB production . 
+We targeted the lamB gene for several reasons . 
+First , it is not essential for the utilization of maltose , yet it is induced during shifts from glucose to maltose ( discussed above ) . 
+Second , a lamB : : Ω-Km mutant strain ( SMS871 ) exhibits virtually identical growth , compared to the wild-type parent strain , during glucose to maltose shifts ( Fig. 4a ) . 
+Furthermore , the situation for citrate or succinate utilization is problematic for this study . 
+Mutants of tctC , lacking the extracytoplasmic tricarboxylate-binding-protein/receptor component , are defective in citrate utilization ( Winnen et al. , 2003 ) , and thus may mimic conditions of C-starvation . 
+What 's more , succinate utilization in Salmonella is not very well characterized . 
+There are at least three putative C4-dicarboxylate-binding proteins in the S. Typhimurium genome ( McClelland et al. , 2001 ) , and the presence of C4-dicarboxylate PP - and/or OM-utilization components in S. Typhimurium as well as E. coli still requires clarification . 
+Deletion of one or more of the C4-dicarboxyate PP-binding proteins is likely to make the cells defective in succinate utilization similar to the scenario for citrate utilization . 
+As would be predicted from our hypothesis , the fold-induction of the σE-dependent promoter is reduced in a lamB knock-out mutant to ~ 50 % of the fold-induction levels seen in the wildtype parent : a twofold-induction compared to a fourfold-induction , respectively ( Fig. 4b ) . 
+Residual activation of σE may be the result of the production of MalE , the extracytoplasmic maltose-binding protein/receptor required for maltose utilization , as well as other maltodextrin-utilization proteins that are also expressed under these conditions ( Hall et al. , 1997 ) . 
+A previous study in E. coli found that at lower levels of expression a folding-defective MalE protein is degraded by DegP or Protease III ( Betton et al. , 1998 ) , supporting this idea . 
+Unfortunately , knocking-out a required utilization component , such as MalE , would prevent growth on the Csource , and would again mimic C-starvation . 
+But the fact that the loss of LamB production stifles the increase in σE activity normally seen during glucose to maltose shifts , yet the lamB mutant exhibits virtually indistinguishable growth rates under these conditions ( Fig. 4a ) , supports the hypothesis that one or more σE-regulated functions are needed for efficient LamB incorporation into the OM during this adaptation process . 
+To further demonstrate that up-regulated expression of LamB directly results in increased σE activity , we overproduced LamB from the arabinose-inducible araBAD promoter in pBAD33 ( Guzman et al. , 1995 ) . 
+As shown in Fig. 5 , increased σE activity was observed when we artificially overproduced LamB from an arabinose-inducible promoter ( SMS908 ) in the absence of glucose starvation or during a glucose to maltose shift ( Fig. 5b ) . 
+An increase in σE activity was not observed under these conditions in a strain lacking the pKS34 plasmid ( SMS760 ) , indicating that it is the overproduction of LamB and not the addition of arabinose itself that results in increased σE activity . 
+Furthermore , the increased levels of β-galactosidase activity observed with rising concentrations of arabinose in SMS908 ( Fig. 5b ) required a functional σE protein , since in similar experiments with the rpoE : : Ω-Kmr mutant SMS909 low but constant β-galactosidase activities ( approximately 10 Miller units ) , equivalent to a strain carrying the pRS1274 vector alone , were detected . 
+These results demonstrate that the inappropriate overproduction of LamB can also generate signals that result in a sustained increase in σE activity . 
+This is not that surprising since the artificial or inappropriate overproduction of several other outer-membrane proteins ( OMPs ) , including OmpC or OMP-like C-terminal peptides , can up-regulate σE activity through increased DegS-mediated proteolysis ( Ades et al. , 1999 ; Walsh et al. , 2003 ) . 
+An interesting difference in LamB is the absence of the Y-X-F [ Tyr-X-Phe ; where X can be several different amino acids such as Tyr ( Y ) or Gln ( Q ) ] C-terminus that OmpC and several other OMPs possess . 
+This is proposed to be the peptide signal/ligand that binds to the PDZ-domain of DegS , activating its protease activity ( Walsh et al. , 2003 ) . 
+Interestingly , the LamB protein ( accession no . 
+NP_463096 ) possesses a Q-M-E-I-W-W ( Gln-Met-Glu-Ile-Trp-Trp ) C-terminal pentapeptide that exhibits some similarity to the Φ-X-Φ [ where Φ is a hydrophobic residue such as Val ( V ) , Leu ( L ) , Ile ( I ) , Met ( M ) or Pro ( P ) ] ligand for the proposed class II PDZ-binding site ( Ponting , 1997 ; Songyang et al. , 1997 ) ; although the closest match is the M-E-I sequence two residues distal to the C-terminus of the protein . 
+This suggests that LamB generated-signals may differ , or work through different pathways from the typical C-terminal peptide signal or DegS-dependent pathways reported to result in σE activation . 
+Intriguingly , the C-terminal pentapeptide of the tricarboxylate-binding receptor TctC ( F-G-L-A-K , Phe-Glu-Leu-Ala-Lys ; accession no . 
+AAG31205 ) and the putative dicarboxylate-binding receptors STM3169 ( Y-I-E-N-M , Tyr-Ile-Glu-Asn-Met ; accession no . 
+NP_462084 ) , YiaO ( V-D-E-V-Q , Val-Asp-Glu-Val-Gln ; accession no . 
+NP_462573 ) and STM4054 ( Q-T-A-K-N , Gln-Thr-Ala-Lys-Asn ; accession no . 
+NP_462935 ) are also lacking the typical OMP-like C-terminal peptide sequence , again suggesting that alternative signals or DegS-independent pathways may be involved . 
+A question arises as to what σE-regulated functions might be involved in this adaptation process . 
+We are currently searching for these functions . 
+We do not believe them to be either DegP , FkpA or SurA since we have found that in S. Typhimurium they are not regulated by σE ( or C-starvation ) under the conditions tested here ( W. J. Kenyon , A. Stevenson , S. Humphreys , M. Roberts & M. P. Spector , unpublished data ) . 
+Thus , some alternative protease ( s ) , chaperone ( s ) , peptidyl-prolyl isomerase ( s ) or other function ( s ) as-yet-unidentified , would appear to be involved in the adaptation of the cell envelope to C-starvation conditions . 
+Studies in E. coli ( Ades et al. , 2003 ) identified trends in σE activity occurring before , during and after the inducing stress of high temperature . 
+During the initiation of the stress response , σE activity is elevated . 
+The activity remains elevated during the adaptation phase while the cell adapts to the stress . 
+When the stress is removed , σE activity drops below that seen in normal conditions , and then slowly rises to pre-stress levels . 
+A similar scenario can be postulated for shifts from glucose to maltose , for example , which even though not typically considered a 
+References 
+stress do require the cells to adapt to the change in growth conditions . 
+Interestingly , during Cstarvation σE levels are seen to continue to rise over a 48 -- 72 h period before levelling off ( Kenyon et al. , 2002 ) . 
+We report here that shifts from glucose to maltose , citrate or succinate , but not trehalose , mannose , mannitol , fructose , glycerol , L-arabinose , galactose or melibiose , result in a sustained elevation of σE activity . 
+The common feature of maltose , citrate and succinate utilization is the production of extracytoplasmic ( PP ) solute-receptors/binding proteins ( e.g. TctC ) and/or OM transport proteins or porins ( e.g. LamB ) . 
+The other secondary C-sources tested required either PEP : PTS-dependent-transport systems ( e.g. trehalose , mannose , mannitol and fructose ) or non-PTS IM-transport systems ( e.g. glycerol , L-arabinose , galactose and melibiose ) . 
+However , an extracytoplasmic component in their utilization systems is either absent , unknown or not expressed under the conditions tested in S. Typhimurium . 
+The findings presented here support the hypothesis that σE-regulated functions are needed for the adaptation of cells to new environmental conditions that necessitate changes in the extracytoplasmic compartment of the cell , i.e. OM or periplasm . 
+This implies that members of the σE regulon have functions beyond the repair or elimination of damaged extracytoplasmic proteins resulting from an environmental stress . 
+We thank Drs J. W. Foster , Z. Aliabadi , D. McGee and T. Testerman for helpful discussions and advice . 
+Portions of this research were supported by Public Health Service-NIAID grant AI060759-01 and National Science Foundation ( NSF ) grant MCB-9985981 ( to M. P. S. ) . 
+E. J. was also a participant of a Summer Research Program funded through a grant from the NSF-Research Experiences for Undergraduates ( REU ) Program . 
+Ades SE , Connelly LE , Alba BM , Gross CA . 
+The Escherichia coli σE-dependent extracytoplasmic stress response is controlled by the regulated proteolysis of an anti-σ factor . 
+Genes Dev 1999 ; 13:2449 -- 2461 . 
+[ PubMed : 10500101 ] Ades SE , Grigorova IL , Gross CA . 
+Regulation of the alternative sigma factor σE during initiation , adaptation , and shutoff of the extracytoplasmic heat shock response in Escherichia coli . 
+J Bacteriol 2003 ; 185:2512 -- 2519 . 
+[ PubMed : 12670975 ] Alba BM , Leeds JA , Onufryk C , Lu CZ , Gross CA . 
+DegS and YaeL participate sequentially in the cleavage of RseA to activate the σE-dependent extracytoplasmic stress response . 
+Genes Dev 2002 ; 16:2156 -- 2168 . 
+[ PubMed : 12183369 ] Benner-Luger D , Boos W . 
+The mglB sequence of Salmonella typhimurium LT-2 ; promoter analysis by gene fusions and evidence for a divergently oriented gene coding for the mgl repressor . 
+Mol Gen Genet 1988 ; 214:579 -- 587 . 
+[ PubMed : 3146019 ] Betton JM , Sassoon N , Hofnung M , Laurent M. Degradation versus aggregation of misfolded maltosebinding protein in the periplasm of Escherichia coli . 
+J Biol Chem 1998 ; 273:8897 -- 8902 . 
+[ PubMed : 9535871 ] Braun V , Braun M. Iron transport and signaling in Escherichia coli . 
+FEBS Lett 2002 ; 529:78 -- 85 . 
+[ PubMed : 12354617 ] Chan RK , Botstein D , Watanabe T , Ogata Y. Specialized transduction of tetracycline resistance by phage P22 in Salmonella typhimurium . 
+II . 
+Properties of a high-frequency-transducing lysate . 
+Virology 1972 ; 50:883 -- 898 . 
+[ PubMed : 4565618 ] Danese PN , Silhavy TJ . 
+The σE and the Cpx signal transduction systems control the synthesis of periplasmic protein-folding enzymes in Escherichia coli . 
+Genes Dev 1997 ; 11:1183 -- 1193 . 
+[ PubMed : 9159399 ] Dartigalongue C , Missiakas D , Raina S. Characterization of the Escherichia coli σE regulon . 
+J Biol Chem 2001 ; 276:20866 -- 20875 . 
+[ PubMed : 11274153 ] 
+Datsenko KA , Wanner BL . 
+One-step inactivation of chromosomal genes in Escherichia coli K-12 using PCR products . 
+Proc Natl Acad Sci U S A 2000 ; 97:6640 -- 6645 . 
+[ PubMed : 10829079 ] Davies SJ , Golby P , Omrani D , Broad SA , Harrington VL , Guest JR , Kelly DJ , Andrews SC . 
+Inactivation and regulation of the aerobic C4-dicarboxylate transport ( dctA ) gene of Escherichia coli . 
+J Bacteriol 1999 ; 181:5624 -- 5635 . 
+[ PubMed : 10482502 ] De Las Penas A , Connelly L , Gross CA . 
+The σE-mediated response to extracytoplasmic stress in Escherichia coli is transduced by RseA and RseB , two negative regulators of σE . 
+Mol Microbiol 1997 ; 24:373 -- 385 . 
+[ PubMed : 9159523 ] Erickson JW , Gross CA . 
+Identification of the σE subunit of Escherichia coli RNA polymerase : a second alternate sigma factor involved in high-temperature gene expression . 
+Genes Dev 1989 ; 3:1462 -- 1471 . 
+[ PubMed : 2691330 ] Fang FC , Libby SJ , Buchmeier NA , Loewen PC , Switala J , Harwood J , Guiney DG . 
+The alternative σ factor KatF ( RpoS ) regulates Salmonella virulence . 
+Proc Natl Acad Sci USA 1992 ; 89:11978 -- 11982 . 
+[ PubMed : 1465428 ] Fischer D , Teich A , Neubauer P , Hengge-Aronis R . 
+The general stress sigma factor σS of Escherichia coli is induced during diauxic shift from glucose to lactose . 
+J Bacteriol 1998 ; 180:3203 -- 3206 . 
+Guzman LM , Belin D , Carson MJ , Beckwith J. Tight regulation , modulation , and high-level expression by vectors containing the arabinose PBAD promoter . 
+J Bacteriol 1995 ; 177:4121 -- 4130 . 
+[ PubMed : 7608087 ] Hall JA , Gehring K , Nikaido H. Two modes of ligand binding in maltose-binding protein of Escherichia coli . 
+Correlation with the structure of ligands and the structure of binding protein . 
+J Biol Chem 1997 ; 272:17605 -- 17609 . 
+[ PubMed : 9211908 ] Horazdovsky BF , Hogg RW . 
+Genetic reconstitution of the high-affinity l-arabinose transport system . 
+J Bacteriol 1989 ; 171:3053 -- 3059 . 
+[ PubMed : 2656640 ] Hoseith SK , Stocker BAD . 
+Aromatic-dependent Salmonella typhimurium are non-virulent and effective as live vaccines . 
+Nature 1981 ; 291:238 -- 239 . 
+[ PubMed : 7015147 ] Humphreys S , Stevenson A , Bacon A , Weinhardt AB , Roberts M . 
+The alternative sigma factor , σE , is critically important for the virulence of Salmonella Typhimurium . 
+Infect Immun 1999 ; 67:1560 -- 1568 . 
+[ PubMed : 10084987 ] Humphreys S , Rowley G , Stevenson A , Kenyon WJ , Spector MP , Roberts M . 
+The role of periplasmic peptidyl-prolyl-isomerases in Salmonella virulence . 
+Infect Immun 2003 ; 71:5386 -- 5388 . 
+[ PubMed : 12933889 ] Janausch IG , Zientz E , Tran QH , Kröger A , Unden G. C4-dicarboxylate carriers and sensors in bacteria . 
+Biochim Biophys Acta 2002 ; 1553:39 -- 56 . 
+[ PubMed : 11803016 ] Jones CH , Danese PN , Pinkner JS , Silhavy TJ , Hultgren SJ . 
+The chaperone-assisted membrane release and folding pathway is sensed by two signal transduction systems . 
+EMBO J 1997 ; 16:6394 -- 6406 . 
+[ PubMed : 9351822 ] Kehres DG , Hogg RW . 
+Escherichia coli K-12 arabinose-binding protein mutants with altered transport properties . 
+Protein Sci 1992 ; 1:1652 -- 1660 . 
+[ PubMed : 1304895 ] Kenyon WJ , Sayers DG , Humphreys S , Roberts M , Spector MP . 
+The starvation-stress response of Salmonella enterica serovar Typhimurium requires σE , but not CpxR-regulated extra-cytoplasmic functions . 
+Microbiology 2002 ; 148:113 -- 122 . 
+[ PubMed : 11782504 ] Lawhon SD , Frye JG , Suyemoto M , Porwollik S , McClelland M , Altier C. Global regulation by CsrA in Salmonella typhimurium . 
+Mol Microbiol 2003 ; 48:1633 -- 1645 . 
+[ PubMed : 12791144 ] Lo TC . 
+The molecular mechanism of dicarboxylic acid transport in Escherichia coli K-12 . 
+J Supramol Struct 1977 ; 7:463 -- 480 . 
+[ PubMed : 357845 ] Lo TC , Bewick MA . 
+Use of a nonpenetrating substrate analogue to study the molecular mechanism of the outer membrane dicarboxylate transport system in Escherichia coli K-12 . 
+J Biol Chem 1981 ; 256:5511 -- 5517 . 
+[ PubMed : 6165716 ] Maloy , S. R. ( 1990 ) . 
+Experimental Techniques in Bacterial Genetics Boston , MA : Jones & Bartlett . 
+McClelland M , Sanderson KE , Spieth J. 23 other authors . 
+Complete genome sequence of Salmonella enterica serovar Typhimurium LT2 . 
+Nature 2001 ; 413:852 -- 856 . 
+[ PubMed : 11677609 ] 
+Mecsas J , Rouviere PE , Erickson JW , Donohue TJ , Gross CA . 
+The activity of σE , an Escherichia coli heat-inducible σ-factor , is modulated by expression of outer membrane proteins . 
+Genes Dev 1993 ; 7:2618 -- 2628 . 
+[ PubMed : 8276244 ] Mecsas J , Welch R , Erickson JW , Gross CA . 
+Identification and characterization of an outer membrane protein , OmpX , in Escherichia coli that is homologous to a family of outer membrane proteins including Ail of Yersinia enterocolitica . 
+J Bacteriol 1995 ; 177:799 -- 804 . 
+[ PubMed : 7836315 ] Miller , J. H. ( 1992 ) . 
+A Short Course in Bacterial Genetics : a Laboratory Manual and Handbook for Escherichia coli and Related Bacteria Cold Spring Harbor , NY : Cold Spring Harbor Laboratory . 
+Missiakas D , Betton JM , Raina S. New components of protein folding in extracytoplasmic compartments of Escherichia coli SurA , FkpA and Skp/OmpH . 
+Mol Microbiol 1996 ; 21:871 -- 884 . 
+[ PubMed : 8878048 ] Missiakas D , Mayer MP , Lemaire M , Georgopoulos C , Raina S. Modulation of the Escherichia coli σE ( RpoE ) heat-shock transcription-factor activity by the RseA , RseB and RseC proteins . 
+Mol Microbiol 1997 ; 24:355 -- 371 . 
+[ PubMed : 9159522 ] Miticka H , Rowley G , Rezuchova B , Homerova D , Humphreys S , Farn J , Roberts M , Kormanec J. Transcriptional analysis of the rpoE gene encoding extracytoplasmic stress response sigma factor sigma E in Salmonella enterica serovar Typhimurium . 
+FEMS Microbiol Lett 2003 ; 226:307 -- 314 . 
+[ PubMed : 14553927 ] Moat , A. G. , Foster , J. W. & Spector , M. P. ( 2002 ) . 
+Microbial Physiology , 4th edn . 
+New York : Wiley-Liss . 
+Muller N , Heine HG , Boos W. Characterization of the Salmonella typhimurium mgl operon and its gene products . 
+J Bacteriol 1985 ; 163:37 -- 45 . 
+[ PubMed : 3924896 ] Neidhardt FC , Bloch PL , Smith DF . 
+Culture medium for enterobacteria . 
+J Bacteriol 1974 ; 119:736 -- 747 . 
+[ PubMed : 4604283 ] Notley L , Ferenci T. Differential expression of mal genes under cAMP and endogenous inducer control in nutrient-stressed Escherichia coli . 
+Mol Microbiol 1995 ; 16:121 -- 129 . 
+[ PubMed : 7651130 ] O'Neal CR , Gabriel WM , Turk AK , Libby SJ , Fang FC , Spector MP . 
+RpoS is necessary for both positive and negative regulation of starvation-survival genes during phosphate , carbon , and nitrogen starvation in Salmonella typhimurium . 
+J Bacteriol 1994 ; 176:4610 -- 4616 . 
+[ PubMed : 8045891 ] Ponting CP . 
+Evidence for PDZ domains in bacteria , yeast , and plants . 
+Protein Sci 1997 ; 6:464 -- 468 . 
+[ PubMed : 9041651 ] Postma PW . 
+Galactose transport in Salmonella typhimur-ium . 
+J Bacteriol 1977 ; 129:630 -- 639 . 
+[ PubMed : 190207 ] Postma PW , Lengeler JW , Jacobson GR . 
+Phosphoenolpyruvate : carbohydrate phosphotransferase systems of bacteria . 
+Microbiol Rev 1993 ; 57:543 -- 594 . 
+[ PubMed : 8246840 ] Rabus R , Jack DL , Kelly DJ , Saier MH Jr. . 
+TRAP transporters : an ancient family of extracytoplasmic solute-receptor-dependent secondary active transporters . 
+Microbiology 1999 ; 145:3431 -- 3445 . 
+[ PubMed : 10627041 ] Schulein K , Benz R. LamB ( maltoporin ) of Salmonella typhimurium : isolation , purification and comparison of sugar binding with LamB of Escherichia coli . 
+Mol Microbiol 1990 ; 4:625 -- 632 . 
+[ PubMed : 1693746 ] Seymour RL , Mishra PV , Khan MA , Spector MP . 
+Essential roles of core starvation-stress response loci in carbon-starvation-inducible cross-resistance and hydrogen peroxide-inducible adaptive resistance to oxidative challenge in Salmonella typhimurium . 
+Mol Microbiol 1996 ; 20:497 -- 505 . 
+[ PubMed : 8736529 ] Simons RW , Houman F , Kleckner N. Improved single and multi-copy lac-based cloning vectors for protein and operon fusions . 
+Gene 1987 ; 53:85 -- 96 . 
+[ PubMed : 3596251 ] Songyang Z , Fanningm AS , Fu C. 7 other authors . 
+Recognition of unique carboxyl-terminal motifs by distinct PDZ domains . 
+Science 1997 ; 275:73 -- 77 . 
+[ PubMed : 8974395 ] Spector MP . 
+The starvation-stress response ( SSR ) of Salmonella . 
+Adv Microb Physiol 1998 ; 40:235 -- 279 . 
+Spector MP , Cubitt CL . 
+Starvation-inducible loci of Salmonella typhimurium , regulation and roles in starvation survival . 
+Mol Microbiol 1992 ; 6:1467 -- 1476 . 
+[ PubMed : 1320726 ] 
+Spector MP , Park YK , Tirgari S , Gonzalez T , Foster JW . 
+Identification and characterization of starvationregulated genetic loci in Salmonella typhimurium by using Mu d-directed lacZ operon fusion . 
+J Bacteriol 1988 ; 170:345 -- 351 . 
+[ PubMed : 3275619 ] Spector MP , DiRusso CC , Pallen MJ , Garcia del Portillo F , Dougan G , Finlay BB . 
+The medium - / long-chain fatty acyl-CoA dehydrogenase ( fadF ) gene of Salmonella typhimurium is a phase 1 starvationstress response ( SSR ) locus . 
+Microbiology 1999a ; 145:15 -- 31 . 
+[ PubMed : 10206693 ] Spector MP , Garcia del Portillo F , Bearson SM , Mahmud A , Magut M , Finlay BB , Dougan G , Foster JW , Pallen MJ . 
+The rpoS-dependent starvation-stress response locus stiA encodes a nitrate reductase ( narZYWV ) required for carbon-starvation-inducible thermotolerance and acid tolerance in Salmonella typhimurium . 
+Microbiology 1999b ; 145:3035 -- 3045 . 
+[ PubMed : 10589711 ] Tanaka K , Takayanagi Y , Fujita N , Ishihama A , Takahashi H. Heterogeneity of the principal σ factor in Escherichia coli : the rpoS gene product , σ38 , is a second principal factor of RNA polymerase in stationary-phase Escherichia coli . 
+Proc Natl Acad Sci U S A 1993 ; 90:3511 -- 3515 . 
+[ PubMed : 8475100 ] Testerman TL , Vasquez-Torres A , Xu Y , Jones-Carson J , Libby SJ , Fang FC . 
+The alternative sigma factor σE controls antioxidant defences required for Salmonella virulence and stationary-phase survival . 
+Mol Microbiol 2002 ; 43:771 -- 782 . 
+[ PubMed : 11929531 ] Walsh NP , Alba BM , Bose B , Gross CA , Sauer RT. . 
+OMP peptide signals initiate the envelope-stress response by activating DegS protease via relief of inhibition mediated by its PDZ domain . 
+Cell 2003 ; 113:61 -- 71 . 
+[ PubMed : 12679035 ] Winnen B , Hvorup RN , Saier MH Jr. . 
+The tripartite tricarboxylate transporter ( TTT ) family . 
+Res Microbiol 2003 ; 154:457 -- 465 . 
+[ PubMed : 14499931 ] Widenhorn KA , Somers JM , Kay WW . 
+Expression of the divergent tricarboxylate transport operon ( tctI ) of Salmonella typhimurium . 
+J Bacteriol 1988 ; 170:3223 -- 3227 . 
+[ PubMed : 2838461 ] 
+Growth and σE activation during shifts from glucose to ( a ) no secondary C-source ( early Cstarvation ) , ( b ) maltose , ( c ) citrate and ( d ) succinate . 
+Graphs represent growth ( OD600 ) ( • ) and σE activation ( ▪ ) as reported by measuring lacZ expression ( β-galactosidase activity ) driven by a σE-dependent promoter . 
+β-Galactosidase activity is monitored using the method of Miller ( 1992 ) and is given in Miller units . 
+Data for β-galactosidase activities represent means ± SEM ( n ≥ 3 ) . 
+Growth and σE activation during shifts from glucose to ( a ) melibiose and ( b ) L-arabinose . 
+Graphs represent growth ( OD600 ) ( • ) and σE activation ( ▪ ) as reported by measuring lacZ expression ( β-galactosidase activity ) driven by a σE-dependent promoter . 
+β-Galactosidase activity is monitored using the method of Miller ( 1992 ) and is given in Miller units . 
+OD600 values above 2 · 0 are not plotted . 
+Data for β-galactosidase activities represent means ± SEM ( n ≥ 3 ) . 
+Effect of a lamB knock-out mutation on σE activation during shifts from glucose to maltose utilization . 
+( a ) Growth ( inset ) and ( b ) σE activation , reported as fold-induction from a σE-dependent promoter , during shifts from glucose to maltose in the wild-type lamB + strain ( SMS760 ) ( • ) and ΔlamB mutant derivative ( SMS874 ) ( ○ ) . 
+Time zero represents the initiation of the diauxic lag period . 
+Fold-induction was calculated by dividing the value at each time point by the value at time zero . 
+Promoter activity is reported by measuring lacZ expression ( β-galactosidase activity ) driven by the σE-dependent rpoE promoter . 
+β-Galactosidase activity was determined using the method of Miller ( 1992 ) . 
+Data presented represent mean fold-inductions from at least three independent experiments . 
+The SEM for the data points is ≥ 24 % of the mean . 
+Effect of overproduction of LamB in LB medium . 
+( a ) Photograph of strains rpoE + ( pKS34 , pRS1274 ) ( 1 ) , rpoE + ( pKS34 , pTF-p2 ) ( 2 ) and rpoE : : Ω-Kmr ( pKS34 , pTF-p2 ) ( 3 ) . 
+Strains were streaked onto MacConkey-lactose agar , and a disk saturated with 0 · 25 % ( w/v ) L-arabinose was placed in the centre of the plate . 
+Production of β-galactosidase activity is indicated by the appearance of a red colour ( seen here as dark grey ) in the streak and the agar surrounding the streak . 
+( b ) β-Galactosidase activity from pTF-p2 alone ( SMS760 , • ) , and from pTF-p2 in response to increasing amounts of arabinose-induced expression of LamB from pKS34 ( SMS908 , ○ ) . 
+β-Galactosidase activity is monitored using the method of Miller ( 1992 ) and is given in Miller units . 
+Data for β-galactosidase activities represent means ± SEM ( n ≥ 3 ) .

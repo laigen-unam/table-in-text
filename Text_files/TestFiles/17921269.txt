@@ -1,0 +1,928 @@
+APPLIED AND ENVIRONMENTAL MICROBIOLOGY , Dec. 2007 , p. 7522 -- 7530 0099-2240 / 07 / $ 08.00 0 doi :10.1128 / AEM.01481-07 Copyright © 2007 , American Society for Microbiology . 
+All Rights Reserved . 
+Genome-
+Wide Screen of Salmonella Genes Expressed during Infection in Pigs , Using In Vivo Expression Technology Yanyan Huang ,1,2 Christopher L. Leming ,2 Mitsu Suyemoto ,2 and Craig Altier1 * Department of Population Medicine and Diagnostic Sciences , Cornell University , Ithaca , New York 14853,1 and College of Veterinary Medicine , North Carolina State University , Raleigh , North Carolina 276062 
+Received 2 July 2007/Accepted 26 September 2007 
+Pigs are a food-producing species that readily carry Salmonella but , in the great majority of cases , do not show clinical signs of disease . 
+Little is known about the functions required by Salmonella to be maintained in pigs . 
+We have devised a recombinase-based promoter-trapping strategy to identify genes with elevated expression during pig infection with Salmonella enterica serovar Typhimurium . 
+A total of 55 clones with in vivo-induced promoters were selected from a genomic library of 10,000 random Salmonella DNA fragments fused to the recombinase cre , and the cloned DNA fragments were analyzed by sequencing . 
+Thirty-one genes encoding proteins involved in bacterial adhesion and colonization ( including bcfA , hscA , rffG , and yciR ) , virulence ( metL ) , heat shock ( hscA ) , and a sensor of a two-component regulator ( hydH ) were identiﬁed . 
+Among the 55 clones , 19 were isolated from both the tonsils and the intestine , while 23 were identiﬁed only in the intestine and 13 only in tonsils . 
+High temperature and increased osmolarity were identiﬁed as environmental signals that induced in vivo-expressed genes , suggesting possible signals for expression . 
+Serovars of Salmonella enterica infect a variety of hosts , from domestic livestock to humans . 
+The outcomes of Salmonella infection can range from asymptomatic carriage to severe disease . 
+The two common disease syndromes caused by Salmo-nella , septicemia and enteritis , have been actively studied , the former through the use of a mouse model and the latter primarily with calves ( 23 , 38 , 57 , 85 ) . 
+After decades of effort , the genetic factors utilized by Salmonella to cause both enteric and systemic infection are becoming clearer . 
+Salmonella pathoge-nicity islands ( SPI ) 1 through 5 have been shown to be required for functions essential to Salmonella virulence , including the penetration of epithelial cells and survival in macrophages ( 6 , 11 , 23 , 30 , 45 , 58 ) . 
+Thus , these SPIs are essential to producing overt disease in a wide range of animal species . 
+Another important aspect of Salmonella infection is its persistence and asymptomatic carriage in animals that serve as reservoirs for contamination of human food . 
+Salmonellosis remains the leading cause of death and is second only to campylobacterosis in illness numbers in the United States among bacterial food-borne diseases ( 54 ) . 
+Pigs are a foodproducing species that readily carry Salmonella but , in the great majority of cases , do not show clinical signs of diseases . 
+Surveys have shown that up to six serotypes can be isolated from clinically normal pigs on a single farm ( 16 ) . 
+Pork products were implicated in 2.9 % of all Salmonella outbreaks during the years 1983 to 1987 ( 82 ) . 
+Between 1988 and 1992 , 18 % of the outbreaks caused by consumption of contaminated meat that were reported to the CDC were due to ham and pork ( 5 ) . 
+Swine also shed antimicrobial-resistant Salmonella that pose a threat to food safety . 
+With increasing frequency , Salmonella 
+* Corresponding author . 
+Mailing address : Department of Population Medicine and Diagnostic Sciences , College of Veterinary Medicine , Cornell University , Ithaca , NY 14853 . 
+Phone : (607) 253-3926 . 
+Fax : (607) 253-3907 . 
+E-mail : ca223@cornell.edu . 
+Published ahead of print on 5 October 2007 . 
+isolates obtained from pigs are resistant to one or multiple antimicrobials . 
+Recent studies have shown that at least half , and in some cases over 90 % , of Salmonella isolates obtained from commercially raised swine in the United States are multiresistant ( 20 , 27 ) . 
+Therefore , the high rate of unapparent infections makes pigs potential incubators of Salmonella , allowing the expansion of bacterial populations and threatening human health . 
+It also makes pigs an important species for the study of mechanisms by which Salmonella is maintained in animal species that fail to show overt disease . 
+To effectively survive and persist in animals , Salmonella must coordinate gene expression in response to varied environments during the process of infection . 
+Little is known about genetic factors required for Salmonella carriage in clinically healthy animal hosts with persistent shedding of bacteria in feces . 
+A characteristic that all Salmonella infections share is colonization of the gastrointestinal tract , and so genetic factors important for colonization may be required . 
+In chickens , another important species carrying Salmonella without causing overt disease , mutants of lipopolysaccharide biosynthesis have shown reduced intestinal colonization ( 13 , 14 , 87 ) . 
+Fimbrial adhesions are also thought to be potential factors for mediating attachment to intestinal surfaces by S. enterica serovar Typhimurium ( 1 , 10 , 35 ) , and there is evidence that nonmotile mutants of Salmonella are deﬁcient in colonization ( 4 ) . 
+However , the colonization factors of Salmonella are thought to be host speciﬁc ( 10 , 59 , 74 , 86 ) . 
+It is thus unknown whether the genetic factors required for Salmonella persistence in pigs differ from those of other animal species . 
+Besides the genetic factors , a variety of environmental conditions present within animal hosts have been shown to provide signals that control Salmonella gene expression . 
+An early step in the pathogenesis of Salmonella infection is bacterial penetration of the intestinal epithelium . 
+Many of the genes required for epithelial penetration are found within SPI1 . 
+It has been demonstrated that the regulation of invasion genes requires a coordinated response to varied environmental signals . 
+Low oxygen tension and high osmolarity , conditions of the ileum , have been implicated in the induction of SPI1 invasion genes ( 3 ) . 
+Transcription of invasion genes has also been shown to be repressed by bile ( 65 ) , and we have previously shown that acetate can induce invasion gene expression in Salmonella ( 41 ) . 
+The environmental conditions present in animals thus might also provide plausible signals for other Salmonella functions required for life in animal hosts . 
+The goal of the current study was to identify Salmonella genes induced during infection of the pig and the environmental signals plausibly inducing the expression of those in vivo-induced genes . 
+In the past decade , many techniques have been developed to study bacterial genes that are expressed during infection of animal hosts , such as signature-tagged mutagenesis ( 87 ) , differential ﬂuorescence induction ( 88 ) , in vivo expression technology ( 49 ) , and microarray analysis ( 42 ) . 
+Here , we have used a recombinase-based in vivo expression technology in combination with a signature-tagging approach to identify genes expressed during infection of pigs with Salmonella enterica serovar Typhimurium as a means to identify genes that may be important for Salmonella carriage in pigs . 
+The results indicate that S. enterica serovar Typhimurium induces a variety of genes in this animal host , including those involved in adhesion , two-component regulation , survival in macrophages , and anaerobic metabolism , as well as unknown functions . 
+Furthermore , we demonstrate that environmental conditions present in pigs , elevated temperature and increased osmolarity , induce the expression of some of these in vivo-induced genes . 
+752 
+FIG. 1 . 
+Identiﬁcation of in vivo-induced genes . 
+A genomic library of approximately 10,000 random Salmonella DNA fragments was fused to cre and preselected on kanamycin ( Kanr ) to eliminate constitutive promoters from the population . 
+The library was then administered to two pigs , and the intestinal contents were cultured on selective me-dium containing 5 % sucrose ( Sucr ) , selecting for bacteria that lost the loxP cassette , along with the intervening sacB , due to the differential expression of cre . 
+Each plasmid was reintroduced into the strain carrying the intact loxP cassette by P22 transduction ; of 173 transductants , 154 remained kanamycin resistant . 
+These were divided into groups of 20 to 35 each , and each group was used to infect two pigs . 
+Sucrose-resistant Salmonella isolates were isolated from the ileum and the tonsils , and these were used to make pooled probes by PCR amplifying the cloned fragments of each . 
+Probes were used in colony blots to determine which members of the input pool had reproducibly converted to sucrose resistance after animal infection , producing 55 promoter fragments that were expressed again in both of the pigs that had received the bacterial pool . 
+MATERIALS AND METHODS
+Library screening for in vivo-induced genes . 
+For the screening approach , we used a recombinase-based system previously developed to identify differentially expressed Salmonella genes ( 2 ) . 
+This system consists of a cassette integrated into the Salmonella chromosome that harbors npt , encoding kanamycin resistance , and sacB , for sucrose susceptibility , ﬂanked by a pair of loxP sites . 
+On a plasmid is a promoterless derivative of cre encoding the Cre recombinase of phage P1 that recognizes the loxP sites as its targets . 
+The fusion of an active promoter to cre induces recombination of the two loxP sites and deletion of the intervening DNA , allowing selection on sucrose . 
+Fusion of promoters active only when exposed to a speciﬁc environment , in this case after infection of pigs , induces bacterial conversion to sucrose resistance only after bacteria have been exposed to that environment , thus selecting for differentially expressed bacterial genes . 
+We created a library of Salmonella genomic DNA fragments by partial digestion of total genomic DNA from S. enterica serovar Typhimurium strain 798 , originally isolated from a pig ( 93 ) , with HaeIII , AluI , or RsaI and then size fractionated the DNA to isolate fragments of 1 to 2 kb ( Fig. 1 ) . 
+These three libraries were pooled and fragments were cloned into the PmlI site of the ampicillinmarked plasmid pCA19 , placing them upstream of a promoterless derivative of the phage P1 recombinase cre . 
+A derivative of strain ATCC 14028s carrying a chloramphenicol resistance marker and a pair of chromosomal loxP sites ﬂanking npt ( kanamycin resistance ) and sacB ( sucrose susceptibility ) was transformed with this library , with an initial selection on morpholinepropanesulfonic acid ( MOPS ) minimal agar with ampicillin ( 100 g/ml ) , kanamycin ( 50 g/ml ) , and chloramphenicol ( 25 g/ml ) . 
+( Strain ATCC 14028s was used in these experiments because strain 798 carrying the sacB cassette proved not to be sucrose susceptible ; ATCC 14028s also infects pigs in high numbers , similar to strain 798 . ) 
+Selection on kanamycin removed constitutively active promoters from the library , thus leaving DNA fragments with no promoter activity and regulated promoters not expressed on laboratory media . 
+Approximately 104 independent library transformants were pooled for administration to pigs . 
+Approximately 1 1010 bacteria , representing this pool of 104 clones , were administered orally to two 7-week-old pigs . 
+After 48 h , the pigs were sacriﬁced and the contents of the entire intestinal tract were harvested . 
+Cecal and colonic contents were diluted in phosphate-buffered saline , passed through a gauze ﬁlter , and then centrifuged to concentrate bacteria . 
+Ileal contents were in a small volume and of liquid consistency and so were used directly . 
+All samples were plated onto salmonella-shigella agar with added chloramphenicol , ampicil-lin , and 5 % sucrose . 
+On this medium , only bacteria that had lost the loxP cassette , along with the intervening sacB , should have been present due to the differential expression of cre . 
+The loss of the loxP cassette was veriﬁed by susceptibility to kanamycin . 
+We further conﬁrmed the size of all in vivo-induced fragments to be in the range of 1 to 2 kb by PCR ampliﬁcation using primers homologous to sequence that ﬂanks the inserted fragment . 
+Veriﬁcation of in vivo induction . 
+Plasmids carrying in vivo-induced genes were individually reintroduced into the strain with the intact chromosomal loxP gene cassette by transduction with phage P22 . 
+Only the transductants remaining kanamycin resistant when grown on MOPS minimal medium were retained for further study . 
+We next tested the gene expression of those transductants in pigs again , using a modiﬁed signature-tagging method . 
+A sample of an overnight culture of each strain was ﬁxed to a nylon membrane using a dot blot apparatus according to the manufacturer 's directions ( Millipore , Billerica , MA ) . 
+The membranes were incubated with the colony side up in denaturing solution ( 0.5 M NaOH , 1.5 M NaCl ) for 5 minutes twice and in neutralizing solution ( 0.5 M Tris pH 7.5 , 1.5 M NaCl ) for 10 minutes twice . 
+Membranes were washed with 2 SSC ( 1 SSC is 0.15 M NaCl plus 0.015 M sodium citrate ) and were then ﬁxed by UV cross-linking at 1,200 W. Each strain was applied to ﬁve membranes ; each membrane contained 20 to 35 strains . 
+Equal volumes of these 20 to 35 strains were pooled to create an inoculum for two 7-week-old pigs , with each pig receiving approximately 1 1010 bacteria . 
+After 48 h , the pigs were sacriﬁced 
+The contents of 10 to 15 cm of the distal ileum were harvested , diluted in MOPS minimal base , passed through a ﬁlter stomacher bag , and then centrifuged to concentrate bacteria . 
+For tonsil samples , both sides of the tonsils of the soft palate were swabbed using two cotton swabs , which were washed with MOPS minimal base and centrifuged to concentrate bacteria . 
+All samples were plated onto salmonella-shigella agar with added chloramphenicol ( for the chromosomal marker ) , ampicillin ( for the plasmid marker ) , and 5 % sucrose . 
+Sucrose-resistant bacteria were recovered as four output pools , one each for the ileum and the tonsils for each pig . 
+Plasmid DNA was prepared from the inoculated and output pools using a Qiagen ( Valencia , CA ) plasmid midi kit . 
+The DNA inserts present in the pools were PCR ampliﬁed using the single primer 5 - GCGGCCGCACG TGCGGCCGC , homologous to sequence that ﬂanks the inserted DNA fragment on both its ends in pCA19 . 
+PCR products were puriﬁed using a Qiagen PCR puriﬁcation kit . 
+The puriﬁed PCR products were labeled using a second PCR ampliﬁcation with a digoxigenin ( DIG ) probe synthesis kit ( Roche Applied Science , Indianapolis , IN ) , and these PCR products were used as probes to hybridize to the membrane containing the corresponding inoculated bacteria for each pig . 
+We hybridized membranes with probes from ﬁve sources : one made from the input pool , two made from the output pools for the tonsils ( one from each pig ) , and two for the intestinal contents ( one from each pig ) . 
+Hybridizations were performed using DIG Easy Hyb ( Roche Applied Science , Indianapolis , IN ) overnight at 42 °C , and a DIG wash and block buffer set and biotin luminescence detection kit were used according to the manufacturer 's directions for washing and detection . 
+Blots were detected using a luminescence imager ( Lumi-Imager ; Boehringer Mannheim ) . 
+Sequencing . 
+Sequences were obtained using an Applied Biosystems ( Foster City , CA ) 3130xl genetic analyzer or by the MClab DNA Sequencing Service ( San Francisco , CA ) . 
+The sequencing primers were 5 - CATTTTCCAGGTATG CTCAG , which is located in cre , and 5 - AGTAGGTTGAGGCCGTTG , located upstream from the inserted DNA fragment in pCA19 . 
+The location of each of the cloned fragments was determined by comparison to the sequenced genome of S. enterica serovar Typhimurium strain LT2 ( GenBank accession number AE006468 ) . 
+- Galactosidase assays . 
+- Galactosidase assays were performed using an enhanced - galactosidase assay kit with chlorophenol red - - D-galactopyranoside ( CRPG ) following the manufacturer 's directions ( Genlantis , San Diego , CA ) for a 96-well microtiter plate assay , with minor alterations . 
+We used one drop of chloroform and one drop of 0.1 % sodium dodecyl sulfate to lyse cells . 
+Levels of - galactosidase expression were measured by the catalytic hydrolysis of the CRPG substrate to a dark red product . 
+The - galactosidase levels were calculated using the following equation : - galactosidase ( 1,000 absorbance at 595 nm ) / [ ( sample volume ) ( duration of reaction ) ( absorbance at 600 nm ) ] . 
+Absorbance was read using a Power Wave Xs 96-well plate reader ( Bio-Tek Instruments Inc. , Winooski , VT ) . 
+To assess the effect of temperature on gene expression , strains were grown in 96-well sealed plates as standing overnight cultures in LB broth at 30 °C , 37 °C , and 42 °C . 
+To test the effects of osmolarity , strains were grown aerobically in 96-well plates as standing overnight cultures in MOPS minimal medium at 37 °C with or without the addition of 0.4 M NaCl . 
+Triplicate cultures of each strain were assayed for lacZ expression by CRPG-enhanced - galactosidase assays . 
+Statistical analysis . 
+For - galactosidase assays , two-sample t tests were performed to determine which means differed at a P level of 0.05 , using the SAS System for Windows 8 and MINITAB release 14 . 
+RESULTS AND DISCUSSION
+Recombinase-based screening for in vivo-induced genes in the pig . 
+The high rate of unapparent infections makes pigs potential incubators of Salmonella , allowing the expansion of bacterial populations in the animal host . 
+Therefore , we sought to establish an experimental model using pigs to study mechanisms of Salmonella infection in clinically healthy animals . 
+We reasoned that there might be bacterial genes required for survival that are expressed speciﬁcally in pigs . 
+We selected 55 cloned fragments from a genomic library of 10,000 fragments by using a recombinase-based system that we had previously developed to identify Salmonella genes that are differently expressed when bacteria are exposed to speciﬁc environmental conditions ( 2 ) ( Fig. 1 ) . 
+Of these , 19 were isolated from both the tonsils and the intestine , while 23 were identiﬁed only in the intestine and 13 only in tonsils . 
+To characterize these in vivoexpressed genes , we sequenced the cloned fragments and compared them to the Salmonella genome database ( 53 ) . 
+Thirtyone cloned fragments of the 55 clones corresponded to 32 unique genes with known or putative functions ( Table 1 ) , as some clones carried more than one gene and some clones were found more than once . 
+Six of the cloned fragments , corresponding to hydH , hpaB/hpaR , wecC/rffG , yciR , STM1731 , and STM0611/0612/0613 , were found twice , and one cloned fragment containing three genes ( STM2755/2756/2757 ) was found three times . 
+In addition , 21 clones found in this screen , representing 18 chromosomal loci , were in an orientation relative to cre opposite to that of the annotated gene predicted to be carried on the fragment ( see details below ) . 
+Among those reverse-oriented fusions , ygiK was recovered four times independently , as it occurred on fragments of different sizes , while rpoN and STM1368 were similarly independently identiﬁed twice . 
+Besides the 31 clones with known functions and 21 clones with reverse-oriented fusions , we failed to obtain readable sequences for 3 cloned fragments . 
+These results therefore show that by using a promoter trap strategy in combination with a signature-tagging approach , large Salmonella genomic libraries can be produced and screened to identify in vivo-induced genes . 
+Genes for synthesis of ﬁmbriae and lipopolysaccharide . 
+Three genes identiﬁed by this screen have previously been implicated in the colonization of animals ( 33 , 84 , 87 ) . 
+One cloned fragment included bcfA , encoding a ﬁmbrial subunit . 
+Fimbriae have been shown to function as intestinal colonization factors in Salmonella serovars ( 35 , 79 , 80 ) . 
+The expression of serotype Typhimurium ﬁmbrial antigens is induced during the infection of mice ( 33 ) . 
+bcfA is speciﬁcally expressed during the infection of bovine ligated ileal loops , but not in vitro ( 34 ) . 
+One other cloned locus found in this screen included two adjacent genes , wecC and rffG , involved in the production of enterobacterial common antigen ( 55 ) , a cell surface glycolipid present in all gram-negative enteric bacteria ( 39 ) . 
+We found this fragment twice , on different-sized fragments , from the tonsils of one pig and from both the tonsils and the intestine of another pig . 
+This gene and its homologues have been shown to be important for colonization for a number of bacterial patho-gens . 
+Mutation of rffG produces reduced virulence in the plant pathogen Erwinia carotovora subsp . 
+atroseptica when inoculated into potato plant stems ( 84 ) . 
+It has been shown that rffG in Escherichia coli is a functional homologue of rfbB , with both of these genes encoding dTDP-glucose hydratases ( 50 ) . 
+Sero-type Typhimurium has both rfbB and rffG , which also encode dTDP-glucose hydratases ( 84 ) , and a mutant of rfbB in sero-type Typhimurium has been shown to exhibit reduced intestinal colonization of chicks ( 87 ) . 
+Thus , the importance of these genes identiﬁed by our screen is supported by studies in other animal and plant species and suggests that the method is suf-ﬁcient to identify genes important to the existence of Salmo-nella in pigs . 
+Sensor of a zinc tolerance two-component system . 
+Two clones encoding a sensor of the HydH/HydG two-component regulator were found in this screen , with both carrying hydH but on fragments of different sizes . 
+HydH/HydG has also been designated ZraS/ZraR ( zinc resistance-associated sensor/regu lator ) , as it is involved in zinc tolerance ( 47 ) . 
+It has been proposed that ZraS/ZraR senses high zinc concentrations and activates the expression of zraP to contribute to zinc tolerance ( 47 ) . 
+The level of hydG mRNA has also been shown to be increased threefold in E. coli cultures after the addition of ZnSO4 ( 46 ) . 
+The dietary zinc requirement for swine is 50 to 100 ppm , which is more than that for other tested livestock ( 7 ) . 
+Therefore , it is possible that hydH was expressed in both the tonsils and the intestine of pigs during Salmonella infection in response to the high zinc concentration present in pigs due to zinc supplementation of feed . 
+Alternatively , it has also been shown that hydH of E. coli is expressed during infection of the human gut ( 36 ) . 
+Thus , the two-component zinc tolerance system HydH/HydG may be important for bacteria during life within animal hosts . 
+yciR , encoding GGDEF and EAL domains . 
+Another gene identiﬁed in this screen was yciR , also designated gcpE ( GGDEF domain-containing protein E ) ( 26 ) . 
+We cloned yciR twice independently , on different-sized fragments , once from tonsils and once from the intestine . 
+yciR encodes a protein containing GGDEF and EAL domains , representing a class of proteins found in many bacterial species . 
+Serotype Typhi-murium has 12 proteins containing GGDEF domains and 14 proteins with EAL domains ( 26 , 81 ) . 
+Such proteins control the intracellular concentration of the global second messenger c-di-GMP , with the GGDEF domain stimulating c-di-GMP production and the EAL domain c-di-GMP degradation ( 77 ) . 
+c-di-GMP has been identiﬁed as a global regulator responsible for motility , adhesion , bioﬁlm formation , and virulence ( 56 ) . 
+Deletion of yciR of serotype Typhimurium affects cellulos production and bioﬁlm formation ( 26 ) , while a different EAL domain protein has been indicated to control bacterial survival in mice ( 31 ) . 
+Together , these ﬁndings suggest that yciR and the modulation of c-di-GMP levels may be involved in Salmonella colonization or survival in pigs . 
+Genes for assembly of Fe-S clusters and the heat shock response . 
+Another cloned fragment plausibly affecting Salmo-nella persistence in pigs contained the hscBA-fdx operon , which is involved in the assembly of Fe-S clusters ( 83 ) and probably cotranscribed with the Fe-S cluster iscSUA genes ( 95 ) . 
+HscA , a chaperone , has been shown to be regulated by the Fe-S cluster assembly protein IscU and the cochaperone HscB ( 75 ) . 
+The ferredoxin ( Fdx ) is proposed to be involved in electron transfer ( 28 ) . 
+Therefore , this hscBA-fdx operon plays a central role in the assembly machinery of Fe-S clusters , which function in a number of cellular processes , including gene regulation ( 37 ) . 
+It has been shown that the bacterial species Xenorhabdus nematophila requires an intact iscRSUA-hscBA-fdx operon to colonize Steinernema carpocapsae nematodes ( 51 ) . 
+Thus , this operon might also be important for serotype Typhimurium colonization or carriage in animals . 
+In particular , within this operon hscA encodes a 66-kDa heat shock protein which is a homologue of the heat shock protein DnaK ( 32 ) . 
+It has been shown that Salmonella heat shock proteins are induced upon infection of macrophages ( 8 ) , and a heat shock protein of the size of HscA has been shown to be responsible for binding of serotype Typhimurium to intestinal mucus ( 18 ) . 
+These ﬁndings could thus implicate hscA as a gene affecting Salmonella colonization and persistence in pigs . 
+Genes involved in the degradation of aromatic compounds . 
+A clone carrying two adjacent genes , hpaB and hpaR , was found twice on different cloned fragments . 
+hpaB and hpaR are both components of the 4-hydroxyphenylacetate ( 4-HPA ) deg-radative pathway in E. coli ( 22 , 52 ) . 
+hpaB and the gene adjacent to it , hpaC , form a single transcription unit and encode the large and small components of a two-component 4-HPA 3-monooxygenase . 
+hpaB encodes the ﬂavoprotein , whereas hpaC codes for a coupling oxidoreductase ( 21 , 64 ) which increases the hydroxylase activity of HpaB ( 63 ) . 
+In E. coli , the hpa catabolic genes are organized in two transcribed operons in the same orientation : the upper operon ( hpaBC ) and the meta operon ( hpaGEDFHI ) ( 62 , 70 ) . 
+The hpa pathway of E. coli is regulated by two proteins , HpaA as an activator and HpaR as a repressor , reverse oriented to the two operons ( 22 , 62 ) . 
+In serotype Typhimurium , the gene arrangement of the hpa operons is different from that in E. coli ; the upper operon ( hpaBC ) and the meta operon ( hpaGEDFHI ) are divergently transcribed . 
+hpaR of Salmonella is transcribed in the same orientation as hpaBC but opposite to that of hpaGEDFHI . 
+Therefore , it is not yet clear whether the promoter activity identiﬁed from this clone originates from the promoter of hpaB or that of hpaR . 
+The regulatory circuits of these aromatic catabolic pathways have also not been well established in Sal-monella . 
+Although aromatic compounds are highly abundant in soil and water , it has also been suggested that there are sources of aromatic compounds in the gastrointestinal tract , a majority of them being derived from the fermentation of aromatic amino acids and with some provided by plant materials ( 29 ) . 
+Thus , the fact that hpaB or hpaR of Salmonella was induced in pigs suggests that Salmonella enterica serotype Typhimurium is able to degrade certain aromatic compounds when living in an animal host . 
+Virulence functions . 
+Only one gene identiﬁed in our screen , metL , has been previously shown to be involved in Salmonella virulence . 
+This gene encodes the bifunctional enzyme aspartokinase II-homoserine dehydrogenase II ( AKII-HDII ) and was carried on a clone isolated from the intestine . 
+AKII-HDII catalyzes two independent proximal steps in the prokaryotic biosynthetic pathways that convert aspartate to lysine , threonine , and methionine ( 94 ) , and a serotype Typhimurium mutant of metL exhibits reduced virulence in mice ( 17 ) . 
+metL might therefore be important for Salmonella maintenance in pigs as well . 
+No genes in any of the Salmonella pathogenicity islands were found in this study . 
+This was not unexpected , as mutants of SPI1 or SPI2 genes have been shown to maintain their ability to colonize the chick intestine ( 59 ) , suggesting that serotype Typhimurium is much less reliant upon SPI1 and SPI2 to establish and maintain infection in animals that fail to show overt disease , such as pigs and chickens . 
+Genes required for vitamin B12 synthesis . 
+One cloned fragment carried the two adjacent genes cbiF and cbiG , which regulate vitamin B12 synthesis ( 71 ) . 
+Serotype Typhimurium synthesizes B12 only during anaerobic growth and can use B12 as a cofactor in at least three reactions ( 71 ) . 
+B12 synthesis requires the expression of a single 20-gene operon , named cob , which maps to centisome 44 of the serotype Typhimurium chromosome and includes 3 cob and 17 cbi genes ( 72 ) . 
+Pro-panediol , a by-product of food digestion , induces the transcription of the cob operon dependent upon PocR , a regulatory protein of the AraC family ( 12 ) . 
+Vitamin B12 is required for degradation of ethanolamine and propanediol , both of which are carbon sources present in the gastrointestinal tract ( 43 , 69 ) . 
+It is therefore possible that Salmonella induces the cob operon to utilize these nutrient sources while living in the intestinal tract . 
+The cbiF/cibG clone identiﬁed in this screen , however , was found only in tonsils . 
+It remains possible that cbiF/cbiG was also induced in the intestinal tract but that we failed to ﬁnd it there . 
+For this fusion , and all other fusions described in this work , the speciﬁc location of induction could not be made with complete certainty , as the design of the screen does not ensure the complete recovery of all isolates from both body sites tested . 
+Alternatively , it is possible that environmental signals exist speciﬁcally in the tonsils that induce the cob operon , either as a requirement for life in the tonsil itself or as a prelude to passage into the intestinal tract . 
+Our previous work has shown that the invasion of epithelial cells by Salmonella is coregulated with propanediol and ethanolamine catabolism , including cob expression ( 40 , 41 ) . 
+It is therefore possible that environmental cues encountered by Salmonella coordinately regulate functions important to life in an animal host , including both metabolic and virulence functions . 
+Genes of other functions . 
+Other genes found in this screen included a protease ( sppA ) , an integrase ( rlgA ) , a gene used for cysteine synthesis ( cysQ ) ( 60 ) , and those with the putative functions shown in Table 1 . 
+Therefore , our screen has identi-ﬁed diverse classes of Salmonella genes that appear to be induced in vivo . 
+Reverse-oriented fusions . 
+We also found that 21 of the fragments identiﬁed in this screen were cloned in the direction that placed the annotated gene contained on the fragment in a orientation opposite to that of cre , thus producing no obvious promoter fusion . 
+Examination of the sequence of these clones showed that they did not carry portions of adjacent genes in the opposite orientation , nor were they composed of concatenated DNA fragments from disparate regions of the genome . 
+Misannotaion of the genome is unlikely as an explanation , because most of the cloned fragments carried genes with recognized functions , such as shdA , rpoN , and wcaL ( Table 1 ) , while three cloned fragments with putative functions in Salmonella ( STM1368 , ygiK , and yciA/yciB ) have homologues with recognized functions in another organism . 
+Similar identiﬁcation of reverse-oriented fusions has been repeatedly observed by others but without complete explanation ( 9 , 49 , 66 , 67 , 89 ) . 
+Although some of these reverse-oriented fusions may contain no genuine promoter element , it is possible that others of them do . 
+Three of the 21 were found independently twice or more in our screen , while 4 of these were induced by elevation of temperature and 5 were induced by osmolarity , as described below . 
+One proposed explanation is that these fusions represent promoters that act to control gene expression by an antisense regulation mechanism ( 61 , 76 ) . 
+Further investigation of these clones will be required to elucidate their functions . 
+Identiﬁcation of environmental factors that induce gene expression . 
+A number of environmental conditions likely to be present within animal hosts have been studied as possible stimuli for Salmonella gene expression . 
+Speciﬁcally , for Salmonella invasion genes , oxygen tension , osmolarity , growth phase , pH , and the presence of bile have all been implicated in the control of gene expression ( 3 , 19 , 24 , 44 , 48 , 65 ) . 
+We therefore next determined whether any of our in vivo-induced genes responded to similar conditions . 
+The reporter plasmid used in this study carries a promoterless lacZ immediately downstream from cre ( 2 ) , and so we used - galactosidase assays to assess changes in gene expression in response to environmental signals . 
+One plausible means to induce expression in pigs is via a change in temperature . 
+Pigs have a normal body temperature of 39 to 40 °C , higher than that of humans . 
+To test the effects of temperature , we tested the expression of clones when strains were grown at 30 °C , 37 °C , and 42 °C . 
+We found that nine of the cloned fragments induced lacZ expression with statistical signiﬁcance at 42 °C and/or 37 °C compared to growth at 30 °C ( Fig. 2 ) . 
+Two of the reverse-oriented fusions , shdA and stbD , were also signiﬁcantly increased at 42 °C versus 37 °C . 
+fdx-hscA was induced by high temperature , as expected , as hscA is a heat shock protein . 
+hydH , the sensor kinase of the zinc tolerance two-component system , was also induced by high temperature . 
+Other induced genes included those encoding a putative hydrogenase ( STM0611/0612 ) , an inner membrane protein ( ybbP ) , and a putative catalase ( STM1731 ) . 
+Four of nine clones induced by high temperature were reverse-oriented fusions , those that contained ygiK , wcaL , shdA , and stbD . 
+As described above , these fragments carried no identiﬁed promoter elements that would induce the conditional expression of the lacZ fusion . 
+The fact that they were signiﬁcantly induced by changes in temperature , however , suggests that transcription at these loci might indeed occur in response to altered environmental conditions . 
+Previous studies have demonstrated that an increase in osmolarity has a global effect on gene expression in E. coli ( 90 -- 92 ) . 
+In the gastrointestinal tracts of mammals , bacteria are faced with hyperosmolarity ( 73 ) . 
+High osmolarity has been implicated in the induction of Salmonella invasion genes ( 24 ) , and so it might induce other genes required for infection and survival . 
+Therefore , we tested osmolar stress by growing our strains with the addition of 0.4 M sodium chloride to the medium ( 91 ) . 
+Nine of the clones were induced by increased osmolarity ( Fig. 3 ) . 
+These included genes encoding the sensor kinase hydH , an integrase ( rlgA ) , and a predicted amino acid ABC transporter ( STM1634 ) . 
+Increased osmolarity also induced the reverse-oriented fusions carrying shdA and Pslt068 . 
+Thus , osmolarity is likely a signal for the induction of Salmonella genes in pigs and induces some transporters and membrane proteins . 
+We also tested anaerobiosis , increased zinc by addition of ZnSO4 , iron limitation by addition of the iron-chelating agent 2,2 - dipyridyl , rich versus minimal medium , and cold shock as possible inducers of gene expression , since all these condition have previously been shown to induce one or several in vivo-induced genes . 
+However , none of these conditions induced the expression of any in vivo-induced genes identiﬁed in this study . 
+Conclusions . 
+In this work , we performed a comprehensive Salmonella genomic library screen to identify genes differentially expressed upon infection of pigs using a recombinasebased in vivo expression technology . 
+As the ﬁrst such screen in this animal species to be reported , we identiﬁed some common colonization factors that likely verify the utility of the approach . 
+These genes included bcfA , wecC , rffG , and yciR , which are involved in surface adherence and were isolated from both tonsils and the intestinal tract . 
+An early step for Salmonella colonization is adherence to cell surfaces . 
+Thus , regardless of the location , Salmonella likely uses these colonization factors to establish itself in the body . 
+We also found novel factors not previously known to be induced upon bacterial interaction with an animal host . 
+These included hydH , which may indicate that zinc acts as a signal during Salmonella infection , and hpaB , the product of which catalyzes the degradation of 4-HPA , suggesting the use of aromatic acids as energy sources . 
+Interestingly , we also identiﬁed a gene , yciR , with putative diguanylate cyclase and phosphodiesterase functions used for the production and degradation of c-di-GMP . 
+As yciR has been shown to be used for bioﬁlm formation in Salmonella ( 26 ) , and as c-di-GTP as a second messenger has recently been identiﬁed as important in other pathogenic bacteria ( 15 , 25 , 68 , 78 ) , the induction of this gene may play an important role for Salmonella after animal infection . 
+Although no screen of this type can provide an exhaustive account of all genes induced in vivo , this study provides information for further research on Salmonella survival and colonization in animals that carry the pathogen without clinical signs , which may lead to new therapies or prevention strategies to reduce the contamination of the human food supply . 
+TABLE 1 . 
+Salmonella genes induced during infection of pigs Gene Function 
+Category 
+Tissue ( s ) 
+Adherence 
+wecC/rffG UDP-N-acetyl-D-mannosaminuronic acid dehydrogenase/dTDP-glucose 4,6-dehydratase bcfA Fimbrial subunit fdx-hscA Involved in assembly of Fe-S clusters yciR Putative diguanylate cyclase/phosphodiesterase 
+Intestine and tonsil 
+Intestine and tonsil Intestine Intestine and tonsil 
+Two-component regulator 
+hydH Sensory kinase in two-component regulatory system with HydG Intestine and tonsil 
+Aromatic hydroxylase 
+hpaB/hpaR 4-Hydroxyphenylacetate catabolism Intestine and tonsil 
+Virulence 
+metL Aspartokinase II-homoserine dehydrogenase II Intestine 
+Metabolism 
+Sulﬁte biosynthetic protein Protease IV 
+cysQ sppA 
+Intestine and tonsil Intestine and tonsil Tonsil 
+Synthesis of vitamin B12 adenosyl cobalamide precursor Putative hydrogenase protein Putative sodium ion pump Putative integrase Pseudogene Putative catalase Putative sugar phosphate aminotransferase/putative hexulose 6-phosphate synthase Putative cytoplasmic protein Putative IS3 transposase Putative superfamily I DNA helicase Putative merR family bacterial regulatory protein Putative inner membrane protein Putative amino acid ABC transporter permease component Putative POT family transport protein 
+cbiF/cbiG 
+Putative function 
+STM0611/0612/0613 oadB rlgA STM2689 STM1731 STM2755/2756/2757 
+Intestine Tonsil 
+Tonsil Intestine Intestine and tonsil Tonsil 
+yiiG STM0325 
+Intestine Intestine 
+STM4489 STM4320/pheR ybbP STM1634/1635 ybgH 
+Intestine Intestine Intestine and tonsil Intestine and tonsil Intestine 
+Reverse-oriented fusions 
+ygiK STM1368 
+Putative inner membrane protein Putative Na - dicaboxylate symporter Intracellular septation protein A/B Fur-regulated Salmonella iron transporter 2-Deoxy-D-gluconate 3-dehydrogenase Plasmid partition protein A Galactose/proton symporter Fibronectin binding protein Putative ParB-like nuclease Periplasmic nitrate reductase FtsH modulator Putative ﬁmbrial usher DNA-directed RNA polymerase subunit N Soluble lytic murein transglycosylase Putative periplasmic protein Putative glycosyl transferase 
+Intestine and tonsil Intestine and tonsil Intestine Intestine Intestine Intestine Intestine Intestine Intestine Intestine and tonsil Intestine and tonsil Intestine and tonsil Intestine and tonsil Intestine and tonsil Intestine and tonsil Tonsil 
+yciA/yciB sitC kduD parA galP shdA Pslt068 napA hﬂK stbD rpoN slt-trpR Pslt026 wcaL 
+FIG. 3 . 
+Effects of osmolarity on in vivo-induced gene fusions . 
+Strains carrying a fusion of the indicated gene to lacZ were grown as standing overnight cultures in MOPS minimal medium ( gray bars ) or with the addition of 0.4 M NaCl ( black bars ) . 
+Triplicate cultures of each strain were assayed for lacZ expression in CRPG-enhanced - ga-lactosidase assays . 
+All fusions shown , except for STM2689 , produced a signiﬁcant increase ( P 0.05 ) in expression due to the addition of the NaCl . 
+STM2689 is shown as representative of fusions that were not induced under these conditions . 
+The - galactosidase concentration was calculated as deﬁned in Materials and Methods . 
+Error bars show standard deviations . 
+FIG. 2 . 
+Effects of temperature on in vivo-induced gene fusions . 
+Strains carrying a fusion of the indicated gene to lacZ were grown as standing overnight cultures in LB at 30 °C ( white bars ) , 37 °C ( gray bars ) , and 42 °C ( black bars ) . 
+Triplicate cultures of each strain were assayed for lacZ expression using CRPG-enhanced - galactosidase assays . 
+Single asterisks show a signiﬁcant increase ( P 0.05 ) when the strain was grown at 42 °C or 37 °C compared to 30 °C . 
+Double asterisks show a signiﬁcant increase ( P 0.05 ) when the strain was grown at 42 °C compared to 37 °C . 
+The - galactosidase concentration was calculated as deﬁned in Materials and Methods . 
+Error bars show standard deviations . 
+STM2689 is shown as a representative of fusions that were not induced under these conditions . 
+ACKNOWLEDGMENTS
+We thank Morgan Raley for invaluable assistance with sequencing . 
+This project was supported by the National Research Initiative of the USDA Cooperative State Research , Education and Extension Service , award number 2005-35201-16270 . 
+REFERENCES 
+1 . 
+Althouse , C. , S. Patterson , P. Fedorka-Cray , and R. E. Isaacson . 
+2003 . 
+Type 1 ﬁmbriae of Salmonella enterica serovar Typhimurium bind to enterocytes and contribute to colonization of swine in vivo . 
+Infect . 
+Immun . 
+71:6446 -- 6452 . 
+2 . 
+Altier , C. , and M. Suyemoto . 
+1999 . 
+A recombinase-based selection of differentially expressed bacterial genes . 
+Gene 240:99 -- 106 . 
+3 . 
+Bajaj , V. , R. L. Lucas , C. Hwang , and C. A. Lee . 
+1996 . 
+Co-ordinate regulation of Salmonella typhimurium invasion genes by environmental and regulatory factors is mediated by control of hilA expression . 
+Mol . 
+Microbiol . 
+22:703 -- 714 . 
+4 . 
+Barrow , P. A. , J. M. Simpson , and M. A. Lovell . 
+1988 . 
+Intestinal colonisation in the chicken by food-poisoning Salmonella serotypes ; microbial characteristics associated with faecal excretion . 
+Avian Pathol . 
+17:571 -- 588 . 
+5 . 
+Bean , N. H. , J. S. Goulding , M. T. Daniels , and F. J. Angulo . 
+1997 . 
+Surveillance for foodborne disease outbreaks -- United States , 1988 -- 1992 . 
+J. Food Prot . 
+60:1265 -- 1286 . 
+6 . 
+Behlau , I. , and S. I. Miller . 
+1993 . 
+A PhoP-repressed gene promotes Salmo-nella typhimurium invasion of epithelial cells . 
+J. Bacteriol . 
+175:4475 -- 4484 . 
+7 . 
+Berger , L. L. 1987 . 
+Salt and trace minerals for livestock , poultry and other animals . 
+Salt Institute , Alexandria , VA. 8 . 
+Buchmeier , N. A. , and F. Heffron . 
+1990 . 
+Induction of Salmonella stress proteins upon infection of macrophages . 
+Science 248:730 -- 732 . 
+9 . 
+Camilli , A. , and J. J. Mekalanos . 
+1995 . 
+Use of recombinase gene fusions to identify Vibrio cholerae genes induced during infection . 
+Mol . 
+Microbiol . 
+18:671 -- 683 . 
+10 . 
+Carnell , S. C. , A. Bowen , E. Morgan , D. J. Maskell , T. S. Wallis , and M. P. 
+Stevens . 
+2007 . 
+Role in virulence and protective efﬁcacy in pigs of Salmonella enterica serovar Typhimurium secreted components identiﬁed by signaturetagged mutagenesis . 
+Microbiology 153:1940 -- 1952 . 
+11 . 
+Chan , K. , C. C. Kim , and S. Falkow . 
+2005 . 
+Microarray-based detection of Salmonella enterica serovar Typhimurium transposon mutants that can not survive in macrophages and mice . 
+Infect . 
+Immun . 
+73:5438 -- 5449 . 
+12 . 
+Chen , P. , D. I. Andersson , and J. R. Roth . 
+1994 . 
+The control region of the pdu/cob regulon in Salmonella typhimurium . 
+J. Bacteriol . 
+176:5474 -- 5482 . 
+13 . 
+Craven , S. E. 1994 . 
+Altered colonizing ability for the ceca of broiler chicks by lipopolysaccharide-deﬁcient mutants of Salmonella typhimurium . 
+Avian Dis . 
+38:401 -- 408 . 
+14 . 
+Craven , S. E. , N. A. Cox , J. S. Bailey , N. J. Stern , R. J. Meinersmann , and L. C. Blankenship . 
+1993 . 
+Characterization of Salmonella california and S. typhimurium strains with reduced ability to colonize the intestinal tract of broiler chicks . 
+Avian Dis . 
+37:339 -- 348 . 
+15 . 
+D'Argenio , D. A. , M. W. Calfee , P. B. Rainey , and E. C. Pesci . 
+2002 . 
+Autolysis and autoaggregation in Pseudomonas aeruginosa colony morphology mutants . 
+J. Bacteriol . 
+184:6481 -- 6489 . 
+16 . 
+Davies , P. R. , F. Geradus , E. M. Bovee , J. A. Funk , W. E. M. Morrow , F. T. Jones , and J. Deen . 
+1998 . 
+Isolation of Salmonella serotypes from feces of pigs raised in a multiple-site production system . 
+J. Am . 
+Vet . 
+Med . 
+Assoc. 212:1925 -- 1929 . 
+17 . 
+De Groote , M. A. , T. Testerman , Y. Xu , G. Stauffer , and F. C. Fang . 
+1996 . 
+Homocysteine antagonism of nitric oxide-related cytostasis in Salmonella typhimurium . 
+Science 272:414 -- 417 . 
+18 . 
+Ensgraber , M. , and M. Loos . 
+1992 . 
+A 66-kilodalton heat shock protein of Salmonella typhimurium is responsible for binding of the bacterium to intestinal mucus . 
+Infect . 
+Immun . 
+60:3072 -- 3078 . 
+19 . 
+Ernst , R. K. , D. M. Dombroski , and J. M. Merrick . 
+1990 . 
+Anaerobiosis , type 1 ﬁmbriae , and growth phase are factors that affect invasion of HEp-2 cells by Salmonella typhimurium . 
+Infect . 
+Immun . 
+58:2014 -- 2016 . 
+20 . 
+Farrington , L. A. , R. B. Harvey , S. A. Buckley , R. E. Droleskey , D. J. Nisbet , and P. D. Inskip . 
+2001 . 
+Prevalence of antimicrobial resistance in salmonellae isolated from market-age swine . 
+J. Food Prot . 
+64:1496 -- 1502 . 
+21 . 
+Galan , B. , E. Diaz , M. A. Prieto , and J. L. Garcia . 
+2000 . 
+Functional analysis of the small component of the 4-hydroxyphenylacetate 3-monooxygenase of Escherichia coli W : a prototype of a new ﬂavin : NAD ( P ) H reductase subfamily . 
+J. Bacteriol . 
+182:627 -- 636 . 
+22 . 
+Galan , B. , A. Kolb , J. M. Sanz , J. L. Garcia , and M. A. Prieto . 
+2003 . 
+Molecular determinants of the hpa regulatory system of Escherichia coli : the HpaR repressor . 
+Nucleic Acids Res . 
+31:6598 -- 6609 . 
+23 . 
+Galan , J. E. , and R. Curtiss III . 
+1989 . 
+Cloning and molecular characterization of genes whose products allow Salmonella typhimurium to penetrate tissue culture cells . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 86:6383 -- 6387 . 
+24 . 
+Galan , J. E. , and R. Curtiss III . 
+1990 . 
+Expression of Salmonella typhimurium genes required for invasion is regulated by changes in DNA supercoiling . 
+Infect . 
+Immun . 
+58:1879 -- 1885 . 
+25 . 
+Galperin , M. Y. 2004 . 
+Bacterial signal transduction network in a genomic perspective . 
+Environ . 
+Microbiol . 
+6:552 -- 567 . 
+26 . 
+Garcia , B. , C. Latasa , C. Solano , F. Garcia-del Portillo , C. Gamazo , and I. Lasa . 
+2004 . 
+Role of the GGDEF protein family in Salmonella cellulose biosynthesis and bioﬁlm formation . 
+Mol . 
+Microbiol . 
+54:264 -- 277 . 
+27 . 
+Gebreyes , W. A. , P. R. Davies , W. E. Morrow , J. A. Funk , and C. Altier . 
+2000 . 
+Antimicrobial resistance of Salmonella isolates from swine . 
+J. Clin . 
+Microbiol . 
+38:4633 -- 4636 . 
+28 . 
+Giel , J. L. , D. Rodionov , M. Liu , F. R. Blattner , and P. J. Kiley . 
+2006 . 
+IscR-dependent gene expression links iron-sulphur cluster assembly to the control of O2-regulated genes in Escherichia coli . 
+Mol . 
+Microbiol . 
+60:1058 -- 1075 . 
+29 . 
+Goldman , P. 1983 . 
+Biochemical pharmacology and toxicology involving the intestinal ﬂora . 
+Academic Press , Inc. , New York , NY . 
+30 . 
+Groisman , E. A. , and H. Ochman . 
+1993 . 
+Cognate gene clusters govern invasion of host epithelial cells by Salmonella typhimurium and Shigella ﬂexneri . 
+EMBO J. 12:3779 -- 3787 . 
+31 . 
+Hisert , K. B. , M. MacCoss , M. U. Shiloh , K. H. Darwin , S. Singh , R. A. Jones , S. Ehrt , Z. Zhang , B. L. Gaffney , S. Gandotra , D. W. Holden , D. Murray , and C. Nathan . 
+2005 . 
+A glutamate-alanine-leucine ( EAL ) domain protein of Salmonella controls bacterial survival in mice , antioxidant defence and killing of macrophages : role of cyclic diGMP . 
+Mol . 
+Microbiol . 
+56:1234 -- 1245 . 
+32 . 
+Hoff , K. G. , D. T. Ta , T. L. Tapley , J. J. Silberg , and L. E. Vickery . 
+2002 . 
+Hsc66 substrate speciﬁcity is directed toward a discrete region of the ironsulfur cluster template protein IscU . 
+J. Biol . 
+Chem . 
+277:27353 -- 27359 . 
+33 . 
+Humphries , A. , S. Deridder , and A. J. Baumler . 
+2005 . 
+Salmonella enterica serotype Typhimurium ﬁmbrial proteins serve as antigens during infection of mice . 
+Infect . 
+Immun . 
+73:5329 -- 5338 . 
+34 . 
+Humphries , A. D. , M. Raffatellu , S. Winter , E. H. Weening , R. A. Kingsley , R. Droleskey , S. Zhang , J. Figueiredo , S. Khare , J. Nunes , L. G. Adams , R. M. Tsolis , and A. J. Baumler . 
+2003 . 
+The use of ﬂow cytometry to detect expression of subunits encoded by 11 Salmonella enterica serotype Typhi-murium ﬁmbrial operons . 
+Mol . 
+Microbiol . 
+48:1357 -- 1376 . 
+35 . 
+Humphries , A. D. , S. M. Townsend , R. A. Kingsley , T. L. Nicholson , R. M 
+Tsolis , and A. J. Baumler . 
+2001 . 
+Role of ﬁmbriae as antigens and intestinal colonization factors of Salmonella serovars . 
+FEMS Microbiol . 
+Lett . 
+201:121 -- 125 . 
+36 . 
+John , M. , I. T. Kudva , R. W. Grifﬁn , A. W. Dodson , B. McManus , B. Krastins , D. Sarracino , A. Progulske-Fox , J. D. Hillman , M. Handﬁeld , P. I. Tarr , and S. B. Calderwood . 
+2005 . 
+Use of in vivo-induced antigen technology for identiﬁcation of Escherichia coli O157 : H7 proteins expressed during human infection . 
+Infect . 
+Immun . 
+73:2665 -- 2679 . 
+37 . 
+Johnson , D. C. , P. C. Dos Santos , and D. R. Dean . 
+2005 . 
+NifU and NifS are required for the maturation of nitrogenase and can not replace the function of isc-gene products in Azotobacter vinelandii . 
+Biochem . 
+Soc Trans . 
+33 : 90 -- 93 . 
+38 . 
+Jones , B. D. , and S. Falkow . 
+1994 . 
+Identiﬁcation and characterization of a Salmonella typhimurium oxygen-regulated gene required for bacterial internalization . 
+Infect . 
+Immun . 
+62:3745 -- 3752 . 
+39 . 
+Kuhn , H. M. , U. Meier-Dieter , and H. Mayer . 
+1988 . 
+ECA , the enterobacterial common antigen . 
+FEMS Microbiol . 
+Rev. 4:195 -- 222 . 
+40 . 
+Lawhon , S. D. , J. G. Frye , M. Suyemoto , S. Porwollik , M. McClelland , and C. Altier . 
+2003 . 
+Global regulation by CsrA in Salmonella typhimurium . 
+Mol . 
+Microbiol . 
+48:1633 -- 1645 . 
+41 . 
+Lawhon , S. D. , R. Maurer , M. Suyemoto , and C. Altier . 
+2002 . 
+Intestinal short-chain fatty acids alter Salmonella typhimurium invasion gene expression and virulence through BarA/SirA . 
+Mol . 
+Microbiol . 
+46:1451 -- 1464 . 
+42 . 
+Lawley , T. D. , K. Chan , L. J. Thompson , C. C. Kim , G. R. Govoni , and D. M. Monack . 
+2006 . 
+Genome-wide screen for Salmonella genes required for long-term systemic infection of the mouse . 
+PLoS Pathog . 
+2 : e11 . 
+43 . 
+Lawrence , J. G. , and J. R. Roth . 
+1995 . 
+The cobalamin ( coenzyme B12 ) biosynthetic genes of Escherichia coli . 
+J. Bacteriol . 
+177:6371 -- 6380 . 
+44 . 
+Lee , C. A. , and S. Falkow . 
+1990 . 
+The ability of Salmonella to enter mamma-lian cells is affected by bacterial growth state . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 87:4304 -- 4308 . 
+45 . 
+Lee , C. A. , B. D. Jones , and S. Falkow . 
+1992 . 
+Identiﬁcation of a Salmonella typhimurium invasion locus by selection for hyperinvasive mutants . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 89:1847 -- 1851 . 
+46 . 
+Lee , L. J. , J. A. Barrett , and R. K. Poole . 
+2005 . 
+Genome-wide transcriptional response of chemostat-cultured Escherichia coli to zinc . 
+J. Bacteriol . 
+187 : 1124 -- 1134 . 
+47 . 
+Leonhartsberger , S. , A. Huber , F. Lottspeich , and A. Bock . 
+2001 . 
+The hydH/G genes from Escherichia coli code for a zinc and lead responsive two-component regulatory system . 
+J. Mol . 
+Biol . 
+307:93 -- 105 . 
+48 . 
+Lundberg , U. , U. Vinatzer , D. Berdnik , A. von Gabain , and M. Baccarini . 
+1999 . 
+Growth phase-regulated induction of Salmonella-induced macrophage apoptosis correlates with transient expression of SPI-1 genes . 
+J. Bacteriol . 
+181:3433 -- 3437 . 
+49 . 
+Mahan , M. J. , J. M. Slauch , and J. J. Mekalanos . 
+1993 . 
+Selection of bacterial virulence genes that are speciﬁcally induced in host tissues . 
+Science 259:686 -- 688 . 
+50 . 
+Marolda , C. L. , and M. A. Valvano . 
+1995 . 
+Genetic analysis of the dTDP-rhamnose biosynthesis region of the Escherichia coli VW187 ( O7 : K1 ) rfb gene cluster : identiﬁcation of functional homologs of rfbB and rfbA in the rff cluster and correct location of the rffE gene . 
+J. Bacteriol . 
+177:5539 -- 5546 . 
+51 . 
+Martens , E. C. , J. Gawronski-Salerno , D. L. Vokal , M. C. Pellitteri , M. L. Menard , and H. Goodrich-Blair . 
+2003 . 
+Xenorhabdus nematophila requires an intact iscRSUA-hscBA-fdx operon to colonize Steinernema carpocapsae nematodes . 
+J. Bacteriol . 
+185:3678 -- 3682 . 
+52 . 
+Martin , M. , A. Gibello , J. Fernandez , E. Ferrer , and A. Garrido-Pertierra . 
+1991 . 
+Catabolism of 3 - and 4-hydroxyphenylacetic acid by Klebsiella pneumoniae . 
+J. Gen. Microbiol . 
+137:621 -- 628 . 
+53 . 
+McClelland , M. , K. E. Sanderson , J. Spieth , S. W. Clifton , P. Latreille , L. Courtney , S. Porwollik , J. Ali , M. Dante , F. Du , S. Hou , D. Layman , S. Leonard , C. Nguyen , K. Scott , A. Holmes , N. Grewal , E. Mulvaney , E. Ryan , H. Sun , L. Florea , W. Miller , T. Stoneking , M. Nhan , R. Waterston , and R. K. Wilson . 
+2001 . 
+Complete genome sequence of Salmonella enterica ser-ovar Typhimurium LT2 . 
+Nature 413:852 -- 856 . 
+54 . 
+Mead , P. S. , L. Slutsker , V. Dietz , L. F. McCaig , J. S. Bresee , C. Shapiro , P. M. Grifﬁn , and R. V. Tauxe . 
+1999 . 
+Food-related illness and death in the United States . 
+Emerg . 
+Infect . 
+Dis . 
+5:607 -- 625 . 
+55 . 
+Meier-Dieter , U. , R. Starman , K. Barr , H. Mayer , and P. D. Rick . 
+1990 . 
+Biosynthesis of enterobacterial common antigen in Escherichia coli . 
+Biochemical characterization of Tn10 insertion mutants defective in enterobacterial common antigen synthesis . 
+J. Biol . 
+Chem . 
+265:13490 -- 132497 . 
+56 . 
+Mendez-Ortiz , M. M. , and J. Membrillo-Hernandez . 
+2005 . 
+Proteins with GGDEF and EAL domains : their role in bacterial metabolism . 
+Rev. Latinoam . 
+Microbiol . 
+47:130 -- 139 . 
+( In Spanish . ) 
+57 . 
+Miller , S. I. , and J. J. Mekalanos . 
+1990 . 
+Constitutive expression of the phoP regulon attenuates Salmonella virulence and survival within macrophages . 
+J. Bacteriol . 
+172:2485 -- 2490 . 
+58 . 
+Mills , D. M. , V. Bajaj , and C. A. Lee . 
+1995 . 
+A 40 kb chromosomal fragment encoding Salmonella typhimurium invasion genes is absent from the corresponding region of the Escherichia coli K-12 chromosome . 
+Mol . 
+Microbiol . 
+15:749 -- 759 . 
+59 . 
+Morgan , E. , J. D. Campbell , S. C. Rowe , J. Bispham , M. P. Stevens , A. J. 
+Bowen , P. A. Barrow , D. J. Maskell , and T. S. Wallis . 
+2004 . 
+Identiﬁcation of host-speciﬁc colonization factors of Salmonella enterica serovar Typhi-murium . 
+Mol . 
+Microbiol . 
+54:994 -- 1010 . 
+60 . 
+Neuwald , A. F. , B. R. Krishnan , I. Brikun , S. Kulakauskas , K. Suziedelis , T. Tomcsanyi , T. S. Leyh , and D. E. Berg . 
+1992 . 
+cysQ , a gene needed for cysteine synthesis in Escherichia coli K-12 only during aerobic growth . 
+J. Bacteriol . 
+174:415 -- 425 . 
+61 . 
+Osorio , G. C. , A. 2003 . 
+Hidden dimensions of Vibrio cholerae pathogenesis . 
+ASM News 69:396 -- 401 . 
+62 . 
+Prieto , M. A. , E. Diaz , and J. L. Garcia . 
+1996 . 
+Molecular characterization of the 4-hydroxyphenylacetate catabolic pathway of Escherichia coli W : engineering a mobile aromatic degradative cluster . 
+J. Bacteriol . 
+178:111 -- 120 . 
+63 . 
+Prieto , M. A. , and J. L. Garcia . 
+1994 . 
+Molecular characterization of 4-hy-droxyphenylacetate 3-hydroxylase of Escherichia coli . 
+A two-protein component enzyme . 
+J. Biol . 
+Chem . 
+269:22823 -- 22829 . 
+64 . 
+Prieto , M. A. , A. Perez-Aranda , and J. L. Garcia . 
+1993 . 
+Characterization of an Escherichia coli aromatic hydroxylase with a broad substrate range . 
+J. Bacteriol . 
+175:2162 -- 2167 . 
+65 . 
+Prouty , A. M. , and J. S. Gunn . 
+2000 . 
+Salmonella enterica serovar Typhi-murium invasion is repressed in the presence of bile . 
+Infect . 
+Immun . 
+68 : 6763 -- 6769 . 
+66 . 
+Rainey , P. B. 1999 . 
+Adaptation of Pseudomonas ﬂuorescens to the plant rhizosphere . 
+Environ . 
+Microbiol . 
+1:243 -- 257 . 
+67 . 
+Rollenhagen , C. , and D. Bumann . 
+2006 . 
+Salmonella enterica highly expressed genes are disease speciﬁc . 
+Infect . 
+Immun . 
+74:1649 -- 1660 . 
+68 . 
+Romling , U. , M. Gomelsky , and M. Y. Galperin . 
+2005 . 
+c-di-GMP : the dawning of a novel bacterial signalling system . 
+Mol . 
+Microbiol . 
+57:629 -- 639 . 
+69 . 
+Rondon , M. R. , A. R. Horswill , and J. C. Escalante-Semerena . 
+1995 . 
+DNA polymerase I function is required for the utilization of ethanolamine , 1,2-propanediol , and propionate by Salmonella typhimurium LT2 . 
+J. Bacteriol . 
+177:7119 -- 7124 . 
+70 . 
+Roper , D. I. , T. Fawcett , and R. A. Cooper . 
+1993 . 
+The Escherichia coli C homoprotocatechuate degradative operon : hpc gene order , direction of transcription and control of expression . 
+Mol . 
+Gen. Genet . 
+237:241 -- 250 . 
+71 . 
+Roth , J. R. , J. G. Lawrence , and T. A. Bobik . 
+1996 . 
+Cobalamin ( coenzyme B12 ) : synthesis and biological signiﬁcance . 
+Annu . 
+Rev. Microbiol . 
+50:137 -- 181 . 
+72 . 
+Roth , J. R. , J. G. Lawrence , M. Rubenﬁeld , S. Kieffer-Higgins , and G. M. Church . 
+1993 . 
+Characterization of the cobalamin ( vitamin B12 ) biosynthetic genes of Salmonella typhimurium . 
+J. Bacteriol . 
+175:3303 -- 3316 . 
+73 . 
+Russell , J. B. , and G. N. Jarvis . 
+2001 . 
+Practical mechanisms for interrupting the oral-fecal lifecycle of Escherichia coli . 
+J. Mol . 
+Microbiol . 
+Biotechnol . 
+3:265 -- 272 . 
+74 . 
+Shah , D. H. , M. J. Lee , J. H. Park , J. H. Lee , S. K. Eo , J. T. Kwon , and J. S. Chae . 
+2005 . 
+Identiﬁcation of Salmonella gallinarum virulence genes in a chicken infection model using PCR-based signature-tagged mutagenesis . 
+Microbiology 151:3957 -- 3968 . 
+75 . 
+Silberg , J. J. , T. L. Tapley , K. G. Hoff , and L. E. Vickery . 
+2004 . 
+Regulation of the HscA ATPase reaction cycle by the co-chaperone HscB and the iron-sulfur cluster assembly protein IscU . 
+J. Biol . 
+Chem . 
+279:53924 -- 53931 . 
+76 . 
+Silby , M. W. , P. B. Rainey , and S. B. Levy . 
+2004 . 
+IVET experiments in Pseudomonas ﬂuorescens reveal cryptic promoters at loci associated with recognizable overlapping genes . 
+Microbiology 150:518 -- 520 . 
+77 . 
+Simm , R. , M. Morr , A. Kader , M. Nimtz , and U. Romling . 
+2004 . 
+GGDEF and EAL domains inversely regulate cyclic di-GMP levels and transition from sessility to motility . 
+Mol . 
+Microbiol . 
+53:1123 -- 1134 . 
+78 . 
+Tamayo , R. , J. T. Pratt , and A. Camilli . 
+2007 . 
+Roles of cyclic diguanylate in the regulation of bacterial pathogenesis . 
+Annu . 
+Rev. Microbiol . 
+61:131 -- 148 . 
+79 . 
+Tanaka , Y. , and Y. Katsube . 
+1978 . 
+Infectivity of Salmonella typhimurium for mice in relation to ﬁmbriae . 
+Nippon Juigaku Zasshi 40:671 -- 681 . 
+80 . 
+Tanaka , Y. , Y. Katsube , T. Mutoh , and K. Imaizumi . 
+1981 . 
+Fimbriae of Salmonella typhimurium and their role in mouse intestinal colonization of the organism . 
+Nippon Juigaku Zasshi 43:51 -- 62 . 
+81 . 
+Tatusov , R. L. , M. Y. Galperin , D. A. Natale , and E. V. Koonin . 
+2000 . 
+The COG database : a tool for genome-scale analysis of protein functions and evolution . 
+Nucleic Acids Res . 
+28:33 -- 36 . 
+82 . 
+Tauxe , R. V. 1991 . 
+Salmonella : a postmodern pathogen . 
+J. Food Prot . 
+54 : 563 -- 568 . 
+83 . 
+Tokumoto , U. , and Y. Takahashi . 
+2001 . 
+Genetic analysis of the isc operon in Escherichia coli involved in the biogenesis of cellular iron-sulfur proteins . 
+J. Biochem . 
+( Tokyo ) 130:63 -- 71 . 
+84 . 
+Toth , I. K. , C. J. Thorpe , S. D. Bentley , V. Mulholland , L. J. Hyman , M. C. Perombelon , and G. P. Salmond . 
+1999 . 
+Mutation in a gene required for lipopolysaccharide and enterobacterial common antigen biosynthesis affects virulence in the plant pathogen Erwinia carotovora subsp . 
+atroseptica . 
+Mol . 
+Plant-Microbe Interact . 
+12:499 -- 507 . 
+85 . 
+Tsolis , R. M. , L. G. Adams , T. A. Ficht , and A. J. Baumler . 
+1999 . 
+Contribution of Salmonella typhimurium virulence factors to diarrheal disease in calves . 
+Infect . 
+Immun . 
+67:4879 -- 4885 . 
+86 . 
+Tsolis , R. M. , S. M. Townsend , E. A. Miao , S. I. Miller , T. A. Ficht , L. G 
+Adams , and A. J. Baumler . 
+1999 . 
+Identiﬁcation of a putative Salmonella enterica serotype Typhimurium host range factor with homology to IpaH and YopM by signature-tagged mutagenesis . 
+Infect . 
+Immun . 
+67:6385 -- 6393 . 
+87 . 
+Turner , A. K. , M. A. Lovell , S. D. Hulme , L. Zhang-Barber , and P. A. Barrow . 
+1998 . 
+Identiﬁcation of Salmonella typhimurium genes required for colonization of the chicken alimentary tract and for virulence in newly hatched chicks . 
+Infect . 
+Immun . 
+66:2099 -- 2106 . 
+88 . 
+Valdivia , R. H. , and S. Falkow . 
+1997 . 
+Fluorescence-based isolation of bacterial genes expressed within host cells . 
+Science 277:2007 -- 2011 . 
+89 . 
+Wang , J. , A. Mushegian , S. Lory , and S. Jin . 
+1996 . 
+Large-scale isolation of candidate virulence genes of Pseudomonas aeruginosa by in vivo selection . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 93:10434 -- 10439 . 
+90 . 
+Weber , A. , and K. Jung . 
+2002 . 
+Proﬁling early osmostress-dependent gene expression in Escherichia coli using DNA macroarrays . 
+J. Bacteriol . 
+184 : 5502 -- 5507 . 
+91 . 
+Weber , A. , S. A. Kogl , and K. Jung . 
+2006 . 
+Time-dependent proteome alter ¬ 
+ations under osmotic stress during aerobic and anaerobic growth in Esche-richia coli . 
+J. Bacteriol . 
+188:7165 -- 7175 . 
+92 . 
+Weber , H. , T. Polen , J. Heuveling , V. F. Wendisch , and R. Hengge . 
+2005 . 
+Genome-wide analysis of the general stress response network in Escherichia S coli : - dependent genes , promoters , and factor selectivity . 
+J. Bacteriol . 
+187:1591 -- 1603 . 
+93 . 
+Wood , R. L. , A. Pospischil , and R. Rose . 
+1989 . 
+Distribution of persistent Salmonella typhimurium infection in internal organs of swine . 
+Am . 
+J. Vet . 
+Res . 
+50:1015 -- 1021 . 
+94 . 
+Zakin , M. M. , N. Duchange , P. Ferrara , and G. N. Cohen . 
+1983 . 
+Nucleotide sequence of the metL gene of Escherichia coli . 
+Its product , the bifunctional aspartokinase II-homoserine dehydrogenase II , and the bifunctional product of the thrA gene , aspartokinase I-homoserine dehydrogenase I , derive from a common ancestor . 
+J. Biol . 
+Chem . 
+258:3028 -- 3031 . 
+95 . 
+Zheng , L. , V. L. Cash , D. H. Flint , and D. R. Dean . 
+1998 . 
+Assembly of iron-sulfur clusters . 
+Identiﬁcation of an iscSUA-hscBA-fdx gene cluster from Azotobacter vinelandii . 
+J. Biol . 
+Chem . 
+273:13264 -- 13272

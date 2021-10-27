@@ -1,0 +1,326 @@
+Veterinary Microbiology 109 ( 2005 ) 267 -- 274 
+www.elsevier.com/locate/vetmic 
+mutation of A vitiates inducible multiple antimicrobial resistance in Salmonella enterica subsp. enterica serovar Choleraesuis
+Insertional 
+mar 
+Robert J. Tibbetts , Tsang Long Lin , Ching Ching Wu a a , b a , b , * 
+a 
+Department of Veterinary Pathobiology , School of Veterinary Medicine , Purdue University , 406 South University Street , West Lafayette , IN 47907 , USA b Animal Disease Diagnostic Laboratory , Purdue University , West Lafayette , IN 47907 , USA 
+Received 8 February 2005 ; received in revised form 17 May 2005 ; accepted 31 May 2005 
+Abstract
+marA has been shown to mediate a multiple antimicrobial resistance ( MAR ) phenotype following induction in some members of the Enterobacteriaceae . 
+When Salmonella Choleraesuis was exposed to inducing agents they displayed higher minimal inhibitory concentrations ( MIC ) to multiple antimicrobial agents and an increase in marA expression as determined by northern hybridization analysis . 
+The objective of the present study was to determine if mutation of marA vitiated multiple antimicrobial resistance inducibility in S. Choleraesuis . 
+A loss-of-function mutation of marA in a single S. Choleraesuis isolate was created by insertion of the dihydrofolate reductase ( DHFR ) gene cassette within marA using double homologous recombination . 
+This mutation was complemented with an expression plasmid possessing marA under the control of an IPTG-inducible promoter . 
+Mutation and complementation of marA was veriﬁed using polymerase chain reaction , Northern hybridization , and Western blotting assays . 
+Minimum inhibitory concentrations ( MICs ) of tetracycline , chloramphenicol , nalidixic acid , and rifampin were determined against induced and uninduced wildtype , marA-disrupted and marA-comple-mented strains using a microbroth dilution assay . 
+Minimum inhibitory concentrations against induced wildtype and marAcomplemented strains increased four - to eight-fold for all antimicrobials tested when compared to the uninduced strains while the MICs of the induced marA-disrupted mutant remained the same . 
+However , this increase was abrogated when the cells were grown in the presence of the efﬂux pump inhibitor compound EPI phe-arg-naphthylamide . 
+The results indicate that a functional 
+marA is solely required for an inducible multiple antimicrobial resistance phenotype in S. Choleraesuis . 
+# 2005 Elsevier B.V. All rights reserved . 
+Keywords : Multiple antimicrobial resistance ; Salmonella ; marA 
+1. Introduction
+Salmonella enterica subsp . 
+enterica serovar Cho-leraesuis , a non-typhoidal , host-adaptive , facultative , intracellular , gram-negative bacillus , is the most frequent Salmonella serotype isolated from swine ( Gray et al. , 1996 ) , and is one of several bacterial agents associated with swine respiratory disease syndrome ( SRD ) ( Daniel et al. , 1986 ) . 
+In pigs up to four years of age the mortality rate due to S. Choleraesuis septicemia can reach 100 % ( WeideBotjes et al. , 1996 ) . 
+Losses due to SRD have been estimated to exceed US$ 200 million annually ( Salmon et al. , 1995 ) . 
+While the survival rate for pigs with S. Choleraesuis septicemia is low , those animals that do survive often become carriers of S. Choleraesuis ( Weide-Botjes et al. , 1996 ) , facilitating the foodborne spread of Salmonella . 
+Domesticated animals are the primary reservoir of non-typhoidal Salmonellae infecting humans ( Neidhardt , 1996 ) and foodborne salmonellosis ( including all associated serotypes ) in humans is a major concern in both human and veterinary medicine . 
+The primary approach for treatment and control of S. Choleraesuis , is the use of antimicrobial agents ; however , S. Choleraesuis are becoming increasingly resistant to multiple antibiotics ( Salmon et al. , 1995 ) . 
+Multiple antimicrobial resistance has been found among members of the Enterobacteriaceae to be mediated by genes associated with the inducible marRAB operon ( George and Levy , 1983b ) . 
+By far the greatest impact induction of marRAB has is the overexpression and accumulation of MarA . 
+MarA , is a member of the AraC/XylS family of transcriptional activators ( Gallegos et al. , 1993 ) and regulates a variety of genes associated with antimicrobial resistance and oxidative stress responses or controlling microbial metabolism and/or pathogenicity ( Gallegos et al. , 1993 ) . 
+Expression of marA can be induced by exposure of the bacterium to low levels of tetracycline , chloramphenicol , salicylate , cyclohexane ( George and Levy , 1983a ) , the food preservatives sodium nitrate , sodium benzoate , and acetic acid ( Potenski et al. , 2003 ) , and the bile salt deoxycholate ( Prouty et al. , 2004 ) . 
+Induction results in subsequent resistance to these compounds and other compounds used in the control of bacterial infections . 
+The AcrAB efﬂux pump is the primary MarA target resulting in a MAR ( White et al. , 1997 ) . 
+It has been demonstrated that , following induction , MarA directly upregulates AcrAB ( Okusu et al. , 1996 ; Tibbetts et al. , 2003 ) , which has been shown to actively remove antimicrobial agents from the bacterium ( Ma et al. , 1995 ) . 
+In addition to marA it is known that another regulatory system , SoxRS can mediate a MAR phenotype ( Pomposiello and Demple , 2000 ) . 
+Correspondingly , it has been shown that induction of soxS may result in increase of the AcrAB efﬂux pump ( White et al. , 1997 ) . 
+Previously we have shown that growth of S. Choleraesuis in salicylate , cyclohexane , tetracycline , and chloramphenicol leads to an increase in the expression of marA and multiple antimicrobial resistance as well as a subsequent increase in the expression of the efﬂux pump regulator acrB ( Tibbetts et al. , 2003 ) . 
+The objective of the present study , therefore , was to determine if a loss-of-function mutation in the marA gene vitiated the inducible multiple antimicrobial resistance phenotype seen in wildtype S. Choleraesuis isolates and rule-out a mar-independent pathway . 
+* Corresponding author . 
+Tel. : +1 765 494 7459 ; fax : +1 765 494 9181 . 
+E-mail address : wuc@purdue.edu ( C.C. Wu ) . 
+0378-1135 / $ -- see front matter # 2005 Elsevier B.V. All rights reserved doi :10.1016 / j.vetmic .2005.05.016 
+2. Materials and methods
+2.1. Bacterial strains, media, induction, and chemicals
+Bacterial strains and plasmids used in this study are listed in Table 1 . 
+A single , salicylate-inducible S. Choleraesuis isolate ( Sc3 ) was chosen from a previous study ( Tibbetts et al. , 2003 ) for use in this research . 
+Mutant S. Choleraesuis isolate Sc35-7 was created by insertional mutation of the marA gene in Sc3 . 
+Complementation of the marA disruption was achieved by transformation of Sc35-7 with a marA expression vector pL14 . 
+Escherichia coli strains AG100 ( not expressing marA ) and AG112 ( marmutant of AG100 expressing marA ) were obtained from Dr. Stuart Levy 's at the Center for Adaptation Genetics and Drug Research , Tufts School of Medicine and used as negative and positive controls , respectively . 
+All isolates were grown in Luria -- Bertani ( LB ) broth ( Difco , Detroit , MI ) at 37 8C and stored in LB-broth ( supplemented with 20 % glycerol ) at 80 8C unless otherwise noted . 
+Final concentrations of chemicals used were ; salicylate ( Sigma , St. Louis , MO ) 5 mM ; Paraquat ( Sigma ) 1 mM ; IPTG ( Sigma ) 1 mM ; tetracycline ( Sigma ) 25 mg/ml ; trimethoprim 50 mg/ml ; chloramphenicol 50 mg/ml ; ampicilli 
+100 mg/ml ; EPI phe-arg-naphthylamide ( Sigma ) 80 mg/ml . 
+Induction of marA expression was achieved by diluting overnight cultures of Sc3 , Sc35-7 , and 5-7 carrying pL14 1:1000 in fresh LB broth supplemented with salicylate ( Sc3 and Sc35-7 ) , paraquat ( Sc3 and Sc35-7 ) , or IPTG ( 5-7 carrying pL14 ) . 
+Cultures were incubated at 37 8C with shaking at 225 rpm to an OD530 0.3 -- 0.5 prior to Northern hybridization and minimum inhibitory concentration ( MIC ) determination . 
+2.2. Construction of chromosomal marA- disruption and complementation
+A chromosomal insertion mutation of marA was created by double homologous recombination based on the method outlined by Link et al. ( 1997 ) using the pKO3 shuttle vector . 
+A PCR fragment corresponding to the marA ORF ampliﬁed from S. Choleraesuis using primers with 50 NotI and 30 NgoMI sites was cloned into pCR-II ( Invitrogen , Carlsbad , CA ) using manufacturer 's protocols , to create pMARE . 
+pMARE was extracted and puriﬁed using the GeneElute plasmid puriﬁcation kit ( Qiagen , Valencia , CA ) , according to manufacturer 's protocols , from an overnight culture of 
+E. coli DH5a following electroporation in a 2 mm electrocuvette using standard electroporation para-meters ( 25 mF , 2.5 kV , 200 V ) and selection in SOC broth ( 20 % tryptone , 5 % yeast extract , 0.5 % NaCl , 10 ml KCl ( 250 mM ) , 5 ml MgCl2 ( 2 M ) 20 ml glucose ( 1 M ) [ pH 7.0 ] ) with 100 mg/ml ampicillin . 
+Insertion was veriﬁed using PCR with primers speciﬁc for pCR-II that ﬂank the marA ORF insertion site . 
+Puriﬁed pMARE was mixed with the EZ : TN dihydrofolate reductase ( DHFR ) transposon ( Epicentre , Madison , WI ) according to protocols provided by the manufacturers and the entire mix was used to transform E. coli DH5a using electroporation as described previously . 
+Dual ampicillin and trimethoprim ( 50 mg/ml ) resistant colonies were screened using PCR with the same primers speciﬁc for pCR-II described above . 
+Colonies that produced a PCR fragment of 1295 basepairs were chosen as those with DHFR inserted within the marA ORF of pMARE . 
+Total plasmid were extracted and puriﬁed for sequence analysis ( Purdue Genomic Core Facility , Purdue University , West Lafayette , IN ) to determine the location of the DHFR insertion within marA . 
+A single , ampicillin/trimethoprim resistant colony possessed a plasmid with DHFR insertion within the marA OR allowing for at least 100 base pairs of marA ﬂanking the insertion and was designated pMAD . 
+pMAD was extracted and puriﬁed as outlined above and used for further experiments . 
+A single NotI/NgoMI , marA : DHFR fragment digested from pMAD was ligated into a similarly digest pKO3 using standard molecular techniques ( Sambrook et al. , 1989 ) to produce pKMD . 
+pKMD was used to transform wildtype S. Choleraesuis isolates Sc3 using electroporation as described previously . 
+Following recovery in 1 ml of SOC broth at 37 8C with shaking , transformants were selected on LB agar plates with 50 mg/ml chloramphenicol and trimethoprim at 30 8C . 
+Ten chloramphenicol/tri-methoprim resistant colonies from 30 8C incubation were pooled in 1 ml of LB broth , serially diluted and plated onto the same selective LB agar and incubated at 43 8C to select for co-integrated pKMD . 
+Resistance to chloramphenicol is under the control of a temperature-sensitive promoter so expression from the plasmid occurs only at 30 8C . 
+Thus , chloramphe-nicol resistance at 43 8C indicates co-integration of pKMD into the chromosome . 
+Colonies that grew at 43 8C and were chloramphenicol/trimethoprim resistant were pooled in 1 ml of LB broth , serially diluted , and plated onto LB agar with trimethoprim and 5 % sucrose incubated at 30 8C . 
+pKO3 possesses the sacB gene which is lethal to Salmonella when grown in the presence of sucrose , thus , colonies that grew in the presence of sucrose and were resistant to trimethoprim had either lost the pKMD but retained the chromosomally recombined marA : DHFR insertion or had a spontaneous mutation in sacB and pKMD was still present . 
+To determine this , colonies were negatively selected by replica-plating onto LB agar with chloramphenicol , trimethoprim , and sucrose incubated at 30 8C . 
+Target bacteria that possessed the marA : DHFR chromosomal insertion but had lost pKMD were sensitive to chloramphenicol but resistant to sucrose and trimethoprim and were then picked off the original trimethoprim/sucrose plates used for replica-plating . 
+Chromosomal recombination of mar-A : DHFR were veriﬁed by PCR with primers speciﬁc for marA while PCR with primers speciﬁc for pKMD were used to ensure the loss of this plasmid from the bacteria . 
+Colonies that were trimethoprim resistant , sucrose sensitive , marA : DHFR positive , and pKMD negative using PCR were designated Sc35-7 . 
+Loss of marA expression was veriﬁed by Northern hybridization using a marA speciﬁc probe . 
+Complementation of the loss-of-function mar-A : DHFR insertion was accomplished by transformation of Sc35-7 with pL14 , an expression plasmid that possesses the marA ORF under the control of the IPTG-inducible lac promoter . 
+Brieﬂy , a marA ORF fragment ampliﬁed from Sc3 using primers possessing 50 NdeI and 30 BamHI restriction sites was cloned into pCR-II ( Invitrogen ) , according protocols provided by the manufacturers , to create pCMA . 
+A single NdeI / BamHI fragment was digested out of pCMA and ligated into a similarly digested pET-11a expression plasmid ( Stratagene , LaJolla , CA ) , using standard molecular procedures as described elsewhere , to create pMANB . 
+To facilitate expression of the construct in bacterial cells the T7 promoter from pMANB was digested out and a similarly digested lac promoter from pFLAG ( Sigma ) expression vector was ligated in its place to create the IPTG-inducible pL14 expression vector . 
+pL14 was used to transform marA-disrupted strain Sc35-7 using electroporation as described above ( hereby designated 5-7p + ) . 
+Transformants were recovered in 1 ml of SOC and selected on LB agar with trimethoprim and ampicillin . 
+Inducible expression of marA from this plasmid in the marA : DHFR disrupted strain was veriﬁed by Western blotting using rabbit anti-MarA antibodies ( kindly provided by Dr. Stuart Levy , Tufts School of Medicine , Boston , MA ) . 
+Table 1 
+Bacterial strains and plasmids used in this study 
+Strain or plasmid Genotype or phenotype 
+Source or reference 
+Strains Salmonella Choleraesuis 
+Sc3 Virulent wildtype parental strain Sc35-7 Sc3 with marA : : DHFR , Tm r Sc35-7R Sc35-7 with pL14 , Tm , Amp r r E. coli DH5a supE44 DlacU169 ( f80 lacZ DM15 ) HsdR17 recA1 endA1 , gyrA96 thi-1 , relA1 AG100 Wildtype E. coli K12 AG112 marR1 mutant of AG100 selected on tetracycline 
+Tibbetts et al. ( 2003 ) Present study Present study 
+Gibco , BRL 
+Gambino et al. ( 1993 ) Gambino et al. ( 1993 ) 
+Plasmids pCR-II pET-11a pFLAG pKO3 pMARE pMAD pKMD pCMA pMANB pL14 
+High-copy number cloning/sequencing vector High-copy number expression vector 
+Invitrogen Invitrogen 
+Expression vector , source of lac promoter Temperature-sensitive , recombination shuttle vector pCR-II plus marA with 50NotI and 30NgoMI sites DHFR resistance gene inserted within marA of pMARE , Kan r pKO3 with NotI/NgoMI marA fragment from pMARE pCR-II plus marA with 5 0NdeI and 30BamHI sites pET-11a with NdeI/BamHI marA fragment from pCMA marA expression plasmid under IPTG control 
+Sigma Link et al. ( 1997 ) Present study Present study Present study Present study Present study Present study 
+2.3. Northern hybridization and densitometry analysis
+Total RNA from log-phase cultures of test isolates was prepared using TRIreagent ( MRC Inc. , Cincinnati , OH ) according to manufacturers ' protocol . 
+Total RNA was separated in 1.2 % formaldehyde-agarose gels and blotted to nylon membranes as described elsewhere ( Sambrook et al. , 1989 ) . 
+Probe templates prepared by PCR using primers speciﬁc for the marA , acrB , and soxS genes were labeled with P using the 32 HighPrime kit ( Roche Molecular Biochemicals , Indianapolis , IN ) according to manufacturers ' protocol . 
+Membranes were pre-hybridized for 30 min at 55 8C in pre-hybridization buffer ( MRC Inc. , Cincinnati , OH ) and hybridization with marA and soxS probes was carried out overnight at 55 8C in SuperHy hybridization buffer ( MRC Inc. ) as described previously [ 21 ] . 
+Membranes hybridized with marA and soxS probes were washed 5 times at room temperature for 20 min each using the pre-hybridization/wash buffer ( MRC Inc. ) . 
+Hybridization with acrB probe was done at 70 8C and membranes were washed exactly as above only at 70 8C . 
+Following washes membranes were blotted dry , exposed to X-ray ﬁlm , and developed using standard procedures ( Sambrook et al. , 1989 ) . 
+Densitometry analysis of hybridization signals was done with ScionImage software ( NIH , Bethesda , MD ) and is the average fold difference ( after induction / before induction ) among wildtype and induced mutants for each inducing method and for each gene assayed . 
+Minimum inhibitory concentrations ( MIC ) of tetracycline , chloramphenicol , nalidixic acid , and rifampin against non-induced and induced , Sc3 , Sc35-7 , and Sc35-7R strains were determined using a microbroth dilution assay according NCCLS standards ( NCCLS , 1997 ) . 
+Test isolates were induced as described previously prior to MIC assay . 
+To determine the association of an efﬂux pump mechan-ism ( AcrAB ) the efﬂux pump inhibitor compound EPI phe-arg-napthylamide ( Sigma , MO ) was also used in some MIC assays . 
+For these assays duplicate test isolate cultures induced with salicylate or IPTG were also grown with 80 mg/ml of the inhibitor compound . 
+3. Results
+3.1. Chromosomal marA-disruption and complementation
+Chromosomal disruption of marA in trimethoprimresistant S. Choleraesuis isolate Sc35-7 was veriﬁed using polymerase chain reaction with primers speciﬁc for chromosomal marA gene . 
+Fragments of approximately 408 basepairs were ampliﬁed from wildtype S. Choleraesuis , Sc3 and 1285 basepairs from isolate Sc35-7 . 
+This correlates to an increase of 877 basepairs , which is the size of the EZ : TN dihydrofolate reductase ( DHFR ) gene used for double homologous recombination . 
+Complementation of the loss-of-function , marA-disruption was veriﬁed using PCR with primers speciﬁc for the pL14 expression plasmid and Western blotting of IPTG-induced marA from pL14 . 
+PCR ampliﬁed a fragment of approximately 800 basepairs from 5-7 ( p + ) but not from Sc3 or Sc35-7 . 
+SDS-PAGE and Western blotting of total proteins from IPTG-induced 5-7 ( + ) using rabbit polyclonal anti-MarA antibodies demonstrated an inducible increase in MarA from pL14 . 
+No increase in MarA was seen in the IPTG-induced Sc3 or Sc35-7 isolates that lacked pL14 ( data not shown ) . 
+3.2. Expression analysis of marA, acrB, and soxS
+Induction of wildtype S. Choleraesuis Sc3 with 5 mM salicylate led to a 10.3-fold increase in marA expression compared to non-induced Sc3 , while no expression signal was seen in the lane with total RNA from the marA-disrupted strain , Sc35-7 either before or after induction with 5 mM salicylate ( Fig. 1a ) . 
+Induction of marA-complemented strain , 5-7 ( p + ) with 1 mM IPTG led to a 21.66-fold increase compared to non-induced 5-7 ( p + ) and a 35.30-fold increase when compared to wildtype Sc3 expression level ( Fig. 1a ) . 
+Similarly , induction of Sc3 with both salicylate and paraquat led to a 9.10 - and 9.68-fold increase in acrB expression ( Fig. 1b ) . 
+Induction of marA complemen-ted strain 5-7 ( p + ) with IPTG lead to a 4.35-fold increase in acrB expression . 
+Induction of Sc3 and Sc35-7 with 5 mM salicylate did not affect the expression levels of soxS ; however , a 4.62-fold increase of soxS expression was seen in Sc3 and a 4.53-fold increase of soxS was seen in Sc35-7 following induction with 1 mM paraquat ( Fig. 1c ) . 
+The expression levels of acrB remained elevated following exposure of the bacteria to both salicylate or paraquat and the acrB efﬂux pump inhibitor EPI phe-arg-naphthylamide ( Fig. 2 ) . 
+Expression of marA was not induced by exposure to paraquat in any of the strains ( data not shown ) . 
+Fig. 1 . 
+Northern hybridization analysis of RNA transcripts obtained from test isolates Sc3 , Sc35-7 ( 5-7 ) , and Sc35-7R ( 7R ) prior to induction or following induction with salicylate ( + sal ) , paraquat ( + PQ ) , or IPTG ( + IPTG ) . 
+Signals obtained using marA ( a ) , acrB ( b ) , or soxS ( c ) probes are indicated . 
+( a ) An increase in the level of marA transcript in Sc3 and 7R but not marA disrupted mutant 5-7 following exposure to salicylate or IPTG , respectively ; 100 and 102 refer to negative and positive marA controls , respectively ( Table 1 ) . 
+( b ) Expression of acrB is upregulated in the wildtype isolate following exposure to salicylate or paraquat and in the complement strain , 7R , following IPTG induction . 
+acrB was not induced in the marA-disrupted strain , 5-7 with or without salicylate induction . 
+This suggests that marA is required for acrB expression in S. Choleraesuis . 
+( c ) soxS is induced with the soxS-speciﬁc inducing agent paraquat ; however , it is not induced following exposure to either salicylate or IPTG . 
+This suggests that marA does not regulate soxS nor is soxS regulated by salicylate . 
+Total RNA in each gel used in hybridization assays is indicate in the lower half of each ﬁgure to show concentration consistency . 
+3.3. Minimum inhibitory concentrations
+Minimum inhibitory concentrations increased fourto eight-fold against wildtype Sc3 following growth in the presence of salicylate ( Table 2 ) , while MICs did not change against the marA-disrupted mutant Sc35-7 following growth in salicylate . 
+Complementation of the marA-disruption in 5-7 with expression plasmid , pL14 ( 7R ) led to a similar four - to eight-fold increase in MICs following growth in the presence of IPTG ( Table 2 ) . 
+Growth of wildtype strain Sc3 and marA-disrupted strain Sc35-7 in the presence of paraquat had no affect on the MICs of all antimicrobials tested ( data no shown ) . 
+The addition of the efﬂux pump inhibitor EPI phe-arg-naphthylamide abrogated the increase in MICs against wildtype Sc3 and complemement strain 7R following salicylate or IPTG , respectively . 
+For tetracycline , chloramphenicol , and rifampin , MICs following EPI exposure were lower then uninduced cultures , while MICs for nalidixic acid were the same as uninduced cultures ( Table 2 ) . 
+Fig. 2 . 
+Northern hybridization analysis of RNA transcripts obtained from test isolates Sc3 ( lanes 1 -- 5 ) and 7R ( lanes 6 -- 8 ) prior to induction or following induction with salicylate ( + sal ) , paraquat ( + PQ ) , or combinations of each with efﬂux pump inhibitor EPI . 
+Signals obtained using an acrB probe are indicated . 
+This data suggests that EPI does not affect the expression levels of acrB . 
+Total RNA in each gel used in hybridization assays is indicated in the lower half of ﬁgure to show concentration consistency . 
+Table 2 
+Dependence of marA on multiple antimicrobial resistance inducibility a 
+Chl b 
+Tet b 
+Nal Fold b change + 
+b 
+Fold 
+Fold 
+Strain 
+Fold 
+Rif 
+change 
+change 
+change + 
++ 
++ 16 ( 2 ) 
+Sc3 c 
+d , e 4 ( 4 ) 16 ( < 2 ) 
+4 
+2 
+128 ( 16 ) 32 ( 16 ) 128 ( 8 ) 
+32 32 32 
+4 
+4 4 2 
+8 
+32 32 32 
+4 
+8 ( 2 ) 2 ( 2 ) 16 ( 2 ) 
+256 ( < 0.125 ) 32 ( < 0.25 ) 128 ( < 0.125 ) 
+Sc35-7 c Sc35-7R c 
+2 
+nc 4 
+nc 8 
+nc 4 
+nc 4 
+4 
+nc : no change ; + and : induction . 
+a 
+Assays repeated twice on 2 separate occasions . 
+b Tet : tetracycline ; Chl : chloramphenicol ; Nal : nalidixic acid ; Rif : rifampin . 
+c Sc3 and Sc35-7 induced with 5 mM salicylate , Sc35-7R induced with 1 mM IPTG . 
+d Sc3 , wildtype S. Choleraesuis ; Sc35-7 , disruption of marA gene in Sc3 ; Sc35-7R , marA deletion complemented with marA expression plasmid pL14 . 
+e MICs of test isolates grown in the presence of inducing agent ( salicylate or IPTG ) or inducing agent plus efﬂux pump inhibitor EPI-phe-arg naphthylamide , 80 mg/ml ( in parentheses ) . 
+4. Discussion
+Induction of the marA or soxS transcriptional activators has been shown to mediate a multiple antimicrobial resistance ( MAR ) phenotype by the upregulation of the acrAB efﬂux pump mechanism ( White et al. , 1997 ) . 
+Exposure of S. Choleraesuis to low concentrations of salicylate led to a global increase in multiple antimicrobial agents including tetracycline , chloramphenicol , nalidixic acid , and rifampin ( Tibbetts et al. , 2003 ) . 
+This MAR phenotype was also inducible by exposure of S. Choleraesuis to tetracycline , chloramphenicol , and cyclohexane ( Tibbetts et al. , 2003 ) . 
+Based on our results it is apparent that loss of marA vitiates the inducibility of a MAR phenotype in S. Choleraesuis as MIC levels did not change against the marA-disrupted strain following induction with salicylate . 
+Conversely , the MICs against wildtype isolates following induction with 
+Previously it has been shown that a marA-independent pathway leading to a MAR phenotype could be utilized by induction of the soxS transcriptional activator ( Pomposiello and Demple , 2000 ) . 
+However , a MAR phenotype could not be induced in S. Choleraesuis when marA function was disrupted . 
+A MAR phenotype could not be induced in the marA-disrupted strain even when the isolates were exposed to the soxS-speciﬁc inducing , superoxide-generating compound paraquat even though soxS and acrB expression was clearly increased in these cells as demonstrated by Northern hybridization analysis . 
+Upregulation of the acrAB genes is associated with increased resistance to multiple antimicrobials and organic solvents ( Okusu et al. , 1996 ; White et al. , 1997 ) and is generally seen upon induction of marA and soxS . 
+Consistent with this , when wildtype S. Choleraesuis isolate Sc3 was induced with salicylate there was a subsequent increase in both marA and acrB transcripts ; however , there was no increase in soxS transcript . 
+Paraquat induction of Sc3 resulted in upregulation of soxS and acrB transcripts . 
+While it is not surprising that both soxS and acrB were upregulated and marA unaffected by paraquat induction what is surprising is that MICs for these paraquat-induced isolates did not change . 
+As indicated above salicylate induction lead to a marA-dependent increase in acrB expression and subsequent increase in MICs . 
+Efﬂux pump inhibitor EPI phe-arg-naphthylamide has been recently employ-ed to block resistance-nodulation-division ( RND ) efﬂux pumps . 
+EPI has been shown to be effective at blocking efﬂuxthroughthe AcrABand Mex transporters of E. coli and Pseudomonas aerugenosa , respectively ( Baucheron et al. , 2002 ) . 
+Minimum inhibitory concentrations of bacterial cultures in the present study exposed to EPI did not increase following induction with either salicylate ( Sc3 ) or IPTG ( 7R ) as seen in the cultures grown without EPI . 
+Northern hybridization with acrB probe demonstrated that the effect of EPI was in the blocking of the efﬂux pump rather than repression of acrBexpressionsincethedensityofacrBexpressionwas unaffected by the presence of EPI and salicylate or paraquat . 
+Further , resistance , generated from salicylate induction , to all antimicrobials used in the present study was completely reversed in the presence of EPI suggesting that the MAR phenotype was due to efﬂux mechanisms rather than another resistance determinant . 
+Overall the data indicate that a functional marA serves an important role for an inducible multiple antimicrobial resistance phenotype in S. Choleraesuis by directly upregulating the expression of the AcrAB efﬂux pump mechanism . 
+This data is consistent with previous studies using S. typhimurium ( Randall and Woodward , 2001 ; Sulavik et al. , 1997 ) . 
+It has been shown that induction of marA leading to a MAR phenotype facilitates further high-level ﬂuoroquino-lone resistance development among Salmonella species ( Baucheron et al. , 2002 ) thereby obviating traditional antimicrobial therapy and it may facilitate Salmonellae pathogenesis ( Lacroix et al. , 1996 ) . 
+This suggests marA is a potential target for future antimicrobial strategies . 
+References 
+Baucheron , S. , Imberechts , H. , Chaslus-Dancla , E. , Cloeckaert , A. , 2002 . 
+The AcrB multidrug transporter plays a major role in highlevel ﬂuoroquinolone resistance in Salmonella enterica serova 
+typhimurium phage type DT204 . 
+Microb . 
+Drug Resist . 
+8 , 281 -- 289 . 
+Daniel , G.M. , Freese , W. , Henry , S. , Stevermer , E. , Straw , B. , Switzer , W.P. , 1986 . 
+An up-to-date review of atrophic rhinitis . 
+Vet . 
+Med . 
+81 , 735 -- 744 . 
+Gallegos , M.T. , Michan , C. , Ramos , J.L. , 1993 . 
+The XylS/AraC family of regulators . 
+Nucl . 
+Acids Res . 
+21 , 807 -- 810 . 
+Gambino , L. , Gracheck , S.J. , Miller , P.F. , 1993 . 
+Overexpression of the MarA positive regulator is sufﬁcient to confer multiple antibiotic resistance in Escherichia coli . 
+J. Bacteriol . 
+175 , 2888 -- 2894 . 
+George , A.M. , Levy , S.B. , 1983a . 
+Ampliﬁable resistance to tetracycline , chloramphenicol , and other antibiotics in Escherichia coli : involvement of a non-plasmid-determined efﬂux of tetracycline . 
+J. Bacteriol . 
+155 , 531 -- 540 . 
+George , A.M. , Levy , S.B. , 1983b . 
+Gene in the major cotransduction gap of the Escherichia coli K-12 linkage map required for the expression of chromosomal resistance to tetracycline and other antibiotics . 
+J. Bacteriol . 
+155 , 541 -- 548 . 
+Gray , J.T. , Fedorka-Cray , P.J. , Stabel , T.J. , Kramer , T.T. , 1996 . 
+Natural transmission of Salmonella Choleraesuis in swine . 
+Appl . 
+Environ . 
+Microbiol . 
+62 , 141 -- 146 . 
+Lacroix , F.J.C. , Cloeckaert , A. , Grepinet , O. , Pinault , C. , Popoff , M.Y. , Waxin , H. , Pardon , P.U. , 1996 . 
+Salmonella typhimurium acrB-like gene : identiﬁcation and role in resistance to biliary salts and detergents and in murine infection . 
+FEMS Microbiol . 
+Lett . 
+135 , 161 -- 167 . 
+Link , A.J. , Phillips , D. , Church , G.M. , 1997 . 
+Methods for generating precise deletions and insertions in the genome of wild-type Escherichia coli : application to open reading frame characterization . 
+J. Bacteriol . 
+179 , 6228 -- 6237 . 
+Ma , D. , Cook , D.N. , Alberti , M. , Pon , N.G. , Nikaido , H. , Hearst , J.E. , 1995 . 
+Genes acrA and acrB encode a stress-induced efﬂux system of Escherichia coli . 
+Mol . 
+Microbiol . 
+16 , 45 -- 55 . 
+NCCLS , 1997 . 
+Performance standards for animicrobial disk susceptibility tests . 
+In : Approved Standard NCCLS Document M2-A6 , 6th ed . 
+National Committee for Clinical Laboratory Standards , Villanova , PA. . 
+Neidhardt , F.C. , 1996 . 
+Escherichia coli and Salmonella : Cellular and Molecular Biology . 
+ASM Press , Washington , DC , p. 2822 . 
+Okusu , H. , Ma , D. , Nikaido , H. , 1996 . 
+AcrAB efﬂux pump plays a major role in the antibiotic resistance phenotype of Escherichia coli multiple-antibiotic-resistance ( Mar ) mutants . 
+J. Bacteriol . 
+178 , 306 -- 308 . 
+Pomposiello , P.J. , Demple , B. , 2000 . 
+Identiﬁcation of SoxS-regu-lated genes in Salmonella enterica serovar typhimurium . 
+J. Bacteriol . 
+182 , 23 -- 29 . 
+Potenski , C.J. , Gandhi , M. , Matthews , K.R. , 2003 . 
+Exposure of Salmonella enteritidis to chlorine or food preservatives decreases [ corrected ] susceptibility to antibiotics . 
+FEMS Microbiol . 
+Lett . 
+220 , 181 -- 186 . 
+Prouty , A.M. , Brodsky , I.E. , Falkow , S. , Gunn , J.S. , 2004 . 
+Bile-salt-mediated induction of antimicrobial and bile resistance in Salmonella typhimurium . 
+Microbiology 150 , 775 -- 783 . 
+Randall , L.P. , Woodward , M.J. , 2001 . 
+Multiple antibiotic resistance ( mar ) locus in Salmonella enterica serovar typhimurium DT104 . 
+Appl . 
+Environ . 
+Microbiol . 
+67 , 1190 -- 1197 . 
+Salmon , S.A. , Watts , J.L. , Case , C.A. , Hoffman , L.J. , Wegener , H.C. , Yancey Jr. , R.J. , 1995 . 
+Comparison of MICs of ceftiofur and other antimicrobial agents against bacterial pathogens of swine from the United States , Canada , and Denmark . 
+J. Clin . 
+Microbiol . 
+33 , 2435 -- 2444 . 
+Sambrook , J. , Fritsch , E.F. , Maniatis , T. , 1989 . 
+Molecular Cloning : A Laboratory Manual , 2nd ed . 
+Cold Spring Harbor Laboratory Press , Cold Spring Harbor , NY . 
+Sulavik , M.C. , Dazer , M. , Miller , P.F. , 1997 . 
+The Salmonella typhimurium mar locus : molecular and genetic analyses and assessment of its role in virulence . 
+J. Bacteriol . 
+179 , 1857 -- 1866 . 
+Tibbetts , R.J. , Lin , T.L. , Wu , C.C. , 2003 . 
+Phenotypic evidence for inducible multiple antimicrobial resistance in Salmonella Cho-leraesuis . 
+FEMS Microbiol . 
+Lett . 
+218 , 333 -- 338 . 
+Weide-Botjes , M. , Liebisch , B. , Schwarz , S. , Watts , J.L. , 1996 . 
+Molecular characterization of Salmonella enterica subsp . 
+enterica serovar Choleraesuis ﬁeld isolates and differentiation from homologous live vaccine strains suisaloral and SC-54 . 
+J. Clin . 
+Microbiol . 
+34 , 2460 -- 2463 . 
+White , D.G. , Goldman , J.D. , Demple , B. , Levy , S.B. , 1997 . 
+Role of the acrAB locus in organic solvent tolerance mediated by expression of marA , soxS , or robA in Escherichia coli . 
+J. Bacteriol . 
+179 , 6122 -- 6126

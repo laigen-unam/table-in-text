@@ -1,0 +1,719 @@
+JOURNAL OF BACTERIOLOGY , Dec. 2011 , p. 6443 -- 6451 0021-9193 / 11 / $ 12.00 doi :10.1128 / JB.00425-11 
+Copyright © 2011 , American Society for Microbiology . 
+All Rights Reserved . 
+omponents in Salmonella enterica Serovar y Lytic Transglycosylases Involved in
+Regulation of Bioﬁlm C Typhimurium b 
+Cell Wall Turnover † Claudia Monteiro ,1 Xin Fang ,2 Irfan Ahmad ,1 Mark Gomelsky ,2 and Ute Römling1 * Department of Microbiology , Tumor and Cell Biology ( MTC ) , Karolinska Institutet , Stockholm , Sweden ,1 and Department of Molecular Biology , University of Wyoming , Laramie , Wyoming 820712 
+Received 29 March 2011/Accepted 22 September 2011 
+In Salmonella enterica serovar Typhimurium , a bioﬁlm mode of growth known as the rdar morphotype is regulated by several networks which sense multiple environmental signals . 
+The transcriptional regulator CsgD is the major target for these regulatory pathways . 
+In this study , we show that two lytic transglycosylases of family I , MltE and MltC , in combination increase CsgD expression and rdar morphotype . 
+MltE and MltC , which share a highly similar transglycosylase SLT domain , work redundantly to regulate CsgD at the transcriptional and posttranscriptional levels . 
+The effect of MltE and MltC on CsgD levels was independent of the known regulatory pathways that sense cell envelope stress . 
+These ﬁndings reveal , for the ﬁrst time , a speciﬁc function of lytic transglycosylases in S. Typhimurium and suggest the existence of a new signaling pathway that links cell wall turnover to bioﬁlm formation . 
+Bioﬁlm formation is the most common mode of growth of bacteria . 
+The food-borne gastrointestinal pathogen Salmonella enterica serovar Typhimurium ( S. Typhimurium ) establishes bioﬁlms on a variety of surfaces , such as those of plants , the eukaryotic host , industrial equipment , and medical supplies . 
+Under laboratory conditions , S. Typhimurium bioﬁlms are manifested as a distinct colony morphotype on Congo red agar plates , named rdar , due to the red dry and rough colony appearance . 
+This form of bioﬁlm is characterized by the expression of cellulose and curli ﬁmbriae , two major extracellular matrix components in S. Typhimurium ( 7 , 44 , 56 , 64 ) . 
+The transcriptional regulator CsgD is the major regulator of the rdar morphotype ( 11 , 48 ) . 
+CsgD positively regulates the transcription of the csgBAC operon , which encodes the structural subunits for curli ﬁmbriae ( 18 , 49 ) , and contributes indirectly to cellulose production by activating the transcription of adrA ( 48 , 63 ) . 
+AdrA is a diguanylate cyclase that synthesizes the second messenger cyclic-di-GMP ( c-di-GMP ) , the effector molecule that binds to and allosterically activates cellulose synthase ( 55 , 64 ) . 
+CsgD expression integrates many environmental signals . 
+Several diverse proteins bind to the csgD promoter , including the stress sigma factor RpoS and the response regulator OmpR ( 11 , 12 , 39 , 45 ) . 
+In addition , CsgD is regulated by the second messenger c-di-GMP at the transcriptional and posttranscriptional levels ( 29 ) . 
+Two redundant small RNAs , OmrA and OmrB , control CsgD expression on a posttranscriptional level , although their effect is not pronounced under growth on 
+* Corresponding author . 
+Mailing address : Department of Microbiology , Tumor and Cell Biology , Karolinska Institutet , FE28017177 , Stockholm , Sweden . 
+Phone : 0046-8-524 87319 . 
+Fax : 0046-8-330744 . 
+E-mail : Ute.Romling@ki.se . 
+† Supplemental material for this article may be found at http://jb . 
+asm.org / . 
+Published ahead of print on 30 September 2011 . 
+petri plates ( 21 ) . 
+The regulation of the rdar morphotype therefore integrates a variety of complex regulatory systems . 
+Lytic transglycosylases are a class of ubiquitous bacterial enzymes involved in the turnover of the bacterial cell wall constituent peptidoglycan ( PG ) . 
+Lytic transglycosylases cata-lyze the cleavage of the -1,4 - glycosidic bond between N-acetylmuramic acid and N-acetylglucosamine with anhydromuropeptide monomers as products ( 23 ) . 
+Escherichia coli harbors seven lytic transglycosylases , the soluble Slt70 and six outer membrane-anchored lipoproteins , MltA to MltF ( 52 ) . 
+Lytic transglycosylases have redundant functions . 
+Although Slt is the principal lytic transglycosylase responsible for the turn-over of PG ( 41 ) , the deletion of as many as six lytic transglycosylases is required for an observable effect on cell morphology and the cleavage of the PG septum ( 19 ) . 
+Four different families of lytic transglycosylases can be distinguished ( 4 ) . 
+However , due to functional redundancy , the correlation of function with family assignment is limited . 
+Lytic transglycosylases are involved in the biosynthesis and recycling of the PG sacculus during cell growth and division , as well as in the insertion of macromolecular complexes spanning the cell wall ( 22 , 30 , 52 ) . 
+In E. coli , half of the cell wall is broken down in one generation ( 15 ) . 
+The anhydromuropeptide monomers formed as a result of PG hydrolysis are reused directly or transported into the cytoplasm through the permease AmpG ( 34 ) . 
+In the cytoplasm , the PG degradation products have a signaling function in the regulatory network sensing cell wall turnover ( 26 , 27 ) . 
+Together with other PG degrading enzymes , lytic transglycosylases separate daughter cells through the cleavage of the septum during cell division ( 19 ) . 
+Lytic transglycosylases also hydrolyze PG to make space for the insertion of macromolecular complexes , e.g. , type III secretion systems , ﬂagella , and pili ( 40 , 62 ) . 
+In addition to these functions , lytic transglycosylases contribute to bacterium-host interaction , because anhydromuro-peptide monomers are recognized by eukaryotic pattern rec-ognition receptors ( 13 , 60 ) . 
+Bacteria as diverse as Bordetella pertussis , Neisseria gonorrhoeae , and Vibrio ﬁscheri release signiﬁcant amounts of anhydromuropeptides , which are required for both virulence and symbiosis ( 14 , 31 , 37 ) . 
+In this study , we show that two of seven family I lytic transglycosylases from S. Typhimurium , MltE and MltC , are spe-ciﬁcally involved in the regulation of bioﬁlm formation by affecting the expression of the master bioﬁlm regulator CsgD . 
+644 
+MATERIALS AND METHODS
+Bioinformatic analysis . 
+A search with the MltE protein sequence using BLAST ( http://blast.ncbi.nlm.nih.gov/Blast.cgi ) at NCBI ( http://www.ncbi.nlm . 
+nih.gov / ) with standard parameters was done to identify lytic transglycosylases in S. Typhimurium . 
+Sequences were aligned using CLUSTALX 2.0.12 software ( 57 ) . 
+The phylogenetic tree was constructed using Dendroscope software ( 25 ) . 
+The domain architecture was analyzed using the Pfam database ( 10 ) . 
+Strains , plasmids , and growth conditions . 
+Strains and plasmids used in this study are listed in Table S1 in the supplemental material . 
+The MAE52 strain differs from the wild-type UMR1 by a single point mutation in the csgD promoter , resulting in semiconstitutive , temperature-independent CsgD and rdar morphotype expression . 
+In this strain , csgD expression is independent of RpoS ( 49 ) . 
+For rdar morphotype analysis , strains were grown in Luria-Bertani ( LB ) medium without salt or on LB without salt agar . 
+If required , antibiotics and inducers were added at the following concentrations : chloramphenicol ( 20 g ml 1 ) , ampicillin ( 100 g ml 1 ) , and 0.1 % arabinose . 
+For cloning purposes , Escherichia coli and S. Typhimurium were grown on LB and LB agar plates supplemented with antibiotics . 
+Construction of strains and plasmids . 
+The deletion of genes was performed by one-step gene inactivation as described by Datsenko and Wanner ( 8 ) . 
+A chlor-amphenicol resistance marker replaced the gene of interest with the exclusion of the ﬁrst and last 40 bp . 
+Phage transduction was carried out using phage P22 HT105/1 int-201 ( 53 ) . 
+Mutant alleles were veriﬁed by PCR with control primers located up - and downstream of the targeted open reading frame ( ORF ) ( see Table S2 in the supplemental material ) . 
+In general , the genes were cloned with a C-terminal 6 His tag in the vector pBAD30 . 
+mltE and mltC with a glutamic acid-to-glutamine replacement at positions 64 and 219 were constructed by PCR-based mutagenesis using overlapping primers containing the mutations and subsequently cloned into pBAD30 ( 17 ) , resulting in pCPM14 and pCPM15 . 
+To construct plasmids for protein puriﬁcation , DNA fragments of the transglycosylase SLT domains of S. Typhi-murium MltE and MltC proteins ( wild-type and mutants ) were cloned into vector pMAL-c2x ( NEB ) in frame with the maltose-binding protein ( MBP ) . 
+The MltE protein contained residues 34 to 202 , and the MltC protein contained residues 189 to 325 . 
+All recombinant plasmids were conﬁrmed by sequencing . 
+The primers used to construct and sequence the plasmids are listed in Table S2 in the supplemental material . 
+Phenotypic evaluation of rdar morphotype formation . 
+To detect curli ﬁmbriae and cellulose production , the colony morphology phenotype was assessed on Congo red agar plates using the spot test . 
+Strains were precultured on LB agar plates at 37 °C for approximately 16 h. Cells were suspended in LB medium and adjusted to an optical density at 600 nm ( OD600 ) of 3 . 
+Five microliters of the suspension was spotted on LB without salt agar plates supplemented with Congo red ( 40 g ml 1 ) and Coomassie brilliant blue G-250 ( 20 g ml 1 ) . 
+The phenotype was observed after 24 h , if not otherwise indicated . 
+Western blot analysis . 
+Bacteria were grown on LB without salt agar plates at 28 °C for 17 h. Five mg ( wet weight ) cells was harvested , resuspended in 200 l sample buffer , and incubated at 95 °C for 10 min . 
+The total protein content was analyzed by Coomassie blue staining after gel separation . 
+Equal amounts of total protein were separated by SDS-PAGE ( 12 % resolving gel and 4 % stacking gel ) and transferred to a polyvinylidene diﬂuoride membrane ( Immobilon P ; Millipore ) . 
+Detection of CsgD was carried out as described previously ( 48 ) using a polyclonal anti-CsgD peptide antibody ( 1:5,000 ) and horseradish peroxidase-conju-gated goat anti-rabbit IgG ( 1:2,000 ; Jackson ImmunoResearch Laboratories Inc. ) . 
+His tag was detected with a monoclonal penta-His antibody ( 1:2,000 ; Qiagen ) and horseradish peroxidase-conjugated anti-mouse IgG ( 1:10,000 ; Jackson ImmunoResearch Laboratories Inc. ) . 
+Chemiluminescence ( Lumi-Light WB substrate ; Roche ) was recorded using the Las-1000 system ( Fuji Film ) and quantiﬁed with ImageJ software ( http://rsb . 
+info.nih.gov / ij / ) . 
+CsgA detection . 
+CsgA was detected after an enrichment procedure ( 46 ) . 
+Bacteria were grown on LB agar plates without salt at 28 °C for 17 h. Three mg of bacteria was harvested and resuspended in 1.5 ml TE ( 10 mM Tris , 1 mM EDTA , pH 7.5 ) with 2 % SDS , followed by an incubation at 95 °C for 45 min . 
+Afterwards the sample was centrifuged , and the pellet washed with water and ﬁnally resuspended in 30 l water . 
+The suspension was lyophilized and the pellet dissolved in 20 l formic acid to depolymerize curli ﬁmbriae . 
+After the removal of the formic acid , the CsgA-enriched pellet was resuspended in 20 l SDS sample buffer and 7 l was loaded on the gel ( 15 % separating gel with a 4 % stacking gel , with a double concentration of buffer in the separation gel and running buffer ) . 
+After the run , CsgA was visualized by staining the gel with colloidal Coomassie . 
+RNA extraction , cDNA synthesis , and quantitative real-time reverse tran-scription-PCR ( RT-PCR ) . 
+Bacteria were grown on LB without salt agar plates at 28 °C for 17 h and immediately frozen in liquid nitrogen after harvest . 
+The extraction of total RNA was performed using the SV total RNA isolation system ( Promega ) with minor modiﬁcations ( 16 ) . 
+The quality of RNA samples was assessed by gel electrophoresis , and RNA concentrations were determined using the NanoDrop System ( Thermo Scientiﬁc ) . 
+cDNA synthesis from total RNA was performed with the high-capacity cDNA reverse transcription kit ( Applied Bio-systems ) by following the manufacturer 's instructions . 
+The expression of the genes of interest was determined by two-step real-time RT-PCR using the power SYBR green PCR master mix ( Applied Biosystems ) and the 7500 real-time PCR system ( Applied Biosystems ) . 
+Relative transcript CT abundance was determined with the 2 method using 7500 SDS software , v1 .3.1 ( Applied Biosystems ) . 
+The rpsV gene was used as an endogenous control for internal normalization . 
+Experiments were performed as biological triplicates using the mean expression from quadruplicates per real-time PCR assay relative to a calibrator value ( UMR1 ) . 
+Zymogram analysis . 
+The MBP-MltE and MBP-MltC fusions were expressed in E. coli DH5 . 
+The proteins were induced at an optical density at 600 nm ( OD600 ) of 0.6 using 0.5 mM isopropyl - - D-thiogalactopyranoside ( IPTG ) for 3 h . 
+The proteins were partially puriﬁed from the cell extracts using afﬁnity chromatography on amylose resin by following the manufacturer 's protocol ( NEB ) . 
+Cell wall hydrolytic activities were detected after the separation of the wholecell protein extracts , or partially puriﬁed MBP-MltE and MBP-MltC proteins , using 12 % denaturing SDS-PAGE according to the method reported previously ( 3 , 32 ) . 
+Brieﬂy , the samples were boiled for 5 min in SDS sample buffer ( BioRad , Hercules , CA ) and resolved by 12 % SDS-PAGE containing 0.6 % ( wt/vol ) lyophilized cells of Micrococcus lysodeikticus ( Sigma , St. Louis , MO ) . 
+After PAGE , the gel was brieﬂy rinsed with water and renaturation buffer ( 25 mM sodium phosphate , 10 mM MgCl2 , and 0.1 % Triton X-100 ) with gentle agitation at room temperature . 
+The gel was incubated overnight in 500 ml of renaturation buffer at 30 °C followed by an incubation for 24 h at 37 °C . 
+The cell wall material in the gel was stained with 0.1 % methylene blue in 0.01 % KOH . 
+The gel subsequently was destained with water until unstained autolytic bands appeared on the blue background ( 32 ) . 
+Microscopy . 
+To perform light and transmission electron microscopy ( TEM ) , strains were grown on LB agar plates without salt at 28 °C for 24 h. For TEM , cells were harvested , ﬁxed using 2 % glutaraldehyde , and resuspended in phos-phate-buffered saline ( PBS ) . 
+TEM was performed by the electron microscopy unit ( EMil ) of the Karolinska Institutet . 
+RESULTS
+Lytic transglycosylases in S. Typhimurium . 
+The c-di-GMP-binding protein YcgR is involved in the transition of motile cells to sessility at high intracellular c-di-GMP concentrations ( 5 , 42 , 51 ) . 
+In several enterobacterial species , including S. Typhimurium , E. coli , Shigella , Klebsiella , and Erwinia , the ycgR and mltE genes are located next to each other and are transcribed in opposite directions . 
+To investigate a potential link between MltE and c-di-GMP metabolism or c-di-GMP-con-trolled functions , we investigated the impact of mltE coding for a family I lytic transglycosylase on bioﬁlm formation ( rdar morphotype expression ) in S. Typhimurium . 
+The mltE deletion mutant did not show a change in rdar morphotype expression compared to its expression in the S 
+Typhimurium wild-type UMR1 ( Fig. 1A ) . 
+On the other hand , the overexpression of MltE from a plasmid led to an upregulated rdar morphotype after 17 h , and upon extended incubation it manifested as an extended matrix structure on Congo red agar plates ( Fig. 1B ) . 
+It is important to note that the overexpression of MltE did not result in the retardation of growth or cell lysis ( data not shown ) . 
+To investigate whether the lack of the phenotype of the mltE mutant was due to functional redundancy among lytic transglycosylases , we deleted genes encoding family I lytic transglycosylases in the wild-type , UMR1 , and mltE genetic backgrounds . 
+A homology search identiﬁed seven lytic transglycosylases belonging to family I in S. Typhimurium ( Fig. 2A and B ) . 
+Six single deletion mutants ( mltE , mltC , PSLT072 , STM4217 , mltD , and slt mutants ) , excluding the most distantly related yfhD ( mltF ) mutant , were investigated and showed no change in rdar morphotype expression ( data not shown ) . 
+The analysis of all possible double mutants , however , revealed a signiﬁcant downregulation of the rdar morphotype in the mltE mltC double mutant , which manifested as a white and smooth colony appearance after 24 h of growth ( Fig. 1A ) . 
+We also overexpressed the remaining ﬁve lytic transglycosylases individually ( mltC , PSLT072 , STM4217 , mltD , and slt ) , but rdar morphotype expression was not altered compared to that of the wild type ( data not shown ) . 
+These results demonstrate a speciﬁc involvement of MltE and MltC in rdar morphotype expression . 
+MltE and MltC have different domain structures . 
+While MltE contains only the transglycosylase SLT domain , MltC is composed of two domains , the domain of unknown function , DUF3393 , at the N terminus and the SLT domain at the C terminus ( Fig. 2C ) . 
+The SLT domains of MltE and MltC share 38 % identity , which is the highest identity between transglycosylase SLT domains in S. Typhimurium ( Fig. 2A and B ) . 
+Therefore , it is possible that the close phylogenetic relationship between the SLT domains of MltE and MltC is the basis for their apparent functional redundancy in rdar morphotype expression . 
+MltE and MltC regulate expression of the extracellular matrix components through CsgD . 
+To gain insight into the mechanism responsible for the effect of MltE and MltC on bioﬁlm formation , we measured expression levels of the master transcriptional activator CsgD and the levels of one of the main matrix components , curli ﬁmbriae . 
+The expression of curli ﬁmbriae was monitored by the assessment of the amount of mo-nomeric CsgA , the structural subunit released following formic acid-mediated ﬁmbriae depolymerization . 
+The mltE or mltC single mutant showed no differences from the wild-type UMR1 , while the mltE mltC double mutant showed a clear reduction in CsgD and CsgA protein levels ( Fig. 1C ) . 
+CsgD expression levels were reduced to approximately 30 % in the mltE mltC double mutant compared to that of wild-type UMR1 . 
+To investigate at which level MltE and MltC regulate CsgD expression , the csgD mRNA levels were determined by realtime RT-PCR ( Fig. 3A ) . 
+The csgD mRNA levels in the mltE mltC double mutant were about 47 % of the levels of the wild type . 
+Therefore , MltE and MltC appear to regulate CsgD expression at the transcriptional and posttranscriptional levels . 
+When MltE was expressed from a plasmid in the mltE mltC double mutant , the csgD mRNA levels were restored to wild-type levels ( Fig. 3A ) . 
+Also , rdar morphotype expression and CsgD and CsgA protein levels reached or exceeded wildtype levels in the mltE mltC double mutant upon the overexpression of MltE but not MltC ( Fig. 3B and C and data not shown ) . 
+An investigation of the level of MltC expression revealed that MltC is expressed at signiﬁcantly lower levels than MltE despite the fact that they had identical promoters and ribosome-binding sites ( data not shown ) . 
+Low MltC from plasmid expression may be responsible for the lack of restoration of rdar morphotype expression . 
+The catalytic activities of MltE and MltC are responsible for the effect on the rdar morphotype . 
+To investigate whether the transglycosylase activities of MltE and MltC were required for rdar morphotype expression , we constructed point mutations in both proteins that were expected to decrease or abolish their activities . 
+Lytic transglycosylases of family I share a conserved E-S motif ( 4 ) , where the glutamyl residue is directly involved in catalysis ( 58 ) . 
+We replaced the glutamyl residues in the E-S motif with glutamines ( E653Q in MltE and E2193Q i 
+FIG. 1 . 
+MltE in combination with MltC affects the expression of the rdar morphotype through CsgD . 
+( A ) Wild-type S. Typhimurium UMR1 and mutants of lytic transglycosylases MltE and MltC grown on Congo red agar plates at 28 °C for 24 h . 
+The mltE and mltC single mutants do not show any difference in rdar morphotype expression compared to that of wild-type UMR1 , while the mltE mltC double mutant shows a visible downregulation of rdar morphotype expression . 
+( B ) MltE overexpression enhanced the rdar morphotype expression of UMR1 compared to that of the strain containing the vector control . 
+Spot colonies were grown on Congo red agar plates at 28 °C for 7 days . 
+VC , vector control pBAD30 . 
+( C ) CsgD and CsgA expression in S. Typhimurium UMR1 and its mltE and mltC mutants . 
+Compared to wild-type UMR1 , a signiﬁcant reduction of CsgD and CsgA expression is observed in the mltE mltC double mutant . 
+No change in CsgD and CsgA levels is detected in the mltE and mltC single mutants . 
+The strains UMR1 csgD and UMR1 csgA were used as negative controls ( n.c. ) for CsgD and CsgA detection , respectively . 
+Strains were grown on LB without NaCl agar at 28 °C for 17 h. 
+FIG. 2 . 
+Phylogenetic analysis of the transglycosylase SLT domains of the lytic transglycosylases of S. Typhimurium . 
+( A ) Amino acid alignment of transglycosylase SLT domains of S. Typhimurium . 
+The catalytic E-S motif is a characteristic of SLT family I domains . 
+( B ) Phylogenetic tree indicating the relatedness of SLT domains of lytic transglycosylases . 
+MltE and MltC lytic transglycosylase SLT domains are highly related . 
+The tree was constructed using Dendroscope . 
+( C ) Domain architecture of MltE and MltC . 
+MltE contains only a transglycosylase SLT domain . 
+MltC is composed of an N-terminal DUF3393 domain and a C-terminal transglycosylase SLT domain . 
+The diamond indicates the catalytic residues of MltE and MltC ( E64 and E219 , respectively ) . 
+MltC ) . 
+When the mutant MltE and MltC proteins were expressed from plasmids ( pCPM14 and pCPM15 , respectively ) , they could not restore the rdar morphotype in the mltE mltC double mutant ( Fig. 4A and data not shown ) . 
+Interestingly , the overexpression of MltEE65Q resulted in a mucoid phenotype ( Fig. 4A ) , suggesting that the expression of the protein lacking the catalytic activity imposed envelope stress ( 35 , 36 ) . 
+FIG. 3 . 
+Complementation of the S. Typhimurium UMR1 mltE mltC double mutant by MltE . 
+( A ) Expression of csgD in the wild-type S. Typhimurium UMR1 and the mltE mltC double mutant was determined by quantitative real-time RT-PCR . 
+csgD mRNA levels decreased in the mltE mltC double mutant compared to those of wild-type UMR1 . 
+The expression of MltE from a plasmid restored csgD mRNA to wild-type UMR1 levels . 
+VC , vector control pBad30 . 
+A decrease in csgD mRNA levels in the MAE52 mltE mltC double mutant also was observed . 
+The strain UMR1 ompR was used as a negative control ( 45 ) . 
+Bacteria were grown on LB agar plates without salt at 28 °C for 17 h . 
+The experiment was performed with three biological replicates , using the mean expression values from four technical replicates . 
+( B ) Rdar morphotype expression in the double mutant UMR1 mltE mltC is complemented with a plasmid expressing MltE but not MltC . 
+Strains were grown on Congo red agar at 28 °C for 24 h. ( C ) CsgD and CsgA expression levels in the double mutant UMR1 mltE mltC complemented with pMltE and pMltC . 
+The expression of MltE strongly increases the amount of CsgD and CsgA in the double mutant , while MltC expression leads to the minor upregulation of CsgD and CsgA . 
+The relative protein levels compared to that of S. Typhimurium UMR1 , which was set at 100 % , are indicated . 
+VC , vector control pBad30 . 
+The strains UMR1 csgD and UMR1 csgA were used as negative controls ( n.c. ) for CsgD and CsgA detection 
+To verify the effect of the E3Q mutations on catalytic activities of MltE and MltC , we overexpressed the SLT domains from these proteins as fusions to the maltose-binding protein , MBP . 
+The puriﬁed MBP-MltESlt and MBP-MltCSlt proteins were used in a zymogram assay for the degradation of the PG-rich Micrococcus cell wall . 
+Wild-type MltE and MltC have PG hydrolytic activity , although the SLT domain of MltC proved to be much less active than the SLT domain of MltE in the zymogram assays . 
+The catalytic-site E3Q mutants of MltE and MltC had signiﬁcantly reduced activities compared to the activities of the wild-type proteins , but their activities were not fully abolished ( Fig. 4B and C ) . 
+It is unclear whether the residual activities observed in the zymogram assays also are present in the full-length proteins in vivo . 
+Taken together , however , these results demonstrate that the catalytic activities of MltE and MltC were responsible for the positive effect of these lytic transglycosylases on the rdar morphotype expression . 
+The stress sigma factors RpoS and OmpR are not involved in regulation of CsgD expression by lytic transglycosylases . 
+The stress sigma factor RpoS is required for CsgD expression ( 45 ) . 
+RpoS expression is regulated by a complex network involving a multitude of components and regulatory pathways . 
+We investigated whether RpoS expression is involved in CsgD downregulation in the mltE mltC double mutant . 
+The overexpression of RpoS from a plasmid did not restore rdar morphotype expression in the mltE mltC double mutant . 
+In addition , in strain MAE52 , CsgD expression is independent of RpoS due to a single point mutation in the csgD promoter resulting in semiconstitutive , temperature-independent CsgD and rdar morphotype expression ( 49 ) . 
+In the MAE52 mltE mltC double mutant , the rdar morphotype was downregulated when grown at 28 and 37 °C ( data not shown ) . 
+The csgD expression of the MAE52 mltE mltC double mutant was reduced to 59 % of that of MAE52 ( Fig. 3A ) , and CsgD protein levels were even more reduced ( data not shown ) . 
+Because a similar reduction was observed in the UMR1 background , where csgD expression is RpoS dependent , we conclude that CsgD regulation by MltE and MltC occurs independently of RpoS . 
+OmpR is another global transcriptional regulator required for csgD expression ( 45 ) . 
+The overexpression of OmpR did not restore the CsgD expression of the mltE mltC double mutant , suggesting that OmpR does not limit CsgD expression in the mltE mltC double mutant ( data not shown ) . 
+MltE and MltC do not work through the Rcs and Cpx two-component systems . 
+Two membrane-bound sensory systems monitor cell envelope stress . 
+The complex two-compo-nent system Rcs senses perturbations in the PG layer ( 33 ) , with the response regulator proteins RcsB and RcsA serving as the output ( 35 ) . 
+CpxR , the response regulator of the Cpx two-component surface-sensing system , suppresses CsgD expression and activates the expression of cell wall-degrading proteins ( 28 , 59 ) . 
+To investigate whether PG degradation by MltE and MltC is sensed through either of the two signaling systems , we expressed MltE and MltEE65Q in the respective response regulator mutants . 
+We also constructed response regulator mltE mltC triple mutants . 
+The upregulation of rdar morphotype expression was observed upon the overexpression of MltE in all response regulator mutants , i.e. , rcsA , rcsB , and cpxR mutants ( see Fig . 
+S1A in the supplemental material ; data not shown ) . 
+Further , the deletion of the response regulator genes in the mltE mltC background did not prevent rdar morphotype downregulation ( see Fig . 
+S1B ; data not shown ) . 
+Consequently , the regulation of the rdar morphotype by MltE and MltC occurs independently of the Rcs and Cpx two-com-ponent systems . 
+Interestingly , however , the expression of MltEE65Q in the rcsB mutant did not stimulate a mucoid phenotype ( i.e. , overproduction of colanic acid ) ( see Fig . 
+S1A ) . 
+This ﬁnding demonstrates that a speciﬁc envelope stress signal was induced by the catalytically inactive MltE , but it was not induced by the active form of MltE . 
+c-di-GMP can partially compensate for the downregulation of rdar morphotype and CsgD expression in the mltE mltC deletion mutants . 
+The second messenger c-di-GMP is known to regulate rdar morphotype expression ( 29 , 47 ) . 
+We investigated whether c-di-GMP signaling is involved in rdar morphotype and CsgD expression through MltE and MltC . 
+Six proteins that affect the c-di-GMP metabolism in S. Typhimurium were described to be speciﬁcally involved in CsgD regulation . 
+Among them are the GGDEF-EAL domain diguanylate cyclase STM2123 and the EAL domain phosphodiesterase STM4264 ( 29 , 54 ) . 
+To investigate the effect of elevated c-di-GMP concentrations , we deleted the phosphodiesterase STM4264 or overexpressed the di-guanylate cyclase STM2123 which leads to elevated CsgD expression in wild-type S. Typhi-murium UMR1 . 
+CsgD expression in the mltE mltC STM4264 triple mutant was increased compared to that of the mltE mltC double mutant , but it did not reach the level of the STM4264 single mutant ( Fig. 5A and B ) . 
+Consistently with this result , CsgD expression was upregulated upon the overexpression of the diguanylate cyclase STM2123 in the mltE mltC mutant ( Fig. 5C and D ) . 
+We conclude that while higher intracellular c-di-GMP levels can partially compensate for the effect of MltE and MltC on rdar morphotype and CsgD expression , the effect of MltE and MltC is largely c-di-GMP independent . 
+Morphological characterization of mltE mltC mutants . 
+Lytic transglycosylases are responsible for the cleavage of the bacterial PG , which is essential for the separation of the daughter cells following cell division ( 19 ) . 
+Therefore , the deletion of such a general function might have pleiotropic effects . 
+However , we observed no difference in growth rates between the wild type and the mltE mltC double mutant when these strains were grown in LB medium at 37 °C ( data not shown ) . 
+Interestingly , the double mutant showed severe morphological alteration , i.e. , the formation of long chains , when grown at 28 °C in LB without salt ( Fig. 6A ; also see Fig . 
+S2 in the supplemental material ) . 
+These chains of cells subsequently were analyzed by TEM , which revealed that chain formation is due to the impairment of the cleavage of the PG septum ( Fig. 6B ) . 
+The severity of the morphological alterations varied with growth conditions . 
+When grown at 37 °C in LB medium , the mltE mltC double mutant showed only a few longer cells but no extended chains ( data not shown ) . 
+The mltE mltC STM4264 triple mutant , with an upregulated rdar morphotype ( due to higher intracellular c-di-GMP levels ) compared to that of the mltE mltC double mutant , also formed long chains at 28 °C in LB without salt medium ( Fig. 6A ) , while the STM4264 mutant looked like wild-type S. 
+FIG. 4 . 
+Catalytic activity of the transglycosylase SLT domain of MltE is required for rdar morphotype expression . 
+( A ) Morphotypes of UMR1 mltE mltC overexpressing pMltE or pMltEE64Q . 
+MltE expressed from a plasmid leads to an upregulation of the morphotype compared to that of strain UMR1 mltE mltC , while the expression of MltEE64Q showed a white and mucoid colony . 
+VC , vector control pBad30 . 
+Strains were grown on Congo red agar plates for 24 h at 28 °C . 
+( B ) Cell wall hydrolytic activity of lytic transglycosylases MltE and MltC . 
+SLT domains from MltE and MltC were partially puriﬁed and resolved on SDS-PAGE gel containing M. luteus cells as substrates for lytic transglycosylase activity . 
+The lytic transglycosylase activity of MltE was higher than the activity of MltC . 
+The MltE and MltC proteins containing mutations in the conserved glutamyl residues show only residual hydrolytic activity . 
+( C ) An SDS-PAGE gel stained with Coo-massie blue as a loading control . 
+Lanes : 1 , MltE ; 2 , MltEE64Q ; 3 , MltC ; 4 , MltCE219Q ; and 5 , molecular mass standard ( in kDa ) . 
+Typhimurium UMR1 . 
+As CsgD expression is upregulated in the mltE mltC STM4264 triple mutant ( Fig. 6B ) , these results indicate that long-chain formation and rdar morphotype expression represent two uncoupled phenomena . 
+Long-chain formation also was observed in E. coli when six murein hydrolases were deleted ( 19 ) . 
+Note that no morphological alterations were detected for the mltE and mltC single mutants ( data not shown ) . 
+As another phenotype that can result from defective lytic transglycosylases , the integrity of the cell envelope was tested . 
+Increased cell membrane permeability leads to susceptibility to bile acids . 
+The mltE mltC double mutant , respective single mutants , and the mltE mltC STM4264 triple mutant were grown on MacConkey agar , which contains bile salts . 
+The mltE mltC double mutant and the mltE mltC STM4264 triple mutant were unable to grow on MacConkey agar plates ( data not shown ) , showing that the deletion of these two lytic transglycosylases increases the permeability of the cell envelope . 
+S. Typhimurium , like other Gram-negative bacteria , is resistant to vancomycin , as the outer membrane is a barrier for this high-molecular-weight antibiotic . 
+However , resistance to vancomycin was not affected by the mltE mltC mutations ( data not shown ) , which demonstrates that membrane integrity is not entirely lost . 
+FIG. 5 . 
+Effect of c-di-GMP signaling on the restoration of rdar morphotype expression in the UMR1 mltE mltC double mutant . 
+( A ) Deletion of STM4264 , encoding a c-di-GMP-dependent phosphodiesterase , in the mltE mltC double mutant upregulated rdar morphotype expression compared to that of the mltE mltC double mutant . 
+As previously shown ( 45 ) , the STM4264 mutant displayed an upregulated rdar morphotype compared to that of wild-type UMR1 . 
+( B ) CsgD expression in wild-type UMR1 and mutants . 
+The mltE mltC STM4264 triple mutant shows an increase in CsgD levels compared to that of UMR1 mltE mltC , as CsgD expression increased in S. Typhimurium UMR1 compared to that of its STM4264 mutant . 
+The relative protein levels compared to that of S. Typhimurium UMR1 , which was set at 100 % , are indicated . 
+n.c. , negative-control MAE50 cogD . 
+( C ) UMR1 and the mltE mltC double mutant harboring p2123 showed upregulated rdar morphotype expression compared to that of the vector control ( VC ) pBAD30 . 
+( D ) CsgD expression in UMR1 and UMR1 mltE mltC containing p2123 . 
+CsgD expression increased upon the expression of STM2123 in the wild-type UMR1 and the UMR1 mltE mltC mutant . 
+n.c. , negative-control MAE50 cogD . 
+For phenotype observation ( A and C ) , strains were grown on Congo red agar at 28 °C for 24 h. To detect CsgD expression ( B and D ) , wild-type UMR1 and mutants were grown on LB without NaCl agar at 28 °C for 17 h. 
+FIG. 6 . 
+Morphological characterization of mltE and mltC mutants . 
+( A ) Light microscopy of the mltE mltC and mltE mltC STM4264 mutants . 
+The mltE mltC double mutant and the mltE mltC STM4264 triple mutant display the formation of long chains when grown at 28 °C in LB without salt medium . 
+The wild-type UMR1 shows rod-shaped cells of standard length . 
+Magniﬁcation , 630 . 
+( B ) Transmission electron microscopy ( TEM ) of the mltE mltC double mutant . 
+Long chains of cells are observed in the mltE mltC double mutant due to an impairment of the cleavage of the PG septum ( arrow ) . 
+The wildtype UMR1 shows rod-shaped cells of 0.8 to 1 m standard length without impairment in the cleavage of the PG septum . 
+Bars indicate 1 ( left panel ) or 0.2 m ( right panel ) 
+DISCUSSION
+In this study , we identiﬁed two lytic transglycosylases of family I , the catalytic activities of which speciﬁcally affect rdar morphotype expression ( bioﬁlm formation ) in S. Typhimu-rium . 
+We established that these transglycosylases act upon the expression of CsgD , the key rdar morphotype transcription factor . 
+In total , we identiﬁed nine lytic transglycosylases in S. Typhimurium . 
+In contrast to E. coli , which harbors ﬁve transglycosylases of family I ( 30 , 52 ) , in S. Typhimurium seven belong to family I , while MltA belongs to family II and MltB to family III . 
+This functional redundancy makes the assignment of speciﬁc functions complex . 
+In this work , we demonstrate that two lytic transglycosylases of family I , MltE and MltC , are speciﬁcally involved in the expression of the rdar morphotype . 
+MltE and MltC have different domain structures . 
+While MltE contains an SLT domain only , MltC contains an additional domain of unknown function , DUF3393 . 
+The SLT domains of MltE and MltC show closer similarity to each other than to other lytic transglycosylases in S. Typhimurium . 
+MltE and MltC may be redundant with respect to the regulation of CsgD expression , i.e. , only the absence of both proteins has an effect on CsgD and rdar morphotype expression . 
+However , while MltE overexpression fully complemented the mltE mltC double mutant , MltC overexpression complemented it only partially . 
+This may be explained by signiﬁcantly higher levels of MltE compared to those of MltC despite identical expression sequences . 
+An alternative is that the functions of MltC and MltE are complementary because MltE is believed to be an endo-acting transglycosylase ( 2 ) , whereas MltC is an exoenzyme ( 32 ) . 
+Ours is not the ﬁrst report linking lytic transglycosylases ( also known as autolysins ) to bioﬁlm formation . 
+For example , the mltE gene was found to promote bioﬁlm formation in a recent screen of E. coli mutants ( 38 ) . 
+Furthermore , in ﬁrmicutes ( low-GC Gram-positive bacteria ) , interference with PG turnover alters surface adherence and bioﬁlm formation ( 1 , 9 , 20 ) . 
+Several possibilities may be considered for how MltE and MltC affect CsgD expression . 
+First , activities of these lytic transglycosylases can be sensed in the cytoplasm via PG deg-radation products , anhydromuropeptide monomers , which are transported to the cytoplasm primarily by the permease AmpG ( 27 ) . 
+The deletion of AmpG , however , had no effect on rdar morphotype expression ( data not shown ) . 
+Similarly , the deletion of NagE and ManYZ transporters for PG degradation products such as GlcNac and glucosamine , as well as an ampG nagE manYZ triple mutant , had no effect on CsgD expression or rdar morphotype formation ( data not shown ) . 
+Therefore , cytosolic anhydromuropeptides or other PG degradation products do not seem to be involved in signaling to regulate CsgD expression . 
+Second , extracytoplasmic stress has been shown to downregulate CsgD expression and rdar morphotype ( 43 , 61 ) . 
+Anhydromuropeptide monomers or subsequent PG degradation products may initiate signaling in the periplasm . 
+However , neither the well-studied Rcs phosphorelay system , the major signaling pathway that senses perturbations in PG turnover ( 6 , 24 , 33 ) , nor the Cpx phosphorelay system was found to contribute to the downregulation of CsgD by MltE/MltC . 
+Consistently with this ﬁnding , susceptibility to selected - lactam antibiotics was not changed in the mltE mltC double mutant ( data not shown ) . 
+Overexpressed catalytically inactive MltE , however , is sensed through the Rcs phosphorelay system , leading to a mucoid phenotype . 
+It is feasible that MltE binding to its substrates without degradation causes periplasmic stress . 
+Alternatively , overexpressed , catalytically impaired MltE may interfere with other periplasmic proteins . 
+Third , altered membrane permeability may affect CsgD levels via an as-yet uncharacterized signaling pathway . 
+In E. coli , the deletion of six lytic transglycosylases has been shown to alter membrane permeability ( 19 ) . 
+In S. Typhimurium , the deletion of MltE and MltC was , under the growth conditions used here , already sufﬁcient to alter membrane permeability to some extent . 
+Consistent with the idea that altered membrane permeability affects rdar morphotype is the observation that in E. coli , the loss of outer membrane integrity due to the deletion of the Tol system resulted in the downregulation of the curlimediated bioﬁlm ( 61 ) . 
+Also in line with this possibility is our observation that the periplasmic lipoprotein NlpI represses CsgD expression and rdar morphotype expression via an unknown mechanism ( 50 ) . 
+Fourth , the connection between MltE and MltC with CsgD and rdar morphotype expression can be a structural one , as lytic transglycosylases have a role in the assembly of macromolecular complexes ( 30 ) . 
+As we could not identify an already known regulatory pathway involved in the regulation of rdar morphotype expression by MltE and MltC , we screened for suppressor mutants of the mltE mltC double mutant phenotype by random transposon mutagenesis . 
+We identiﬁed suppressor mutants in STM2680 , STM2773 , and STM4363 which restored rdar morphotype expression to wild-type levels . 
+None of these genes is described to be involved in rdar morphotype and CsgD expression , suggesting that the lytic transglycosylases MltE and MltC regulate rdar morphotype and CsgD expression through a novel pathway . 
+In summary , the complex regulation of the rdar morphotype underscores the importance of the bioﬁlm mode of growth . 
+For the ﬁrst time , we uncovered a speciﬁc signaling role of two family I lytic transglycosylases in S. Typhimurium that commu nicate the status of cell wall turnover to the master regulator of bioﬁlm formation . 
+ACKNOWLEDGMENTS
+This work was supported by funds from the European Commission under contract number MEST-CT-2004-008475 ( to U.R. ) , the Swedish Research Council Natural Science ( 621-2007-6509 ) ( to U.R. ) , and the U.S. National Science Foundation ( MCB 0645876 and 1052575 ) ( to M.G. ) . 
+REFERENCES 
+1 . 
+Ahn , S. J. , and R. A. Burne . 
+2006 . 
+The atlA operon of Streptococcus mutans : role in autolysin maturation and cell surface biogenesis . 
+J. Bacteriol . 
+188 : 6877 -- 6888 . 
+2 . 
+Artola-Recolons , C. , et al. 2011 . 
+High-resolution crystal structure of MltE , an outer membrane-anchored endolytic peptidoglycan lytic transglycosylase from Escherichia coli . 
+Biochemistry 50:2384 -- 2386 . 
+3 . 
+Bernadsky , G. , T. J. Beveridge , and A. J. Clarke . 
+1994 . 
+Analysis of the sodium dodecyl sulfate-stable peptidoglycan autolysins of select gram-nega-tive pathogens by using renaturing polyacrylamide gel electrophoresis . 
+J. Bacteriol . 
+176:5225 -- 5232 . 
+4 . 
+Blackburn , N. T. , and A. J. Clarke . 
+2001 . 
+Identiﬁcation of four families of peptidoglycan lytic transglycosylases . 
+J. Mol . 
+Evol . 
+52:78 -- 84 . 
+5 . 
+Boehm , A. , et al. 2010 . 
+Second messenger-mediated adjustment of bacterial swimming velocity . 
+Cell 141:107 -- 116 . 
+6 . 
+Callewaert , L. , K. G. Vanoirbeek , I. Lurquin , C. W. Michiels , and A. Aertsen . 
+2009 . 
+The Rcs two-component system regulates expression of lysozyme inhibitors and is induced by exposure to lysozyme . 
+J. Bacteriol . 
+191:1979 -- 1981 . 
+7 . 
+Collinson , S. K. , S. C. Clouthier , J. L. Doran , P. A. Banser , and W. W. Kay . 
+1996 . 
+Salmonella enteritidis agfBAC operon encoding thin , aggregative ﬁmbriae . 
+J. Bacteriol . 
+178:662 -- 667 . 
+8 . 
+Datsenko , K. A. , and B. L. Wanner . 
+2000 . 
+One-step inactivation of chromosomal genes in Escherichia coli K-12 using PCR products . 
+Proc . 
+Natl. Acad . 
+Sci . 
+U. S. A. 97:6640 -- 6645 . 
+9 . 
+Dubrac , S. , I. G. Boneca , O. Poupel , and T. Msadek . 
+2007 . 
+New insights into the WalK/WalR ( YycG/YycF ) essential signal transduction pathway reveal a major role in controlling cell wall metabolism and bioﬁlm formation in Staphylococcus aureus . 
+J. Bacteriol . 
+189:8257 -- 8269 . 
+10 . 
+Finn , R. D. , et al. 2008 . 
+The Pfam protein families database . 
+Nucleic Acids Res . 
+36 : D281 -- D288 . 
+11 . 
+Gerstel , U. , and U. Römling . 
+2003 . 
+The csgD promoter , a control unit for bioﬁlm formation in Salmonella typhimurium . 
+Res . 
+Microbiol . 
+154:659 -- 667 . 
+12 . 
+Gerstel , U. , and U. Römling . 
+2001 . 
+Oxygen tension and nutrient starvation are major signals that regulate agfD promoter activity and expression of the multicellular morphotype in Salmonella typhimurium . 
+Environ . 
+Microbiol . 
+3:638 -- 648 . 
+13 . 
+Girardin , S. E. , et al. 2003 . 
+Peptidoglycan molecular requirements allowing detection by Nod1 and Nod2 . 
+J. Biol . 
+Chem . 
+278:41702 -- 41708 . 
+14 . 
+Goldman , W. E. , D. G. Klapper , and J. B. Baseman . 
+1982 . 
+Detection , isolation , and analysis of a released Bordetella pertussis product toxic to cultured tracheal cells . 
+Infect . 
+Immun . 
+36:782 -- 794 . 
+15 . 
+Goodell , E. W. 1985 . 
+Recycling of murein by Escherichia coli . 
+J. Bacteriol . 
+163:305 -- 310 . 
+16 . 
+Grantcharova , N. , V. Peters , C. Monteiro , K. Zakikhany , and U. Römling . 
+2010 . 
+Bistable expression of CsgD in bioﬁlm development of Salmonella enterica serovar Typhimurium . 
+J. Bacteriol . 
+192:456 -- 466 . 
+17 . 
+Guzman , L. M. , D. Belin , M. J. Carson , and J. Beckwith . 
+1995 . 
+Tight regulation , modulation , and high-level expression by vectors containing the arabinose PBAD promoter . 
+J. Bacteriol . 
+177:4121 -- 4130 . 
+18 . 
+Hammar , M. , A. Arnqvist , Z. Bian , A. Olsen , and S. Normark . 
+1995 . 
+Expression of two csg operons is required for production of ﬁbronectin - and congo red-binding curli polymers in Escherichia coli K-12 . 
+Mol . 
+Microbiol . 
+18:661 -- 670 . 
+19 . 
+Heidrich , C. , A. Ursinus , J. Berger , H. Schwarz , and J. V. Höltje . 
+2002 . 
+Effects of multiple deletions of murein hydrolases on viability , septum cleavage , and sensitivity to large toxic molecules in Escherichia coli . 
+J. Bacteriol . 
+184:6093 -- 6099 . 
+20 . 
+Heilmann , C. , M. Hussain , G. Peters , and F. Götz . 
+1997 . 
+Evidence for autolysin-mediated primary attachment of Staphylococcus epidermidis to a polystyrene surface . 
+Mol . 
+Microbiol . 
+24:1013 -- 1024 . 
+21 . 
+Holmqvist , E. , et al. 2010 . 
+Two antisense RNAs target the transcriptional regulator CsgD to inhibit curli synthesis . 
+EMBO J. 29:1840 -- 1850 . 
+22 . 
+Höltje , J. V. 1998 . 
+Growth of the stress-bearing and shape-maintaining murein sacculus of Escherichia coli . 
+Microbiol . 
+Mol . 
+Biol . 
+Rev. 62:181 -- 203 . 
+23 . 
+Höltje , J. V. , D. Mirelman , N. Sharon , and U. Schwarz . 
+1975 . 
+Novel type of murein transglycosylase in Escherichia coli . 
+J. Bacteriol . 
+124:1067 -- 1076 . 
+24 . 
+Huang , Y. H. , L. Ferrieres , and D. J. Clarke . 
+2006 . 
+The role of the Rcs phosphorelay in Enterobacteriaceae . 
+Res . 
+Microbiol . 
+157:206 -- 212 . 
+25 . 
+Huson , D. H. , et al. 2007 . 
+Dendroscope : an interactive viewer for large phylogenetic trees . 
+BMC Bioinformatics 8:460 . 
+26 . 
+Jacobs , C. , J. M. Frere , and S. Normark . 
+1997 . 
+Cytosolic intermediates for cell wall biosynthesis and degradation control inducible beta-lactam resistance in gram-negative bacteria . 
+Cell 88:823 -- 832 . 
+27 . 
+Jacobs , C. , L. J. Huang , E. Bartowsky , S. Normark , and J. T. Park . 
+1994 . 
+Bacterial cell wall recycling provides cytosolic muropeptides as effectors for beta-lactamase induction . 
+EMBO J. 13:4684 -- 4694 . 
+28 . 
+Jubelin , G. , et al. 2005 . 
+CpxR/OmpR interplay regulates curli gene expression in response to osmolarity in Escherichia coli . 
+J. Bacteriol . 
+187:2038 -- 2049 . 
+29 . 
+Kader , A. , R. Simm , U. Gerstel , M. Morr , and U. Römling . 
+2006 . 
+Hierarchical involvement of various GGDEF domain proteins in rdar morphotype development of Salmonella enterica serovar Typhimurium . 
+Mol . 
+Microbiol . 
+60:602 -- 616 . 
+30 . 
+Koraimann , G. 2003 . 
+Lytic transglycosylases in macromolecular transport systems of Gram-negative bacteria . 
+Cell Mol . 
+Life Sci . 
+60:2371 -- 2388 . 
+31 . 
+Koropatnick , T. A. , et al. 2004 . 
+Microbial factor-mediated development in a host-bacterial mutualism . 
+Science 306:1186 -- 1188 . 
+32 . 
+Kraft , A. R. , M. F. Templin , and J. V. Holtje . 
+1998 . 
+Membrane-bound lytic endotransglycosylase in Escherichia coli . 
+J. Bacteriol . 
+180:3441 -- 3447 . 
+33 . 
+Laubacher , M. E. , and S. E. Ades . 
+2008 . 
+The Rcs phosphorelay is a cell envelope stress response activated by peptidoglycan stress and contributes to intrinsic antibiotic resistance . 
+J. Bacteriol . 
+190:2065 -- 2074 . 
+34 . 
+Lindquist , S. , et al. 1993 . 
+AmpG , a signal transducer in chromosomal betalactamase induction . 
+Mol . 
+Microbiol . 
+9:703 -- 715 . 
+35 . 
+Majdalani , N. , and S. Gottesman . 
+2005 . 
+The Rcs phosphorelay : a complex signal transduction system . 
+Annu . 
+Rev. Microbiol . 
+59:379 -- 405 . 
+36 . 
+Mariscotti , J. F. , and F. Garcia-Del Portillo . 
+2008 . 
+Instability of the Salmo-nella RcsCDB signalling system in the absence of the attenuator IgaA . 
+Microbiology 154:1372 -- 1383 . 
+37 . 
+Melly , M. A. , Z. A. McGee , and R. S. Rosenthal . 
+1984 . 
+Ability of monomeric peptidoglycan fragments from Neisseria gonorrhoeae to damage human fal-lopian-tube mucosa . 
+J. Infect . 
+Dis . 
+149:378 -- 386 . 
+38 . 
+Niba , E. T. , Y. Naka , M. Nagase , H. Mori , and M. Kitakawa . 
+2007 . 
+A genome-wide approach to identify the genes involved in bioﬁlm formation in E. coli . 
+DNA Res . 
+14:237 -- 246 . 
+39 . 
+Ogasawara , H. , K. Yamada , A. Kori , K. Yamamoto , and A. Ishihama . 
+2010 . 
+Regulation of the Escherichia coli csgD promoter : interplay between ﬁve transcription factors . 
+Microbiology 156:2470 -- 2483 . 
+40 . 
+Oh , H. S. , B. H. Kvitko , J. E. Morello , and A. Collmer . 
+2007 . 
+Pseudomonas syringae lytic transglycosylases coregulated with the type III secretion system contribute to the translocation of effector proteins into plant cells . 
+J. Bacteriol . 
+189:8277 -- 8289 . 
+41 . 
+Park , J. T. , and T. Uehara . 
+2008 . 
+How bacteria consume their own exoskel-etons ( turnover and recycling of cell wall peptidoglycan ) . 
+Microbiol . 
+Mol . 
+Biol . 
+Rev. 72:211 -- 227 . 
+42 . 
+Paul , K. , V. Nieto , W. C. Carlquist , D. F. Blair , and R. M. Harshey . 
+2010 . 
+The c-di-GMP binding protein YcgR controls ﬂagellar motor direction and speed to affect chemotaxis by a `` backstop brake '' mechanism . 
+Mol . 
+Cell 38:128 -- 139 . 
+43 . 
+Prigent-Combaret , C. , et al. 2001 . 
+Complex regulatory network controls initial adhesion and bioﬁlm formation in Escherichia coli via regulation of the csgD gene . 
+J. Bacteriol . 
+183:7213 -- 7223 . 
+44 . 
+Römling , U. 2005 . 
+Characterization of the rdar morphotype , a multicellular behaviour in Enterobacteriaceae . 
+Cell Mol . 
+Life Sci . 
+62:1234 -- 1246 . 
+45 . 
+Römling , U. , Z. Bian , M. Hammar , W. D. Sierralta , and S. Normark . 
+1998 . 
+Curli ﬁbers are highly conserved between Salmonella typhimurium and Esch-erichia coli with respect to operon structure and regulation . 
+J. Bacteriol . 
+180:722 -- 731 . 
+46 . 
+Römling , U. , et al. 2003 . 
+Dissection of the genomic pathway leading to multicellular behaviour in Salmonella enterica serotype Typhimurium and other Enterobacteriaceae , p. 231 -- 261 . 
+In M. Wilson and D. Devin ( ed . ) 
+, Medical implications of bioﬁlm . 
+Cambridge University Press , Cambridge , MA . 
+47 . 
+Römling , U. , M. Gomelsky , and M. Y. Galperin . 
+2005 . 
+C-di-GMP : the dawning of a novel bacterial signalling system . 
+Mol . 
+Microbiol . 
+57:629 -- 639 . 
+48 . 
+Römling , U. , M. Rohde , A. Olsen , S. Normark , and J. Reinköster . 
+2000 . 
+AgfD , the checkpoint of multicellular and aggregative behaviour in Salmo-nella typhimurium regulates at least two independent pathways . 
+Mol . 
+Microbiol . 
+36:10 -- 23 . 
+49 . 
+Römling , U. , W. D. Sierralta , K. Eriksson , and S. Normark . 
+1998 . 
+Multicellular and aggregative behaviour of Salmonella typhimurium strains is controlled by mutations in the agfD promoter . 
+Mol . 
+Microbiol . 
+28:249 -- 264 . 
+50 . 
+Rouf , S. F. , et al. 2011 . 
+Opposing contributions of polynucleotide phosphor-ylase and the membrane protein NlpI to bioﬁlm formation by Salmonella enterica serovar Typhimurium . 
+J. Bacteriol . 
+193:580 -- 582 . 
+51 . 
+Ryjenkov , D. A. , R. Simm , U. Römling , and M. Gomelsky . 
+2006 . 
+The PilZ domain is a receptor for the second messenger c-di-GMP : the PilZ domain protein YcgR controls motility in enterobacteria . 
+J. Biol . 
+Chem . 
+281:30310 -- 30314 . 
+52 . 
+Scheurwater , E. M. , and A. J. Clarke . 
+2008 . 
+The C-terminal domain of Escherichia coli YfhD functions as a lytic transglycosylase . 
+J. Biol . 
+Chem . 
+283:8363 -- 8373 
+53 . 
+Schmieger , H. 1972 . 
+Phage P22-mutants with increased or decreased transduction abilities . 
+Mol . 
+Gen. Genet . 
+119:75 -- 88 . 
+54 . 
+Simm , R. , A. Lusch , A. Kader , M. Andersson , and U. Römling . 
+2007 . 
+Role of EAL-containing proteins in multicellular behavior of Salmonella enterica serovar Typhimurium . 
+J. Bacteriol . 
+189:3613 -- 3623 . 
+55 . 
+Simm , R. , M. Morr , A. Kader , M. Nimtz , and U. Römling . 
+2004 . 
+GGDEF and EAL domains inversely regulate cyclic di-GMP levels and transition from sessility to motility . 
+Mol . 
+Microbiol . 
+53:1123 -- 1134 . 
+56 . 
+Solano , C. , et al. 2002 . 
+Genetic analysis of Salmonella enteritidis bioﬁlm formation : critical role of cellulose . 
+Mol . 
+Microbiol . 
+43:793 -- 808 . 
+57 . 
+Thompson , J. D. , D. G. Higgins , and T. J. Gibson . 
+1994 . 
+CLUSTAL W : improving the sensitivity of progressive multiple sequence alignment through sequence weighting , position-speciﬁc gap penalties and weight matrix choice . 
+Nucleic Acids Res . 
+22:4673 -- 4680 . 
+58 . 
+Thunnissen , A. M. , et al. 1994 . 
+Doughnut-shaped structure of a bacterial muramidase revealed by X-ray crystallography . 
+Nature 367:750 -- 753 . 
+59 . 
+Weatherspoon-Grifﬁn , N. , et al. 2010 . 
+The CpxR/CpxA two-component sys ¬ 
+tem upregulates two Tat-dependent peptidoglycan amidases to confer bacterial resistance to antimicrobial peptide . 
+J. Biol . 
+Chem . 
+286:5529 -- 5539 . 
+60 . 
+Viala , J. , et al. 2004 . 
+Nod1 responds to peptidoglycan delivered by the Helicobacter pylori cag pathogenicity island . 
+Nat . 
+Immunol . 
+5:1166 -- 1174 . 
+61 . 
+Vianney , A. , et al. 2005 . 
+Escherichia coli tol and rcs genes participate in the complex network affecting curli synthesis . 
+Microbiology 151:2487 -- 2497 . 
+62 . 
+Viollier , P. H. , and L. Shapiro . 
+2003 . 
+A lytic transglycosylase homologue , PleA , is required for the assembly of pili and the ﬂagellum at the Caulobacter crescentus cell pole . 
+Mol . 
+Microbiol . 
+49:331 -- 345 . 
+63 . 
+Zakikhany , K. , C. R. Harrington , M. Nimtz , J. C. D. Hinton , and U. Römling . 
+2010 . 
+Unphosphorylated CsgD controls bioﬁlm formation in Salmonella enterica serovar Typhimurium . 
+Mol . 
+Microbiol . 
+77:771 -- 786 . 
+64 . 
+Zogaj , X. , M. Nimtz , M. Rohde , W. Bokranz , and U. Römling . 
+2001 . 
+The multicellular morphotypes of Salmonella typhimurium and Escherichia coli produce cellulose as the second component of the extracellular matrix . 
+Mol . 
+Microbiol . 
+39:1452 -- 1463

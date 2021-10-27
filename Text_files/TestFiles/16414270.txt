@@ -1,0 +1,317 @@
+Rational design of Salmonella-based vaccination strategies
+A permanently growing body of information is becoming available about the quality of protective immune responses induced by mucosal immunization . 
+Attenuated live bacterial vaccines can be administered orally and induce long-lasting protective immunity in humans without causing major side eVects . 
+An attenuated Salmonella enterica serovar Typhi strain is registered as live oral vaccine against typhoid fever and has been in use for more than two decades . 
+Recombinant attenuated Salmonella strains are also an attractive means of delivering heterologous antigens to the immune system , thereby , stimulating strong mucosal and systemic immune responses and consequently provide an eYcient platform technology to design novel vaccination strategies . 
+This includes the choice of heterologous protective antigens and their expression under the control of appropriate promoters within the carrier strain . 
+The availability of well-characterized attenuated mutants of Salmonella concomitantly supports Wne tuning of immune response triggered against heterologous antigens . 
+Exploring diVerent mucosal sites as a potential route of immunization has to be taken into account as an additional important way to modulate immune responses according to clinical requirements . 
+This article focuses on the rational design of strategies to modulate appropriate immunological eVector functions on the basis of selection of ( i ) attenuating mutations of the Salmonella strains , ( ii ) spe-ciWc expression systems for the heterologous antigens , and ( iii ) route of mucosal administration . 
+2005 Elsevier Inc. . 
+All rights reserved . 
+1. Introduction
+1.1. Advantages of attenuated live bacterial vaccines
+Vaccination constitutes the most cost-eVective tool for the prophylaxis of infectious diseases . 
+The rational development of vaccines is one of the major challenges of medicine and biology . 
+This requires an understanding of the physiology of the particular pathogen , and subsequently the delivery of its antigens in an appropriate way to induce protective immune reactions . 
+Additionally , with increasing knowledge on the functionality of the immune system and the knowledge on the cells involved in the generation of an immune response , it should be feasible to design speciWc vaccination strategies for infectious diseases . 
+DiVerent mechanisms contribute to protection against infectious diseases . 
+Most infectious viruses and bacteria enter the human host via the mucous membranes . 
+The general clearance mechanisms of the mucosal barrier ( e.g. , mucus , ciliary activity , lytic enzymes , and pH ) and the innate immune system constitute the Wrst non-speciWc line of defense against infections . 
+The adaptive immune response represents a more reWned and pathogen-speciWc second line of defense , which also leads to memory responses able to protect against subsequent challenges . 
+The cellular components of the innate immune system ( e.g. , dendritic cells ) provide a critical bridge between the innate and the adaptive immune system . 
+Pathogen-speciWc responses can be stimulated by previous infections or through vaccination . 
+However , there are diseases for which vaccines are not available or if they are , they are not completely satisfactory in terms of safety , eYcacy , and costs . 
+Thus , it is essential to develop and implement better , safer , and cheaper vaccines capable of promoting long-lastin protection . 
+In this context , vaccines that are able to stimulate not only systemic but also mucosal immune responses have several advantages . 
+The stimulation of local responses at the portal of entry may protect against both disease and infection ( i.e. , colonization ) , thereby reducing the risk of pathogen transmission to other susceptible hosts . 
+DiVerent approaches have been successfully pursued to develop vaccines against pathogenic bacteria and viruses . 
+These include inactivated whole cell vaccines , subunit vaccines , and live attenuated vaccines . 
+The Wrst two vaccination strategies form the basis of many registered vaccines . 
+However , they have the disadvantages that these vaccines require multiple parenteral injections with syringe and needle . 
+The addition of immunostimulatory adjuvants ( usually alum ) stimulates in most cases only systemic humoral immune responses ( while cellular and mucosal immune responses are lacking ) and protects only against disease , but not against infection . 
+The use of attenuated bacteria that are unable to cause clinical disease but trigger a self-limiting infection leading to the stimulation of protective immunity represents an attractive alternative to killed and subunit vaccines . 
+Attenuated vaccines are also able to elicit cellular immune responses , which play an important role in the clearance of intracellular pathogens . 
+Attenuated strains can induce immune responses against antigens that are only expressed in vivo and are not present in an inactivated vaccine preparation . 
+The ability of most attenuated vaccines to replicate in the host results in the elicitation of strong and long-lasting immune responses , which mimic those stimulated by natural infections [ 1,2 ] . 
+Furthermore , many attenuated live bacterial vaccines ( LBV ) can be administered orally and induce mucosal immune responses , thereby preventing infection at the portal of entry for mucosal pathogens like bacterial and viral enteropatho-gens [ 3,4 ] rather than protecting only against disease . 
+This more simple and inexpensive administration via the mucosal route is also associated with a higher acceptance by vaccinees [ 5 ] and is safer since parenteral vaccination could spread blood borne diseases ( e.g. , HIV and hepatitis ) in the developing world . 
+The expression of virulence factors is responsible for the main diYculty associated with the design of live vaccines . 
+With the ultimate goal to Wnd the optimal balance between safety and immunogenicity , the use of attenuated microorganisms could also be associated with the potential risk of reversion to a virulent state . 
+This risk has been largely overcome by the use of multiple well-deWned attenuating deletion mutations . 
+Nevertheless , attenuated LBV require a careful and exhaustive evaluation of the potential impact of environmental release . 
+It is essential to evaluate the duration and rate of shedding , as well as the risk of horizontal gene transfer . 
+A number of attenuated live viral vaccines are registered for human use , including vaccines against Mumps -- Mea-sles -- Rubella , Yellow Fever , and most importantly , the oral polio vaccine . 
+Three strains of attenuated live bacterial vaccines are currently licensed for human use : Mycobacterium bovis strain Bacille Calmette -- Guerin ( BCG , parenteral vaccine against certain forms of human tuberculosis , [ 6 ] ) , 
+Vibrio cholerae CVD103-HgR ( oral vaccine against chol-era , [ 7 ] ) , and Salmonella typhi Ty21a ( orally administered against typhoid fever , [ 8 ] ) . 
+These LBV have been used for the safe and eVective immunization of virtually billions of people [ 9,10 ] . 
+In recent years , strategies have been developed to express heterologous antigens in virulence attenuated bacteria as carriers . 
+Especially , attenuated mutant strains of Salmonella serotypes [ 11,12 ] have successfully been used for the delivery of heterologous antigens . 
+1.2. Salmonella: natural infections and immune responses
+Salmonella enterica is one of the most important human pathogens . 
+The S. enterica serovars causing disease in humans are Typhi , Paratyphi A and B , and Typhimurium . 
+While Typhi and Paratyphi A and B are speciWcally human pathogens , Typhimurium is not restricted to the human host . 
+Serovars Typhi and to a lesser extent Paratyphi types A and B cause typhoid fever , an acute , life-threatening , and febrile illness . 
+Global estimates indicate that typhoid fever causes over 17 million new cases each year , resulting in more than 600,000 deaths [ 13 -- 15 ] . 
+While antibiotics have successfully been employed to cure typhoid fever in the past , the emergence of multi-drug resistant strains has rendered the clinical management of infected patients increasingly diYcult [ 16 ] . 
+This situation underscores the importance of preventive strategies , such as improved hygiene , and highlights the role of vaccination for the control of typhoid fever . 
+The most common sources of transmission are food and water contaminated with human feces . 
+Doses of as few as 105 organisms resulted in typhoid fever in up to 55 % of volunteers in studies performed in endemic areas [ 17 ] . 
+In the initial stages of infection , bacteria survive in the acidic content of the stomach , reach the small intestine , and penetrate the mucosal barrier , eventually reaching the mesenteric lymph nodes via lymphatics . 
+Following penetration of the mucosal epithelium in the non-immune host , microorganisms may translocate via the blood stream to the reticuloendothelial cells of the liver and spleen , in which they replicate . 
+Immune responses against circulating extracellular bacteria encompass anti-lipopolysaccharide ( O ) , anticapsular ( Vi ) , and anti-Xagella ( H ) antibodies [ 18 ] . 
+However , these immune responses stimulated by typhoid infection do not result in protection from relapse and re-infections , thereby conWrming the important role of a safe and eYcacious vaccine . 
+Infections with serovar Typhimurium result in a localized gastroenteritis and systemic disease that occurs only rarely , e.g. , in infants or immunocompromised adults . 
+Another important diVerence from serovar Typhi is the fact that Typhimurium can infect and colonize a number of animal species . 
+Hence , the most important root cause for outbreaks is therefore milk or poultry products derived from animals , which carry the bacteria in their intestinal tracts . 
+1.3. Animal models to study Salmonella infection
+The study of S. enterica serovar Typhi pathogenesis is hampered by the fact that typhoid fever can be induce experimentally only by oral infection of humans or chimpanzees , whereas lower primates ( e.g. , rhesus monkeys ) or non-primate vertebrates ( e.g. , rodents ) are resistant to infection with Typhi [ 19 ] . 
+Upon oral infection with serovar Typhi chimpanzees develop a clinical illness that resembles human typhoid fever . 
+Wild type strain Ty2 produces a mild clinical illness in which most of the animals develop bacteremia , exhibit fever for up to 10 days , and shed bacteria in their feces [ 20 ] . 
+DiVerences between clinical typhoid infection in chimpan-zees and humans include the shorter incubation period followed by a milder and briefer clinical course in the animal model [ 20 ] . 
+Following invasion of the intestinal mucosa , typhoid bacilli spread to intestinal lymphoid follicles , and draining mesenteric lymph nodes [ 21 ] . 
+From these sites the salmonellae reach , via the thoracic lymph , the general circulation . 
+Typhi was found in liver and spleen , as well as in bile and gallbladder ; bile-containing bacteria resulted in reinfection of the intestinal mucosa [ 20 ] . 
+Pathological examination of infected chimpanzees revealed granulomatous lesions in intestinal and mesenteric lymphoid tissues , spleen , and liver , just like those seen in human typhoid infection . 
+The chimpanzees mounted serum antibody responses to LPS and Xagella [ 20 ] . 
+Although several other animal models of infection with Salmonella have been described such as for servoar Gallinarum , Pullorum [ 22 ] , and Enteritidis in chickens [ 23 ] , Dub-lin and Typhimurium in cattle [ 24 ] , and Choleraesuis [ 25 ] and Typhi in pigs [ 26 ] , their usefulness to assist in the development of typhoid vaccine candidates for human use remains undeWned . 
+The most important animal model for the study of Salmonella pathogenesis is still the mouse model of S. typhimurium infection . 
+Overall , mice are resistant to a S. enteritica serovar Typhi infection , particularly if administered orally [ 27 ] . 
+Mice , injected intraperitoneally ( i.p. ) or intravenously with Typhi at low doses of 106 CFU , show a short-lived , usually non-lethal infection [ 28,29 ] , while high i.p. doses ( 108 -- 109 CFU ) result in a peritonitis leading to death within 24 h post-challenge . 
+A crude model of infection can be created if mice are challenged intraperitoneally with typhoid bacilli mixed with porcine gastric mucin . 
+Although this model is used to quality control batches of current vaccines , it can scarcely be viewed as an accurate model of the normal course of typhoid fever in humans [ 30,31 ] . 
+On the other hand , although intrinsically resistant to serovar Typhimurium , certain mouse strains carrying mutations in the natural-resistance-associated-macrophage protein 1 ( NRAMP-1 ) are susceptible to infection and develop a disease similar to typhoid fever [ 24,32 ] . 
+Susceptible mouse strains infected orally with serovar Typhimurium develop signs of disease between 4 and 8 days after infection but do not develop diarrhea . 
+The long incubation period and the signs of disease in mice parallel the development of typhoid fever in volunteers . 
+However , while S. enterica serovar Typhimurium infection of mice results in a typhoid fever like disease , this pathogen is associated exclusively with enterocolitis in humans . 
+In Typhi infected volunteers fever manifests after a median incubation period of 5 -- 9 days , depending on the inoculated dose [ 33 ] . 
+Diarrhea is not a signiWcant symptom and develops late in only one-third of typhoid fever patients . 
+In contrast , volunteers infected with Typhimurium develop a clinical illness characterized by diarrhea , vomiting , and abdominal pain after an incubation period of 12 -- 72 h [ 34 ] . 
+In mice , serovar Typhimurium spreads systemically via the circulation and the infection is characterized by severe pathological changes and high bacterial tissue load in Peyer 's patches , mesenteric lymph nodes , liver , and spleen [ 24 ] . 
+A similar systemic distribution of bacteria in tissues has been reported for typhoid fever patients [ 35 ] . 
+In contrast , Typhimurium infection in humans usually remains localized to the intestine and mesenteric lymph nodes , while bacteremia is uncommon and transient during enterocolitis [ 36 ] . 
+It remains questionable , whether the mouse typhoid model could serve to analyze the mechanisms involved in the pathogenesis of serovar Typhi in humans as some virulence factors of Typhimurium are absent from the Typhi genome ; Typhimurium requires the Salmonella plasmid virulence ( spv ) operon for full virulence in the mouse [ 37 ] whereas this operon is not present in serovar Typhi [ 38 ] . 
+On the other hand , the mouse model has been extremely useful in identifying target genes involved in house-keeping , bio-synthesis of structural components and metabolites , pathogenesis and bacterial resistance to host-defense mechanisms in S. typhimurium infections . 
+The data obtained in this model have greatly advanced the understanding of Salmo-nella-host interactions and both innate and acquired immune mechanisms in response to Salmonella infection by introducing targeted mutations in the Salmonella genome [ 39,40 ] . 
+The mouse model has also helped to identify and determine the role of virulence factors such as the type III secretion systems encoded on Salmonella pathogenicity islands ( SPI ) 1 and 2 . 
+Furthermore , information obtained in the mouse model was used for the design of new live attenuated Salmonella vaccine strains . 
+2. Live attenuated Salmonella vaccine strains
+2.1. Licensed Salmonella enterica serovar Typhi Ty21a
+The development of a typhoid fever vaccine suitable for oral administration received a major boost in 1975 with the generation of attenuated serovar Typhi strain Ty21a . 
+This mutant was developed by chemical mutagenesis and has a GalE - and Vi-negative phenotype [ 8 ] . 
+The mutation of the galE gene results in a complete deWciency of the enzyme uridine diphosphate ( UDP ) - galactose-4-epimerase , which is responsible for the conversion of UDP-glucose to UDP-galactose and vice versa . 
+Because of this enzyme deWciency , UDP-galactose can not be metabolized and accumulates in the cytoplasm to cause cell lysis and attenuation , when excess galactose is present in the growth medium . 
+Since galactose is incorporated into the lipopolysaccharide ( LPS core moiety via UDP-galactose , the absence of galE leads to the formation of rough LPS , i.e. , LPS devoid of part of the core and the O-antigen . 
+Since the O-antigen is the main antigenic determinant on the cell surface , Ty21a is supplied with a source of external galactose during production of the vaccine . 
+This enables bacteria to generate UDP-galactose by an alternative route , thereby expressing complete immu-nogenic LPS . 
+Thus , although the immunogenic properties of wild type S. enterica serovar Typhi are maintained when Ty21a is grown under appropriate conditions , the galE phenotype contributes to strain attenuation in vivo . 
+As a result of the mutagenesis process used during the generation of the vaccine strain , further spontaneous mutations were generated , including mutations in the via and ilvD genes , leading to the loss of the Vi capsular polysaccharide and an auxotrophic phenotype for isoleucine and valine , respectively . 
+An additional mutation in the rpoS gene , which also contributes to the avirulence of the Ty21a strain [ 41 ] , was inherited from wild type parental strain Ty2 . 
+It is likely that the poor capacity of Ty21a to survive starvation conditions and resist various environmental stresses results , at least in part , from the rpoS mutation [ 42 ] . 
+The Ty21a strain is the active constituent of Vivotif ( Berna Biotech , Switzerland ) , currently the only licensed live oral vaccine against typhoid fever [ 43 ] . 
+It is available in two commercial formulations , either a lyophilized vaccine in enteric-coated , acid-resistant capsules or a liquid formulation consisting of two sachets , one containing the lyophi-lized vaccine and the other containing bicarbonate buVer to temporarily neutralize stomach acidity . 
+The contents of the two sachets are dissolved in 100 ml of water , which is ingested by the vaccinee . 
+The liquid formulation is particularly suited for vaccination of children . 
+Both formulations are given orally 1 h before meals , in three doses ( four doses in the US and Canada ) and consisting of 2 -- 10 # 109 live bacteria within a time frame of 1 week . 
+Protection against Salmonella is mediated by mucosal and serum antibodies ( mucosal IgA and serum IgG ) , as well as cell-mediated immunity ( CMI ) [ 44 ] . 
+The oral administration of Ty21a mimics the process of natural infection , inducing not only systemic immunity like paren-teral vaccines , but also local antibody responses , thereby protecting against infection rather than only against disease [ 3 ] . 
+Increased serum IgG antibodies and gut-derived IgA antibody secreting cells ( ASC ) against the O-antigen are the best surrogate markers of protection . 
+Vaccination with three doses of Ty21a induces strong serum IgG and IgA responses , which can be boosted by a fourth dose 14 months after primary immunization [ 45 ] . 
+An increase in O-speciWc fecal IgA was observed 1 -- 8 months post immunization [ 46 ] . 
+Due to its invasive properties , Ty21a also triggers CMI , which is crucial for protection against intracellular bacterial pathogens [ 47 ] . 
+Ty21a induced strong systemic CD4 + T-helper type 1 responses in vaccinees , which were characterized by the production of IFN - in the absence of IL-4 [ 45 ] . 
+Vaccination with Ty21a also elicited strong CD8 + cytotoxic T cells ( CTL ) , which persisted for at least 2 years after immunization . 
+A strong correlation was found between the CTL activity and the frequency of IFN-secreting CD8 + T cells [ 44 ] . 
+The eYcacy of Ty21a was analyzed in a large number of clinical trials with over 600,000 vaccinated adults and children . 
+Excellent tolerability and an overall protective eYcacy of 50 -- 96 % ( applying the current administration schedule ) were demonstrated for up to 7 years . 
+During these studies , the liquid formulation was found to be slightly more immunogenic than the enteric-coated capsules . 
+Field studies conducted in Chile conWrmed the eYcacy and tolerability of Ty21a , also provided evidence of herd immunity [ 43 ] . 
+The incidence of typhoid fever fell in the unvaccinated population during the years in which vaccination was performed , and started to rise again as soon as vaccination with Ty21a was stopped [ 48 ] . 
+Two possible mechanisms have been suggested for the herd immunity eVect of Ty21a . 
+First , individuals vaccinated with Ty21a have signiWcantly reduced excretion of virulent Salmonella in comparison with the non-vaccinated population , thereby resulting in reduced contamination of water supplies . 
+Second , fewer temporary carriers ( i.e. , children with sub-clini-cal or incubating acute infections ) , may reduce the number of cases of direct fecal -- oral transmission of the disease . 
+Although the booster schedule for Ty21a has not been determined for travelers to endemic regions , Ty21a has been shown to confer protection against typhoid fever in 70 -- 80 % of vaccinees [ 43 ] . 
+It is recommended that a re-immunization dose , replicating the initial vaccination , is administered every 5 years under conditions of repeated or continued exposure to typhoid fever [ 49 ] . 
+The excellent safety and tolerability proWle of Ty21a was further conWrmed in more than 200 million vaccinees during its 20-year use worldwide . 
+Recent post-marketing sur-veillance has identiWed only mild and infrequent adverse events associated with Ty21a [ 50 ] . 
+In the 10 years from 1990 to 2000 , more than 38 million people were vaccinated with Ty21a with only 743 spontaneous reports of adverse events , an incidence of 0.002 % . 
+The most common adverse events reported with Ty21a were mild and transient gastrointestinal disturbances , followed by general symptoms such as pyrexia . 
+The multiple mutations of Ty21a collectively render it genetically stable : reversion to virulence has not been observed in vitro or in vivo [ 51 ] . 
+Clinical trials have also shown either a limited and transient level of shedding or a complete lack of shedding in the stools of volunteers depending on the administered dose of Ty21a [ 52 ] . 
+For the commercial formulation , there was a complete lack of fecal excretion of Ty21a [ 51 ] . 
+Furthermore , neither person-to-person transmission [ 53 ] , nor invasion of the bloodstream [ 54 ] , has been observed in vaccinees . 
+The very low excretion rate of Ty21a combined with its genetic attenuation signiWcantly reduces its ability to survive in humans and the environment . 
+Although serovar Typhi is by far the most signiWcant causative agent of typhoid fever , S. paratyphi causes over 30 % of enteric fever cases . 
+Like serovar Typhi , Paratyphi i considered a pathogen increasingly associated with multi-drug resistance . 
+From an immunological perspective , S. paratyphi A and B lack the Vi-antigen , rendering Vi polysaccharide-based S. typhi vaccines ineVective . 
+However , these strains share the somatic O12-antigen with sero-var Typhi , thus providing a basis for cross-protection against serovar Paratyphi from a serovar Typhi-speciWc vaccine which induces protection against the O12-antigen . 
+Accordingly , immunologic studies have shown that volunteers vaccinated with Ty21a displayed a signiWcant increase in cross-reactive anti-bacterial activity against S. paratyphi A and B [ 46 ] . 
+These Wndings have been supported by the clinical trials previously discussed , involving more than 200,000 subjects [ 48 ] . 
+2.2. Novel attenuated Salmonella vaccine strains
+Over the past 30 years , bacterial genetics combined with emerging molecular biology tools have allowed the dissection of the mechanisms of bacterial virulence and have highlighted the complexity of host pathogen interactions . 
+Especially for S. enterica serovar Typhimurium , the availability of an appropriate animal model deepened the understanding of the intracellular life style and associated virulence factors . 
+This knowledge has been instrumental in the development of new attenuation strategies , resulting in genetically deWned attenuated strains of bacteria . 
+The introduction of deWned non-reverting mutations aVecting meta-bolic functions or critical virulence factors from Salmonella has been used to generate an array of Typhimurium-based live vaccine carriers [ 11,12 ] . 
+The most widely studied meta-bolically attenuated strains include mutants deWcient in the biosynthesis of aromatic amino acids ( i.e. , aroA , or aroC and aroD ) , purines ( purA , purE ) , in the production of aden-ylate cyclase ( cya ) or the cyclic AMP receptor protein ( crp ) . 
+The two more extensively characterized virulence-attenu-ated vaccine strains have mutations in the two-component regulator system , phoP/phoQ , or in Salmonella pathogenicity island 2 [ 55 ] . 
+Conversely , the development of Typhi-based vectors has been limited by the narrow host speciWcity of the organism and the lack of a good animal model . 
+As humans are the only known natural host for S. typhi , many of the strategies for producing attenuated mutants were initially identiWed as attenuating in S. typhimurium . 
+The extrapolation of attenuation data from S. typhimurium to S. typhi was based on the recognition that S. typhimurium produces disease symptoms in mice similar to those caused by S. typhi in humans ( see above ) . 
+One of the drawbacks associated with the use of the registered Ty21a strain is the need to administer multiple doses to elicit a protective response . 
+Thus , as an alternative to the Ty21a strain , several attenuated S. enterica serovar Typhi strains have been engineered from Ty2 with the intention to develop a vaccine strain with optimal eYcacy after just a single oral dose . 
+Among the most extensively evaluated novel S. typhi vaccine candidates are strains CVD908 
+( Ty2 aroC aroD ) and CVD908-htrA ( Ty2 aroC aroD htrA ) . 
+Deletions in the aro genes render these bacteria auxotro-phic for aromatic amino acids , as well as for p-aminoben-zoic acid and 2,3-dihydroxybenzoate . 
+The mutant bacteria become attenuated under in vivo conditions because they are unable to scavenge these compounds that are unavailable in the human gut . 
+The htrA gene encodes a periplasmic serine protease that degrades aberrant proteins during extracytoplasmic stress conditions . 
+The htrA deletion attenuates Salmonella strains by impairing their response to stress and ability to survive inside macrophages [ 56 ] . 
+Upon a single oral immunization in humans , both strains have been found to be strongly immunogenic [ 57 -- 59 ] . 
+However , although CVD908 was well tolerated , it was found to enter the bloodstream of individuals vaccinated with high doses , so its development was discontinued . 
+Similarly , an aroC aroD derivative of the serovar Typhi isolate ISP1820 ( strain CVD906 ) , and aroA aroD ( strain PBCC211 ) or aroA aroD htrA ( strain PBCC222 ) derivatives of the CDC10 -- 80 strain were found to cause fever and other adverse reactions , including vaccinemia [ 60 ] . 
+In contrast , CVD908-htrA was never found in blood cultures [ 57 -- 89 ] and is therefore considered safe . 
+Based on a diVerent attenuating concept , the Ty2-deriva-tive Ty800 was generated with deletions in the phoP -- phoQ regulon , which controls bacterial survival in phagosomes . 
+This strain was very well tolerated and immunogenic in a phase I clinical trial , eliciting anti-O-antigen IgG and IgA in young adults [ 61 ] . 
+Curtiss and Kelly [ 62 ] have developed an attenuated Ty2 derivative based on the deletion of the cya and crp genes . 
+The cya gene encodes adenylate cyclase , whereas crp codes for the cyclic AMP receptor protein . 
+These two factors constitute a global regulatory system that controls a large number of genes found to be important for the virulence of S. enterica serovar Typhimurium [ 62 ] . 
+Additional mutants were generated , such as the strain X4073 , which carries mutations in both the cya crp regulator genes and the virulence gene cdt involved in bacterial dissemination from the gut to deeper tissues . 
+This strain was shown to be safe in phase I clinical trials and promoted the elicitation of IgG and IgA antibodies against the O-antigen [ 63 ] . 
+Finally , the recently developed strain ZH9 lacks the aroC and ssvA genes , the latter of which encodes a protein involved in protein secretion via a type III secretion system . 
+This strain was also shown to be safe and highly immunogenic in a phase I clinical study [ 64,65 ] . 
+Interestingly , none of the LBV strains developed so far induces strong immune responses against the Vi-antigen . 
+This may be due to the Wne-tuned regulation of Vi-expression under in vivo conditions . 
+In particular , the Vi-expression seems to be downregulated after the salmonellae have gained access to the phagosomal compartments of professional antigen-presenting cells . 
+To achieve stronger Vi-based immunity after immunization with LBV strains , the original promoter sequence of the Vi-expression cassette in strain CVD908-htrA was replaced by the strong constitutive Ptac promoter . 
+The resulting strain CVD909 was foun to express high levels of the Vi-antigen even under conditions mimicking the in vivo situation [ 66 ] . 
+In a phase 1 clinical trial , CVD909 was found to be safe . 
+However , while this vaccine strain elicited strong ASC responses against Vi-antigen , only 2 out of 32 vaccinees exhibited anti-Vi serum-IgG [ 67 ] . 
+Interestingly , the cell-mediated and serum IgG responses against the O - and H-antigens were comparable to those observed previously after immunization with the parent strain CVD908-htrA [ 67 ] . 
+2.3. Characteristics of S. enterica serovar Typhi and Typhimurium as live vaccine carriers for heterologous antigen delivery
+The discovery that strong immunologic responses can be elicited in mice after intranasal immunization with serovar Typhi led to the better mechanistic understanding of attenuated mutants , and the murine model remains the only practical tool so far for assessing preclinical immunogenicity of S. typhi vaccine candidates [ 68 -- 71 ] . 
+Since then , a variety of studies have shown that intranasal immunization with S. typhi is highly eVective at inducing mucosal and systemic immunity to bacterial and foreign antigens [ 72 ] . 
+S. enterica serovar Typhi strains alone or carrying prokaryotic or eukaryotic antigen expression systems induced immune responses at mucosal and systemic level [ 68 -- 72 ] that were consistent with those observed in volunteers vaccinated with some of these vaccine strains [ 73 ] . 
+Salmonella enterica serovar Typhimurium mutants have been shown to be excellent carriers for vaccine antigens from other bacteria , viruses , parasites , and tumors , being able to stimulate strong systemic and local immune responses against the corresponding antigens in the mouse model [ 39 ] . 
+Thus , the vaccine development community turned their attention only recently to the use of S. typhimurium-based vectors in humans . 
+In the Wrst clinical study using Typhimurium as a vaccine vector , volunteers were immunized with a phoP/phoQ mutant [ 74 ] . 
+Interestingly , patients showed prolonged shedding of bacteria indicating that they were more durably colonized [ 74 ] . 
+When compared to immunization with the corresponding Typhi phoP/phoQ derivative [ 75 ] , studies showed that colonization was durable even when volunteers were immunized with 3 logs less CFU . 
+This can be explained at least partly by the diVerent lifestyles of the two serovars : while Typhimurium is adapted to cause localized infection in the intestine , Typhi causes systemic infection . 
+Although not directly compared , both strains induced humoral and mucosal immune responses against Salmo-nella and the magnitude of responses to Salmonella antigens were almost comparable between the serovars . 
+When comparing immune responses against a heterologous antigen , these two studies highlight that in vivo persistence is an important factor for the induction of eVective immune responses . 
+Enhanced colonization of the gastrointestinal tract could result in greater and longer presentation of antigens expressed by the bacterial carrier . 
+In consequence , S. typhimiurium phoP/phoQ expressing urease of Helicobacter pylori induced better urease-speciWc immune responses than a corresponding S. typhi phoP / phoQ strain [ 74 ] . 
+The level of immune response induced against urease , however , seems to be additionally conditioned by a stable antigen expression in vivo . 
+Despite almost equal protein expression , stability of the urease-encoding plasmid assessed under in vitro conditions diVered markedly between carrier strains . 
+The percentage of colonies bearing the urease plasmid declined rapidly in the S. typhi culture , but more than 90 % of S. typhimurium retained the plasmid until 36 h [ 74 ] . 
+Not surprisingly from these results , volunteers immunized with the ureaseexpressing S. typhimurium strain induced a H. pylori-spe-ciWc immune response [ 74 ] , whereas those immunized with the S. typhi vaccine strain failed to do so [ 75 ] . 
+In a side-by-side study , Hindle et al. [ 64 ] compared the immunogenicity of two Salmonella vaccine strains harboring independently attenuating deletion mutations in the aroC and ssaV genes . 
+S. enterica serovar Typhi ZH9 ( Ty2 aroC ssaV ) , and S. enterica serovar Typhimurium WT05 ( TML aroC ssaV ) , were both well tolerated after one oral immunization in healthy volunteers with colonization patterns higher for patients immunized with strain WT05 . 
+Both ZH9 and WT05 were immunogenic and induced LPS-speciWc ASC responses and serum antibodies revealing ZH9 being consistently the slightly more immunogenic strain [ 64 ] . 
+In addition , in a recent clinical trial , ZH9 was shown to induce broad humoral , cellular and mucosal immune responses independent of prevaccination with bicarbonate buVer to neutralize gastric acid [ 65 ] . 
+3. Modulation of immune responses
+3.1. Selection of appropriate Salmonella strains
+The eYcacy of a live vaccine carrier relies on a subtle balance between minimal pathology and maximal immunogenicity . 
+Although genetic defects at diVerent gene loci can lead to similar degrees of attenuation , eVects on the course of infection may vary , thereby altering the quality of the elicited immune response . 
+Consequently , Salmonella mutants defective in distinct virulence functions oVer the potential to speciWcally modulate the immune response for deWned applications [ 76 ] . 
+Induced immune responses have been analyzed following immunization with well-character-ized Typhimurium strains [ 55,77 ] . 
+Oral administration of a PhoP-null mutant promoted potent innate immune responses , whereas immunization with an aroA mutant elic-ited stronger humoral and T-cell responses , mainly of the Th1 phenotype [ 77 ] . 
+Furthermore , an aroA mutant was compared with two SPI-2 mutants of S. typhimurium ( sseC and sseD ) -- all three expressing - galactosidase -- with respect to their ability to induce - galactosidase-speciWc immune responses . 
+Both SPI-2 mutants stimulated mucosal and sys-temic-speciWc immune responses as eYcient as or even stron-ger than induced by the aroA mutant . 
+Immunization with th sseC and the aroA mutant elicited a - galactosidase-speciWc mixed Th pattern , whereas vaccination with the sseD deriv-ative triggered a more Th1 dominant response and a more eYcient CTL response [ 78 ] . 
+Dunstan et al. [ 79 ] analyzed diVerent fragment C expressing S. enterica serovar Typhimurium strains harboring mutations in the genes aroA , aroAD , purA , ompR , htrA , and cya crp with respect to their colonization ability and eYcacy in inducing tetanus-speciWc humoral immune responses . 
+All strains were able to colonize and persist in murine Peyer 's patches and spleen , albeit at diVerent levels . 
+Antibody levels elicited following immunization were strongly strain dependent , and directly correlated to the eYciency of S. typhimurium strains to colonize murine Peyer 's patches [ 79 ] . 
+In addition , by comparing two S. typhimurium asd mutants with diVerent genetic backgrounds ( UK-1 and SR-11 ) , producing a non-toxic mutant of heat-labile enterotoxin in an identical experimental setting ( i.e. , same amount of protein expression , same lethal-balanced expression plasmid ) , signiWcant diVerences in the strength of immune responses were observed [ 80 ] . 
+In summary , S. typhimurium harboring mutations in metabolic and deWned virulence genes induce diVerential bactericidal eVector mechanisms for clearance underlying distinct counterparts in the elicited immune response [ 77,81 ] . 
+Qualitative and kinetic diVerences in control of S. typhimurium infections suggest that distinct cytokine combinations are induced by speciWc virulence factors . 
+In consequence , bearing in mind the speciWc genetic background , careful selection of an appropriate carrier strain for the delivery of heterologous antigens may represent an attractive means to Wne-tune the quality of the immune response . 
+3.2. Route of immunization
+The mucosal immune system is a multifaceted and highly complex system that has to safeguard the human host . 
+In fact , over 90 % of common infectious disease patho-gens in humans gain access to the host through mucosal membranes . 
+The common mucosal immune system consists of an integrated cross-communication pathway of lymphoid tissues made up of inductive and eVector sites for host protection against pathogenic microorganisms and provides positive and negative signals for the induction and regulation of immune responses in both the mucosal and systemic compartments after antigen exposure . 
+The oral route of antigen delivery is the most common and most frequently explored among the mucosal immuni-zation routes . 
+However , induction of mucosal responses by oral immunization is sometimes hampered by denaturation of antigens due to stomach acidity and digestion due to long exposure to gastrointestinal proteolytic enzymes . 
+In consequence , other immunization routes have been extensively explored in mice including nasal , rectal and vaginal application ( for examples , see [ 70,82 ] ) . 
+In a Wrst small human trial , females immunized orally , and rectally with an attenuated strain of S. typhi ( cya ( crp-cdt ) asd ) were shown to induce LPS-speciWc sIgAs at genital and rectal surfaces [ 83 ] . 
+Based on the concept of the common mucosal immune system , that immunization at various sites can induce an immune response at a distant mucosal site , Kantele et al. [ 84 ] assessed in detail the induction of Salmonella-speciWc immune responses after oral and rectal administration of Ty21a . 
+Rectal immunization performed by resuspending the vaccine in saline , and subsequent administration using a syringe , was shown to induce Salmo-nella-speciWc ASC in the peripheral blood of vaccinees , similar to that found in individuals immunized orally with Ty21a with enteric-coated capsules . 
+When comparing various external secretions , oral immunization elicited a more pronounced immune response in salvia and vaginal secretion , while rectal immunization was more potent in inducing a response in nasal secretions , rectum , and tears . 
+No major diVerence was found in the magnitude of induced immune responses in serum or intestinal secretion . 
+In addition , speciWc immune responses in the human female genital tract after primary oral administration of Ty21a could be signiWcantly boosted by subsequent rectal immunization [ 85 ] . 
+The rectal route of administration may in consequence be a very promising alternative to the conventional administration of Salmonella-based vaccines by the oral route , especially with respect to young children where the rectal route is frequently used for drug administration . 
+However , appropriate rectal formulations suitable for large-scale manufacturing will have to be developed . 
+3.3. Plasmid maintenance and stabilization systems
+The use of LBV as carriers for heterologous antigen expression is an extremely promising strategy . 
+Through recombinant DNA techniques , the genes encoding the antigens to be delivered can be inserted into the attenuated carrier for tailored expression of the vaccine antigens . 
+In general , heterologous antigen expression is attempted from a recombinant plasmid encoding the target antigen or epitopes thereof and antibiotic resistance is widely used to keep selective pressure in favor of plasmid retention . 
+Since the eYcacy of any bacterial live carrier vaccine rests with its ability to present suYcient foreign antigen in an immunogenic form to the human immune system and initiate the desired protective immune response , controlled expression of heterologous antigens from multicopy expression plasmids is an obvious solution for synthesis of high levels of antigen . 
+Accordingly , the majority of reports on the use of attenuated bacterial vaccine carriers describe the development of systems where the foreign protein antigen is encoded on a plasmid . 
+While the delivery of plasmid-encoded genes has been relatively successful , a number of vaccines may have either failed or had a reduced eYcacy because the expression of the foreign antigen was unstable . 
+Several strategies have emerged which allow stabilization of plasmids in vivo . 
+Chromosomal integration is an obvious solution for stable expression of the heterologous gene . 
+Integrated genes are generally very stable but the fact that the integrated locus is present in a single cop frequently constitutes a major drawback of this approach , namely low expression of the corresponding antigen . 
+Alternatively , a decrease in the copy number of the plasmid , and therefore the copy number of the heterologous gene , could in turn reduce the level of foreign antigen expression and the physiological burden on the bacterium . 
+As shown for recombinant S. typhimurium expressing the non-toxic binding part of tetanus toxin lowering the plasmid copy number increased the colonization of bacteria and in consequence the induction of tetanus-speciWc humoral immune responses [ 86 ] . 
+In plasmid-based balanced lethal systems , plasmids encode an essential protein required by the bacterium to grow and replicate . 
+The loss of such plasmids destroys the ability of the bacterium to express this protein and results in cell death , thereby forcing the bacterium to maintain the plasmid . 
+The balanced-lethal plasmid systems [ 87 ] have the additional advantage that they do not require antibiotic selection markers as part of the plasmid . 
+In view of the growing concern with the release of genetically modiWed organisms ( GMOs ) containing antibiotic resistance markers , strong pressure will be imposed by regulatory agencies to refrain from using antibiotic resistance markers in LBV . 
+As an additional safety trait , plasmids should also possess some containment feature to minimize transfer to and establishment in other bacterial species . 
+To date , a variety of balanced lethal vectors have been developed based on either active containment features , e.g. , expression of toxin -- antitoxin components , or passive containment characteristics , e.g. , complementation of genetic defects in DNA precursor , amino acid , and cell wall biosynthetic pathways ( for review , see [ 88 ] ) . 
+The vectors have been successfully tested in diVerent animal models and resulted in the induction of appropriate immune responses to various antigens . 
+3.4. Constitutive and in vivo induced expression of antigens
+Besides plasmid maintenance , in vivo stability of antigen expression is essential for recombinant bacterial vaccine eYcacy . 
+The adaptation of Salmonella spp . 
+to the intracellular environment is associated with global changes in gene expression , resulting in an increased synthesis of particular proteins within the host organism . 
+A correlation has been observed between the abundance of proteins in vivo and their immunodominance , indicating that promoters activated upon Salmonella invasion could be useful tools to optimize the expression of heterologous antigens in this bacterial vector . 
+Subsequently , the use of in vivo inducible promoters has been shown to enhance stable expression and immunogenicity of foreign antigens expressed in Sal-monella , while reducing metabolic load during in vitro propagation [ 86 ] . 
+In vivo-inducible , instead of constitutive , antigen expression allows the culture and administration of recombinant Salmonella cells expressing low levels of antigen that minimally interfere with bacterial viability . 
+In vivo-inducible promoters upregulate antigen expression once the 
+Salmonella reach appropriate location in the tissues . 
+This results in an eYcient immune response . 
+This general concept has been validated in several studies demonstrating an enhanced stability of such expression plasmids and an increase in immunogenicity of recombinant live Salmonella cells [ 86 ] . 
+In addition , qualitative modulation of immune responses was obtained in mice immunized with S. typhimurium expressing - galactosidase as a model antigen , under either the control of an in vivo inducible , or a constitutive , promoter . 
+Constitutive expression elicited mixed Th1/Th2 responses whereas inducible expression led to the induction of a dominant Th1 type response [ 89 ] . 
+Although both strains were able to trigger antigen-speciWc CTL , responses were more eYcient when the expression was controlled by the promoter activated upon infection . 
+Consequently , anti-tumor eYcacy of the stimulated response tested by challenging vaccinated animals with an - galactosi-dase transfected Wbrosarcoma was better when mice were immunized with S. typhimurium expressing - galactosidase controlled by the in vivo-activated promoter [ 78 ] . 
+Using a transgenic T-cell receptor mouse model Bumann [ 90 ] assessed the in vitro and in vivo expression levels of several in vivo-induced promoters towards the induction of antigen-speciWc CD4 + T cells following oral immunization with Salmonella strains . 
+A strong impact of regulated antigen expression on immunogenicity could be demonstrated , that can be almost entirely explained by diVerential coloni-zation capabilities of the Salmonella . 
+Thus , optimal promoters have low in vitro activities that interfere minimally with early colonization capabilities and have high activities once host tissues are reached . 
+However , one should keep in mind that general advice on the use of optimal promoter sets is very diYcult since a speciWc optimal in vivo expression level probably exists for every antigen depending on its speciWc properties . 
+Despite promising eVorts in the characterization of in vivo-activated promoters , their eYciency in expressing heterologous antigens and in inducing eYcacious immune responses has yet to undergo clinical evaluation in humans . 
+3.5. Antigen compartmentalization
+The successful delivery of antigenic proteins for vaccination purposes requires the presentation of antigens in an optimal form and to suitable compartments of the host immune system . 
+The subcellular location of a recombinant antigen in recombinant attenuated vaccine strains may inXuence immunogenicity [ 91 ] . 
+Depending on the topology , the antigen can gain access to either the MHC class I or II degradation pathway inXuencing the generation of antigenspeciWc CD4 + and/or CD8 + T cells . 
+A growing panel of various expression systems oVers the possibility to deliver heterologous antigens either secreted into the environment , displayed attached to the carrier surface or retained into the cytoplasm of the vaccine carrier . 
+To achieve surface exposure of heterologous proteins on Gram-negative bacteria , researchers have often use natural ` secretion competent ' proteins as carriers for the protein of interest [ 92 ] . 
+Expression systems for surface display of antigenic epitopes and antigens are available and there are detailed reviews discussing multiple carrier mole-cules assessed so far [ 93,94 ] . 
+In addition to surface display , secretion of heterologous antigens out of LBV is an alternative strategy to enhance the immune response to heterologous antigens by facilitating the exposure of recombinant antigen to antigen-pre-senting cells for processing . 
+An eYcient approach to achieve better accessibility of antigens to the immune system is their secretion using the Escherichia coli - hemolysin secretion system [ 95 ] . 
+This transport machinery is the prototype of type I secretion systems and consists of three diVerent components -- HlyB , HlyD , and TolC . 
+The HlyA carries at its C-terminus a secretion signal of about 50 -- 60 amino acids in length ( HlyAs ) , which is recognized by the HlyB/HlyD/TolC-translocator , leading to direct secretion of the entire protein into the extracellular medium without the formation of periplasmic intermediates . 
+Based on the hemolysin secretion system , several Salmonella-based live vaccines secreting antigens of bacterial , viral , and parasitic origin were constructed and showed quite promising results in diVerent animal models [ 96 ] . 
+Interestingly , protection was observed after vaccination with recombinant vaccine carriers only when secreting the heterologous antigens , it was either low or absent when the corresponding antigens remained intracellularly in the vaccine strain [ 96 ] . 
+Since Salmonella spp . 
+normally survive within the phag-osomal compartment of antigen presenting cells ( APCs ) , secretion of antigens mainly targets them into the MHC class II antigen-processing pathway . 
+The elicitation of cytotoxic T-cell responses instead requires introduction of antigens into the cytosol of professional APCs . 
+Listeriolysin , a pore-forming protein essential for the escape of Listeria monocytogenes into the host cell cytosol , remains biologically active when fused to the hemolysin secretion system and expressed in Salmonella . 
+Although signiWcantly reduced in its pore-forming activity it is still able to open the phagosomal membrane to some extent , providing access to the cytosol of professional APCs , thereby inducing potent CTL responses [ 97 ] . 
+Type III secretion systems are specialized for the export of bacterial virulence factors delivered directly into the cytosol of target cells to modulate host cellular functions . 
+This unique translocation mechanism can be used for the delivery of large protein fragments derived from immuno-dominant viral and bacterial antigens into the MHC class I-restricted antigen-processing pathway by attenuated Sal-monella vaccines [ 98 ] . 
+In initial studies , Russmann et al. [ 99 ] inserted a CD8 T-cell epitope of the murine lymphocytic choriomeningitis virus nucleoprotein between two functional domains of the Salmonella protein tyrosine phospha-tase ( SptP ) , a type III eVector molecule delivered into the host cell . 
+The hybrid protein was eYciently translocated into the host cell cytosol . 
+Mice immunized with a single dose of an attenuated S. typhimurium mutant expressing the translocated hybrid protein developed a peptide-speciWc cytotoxic CD8 + T-cell response leading to complete protection against a lethal intracerebral challenge with a virulent lymphocytic choriomeningitis virus [ 99 ] . 
+Since the use of SptP as a carrier protein for heterologous antigens was limited to deliver small protein fragments of ca. 50 amino acids , additional type III eVector proteins were used as carrier proteins and led to the successful induction of potent immune responses [ 100 ] . 
+3.6. Perspectives
+LBV constitute a powerful means to achieve an eYcient delivery of vaccine antigens or DNA vaccines . 
+The use of LBV as a delivery system allows speciWc targeting of APCs at the inductive sites ( i.e. , the most eVective target ) . 
+In addition , bacterial cell components and unmethylated DNA provide an optimal `` danger signal '' through the activation of pattern recognition receptors on APCs . 
+Thus , they act as natural adjuvants , thereby promoting recruitment of innate immunity masters and APC maturation . 
+LBV also induce the secretion of several cytokines ( e.g. , TNF - , IFN - , and IL-12 ) and pro-inXammatory mediators ( e.g. , nitric oxide ) that enhance early innate immunity and create a local environment conducive to antigen presentation . 
+When considering implementation of LBV , their production is simple and cost-eVective , the delivery costs are contained ( e.g. , easy administration ) , and the global logistics is extremely simple . 
+The eYciency of any LBV rests with its ability to present suYcient foreign antigen to the human immune system to initiate the desired protective immune response . 
+Consequently , stable and immunogenic expression of antigens represents a major prerequisite for the development of an eYcacious live bacterial carrier-based vaccine -- attenuated in virulence , but suYciently invasive and persistent -- to stimulate both strong primary and long-lasting memory immune responses . 
+All these factors constitute a solid platform for the development of increasingly tailored vaccine prototypes in the future . 
+Acknowledgments
+We thank Jean-François Viret and Ian Metcalfe for critical reading of the manuscript .

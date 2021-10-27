@@ -1,0 +1,757 @@
+Blackwell Science , LtdOxford , UKMMIMolecular Microbiology0950-382XBlackwell Publishing Ltd , 2005 ? 
+200558513221339Original ArticleBap-likeproteinofSalmonellaEnteritidisC . 
+Latasa etal . 
+Molecular Microbiology ( 2005 ) 58 ( 5 ) , 1322 -- 1339 
+doi :10.1111 / j.1365-2958.2005.04907.x First published online 14 October 2005 
+BapA , a large secreted protein required for bioﬁlm 
+formation a d host colonization of Salmonella enterica n Enteritidis
+serovar 
+Cristina Latasa ,1 Agnès Roux ,2 
+Alejandro Toledo-Arana ,1 Jean-Marc Ghigo ,2 Carlos Gamazo ,3 José R. Penadés4 and Iñigo Lasa1 * 1Laboratory of Microbial Bioﬁlms . 
+Instituto de Agrobiotecnología and Dpto , de Producción Agraria , Universidad Pública de Navarra-CSIC , Pamplona-31006 , Spain . 
+2Groupe de Génétique des Bioﬁlms , Institut Pasteur URA CNRS 2172 , Paris 75724 , France . 
+3Departamento de Microbiología , Universidad de Navarra , 31008 Pamplona , Spain . 
+4Cardenal Herrera-CEU University and Instituto Valenciano de Investigaciones Agrarias ( IVIA ) , 46113 Moncada , Valencia , Spain . 
+Summary
+In environmental settings , bioﬁlms represent the common way of life of microorganisms . 
+Salmonella enterica serovar Enteritidis , the most frequent cause of gastroenteritis in developed countries , produces a bioﬁlm whose matrix is mainly composed of curli ﬁmbriae and cellulose . 
+In contrast to other bacterial bioﬁlms , no proteinaceous compound has been reported to participate in the formation of this matrix . 
+Here , we report the discovery of BapA , a large cellsurface protein required for bioﬁlm formation by S. Enteritidis . 
+Deletion of bapA caused the loss of the capacity to form a bioﬁlm whereas the overexpression of a chromosomal copy of bapA increased the bioﬁlm biomass formation . 
+We provide evidence that overproduction of curli ﬁmbriae and not cellulose can compensate for the bioﬁlm deﬁciency of a bapA mutant strain . 
+BapA is secreted through a type I protein secretion system ( BapBCD ) situated downstream of the bapA gene and was found to be loosely associated with the cell surface . 
+Experiments with mixed bacterial populations positive or negative for BapA showed that BapA minus cells are not recruited into the bioﬁlm matrix . 
+The expression of bapA is coordinated with that of genes encoding curli ﬁmbriae and 
+Accepted 12 September , 2005 . 
+* For correspondence . 
+E-mail ilasa@unavarra.es; Tel. ( +34 ) 948 168007 ; Fax ( +34 ) 948 232191 . 
+cellulose , through the action of csgD . 
+Studies on the contribution of BapA to S. Enteritidis pathogenesis revealed that orally inoculated animals with a bapA-deﬁcient strain survived longer than those inoculated with the wild-type strain . 
+Also , a bapA mutant strain showed a signiﬁcantly lower colonization rate at the intestinal cell barrier and consequently a decreased efﬁciency for organ invasion compared with the wildtype strain . 
+Taken together , these data demonstrate that BapA contributes both to bioﬁlm formation and invasion through the regular Salmonella infection route . 
+Introduction
+Salmonella enterica ssp . 
+Enterica ser . 
+Enteritidis ( S. Enteritidis ) is a pathogenic bacterium which causes gastroenteritis associated with a high mortality rate in the absence of appropriate antibiotic treatment . 
+Throughout its life cycle , S. Enteritidis has to survive inside the host and in the external environment , withstanding different nutrient availability , osmotic stress , pH and temperature . 
+It is now recognized that part of the ecological success of bacteria that have to face such highly variable environmental conditions , lies in their ability to grow as surface-attached bioﬁlms , embedded in a protective extracellular matrix ( Costerton et al. , 1995 ; Davey and O'Toole G , 2000 ) . 
+Previous studies on S. Enteritidis bioﬁlm formation have shown that , in rich medium and at room temperature ( 28 °C ) , these bacteria produce a pellicle at the air -- broth interface whose matrix is mainly composed of curli ﬁmbriae and cellulose ( Zogaj et al. , 2001 ; Solano et al. , 2002 ) . 
+Disruption of any of the two operons responsible for cellulose biosynthesis , bcsABZC and bcsEFG , impairs pellicle formation and signiﬁcantly increases the susceptibility of the bacteria to disinfectants ( Solano et al. , 2002 ) . 
+Both curli and cellulose synthesis are coregulated by a complex regulatory network , in which the LuxR type regulator CsgD plays a key role ( Romling et al. , 2000 ) . 
+While csgD is positively regulated by RpoS via MlrA , it itself stimulates the production of curli ﬁmbriae through the transcriptional activation of the csgBAC operon . 
+CsgD also promotes cellulose production through the transcription of adrA , a gene encoding a member of the GGDEF protein family involved in the post-transcriptional activation of cellulose synthesis ( Romling et al. , 2000 ; Brown et al. , 2001 ; Zogaj et al. , 2001 ; Garcia et al. , 2004 ; Simm et al. , 2004 ) . 
+By contrast with other Gram-negative bacteria , where various surfaces or intercellular adhesion factors were shown to participate to bioﬁlm formation , only curli and cellulose production has been described to be involved in the S. enterica bioﬁlm formation process so far ( Danese et al. , 2000 ; Kjaergaard et al. , 2000a , b ; Torres et al. , 2002 ; Schembri et al. , 2004 ) . 
+Whereas this situation could reﬂect the basic requirements for bioﬁlm formation in S. Enteritidis , some still unidentiﬁed component may also contribute to Salmonella bioﬁlms . 
+Our previous investigations focused on the development of Staphylococcus aureus bioﬁlm have revealed the importance of a novel large surface protein , named Bap ( bioﬁlm-associated protein ) ( Cucarella et al. , 2001 ) . 
+Bap is a cell wall-associated protein of 2276 amino acids whose core region consists of 13 successive repeats , identical even at the nucleotide level . 
+In vitro experiments have shown that all the S. aureus strains harbouring the bap gene are strong bioﬁlm producers . 
+Moreover , disruption of the bap gene impaired bioﬁlm development while complementation of bioﬁlm-deﬁcient S. aureus strains with bap promoted bioﬁlm formation . 
+These results were therefore strongly indicative of the importance of Bap in the bioﬁlm formation process ( Cucarella et al. , 2001 ; Arrizubieta et al. , 2004 ) . 
+So far , Bap has only been found in staphylococcal strains isolated from mammary glands in ruminants suffering from mastitis . 
+Experimental infection studies indicated that the presence of Bap signiﬁcantly increased the ability of S. aureus to colonize and persist in the mammary gland in vivo ( Cucarella et al. , 2002 ; Cucarella et al. , 2004 ) . 
+Altogether , these results suggested that the presence of Bap might facilitate bioﬁlm formation that is connected with the persistence of S. aureus in the mammary gland . 
+Intriguingly , a number of surface proteins exhibiting sequence similarities with Bap have recently been shown to be involved in bioﬁlm formation in different bacterial species , such as Pseudomo-nas putida ( Espinosa-Urgel et al. , 2000 ) , Burkholderia cepacia ( Huber et al. , 2002 ) , Pseudomonas ﬂuorescens ( Hinsa et al. , 2003 ) , Vibrio parahaemolyticus ( EnosBerlage et al. , 2005 ) and Enterococcus faecalis ( Toledo-Arana et al. , 2001 ) . 
+In this study , we performed a homology search in the S. enterica genomes and identiﬁed two open reading frames ( ORFs ) ( stm2689 and siiE ) encoding proteins with signiﬁcant similarities with the S. aureus Bap protein . 
+Here , we demonstrated that the protein encoded by stm2689 and not SiiE is required for air -- broth interface pellicle and bioﬁlm formation . 
+We also provide evidence that Stm2689 , renamed as BapA , plays a role in coloni ¬ 
+Bap-like protein of Salmonella Enteritidis 1323 zation of the murine intestine and subsequent organ invasion . 
+Results
+Identiﬁcation of two Bap-like proteins in Salmonella
+In order to identify new factors involved in bioﬁlm formation , we searched S. enterica genome databases for sequence homology to the S. aureus Bap protein using the TBLASTN program , which allows the ﬁnding of homologous proteins in genomes that have not been completely annotated . 
+Our analysis revealed two ORFs encoding hypothetical proteins with signiﬁcant similarity with Bap . 
+The ﬁrst one , stm2689 , was annotated as a 11 474 bp long pseudogene with a frameshift in position 6969 in the completely sequenced genome of S. Typhimurium LT2 ( McClelland et al. , 2001 ) . 
+Whereas this frameshift could lead to protein truncation , the determination of the nucle-otide sequence of three independent polymerase chain reaction ( PCR ) - ampliﬁed fragments encompassing this region in the genome of two of our laboratory strains , namely S. Typhimurium LT2 and the clinical S. Enteritidis isolate 3934 , revealed that this punctual deletion did not exist in any of them . 
+Therefore , the ORF stm2689 can be considered as an undisrupted gene , which encodes a putative 386 kDa protein . 
+Individual pairwise alignments between Stm2689 and Bap showed that the homology was restricted to the C-repeat region of Bap ( amino acids 948 -- 2139 ) and region B of Stm2689 ( amino acids 159 -- 3003 ) ( Fig. 1A ) . 
+Region B of Stm2689 contains 29 imperfect tandem repeats of 86 -- 106 amino acids . 
+Each Stm2689 repeat showed on average a 29 % identity with a C-repeat of Bap ( Fig. 1B ) . 
+According to protein domain prediction programs ( ProDom structural genomics ) region B of Stm2689 also exhibits homology with a large repetitive RTX inner membrane family of exoproteins , involved in adhesion and virulence processes . 
+Region C contains three VCBS repeats ( aa 3117 -- 3214 ; aa 3371 -- 3466 ; aa 3626 -- 3734 ) ( Inter Pro IPR010221 ) found in several large proteins apparently related with adhesion functions and three non-interacting α-helices within the 60 terminal amino acids , a structure reminiscent of the Cterminal secretion signal recognized by an ABC transporter involved in type I protein secretion ( Wandersman , 1996 ) . 
+The second ORF , stm4261 , is 16 680 bp long and encodes for the biggest protein within the S. Typhimurium genome ( 595 kDa ) . 
+During the course of this study , stm4261 was identiﬁed as a S. Typhimurium host-speciﬁc colonization factor and renamed as siiE ( salmonella intes-tinal infection ) ( Morgan et al. , 2004 ) . 
+SiiE contains 50 tandem imperfect repeats of 110 amino acids ( Fig. 1A ) , each repeat displaying an average of 25 % identity to the 
+( 239KD ) 
+2139 
+948 
+25 % Identity 
+A 
+C 
+B-repeats 
+SiiE 
+( 595KD ) 
+361 
+5385 5560 
+B 
+10 20 30 40 50 60 70 80 90 ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... QVGENGSWTFPV -- PRNLSEGSHNLTVSATDPAGNTS-AVSAPWTIV -- VDITPPAIPVLTSVVDDQPGITG ----- NLVSGQLTNDATPTL ------ GNYTIDIPSNVDLNGGEE-LQVTATDKDGNT -- SEPSSANV-TDTTAPDAPTVNDVTSDATQVTGQAEPNSTVKLTFPDGTTATG - ATPGVWDYTW -- LADVGEGKHTLTVEATDKAGNKT -- TQQL-DFIIDT-LLSEPTIVLDSTDD -- SG ------ TKGDHLTNVNKP ----- 
+Stm2689 B repeat Bap C repeat SiiE B repeat 
+Fig. 1 . 
+Structural analysis of Stm2689 and SiiE and identity to Bap from S. aureus . 
+A. Domains of Stm2689 : region A ( amino acid 1 -- 158 ) , region B containing 29 tandem repeats ( aa 159 -- 3003 ) and region C ( aa 3004 -- 3824 ) . 
+Domains of SiiE : region A ( aa 1 -- 360 ) , region B containing 50 tandem repeats ( aa 361 -- 5384 ) and region C ( aa 5385 -- 5560 ) . 
+Percentages of identity between region C of Bap from S. aureus , region B of Stm2689 and SiiE are shown . 
+B. Alignment of consensus repeat sequences from Bap , Stm2689 and SiiE . 
+Black shadings represent total identity and grey shadings represent > 65 % of identity . 
+generating strains 3934 ∆ stm2689 a respectively . 
+nd 3934 ∆ siiE 
+S. aureus Bap and Stm2689 repeats ( Fig. 1B ) . 
+According to protein domain prediction programs ( SMART sequence analysis ) , the sequence comprehended between amino acids 1263 -- 3374 of this central region contains six bacterial neuraminidase repeats ( BNR ) , generally found in glycosyl hydrolases as well as other extracellular proteins of unknown function ( Copley et al. , 2001 ) . 
+SiiE also possesses two FN3 ( Fibronectin type 3 ) domains ( aa 3996 to 4099 and aa 4629 to 4767 ) , which are known to bind a variety of ligands ( Skorstengaard et al. , 1986 ) . 
+In addition , the central repeat region of SiiE shares homologies with the characteristic consensus sequence of RTX exoproteins ( Coote , 1992 ) . 
+Both stm2689 and siiE are present in all the Salmonella genomes currently available on databases . 
+Multiple alignments of these sequences exhibit extremely high identity ( 99 % ) , indicating that they are very well conserved between different Salmonella species . 
+Disruption of stm2689 , but not of siiE , causes the loss of the ability to produce a pellicle at the air -- liquid interface in Luria -- Bertani ( LB ) rich medium 
+Given the in silico homology exhibited by Stm2689 and SiiE with S. aureus Bap and other proteins involved in bioﬁlm formation , we investigated the function of these two novel but putative S. Enteritidis adhesins . 
+We ﬁrst produced complete deletions of both stm2689 and siiE genes in the clinical strain S. Enteritidis 3934 , 
+The mutant strains obtained were ﬁrst tested for their bioﬁlm phenotype in LB , where the Salmonella bioﬁlm is visualized as a pellicle at the air -- broth interface , and then plated on calcoﬂuor agar plates , where cellulose producing strains ﬂuoresce under long-wave UV light ( Solano et al. , 1998 ) . 
+The disruption of stm2689 provoked the loss of the ability to produce the pellicle at the air -- broth interface in LB , whereas the capacity of 3934 ∆ stm2689 to ﬂuoresce under UV light was not modiﬁed in relation to the wild-type strain ( Fig. 2A and B ) . 
+On the other hand , deletion of siiE did not cause any phenotype alteration either in LB or on calcoﬂuor agar plates ( Fig. 2A and B ) . 
+To conﬁrm that such phenotypes did not depend on the genetic background , both deletions were backcrossed into S. Typhimurium 14028 by P22 transduction . 
+Just like in S. Enteritidis , the deletion of stm2689 impaired bioﬁlm development in LB while the deletion of the siiE gene did not cause any alteration of the bioﬁlm formation process ( data not shown ) . 
+These results indicated that stm2689 is required for pellicle formation and not for cellulose synthesis . 
+Moreover , our results also showed that , although siiE also encodes for a protein exhibiting homology with Bap protein and it has been implicated in host colonization , siiE deletion did not lead to any bioﬁlm defect . 
+This suggests that SiiE is not involved in bioﬁlm formation under the conditions tested . 
+A 
+C 
+B-repeats 
+SiiE 
+( 595KD ) 
+361 
+5385 5560 
+B 
+10 20 30 40 50 60 70 80 90 ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... QVGENGSWTFPV -- PRNLSEGSHNLTVSATDPAGNTS-AVSAPWTIV -- VDITPPAIPVLTSVVDDQPGITG ----- NLVSGQLTNDATPTL ------ GNYTIDIPSNVDLNGGEE-LQVTATDKDGNT -- SEPSSANV-TDTTAPDAPTVNDVTSDATQVTGQAEPNSTVKLTFPDGTTATG - ATPGVWDYTW -- LADVGEGKHTLTVEATDKAGNKT -- TQQL-DFIIDT-LLSEPTIVLDSTDD -- SG ------ TKGDHLTNVNKP ----- 
+Stm2689 B repeat Bap C repeat SiiE B repeat 
+Fig. 1 . 
+Structural analysis of Stm2689 and SiiE and identity to Bap from S. aureus . 
+A. Domains of Stm2689 : region A ( amino acid 1 -- 158 ) , region B containing 29 tandem repeats ( aa 159 -- 3003 ) and region C ( aa 3004 -- 3824 ) . 
+Domains of SiiE : region A ( aa 1 -- 360 ) , region B containing 50 tandem repeats ( aa 361 -- 5384 ) and region C ( aa 5385 -- 5560 ) . 
+Percentages of identity between region C of Bap from S. aureus , region B of Stm2689 and SiiE are shown . 
+B. Alignment of consensus repeat sequences from Bap , Stm2689 and SiiE . 
+Black shadings represent total identity and grey shadings represent > 65 % of identity . 
+generating strains 3934 ∆ stm2689 a respectively . 
+nd 3934 ∆ siiE 
+B. Fluorescence on calcoﬂuor agar plates. 3934∆csgD is included as a negative control for both pellicle formation in LB and cellulose production on calcoﬂuor agar plates.
+Overproduction of Stm2689 leads to increased pellicle and bioﬁlm formation
+In order to conﬁrm the phenotypes of stm2689 and siiE deletions , we wished to complement the mutant strains with a wild-type functional gene . 
+However , as siiE and stm2689 code for the two largest proteins within the sal-monella genome , the difﬁculties related to the ampliﬁcation of such long sequences associated with the high probability of introducing mutations made us dismiss a plasmid-based complementation strategy . 
+Alternatively , we used a plasmid-free approach that combines the lambda-red linear DNA recombination method with sitedirected insertion of a repression/induction cassette that places the arabinose-inducible pBAD promoter upstream of the target gene ( Roux et al. , 2005 ) . 
+This system allowed us to switch on and off the expression of the stm2689 and siiE genes by adding arabinose or glucose , respectively , to the growth media . 
+After 96 h of incubation in LB in the presence of 0.1 % arabinose , the 3934BADstm2689 strain formed a bioﬁlm pellicle so thick that the tube could even be tilted without spilling the liquid out ( Fig. 3A ) . 
+When the growth medium was supplemented with 0.1 % of glucose , the phenotype of the 3934BADstm2689 strain was identical to the one of 3934 ∆ stm2689 ( data not shown ) . 
+On the other hand , the bioﬁlm formed by the 3934BADsiiE strain in the presence of 0.1 % of arabinose or glucose was indistinguishable from the wild-type strain ( data not shown ) . 
+In order to check that the phenotype displayed by 3934BADstm2689 upon arabinose induction was due to an increased production of Stm2689 protein , we performed a Western blot analysis using polyclonal antibodies raised against an amino terminal peptide of the Stm2689 protein . 
+As shown in Fig. 3B , the signal intensity of a band of high molecular weight was stronger in 3934BADstm2689 strain in the presence of arabinose than in the wild-type strain and completely disappeared in the presence of glucose or in the 3934 ∆ stm2689 strain . 
+In addition to static culture conditions , we also tested the wild type , 3934 ∆ stm2689 and 3934BADstm2689 strains for their ability to produce a bioﬁlm in microfermentors ( Ghigo , 2001 ) . 
+Whereas wild-type S. Enteritidis did not form signiﬁcant bioﬁlm under these culture conditions , the overproduction of Stm2689 in 3934BADstm2689 led to the formation of a thick bioﬁlm that totally covered the spatula after 72 h of incubation in presence of arabinose ( Fig. 3C ) . 
+In agreement with previous results , overexpression of siiE did not induce bioﬁlm development in microf-ermentors ( data not shown ) . 
+Based on the structural and functional similarities of the protein encoded by stm2689 with the Bap protein of S. aureus , the gene stm2689 was renamed as bapA . 
+As SiiE did not take part in bioﬁlm development in our experimental conditions , the rest of this study focuses on BapA . 
+Relationship between BapA and other components of the bioﬁlm matrix
+We previously showed that S. aureus strains harbouring the bap gene were able to produce a bioﬁlm even when the icaADBC operon was disrupted ( Cucarella et al. , 2004 ) . 
+This operon encodes enzymes involved in the synthesis of the bioﬁlm matrix exopolysaccharide PNAG which plays an important role in staphylococcal bioﬁlm development ( Cramton et al. , 1999 ; Gotz , 2002 ; Maira-Litran et al. , 2002 ) . 
+So far , cellulose has been proven to be essential for bioﬁlm development in all tested Salmo-nella strains . 
+Because cellulose plays a similar role in 
+Bap-like protein of Salmonella Enteritidis 1325 
+B 
+B 
+A 
+A 
+WT 
+DsiiE 
+DcsgD 
+Dstm2689 
+Fig. 2 . 
+Bioﬁlm phenotypes of S. Enteritidis 3934 , 3934 ∆ csgD , 3934 ∆ stm2689 and 3934 ∆ siiE . 
+A. Pellicle formation capacity in LB at room temperature . 
+Salmonella to that of PNAG exopolysaccharide in staphylococci , we decided to test the possibility that the overproduction of BapA in S. Enteritidis could compensate for the lack of cellulose.We introduced a mutation in the bcsABZC operon in strain 3934BADstm2689 and tested this strain for its ability to form a pellicle in LB supplemented with arabinose . 
+Figure 4B shows that the cellulose-defective BapA-overproducer 3934BADstm2689 ∆ bcsA strain displayed a bioﬁlm negative phenotype comparable to the one of a 3934 ∆ bcsA cellulose mutant strain ( Fig. 4A ) . 
+We then investigated if the overproduction of BapA could nevertheless compensate for the lack of curli ﬁmbriae , the other main component of the bioﬁlm formed by Salmonella in LB ( see Fig. 4A ) . 
+For that , we created a deletion in the csgA gene of strain 3934BADstm2689 . 
+The growth of the ﬁmbriae-defective BapA-overproducer 3934BADstm2689 ∆ csgA strain in LB supplemented with arabinose during 96 h at room temperature did not lead to any pellicle formation at the air -- liquid interface ( Fig. 4B ) , similarly to the 3934 ∆ csgA mutant ( Fig. 4A ) . 
+These results indicate that overexpression of BapA can not compensate for the lack of cellulose synthesis nor for curli ﬁmbriae production needed for bioﬁlm development . 
+To carry out the reciprocal experiment and elucidate whether the overproduction of cellulose and/or ﬁmbriae could compensate for the lack of BapA , the strain 3934 ∆ stm2689 was complemented with a low copy plasmid harbouring the csgD gene under the control of its own promoter , resulting in strain 3934 ∆ stm2689 [ pBR328 : : csgD ] . 
+After 48 h at room temperature , the complemented strain formed a thick pellicle at the air -- broth interface , showing that the increased number of copies of the csgD were able to restore the bioﬁlm-deﬁcient phenotype of the 3934 ∆ stm2689 mutant strain ( Fig. 4C ) . 
+In order to determine which CsgD-regulated factor , either curli ﬁmbriae or cellulose , was responsible for restoring the bioﬁlm phenotype in 3934 ∆ stm2689 [ pBR328 : : csgD ] , 3934 ∆ stm2689 strain was complemented with the adrA gene under the control of its own promoter , which exclusively activates cellulose 
+A 
+C 
+Arabinose 0.1 % 
+Glucose 0.1 % 
+3934 
+3934BADstm2689 
+B 
+3934BADstm2689 3934 
+3934 ara gluc ∆ stm2689 
+205 kD 
+Fig. 3 . 
+Static and dynamic bioﬁlm formation upon bapA overexpression . 
+A. Bioﬁlm formation under LB conditions after 96 h of 3934 and 3934BADstm2689 strains in the presence of 0.1 % of arabinose . 
+B. Bap immunodetection by Western blot in 3934 , 3934BADstm2689 strain grown in LB in the presence of 0.1 % of arabinose or glucose and 3934 ∆ stm2689 . 
+C. Bioﬁlm formation in microfermentors of 3934 , 3934BADstm2689 and 3934 ∆ stm2689 strains in M63B1 in the presence of 0.1 % of arabinose or glucose at 37 °C for 48 h. 
+393 
+3934 ∆ stm2689 
+3934BADstm2689 
+A. Bioﬁlm formation phenotypes of S. Enteritidis 3934 , 3934 ∆ csgA and 3934 ∆ bcsA grown in LB at room temperature for 72 h. B. Bioﬁlm formation phenotypes in LB supplemented with arabinose at room temperature for 72 h of S. Enteritidis 3934BADstm2689 , 3934BADstm2689 ∆ csgA and 3934BADstm2689 ∆ bcsA . 
+C. Bioﬁlm formation phenotypes in LB at room temperature for 72 h of S. Enteritidis 3934 ∆ stm2689 and 3934 ∆ stm2689 complemented with pBR328 : : csgD and with pBR328 : : adrA . 
+D. Bioﬁlm formation phenotypes in LB supplemented with glucose at room temperature for 72 h of S. Enteritidis 3934BADstm2689 [ pBR328 : : csgD ] , 3934BADstm2689 ∆ csgA [ pBR328 : : csgD ] and 3934BADstm2689 ∆ adrA [ pBR328 : : csgD ] . 
+synthesis ( strain 3934 ∆ stm2689 [ pBR328 : : adrA ] ) . 
+As shown in Fig. 4C , the overexpression of adrA was not able to restore the ability to produce the air -- broth interface pellicle . 
+In addition , CsgD was unable to complement bioﬁlm development of the csgA mutant strain ( 3934BADstm2689 ∆ csgA [ pBR328 : : csgD ] ) ( data not shown ) . 
+These results strongly suggest that overproduction of curli ﬁmbriae but not cellulose can overcome the bioﬁlm deﬁciency of a bapA mutant strain . 
+In addition , CsgD was unable to complement bioﬁlm development of the csgA and adrA mutant strains ( Fig. 4D ) . 
+These results suggest that the overproduction of curli ﬁmbriae is respon ¬ 
+Bap-like protein of Salmonella Enteritidis 1327 sible for pellicle restoration of bapA-deﬁcient strain , even though the presence of cellulose is necessary . 
+A 
+3934 ∆ csgA 
+∆ bcsA 
+BapA must be secreted for bioﬁlm development According to programs for the prediction of subcellular localization ( PSORTb ) , BapA might be localized either to the outer membrane ( OM ) or secreted extracellularly . 
+The analysis of the ORFs present downstream of bapA revealed that stm2690 codes for a protein homologous to the OM protein TolC , stm2691 codes for a protein homologous to SunT ( an ABC-type exporter ) and stm2692 codes for a protein homologous to HlyD , a membrane anchored periplasmic protein ( Fig. 5A ) . 
+These ﬁndings strongly suggested that BapA could be transported out of the cell by a classical type I protein secretion mechanism . 
+To test whether stm2690 to stm2692 were required for the BapA function , we produced an in frame deletion of the stm2690 -- 92 operon and then tested for the pellicle formation capacity of the resulting 3934 ∆ stm2690 -- 92 strain . 
+The absence of pellicle formation in 3934 ∆ stm2690 -- 92 strain suggested the necessity for BapA to be secreted in order to participate in the bioﬁlm formation process ( data not shown ) . 
+According to this result , the genes stm2690 , 2691 and 2692 were renamed as bapB , bapC and bapD respectively . 
+Owing to the potential role of BapB , BapC and BapD in the secretion of BapA , we further investigated the issue of BapA subcellular localization . 
+3934 ∆ stm2689 , 3934BADstm2689 and 3934 ∆ stm2690 -- 92 bacteria were fractionated , resulting in IM and OM fractions , supernatant ( S1 ) and proteins loosely associated with the cell surface ( S2 ) as described in Experimental procedures . 
+A Western blot analysis using polyclonal anti-BapA antibodies showed the presence of a high molecular weight protein in the S2 fraction of 3934BADstm2689 induced with arabinose and not in the 3934 ∆ stm2689 and 3934 ∆ stm2690 -- 92 mutant strains This band exhibited a slightly lower molecular weight when present in than S2 fraction than in the whole cell extract , suggesting that the protein might be either processed during the secretion process or speciﬁcally degraded outside the bacteria ( Fig. 5B ) . 
+Taken together , these results suggest that BapA is secreted outside of the bacteria where it remains in loose association with the bacterial cell surface . 
++ 
++ / -- 
+-- 
+B 
+3934BADstm2689 ∆ csgA ∆ bcsA 
+-- 
++ + 
++ / -- 
+C 
+3934 ∆ stm2689 
+CsgD + AdrA + 
+-- + -- 
+D 
+3934BADstm2689 [ pBR328 : : csgD ] ∆ csgA ∆ adrA 
+-- 
+-- 
++ 
+Fig. 4 . 
+Bioﬁlm complementation studies . 
+Bap-deﬁcient cells do not take part of the pellicle developed by S. Enteritidis
+Our results suggest that BapA plays a structural role in bioﬁlm development similar to that of curli ﬁmbriae . 
+We therefore decided to test if the presence of this protein on the bacterial surface was needed for intercellular interactions and monitored the bioﬁlm development process carried out by different mixtures of wild type , 3934BADstm2689 and 3934 ∆ stm2689 strains using laser confocal microscopy . 
+All three strains were transformed with plasmids encoding the green and red ﬂuorescent proteins ( GFP and DsRed , respectively ) and competition growth experiments were performed in order to guarantee that the growth rate of each strain was not affected by the presence of the other strain . 
+Different combinations of labelled strains were cultured in LB under bioﬁlm forming conditions and samples taken at 24 h intervals were examined using a scanning confocal laser microscope . 
+No multicellular behaviour could be observed before 72 h and the air -- broth interface pellicle was macroscopically visible after 96 h of static culture . 
+The confocal analysis showed that when the labelled 3934BADstm2689 and 3934 ∆ stm2689 strains were cocultured , a pellicle coloured as the labelled Bap overproducing strain was formed ( Fig. 6A ) . 
+Small aggregates formed by BapA negative cells could also be detected . 
+Curiously , when both mixed strains were able to produce the protein BapA on their surface , we did not detect aggregation between red and green single cells . 
+Instead , confocal analysis showed a thick pellicle formed by a mixture of red and green cell clusters ( Fig. 6A ) , suggesting that the pellicle is formed by clonal growth from single ` starter ' cell . 
+After incubation in LB for 7 days at room temperature , the microscopic results were conﬁrmed macroscopically , because the pellicle at the air -- broth interface turned ( i ) red , when the 3934BADstm2689 [ pDsRED ] and 3934 ∆ stm2689 [ pGFP ] strains were co-cultured ; ( ii ) green when the 3934BADstm2689 [ pGFP ] and 3934 ∆ stm2689 [ pDsRED ] strains were co-cultured ; and ( iii ) light yellow when 3934BADstm2689 [ pDsRED ] and 3934BADstm2689 [ pGFP ] strains were incubated together ( Fig. 6B ) . 
+Altogether , these results strongly suggest that the presence of Bap is required for the bacteria to aggregate at the air -- liquid interface and produce microcolo-nies that are built up by the pellicle developed by S. Enteritidis . 
+Transcriptional regulation of bapA
+As previously mentioned csgD promotes both synthesis of curli ﬁmbriae and cellulose production and therefore represents a checkpoint for the regulation of bioﬁlm formation under inducing conditions ( Romling et al. , 2000 ) . 
+The ﬁnding that BapA is required for bioﬁlm formation suggests that expression of bapA might be also regulated by csgD . 
+In order to test this hypothesis , total RNA from the wild-type and csgD mutant strains was extracted after 24 , 48 and 72 h of growth under bioﬁlm forming conditions and transcriptional levels of the bapA gene were measured by real-time PCR . 
+The gyrB and adrA gene levels were used as internal controls . 
+The level of bapA mRNA in the csgD mutant strain was signiﬁcantly lower than that of the wild-type strain suggesting that , under the conditions tested , csgD was affecting transcription of bapA ( Fig. 7 ) . 
+As MlrA has been described to activate transcription of csgD , we also examined the levels of bapA mRNA in the wild type , mlrA mutant and csgD mutant complemented with mlrA . 
+The results showed that the bapA mRNA level was signiﬁcantly downregulated in the mlrA mutant strain and that bapA activation through MlrA was exclusively CsgD-dependent , because bapA transcription levels in csgD mutant and csgD mutant complemented with MlrA were comparable ( Fig. 7 ) . 
+The expression of bapA was also measured in the wildtype strain complemented with MlrA . 
+As expected , the quantity of bapA transcripts increased signiﬁcantly . 
+Altogether , these results show that bapA , like adrA and csgAB , is regulated by CsgD and is therefore a new member of the CsgD regulon , which plays a central role in bioﬁlm formation in Salmonella strains . 
+Fig. 5 . 
+Subcellular localization of BapA . 
+A. Genomic organization of the bapA chromosomal region . 
+The ﬁgure is drawn to scale . 
+B. Western blot analysis of BapA on the inner membrane fraction ( IM ) , outer membrane fraction ( OM ) , S1 and S2 supernatants from arabinose-induced 3934 ∆ stm2689 , 3934BADstm2689 and 3934 ∆ stm2690 -- 92 strains and whole cell extracts ( WE ) from arabinose-induced 3934BADstm2689 and glucose-repressed 3934BADstm2689 cultures . 
+Detection of outer membrane protein OmpA and inner membrane protein IgaA as a fractionation control is shown . 
+A 
+bapA 
+stm2690/91/92 
+B 
+OM IM 
+OmpA 
+IgaA 
+Fig. 6 . 
+Monitoring of mixed bioﬁlm formation . 
+A. Confocal scanning laser microscopy showing aggregation processes between 3934BADstm2689 [ pGFP ] and 3934 ∆ stm2689 [ pDsRED ] , 3934BADstm2689 [ pDsRED ] and 3934 ∆ stm2689 [ pGFP ] and 3934BADstm2689 [ pGFP ] and 3934BADstm2689 [ pDsRED ] at 72 h of incubation under LB bioﬁlm conditions . 
+B. Pellicle developed by the same mixed cultures after 1 week under static bioﬁlm forming conditions . 
+7 
+The BapA protein is involved in the pathogenic process of S. Enteritidis 
+* * 
+bapA adrA 
+5 
+Survival experiments
+* * 
+In order to test whether the lack of BapA conferred a virulence defect , several in vivo studies were carried out . 
+A murine infection model was used in which groups of BALB/c mice were orally and intraperitoneally inoculated with two different lethal doses of the wild type and 3934 ∆ stm2689 strains . 
+The differences in survival were particularly signiﬁcant when bacteria were orally adminis-5 tered . 
+A lethal dose of 10 colony-forming units ( cfu ) of the wild-type strain orally inoculated gave rise to a mortality rate of 100 % , 5 -- 11 days post inoculation whereas mice infected with the 3934 ∆ stm2689 mutant strain did not began to die until day 8 post infection and 55 % of them were not showing any symptom at the end of the experiment ( day 24 post infection ) ( Fig. 8A ) . 
+Once the assay had ﬁnished , these apparently healthy mice which had been inoculated with the BapA-deﬁcient strain were euthanized and bacteriological analysis conﬁrmed the absence of S. Enteritidis in liver , spleen , and faeces , demonstrating a complete clearance of infection . 
+These results suggest that BapA plays a role in invasion during intestinal colonization . 
+B 
+LB 7 days 
+Fig. 6 . 
+Monitoring of mixed bioﬁlm formation . 
+A. Confocal scanning laser microscopy showing aggregation processes between 3934BADstm2689 [ pGFP ] and 3934 ∆ stm2689 [ pDsRED ] , 3934BADstm2689 [ pDsRED ] and 3934 ∆ stm2689 [ pGFP ] and 3934BADstm2689 [ pGFP ] and 3934BADstm2689 [ pDsRED ] at 72 h of incubation under LB bioﬁlm conditions . 
+B. Pellicle developed by the same mixed cultures after 1 week under static bioﬁlm forming conditions . 
+7 
+* * 
+bapA adrA 
+5 
+* * 
+3 
+1 
+* * * * * * 
+DmlrA DcsgD 3934 DcsgD DmlrA DcsgD 3934 DcsgD MlrA + MlrA + MlrA + MlrA + 
+Fig. 7 . 
+Real-time quantiﬁcation of bapA and adrA expression . 
+Realtime quantiﬁcation of bapA and adrA expression in strains S. Enteritidis 3934 ∆ csgD , 3934 ∆ mlrA , 3934 complemented with mlrA and 3934 ∆ csgD complemented with mlrA at 72 h of incubation under LB bioﬁlm forming conditions . 
+The y-axis represents the fold induction compare to 3934 wild-type strain.The ﬁgure represents the mean and standard error of ﬁve independent experiments . 
+One asterisk denote P < 0.05 and two asterisks denote P < 0.01 . 
+Fig. 8 Virulence studies . 
+A. Comparative lethality between S. Enteritidis 3934 ( white squares ) and 3934 ∆ stm2689 ( black triangles ) strains in orofagic ( left ) and intraperi-tioneal-infection mouse models ( right ) . 
+Inoculums administrated were 105 and 101 cfu respectively . 
+The associated P-values for Log Rank statistic are shown . 
+B. Adhesion and internalization rates after coinfections of mice with S. Enteritidis 3934 and 3934 ∆ stm2689 ( grey bars ) , with 3934BADstm2689 and 3934 ∆ stm2689 ( white bars ) and with 3934 and 3934BADstm2689 ( black bars ) measured through ileal loop coinfection experiments . 
+Asterisks denote P < 0.05 and ns denote P > 0.05 . 
+C. Colonization-Invasiveness . 
+Left : Differences in caecum and organ invasion between S. Enteritidis 3934 and 3934 ∆ stm2689 strains . 
+Right : Average bacterial counts of infected spleens and livers by S. Enteritidis 3934 ( white bars ) and 3934 ∆ stm2689 ( black bars ) . 
+Adhesion–internalization experiments
+It is well known that Salmonella , following a passage through the stomach , adheres to and passes through intestinal epithelial cells , primarily the M cells of the folli-cle-associated epithelium . 
+As a result , bacteria can gain access to the reticuloendothelial system , thus providing an avenue for the dissemination to the lymph nodes , spleen , liver and blood ( McCormick et al. , 1996 ) . 
+Taking into account the results described above , we wondered whether the BapA-defective strain had a reduced capacity to adhere and invade the intestinal epithelium , or whether the lack of BapA was linked to a reduced ability to colonize internal organs such as spleen or liver and , as a consequence of a lower infection rate . 
+In order to shed some light on this process and to investigate the ﬁrst hypothesis , we performed coinfection studies in ligated ileal loops . 
+After an infection time of 90 min , the level of intracellular colonization of 3934 ∆ stm2689 was signiﬁcantly lower than that of the wild-type strain ( Fig. 8B ) . 
+To conﬁrm that the internalization deﬁciency was exclusively due to the absence of BapA , the bapA mutation was transduced into a fresh wild-type background and the ileal loop experiment was repeated giving rise to the same phenotypic effect . 
+Similarly , coinfection of 3934 ∆ stm2689 and 3934BADstm2689 activated by arabinose demonstrated a signiﬁcantly higher colonization of the BapA overproducing strain . 
+Finally , coinfection of wild-type and 3934BADstm2689 strains resulted in similar bacterial counting ( Fig. 8B ) . 
+These results suggested that BapA plays a key role within this primary stage of the infection establishment . 
+log cfu per ileal loop 
+100 
+Orofagic infection 
+Intraperitoneal infection 
+80 
+80 
+60 
+60 
+40 
+40 
+P = 0.0232 
+P = 0.286 
+20 
+20 
+0 
+0 
+4 
+8 
+12 
+24 
+16 20 
+8 
+4 
+12 
+24 
+16 20 
+Days post infection 
+Days post infection 
+B Adhesion/internalization 6 
+5 
+( ns ) 
+4 
+Survival 
+log cfu/gr 
+3 
+* 
+* 
+2 
+1 
+3934BAD 3934 stm2689 
+3934BAD 
+3934 ∆ stm2689 stm2689 
+∆ 
+3934 3934 stm2689 
+C Invasiveness/colonization 
+4.5 
+Infected organs/inoculated animals 
+3.5 
+Organs Spleen Liver Caecum 
+3934 
+3934 ∆ stm2689 3/10 4/10 2/10 
+2.5 
+8/10 10/10 10/10 9/10 
+1.5 
+0.5 
+Gall-blader 
+0/10 
+Liver 
+Spleen 
+Fig. 8 Virulence studies . 
+A. Comparative lethality between S. Enteritidis 3934 ( white squares ) and 3934 ∆ stm2689 ( black triangles ) strains in orofagic ( left ) and intraperi-tioneal-infection mouse models ( right ) . 
+Inoculums administrated were 105 and 101 cfu respectively . 
+The associated P-values for Log Rank statistic are shown . 
+B. Adhesion and internalization rates after coinfections of mice with S. Enteritidis 3934 and 3934 ∆ stm2689 ( grey bars ) , with 3934BADstm2689 and 3934 ∆ stm2689 ( white bars ) and with 3934 and 3934BADstm2689 ( black bars ) measured through ileal loop coinfection experiments . 
+Asterisks denote P < 0.05 and ns denote P > 0.05 . 
+C. Colonization-Invasiveness . 
+Left : Differences in caecum and organ invasion between S. Enteritidis 3934 and 3934 ∆ stm2689 strains . 
+Right : Average bacterial counts of infected spleens and livers by S. Enteritidis 3934 ( white bars ) and 3934 ∆ stm2689 ( black bars ) . 
+Colonization–invasiveness experiments
+To determine whether BapA has any bearing on the ability of S. Enteritidis to colonize the spleen , liver , gall bladder and caecum , we performed a murine assay in which animals were orally infected with a sublethal dose ( 104 cfu ) of both wild type and 3934 ∆ stm2689 strains . 
+The degree of organ colonization was recorded at 24 h , 72 h and 5 days post infection . 
+Spleen , liver , gall bladder and caecum were removed aseptically , homogenized and plated on selective agar . 
+The experiment was repeated three times . 
+When considering morbidity ( % of infected animals ) , the most invasive strain was the wild type . 
+However , there was not a quantitative difference in the degree of bacterial multiplication ( cfu ) inside the infected organs of animals inoculated with the wild type or mutant strains indicating that once the bacteria had passed through the epithelial barrier and reached the organs , both strains had the same capacity for multiplication inside these organs . 
+Altogether , these results suggest that BapA does not play a signiﬁcant role at the late stage of infection in the internal organs , which are usually affected during the S. Enteritidis invasion process in mice . 
+Discussion
+The studies of bacterial bioﬁlm development reveal that some factors recurrently appear to be required in this 
+Bap-like protein of Salmonella Enteritidis 1331 process , even in distantly related genera . 
+One of these elements comprises surface proteins exhibiting homology to the Bap protein of S. aureus . 
+Since the ﬁnding of Bap in a bovine mastitis S. aureus isolate , different surface proteins related to Bap and involved in bioﬁlm formation of diverse bacterial species have been described : Esp in E. faecalis ( Toledo-Arana et al. , 2001 ) , Bhp and Bap in Staphylococcus epidermidis ( Tormo et al. , 2005 ) , Mus20 in P. putida ( Espinosa-Urgel et al. , 2000 ) , LapA in P. ﬂuo-rescens ( Hinsa et al. , 2003 ) , Bap in B. cepacia ( Huber et al. , 2002 ) , YeeJ in Escherichia coli ( Roux et al. , 2005 ) and VAP1445 in V. parahaemolyticus ( Enos-Berlage et al. , 2005 ) . 
+In the present study , we characterized two new members of this group of proteins , Stm2689 and Stm4261 [ renamed as SiiE during the course of this study ( Morgan et al. , 2004 ) ] , which encode proteins exhibiting homology with Bap from S. aureus . 
+Supporting the in silico evidence , mutagenic and overexpression analysis allowed us to experimentally demonstrate the functional relationship between Bap and Stm2689 . 
+Indeed , the disruption of stm2689 caused the loss of the capacity to form a bioﬁlm in LB medium and its overexpression reinforced bioﬁlm pellicle formation . 
+Based on this structural and functional parallelism between the product of stm2689 and Bap of S. aureus , stm2689 was renamed as bapA . 
+On the contrary , the bioﬁlm forming capacity of Salmo-nella was affected neither by the deletion nor by overexpression of siiE in any of the strains and conditions tested . 
+One hypothesis to explain the lack of phenotype for the siiE mutant is that SiiE might participate to S. Enteritidis multicellular behaviour under environmental conditions different to the ones tested in our study . 
+Alternatively , the SiiE protein might not be functional in the tested strains or other proteins , such as BapA , might compensate the SiiE deﬁciency . 
+In the case of the Esp protein of E. faeca-lis , it has been shown that esp transcription leads to a signiﬁcant increase in bioﬁlm formation . 
+However , the inactivation of esp did not cause a loss of the bioﬁlm phenotype in all genetic backgrounds tested , suggesting that additional determinants may compensate the absence of Esp for bioﬁlm formation in some strains ( Toledo-Arana et al. , 2001 ; Tendolkar et al. , 2004 ) . 
+As a common structural feature , proteins exhibiting homology to Bap present a core domain of tandem repeats . 
+It has been shown that the number of C-repeats of Bap of S. aureus within one strain varies under ﬁeld conditions throughout the infection process ( Cucarella et al. , 2004 ) . 
+Taking into account the sequence identity of the repeats in Bap , the variability in the number of repeats can readily be explained through recA-independent slipped-strand mispairing during DNA replication . 
+Even though the repeats present in BapA are not identical , we can not rule out that they could also have undergone homologous recombination and thus generated proteins of different lengths in Salmonella . 
+In support of this hypothesis we have found that the orthologous protein to BapA encoded by the sty2875 gene of S. Typhi contains two repeats less than the one encoded by the bapA gene . 
+It is likely that the immune system or the environmental conditions might act as a selective force favouring the selection of bacteria producing new versions of BapA protein with different number of repeats . 
+An epidemiological study to determine whether the number of repeats changes under harsh conditions would be required to further support this hypothesis . 
+In a recent work , we have reported that multicellular behaviour of Bap positive strains of S. aureus is modulated by calcium ( Arrizubieta et al. , 2004 ) , through the presence of two EF-hand motifs in the amino terminal domain . 
+Motif search analysis of S. Enteritidis BapA did not reveal the presence of any EF-hand motifs . 
+However , the sequence of the repeats of BapA exhibit homology with the repeats present in RTX toxins , widespread among Gram-negative bacteria ( Coote , 1992 ) . 
+Many previously characterized RTX proteins require Ca +2 for cytotoxic activity and thus they contain a series of a repeated gly-cine-rich nonapeptide , which speciﬁcally bind this cation ( Oudega , 2003 ) . 
+Despite the absence of these glycine-rich nonapeptide motifs in S. Enteritidis BapA , our preliminary results showed that BapA-dependent bioﬁlm formation and also bacterial aggregation in liquid media is impaired by the addition of millimolar amounts of calcium to the media ( our unpublished results ) . 
+Calcium-binding domains are also present in LapA and Esp . 
+Even though there are no experimental data to support whether calcium affects the bioﬁlm formation promoted by these proteins , it appears that interaction with calcium may be another common feature modulating the functionality of these proteins . 
+Our results indicate that the expression of BapA in S. Enteritidis is coordinated with the other two major components of the Salmonella matrix , cellulose and ﬁmbriae , through the action of csgD . 
+Although the mode by which CsgD activates the target genes remains unknown ( Romling et al. , 2005 ) , putative conserved csgD-binding consensus sequences located upstream of the putative − 35 elements have been described for csgBAC and adrA genes ( Brombacher et al. , 2003 ) . 
+In the case of adrA promoter , this sequence has an almost perfect inverted repeat . 
+Interestingly , a slightly different sequence to one of the inverted repeats of the adrA promoter is present upstream the promoter region of bapA suggesting that CsgD might directly affect the bapA gene transcription . 
+Alternatively , CsgD could stimulate bapA transcription indirectly via the activation of an intermediate regulatory gene . 
+We have observed that an increase of BapA at the cell surface was unable to counteract the lack of ﬁmbriae or cellulose . 
+On the other hand , overproduction of the ﬁlamentous appendage curli ﬁmbriae , but not cellulose , resulted in the development of a BapA-independent bio-ﬁlm . 
+This supports the idea that BapA could play a complementary role to ﬁmbriae in connecting cells , either by strengthening ﬁmbriae mediated interactions or by allowing the interconnection of bacteria separated by long distances . 
+To promote cell -- cell interactions , BapA might interact with itself through homophilic interactions , thus acting both as a receptor and as a ligand between two bacterial clusters . 
+In support of this hypothesis , we have found that when BapA overexpressing and BapA minus cells were mixed together , the pellicle almost exclusively contained BapA positive bacteria . 
+These results suggest that the presence of BapA on the surface of the cell is necessary to mediate bacterial recruitment into the bioﬁlm pellicle and that the presence of BapA on the surface of one bacterium might not compensate for the absence of the protein on the surface of a BapA-deﬁcient bacterium . 
+The hypothesis that Bap proteins promote cell-cell connections through homophilic interactions is also compatible with the broad range of hosts and environmental conditions in which proteins exhibiting homology to Bap mediate adherence and bioﬁlm formation in different bacteria : the mammary gland epithelium of ruminants for Bap of S. aureus , human skin for Bhp of S. epidermidis , corn seeds for Mus20 and Mus24 of P. putida and quartz sand for LapA of P. ﬂuorescens . 
+It is accepted that bacterial adhesion to host mucosal surfaces is a ﬁrst step in the establishment of Salmonella infection . 
+Once the intestine has been colonized , S. Enteritidis penetrates the intestinal barrier and invades the epi-thelial cells ( Frost et al. , 1997 ) , leading to the loss of absorptive surface and to the production of proinﬂammatory cytokines ( Eckmann et al. , 1993 ) . 
+Our murine model of infection revealed that animals inoculated with a lethal dose of a BapA-deﬁcient strain were able to survive longer , many of them ( 55 % ) reaching a complete clearance of the infection , in comparison to animals infected with the wild-type strain . 
+In the effort to elucidate the role of BapA within this process , we performed coinfection studies in ligated ileal loops . 
+The results demonstrated that infection with the BapA-minus strain led to a signiﬁcantly lower invasion rate than infection with the wild-type strain , showing evidence of the value of this protein in colonization and thus invasion through the intestinal cell barrier . 
+This interpretation was further corroborated in a sublethal murine oral infection study that conﬁrmed a decreased ability of the Bap-minus mutant to access internal organs . 
+A question that remains open is whether the colonization deﬁciency is due either to the absence of BapA protein itself or to the absence of bioﬁlm . 
+A recent study of Weening et al. ( Weening et al. , 2005 ) provided evidence that deletion of csgA , which is essential for bio-ﬁlm formation , does not reduce virulence or intestinal colonization . 
+This result would be in agreement with a direct role of BapA within intestinal epithelial colonization . 
+Intriguingly , despite of the extensive research on virulence determinants of Salmonella , the involvement of BapA had never been reported before , even though it is the second largest ORF of this pathogen . 
+In this regard , it is surprising that BapA ( Stm2689 ) was not identiﬁed in the study where SiiE was ﬁrst described ( Morgan et al. , 2004 ) . 
+SiiE was identiﬁed using the technique of signature-tagged mutagenesis as an important factor of S. Typhimurium needed for intestinal colonization of calves and chickens but not for systemic infections ( Morgan et al. , 2004 ) . 
+When the role of SiiE in virulence was analysed in detail , the results showed that SiiE played a role similar to that reported here for BapA . 
+One possibility to explain why Stm2689 was not identiﬁed in the course of this study is that BapA would not be required for colonization of calves or chickens . 
+Alternatively , it might also be possible that the function of SiiE and BapA would be redundant and hence , bacteria might silence the expression of one of them depending on the environmental conditions . 
+Against the former possibility and according to Morgan et al. ( Morgan et al. , 2004 ) we have observed that our siiE-deﬁcient mutant is attenuated when bacteria are orally administered ( our unpublished results ) . 
+This result conﬁrms that both proteins , SiiE and BapA play a role in virulence . 
+A new set of virulence studies using bapA-siiE double mutants as well as coinfections with single mutants are currently in progress to determine whether both proteins have a redundant or additive consequences on Salmonella virulence . 
+Finally , even though we have not found evidence for BapA being contained in a pathogenicity island ( SPI ) , both the homologue gene ( sty2875 ) in S. Typhi and siiE are contained in the pathogenicity islands SPI-9 and SPI-4 respectively . 
+Similarly , the bap and esp genes are also contained in mobile pathogenicity islands in S. aureus and E. faecalis respectively ( Shankar et al. , 2002 ; Ubeda et al. , 2003 ) . 
+The reason why these proteins are recurrently associated with mobile elements is another exciting question that awaits further studies . 
+In conclusion , the presence of surface proteins exhibiting homology with the Bap protein of S. aureus seems to be widely spread among diverse bacterial species . 
+Because all these proteins are related with the bioﬁlm formation process , it is tempting to speculate for the exist-ence of a Bap family of proteins required for an important and conserved function in bioﬁlm development . 
+Experimental procedures
+Bacterial strains, plasmids and culture conditions
+The most relevant bacterial strains and plasmids used and constructed in this study are listed in Table 1 . 
+Escherichia coli XL1-Blue , S. Enteritidis and S. Typhimu-rium cells were grown in LB broth , in trypticase soy broth ( TSB ) and on LB agar or trypticase soy agar ( TSA ) ( Pronadisa ) with appropriate antibiotics at the following concentrations : kanamycin ( Km ) , 30 µg ml − 1 ; ampicillin ( Am ) , 100 µg ml − 1 , chloramphenicol ( Cm ) 25 µg ml − 1 . 
+DNA manipulations
+Routine DNA manipulations were performed using standard procedures ( Sambrook et al. , 1989 ; Ausubel et al. , 1990 ) unless otherwise indicated . 
+Plasmid DNA from E. coli was puriﬁed with a Quantum Prep plasmid kit ( Bio-Rad ) . 
+Plasmids were transformed into E. coli and S. Enteritidis by either heat shock or electroporation . 
+Transformants carrying the Red helper plasmid were made electrocompetent with the following protocol . 
+Cells were grown overnight in LB broth Am at 30 °C and then used to inoculate 500 ml of LB broth Am that was incubated with aeration at 30 °C to an OD600 of 0.2 . 
+Then , L-arabinose ( Sigma ) was added to a ﬁnal concentration of 0.08 % , and incubation continued until the OD600 reached 0.7 . 
+The suspension was cooled down on ice for 15 min , and cells were made electrocompetent by washing twice with the same volume of water and then once with 40 ml of ice-cold 10 % glycerol . 
+Cells were ﬁnally resuspended in 1.5 ml of ice-cold 10 % glycerol . 
+Restriction enzymes were purchased from Boehringer Mannheim and used according to the manufacturer 's instructions . 
+Oligonucleotides were obtained from Life Technologies ( Table 2 ) . 
+Phage P22 HT105/1 int-201 ( Schmieger , 1972 ) was used to carry out transductions between strains according to recommended protocols ( Maloy et al. , 1996 ) . 
+One-step inactivation of chromosomal genes
+For disruption of stm2689 , siiE , csgA and stm2690 -- 92 genes in S. Enteritidis 3934 , PCR-generated linear DNA fragments in combination with a helper plasmid were used . 
+The Red helper plasmid pKOBEGA is a low-copy-number plasmid that contains an ampicillin resistance gene , a temperaturesensitive origin of replication and the Red system , which includes three genes expressing Exo , Bet and Gam functions of phage λ ( Chaveroche et al. , 2000 ) . 
+Plasmid pKOBEGA was introduced into S. Enteritidis 3934 by electroporation , and transformants were selected on LB agar Am after incubation for 24 h at 30 °C . 
+One transformant carrying the Red helper plasmid was made electrocompetent as described above . 
+A selectable antibiotic resistance gene was generated by PCR from a freshly isolated colony of E. coli MC4100 ybeW : Km , using primer pairs of 80-nucleotide ( nt ) - long prim-ers that included 60 nt homology extensions for the targeted locus and 20 nt priming sequences for the kanamycin resistance gene as template . 
+Primer pairs stm2689-KmFw , stm2689-KmRv , siiE-KmFw , siiE-KmRv , csgA-KmFw , csgA-KmRv and stm2690/92-KmFw , stm2690/92-KmRv were used for the disruption of the genes stm2689 , siiE , csgA and operon stm2690 -- 92 respectively . 
+Electroporation ( 25 µF , 200 Ω , 2.5 kV ) was carried out according to the manufacturer 's instructions ( Bio-Rad ) using 50 µl of cells and 1 -- 5 µg of puriﬁed and dialysed ( 0.025 m nitrocellulose ﬁlters ; Millipore ) 
+PCR product . 
+Shocked cells were added to 1 ml of LB broth , incubated for 1 h at 30 °C and then spread onto LB agar Km or Apra to select KmR or ApraR transformants after incubation at 30 °C for 24 h. Mutants were then grown on LB broth Km or Apra at 43 °C for 24 h and incubated overnight on LB agar Am at 30 °C to test for the loss of the helper plasmid . 
+Repression/expression of the RExBAD cassette
+The RExBAD cassette containing the arabinose-inducible promoter from the pBAD plasmid family and a chloramphenicol resistance gene was introduced upstream of stm2689 and siiE genes as previously described ( Roux et al. , 2005 ) , using the primers described in Table 2 . 
+Phenotypic assays for bioﬁlm formation
+3934 ∆ stm2689 , 3934 ∆ siiE , 3934BADstm2689 and complemented strains were tested for their ability to produce a bioﬁlm in LB , visualized as a ﬂoating pellicle at the air -- broth interface that totally blocked the surface of the culture and could not be dispersed by shaking . 
+The analysis of the capacity for cellulose production was carried out by qualitatively assessing the level of calcoﬂuor ( Fluorescent Brightener 28 ; Sigma ) binding of colonies grown on LB agar supplemented with calcofuor 200 µg l − 1 , at room temperature for 48 h ( Sol-ano et al. , 2002 ) . 
+For bioﬁlm experiments in microfermentors , bacteria were grown in 0.1 % glucose M63B1 minimal medium supplemented or not with 0.1 % arabinose at 37 °C . 
+Sixty ml microfermentors containing a removable glass slide were conﬁgured as continuous-ﬂow culture bioreactors with a 40 ml h − 1 ﬂow rate . 
+This ﬂow rate minimizes planktonic growth of the bacteria and most of the observed growth occurs on the available surfaces inside the microfermentors and on the glass slide ( Ghigo , 2001 ) . 
+One-OD - equivalent 600 bacterial inocula from overnight precultures grown in 0.1 % glucose M63B1 , supplemented with appropriate antibiotics when required , were used to inoculate the microfermenters , and were cultivated for 48 h. Images of the removable glass slide were captured at the end of the incubation period . 
+Bioﬁlm biomass was calculated by measuring the OD600 of the Pyrex slide bioﬁlm after resuspension in 10 ml of M63B1 medium . 
+All experiments were performed at least in triplicate . 
+Table 1 . 
+Strains and plasmids used in this study . 
+Strains or plasmids 
+Characteristics 
+Source/reference 
+Strains S. Enteritidis 
+3934 3934 ∆ stm2689 3934 ∆ siiE 3934BADstm2689 3934BADsiiE 3934 ∆ bcsA 3934 ∆ csgA 3934BADstm2689 ∆ csgA 
+Wild-type clinical isolate 3934 ∆ stm2689 : : KmR 
+( Solano et al. , 2002 ) This study This study This study This study ( Solano et al. , 2002 ) This study This study 
+3934 ∆ siiE : : KmR catRExBAD cassette inserted in front of stm2689 , CmR catRExBAD cassette inserted in front of sii operon , CmR 3934 ∆ bcsA : : KmR 3934 ∆ csgA : : KmR 3934 ∆ csgA containing the catRExBAD cassette inserted in front of stm2689 , CmR , KmR 3934 ∆ bcsA containing catRExBAD cassette inserted in front of stm2689 , CmR , KmR 3934 ∆ stm2689 complemented with pBR328 : : csgD , CmR , KmR 3934 ? 
+stm2689 complemented with pBR328 : : adrA , CmR , KmR 3934BADstm2689 ∆ csgA complemented with pBR328 : : csgD , CmR , KmR , TetR 3934 ∆ stm2691 : : KmR 3934 expressing green ﬂuorescent protein , AmpR 3934 expressing red ﬂuorescent protein , AmpR 3934 ∆ stm2689 expressing green ﬂuorescent protein , AmpR , KmR 3934 ∆ stm2689 expressing red ﬂuorescent protein , AmpR , KmR 3934BADstm2689 expressing green ﬂuorescent protein , AmpR , CmR 3934BADstm2689 expressing red ﬂuorescent protein , AmpR , CmR 3934 ∆ csgD : : KmR 3934 ∆ mlrA : : ApraR 
+3934BADstm2689 ∆ bcsA 
+This study 
+3934 ∆ stm2689 [ pBR328 : : csgD ] 3934 ∆ stm2689 [ pBR328 : : adrA ] 3934BADstm2689 ∆ csgA [ pBR328 : : csgD ] 3934 ∆ stm2690 -- 92 3934 [ pGFP ] 3934 [ pDsRED ] 3934 ∆ stm2689 [ pGFP ] 3934 ∆ stm2689 [ pDsRED ] 3934BADstm2689 [ pGFP ] 3934BADstm2689 [ pDsRED ] 3934 ∆ csgD 3934 ∆ mlrA E. coli MC4100 ybeW : Km MC4100 F'tet ∆ traD : : aac XL1 Blue 
+This study This study This study 
+This study This study 
+This study This study This study This study This study ( Garcia et al. , 2004 ) ( Garcia et al. , 2004 ) 
+Used as template for Kanamycin cassette resistance ampliﬁcation Used as template for Apramicin cassette resistance ampliﬁcation recA1 endA1 gyrA96 thi-1 hsdR17 supE44 relA1 lac [ F'proAB laclqZ ∆ M15 Tn10 ( Tetr ) ] . 
+Gift from J.M. Ghigo Gift from J.M. Ghigo Stratagene 
+Plasmids pBR328 
+Cloning vector AmpR , KmR , CmR 
+( Bolivar and Backman , 1979 ) ( Garcia et al. , 2004 ) ( Garcia et al. , 2004 ) ( Garcia et al. , 2004 ) Gift from J.M Ghigo Promega ( Cormack et al. , 1996 ) 
+pBR328 containing mlrA from 14028 pBR328 containing csgD from 14028 pBR328 containing adrA from 14028 Vector for recombination experiments Vector for red ﬂuorescent protein expression Vector for green ﬂuorescent protein expression 
+pBR328 : : mlrA pBR328 : : csgD pBR328 : : adrA pKOBEGA pDsRed PGFPmut3 
+csgA.Fw csgA.Rv 
+Competition experiments
+Prior to the start of bioﬁlm monitoring and ileal loop infection assays , all possible combinations of wild type 3934 , 3934 ∆ stm2689 and 3934BADstm2689 strains were cultured in LB at 37 °C and under bioﬁlm forming conditions . 
+One colony proceeding from a fresh culture of each strain was used to inoculate 5 ml of LB and after growing overnight together , two aliquots of 100 µl of the optimal dilution were plated on LB agar , LB Km50 or LB Cm25 in order to estimate the recounts corresponding to each strain . 
+Real-time PCR
+Total S. Enteritidis RNA was obtained using the Fast RNA-Blue kit ( Bio 101 ) according to the manufacturer 's instructions . 
+Two micrograms of each RNA sample were subjected in duplicate to DNAse I ( Invitrogen ) treatment for 30 min at 37 °C . 
+The enzyme was inactivated at 65 °C in the presence of EDTA 0.25 mM during 10 min . 
+The RNA samples were reverse transcribed in the presence or absence of the enzyme M-MLV Reverse Transcriptase ( Promega M1705 ) , respectively , in order to verify the absence of contaminating genomic DNA . 
+All preparations were puriﬁed using CentriSep spin columns ( Princeton separations ) . 
+One twentieth of each reaction was used for real-time semiquantitative PCR using the SYBR Green PCR Master Mix ( Applied Biosystems ) in the ABI Prism 7900 HT ( Applied Biosystems ) . 
+The transcripts were ampliﬁed using the primers described in Table 2 , and the gyrB gene was selected as the endogenous control of the experiment as it is constitutively expressed.The primer concentration was previously optimized and standard curves were obtained for every gene in order to verify that the ampliﬁcation efﬁciency was similar so the formula 2 -- ∆ ∆ ct could be applied . 
+Gen 
+Primer 
+Sequence 
+siiE 
+siiE.Km.Fw 
+ACGACGAAATAAGAAGGAAGAAGAGGAATTAAAAA AGCAGCTTGA GATGCTGAAAACGCAAAGCCACG TTGTGTCTCAA TTTGGTCACGTCGGCGTCGATATTACCGA GGGTAAAGCCTGGCATCA CGTTGGTGATGCGCTGAGGTCTGCCTCGTG TTTGGGTAATGCCAAAGG TCAACGTATAGTCGCCAT AGAGYGTTTTTAATTAAAGCACTCATCTTTGTTGTGGGCGCATAAAA ATGGCGTCGTTGTGCTTGCATAATGTGCCTGTC GTTGTCTCCTGATATTACATTGTGAATAAAATGTTTTTGTGGATTAGA AAGGATAAAGGACTCTTCACCGGTAGCGCAGTC TGGGGAGGATATAGTTAG TAGGCCACGGATTACTTT GTCAATTGTTAAATTATCAGTGGCCCGGGAGGAAATTAGTCAACTTA CGCGCATTAATCAAAAGCCACGTTGTGTCTCAA ACGGATATCACCGTATTGGCGCCGCTGGTATGAACCTGAACAAAGTT ACCCAGCGTCGCCGCGCTGAGGTCTGCCTCGTG TTCGAAATGACTGGCGT GATCATTTAGCGTGAGCT GGGAATTCTCGCTGACGCTGAG GGGTCGACAAGGGTAAAATGAC ATGCGCCCAACATTCCTCT TGGATGACTGTGCCTGCG TTCTCCATACCCGTTTTTTTGGATCCATCAGGAGCTGATTTATGCGTCT CAGGGCGGGGCGTAAGAATCCCTGCTGTGTATTAATTAACGGGCACAAC CGCTTATCAATAGCAATAAATAC GGATTGGTGTTATCGGGGGGCGGAT GCCGATAATAGACATTTTTTG TCGGCTTGCCCGCTTACCGTTTTT CGGTAGTAACGCTCTGTC GGCCAGAAACGTACCATCGT GAAGCTCGTCGCTGGAAGTC TTCCGCTTAATTTAATGGCCG CGCAGGCCATCAGCTATGTCGCCGGTCA TTATCGCGTTGCGTTCCGT CATTAAAGCCACGTTGTGTCTCAA CCGAGCACGTCCATAATGTGCGTACGCGCTTCACGCAGCAGAAAACC GAACAGCACCGCTGCGCTGAGGTCTGCCTCGTG AGCGCGTTACAAATCCTT GATCAGAACAATACGACC 
+siiE.Km.Rv 
+siiE.Fw siiE.Rv 
+siiE.catRExBAD.Fw 
+siiE catRExBAD Rv 
+siiEBAD.ok.Fw siiEBAD.ok.Rv bapA.Km.Fw 
+stm2689 
+bapA.Km.Rv 
+bapA.Fw bapA.Rv 
+bapA.PET.Fw bapA.PET.Rv bapA.RT.Fw bapA.RT.Rv bapA.catRExBAD.Fw bapA.catRExBAD.Rv bapA.A.Fw bapA.B.Rv bapABADok.Fw bapABAD.ok.Rv gyr.RT.Fw gyr.Rt.Rv adrA.RT.Fw adrA.RT.Rv 
+gyrB 
+adrA 
+ABCt.Km.Fw 
+stm2690/92 
+ABC.t.Km.Rv 
+ABCt.Fw ABCt.Rv 
+csgA 
+ATGGGGGTTTTACCATGAAACTTTTAAAAGTGGCAGCATTCGCAGCA ATCGTAGTT TCTAAAGCCACGTTGTGTCTCAA GGTTAGCCGTGGCGTTGTTGCCAAAACCAACCTGACGCACCATTACG CTGGAATGACATGGCGCTGAGGTCTGCCTCGTG GCGTATATTGAGCAAACG AAATATCGCCTTGCTGAG 
+csgA.Km.Fw 
+csgA.Km.Rv 
+csgA.Fw csgA.Rv 
+To monitor the speciﬁcity , ﬁnal PCR products were analy-sed by melting curves . 
+Only samples with no gyrB ampliﬁcation of the minus reverse transcriptase aliquot were considered in the study . 
+The amount of RNA was expressed as the n-fold difference relative to the control gene ( 2 -- ∆ Ct , where ∆ Ct represents the difference in threshold cycle between the target and control genes ) . 
+Anti-Bap antibodies
+A Bap amino terminal DNA fragment was ampliﬁed on 3934 DNA with high-ﬁdelity thermophilic DNA polymerase ( Dyna-zime Ext , Finnzymes ) using the primers stm2689.pet.Fw and stm2689.pet.Rv ( Table 2 ) . 
+The resultant 800 bp fragment was ﬁrst cloned in pGEMT easy Vector ( Promega ) , digested with EcoRI and SalI , and subcloned in pET-28c ( + ) ( Novagen ) . 
+The resulting construction was veriﬁed by sequencing and introduced through electroporation into the E. coli BL21 ( DE3 ) strain . 
+A total of 250 ml of LB supplemented with Km were inoculated with 2 ml of an overnight LB culture of BL21-pET28c : : stm2689 . 
+The cells were grown at 37 °C to an OD600 value of 0.5 . 
+At this moment the inductor molecule IPTG was added at a concentration of 1 mM and the cell growth continued for 5 h under the same conditions . 
+After a centrifugation at 5000 g ( 30 min ) the pellet obtained was resuspended in 10 ml of Bug Buster HT ( Novagen ) and incubated 20 min at room temperature . 
+A new centrifugation step ( 16 000 g , 20 min ) was carried out in order to separate the soluble fraction ( supernatant ) and inclusion bodies ( pellet ) . 
+The soluble fraction was incubated on ice during 30 min in the presence of DNAse and RNAse ( 100 µg ml − 1 ; Gibco-BRL ) . 
+The lysate was then ﬁltered ( Filtropur S 0.45 , Sarstedt ) and the peptide was puriﬁed with the His Bind Puriﬁcation Kit ( Novagen ) following the manufacturer 's instructions . 
+Rabbit polyclonal antibodies raised against the NH2-terminal peptide of Stm2689 were supplied by Charles River Laboratories ( Spain ) . 
+Protein localization and Western blot analysis
+Samples for Western analysis were prepared as follows . 
+Bacteria were grown overnight in LB ( supplemented with arabinose or glucose in the case of strain 3934BADstm2689 ) , centrifuged for 10 min at 6000 g and 1 ml of supernatant was removed and TCA-precipitated . 
+The resultant protein pellet was resuspended in 25 µl of PBS . 
+This sample was designated S1 . 
+To obtain sample S2 the pellet coming from a 20 ml culture was resuspended in 400 µl of PBS , vortexed for 10 s and centrifuged again to collect the supernatant ( Hinsa et al. , 2003 ) . 
+Protein fractionations of S. Enteritidis 3934 ∆ stm2689 , 3934BADstm2689 and 3934 ∆ stm2690 -- 92 were performed by sequential detergent extraction of cell envelopes ( Filip et al. , 1973 ) . 
+An overnight culture in LB at 37 °C was centri-fuged ( 7000 g ; 30 min ) , washed twice with NaCl 0.8 % and resuspended in 10 mM HEPES ( pH 7.2 ) -5 mM MgCl . 
+Cells 2 were treated with DNase I and RNase ( 40 µg ml − 1 ) and lysed by high pressure in a French Press ( 1500 psi ; Aminco-SLM Instruments ) . 
+The IM fraction was solubilized after treatment with 1 % Sarlkosyl ( N-Lauryrl sarcosine , Sigma ) and centri-fuged ( 20 000 g ; 30 min ) . 
+The sediment was suspended in 
+0.5 M Tris-HCl ( pH 6.8 ) with 10 % SDS ( Lauryl sulphate , Sigma ) and centrifuged ( 20 000 g ; 30 min ) . 
+Outer membrane proteins were present in the ﬁnal supernatant . 
+For obtaining whole bacterial lysates , cells were grown overnight in LB ( supplemented with arabinose in the case of strains harbouring the inducible promoter ) at 37 °C and after centrifugation of 1 ml of culture , cells were harvested , washed , and ﬁnally resuspended in 50 µl of PBS . 
+An equal volume of Laemmli sample buffer was added to each sample and they were boiled at 100 °C for 5 min . 
+Proteins were separated on SDS-Polyacrylamide gels ( 10 % − 4.5 % ) and stained with Coomassie brilliant blue R250 ( 0.25 % ; Sigma ) . 
+For Western blotting , proteins were transferred to Hybond-ECL Nitrocellulose membranes ( Amersham Biosciences ) by electroblotting . 
+Probing was carried out with anti-BapA antibodies diluted 1:1000 for 90 min at room temperature . 
+Rabbit polyclonal antibodies against OM protein OmpA and IM protein IgaA ( generously provided by Francisco García-del Portillo ; CNB-CSIC , Spain ) were used as fractionation controls . 
+Nitrocellulose membranes were washed with PBS-Tween and then incubated with alkaline phosphatase-conjugated secondary antibodies ( goat anti-rabbit ; Sigma ) diluted 1:2500 for 30 min at room temper-TM ature . 
+Bound ligands were detected using the ECL Western blotting analysis system ( Amersham Biosciences ) . 
+Confocal laser microscopy
+Salmonella Enteritidis 3934 , 3934 ∆ stm2689 and 3934BADstm2689 strains carrying plasmids pGFP and pDsRed2 ( Table 1 ) were grown in LB at room temperature under bioﬁlm forming conditions during 96 h . 
+A sample from the air -- broth interface was taken every 24 h , placed on a microscope slide , sealed and observed using a Nikon D-Eclipse C1 Confocal Microscopy with a Plan Apo 60XA/1 .40 Oil Dic H objective . 
+Images ( 512 × 512px ) from nine different microscopic ﬁelds for each strain were acquired and analy-sed with EZ software ( Nikon ) . 
+The experiment was repeated three times . 
+Virulence assays
+Experimental infection
+Female BALB/c mice were used in experimental infections . 
+Animals were housed and maintained in the animal facility at the University of Navarra in safety cages at constant humidity and temperature , receiving food and water ad libitum . 
+Survival assays were accomplished in two different animal models : mice orally and i.p. infected . 
+Female BALB/c mice , randomized in groups of ﬁve animals , were orally inoculated 5 6 with 10 and 10 cfu Salmonella cells in 100 µl of PBS . 
+Mice were prefed with 20 µl of 10 % sodium bicarbonate 30 min before bacterial inoculation . 
+Alternatively , mice were inocu-1 2 lated intraperitoneally ( i.p ) with 10 and 10 cfu of the corresponding strain . 
+Ileal loop coinfection experiment
+To examine the in vivo interaction of Salmonella strains with murine intestinal epithelial cells , the ligated ileal loop coinfection model was used as described previously ( Jones et al. , 1994 ) , with some modiﬁcations . 
+Six-week-old BALB/c female mice were starved for 24 h and anesthetized by i.p. injection of ketamine ( 100 mg kg − 1 ) and xilacine ( 10 mg kg − 1 ) before surgery . 
+On practising a small incision , the small bowel was exposed , and an ileal loop was formed by ligating a piece of intestine containing a grossly identiﬁable Peyer 's patch at a site proximal to the caecum . 
+The blood supply to the loop was kept intact . 
+PBS ( 100 µl ) containing equal numbers of ( i ) parental and mutant ; ( ii ) overproducer and mutant ; and ( iii ) overproducer and parental strains ( 107 cfu ) was then injected through a 25-gauge needle . 
+The bowel was returned to the abdomen and the incision stapled . 
+Mice were kept alive for 90 min and then sacriﬁced . 
+The ileal loop was excised intact , opened longitudinally and placed into a tube with PBS . 
+Extracellular bacteria were eliminated by three washes with PBS and a further incubation for 90 min in PBS containing gentamicin ( 100 µg ml − 1 ) . 
+Samples were rinsed with PBS to remove residual gentamicin , and the whole ileal piece was treated in a stomacher ( Seward Medical ) using 2 ml of PBS . 
+To determine intracellular parental , mutant and overproducer bacteria , appropriate dilutions of the homogenized samples were spread on LB , LB Km or LB Cm plates . 
+Colonization experiments
+The procedure to investigate organ colonization due to Sal-monella infection was similar to the method used in survival experiments . 
+Female BALB/c mice were randomized in groups of ﬁve animals and were inoculated orally with 104 cfu cells of the wild type and mutant strains in 100 µl of PBS . 
+At time intervals of 1 , 3 and 5 days , one group of mice infected with the wild-type strain and another group infected with the mutant strains were sacriﬁced through neck dislocation . 
+On practising a large incision , spleen , liver , gall bladder and caecum were removed aseptically . 
+The organs were weighted , resuspended in PBS ( 10 ml ) and homogenized in a stomacher . 
+To determine bacterial recounts , appropriate dilutions were spread on the Salmonella-selective medium Brilliant Green Agar . 
+Statistical analysis
+Data corresponding to gene expression were compared using the Kruskal -- Wallis and the Mann -- Whitney tests . 
+Survival curves corresponding to virulence assays were analy-sed using the Kaplan-Meier test . 
+All the tests were two sided and the signiﬁcance level was 5 % . 
+The SPSS statistical package was used . 
+Acknowledgements
+Cristina Latasa is a predoctoral fellow from the Departamento de Salud del Gobierno de Navarra . 
+Agnès Roux is a predoctoral fellow supported by the Ministère Français de l'Education Nationale , de l'Enseignement Supérieur et de la Recherche and by the Fondation pour la Recherche Médicale ( FRM ) grant . 
+We express our gratitude to Maite Hidalgo for helping us with bacterial fractionation and to Pedro M. Leunda with animal experimentation . 
+We thank C. Solano , F. Garcia del Portillo , S. Da Re , L.A. Fernandez-Herrero and G. 
+Pier for critical reading of the manuscript . 
+This work was supported by the GEN2003-20234-C06-05 grant from the Comisión Interministerial de Ciencia y Tecnología and Grant 17/2004 from the Departamento de Educación y Cultura del Gobierno de Navarra , Spain . 
+References 
+Arrizubieta , M.J. , Toledo-Arana , A. , Amorena , B. , Penades , J.R. , and Lasa , I. ( 2004 ) Calcium Inhibits Bap-dependent multicellular behavior in Staphylococcus aureus . 
+J Bacteriol 186 : 7490 -- 7498 . 
+Ausubel , F.M. , Brent , R. , Kingston , R.E. , Moore , D.D. , Seidman , J.G. , Smith , J.A. , and Struhl , K. ( eds ) ( 1990 ) Current Protocols in Molecular Biology . 
+New York : John Wiley & Sons . 
+Bolivar , F. , and Backman , K. ( 1979 ) Plasmids of Escher-ichia coli as cloning vectors . 
+Methods Enzymol 68 : 245 -- 267 . 
+Brombacher , E. , Dorel , C. , Zehnder , A.J. , and Landini , P. ( 2003 ) The curli biosynthesis regulator CsgD co-ordinates the expression of both positive and negative determinants for bioﬁlm formation in Escherichia coli . 
+Microbiology 149 : 2847 -- 2857 . 
+Brown , P.K. , Dozois , C.M. , Nickerson , C.A. , Zuppardo , A. , Terlonge , J. , Curtiss , R. , 3rd . 
+( 2001 ) MlrA , a novel regulator of curli ( AgF ) and extracellular matrix synthesis by Escher-ichia coli and Salmonella enterica serovar Typhimurium . 
+Mol Microbiol 41 : 349 -- 363 . 
+Chaveroche , M.K. , Ghigo , J.M. , and d'Enfert , C. ( 2000 ) A rapid method for efﬁcient gene replacement in the ﬁlamentous fungus Aspergillus nidulans . 
+Nucl Acids Res 28 : E97 . 
+Coote , J.G. ( 1992 ) Structural and functional relationships among the RTX toxin determinants of Gram-negative bacteria . 
+FEMS Microbiol Rev 8 : 137 -- 161 . 
+Copley , R.R. , Russell , R.B. , and Ponting , C.P. ( 2001 ) Sialidase-like Asp-boxes : sequence-similar structures within different protein folds . 
+Protein Sci 10 : 285 -- 292 . 
+Cormack , B.P. , Valdivia , R.H. , and Falkow , S. ( 1996 ) FACS-optimized mutants of the green ﬂuorescent protein ( GFP ) . 
+Gene 173 : 33 -- 38 . 
+Costerton , J.W. , Lewandowski , Z. , Caldwell , D.E. , Korber , D.R. , and Lappin-Scott , H.M. ( 1995 ) Microbial bioﬁlms . 
+Annu Rev Microbiol 49 : 711 -- 745 . 
+Cramton , S.E. , Gerke , C. , Schnell , N.F. , Nichols , W.W. , and Gotz , F. ( 1999 ) The intercellular adhesion ( ica ) locus is present in Staphylococcus aureus and is required for bio-ﬁlm formation . 
+Infect Immun 67 : 5427 -- 5433 . 
+Cucarella , C. , Solano , C. , Valle , J. , Amorena , B. , Lasa , I.I. , and Penades , J.R. ( 2001 ) Bap , a Staphylococcus aureus surface protein involved in bioﬁlm formation . 
+J Bacteriol 183 : 2888 -- 2896 . 
+Cucarella , C. , Tormo , M.A. , Knecht , E. , Amorena , B. , Lasa , I. , Foster , T.J. , and Penades , J.R. ( 2002 ) Expression of the bioﬁlm-associated protein interferes with host protein receptors of Staphylococcus aureus and alters the infective process . 
+Infect Immun 70 : 3180 -- 3186 . 
+Cucarella , C. , Tormo , M.A. , Ubeda , C. , Trotonda , M.P. , Monzon , M. , Peris , C. , et al. ( 2004 ) Role of bioﬁlm-associated protein bap in the pathogenesis of bovine Staphylococcus aureus . 
+Infect Immun 72 : 2177 -- 2185 . 
+Danese , P.N. , Pratt , L.A. , Dove , S.L. , and Kolter , R. ( 2000 ) The outer membrane protein , antigen 43 , mediates cell -- to -- cell interactions within Escherichia coli bioﬁlms . 
+Mol Microbiol 37 : 424 -- 432 . 
+Davey , M.E. , and O'Toole G , A. ( 2000 ) Microbial bioﬁlms : from ecology to molecular genetics . 
+Microbiol Mol Biol Rev 64 : 847 -- 867 . 
+Eckmann , L. , Kagnoff , M.F. , and Fierer , J. ( 1993 ) Epithelial cells secrete the chemokine interleukin-8 in response to bacterial entry . 
+Infect Immun 61 : 4569 -- 4574 . 
+Enos-Berlage , J.L. , Guvener , Z.T. , Keenan , C.E. , and McCarter , L.L. ( 2005 ) Genetic determinants of bioﬁlm development of opaque and translucent Vibrio parahaemolyticus . 
+Mol Microbiol 55 : 1160 -- 1182 . 
+Espinosa-Urgel , M. , Salido , A. , and Ramos , J.L. ( 2000 ) Genetic analysis of functions involved in adhesion of Pseudomonas putida to seeds . 
+J Bacteriol 182 : 2363 -- 2369 . 
+Filip , C. , Fletcher , G. , Wulff , J.L. , and Earhart , C.F. ( 1973 ) Solubilization of the cytoplasmic membrane of Escherichia coli by the ionic detergent sodium-lauryl sarcosinate . 
+J Bacteriol 115 : 717 -- 722 . 
+Frost , A.J. , Bland , A.P. , and Wallis , T.S. ( 1997 ) The early dynamic response of the calf ileal epithelium to Salmonella typhimurium . 
+Vet Pathol 34 : 369 -- 386 . 
+Garcia , B. , Latasa , C. , Solano , C. , Portillo , F.G. , Gamazo , C. , and Lasa , I. ( 2004 ) Role of the GGDEF protein family in Salmonella cellulose biosynthesis and bioﬁlm formation . 
+Mol Microbiol 54 : 264 -- 277 . 
+Ghigo , J.M. ( 2001 ) Natural conjugative plasmids induce bacterial bioﬁlm development . 
+Nature 412 : 442 -- 445 . 
+Gotz , F. ( 2002 ) Staphylococcus and bioﬁlms . 
+Mol Microbiol 43 : 1367 -- 1378 . 
+Hinsa , S.M. , Espinosa-Urgel , M. , Ramos , J.L. , and O'Toole , G.A. ( 2003 ) Transition from reversible to irreversible attachment during bioﬁlm formation by Pseudomonas ﬂuore-scens WCS365 requires an ABC transporter and a large secreted protein . 
+Mol Microbiol 49 : 905 -- 918 . 
+Huber , B. , Riedel , K. , Kothe , M. , Givskov , M. , Molin , S. , and Eberl , L. ( 2002 ) Genetic analysis of functions involved in the late stages of bioﬁlm development in Burkholderia cepacia H111 . 
+Mol Microbiol 46 : 411 -- 426 . 
+Jones , B.D. , Ghori , N. , and Falkow , S. ( 1994 ) Salmonella typhimurium initiates murine infection by penetrating and destroying the specialized epithelial M cells of the Peyer 's patches . 
+J Exp Med 180 : 15 -- 23 . 
+Kjaergaard , K. , Schembri , M.A. , Hasman , H. , and Klemm , P. ( 2000a ) Antigen 43 from Escherichia coli induces inter-and intraspecies cell aggregation and changes in colony morphology of Pseudomonas ﬂuorescens . 
+J Bacteriol 182 : 4789 -- 4796 . 
+Kjaergaard , K. , Schembri , M.A. , Ramos , C. , Molin , S. , and Klemm , P. ( 2000b ) Antigen 43 facilitates formation of multispecies bioﬁlms . 
+Environ Microbiol 2 : 695 -- 702 . 
+McClelland , M. , Sanderson , K.E. , Spieth , J. , Clifton , S.W. , Latreille , P. , Courtney , L. , et al. ( 2001 ) Complete genome sequence of Salmonella enterica serovar Typhimurium LT2 . 
+Nature 413 : 852 -- 856 . 
+McCormick , B.A. , Miller , S.I. , and Madara , J.L. ( 1996 ) New insights on molecular pathways utilized by Salmonella spe-cies in cell binding . 
+Front Biosci 1 : d131 -- 145 . 
+Maira-Litran , T. , Kropec , A. , Abeygunawardana , C. , Joyce , J. , Mark , G. , 3rd , Goldmann , D.A. , and Pier , G.B. ( 2002 ) Immunochemical properties of the staphylococcal poly-N-acetylglucosamine surface polysaccharide . 
+Infect Immun 70 : 4433 -- 4440 . 
+Maloy , S.R. , Stewart , V.J. , and Taylor , R.K. ( 1996 ) Genetic Analysis of Pathogenic Bacteria : a Laboratory Manual . 
+Cold Spring Harbor , New York : Cold Spring Harbor Laboratory . 
+Morgan , E. , Campbell , J.D. , Rowe , S.C. , Bispham , J. , Stevens , M.P. , Bowen , A.J. , et al. ( 2004 ) Identiﬁcation of host-speciﬁc colonization factors of Salmonella enterica serovar Typhimurium . 
+Mol Microbiol 54 : 994 -- 1010 . 
+Oudega , B. ( 2003 ) Protein Secretion Pathways in Bacteria . 
+Dordrecht : Kluyver Academic Publishers . 
+Romling , U. , Rohde , M. , Olsen , A. , Normark , S. , and Reinkoster , J. ( 2000 ) AgfD , the checkpoint of multicellular and aggregative behaviour in Salmonella typhimurium regulates at least two independent pathways . 
+Mol Microbiol 36 : 10 -- 23 . 
+Romling , U. , Gomelsky , M. , and Galperin , M.Y. ( 2005 ) C-di-GMP : the dawning of a novel bacterial signalling system . 
+Mol Microbiol 57 : 629 -- 639 . 
+Roux , A. , Beloin , C. , and Ghigo , J.M. ( 2005 ) Combined inactivation and expression strategy to study gene function under physiological conditions : application to identiﬁcation of new Escherichia coli adhesins . 
+J Bacteriol 187 : 1001 -- 1013 . 
+Sambrook , J. , Fritsch , E.F. , and Maniatis , T. ( 1989 ) Molecular Cloning : a Laboratory Manual . 
+Cold Spring Habour , NY : Cold Spring Habour Laboratory Press . 
+Schembri , M.A. , Dalsgaard , D. , and Klemm , P. ( 2004 ) Capsule shields the function of short bacterial adhesins . 
+J Bacteriol 186 : 1249 -- 1257 . 
+Schmieger , H. ( 1972 ) Phage P22-mutants with increased or decreased transduction abilities . 
+Mol Gen Genet 119 : 75 -- 88 . 
+Shankar , N. , Baghdayan , A.S. , and Gilmore , M.S. ( 2002 ) Modulation of virulence within a pathogenicity island in vancomycin-resistant Enterococcus faecalis . 
+Nature 417 : 746 -- 750 . 
+Simm , R. , Morr , M. , Kader , A. , Nimtz , M. , and Romling , U. ( 2004 ) GGDEF and EAL domains inversely regulate cyclic di-GMP levels and transition from sessility to motility . 
+Mol Microbiol 53 : 1123 -- 1134 . 
+Skorstengaard , K. , Jensen , M.S. , Sahl , P. , Petersen , T.E. , and Magnusson , S. ( 1986 ) Complete primary structure of bovine plasma ﬁbronectin . 
+Eur J Biochem 161 : 441 -- 453 . 
+Solano , C. , Sesma , B. , Alvarez , M. , Humphrey , T.J. , Thorns , C.J. , and Gamazo , C. ( 1998 ) Discrimination of strains of Salmonella enteritidis with differing levels of virulence by an in vitro glass adherence test . 
+J Clin Microbiol 36 : 674 -- 678 . 
+Solano , C. , Garcia , B. , Valle , J. , Berasain , C. , Ghigo , J.M. , Gamazo , C. , and Lasa , I. ( 2002 ) Genetic analysis of Salmonella enteritidis bioﬁlm formation : critical role of cellulose . 
+Mol Microbiol 43 : 793 -- 808 . 
+Tendolkar , P.M. , Baghdayan , A.S. , Gilmore , M.S. , and Shan-kar , N. ( 2004 ) Enterococcal surface protein , Esp , enhances bioﬁlm formation by Enterococcus faecalis . 
+Infect Immun 72 : 6032 -- 6039 . 
+Toledo-Arana , A. , Valle , J. , Solano , C. , Arrizubieta , M.J. , Cucarella , C. , Lamata , M. , et al. ( 2001 ) The Enterococcal surface protein , Esp , is involved in Enterococcus faecalis bioﬁlm formation . 
+Appl Environ Microbiol 67 : 4538 -- 4545 . 
+Tormo , M.A. , Kuecht , E. , Gotz , F. , Lasa , I. , and Penades , J.R. ( 2005 ) Bap-dependent bioﬁlm formation by pathogenic species of Stafhylococcus : evidence of horizontal gene transfer ? 
+Microbiology 151 : 2465 -- 2475 . 
+Torres , A.G. , Perna , N.T. , Burland , V. , Ruknudin , A. , Blattner , F.R. , and Kaper , J.B. ( 2002 ) Characterization of Cah , a calcium-binding and heat-extractable autotransporter protein of enterohaemorrhagic Escherichia coli . 
+Mol Microbiol 45 : 951 -- 966 . 
+Ubeda , C. , Tormo , M.A. , Cucarella , C. , Trotonda , P. , Foster , T.J. , Lasa , I. , and Penades , J.R. ( 2003 ) Sip , an integrase protein with excision , circularization and integration activi ¬ 
+ties , deﬁnes a new family of mobile Staphylococcus aureus pathogenicity islands . 
+Mol Microbiol 49 : 193 -- 210 . 
+Wandersman , C. ( 1996 ) Secretion across the bacterial outer membrane . 
+In : Escherichia Coli and Salmonella Typhimu-rium Cellular and Molecular Biology , Vol . 
+1 . 
+Neidhardt , F.C. ( ed . ) . 
+Washington , DC : American Society for Microbiology Press , pp. 955 -- 966 . 
+Weening , E.H. , Barker , J.D. , Laarakker , M.C. , Humphries , A.D. , Tsolis , R.M. , and Baumler , A.J. ( 2005 ) The Salmo-nella enterica serotype Typhimurium lpf , bcf , stb , stc , std , and sth ﬁmbrial operons are required for intestinal persistence in mice . 
+Infect Immun 73 : 3358 -- 3366 . 
+Zogaj , X. , Nimtz , M. , Rohde , M. , Bokranz , W. , and Romling , U. ( 2001 ) The multicellular morphotypes of Salmonella typhimurium and Escherichia coli produce cellulose as the second component of the extracellular matrix . 
+Mol Microbiol 39 : 1452 -- 1463 .

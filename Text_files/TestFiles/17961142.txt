@@ -1,0 +1,532 @@
+Molecular Microbiology ( 2007 ) 66 ( 5 ) , 1107 -- 1122 
+doi :10.1111 / j.1365-2958.2007.05982.x First published online 24 October 2007 
+Maltose 
+( 
+binding protein MalE ) interacts 
+with 
+smic loo s P2 a pectively o h subunits h binding cassette sporter a coli/Salmonella during the t
+peripla 
+p 
+nd 1 res 
+f t e 
+P 
+MalFG ran 
+o t e m 
+e ATP 
+altos m 
+f 
+cherichi 
+t 
+Es 
+alFGK2 ) fro sport cycle 
+( M 
+ran 
+Martin L. Daus ,1 Susanne Berendt ,2 Steven Wuttge1 and Erwin Schneider1 * 1Humboldt Universität zu Berlin , Institut für Biologie/Bakterienphysiologie , Chausseestr . 
+117 , D-10115 Berlin , Germany . 
+2Universität Tübingen , Mikrobiologie 2 , Auf der Morgenstelle 28 , 72076 Tübingen , Germany . 
+Introduction 
+ATP binding cassette ( ABC ) transporters are involved in the uptake or export of an enormous variety of substances ranging from small ions to large polypeptides at the expense of ATP . 
+They are found in all organisms from bacteria to humans , and dysfunction is often associated with disease in humans such as cystic ﬁbrosis , adrenoleucodystrophy or Stargardt 's macular dystrophy ( reviewed in Holland et al. , 2003 ) . 
+ABC transporters share a common architectural organization comprising two hydrophobic transmembrane domains ( TMDs ) that form the translocation pathway and two hydrophilic nucleotide binding ( ABC ) domains ( NBDs ) that hydrolyse ATP . 
+In fact , in most prokaryote importers TMDs and NBDs are expressed as separate protein subunits , whereas in most export systems of both prokaryotes and eukaryotes , they are usually expressed as half-transporters ( fusion of one TMD to one NBD ) or completely fused into a single polypeptide chain ( Dassa , 2003 ) . 
+The ABC domains are characterized by a set of Walker A and B motifs that are involved in nucleotide binding and by the unique ` LSGGQ ' signature sequence ( also termed ` ABC signature ' or C-loop ) ( reviewed in Schneider and Hunke , 1998 ) . 
+The crystal structures of several mostly prokaryotic NBDs have been reported that largely agree on the overall fold ( reviewed in Schmitt and Tampé , 2002 ; Davidson and Chen , 2004 ) . 
+Accordingly , the cassette can be divided into a RecA-like subdomain encompassing both Walker motifs , and a speciﬁc a-helical subdomain comprising the LSGGQ motif . 
+Both subdomains are joined by the Q-loop containing a conserved glutamine residue that binds to the Mg2 + - ion and attacking water . 
+Structural and biochemical evidence has further revealed that in the physiologically relevant NBD dimer , the nucle-otide binding site of one monomer is completed by the LSGGQ motif of the opposing monomer . 
+Further progress in understanding the structural organization of ABC transporters was achieved with the high-resolution structures of complete transporters ( Locher et al. , 2002 ; Dawson and Locher , 2006 ; Hollenstein et al. , 2007 ; Hvorup et al. , 2007 ; Pinkett et al. , 2007 ) . 
+These structures have 
+Summary 
+The ATP binding cassette ( ABC - ) transporter mediating the uptake of maltose/maltodextrins in Escheri-chia coli/Salmonella enterica serovar Typhimurium is one of the best characterized systems and serves as a model for studying the molecular mechanism by which ABC importers exert their functions . 
+The transporter is composed of a periplasmic maltose binding protein ( MalE ) , and a membrane-bound complex ( MalFGK2 ) , comprising the pore-forming hydrophobic subunits , MalF and MalG , and two copies of the ABC subunit , MalK . 
+We report on the isolation of suppressor mutations within malFG that partially restore transport of a maltose-negative mutant carrying the malK809 allele ( MalKQ140K ) . 
+The mutation affects the conserved LSGGQ motif that is involved in ATP binding . 
+Three out of four suppressor mutations map in periplasmic loops P2 and P1 respectively of MalFG . 
+Cross-linking data revealed proximity of these regions to MalE . 
+In particular , as demonstrated in vitro and in vivo , Gly-13 of substrate-free and substrate-loaded MalE is in close contact to Pro-78 of MalG . 
+These data suggest that MalE is permanently in close contact to MalG-P1 via its N-terminal domain . 
+Together , our results are interpreted in favour of the notion that substrate availability is communicated from MalE to the MalK dimer via extracytoplasmic loops of MalFG , and are discussed with respect to a current transport model . 
+Accepted 28 September , 2007 . 
+* For correspondence . 
+E-mail erwin.schneider@rz.hu-berlin.de; Tel. ( +49 ) 30 20938121 ; Fax ( +49 ) 30 20938126 . 
+( Daus et al. , 2007 ) shows only little changes in P2 and P1 ( Daus et al. , 2006 ) . 
+Interestingly , while the MalFGK ( Q140K ) variant is largely impaired in ATP hydrolysis , the isolated MalK ( Q140K ) protein displays ATPase activity comparable to wild type ( Schmees et al. , 1999 ) . 
+Thus , a role of Gln-140 , located carboxy-terminal to the highly conserved LSGGQ motif ( 134LSGGQRQ140 ) ( Fig. 1B ) , in communicating conformational changes to the pore-forming subunits MalF and MalFG was postulated ( Schmees et al. , 1999 ) . 
+Here , we report on the isolation of suppressor mutations within malFG that partially restore transport of a maltose-negative mutant carrying the malK809 allele ( MalKQ140K ) . 
+Three out of four suppressor mutations map in periplasmic loops P2 and P1 respectively of MalFG . 
+Cross-linking data revealed proximity of these regions to maltose binding protein . 
+Moreover , our data suggest that MalE is permanently in close contact to MalG-P1 via its N-terminal domain . 
+Together , our results are interpreted in favour of the notion that substrate availability is communicated from MalE to the MalK dimer via extracytoplasmic loop regions of MalFG , thereby initiating ATP hydrolysis that eventually leads to substrate translocation . 
+Results
+Suppressor mutations of malK809(Q140K) map to periplasmic loop regions of MalFG and to the EAA loop of MalG
+Random mutagenesis of plasmid pME01 carrying the malFG wild-type alleles with hydroxylamine resulted in the isolation of four plasmids that allowed strain ES66 ( DmalB ) ( pBB2 ) ( Table 1 ) to partially regain the capability to grow on maltose as sole source of carbon and energy . 
+Plasmid pBB2 harbours the malK809 allele , encoding MalK ( Q140K ) ( Schmees et al. , 1999 ) and the malE gene ( Table 1 ) . 
+Compared with the control strain ES66 harbouring plasmids pME01 <malFG> and pFS1 <malEK> that appeared as dark red colonies on MacConkey-maltose plates , cells harbouring the pME01 derivatives grew as medium-red colonies ( Fig. 2A ) . 
+In contrast , cells of strain ES66 ( pBB2 , pME01 ) expressing the malFG wild-type alleles and malK809 displayed colourless colonies . 
+Similar results were obtained when growth of mutant and control strains was analysed on minimal-maltose plates . 
+While no growth was observed with strain ES66 ( pBB2 , pME01 ) ( Fig. 2B and C ) , colonies appeared of cells either harbouring the wild-type alleles or carrying pBB2 combined with one of the pME01 derivatives ( Fig. 2B and C for pDE10 < malFG ( P78S ) > only ) . 
+Moreover , in liquid minimal-maltose medium , strains ES66 ( pBB2 , pDE10 ) and ES66 ( pBB2 , pMM32 < malF ( G206S ) > ) grew with average doubling times of 10 -- 11 h , while cells of strain ES66 ( pBB2 , pME01 ) did not grow at all . 
+Because cells expressing the wild-type alleles [ ES66 ( pME01 , pFS1 ) ] on average doubled in 3 h , suppression of the malK809 mutation by the isolated malFG alleles is only partial . 
+This is not due to differences in gene expression levels because immunoblot analyses of mutant and control cells revealed similar amounts of MalFGK proteins ( not shown ) . 
+Nucleotide sequence analysis revealed that three of the malK809 suppressors are located in periplasmic loops 2 ( T92I , G206S ) and 1 ( P78S ) respectively of MalF and MalG , while one suppressor ( T183I ) is located in the last cytoplasmic loop of MalG , N-terminal to the conserved ` EAA ' motif ( Fig. 1A ) . 
+The observed mutations are consistent with hydroxylamine , causing C-to-T and G-to-A transition mutations when double-stranded DNA is mutagenized ( McNicholas et al. , 1992 ) . 
+1108 M. L. Daus , S. Berendt , S. Wuttge and E. Schneider provided some insight into the interactions between the NBDs and the TMDs , although the means by which ATP-dependent conformational changes of the ABC domains are transmitted to the TMDs to affect substrate translocation are still poorly understood ( Dawson et al. , 2007 ) . 
+The ABC transporter mediating the uptake of maltose and maltodextrins in Escherichia coli/Salmonella enterica serovar Typhimurium ( S. typhimurium ) is one of the best characterized systems , and thus serves as a model for studying the molecular mechanism by which ABC import-ers exert their functions ( reviewed in Ehrmann et al. , 1998 ; Schneider , 2001 ; 2003 ; Davidson and Chen , 2004 ) . 
+The transporter is composed of a periplasmic receptor , the maltose binding protein ( MalE ) , and a membrane-bound complex ( MalFGK2 ) , comprising the pore-forming hydrophobic subunits , MalF and MalG , and two copies of the ABC subunit , MalK . 
+Association of the MalK subunits with MalF and MalG requires the so-called ` EAA ' sequence motifs ( consensus EAAx3Gx9IxLP ; x , any amino acid ) that are conserved in the last cytoplasmic loop of TMDs of ABC import systems ( Mourez et al. , 1997 ; Hunke et al. , 2000a ) ( see also Fig. 1 ) . 
+MalK and closely related ABC subunits belonging to the OSP and MOI subfamilies of ABC importers ( Dassa , 2003 ) contain a unique C-terminal extension which , in the crystal structures of MalK ( Chen et al. , 2003 ) and CysA ( Scheffel et al. , 2005 ) , contributes substantially to monomer -- monomer contacts . 
+The MalK structures further revealed that binding of ATP causes the nucleotide binding domains to close ( Chen et al. , 2003 ) and that ATP hydrolysis is required for resetting the system to the resting state ( Lu et al. , 2005 ) . 
+These ﬁndings are consistent with cross-linking data obtained with the intact transporter in crude membrane vesicles ( Hunke et al. , 2000a ) , in detergent solution and in proteo-liposomes ( Daus et al. , 2007 ) . 
+According to a current model , transport of maltose is initiated by interaction of liganded MalE ( Davidson et al. , 1992 ) with the nucleotide-free MalFGK2 complex at the periplasmic side , causing ATP binding to the MalK subunits and subsequent closing of the MalK dimer . 
+The transition from open to closed forms would be coupled to conformational changes in the transmembrane domains , leading to an outward-facing conformation . 
+Hydrolysis of one ATP molecule might result in simultaneous opening of the binding protein ( Chen et al. , 2001 ) and of a gate at the periplasmic side , thereby giving the substrate molecule access to a translocation pathway through the membrane . 
+Hydrolysis of the second ATP would bring the system back to the resting state . 
+We have recently demonstrated that ATP-driven MalK dimer closure causes conformational changes of the peri-plasmic loops P2 and P1 of the MalFG subunits respectively ( Daus et al. , 2006 ) ( Fig. 1A ) . 
+In contrast , a variant carrying the MalK ( Q140K ) mutation that is unable to close 
+Maltose binding protein -- transporter interactions 1109 
+A 
+C 
+B 
+Fig. 1 . 
+Components of the maltose ABC transporter . 
+A. Topological models of MalFG . 
+The assignment of membrane-spanning helices is based on experimental topological analyses ( Froshauer et al. , 1988 ; Boyd et al. , 1993 ) . 
+Residues discussed in the text and the location of the conserved EAA motifs are indicated . 
+Suppressor mutations of malK809 are boxed . 
+B. Crystal structure of MalK2 in the closed ( ATP-bound ) form . 
+The ﬁgure was drawn with DS ViewerPro 6.0 ( Accelrys , Cambridge ) using the co-ordinates from 1Q12 in the Brookhaven Protein Data Bank . 
+The location of the LSGGQ motif and of residue Gln-140 is indicated . 
+Both ATP molecules are shown in space-ﬁll representation . 
+C. Crystal structure of unliganded MalE . 
+The ﬁgure was drawn using the co-ordinates from 1JW4 in the Brookhaven Protein Data Bank . 
+Helix 7 and residues mutated in this study are indicated . 
+Suppressors are allele-speciﬁc but exhibit normal function with wild-type malK
+To test for allele speciﬁcity of the suppressors , the respective plasmids were combined with compatible plasmids carrying the alleles malK827 ( Q140N ) ( Schmees et al. , 1999 ) and malK820 ( L86F ) ( Hunke et al. , 2000b ) . 
+The encoded MalK variants have similar phenotypes as MalK ( Q140K ) , i.e. normal ATPase activity when analysed separately but largely impaired ATPase activity in the assembled complex incorporated in proteoliposomes . 
+None of the malK809 suppressor alleles could correct the growth defect on maltose of strain ES66 carrying 
+1110 M. L. Daus , S. Berendt , S. Wuttge and E. Schneider Table 1 . 
+Strains and plasmids used in this study . 
+Strain/plasmid 
+Relevant genotype/description 
+Source/reference 
+Strain E. coli ED169 ES66 JM109 
+MC4100 DmalB107 MC4100 DmalB107 malTczhe : : Tn10 ( tetr ) 
+Mourez et al. ( 1997 ) This work Stratagene 
+e14 -- ( mcrA ) recA1 endA1 gyrA96 thi-1 hsdR17 ( rk -- , mk + ) supE44 relA1 D ( lac-proAB ) F ′ [ traD36 proAB + lacIq lacZDM15 ] MC4100 malTczhe : : Tn10 ( tetr ) duttsung tetr 
+MM149 RZ1032 
+C. Kumamoto 
+Kunkel et al. ( 1987 ) 
+Plasmid pQE9 pSE380 pSU18/pSU19 pTZ18R pTAZFGQ ( FG * ) pBB1 pBB2 pCB6 pDE10 pDE17 pES35 pES62-97 pFS1 pME01 pMM17 pMM18 pMM19 pMM26 pMM27 pMM28 pMM29 pMM30 pMM31 pMM32 pMM37 pMM38 pMM39 pMM43 pMM44 pMM45 pMM50 pMM51 pMM52 pSR1 pSR2 
+ApR , pT5 , His6 coding sequence ( 5 ′ ) ptrc , lacIq , ApR 
+Qiagen Invitrogen 
+LacZa , Rep ( p15A ) , CmR Phagemid , ptac E. coli malF ( Cys -- ) / malG ( Cys -- ) on pTZ18R pT5 malKht , ptrc malFmalG ApR on pQE9 malEp malE , ptrc malK809 ( Q140K ) on pSE380 malEht ( D codons 1 -- 26 ) on pQE9 malFmalG ( P78S ) on pME01 E. coli malF ( Cys -- ) malG ( P78C ) on pTAZ18R malEp malE on pSU19 malFmalG on pSU18 malEp malE , ptrc malK on pSE380 malFmalG -- fragment of pES62-97 on pSU19 ( DNcoI ) malEp malE ( G13C ) on pSU19 E. coli malF ( Cys -- ) malG ( T183C ) on pTZ18R E. coli malF ( Cys -- ) malG ( I154C ) on pTZ18R E. coli malF ( S205C ) malG ( Cys -- ) on pTZ18R E. coli malF ( S239C ) malG ( Cys -- ) on pTZ18R E. coli malF ( I273C ) malG ( Cys -- ) on pTZ18R E. coli malF ( T92C ) malG ( Cys -- ) on pTZ18R malF ( T92I ) malG on pME01 malFmalG ( T183I ) on pME01 malF ( G206S ) malG on pME01 pT5 malK796ht ( His6-C40S ) on pSU19 E. coli malF ( S252C ) / malG ( Cys -- ) on pTZ18R malK ( Q140K ) on pQE9 malEht ( G13C ) on pQE9 ( derivative of pCB6 ) malEht ( S211C ) on pQE9 ( derivative of pCB6 ) malEht ( F217C ) on pQE9 ( derivative of pCB6 ) malEp malE ( G13C , W340A ) on pSU19 pT5 malKht , ptrc malF ( Cys -- ) malG ( P78C ) ApR on pQE9 malEp malE ( K179C ) on pSU19 malK820 ( L86F ) malE on pME01 malK827 ( Q140N ) malE on pME01 
+Martinez et al. ( 1988 ) GE Healthcare Hunke et al. ( 2000a ) Landmesser et al. ( 2002 ) Laboratory collection Laboratory collection Laboratory collection Daus et al. ( 2006 ) Hunke et al. ( 1995 ) Schmees et al. ( 1999 ) Laboratory collection Laboratory collection This work This work This work This work This work This work This work This work This work This work Hunke and Schneider ( 1999 ) and this work This work This work This work This work This work This work This work This work This work This work 
+A. Phenotypes of strain ES66 ( DmalB107 malTc ) bearing different combinations of plasmids ( see Table 1 ) as evaluated on MacConkey maltose plates ( see Experimental procedures ) . 
+Plasmid combinations expressing the indicated complex variants are as follows : MalFGK ( wild type ) : pFS1 , pME01 ; MalFGK ( Q140K ) : pBB2 , pME01 ; MalFG ( P78S ) K ( Q140K ) : pDE10 , pBB2 ; MalF ( T92I ) GK ( Q140K ) : pMM30 , pBB2 ; MalF ( G206S ) GK ( Q140K ) : pMM32 , pBB2 ; MalFG ( T183I ) K ( Q140K ) : pMM31 , pBB2 . 
+B and C. Allele speciﬁcity of malK809 suppressors evaluated on minimal maltose plates ( see Experimental procedures for details ) . 
+Plasmid combinations ( see Table 1 ) expressing the indicated complex variants in strain ES66 in addition to those given under panel A are : MalFG ( P78S ) K ( Q140N ) : pDE10 , pSR2 ; MalFG ( P78S ) K ( L86F ) : pDE10 , pSR1 ; MalFGK ( Q140N ) : pME01 , pSR2 ; MalFGK ( L86F ) : pME01 , pSR1 . 
+Maltose binding protein -- transporter interactions 1111 malK827 or malK820 [ shown in Fig. 2B and C for MalG ( P78S ) only ] . 
+However , when the suppressor alleles were combined with wild-type malK , growth on minimalmaltose plates was similar to cells of the control strain . 
+Moreover , in liquid medium , cells of strain ES66 ( pFS1 , pDE10 ) grew signiﬁcantly faster than cells of strain ES66 ( pBB2 , pDE10 ) , exhibiting a doubling time of 4.4 h. Thus , the suppressor mutations are highly allele-speciﬁc but still function even better with wild-type MalK . 
+A 
+The puriﬁed suppressor complex MalFG(P78S)K(Q140K) displays MalE/maltose-stimulated ATPase activity
+B 
+The above in vivo data suggested that transport complexes containing the MalK ( Q140K ) mutation in combination with any of the suppressing MalFG mutants are functional albeit with reduced activity . 
+In order to demonstrate this in vitro , we overproduced and puriﬁed the MalFG ( P78S ) K ( Q140K ) complex . 
+In detergent solution , the maltose transport complex exhibits a low ATPase activity that is moderately stimulated by maltose-loaded MalE ( Reich-Slotky et al. , 2000 ; Landmesser et al. , 2002 ) . 
+However , when incorporated in proteoliposomes , the basal level of ATP hydrolysis is similarly low but is stimulated substantially by MalE maltose ( Landmesser et al. , 2002 ) . 
+This is generally accepted as a measure for transport competence of a given complex preparation ( Chen et al. , 2001 ; Landmesser et al. , 2002 ; Daus et al. , 2006 ; 2007 ) . 
+The low ATPase activity observed with the MalFG ( P78S ) K ( Q140K ) complex in proteoliposomes could be stimulated about 15-fold in the presence of MalE maltose , resulting in a speciﬁc activity of 0.29 mmol Pi min-1 mg-1 ( Table 2 ) . 
+This is about 25 % of the activity exhibited by the wild-type complex , thereby being consistent with the 3-fold lower doubling time found in vivo . 
+Furthermore , the results also indicate that the suppressor mutation does not cause a binding protein-independent phenotype . 
+C 
+Fig. 2 . 
+MalFG suppressor mutants . 
+Suppressor mutations are not in cross-linking distance to the LSGGQ motif
+The location of three of the malK809 suppressors in peri-plasmic loop regions of MalFG seemed to exclude direct contacts with Gln-140 of MalK . 
+However , due to their unusual lengths ( Fig. 1A ) , it can not be excluded that MalF-P2 and MalG-P1 may partially fold back into the pore formed by MalFG and thus may come in closer proximity to the MalK dimer . 
+Thus , we have investigated this possibility by site-speciﬁc cross-linking . 
+To this end , single cysteines were introduced at positions Pro-78 and Thr-183 of MalG respectively . 
+These residues were selected as representatives of periplasmically and cytoplasmically oriented suppressors . 
+Because cys-less variants are required for this purpose which are not avai-lable for S. typhimurium MalFG , we used the E. coli homologues instead . 
+The maltose transport proteins of both organisms are > 90 % identical and functionally fully exchangeable ( Hunke et al. , 2000a ) . 
+In case of S. typhimurium MalK , a variant containing a C40S mutation was used to introduce the intended monocysteine substitution at position 140 . 
+Although the protein contains two additional native cysteine residues ( Cys-350 , Cys-360 ) , these were demonstrated to be inaccessible to SH-speciﬁc reagents ( Daus et al. , 2006 ; 2007 ) . 
+However , the mutation Q140C caused a transportnegative phenotype , thereby indicating once again the importance of residue for function . 
+Nonetheless , we analysed the formation of disulphide bonds induced by Cu ( 1,10-phenanthroline ) 2SO4 ( CuPhe ) in puriﬁed complexes containing MalK ( C40S , Q140C ) and MalF * G ( P78C ) or MalF * G * ( T183C ) ( * denotes cys-less background ) . 
+No cross-links were observed in detergent solution or in proteoliposomes ( not shown ) . 
+Thus , these results suggest that allosteric effects of the malFG mutations are likely to account for the malK809 suppressors . 
+MalFS205C and MalGP78C are close to MalE under transporting conditions and in the vanadate-trapped transition state as assessed by cross-linking
+The ﬁnding that three out of four suppressors of malK809 are oriented to the periplasmic side of the membrane led us to explore whether these residues might be in contact to maltose binding proteins during the transport cycle . 
+To this end , puriﬁed transport complexes containing single cysteine substitutions at positions 92 and 205 ( representing Gly-206 ) respectively in MalF , and 78 in MalG , were incubated in the presence of maltose-loaded MalE , previously labelled with photolabile benzophenone-4-maleimide ( BPM ) . 
+In addition , complex variants containing monocysteine substitutions at positions 239 , 252 and 273 of MalF ( all in periplasmic loop 2 ) , and 154 ( periplasmic loop 2 ) and 183 ( cytoplasmic loop 2 ) of MalG , were included in the study ( Fig. 1A ) . 
+While the residues in MalF were chosen in order to include other regions of the large P2 loop , Ile-154 in MalG was selected as a residue previously proposed to interact with MalE ( Covitz et al. , 1994 ) . 
+Because it was shown that blocking the transporter with vanadate causes MalE to bind tightly to the MalFGK2 complex ( Chen et al. , 2001 ) , cross-linking reactions were initiated by irradiation at 302 nm after treatment of the MalEFGK-transporter proteins with vanadate . 
+After separating the proteins on an SDS gel , additional protein bands appeared with MalFS205C , MalFS252C and MalGP78C . 
+Immunoblot analysis revealed that these bands contained MalF -- MalE and MalG -- MalE respectively ( not shown ) . 
+Next , we investigated the conditions under which cross-links with BPM were formed in more detail . 
+Thus , reactions were carried out in the absence of maltose or ATP and in the presence of maltose , ATP and Mg2 + , that is , under ATP-hydrolysing conditions . 
+The results of this analysis are summarized in Figs 3 -- 5 . 
+Clearly , MalGP78C and MalFS205C are in cross-linking distance ( spacer length of BPM : 8.6 -- 11.4 Å ) only to maltose-loaded MalE in the presence of ATP -- Mg2 + or in the vanadate-trapped transition state ( Figs 3 and 4 ) . 
+In contrast , MalFS252C forms a cross-link with MalE exclusively in the vanadate-trapped transition state ( Fig. 5 ) . 
+These results were basically con-ﬁrmed by using the heterobifunctional cross-linker N - ( g-maleimidobutyryloxy ) sulphosuccinimide-ester ( GMBS ; spacer length : 6.4 Å ) ( Kaur et al. , 2005 ) ( not shown ) . 
+Table 2 . 
+Complex variants , their ATPase activities , and plasmids used for overproduction . 
+ATPase activity ( mmol P min-1 mg-1 i ) 
+Plasmid combination 
+Complex variant -- MalE + MalE 
+malK 
+malFG 
+MalFGK ( wild type ) 
+pBB1 
+pBB1 
+0.12 0.19 0.10 0.02 0.25 0.10 0.20 0.13 0.30 0.20 0.08 0.08 
+0.01 0.02 0.02 0.01 0.02 0.02 0.05 0.03 0.02 0.02 0.01 0.01 
+0.56 1.20 0.16 0.29 0.48 0.29 0.40 0.33 0.60 0.42 0.32 0.43 
+0.01 0.06 0.01 0.03 0.08 0.05 0.02 0.02 0.05 0.05 0.02 0.03 
+MalFGK ( wild type ) a MalFG ( P78S ) K ( Q140K ) MalFG ( P78S ) K ( Q140K ) a MalF * ( T92C ) G * K ( C40S ) MalF * ( S205C ) G * K ( C40S ) MalF * ( S239C ) G * K ( C40S ) MalF * ( S252C ) G * K ( C40S ) MalF * ( I273C ) G * K ( C40S ) MalF * G * ( P78C ) K ( C40S ) MalF * G * ( I154C ) K ( C40S ) MalF * G * ( T183C ) K ( C40S ) 
+pMM39 
+pDE10 
+pMM37 pMM37 pMM37 pMM37 pMM37 pMM37 pMM37 pMM37 
+pMM29 pMM26 pMM27 pMM38 pMM28 pDE17 pMM19 pMM18 
+a. ATPase activity of proteoliposomes containing the respective transport complexes . 
+Proteoliposomes were prepared as described under Experimental procedures . 
+The data are represented as mean SEM of at least two independent experiments . 
+Fig. 3 . 
+Photocross-linking of MalF * G * ( P78C ) K ( C40S ) with MalE in detergent solution . 
+Complex protein was irradiated at 302 nm with BPM-labelled MalE in the presence of the indicated cofactors as described under Experimental procedures and analysed by SDS-PAGE and immunoblotting . 
+A. Stained SDS gel . 
+Protein bands corresponding to MalG -- MalE photocross-linked products are indicated by arrows . 
+B. Immunoblots probed with polyclonal antisera ( top : MalG ; bottom : MalE ) . 
+Please note that the anti-MalE antiserum cross-reacts with unspeciﬁc protein bands that occur only in the presence of BPM and UV light . 
+Therefore , arrows indicate the MalE -- MalG cross-linked product . 
+Van , vanadate ; mal , maltose . 
+Tryptic digestion and mass spectrometry analysis of the photocross-link products conﬁrmed the presence of MalEF and MalEG respectively . 
+However , attempts failed to identify any cross-linked peptide that could allow us to determine the positions of the photocross-links in MalE ( not shown ) . 
+Thiol-speciﬁc cross-linking revealed close proximity of MalG(P78C) to MalE(G13C)
+The above results prompted us to use a more direct approach in order to demonstrate interaction of the suppressors with MalE . 
+To this end , we introduced single cysteine residues in peptide regions of MalE previously suggested by genetic analyses to be involved in interaction with the transport complex . 
+These included Gly-13 from the N-terminal lobe of MalE , and Ser-211 and Phe ¬ 
+217 respectively of helix 7 in the C-terminal lobe ( Hor and Shuman , 1993 ; Szmelcman et al. , 1997 ) ( Fig. 1C ) . 
+Replacement by cysteines did not affect function as indicated by the result that all MalE variants , when loaded with maltose , stimulated the ATPase activity of MalF * G * ( P78C ) K ( C40S ) similar to wild type . 
+Puriﬁed transport complexes containing MalF ( S205C ) , MalF ( S252C ) and MalG ( P78C ) respectively were incubated with the monocysteine variants of MalE in the presence and absence of cofactors and treated with CuPhe or sulphonate linkers . 
+No cross-link products were observed between the indicated MalE and MalF-P2 variants , suggesting that the latter are close to neither the N-terminal lobe nor helix 7 of MalE . 
+In contrast , and as shown in Fig. 6A -- C , CuPhe induced a strong cross-link between MalG ( P78C ) and ligand-free MalE ( G13C ) . 
+The addition of maltose and/or ATP did not change the result ( not shown ) . 
+Fig. 4 . 
+Photocross-linking of MalF * ( S205C ) G * K ( C40S ) with MalE in detergent solution in the presence of cofactors . 
+See legend to Fig. 3 for details . 
+A. Coomassie-stained SDS gel . 
+Protein bands corresponding to MalF -- MalE photocross-linked products are indicated by arrows . 
+B. Immunoblots probed with polyclonal antisera ( top : MalF ; bottom : MalE ) . 
+Additional bands recognized by the anti-MalF antiserum might be due to degradation . 
+By lowering the concentration of MalE ( G13C ) in the assay mixture , the ratio between monomeric MalE and the MalE -- MalG cross-link product remained constant , while a protein band corresponding to dimerized MalE was found only at an excess of MalE ( Fig. 6D ) . 
+Quantiﬁcation of the MalE -- MalG cross-link bands by densitometric scanning and plotting the data against the free concentration of MalE revealed that binding saturated . 
+An apparent Kd of ~ 2 mM could be calculated ( not shown ) . 
+Cross-linked products with similar yields were also obtained with 1,2 ethanediyl-bismethanethiosulphonate ( EBS ) , 1,6 hexandiyl-bismethanethiosulphonate ( HBS ) or 3,6,9,12,15-pentaoxaheptadecan-1 ,17 - diyl-bis-methanethiosulphonate ( PBS ) , thereby conﬁrming a close proximity ( ~ 5 Å ) of both cysteines . 
+Furthermore , cofactor-independent cross-linking was also observed with the transporter incorporated into liposomes ( Fig. 6E ) . 
+An MalE -- MalG cross-link product was found when 
+MalE ( G13C ) was either added to the medium ( Fig. 6E , lane 1 ) or incorporated into the lumen of the liposomes ( Fig. 6E , lane 2 ) . 
+Together , these ﬁndings indicate a spe-ciﬁc interaction of MalE and MalG . 
+We conclude that residue Gly-13 of MalE is in close contact to Pro-78 of MalG even in the ATP-free state of the transporter . 
+A cross-link product was also detected between MalG ( P78C ) and a cysteine residue at position 217 of unliganded MalE ( see Fig. 1C ) by using PBS and , to a lower extent , by HBS , but not by EBS ( not shown ) . 
+This result indicates a distance between both residues of 10 -- 25 Å , which is consistent with a distance of ~ 23 Å between Gly-13 and Phe-217 as calculated from the crystal structure of MalE . 
+Cross-linking paired MalG(P78C) and MalE(G13C) also in vivo
+Is there any physiological meaning to the above results ? 
+To address this question , we performed cross-linking experiments with intact cells . 
+To this end , E. coli strain ES66 ( DmalB malT c ) harbouring plasmid pMM51 ( MalKF * G * P78C ) was transformed with plasmid pMM17 ( MalEG13C ) , carrying the complete malE ( G13C ) allele under the control of its native promoter ( Table 1 ) . 
+Transformants displayed growth on maltose as sole source of carbon and energy as evaluated on MacConkey-maltose plates , thereby proving the formation of an intact transport complex ( not shown ) . 
+For in vivo cross-linking , cells were grown in Luria -- Bertani ( LB ) medium to reach OD650 ~ 0.5 , harvested , and incubated with CuPhe for 45 min at 37 °C . 
+After termination of the reaction with N-ethylmaleimide , whole-cell proteins were separated by SDS-PAGE and subsequently transferred to nitrocellulose . 
+Probing the blots with antisera raised against MalE and MalG respectively revealed a protein band that migrated at the expected size , suggesting the formation of a MalEG13C -- MalGP78C cross-link ( Fig. 7 ) . 
+The protein band was not observed in the absence of CuPhe ( Fig. 7 ) and disappeared when the samples were treated with dithiothreitol prior to SDS-PAGE ( not shown ) . 
+Because maltose was not included in the growth medium , the result is consistent with the in vitro data , indicating that MalEG13C is close to MalGP78C in the unliganded state . 
+However , trace amounts of maltose might be either present in LB or formed during cell growth and , due to its high affinity for maltose ( Kd ~ 1 mM ; Boos and Shuman , 1998 ) , MalEG13C might have been in the substrate-loaded form . 
+To exclude this possibility , we performed in vivo cross-linking with a MalE variant that , in addition to the G13C exchange , contained a mutation in the substrate binding site . 
+A substitution of alanine for Trp-340 ( see Fig. 1C ) was reported to drastically decrease the affinity for maltose ( Kd > 1 mM ) but not to interfere with MalE -- transporter interaction ( Martineau et al. , 1990 ) . 
+In accordance with the latter observation , cells of strain ES66 ( pMM51 , pMM50 ) ( see Table 1 ) appeared as red colonies on MacConkey plates supplemented with 2 % maltose ( not shown ) . 
+As shown in Fig. 7 , the W340A mutation did not affect the formation of a MalEG13C -- MalGP78C cross-link , thereby strongly supporting the above notion . 
+Finally , as a control , we repeated the in vivo cross-linking with a MalE variant containing a replacement of Lys-179 by cysteine . 
+Lys-179 is located at the surface of the hinge region connecting both lobes of MalE ( see Fig. 1C ) and thus , should not be in close proximity to MalGP78C . 
+In accordance with this assumption , no cross-link product was observed ( Fig. 7 ) . 
+Fig. 5 . 
+Photocross-linking of MalF * ( S252C ) G * K ( C40S ) with MalE in detergent solution in the presence of cofactors . 
+See legend to Fig. 3 for details . 
+A. Coomassie-stained SDS gel . 
+The protein band corresponding to MalF -- MalE photocross-linked product is indicated by an arrow . 
+B. Immunoblots probed with polyclonal antisera ( top : MalF ; bottom : MalE ) . 
+Please note that the anti-MalF antiserum recognizes an unspeciﬁc protein band present in all lanes . 
+Fig. 6 . 
+Site-speciﬁc CuPhe-induced cross-linking of MalF * G * ( P78C ) K ( C40S ) with MalE ( G13C ) . 
+Complex protein ( 2.5 mM ) was incubated with MalE ( G13C ) ( 5 mM ) in the presence of CuPhe but in the absence of cofactors as described under Experimental procedures , and subsequently analysed by SDS-PAGE and immunoblotting . 
+A. Coomassie-stained SDS gel . 
+B. Immunoblot probed with a monoclonal antiserum raised against the His6-tag ( Qiagen ) fused to the N-terminus of MalE . 
+There is also a cross-reaction with MalK due to a His6 tag at its N-terminus . 
+C. Immunoblot probed with anti-MalG antiserum . 
+D. Concentration dependence of MalG -- MalE cross-linking ( Coomassie-stained SDS gel ) . 
+Complex protein ( 2.5 mM ) was incubated with varying concentrations of MalE ( G13C ) and cross-linked with CuPhe as described above . 
+Lanes : 1 , 5 mM ; 2 , 2.5 mM ; 3 , 1.25 mM ; 4 , 0.625 mM ; 5 , 0.3125 mM . 
+E. CuPhe-induced cross-linking in proteoliposomes ( Coomassie-stained SDS gel ) . 
+Complex protein was incorporated in proteoliposomes , incubated with MalE ( G13C ) and CuPhe , and analysed by SDS-PAGE as described under Experimental procedures . 
+Lane 1 , MalE ( G13C ) ( 5 mM ) was added to proteoliposomes prior to incubation with CuPhe ; lane 2 , MalE ( G13C ) was added to complex protein prior to the formation of proteoliposomes and thus included into the lumen of the proteoliposomes . 
+Please note that in each case , 50 % of the incorporated complex molecules expose their contact sites for MalE to either the medium or the lumen ( Landmesser et al. , 2002 ) . 
+Discussion
+In this communication , we have reported on the isolation and characterization of four suppressor mutations of the malK809 allele encoding the MalK variant Gln-140 -- Lys . 
+The MalFGK ( Q140K ) complex is largely impaired in MalE maltose-stimulated ATPase activity and , consequently , in maltose transport activity . 
+In contrast , soluble MalK ( Q140K ) displays ATPase activity similar to wild type ( Schmees et al. , 1999 ) . 
+The suppressors partially restored growth of an E. coli malB-deletion strain carrying malK809 on maltose as sole source of carbon and energy . 
+The defect of a transport complex containing the MalK ( Q140K ) mutation is likely due to its inability to undergo MalK dimer closure upon ATP binding ( Daus et al. , 2007 ) . 
+Thus , the suppressor mutations must , at least partially , restore ATP-driven dimer closure . 
+The suppressors exhibited a high degree of allele speciﬁcity . 
+In particular , the growth deﬁciency on maltose caused by MalK ( Q140N ) could not be cured . 
+This ﬁnding suggests that replacing Gln-140 by either Lys or Asn might have conformationally different consequences although both variants have similar phenotypes as MalK ( Q140K ) ( Schmees et al. , 1999 ) . 
+This notion is supported by the result that growth on maltose of another phenotypically related variant containing MalK ( L86F ) was likewise not restored by any of the suppressors . 
+All suppressor alleles , when combined with wild-type malK , 
+Fig. 7 . 
+In vivo cross-linking of 
+MalF * G * ( P78C ) K2 with MalE derivatives . 
+Cells of strain ES66 ( pMM51 ) harbouring plasmid pMM17 ( MalEG13C ) , pMM50 ( MalEG13C , W340A ) or pMM52 ( MalEK179C ) were grown and treated with CuPhe as described under Experimental procedures . 
+Upper panel : immunoblots probed with anti-MalE antiserum . 
+Lower panel : immunoblots probed with anti-MalG antiserum . 
+Please note that the additional bands recognized by the MalG antiserum did not react with anti-MalE . 
+Numbers at the left side of each panel indicate the molecular mass and position of standard proteins . 
+1118 M. L. Daus , S. Berendt , S. Wuttge and E. Schneider allowed growth of the tester strain similar to a wild-type complex . 
+Three out of the four suppressors map to periplasmic regions of MalFG , while MalG ( T183I ) is located in the second cytoplasmic loop close to the conserved EAA motif . 
+Because none of the suppressor mutations were found to be in cross-linking distance ( 25 Å ) of Gln-140 , a direct contact between Q140K and any of the suppressor mutations is rather unlikely , thereby suggesting allos-teric effects . 
+The extracytoplasmically located suppressors are either close to the N-terminal end or in the centre of periplasmic loop 2 of MalF ( T92 , G206 ) , and in periplasmic loop 1 of MalG ( P78 ) respectively ( Fig. 1A ) . 
+The unusually large P2 loop of MalF is of particular interest , as it is not conserved in evolution but seems to be conﬁned to MalF proteins from enterobacteria ( Ehrmann et al. , 1998 ) . 
+Nonetheless , insertions/deletions in MalF-P2 are mostly not tolerated with respect to transport function because they were found to affect MalK localization to the membrane ( Tapia et al. , 1999 ) . 
+In contrast , MalG-P78 is part of a proline-rich sequence motif ( see Fig. 1A ) that is well conserved among MalG homologues ( consensus : PPL/FP/HVL / I ) . 
+Although the precise role of MalF-P2 and MalG-P1 in transporter function is still unknown , we have recently demonstrated that peptide regions encompassing residue Ser-252 in MalF and Pro-78 in MalG undergo conformational changes upon addition of ATP to the intact transporter ( Daus et al. , 2006 ) . 
+Thus , our ﬁnding that S205C and S252C of MalF , and P78C of MalG , are in cross-linking distance to MalE under ATP-hydrolysing conditions and/or in the vanadate-trapped state ( Figs 3 -- 5 ) gives rise to the speculation that both loop regions are involved in the communication between MalE and MalK . 
+In line with this notion is the observation that MalF-P2 , when separately expressed and puriﬁed , binds to MalE as assessed by nuclear magnetic resonance spectroscopy and isothermal titration calorimetry ( M. Grote et al. , unpub . 
+results ) . 
+The CuPhe-induced cross-link product observed between G13C of MalE and MalG ( P78C ) in the absence of substrate in vitro and in vivo might indicate that a single copy of MalE is actually permanently associated with a transport complex molecule . 
+First of all , this conclusion is consistent with earlier ﬁndings based on mathematical treatment of transport data which suggested that both the substrate-loaded and the substrate-free forms of MalE have access to MalFG ( Bohl et al. , 1995 ; Merino et al. , 1995 ) . 
+Similarly , the unliganded form of histidine binding protein , HisJ , was also found to bind to histidine permease of S. typhimurium ( Ames et al. , 1996 ) . 
+Substrate-free and substrate-loaded forms of MalE differ dramatically in their conformations . 
+Upon binding of substrate , both lobes not only perform a bending movement relative to each other , but also perform a twisting movement ( Sharff et al. , 1992 ) . 
+On the other hand , as already mentioned , MalG-P78 is involved in a conformational change of the transport complex upon binding of ATP ( Daus et al. , 2006 ) . 
+Thus , our ﬁnding that CuPhe-induced cross-link formation between MalG ( P78C ) and MalE ( G13C ) occurred independently of cofactors , such as maltose or ATP , suggests that both residues move jointly during the transport cycle . 
+These results also gave rise to the speculation that binding of substrate-free MalE to MalFG might prevent ATP-driven MalK dimer closure . 
+By employing sitedirected cross-linking , we have recently determined distance changes between both Q-loops of the MalK subunits upon addition of ATP ( Daus et al. , 2007 ) . 
+These motional changes were taken as evidence for ATP-driven MalK dimer closure in the intact transporter as suggested by crystal structures of soluble MalK ( Chen et al. , 2003 ; Lu et al. , 2005 ) . 
+However , performing such experiments in the presence of MalE , in both its liganded and unliganded form , did not provide any clue in favour of the above notion . 
+Is the concept of permanent association of a single copy of MalE with the transporter complex compatible with the observed 30 - to 50-fold excess of MalE relative to its membrane partners ( Manson et al. , 1985 ) , which was also reported in case of other binding proteins from Gramnegative bacteria ( Ames et al. , 1996 ) ? 
+Kinetic analysis of maltose transport data revealed that only 20 % of the normal amounts of MalE were necessary for full transport activity . 
+On the other hand , more MalE was required for its function as chemoreceptor for maltose than for transport ( Manson et al. , 1985 ) . 
+Together , these ﬁndings indicate that the high concentration of MalE in the periplasm ( 1 mM , Manson et al. , 1985 ) is not mechanistically essential for transport . 
+Rather , as pointed out by Ames et al. ( 1996 ) , high concentration of binding protein combined with high affinity for the ligand would convert the usually low environmental ligand concentrations into high concentrations of bound ligand in the periplasm . 
+However , MalE concentrations below 20 % of wild-type level might be insufficient to maintain a binding protein -- transporter complex . 
+Moreover , members of two subclasses of binding protein-dependent ABC transporters exist in both Gram-negative and Gram-positive bacteria that have one or two substrate binding domains ( SBDs ) fused to one copy of the transmembrane subunits . 
+Consequently , a single transport complex contains two or four SBDs ( van der Heide and Poolman , 2002 ) . 
+In an elegant study , Biemans-Oldehinkel and Poolman ( 2003 ) provided evidence that in the OpuA complex of Lactobacillus lactis , both SBDs interact in a cooperative manner but that a single SBD docks onto the transporter and donates its substrate . 
+Together , these ﬁndings are at least not inconsistent with our proposal of permanent association of MalE with MalFGK2 . 
+If the binding protein is in tight association with the transporter , why can a MalE -- MalFGK2 complex only be isolated after vanadate-trapping ( Chen et al. , 2001 ) ? 
+This is likely due to the observed relatively low affinity of the membrane components for MalE . 
+Rough estimates from cross-linking experiments ( ~ 2 mM , Fig. 6D ) and from transport assays ( ~ 90 mM , Manson et al. , 1985 ) revealed dissociation constants in the micromolar range . 
+In contrast , the affinity of the MalFG subcomplex , either in membrane vesicles ( Mourez et al. , 1998 ) or in proteoliposomes ( Landmesser et al. , 2002 ) for MalK , was calculated to be in the picomolar range , as expected for a protein complex that dissociates only in the presence of molar concentrations of a chaotropic reagent , e.g. urea ( Landmesser et al. , 2002 ) . 
+However , the affinity of the pore-forming subunits for the corresponding binding protein might differ between transporters , as suggested by two recently solved crystal structures . 
+In both cases , binding protein -- transporter complexes were formed under native conditions , i.e. in the absence of vanadate . 
+The molybdate transporter of Archeoglobus fulgidus , ModA - ( BC ) 2 , has its substrate-loaded binding protein , ModA , associated with an inwardfacing conformation of the transmembrane subunits ( Hollenstein et al. , 2007 ) , while the structure of the vitamin B12 transporter of E. coli , BtuF - ( CD ) 2 , revealed that BtuF was bound in the open ( unliganded ) conformation with a closed translocation pore ( Hvorup et al. , 2007 ) . 
+Furthermore , both structures also revealed that ion pairs are involved in receptor -- transporter contacts . 
+Whether this holds for other ABC importers needs to be established . 
+However , besides Gly-13 , the genetic study by Treptow and Shuman ( 1988 ) also suggested that Asp-14 of MalE might be involved in interaction with MalG . 
+Our data now allow to address this question by site-directed mutagenesis of positively charged residues in MalG-P1 . 
+From these and other data , the following transport scenario with implications for ABC import systems in general might emerge : in the intact transporter , ATP-driven closing of the MalK dimer occurs independently of MalE , which is in agreement with earlier ﬁndings ( Daus et al. , 2006 ; 2007 ) . 
+This step involves conformational changes of the Q-loops of MalK and of the EAA motifs of MalFG ( Hunke et al. , 2000a ; Daus et al. , 2007 ) , which are supported by structural data ( Dawson et al. , 2007 ) , as well as of peri-plasmic loops MalF-P2 and MalG-P1 ( Daus et al. , 2006 ) . 
+Concomitantly , the pore is converted into an outwardfacing conformation ( Davidson and Chen , 2004 ; Dawson et al. , 2007 ) . 
+Taking into account that the cytoplasmic concentration of ATP in E. coli is in the millimolar range ( Bakker and Randall , 1984 ) and thus well above the Km for ATP determined with the puriﬁed complex ( 74 mM : 
+Maltose binding protein -- transporter interactions 1119 Davidson et al. , 1992 ) , we consider the ATP-bound form as the ` resting state ' . 
+This notion is at least not in contradiction to the most recent structure of the BtuF - ( CD ) 2 complex published by Locher 's group . 
+As already mentioned , BtuF is bound in the open conformation with a closed translocation pore . 
+This structure was proposed by the authors to reﬂect a post-translocation intermediate ( Hvorup et al. , 2007 ) . 
+Thus , it is tempting to speculate that binding of ATP would reset the transporter to the resting state . 
+Upon availability of substrate , a copy of MalE that is permanently associated with the transporter by ( at least ) contact of its N-terminal region around Gly-13 with MalG-P1 , proceeds to the closed conformation . 
+This motional change is transmitted to the LSGGQ motifs of MalK2 , resulting in hydrolysis of one ATP . 
+As a consequence , maltose is released into the binding site of the MalFG pore . 
+As proposed by Biemans-Oldehinkel and Poolman ( 2003 ) , this process might be stimulated by a second copy of MalE . 
+Then , bound MalE resumes the open conformation , thereby presumably coming into contact with MalF-P2 ( Ser-205 , Ser-252 ) and MalG-P1 ( Pro-78 ) through yet-to-be-identiﬁed peptide regions . 
+The vanadate-trapped complex might reside in a similar ( transition ) state ( Chen et al. , 2001 ; Daus et al. , 2007 ) . 
+Hydrolysis of the second ATP would then cause reopening of the MalK dimer , promoting an inward-facing conformation of the pore and , consequently , release of maltose to the cytoplasm . 
+The proposed stoichiometry of two ATP hydrolysed per substrate molecule transported thereby accounts for results from Patzlaff and Poolman ( 2003 ) . 
+Experimental procedures
+Bacterial strains, plasmids and media
+All strains and plasmids used in this study are listed in Table 1 . 
+E. coli strain ES66 was constructed by P1 transduction of strain ED169 using a lysate grown on strain MM149 . 
+ES66 carries a deletion of the malB region encoding the maltose transport proteins and a malTc mutation that allows constitutive expression of malE and malK when under the control of their native promoters ( see Table 1 ) . 
+Bacteria were usually grown in LB ( Miller , 1972 ) , supplemented with ampicillin ( 100 mg ml-1 ) and/or chloramphenicol ( 20 mg ml-1 ) , if required . 
+MacConkey indicator plates contained MacConkey agar base ( 4 % , Difco , Detroit ) , maltose ( 2 % ) and antibiotics . 
+Microtiter plates contained 200 ml MacConkey agar medium and IPTG in each well , to which 2 ml of cell suspension ( OD650 = 0.5 ) was added prior to overnight incubation at 37 °C . 
+For complementation studies with E. coli strain ES66 , minimal salt medium ( M9 ; Miller , 1972 ) supplemented with maltose ( 2 % ) and appropriate antibiotics was used . 
+Random mutagenesis of malFG
+The malFG genes of S. typhimurium were mutagenized with hydroxylamine according to McNicholas et al. ( 1992 ) . 
+DNA of plasmid pME01 ( 20 mg ) was diluted with 5 vols of buffer ( 0.5 M potassium phosphate , pH 6 , 5 mM EDTA ) and 4 vols of a freshly prepared hydroxylamine solution ( 1 M hydroxylamine , 5 mM EDTA , 0.45 M NaOH , pH 6 ) to a ﬁnal volume of 200 ml and incubated for 3 h at 70 °C . 
+Subsequently , the mutagenized DNA was puriﬁed ( Rapid Gel Extraction System , Invitrogen ) and used to transform E. coli strain RZ1032 ( ung -- dut -- ) ( Kunkel et al. , 1987 ) . 
+The transformants were plated on LB plates supplemented with chloramphenicol ( LB-cam ) and allowed to grow at 37 °C overnight . 
+Colonies were then pooled by rinsing each plate with 5 ml LB-cam medium , which was subsequently transferred to sterile Erlenmeyer ﬂasks and incubated under vigorous shaking for several hours at 37 °C . 
+From these cultures plasmid DNA was prepared and double-digested with NcoI and SalI . 
+The resulting 2.9 kb fragment carrying the malFG genes was agarose-gel puriﬁed and ligated with pME01 previously digested with the same enzymes . 
+The resulting plasmids were used to transform strain ES66 ( pBB2 ) , and transformants were plated on MacConkey/maltose plates , supplemented with ampicillin and chloramphenicol . 
+Alternatively , minimal medium plates containing the same supplements and thiamine ( 2 mg ml-1 ) were used . 
+From two mutagenesis experiments , four plasmids , named pDE10 , pMM30 , pMM31 and pMM32 , were obtained that , after puriﬁcation and retransformation of ES66 ( pBB2 ) , allowed the strain to grow on maltose as sole source of carbon and energy . 
+The malFG alleles present on these plasmids were further characterized by complete nucleotide sequence analysis ( MWG , Germany ) . 
+Construction of mutants
+Site-directed mutagenesis was carried out using the Strat-agene 's Quik change mutagenesis kit and following the manufacturer 's instructions . 
+Protein puriﬁcation
+MalFGK2 ( wild type and variants ) was puriﬁed by Ni-NTA chromatography essentially as described by Landmesser et al. ( 2002 ) , thereby taking advantage of six histidine resi-dues fused to the N-terminus of MalK . 
+Plasmids carrying the respective mal genes are listed in Table 2 . 
+His - MalE ( wild 6 type and variants ) was puriﬁed by the same procedure from the cytosolic fraction of E. coli strain JM109 harbouring plasmid pCB06 or derivatives . 
+Vanadate-trapped complexes were prepared as described by Daus et al. ( 2007 ) . 
+Preparation of proteoliposomes
+Proteoliposomes were essentially prepared as described by Landmesser et al. ( 2002 ) . 
+Cross-linking
+Cross-linking experiments using CuPhe or homobifunctional sulphonate linkers were performed as described by Daus et al. ( 2007 ) . 
+Sulphonate cross-linkers were purchased from 
+Toronto Chemicals ( Toronto , Canada ) . 
+The following cross-linkers were used : EBS , HBS and PBS . 
+The approximate spacer lengths are 5.2 Å ( EBS ) , 10.4 Å ( HBS ) and 24.7 Å ( PBS ) ( Loo and Clarke , 2001 ) . 
+Reactions were started by adding the respective cross-linker ( ﬁnal concentration 1 mM ) from freshly prepared stock solutions ( 100 mM in dimethylsulphoxide ) to the indicated protein samples ( 2.5 mM MalFGK2 variants , 5 mM MalE variants ) in 50 mM Tris-HCl , pH 7.5 , 20 % glycerol , 0.01 % b-D-dodecylmaltoside ( buffer 1 ) . 
+After 20 min at room temperature , reactions were terminated by adding 5 mM N-ethylmaleimide . 
+Cross-linking with BPM ( Sigma ) was carried out essentially as described by Giron-Monzon et al. ( 2004 ) . 
+Puriﬁed monocysteine complex variants ( 2.5 mM ) were incubated in buffer 1 with BPM ( dissolved in DMSO ; ﬁnal concentration : 25 mM ) for 30 min at room temperature in the dark . 
+Subsequently , the reaction was terminated by adding dithiothreitol ( 12.5 mM ) . 
+For photocross-linking , BPM-modiﬁed proteins were mixed with MalE ( 5 mM ) in buffer 1 . 
+The cross-link reaction was activated by irradiation for 30 min on ice at 302 nm with a UV hand lamp at a distance of 5 cm . 
+The concentrations of cofactors added were as follows : maltose ( 10 mM ) , Na-ATP , pH 8 ( 4 mM ) and MgCl2 ( 10 mM ) . 
+For vanadate-trapping , the reaction mixtures were incubated with 0.5 mM orthovanadate for 20 min at 37 °C . 
+Formation of cross-link products with GMBS ( ﬁnal concentration : 25 mM ; prepared in dimethylsulphoxide ) ( Pierce via KMF , Leipzig ) was carried out in 50 mM HEPES-KOH , pH 8 , 20 % glycerol , and 0.01 % b-D-dodecylmaltoside for 15 min on ice . 
+Reactions were terminated by the addition of 100 mM Tris-HCl , pH 7.5 ( ﬁnal concentration ) . 
+In vivo cross-linking
+Cells of strain ES66 ( pMM51 ) harbouring plasmid pMM17 , pMM50 or pMM52 were grown in LB medium ( 5 ml ) , supplemented with ampicillin and chloramphenicol , to OD650 ~ 0.5 , harvested by centrifugation , and resuspended in 3 ml of 50 mM Tris-HCl , pH 7.5 . 
+Aliquots ( 0.5 ml ) were incubated with CuPhe ( 3 mM CuSO4/9 mM 1,10-phenanthroline in 50 mM potassium phosphate buffer , pH 7.4 ) for 45 min at 37 °C . 
+Reactions were terminated with 5 mM EDTA and 5 mM NEM in 50 mM Tris-HCl , pH 7.5 , for 5 min at room temperature . 
+Subsequently , cells were pelleted by centrifugation , resuspended in 50 mM Tris-HCl , pH 7.5 ( 20 ml ) , and subjected to SDS-PAGE , followed by electrotransfer to nitrocellulose as described by Daus et al. ( 2006 ) . 
+Analytical procedures
+ATPase assays , SDS-PAGE , immunoblotting and protein determination were performed as described by Daus et al. ( 2006 ) . 
+Proteins to be analysed by mass spectrometry were treated as follows : excised gel slices were washed with 50 % ( v/v ) acetonitrile in 50 mM ammonium bicarbonate , shrunk by dehydration in acetonitrile , and dried in a vacuum centrifuge . 
+The dried gel pieces were incubated with 60 ng trypsin ( sequencing grade , Promega , Madison , WI , USA ) in 20 ml of 50 mM ammonium bicarbonate . 
+After 17 h incubation at 37 °C , 20 ml of 0.3 % triﬂuoroacetic acid ( TFA ) in acetonitrile was added and the separated supernatant was dried under vacuum . 
+Samples were reconstituted in 10 ml of 0.1 % ( v/v ) TFA , 5 % ( v/v ) acetonitrile in water , and subjected to mass spectrometry analysis as described ( Daus et al. , 2006 ) . 
+Acknowledgements
+We thank Vivien Lange , Dirk Elvers , Frank Scheffel , Shamin Rahman and Marion Elﬂein ( all Humboldt Universität zu Berlin , Germany ) for their contributions in the early stage of this work ; Heike Stephanowitz and Eberhard Krause ( both at the Forschungsinstitut für Molekulare Pharmakologie , Berlin , Germany ) for MALDI-TOF analyses ; and Heidi Landmesser ( Humboldt Universität zu Berlin ) for excellent technical assistance . 
+This work was supported by the Deutsche Fors-chungsgemeinschaft ( SFB 449 , B14 ) . 
+References 
+Ames , G.F.-L. , Liu , C.E. , Joshi , A.K. , and Nikaido , K. ( 1996 ) Liganded and unliganded receptors interact with equal affinity with the membrane complex of periplasmic permeases , a subfamily of traffic ATPases . 
+J Biol Chem 272 : 14264 -- 14270 . 
+Bakker , E.P. , and Randall , L.L. ( 1984 ) The requirement for energy during export of b-lactamase in Escherichia coli is fulﬁlled by the total protonmotive force . 
+EMBO J 3 : 895 -- 900 . 
+Biemans-Oldehinkel , E. , and Poolman , B. ( 2003 ) On the role of the two extracytoplasmic substrate-binding domains in the ABC transporter OpuA . 
+EMBO J 22 : 5983 -- 5993 . 
+Bohl , E. , Shuman , H.A. , and Boos , W. ( 1995 ) Mathematical treatment of the kinetics of binding protein dependent transport systems reveals that both the substrate loaded and unloaded binding proteins interact with the membrane components . 
+J Theor Biol 172 : 83 -- 94 . 
+Boos , W. , and Shuman . 
+H. ( 1998 ) Maltose/maltodextrin system of Escherichia coli : transport , metabolism , and regulation . 
+Microbiol Mol Biol Rev 62 : 204 -- 229 . 
+Boyd , A. , Traxler , B. , and Beckwith , J. ( 1993 ) Analysis of the topology of a membrane protein by using a minimum number of alkaline phosphatase fusions . 
+J Bacteriol 175 : 553 -- 556 . 
+Chen , J. , Sharma , S. , Quiocho , F.A. , and Davidson , A.L. ( 2001 ) Trapping the transition state of an ATP-binding cassette transporter : evidence for a concerted mechanism of maltose transport . 
+Proc Natl Acad Sci USA 98 : 1525 -- 1530 . 
+Chen , J. , Lu , G. , Lin , J. , Davidson , A.L. , and Quiocho , F.A. ( 2003 ) A tweezers-like motion of the ATP-binding cassette dimer in an ABC transport cycle . 
+Mol Cell 12 : 651 -- 661 . 
+Covitz , K.-M.Y. , Panagiotidis , C.H. , Hor , L.-I. , Reyes , M. , Treptow , N.A. , and Shuman , H.A. ( 1994 ) Mutations that alter the transmembrane signalling pathway in an ATP binding cassette ( ABC ) transporter . 
+EMBO J 13 : 1752 -- 1759 . 
+Dassa , E. ( 2003 ) Phylogenetic and functional classiﬁcation of ABC ( ATP-binding cassette ) systems . 
+In ABC Proteins : From Bacteria to Man . 
+Holland , E.B. , Cole , S. , Kuchler , K. , and Higgins , C.F. ( eds ) . 
+New York : Academic Press , pp. 3 -- 35 . 
+Daus , M.L. , Landmesser , H. , Schlosser , A. , Müller , P. , Herrmann , A. , and Schneider , E. ( 2006 ) ATP induces conformational changes of periplasmic loop regions of the maltose ATP-binding cassette transporter . 
+J Biol Chem 281 : 3856 -- 3865 . 
+Daus , M.L. , Grote , M. , Müller , P. , Doebber , M. , Herrmann , A. , Steinhof , H.-J. , et al. ( 2007 ) ATP-driven MalK dimer closure and re-opening and conformational changes of the ` EAA ' motifs are crucial for function of the maltose ATP-binding cassette transporter ( MalFGK2 ) . 
+J Biol Chem 282 : 22387 -- 22369 . 
+Davidson , A.L. , and Chen , J. ( 2004 ) ATP-binding cassette transporters in bacteria . 
+Annu Rev Biochem 73 : 241 -- 268 . 
+Davidson , A.L. , Shuman , H.A. , and Nikaido , H. ( 1992 ) Mechanism of maltose transport in Escherichia coli : transmembrane signaling by periplasmic binding proteins . 
+Proc Natl Acad Sci USA 89 : 2360 -- 2364 . 
+Dawson , R.J.P. , and Locher , K.P. ( 2006 ) Structure of a bacterial multidrug ABC transporter . 
+Nature 443 : 180 -- 185 . 
+Dawson , R.J.P. , Hollenstein , K. , and Locher , K.P. ( 2007 ) Uptake or extrusion : crystal structures of full ABC transporters suggest a common mechanism . 
+Mol Microbiol 65 : 250 -- 257 . 
+Ehrmann , M. , Ehrle , R. , Hofmann , E. , Boos , W. , and Schlösser , A. ( 1998 ) The ABC maltose transporter . 
+Mol Microbiol 29 : 685 -- 694 . 
+Froshauer , S. , Green , G.N. , Boyd , D. , McGovern , K. , and Beckwith , J. ( 1988 ) Genetic analysis of the membrane insertion and topology of MalF , a cytoplasmic membrane protein of Escherichia coli . 
+J Mol Biol 200 : 501 -- 511 . 
+Giron-Monzon , L. , Manelyte , L. , Ahrends , R. , Kirsch , D. , Spenglers , B. , and Friedhoff , P. ( 2004 ) Mapping protein -- protein interactions between MutL and MutH by cross-linking . 
+J Biol Chem 279 : 49338 -- 49345 . 
+van der Heide , T. , and Poolman , B. ( 2002 ) ABC transporter : one , two or four substrate-binding domains ? 
+EMBO Rep 3 : 938 -- 943 . 
+Holland , E.B. , Cole , S. , Kuchler , K. , and Higgins , C.F. , eds . 
+( 2003 ) ABC Proteins : From Bacteria to Man . 
+New York : Academic Press . 
+Hollenstein , K. , Frei , D.C. , and Locher , K.P. ( 2007 ) Structure of an ABC transporter in complex with its binding protein . 
+Nature 446 : 213 -- 216 . 
+Hor , L.-I. , and Shuman , H.A. ( 1993 ) Genetic analysis of peri-plasmic binding protein dependent transport in Escherichia coli . 
+Each lobe of maltose-binding protein interacts with a different subunit of the MalFGK2 membrane transport complex . 
+J Mol Biol 233 : 659 -- 670 . 
+Hunke , S. , and Schneider , E. ( 1999 ) A cys-less variant of the bacterial ATP binding cassette protein MalK is functional in maltose transport and regulation . 
+FEBS Lett 44 : 131 -- 134 . 
+Hunke , S. , Dröse , S. , and Schneider , E. ( 1995 ) Vanadate and baﬁlomycin A1 are potent inhibitors of the ATPase activity of the reconstituted bacterial ATP-binding cassette transporter for maltose ( MalFGK2 ) . 
+Biochem Biophys Res Commun 216 : 589 -- 594 . 
+Hunke , S. , Mourez , M. , Jèhanno , M. , Dassa , E. , and Schneider , E. ( 2000a ) ATP modulates subunit -- subunit interactions in an ATP-binding cassette transporter ( MalFGK2 ) determined by site-directed chemical cross-linking . 
+J Biol Chem 275 : 15526 -- 15534 . 
+Hunke , S. , Landmesser , H. , and Schneider , E. ( 2000b ) Novel missense mutations that affect the transport function of MalK , the ATP-binding-cassette subunit of the Salmonella enterica serovar typhimurium maltose transport system . 
+J Bacteriol 182 : 1432 -- 1436 . 
+Hvorup , R.N. , Goetz , B.A. , Niederer , M. , Hollenstein , K. , Perozo , E. , and Locher , K.P. ( 2007 ) Asymmetry in the structure of the ABC transporter-binding protein complex BtuCD-BtuF . 
+Science 317 : 1387 -- 1390 . 
+Kaur , P. , Rao , D.K. , and Gandlur , S.M. ( 2005 ) Biochemical characterization of domains in the membrane subunit DrrB that interact with the ABC subunit DrrA : identiﬁcation of a conserved motif . 
+Biochemistry 44 : 2661 -- 2670 . 
+Kunkel , T.A. , Roberts , D.R. , and Zahour , R.A. ( 1987 ) Rapid and efficient site-speciﬁc mutagenesis without phenotypic selection . 
+Methods Enzymol 154 : 367 -- 383 . 
+Landmesser , H. , Stein , A. , Blüschke , B. , Brinkmann , M. , Hunke , S. , and Schneider , E. ( 2002 ) Large-scale puriﬁcation , dissociation and functional reassembly of the maltose ATP-binding cassette transporter ( MalFGK2 ) of Salmonella typhimurium . 
+Biochim Biophys Acta 1565 : 64 -- 72 . 
+Locher , K.P. , Lee , A.T. , and Rees , D.C. ( 2002 ) The E. coli BtuCD structure : a framework for ABC transporters and mechanism . 
+Science 296 : 1091 -- 1098 . 
+Loo , T.W. , and Clarke , D.M. ( 2001 ) Determining the dimensions of the drug-binding domain of human P-glycoprotein using thiol cross-linking compounds as molecular rulers . 
+J Biol Chem 276 : 36877 -- 36880 . 
+Lu , G. , Westbrooks , J.M. , Davidson , A.L. , and Chen , J. ( 2005 ) ATP hydrolysis is required to reset the ATP-binding cassette dimer into the resting-state conformation . 
+Proc Natl Acad Sci USA 102 : 17969 -- 17974 . 
+McNicholas , P. , Chopra , I. , and Rothstein , D.M. ( 1992 ) Genetic analysis of the tetA ( C ) gene on plasmid pBR322 . 
+J Bacteriol 17 : 7926 -- 7933 . 
+Manson , M.D. , Boos , W. , bassford , P.J. , Jr , and Rasmussen , B.A. ( 1985 ) Dependence of maltose transport and chemotaxis on the amount of maltose-binding protein . 
+J Biol Chem 260 : 9727 -- 9733 . 
+Martineau , P. , Szmelcman , S. , Spurlino , J.C. , Quiocho , F.A. , and Hofnung , M. ( 1990 ) Genetic approach to the role of tryptophan residues in the activities and ﬂuorescnece of a bacterial periplasmic maltose-binding protein . 
+J Mol Biol 214 : 337 -- 352 . 
+Martinez , E. , Bartolome , B. , and de la Cruz , F. ( 1988 ) pACYC 184-derived cloning vectors containing the multiple cloning site and lacZa reporter gene of pUC8/9 and pUC18/19 . 
+Gene 68 : 159 -- 162 . 
+Merino , G. , Boos , W. , Shuman , H.A. , and Bohl , E. ( 1995 ) The inhibition of maltose transport by the unliganded form of the maltose-binding protein of Escherichia coli : experimental ﬁndings and mathematical treatment . 
+J Theor Biol 177 : 171 -- 179 . 
+Miller , J.H. ( 1972 ) Experiments in Molecular Genetics . 
+Cold Spring Harbor , NY : Cold Spring Harbor Laboratory Press . 
+Mourez , M. , Hofnung , N. , and Dassa , E. ( 1997 ) Subunit interactions in ABC transporters : a conserved sequence in 
+hydrophobic membrane proteins of periplasmic permease deﬁnes an important site of interactions with the ATPase subunit . 
+EMBO J 16 : 3066 -- 3077 . 
+Mourez , M. , Jéhanno , M. , Schneider , E. , and Dassa , E. ( 1998 ) In vitro interaction between components of the inner membrane complex of the maltose ABC transporter of Escherichia coli : modulation by ATP . 
+Mol Microbiol 30 : 353 -- 363 . 
+Patzlaff , J.S. , and Poolman , B. ( 2003 ) The ATP/substrate stoichiometry of the ATP-binding cassette ( ABC ) transporter OpuA . 
+J Biol Chem 278 : 29546 -- 29551 . 
+Pinkett , H.W. , Lee , A.T. , Lum , P. , Locher , K.P. , and Rees , D.C. ( 2007 ) An inward-facing conformation of a putative metal-chelate-type ABC transporter . 
+Science 315 : 373 -- 377 . 
+Reich-Slotky , R. , Panagiotidis , C. , Reyes , M. , and Shuman , H.A. ( 2000 ) The detergent-soluble maltose transporter is activated by maltose-binding protein and verapamil . 
+J Bacteriol 182 : 993 -- 1000 . 
+Scheffel , F. , Demmer , U. , Warkentin , E. , Hülsmann , A. , Schneider , E. , and Ermler , U. ( 2005 ) Structure of the ATPase subunit CysA of the putative sulfate ATP-binding cassette ( ABC ) transporter from Alicyclobacillus acidocaldarius . 
+FEBS Lett 579 : 2953 -- 2958 . 
+Schmees , G. , Stein , A. , Hunke , S. , Landmesser , H. , and Schneider , E. ( 1999 ) Functional consequences of mutations in the conserved ` signature sequence ' of the ATP-binding-cassette protein MalK . 
+Eur J Biochem 266 : 420 -- 430 . 
+Schmitt , L. , and Tampé , R. ( 2002 ) Structure and mechanism of ABC transporters . 
+Curr Opin Struct Biol 12 : 754 -- 760s . 
+Schneider , E. ( 2001 ) ABC transporter catalyzing carbohydrate uptake . 
+Res Microbiol 152 : 303 -- 310 . 
+Schneider , E. ( 2003 ) Import of solutes by ABC transportersthe maltose and other systems . 
+In ABC Proteins : From Bacteria to Man . 
+Holland , E.B. , Cole , S. , Kuchler , K. , and Higgins C. ( eds ) . 
+New York : Academic Press , pp. 157 -- 185 . 
+Schneider , E. , and Hunke , S. ( 1998 ) ATP-binding-cassette ( ABC ) transport systems : functional and structural aspects of the ATP-hydrolyzing subunits/domains . 
+FEMS Microbiol Rev 22 : 1 -- 20 . 
+Sharff , A.J. , Rodseth , L.E. , Spurlino , J.C. , and Quiocho , F.A. ( 1992 ) Crystallographic evidence of a large ligand-induced hinge-twist motion between the two domains of the malto-dextrin binding protein involved in active transport and chemotaxis . 
+Biochemistry 31 : 10657 -- 10663 . 
+Szmelcman , S. , Sassoon , N. , and Hofnung , M. ( 1997 ) Resi-dues in the a helix 7 of the bacterial maltose binding protein which are important in interactions with the Mal FGK2 complex . 
+Protein Sci 6 : 628 -- 636 . 
+Tapia , M.I. , Mourez , M. , Hofnung , M. , and Dassa , E. ( 1999 ) Structure-function study of MalF protein by random mutagenesis . 
+J Bacteriol 181 : 2267 -- 2272 . 
+Treptow , N.A. , and Shuman , H.A. ( 1988 ) Allele-speciﬁc mutations that restore interactions between maltose-binding protein and the inner-membrane components of the maltose transport system . 
+J Mol Biol 202 : 809 -- 822 .

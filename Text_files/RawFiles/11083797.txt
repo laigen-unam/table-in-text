@@ -1,0 +1,708 @@
+INFECTION AND IMMUNITY , Dec. 2000 , p. 6790 -- 6797 0019-9567 / 00 / $ 04.0010 
+Copyright © 2000 , American Society for Microbiology . 
+All Rights Reserved . 
+Regulation of Salmonella enterica Serovar Typhimurium Invasion Genes by csrA
+CRAIG ALTIER , * MITSU SUYEMOTO , AND SARA D. LAWHON Department of Microbiology , Pathology , and Parasitology , College of Veterinary Medicine , North Carolina State University , Raleigh , North Carolina 27606 
+Received 28 July 2000/Accepted 14 September 2000 
+Penetration of intestinal epithelial cells by Salmonella enterica serovar Typhimurium requires the expression of invasion genes , found in Salmonella pathogenicity island 1 ( SPI1 ) , that encode components of a type III secretion apparatus . 
+These genes are controlled in a complex manner by regulators within SPI1 , including HilA and InvF , and those outside SPI1 , such as the two-component regulators PhoP/PhoQ and BarA/SirA . 
+We report here that epithelial cell invasion requires the serovar Typhimurium homologue of Escherichia coli csrA , which encodes a regulator that alters the stability of speciﬁc mRNA targets . 
+A deletion mutant of csrA was unable to efﬁciently invade cultured epithelial cells and showed reduced expression of four tested SPI1 genes , hilA , invF , sipC , and prgH . 
+Overexpression of csrA from an induced araBAD promoter also negatively affected the expression of these genes , indicating that CsrA can act as both a positive and a negative regulator of SPI1 genes and suggesting that the bacterium must tightly control the level or activity of CsrA to achieve maximal invasion . 
+We found that CsrA affected hilA , a regulator of the other three genes we tested , probably by controlling one or more genetic elements that regulate hilA . 
+We also found that both the loss and the overexpression of csrA reduced the expression of two regulators of hilA , hilC and hilD , suggesting that csrA exerts its control of hilA through one or both of these regulators . 
+We further found , however , that CsrA could affect the expression of both invF and sipC independent of its effects on hilA . 
+One additional striking phenotype of the csrA mutant , not observed in a comparable E. coli mutant , was its slow growth . 
+Phenotypic revertants that had normal growth rates , while maintaining the csrA mutation , were common . 
+These suppressed strains , however , did not recover the ability to invade cultured cells , indicating that the csrA-mediated loss of invasion can not be attributed simply to poor growth and that the growth and invasion deﬁcits of the csrA mutant arise from effects of CsrA on different targets . 
+An early step in the pathogenesis of Salmonella infection is bacterial penetration of intestinal epithelium . 
+Many of the genes required for epithelial penetration are found within Sal-monella pathogenicity island 1 ( SPI1 ) , a 40-kb region located at centisome 63 ( 6 , 18 , 20 , 24 , 31 , 37 , 44 ) . 
+These invasion genes encode the components and substrates of a type III secretion apparatus that exports signaling molecules to the bacterial surface and into adjacent eukaryotic cells . 
+The signaling mol-ecules then induce in these cells cytoskeletal changes that lead to bacterial engulfment ( 11 , 17 , 26 , 27 , 34 , 35 , 46 , 58 ) . 
+Regulation of SPI1 genes is complex . 
+Oxygen tension , pH , osmolarity , and growth phase have all been shown to alter invasion gene expression ( 5 , 16 , 19 , 36 , 42 ) . 
+Much of the response to these conditions is mediated by HilA , a SPI1 regulator of the OmpR/ToxR family ( 4 , 5 ) . 
+Among the targets of HilA are other invasion genes , including invF , which encodes a regulator of the AraC family ( 32 ) . 
+HilA and InvF have overlapping , but not identical , sets of targets , both inside and outside SPI1 ( 2 , 13 , 14 , 28 ) . 
+Within SPI1 , both regulators control the sip operon , but they may do so independently using alternative promoters ( 13 , 14 ) . 
+HilA , in turn , is subject to multiple controls . 
+Two SPI1 regulators control hilA : hilD and hilC ( also known as sirC and sprA ) . 
+A mutant of the former is deﬁcient in invasion , while the role of the latter has been inferred from its effects by overexpression ( 15 , 30 , 50 ) . 
+Regulators outside SPI1 also control invasion genes . 
+A constitutively active mutant of 
+* Corresponding author . 
+Mailing address : College of Veterinary Medicine , North Carolina State University , 4700 Hillsborough St. , Raleigh , NC 27606 . 
+Phone : (919) 513-6274 . 
+Fax : (919) 513-6455 . 
+Email : craig_altier@ncsu.edu . 
+phoQ represses hilA ( 4 ) . 
+Since the PhoP/PhoQ two-component regulator is normally activated by low magnesium concentration ( 21 , 23 ) , invasion might be repressed by PhoP/PhoQ in response to the extracellular level of magnesium . 
+The BarA / SirA two-component regulator activates hilA expression and can also activate invF independently of HilA ( 3 , 30 , 47 ) . 
+The environmental signal to which this latter regulator responds is not known . 
+An unusual method of gene regulation is that achieved by the csrA/B system . 
+Originally identiﬁed in Escherichia coli , it consists of a protein , CsrA , and an untranslated RNA , CsrB , and controls such diverse properties as carbohydrate biosynthesis , motility , and bacterial surface characteristics ( reviewed in reference 49 ) . 
+The mechanism by which csrA/B functions is known for the control of glycogen biosynthesis . 
+CsrA binds to the glgCAP mRNA and enhances its degradation , thus acting as a negative regulator of glycogen production ( 40 ) . 
+CsrB binds approximately 18 to 20 CsrA molecules , presumably titrating the protein and acting as a positive regulator . 
+Thus , gene regulation is achieved by altering the concentration of free CsrA ( 38 , 57 ) . 
+A similar system also exists in the plant patho-gen Erwinia carotovora , where the csrA and - B homologues , rsmA and - B , control the expression of secreted virulence proteins pectate lyase , polygalacturonase , cellulase , and protease ( 12 , 41 , 45 ) , and in Pseudomonas ﬂuorescens , where rsmA controls extracellular protease and hydrogen cyanide synthesis ( 8 ) . 
+CsrA homologues have been identiﬁed in a number of other bacterial species as well , suggesting that alteration of message stability provides a widely used means of gene regulation ( 49 ) . 
+We have previously investigated the effect of csrB on invasion gene expression in Salmonella enterica serovar Typhimu-rium ( 3 ) . 
+Although not required for the invasion of cultured epithelial cells , csrB is necessary for maximal expression of SPI1 genes , implying that CsrA inhibits invasion gene expression . 
+Here we examine the effects of csrA on invasion . 
+Paradoxically , we ﬁnd that the loss of csrA reduces invasion and invasion gene expression . 
+Further , we show that this positive regulation by CsrA has both HilA-dependent and HilA-inde-pendent routes , and we show that CsrA regulates genes above hilA in the regulatory pathway . 
+We also ﬁnd that a csrA mutant has a severe growth defect , a phenotype not found in a csrA mutant of E. coli . 
+679 
+Plasmids pBAD18 pCA114 pFF584 pCA132 pCA71 pVV214 pLS31 pLS79 
+Cloning vector with arabinose-inducible araBAD promoter ; Apr csrA under P r araBAD control on pBAD18 ; Ap Cloning vector with pSC101 origin ; Strr Spr 0.7-kb csrA fragment on pFF584 ; Strr Spr csrB on pBAD30 ; Apr hilA expressed from neo promoter on pACYC177 ; Apr hilA : : lacZY operon fusion with 2497 to 1420 of hilA ; Tcr hilA : : lacZY operon fusion with 239 to 1420 of hilA ; Tcr 
+25 
+This work 3 This work 3 4 50 50 
+MATERIALS AND METHODS
+Bacterial strains and genetic techniques . 
+Strains and plasmids used in this study are shown in Table 1 . 
+All strains are derivatives of ATCC 14028s , and strains containing multiple genetic elements were constructed by sequential P22 transductions ( 53 ) . 
+Transductions involving the lacZY operon fusion element , which is carried on a nondisabled transposon , were veriﬁed by PCR using one primer in lacZ and the other primer in the fused gene . 
+Random lacZY fusions were created by transduction of the hilA : : lacZY fusion , marked by tetracycline resistance , into a hilA339 : : Kan strain , maintaining selection for both tetracycline and kanamycin . 
+In this way , new transposon insertions were selected . 
+Four such fusions producing varying shades of blue on X-Gal ( 5-bromo-4-chloro-3-indolyl-b-D-galactopyranoside ) were moved by P22 transduction into a wild-type strain and then used to test the speciﬁcity of csrA regulation . 
+Recombinant DNA techniques . 
+Serovar Typhimurium csrA was ampliﬁed from the chromosome of ATCC 14028s by using the primers 59-GGAATTCGGTCA GCGCAAAATTG-39 and 59-CGGGATCCGCGTCTCACTTTTCGG-39 . 
+These primers were derived from the unﬁnished S. enterica serovar Typhi sequence and were predicted to ﬂank csrA , based on homology to E. coli ( preliminary sequence data were obtained from The Institute for Genomic Research website at http : / / www.tigr.org ) . 
+The resulting fragment was cloned into pBluescript II ( Stratagene ) and sequenced using an ABI automated sequencer . 
+The D ( csrA ) : : Cam mutant was created by ﬁrst PCR amplifying two fragments that ﬂank csrA in the serovar Typhimurium chromosome . 
+The primers 59-GGA ATTCGGTCAGCGCAAAATTG-39 and 59-CGGGATCCTTGAAAGATTAA AAGAGTCGG-39 amplify a 0.25-kb piece immediately upstream from csrA , creating EcoRI and BamHI ends ; primers 59-GCTCTAGACACTTCACGCTC AATTAGTCTG-39 and 59-CGGGATCCGCGTCTCACTTTTCGG-39 amplify a 0.2-kb piece immediately downstream from csrA , creating BamHI and XbaI ends . 
+These two fragments were sequentially cloned adjacent to each other in pBluescript II . 
+The resulting plasmid was then cut with BamHI , and a chloram phenicol resistance marker ( Cam ) with BamHI ends was inserted between the fragments . 
+The entire piece , containing the marker and ﬂanking fragments , was next cloned into the allele-exchange vector pKAS32 , using KpnI and XbaI ( 52 ) . 
+A spontaneous streptomycin-resistant derivative of ATCC 14028s was transformed with this plasmid , and the csrA deletion was inserted into the chromosome as described elsewhere ( 52 ) , creating a deletion of csrA and including 7 bp 59 and 4 bp 39 of the open reading frame ( ORF ) . 
+The mutation was moved into the wild-type strain by P22 transduction , and deletion of csrA was conﬁrmed by Southern blotting . 
+pCA132 carries a 0.7-kb fragment including csrA and ; 0.25 kb of upstream DNA that was ampliﬁed from the chromosome of ATCC 14028s by using the primers 59-GGAATTCGGTCAGCGCAAAATTG-39 and 59-GCTCTAGACAC TTCACGCTCAATTAGTCTG-39 . 
+It was cloned into pFF584 ( 3 ) , a lacI deriv-ative of pMS421 ( 22 ) , and the plasmid was maintained by growth in streptomycin and spectinomycin . 
+pCA114 carries csrA without upstream sequence and under the control of the araBAD promoter on plasmid pBAD18 ( 25 ) . 
+csrA was ampliﬁed using the primers 59-GGAATTCAAGGAGCAAAGAATGCTG-39 and 59-GCTCTAGACACTTCACGCTCAATTAGTCTG-39 and was cloned into pBAD18 cut with EcoRI and XbaI . 
+Media and growth conditions . 
+LB broth buffered with 100 mM HEPES to pH 8 was used throughout , and cultures were grown standing at 37 °C except where noted . 
+Antibiotics , when included for plasmid maintenance , were added at the following concentrations : ampicillin , 100 mg/ml ; streptomycin , 20 mg/ml ; spectinomycin , 100 mg/ml ; and tetracycline , 25 mg/ml . 
+For all assays that included the D ( csrA ) : : Cam mutant , cultures to be compared were grown to similar densities ( optical densities at 600 nm [ OD600 ] of 0.4 to 0.7 ) , csrA1 strains for 12 h , csrA strains for 48 h , and suppressed csrA strains for 20 h. Glucose or arabinose was added at 0.5 % for testing the arabinose-induced expression of csrA on pCA114 . 
+Invasion assays . 
+HEp-2 cells were grown in 24-well plates for 3 days in RPMI 1640 with 5 % fetal calf serum . 
+Approximately 106 bacteria were added to cells , for a multiplicity of infection of about 10 bacteria/cell . 
+Plates were then centri-fuged for 10 min at 800 3 g and incubated for 1 h at 37 °C in 95 % air -- 5 % CO . 
+2 Medium was removed , the cells were washed three times with phosphate-buff-ered saline , and the medium was replaced by medium supplemented with gentamicin ( 20 mg/ml ) . 
+Cells were incubated for an additional hour , the medium was removed , and monolayers were washed three times with phosphate-buffered saline . 
+The cells were lysed with 1 % Triton X-100 for 5 min , and the bacterial titers of the lysates were determined by colony counts . 
+Each bacterial culture was tested in quadruplicate , and results were expressed as percentage of inoculum surviving gentamicin treatment . 
+b-Galactosidase and growth assays . 
+b-Galactosidase assays were performed as described elsewhere ( 43 ) . 
+Every strain was assayed at least in triplicate . 
+For growth experiments , strains were grown standing overnight and then diluted 1:150 into fresh medium . 
+Strains were grown in triplicate with aeration at 37 °C , and growth was assessed by culture density ( OD600 ) . 
+Northern analysis . 
+For RNA isolation , strains were grown with aeration to an OD600 of > 1 . 
+Strains with pCA114 and pBAD18 were grown with ampicillin and 0.5 % arabinose . 
+Total bacterial RNA was then isolated using an RNeasy Midi kit ( Qiagen ) according to the directions of the manufacturer . 
+Equal amounts of RNA were loaded into each well of an agarose-formaldehyde gel ( 9.5 mg for hilC ; 2.5 mg for all others ) , and Northern blotting was performed as described elsewhere ( 9 ) . 
+Probes were prepared by amplifying fragments internal to ORFs using a PCR digoxigenin probe synthesis kit ( Boehringer Mannheim ) . 
+For hilC , the primers 59-CTTCAACAGCCGAACAAATTTC-39 and 59-CTCGCTCAAGGA AATCAAACC-39 amplify a 510-bp fragment ; for hilD , the primers 59-AGCAG GTTACCATCAAAAATCTTTATG-39 and 59-TGAGCCGAGCTAAGGATG ATC-39 amplify a 509-bp fragment . 
+Detection was performed according to the manufacturer 's directions , using chemiluminescence and a Lumi-Imager ( Boehringer Mannheim ) . 
+Statistical analysis . 
+For b-galactosidase and invasion results , a one-way analysis of variance was used to determine whether the mean of at least one strain differed from that of any of the others . 
+Then multiple comparison tests ( least squares differences t test at a P of # 0.05 ) were used to determine which means differed ( SAS System for Windows 7.0 ) . 
+Nucleotide sequence accession number . 
+The nucleotide sequence of serovar Typhimurium csrA has been deposited with GenBank under accession number AF203976 . 
+ATCC 14028s CA614 CA678 EE630 EE631 EE636 EE658 CA701 RM5385 RM5387 RM5938 CA702 CA620 CA621 CA622 CA704 CA684 CA707 CA686 VV114 RM6373 RM6376 CA728 RM6377 CA733 RM6378 CA743 SVM725 CA735 CA736 RM6375 RM6380 RM6381 RM6382 RM6383 
+American Type Culture Collection This work This work 29 29 5 5 This work 3 3 3 This work This work This work This work This work This work This work This work 29 3 3 This work 3 This work 3 This work 13 This work This work R. Maurer R. Maurer R. Maurer R. Maurer R. Maurer 
+Wild type D ( csrA ) : : Cam 
+D ( csrA ) : : Cam sup8 ; spontaneous suppressor of csrA F ( invF9-lacZY1 ) ; same as invF : : lacZY11-5 F ( sipC9-lacZY1 ) ; same as sspC : : lacZY11-6 F ( prgH9-lacZY1 ) ; same as prgH : : lacZY-020 F ( hilA9-lacZY1 ) ; same as hiIA : : lacZY-080 F ( invF9-lacZY1 ) in ATCC 14028s F ( sipC9-lacZY1 ) in ATCC 14028s F ( prgH9-lacZY1 ) in ATCC 14028s F ( hilA9-lacZY1 ) in ATCC 14028s D ( csrA ) : : Cam F ( invF9-lacZY1 ) D ( csrA ) : : Cam F ( sipC9-lacZY1 ) D ( csrA ) : : Cam F ( prgH9-lacZY1 ) D ( csrA ) : : Cam F ( hilA9-lacZY1 ) D ( csrA ) : : Cam sup8 F ( invF9-lacZY1 ) D ( csrA ) : : Cam sup8 F ( sipC9-lacZY1 ) D ( csrA ) : : Cam sup8 F ( prgH9-lacZY1 ) D ( csrA ) : : Cam sup8 F ( hilA9-lacZY1 ) hilA339 : : Kan ; same as hilA : : Kan-339 hilA339 : : Kan in ATCC 14028s hilA339 : : Kan F ( invF9-lacZY1 ) hilA339 : : Kan D ( csrA ) : : Cam F ( invF9-lacZY1 ) hilA339 : : Kan F ( sipC9-lacZY1 ) hilA339 : : Kan D ( csrA ) : : Cam F ( sipC9-lacZY1 ) hilA339 : : Kan F ( prgH9-lacZY1 ) hilA339 : : Kan D ( csrA ) : : Cam F ( prgH9-lacZY1 ) DinvF F ( sipC9-lacZY1 ) ; in-frame deletion of invF DinvF F ( sipC9-lacZY1 ) DinvF D ( csrA ) : : Cam F ( sipC9-lacZY1 ) ara9 ; arabinose auxotroph ara9 F ( invF9-lacZY1 ) ara9 , F ( sipC9-lacZY1 ) ara9 F ( prgH9-lacZY1 ) ara9 F ( hilA9-lacZY1 ) 
+growth defect 
+Plasmids pBAD18 pCA114 pFF584 pCA132 pCA71 pVV214 pLS31 pLS79 
+Cloning vector with arabinose-inducible araBAD promoter ; Apr csrA under P r araBAD control on pBAD18 ; Ap Cloning vector with pSC101 origin ; Strr Spr 0.7-kb csrA fragment on pFF584 ; Strr Spr csrB on pBAD30 ; Apr hilA expressed from neo promoter on pACYC177 ; Apr hilA : : lacZY operon fusion with 2497 to 1420 of hilA ; Tcr hilA : : lacZY operon fusion with 239 to 1420 of hilA ; Tcr 
+25 
+This work 3 This work 3 4 50 50 
+FIG. 1 . 
+Effect of csrA on bacterial growth . 
+Strains were grown with aeration 1 in LB broth buffered with HEPES to pH 8 . 
+The csrA plasmid used was pCA132 . 
+Values represent mean and standard error for strains tested in triplicate . 
+RESULTS
+Growth defect of the csrA mutant . 
+In previous work , we showed that loss of the regulatory RNA CsrB decreased the expression of a number of SPI1 genes , while multicopy expression of E. coli csrA in serovar Typhimurium had more pronounced repressive effects on these same genes . 
+This suggested that CsrA acts as a negative regulator of invasion and that CsrB antagonizes that effect ( 3 ) . 
+To directly study the role of csrA in the control of invasion genes , we ﬁrst cloned serovar Typhimurium csrA from the chromosome of the wild-type strain , ATCC 14028s . 
+The gene and adjacent sequence were ampliﬁed using primers predicted to ﬂank csrA , based on homology to E. coli . 
+Sequence analysis showed the predicted amino acid sequence of serovar Typhimurium CsrA to be identical to that of E. coli ( GenBank accession numbers AF203976 and L07596 , respectively ) . 
+We next created a precise chromosomal deletion-substitu-tion mutant in which the entire csrA ORF was replaced by a chloramphenicol resistance marker . 
+The inserted marker was found to be linked to recA by P22 transduction , placing csrA near centisome 63 , analogous to its position in E. coli and outside SPI1 . 
+Surprisingly , the most distinctive phenotype of the D ( csrA ) : : Cam mutant was a severe growth defect , a characteristic not observed in a csrA mutant of E. coli ( 48 ) . 
+Poor growth , which was apparent both on solid and in liquid media , is illustrated in Fig. 1 for LB broth . 
+This defect was fully complemented by plasmid pCA132 , which carries csrA under the control of its native promoter on a low-copy-number vector ( approximately ﬁve copies per bacterium ) . 
+Although growth of the D ( csrA ) : : Cam mutant was initially very poor , some cultures achieved densities comparable to those of the wild type after overnight aerated growth . 
+This change in growth rate almost certainly represents the accumulation of suppressor mutations ( discussed further below ) rather than an authentic csrA phenotype . 
+There was great variation among replicate cultures ( note the large error bar at 24 h in Fig. 1 ) , and a large proportion of clonal isolates obtained from the later time points of these experiments continued to grow faster when subcultured ( data not shown ) . 
+We further noted that suppressors were uncommon in cultures grown without aeration and to low density ( OD600 of 0.4 to 0.7 ) , presumably because the disparity between the growth rates of the csrA mutant and its suppressed derivatives was not as great . 
+Under these conditions , suppressors accounted for less than 0.2 % of the bacterial population . 
+Therefore , to ensure that suppressors did not obscure the effects of csrA loss , we grew bacteria for assays described in this work as standing cultures with optical densities of less than 0.7 csrA affects invasion . 
+We next tested the effect of csrA on epithelial cell invasion . 
+Since csrB functions as a positive regulator of invasion gene expression , and multicopy expression of E. coli csrA in serovar Typhimurium reduces both invasion and expression of SPI1 genes ( 3 ) , the loss of csrA might be expected to increase invasion . 
+This , however , was not the case ; invasion of cultured HEp-2 cells by the mutant was 1,000-fold lower than the wild-type level ( Table 2 ) . 
+Invasion was complemented to the level of the wild type by csrA expressed from pCA132 . 
+To examine the cause of this invasion defect , we tested the expression of four SPI1 genes , hilA , invF , sipC , and prgH , using chromosomal lacZY fusions ( 5 , 29 ) . 
+hilA encodes a regulator of the other three genes ( 4 ) , and InvF is a regulator of sipC ( 13 , 14 ) . 
+The product of sipC is secreted ( 29 , 33 ) , while the prgH product is required for the secretion of Sip proteins ( 35 ) . 
+In all cases , expression of these fusions was signiﬁcantly decreased in the csrA mutant ( Table 2 ) . 
+The reduction ranged from 10-fold ( for hilA ) to 56-fold ( for invF ) . 
+This effect also proved to be speciﬁc for invasion genes ; expression of several random fusions was not altered by the loss of csrA ( not shown ) . 
+Expression of csrA from pCA132 completely complemented the expression of the SPI1 genes in the csrA mutant . 
+Extragenic suppression of the growth defect . 
+Expression of invasion genes has been shown to depend on bacterial growth phase ( 16 , 42 ) . 
+Although all assays described here used cultures grown to similar densities , we considered the possibility that loss of invasion gene expression was due to the poor growth of the D ( csrA ) : : Cam strain . 
+To study this , we isolated suppressor mutants having improved growth . 
+These suppressors commonly appeared during aerated growth in broth or upon plating bacteria at high density on solid media . 
+One such suppressor , represented by sup8 , appears to enter log phase later than the wild type when grown in aerated cultures but then achieves similar doubling times ( Fig. 1 ) . 
+When tested for its ability to invade HEp-2 cells , however , the suppressed strain invaded as poorly as did the unsuppressed D ( csrA ) : : Cam mutant ( Table 2 ) . 
+Similarly , sup8 did not restore expression of any of the four SPI1 genes tested . 
+To ensure that the suppressor mutation itself had no effect on invasion , we complemented the sup8 strain with wild-type csrA on pCA132 . 
+This plasmid fully restored both invasion and invasion gene expression , indicating that the suppressor did not confer an invasion defect ( Table 2 ) . 
+Taken together , these results show ( i ) that the loss of invasion gene expression in the D ( csrA ) : : Cam mutant can not be attributed to its poor growth and ( ii ) that the csrA-mediated effects on growth and invasion are separable and thus at some level require effects on different target genes . 
+Overexpression of csrA . 
+To test the effect of csrA overexpression on SPI1 genes , we expressed csrA from pCA114 , which carries csrA under the control of the arabinose-inducible araBAD promoter , in an ara-mutant strain . 
+Consistent with our previous results using E. coli csrA , overexpression of serovar 
+Typhimurium csrA using 0.5 % arabinose caused a signiﬁcant 2-to 12-fold decrease in expression of invasion genes compared to the same strains grown in glucose , which represses the araBAD promoter ( Fig. 2 ) . 
+Neither sugar affected any of the fusions in the absence of pCA114 or with the control plasmid pBAD18 ( not shown ) . 
+These results , together with those from the D ( csrA ) : : Cam mutant , show that CsrA can play both positive and negative regulatory roles in the control of invasion genes and suggest that the level of CsrA must be tightly controlled to maximize invasiveness . 
+Role of csrA in the invasion gene regulation pathway . 
+One gene under the control of csrA is hilA , a regulator of other SPI1 genes . 
+To determine whether the effect of CsrA on hilA was direct , we used two plasmids , pLS31 and pLS79 , that have identical transcriptional fusions of hilA to lacZY but differ in the amount of upstream sequence they carry ( 50 ) . 
+The fusion in pLS31 extends to position 2497 , including the upstream regulatory region , placing it under the control of genetic and environmental elements that regulate hilA . 
+The pLS79 fusion reaches only to position 239 , making fusion expression constitutive . 
+The hilA transcription start sites on these two plasmids are identical to each other and to that of chromosomal hilA . 
+Since CsrA is predicted to work at the level of message stability , and the messages are the same , a direct action of CsrA on the hilA-lacZ fusion message would affect b-galacto-sidase expression from the two plasmids equally . 
+If , however , CsrA degrades the message of a gene upstream from hilA in the regulatory pathway , it should affect hilA expression from only pLS31 . 
+We found that the loss of csrA greatly ( 28-fold ) diminished fusion expression from pLS31 but had only a small effect ( an approximately 30 % decrease ) on pLS79 ( Fig. 3 ) . 
+As expected , the overexpression of csrA from pCA132 also reduced the expression of the fusion , and did so more strongly in pLS31 than in pLS79 . 
+We further examined the effects of indirectly manipulating CsrA levels by altering the expression of csrB . 
+We used a D ( csrB ) : : Kan mutant , in which free CsrA should increase , and a strain overexpressing csrB from pCA71 , in which more CsrA should be bound to CsrB and thus inactive . 
+In both cases , we found that expression from pLS31 was reduced ( threefold for csrB loss and twofold for overexpression ) , while that from pLS79 was affected only slightly . 
+Therefore , if CsrA works posttranscriptionally in serovar Typhimurium as it does in E. coli , by altering message stability , these results suggest that the primary effect of CsrA on hilA is indirect , through the control of a gene or genes that control hilA . 
+The small effects of csrA on pLS79 might mean that CsrA can interact directly with hilA message as well ; alternatively , they might suggest that pLS79 maintains a partial binding site for one or more transcriptional regulators under the control of CsrA . 
+To further examine the control of hilA by CsrA , we tested the effects of csrA loss and overexpression on the known regulators of hilA . 
+HilD , a member of the AraC/XylS family of transcriptional regulators , derepresses hilA . 
+Since its action requires the region upstream from the hilA promoter , it is postulated to directly activate hilA transcription ( 50 ) . 
+We examined ﬁrst the effects of csrA loss on hilD expression using Northern analysis . 
+Because the D ( csrA ) : : Cam mutant grows so poorly , making RNA isolation from unsuppressed strains dif-ﬁcult , we used for these experiments the D ( csrA ) : : Cam sup8 derivative , shown above to express invasion genes identically to the unsuppressed strain . 
+A speciﬁc hilD message of approximately 1.2 kb was observed for the wild-type strain ( Fig. 4 ) but was absent in the D ( csrA ) : : Cam sup8 strain , indicating that csrA is required for the expression of hilD . 
+We next tested the effect of csrA overexpression on this same message . 
+When csrA was expressed from pCA114 , under the control of the arabinose-inducible araBAD promoter , in a strain grown in arabinose , no message could be detected . 
+However , an isogenic strain grown under the same conditions , but carrying only the pBAD18 vector without csrA , produced an obvious 1.2-kb band . 
+These results show that csrA controls hilD and , similar to its effects on downstream invasion genes , can act as both a positive and a negative regulator of hilD . 
+We next examined hilC message . 
+Similar to HilD , HilC is an activator of hilA of the AraC/XylS family ( 50 ) . 
+When probed for hilC message , the wild type produced three distinct bands of approximately 1.0 to 1.4 kb , but these bands were absent from the D ( csrA ) : : Cam sup8 strain ( Fig. 4 ) . 
+When csrA was overexpressed from pCA114 , the bands were also absent but were present in the isogenic strain carrying pBAD18 . 
+These results , taken together , show that either too much or too little CsrA reduces the expression of both hilD and hilC and further suggest that the action of CsrA on hilA is indirect , through its control of hilD and hilC . 
+We tested three additional regulators of hilA for control by CsrA and found the message levels of none of these genes ( sirA , barA , and phoP ) to be affected by either loss or overexpression of csrA ( data not shown ) . 
+Within SPI1 , both HilA and InvF control the sip operon ( 13 , 14 ) . 
+HilA directly stimulates sip expression and also does so indirectly , by increasing InvF , which in turn activates sip , probably through the use of an alternative promoter ( 13 ) . 
+Thus , the control of sip by HilA has both invF-dependent and - indepen-dent components . 
+We found CsrA to exhibit this same pattern of control over sip ( Table 3 ) . 
+An in-frame deletion of invF reduced expression of the sipC fusion 13-fold . 
+Expression was , however , additionally reduced an average of 11-fold in the DinvF D ( csrA ) : : Cam double mutant . 
+This reduction shows that at least some portion of the control of sip by CsrA does not require InvF . 
+One possible conclusion from the above results is that CsrA controls invasion genes solely by its effects through hilA . 
+CsrA , however , might additionally exert control of invasion genes independently of hilA . 
+To test this possibility , we examined the effect of csrA on sipC , invF , and prgH expression in a hilA mutant strain and in a strain that constitutively expresses hilA from plasmid pVV214 ( 4 ) . 
+If CsrA works only by controlling hilA , it should have no effect in either case , since in the former HilA is absent and in the latter its level remains constant . 
+As shown in Table 3 , the loss of hilA alone reduced expression of these three fusions 12 - to 13-fold . 
+Expression of sipC and invF , however , was further reduced in strains containing both the D ( csrA ) : : Cam and hilA339 : : Kan mutations ( six-fold for sipC and fourfold for invF ) . 
+This shows that csrA has positive regulatory effects on sipC and invF even in the absence of HilA and so can regulate these genes independently of its role in controlling hilA . 
+Further , constitutive expression of hilA from pVV214 failed to completely suppress the effect of csrA on these two genes . 
+Expression of both sipC and invF was significantly lower in the D ( csrA ) : : Cam mutant with pVV214 than in the wild-type strain with the same plasmid , showing that a portion of csrA-mediated control is independent of hilA . 
+In contrast , expression of prgH in the D ( csrA ) : : Cam hilA339 : : Kan double mutant was indistinguishable from that in the hilA339 : : Kan mutant alone . 
+Similarly , constitutive hilA expression fully suppressed the effect of csrA on prgH . 
+Thus , unlike the case for sipC and invF , the control of prgH by csrA appears to function solely through hilA . 
+TABLE 2 . 
+Invasion and invasion gene expression b-Galactosidasea ( Miller units ) F ( invF9-lacZY1 ) F ( prgH9-lacZY1 ) 1,400 6 60 890 6 24 25 6 1 72 6 3 2,000 6 60 1,200 6 18 15 6 2 34 6 2 1,500 6 3 920 6 10 
+% Invasionb 
+F ( hilA9-lacZY1 ) 280 6 14 29 6 0 460 6 12 21 6 1 440 6 24 
+F ( sipC9-lacZY1 ) 
+Wild type D ( csrA ) : : Cam 
+3.0 6 0.67 
+2,700 6 110 200 6 9 4,200 6 160 73 6 6 3,800 6 370 
+0.003 6 0.001 3.3 6 0.28 0.019 6 0.006 7.8 6 1.1 
+D ( csrA ) : : Cam/csrA1c D ( csrA ) : : Cam sup8 D ( csrA ) : : Cam sup8/csrA1c 
+a Mean and standard error for strains tested at least in triplicate . 
+b Mean and standard error for strains tested at least in quadruplicate . 
+c The plasmid used was pCA132 . 
+FIG. 2 . 
+Effect of csrA overexpression on invasion gene expression . 
+csrA was expressed under the control of the araBAD promoter on plasmid pCA114 in the ara9 strain background . 
+Arabinose or glucose was added to a ﬁnal concentration of 0.5 % to induce or repress , respectively , csrA expression . 
+Values represent mean and standard error for strains tested in triplicate 
+FIG. 3 . 
+Control of hilA expression by csrA . 
+pLS31 and pLS79 carry transcriptional lacZY fusions to hilA . 
+pLS31 has positions 2497 to 1420 of hilA , and pLS79 has positions 239 to 1420 of hilA . 
+pCA132 expresses csrA , and pCA71 expresses csrB . 
+Values represent mean and standard error for strains tested in triplicate . 
+FIG. 4 . 
+Regulation of hilD and hilC by csrA . 
+Northern analysis was performed using equal amounts of total bacterial RNA prepared from each of four strains and probes generated from hilD or hilC . 
+pCA114 carries csrA under the control of the araBAD promoter on pBAD18 . 
+Strains with both plasmids were grown with 0.5 % arabinose added to the medium for promoter induction 
+TABLE 3 . 
+csrA-mediated regulation of invF , sipC , and prgH a b-Galactosidase ( Miller units ) 
+F ( sipC9-lacZY1 ) F ( invF9-lacZY1 ) F ( prgH9-lacZY1 ) 
+Wild type 2,700 6 110 1,400 6 60 890 6 24 D ( csrA ) : : Cam 200 6 9 25 6 1 72 6 3 DinvF 200 6 5 DinvF D ( csrA ) : : Cam 18 6 0 hilA339 : : Kan 200 6 10 120 6 3 3 6 0 hilA339 : : Kan D ( csrA ) : : Cam 32 6 11 32 6 5 2 6 0 Wild type/hilA1b 4,700 6 61 1,800 6 24 1,300 6 7 D ( csrA ) : : Cam/hilA1b 870 6 120 500 6 19 1,400 6 210 a Mean and standard error for strains tested at least in triplicate . 
+b The plasmid used was pVV214 . 
+DISCUSSION
+The csrA/B regulatory system globally affects E. coli by altering the stability of a variety of speciﬁc mRNA targets . 
+CsrA enhances message degradation , whereas the regulatory RNA CsrB binds to CsrA , sequestering it and thus antagonizing its effect ( 38 ) . 
+Here we identify two new roles for CsrA in S. enterica serovar Typhimurium , control over growth and control of SPI1 invasion genes . 
+The ﬁnding of a growth defect in the csrA mutant was surprising : it was unexpected that these two closely related species would differ in their control of a process as fundamental as growth . 
+Additionally , our previous work with serovar Typhimurium strains that overproduce CsrB showed them to grow normally ( 3 ) . 
+It has recently been reported that a csrA rpoS strain of E. coli grows poorly in media containing acetate and that suppressors are mutants of glycogen biosynthesis ( 54 ) . 
+None of the suppressors that we have isolated in the serovar Typhimurium csrA mutant , however , fall into this class ( not shown ) . 
+One possible explanation for the growth defect is that in serovar Typhimurium , additional genes have come under the control of csrA , the inappropriate expression of which is detrimental to growth . 
+Several pathogenicity islands , including SPI1 , could represent potential new targets of csr regulation , since they are present in Salmonella but not in E. coli ( 7 , 44 , 51 , 55 , 56 ) . 
+However , none of the invasion gene mutations that we tested , of both regulators and effectors of the type III secretion apparatus , affected growth of the csrA mutant , showing that inappropriate expression of at least these SPI1 genes can not account for the growth defect . 
+We show here that csrA positively regulates the expression of SPI1 genes . 
+CsrA controlled hilA , a regulator of the other SPI1 genes tested , and probably did so primarily by controlling regulators of hilA , including hilD and hilC . 
+CsrA was also required for expression of invF and sipC independent of HilA . 
+InvF is necessary for full expression of sipC , presumably by activating transcription of the sip operon ( 13 , 14 ) . 
+Thus , the simplest model for positive control of invasion genes by CsrA has a single regulator that controls both hilC/hilD and invF and , in turn , is controlled by CsrA ( Fig. 5 ) . 
+Alternatively , it is possible that CsrA independently affects hilC , hilD , hilA , invF , and sipC through the control of a number of genes in the regulatory pathway . 
+Since CsrA works by degrading messages , its target for positive control would likely be a repressor of invasion genes , exerting its effect by decreasing the half-life of the repressor message . 
+No repressor of invF has yet been identiﬁed , nor has the control of hilC or hilD been described . 
+Our results show that CsrA can also have negative effects on invasion gene expression . 
+The overexpression of csrA had repressive effects on SPI1 genes similar to the effects of a csrA null mutation . 
+Results obtained from overexpression experiments must be judged with caution , but the biological role of CsrA as a repressor is supported by the ﬁnding that its antagonist , CsrB , can activate SPI1 genes ( 3 ) . 
+These results raise the question of how CsrA can both activate and repress the same genes . 
+Such dual control could be achieved if the regulatory activity of CsrA were directly related to its effective concentration . 
+CsrA , for example , might have different afﬁnities for its various target messages . 
+During growth under conditions favorable to invasion , CsrA could reach a concentration sufﬁcient to affect only messages for which it had the highest afﬁnity , presumably including repressors of invasion genes . 
+Increasing the concentration of free CsrA , by either the loss of CsrB or the overexpression of CsrA , would lead to the control of additional genes for which it had lower afﬁnity , including those that stimulate invasion ( Fig. 5 ) . 
+Thus , lower concentrations of CsrA would lead to the degradation of repressor messages , while higher concentrations would cause degradation of both repressor and activator messages . 
+Maximal invasion would therefore be achieved with a low but constant level of CsrA . 
+Similarly , it is possible that CsrA has positive effects when it interacts with some cofactor , produced in limiting amounts , but negative effects when it does not . 
+Such control systems would provide a rapid and extremely sensitive means to alter invasion gene expression in response to environmental conditions by changing the concentration of CsrA , CsrB , or both . 
+Although all of the work described here examines the effects of CsrA by changing the level of csrA expression , it is possible that control is also achieved by altering CsrA activity . 
+The concentration and the activity of this regulator are presumably closely related , since production of more CsrA is a likely means to overcome CsrB binding and gain higher levels of active protein . 
+It is , however , possible that additional means exist to control CsrA by altering its activity independent of its concentration . 
+The regulatory RNA CsrB presumably prevents the interaction of bound CsrA with its target messages ( 38 ) . 
+It would therefore be expected that phenotypes caused by the loss of CsrA could be approximated by the overproduction of CsrB . 
+We have shown here , however , that a csrA mutant grew poorly and was unable to invade epithelial cells , while strains that overproduce CsrB did not exhibit these same phenotypes ( 3 ) . 
+It is clear that overexpression of CsrB is not equivalent to the complete loss of CsrA . 
+These seemingly conﬂicting ﬁndings imply that the concentration of CsrA required to affect the positive control of growth and of invasion is little changed by overproduced CsrB . 
+It is possible that the afﬁnity of CsrA for target messages in these pathways is much higher than its afﬁnity for CsrB , thus allowing some active CsrA to be present despite the increased concentration of CsrB . 
+It is also possible that the binding of CsrA to CsrB does not inactivate the protein ; CsrB-bound CsrA might still be able to bind target messages . 
+In this case , CsrB would not sequester CsrA , but each CsrB RNA would instead amass 18 to 20 CsrA molecules , effectively decreasing the CsrA concentration . 
+CsrA and CsrB have been integrated into the complex system of invasion gene regulation , but the means by which the expression of csrA and csrB is controlled is unknown . 
+It has recently been shown that in P. ﬂuorescens , GacA , the SirA homologue , and RsmA , the CsrA homologue , exhibit an opposing , postranscriptional control of genes that requires the same nucleotide sequence in the region of the ribosome binding site ( 8 ) . 
+It has been proposed that RsmA recognizes this site , allowing it to bind to and degrade speciﬁc messages , and that GacA exerts it control indirectly by either repressing rsmA or activating rsmB . 
+It has also been shown that the two compo-nent-regulator GacA/GacS controls the untranslated regulatory RNA PrrB , similar in structure to CsrB ( 1 ) . 
+In serovar Typhimurium , an analogous system of csr control would have the two-component regulator BarA/SirA repressing csrA or activating csrB . 
+In support of this , we found that multicopy expression of csrB completely suppressed the invasion defect of a barA null mutant . 
+It is unlikely , however , that BarA/SirA could work solely by activating csrB , since a barA mutant had a more severe invasion phenotype than did a csrB mutant ( 3 ) . 
+It remains possible , however , that the regulatory effects of BarA/SirA stem from repression of csrA . 
+Several environmental cues are also known to affect the expression of invasion genes , but it is not known which , if any , might be mediated through csr . 
+In E. coli , many csr-regulated genes are involved with carbohydrate biosynthesis , making nutrient status a candidate , but the environmental signals to which csr responds have not been identiﬁed ( 49 ) . 
+In Erwinia carotovora , secretion of virulence proteins under control of rsmA/B is also controlled by a quorum sensing mechanism ( 10 ) , suggesting that bacterial density or nutrient limitation could provide the signal . 
+In serovar Typhimurium , the integration of invasion genes into the csr control scheme could mean that any of the environmental signals that inﬂuence SPI1 gene expression , including pH , osmolarity , and growth phase , is the csr signal . 
+If so , bacterial exposure to the intestinal lumen would induce the expression of invasion genes at a time most productive for virulence . 
+FIG. 5 . 
+A model for regulation of SPI1 genes by CsrA . 
+Under conditions conducive to invasion , active CsrA concentration is kept low , either by decreased production or by binding to CsrB . 
+At this concentration , CsrA preferentially degrades a repressor ( heavy dashed line ) that affects hilC and hilD and independently invF . 
+For simplicity , positive control by CsrA is shown as resulting from the message degradation of a single repressor . 
+Alternatively , CsrA might have more than one target in the invasion gene regulation pathway . 
+Under invasionrepressing conditions , CsrA concentration increases , degrading the message of an activator that works through hilD and/or hilC , thus reducing the expression of invasion genes . 
+Solid arrows represent known routes of regulation ; dashed arrows show the hypothetical route of SPI1 gene control by CsrA 
+ACKNOWLEDGMENTS
+We thank Russ Maurer , Catherine Lee , and Virginia Miller for generous gifts of strains and plasmids , and we thank Heran Darwin for technical assistance . 
+We also thank Paul Orndorff , Russ Maurer , and Dorothy Debbie for critical review of the manuscript . 
+This work was supported by a CVM grant to C.A. 
+REFERENCES 
+1 . 
+Aarons , S. , A. Abbas , C. Adams , A. Fenton , and F. O'Gara . 
+2000 . 
+A regulatory RNA ( PrrB RNA ) modulates expression of secondary metabolic genes in Pseudomonas ﬂuorescens F113 . 
+J. Bacteriol . 
+182:3913 -- 3919 . 
+2 . 
+Ahmer , B. M. , J. van Reeuwijk , P. R. Watson , T. S. Wallis , and F. Heffron . 
+1999 . 
+Salmonella SirA is a global regulator of genes mediating enteropathogenesis . 
+Mol . 
+Microbiol . 
+31:971 -- 982 . 
+3 . 
+Altier , C. , M. Suyemoto , A. I. Ruiz , K. D. Burnham , and R. Maurer . 
+2000 . 
+Characterization of two novel regulatory genes affecting Salmonella invasion gene expression . 
+Mol . 
+Microbiol . 
+35:635 -- 646 . 
+4 . 
+Bajaj , V. , C. Hwang , and C. A. Lee . 
+1995 . 
+hilA is a novel ompR/toxR member that activates the expression of Salmonella typhimurium invasion genes . 
+Mol . 
+Microbiol . 
+18:715 -- 727 . 
+5 . 
+Bajaj , V. , R. L. Lucas , C. Hwang , and C. A. Lee . 
+1996 . 
+Coordinate regulation of Salmonella typhimurium invasion genes by environmental and regulatory factors is mediated by control of hilA expression . 
+Mol . 
+Microbiol . 
+22:703 -- 714 . 
+6 . 
+Behlau , I. , and S. I. Miller . 
+1993 . 
+A PhoP-repressed gene promotes Salmo-nella typhimurium invasion of epithelial cells . 
+J. Bacteriol . 
+175:4475 -- 4484 . 
+7 . 
+Blanc-Potard , A.-B. , and E. A. Groisman . 
+1997 . 
+The Salmonella selC locus contains a pathogenicity island mediating intramacrophage survival . 
+EMBO J. 16:5376 -- 5385 . 
+8 . 
+Blumer , C. , S. Heeb , G. Pessi , and D. Haas . 
+1999 . 
+Global GacA-steered control of cyanide and exoprotease production in Pseudomonas ﬂuorescens involves speciﬁc ribosome binding sites . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 96 : 14073 -- 14078 . 
+9 . 
+Brown , T. 1995 . 
+Analysis of RNA by Northern and slot blot hybridization , p. 4.9.1-4 .9.16 . 
+In F. M. Ausubel , R. Brent , R.E. Kingston , D. D. Moore , J. G. Seidman , J. A. Smith , and K. Struhl ( ed . ) 
+, Current protocols in molecular biology . 
+John Wiley & Sons , New York , N.Y. 10 . 
+Chatterjee , A. , Y. Cui , Y. Liu , C. K. Dumenyo , and A. K. Chatterjee . 
+1995 . 
+Inactivation of rsmA leads to overproduction of extracellular pectinases , cellulases , and proteases in Erwinia carotovora subsp . 
+carotovora in the absence of the starvation/cell density-sensing signal , N - ( 3-oxohexanoyl ) - L-ho-moserine lactone . 
+Appl . 
+Environ . 
+Microbiol . 
+61:1959 -- 1967 . 
+11 . 
+Collazo , C. M. , and J. E. Galán . 
+1997 . 
+The invasion-associated type III system of Salmonella typhimurium directs the translocation of Sip proteins into the host cell . 
+Mol . 
+Microbiol . 
+24:747 -- 756 . 
+12 . 
+Cui , Y. , A. Chatterjee , Y. Liu , C. K. Dumenyo , and A. K. Chatterjee . 
+1995 . 
+Identiﬁcation of a global repressor gene , rsmA , of Erwinia carotovora subsp . 
+carotovora that controls extracellular enzymes , N - ( 3-oxohexanoyl ) - L-homo-serine lactone , and pathogenicity in soft-rotting Erwinia spp . 
+J. Bacteriol . 
+177:5108 -- 5115 . 
+13 . 
+Darwin , K. H. , and V. L. Miller . 
+1999 . 
+InvF is required for expression of genes encoding proteins secreted by the SPI1 type III secretion apparatus in Salmonella typhimurium . 
+J. Bacteriol . 
+181:4949 -- 4954 . 
+14 . 
+Eichelberg , K. , and J. E. Galán . 
+1999 . 
+Differential regulation of Salmonella typhimurium type III secreted proteins by pathogenicity island 1 ( SPI-1 ) 
+encoded transcriptional activators InvF and HilA . 
+Infect . 
+Immun . 
+67:4099 -- 4105 . 
+15 . 
+Eichelberg , K. , W.-D . 
+Hardt , and J. E. Galán . 
+1999 . 
+Characterization of SprA , an AraC-like transcriptional regulator encoded with the Salmonella typhimurium pathogenicity island 1 . 
+Mol . 
+Microbiol . 
+33:139 -- 152 . 
+16 . 
+Ernst , R. K. , D. M. Domboski , and J. M. Merrick . 
+1990 . 
+Anaerobiosis , type 1 ﬁmbriae , and growth phase are factors that affect invasion of HEp-2 cells by Salmonella typhimurium . 
+Infect . 
+Immun . 
+58:2014 -- 2016 . 
+17 . 
+Fu , Y. , and J. E. Galán . 
+1998 . 
+The Salmonella typhimurium tyrosine phosphatase SptP is translocated into host cells and disrupts the actin cytoskel-eton . 
+Mol . 
+Microbiol . 
+27:359 -- 368 . 
+18 . 
+Galán , J. E. , and R. Curtiss III . 
+1989 . 
+Cloning and molecular characterization of genes whose products allow Salmonella typhimurium to penetrate tissue culture cells . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 86:6383 -- 6387 . 
+19 . 
+Galán , J. E. , and R. Curtiss III . 
+1990 . 
+Expression of Salmonella typhimurium genes required for invasion is regulated by changes in DNA supercoiling . 
+Infect . 
+Immun . 
+58:1879 -- 1885 . 
+20 . 
+Galán , J. E. , C. Ginocchio , and P. Costeas . 
+1992 . 
+Molecular and functional characterization of the Salmonella invasion gene invA : homology of InvA to members of a new protein family . 
+J. Bacteriol . 
+174:4338 -- 4349 . 
+21 . 
+Garcia-Vescovi , E. , F. C. Soncini , and E. A. Groisman . 
+1996 . 
+Mg21 as an extracellular signal : environmental regulation of Salmonella virulence . 
+Cell 84:165 -- 174 . 
+22 . 
+Graña , D. , T. Gardella , and M. M. Susskind . 
+1988 . 
+The effects of mutations in the ant promoter of phage P22 depend on context . 
+Genetics 120:319 -- 327 . 
+23 . 
+Groisman , E. A. 1998 . 
+The ins and outs of virulence gene expression : Mg21 as a regulatory signal . 
+Bioessays 20:96 -- 101 . 
+24 . 
+Groisman , E. A. , and H. Ochman . 
+1993 . 
+Cognate gene clusters govern invasion of host epithelial cells by Salmonella typhimurium and Shigella ﬂex-neri . 
+EMBO J. 12:3779 -- 3787 . 
+25 . 
+Guzman , L. M. , D. Belin , M. J. Carson , and J. Beckwith . 
+1995 . 
+Tight regulation , modulation , and high-level expression by vectors containing the arab-inose pBAD promoter . 
+J. Bacteriol . 
+177:4124 -- 4130 . 
+26 . 
+Hardt , W.-D. , L.-M . 
+Chen , K. E. Schuebel , X. R. Bustelo , and J. E. Galán . 
+1998 . 
+Salmonella typhimurium encodes an activator of Rho GTPases that induces membrane rufﬂing and nuclear responses in host cells . 
+Cell 93 : 815 -- 826 . 
+27 . 
+Hardt , W.-D. , H. Urlaub , and J. E. Galán . 
+1998 . 
+A target of the centisome 63 type III protein secretion system of Salmonella typhimurium is encoded by a cryptic bacteriophage . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 95:2574 -- 2579 . 
+28 . 
+Hong , K. H. , and V. L. Miller . 
+1998 . 
+Identiﬁcation of a novel Salmonella typhimurium invasion locus homologous to Shigella ipgDE . 
+J. Bacteriol . 
+180 : 1793 -- 1802 . 
+29 . 
+Hueck , C. J. , M. J. Hantman , V. Bajaj , C. Johnston , C. A. Lee , and S. I. Miller . 
+1995 . 
+Salmonella typhimurium secreted invasion determinants are homologous to Shigella Ipa proteins . 
+Mol . 
+Microbiol . 
+18:479 -- 490 . 
+30 . 
+Johnston , C. , D. A. Pegues , C. J. Hueck , C. A. Lee , and S. I. Miller . 
+1996 . 
+Transcriptional activation of Salmonella typhimurium invasion genes by a member of the phosphorylated response-regulator superfamily . 
+Mol . 
+Microbiol . 
+22:715 -- 727 . 
+31 . 
+Jones , B. D. , and S. Falkow . 
+1994 . 
+Identiﬁcation and characterization of a Salmonella typhimurium oxygen-regulated gene required for bacterial internalization . 
+Infect . 
+Immun . 
+62:3745 -- 3752 . 
+32 . 
+Kaniga , K. , J. C. Bossio , and J. E. Galán . 
+1994 . 
+The Salmonella typhimurium invasion genes invF and invG encode homologues of the AraC and PulD family of proteins . 
+Mol . 
+Microbiol . 
+13:555 -- 568 . 
+33 . 
+Kaniga , K. , S. Tucker , D. Trollinger , and J. E. Galán . 
+1995 . 
+Homologs of the Shigella IpaB and IpaC invasins are required for Salmonella typhimurium entry into cultured epithelial cells . 
+J. Bacteriol . 
+177:3965 -- 3971 . 
+34 . 
+Kaniga , K. , J. Uralil , J. B. Bliska , and J. E. Galán . 
+1996 . 
+A secreted tyrosine phosphatase with modular effector domains encoded by the bacterial patho-gen Salmonella typhimurium . 
+Mol . 
+Microbiol . 
+21:633 -- 641 . 
+35 . 
+Kubori , T. , Y. Matsushima , D. Nakamura , J. Uralil , M. Lara-Tejero , A. Sukhan , J. E. Galán , and S.-I . 
+Aizawa . 
+1998 . 
+Supramolecular structure of the Salmonella typhimurium type III protein secretion system . 
+Science 280:602 -- 605 . 
+36 . 
+Lee , C. A. , and S. Falkow . 
+1990 . 
+The ability of Salmonella to enter mamma-lian cells is affected by bacterial growth state . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 87 : 4304 -- 4308 . 
+37 . 
+Lee , C. A. , B. D. Jones , and S. Falkow . 
+1992 . 
+Identiﬁcation of a Salmonella typhimurium invasion locus by selection for hyperinvasive mutants . 
+Proc . 
+38 . 
+Liu , M. Y. , G. Gui , B. Wei , J. F. Preston III , L. Oakford , Ü . 
+Yüsel , D. P. Giedroc , and T. Romeo . 
+1997 . 
+The RNA molecule CsrB binds to the global regulatory protein CsrA and antagonizes its activity in Escherichia coli . 
+J. Biol . 
+Chem . 
+272:17502 -- 17510 . 
+39 . 
+Liu , M. Y. , and T. Romeo . 
+1997 . 
+The global regulator CsrA of Escherichia coli is a speciﬁc mRNA-binding protein . 
+J. Bacteriol . 
+179:4639 -- 4642 . 
+40 . 
+Liu , M. Y. , H. Yang , and T. Romeo . 
+1995 . 
+The product of the pleiotropic Escherichia coli gene csrA modulates glycogen biosynthesis via effects on mRNA stability . 
+J. Bacteriol . 
+177:2663 -- 2672 . 
+41 . 
+Liu , Y. , Y. Cui , A. Mukherjee , and A. K. Chatterjee . 
+1998 . 
+Characterization of a novel RNA regulator of Erwinia carotovora ssp . 
+carotovora that controls production of extracellular enzymes and secondary metabolites . 
+Mol . 
+Microbiol . 
+29:219 -- 234 . 
+42 . 
+Lundberg , U. , U. Vinatzer , D. Berdnik , A. von Gabain , and M. Baccarini . 
+1999 . 
+Growth phase-regulated induction of Salmonella-induced macrophage apoptosis correlates with transient expression of SPI-1 genes . 
+J. Bacteriol . 
+181:3433 -- 3437 . 
+43 . 
+Miller , J. H. 1992 . 
+A short course in bacterial genetics : a laboratory manual and handbook for Escherichia coli and related bacteria , p. 72 -- 77 . 
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 44 . 
+Mills , D. M. , V. Bajaj , and C. A. Lee . 
+1995 . 
+A 40 kb chromosomal fragment encoding Salmonella typhimurium invasion genes is absent from the corresponding region of the Escherichia coli K-12 chromosome . 
+Mol . 
+Microbiol . 
+15:749 -- 759 . 
+45 . 
+Murata , H. , A. Chatterjee , Y. Liu , and A. K. Chatterjee . 
+1994 . 
+Regulation of the production of extracellular pectinase , cellulase , and protease in the soft rot bacterium Erwinia carotovora subsp . 
+carotovora : evidence that aepH of E. carotovora subsp . 
+carotovora 71 activates gene expression in E. carotovora subsp . 
+carotovora , E. carotovora subsp . 
+atroseptica , and Escherichia coli . 
+Appl . 
+Environ . 
+Microbiol . 
+60:3150 -- 3159 . 
+46 . 
+Norris , F. A. , M. P. Wilson , T. S. Wallis , E. E. Galyov , and P. W. Majerus . 
+1998 . 
+SopB , a protein required for virulence of Salmonella dublin , is an inositol phosphate phosphatase . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 95:14057 -- 14059 . 
+47 . 
+Rakeman , J. L. , H. R. Boniﬁeld , and S. I. Miller . 
+1999 . 
+A HilA-independent pathway to Salmonella typhimurium invasion gene transcription . 
+J. Bacteriol . 
+181:3096 -- 3104 . 
+48 . 
+Romeo , T. , M. Gong , M.Y. Liu , and A.-M . 
+Brun-Zinkernagel . 
+1993 . 
+Identi-ﬁcation and molecular characterization of csrA , a pleiotropic gene from Escherichia coli that affects glycogen biosynthesis , gluconeogenesis , cell size , and surface properties . 
+J. Bacteriol . 
+175:4744 -- 4755 . 
+49 . 
+Romeo , T. 1998 . 
+Global regulation by the small RNA-binding protein CsrA and the non-coding RNA molecule CsrB . 
+Mol . 
+Microbiol . 
+29:1321 -- 1330 . 
+50 . 
+Schechter , L. M. , S. M. Damrauer , and C. A. Lee . 
+1999 . 
+Two AraC/XylS family members can independently counteract the effect of repressing sequences upstream of the hilA promoter . 
+Mol . 
+Microbiol . 
+32:629 -- 642 . 
+51 . 
+Shea , J. E. , M. Hensel , C. Gleeson , and D. W. Holden . 
+1996 . 
+Identiﬁcation of a virulence locus encoding a second type III secretion system in Salmonella typhimurium . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 93:2593 -- 2597 . 
+52 . 
+Skorupski , K. , and R. K. Taylor . 
+1996 . 
+Positive selection vectors for allelic exchange . 
+Gene 169:47 -- 52 . 
+53 . 
+Sternberg , N. L. , and R. Maurer . 
+1991 . 
+Bacteriophage-mediated generalized transduction in Escherichia coli and Salmonella typhimurium . 
+Methods Enzymol . 
+204:18 -- 43 . 
+54 . 
+Wei , B. , S. Shin , D. LaPorte , A. J. Wolfe , and T. Romeo . 
+2000 . 
+Global regulatory mutations in csrA and rpoS cause severe central carbon stress in Escherichia coli in the presence of acetate . 
+J. Bacteriol . 
+182:1632 -- 1640 . 
+55 . 
+Wong , K. K. , M. McClelland , L. C. Stillwell , E. C. Sisk , S. J. Thurston , and J. D. Saffer . 
+1998 . 
+Identiﬁcation and sequence analysis of a 27-kilobase chromosomal fragment containing a Salmonella pathogenicity island located at 92 minutes on the chromosomal map of Salmonella enterica serovar Typhimurium strain LT2 . 
+Infect . 
+Immun . 
+66:3365 -- 3371 . 
+56 . 
+Wood , M. W. , M. A. Jones , P. R. Watson , S. Hedges , T. S. Wallis , and E. E. Balyov . 
+1998 . 
+Identiﬁcation of a pathogenicity island required for Salmonella enteropathogenicity . 
+Mol . 
+Microbiol . 
+29:883 -- 892 . 
+57 . 
+Yang , H. , M. Y. Liu , and T. Romeo . 
+1996 . 
+Coordinate genetic regulation of glycogen catabolism and biosynthesis in Escherichia coli via the CsrA gene product . 
+J. Bacteriol . 
+178:1012 -- 1017 . 
+58 . 
+Zhou , D. , M. Mooseker , and J. E. Galán . 
+1999 . 
+Role of the S. typhimurium actin-binding protein SipA in bacterial internalization . 
+Science 283:2092 -- 2095 .

@@ -1,0 +1,392 @@
+THE JOURNAL OF BIOLOGICAL CHEMISTRY VOL . 
+283 , NO. 17 , pp. 11322 -- 11329 , April 25 , 2008 © 2008 by The American Society for Biochemistry and Molecular Biology , Inc. . 
+Printed in the U.S.A. 
+Th PduX Enzym of Salmonella enterica Is a Kinase Used for Coenzyme B12 Synthesis * 
+n L-Threonine
+e 
+Received for publication , January 11 , 2008 , and in revised form , February 26 , 2008 Published , JBC Papers in Press , February 28 , 2008 , DOI 10.1074 / jbc.M800287200 Chenguang Fan and Thomas A. Bobik1 From the Department of Biochemistry , Biophysics and Molecular Biology , Iowa State University , Ames , Iowa 50011 
+Here , the PduX enzyme of Salmonella enterica is shown to be an L-threonine kinase used for the de novo synthesis of coenzyme B12 and the assimilation of cobyric acid ( Cby ) . 
+PduX with a C-terminal His tag ( PduX-His6 ) was produced at high levels in Escherichia coli , purified by nickel affinity chromatography , and partially characterized . 
+31P NMR spectroscopy established that purified PduX-His6 catalyzed the conversion of L-threonine and ATP to L-threonine-O-3-phosphate and ADP . 
+Enzyme assays showed that ATP was the preferred substrate compared with GTP , CTP , or UTP . 
+PduX displayed Michaelis-Menten kinetics with respect to both ATP and L-threonine and nonlinear regression was used to determine the following kinetic constants : Vmax 62.1 3.6 nmol min 1 mg of protein 1 ; Km , ATP 54.7 5.7 M and Km , Thr 146.1 8.4 M. Growth studies showed that pduX mutants were impaired for the synthesis of coenzyme B12 de novo and from Cby , but not from cobinamide , which was the expected phenotype for an L-thre-onine kinase mutant . 
+The defect in Cby assimilation was corrected by ectopic expression of pduX or by supplementation of growth medium with L-threonine-O-3-phosphate , providing further support that PduX is an L-threonine kinase . 
+In addition , a bioassay showed that a pduX mutant was impaired for the de novo synthesis of coenzyme B12 as expected . 
+Collectively , the genetic and biochemical studies presented here show that PduX is an L-threonine kinase used for AdoCbl synthesis . 
+To our knowledge , PduX is the first enzyme shown to phosphorylate free L-threonine and the first L-threonine kinase shown to function in coenzyme B12 synthesis . 
+cobyric acid ( Cby ) under both aerobic and anaerobic conditions ( 3 , 5 ) . 
+Corrinoid assimilation begins with transport into the cytoplasm by the B12 uptake system ( btu ) followed by synthetic steps specific to a particular corrinoid ( Fig. 1 ) ( 6 -- 8 ) . 
+In the case of Cbi , an adenosyl group is added to the central cobalt atom to form adenosyl-Cbi , which is phosphoryl-ated to adenosyl-Cbi-phosphate ( 9 , 10 ) . 
+Subsequently , the nucleotide loop is assembled in three steps to form AdoCbl ( 3 ) . 
+Last , a portion of the AdoCbl is converted to MeCbl ( 11 , 12 ) . 
+Many of the steps used for Cbi assimilation are also used for the assimilation of Cby as well as the de novo synthesis of AdoCbl and MeCbl ( Fig. 1 ) . 
+A key difference is that Cby assimilation and de novo synthesis require ( R ) -1 - amino-2-propanol-O-2-phosphate ( AP-P ) , whereas the conversion of Cbi to the B12 coenzymes does not ( 3 ) ( Fig. 1 ) . 
+Prior studies showed that AP-P was produced by decarboxylation of L-threonine-O-3-phosphate ( L-Thr-P ) , which was catalyzed by the CobD enzyme ( 13 ) . 
+These findings predicted that an L-threonine ( L-Thr ) kinase would be required for the de novo synthesis of AdoCbl and MeCbl , and the assimilation of Cby . 
+However , this enzyme has not been identified in any system . 
+In S. enterica , AdoCbl and MeCbl are required cofactors for three enzymes ( 5 ) . 
+MeCbl-dependent methionine synthase is used to convert homocysteine to methionine ( 14 ) ; AdoCbl-de-pendent diol dehydratase and ethanolamine ammonia lyase are required for growth on 1,2-propanediol ( 1,2-PD ) and ethanol-amine , respectively ( 15 , 16 ) . 
+The genes specific for 1,2-PD utilization ( pdu ) are found in a large contiguous cluster ( 15 , 17 ) . 
+Bioinformatic studies tentatively suggest that the last gene of the pdu operon ( pduX ) encodes an L-Thr kinase ( 18 ) . 
+The PduX protein has homology to the GHMP ( galactokinase , homo-serine kinase , mevalonate kinase , and phosphomevalonate kinase ) family of kinases and a number of PduX homologues are encoded by genes located proximal to genes for AdoCbl biosynthesis . 
+However , no experimental studies of PduX homologues have been conducted in any system . 
+Here , we present genetic and biochemical studies that show PduX is an L-Thr kinase used for the de novo synthesis of AdoCbl and the assimilation of Cby . 
+To our knowledge , PduX is the first enzyme shown to phosphorylate free L-Thr . 
+The B12 coenzymes ( adenosylcobalamin , AdoCbl , and meth-ylcobalamin , MeCbl ) are required cofactors for at least 15 different enzymes that are widely distributed in nature and are essential for human health ( 1 , 2 ) . 
+AdoCbl and MeCbl are synthesized de novo by certain prokaryotes and from corrinoid precursors by a broader range of organisms ( 1 , 2 ) . 
+The synthesis of B12 has been studied extensively in Salmonella enterica ( 3 , 4 ) . 
+This organism carries out de novo synthesis under anaerobic conditions and assimilates corrinoids such as vitamin B12 , cobinamide ( Cbi ) ,2 and 
+* This work was supported by Grant MCB0616008 from the National Science Foundation . 
+The costs of publication of this article were defrayed in part by the payment of page charges . 
+This article must therefore be hereby marked `` advertisement '' in accordance with 18 U.S.C. Section 1734 solely to indicate this fact . 
+1 To whom correspondence should be addressed . 
+Tel. : 515-294-4165 ; Fax : 515-294-0453 ; E-mail : bobik@iastate.edu . 
+2 The abbreviations used are : Cbi , cobinamide ; Cby , cobyric acid ; AP-P , ( R ) -1 - amino-2-propanol-O-2-phosphate ; 1,2-PD , 1,2-propanediol ; HPLC , high pressure liquid chromatography ; AP , ( R ) -1 - amino-2-propanol . 
+EXPERIMENTAL PROCEDURES
+Chemicals and Reagents -- Antibiotics , Cbi , L-Thr-P , ( R ) -1 - amino-2-propanol ( AP ) , nucleoside triphosphates , and nucleoside diphosphates were purchased from Sigma . 
+Isopropyl - D-thiogalactopyranoside was from Diagnostic Chemical Ltd. , Charelottetown , Prince Edward Island , Canada . 
+Restriction enzymes and T4 DNA ligase were from New England Biolabs , 
+Here , the PduX enzyme of Salmonella enterica is shown to be an L-threonine kinase used for the de novo synthesis of coenzyme B12 and the assimilation of cobyric acid ( Cby ) . 
+PduX with a C-terminal His tag ( PduX-His6 ) was produced at high levels in Escherichia coli , purified by nickel affinity chromatography , and partially characterized . 
+31P NMR spectroscopy established that purified PduX-His6 catalyzed the conversion of L-threonine and ATP to L-threonine-O-3-phosphate and ADP . 
+Enzyme assays showed that ATP was the preferred substrate compared with GTP , CTP , or UTP . 
+PduX displayed Michaelis-Menten kinetics with respect to both ATP and L-threonine and nonlinear regression was used to determine the following kinetic constants : Vmax 62.1 3.6 nmol min 1 mg of protein 1 ; Km , ATP 54.7 5.7 M and Km , Thr 146.1 8.4 M. Growth studies showed that pduX mutants were impaired for the synthesis of coenzyme B12 de novo and from Cby , but not from cobinamide , which was the expected phenotype for an L-thre-onine kinase mutant . 
+The defect in Cby assimilation was corrected by ectopic expression of pduX or by supplementation of growth medium with L-threonine-O-3-phosphate , providing further support that PduX is an L-threonine kinase . 
+In addition , a bioassay showed that a pduX mutant was impaired for the de novo synthesis of coenzyme B12 as expected . 
+Collectively , the genetic and biochemical studies presented here show that PduX is an L-threonine kinase used for AdoCbl synthesis . 
+To our knowledge , PduX is the first enzyme shown to phosphorylate free L-threonine and the first L-threonine kinase shown to function in coenzyme B12 synthesis . 
+Beverly , MA . 
+Pefabloc SC PLUS was purchased from ICN Bio-medicals , Inc. , Aurora , OH . 
+Other chemicals were from Fisher Scientific . 
+Cby was kindly provided by Kathy Krasny from the laboratory of J. Escalante-Semerena . 
+Bacterial Strains , Media , and Growth Conditions -- The bacterial strains used in this study are listed in Table 1 . 
+The minimal medium used was NCE supplemented with 0.4 % 1,2-PD , 1 mM MgSO4 , 50 M ferric citrate , 1 M 5,6-dimethylbenzimida-zole , and 3 mM ( each ) valine , isoleucine , leucine , and threonine . 
+LB ( Luria-Bertani ) medium was the rich medium used . 
+General Molecular Methods -- Agarose gel electrophoresis was performed as described previously ( 19 ) . 
+Plasmid DNA was purified by Qiagen ( Chatsworth , CA ) products according to the manufacturer 's instructions . 
+Following restriction digestion and PCR amplification , DNA was purified by Promega Wizard PCR Preps ( Madison , WI ) . 
+Restriction digests were carried out using standard protocols ( 19 ) . 
+For ligation of DNA fragments , T4 DNA ligase was used according to the manufacturer 's instructions . 
+Electroporation was carried out as previously described ( 17 ) . 
+Protein Methods -- PAGE was performed by using Bio-Rad Ready gels and Bio-Rad Mini-Protean II electrophoresis cells according to the manufacturer 's instructions . 
+Following gel electrophoresis , Coomassie Brilliant Blue R-250 was used to stain proteins . 
+The protein concentration of solutions was determined by using Bio-Rad protein assay reagent . 
+Construction of Plasmids for Production of PduX and PduX-His -- PCR was used to amplify the pduX coding 6 sequence from pEM55 ( 17 ) . 
+The primers used for amplification were 5 - GCCGCCAGATCTATGCGCGCACACTATTCG-TACCT-3 and 5 - GCCGCCAAGCTTATCACTGCAGTT-TGACCCCGCCA-3 . 
+The reverse primer used for fusing six histidine residues to the C terminus of PduX was 5 - GCCGC-CAAGCTTATCAATGATGATGATGATGATGCTGCAGT - TTGACCCCGCCA-3 . 
+These PCR primers introduced BglII and HindIII restriction sites that were used for cloning into vector pTA925 or pLac22 ( 20 ) . 
+Following ligation , clones were introduced into Escherichia coli DH5 by electroporation , and transformants were selected by plating on LB agar supplemented with 25 g ml 1 kanamycin ( pTA925 ) or 100 g ml 1 ampicillin ( pLac22 ) . 
+Pure cultures were prepared from selected transformants . 
+The presence of insert DNA was verified by restriction analysis or PCR , and the DNA sequence of selected pduX clones was determined . 
+Clones with the expected DNA sequence were used for further study . 
+DNA Sequencing -- DNA sequencing was carried out by the DNA facility of Iowa State University Office of Biotechnology using automated sequencing equipment from Applied Biosystems Inc. . 
+Growth Curves -- Growth media are described in the figure legends . 
+To prepare the inoculum , 2 ml LB cultures were incubated overnight at 37 °C , and then cells were collected by centrifugation and suspended in growth curve medium . 
+Media were inoculated to a density of 0.15 absorbance units , and the cell growth was monitored by measuring the optical density at 600 nm using a BioTek Synergy microplate reader and 48-well flat-bottom plates ( Falcon ) . 
+Each well was inoculated with 0.3 ml of culture and incubated at 37 °C as described ( 21 ) . 
+Corrinoid Extraction and Quantification -- Selected strains of S. enterica were grown aerobically on 5 ml of LB medium supplemented with 1 % 1,2-PD , 1 M 5,6-dimethylbenzimidazole , and 5 M CoCl2 overnight at 37 °C in 17 100-mm test tubes . 
+Cells were collected by centrifugation and suspended in 1 ml of 50 mM Tris , pH 7.0 . 
+The cell suspension was transferred into 3-ml serum vials . 
+The vials were sealed and flushed with helium for 3 min . 
+The suspension was autoclaved for 10 min at 121 °C , then placed on ice for 10 min and centrifuged at 25,000 g for 1 h at 4 °C . 
+The corrinoids present in the supernatant were quantified using a bioassay based on the AdoCbl-dependent growth of S. enterica strain BE86 on the ethanolamine minimal medium . 
+Growth measurements were carried out using a microplate reader as described above for `` growth curves . '' 
+Quantitation was based on a standard curve of vitamin B12 concentration versus maximum cell density of BE86 . 
+The assay was linear from 0 to 20 nM vitamin B 2 12 with an r value of 0.9843 . 
+Growth of pduX Expression Strains -- The E. coli strains used for expression of pduX were grown on 400 ml of LB supplemented with 25 g ml 1 kanamycin at 16 °C in a New Brun-swick Scientific , Innova 4230 , refrigerated shaker incubator with shaking speed at 275 rpm . 
+Cells were grown to an absorb-ance of 0.6 -- 0.8 at 600 nm , and protein expression was induced by the addition of 0.5 mM isopropyl - D-thiogalactopyranoside . 
+Cells were incubated at 16 °C with shaking at 275 rpm for an additional 18 h and harvested by centrifugation at 5000 g for 10 min at 4 °C using a Beckman JA-10 rotor . 
+the 1,2-PD degradative pathway is intact , and that corrinoid uptake is unimpaired because a single system is used for uptake of Cbi , Cby , and other corrinoids ( 6 -- 8 ) . 
+It also shows that pduX mutants can carry out all the steps needed for the conversion of Cbi to AdoCbl ( Fig. 1 ) . 
+Thus , the inability of pduX mutants to use Cby can be attributed to a defect in the conversion of Cby to AdoCbi-phosphate ( Fig. 1 ) . 
+This process requires four enzymes : 1 ) an adenosyltransferase ( CobA ) ; 2 ) an enzyme that converts AdoCby to AdoCbi-phosphate ( CbiB ) ; 3 ) an L-Thr-P decarboxylase ( CobD ) ; and 4 ) an L-Thr kinase ( 9 , 13 , 22 ) . 
+The CobA , CbiB , and CobD enzymes have been characterized in S. enterica ( 9 , 13 , 22 ) . 
+Hence , the above studies suggest that PduX is an L-Thr kinase used for the conversion of Cby to AdoCbl . 
+A pduX Deletion Mutation Is Complemented by Ectopic Expression of pduX -- A pduX expression plasmid ( pLac22-pduX ) was introduced into a pduX deletion mutant by electroporation . 
+This plasmid fully corrected the growth defect of a pduX mutant on 1,2-PD minimal medium supplemented with Cby ( the generation time was 6.9 h compared with 6.1 h for wild-type ) ( Fig. 3 ) . 
+In contrast , plasmid without insert had little effect on growth ( the generation time is 17.4 h ) . 
+This showed that the observed phenotype ( poor growth with Cby ) resulted from the pduX mutation but not from polarity or an unknown mutation . 
+Supplementation of Growth Media with L-Threonine Phosphate Substantially Corrects the Growth Defect of a pduX Mutant -- In many cases , biosynthetic mutants are corrected by supplementation of growth medium with a downstream metabolite . 
+Studies conducted here showed that 100 M L-Thr-P substantially corrected the growth defect of a pduX mutant on 1,2-PD minimum media containing Cby ( Fig. 4 ) . 
+With 100 M L-Thr-P the generation time for a pduX deletion mutant was 8.8 h compared with a generation time of 8.3 h for the wild-type strain . 
+Both strains reached a maximum optical density at 600 nm of about 0.4 . 
+These results indicate that PduX has a role in the synthesis of L-Thr-P . 
+AP Is Ineffective for Correction of a pduX Deletion Mutant -- Prior studies showed that a cobD mutant was partly corrected for the synthesis of MeCbl from Cby by addition of AP to growth media ( 23 ) . 
+This and subsequent findings indicated that an unknown kinase phosphorylated AP to AP-P bypassing the cobD defect ( Fig. 1 ) ( 13 ) . 
+Therefore , PduX was tested for AP kinase activity . 
+However , results were negative . 
+Both a cobD mutant and a pduX cobD double mutant grew similarly on minimal glucose medium supplemented with Cby and AP indicating that S. enterica converts AP to AP-P in the absence of PduX ( data not shown ) . 
+Concentrations of AP between 1 and 20 mM were tested and in no case did the PduX strain grow better than the PduX strain . 
+The studies described above were conducted in a metE background under conditions where the conversion of Cby to MeCbl is required for growth in minimal medium ( 24 ) . 
+Tests of PduX for AP kinase activity using 1,2-PD minimal medium supplemented with Cby and enzyme assays with purified recombinant enzyme were also negative ( data not shown ) . 
+Thus , results indicate that PduX does not phosphorylate AP . 
+PduX Is Needed for S. enterica Growth on Minimal Ethanol-amine Medium Supplemented with Cby , but Not on Similar Medium Supplemented with Cbi -- The pduX gene is the last gene in the pdu operon ( 17 ) . 
+Measurable expression of this operon requires 1,2-PD ( 15 , 25 -- 27 ) . 
+This raised the question of whether PduX supports ethanolamine degradation . 
+Results showed that a pduX mutant was unable to grow on ethanol-amine minimal medium supplemented with Cby , but grew well on similar medium supplemented with Cbi ( Fig. 5 ) . 
+In contrast , wild-type S. enterica grew well on ethanolamine medium supplemented with either Cby or Cbi . 
+The generation times of S. enterica with Cbi and Cby were 4.3 and 4.4 h , whereas those of the pduX mutant were 4.3 and 33.1 h , respectively . 
+In addition , the growth defect of the pduX mutant on ethanolamine with Cby was fully corrected by ectopic expression of pduX , showing this defect resulted from the pduX mutation , but not from polarity or an unknown mutation ( data not shown ) . 
+Hence , pduX is used for AdoCbl synthesis even in the absence of 1,2-PD , which is required for transcription of the pdu operon ( 15 , 17 , 26 , 27 ) . 
+This finding is surprising to us because it suggests that pduX has a different regulatory pattern than upstream genes presumed to be in the same operon . 
+Thr-P but Not AP Supplementation Allows Growth of a pduX Mutant on Ethanolamine with Cby -- The growth defect of a pduX mutant on minimal ethanolamine medium-supple-mented Cby was corrected by addition of Thr-P , but not by addition of AP-P ( data not shown ) . 
+This was similar to results obtained with 1,2-PD ( above ) and provided further evidence that PduX is an L-Thr kinase . 
+Production of MeCbl Sufficient to Support Methionine Bio-synthesis Is Independent of PduX -- S. enterica metE mutants require MeCbl for methionine biosynthesis ; hence , L-Thr kinase should be required for growth of metE strains on minimal medium supplemented with Cby ( Fig. 1 ) ( 14 ) . 
+However , results showed that a metE pduX double mutant grew only slightly slower than wild-type on minimal glucose medium supplemented with Cby . 
+Doubling times for the wild-type , metE mutant , and metE pduX double mutant were 2.0 , 2.0 , and 3.8 h , respectively . 
+This suggested that PduX contributed to MeCbl synthesis , but S. enterica also produced a second L-Thr kinase that allowed substantial growth of a metE mutant as is further explained under `` Discussion . '' 
+PduX Is Used for the de Novo Synthesis of B12 -- L-Thr kinase is expected to be required for the de novo synthesis of AdoCbl ( Fig. 1 ) ( 13 ) . 
+Therefore , we used a bioassay to quantitate de novo synthesis of AdoCbl and MeCbl by S. enterica , a pduX mutant and a cbiB mutant ( as negative control ) . 
+These strains produced B12 in the following amounts ( picomole/g of wet cells ) : 2620 112 , 280 11 , and undetectable , respectively . 
+Thus , a pduX mutant produced about 11 % as much B12 as the wild-type strain . 
+S. enterica BE86 was used for the bioassay . 
+This strain grows on ethanolamine minimal medium supplemented with complete corrinoids such as AdoCbl and MeCbl , but not on similar medium supplemented with corrinoids such as AdoCby-P , which might accumulate in a pduX mutant . 
+High-level Expression of the PduX-His6 Protein -- PduX with a C-terminal His6 tag ( PduX-His6 ) was produced at high levels via an E. coli T7 expression system and purified by nickel-affinity chromatography ( Fig. 6 ) . 
+This procedure allowed the isolation of PduX-His6 that appeared nearly homogeneous following Coomassie staining . 
+The apparent molecular mass of PduX-His6 by SDS-PAGE was 35 kDa , which was close to the expected value of 33.7 kDa . 
+ADP and L-Threonine-O-3-phosphate Are the Products of the PduX-His6 Reaction -- 31P NMR spectroscopy was used to identify the products of the PduX reaction . 
+Fig. 7A shows the 31P NMR spectrum of a kinase reaction mixture prior to addition of purified PduX-His6 enzyme . 
+The triplet centered at 22.5 ppm corresponds to the - phosphate of ATP ; the two doublets centered at 7.1 and 11.6 ppm correspond to the - and - phos-phates of ATP , respectively . 
+Fig. 7B shows the 31P NMR spectrum of the ADP standard . 
+The two doublets centered at 7.2 and 11.2 ppm correspond to the - and - phosphates of ADP , respectively . 
+Fig. 7D shows the complete reaction mixture after 2 h of incubation at 37 °C with 200 g of purified PduX-His6 . 
+The triplet corresponding to the - phosphate of ATP ( 22.5 ppm ) is absent . 
+The two doublets centered at 7.2 and 11.2 ppm of the complete reaction mixture correlate well with the two doublets of the ADP standard ( Fig. 7B ) . 
+The singlet at 2.3 ppm corresponds to the phosphate group of L-Thr-P ( Fig. 7C ) . 
+Fig. 7E shows the intermediate reaction mixture after 30 min of incubation at 37 °C with 200 g of purified PduX-His6 . 
+It shows genes raising the possibility of functional diversity among PduX homologues . 
+Here , we presented in vitro and in vivo evidence that the pduX gene of S. enterica encodes an L-Thr kinase involved in the de novo synthesis AdoCbl and the assimilation of Cby . 
+31P NMR spectroscopy indicated that purified PduX-His6 catalyzes the conversion of ATP and L-Thr to ADP and L-Thr-P ( Fig. 7 ) . 
+Enzyme assays indicated the ATP was the preferred substrate for PduX compared with GTP , CTP , and UTP . 
+The Vmax of PduX ( 62 nmol min 1 mg of protein 1 ) is within the range determined for other B12 biosynthetic enzymes that have relatively low activity in accord with the low levels of AdoCbl and MeCbl that are required to support B - dependent processes 12 ( 5 ) . 
+The Km value of PduX for ATP ( 55 M ) is well below the ATP pool sizes in rapidly growing cells ( 1 -- 3 mM ) ( 33 ) . 
+The Km value for L-Thr ( 146 M ) is close to measured pool sizes ( 70 -- 400 M ) for E. coli , which is a close relative of S. enterica ( 34 ) . 
+Thus , in vitro studies demonstrated that purified recombinant PduX has L-Thr kinase activity with kinetic parameters suitable to a role in AdoCbl synthesis . 
+In addition to the above in vitro studies , genetic tests dem-onstrated that PduX has a role in the synthesis of AdoCbl in vivo . 
+A bioassay and growth tests showed that a pduX deletion mutant was impaired for the de novo synthesis of AdoCbl and for the assimilation of Cby . 
+In addition , the growth defects of a pduX mutant were corrected by addition of L-Thr-P to minimal media indicating that PduX is needed for L-Thr-P synthesis . 
+A point of note is that bioassays found B12 in cultures grown under aerobic conditions . 
+It is well established that S. enterica only synthesizes B12 de novo in the absence of oxygen ( 35 ) . 
+The bioassays conducted here and unpublished studies done in our laboratory indicate that S. enterica synthesizes B12 under aerobic incubation conditions at high cell densities .3 Presumably , oxygen is depleted by cell respiration allowing B12 synthesis . 
+This helps explain the paradoxical observation that S. enterica synthesizes B12 only in the absence of oxygen , but requires oxygen for degradation of ethanolamine and 1,2-PD as sole carbon and energy sources ( 5 ) . 
+The genetic tests performed here also indicated that a pduX mutant synthesized enough MeCbl to support substantial growth of a metE mutant . 
+This suggests that S. enterica expresses an L-Thr kinase in addition to PduX , but raises the question why is this second kinase unable to support ethanol-amine or 1,2-PD degradation ( Figs. 2 and 5 ) . 
+One explanation is that the second kinase is induced during growth on glucose . 
+Alternatively , the activity of the second kinase might be insufficient for 1,2-PD and ethanolamine degradation . 
+A pduX mutant grew slowly on 1,2-PD minimal medium supplemented with Cby ( Fig. 2 ) suggesting a second kinase with low activity . 
+Prior studies showed that the MeCbl needed to support growth of a metE mutant ( methionine biosynthesis ) was about 100-fold less than the amount of AdoCbl needed to support 1,2-PD and ethanolamine degradation . 
+Hence , a second L-Thr kinase that has low activity compared with PduX is indicated . 
+To our knowledge , PduX is the first enzyme reported to transfer a phosphoryl group to free L-Thr . 
+Sequence similarity indicates that PduX is a member of the GHMP kinase family ( 18 ) . 
+This family includes members that transfer the - phos-phoryl group of ATP to acceptors such as mevalonate , homo-serine , galactose , and developmental protein Xol-1 ( 36 ) . 
+A feature of PduX we think is interesting is that it phosphorylates free L-Thr , which is also required for protein synthesis . 
+Presumably , PduX would need to be regulated to prevent L-Thr depletion or a futile cycle that needlessly consumes ATP . 
+However , regulation of the activity of the PduX enzyme has not been studied . 
+TABLE 1 
+Bacterial strains used in this study Species and strain E. coli DH5 BL21DE3 RIL BE119 BE945 BE963 S. enterica serovar Typhimurium LT2 BE86 BE200 BE287 BE438 BE892 BE933 BE935 BE938 
+Genotype 
+Source 
+F 
+T.A.Bobik lab collection Stratagene T.A.Bobik lab collection This study This study 
+endA1 hsdR17 relA1 supE44 thi-1 recA1 gyrA96 relA1 ( lacZYA-argF ) U169 ( 80dlacZ M F ompT hsdS ( r m ) dcm B B Tetr gal ( DE3 ) endA Hte argU ileY leuW Camr BL21DE3 RIL/pTA925 DH5 / pTA925-pduX-His6 BL21DE3 RIL/pTA925-pduX-His 6 
+15 ) 
+DEL1715 ( cbiD24 ) * MudJ * ( zea-3666 ) Del pduX668 pLac22 cbiB24 : : mudJ Del pduX685 : : Kan Del pduX685 : : kan/pLac22 Del pduX685 : : Kan/pLac22-pduX Del pduX668 cobD498 : : mudJ 
+J.R 
+. 
+Roth lab collection This study . 
+Bobik lab collection . 
+Roth lab collection This study This study This study This study 
+T.A J.R 
+text . 
+Quantitation was based on standard curves made with ATP , 
+GTP , CTP , or UTP . 
+31P NMR Spectroscopy -- The pro-ducts of the PduX reaction were analyzed by 31P nuclear magnetic resonance ( NMR ) spectroscopy . 
+Reactions were performed using conditions described for the PduX enzyme assay with 1 mg of purified PduX-His6 in a final volume of 1 ml . 
+The reaction mixtures were incubated at 37 °C . 
+Protein was removed by a Vivaspin 500 , 10K filtration FIGURE 1 . 
+Pathways for assimilation of Cbi and Cby in S. enterica . 
+AdoCbl and MeCbl are the forms of B12 device . 
+Samples were transferred to that function as enzymatic cofactors . 
+The assimilation of Cbi and Cby and the later steps of the de novo 5-mm NMR tubes ( WILMAD ) . 
+50 synthesis of the B12 coenzymes share a number of enzymatic steps . 
+A key difference is that the conversion of L-threonine-O-3-phosphate to ( R ) -1 - amino-2-propanol-O-2-phosphate is unnecessary for the assimilation of l of 100 % D2O was added ( finally Cbi . 
+Abbreviations : Btu , B12 uptake system ; AdoCbi , adenosylcobinamide ; AdoCby , adenosylcobyric acid ; 5 % ) . 
+31P NMR spectra of reference AdoCbi-P , adenosylcobinamide phosphate ; AdoCbl , adenosylcobalamin ; MeCbl , methylcobalamin ; L-Thr , L-threonine ; L-Thr-P , L-threonine-O-3-phosphate . 
+compounds and kinase reaction products were obtained with a 11.7 tesla magnet ( Biomolecular Nuclear Preparation of Cell Extract of S. enterica -- About 2.0 g of cell Magnetic Resonance Facility , Iowa State University , Ames , IA ) paste was suspended in 8 ml of 50 mM Tris , pH 7.5 , 300 mM and a Bruker DRX 500 spectrometer at the following settings : NaCl , 20 mM imidazole and broken by French press ( Thermo frequency , 202.347 MHz ; excitation pulse width , 8.1 s ; pulse Electron Corp. ) at 20,000 psi . 
+Pefabloc SC PLUS was added to repetition delay , 6 s ; and spectral width , 12.136 kHz . 
+Spectra the cell extract to a concentration of 100 g ml 1 to inhibit were processed with TOPSPIN 1.3 software from Bruker . 
+proteases . 
+The crude cell extract was centrifuged at 35,000 g Chemical shifts were referenced to triphenyl phosphate , which for 30 min at 4 °C using a Beckman JA-17 rotor to separate the was set to 18.0 ppm . 
+soluble and insoluble fractions . 
+The supernatant was the solu - High Pressure Liquid Chromatography ( HPLC ) -- A Mono Q ble fraction used for enzyme purification . 
+HR5/5 column ( GE Healthcare ) was used with a Varian ProStar Purification of pduX-His6 -- 8 ml of soluble cell extract from system that included a model 230 solvent delivery module , a an E. coli expression strain was loaded onto a column contain - model 430 autosampler , and a model 325 UV-visible detector ing 5 ml of nickel-nitrilotriacetic acid Superflow resin ( Qiagen ) ( Varian , Palo Alto , CA ) . 
+Buffers A and B contained 20 mM Tris , previously equilibrated with 50 mM Tris , pH 7.5 , 300 mM NaCl , pH 8.0 , and 50 mM and 1 M NaCl , respectively . 
+The flow rate was 20 mM imidazole . 
+The column was washed with 5 ml of 50 mM 1 ml min 1 , and analytes were eluted with a linear gradient Tris , pH 7.5 , 300 mM NaCl , 80 mM imidazole , then the enzyme from 50 to 700 mM NaCl over 10 min . 
+The retention times for bound to the column was eluted with 2.5 ml of 50 mM Tris , pH ATP , ADP , GTP , GDP , UTP , UDP , CTP , and CDP were 4.46 , 7.5 , 300 mM NaCl , 300 mM imidazole . 
+The purified protein was 6.05 , 5.18 , 6.28 , 4.37 , 5.63 , 4.09 , and 5.47 min , respectively . 
+desalted by using PD-10 desalting column ( GE Healthcare Life Sciences ) and eluted with 3.5 ml of 10 mM Tris , pH 7.5 , follow - RESULTS ing the manufacturer 's instructions . 
+PduX Is Needed for S. enterica Growth on 1,2-PD Minimal PduX Enzyme Assay -- The activity of PduX was measured by Medium Supplemented with Cby , but Not on Similar Medium using an ADP Quest assay kit according to the manufacturer 's Supplemented with Cbi -- L-Thr kinase is predicted to be instructions ( DiscoverRx , Fremont , CA ) . 
+The assay uses a cou - required for the synthesis of AdoCbl from Cby , but not from pled enzyme reaction system to generate hydrogen peroxide Cbi ( Fig. 1 ) . 
+Therefore , we measured aerobic growth of S. from ADP ( ADP reacts with PEP to form pyruvate by pyruvate enterica and a pduX deletion mutant ( BE892 ) on 1,2-PD mini-kinase , and then pyruvate oxidase generates hydrogen perox - mal medium supplemented with Cby or Cbi . 
+Under these con-ide ) . 
+Hydrogen peroxide when combined with acetyl dihydroxy ditions , growth requires the synthesis of AdoCbl from Cby or phenoxazine in the presence of peroxidase generates the fluo - Cbi ( 15 ) . 
+rescently active resorufin dye . 
+Standard assay mixtures con - Results showed that a pduX mutant was significantly tained 15 mM HEPES , pH 7.4 , 20 mM NaCl , 10 mM MgCl2 in a impaired for growth on 1,2-PD minimal medium suppletotal volume of 0.1 ml . 
+Activity was determined by monitoring mented with Cby , but grew well on similar medium supple-the fluorescence intensity with a BioTek Synergy HT micro - mented with Cbi ( Fig. 2 ) . 
+In contrast , wild-type S. enterica grew plate reader . 
+The excitation wavelength was 530 nm and emis - well on 1,2-PD medium supplemented with either Cby or Cbi . 
+sion wavelength was 590 nm . 
+To minimize background fluores - The generation times of S. enterica with Cbi and Cby were 4.2 cence , 96-well black microplates were used ( Greiner Bio-one , and 5.8 h , whereas those of the pduX mutant were 4.2 and Frickenhausen , Germany ) . 
+For kinetic studies , the concentra - 17.8 h , respectively . 
+These are the expected phenotypes of an tions of certain assay components varied as indicated in the L-Thr kinase mutant . 
+Normal growth with Cbi indicates that 
+FIGURE 3 . 
+Complementation of the pduX deletion by ectopic expression of pduX . 
+Cells were grown in minimal 1,2-propanediol medium supplemented with 50 nM Cby . 
+Open diamond , wild-type S. enterica ; solid triangle , BE935 ( Del pduX/pLac22-pduX ) ; open triangle , BE933 ( Del pduX/pLac22 ) . 
+FIGURE 2 . 
+Effects of a pduX deletion on 1,2-propanediol degradation with Cbi or Cby . 
+Cells were grown in minimal 1,2-propanediol medium supplemented with 50 nM Cbi or Cby . 
+Solid triangle , BE892 ( Del pduX ) with Cbi ; open diamond , wild-type with Cby ; open triangle , BE892 ( Del pduX ) with Cby . 
+FIGURE 4 . 
+Effects of L-threonine phosphate on growth of a pduX deletion . 
+Cells were grown in minimal 1,2-propanediol medium supplemented with 50 nM Cby and 100 M L-Thr-P . 
+Solid diamond , wild-type S. enterica ; open triangle , BE892 ( Del pduX ) . 
+FIGURE 5 . 
+Effects of a pduX deletion on ethanolamine degradation with Cbi or Cby . 
+Cells were grown in minimal ethanolamine medium supplemented with 50 nM Cbi or Cby . 
+Solid triangle , BE892 ( Del pduX ) with Cbi ; open diamond , wild-type with Cby ; open triangle , BE892 ( Del pduX ) with Cby . 
+FIGURE 6 . 
+SDS-PAGE analysis of PduX-His6 purification . 
+Lane 1 , molecular mass markers ; lane 2 , 5 g of soluble extract of strain BE963 ( PduX-His6 ) ; lane 3 , 5 g of flow through fraction ; lane 4 , 5 g of 80 mM imidazole wash fraction ; lane 5 , 5 g of 300 mM imidazole elution fraction . 
+The gel contained 12 % acrylamide and stained with Coomassie Brilliant Blue . 
+enzyme activity was also determined . 
+Results showed that the rate 
+of reaction was proportional to PduX-His6 concentration from 0.006 to 6 M when 200 M ATP and 500 M L-Thr were used as substrates . 
+Linear regression yielded an r2 value of 0.998 . 
+Km and Vmax Values for PduX -- Purified PduX-His6 displayed Michaelis-Menten kinetics with respect to both ATP and L-Thr ( Fig. 8 ) . 
+Based on nonlinear regression , the Km values for ATP and L-Thr were 54.7 5.7 and 146.1 8.4 M , respectively . 
+The enzyme Vmax was 62.8 3.6 nmol min 1 mg of protein 1 when L-Thr was varied and 61.4 3.6 nmol min 1 mg of protein 1 when ATP was varied . 
+The average of these two values is 62.1 3.6 nmol min 1 mg of protein 1 . 
+Similar kinetic constants were derived from double-reciprocal plots . 
+The Km values for ATP and L-Thr were 60.9 9.7 and 127.0 11.3 M , respectively . 
+Vmax values 31 were 58.6 6.2 nmol min 1 mg of FIGURE 7 . 
+P NMR spectra of a PduX reaction . 
+A , reaction mixture containing 1 mM ATP and 1 mM L-threonine 1 prior to addition of enzyme . 
+B , ADP standard ( 1 mM ) , and C , L-threonine-O-3-phosphate standard ( 1 mM ) . 
+protein when L-Thr was varied D , complete reaction after 2 h of incubation with 200 g of purified PduX-His6 . 
+E , intermediate reaction after 30 and 57.2 5.8 nmol min 1 mg of min of incubation with 200 g of purified PduX-His6 . 
+F , expanded view of intermediate reactions from chemical protein 1 when ATP was varied . 
+shift 7.0 to 12.0 ppm . 
+The chemical shifts observed were 7.1 , 11.6 , and 22.5 ppm for the - , - , and - phosphates of ATP , respectively , 7.2 ppm and 11.2 ppm for the - and - phosphates of ADP , respec - The average of these two values is tively , and 2.3 ppm for L-threonine-O-3-phosphate . 
+All chemical shifts are referenced to triphenyl phosphate , 57.9 6.0 nmol min 1 mg of pro-which was set to 18.0 ppm . 
+tein 1 . 
+When the Km values for ATP were determined , saturating levels clearly that the intermediate mixture contains L-Thr as well as of L-Thr ( 500 M ) were added to assay mixtures while varying both ATP and ADP ( Fig. 7F ) . 
+Hence , these results indicate that the concentration of ATP . 
+Similarly , saturating levels of ATP ADP and L-Thr-P are the products of the PduX reaction . 
+( 200 M ) were added to assays when the Km values for L-Thr In Vitro Activity of PduX-His6 -- To test whether purified were determined . 
+Purified PduX-His6 was used at a concentra-PduX-His6 had L-Thr kinase activity , we used a continuous flu - tion of 3 M . 
+The values used for kinetic calculations were the orometric assay that measured the nucleoside diphosphate average of three measurements of the initial reaction rate . 
+product ( described under `` Experimental Procedures '' ) . 
+With ATP as the substrate , the specific activity of purified PduX-His6 DISCUSSION was 56.3 nmol min 1 mg of protein 1 . 
+In the absence of ATP , no activity was detected . 
+In the absence of PduX , - Thr , or both , Work done in a number of laboratories has defined many L activity decreased by 90 % . 
+The remaining 10 % activity appears steps in the de novo synthesis of AdoCbl and MeCbl ( 3 , 5 , to have resulted from ATP-dependent background fluores - 28 -- 32 ) . 
+Of particular relevance to this work are the studies cence . 
+Thus , enzyme assays indicate that PduX has L-Thr kinase reported by Brushaber et al. ( 13 ) , which showed the CobD activity . 
+enzyme catalyzes the decarboxylation L-Thr-P to AP-P . 
+This Linearity and Nucleoside Triphosphates Specificity of the finding predicted that B12 synthesis would require an L-Thr PduX Reaction -- The fluorometric assay described above as kinase . 
+Subsequently , Rodionov et al. ( 18 ) proposed that PduX well as an HPLC-based assay were used to determine the sub - homologues might be L-Thr kinases involved in B12 synthesis . 
+strate specificity of PduX . 
+Both assay methods gave similar This was based on sequence similarity to the GHMP family of results . 
+Setting ATP to 100 % , the activity of PduX-His6 with kinases and the observation that pduX genes were proximal to CTP , GTP , or UTP was 6 , 11 , and 3 % , respectively , by the flu - B12 biosynthetic genes in several instances . 
+However , it is well orometric method and 6 , 12 and 4 % , respectively , by HPLC known that functional predictions based on sequence similarity assay . 
+Assays contained 3 M purified PduX-His6 and 200 M and gene proximity are tentative . 
+In addition , a number of PduX nucleoside triphosphates . 
+The effect of PduX concentration on homologues are encoded by genes unlinked to B12 biosynthetic 
+FIGURE 8 . 
+Kinetic analyses of PduX . 
+Enzyme assays were performed with 3 M purified PduX-His6 protein . 
+When the Km value for ATP was determined , L-threonine was held at 500 M and the concentration of ATP was varied . 
+When the Km value for L-threonine was determined ATP was held at 200 M and the concentration of L-threonine was varied . 
+The values shown are the average of three measurements of the initial reaction rate . 
+The insets are the double-reciprocal plots of the kinetic data . 
+Acknowledgments -- We thank Dr. J. C. Escalante-Semerena , from the University of Wisconsin , for providing the cobyric acid used in this study . 
+We thank Dr. B. Fulton , from the Biomolecular Nuclear Magnetic Resonance Facility , Iowa State University , for help with NMR spectroscopy . 
+REFERENCES 
+1 . 
+Banerjee , R. ( ed ) ( 1999 ) Chemistry and Biochemistry of B , John Wiley 12 and Sons , New York 2 . 
+Schneider , Z. , and Stroinski , A. ( 1987 ) Comprehensive B12 : Chemistry , Biochemistry , Nutrition , Ecology , Medicine , Walter De Gruyter , Berlin 3 . 
+Escalante-Semerena , J. C. ( 2007 ) J. Bacteriol . 
+189 , 4555 -- 4560 4 . 
+Roth , J. R. , Lawrence , J. G. , Rubenfield , M. , Kieffer-Higgins , S. , and 
+5 . 
+Roth , J. R. , Lawrence , J. G. , and Bobik , T. A. ( 1996 ) Annu . 
+Rev. Microbiol . 
+50 , 137 -- 181 6 . 
+de Veaux , L. C. , Clevenson , D. S. , Bradbeer , C. , and Kadner , R. J. ( 1986 ) J. Bacteriol . 
+167 , 920 -- 927 7 . 
+Heller , K. , and Kadner , R. J. ( 1985 ) J. Bacteriol . 
+161 , 904 -- 908 8 . 
+Van Bibber , M. , Bradbeer , C. , Clark , N. , and Roth , J. R. ( 1999 ) J. Bacteriol . 
+181 , 5539 -- 5541 9 . 
+Escalante-Semerena , J. C. , Suh , S. J. , and Roth , J. R. ( 1990 ) J. Bacteriol . 
+172 , 273 -- 280 10 . 
+O'Toole , G. A. , and Escalante-Semerena , J. C. ( 1995 ) J. Biol . 
+Chem . 
+270 , 23560 -- 23569 11 . 
+Fujii , K. , and Huennekens , F. M. ( 1974 ) J. Biol . 
+Chem . 
+249 , 6745 -- 6753 12 . 
+Matthews , R. G. ( 1999 ) in Chemistry and Biochemistry of B12 ( Banerjee , R. , ed ) pp. 681 -- 706 , John Wiley & Sons , Inc. , New York 13 . 
+Brushaber , K. R. , O'Toole , G. A. , and Escalante-Semerena , J. C. ( 1998 ) J. Biol . 
+Chem . 
+273 , 2684 -- 3691 14 . 
+Cauthen , S. E. , Foster , M. A. , and Woods , D. D. ( 1966 ) Biochem . 
+J. 98 , 630 -- 635 15 . 
+Jeter , R. M. ( 1990 ) J. Gen. Microbiol . 
+136 , 887 -- 896 16 . 
+Roof , D. M. , and Roth , J. R. ( 1988 ) J. Bacteriol . 
+170 , 3855 -- 3863 17 . 
+Bobik , T. A. , Havemann , G. D. , Busch , R. J. , Williams , D. S. , and Aldrich , H. C. ( 1999 ) J. Bacteriol . 
+181 , 5967 -- 5975 18 . 
+Rodionov , D. A. , Vitreschak , A. G. , Mironov , A. A. , and Gelfand , M. S. ( 2003 ) J. Biol . 
+Chem . 
+278 , 41148 -- 41159 19 . 
+Sambrook , J. , Fritsch , E. F. , and Maniatis , T. ( 1989 ) Molecular Cloning : A Laboratory Manual , 2nd Ed. , Cold Spring Harbor Laboratory , Cold Spring Harbor , NY 20 . 
+Johnson , C. L. , Pechonick , E. , Park , S. D. , Havemann , G. D. , Leal , N. A. , and 
+21 . 
+Liu , Y. , Leal , N. A. , Sampson , E. M. , Johnson , C. L. , Havemann , G. D. , and Bobik , T. A. ( 2007 ) J. Bacteriol . 
+189 , 1589 -- 1596 22 . 
+Zayas , C. L. , and Escalante-Semerena , J. C. ( 2007 ) J. Bacteriol . 
+189 , 2210 -- 2218 23 . 
+Grabau , C. , and Roth , J. R. ( 1992 ) J. Bacteriol . 
+174 , 2138 -- 2144 24 . 
+Jeter , R. M. , and Roth , J. R. ( 1987 ) J. Bacteriol . 
+169 , 3189 -- 3198 25 . 
+Bobik , T. A. , Ailion , M. , and Roth , J. R. ( 1992 ) J. Bacteriol . 
+174 , 2253 -- 2266 26 . 
+Rondon , M. R. , and Escalante-Semerena , J. C. ( 1992 ) J. Bacteriol . 
+174 , 2267 -- 2272 27 . 
+Ailion , M. , Bobik , T. A. , and Roth , J. R. ( 1993 ) J. Bacteriol . 
+175 , 7200 -- 7208 28 . 
+Battersby , A. R. ( 1994 ) Science 264 , 1551 -- 1557 29 . 
+Krautler , B. ( 2005 ) Biochem . 
+Soc . 
+Trans . 
+33 , 806 -- 810 30 . 
+Roessner , C. A. , and Scott , A. I. ( 2006 ) J. Bacteriol . 
+188 , 7331 -- 7334 31 . 
+Scott , A. I. ( 2003 ) J. Org . 
+Chem . 
+68 , 2529 -- 2539 32 . 
+Warren , M. J. , Raux , E. , Schubert , H. L. , and Escalante-Semerena , J. C. ( 2002 ) Nat . 
+Prod . 
+Rep. 19 , 390 -- 412 33 . 
+Neuhard , J. , and Nygaard , P. ( 1987 ) in Escherichia coli and Salmonella typhimurium Cellular and Molecular Biology ( Neidhardt , F. C. , Ingraham , J. L. , Low , K. B. , Magasanik , B. , Schaechter , M. , and Umbarger , H. E. , eds ) p. 447 , American Society for Microbiology , Washington , DC 34 . 
+Ishii , N. , Nakahigashi , K. , Baba , T. , Robert , M. , Soga , T. , Kanai , A. , Hirasawa , T. , Naba , M. , Hirai , K. , Hoque , A. , Ho , P. Y. , Kakazu , Y. , Sugawara , K. , Igarashi , S. , Harada , S. , Masuda , T. , Sugiyama , N. , Togashi , T. , Hase-gawa , M. , Takai , Y. , Yugi , K. , Arakawa , K. , Iwata , N. , Toya , Y. , Nakayama , Y. , Nishioka , T. , Shimizu , K. , Mori , H. , and Tomita , M. ( 2007 ) Science 316 , 593 -- 597 35 . 
+Jeter , R. M. , Olivera , B. M. , and Roth , J. R. ( 1984 ) J. Bacteriol . 
+159 , 206 -- 213 36 . 
+Bork , P. , Sander , C. , and Valencia , A. ( 1993 ) Protein Sci . 
+2 , 31 -- 40

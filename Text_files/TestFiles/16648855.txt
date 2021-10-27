@@ -1,0 +1,320 @@
+ophospholipid sensing triggers secretion of ﬂagellin
+Flagellin induces inﬂammatory and innate immune responses through activation of Toll-like receptor 5 . 
+Here we show that proinﬂammatory monomeric ﬂagellin produced by salmonella during infection of intestinal epithelial cells was not derived from polymeric bacterial cell wall -- associated ﬂagellum but instead was synthesized and secreted de novo by the bacterium after direct sensing of host-produced lysophospholipids . 
+Inhibition of lysophospholipid biosynthesis in intestinal epithelial cells reduced ﬂagellin production and release from salmonella . 
+Lysophospholipids induced a cAMP-dependent signaling pathway in salmonella that resulted in production and secretion of active ﬂagellin . 
+The induction of Toll-like receptor ligand synthesis and secretion by a host signal represents a previously unknown regulatory mechanism for inﬂammation and innate immunity during infection with a bacterial pathogen . 
+The innate immune system functions by recognizing conserved pathogen-associated molecular patterns through many patternrecognition receptors such as Toll-like receptors ( TLRs ) . 
+In mice there are at least 11 members of the TLR family that recognize conserved components of pathogens such as bacterial lipopoly-saccharide ( LPS ) , peptidoglycan , bacterial ﬂagellin , bacterial DNA , viral RNA and other types of ligands1 . 
+Flagellin is the main protein component of bacterial ﬂagella , which are motility structures known to be essential for the pathogenesis of many gastrointestinal , respiratory and renal tract bacteria . 
+Both in vitro and in vivo studies have shown that ﬂagella facilitate infection of host cells and bacterial colonization and provide important stimuli for eliciting host inﬂammatory responses2 -- 8 . 
+The ﬂagellin of many bacterial pathogens is a target of antibodies and T cells during infection9 -- 14 . 
+However , it is the recognition of ﬂagellin by TLR5 expressed by many cell types , including intestinal epithelial cells ( IECs ) , dendritic cells and macrophages , that is responsible for most host inﬂammatory responses produced by this mole-cule15 -- 22 . 
+A primary mechanism by which IECs generate inﬂammatory and innate immune responses after infection with pathogenic salmonella is detection of ﬂagellin by TLR5 ( ref . 
+2 ) . 
+The importance of this mechanism is emphasized by the inability of ﬂagellin-deﬁcient Salmonella typhimurium to generate inﬂammatory responses from IECs in vitro18 . 
+A potential ﬂagellin-TLR5 -- mediated induction of innate immune responses assumes an even greater importance in the gut because expression of the main LPS innate receptor TLR4 is downregulated at this mucosal site23 . 
+The responses mediated through TLR5 are crucial in recruiting neutrophils , macro-phages and dendritic cells to the site of salmonella infection , host cells that are vital to the systemic dissemination of this pathogen2 . 
+The capacity to generate inﬂammatory responses via TLR5 is associated exclusively with monomeric ﬂagellin , as polymers of ﬂagellin ( ﬂagella ) do not bind to TLR5 ( ref . 
+24 ) . 
+Given that the main form of ﬂagellin on the surface of an infectious bacterium is the polymeric ﬂagellum , an important issue concerns the mechanism by which monomeric ﬂagellin is made available to induce TLR5-mediated inﬂammation . 
+We show here that production and release of biologically active monomeric ﬂagellin occurred de novo by a regulated process activated in salmonella after sensing of host-pro-duced lysophospholipids by the bacterium . 
+Our results therefore characterize a previously unknown mode of regulation of inﬂammatory and innate immune responses . 
+RESULTS Salmonella-IEC interaction promotes ﬂagellin secretion
+To understand how ﬂagellin monomers are made available to the innate immune system , we began by analyzing the induction of inﬂammatory responses from IECs after infection with S. typhi , a common pathogenic salmonella strain . 
+We used the model human IEC line Caco-2 for this study25 . 
+The absence of a fully competent LPS receptor on this cell line , coupled with its competence for TLR5 signaling , made it a convenient system for analyzing host cell responses to ﬂagellin23 . 
+We infected Caco-2 cells with live or genta-mycin-treated S. typhi and measured production of the chemokine interleukin 8 ( IL-8 ) in the cell supernatants . 
+Induction of IL-8 secretion after infection required metabolically active bacteria , as gentamycin-treated S. typhi did not trigger substantial IL-8 secretion even at a multiplicity of infection 10 times higher than that used with live S. typhi ( Supplementary Fig. 1 online ) . 
+Induction of IL-8 from Caco-2 was also efﬁciently reproduced by incubation of the cells with culture supernatant alone from a culture of S. typhi ; this was completely abrogated , however , when the supernatant was ﬁrst depleted of ﬂagellin ( Supplementary Fig. 1 ) . 
+These data demonstrated that ﬂagellin secreted by S. typhi was important in inducing IL-8 secretion from human IECs , a result consistent with published studies of another pathogenic strain of salmonella , S. typhimurium18 . 
+The inability of gentamycin-treated S. typhi , which were otherwise competent for host cell contact and had high density of ﬂagella ( data not shown ) , to induce IL-8 secretion from Caco-2 cells suggested that polymeric ﬂagella associated with the surface of bacteria were not the source of biologically active ﬂagellin ( through shearing , for example ) responsible for inducing inﬂammatory responses from IECs . 
+Culture supernatant obtained from S. typhi incubated with Caco-2 cells induced IL-8 secretion from fresh Caco-2 monolayers , which did not occur with supernatant derived from S. typhi grown in cell culture medium without Caco-2 cells ( Fig. 1a ) . 
+There was also IL-8 secretion with supernatants obtained from S. typhi incubated with serum-free Caco-2 culture supernatant ( Caco-2 -- CS ) . 
+That result suggested that S. typhi might secrete biologically active ﬂagellin after contact with an IEC-derived stimulus . 
+We therefore investigated possible involvement of a host signal in inducing secretion of mono-meric ﬂagellin . 
+We incubated bacteria with Caco-2 cells or Caco-2 -- CS and analyzed ﬂagellin in supernatants from the bacterial culture by immuno-blot . 
+The stimuli induced release of ﬂagellin from both S. typhi and S. typhimurium ( Fig. 1b ) . 
+The faster-migrating band obtained from S. typhimurium incubated with Caco-2 cells represented a proteolytically degraded fragment of ﬂagellin , which was occasionally present for both S. typhi and S. typhimurium . 
+There was similarly ﬂagellin secretion by S. typhimurium in experiments using two other human IEC lines , HT-29 and T-84 ( Fig. 1c ) . 
+The secreted ﬂagellin was biologically active , as it induced secretion of IL-8 from fresh Caco-2 cells ( Fig. 1a ) . 
+The amount of ﬂagellin secreted by S. typhi positive for the outer capsular polysaccharide ( Vi ) after incubation with Caco-2 cells or Caco-2 -- CS varied depending on the expression of Vi , which suggested that in addition to downregulating inﬂammatory responses from host cells26 , Vi might also modulate S. typhi responses to a host signal . 
+Therefore , we used a Vi-negative pathogenic strain of S. typhi in subsequent experiments ; in addition , we also used S. typhimurium for some experiments , as infection of mice with this strain represents the most extensively studied animal model of salmonella pathogenesis . 
+Host-produced lysophospholipids induce ﬂagellin secretion
+To identify the nature of the molecules present in Caco-2 cells or Caco-2 -- CS that could stimulate ﬂagellin secretion , we did a preli-minary analysis in which we evaluated ﬂagellin release after stimulating S. typhi with heat-treated or methanol-ﬁxed Caco-2 cells or with heat-treated or proteinase K -- treated Caco-2 -- CS . 
+Those treatments did not affect the ability of cells or the culture supernatant to trigger ﬂagellin secretion , suggesting that the factors involved in activating ﬂagellin release were not proteinaceous ( Fig. 2a , b ) . 
+Flagellin secretion was also activated by one or more components of fetal calf serum ( FCS ; Fig. 2c , d ) and could be reproduced with bovine serum albumin but not with another serum protein , transferrin ( Fig. 2e ) . 
+However , the presence of serum ( 10 % FCS ) did not affect bacterial numbers , suggesting that ﬂagellin secretion in serum-supplemented medium was not a result of increased bacterial growth ( data not shown ) . 
+Many biological activities of serum are mediated by lipids associated with albumin27 . 
+Because the molecules responsible for activating release of ﬂagellin from salmonella were resistant to protein-denatur-ing conditions , we reasoned that one or more of these lipids might be required to induce ﬂagellin secretion . 
+One of the most abundant lipids associated with albumin in serum is lysophosphatidic acid ( LPA ) , a multifunctional lipid mediator involved in cell proliferation , platelet aggregation , tumor cell invasion and chemotaxis27 . 
+The addition of exogenous LPA mimicked the effect of Caco-2 cells or FCS in triggering release of biologically active ﬂagellin from S. typhi and S. typhimurium ( Fig. 3a , b ) . 
+Further analysis showed that the ability to activate ﬂagellin secretion from both salmonella strains was not restricted to LPA , as lysophosphatidylcholine ( LPC ) also stimulated release of ﬂagellin , although LPA was a more potent inducer than LPC . 
+In contrast , incubation of S. typhi with phosphatidic acid or phosphatidylcholine did not result in increased ﬂagellin secretion above background , suggesting that the stimulatory activity was speciﬁc to lysophospholipids ( Fig. 3c ; response with phosphatidic acid similar to that with phosphatidylcholine ) . 
+At the concentrations used , incubation with LPA or LPC did not affect bacterial growth or viability ( data not shown ) . 
+To provide some indication that binding of LPA to salmonella occurred via a speciﬁc receptor , we did a limited competitive inhibition study in which membrane components from one strain of salmonella were used to compete for binding to exogenously added LPA . 
+LPA-mediated release of ﬂagellin from S. typhi was inhibited when the lipid was preincubated with protein extract derived from S. typhimurium membrane ( Supplementary Fig. 2 online ) ; however , there was no inhibition when the lipid was preincubated with S. typhimurium cytosol . 
+These data support the hypothesis that salmonella strains express a membrane-associated receptor that can bind to lysophospholipids . 
+Blocking lysophospholipid production reduces ﬂagellin secretion 
+After our demonstration that lysophospholipids could activate release of ﬂagellin from two pathogenic salmonella strains , the next important issue was whether LPA , LPC or a related lysophospholipid was also the active component in Caco-2-mediated ﬂagellin secretion . 
+Lysophospholipids are generated in cells after hydrolysis of phospholipids by the phospholipase A2 ( PLA2 ) class of enzymes , which include the calcium-dependent secretory PLA2 ( sPLA2 ) , calcium-dependent cyto-solic PLA2 ( cPLA2 ) and calcium-independent cell-associated PLA2 ( iPLA2 ) 28 enzymes . 
+We therefore assessed the function of these enzymes in the capacity of Caco-2 cells to stimulate the release of ﬂagellin from S. typhi . 
+We pretreated cells with speciﬁc PLA2 inhibitors ( prostaglandin Bx to inhibit sPLA2 ( ref . 
+29 ) , arachidonoyl triﬂuoro-methylketone to inhibit cPLA2 ( ref . 
+30 ) and bromoenol lactone to inhibit iPLA2 ( ref . 
+31 ) , before infecting the cells with S. typhi and analyzing the supernatants for the presence of ﬂagellin . 
+At the same time , we also analyzed Caco-2 -- CS obtained from cells treated with the inhibitors for its capacity to stimulate secretion of ﬂagellin from S. typhi . 
+Inhibition of iPLA2 abrogated the capacity of Caco-2 cells to stimulate release of ﬂagellin , whereas inhibition of sPLA2 suppressed the ability of Caco-2 -- CS to trigger secretion of ﬂagellin ( Fig. 4a ) . 
+Treatment with cPLA2 inhibitor did not affect Caco-2-induced secretion of ﬂagellin . 
+As a control for speciﬁcity , these inhibitors did not inhibit release of LPS from S. typhi ( data not shown ) . 
+Therefore , lysophospholipids produced by iPLA2 and or sPLA2 in Caco-2 cells could stimulate S. typhi to secrete ﬂagellin . 
+Consistent with those ﬁndings , we were also able to demonstrate the presence of LPC by thin-layer chromatography in culture supernatants derived from Caco-2 cells grown in serum-free conditions ( Fig. 4b ) . 
+In extraction conditions that normally lead to more recovery of LPA than LPC , we detected no LPA in Caco-2 -- CS supernatants . 
+Instead , the supernatants contained LPC , indicating that LPC was the principal lysophospholipid contributing to the ﬂagellin-inducing activity of Caco-2 -- CS . 
+We conﬁrmed the identity of LPC as the active molecule by staining the thin-layer chromatography plate with Dragendorf reagent , which speciﬁcally stains choline-containing lipids ( data not shown ) . 
+More notably , mass spectrometry of the LPC spot extracted from silica showed it was an oleoyl derivative of LPC ( Supplementary Fig. 3 online ) . 
+To rule out the possibility that LPC was released because of induction of apoptosis in Caco-2 cells when grown in serum-free conditions , we stained the cells with annexin V and propidium iodide , which showed they were not undergoing apoptosis ( data not shown ) . 
+The data were all consistent with the conclusion that the Caco-2 cells constitutively secrete LPC . 
+The iPLA2-dependent secretion of ﬂagellin in vivo To establish that host signal -- dependent secretion of ﬂagellin from salmonella was relevant during infection of IECs in vivo , we analyzed the release of ﬂagellin from S. typhimurium after interaction with intestinal cells ex vivo and in a ligated ileal loop model in vivo . 
+Salmonella released ﬂagellin during interaction with intestinal cells , which was inhibited when cells were preincubated with the iPLA2 inhibitor bromoenol lactone ( Fig. 5a ) ; we obtained similar results with ligated intestinal loops . 
+Flagellin release from S. typhimurium readily detected in the intestinal loops was abrogated in mice fed bromoenol lactone ( Fig. 5b ) . 
+Also , similar to results obtained with Caco-2 cells , treatment with bromoenol lactone did not affect release of LPS from salmonella . 
+These results demonstrated that induction of ﬂagellin release from salmonella by host-derived lysophospholipids occurs during in vivo infection . 
+Flagellin release involves active signaling , not ﬂagellar shearing 
+The results reported above showed that interaction with host-derived lysophospholipids could activate release of ﬂagellin from salmonella . 
+We needed to establish that this release was an active response to sensing of a host signal rather than a result of depolymerization or shearing of ﬂagella into monomeric ﬂagellin . 
+To address that issue , we determined that incubation of S. typhi with LPC did not reduce ﬂagellar density , as demonstrated by binding of monoclonal antibody to ﬂagellin to intact bacteria ; in fact , there was a modest increase in ﬂagellin expression on bacteria treated with LPC ( Supplementary Fig. 4 online ) . 
+In addition , analysis of ﬂagellar in the cytosol and supernatant of bacteria showed that LPC and Caco-2 -- CS induced expression of ﬂagellin in the cytosol that was associated with its concomitant release in the supernatant ( Fig. 6a ) , a ﬁnding consistent with the idea that translation of ﬂagellin in salmonella is coupled to its secretion32 . 
+LPC or Caco-2 -- CS did not modulate release of the TLR4 ligand LPS from salmonella , indicating that lysophospholipid sensing by this pathogen was speciﬁcally activating the expression of ﬂagellin . 
+Secretion of ﬂagellin was considerably reduced in the presence of gentamycin , an inhibitor of bacterial protein synthesis , which indicated that the induction of ﬂagellin release required new protein synthesis ( Fig. 6b ) , a result consistent with the absence of IL-8 secretion from Caco-2 cells infected with gentamycin-treated S. typhi ( Supplementary Fig. 1 ) . 
+Finally , we conﬁrmed induction of ﬂagellin transcription in response to activation with lysophospholipids by analyzing expression of b-galactosidase by a strain of S. typhimurium carrying a promoterless Lac operon fused to the ﬂiC promoter33 . 
+Incubation of these bacteria with lysophospholipids , Caco-2 cells , Caco-2 -- CS or mouse intestinal explants led to a substantial increase in intracellular b-galactosidase , suggesting that the host stimuli could activate transcription from the ﬂiC promoter ( Fig. 6c ) . 
+The increase in b-galactosidase after activation of bacteria with those stimuli was also associated with release of very small amounts of this enzyme into the supernatant ( data not shown ) , indicating that ﬂiC-driven expression of b-galactosidase might also result in the ( inefﬁcient ) export of this enzyme through the ﬂagellar export system . 
+Flagellin secretion occurs via cAMP-dependent signaling
+To gain further insight into the mechanism of lysophospholipidmediated induction of ﬂagellin expression and secretion , we analyzed the involvement of cyclic AMP ( cAMP ) in this process . 
+Both cAMP and cAMP receptor protein are known to regulate expression of ﬂagellin and biogenesis of ﬂagella in salmonella33 ; S. typhimurium strains lacking adenylate cyclase or cAMP receptor protein are nonmotile34 . 
+To investigate the involvement of cAMP in LPC-induced ﬂagellin secretion , we incubated bacteria with glucose before activating them with LPC . 
+Glucose decreases cAMP in bacteria , a phenomenon commonly referred to as ` catabolite repression ' 35 . 
+Prior incubation with this sugar reduced the ability of S. typhi to secrete ﬂagellin in response to activation with LPC , suggesting involvement of intracellular cAMP in LPC-mediated ﬂagellin release . 
+Consistent with that mechanism , the inhibitory effect of glucose on ﬂagellin secretion was reversed when cAMP was provided during activation of S. typhi with LPC ( Fig. 7a ) . 
+However , there was no detectable ﬂagellin secretion in the presence of cAMP alone . 
+The involvement of cAMP in LPC-induced secretion of ﬂagellin was also demonstrated by analysis of an adenylate cyclase -- mutant strain of S. typhimurium ( Dcya-27 ) . 
+Unexpectedly , this strain did secrete ﬂagellin in response to LPC , but the amount secreted was very low . 
+However , ﬂagellin secretion was increased when cAMP was provided at the time of stimulation with the lipid ( Fig. 7b ) . 
+The electrophoretic mobility of ﬂagellin released by this mutant strain of S. typhimurium was slightly different from that of the wild-type strain ( for unknown reasons ) . 
+Unlike the Dcya-27 strain , however , a Dcya-27 -- Dcrp-27 strain of S. typhimurium ( lacking both adenylate cyclase and the cAMP receptor protein ) did not demonstrate any detectable ﬂagellin secretion after incubation with LPC or LPC and cAMP ( data not shown ) . 
+DISCUSSION
+Early inﬂammatory and innate immune responses during microbial infection are initiated after recognition of conserved molecular patterns by TLRs1 . 
+These responses constitute an essential defense mechanism against pathogenic microbes . 
+TLR5 recognizes bacterial ﬂagellin , the monomeric component of the ﬂagellar ﬁlament15 . 
+Flagellin is important in generating inﬂammatory and innate immune responses from IECs during infection with salmonella and many other bacterial pathogens2 . 
+A unique feature of the ﬂagellin-TLR5 interaction is that signaling through the receptor can be initiated only by monomeric ﬂagellin because the receptor recognition domain is ` hidden ' in the multimeric complex ﬂagellum24 , the main form of ﬂagellin in bacteria . 
+Here we have identiﬁed a mechanism by which biologically active ﬂagellin is produced from pathogenic salmonella through a host-dependent process . 
+One consequence of this for the host is that the secreted ﬂagellin can then be sensed by the innate pattern-recognition receptors to activate the innate immune system . 
+The data provided here have shown that ﬂagellin was not derived from shearing or depolymerization of ﬂagella present on the surface of the bacterium but instead was newly synthesized and secreted after contact of the pathogen with host cells . 
+We have identiﬁed the host molecules capable of bringing about release of ﬂagellin from salmonella as lysophospholipids by three independent but complementary approaches . 
+First , puriﬁed lysophospholipids such as LPA and LPC efﬁciently activated ﬂagellin secretion from two strains of salmonella ; second , LPC was the main lysophospholipid in Caco-2 -- CS and third , inhibition of iPLA2 or sPLA2 , enzymes responsible for generating lysophospholipids , abrogated the ability of cells to stimulate ﬂagellin secretion . 
+The iPLA2-dependent release of ﬂagellin occurred not only with a model human IEC line but also with normal mouse intestinal cells , indicating the physiological importance of the phenomenon . 
+Our results assign a new function to lysophospholipids and suggest that in addition to modulating adaptive immune responses through activation of speciﬁc G protein -- coupled receptors on immune cells36 ,37 , these molecules might have a vital function in regulating inﬂammatory and innate immune responses by directly activating expression and secretion of a key bacterial TLR ligand . 
+Increased PLA2 has been reported in sera of typhoid patients38 ; this could lead to increased production of lysophospholipids and consequently to propagation of inﬂammatory and or innate immune responses during infection with S. typhi . 
+It is notable that these hostderived lipids engage a cAMP-dependent cascade of intracellular signaling in salmonella , a pathway known to be important in transcription of the ﬂagellar regulon33 . 
+The molecular details of the lipid sensor -- transduced , intracellular signaling pathway will become clear once the lipid sensor is identiﬁed . 
+The sensor could possibly be a two-component bacterial sensor39 or a G protein -- coupled receptor ; LPA and LPC are recognized by G protein -- coupled receptors in mammalian cells27 ,40 . 
+In summary , our study has demonstrated a new mode of regulation of inﬂammatory and innate immune responses during infection with a bacterial pathogen . 
+Activation of ﬂagellin secretion from salmonella after interaction with IECs could , through induction of inﬂammatory mediators41 and consequently through recruitment of inﬂammatory cells to the site of infection , promote systemic dissemination of this pathogen . 
+It may also , as suggested before20 , promote development of T helper type 2 responses , a modulation that could favor establishment of infection with salmonella . 
+In contrast to upregulation of ﬂagellin during interaction with IECs , salmonella is believed to downregulate expression of ﬂagellin when it establishes itself in macrophages42 , a response considered to be one of the immune-evasion mechanisms used by this pathogen because ﬂagellin is also a dominant target of T cells during infection of mice with S. typhimurium9 ,10 . 
+Therefore , salmonella ( and perhaps other bacterial pathogens ) seems to have evolved sensory mechanisms by which , depending on the requirement , it can respond to the host environment in different ways at different stages of infection . 
+Our results suggest that during infection of the gut with salmonella , sensing of host lysophospholipids serves as a key signal for activating release of ﬂagellin from this pathogen . 
+Given that ﬂagellin is a potent mediator of innate and inﬂammatory responses in vitro and in vivo2 ,15 -- 22,41 and that it can modulate the suppressive function of human T regulatory cells in vitro43 , our ﬁndings have important implications for inﬂammation and immunity . 
+METHODS
+Cell lines , bacterial strains and other reagents . 
+The human IEC lines Caco-2 , HT-29 and T-84 ( American Type Culture Collection ) were grown in RPMI 1640 medium supplemented with 10 % heat-inactivated FCS ( RPMI-10 ) in a humidiﬁed atmosphere of 5 % CO2 at 37 1C . 
+S. typhi ( Vi-positive and Vi-negative isolates ) and S. typhimurium were provided by G. Mehta ( Lady Hardinge Medical College , New Delhi , India ) . 
+S. typhimurium SL1344 was provided by E. Charpentier ( University of Vienna , Vienna , Austria ) . 
+The S. typhimurium strain carrying a transcriptional fusion of ﬂiC and lac operon was obtained from K. Kutsukake ( University of Tokyo , Tokyo , Japan ) . 
+The strains of S. typhimurium UK-1 ( wild-type , adenylate cyclase mutant ( Dcya-27 ) and adenylate cyclase -- and -- cAMP receptor protein double-mutant ( Dcya-27 -- Dcrp-27 ) ) were made available by R. Curtiss ( Arizona State University , Phoenix , Arizona ) . 
+Bacteria were grown in Luria Bertani ( LB ) broth at 37 1C with shaking ( 200 r.p.m. ) . 
+We obtained 18:1 LPA , 18:1 phosphatidic acid , 18:1 LPC and 18:1 phosphatidylcholine from Avanti Polar Lipids ( 18:1 indicates the 18-carbon unsaturated oleoyl derivative of the lipid ) . 
+Monoclonal antibodies to S. typhi ﬂagellin and S. typhi LPS have been described44 ,45 . 
+Rabbit antibody to S. typhimurium ﬂagellin was purchased from BD Laboratories . 
+Bromoenol lactone , arachidonoyl triﬂuoromethyl ketone and prostaglandin Bx were purchased from Cayman Laboratories . 
+Adenosine 3 cents ,5 cents - cAMP was obtained from Sigma-Aldrich . 
+Activation of salmonella with stimuli . 
+S. typhi freshly grown in LB broth were washed with and resuspended in serum-free RPMI 1640 medium . 
+Bacterial numbers were determined by measurement of absorbance at 630 nm . 
+Bacteria were incubated with Caco-2 cells at a pathogen/cell ratio of 100:1 or were stimulated with Caco-2 -- CS . 
+Caco-2 -- CS was derived from Caco-2 cells grown for 10 -- 15 h in serum-free conditions at a density of 1 106 to 2 106 cells/ml . 
+Salmonella was also stimulated with varying concentrations of FCS , LPA , phosphatidic acid , LPC or phosphatidylcholine . 
+LPA was found to precipitate in RPMI 1640 medium , possibly because of association with divalent cations such as Ca2 + and Mg2 + . 
+Therefore , in some experiments , bacterial stimulation with lipids was done in PBS . 
+Bacteria ( 2 108 suspended in 1 ml buffer ) were incubated for 1 h at 37 1C with various stimuli . 
+After incubation , bacterial suspensions were centrifuged at 13,000 g for 5 min and the supernatants were ﬁltered through a 0.22-mm membrane to remove bacteria and or any cellular debris . 
+In some experiments , bacteria were treated for 1 h with gentamycin ( 100 mg/ml ) before being incubated with various stimuli . 
+For study of LPC-induced ﬂagellin release , S. typhi was treated for 15 min with 100 mM D ( + ) - glucose , followed by incubation for 10 min at 37 1C with LPC in the presence or absence of 5 mM cAMP . 
+In addition , wild-type S. typhimurium UK-1 and Dcya-27 S. typhimurium UK-1 were incubated for 10 min at 37 1C with LPC in presence or absence of 5 mM cAMP and the supernatants were analyzed for the presence of ﬂagellin . 
+Preparation of bacterial membranes and cytosol . 
+Salmonella were grown in LB medium and were washed and resuspended in PBS . 
+The bacterial suspension was sonicated and then was spun at 13,000 g to remove debris . 
+The supernatant was centrifuged at 100,000 g for 2 h at 4 1C to obtain bacterial membranes ( pellet ) and cytosol ( supernatant ) . 
+Caco-2 treatment . 
+Caco-2 cells were recovered from 75-cm2 tissue culture ﬂasks after treatment with trypsin-EDTA and were washed and resuspended in serum-free RPMI 1640 medium . 
+Cells were seeded in a 24-well tissue culture plate at a density of 5 105 cells/well or in a 6-well plate at a density of 2 106 cells/well and were incubated at 37 1C in an atmosphere of 5 % CO . 
+Cells were 2 left untreated or were subjected to methanol ﬁxation for 5 min or to heat inactivation at 80 1C for 1 h. Caco-2 -- CS was digested for 1 h at 37 1C with 1 mg/ml of proteinase K , followed by heat treatment at 80 1C for 45 min to inactivate proteinase K . 
+In some experiments , cells were treated with 100 mM arachidonoyl triﬂuoromethylketone , 20 mM prostaglandin B or bromoenol x lactone ( used at a concentration of 40 mM from a stock in ethanol or 10 mM from a stock in dimethyl sulfoxide , in which it was more readily soluble ) for 10 h at 37 1C in an atmosphere of 5 % CO2 . 
+After inhibitor treatment , cells were washed thoroughly and were left in serum-free RPMI 1640 medium for another 3 h. S. typhi ( 2 108 bacteria/ml ) were incubated for 1 h with inhibitor-treated cells as well as 3-hour culture supernatants from these cells and ﬂagellin in the supernatants was analyzed by immunoblot . 
+Intestinal cells and ligated intestinal loop assays . 
+Experiments with mice were done according to the guidelines provided by the Institutional Animal Ethics Committee of the National Institute of Immunology ( New Delhi , India ) . 
+Small intestines were removed from C57BL/6 mice and were washed with PBS and then the mucus was removed with 1 mM dithiothreitol . 
+The intestine was washed repeatedly with PBS to remove all traces of dithiothreitol , was ﬁlled with RPMI medium , was tied at the ends and was incubated for 1 h at 25 1C in RPMI medium . 
+Intestinal cells were ﬂushed out with fresh medium and were seeded at a density of 2 106 cells/well on a six-well plate . 
+Cells were treated with 5 mM bromoenol lactone for 15 h at 37 1C in an atmosphere of 5 % CO2 . 
+The inhibitor was washed off and cells were infected for 1 h with 2 108 S. typhimurium in 1 ml RPMI medium . 
+For experiments with ligated intestinal loops , mice were starved for 8 h before they were fed 10 mM bromoenol lactone in water for 20 h. Mice were anesthetized by intraperitoneal injection of a ketamine-xylazine mixture and were kept anesthetized for the duration of the experiment . 
+A ileal loop 3 -- 3.5 cm in length from control mice or mice fed bromoenol lactone was injected with 2 108 S. typhimurium SL1344 in 300 ml PBS . 
+At 30 min after infection , the contents of the loop were collected and were centrifuged at 13,000 g to pellet bacteria and cellular debris . 
+Flagellin in supernatants was analyzed by immunoblot . 
+was assessed by immunoblot . 
+Supernatants from bacteria incubated with FCS were ﬁrst immunoprecipitated with monoclonal antibody to S. typhi ﬂagellin and then were analyzed by immunoblot . 
+Supernatants were incubated with protein G -- Sepharose beads preloaded with antibody to ﬂagellin . 
+Beads were washed with PBS containing 0.5 % Nonidet-P40 and were boiled for 5 min with Laemmli sample buffer ( nonreducing ) . 
+Samples were separated by 12 % SDS-PAGE , were transferred to nitrocellulose and were blotted with antibody to ﬂagellin . 
+Reactive bands were visualized with Enhanced Chemiluminescence Reagent ( Amersham Pharmacia Biotech ) . 
+For detection of LPS , blots were stripped with a solution of low pH ( 0.15 M NaCl containing acetic acid , pH 3 ) and were reprobed with monoclonal antibody to S. typhi LPS . 
+IL-8 enzyme-linked immunosorbent assay ( ELISA ) . 
+Filter-sterilized supernatants obtained from bacteria activated with various stimuli were added in triplicate to Caco-2 monolayers in a 96-well plate ( 100 ml supernatant plus 100 ml RPMI-10 per well ) and were incubated for 5 h at 37 1C in an atmosphere of 5 % CO2 . 
+Supernatants were collected and assayed for IL-8 by a commercially available ELISA kit ( Opt EIA Human IL-8 Set ; BD Pharmingen ) . 
+Flagellar density on salmonella . 
+S. typhi incubated with various concentrations of LPC for 1 h were pelleted at 13,000 g for 5 min and were incubated with monoclonal antibody to S. typhi ﬂagellin . 
+Bacteria were washed with PBS containing 1 % BSA and were incubated with horseradish peroxidase -- conjugated antibodies to mouse immunoglobulin . 
+Enzyme activity was assessed with a freshly prepared substrate solution containing H2O2 and O-phenylene-diamine , and absorbance at 490 nm was measured after reactions were stopped with 2 N H2SO4 . 
+b-galactosidase assay . 
+The S. typhimurium strain containing the ﬂiC promoter 8 region fused to a promoterless lacZ ( 4 10 bacteria/ml ) was activated for 10 min at 37 1C with various stimuli ( LPA , LPC , Caco-2 cells , Caco-2 -- CS and 1-cm intestinal fragments from C57BL/6 mice ) . 
+Bacterial suspensions were centrifuged at 13,000 g for 5 min . 
+Pellets were resuspended in 1 ml PBS and sonicated and the debris were pelleted at 13,000 g . 
+The b-galactosidase activity in the supernatants was assayed by a colorimetric assay with chlorophenol red b-D-galactoside as the substrate , and absorbance at 570 nm was measured . 
+Caco-2 -- CS lipid analysis . 
+Caco-2 -- CS was ﬁltered to remove any cellular debris and was dried by lyophillization . 
+Lysophospholipids were extracted as described46 . 
+The lyophilized cell supernatant was reconstituted in buffer containing 30 mM citric acid and 40 mM Na2HPO4 , pH 4 . 
+For extraction of lipids , 4 ml of 1-butanol and 2 ml of water-saturated 1-butanol were added to 1.5 ml reconstituted supernatant and the mixture was vortexed vigorously . 
+After phase separation , the organic extracts were pooled and were dried by lyophillization . 
+Lipids were dissolved in chloroform and were separated by thin-layer chromatography , alongside LPA and LPC standards , with chloroform/methanol/distilled water/25 % ammonia ( 32.5:15:2:1 , volume/volume ) as the mobile phase . 
+Spots were detected after exposure to iodine vapor or were stained with Dragendorf reagent as described47 . 
+The spot corresponding to LPC was scraped off , was extracted by sonication from the silica gel in chloroform / methanol/water ( 4:4:1 , volume/volume ) and was analyzed by electrospray-ionization mass spectrometry . 
+Reprints and permissions information is available online at http://npg.nature.com/ 
+1 . 
+Takeda , K. & Akira , S. Toll-like receptors in innate immunity . 
+Int . 
+Immunol . 
+17 , 1 -- 14 ( 2005 ) . 
+2 . 
+Ramos , H.C. , Rumbo , M. & Sirard , J.C. Bacterial ﬂagellins : mediators of pathogenicity and host immune responses in mucosa . 
+Trends Microbiol . 
+12 , 509 -- 517 ( 2004 ) . 
+3 . 
+La Ragione , R.M. , Cooley , W.A. , Velge , P. , Jepson , M.A. & Woodward , M.J. Membrane rufﬂing and invasion of human and avian cell lines is reduced for aﬂagellate mutants of Salmonella enterica serotype Enteritidis . 
+Int . 
+J. Med . 
+Microbiol . 
+293 , 261 -- 272 ( 2003 ) . 
+4 . 
+Barnich , N. , Boudeau , J. , Claret , L. & Darfeuille-Michaud , A. Regulatory and functional co-operation of ﬂagella and type 1 pili in adhesive and invasive abilities of AIEC strain LF82 isolated from a patient with Crohn 's disease . 
+Mol . 
+Microbiol . 
+48 , 781 -- 794 ( 2003 ) . 
+5 . 
+Schmitt , C.K. et al. . 
+Absence of all components of the ﬂagellar export and synthesis machinery differentially alters virulence of Salmonella enterica serovar Typhimurium in models of typhoid fever , survival in macrophages , tissue culture invasiveness , and calf enterocolitis . 
+Infect . 
+Immun . 
+69 , 5619 -- 5625 ( 2001 ) . 
+6 . 
+Robertson , J.M. et al. . 
+Lack of ﬂagella disadvantages Salmonella enterica serovar Enteritidis during the early stages of infection in the rat . 
+J. Med . 
+Microbiol . 
+52 , 91 -- 99 ( 2003 ) . 
+7 . 
+Chua , K.L. , Chan , Y.Y. & Gan , Y.H. Flagella are virulence determinants of Burkholderia pseudomallei . 
+Infect . 
+Immun . 
+71 , 1622 -- 1629 ( 2003 ) . 
+8 . 
+Feldman , M. et al. . 
+Role of ﬂagella in pathogenesis of Pseudomonas aeruginosa pulmonary infection . 
+Infect . 
+Immun . 
+66 , 43 -- 51 ( 1998 ) . 
+9 . 
+Cookson , B.T. & Bevan , M.J. Identiﬁcation of a natural T cell epitope presented by Salmonella-infected macrophages and recognized by T cells from orally immunized mice . 
+J. Immunol . 
+158 , 4310 -- 4319 ( 1997 ) . 
+10 . 
+McSorley , S.J. , Cookson , B.T. & Jenkins , M.K. Characterization of CD4 + T cell responses during natural infection with Salmonella typhimurium . 
+J. Immunol . 
+164 , 986 -- 993 ( 2000 ) . 
+11 . 
+Sitaraman , S.V. et al. . 
+Elevated ﬂagellin-speciﬁc immunoglobulins in Crohn 's Disease . 
+Am . 
+J. Physiol . 
+Gastrointest . 
+Liver Physiol . 
+288 , G403 -- G406 ( 2005 ) . 
+12.Ochoa-Reparaz , J. et al. . 
+Humoral immune response in hens naturally infected with Salmonella Enteritidis against outer membrane proteins and other surface structural antigens . 
+Vet . 
+Res . 
+35 , 291 -- 298 ( 2004 ) . 
+13 . 
+Cawthraw , S.A. , Feldman , R.A. , Sayers , A.R. & Newell , D.G. Long-term antibody responses following human infection with Campylobacter jejuni . 
+Clin . 
+Exp . 
+Immunol . 
+130 , 101 -- 106 ( 2002 ) . 
+14.Sbrogio-Almeida , M.E. & Ferreira , L.C. Flagellin expressed by live Salmonella vaccine strains induces distinct antibody responses following delivery via systemic or mucosal immunization routes . 
+FEMS Immunol . 
+Med . 
+Microbiol . 
+30 , 203 -- 208 ( 2001 ) . 
+15 . 
+Hayashi , F. et al. . 
+The innate immune response to bacterial ﬂagellin is mediated by Tolllike receptor 5 . 
+Nature 410 , 1099 -- 1103 ( 2001 ) . 
+16.Ciacci-Woolwine , F. , Blomﬁeld , I.C. , Richardson , S.H. & Mizel , S.B. Salmonella ﬂagellin induces tumor necrosis factor a in a human promonocytic cell line . 
+Infect . 
+Immun . 
+66 , 1127 -- 1134 ( 1998 ) . 
+17.Eaves-Pyles , T. et al. . 
+Flagellin , a novel mediator of Salmonella-induced epithelial activation and systemic inﬂammation : IkBa degradation , induction of nitric oxide synthase , induction of proinﬂammatory mediators , and cardiovascular dysfunction . 
+J. Immunol . 
+166 , 1248 -- 1260 ( 2001 ) . 
+18 . 
+Zeng , H. et al. . 
+Flagellin is the major proinﬂammatory determinant of enteropathogenic Salmonella . 
+J. Immunol . 
+171 , 3668 -- 3674 ( 2003 ) . 
+19 . 
+Means , T.K. , Hayashi , F. , Smith , K.D. , Aderem , A. & Luster , A.D. . 
+The Toll-like receptor 5 stimulus bacterial ﬂagellin induces maturation and chemokine production in human dendritic cells . 
+J. Immunol . 
+170 , 5165 -- 5175 ( 2003 ) . 
+20 . 
+Didierlaurent , A. et al. . 
+Flagellin promotes myeloid differentiation factor 88-dependent development of Th2-type response . 
+J. Immunol . 
+172 , 6922 -- 6930 ( 2004 ) . 
+21 . 
+McSorley , S.J. , Ehst , B.D. , Yu , Y. & Gewirtz , A.T. Bacterial ﬂagellin is an effective adjuvant for CD4 + T cells in vivo . 
+J. Immunol . 
+169 , 3914 -- 3919 ( 2002 ) . 
+22 . 
+Gewirtz , A.T. et al. . 
+Salmonella typhimurium translocates ﬂagellin across intestinal epithelia , inducing a proinﬂammatory response . 
+J. Clin . 
+Invest . 
+107 , 99 -- 109 ( 2001 ) . 
+23 . 
+Abreu , M.T. et al. . 
+Decreased expression of Toll-like receptor-4 and MD-2 correlates with intestinal epithelial cell protection against dysregulated proinﬂammatory gene

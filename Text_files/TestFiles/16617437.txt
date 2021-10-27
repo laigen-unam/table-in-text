@@ -1,0 +1,463 @@
+PROTEINS : Structure , Function , and Bioinformatics 64:111 -- 123 ( 2006 ) 
+Structural Characterization of Salmonella typhimurium YeaZ, an M22 O-Sialoglycoprotein Endopeptidase Homolog
+C.E. Nichols ,1 C. Johnson ,2 M. Lockyer ,3 I.G. Charles ,4 H.K. Lamb ,2 A.R. Hawkins ,2 * and D.K. Stammers1 * 1Division of Structural Biology , The Wellcome Trust Centre for Human Genetics , University of Oxford , Oxford , United Kingdom 2Institute of Cell and Molecular Biosciences , University of Newcastle-upon-Tyne , Newcastle-upon-Tyne , United Kingdom 3Arrow Therapeutics Ltd. , London , United Kingdom 4The Wolfson Institute for Biomedical Research , University College London , London , United Kingdom 
+ABSTRACT The Salmonella typhimurium `` yeaZ '' gene ( StyeaZ ) encodes an essential protein of unknown function ( StYeaZ ) , which has previously been annotated as a putative homolog of the Pasteu-rella haemolytica M22 O-sialoglycoprotein endopeptidase Gcp . 
+YeaZ has also recently been reported as the ﬁrst example of an RPF from a gram-negative bacterial species . 
+To further characterize the properties of StYeaZ and the widely occurring MK-M22 family , we describe the puriﬁcation , biochemical analysis , crystallization , and structure determination of StYeaZ . 
+The crystal structure of StYeaZ reveals a classic two-lobed actin-like fold with structural features consistent with nucleotide binding . 
+However , microcalorimetry experiments indicated that StYeaZ neither binds polyphosphates nor a wide range of nucleotides . 
+Additionally , biochemical assays show that YeaZ is not an active O-sialoglycoprotein endopeptidase , consistent with the lack of the critical zinc binding motif . 
+We present a detailed comparison of YeaZ with available structural homologs , the ﬁrst reported structural analysis of an MK-M22 family member . 
+The analysis indicates that StYeaZ has an unusual orientation of the A and B lobes which may require substantial relative movement or interaction with a partner protein in order to bind ligands . 
+Comparison of the fold of YeaZ with that of a known RPF domain from a gram-positive species shows signiﬁcant structural differences and therefore potentially distinctive RPF mechanisms for these two bacterial classes . 
+Proteins 2006 ; 64:111 -- 123 . 
+© 2006 Wiley-Liss , Inc. . 
+Key words : M22 ; yeaZ ; actin-like fold ; structural proteomics ; glycoprotease INTRODUCTION Genbank currently lists 236 completed `` microbial '' ge-nome sequences , with about 500 further projects in progress .1 Bioinformatic analyses have identiﬁed ORFs , assigned possible functions to the gene products , and allowed identiﬁcation of a `` minimal gene-set '' ( reviewed in Koonin2 ) . 
+Such essential genes in bacteria are potential targets for developing novel drugs which are needed to overcome current problems of microbial drug resistance . 
+However , biochemical properties and structures for many gene products are unknown , with no discernable relationship to well-characterized proteins . 
+A more general solution to assigning function is to determine crystal structures of the target protein , as knowledge of the 3D structure will provide more clues as to its function because tertiary structure is more conserved than primary sequence . 
+The availability of 3D coordinates for a target protein will also be of use in the structure-based design of new drugs . 
+Outputs from genome sequencing and structural genom-ics projects have led to hierarchical classiﬁcation systems ( e.g. , SCOP3 and CATH4 ) and the eventual aim is to allow the prediction of protein-fold and function solely from gene sequence . 
+This goal is a long way off because prediction of protein folding from primary sequence remains problematic . 
+There are also many gaps in databases containing 5,6 COGs , where no structural/functional data are available for any member of a particular class . 
+Additionally , potential protein functions are more numerous than the pre-7 dicted folds ; thus , even when sequences indicate conserva-8 ,9 tion of fold , functionality may differ . 
+In many cases , 
+Abbreviations : COG ( s ) , clusters of orthologous group ( s ) ; CTE , Cterminal extension ; DTT , dithiothreitol ; Gcp , O-sialyl-glycoprotease ; GN ( S ) , gram-negative ( species ) ; GP ( S ) , gram-positive ( species ) ; GRR ( s ) , glycine rich region ( s ) ; HALF , Hsp70-actin-like fold ; HEPES , 4 - ( 2-hydroxyethyl ) -1 - piperazine-ethanesulfonic acid ; IPTG , isopropyl - - D-thiogalactopyranoside ; IMG , Integrated Microbial Genomes ; ITC , isothermal calorimetry ; MK-M22 , MEROPS protease classiﬁcation , metalloprotease , family `` MK , '' class `` M22 '' ; ORF , open reading frame ; PEG , polyethylene glycol ; PDB , Protein Data Bank ; RMSD , root-mean-square deviation ; RPF , resuscitation promoting factor ; SDS-PAGE , sodium dodecyl sulfate-polyacrylamide gel electrophoresis ; SSE ( s ) , secondary structure element ( s ) ; 3D , three-dimensional ; UnL , unknown ligand ; VNC , viable but nonculturable ; EBID , `` EnteroBacterial Insertion Domain '' ; equivalent protein/gene names are differentiated between species by a preceding two-letter italicized species code : Ec , Escherichia coli ; Mt , Mycobacterium tuberculosis ; Ph , Pasteurella haemolytica ; St , Salmonella typhimurium . 
+* Correspondence to : Structural analysis : D.K. Stammers , Division of Structural Biology , The Wellcome Trust Centre for Human Genetics , University of Oxford , Roosevelt Drive , Oxford , OX3 7BN , UK . 
+E-mail : daves@strubi.ox.ac.uk . 
+Biochemistry : A.R. Hawkins , Institute of Cell and Molecular Biosciences , Catherine Cookson Building , Medical School , Framlington Place , University of Newcastle-upon-Tyne , Newcastle-upon-Tyne , NE2 4HH , UK . 
+E-mail : a.r.hawkins@ncl.ac.uk Received 22 December 2005 ; Revised 1 February 2006 ; Accepted 6 February 2006 Published online 14 April 2006 in Wiley InterScience ( www.interscience.wiley.com ) . 
+DOI : 10.1002 / prot .20982 protein families are represented by only one or two members , and putative subfamily delineations ( identiﬁed by homology to , or deviation from , known function and structure archetypes ) as yet lack either supporting structures or biochemical data . 
+Characterization of proteins from poorly understood classes is therefore essential and of key importance to assess their potential for drug development in terms of assays for inhibitor screening . 
+One such group , which is poorly characterized , is the MK-M22 O-sialoglycoprotein endopeptidases ( MER-OPS10 ,11 protease database classiﬁcation clan `` MK , '' family `` M22 '' ) . 
+The family occurs in all kingdoms of life and at least one homolog ( usually two ) has been identiﬁed in every whole genome sequence so far analyzed . 
+Activity has , however , only been demonstrated in vitro for a protein from Pasteurella haemolytica ( PhGcp ; gene Phgcp ; MER-OPS MK : M22 .001 ) , which cleaves glycophorin A and the leukocyte surface antigens CD34 , CD43 , CD44 , and CD45 .12 -- 14 All of these substrates are heavily O-sialoglyco-sylated , and removal of the carbohydrate prevents cleavage .15 The enzyme is inhibited by ethylenediaminetetraace-tic acid and by prolonged treatment with 1,10-phenanthroline , but phosphoramidon is not inhibitory .13 Although the nature of the active site is not deﬁnitively determined , an HHXEXH motif present in the P. haemo-lytica Gcp protein , may be akin to HEXXH found in clan MA ( MEROPS assignment ) , where the histidines are zinc ligands and the glutamate is a catalytic residue [ Fig. 1 ( a -- d ) ] . 
+However , if the assignment of zinc binding is correct , it suggests varying functions for different M22 family members , as a subset with low sequence identity to Phgcp , but high predicted secondary structure homology to PhGcp , lacks this motif [ Fig. 1 ( a -- d ) ] . 
+On this basis , many of those sequences lacking the predicted Zn2 binding site , including orthologs of the Escherichia coli yeaZ gene ( EcyeaZ ) , have been annotated as `` non-peptidase homologs '' of the M22 endopeptidases .10 Interestingly , all species in all kingdoms have a direct ortholog of Phgcp , but not all species have an equivalent of EcyeaZ . 
+YeaZ is therefore likely to be a more recently evolved functionally divergent paralog of Gcp , arising by gene duplication . 
+As part of a project focused on the structural and functional characterization of essential proteins in Salmo-nella typhimurium , a genome-wide analysis of gene essentiality has recently been conducted ( I. Charles & D. Maskell , unpublished data ) . 
+Brieﬂy , essential genes were identiﬁed using a novel saturating genome-wide transposon mutagenesis-based screen . 
+The precise sites of transposon insertions in a target genome were mapped by hybrid-izing labeled transposon disrupted genes to a custom DNA microarray ( patent no . 
+WO 0107651 ) . 
+The results of this study will be reported elsewhere , but the data have already provided a short list of target genes for an accompanying program of high-throughput structural proteom-ics . 
+The ﬁrst target protein we have successfully isolated and characterized under the aegis of this program is StYeaZ , the S. typhimurium direct ortholog of EcYeaZ . 
+While our study was in progress , another group working independently on food hygiene safety reannotated S. typhi-murium YeaZ as an RPF .16 RPFs can be divided into two classes : ( 1 ) small molecule RPFs , often referred to as bacterial pheromones ; and ( 2 ) proteinaceous RPFs , only discovered in the last few years . 
+In both cases , they function as interbacterial communication molecules controlling entry to or exit from the VNC state .17 -- 22 Exit from the VNC state is , however , not achieved as a result of internal sensing but rather to the effect of RPFs produced by other bacteria that later migrate into the same locale . 
+After release of an RPF compatible with the systems of the bacteria in VNC , reactivation can then occur . 
+Depending on the RPF system , this activity may or may not be species speciﬁc , i.e. an RPF produced by one species is sometimes efﬁcacious at alleviating VNC in another different commensal species . 
+Five subtypes of protein RPF have been found in Mycobacterium tuberculosis and one in Micrococcus luteus , all possessing a common `` RPF '' motif , which has been isolated and shown to be necessary and sufﬁcient to 20,23 -- 25 alleviate VNC in these species . 
+A related class of RPF-like proteins has also been identiﬁed in Firmicutes .17 Analysis of these proteins has shown that the RPF domain interacts with tri-NAG ( a partial mimic of the peptidoglycan component of the bacterial envelope ) and also has weak homology to lysozyme , indicating it may have a muralytic function .17,25,26 Interestingly , however , it appears that the Firmicute RPF domain has convergently evolved from a different muralytic domain , obtained by nonorthologous domain displacement .17 It is however still unclear , in either class , whether signal transduction is effected directly by the RPFs causing changes in the constitution of the bacterial envelope , or if the cleavage releases a small molecule component , which then either binds to an external receptor or enters the cell to cause its effect . 
+Antibodies raised to RPFs are effective at prolonging lag phase , and vaccination attempts using RPFs have shown signiﬁcant promise in M. tuberculosis .16,27 Since S. typhimurium is a GNS and RPFs have only previously been identiﬁed in GPS , this makes YeaZ very interesting biologically , besides its potential as a rational drug target . 
+We therefore present herein the crystal structure of StYeaZ together with a bioinformatics analysis and some biochemical evaluation . 
+Such data will be of value in further characterization of MK-M22 class proteins and also provide information as to whether YeaZ is a suitable target for the design of novel antibacterial drugs . 
+Finally , during the course of our work , two MK-M22 structures , the yeaZ gene product from E. coli ( PDB 1okj ; EcYeaZ ) and the Thermotoga maritima EcYeaZ ortholog ( PDB 2a6a ; TmY-eaZ ; Tm0874 ) , have been deposited and released from the PDB and crystallization conditions for EcYeaZ reported .28 However , no supporting articles containing analysis of the structures or biochemical assays have yet been published . 
+This article therefore represents the ﬁrst reported structural analysis of an MK-M22 family member . 
+Grant sponsor : BBSRC-LINK awards . 
+© 2006 WILEY-LISS , INC 
+Fig. 1 . 
+a -- d : ClustalW alignments sorted by pairwise agreement and viewed with Jalview , Zappo color scheme . 
+a , b : `` N '' - and `` C '' - terminal alignments of StYeaZ ortholog gene pool . 
+c , d : `` N '' - and `` C '' - terminal alignments of StGcp ortholog gene pool . 
+e : SIM alignment of M. tuberculosis RpfB and S. typhimurium YeaZ protein sequences , with putative peptidoglycan interaction motifs indicated by red asterisks . 
+f : SDS-PAGE stained with Coomassie blue illustrating the lack of protease activity with StYeaZ at pH 6 -- 8 . 
+In each gel , molecular weight markers of 66 , 45 , 29 , 18 , and 14 kDa are shown in the lane marked M. Lanes 1 -- 6 in each gel contain 76 pmol of kappa casein . 
+Lane 2 contains in addition 0.6 U of chymosin , and lanes 3 -- 6 contain in addition 3 , 18 , 74 , or 300 pmol of StYeaZ , respectively . 
+The proteins were dissolved in 50 mM potassium phosphate at pH 6 , 7 , and 8 , and contained in addition 1 mM DTT . 
+The reactions were performed in a ﬁnal volume of 100 L and incubated at 37 °C for 1 h . 
+The reaction was terminated by vortexing with an equal volume of double-strength SDS-PAGE loading buffer , and following heating to 96 °C for 6 min the proteins in 15 L of the heated samples were separated by SDS-PAGE using a 12 % acrylamide gel . 
+Similar gels were obtained with both beta casein and kappa casein/1 mM zinc . 
+g : Representative 2fo-fc electron density from StYeaZ form B , contoured at 1.0 . 
+Figure 1 
+METHODS Cloning and Expression of StYeaZ
+The coding sequence of the yeaZ gene from S. typhi-murium was ampliﬁed by the PCR from strain SL3261 and the resulting DNA was subcloned into pET3d to yield the plasmid pMUT101 . 
+Plasmid pMUT101 was used to transform the E. coli expression strain BL21 pLysS by selecting for resistance to the presence of 100 g mL 1 ampicillin and 35 g mL 1 chloramphenicol . 
+Cultures ( 18 500 mL ) of Luria Bertani broth in 2-L bafﬂed glass Erlenmeyer ﬂasks were inoculated with transformed cells and grown at 37 °C to an A550 of 0.8 at which point the cultures were induced by the addition of IPTG to 0.2 mg mL 1 and the induction was conducted for a further 5 h . 
+At this point , the cells were harvested by centrifugation and stored at 18 °C until needed . 
+Puriﬁcation of StYeaZ Protein
+To avoid use of NaCl during puriﬁcation , which has been reported to inactivate O-sialoglycoprotease activity ,29 the following protocol was developed : 25 g E. coli BL21 pLysS cells containing the plasmid pMUT101 were sonicated in 450 mL of 15 mM HEPES , 1 mM DTT pH7 .4 , 0.025 % v/v polyethylene glycol ( buffer 1 ) . 
+Insoluble material was pelleted by centrifugation at 10,000 g at 4 °C for 42 min ; the supernatant was then loaded onto a 15 5 cm DEAE-Sephacel column . 
+After washing with 500 mL of buffer 1 , the column was eluted with a linear 0.5 -- 1.0 M HEPES pH 7.4 ( containing 1 mM DTT ) gradient collecting 10-mL fractions . 
+StYeaZ-containing fractions were identiﬁed by SDS-PAGE , pooled appropriately , dialyzed against 3 5 L changes of 50 mM potassium phosphate pH 7.2 , 1 mM DTT ( buffer 2 ) , and pressure concentrated to approximately 28 mL . 
+This pool was then loaded onto a 125 2.5 cm Sephacryl S300 column previously equilibrated with buffer 2 . 
+Ten-milliliter fractions were collected , pooled appropriately after analysis by SDS-PAGE , loaded onto a 5 10 cm hydroxyapatite column , and washed with 800 mL of buffer 2 collecting 10-mL fractions . 
+After SDS-PAGE , appropriate fractions containing StYeaZ were pooled , giving a yield of approximately 200 mg at 95 % purity , and aliquots of this were used in tests for protease activity . 
+For crystallography , one-third of this protein was further puriﬁed on an AKTA Explorer using a 10/10 MONO Q column previously equilibrated with buffer 2 , washed with 3 column volumes of buffer 2 , and then eluted with 20 column volume gradient of 0.0 -- 1.0 M NaCl in buffer 2 collecting 2-mL fractions . 
+Fractions containing StYeaZ were identiﬁed by SDS-PAGE and pooled appropriately , yielding 60 mg of protein . 
+Biochemical Analysis
+Protease digestion trials with `` beta '' or `` kappa '' casein were performed in 50 mM potassium phosphate , 1 mM DTT at pH 6 , 7 , and 8 with and without 1 mM zinc ( six buffers in all ) . 
+All digestions were performed at 37 °C for 1 h. Proteins were separated by SDS-PAGE using the discontinuous system described by Laemmli ( 1970 ) .30 Iso-thermal titration calorimetry experiments at 10 ° or 25 °C were performed using a high-precision VP-ITC titration calorimetric system ( Microcal Inc. ) using 50 mM HEPES pH 7.2 , 1 mM - mercaptoethanol as the buffer . 
+For potential small effector molecule binding studies , 75 M StYeaZ in the calorimetric cell ( 1.4 mL ) was titrated in a series of experiments with the following : polyphosphate , Zn2 , Mg2 , Ca2 , Ni2 ADP , ATP , NAD , NADP , NADH , NADPH , FAD , rATP , rCTP , rGTP , UTP , rADP , and dATP using a concentration range of 1 -- 2 mM . 
+Crystallization and Data Collection
+For crystallization , aliquots of puriﬁed protein were concentrated and buffer exchanged into 10 mM Tris pH 7.4 , 40 mM KCl using Vivascience Vivaspin2 centrifugal concentrators with polyethersulfone membranes . 
+Pooled concentrates were ﬁltered through Amersham NAP ™ 25 columns and reconcentrated to 20 mg mL 1 . 
+Hampton Research sparse matrix & GRID screens were then set up ( i.e. , Crystal Screen I , Crystal Screen II , Crystal Screen Cryo , PEG/Ion , Natrix , MembFac , Index , SaltRX , PEG / LiCl Grid , NaCl Grid , PEG 6000 Grid , and A/S Grid ) . 
+All crystallizations were performed at 293 K and set up as sitting-drop vapor-diffusion experiments , initially at 100-nL droplet size using a Cartesian robot system ,31 and later by hand for crystal optimization with 6 - L droplet size . 
+For crystals that grew from the screens , single frames of X-ray data were collected in house , using a MAR345 image plate system on a Rigaku generator equipped with a Cu anode and Osmic multilayer optics to give K radiation ( 1.5418 Å ) . 
+The highest-quality diffraction data for both selenomethionine-labeled and native StYeaZ crystals were collected from a trigonal crystal form ( form A , Table I ) obtained using 20 -- 24 % PEG 3350 and 0.2 M sodium malonate as a precipitant . 
+Subsequent partial dehydration and cryoprotection of these crystals was performed by a single-step transfer to 35 % ( w/v ) PEG 3350 , 15 % ( v/v ) ethylene glycol , and 0.2 M sodium malonate . 
+Crystals were ﬂash-frozen and maintained in a nitrogen cold stream at 100 K for data collection . 
+Additional crystallization trials were also subsequently performed with a wide range of potential ligands , including polyP , ADP , ATP , Mg2 , and Ca2 , with different combinations having signiﬁcant effect on the pattern of crystallization and habit of crystals formed . 
+Of these , one grown in the presence of 16 mg/mL polyP , 2 mM Mg2 , with 30 % PEG 4000 , 0.2 M Li2SO4 as precipitant gave a new orthorhombic crystal form ( form B , Table I ) , although no ligand was bound . 
+Model/Sequence Analysis 
+Model Building and Reﬁnement
+Using data truncated to 4 Å , the selenomethionine substructure of the StYeaZ crystal was solved by multiwavelength anomalous dispersion methods using SHELXD .32 Ten of 14 possible selenium sites were thus located and used to obtain an initial phase-set ( SHELXE ; phase extension to 2.9 Å , contrast 0.55 , connectivity 0.89 , pseudo-free CC 63 % , mean FOM 0.70 ) . 
+The stand-alone CCP4 DM script was then used to phase the native data set and extend phasing to 2.2 Å . 
+Further density modiﬁcation and initial model building were then performed with RESOLVE ,33,34 yielding a set of best starting models with no more than 60 % of the expected number of residues , 10 % sequence threaded , in any given build . 
+The relatively poor initial build probably resulted from the low overall selenomethionine data quality caused by smearing along the extended c-axis and difﬁculties with density modiﬁcation caused by the presence of several disordered regions . 
+However , small regions were successfully sequence threaded and overlaying C - traces of models from different RESOLVE runs suggested backbone tracing for 70 -- 75 % of the required 231 residues . 
+The chain tracing was therefore manually extended from the initial RESOLVE loci using the program O , alternated with reﬁnement in CNS . 
+This model was later used to solve the more ordered form B crystal by molecular replacement . 
+Model ﬁtness was evaluated during rebuilding using PROCHECK ; 35 RMSD variation between structures was evaluated with the program TOPP ,36 and EDPDB was used to evaluate mean B-factors . 
+C trace overlays were generated with TOPP and visualized in VMD .37 The reﬁned coordinates of YeaZ were aligned with available protein structures in the PDB using DALI .38 Effective rotation arcs for two-domain overlaps of StYeaZ and 1hux/1woq were calculated using the TCL script `` HINGE-FIND '' ,39 which was run and visualized with the graphics package VMD . 
+The set of nine sequences aligned in Figure 1 were selected from the MK-M22 sequences available from the IMG server and include four orthologs of StyeaZ from other - proteobacterial species , one outlier GNS sequence , which does not possess the generally conserved - proteobacterial-YeaZ C-terminal motif , and three GPS sequences [ Fig. 1 ( a , b ) ] . 
+In all nine species , a second MK-M22 homolog , directly orthologous to Phgcp , was also listed at IMG and these sequences were aligned separately [ Fig. 1 ( c , d ) ] . 
+Pair-wise sequence alignments were per-40 formed using the program SIM and in larger groups using CLUSTALW ,41,42 visualized with JALVIEW .43 Sequences were also analyzed with SSPRO ,44,45 SCAN-46 47,48 PROSITE , and INTERPROSCAN . 
+PDB Accession Numbers
+Coordinates for both StYeaZ structures have been depos-ited with the RCSB PDB for immediate release on publication ( accession codes 2GEM , 2GEL ) . 
+Crystal I , Se Met 
+Remote , ANMOIa Peak , ANMOIa A A ESRF BM14 ESRF BM14 0.89843 0.97925 P3221 P3221 
+Crystal II , native A ESRF ID14 .1 0.93400 P3221 
+Crystal III , native B ESRF ID14 .2 0.93300 P21212 
+Crystal form Beamline 
+Wavelength ( Å ) Space group Unit cell parameters ( Å ) a b 
+40.7 40.7 
+144.2 83.7 
+40.9 40.9 
+40.8 40.8 
+c Asymmetric unit ( subunits ) 
+468.1 2 40.0 -- 2.8 ( 2.90 -- 2.80 ) 3.8 ( 2.4 ) 97.5 ( 90.9 ) 0.074 ( 0.581 ) 17.11 ( 2.08 ) -- -- 
+464.8 2 30.0 -- 2.10 ( 2.14 -- 2.10 ) 3.2 ( 1.8 ) 83.4 ( 40.3 ) 0.031 ( 0.326 ) 28.11 ( 2.50 ) 21.4 / 25.3 0.008 1.3 41.0 / 38.5 / 43.9 
+41.3 2 2.05 ( 2.10 -- 2.05 ) 6.0 ( 5.9 ) 95.7 ( 91.8 ) 0.054 ( 0.267 ) 15.4 ( 4.4 ) 19.5 / 22.7 0.0057 1.22 30.2 / 26.4 / 29.8 
+469.6 2 40.0 -- 3.00 ( 3.11 -- 3.00 ) 3.9 ( 2.1 ) 95.6 ( 85.6 ) 0.060 ( 0.226 ) 19.67 ( 3.56 ) -- -- 
+Resolution range ( Å ) Redundancy Completeness ( % ) R b merge I / I R c free work / R c ( % ) RMSD bond lengths ( Å ) RMSD bond angles ( ° ) Mean B-factors ; all/main-chain/side-chain ( Å2 ) Figures in parentheses are for outer shell data . 
+aANMOI : anomalous , no merge , original index . 
+bRmerge Iobs I / I . 
+cR hkl Fo ( hkl ) Fc ( hkl ) / hkl Fo ( hkl ) . 
+-- 
+-- 
+-- 
+-- 
+Model/Sequence Analysis 
+Preliminary Characterization of StYeaZ Using the IMG server to compare separate BLAST49 runs performed with the StyeaZ and Stgcp gene sequences , most of the highest-scoring StyeaZ orthologs are 220 -- 240 aa and do not contain the putative zinc binding site , whereas the highest for Stgcp are mostly 300 -- 400 aa in length and do all contain variations of the zinc binding motif . 
+Additionally , although SSPRO44 ,45 comparisons of predicted secondary structure are similar across the length of the StyeaZ and Stgcp genes , comparison of their amino acid sequences using ClustalW only indicates any signiﬁcant identity within the N-terminal half of StyeaZ ( Fig. 2 ) . 
+Whereas , when the pattern and sequence of conserved regions in the StyeaZ ortholog pool [ Fig. 1 ( a , b ) ] is assessed separately to that of the Stgcp orthlogue pool [ Fig. 1 ( c , d ) ] , conserved regions are additionally evident in the Cterminal half of the sequence , which are not present in Stgcp , and vice versa . 
+However , because it is the Gcp N-terminal domain that is believed to confer metalloprotease activity and this region is the most homologous between Gcp and YeaZ , the above data might simply indicate that YeaZ has evolved an alternative catalytic mechanism , e.g. using a different metal ion or cofactor , with concomitant divergence of speciﬁcity . 
+A wide variety of potential ligands ( polyphosphate , Zn2 , Mg2 , Ca2 , Ni2 ADP , ATP , NAD , NADP , NADH , NADPH , FAD , rATP , rCTP , rGTP , UTP , rADP , and dATP ) were therefore screened for interaction with YeaZ by ITC . 
+Preliminary data from differential scanning calorimetry suggested a potential weak interaction with sodium metaphosphate ( aka Calgon , mixed length polypho-sphate species [ polyP ] ) , but this result was not conﬁrmed by later follow-up experiments . 
+Puriﬁed StYeaZ was also tested for glycoprotease activity at a variety of pHs in the 2 2 2 presence or absence of Zn , Ca , or Mg ions and with or without polyP ( see Methods ) . 
+No proteolytic activity , however , was observed [ Fig. 1 ( f ) ] , and none of the ligands tested with ITC showed signiﬁcant binding , supporting the hypothesis that StYeaZ does not have direct metalloprotease functionality equivalent to that observed with PhGcp . 
+Further work therefore focused on the crystallization and structural analysis of unliganded material . 
+Crystallization and Structure Determination
+Both selenomethionine-labeled and native StYeaZ protein crystallized readily in a range of conditions . 
+With either ammonium sulfate or PEG as precipitant , the same crystal form was obtained [ form A , crystals I and II ( Table I ) ] . 
+Signiﬁcant variation was observed in the sharpness of the diffraction patterns obtained , which was particularly important as the StYeaZ unit-cell has one abnormally long axis of 465 Å , leading to problems with separation of low-resolution reﬂections . 
+Because of the substantially superior diffraction quality of native over selenomethi-onine-labeled crystals , data from the latter were used only for initial phasing to 4.0 Å , whereas native data were used for phase extension and reﬁnement to 2.2 Å . 
+Since coordinates for EcYeaZ and TmYeaZ had not yet been deposited and released at this time , the 3DPSSM predicted structural homolog 1hux was used to guide fold topology and threading manually extended in `` O '' from the initial RESOLVE identiﬁed loci ( see Methods ) . 
+This improved model was then reﬁned in CNS , iterated with several further rounds of rebuilding in `` O. '' At a later stage , as a result of cocrystallization trials of StYeaZ with 16 mg mL 1 polyphosphate present , a second crystal form was identiﬁed ( form B , crystal III ) . 
+Form B had all unit cell dimensions smaller than the form A c axis , thus facilitating data processing . 
+The form A model from crystal II was used to solve form B ( crystal III ) by molecular replacement yet no phosphate species were identiﬁable in the ﬁnal electron density map ( mean C RMSD variation from comparison of both form A chains with both form B chains 0.5 Å , excluding the disordered C-terminus ) . 
+Final processing and reﬁnement statistics are listed for all data sets in Table I , whereas representative electron density is shown in Figure 1 ( g ) and the ﬁnal form B model in Figure 3 ( a ) . 
+Fig. 2 . 
+Jalview four-way alignment of S. typhimurium and S. aureus YeaZ and Gcp protein sequences , illustrating the prediction that the Gcp fold will be similar to that of YeaZ , but with six insertion domains/loops ( ID1-6 ) . 
+RESULTS AND DISCUSSION 
+Fig. 3 . 
+VMD generated `` New-Cartoon '' format illustrations . 
+a : The StYeaZ crystal structure showing adherence to an overall actin-like fold topology . 
+b : The potential StYeaZ biological dimer , conserved in both StYeaZ crystal forms , with transparent SURF overlay using 2.0 Å probe radius . 
+c : Three-way single-chain overlay of EcYeaZ PDB 1okj ( orange ) , TmYeaZ PDB 2a6a ( purple ) , and StYeaZ ( green ) , showing the insertion domain present in EcYeaZ and StYeaZ ( EBID ) ; the putative oligomerization surface helices 1 and 2 are also marked . 
+d : Three-way single chain overlap of PDB 1woq ( yellow ) , PDB 1hux ( blue ) , and StYeaZ ( red ) , showing C-terminal extension ( CTE , green ) . 
+e : Pairwise overlap of PDB 1hux and StYeaZ crystal structures , aligned using A-lobe only . 
+f : Pairwise overlap of PDB 1woq ( blue ) and StYeaZ ( red ) crystal structures , aligned using A-lobe only . 
+Characterization of the StYeaZ Protein Fold Visual examination of the StYeaZ structure reveals a characteristic HSP70-actin-like fold ( HALF ) . 
+Collectively , HALF proteins form one of the largest protein families with functionally diverse members such as sugar kinases , prokaryotic cell cycle proteins , phosphatases , and chaperones .50 The conserved HALF structural form , which StYeaZ follows , is a two-lobed structure with each lobe consisting of one long helix , a - sheet , and a largely helical subdomain [ Fig. 3 ( a ) ] . 
+Starting at the N-terminus , the protein chain traces the majority of lobe-A , then crosses into lobe-B before returning to the ﬁrst lobe once more , such that both the N and C termini reside in lobe-A . 
+As exempliﬁed by actin , Hsc70 , and glycerol kinase , the diversity of biological function is provided by the polymorphism of the loops joining the - strands and helices in the core region and by inserted domains that show high variability .50 Unusually , however , with StYeaZ , the Cterminal loop-back to lobe-A has an extension weakly linked to lobe-B [ CTE , Fig. 4 ( d ) ] , with the last 13 residues being disordered and hence omitted from the structure . 
+In their catalytically active forms , the vast majority of HALF proteins bind nucleotide or polyP substrates , to-2 2 2 gether with metal ions such as Mg , Ca , and Zn , for hydrolysis or phosphate transfer processes . 
+Catalytic turn-over also usually involves a domain closure mechanism with counter-rotation of the two lobes being induced by substrate or cofactor binding .50 This domain closure presumably allows the exclusion of bulk-solvent and the creation of a more tightly deﬁned active site for efﬁcient catalysis , but subsequently reopens to allow diffusion of product in exchange for further substrate once the reaction is complete ( e.g. , glucokinase51 ; acetate kinase52 ) . 
+Considering the HALF class as a whole , lobe-A has a more tightly conserved structure than lobe-B and both lobes generally have `` glycine-rich regions , '' indicating the presence of one or more glycine-rich loops associated with nucleotide / polyphosphate binding [ e.g. , common Gly-X-Gly-XX-Gly motif , present in Stgcp ortholog sequences ; GRR-1 , Fig. 1 ( c ) ] . 
+Most HALF proteins also function as higher-order assemblies , with dimers and tetramers being the most common oligomeric states . 
+The majority of oligomerization interface contacts usually involve B-lobe interactions .50 Because of the geometry of such assemblies , the complete binding site also often involves one or more residues from another polypeptide chain . 
+As an extension of this , some HALF proteins have also been identiﬁed where the metal ion and nucleotide binding sites are only partly formed by the HALF partner . 
+Formation of the complete binding site thus requires additional residues presented on the surface of a different protein ; examples include the actin-gelsolin complex and glycerol kinase .53,54 Analysis of the YeaZ crystal lattice packing suggests a `` crescent '' - shaped dimer , an unusual arrangement for a HALF protein . 
+However , the buried surface area is relatively low ( 1.8 kÅ2 buried surface vs. 20 kÅ2 total dimer surface ) and it is not yet known if this is a biologically relevant interaction [ Fig. 3 ( b ) ] . 
+The functionality of HALF proteins is also critically dependent on the loops connecting - strands in each - sheet together with the presence and nature of Cterminal insertion domains . 
+Analysis of our structure , together with sequence alignment data , suggests that StYeaZ and StGcp structures would differ most in their C-terminal domains and connecting loops ( Fig. 2 , ID1-6 ) . 
+StYeaZ and StGcp would therefore be predicted to have a far lower overall level of structural similarity than can be seen between other pairs of HALF structures that have radically different functions . 
+Fig. 4 . 
+a -- d : VMD-generated `` New-Cartoon '' format illustrations . 
+a : Super-position of StYeaZ ( red ) coordinates onto PDB 1hux ( blue ) , with the A and B lobes aligned separately . 
+b : Super-position of StYeaZ coordinates ( red ) onto PDB 1woq ( blue ) , with the A and B lobes aligned separately . 
+c : HINGEFIND calculation of the effective arc of rotation implied by the two-domain super-positions illustrated in panels a and b , with the StYeaZ crystal structure coordinates in blue ( CSYeaZ ) and the StYeaZ B-lobe coordinates resulting from separate superposition of the A and B lobes overlaid in green ( ROYeaZ ) . 
+d : Potential mapping of glycines involved in nucleotide binding from 1hux ( blue trace , glycines marked in cyan ) onto their equivalent positions in StYeaZ ( red trace , glycines marked in yellow with conserved residues circled and linked to the equivalent residues circled in the 1hux structure ; the blue asterisk indicates a glycine in 1hux which is an alanine in StYeaZ ) . 
+The StYeaZ C-terminal extension ( CTE ) and glycine-rich helix ( GRH ) are also illustrated . 
+e : the putative biological dimer observed in the TmYeaZ crystal structure ( chain A/B : protein orange/red , UnL green/yellow ) , with StYeaZ monomer overlaid on chain A and colored ice blue , illustrating the quaternary structure of TmYeaZ . 
+f : Close-up view of TmYeaZ versus StYeaZ C - trace overlay , with conserved residues in licorice format and the TmYeaZ UnL as green VDW spheres based on oxygen radius . 
+Figure 4 
+TABLE II . 
+DALI Hits From StYeaZ Structure Length aligned Length sequence 2 ( residues ) ( residues ) 217 219 185 191 184 253 178 259 105 398 182 903 170 295 186 489 131 606 170 372 
+Identity ( % ) 84 21 7 15 13 12 11 12 13 9 
+PDB 1oky 2a6a 1woq 1hux 1g99 1qha 1xc3 1glc 1nbw 1yag 
+Dali z-score 38.1 20.0 11.4 10.2 9.4 9.0 8.8 8.8 8.7 8.6 
+C - RMSD ( Å ) 0.7 2.3 4.6 4.4 2.8 4.5 4.5 5.7 3.4 4.1 
+Structural Analysis : Comparison of MtRpfB and StYeaZ Although there is , as noted by Panutdaporn et al. ,16 a low-level overall homology between the gene sequence of StYeaZ and that of M. tuberculosis RpfB ,24 -- 26 SIM sequence comparisons of MtRpfB and StYeaZ show the only detectable homology is in a 60-residue region with 30 % identity [ Fig. 1 ( e ) ] . 
+This region does lie within the MtRpfB RPF domain and the two motifs [ marked with red stars in Fig. 1 ( e ) ] are believed to be involved in peptidoglycan binding . 
+However , attempts to align the solution structure of the isolated MtRpfB RPF domain ( 1xsf ) and the StYeaZ crystal structure do not generate any reasonable result , as the secondary structure is different and the two motifs are much further apart . 
+Thus , although it is still theoretically possible that a similar environment to the MtRpfB RPF domain could be generated in StYeaZ as a result of conformational change or alteration of oligomeric state , it seems more likely that the GNS and GPS RPFs compared have fundamentally different mechanisms of action . 
+Structural Analysis : StYeaZ DALI Homolog Comparisons The top 10 `` best hits '' from DALI searches , using the completed StYeaZ coordinates , are shown in Table II . 
+The highest hits are for the other deposited YeaZ structures 1okj ( EcYeaZ ) and 2a6a ( TmYeaZ ) ; the 3DPSSM predicted homolog 1hux , used as a guide to fold topology during structure building , is however only fourth on the list , narrowly beaten by `` 1woq '' ( an inorganic polyphosphate / ATP-glucomannokinase from Arthrobacter sp . ) 
+.55 All 10 hits show most signiﬁcant structural homology in their A-lobe conformations . 
+Proteins 3 -- 10 are all : ( 1 ) active as higher-order assemblies ; ( 2 ) known to bind metal ions ; and ( 3 ) have both A-lobe and B-lobe glycine-rich regions which bind either nucleotides or polyphosphate . 
+Where analytical data are available that assess conformational changes during enzyme turnover ( proteins 5 -- 8 , 10 ) , all hits also show signiﬁcant conformational changes associated with substrate and or cofactor binding , as is typical of most HALF family members . 
+Proteins 4 and 8 -- 10 are also known to only form a complete active site in conjunction with other partner proteins . 
+The glycerol kinase-IIA54 and actin-gelsolin complexes are the most extreme examples , as their active sites require residues from each partner in order to bind either nucleotide or metal ion . 
+Comparing a three-way initial C - trace overlay of StYeaZ with 1woq and 1hux , as expected from the preceding sequence analysis , both the linear sequence of secondary structure elements and the overall protein shape are very similar [ Fig. 3 ( d ) ] . 
+Additionally , with both proteins , the TOPP-generated alignments have picked out greater structural homology in lobe-A , and all three `` A '' lobes appear to overlay well [ 1woq vs. StYeaZ C RMSD 1.9 Å for 73 residue overlap and 1hux vs. StYeaZ C RMSD 1.6 Å for 78 residue overlap ; Fig. 3 ( d -- f ) ] . 
+In both 1woq and 1hux , lobe-B is involved in substrate/cofactor binding and the formation of a dimer interface region , although oriented differently in the two cases [ Fig. 4 ( a , b ) ] . 
+At ﬁrst glance , from the pair-wise full structure overlaps , StYeaZ 's lobe-B appears structurally dissimilar to that of 1hux [ Fig. 3 ( e ) ] or 1woq [ Fig. 3 ( f ) ] . 
+However , this apparent discrepancy is partially a result of a large angular variation in the inter-lobe orientation of the main actin-core-fold . 
+Thus , if StYeaZ is split into two domains ( A-domain , residue 1:84 , 185:218 ; B-domain residue 85:184 ) and these domains overlapped separately with the equivalent domains of 1hux [ Fig. 4 ( a ) ] / 1woq [ Fig. 4 ( b ) ] , then although still more variable than the A-domain structures , a signiﬁcant degree of similarity is now apparent ( domain B only , 1woq vs. StYeaZ C RMSD 2.0 Å for 56 residue overlap and 1hux vs. StYeaZ C RMSD 1.8 Å for 51 residue overlap ) . 
+This is especially clear with 1hux , although there is no evidence that the speciﬁc residues associated with the Fe-S cluster binding site of 1hux , or the sugar binding site of 1woq , are conserved in StYeaZ . 
+Comparing the StYeaZ crystal structure and those produced by combining the separate A/B domains from two-domain overlaps with 1hux/1woq , HINGEFIND shows a 37 ° rotation about the axis shown in Figure 4 ( c ) . 
+The pattern of glycine residue distribution is strongly correlated across the whole group of YeaZ homologous sequences , with clusters in both `` A '' and `` B '' lobes ( Fig. 1 ) , a pattern usually indicative of nucleotide or polyphosphate binding . 
+However , in the apo StYeaZ structure presented here , the inter-lobe orientation would make it impossible for a ligand to bridge the gap between clusters on the A and B lobes . 
+In contrast , when the A and B lobes of StYeaZ are overlaid separately onto those of 1hux , the majority of glycine positions in both A and B lobes now co-locate , potentially deﬁning a suitable binding site for the pyrophosphate linkage of nucleotides or polyphosphates [ Fig. 4 ( d ) ] . 
+Considering this structure-based correlation together with the universal presence of domain movement and nucleo-tide binding in the DALI-listed closest structural homologs , it seems highly probable that StYeaZ does bind either nucleotides or polyphosphate but only as part of an ordered sequence perhaps ﬁrst requiring allosteric interaction with another partner protein or ligand . 
+Some supporting evidence for a large domain movement is provided by the identiﬁcation of an unusual sequence feature , which is semi-conserved across almost all YeaZ orthologs , with six glycines in a predicted helical region . 
+From our 3D structure , we can now see that they are indeed arranged along one helix , three on the inside edge at one end and three on the outside edge at the other end . 
+This helix is directly connected to the - strand connecting lobes A and B and the mapping of StYeaZ lobe-B onto 1hux lobe-B requires a substantial movement [ Fig. 4 ( c , d ) ] . 
+Thus , if StYeaZ 's normal catalytic cycle does involve a large domain movement , this helix would have a considerable bending moment applied to one end ; the conserved pattern of glycines may therefore simply be a mechanism for allowing this helix to ﬂex and accommodate the necessary reorientation of lobe-B . 
+Structural Analysis : StYeaZ Ortholog Comparisons Although coordinates have been deposited for EcYeaZ and TmYeaZ , no accompanying analyses have yet been published . 
+Comparison with EcYeaZ shows that the E. coli ortholog structure is very similar to StYeaZ , having a mean C - RMSD of just 0.9 Å . 
+With TmYeaZ however , as the sequence identity is much lower than with EcYeaZ ( 20 % ) , the equivalent analysis of conserved features is far more revealing . 
+( 1 ) TmYeaZ is 25 residues shorter than StYeaZ , without the CTE loop-back to lobe-B . 
+( 2 ) StYeaZ and EcYeaZ both have a B-lobe insertion domain , conserved in enterobacterial sequences [ helix 10 and strand 10 ; Fig. 4 ( c ) , EBID ] and their C-termini are in a strand conformation , whereas the equivalent TmYeaZ region is helical [ Fig. 3 ( c ) ] . 
+( 3 ) The TmYeaZ crystal structure has a UnL bound in a pocket ( UnL-pocket ) formed by secondary structure elements 1 , 1 , and 2 [ Fig. 4 ( e , f ) ] . 
+This pocket is highly hydrophobic and the residues lining it form a signiﬁcant fraction of the residues conserved between YeaZ/Gcp paralogs and are also among the most highly conserved between YeaZ orthologs . 
+( 4 ) In the StYeaZ and EcYeaZ apo structures , oligomerization is suggested to involve helices 1 and 2 , forming a crescent-shaped dimer . 
+By contrast , with TmYeaZ , helices 1 and 2 have pivoted to a different orientation and the oligomerization interface now occurs between SSEs 3 and 2 , forming a more compact globular structure . 
+Combining these observations with the preceding structural analysis suggests several overall conclusions . 
+( 1 ) Since the UnL-pocket is tightly conserved between TmY-eaZ and StYeaZ , despite the overall 20 % sequence identity , it is highly probable that this feature has functional signiﬁcance , perhaps as the binding site for a smallmolecule effector . 
+( 2 ) By the same argument , because Gcp and YeaZ are thought to be functionally divergent paral-ogs and sequence alignments suggest they also have the same conserved pocket , Gcp orthologs are also likely to bind the same ligand ( s ) . 
+( 3 ) PhGcp is known to be periplasmic in location56 and the reported RPF function of StYeaZ would suggest the latter is also secreted . 
+However , it is extremely unlikely that the semi-conserved YeaZ/Gcp N-terminal sequence represents a hitherto unknown periplasmic localization signal as it is an integral part of the globular structure of lobe-A and the majority of sequence identity in this region results from conservation of the UnL-pocket . 
+It is therefore still unclear as to how either protein might be translocated ; it is however interesting to note that the disordered C-terminal section of YeaZ is located on the surface of the structure and is signiﬁcantly conserved , potentially suggesting a C-terminal rec-ognition sequence . 
+( 4 ) Analysis of crystal packing and protein -- protein interfaces suggests both the StYeaZ and TmYeaZ crystal structures may form dimers , but of very different shapes to one another and involving different contact surfaces . 
+However , because the active state of YeaZ is not yet known and may well only result from interaction with other factors , it is as yet unclear whether the oligomeric state seen with either protein actually has any biological relevance . 
+( 5 ) Comparative analysis of StYeaZ and other HALF proteins shows that YeaZ appears to have a potential nucleotide binding site requiring a 37 ° counter-rotation of lobe-B/lobe-A to form an active conformation , although analysis with ITC showed that none of the nucleotides tested would bind to StYeaZ under the conditions tested . 
+This suggests that YeaZ probably needs to interact with another small-molecule ligand or partner protein , in order to adopt an active conformation that can bind its nucleotide cofactor . 
+In this context , it is also interesting to note that although StYeaZ has been reported to function as an RPF , the concentration at which it was active was 1 106 higher than that observed previously with M. tuberculosis RPFB .24 -- 26 This low activity might therefore indicate that a putative activator or cofactor or partner protein either did not co-purify with the StYeaZ tested , or only co-puriﬁed at a very low level . 
+However , as noted earlier , there is minimal structural homology between StYeaZ and the MtRPFB domain suggesting fundamental differences in their mechanisms of action . 
+Thus , although it is a plausible hypothesis that the difference in activity results from a missing co-factor , there is no a priori reason why the effective concentration at which the two proteins are active as RPFs should be similar . 
+As a ﬁnal point , the analysis of YeaZ presented in this text reveals a wealth of interesting structural features , which should stimulate additional work aimed at understanding functional roles of the protein including that as a GNS RPF . 
+The current data clearly highlight signiﬁcant structural differences between protein RPFs for GNS and GPS , which imply distinctive mechanisms in each case . 
+The authors thank Dr. M. Walsh and staff at the BM14 beamline , ESRF for help with data collection . 
+The work at Oxford and Newcastle was supported by BBSRC-LINK awards to D.K.S. and A.R.H. 
+REFERENCES 
+1 . 
+Celestino PB , de Carvalho LR , de Freitas LM , et al. . 
+Update of microbial genome programs for bacteria and archaea . 
+Genet Mol Res 2004 ; 3 ( 3 ) :421 -- 431 . 
+2 . 
+Koonin EV . 
+Comparative genomics , minimal gene-sets and the last universal common ancestor . 
+Nat Rev Microbiol 2003 ; 1 ( 2 ) :127 -- 136 . 
+3 . 
+Andreeva A , Howorth D , Brenner SE , Hubbard TJ , Chothia C , Murzin AG . 
+SCOP database in 2004 : reﬁnements integrate structure and sequence family data . 
+Nucleic Acids Res 2004 ; 32 ( Data-base issue ) : D226 -- 229 . 
+4 . 
+Pearl F , Todd A , Sillitoe I , et al. . 
+The CATH Domain Structure Database and related resources Gene3D and DHS provide comprehensive domain family information for genome analysis . 
+Nucleic Acids Res 2005 ; 33 ( Database issue ) : D247 -- 251 . 
+5 . 
+Tatusov RL , Fedorova ND , Jackson JD , et al. . 
+The COG database : an updated version includes eukaryotes . 
+BMC Bioinformatics 2003 ; 4 ( 1 ) :41 . 
+6 . 
+Tatusov RL , Galperin MY , Natale DA , Koonin EV . 
+The COG database : a tool for genome-scale analysis of protein functions and evolution . 
+Nucleic Acids Res 2000 ; 28 ( 1 ) :33 -- 36 . 
+7 . 
+Wolf YI , Grishin NV , Koonin EV . 
+Estimating the number of protein folds and families from complete genome data . 
+J Mol Biol 2000 ; 299 ( 4 ) :897 -- 905 . 
+8 . 
+Devos D , Valencia A. Practical limits of function prediction . 
+Proteins 2000 ; 41 ( 1 ) :98 -- 107 . 
+9 . 
+Wise E , Yew WS , Babbitt PC , Gerlt JA , Rayment I. Homologous ( beta/alpha ) 8-barrel enzymes that catalyze unrelated reactions : orotidine 5 - monophosphate decarboxylase and 3-keto-L-gulonate 6-phosphate decarboxylase . 
+Biochemistry 2002 ; 41 ( 12 ) :3861 -- 3869 . 
+10 . 
+Barrett AJ . 
+Bioinformatics of proteases in the MEROPS database . 
+Curr Opin Drug Discov Dev 2004 ; 7 ( 3 ) :334 -- 341 . 
+11 . 
+Rawlings ND , O'Brien E , Barrett AJ . 
+MEROPS : the protease database . 
+Nucleic Acids Res 2002 ; 30 ( 1 ) :343 -- 346 . 
+12 . 
+Sutherland DR , Abdullah KM , Cyopick P , Mellors A. Cleavage of the cell-surface O-sialoglycoproteins CD34 , CD43 , CD44 , and CD45 by a novel glycoprotease from Pasteurella haemolytica . 
+J Immunol 1992 ; 148 ( 5 ) :1458 -- 1464 . 
+13 . 
+Abdullah KM , Udoh EA , Shewen PE , Mellors A . 
+A neutral glycoprotease of Pasteurella haemolytica A1 speciﬁcally cleaves O-sialoglycoproteins . 
+Infect Immun 1992 ; 60 ( 1 ) :56 -- 62 . 
+14 . 
+Abdullah KM , Lo RY , Mellors A. Cloning , nucleotide sequence , and expression of the Pasteurella haemolytica A1 glycoprotease gene . 
+J Bacteriol 1991 ; 173 ( 18 ) :5597 -- 5603 . 
+15 . 
+Sutherland DR , Marsh JC , Davidson J , Baker MA , Keating A , Mellors A. Differential sensitivity of CD34 epitopes to cleavage by Pasteurella haemolytica glycoprotease : implications for puriﬁcation of CD34-positive progenitor cells . 
+Exp Hematol 1992 ; 20 ( 5 ) : 590 -- 599 . 
+16 . 
+Panutdaporn N , Kawamoto K , Asakura H , Makino SI . 
+Resuscitation of the viable but non-culturable state of Salmonella enterica serovar Oranienburg by recombinant resuscitation-promoting factor derived from Salmonella typhimurium strain LT2 . 
+Int J Food Microbiol 2006 ; 106 ( 3 ) :241 -- 247 . 
+17 . 
+Ravagnani A , Finan CL , Young M . 
+A novel ﬁrmicute protein family related to the actinobacterial resuscitation-promoting factors by non-orthologous domain displacement . 
+BMC Genomics 2005 ; 6 ( 1 ) :39 . 
+18 . 
+Shleeva M , Mukamolova GV , Young M , Williams HD , Kaprely-ants AS . 
+Formation of `` non-culturable '' cells of Mycobacterium smegmatis in stationary phase in response to growth under suboptimal conditions and their Rpf-mediated resuscitation . 
+Microbiology 2004 ; 150 ( Pt 6 ) :1687 -- 1697 . 
+19 . 
+Zhu W , Plikaytis BB , Shinnick TM . 
+Resuscitation factors from mycobacteria : homologs of Micrococcus luteus proteins . 
+Tuberculosis ( Edinb ) 2003 ; 83 ( 4 ) :261 -- 269 . 
+20 . 
+Shleeva MO , Mukamolova GV , Telkov MV , et al. [ Formation of 
+nonculturable Mycobacterium tuberculosis and their regeneration ] . 
+Mikrobiologiia 2003 ; 72 ( 1 ) :76 -- 83 . 
+21 . 
+Shleeva MO , Bagramyan K , Telkov MV , et al. . 
+Formation and resuscitation of `` non-culturable '' cells of Rhodococcus rhodochrous and Mycobacterium tuberculosis in prolonged stationary phase . 
+Microbiology 2002 ; 148 ( Pt 5 ) :1581 -- 1591 . 
+22 . 
+Mukamolova GV , Kormer SS , Kell DB , Kaprelyants AS . 
+Stimulation of the multiplication of Micrococcus luteus by an autocrine growth factor . 
+Arch Microbiol 1999 ; 172 ( 1 ) :9 -- 14 . 
+23 . 
+Mukamolova GV , Turapov OA , Young DI , Kaprelyants AS , Kell DB , Young M . 
+A family of autocrine growth factors in Mycobacte-rium tuberculosis . 
+Mol Microbiol 2002 ; 46 ( 3 ) :623 -- 635 . 
+24 . 
+Cohen-Gonsaud M , Barthe P , Pommier F , et al. ( 1 ) H , ( 15 ) N , and ( 13 ) C chemical shift assignments of the resuscitation promoting factor domain of Rv1009 from Mycobacterium tuberculosis . 
+J Bi-omol NMR 2004 ; 30 ( 3 ) :373 -- 374 . 
+25 . 
+Cohen-Gonsaud M , Barthe P , Bagneris C , et al. . 
+The structure of a resuscitation-promoting factor domain from Mycobacterium tuberculosis shows homology to lysozymes . 
+Nat Struct Mol Biol 2005 ; 12 ( 3 ) :270 -- 273 . 
+26 . 
+Cohen-Gonsaud M , Keep NH , Davies AP , Ward J , Henderson B , Labesse G. Resuscitation-promoting factors possess a lysozyme-like domain . 
+Trends Biochem Sci 2004 ; 29 ( 1 ) :7 -- 10 . 
+27 . 
+Yeremeev VV , Kondratieva TK , Rubakova EI , et al. . 
+Proteins of the Rpf family : immune cell reactivity and vaccination efﬁcacy against tuberculosis in mice . 
+Infect Immun 2003 ; 71 ( 8 ) :4789 -- 4794 . 
+28 . 
+Jeudy S , Stelter M , Coutard B , Kahn R , Abergel C. Preliminary crystallographic analysis of the Escherichia coli YeaZ protein using the anomalous signal of a gadolinium derivative . 
+Acta Crystallogr 2005 ; F61 :848 -- 851 . 
+29 . 
+Mellors A , Lo RY . 
+O-Sialoglycoprotease from Pasteurella haemo-lytica . 
+Methods Enzymol 1995 ; 248:728 -- 740 . 
+30 . 
+Laemmli UK . 
+Cleavage of structural proteins during the assembly of the head of bacteriophage T4 . 
+Nature 1970 ; 227 ( 5259 ) :680 -- 685 . 
+31 . 
+Brown J , Walter TS , Carter L , et al. . 
+A procedure for setting up high-throughput nanolitre crystallization experiments . 
+II . 
+Crystallization results . 
+J Appl Crystallogr 2003 ; 36:315 -- 318 . 
+32 . 
+Schneider TR , Sheldrick GM . 
+Substructure solution with SHELXD . 
+Acta Crystallogr D Biol Crystallogr 2002 ; 58 ( Pt 10 Pt 2 ) :1772 -- 1779 . 
+33 . 
+Terwilliger T. SOLVE and RESOLVE : automated structure solution , density modiﬁcation and model building . 
+J Synchrotron Radiat 2004 ; 11 ( Pt 1 ) :49 -- 52 . 
+34 . 
+Terwilliger TC . 
+SOLVE and RESOLVE : automated structure solution and density modiﬁcation . 
+Methods Enzymol 2003 ; 374:22 -- 37 . 
+35 . 
+Laskowski RA , MacArthur MW , Moss DS , Thornton JM . 
+PRO-CHECK : a program to check the stereochemical quality of protein structures . 
+J Appl Crystallogr 1993 ; 26:283 -- 291 . 
+36 . 
+Collaborative Computational Project , Number 4 . 
+The CCP4 suite : programs for protein crystallography . 
+Acta Crystallogr D Biol Crystallogr 1994 ; D50 :760 -- 763 . 
+37 . 
+Humphrey W , Dalke A , Schulten K. VMD : visual molecular dynamics . 
+J Mol Graph 1996 ; 14 ( 1 ) :33 -- 38 , 27 -- 28 . 
+38 . 
+Holm L , Sander C. Dali : a network tool for protein structure comparison . 
+Trends Biochem Sci 1995 ; 20 ( 11 ) :478 -- 480 . 
+39 . 
+Wriggers W , Schulten K. Protein domain movements : detection of rigid domains and visualization of hinges in comparisons of atomic coordinates . 
+Proteins 1997 ; 29 ( 1 ) :1 -- 14 . 
+40 . 
+Huang XQ , Hardison RC , Miller W . 
+A space-efﬁcient algorithm for local similarities . 
+Comput Appl Biosci 1990 ; 6 ( 4 ) :373 -- 381 . 
+41 . 
+Thompson JD , Higgins DG , Gibson TJ . 
+CLUSTAL W : improving the sensitivity of progressive multiple sequence alignment through sequence weighting , position-speciﬁc gap penalties and weight matrix choice . 
+Nucleic Acids Res 1994 ; 22 ( 22 ) :4673 -- 4680 . 
+42 . 
+Chenna R , Sugawara H , Koike T , et al. . 
+Multiple sequence alignment with the Clustal series of programs . 
+Nucleic Acids Res 2003 ; 31 ( 13 ) :3497 -- 3500 . 
+43 . 
+Clamp M , Cuff J , Searle SM , Barton GJ . 
+The Jalview Java alignment editor . 
+Bioinformatics 2004 ; 20 ( 3 ) :426 -- 427 . 
+44 . 
+Pollastri G , McLysaght A. Porter : a new , accurate server for protein secondary structure prediction . 
+Bioinformatics 2005 ; 21 ( 8 ) : 1719 -- 1720 . 
+45 . 
+Pollastri G , Przybylski D , Rost B , Baldi P. Improving the prediction of protein secondary structure in three and eight classes using recurrent neural networks and proﬁles . 
+Proteins 2002 ; 47 ( 2 ) :228 -- 235 . 
+46 . 
+Gattiker A , Gasteiger E , Bairoch A. ScanProsite : a reference implementation of a PROSITE scanning tool . 
+Appl Bioinformatics 2002 ; 1 ( 2 ) :107 -- 108 . 
+47 . 
+Quevillon E , Silventoinen V , Pillai S , et al. . 
+InterProScan : protein domains identiﬁer . 
+Nucleic Acids Res 2005 ; 33 ( Web Server issue ) : W116 -- 120 . 
+48 . 
+Zdobnov EM , Apweiler R. InterProScan : an integration platform for the signature-recognition methods in InterPro . 
+Bioinformatics 2001 ; 17 ( 9 ) :847 -- 848 . 
+49 . 
+Altschul SF , Madden TL , Schaffer AA , et al. . 
+Gapped BLAST and PSI-BLAST : a new generation of protein database search programs . 
+Nucleic Acids Res 1997 ; 25 ( 17 ) :3389 -- 3402 . 
+50 . 
+Kabsch W , Sander C. Dictionary of protein secondary structure : pattern recognition of hydrogen-bonded and geometrical features . 
+Biopolymers 1983 ; 22:2577 -- 2637 . 
+51 . 
+Lunin VV , Li Y , Schrag JD , Iannuzzi P , Cygler M , Matte A. Crystal structures of Escherichia coli ATP-dependent glucokinase and its complex with glucose . 
+J Bacteriol 2004 ; 186 ( 20 ) :6915 -- 6927 . 
+52 . 
+Gorrell A , Lawrence SH , Ferry JG . 
+Structural and kinetic analyses of 
+arginine residues in the active site of the acetate kinase from Methanosarcina thermophila . 
+J Biol Chem 2005 ; 280 ( 11 ) :10731 -- 10742 . 
+53 . 
+Lagarrigue E , Maciver SK , Fattoum A , Benyamin Y , Roustan C. Co-operation of domain-binding and calcium-binding sites in the activation of gelsolin . 
+Eur J Biochem 2003 ; 270 ( 10 ) :2236 -- 2243 . 
+54 . 
+Holtman CK , Pawlyk AC , Meadow N , Roseman S , Pettigrew DW . 
+IIA ( Glc ) allosteric control of Escherichia coli glycerol kinase : binding site cooperative transitions and cation-promoted association by Zinc ( II ) . 
+Biochemistry 2001 ; 40 ( 47 ) :14302 -- 14308 . 
+55 . 
+Mukai T , Kawai S , Mori S , Mikami B , Murata K. Crystal structure of bacterial inorganic polyphosphate/ATP-glucomannokinase . 
+Insights into kinase evolution . 
+J Biol Chem 2004 ; 279 ( 48 ) :50591 -- 50600 . 
+56 . 
+Lee CW , Shewen PE , Cladman WM , Conlon JA , Mellors A , Lo RY . 
+Sialoglycoprotease of Pasteurella haemolytica A1 : detection of antisialoglycoprotease antibodies in sera of calves . 
+Can J Vet Res 1994 ; 58 ( 2 ) :93 -- 98 .

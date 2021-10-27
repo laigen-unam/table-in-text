@@ -1,0 +1,296 @@
+Transgenic Research ( 2005 ) 14:785 -- 792 DOI 10.1007 / s11248-005-7461-0 
+Springer 2005 
+Short communication 
+Transgenic tobacco plants expressing a dimeric single-chain variable fragment (scFv) antibody against Salmonella enterica serotype Paratyphi B
+Shokouh Makvandi-Nejad , Michael D. McLean , Tomoko Hirama , Kurt C. Almquist , 1 1 2 1 
+C. Roger MacKenzie & J. Christopher Hall * 2 1 , 1 Department of Environmental Biology , University of Guelph , Bovey Building , 50 Stone Rd. . 
+E , NIG 2W1 , Guelph , Ontario , Canada 2 Antibody Engineering , Institute for Biological Sciences , Building Sussex , 100 Sussex Drive , K1A 0R6 , Ottawa , Ontario , Canada 
+Received 13 January 2005 ; accepted 17 May 2005 
+Key words : Agrobacterium-mediated transformation , dimer , lipopolysaccharide , LPS , Paratyphi B , Salmonella enterica serotype , single-chain variable fragment antibody , scFv , T-DNA insertion , T-DNA locus , tobacco , transgenic plant 
+Abstract 
+Transgenic tobacco plants were produced that express an anti-Salmonella enterica single-chain variable fragment ( scFv ) antibody that binds to the lipopolysaccharide ( LPS ) of S. enterica Paratyphi B . 
+The coding sequence of this scFv was optimized for expression in tobacco , synthesized and subsequently placed behind three different promoters : an enhanced tobacco constitutive ubiquitous promoter ( EntCUP4 ) , and singleand double-enhancer versions of the Cauliﬂower Mosaic Virus 35S promoter ( CaMV 35S ) . 
+These chimeric genes were introduced into Nicotiana tabacum cv . 
+81V9 by Agrobacterium-mediated transformation and 50 primary transgenic ( T0 ) plants per construct were produced . 
+Among these plants , 23 were selected for the ability to express active scFv as determined by enzyme-linked immunosorbent assay ( ELISA ) using S. enterica LPS as antigen . 
+Expanded bed adsorption-immobilized metal afinity chromatography ( EBA-IMAC ) was used to purify 41.7 lg of scFv/g from leaf tissue . 
+Gel ﬁltration and surface plasmon resonance ( SPR ) analyses demonstrated that the puriﬁed scFv was active as a dimer or higher-order multimer . 
+In order to identify T1 plants suitable for development of homozygous lines with heritable scFv expression , kanamycin-resistance segregation analyses were performed to determine the number of T-DNA loci in each T0 plant , and quantitative ELISA and immunoblot analyses were used to compare expression of active and total anti-Salmonella scFv , respectively , in the T1 generation . 
+As S. enterica causes millions of enteric fevers and hundreds of thousands of deaths worldwide each year , large-scale production and puriﬁcation of this scFv will have potential for uses in diagnosis and detection , as a therapeutic agent , and in applications such as water system puriﬁcation . 
+Introduction
+The expression of recombinant antibodies ( rAbs ) and rAb fragments in transgenic plants is recognized for potential cost-effective Ab production and puriﬁcation for growing market demands ( Hiatt et al. , 1989 ; Peeters et al. , 2001 ; Fischer et al. , 2004 , 2003 ) . 
+Bacteria , yeast , animals and animal cells are major expression systems for these molecules ( Hudson , 1998 ; Houdebine , 2002 ; Hudson & Souriau , 2003 ; Krauss 2003 ; Schillberg et al. . 
+* Author for correspondence E-mail : jchall@uoguelph.ca 
+2003 ; Wurm , 2004 ) ; however , each system has its own limitation . 
+Bacteria are incapable of producing full-length Abs , which require extensive folding , post-translational modiﬁcation and multimeric assembly ; also , dificulties may arise in separating Abs from bacterial toxins ( Schillberg et al. , 2002 ; Schillberg et al. , 2003 ; Baneyx & Mujacic , 2004 ) . 
+Yeast systems lack the ability to eficiently produce properly folded Abs , and have low yields ( Peeters et al. , 2001 ; Mayﬁeld et al. , 2003 ; Schillberg et al. , 2003 ) , although recent successes are reported with ﬁlamentous fungal systems ( Gerngross , 2004 ) . 
+Monoclonal Ab ( mAb ) yields from animals ( i.e. , milk , eggs ) is in the range of 0.4 -- 14 g/L ( Peeters et al. , 2001 ) ; however , the possibility of contaminating an Ab with zoonotic pathogens exists ( Fi-scher et al. , 2003 ) . 
+Finally , mammalian cells are the pharmaceutical industry standard for mAb production ( Wurm , 2004 ) , but this process can be expensive and slow ( Schillberg et al. , 2002 ) . 
+Transgenic plants offer several advantages for Ab production . 
+They can secrete , fold and modify proteins in ways similar to those of mammalian cells ( Sheedy & Hall , 2001 ; Fischer et al. , 2004 ; Gomord & Faye , 2004 ) , and there is reduced potential for zoonotic contamination ( Fiedler et al. , 1997 ; Schillberg et al. , 2003 ) . 
+Abs produced in plants can also be modiﬁed to provide better biological features and produced in large quantities for applications in environmental remediation ( Kim et al. , 2002 ; Stranchan et al. , 2002 ; Kramer and Hock , 2003 ) , plant protection ( Smolenska et al. , 1998 ; Schillberg et al. , 2001 ; Almquist et al. , 2004 ; Peschen et al. , 2004 ) and medicine . 
+We chose an anti-Salmonella enterica serotype Paratyphi B scFv for production in tobacco plants . 
+A mAb ( i.e. , Se155 -- 4 , Anand et al. , 1991a , b ; Cygler et al. , 1991 ) was originally developed that binds to the abequose-mannose element of the Salmonella serogroup B antigenic determinant ( Bundle et al. , 1994 ) . 
+A scFv ( i.e. , B5-1 , Deng et al. , 1995 ) was developed from this with two point mutations ( i.e. , Met34Ile and Gly109Ser ) that shifted it from a monomer to a dimer , resulting in high binding afinity for S. enterica Paratyphi B . 
+The goals of this research were high-level expression of this scFv , to determine whether transgenic tobacco plants would make the active dimer , and to identify the best candidates for development of homozygous lines for potential large-scale production . 
+Methods, results and discussion
+Transgenic tobacco plants expressing anti-S. enterica serotype Paratyphi B scFv
+The B5-1 scFv coding sequence ( Deng et al. , 1995 ) was modiﬁed for optimal expression in tobacco . 
+The Arabidopsis basic chitinase signal sequence ( Samac et al. , 1990 ; GenBank Accession AY081519 ) , and QCRL-1 ( Hipfner et al. , 1996 ) , 6xHis and KDEL ( Wandelt et al. , 1992 ) tags were added to the amino and carboxyl termini , respectively . 
+The entire 885 bp sequence ( GenBank Accession AY320047 ) , including preferred tobacco codons , was synthesized and subcloned between the EntCUP4 promoter ( Foster et al. , 1999 ) and the nos terminator in pBIN19 ( Bevan , 1984 ) . 
+Single - and double-enhancer CaMV 35S promoters were PCR-ampliﬁed from pFF19 ( Timmermans et al. , 1990 ) using primers 35S-HindIII ( 5 cents - AGTGCCAAGCTTGCCAACA-3 cents ) and 35S-XbaI ( 5 cents - CGCGGTCTAGAAAGCTC-GAGAGAGAGATAGATTTG-3 cents ) , and subcl-oned to replace EntCUP4 . 
+Binary plasmids were introduced into Agrobacterium tumefaciens strain At542 by electroporation prior to transformation of low-alkaloid Nicotiana tabacum cv . 
+81V9 ( Hors-ch et al. , 1986 ; Miki et al. , 1999 ) . 
+Fifty plants for each construct were selected on kanamycin ( 50 mg/L ) , and screened for expression of the anti-S . 
+enterica scFv by ELISA according to Almquist et al. ( 2004 ) using 100 lg/mL S. enterica Typhimurium B LPS as speciﬁc antigen ( Sigma , St. Louis , MO ) and Penta.His ( QIAgen ) as primary detection Ab . 
+Five T0 plants with the EntCUP4 promoter , eight with the single-enhancer and 10 with the double-enhancer 35S promoter were selected as the highest expressers of active scFv . 
+Speciﬁcity of the scFv from these plants was further demonstrated by negative ELISA results using non-speciﬁc LPS from S. enterica serotype Minnesota ( not shown ) . 
+Analysis of B5-1 scFv expression
+EntCUP4 T0 plants were produced 4 months earlier than 35S promoter T0 plants , therefore a comparison of the relative amounts and activities of recombinant scFv required that T1 seedlings be used . 
+Pooled T1 sibling plantlets will have a average number of T-DNA loci approximating that of the original T0 plant . 
+For instance , T1 progeny of a single-locus T0 plant would have a 1:2:1 offspring ratio of homozygous : hemizygous : null-homozygous genotypes at the T-DNA locus , resulting in an average of one T-DNA locus per genome equivalent . 
+Approximately 200 T1 seeds from each of the 23 T0 plants , and from cv . 
+81v9 as a control , were cultured on non-selectable agar medium . 
+After 4 weeks , three replicates of tissue ( 400 mg each ) were harvested from each lawn of T1 seedlings . 
+The relative protein concentration was determined for all samples , and these were adjusted to the same relative concentration . 
+ELISA was performed to measure relative scFv binding activity per replicate ( Figure 1a -- c ) . 
+Total scFv expression was subsequently measured for T1 seedlings by pooling the three replicate extracts from each line and performing SDS-PAGE followed by quantitative immunoblot analysis , as described by Almquist et al. ( 2004 ; Figure 1d -- f ) . 
+Expression and activity of scFv in the T1 generation of all ﬁve EntCUP4 T0 plants was severely reduced ( Figure 1a and d ) . 
+In contrast , expression and activity were still high in seven of eight single-enhancer plants ( numbers 8 , 9 , 13 , 16 , 17 , 18 and 19 ; Figure 1b and e ) , and in ﬁve of 10 double-enhancer plants ( numbers 24 , 28 , 30 , 31 and 43 ; Figure 1c and f ) . 
+Post-transcriptional gene silencing ( PTGS ; Neuhuber et al. , 1994 ; Depicker & Van Montagu , 1997 ; Jones et al. , 1999 ) is a likely explanation for the reduction of transgene expression in double-enhancer 35S plants in the T1 generation , as this phenomenon is typical of a strong , constitutive promoter ( Elmayan & Vaucheret , 1996 ) . 
+For e.g. , double-enhancer plant 34 showed no active or total scFv in the T1 generation ( Figure 1c and e ) ; this plant line should be especially susceptible to PTGS as quantitative real-time PCR analysis ( not shown ) estimated 25 T-DNA copies in the T0 progenitor . 
+We have not investigated the reason for decreased expression levels among the Ent-CUP4 plants , but suggest transcriptional gene silencing ( TGS ) as a possible cause because tCUP sequences are similar to RENT sequences ( repetitive elements from Nicotiana tabacum ; 93 % identity over 365 nucleotides ; data not shown ) . 
+If T-DNA insertions occured near methylated RENT sequences in the tobacco genome , tCUP sequences may therefore become methylated , leading to TGS ( Ingelbrecht et al. , 1999 ) . 
+Although it would be reasonable to suggest that the EntCUP4 plantlets produced very little scFv due to their age ( 4 weeks ) or being raised on agar medium , we suggest these possibilities are unlikely because one EntCup4 T1 family was grown to maturity in a greenhouse , and ELISAs performed on over 20 individuals showed they all had no active scFv ( unpublished ) . 
+Nickel afinity puriﬁcation and quantiﬁcation of B5-1 scFv
+Protein extractions from 100 g of leaves from each of three T0 plants , i.e. , single-enhancer plants 7 , 18 and 19 , were pooled and subjected to EBA-IMAC ( Jiang & Hearn , 1996 ; Valdes et al. , 2003 ; Sahin et al. , 2005 ) . 
+ScFv was eluted in a buffer containing 300 mM imidazole and fractions of 6 mL were collected and assayed for activity . 
+Ten ELISA-positive fractions were pooled and analyzed by SDS-PAGE in comparison with the crude starting material ( Figure 2a ) . 
+The concentration of puriﬁed scFv was estimated using quantitative immunoblot technology , in comparison with known amounts of 6xHis Protein Ladder standard ( QIAGEN ) . 
+A single 30 kDa band was detected with the Penta.-His Ab ( Figure 2b , arrow ) , whereas wild-type control extract did not contain an immunopositive band ( not shown ) . 
+Densitometric analysis indicated 41.7 lg of puriﬁed scFv/g of mature leaf biomass . 
+Identiﬁcation of the puriﬁed scFv was further veriﬁed by MALDI-TOF mass spectrometry , since 114 of the 287 amino acids in the scFv sequence were inferred from the masses of ﬁve peptide fragments ( not shown ; Bauer & Kuster , 2003 ) . 
+Active B5-1 scFv is a dimer or higher-order multimer
+Preparations of the anti-Salmonella scFv expressed in tobacco and E. coli ( not shown ) were separated by Superdex 75 ( Amersham Biosciences , Piscata-way , NJ ) gel ﬁltration chromatography . 
+Note that scFv expressed in E. coli , as described by Deng et al. , ( 1995 ) , did not contain the C-terminal KDEL , 6xHis and QCRL-1 tags . 
+UV traces were read at 280 nm and peaks containing expected monomers , dimers and higher-order multimer were identiﬁed by comparative elution with a protein size standard ( Figure 2c ) . 
+SPR analyses were performed with a BIACORE 3000 biosensor system ( Biacore , Inc. , Piscataway , NJ ) on fractions containing these peaks to determine whether they contained active scFv ( Figure 2d ) . 
+BSA-S . 
+enterica Essen O-chain ( serogroup B ) was immobilized at a surface density of 9000 response units ( RUs ) on research grade CM5 sensor chips ( Biacore ) at a concentration of 100 lg/mL in 10 mM acetate , pH 4.5 , by amine coupling according to the manufacturer 's instructions . 
+The reference surface had 10,000 RUs of BSA immobilized under the above conditions . 
+Analyses were carried out at 25 C in 10 mM HEPES ( pH 7.4 ) containing 150 mM 
+NaCl and 3 mM EDTA at a ﬂow rate of 20 lL / min . 
+Chip surfaces were regenerated with 100 mM HCl for 3 s. Gel ﬁltration and SPR analyses showed that active B5-1 scFv from E. coli eluted as a dimer or higher-order multimers in one major peak , which was divided into four fractions ( EF1 through E4 ; Figure 2c and d ) . 
+Several plant fractions were collected that had scFv activity : PF2 , co-eluted with higher-order multimers ; PF3 , with the dimer ; PF4 , with the monomer ( Figure 2d ) . 
+SPR showed that scFv from PF2 , PF3 and EF3 had high functional afinity for the S. enterica Essen B O-chain , as indicated by their slow dissociation phases ( Figure 2d ) . 
+Expanded response traces on the right of Figure 2d indicate that PF4 displayed weaker functional afinity for bound antigen , and PF5 through PF7 had no afinity , as they had rapid dissociation phases . 
+These results are consistent with published data on this scFv , which show the dimeric form has higher binding afinity ( KD = 8 · 10 ) 8 M ) 1 ) than the monomer ( KD = 4 · 10 M ; Deng et al. , 1995 ) , presumabl ) 6 ) 1 due to increased avidity . 
+Our results indicated that the active scFv expressed by tobacco was predominantly a dimer or higher-order multimer . 
+Some of the T1 lines expressed scFv with less functional activity than others , even though they expressed similar amounts of total scFv . 
+For e.g. , double-enhancer lines 24 and 30 had similar total scFv ( Figure 1f ) , yet line 24 expressed only half the active scFv of line 30 ( Figure 1c ) . 
+Single-enhancer lines 7 , 9 and 13 showed a similar trend ; i.e. , all three lines showed similar activity ( Figure 1b ) , while line 9 expressed only half the total scFv of the other two ( Figure 1e ) . 
+It is possible that some of the T1 lines expressed proportionately more monomeric than dimeric or higher-order anti-Salmonella scFv , and thus their apparent reduction in functional scFv activity was due to differences in overall avidity ( Arndt et al. , 1998 ) . 
+We have not investigated this phenomenon further . 
+Absorbance 
+scFv ( µg ) / g plant fresh weigh 
+Number of T-DNA loci 
+( a ) EntCUP4 
+( b ) Single-Enhancer 35S 
+( c ) Double-Enhancer 35S 
+3.0 2.5 2.0 1.5 1.0 0.5 0.0 
+3.0 2.5 
+3.0 2.5 
+2.0 1.5 1.0 0.5 0.0 
+2.0 1.5 
+1.0 0.5 
+0.0 8 
+7 8 
+9 
+13 16 17 18 0 Progenitor 
+19 wt 
+12 13 16 20 wt T0 Progenitor 
+43 wt 
+17 23 24 28 30 31 32 34 41 T0 Progenitor ( f ) Double-Enhancer 35S 
+T 
+( e ) Single-Enhancer 35S 
+( d ) EntCUP4 
+10.0 8.0 
+10.0 8.0 
+10.0 8.0 
+6.0 
+6.0 4.0 
+6.0 4.0 
+4.0 2.0 
+2.0 
+2.0 0.0 
+0.0 
+0.0 
+7 8 
+9 13 16 17 18 19 wt T0 Progenitor 
+8 12 13 16 20 wt T0 Progenitor 
+17 
+23 
+24 28 30 31 32 34 41 T0 Progenitor 
+43 wt 
+( i ) Double-Enhancer 35S 
+( h ) Single-Enhancer 35S 
+( g ) EntCUP4 
+4 
+4 
+4 3 
+3 
+3 
+2 1 
+2 
+2 
+1 
+1 
+0 8 
+0 
+12 13 16 20 wt 0 8 9 13 16 17 18 19 wt 17 23 24 28 30 31 32 34 41 43 wt 
+7 
+T0 Progenitor T0 Progenitor T0 Progenitor 
+Figure 1 . 
+Comparison of active and total anti-Salmonella enterica Paratyphi B scFv in the T1 generation , and number of T-DNA loci in T0 progenitor plants . 
+( a -- c ) ELISA absorbance values indicating scFv activity , with standard errors , for protein preparations from T1 sibling sets of ﬁve EntCUP4 ( a ) , eight single-enhancer 35S ( b ) and 10 double-enhancer 35S ( c ) plants . 
+Relative absor-bances are given at the left , and T0 progenitors of T1 sibling sets are given at the bottom . 
+( d -- f ) Total scFv in lg/g plant fresh weight with standard errors , indicated at the left , for T1 sibling sets , as determined with quantitative immunoblotting technology . 
+( g -- i ) Number of T-DNA loci , indicated at the left , for T0 progenitor plants , as determined with kanamycin-resistance segregation assays ( wt : wild type N. tabacum cv . 
+81v3 ) . 
+Figure 2 . 
+Puriﬁcation , quantiﬁcation , gel ﬁltration and surface plasmon resonance ( SPR ) analyses of anti-Salmonella enterica Paratyphi B scFv . 
+( a ) Coomassie blue-stained denaturing SDS-PAGE . 
+Lane 1 , crude extract ; lane 2 , pooled sample of immunopositive fractions from expanded bed absorption-immobilized metal afinity chromatography ( EBA-IMAC ) puriﬁcation . 
+The 30 kDa scFv is indicated by the arrow on the right . 
+( b ) Quantitative immunoblot analysis . 
+Lanes 1 -- 4 , 6xHis Protein Ladder ( QIAgen ) , loa-ded with quantities of 100 , 200 , 300 and 400 ng , respectively ; lanes 5 -- 8 , pooled EBA-IMAC fractions , loaded with 2.5 , 5.0 , 7.5 and 10 lL , respectively . 
+Immunopositive bands were detected using Penta.His ( QIAgen ) as primary antibody ; arrow at right indicates 30 kDa scFv . 
+Migration of molecular weight size standards is shown on the left . 
+( c ) Gel ﬁltration of anti-S . 
+enterica scFv expressed in tobacco and in E. coli . 
+Absorbances at 280 nm are shown at the left . 
+Plant fractions ( PF ) are indicated by PF1 through PF9 , and E. coli fractions ( EF ) as EF1 through EF4 . 
+Arrows on the bottom indicate where the monomeric and dimeric scFvs were expected to elute . 
+( d ) SPR analyses of EF3 and PF2 through PF7 . 
+Selected fractions eluted in ( c ) were passed over BSA-S . 
+enterica Essen O-chain ( serogroup B ) bound to the surface of a CM5 sensor chip . 
+Expanded sensorgram for PF4 through PF7 is shown at the right of ( d ) . 
+Response differences are at the left and time in seconds is at the bottom of each sensorgram . 
+Identiﬁcation of T1 seed suitable for development into lines expressing B5-1 scFv
+T0 tobacco plants were characterized to determine T1 seed that would be suitable for development into lines that express functional scFv . 
+The number of T-DNA loci in each T0 plant was estimated by kanamycin-resistance segregation analysis ( not shown ) , where approximately 200 T1 seeds from each T0 plant were cultured on MS agar medium containing kanamycin ( 100 mg/mL ) . 
+After 5 weeks , ratios of resistant to susceptible seedlings were determined and the numbers of T-DNA loci were calculated , based on Mendelian inheritance models for one to four independently segregating loci . 
+This method showed 12 of the scFv-express-ing T0 plants contained only one genetic locus with an active nptII gene , while eight had two loci and three had three loci ( Figure 1g ) . 
+For the development of such lines , transgenic plants should have heritable , high expression of functional scFv and contain a small number of T-DNA copies or loci . 
+After self-pollination , lines would be developed from homozygous T plants . 
+1 Single-locus homozygotes improve the chances of maintaining high scFv expression levels since the possibility of gene silencing is reduced ( Meyer & Saedler , 1996 ) ; multilocus T-DNA plants can over-express the T-DNA-encoded mRNA , resulting in PTGS ( Flavell , 1994 ) . 
+In addition , T0 plants with single T-DNA insertions are much easier to develop to homozygosity . 
+Although 10 of 12 single-locus T1 families expressed measurable active and total scFv , those from single-enhancer T0 plants 8 and 19 , and from double-enhancer plants 31 and 43 are the best candidates for development of homozygous lines ( Figure 1 ) . 
+Acknowledgements
+This research was supported by Healthy Futures for Ontario Agriculture ( OMAF ) , Toxin Alert , Inc. , the Natural Sciences and Engineering Research Council of Canada ( NSERC ) and the Canada Research Chairs Program . 
+We are grateful to Dr Don Schwab of the National Research Council ( Saskatoon ) for gene synthesis , to Angela Holliss of the Laboratory Services Division ( Guelph ) for DNA sequencing , to Yongqing Niu for technical advice , and to Frank Mena for greenhouse trials . 
+We would also like to thank Dr Brian Miki of Agriculture and Agri-Food Canada ( Ottawa ) for providing the EntCUP4 promoter . 
+References 
+Almquist KC , Niu Y , McLean MD , Mena F , Yau K , Brown K , Brandle J and Hall JC ( 2004 ) Immunomodulation confers herbicide resistance in plants . 
+Plant Biotechnol J 2 : 189 -- 197 . 
+Anand NN , Dubuc J , Phipps J , MacKenzie CR , Sadowska J , Young NM , Bundle DR and Narang SA ( 1991a ) Synthesis and expression in Escherichia coli of cistronic DNA encoding an antibody fragment speciﬁc for Salmonella serotype B O-antigen . 
+Gene 100 : 39 -- 44 . 
+Anand NN , Mandal S , MacKenzie CR , Sadowska J , Sigurskjold B , Young NM , Bundle DR and Narang SA ( 1991b ) Bacterial expression and secretion of various single-chain Fv genes encoding proteins speciﬁc for a Salmonella serotype B O-antigen . 
+J Biol Chem 266 : 21874 -- 21879 . 
+Arndt KM , Muller KM and Pluckthun A ( 1998 ) Factors inﬂuencing the dimer to monomer transition of an antibody single-chain Fv fragment . 
+Biochemistry 37 : 12918 -- 12926 . 
+Baneyx F and Mujacic M ( 2004 ) Recombinant protein folding and misfolding in Escherichia coli . 
+Nat Biotechnol 22 : 1399 -- 1408 . 
+Bauer A and Kuster B ( 2003 ) Afinity puriﬁcation-mass spectrometry : powerful tools for the characterization of protein complexes . 
+Eur J Biochem 270 : 570 -- 578 . 
+Bevan M ( 1984 ) Binary Agrobacterium vectors for plant transformation . 
+Nucleic Acids Res 22 : 8711 -- 8721 . 
+Bundle DR , Eichler E , Gidney MA , Meldal M , Ragauskas A , Sigurskjold BW , Sinnott B , Watson DC , Yaguchi M and Young NM ( 1994 ) Molecular recognition of a Salmonell 
+trisaccharide epitope by monoclonal antibody Se155-4 . 
+Biochemistry 33 : 5172 -- 5182 . 
+Cygler M , Rose DR and Bundle DR ( 1991 ) Recognition of a cell-surface oligosaccharide of pathogenic Salmonella by an antibody Fab fragment . 
+Science 253 : 442 -- 445 . 
+Deng SJ , MacKenzie CR , Hirama T , Brousseau R , Lowary TL , Young NM , Bundle DR and Narang SA ( 1995 ) Basis for selection of improved carbohydrate-binding single-chain Abs from synthetic gene libraries . 
+Proc Natl Acad Sci USA 92 : 4992 -- 4996 . 
+Depicker A and Van Montagu MV ( 1997 ) Post-transcriptional gene silencing in plants . 
+Curr Opin Cell Biol 9 : 373 -- 382 . 
+Elmayan T and Vaucheret H ( 1996 ) Expression of single copies of a strongly expressed 35S transgene can be silenced posttranscriptionally . 
+Plant J 9 : 787 -- 797 . 
+Fiedler U , Phillips J , Artsaenko O and Conrad U ( 1997 ) Optimization of scFv antibody production in transgenic plants . 
+Immunotechnology 3 : 205 -- 216 . 
+Fischer R , Stoger E , Schillberg S , Christou P and Twyman R ( 2004 ) Plant-based production of biopharmaceuticals . 
+Curr Opin Plant Biol 7 : 152 -- 158 . 
+Fischer R , Twyman RM and Schillberg S ( 2003 ) Production of antibodies in plants and their use for global health . 
+Vaccine 21 : 820 -- 825 . 
+Flavell RB ( 1994 ) Inactivation of gene expression in plants as a consequence of speciﬁc sequnce duplication . 
+Proc Natl Acad Sci USA 91 : 3490 -- 3496 . 
+Foster E , Hattori J , Labbé H , Ouellet T , Fobert PR , James LE , Iyer VN and Miki BL ( 1999 ) A tobacco cryptic constitutive promoter , tCUP , revealed by T-DNA tagging . 
+Plant Mol Biol 41 : 45 -- 55 . 
+Gerngross TU ( 2004 ) Advances in the production of human therapeutic proteins in yeasts and ﬁlamentous fungi . 
+Nat Biotechnol 22 : 1409 -- 1414 . 
+Gomord V and Faye L ( 2004 ) Post-translational modiﬁcation of therapeutic proteins in plants . 
+Curr Opin Plant Biol 7 : 171 -- 181 . 
+Hiatt A , Cafferkey R and Bowdish K ( 1989 ) Production of antibodies in transgenic plants . 
+Nature 342 : 76 -- 78 . 
+Hipfner DR , Almquist KC , Stride BD , Deeley RG and Cole SP ( 1996 ) Location of a protease-hypersensitive region in the multidrug resistance protein ( MRP ) by mapping of the epitope of MRP-speciﬁc monoclonal antibody QCRL-1 . 
+Cancer Res 56 : 3307 -- 3314 . 
+Horsch RB , Klee HJ , Stachel S , Winans SC , Nester EW , Rogers SG and Fraley RT ( 1986 ) Analysis of Agrobacterium tumefaciens virulence mutants in leaf discs . 
+Proc Natl Acad Sci USA 83 : 2571 -- 2575 . 
+Houdebine LM ( 2002 ) Antibody manufacture in transgenic animals and comparisons with other systems . 
+Curr Opin Biotechnol 13 : 625 -- 629 . 
+Hudson PJ ( 1998 ) Recombinant antibody fragments . 
+Curr Opin Biotechnol 9 : 395 -- 402 . 
+Hudson PJ and Souriau C ( 2003 ) Engineered antibodies . 
+Nat Med 9 : 129 -- 134 . 
+Ingelbrecht IL , Irvine JE and Mirkov TE ( 1999 ) Post-tran-scriptional silencing of reporter transgenes in tobacco correlates with DNA methylation . 
+Proc Natl Acad Sci USA 91 : 10502 -- 10506 . 
+Jiang W and Hearn MT ( 1996 ) Protein interaction with immobilized metal ion afinity ligands under high ionic strength conditions . 
+Anal Biochem 242 : 45 -- 54 . 
+Jones L , Hamilton AJ , Voinnet O , Thomas CL , Maule AJ and Baulcombe DC ( 1999 ) RNA -- DNA interactions and DNA 
+methylation in post-transcriptional gene silencing . 
+Plant Cell 11 : 2291 -- 2301 . 
+Kim IS , Shim JH , Suh YT , Yau KY , Hall JC , Trevors JT and Lee T ( 2002 ) Green ﬂuorescent protein-labeled recombinant antibody for detecting the picloram herbicide . 
+Biosci Bio-technol Biochem 66 : 1148 -- 1151 . 
+Kramer K and Hock B ( 2003 ) Recombinant antibodies for environmental analysis . 
+Anal Bioanal Chem 377 : 417 -- 446 . 
+Krauss J ( 2003 ) Recombinant antibodies for the diagnosis and treatment of cancer . 
+Mol Biotechnol 25 : 1 -- 17 . 
+Mayﬁeld SP , Franklin SE and Lerner RA ( 2003 ) Expression and assembly of a fully active antibody in algae . 
+Proc Natl Acad Sci 100 : 438 -- 442 . 
+Meyer P and Saedler H ( 1996 ) Homology-dependent gene silencing in plants . 
+Annu Rev Plant Physiol Plant Mol Biol 47 : 23 -- 48 . 
+Miki B , McHugh SG , Labbe H , Ouellet T , Tolman JH and Brandle JE ( 1999 ) Transgenic tobacco : gene expression and applications . 
+Biotechnol Agri Forest 45 : 336 -- 354 . 
+Neuhuber F , Park YD , Matzke AJ and Matzke MA ( 1994 ) Susceptibility of transgene loci to homology-dependent gene silencing . 
+Mol Gen Genet 244 : 230 -- 241 . 
+Peeters K , Wilde CDe , Jaeger GDe , Angenon G and Depicker A ( 2001 ) Production of antibodies and antibody fragments in plants . 
+Vaccine 19 : 2756 -- 2761 . 
+Peschen D , Li HP , Fischer R , Kreuzaler F and Liao YC ( 2004 ) Fusion proteins comprising a Fusarium-speciﬁc antibody linked to antifungal peptides protect plants against a fungal pathogen . 
+Nat Biotechnol 22 : 732 -- 738 . 
+Samac DA , Hironaka CM , Yallaly PE and Shah DM ( 1990 ) Isolation and characterization of the genes encoding basic and acidic chitinase in Arabidopsis thaliana . 
+Plant Physiol 93 : 907 -- 914 . 
+Sahin A , Tetaud E , Merlin G and Santarelli X ( 2005 ) LdARL-1 His-tagged recombinant protein : puriﬁcation by immobilized metal afinity expanded bed adsorption . 
+J Chromatogr B Analyt Technol Biomed Life Sci 818 : 19 -- 22 . 
+Schillberg S , Emans N and Fischer R ( 2002 ) Antibody molecular farming in plants and plant cells . 
+Phytochem Rev 1 : 45 -- 54 . 
+Schillberg S , Fischer R and Emans N ( 2003 ) Molecular farming of recombinant antibodies in plants . 
+Cell Mol Life Sci 60 : 433 -- 445 . 
+Schillberg S , Zimmermann S , Zhang MY and Fischer R ( 2001 ) Antibody-based resistance to plant pathogens . 
+Transgenic Res 10 : 1 -- 12 . 
+Sheedy C and Hall JC ( 2001 ) Plant-derived antibodies : the medicines of tomorrow . 
+In : Saxena PK ( ed ) , Development of Plant-Based Medicines : Conservation , Eficacy , and Safety . 
+( pp. 183 -- 198 ) Kluwer Academic Publishers , Boston . 
+Smolenska L , Roberts IM , Learmonth D , Porter AJ , Harris WJ , Wilson MA and Santa Cruz S ( 1998 ) Production of a functional single chain antibody attached to the surface of a plant virus . 
+FEBS Lett 441 : 379 -- 382 . 
+Stranchan G , Capel S , Maciel H , Porter AJR and Paton GI ( 2002 ) Application of cellular and immunological biosensor techniques to assess herbicide toxicity in soils . 
+Eur J Soil Sci 53 : 37 -- 44 . 
+Timmermans MCP , Maliga P , Vieira J and Messing J ( 1990 ) The pFF plasmids : cassettes utilising CaMV sequences for expression of foreign genes in plants . 
+J Biotechnol 14 : 333 -- 344 . 
+Valdes R , Gomez L , Padilla S , Brito J , Reyes B , Alvarez T , Mendoza O , Herrera O , Ferro W , Pujol M , Leal V , Linare 
+M , Hevia Y , Garcia C , Mila L , Garcia O , Sanchez R , Acosta A , Geada D , Paez R , Luis Vega J and Borroto C ( 2003 ) Large-scale puriﬁcation of an antibody directed against hepatitis B surface antigen from transgenic tobacco plants . 
+Biochem Biophys Res Commun 308 : 94 -- 100 . 
+Wandelt CI , Khan MR , Craig S , Schroeder HE , Spencer D and Higgins TJ ( 1992 ) Vicilin with carboxy-terminal KDEL i 
+retained in the endoplasmic reticulum and accumulates to high levels in the leaves of transgenic plants . 
+Plant J 2 : 181 -- 192 . 
+Wurm FM ( 2004 ) Production of recombinant protein therapeutics in cultivated mammalian cells . 
+Nat Biotechnol 22 : 1393 -- 1398 .

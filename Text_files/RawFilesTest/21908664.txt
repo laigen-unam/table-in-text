@@ -1,0 +1,779 @@
+JOURNAL OF BACTERIOLOGY , Nov. 2011 , p. 6132 -- 6141 0021-9193 / 11 / $ 12.00 doi :10.1128 / JB.05909-11 
+Copyright © 2011 , American Society for Microbiology . 
+All Rights Reserved . 
+The Transcript from the 28-Dependent Promoter Is Translationally Inert in the Expression of the 28-Encoding Gene ﬂiA in the ﬂiAZ Operon of Salmonella enterica Serovar Typhimurium
+Yasushi Tanabe , Takeo Wada , Katsuhiko Ono , † Tatsuhiko Abo , and Kazuhiro Kutsukake * 
+Graduate School of Natural Science and Technology and Department of Biology , Faculty of Science , Okayama University , Tsushima-Naka 3-1-1 , Kita-ku , Okayama 700-8530 , Japan 
+Received 29 July 2011/Accepted 1 September 2011 
+There are three classes of promoters for ﬂagellar operons in Salmonella . 
+Class 2 promoters are transcribed by 70 RNA polymerase in the presence of an essential activator , FlhD4C2 , and activated by an auxiliary regulator , FliZ . 
+Class 3 promoters are transcribed by 28 RNA polymerase and repressed by an anti- 28 factor , FlgM . 
+28 ( FliA ) and FliZ are encoded by the ﬂiA and ﬂiZ genes , respectively , which together constitute an operon transcribed in this order . 
+This operon is transcribed from both class 2 and class 3 promoters , suggesting that it should be activated by its own product , 28 , even in the absence of FlhD4C2 . 
+However , 28-dependent transcription occurs in vivo only in the presence of FlhD4C2 , indicating that transcription from the class 2 promoter is a prerequisite to that from the class 3 promoter . 
+In this study , we examined the effects of variously modiﬁed versions of the ﬂiA regulatory region on transcription and translation of the ﬂiA gene . 
+We showed that FliA is not signiﬁcantly translated from the class 3 transcript . 
+In contrast , the 5 - terminal AU-rich sequence found in the class 2 transcript confers efﬁcient ﬂiA translation . 
+Replacement of the Shine-Dalgarno sequence of the ﬂiA gene with a better one improved ﬂiA translation from the class 3 transcript . 
+These results suggest that the 5 - terminal AU-rich sequence of the class 2 transcript may assist ribosome binding . 
+FliZ was shown to be expressed from both the class 2 and class 3 transcripts . 
+Bacterial ﬂagellum consists of three structural parts , a basal body , a hook , and a ﬁlament . 
+More than 50 genes are specifically required for ﬂagellar formation and function in Salmo-nella enterica serovar Typhimurium and Escherichia coli ( 1 , 30 ) . 
+These ﬂagellar genes are organized into at least 15 operons ( 21 , 33 ) , and their expression forms a highly organized cascade called a ﬂagellar regulon ( 22 , 32 ) . 
+There are three classes of promoters responsible for transcription of the ﬂagellar operons ( 28 , 32 ) . 
+In the ﬂagellar regulon , ﬂhDC is the sole operon under the control of the class 1 promoter , which is transcribed by 70 RNA polymerase and responds to various global regulators such as cyclic AMP-Crp , H-NS , and RcsB ( 25 , 50 , 52 ) . 
+The class 1 promoter is also under an autogenous control from FlhD and FlhC ( 25 ) . 
+The class 2 promoter is transcribed by 70 RNA polymerase in the presence of the class 1 gene products FlhD and FlhC ( 15 , 36 ) . 
+These two proteins assemble into an FlhD4C2 heterohexamer , which binds to the FlhD4C2 binding site located upstream of the class 2 promoter ( 15 , 36 , 47 ) . 
+The FlhD4C2 binding site shows an imperfect symmetry comprising two 17 - or 18-bp inverted repeats , called the FlhD4C2 box , separated by a 10 - or 11-bp spacer ( 7 , 35 , 49 ) . 
+The class 2 promoter is also under positive and negative control from FliZ and FliT , respectively , both of which are encoded by the genes within the ﬂagellar regulon ( 28 ) . 
+FliT was shown to act as an 
+* Corresponding author . 
+Mailing address : Department of Biology , Faculty of Science , Okayama University , Tsushima-Naka 3-1-1 , Kita-ku , Okayama 700-8530 , Japan . 
+Phone : 81-86-251-7863 . 
+Fax : 81-86-251-7876 . 
+E-mail : ktkk@cc.okayama-u.ac.jp . 
+† Present address : Department of Microbiology , Graduate School of Medical Sciences , Kumamoto University , Kumamoto 860-8556 , Japan . 
+Published ahead of print on 9 September 2011 . 
+anti-FlhD4C2 factor which inhibits FlhD4C2 from binding to the class 2 promoter ( 51 ) . 
+Recently , FliZ was shown to be a transcriptional repressor of the nonﬂagellar gene ydiV ( 46 ) , which encodes another anti-FlhD4C2 factor responsible for repression of ﬂagellar expression in poor medium ( 45 ) . 
+Most of the genes transcribed from the class 2 promoter are responsible for construction of the hook-basal body structure . 
+The class 3 promoter is transcribed by 28 RNA polymerase and under negative control of an anti- 28 factor , FlgM ( 39 , 40 ) . 
+The 28 and anti- 28 factors are encoded by the ﬂiA and ﬂgM genes , respectively , both of which are within the ﬂagellar regulon ( 10 , 14 , 17 , 24 , 31 , 39 , 40 ) . 
+Class 3 promoters transcribe the genes for ﬁlament assembly , ﬂagellar rotation , and chemotaxis . 
+The ﬂiA and ﬂiZ genes together constitute an operon and are transcribed in this order ( Fig. 1A ) ( 14 , 38 ) . 
+The upstream region of this operon contains both class 2 and class 3 promoters , called P1 and P2 , respectively . 
+Downstream of these two genes exists another gene , STM1954 , which can be transcribed together with these two genes . 
+However , STM1954 is also expressed from its own nonﬂagellar promoter and encodes a protein unrelated to ﬂagellar formation and function ( 14 , 28 ) . 
+Therefore , though this gene has been called ﬂiY ( 38 ) , it is unlikely to be a member of the ﬂagellar genes . 
+In the ﬂiAZ operon , the P1 and P2 promoters are overlapping with each other , as shown in Fig. 1B . 
+Primer extension analysis of mRNAs extracted from the wild-type cells revealed that this operon is transcribed from both of these promoters in vivo ( 14 ) . 
+The transcript from the P1 promoter ( P1 mRNA ) was present in the ﬂiA mutant and absent in the ﬂhD mutant , whereas the transcript from the P2 promoter ( P2 mRNA ) was absent from both the ﬂiA and ﬂhD mutants . 
+In vitro transcription analysis with puriﬁed proteins showed that the P1 promoter was transcribed by 70 RNA polymerase in the presence of the FlhD4C2 complex , whereas the P2 promoter was transcribed in the presence of 28 RNA polymerase ( 14 ) . 
+The P2 transcript was produced in vitro even in the absence of FlhD4C2 ( 14 ) , indicating that transcription from the P2 promoter by 28 RNA polymerase does not require FlhD4C2 . 
+This raised the possibility that , in the absence of the anti- 28 factor FlgM , the ﬂiAZ operon may be autogenously activated by FliA in vivo even in the ﬂhDC-negative background . 
+However , the expression of this operon was never observed in vivo in the ﬂhDC mutant , irrespective of the ﬂgM genotype ( 27 ) . 
+Therefore , we hypothesize that Salmonella cells may have some mechanism suppressing FliA-mediated autogenous activation of the ﬂiAZ operon . 
+The work described here was carried out to test this hypothesis 
+613 
+Here we report evidence that P2 mRNA is translationally inert in the expression of the ﬂiA gene . 
+We show that FliA is expressed efﬁciently only from P1 mRNA , whereas FliZ is expressed from both P1 and P2 mRNAs . 
+This indicates that the FlhD4C2-mediated transcription is a prerequisite to FliA-me-diated autogenous activation in the expression of the ﬂiAZ operon . 
+In the course of this study , Wozniak et al. reported the observation that the mutant defective in the P1 promoter did not express the ﬂiAZ operon and could not support swimming and swarming motility in Salmonella ( 48 ) . 
+Our ﬁndings reported here can also account for their observation . 
+MATERIALS AND METHODS
+Bacterial strains , plasmids , chemicals , and culture media . 
+The Salmonella strains and plasmids used in this study are listed in Tables 1 and 2 , respectively . 
+All the Salmonella strains used were derivatives of standard laboratory strain LT2 . 
+Their construction procedures are described below . 
+P22-mediated transduction was performed as described previously ( 33 ) . 
+Unless otherwise speciﬁed , all the chemicals and DNA enzymes used were purchased from Nacalai Tesque ( Kyoto , Japan ) and Toyobo ( Osaka , Japan ) , respectively . 
+Oligonucleotide prim-ers used were purchased from Life Technologies ( Tokyo , Japan ) and are summarized in Table 3 . 
+The rich and poor media used were Luria broth ( LB ) and M9 minimal medium ( 37 ) supplemented with 0.2 % glycerol and 0.2 % Casamino Acids ( MGC ) , respectively ( 45 ) . 
+Hard and motility agar plates were prepared by adding 1.2 % and 0.25 % agar ( Shoei , Tokyo , Japan ) , respectively , to LB or MGC . 
+Ampicillin , kanamycin , and tetracycline were used at ﬁnal concentrations of 50 , 50 , and 20 g/ml , respectively . 
+Where required , arabinose or isopropyl - - D-thiogalactopyranoside ( IPTG ) was added to the culture medium at ﬁnal concentrations of 0.2 % and 0.1 mM , respectively . 
+Construction of chromosomal deletion mutants . 
+The bacteriophage Red recombinase system described by Datsenko and Wanner ( 9 ) was used for construction of gene disruption mutants of Salmonella . 
+A lon disruption mutant , KK1004 lon , was constructed as follows . 
+The kana-mycin resistance ( kan ) FLP recombination target ( FRT ) cassette was PCR ampliﬁed from pKD4 with primers lon-H1P1 and lon-H2P2 , homologous to the 5 and 3 ﬂanking regions of the lon gene , respectively . 
+The ampliﬁed product was introduced into KK1004 harboring pKD46 by electroporation , and kanamycinresistant colonies were selected on LB agar plates containing kanamycin and arabinose . 
+After correct replacement of the lon gene by the kan gene cassette was conﬁrmed , this mutation was moved to fresh KK1004 via P22-mediated transduction . 
+The kan gene cassette was removed through site-speciﬁc recombination between the ﬂanking FRT sequences by transient exposure of the cells to pCP20 . 
+A mutant with an in-frame deletion of the ﬂgM gene , KK1004gM , was constructed as follows . 
+The kan FRT cassette was PCR ampliﬁed from pKD13 with primers ﬂgMH1P1 and ﬂgMH2P4 , which possess sequences homologous to the 5 and 3 ﬂanking regions of the ﬂgM gene , respectively . 
+The ampliﬁed product was introduced into KK1004 harboring pKD46 by electroporation , and kanamy-cin-resistant colonies were selected as described above . 
+After correct replacement of the ﬂgM gene by the kan gene cassette was conﬁrmed , this mutation was moved to fresh KK1004 and the kan gene cassette was removed as described above . 
+FIG. 1 . 
+Expression control of the ﬂiAZ operon and nucleotide sequence of its regulatory region . 
+( A ) The structure of the ﬂiAZ operon on the Salmonella chromosome is drawn with the model of its expression control according to previously published reports ( 1 , 14 , 27 , 28 , 31 , 45 , 46 ) . 
+STM1954 has also been called ﬂiY ( 38 ) . 
+( B ) The nucleotide sequence of the regulatory region of the ﬂiAZ operon is shown with the translation initiation codon of the ﬂiA gene being numbered 1 . 
+Various control signals of the ﬂiA gene are underlined . 
+( C ) The structures of the regulatory region of the ﬂiAZ operon in the various mutants constructed in this study are shown with the nucleotide sequences of the 5 ends of their transcripts . 
+Closed boxes , sequences responsible for the P1 promoter ; open boxes , sequences responsible for the P2 promoter . 
+Altered or inserted nucleotides in the mutant constructs are underlined . 
+, 3-nucleotide substitution mutation ( GCC to CGT ) which inactivates the P2 promoter . 
+SD sequences are written in boldface . 
+TABLE 1 . 
+Strains used in this study 
+Source or reference 
+Strain 
+Relevant characteristics 
+29 , 33 27 
+KK1004 KK1110 
+LT2 ( hin-ﬂjBA ) Fels-2 KK1004 ﬂiC-lac amp KK1004 ﬂhD2140 : : Tn10 KK1004 ﬂgM : : FRT ( in frame ) KK1004 ﬂiA : : FRT ( in frame ) KK1004 ﬂiZ : : FRT ( in frame ) KK1004 ﬂiAZ : : FRT ( in frame ) KK1004 lon : : FRT KK1004 ﬂiA-3 FLAG FRT KK1004 ﬂiA-3 FLAG FRT ﬂiZ-3 FLAG FRT : : kan : : FRT 
+33 , 46 This study 46 46 46 This study This study This study 
+KK1004hDC KK1004g KK1004iA KK1004i KK1004i KK1004 lon KK1004AF KK1004AFZF 
+G 26 ) 
+28CG 
+a The DNA regions inserted in the plasmids are shown with the translation initiation codon of the ﬂiA or ﬂiZ gene being numbered 1 . 
+Construction of strains carrying fusion genes on the chromosome . 
+Chromosomal genes expressing the C-terminally 3 FLAG-tagged proteins were created according to the method described by Uzzau et al. ( 44 ) . 
+A DNA fragment encoding a 3 FLAG tag-encoding sequence and the kan gene was PCR ampli-ﬁed from pSUB11 using primers ﬂiA-FLAG-Fw and ﬂiA-FLAG-Rv . 
+The ampliﬁed product was introduced into KK1004 harboring pKD46 by electroporation , and kanamycin-resistant colonies were selected . 
+After correct construction of the ﬂiA-3 FLAG gene on the chromosome was conﬁrmed , the kan gene cassette was excised using pCP20 to obtain strain KK1004AF . 
+Next , a DNA fragment encoding the 3 FLAG tag-encoding sequence and the kan gene was PCR ampliﬁed from pSUB11 with primers ﬂiZ-FLAG-Fw and ﬂiZ-FLAG-Rv . 
+The ampliﬁed product was introduced into KK1004AF harboring pKD46 by electroporation , and kanamycin-resistant colonies were selected . 
+After correct construction of the ﬂiA-3 FLAG and ﬂiZ-3 FLAG genes was conﬁrmed , the DNA region containing these genes was moved to fresh KK1004 to obtain strain KK1004AFZF . 
+This strain expresses both the FliA-3 FLAG and FliZ-3 FLAG proteins . 
+Construction of FliA expression plasmids . 
+The ﬂiA coding sequence was PCR ampliﬁed from pKK1064 with primers IAf1B and IAr1H . 
+The ampliﬁed product was digested with BamHI and HindIII and inserted into the corresponding site of pQE80L to obtain pQE-ﬂiA . 
+On the other hand , a DNA fragment containing the ﬂiA gene was PCR ampliﬁed from the genomic DNA of KK1004 with primers KpnIﬂiA3 and IAE1X . 
+The ampliﬁed product was digested with KpnI and XbaI and inserted into the corresponding site of pTrc99K to obtain pTrc-ﬂiA . 
+Construction of plasmids carrying ﬂiA-lacZ transcriptional fusion genes . 
+The ﬂiA-lacZ transcriptional fusion genes were constructed on a single-copy plasmid , pFZY1 . 
+The structures of the regulatory region of the ﬂiA gene on the recombinant plasmids are summarized in Fig. 1C . 
+Unless otherwise speciﬁed , the template used for PCR ampliﬁcation was the genomic DNA from KK1004 . 
+A DNA fragment containing the ﬂiAZ operon with the P1 and P2 promoters was PCR ampliﬁed with primers KpnIﬂiA0 and IZP4 . 
+The ampliﬁed product was digested with KpnI and BamHI and inserted into the corresponding site of pFZY1 to obtain pF-P1 / P2-ﬂiAZ . 
+A DNA fragment containing the ﬂiA gene with the P1 and P2 promoters was PCR ampliﬁed with primers KpnIﬂiA0 and IAE1X . 
+The ampliﬁed product was digested with KpnI and XbaI and inserted into the corresponding site of pTrc99K to obtain pTrc-P1 / P2-ﬂiA . 
+From this plasmid , a DNA fragment containing the ﬂiA gene and the P1 and P2 promoters was excised with KpnI and SphI and inserted into the corresponding site of pFZY1 to obtain pF-P1 / P2-ﬂiA . 
+A DNA fragment containing the P1 and P2 promoters was PCR ampliﬁed with primers ﬂiApF and ﬂiAp2sR . 
+Similarly , a DNA fragment containing the P2 promoter and the ﬂiAZ genes was PCR ampliﬁed with primers ﬂiAp2sF and IZP4 . 
+The primers ﬂiAp2sR and ﬂiAp2sF are complementary to each other and contain base substitution mutations GCC to CGT in the 10 sequence of the P2 promoter . 
+These two ampliﬁed products were mixed and used for further PCR ampliﬁcation with primers KpnIﬂiA0 and IZP4 . 
+The ﬁnal ampliﬁed product was digested with KpnI and BamHI and inserted into the corresponding site of pFZY1 to obtain pF-P1-ﬂiAZ . 
+A DNA fragment containing the P1 and P2 promoters was PCR ampliﬁed as described above , while a DNA fragment containing the P2 promoter and the ﬂiA gene was PCR ampliﬁed with primers ﬂiAp2sF and IAE1X . 
+These two ampliﬁed products were mixed and used for further PCR ampliﬁcation with primers KpnIﬂiA0 and IAE1X . 
+The ﬁnal ampli-ﬁed product was digested with KpnI and XbaI and inserted into the corresponding site of pBAD18kan to obtain pBAD-P1-ﬂiA . 
+From this plasmid , a DNA fragment containing the ﬂiA gene and the P1 promoter was excised with KpnI and SphI and inserted into the corresponding site of pFZY1 to obtain pF-P1-ﬂiA . 
+A DNA fragment containing the P2 promoter and the ﬂiAZ genes was PCR ampliﬁed with primers KpnIﬂiA1 and IZP4 . 
+The ampliﬁed product was digeste with KpnI and BamHI and inserted into the corresponding site of pFZY1 to obtain pF-P2-ﬂiAZ . 
+A DNA fragment containing the P2 promoter and the ﬂiA gene was PCR ampliﬁed with primers KpnIﬂiA1 and IAE1X . 
+The ampliﬁed product was digested with KpnI and XbaI and inserted into the corresponding site of pTrc99K to obtain pTrc-P2-ﬂiA . 
+From this plasmid , a DNA fragment containing the P2 promoter and the ﬂiA gene was excised with KpnI and SphI and inserted into the corresponding site of pFZY1 to obtain pF-P2-ﬂiA . 
+Plasmid pF-P2c-ﬂiA , which carries the consensus sequence of the 28-dependent promoter in place of the native P2 promoter , was constructed via pTrc-P2c-ﬂiA through the same procedure described above using primers KpnIﬂiA1c and IAE1X . 
+A DNA fragment containing the P2 promoter was PCR ampliﬁed with primers ﬂiApF and ﬂiAP1-P2mRNAR . 
+Similarly , a DNA fragment containing the P2 promoter and the ﬂiA gene was PCR ampliﬁed with primers ﬂiAP1-P2mRNAF and BamHIﬂiAR . 
+The primers ﬂiAP1-P2mRNAR and ﬂiAP1-P2mRNAF are complementary to each other and have deletions of 11 nucleotides from the transcriptional start site of the P1 promoter to that of the P2 promoter . 
+These two ampliﬁed products were mixed and used for further PCR ampliﬁcation with primers KpnIﬂiA0 and BamHIﬂiAR . 
+The ﬁnal ampliﬁed product was digested with KpnI and BamHI and inserted into the corresponding site of pFZY1 to obtain pF-P1 ( P2 ) - ﬂiA . 
+A DNA fragment containing the P2 promoter was PCR ampliﬁed as described above , while a DNA fragment containing the P2 promoter and the ﬂiAZ genes was PCR ampliﬁed with primers ﬂiAP1-P2mRNAF and IZP4 . 
+These two ampliﬁed products were mixed and used for further PCR ampliﬁcation with primers KpnIﬂiA0 and IZP4 . 
+The ﬁnal ampliﬁed product was digested with KpnI and BamHI and inserted into the corresponding site of pFZY1 to obtain pF-P1 ( P2 ) - ﬂiAZ . 
+A DNA fragment containing the P2 promoter and the ﬂiA gene was PCR ampliﬁed with primers KpnIﬂiAP2-P1mRNAF and BamHIﬂiAR . 
+Primer KpnI-ﬂiAP2-P1mRNAF contains a duplication of 11 nucleotides from the transcriptional start site of the P1 promoter to that of the P2 promoter . 
+The ampliﬁed product was digested with KpnI and BamHI and inserted into the corresponding site of pFZY1 to obtain pF-P2 ( P1 ) - ﬂiA . 
+Similarly , a DNA fragment containing the P2 promoter and the ﬂiAZ genes was PCR ampliﬁed with primers KpnI-ﬂiAP2-P1mRNAF and IZP4 . 
+The ampliﬁed product was digested with KpnI and BamHI and inserted into the corresponding site of pFZY1 to obtain pF-P2 ( P1 ) - ﬂiAZ . 
+Construction of plasmids carrying ﬂiA-lacZ translational fusion genes . 
+The ﬂiA-lacZ translational fusion genes were constructed on pMC1403 . 
+Sequences of the 5 untranslated regions ( UTRs ) of the ﬂiA transcripts from the recombinant plasmids are summarized in Fig. 1C . 
+Unless otherwise speciﬁed , the template used for PCR ampliﬁcation was the genomic DNA from KK1004 
+FRT-kan-FRT template , Ampr FRT-kan-FRT template , Ampr 
+pKD4 pKD13 
+9 9 
+Phage Red expression plasmid , Ampr Flp expression plasmid , Ampr Catr 3 FLAG tag FRT-kan-FRT template , Ampr pBR322 ﬂiB-IS200-ﬂiA-ﬂiZ ParaBAD expression vector , Kanr pBAD18kan ﬂiA ( 155 to 720 ) , P2 negative ( 33CGT 31 ) His6-tagged protein expression vector , Ampr pQE80L ﬂiA ( 1 to 720 ) , His6-FliA Ptrc expression vector , Ampr pTrc99A amp : : kan , Amps Kanr pTrc99K ﬂiA ( 19 to 720 ) pTrc99K ﬂiA ( 115 to 720 ) pTrc99K ﬂiA ( 57 to 720 ) pTrc99K ﬂiA ( 57 to 720 ) , P2 consensus ( 52TAAAGTTT 45 ) Transcriptional lacZ fusion vector , Ampr pFZY1 ﬂiA ( 115 to 399 ) pFZY1 ﬂiA ( 115 to 720 ) pFZY1 ﬂiA ( 115 to 720 ) , P2 negative ( 33CGT 31 ) pFZY1 ﬂiA ( 115 to 720 ) , 29 to 19 deleted pFZY1 ﬂiA ( 57 to 720 ) pFZY1 ﬂiA ( 57 to 720 ) , P2 consensus ( 52TAAAGTTT 45 ) pFZY1 ﬂiA ( 57 to 720 ) , 29 to 19 duplicated pFZY1 ﬂiA ( 155 ) - ﬂiZ ( 552 ) pFZY1 ﬂiA ( 155 ) - ﬂiZ ( 552 ) , P2 negative ( 33CGT 31 ) pFZY1 ﬂiA ( 155 ) - ﬂiZ ( 552 ) , 29 to 19 deleted pFZY1 ﬂiA ( 57 ) - ﬂiZ ( 552 ) pFZY1 ﬂiA ( 57 ) - ﬂiZ ( 552 ) , 29 to 19 duplicated Translational lacZ fusion vector , Ampr pMC1403 ﬂiA ( 115 to 398 ) , P2 negative ( 33CGT 31 ) pMC1403 ﬂiA ( 115 to 398 ) , 29 to 19 deleted pMC1403 ﬂiA ( 115 to 398 ) , P2 negative ( 33CGT 31 ) , GC * ( pMC1403 ﬂiA ( 57 to 398 ) pMC1403 ﬂiA ( 57 to 398 ) , 29 to 19 duplicated pMC1403 ﬂiA ( 57 to 398 ) , 5 UTR from pQE80L 
+pKD46 pCP20 pSUB11 pKK1064 pBAD18kan pBAD-P1-ﬂiA pQE80L pQE-ﬂiA pTrc99A pTrc99K pTrc-ﬂiA pTrc-P1 / P2-ﬂiA pTrc-P2-ﬂiA pTrc-P2c-ﬂiA pFZY1 pF-P1 / P2 pF-P1 / P2-ﬂiA pF-P1-ﬂiA pF-P1 ( P2 ) - ﬂiA pF-P2-ﬂiA pF-P2c-ﬂiA pF-P2 ( P1 ) - ﬂiA pF-P1 / P2-ﬂiAZ pF-P1-ﬂiAZ pF-P1 ( P2 ) - ﬂiAZ pF-P2-ﬂiAZ pF-P2 ( P1 ) - ﬂiAZ pMC1403 pMC-P1 pMC-P1 ( P2 ) pMC-P1 ( GC * ) pMC-P2 pMC-P2 ( P1 ) pMC-P2 ( SD * ) 
+9 9 44 39 11 This study Qiagen This study 2 Laboratory stock This study This study This study This study 23 pFZY1-PﬂiA-lacZ in reference 46 This study This study This study This study This study This study This study This study This study This study This study 5 This study This study This study This study This study This study 
+G 26 ) 
+28CG 
+a The DNA regions inserted in the plasmids are shown with the translation initiation codon of the ﬂiA or ﬂiZ gene being numbered 1 . 
+TABLE 3 . 
+Oligonucleotide primers used in this study Nucleotide sequence ( 5 3 3 ) 
+Use and primer name 
+onstruction of chromosomal deletion mutants 
+C 
+lon-H1P1 ... C 
+AGCTATACTATCTGATTACCTGGCGGACACTAAACTAAGAGAGAGCTCTGTGTAG GCTGGAGCTGCTTC GAAATAGCCTGCCAGCCCTGTTTTTATTAGCGCTATTTGCGCGAGGTCACATATGA ATATCCTCCTTAG GATGGTAGCTGGCCGCTACAACGTAACCCTCGATGAGGATAAATAAATGGTGTAG GCTGGAGCTGCTTC GGACGGTGGTCATCTGGTCAAGTATTTCTGACAAACGAGTCATACGCTTATTCCG GGGATCCGTCGACC 
+lon-H2P2 ... C 
+ﬂgMH1P1 ... T 
+ﬂgMH2P4 ... A 
+Construction of chromosomal genes encoding 3 FLAG fusion proteins 
+ﬂiA-FLAG-Fw ... AGTTGCATAGTCAGGCCATCAAACGATTACGCACCAAACTGGGTAAGTTA GACTAC AAAGACCATGACGG ﬂiA-FLAG-Rv ... CTGGTAGTCTATACGTTGTGCGGCACTTTTCGGGTGCGATCATGCGCGAC CATATG AATATCCTCCTTAG ﬂiZ-FLAG-Fw ... AGATTGCGCCCAGACAGAAATCCCCCTTTACCGCCAGTTCTGATATATAT GACTAC AAAGACCATGACGG ﬂiZ-FLAG-Rv ... GAAGGTTTGCCACGTTTCACCAACACGACTCTGCTACATCTTATGCTTTT CATATGA ATATCCTCCTTAG 
+onstruction of plasmids 
+C 
+BamHIﬂiAR ... G BamHIﬂiAR2 ... G ﬂiApF ... A ﬂiAP1-P2mRNAF ... C ﬂiAP1-P2mRNAR ... A ﬂiAp2sF ... A ﬂiAp2sR ... G ﬂiASDqF ... G ﬂiASDqR ... T IAE1X ... G IAf1B ... G IAr1H ... G ITf1 ... C IZP4 ... G KpnIﬂiA0 ... G KpnIﬂiA1 ... G KpnIﬂiA1c ... G KpnIﬂiA3 ... G KpnIﬂiAP2-P1mRNAF ... G 
+GGGGATCCCTATAACTTACCCAGTTTGGT GGGGATCCTGACGATACTCCGCAACAGGG 
+TCGTATGCGCCTGTTAGGG GGATAATCATGCCGAACGCAGGGCTGTTT AACAGCCCTGCGTTCGGCATGATTATCCG CGGATAATCATCGTGATAACTCATTTAAC TTAAATGAGTTATCACGATGATTATCCGT ATAATCATGCCGACGGCTCATTTAACGCA CACGATAAATTTCTCCTCTTTAAATGAGT GGTCTAGACTATAACTTACCCAGTTTGGT GGGGGATCCGTGAATTCACTGTATACCGC GGGAACCTTCTATAACTTACCCAGTTTGG ATACTCCCGCCATTCAGAGAAGAAACC GGGATCCTTAATATATATCAGAACTGG GGGGTACCGCTACAGGTTACATAA GGGGTACCCTCTGTAGAAACGGAT GGGGTACCCTCTAAAGTTTCGGATAATCATGCCG GGGGATCCTAACGCAGGGCTGTTT GGGGTACCCTCTGTAGAAACGGATAATCATGCCGATAACTCATTTATAACTCATTT AACGCAGGGC ATAATCATGCCGACGGCTCATTTAACGCA GCGTTAAATGAGCCGTCGGCATGATTATC GGCCCGGGCGCTACAGGTTACATAA 
+P1m ( taa-cgg ) ﬂiAF ... G P1m ( taa-cgg ) ﬂiAR ... T SmaIﬂiA0 ... G 
+A DNA fragment containing the intact P1 and inactivated P2 promoters together with the ﬁrst 398 nucleotides of the ﬂiA coding region was PCR ampliﬁed from pBAD-P1-ﬂiA with primers SmaIﬂiA0 and BamHIﬂiAR2 . 
+The ampliﬁed product was digested with SmaI and BamHI and inserted into the corresponding site of pMC1403 to obtain pMC-P1 . 
+A DNA fragment containing the intact P2 promoter and the ﬁrst 398 nucleotides of the ﬂiA coding region was PCR ampliﬁed with primers KpnIﬂiA1 and BamHIﬂiAR2 . 
+The ampliﬁed product was digested with BamHI and inserted into the SmaI-BamHI site of pMC1403 to obtain pMC-P2 . 
+A DNA fragment containing the P2 promoter was PCR ampliﬁed with primers ﬂiApF and ﬂiAP1-P2mRNAR . 
+Similarly , a DNA fragment containing the P2 promoter and the ﬂiA gene was PCR ampliﬁed with primers ﬂiAP1-P2mRNAF and IAE1X . 
+These two ampliﬁed products were mixed and used for further PCR ampliﬁcation with primers SmaIﬂiA0 and BamHIﬂiAR2 . 
+The ﬁnal ampliﬁed product was digested with SmaI and BamHI and inserted into the corresponding site of pMC1403 to obtain pMC-P1 ( P2 ) . 
+A DNA fragment containing the P2 promoter and the ﬂiA gene was PCR ampliﬁed with primers KpnIﬂiAP2-P1mRNAF and BamHIﬂiAR2 . 
+The ampliﬁed product was digested with BamHI and inserted into the SmaI-BamHI site of pMC1403 to obtain pMC-P2 ( P1 ) . 
+A DNA fragment containing the intact P1 and inactivated P2 promoters and the 5 UTR of the ﬂiA gene was PCR ampliﬁed from pBAD-P1-ﬂiA with primers ITf1 and P1m ( taa-cgg ) ﬂiAR . 
+Similarly , a DNA fragment containing the ﬂiA gene and its 5 UTR was PCR ampliﬁed from pBAD-P1-ﬂiA with primers P1m ( taa-cgg ) ﬂiAF and IAE1X . 
+The primers P1m ( taa-cgg ) ﬂiAR and P1m ( taa-cgg ) ﬂiAF are complementary to each other and possess a 3-nucleotide substitution in the 5 UTR of the ﬂiA gene . 
+These two ampliﬁed products were mixed and used for further PCR ampliﬁcation with primers SmaIﬂiA0 and BamHIﬂiAR2 . 
+The ﬁnal ampliﬁed product was digested with SmaI and BamHI and inserted into the corresponding site of pMC1403 to obtain pMC-P1 ( GC * ) . 
+A DNA fragment containing the P2 promoter and the 5 UTR of the ﬂiA gene was PCR ampliﬁed with primers ﬂiApF and ﬂiASDqR . 
+Similarly , a DNA fragment containing the ﬂiA gene and its 5 UTR was PCR ampliﬁed with primers ﬂiASDqF and IAE1X . 
+The primers ﬂiASDqR and ﬂiASDqF are complementary to each other and possess a sequence identical to the 5 UTR sequence of the His6-tagged fusion protein gene from pQE80L in place of that of the ﬂiA gene . 
+These two ampliﬁed products were mixed and used for further PCR ampliﬁcation with primers KpnIﬂiA1 and BamHIﬂiAR2 . 
+The ﬁnal ampliﬁed product was digested with BamHI and inserted into the SmaI-BamHI site of pMC1403 to obtain pMC-P2 ( SD * ) . 
+Motility and - galactosidase enzyme assays . 
+Motility of cells was assayed as follows . 
+A single colony formed on an MGC agar plate was stabbed onto an MGC motility agar plate and incubated at 37 °C for 8 h. - Galactosidase activity was assayed as described previously ( 31 ) using cells grown aerobically to exponential phase at 37 °C in MGC containing appropriate antibiotics ( 45 , 46 ) . 
+Each sample was assayed in triplicate . 
+Protein analysis . 
+Cells were grown to exponential phase at 37 °C in MGC , and the cultures were directly subjected to sodium dodecyl sulfate ( SDS ) - polyacryl-amide gel electrophoresis ( PAGE ) . 
+SDS-PAGE and Western blotting of proteins were performed according to the method described previously ( 31 ) . 
+FLAG-tagged proteins were detected with a horseradish peroxidase-conjugated antiFLAG M2 monoclonal antibody ( Sigma , MO ) using an ECL Plus Western blotting detection system ( GE Healthcare , NJ ) . 
+b 
+Genotype LacZ expression ﬂgM ( Miller units ) c 
+Expression plasmid 
+ﬂhD 
+ﬂiA 
+230 16 1,100 28 
+RESULTS
+Transcription of class 3 operon in ﬂhD mutant background . 
+In order to assess the FliA activity in various genetic backgrounds , we examined class 3 expression using the chromosomal ﬂiC-lac fusion gene as a reporter ( Table 4 ) . 
+As reported previously ( 27 ) , the ﬂhD mutant showed reduced - galactosi-dase activity in both the ﬂgM-positive and ﬂgM-negative backgrounds . 
+Interestingly , even in the ﬂhD mutant , - galactosi-dase activity was 4.1-fold higher in the ﬂgM-negative background than in the ﬂgM-positive background . 
+This difference was not observed in the ﬂiA-negative background , suggesting that the FliA protein should be produced , though in a small amount , even in the absence of FlhD4C2 . 
+Nevertheless , even in the ﬂgM mutant , - galactosidase activity was much lower in the ﬂhD-negative background than in the ﬂhD-positive 
+9.4 2.0 6.9 0.78 8.3 1.5 34 2.7 8.1 1.9 9.2 2.2 pTrc99K 6.4 1.9 pTrc-ﬂiA 2,500 140 a Class 3 transcription was assayed using the ﬂiC-lacZ transcriptional fusion gene originated from KK1110 . 
+b The ﬂhD , ﬂgM , and ﬂiA mutations used originated from KK1004hDC , KK1004gM , and KK1004iA , respectively . 
+c Cells grown in MGC were used . 
+background , suggesting that the FliA protein is not produced in large enough amounts to activate class 3 transcription in the absence of FlhD4C2 . 
+These results suggest the absence of the autogenous activation of the ﬂiA gene . 
+However , as described previously ( 27 ) , when FliA was overproduced from the expression plasmid pTrc-ﬂiA , the ﬂiC-lacZ gene was expressed at a high level in the ﬂhD mutant ( Table 4 ) , indicating that FlhD4C2 per se is not required for FliA-mediated class 3 transcription . 
+This is consistent with our previous result showing that the ﬂiA gene was transcribed in vitro by 28 RNA polymerase in the absence of FlhD4C2 ( 14 ) . 
+Intracellular FliA level in the absence of FlhD4C2 . 
+In order to assess the intracellular level of the FliA protein , total cell proteins from various genetic backgrounds were analyzed by Western blotting . 
+For this purpose , we used strain KK1004AFZF , which encodes the 3 FLAG epitope-tagged FliA ( FliA-3 FLAG ) and FliZ ( FliZ-3 FLAG ) proteins . 
+This strain showed a swimming phenotype indistinguishable from that of the wild-type strain ( data not shown ) , indicating that fusion of the 3 FLAG epitope to FliA and FliZ has no signiﬁcant effect on ﬂagellar expression . 
+Using this strain , we examined the effects of ﬂhD and ﬂgM mutations on the intracellular levels of FliA and FliZ by Western blotting with antiFLAG antibody ( Fig. 2A ) . 
+As expected , neither FliA-3 FLAG nor FliZ-3 FLAG was detected in the ﬂhD mutant , irrespective of the ﬂgM genotype . 
+Interestingly , in the ﬂhDCpositive background , the ﬂgM mutation increased the FliZ-3 FLAG level , while it had no signiﬁcant effect on the FliA-3 FLAG level . 
+Barembruch and Hengge reported that , in E. coli , FliA is subjected to proteolysis by Lon protease and FlgM protects FliA against Lon-mediated degradation ( 3 ) . 
+This raised a possibility that , in the absence of FlgM , FliA may also be rapidly degraded by Lon in Salmonella , which can account for suppression of the FliA-mediated autogenous activation of the ﬂiA gene in the ﬂgM mutant . 
+In order to test this possibility , we introduced a lon mutation into the ﬂgM ﬂhD double mutant carrying the ﬂiC-lac fusion gene , and the resulting lon mutant was examined for class 3 expression . 
+However , the lon mutation could not relieve the inhibition of class 3 expression in the ﬂgM ﬂhD mutant ( data not shown ) . 
+This result indicates tha 
+230 16 1,100 28 
+Lon is not responsible for suppression of the autogenous activation of the ﬂiA gene in the absence of FlgM . 
+Transcriptional activity of the ﬂiA gene . 
+In order to assess the transcriptional activity of the ﬂiA gene , we used plasmid pF-P1 / P2 , in which the lacZ gene is transcriptionally fused to the ﬂiA promoters on a single-copy plasmid , pFYZ1 . 
+In this plasmid , the lacZ gene with its own Shine-Dalgarno ( SD ) sequence follows the 115 bp DNA upstream of the ﬂiA gene and the ﬁrst 399 bp DNA of the ﬂiA coding region and thus is transcribed from both the P1 and P2 promoters ( Fig. 1C ) . 
+This plasmid was introduced by transformation into strains with various genetic backgrounds , and - galactosidase activity was measured with the resulting transformants grown in MGC a The ﬂhD , ﬂgM , ﬂiA , and ﬂiZ mutations used originated from KK1004hDC , KK1004gM , KK1004iA , and KK1004iZ , respectively . 
+b In pF-P1 / P2 , the lacZ gene with its own SD sequence follows the P1 and P2 promoters of the ﬂiA gene . 
+pF-P1 / P2-ﬂiA has the same structure as pF-P1 / P2 , except that it contains an intact ﬂiA gene . 
+Cells grown in MGC were used . 
+ND , not done . 
+a The ﬂhD and ﬂgM mutations used originated from KK1004hDC and KK1004gM , respectively . 
+b In pF-P2-ﬂiA , the lacZ gene is transcribed from the P2 promoter of the ﬂiA gene . 
+In pF-P2c-ﬂiA , the P2 promoter sequence in pF-P2 was replaced with the consensus sequence for the 28-dependent promoter . 
+Both plasmids carry an intact coding sequence of the ﬂiA gene . 
+Cells grown in MGC were used . 
+tent with the results recently reported by Wozniak et al. ( 48 ) . 
+As expected , the ﬂhD and ﬂgM mutations reduced and enhanced enzyme activity , respectively . 
+Even in the ﬂgM mutant , enzyme activity was much lower in the absence of FlhD4C2 than in the presence of FlhD C . 
+This also suggests the ab-4 2 sence of autogenous activation of the ﬂiA gene . 
+Expression of - galactosidase from pF-P2-ﬂiA was also examined in the ﬂhD mutant harboring pTrc-ﬂiA . 
+As expected , enzyme activity was much higher in the ﬂgM mutant than in the ﬂgM-positive strain . 
+Close examination of the nucleotide sequence of the P2 promoter revealed that its 35 sequence ( TGTAGAAA ) is divergent from the consensus sequence ( TAAAGTTT ) of the 28-dependent promoter ( Fig. 1B ) ( 13 ) . 
+This suggested the possibility that transcription from the P2 promoter requires a higher level of FliA than that from the other class 3 promoters , which might render the P2 promoter less active under a condition , such as in the ﬂhD mutant , where only a limited amount of FliA is available . 
+In order to test this possibility , we constructed plasmid pF-P2c-ﬂiA , in which the 35 sequence of the native P2 promoter was replaced with the consensus sequence ( Fig. 1C ) . 
+Compared with pF-P2-ﬂiA , this plasmid produced higher - galactosidase activity in all genetic backgrounds examined ( Table 6 ) . 
+However , enzyme activity was still low in the ﬂhD mutant even in the absence of FlgM . 
+This indicates that suppression of the autogenous activation of the ﬂiA gene is not due to its nonconsensus P2 promoter . 
+Translation of the ﬂiA gene from P1 and P2 mRNAs . 
+The above-mentioned results suggested the possibility that the FliA protein , if expressed , can transcribe the ﬂiAZ operon from the P2 promoter but mRNA transcribed from the P2 promoter ( P2 mRNA ) should be inactive for translation of the ﬂiA gene . 
+To test this possibility , we examined the translation of the ﬂiA gene with plasmids carrying a ﬂiA-lacZ fusion gene with the P1 or P2 promoter and variously engineered 5 UTR sequences on a transcription-translation probe vector , pMC1403 . 
+In these plasmids , the lacZ gene is fused in frame to the 398th nucle-otide of the ﬂiA gene . 
+In plasmid pMC-P1 , the P1 promoter is intact , but the P2 promoter is inactive due to the base substitutions in its 10 sequence ( Fig. 1C ) . 
+In this plasmid , transcription from the P1 promoter yields mRNA having a 5 UTR sequence identical to that of native P1 mRNA . 
+In order to avoid any residual P2 promoter activity , the translational activity of P1 mRNA from pMC-P1 was examined in the ﬂiAZ mutant . 
+On the other hand , pMC-P2 lacks the FlhD4C2 box of the P1 promoter but possesses the intact P2 promoter with its downstream sequence ( Fig. 1C ) . 
+Therefore , in this plasmid , the ﬂiA-lacZ fusion gene can be transcribed only from the P2 promoter by 28 RNA polymerase , and mRNA thus transcribed has a 5 UTR sequence identical to that of native P2 mRNA . 
+The translational activity of P2 mRNA from pMC-P2 was examined in the ﬂgM mutant . 
+As expected , pMC-P1 showed a high level of - galac-tosidase activity , whereas pMC-P2 showed only a low level of enzyme activity even in the presence of FliA and absence of FlgM ( Table 7 ) . 
+This result suggests that the ﬂiA gene is not efﬁciently translated from P2 mRNA . 
+The structures of P1 and P2 mRNAs are identical , except that P2 mRNA lacks 11 nucleotides present at the 5 end of P1 mRNA ( Fig. 1B and C ) . 
+We hypothesized that this 11-bp sequence has an important effect on the translational activity a Host strains used were KK1004iAZ for ﬂiAZ and KK1004gM for ﬂgM . 
+b Cells grown in MGC were used . 
+c GC * , the AT-rich sequence of the 5 end of P1 mRNA was altered to a GC-rich sequence ; SD * , the 5 UTR sequence of the ﬂiA gene was replaced with a sequence identical to the 5 UTR sequence of the His - tagged fusion protein 6 gene on pQE80L , resulting in substitution of the SD sequence of the ﬂiA gene ( AGG ) with a stronger one ( AGGAG ) . 
+of the ﬂiA gene . 
+In order to test this hypothesis , we constructed two plasmids , pMC-P1 ( P2 ) and pMC-P2 ( P1 ) . 
+In plasmid pMC-P1 ( P2 ) , this 11-bp sequence is deleted , and thus , transcription from the P1 promoter produces mRNA whose 5 UTR sequence is identical to that of P2 mRNA ( Fig. 1C ) . 
+On the other hand , pMC-P2 ( P1 ) has a duplication of this 11-bp sequence , and thus , transcription from the P2 promoter produces mRNA whose 5 end sequence is identical to that of P1 mRNA ( Fig. 1C ) . 
+Expression assay of - galactosidase revealed that pMC-P1 ( P2 ) showed low enzyme activity , whereas pMC-P2 ( P1 ) showed high enzyme activity ( Table 7 ) . 
+This result is quite in contrast to the results obtained with pMC-P1 and pMC-P2 . 
+Taken together , these results conﬁrm our abovementioned hypotheses that P2 mRNA is inactive for translation of the ﬂiA gene and that the 11-bp sequence present at the 5 end of P1 mRNA but absent from P2 mRNA is important for efﬁcient translation of the ﬂiA gene . 
+Effect of altered 5 UTR sequences on ﬂiA translation . 
+The SD sequence of mRNA is complementary to speciﬁc regions of 16S RNA and is known to act as a ribosome-binding site ( 43 ) . 
+The ﬂiA gene has a very short SD sequence ( AGG ) , which may be a cause of its inefﬁcient translation . 
+We constructed plasmid pMC-P2 ( SD * ) , in which the SD sequence together with its ﬂanking sequence was replaced with a sequence identical to the 5 UTR sequence of the His6-tagged fusion protein gene on the expression vector pQE80L ( Fig. 1C ) . 
+Since this has a good SD sequence ( AGGAG ) , it was expected to act as a stronger ribosome-binding site than the original SD sequence of the ﬂiA gene . 
+As shown in Table 7 , this plasmid produced high - galactosidase activity , though the mRNA was transcribed from the P2 promoter . 
+This result suggests that the attenuated ribosome-binding activity of P2 mRNA is responsible for suppression of the autogenous activation of the ﬂiA gene . 
+It should be noted that the SD sequence of the ﬂiA gene on P1 mRNA is identical to that on P2 mRNA ( Fig. 1B and C ) . 
+This suggests that the 11-bp sequence of the 5 end of P1 mRNA may assist its ribosome-binding activity . 
+This sequence is AT rich , with 9 bases being A or T . 
+It is known that , at least in certain genes , an AT-rich sequence upstream of the SD sequence assists mRNA binding to the ribosome through its interaction with the S1 protein ( 4 , 20 ) . 
+In order to test whethe the AT-rich region of the 11-bp sequence of the 5 end of P1 mRNA is important for ﬂiA translation , we constructed plasmid pMC-P1 ( GC * ) , in which the sequence UAA is replaced with CGG , making the 11-bp sequence less AT rich ( Fig. 1C ) . 
+As shown in Table 7 , this plasmid produced only a low level of - galactosidase activity , suggesting an important role of the AT-rich region of the 5 end of P1 mRNA in ﬂiA translation . 
+We anticipate that this region may enhance ﬂiA translation by assisting P1 mRNA with binding to the ribosome through its interaction with S1 . 
+However , we can not exclude an alternative possibility that the alteration of the 5 - terminal sequence affects mRNA stability . 
+Expression of FliA and FliZ proteins from P2 mRNA . 
+The above-mentioned results altogether indicate that the ﬂiA gene is not translated efﬁciently from P2 mRNA , which makes the ﬂiAZ operon unable to be activated autogenously by FliA . 
+In order to conﬁrm this further , we examined the effect of FliA overexpression on intracellular FliA-3 FLAG and FliZ-3 FLAG levels in the absence of FlhD4C2 using the ﬂhD mutant of KK1004AFZF . 
+As shown in Fig. 2B , when the excess amount of FliA was supplied from pQE-ﬂiA , the chromosomally encoded FliA-3 FLAG protein was not observed , whereas the chromosomally encoded FliZ-3 FLAG protein was produced efﬁciently . 
+This indicates that P2 mRNA has no or only a little , if any , contribution to FliA expression , whereas FliZ is produced efﬁciently from P2 mRNA . 
+Contribution of P1 and P2 mRNAs to motility development . 
+Next , we examined the contribution of P1 and P2 mRNAs to motility development . 
+For this purpose , we constructed two sets of pFZY1-based recombinant plasmids carrying various combinations of the ﬂiA promoter and 5 UTR sequences : one set has the ﬂiA gene , while the other set has both the ﬂiA and ﬂiZ genes . 
+We compared their ability to restore motility to the ﬂiAZ mutant cells . 
+The ﬂiAZ mutant cells harboring pF-P1 / P2-ﬂiA , pF-P1-ﬂiA , or pF-P2 ( P1 ) - ﬂiA formed spreading colonies on MGC motility agar , whereas those harboring pF-P2-ﬂiA or pF-P1 ( P2 ) - ﬂiA did not ( Fig. 3A ) . 
+This result conforms to the above-mentioned conclusion that P2 mRNA is inactive for expression of the FliA protein . 
+On the other hand , the ﬂiAZ mutant cells harboring pF-P1 / P2-ﬂiAZ or pF-P1-ﬂiAZ formed a larger spreading colony than those harboring pF-P1 / P2-ﬂiA or pF-P1-ﬂiA , respectively ( Fig. 3A and B ) . 
+This is consistent with our previous results ( 46 ) and indicates that the ﬂiZ gene enhances motility development of the cells . 
+Importantly , the ﬂiAZ mutant cells harboring pF-P1 / P2-ﬂiAZ formed a larger spreading colony than those harboring pF-P1-ﬂiAZ ( Fig. 3B ) . 
+This indicates that P2 mRNA must contribute to FliZ expression , leading to enhancement of motility development . 
+TABLE 6 . 
+Transcriptional activity from the P2 promoter of the ﬂiA gene 
+Host 
+LacZ expression ( Miller units ) b 
+genotypea 
+Expression plasmid 
+ﬂhD ﬂgM 
+pF-P2-ﬂiA 
+pF-P2c-ﬂiA 
+20 1.8 390 11 3.0 2.1 3.5 1.7 4.1 1.3 18 2.4 12 2.5 74 11 
+270 20 1,100 35 3.7 0.86 8.5 0.97 13 3.9 300 18 34 2.9 970 6.5 
+pTrc99K pTrc-ﬂiA pTrc99K pTrc-ﬂiA 
+FIG. 2 . 
+Expression of FliA and FliZ proteins . 
+( A ) Cells of strain KK1004AFZF carrying the mutation ( s ) indicated above the lane were grown to exponential phase at 37 °C in MGC . 
+The culture containing 106 cells was directly subjected to SDS-PAGE . 
+FLAG-tagged proteins in the gel were detected by Western blotting using an anti-FLAG M2 monoclonal antibody . 
+WT , wild type . 
+( B ) Cells of the ﬂhD : : Tn10 mutant strain of KK1004AFZF harboring the plasmid indicated above the lane were cultured as described for panel A in MGC containing am-picillin with or without IPTG . 
+The FLAG-tagged proteins were analyzed as described for panel A. 
+( Table 5 ) . 
+As expected , the ﬂgM mutation enhanced enzyme activity , whereas the ﬂhD mutation completely abolished enzyme activity . 
+In the ﬂhD mutant , the ﬂgM mutation had only a marginal effect on enzyme activity , which also suggests the absence of the autogenous activation of the ﬂiA gene . 
+However , in the ﬂhDC-positive background , the ﬂiA mutation drastically reduced enzyme activity , indicating that the FliA protein has a large contribution to ﬂiA transcription . 
+Similarly , the ﬂiZ mutation also drastically reduced enzyme activity , indicating a large contribution of the P1 promoter to ﬂiA transcription and the presence of a synergistic effect of the P1 and P2 promoters on ﬂiA transcription . 
+However , the ﬂgM mutation also enhanced enzyme activity in the ﬂiZ mutant , but the enzyme level was much lower than that in the ﬂiZ-positive background . 
+This indicates that FliZ-enhanced transcription from the P1 promoter is a prerequisite to high-level expression from the P2 promoter . 
+This is consistent with our previous observation that FliZ is required for enhanced expression of the class 2 and class 3 operons in the ﬂgM mutant ( 28 ) . 
+Expression of - ga-lactosidase from pF-P1 / P2 was also examined in the ﬂhD mutant harboring pTrc-ﬂiA ( Table 5 ) . 
+Enzyme activity was high in the absence of FlgM , indicating that FlhD C per se is not 4 2 required for FliA-mediated transcription of the ﬂiA gene . 
+Promoter activity was also analyzed with plasmid pF-P1 / P2-ﬂiA , which carries the P1 and P2 promoters together with the intact ﬂiA gene transcriptionally fused to the lacZ gene on pFZY1 ( Table 5 ) . 
+As expected , enzyme activity was high in the ﬂiA mutant host strains , and the other expression proﬁles were similar to those in strains with pF-P1 / P2 . 
+Transcriptional activity of P2 promoter of the ﬂiAZ operon . 
+Next , we constructed plasmid pF-P2-ﬂiA , in which the lacZ gene is transcriptionally fused to the ﬂiA gene with the P2 promoter on pFYZ1 . 
+Because this plasmid lacks the FlhD4C2 box of the P1 promoter , the lacZ gene can be transcribed only from the P2 promoter ( Fig. 1C ) . 
+As shown in Table 6 , - ga-lactosidase activity was 15-fold lower than that from pF-P1 / P2-ﬂiA ( Table 5 ) in the wild-type ( ﬂhD-positive ﬂgM-positive ) strain . 
+This suggests that transcription from the P1 promoter makes a much greater contribution to the expression of the ﬂiAZ operon than that from the P2 promoter . 
+This is consis 
+TABLE 5 . 
+Transcriptional activity from the ﬂiA promoter on a single-copy plasmid 
+LacZ expression ( Miller units ) b 
+Host genotypea 
+Expression plasmid 
+D ﬂgM ﬂiA ﬂ 
+iZ 
+ﬂh 
+pF-P1 / P2-ﬂiA 
+pF-P1 / P2 
+290 37 
+330 35 860 85 17 6.4 9.8 1.5 0.0 1.4 0.35 1.9 6.9 0.61 27 7.4 0.0 0.11 6.0 1.2 0.24 0.18 640 23 
+1,300 120 120 64 770 45 1.2 1.3 6.6 0.84 8.0 1.6 77 23 ND ND ND ND 
+pTrc99K pTrc-ﬂiA pTrc99K pTrc-ﬂiA 
+TABLE 7 . 
+Translational activity of the altered versions of ﬂiA mRNA 
+Translational fusion plasmid LacZ Host c genotypea expression b Name Promoter 5 UTR ( Miller units ) 
+pMC-P1 
+P1 P1 P1 P2 P2 P2 
+P1 P2 
+ﬂiAZ ﬂiAZ ﬂiAZ ﬂgM ﬂgM ﬂgM 
+1,300 3.1 23 33 1,000 4,700 
+44 
+pMC-P1 ( P2 ) pMC-P1 ( GC * ) pMC-P2 pMC-P2 ( P1 ) pMC-P2 ( SD * ) 
+0.57 1.5 1.5 160 1,600 
+P1 ( GC * ) P2 P1 P2 ( SD * ) 
+FIG. 3 . 
+Contribution of the P1 and P2 promoters to motility development . 
+Single colonies of strain KK1004iAZ harboring the indicated plasmid formed in MGC agar plates containing ampicillin were stabbed onto an MGC motility agar plate containing ampicillin and incubated at 37 °C for 8 h. Plasmids used included pF-P1 / P2-ﬂiA , pF-P1-ﬂiA , pF-P1 ( P2 ) - ﬂiA , pF-P2-ﬂiA , and pF-P2 ( P1 ) - ﬂiA ( A ) and pF-P1 / P2-ﬂiAZ , pF-P1-ﬂiAZ , pF-P1 ( P2 ) - ﬂiAZ , pF-P2-ﬂiAZ , and pF-P2 ( P1 ) - ﬂiAZ ( B ) . 
+DISCUSSION
+In a previous report ( 14 ) , we showed both in vivo and in vitro that the ﬂiAZ operon is transcribed from the class 3 promoter ( P2 ) as well as from the class 2 promoter ( P1 ) in Salmonella . 
+Because the ﬂiA gene encodes 28 , responsible for transcription from the class 3 promoter ( 39 ) , this operon should be activated autogenously by transcription from the P2 promoter . 
+However , our earlier work ( 27 ) and recently published work by Wozniak et al. ( 48 ) indicated that transcription from the P1 promoter is a prerequisite to transcription from the P2 promoter in the expression of the ﬂiAZ operon . 
+This enigma has been solved by the present study , showing that the transcript from the P2 promoter is translationally inert in the expression of the ﬂiA gene . 
+According to our ﬁndings reported here , the control of ﬂiAZ operon expression is summarized as follows . 
+The ﬂiAZ operon is expressed ﬁrst from the P1 promoter , which is transcribed by 70 RNA polymerase in the presence of the class 1 gene product FlhD4C2 . 
+From this transcript , the ﬂiA and ﬂiZ genes are both translated . 
+The expressed FliZ protein activates autog-enously the transcription from the P1 promoter by repressing the anti-FlhD4C2 gene ydiV , while the expressed FliA protein ( 28 ) associates with RNA polymerase core enzyme and then transcribes the ﬂiAZ operon from the P2 promoter . 
+The FliZ protein is also expressed from the P2 transcript , which results in further enhancement of transcription from the P1 promoter . 
+On the other hand , the ﬂiA gene is not expressed from the P2 transcript , which ensures suppression of the autogenous activation of the ﬂiA gene . 
+We reported previously that cells defective in the anti- 28 gene ﬂgM showed impaired cell growth and this growth inhibition was relieved by a coexisting mutation in the ﬂagellin gene ﬂiC , which is transcribed by 28 RNA polymerase ( 27 ) . 
+This indicates that ﬂagellin overexpression is detrimental to cell growth . 
+If the ﬂiA gene was activated autogenously , FliA should be produced in much excess , leading to ﬂagellin overproduction , which should cause severe growth inhibition . 
+In fact , when the ﬂiA gene was fully induced from pQE-ﬂiA in the ﬂgM mutant , cell growth was completely inhibited ( our unpublished result ) . 
+Therefore , it is reasonable that the cell has an ability to suppress the autogenous activation of the ﬂiA gene . 
+Usually , FliA also activates the ﬂgM gene ( 10 , 24 ) , and the expressed FlgM protein can inactivate FliA to prohibit ﬂagellin overexpression . 
+However , under the condition where the in tracellular FlgM concentration becomes low , translational silencing of the ﬂiA gene in the P2 transcript could ensure normal cell growth by suppressing ﬂagellin overproduction . 
+For example , such a condition can occur upon completion of hook-basal body assembly , where FlgM is exported efﬁciently out of the cell through the ﬂagellum-speciﬁc secretion pathway ( 12 , 24 ) and the intracellular concentration of FlgM becomes low , leading to activation of the 28 activity of the FliA protein ( 19 ) . 
+We anticipate that , under the condition where the FlgM level is low , the 28 activity of the FliA protein expressed from the P1 transcript sufﬁces for production of large enough amounts of ﬂagellin molecules for ﬁlament assembly . 
+As shown in Fig. 2A , the intracellular level of FliZ increased in the ﬂgM mutant , probably owing to the increased level of P2 transcript . 
+This result is consistent with our previous results showing that the ﬂgM mutation caused enhanced expression of the class 2 operons ( 27 ) and this enhancement was cancelled by the coexisting ﬂiZ mutation ( 28 ) . 
+Curiously , however , the ﬂgM mutation did not increase the intracellular level of FliA ( Fig. 2A ) . 
+This is apparently inconsistent with the above-mentioned observation that the intracellular level of FliZ was increased by the ﬂgM mutation , because the FliZ protein expressed should increase the P1 transcript of the ﬂiAZ operon and thus enhance FliA expression . 
+Recently , however , we showed that FliZ overproduction had only a moderate effect on class 2 transcription , though the effect of the ﬂiZ mutation was remarkable ( 46 ) . 
+This suggests that the enhanced FliZ level in the ﬂgM mutant does not lead to upregulation of FliA production , which conforms to our observation in Fig. 2A . 
+However , at present , we can not rule out the possibility that the Salmo-nella cell has some unknown mechanism for FliA homeostasis . 
+Next , we would like to consider the biological implication of the P2 promoter in the ﬂiAZ operon . 
+FliZ is expressed from both the P1 and P2 transcripts , whereas FliA is expressed only from the P1 transcript . 
+This situation may cause differential expression of the two genes ﬂiA and ﬂiZ within the same operon . 
+We guess that FliZ is required at a higher level than FliA for efﬁcient production of the ﬂagellar structure . 
+During the ﬂagellar assembly process , transcription from the P2 promoter should be enhanced upon completion of hook-basal body assembly . 
+At this step , FliZ should be expressed at the maximal rate , leading to enhanced expression of the class 2 operons , which can trigger another cycle of ﬂagellar biogenesis . 
+This may be responsible for the FliZ-mediated induction of the kinetic switch in ﬂagellar gene expression proposed by Saini et al. ( 41 ) . 
+Alternatively , the cells may require FliZ at a much higher level than FliA , because FliZ is involved in regulation of many cellular processes , in addition to ﬂagellar biogenesis . 
+They include transcriptional control of SPI1 genes ( 6 , 16 , 18 ) and that of the type 1 ﬁmbrial genes ( 8 , 42 ) . 
+In this study , we showed several lines of evidence suggesting that the translational silencing of the ﬂiA gene in the P2 transcript is attributable to its attenuated ribosome-binding activity . 
+The AU-rich sequence in the 5 end of the P1 transcript has a signiﬁcant effect on translation of the ﬂiA gene ( Table 7 ) . 
+It is known that the AU-rich sequence upstream of the SD sequence is a target of ribosome protein S1 ( 4 ) and plays an important role in mRNA stabilization and efﬁcient translation in E. coli ( 20 ) . 
+Although we have not analyzed further the role of the AU-rich sequence on ﬂiA translation , we believe that it assists P1 mRNA in its binding to the ribosome through interaction with S1 , since the modiﬁed P2 transcript , in which the SD sequence was replaced with a stronger one , showed much enhanced translation activity of the ﬂiA gene ( Table 7 ) . 
+In addition to the ﬂiAZ operon , the ﬂiDST , ﬂgMN , and ﬂgKL operons are known to be transcribed from both class 2 and class 3 promoters in the ﬂagellar regulon of Salmonella ( 10 , 24 , 26 , 49 ) . 
+In all cases , the transcripts from the class 3 promoters have shorter 5 UTR sequences than those from the class 2 promoters . 
+However , unlike in the ﬂiAZ operon , the class 2 and class 3 promoters do not overlap with each other and the class 3 transcripts have longer 5 UTR sequences than the P2 transcript of the ﬂiAZ operon . 
+Furthermore , the class 3 transcripts have AU-rich 5 UTRs and better SD sequences than P2 mRNA of the ﬂiAZ operon . 
+Consistent with these structural features , the class 3 transcripts have activities to efﬁciently translate the ﬁrst genes in these three operons ( our unpublished results ) . 
+Therefore , the ﬂiAZ operon is a special case among the ﬂagellar operons whose transcription is controlled by multiple promoters . 
+This may reﬂect the deleterious effect of FliA overproduction on cell growth . 
+The promoter region of the ﬂiAZ operon of E. coli has a structure similar to that of S. enterica ( 38 , 53 ) , suggesting identical expression control in these two bacteria . 
+In contrast , as reported by Lanois et al. ( 34 ) , the ﬂiAZ operons from other gammaproteobacteria such as Proteus mirabilis , Serratia marc-escens , Xenorhabdus nematophila , and Yersinia enterocolitica have a class 2 promoter-like sequence but lack a class 3 pro-moter-like sequence . 
+This suggests that the regulatory mechanism of the ﬂiAZ operon in these organisms may be distinct from that in S. enterica and E. coli . 
+ACKNOWLEDGMENTS
+We thank the National BioResource Project , E. coli , at the National Institute of Genetics , Japan , for plasmid vector pBAD18kan used in this study . 
+REFERENCES 
+1 . 
+Aldridge , P. , and K. T. Hughes . 
+2002 . 
+Regulation of ﬂagellar assembly . 
+Curr . 
+Opin . 
+Microbiol . 
+5:160 -- 165 . 
+2 . 
+Amann , E. , B. Ochs , and K. J. Abel . 
+1988 . 
+Tightly regulated tac promoter vectors useful for the expression of unfused and fused proteins in Escherichia coli . 
+Gene 69:301 -- 315 . 
+3 . 
+Barembruch , C. , and R. Hengge . 
+2007 . 
+Cellular levels and activity of the ﬂagellar sigma factor FliA of Escherichia coli are controlled by FlgM-mod-ulated proteolysis . 
+Mol . 
+Microbiol . 
+65:76 -- 89 . 
+4 . 
+Boni , I. V. , D. M. Isaeva , M. L. Musychenko , and N. V. Tzareva . 
+1991 . 
+Ribosome-messenger recognition : mRNA target sites for ribosomal protein S1 . 
+Nucleic Acids Res . 
+19:155 -- 162 . 
+5 . 
+Casadaban , M. J. , J. Chou , and S. N. Cohen . 
+1980 . 
+In vitro gene fusions that join an enzymatically active - galactosidase segment to amino-terminal fragments of exogenous proteins : Escherichia coli plasmid vectors for the detection and cloning of translational initiation signals . 
+J. Bacteriol . 
+143:971 -- 980 . 
+6 . 
+Chubiz , J. E. , Y. A. Golubeva , D. Lin , L. D. Miller , and J. M. Slauch . 
+2010 . 
+FliZ regulates expression of the Salmonella pathogenicity island 1 invasion locus by controlling HilD protein activity in Salmonella enterica serovar Typhimurium . 
+J. Bacteriol . 
+192:6261 -- 6270 . 
+7 . 
+Claret , L. , and C. Hughes . 
+2002 . 
+Interaction of the atypical prokaryotic transcription activator FlhD2C2 with early promoters of the ﬂagellar gene hierarchy . 
+J. Mol . 
+Biol . 
+321:185 -- 199 . 
+8 . 
+Clegg , S. , and K. T. Hughes . 
+2002 . 
+FimZ is a molecular link between sticking and swimming in Salmonella enterica serovar Typhimurium . 
+J. Bacteriol . 
+184:1209 -- 1213 . 
+9 . 
+Datsenko , K. A. , and B. L. Wanner . 
+2000 . 
+One-step inactivation of chromosomal genes in Escherichia coli K-12 using PCR products . 
+Proc . 
+Natl. Acad . 
+Sci . 
+U. S. A. 97:6640 -- 6655 . 
+10 . 
+Gillen , K. L. , and K. T. Hughes . 
+1993 . 
+Transcription from two promoters and autoregulation contribute to the control of expression of the Salmonella typhimurium ﬂagellar regulatory gene ﬂgM . 
+J. Bacteriol . 
+175:7006 -- 7015 
+11 . 
+Guzman , L.-M. , D. Belin , M. J. Carson , and J. Beckwith . 
+1995 . 
+Tight regulation , modulation , and high-level expression by vectors containing the arabinose PBAD promoter . 
+J. Bacteriol . 
+177:4121 -- 4130 . 
+12 . 
+Hughes , K. T. , K. L. Gillen , M. J. Semon , and J. E. Karlinsey . 
+1993 . 
+Sensing structural intermediates in bacterial ﬂagellar assembly by export of a negative regulator . 
+Science 262:1277 -- 1280 . 
+13 . 
+Ide , N. , T. Ikebe , and K. Kutsukake . 
+1999 . 
+Reevaluation of the promoter structure of the class 3 ﬂagellar operons of Escherichia coli and Salmonella . 
+Genes Genet . 
+Syst . 
+74:113 -- 116 . 
+14 . 
+Ikebe , T. , S. Iyoda , and K. Kutsukake . 
+1999 . 
+Structure and expression of the ﬂiA operon of Salmonella typhimurium . 
+Microbiology 145:1389 -- 1396 . 
+15 . 
+Ikebe , T. , S. Iyoda , and K. Kutsukake . 
+1999 . 
+Promoter analysis of the class 2 ﬂagellar operons of Salmonella . 
+Genes Genet . 
+Syst . 
+74:179 -- 183 . 
+16 . 
+Iyoda , S. , T. Kamidoi , K. Hirose , K. Kutsukake , and H. Watanabe . 
+2001 . 
+A ﬂagellar gene ﬂiZ regulates the expression of invasion genes and virulence phenotype in Salmonella enterica serovar Typhimurium . 
+Microb . 
+Pathog . 
+30:81 -- 90 . 
+17 . 
+Iyoda , S. , and K. Kutsukake . 
+1995 . 
+Molecular dissection of the ﬂagellumspeciﬁc anti-sigma factor , FlgM , of Salmonella typhimurium . 
+Mol . 
+Gen. Genet . 
+249:417 -- 424 . 
+18 . 
+Kage , H. , A. Takaya , M. Ohya , and T. Yamamoto . 
+2008 . 
+Coordinated regulation of expression of Salmonella pathogenicity island 1 and ﬂagellar type III secretion systems by ATP-dependent ClpXP protease . 
+J. Bacteriol . 
+190 : 2470 -- 2478 . 
+19 . 
+Karlinsey , J. E. , et al. 2000 . 
+Completion of the hook-basal body complex of the Salmonella typhimurium ﬂagellum is coupled to FlgM secretion and ﬂiC transcription . 
+Mol . 
+Microbiol . 
+37:1220 -- 1231 . 
+20 . 
+Komarova , A. V. , L. S. Tchuﬁstova , M. Dreyfus , and I. V. Boni . 
+2005 . 
+AU-rich sequences within 5 untranslated leaders enhance translation and stabilize mRNA in Escherichia coli . 
+J. Bacteriol . 
+187:1344 -- 1349 . 
+21 . 
+Komeda , Y. , K. Kutsukake , and T. Iino . 
+1980 . 
+Deﬁnition of additional ﬂagellar genes in Escherichia coli K12 . 
+Genetics 94:277 -- 290 . 
+22 . 
+Komeda , Y. 1982 . 
+Fusions of ﬂagellar operons to lactose genes on a Mu lac bacteriophage . 
+J. Bacteriol . 
+150:16 -- 26 . 
+23 . 
+Koop , A. H. , M. E. Hartley , and S. Bourgeois . 
+1987 . 
+A low-copy-number vector utilizing - galactosidase for the analysis of gene control elements . 
+Gene 52:245 -- 256 . 
+24 . 
+Kutsukake , K. 1994 . 
+Excretion of the anti-sigma factor through a ﬂagellar substructure couples the ﬂagellar gene expression with ﬂagellar assembly in Salmonella typhimurium . 
+Mol . 
+Gen. Genet . 
+243:605 -- 612 . 
+25 . 
+Kutsukake , K. 1997 . 
+Autogenous and global control of the ﬂagellar master operon , ﬂhD , in Salmonella typhimurium . 
+Mol . 
+Gen. Genet . 
+254:440 -- 448 . 
+26 . 
+Kutsukake , K. , and N. Ide . 
+1995 . 
+Transcriptional analysis of the ﬂgK and ﬂiD operons of Salmonella typhimurium which encode ﬂagellar hook-associated proteins . 
+Mol . 
+Gen. Genet . 
+247:275 -- 281 . 
+27 . 
+Kutsukake , K. , and T. Iino . 
+1994 . 
+Role of the FliA-FlgM regulatory system on the transcriptional control of the ﬂagellar regulon and ﬂagellar formation in Salmonella typhimurium . 
+J. Bacteriol . 
+176:3598 -- 3605 . 
+28 . 
+Kutsukake , K. , T. Ikebe , and S. Yamamoto . 
+1999 . 
+Two novel regulatory genes , ﬂiT and ﬂiZ , in the ﬂagellar regulon of Salmonella . 
+Genes Genet . 
+Syst . 
+74:287 -- 292 . 
+29 . 
+Kutsukake , K. , H. Nakashima , A. Tominaga , and T. Abo . 
+2006 . 
+Two DNA invertases contribute to ﬂagellar phase variation in Salmonella enterica se-rovar Typhimurium strain LT2 . 
+J. Bacteriol . 
+188:950 -- 957 . 
+30 . 
+Kutsukake , K. , and T. Nambu . 
+2000 . 
+Bacterial ﬂagellum : a paradigm for biogenesis of transenvelope supramolecular structures . 
+Recent Res . 
+Dev . 
+Microbiol . 
+4:607 -- 615 . 
+31 . 
+Kutsukake , K. , S. Iyoda , K. Ohnishi , and T. Iino . 
+1994 . 
+Genetic and molecular analyses of the interaction between the ﬂagellum-speciﬁc sigma and anti-sigma factors in Salmonella typhimurium . 
+EMBO J. 13:4568 -- 4576 . 
+32 . 
+Kutsukake , K. , Y. Ohya , and T. Iino . 
+1990 . 
+Transcriptional analysis of the ﬂagellar regulon of Salmonella typhimurium . 
+J. Bacteriol . 
+172:741 -- 747 . 
+33 . 
+Kutsukake , K. , Y. Ohya , S. Yamaguchi , and T. Iino . 
+1988 . 
+Operon structure of ﬂagellar genes in Salmonella typhimurium . 
+Mol . 
+Gen. Genet . 
+214:11 -- 15 . 
+34 . 
+Lanois , A. , G. Jubelin , and A. Givaudan . 
+2008 . 
+FliZ , a ﬂagellar regulator , is at the crossroads between motility , haemolysin expression and virulence in the insect pathogenic bacterium Xenorhabdus . 
+Mol . 
+Microbiol . 
+68:516 -- 533 . 
+35 . 
+Lee , Y.-Y. , C. S. Barker , P. Matsumura , and R. Belas . 
+2011 . 
+Reﬁning the binding of the Escherichia coli ﬂagellar master regulator , FlhD4C2 , on a base-speciﬁc level . 
+J. Bacteriol . 
+193:4057 -- 4068 . 
+36 . 
+Liu , X. , and P. Matsumura . 
+1994 . 
+The FlhD/FlhC complex , a transcriptional activator of the Escherichia coli ﬂagellar class II operons . 
+J. Bacteriol . 
+176 : 7345 -- 7351 . 
+37 . 
+Miller , J. 1972 . 
+Experiments in molecular genetics , p. 431-433 . 
+Cold Spring Harbor Laboratory Press , Cold Spring Harbor , NY . 
+38 . 
+Mytelka , D. S. , and M. J. Chamberlin . 
+1996 . 
+Escherichia coli ﬂiAZY operon . 
+J. Bacteriol . 
+178:24 -- 34 . 
+39 . 
+Ohnishi , K. , K. Kutsukake , H. Suzuki , and T. Iino . 
+1990 . 
+Gene ﬂiA encodes an alternative sigma factor speciﬁc for ﬂagellar operons in Salmonella typhi-murium . 
+Mol . 
+Gen. Genet . 
+221:139 -- 147 . 
+40 . 
+Ohnishi , K. , K. Kutsukake , H. Suzuki , and T. Iino . 
+1992 . 
+A novel transcriptional regulation mechanism in the ﬂagellar regulon of Salmonella typhimu-rium : an anti-sigma factor inhibits the activity of the ﬂagellum-speciﬁc sigma factor , F. Mol . 
+Microbiol . 
+6:3149 -- 3157 . 
+41 . 
+Saini , S. , et al. 2010 . 
+FliZ induces a kinetic switch in ﬂagellar gene expression . 
+J. Bacteriol . 
+192:6477 -- 6481 . 
+42 . 
+Saini , S. , J. M. Slauch , P. D. Aldridge , and C. V. Rao . 
+2010 . 
+Role of cross talk in regulating the dynamic expression of the ﬂagellar Salmonella pathogenicity island 1 and type 1 ﬁmbrial genes . 
+J. Bacteriol . 
+192:5767 -- 5777 . 
+43 . 
+Shine , J. , and L. Dalgarno . 
+1975 . 
+Determinant of cistron speciﬁcity in bacterial ribosomes . 
+Nature 254:34 -- 38 . 
+44 . 
+Uzzau , S. , N. Figueroa-Bossi , S. Rubino , and L. Bossi . 
+2001 . 
+Epitope tagging of chromosomal genes in Salmonella . 
+Proc . 
+Natl. Acad . 
+Sci . 
+U. S. A. 98 : 15264 -- 15269 . 
+45 . 
+Wada , T. , et al. 2011 . 
+EAL domain protein YdiV acts as an anti-FlhD4C2 factor responsible for nutritional control of the ﬂagellar regulon in Salmo-nella enterica serovar Typhimurium . 
+J. Bacteriol . 
+193:1600 -- 1611 . 
+46 . 
+Wada , T. , Y. Tanabe , and K. Kutsukake . 
+2011 . 
+FliZ acts as a repressor of the ydiV gene , which encodes an anti-FlhD4C2 factor of the ﬂagellar regulon in Salmonella enterica serovar Typhimurium . 
+J. Bacteriol . 
+193:5191 -- 5198 . 
+47 . 
+Wang , S. , R. T. Fleming , E. M. Westbrook , P. Matsumura , and D. B. McKay . 
+2006 . 
+Structure of the Escherichia coli FlhDC complex , a prokaryotic heteromeric regulator of transcription . 
+J. Mol . 
+Biol . 
+355:798 -- 808 . 
+48 . 
+Wozniak , C. E. , F. F. Chevance , and K. T. Hughes . 
+2010 . 
+Multiple promoters contribute to swarming and the coordination of transcription with ﬂagellar assembly in Salmonella . 
+J. Bacteriol . 
+192:4752 -- 4762 . 
+49 . 
+Wozniak , C. E. , and K. T. Hughes . 
+2008 . 
+Genetic dissection of the consensus sequence for the class 2 and class 3 ﬂagellar promoters . 
+J. Mol . 
+Biol . 
+379 : 936 -- 952 . 
+50 . 
+Wozniak , C. E. , C. Lee , and K. T. Hughes . 
+2009 . 
+T-POP array identiﬁes EcnR and PefI-SrgD as novel regulators of ﬂagellar gene expression . 
+J. Bacteriol . 
+191:1498 -- 1508 . 
+51 . 
+Yamamoto , S. , and K. Kutsukake . 
+2006 . 
+FliT acts as an anti-FlhD2C2 factor in the transcriptional control of the ﬂagellar regulon in Salmonella enterica serovar Typhimurium . 
+J. Bacteriol . 
+188:6703 -- 6708 . 
+52 . 
+Yanagihara , S. , S. Iyoda , K. Ohnishi , T. Iino , and K. Kutsukake . 
+1999 . 
+Structure and transcriptional control of the ﬂagellar master operon of Sal-monella typhimurium . 
+Genes Genet . 
+Syst . 
+74:105 -- 111 . 
+53 . 
+Zaslaver , A. , et al. 2006 . 
+A comprehensive library of ﬂuorescent transcriptional reporters for Escherichia coli . 
+Nat . 
+Methods 3:623 -- 628
