@@ -1,0 +1,413 @@
+The FASEB Journal • Research Communication 
+Salmonella enteritidis Rck-mediated invasion requires
+activation of Rac1 , which is dependent on the class I 
+PI 3-kinases-Akt signaling pathway 
+Lily Mijouin , * , † ,1 Manon Rosselin , * , † ,1 Elisabeth Bottreau , * , † Javier Pizarro-Cerda , ‡ Pascale Cossart , ‡ Philippe Velge , * , † and Agnès Wiedemann * , † ,2 * UR1282 Infectiologie Animale et Santé Publique , Institut National de la Recherche Agronomique , Nouzilly , France ; † IFR136 Agents Transmissibles et Infectiologie , Université de Tours , Tours , France ; and ‡ Unité des Interactions Bactéries - Cellules , Institut Pasteur , Paris , France 
+ABSTRACT The Salmonella outer membrane protein Rck mediates a Zipper-like entry mechanism controlled by Rac , the Arp2/3 complex , and actin polymerization . 
+However , little is known about the early steps leading to Rac activation and Rck-mediated internalization . 
+The use of pharmacological inhibitors or PI 3-kinase dominant-nega-tive mutant induced more than 80 % less invasion without affecting attachment . 
+Moreover , Rck-mediated internalization caused an increase in the association of p85 with at least one tyrosine-phosphorylated protein , indicating that class I PI 3-kinase activity was stimulated . 
+We also report that this PI 3-kinase activity is essential for Rac1 activation . 
+However , Rac recruitment at the Rck-mediated entry site was independent of its activation . 
+Using a pharmacological approach or Akt-knockout cells , we also demonstrated that Akt was phosphorylated in response to Rck-mediated internalization as demonstrated by immunoblotting analysis and that all three Akt isoforms were required during this process . 
+Overall , our results describe a signaling pathway involving tyrosine phosphorylation , class I PI 3-kinase , Akt activation , and Rac activation , leading to Rck-dependent Zipper entry . 
+The speciﬁcity of this signaling pathway with regard to that of the type 3 secretion system , which is the other invasion process of Salmonella , is discussed . 
+-- Mijouin , L. , Rosselin , M. , Bottreau , E. , Pizarro-Cerda , J. , Cossart , P. , Velge , P. , Wiedemann , A. Salmonella enteritidis Rck-mediated invasion requires activation of Rac1 , which is dependent on the class I PI 3-kinases-Akt signaling pathway . 
+FASEB J. 26 , 1569 -- 1581 ( 2012 ) . 
+www.fasebj.org 
+Key Words: bacterial internalization phosphoinositides
+SALMONELLA are gram-negative facultative intracellular bacteria , which infect a wide range of animal and 
+Abbreviations : Cb , carbenicillin ; DMSO , dimethyl sulfoxide ; GST , glutathione-S-transferase ; ICIO , Akt inhibitor L6-hydroxymethyl-chiro-inositol-2 - ( R ) -2 - O-methyl-3-O-octadecyl - sn-glycerocarbonate ; LB , Luria-Bertani ; MEF , mouse embryo ﬁbroblast ; PI , phosphoinositide ; T3SS , type 3 secretion system ; Tyr ( P ) , tyrosine-phosphorylated ; wt , wild-type . 
+human hosts and cause a broad spectrum of diseases , from gastroenteritis to typhoid fever ( 1 ) . 
+Salmonella have evolved different mechanisms to invade nonphagocytic cells and to survive within the host environment . 
+The genetic basis for Salmonella invasion is complex , and numerous bacterial genes necessary for its internalization have now been described . 
+The main Salmonella internalization process requires a type 3 secretion system ( T3SS ) , called T3SS-1 , which delivers bacterial effector proteins directly into host cells , leading to bacterial invasion through a Trigger-like mechanism ( 2 , 3 ) . 
+Another entry mechanism has been shown to involve the Salmonella outer membrane protein Rck , encoded by the large virulence plasmid ( 4 , 5 ) . 
+Forty-six amino acids from residues 113 to 159 of S. enteritidis Rck have been identiﬁed as the minimal region necessary and sufﬁcient to promote adhesion , actin polymerization , and internalization by a Zipper-like mechanism ( 5 ) . 
+The Rck-mediated entry process is dependent on the mobilization of actin microﬁlaments , which are activated by the signaling Arp2/3 complex and the GTPases Rac and Cdc42 ( 5 ) . 
+However , to date , the cellular signaling pathway activating Rac and leading to Rck-mediated internalization remains poorly characterized . 
+The phosphoinositide ( PI ) 3-kinases are lipid kinases catalyzing the phosphorylation of PI at the third - OH position of the inositol headgroup . 
+This phosphorylation leads to the production of PI ( 3 ) P , PI ( 3,4 ) P2 and PI ( 3,4,5 ) P3 . 
+The formation of PI ( 3,4 ) P2 and PI ( 3,4,5 ) P3 leads to Akt recruitment at the host cell membrane and subsequent Akt phosphorylation and activation ( 6 , 7 ) . 
+The change in PI metabolism is known to control actin dynamics and pathogen entry , such as that of Listeria monocytogenes ( 8 ) . 
+The PI 3-kinase family is divided into 3 classes ( I , II , and III ) . 
+Class III PI 3-kinases are homologues of Saccharomyces cerevisiae Vps34p ( vacuolar protein 
+1 These authors contributed equally to this work . 
+2 Correspondence : INRA Tours Nouzilly , UR 1282 Infectiologie Animale et Santé Publique , 37380 Nouzilly , France . 
+E-mail : awiedemann@tours.inra.fr doi : 10.1096 / fj.11-189647 sorting mutant ; ref . 
+9 ) . 
+The human class III PI 3-kinase has been shown to be required for multivesicular body morphogenesis and for transport of lysosomal proteins ( 10 , 11 ) . 
+Class II PI 3-kinases are 170 - to 210-kDa proteins with a characteristic C-terminal C2 homology domain . 
+No class II PI 3-kinase adaptor molecules have been identiﬁed to date , and the activation mode of these enzymes remains unclear . 
+Class I PI 3-kinases have been studied the most . 
+They are made up of heterodimers of 200 kDa , composed of a 50 - to 100-kDa adaptor subunit and a 110-to 120-kDa catalytic subunit . 
+The majority of the research on class I PI 3-kinases has focused on the heterodimeric molecule , p85-p110 , which can be stimulated via receptors with intrinsic protein tyrosine kinase activity , or receptors coupled to protein tyrosine kinases . 
+Activation of p85-p110 is often promoted by plasma membrane recruitment through the interaction of the p85 SH2 domains with tyrosine-phosphorylated [ Tyr ( P ) ] proteins ( 12 ) . 
+The aim of this study was to analyze the role of the PI 3-kinases-Akt signaling pathway and to correlate the activation of this pathway with the Rac activity during the Rck entry process induced within host cells . 
+Do wn 
+MATERIALS AND METHODS
+Cell lines and transfection
+Human epithelial placental cells ( Jeg-3 , no . 
+HTB-36 ; American Type Culture Collection , Manassas , VA , USA ) were grown in MEM containing glutamax ( Invitrogen , Carlsbad , CA , USA ) and supplemented with 1 mM nonessential amino acids , 1 mM sodium pyruvate , inactivated 10 % FBS , and antibiotics ( penicillin 100 IU/ml , streptomycin 100 g/ml ; Invitrogen ) . 
+Wild-type ( wt ) , Akt1 / , Akt2 / , and Akt3 / mouse embryo ﬁbroblasts ( MEFs ) were kindly provided by Dr. Mornis J. Birnbaum ( University of Pennsylvania School of Medicine , Philadelphia , PA , USA ; ref . 
+13 ) . 
+These cells and African green monkey fetal kidney epithelial cells ( MA104 , 85102918 ; Health Protection Agency Culture Collections , Porton Down , UK ) were cultured in DMEM plus 25 mM glucose , supplemented with inactivated 10 % FBS and 2 mM l-glutamine and antibiotics . 
+For transfection , cells were seeded onto coverslips and transfected as described previously ( 5 ) . 
+DNA ( 1 g ) was used to transfect 3 104 cells on a 24-well plate , using SuperFect ( Qiagen , Hilden , Germany ) , as recommended by the manufacturer . 
+After 3 h , fresh medium was added for 16 h , and cells were then antibiotic starved . 
+Reagents
+Normal mouse serum was from Sigma ( St. Louis , MO , USA ) . 
+All inhibitors were dissolved in dimethyl sulfoxide ( DMSO ) at the following stock concentrations : wortmannin 10 mM ( Cell Signaling Technology , Beverly , MA , USA ) ; LY294002 10 mM ( Cell Signaling Technology ) ; genistein 100 mM ( Calbiochem , San Diego , CA , USA ) ; Akt inhibitor L6-hydroxymethyl-chiro-inositol-2 - ( R ) -2 - O-methyl-3-O-octadecyl-sn-glycerocarbonate ( ICIO ) 35 mM ( Calbiochem ) . 
+The maximum ﬁnal concentration of DMSO never exceeded 0.1 % ( vol/vol ) in a drug-treated cell . 
+DNA constructs
+Eukaryotic expression vectors ( pRK5 ) encoding myc-tagged wt and N17Rac have been described previously ( 14 ) , as has the construction of plasmid encoding YFP-AktPH ( 15 ) . 
+Sequences of wt bovine p85 ( Wp85 ) and mutant bovine p85 ( p85 ) were ampliﬁed by PCR using pRS Wp85 and pRS p85 ( 16 ) as a DNA template with the sense primer For p85 BamHI and the antisense primer Rev p85 EcoRI , ﬂanked by BamHI and EcoRI ( listed in Table 1 ) and were then subcloned in pcDNA3 .1 ( ) vector . 
+The bovine p85 shares 97 % of identity with the human p85 , and its dominant negative form is commonly used to study the role of the PI 3-kinase in vitro ( 16 , 17 ) . 
+TAT-N17Rac puriﬁcation and cell transduction
+( His ) 6-TATN17Rac expression was induced in subcultures of Escherichia coli BL21 pLysS , as described previously ( 5 ) . 
+After bacterial lysis , ( His ) 6-TAT N17Rac proteins were puriﬁed using NiNTA agarose beads ( 5 ) . 
+To eliminate urea from the elution buffer , proteins were passed through a Biogel PD10 column ( Bio-Rad , Hemel Hempstead , UK ) equilibrated in DMEM supplemented with 500 mM NaCl . 
+MA104 cells were pretreated with 10 g/ml of TAT-N17Rac for 90 min or with DMEM containing 500 mM NaCl as a control ( 5 ) . 
+Expression of wt and mutant p85 in Jeg-3 cells
+To obtain Jeg-3 cells stably overexpressing Wp85 or p85 , Jeg-3 cells were transfected with either pcDNA3 .1 ( ) Wp85 or pcDNA3 .1 ( ) p85 plasmid , using SuperFect ( Qiagen ) , as recommended by the manufacturer . 
+Selection was started by adding geneticin ( ﬁnal concentration , 1 mg/ml ) to the medium . 
+Resistant Jeg-3 cells expressing each protein were screened by PCR with For pcDNA3 .1 and Rev pcDNA3 .1 primers ( listed in Table 1 ) . 
+Proliferation of transfected cells was similar to nontransfected cells , as described previously ( 16 ) . 
+Bacterial strains and growth conditions
+The bacteria strains used in this study are listed in Table 2 . 
+Bacteria were routinely grown in Luria-Bertani ( LB ) broth with antibiotics chloramphenycol ( Cm ; 34 g/ml ) and carbenicillin ( Cb ; 100 g/ml ) and shaking at 150 rpm at 37 °C overnight . 
+TABLE 1 . 
+Primers used in this study 
+Sequence , 5 -- 3 
+Primer 
+For p85 BamHI Rev p85 EcoRI For pcDNA3 .1 Rev pcDNA3 .1 
+ATCATCGGATCCCACCATGAGTGCCGAGGGGTACCAGTAC CCCCCCGAATTCTCATCGCCTCTGCTGCGCGTACAC GACTCACTATAGGGAGACCCAAGCTGGCTA GCTGGGCAACTAGAAGGCACAGTCGAGGCT 
+Do wn 
+Expression and puriﬁcation of fusion proteins
+GST and GST-113 -- 150 Rck proteins were induced in subcultures of E. coli BL21 pLysS expressing aa 113 -- 159 in pGEX-4T-2 with 1 mM IPTG for 4 h at 37 °C . 
+GST and GST-113 -- 159 Rck were puriﬁed as described previously ( 5 ) . 
+Bacteria were resuspended in lysis buffer [ 50 mM Tris , pH 8 ; 40 mM EDTA ; 25 % sucrose ; 100 mM MgCl ; 0.2 % Triton X-100 ; 1 mM 2 phenylmethylsulfonyl ﬂuoride ( PMSF ) ; and cOmplete Protease Inhibitor Cocktail ( Boehringer , Ingelheim , Germany ) ] and sonicated . 
+After clearing , fusion proteins were afﬁnitypuriﬁed from the soluble fraction on Glutathione-Sepharose 4B beads ( Amersham Biosciences , Dübendorf , Switzerland ) , according to the manufacturer 's instructions . 
+Coating of latex beads 
+Puriﬁed GST alone or GST-113 -- 159 Rck proteins were coated on latex beads ( Sigma ) , as described previously ( 5 ) . 
+To determine the coupling efﬁciency , the protein concentrations of the starting solution and of the supernatant after bead coating were determined . 
+In addition , coated fusion proteins were checked using immunoblotting . 
+Immunoblotting 
+GST and GST-113 -- 159 Rck proteins were transferred electro-phoretically onto nitrocellulose membranes ( 1.2 mA/cm2 for 60 min ) with a semidry apparatus . 
+Membranes were blocked by incubation in PBS containing 5 % nonfat milk and were incubated for 1 h in PBS 0.05 % Tween and 1 % nonfat milk with a polyclonal rabbit anti-GST ( 1:2000 ; Sigma ) , followed by washing and then incubated for 1 h in PBS 1 % nonfat milk containing a goat anti-rabbit HRP conjugate ( 1:25,000 ; Pierce , Rockford , IL , USA ) . 
+Detection was carried out using a chemiluminescence detection kit ( ECL ) from Amersham . 
+The expression of total Akt and each isoform was examined in Jeg3 , MEF wt , Akt1 / , Akt2 / , and Akt3 / cell extracts by Western blot analysis using anti-total Akt 1/2/3 ( clone C67E7 ; diluted 1:1000 ) , anti-Akt1 ( clone C73H10 ; diluted 1:1000 ) , anti-Akt2 ( clone D6G4 ; diluted 1:1000 ) , and antiAkt3 ( clone L47B1 ; diluted 1:1000 ) antibodies ( Cell Signaling Technology ) . 
+Adhesion and invasion assays
+Cell monolayers were grown in 24-well tissue culture plates ( Falcon ; BD Biosciences , Heidelberg , Germany ) for 3 -- 4 d to obtain a conﬂuent monolayer . 
+Before infection , cells were incubated overnight in medium without antibiotics . 
+They were infected for 1 h at 37 °C with 300 l of bacterial suspension in DMEM without FBS , at a bacteria-to-cell ratio of 5:1 . 
+For adhesion assays , after bacteria-cell contact , cells were gently washed 4 times with PBS ( pH 7.5 ) and then disrupted with 1 ml of cold distilled water . 
+Viable bacteria ( intra - and extracellular ) were counted after plating serial dilutions on tryptic soja agar . 
+Invasion was quantiﬁed by the gentamicin protection assay to kill the remaining extracellular bacteria , as described previously ( 5 ) . 
+After 90 min incubation with 100 g/ml gentamicin ( Invitrogen ) , cells were washed and then lysed by adding 1 ml of cold distilled water . 
+The number of viable bacteria released from the cells was scored as for the adhesion assays . 
+Coating of latex beads 
+Immunoprecipitation
+MA104 cells were grown in 100-mm dishes for 3 -- 4 d to obtain a conﬂuent monolayer . 
+Cells were incubated overnight in medium without antibiotics and then with GST-coated or GST-113 -- 159 Rck-coated beads , as described above . 
+In some experiments , cells were pretreated with DMSO or genistein for 15 min prior to addition of GST-113 -- 159 Rck-coated beads . 
+After a 10-min incubation , cells were rinsed with cold PBS and solubilized by adding 500 l of ice-cold lysis buffer ( 1 % Nonidet P-40 ; 50 mM Tris , pH 7.5 ; 150 mM NaCl ; 2 mM EDTA ; 1 mM PMSF ; and protease inhibitor cocktail ) . 
+Immu-noprecipitations were performed using a Catch and Release Phosphotyrosine 4G10 kit ( Millipore , Bedford , MA , USA ) , as recommended by the manufacturer . 
+Brieﬂy , after preclearance , protein concentrations of the lysates were determined , and equal quantities of total protein were used for immunoprecipitation . 
+After 1 h of incubation with anti-phosphoty-rosine ( 4G10 ) antibodies and protein A agarose at room temperature , immunoprecipitates were washed and denatured by boiling in sample buffer for 5 min and then stored at 20 °C . 
+Proteins were analyzed by immunoblotting using a rabbit polyclonal serum against PI 3-kinase p85 ( 1:5000 ; Upstate Biotechnology , Lake Placid , NY , USA ) , as described previously ( 18 ) . 
+Source or reference 
+Strain E. coli-GST 
+5 
+E. coli strain overexpressing GST 
+5 
+E. coli-rck E. coli-113 -- 159 Rck 
+E. coli strain overexpressing GST linked to rck sequence E. coli strain overexpressing GST linked to 113 -- 159 rck sequence E. coli strain overexpressing N-terminal His tag linked to TAT-N17-rac sequence 
+5 
+5 
+BL21 pLysS pET - ( His ) 6-TAT-N17 Rac 
+Plasmid pRS Wp85 
+Vector carrying the wt bovine p85 sequence ( Cbr ) Vector carrying the mutant bovine p85 sequence ( Cbr ) Vector carrying cytomegalovirus ( CMV ) enhancer-promoter for high-level , constitutive expression ( Cbr ) Vector carrying the wt bovine p85 sequence ( Cbr ) Vector carrying the mutant bovine p85 sequence ( Cbr ) Vector carrying a myc tag linked to rac wt gene Vector carrying a myc tag linked to N17rac sequence 
+16 16 
+pRS p85 pcDNA 3.1 ( ) 
+Invitrogen 
+pcDNA 3.1 Wp85 pcDNA 3.1 p85 pRK5-myc Rac wt pRK5-myc N17Rac 
+This study This study 14 14 
+Coating of latex beads 
+Immunoblotting 
+Do wn 
+Akt immunoblot analysis
+Jeg3 cells were grown in 24-well plates for 3 -- 4 d to obtain a conﬂuent monolayer . 
+Cells were incubated overnight in medium without serum and antibiotics and then with GST-coated or GST-113 -- 159 Rck-coated beads at indicated times . 
+Cells were washed with ice-cold PBS and then lysed with 100 l SDS-PAGE sample buffer . 
+Proteins were analyzed by SDS-PAGE and immunoblotting using antibodies against total Akt 1/2/3 ( clone 11E7 ; 1:1000 ; Cell Signaling Technology ) or phospho-Akt 1/2/3 ( Ser473 ; 1:1000 ; Cell Signaling Technology ) , as described previously ( 19 ) . 
+siRNA 
+Total Akt ( interfering with Akt1/2/3 ) and control siRNAs were purchased from Cell Signaling Technology . 
+The control siRNA is a scrambled sequence that does not lead to the degradation of any cellular message ( SignalSilence control siRNA ) . 
+Jeg .3 cells plated on 24-well plates were transfected with 100 M RNAi using DharmaFect1 ( Dharmacon , Lafayette , CO , USA ) as transfection reagent . 
+Adhesion and invasion assays were performed 48 h after transfection . 
+In parallel , siRNA was evaluated by probing extracts of the transfected cells with rabbit polyclonal antibodies against total Akt ( Akt1/2/3 ; Cell Signaling ) and monoclonal antibody against - tubulin ( Sigma ) for loading control . 
+Intensity of total Akt signals was determined by densi-tometric analysis and related to the level of - tubulin in the lysates , using the ImageJ software ( U.S. National Institutes of Health , Bethesda , MD , USA ) . 
+Immunoﬂuorescence microscopy
+Cell monolayers on coverslips were incubated overnight in DMEM without antibiotics before the addition of beads ( 150 beads/cell ) . 
+After incubation at 37 °C in a humidiﬁed atmosphere at 5 % CO2 for 30 min in the appropriate medium without serum , cells were washed in PBS to remove unbound beads . 
+Cells were ﬁxed for 10 min in 4 % paraformaldehyde solution and permeabilized for 5 min in 0.2 % Triton X-100 in PBS . 
+GST was stained with a polyclonal antibody ( Sigma ; diluted 1:100 ) and the myc-tagged construct with a mouse monoclonal anti-myc ( clone 9E10 ; Santa Cruz Biotechnology , Santa Cruz , CA , USA ) . 
+Secondary antibodies were Alexa 568 or Alexa 647-labeled goat anti-rabbit ( diluted 1:200 ; Molecular Probes , Carlsbad , CA , USA ) . 
+Coverslips were ﬁnally mounted in ﬂuorescence-mounting medium ( Dako , Glostrup , Denmark ) and analyzed with an Olympus Fluoview 500 confocal laser-scanning microscope ( Olympus , Tokyo , Japan ) . 
+Z-series reconstructions and visualization were done using IMARIS , a 3-dimensional multichannel image processing software for laser-scanning microscopy images ( Bitplane AG , Zurich , Switzerland ) . 
+GST pulldown assays
+PAK-CRIB fused to GST was prepared as described previously ( 14 , 20 ) . 
+Jeg3 cells were grown in 100-mm dishes for 3 -- 4 d to obtain a conﬂuent monolayer . 
+Cells were incubated over-night in medium without serum and antibiotics and then challenged with 5 ml GST-coated or GST-113 -- 159 Rck-coated beads at indicated times at 37 °C . 
+Cells were then scraped on ice in 500 l of pulldown buffer [ 50 mM Tris-HCl , pH 7.4 ; 2 mM MgCl2 ; 1 % Nonidet P-40 ; 10 % glycerol ; 100 mM NaCl ; 1 g/ml protease inhibitor mixture ( Roche Applied Science , Indianapolis , IN , USA ) ; and 1 mM PMSF ] per plate . 
+Lysates were cleared by centrifugation at 13,000 rpm for 10 min at 4 °C . 
+Supernatant ( 300 l ) was used to assess the levels of active Rac using the PAK-CRIB pulldown method ( 14 , 20 ) . 
+Brieﬂy , Jeg3 cell lysates were incubated for 45 min at 4 °C with 15 g of a 50 % slurry of PAK-CRIB-GST coupled to glutathione-agarose beads to precipitate GTP-loaded GT-Pases . 
+Beads were washed 3 times in pulldown buffer . 
+Equal volumes of beads and total lysates were analyzed by SDS-PAGE and Western blot analysis using a monoclonal antibody against Rac1 ( clone 23A8 ; 1:2000 ; Millipore ) , performed as described previously ( 14 ) . 
+Intensity of Rac1 signal was determined by densitometric analysis and related to the level of total Rac1 in the lysates , using the ImageJ software . 
+Figure 1 . 
+PI 3-kinases are necessary for Rck-mediated internalization . 
+A ) MA104 cells were infected with Esche-richia coli-GST and E. coli-rck ( MOI 1:5 ) for 1 h at 37 °C . 
+Percentages of total cell-associated bacteria ( open bars ) and internalized bacteria ( solid bars ) were determined as described in Materials and Methods . 
+B , C ) MA104 cells were incubated with wortmannin ( B ) and LY294002 ( C ) at the concentrations indicated above for 15 min prior to the addition of E. coli-rck ( MOI 1:5 ) . 
+Total cell-associated bacteria ( open bars ) and intracellular bacteria ( solid bars ) were scored as described in Materials and Methods . 
+Results obtained with drugs are expressed relative to values obtained for the same amount of DMSO-contain - . 
+Values represent means sd of 3 independent experiments ; 2 
+ing medium ( DMSO ) , arbitrarily set at 100 % infected wells/experiment were evaluated . 
+Do wn 
+RESULTS
+PI 3-kinases are required during Rck-mediated internalization
+By using a noninvasive E. coli strain overexpressing S. enteritidis Rck ( E. coli-rck ) , the activity of Rck can be analyzed without the inﬂuence of other Salmonella invasion mechanisms ( 5 ) . 
+First , we compared the ability of E. coli-rck to its control E. coli-GST to bind and invade epithelial MA104 cells . 
+The rck-containing strain invaded MA104 cells 40,000 times more efﬁciently than did control E. coli-GST ( Fig. 1A ) . 
+These data conﬁrm the results of Rosselin et al. ( 5 ) , showing that Rck is able to mediate both adhesion and invasion . 
+The following experiments were performed with the E. coli-rck strain . 
+To assess the role of PI 3-kinases in Rck-mediated invasion , the effect of the classical inhibitors ( wortmannin and LY294002 ; refs . 
+21 , 22 ) was examined on adhesion and entry of E. coli-rck . 
+The addition of these inhibitors to epithelial MA104 cell monolayers , before adhesion and invasion assays , inhibited the number of internalized E. coli-rck in a dose-dependent manner compared to DMSO-treated cells . 
+A 50-fold decrease in invasion was observed with 10 nM wortmannin ( Fig. 1B ) and 100 M LY294002 ( Fig. 1C ) . 
+In contrast , neither wortmannin nor LY294002 resulted in signiﬁcant changes in the total number of cell-associated bacteria , providing further evidence that only the entry mechanism is dependent on PI 3-kinase activity . 
+Figure 2 . 
+Class I PI 3-kinase p85 - p110 is required for Rck-mediated internalization . 
+A ) Jeg-3 cells were infected with E. coli-GST and E. coli-rck ( MOI 1:5 ) for 1 h at 37 °C as indicated . 
+Percentages of total cell-associated bacteria ( open bars ) and internalized bacteria ( solid bars ) were determined as described in Materials and Methods . 
+B ) Jeg-3 cells transfected or not with Wp85 and p85 were infected with E. coli-rck ( MOI 1:5 ) for 1 h at 37 °C . 
+Numbers of total cell-associated bacteria ( open bars ) and intracellular bacteria ( solid bars ) were determined and expressed relative to values obtained for nontransfected Jeg-3 cells , arbitrarily set at 100 % ( total cell-associated bacteria : 9.13 % 0.002 ; intracellular bacteria : 1.29 % 0.001 ) . 
+Data are means sd of 3 independent experiments ; 2 infected wells/experiment were evaluated . 
+Figure 3 . 
+Rck-dependent entry requires phosphorylation of tyrosines that interact with p85 . 
+A ) MA104 cells were incu ¬ 
+bated with genistein at the concentrations indicated above for 15 min prior to the addition of E. coli-rck ( MOI 1:5 ) . 
+After 1 h at 37 °C , total cell-associated bacteria ( open bars ) and intracellular bacteria ( solid bars ) were scored as described in Materials and Methods . 
+Results obtained with drugs are expressed relative to values obtained for the same amount of DMSO-containing medium ( DMSO ) , arbitrarily set at 100 % . 
+Values represent means sd of 3 independent experiments ; 2 infected wells/experiment were evaluated . 
+B , C ) MA104 cells were pretreated with DMSO or genistein for 15 min ( C ) , or not ( B ) , prior to addition of beads coated with GST and GST-113 -- 159 Rck for 10 min at 37 °C . 
+Cells were then lysed , and Tyr ( P ) proteins were immunoprecipitated with anti-Tyr ( P ) antibodies or with mouse serum as a control . 
+p85 ( the regulatory subunit of p85-p110 ) was detected using immunoblotting . 
+Image corresponds to an immunoblotting analysis representative of 3 . 
+Do wn 
+Rck-mediated internalization stimulates p85-p110 activity
+The lipid kinase inhibitors used to date have not enabled discrimination of the 3 known classes of mammalian PI 3-kinases and their different isoforms ( 21 ) . 
+To examine speciﬁcally whether class I PI 3-kinase p85 - p110 was needed for invasion , the dominantnegative form of p85 ( p85 ) was stably overexpressed in epithelial cells and compared to the wt form of p85 ( Wp85 ) - overexpressing cells . 
+The dominantnegative form presents a deletion of 35 aa from resi-dues 479 -- 513 of p85 known to inhibit PI 3-kinase activation ( 16 ) . 
+As we were unable to stably transfect MA104 cells , we examined other cell lines , such as Jeg .3 cells . 
+The ability of E. coli-rck was thus compared with that of control E. coli-GST to bind and invade Jeg .3 cells . 
+As shown in Fig. 2A , Jeg .3 cells were sensitive to the recombinant E. coli-rck bacteria ( 8.46 1.28 % adhesion ; 1.38 0.2 % invasion ) . 
+Concerning the entry of E. coli-Rck into Jeg .3 cells overexpressing p85 , it was reduced by 80 % compared to the entry level obtained with the parental or the overexpressing Wp85 cell line . 
+No signiﬁcant change was observed in the total number of cell-associated bacteria ( Fig. 2B ) . 
+These results indicate that the class I PI 3-kinase and , more particularly , the p85 - p110 heterodimer play a major role in Rck-mediated internalization into cultured cells . 
+Rck induces an increase in the interactions between p85 and one or more Tyr(P) proteins
+Activation of p85-p110 by many agonists , including EGF , requires the interaction between the SH2 domains of p85 subunit and Tyr ( P ) proteins . 
+To investigate whether protein tyrosine kinases were involved in Rck-mediated internalization , we performed adhesion and invasion assays with cells pretreated with various concentrations of genistein , which speciﬁcally inhibits protein tyrosine kinases . 
+As shown in Fig. 3A , the Rck-mediated invasion decreased in a dose-dependent manner in the presence of genistein , whereas no effect on Rck-mediated adhesion was observed . 
+These results suggest that tyrosine phosphorylation is needed for the Rck-dependent entry process , which is not the case for the T3SS-1-dependent entry process ( 23 , 24 ) . 
+To observe the association of p85 with one or more Tyr ( P ) proteins during Rck-mediated internalization , 
+Figure 4 . 
+Rac activity is required for Rck-mediated internalization . 
+A , B ) MA104 cells were transfected for 18 h with Rac wt-myc ( A ) or 
+N17Rac-myc ( B ) , incubated with GST-113 -- 159 Rck-coated beads for 30 min at 37 °C , and then processed for immunoﬂuorescence to visualize Rac wt-myc ( green ) and beads ( blue ) ( A ) ; N17Rac-myc ( red ) and beads ( green ) ( B ) . 
+Confocal laser scanning microscopy shows horizontal and vertical sections of cells ( z sectioning ) . 
+Images are representative ; arrows indicate typical staining patterns , seen more clearly in the insets . 
+Arrowheads indicate where the vertical sections of cells were performed . 
+Scale bars 5 m. C ) Serum-starved Jeg3 cells were infected with either GST-coated or GST-113 -- 159 Rck-coated beads for 5 , 15 , or 30 min at 37 °C . 
+Cells were then lysed , and active Rac was precipitated and analyzed by GST-PAK CRIB pulldown , as described in Materials and Methods . 
+Image corresponds to an immunoblotting analysis representative of 3 . 
+Do wn 
+MA104 cells were incubated with beads coated with recombinant puriﬁed glutathione-S-transferase ( GST ) or GST-113 -- 159 Rck . 
+Tyr ( P ) proteins were immunoprecipitated with anti-phosphotyrosine antibodies , and p85 was then detected using immunoblotting with anti-p85 antibodies . 
+Amounts of p85 were barely detectable in cells incubated with GST-coated beads but greatly increased after incubation with GST-113 -- 159 Rck-coated beads . 
+No signal was obtained with mouse serum immunoprecipitates ( Fig. 3B ) . 
+These data suggest that Rck-mediated internalization induces activation of Tyr ( P ) kinase , leading to increased interaction of Tyr ( P ) proteins with p85 . 
+To conﬁrm this hypothesis , Tyr ( P ) proteins were immunoprecipitated from MA104 cells treated with DMSO or genistein and incubated with GST-113 -- 159 Rck-coated or GST-coated beads . 
+The amount of p85 revealed by immunoblotting was reduced by genistein treatment compared to DMSO treatment ( Fig. 3C ) . 
+These results indicate that the early stage of Rckmediated internalization stimulates tyrosine phosphor-ylation of proteins , which leads to PI 3-kinase activation by interacting with p85 of the class I PI 3-kinase . 
+Rac recruitment at the Rck-mediated entry site is independent of its activation
+As Rac is required during Rck-mediated internalization ( 5 ) , we thus examined the cellular localization of wt and inactive Rac during this process . 
+Wt and dominant negative ( N17 ) myc-tagged Rac was expressed in MA104 cells . 
+After incubation with GST-113 -- 159 Rckcoated beads , stacks of ﬂuorescence confocal images were generated and analyzed by z sectioning using Imaris software ( Bitplane ) . 
+Figure 4A shows that internalized beads were associated and surrounded with wt Rac ( Fig. 4A ) , while in Fig. 4B , inactive N17Rac was still recruited at the site where the particles are bound ( Fig. 4B ) . 
+To investigate whether the level of active GTP-bound Rac increased during Rck-mediated invasion , we performed pulldown experiments using the Rac binding domain of p21 activated kinase ( PAK-CRIB ) fused to GST , as described previously ( 14 , 20 ) . 
+Cells were incubated with GST-113 -- 159 Rck-coated or GST-coated beads , as a control , for different durations and then lysed . 
+The levels of active Rac bound to PAK-CRIB , were determined by Western blot analysis using anti-Rac antibodies . 
+As shown in Fig. 4C , progression of Rckdirected internalization correlated with an increase in GTP loading of endogenous Rac . 
+The level of GTP-Rac correlated with a transient increase , peaking after 15 min at 37 °C with GST-113 -- 159 Rck-coated beads , unlike with GST-coated beads ( Fig. 4C ) . 
+This indicates that Rck interaction with the surface of eukaryotic cells leads to a speciﬁc increase in Rac activity . 
+Taken together , these results suggest that Rac is recruited at the Rck-coated bead entry site in its inactive form and is then locally activated . 
+Figure 5 . 
+Rck-mediated Rac activation is controlled by p85 - p110 activities . 
+A ) Before incubation with beads coated with GST-113 -- 159 Rck or GST alone , MA104 cells were pretreated for 90 min with TAT-N17Rac or with the same amount of desalting medium as control ( CTL ) . 
+Cells were then lysed , Tyr ( P ) proteins were immunoprecipitated with anti-Tyr ( P ) antibodies , and the regulatory subunit of p85 was detected by immunoblotting . 
+Image corresponds to a protein immunoblotting from one experiment , representative of 3 . 
+B , C ) Before incubation with beads coated with GST-113 -- 159 Rck or GST alone , Jeg3 cells were pretreated for 15 min with wortmannin or with the same amount of DMSO-containing medium ( DMSO ) . 
+Cells were then lysed and analyzed by GST-PAK CRIB pulldown and immunoblotting . 
+C ) Quantiﬁcation , with the ratio of GTP-Rac to total Rac obtained after GST beads incubation set arbitrarily to 1 . 
+Results are expressed as means sd of 3 independent experiments . 
+Do wn 
+Activity of PI 3-kinase is required for Rck-dependent Rac activation
+As Rac and PI 3-kinases are linked through their involvement in Rck-mediated internalization , we examined whether the PI 3-kinase activity was stimulated by Rac during Rck-mediated invasion or whether Rac activation was dependent on PI 3-kinase activity . 
+First , to investigate whether Rac activated PI 3-kinases , the TAT-myc protein was fused with the dominant-negative form of Rac ( N17Rac ) to allow transduction of the TAT fusion protein into all cells in culture and allow the level of expression and concentration of the respective proteins to be monitored over time ( 5 ) . 
+TAT-N17Rac was produced in E. coli and was used at a concentration determined to be sufﬁcient to inhibit Rac activity during Rck-mediated internalization , as described previously ( 5 ) . 
+MA104 cells were treated for 90 min with 10 g/ml TAT-N17Rac proteins before Tyr ( P ) protein immunoprecipitaion . 
+The level of p85 , determined by Western blot analysis using anti-p85 antibodies in antiTyr ( P ) immunoprecipitates , did not seem to be affected by Rac inhibition ( Fig. 5A ) , suggesting that activation of PI 3-kinases does not require active Rac during Rck-mediated internalization . 
+Therefore , we investigated whether the activation of Rac during Rck-induced internalization was dependent on the PI 3-kinase . 
+Incubation of DMSO-pretreated cells with GST or GST-113 -- 159 Rck-coated beads triggered an increase in the amount of GTP-loaded Rac1 after 15 min at 37 °C ( Fig. 5B , C ) . 
+The Rck-dependent increase in GTP-Rac1 levels was speciﬁc , as it was blocked in wortmannin-treated cells , which was not the case in the control DMSO-treated cells ( Fig. 5B , C ) . 
+These results indicate that PI 3-kinase activity is necessary to trigger Rac1 activation during Rck-mediated internalization . 
+PI 3-kinase/Akt pathway is required for Rck-mediated internalization
+PI 3-kinase activation results in the production of phosphorylated lipid products in the cell membrane , which can lead to the activation of downstream signaling proteins ( 12 ) . 
+One class of effectors inﬂuenced by PI 3-kinase are the serine/threonine protein kinases , which are crucial in the invasion pathway induced by many bacterial pathogens . 
+We investigated the role of Akt , also known as serine/threonine kinase B , which is activated by PI ( 3,4 ) P2 and PI ( 3,4,5 ) P3 phosphoinositi-des ( 7 , 25 , 26 ) . 
+First , to study the role of Akt during Rck-mediated entry , adhesion and invasion assays were performed in the presence of an Akt inhibitor , ICIO . 
+This inhibitor is a phosphoinositide ether analog that inhibits Akt activation by preventing PI ( 3,4,5 ) P3 binding to Akt ( 27 ) . 
+Increasing concentrations of ICIO inhibited E. coli-rck entry in a dose-dependent manner , and 20 M of this Akt inhibitor induced an 80 % decrease in invasion . 
+In contrast , only slight changes were observed in the number of adherent bacteria at higher concentrations ( Fig. 6A ) . 
+As these levels of inhibition are similar to those observed in other well-described models ( 19 ) , these results suggested that Akt is required during this entry mechanism . 
+Akt in its active form is phosphorylated on serine 473 and threonin 308 ( 6 ) . 
+To determine whether Rckmediated entry was able to activate Akt , Jeg3 cells were incubated with beads coated with GST-113 -- 159 Rck or GST alone for different durations and then lysed . 
+The levels of phosphorylated and total Akt were determined by immunoblotting , using an antibody that recognizes Akt when phosphorylated on serine 473 and another antibody recognizing phosphorylated and nonphosphorylated Akt ( total Akt ) as control of the protein loading . 
+As shown in Fig. 6B , the progression of Rckdirected internalization correlated with a transient increase in protein tyrosine phosphorylation . 
+The level of phosphorylated Akt peaked at 15 min at 37 °C . 
+In contrast , the level of phosphorylated Akt did not change in cells incubated with GST-coated beads ( Fig. 6B ) . 
+Moreover , when cells were pretreated with wortmannin prior to the incubation with GST-113 -- 159 Rck-coated beads , no more increase in the level of Akt phosphorylation was observed ( Fig. 6C ) . 
+These results show that Rck interaction with the surface of eukaryotic cells leads to a speciﬁc increase in Akt activity . 
+To establish the speciﬁc contribution of Akt during Rck-mediated internalization , Akt was knocked down in Jeg-3 cells by RNA interference ( siRNA ) . 
+The level of Akt expression was analyzed by immunoblotting after siRNA transfections . 
+We observed a lower level of the endogenous Akt expression in cells transfected with siRNA speciﬁc for Akt , compared to control siRNAtransfected cells ( Fig. 7A , B ) . 
+The blot was also probed with - tubulin to verify that equal amount of protein was loaded . 
+The decrease in Akt protein level was accompanied by a drop in internalization of E. coli-rck ( Fig. 7C ) and did not affect the adhesion of E. coli-rck , supporting an involvement of Akt in Rck-mediated internalization . 
+In mammals , the Akt family consists of 3 different isoforms ( Akt1 , Akt2 , and Akt3 ) that are encoded by 3 separate genes , sharing 85 % sequence identity . 
+As studies have demonstrated that each isoform of Akt contributes to different signaling and functions in the metabolic , survival pathway , cytoskeleton and cell mo-tility functions ( reviewed in Gonzalez and McGraw ; ref . 
+28 ) , we investigated the role of each isoform during Rck-dependent entry by using MEF cells depleted either in Akt1 , Akt2 , or Akt3 . 
+First , as their levels of expression differ among tissues ( 29 -- 31 ) , the expression level of Akt1 , Akt2 , and Akt3 in Jeg3 cells were veriﬁed using isoform-speciﬁc Akt antibodies in Western blot analysis ( Fig. 8A ) . 
+This ﬁgure shows also that Jeg3 cells express the 3 isoforms of Akt . 
+Then , we compared the ability of E. coli-rck to its control E. coli-GST to bind and invade MEF wt cells . 
+The rckcontaining strain adhered and invaded MEF wt cells more efﬁciently than did control E. coli-GST ( Fig. 8B , C ) . 
+To determine which Akt isoform is required during Rck-mediated internalization , adhesion and entry of E. coli -- rck were analyzed on MEF Akt1 / , Akt2 / , and Akt3 / and compared to MEF wt cells . 
+As shown in Fig. 8D , the entry of E. coli-Rck into MEF Akt1 / , Akt2 / , and Akt3 / was reduced by compared to the entry level obtained with MEF wt cell line . 
+However , the total number of cell-associated bacteria was not affected , supporting an involvement of all 3 Akt isoforms in Rck-mediated internalization . 
+The PH-speciﬁc Akt protein domain is known to speciﬁcally bind to PI ( 3,4 ) P2 and PI ( 3,4,5 ) P3 and is used to visualize the subcellular localization of these phosphoinositides ( 32 ) . 
+To examine whether PI ( 3,4 ) P2 and PI ( 3,4,5 ) P3 accumulate at the site of Rck-mediated entry , we transfected MA104 cells with the PH domain of Akt fused to YFP ( PH-Akt-YFP ) as a spatial probe and analyzed its localization by confocal microscopy . 
+Stacks of confocal images were generated and analyzed by z sectioning using Imaris software . 
+As shown in Fig. 9A , the fusion protein localized to the entry site , demonstrating that during Rck-mediated internalization , PI ( 3,4 ) P2 and PI ( 3,4,5 ) P3 are produced and lead to Akt recruitment and activation . 
+To determine whether accumulation of PI ( 3,4 ) P2 and PI ( 3,4,5 ) P3 required the PI 3-kinase activity , we pretreated MA104 cells expressing PH-Akt-YFP with 100 M LY294002 for 15 min . 
+As shown in Fig. 9B , LY294002 treatment inhibits PH-Akt-YFP recruitment , demonstrating that Akt recruitment during Rck-mediated internalization is dependent on PI 3-kinase activity . 
+Figure 6 . 
+Rck-mediated internalization requires Akt activity . 
+A ) MA104 
+cell monolayers were incubated over-night in DMEM without serum and antibiotics . 
+Akt inhibitor ICIO was incubated at the concentrations indicated above for 3 h prior to the addition of E. coli-rck ( MOI 1:5 ) for 1 h at 37 °C . 
+Total cell-associated bacteria ( open bars ) and intracellular bacteria ( solid bars ) were scored as described in Materials and Methods . 
+Results are expressed relative to values obtained with the same amount of DMSO-con-taining medium ( DMSO ) , arbitrarily set at 100 % . 
+Values represent means sd of 3 independent experiments ; 2 infected wells/experiment were evaluated . 
+B ) Serum-starved MA104 cells were either uninfected ( 0 min ) or incubated with beads coated with GST-113 -- 159 Rck or GST alone for 5 , 15 , and 30 min at 37 °C . 
+Cells were then lysed and phosphorylated , and total Akt ( Akt1/2/3 ) was detected using a polyclonal anti-phospho-Akt ( Ser473 and a rabbit monoclonal anti-Akt antibody , respectively . 
+C ) Serum-starved MA104 cells were pretreated with either DMSO or 10 nM wortmannin and incubated with beads coated with GST-113 -- 159 Rck or GST alone for 15 min at 37 °C . 
+After cell lysis , phosphorylated Akt1/2/3 ( Ser473 ) and total Akt1/2/3 were detected . 
+Images correspond to an immunoblotting analysis representative of 3 . 
+Do wn 
+Figure 7 . 
+Akt RNAi inhibits Rck-mediated internalization . 
+A , B ) Total Akt ( Akt1/2/3 ) was knocked down in Jeg .3 cells . 
+Following transfection with a scrambled control siRNA ( CTL ) or Akt siRNA , protein levels were veriﬁed by immunoblotting . 
+B ) Quantiﬁcation , with the ratio of the control siRNA to - tubulin set arbitrarily to 1 . 
+C ) Adhesion and invasion assays in Akt-knockdown Jeg .3 cells were performed with E. coli-rck ( MOI 1:5 ) for 1 h at 37 °C . 
+Numbers of adherent ( open bars ) and internalized bacteria ( solid bars ) were determined and expressed relative to values obtained for cells treated with control RNAi , arbitrarily set at 100 % . 
+Data are means sd of 3 independent experiments ; 2 infected wells/experiment were evaluated . 
+Do wn 
+Figure 8 . 
+Rck-mediated internalization requires Akt1 , Akt2 , and Akt3 . 
+A ) Jeg3 and MEF wt , Akt1 / , Akt2 / , and 
+Akt3 / cells were lysated and analyzed for Akt1 , Akt2 , and Akt3 expression using isoform-speciﬁc Akt antibodies in Western blot analysis . 
+B , C ) MEF wt cells were infected with E. coli-GST and E. coli-rck ( MOI 1:5 ) for 1 h at 37 °C . 
+The percentage of total cell-associated bacteria ( B ) and internalized bacteria ( C ) was determined as described in Materials and Methods . 
+D ) MEF wt , Akt1 / , Akt2 / , and Akt3 / cells were infected with E. coli-rck ( MOI 1:5 ) for 1 h at 37 °C . 
+The number of adherent ( open bars ) and internalized bacteria ( solid bars ) were determined and expressed relative to values obtained for MEF wt cells ( WT ) arbitrarily set at 100 % . 
+Data are means sd of 3 independent experiments ; 2 infected wells/experiment were evaluated . 
+DISCUSSION
+Salmonella have evolved different mechanisms to invade nonphagocytic cells by hijacking host signaling pathways . 
+Previously , the Salmonella outer membrane protein Rck had been shown to mediate internalization , requiring Rac to activate the Arp2/3 complex , which triggers the formation of actin-rich accumulation ( 5 ) . 
+In this study , we have shown that Rck utilizes Akt kinases and Rac1 as signaling mediators following activation of the class I PI 3-kinase and protein tyrosine kinases to promote internalization into host cells . 
+Taken together , we can build a model of the signaling cascade leading to the Zipper entry process mediated by Rck ( Fig. 10 ) . 
+Using pharmacological approaches and dominantnegative class I PI 3-kinase , we have demonstrated that Rck induces ( p85-p110 ) PI 3-kinase activation through tyrosine phosphorylation of unknown proteins and interaction of these proteins with p85 . 
+However , further work is needed to identify the Tyr ( P ) proteins that interact with p85 . 
+During L. monocytogenes internalization mediated by InlB , PI 3-kinases are activated via recruitment of Gab1 , Cbl , and Shc on phosphotyrosine residues of the intracytoplasmic portion of its receptor Met , a receptor protein tyrosine kinase ( 23 , 33 ) . 
+In contrast , during Listeria InlA-mediated entry , engagement of E-cadherin induces phosphorylation by the tyrosine kinase Src , which promotes the interaction between E-cadherin and the ubiquitin-ligase Hakai ( 34 , 35 ) . 
+In this case , tyrosine phosphorylation activates the endocytic cellular machinery to allow Listeria internalization into cells in a PI 3-kinase-independent way . 
+Identiﬁcation of the cell receptor of Rck should help us to answer this question . 
+As for InlB-mediated entry , the involvement of tyrosine phosphorylation and PI 3-kinase during Rckmediated entry would suggest that a receptor protein tyrosine kinase interacts with Rck to induce the signaling pathway leading to internalization . 
+Efﬁcient Yersinia pseudotuberculosis YadA-mediated invasion through 1-integrins also requires tyrosine kinases and PI 3-kinase activities ( 36 , 37 ) . 
+We also investigated whether the 1-integrins are the cell receptor of Rck . 
+However , we found that E. coli-rck is still able to invade pretreated cells with speciﬁc 1-integrins antibody and 1-integ-rins knockout cells , indicating that 1-integrins are not the cell receptor of Rck ( data not shown ) . 
+Whatever the cell receptor involved , we have shown that PI 3-kinase activation leads to Rac1 activation . 
+We observed also that even inactive N17Rac is recruited at entry sites , suggesting that the receptor-mediated mechanism induces recruitment of the inactive GDP-bound form of Rac independently of its activation . 
+Furthermore , we have demonstrated that inhibition of PI 3-kinase affects the activation of Rac , whereas Rac inactivation does not affect PI 3-kinase activation . 
+This indicates that Rac activity is downstream of PI 3-kinases in the signaling pathway leading to Rck-mediated internalization ( Fig. 10 ) . 
+It is probable that Rac is activated through the recruitment and the activation of a gua-nine-exchange factor ( GEF ) , which would be itself activated by the PI 3-kinase pathway ( 38 , 39 ) . 
+This hypothesis is supported by the fact that the activity of different Rac-GEFs is regulated by PI 3-kinase products , such as PI ( 3,4,5 ) P3 ( 39 ) . 
+PI 3-kinase activation also triggers activation of various downstream signaling mol-ecules , including serine/threonine protein kinases . 
+We show that the 3 Akt isoforms ( Akt1 , Akt2 , and Akt3 ) , serine/threonine protein kinases known to be activated by PI 3-kinases during pathogen infection , are required during the Rck-induced Zipper entry mechanism and that Akt phosphorylation occurs rapidly , strengthening the central role of Akt in this process . 
+Akt is also required for the internalization of other bacteria , such as Pseudomonas aeruginosa and streptococci ( 19 , 40 , 41 ) . 
+Moreover , it was shown that Akt activation is a crucial step during other Zipper-like entry processes as for the Yersinia YadA-mediated entry ( 42 ) . 
+The mechanisms involving Akt and leading to bacterial entry are not well deﬁned , and the downstream cellular targets of Akt are not identiﬁed . 
+However , our results show that , at least for the Rck entry pathway , no speciﬁc Akt isoform is involved in the entry process . 
+For the Zipper invasion mechanism of L. monocytogenes induced by InlB , the phosphorylation of Akt has been observed ; however , its correlation with entry has not been investigated ( 43 ) . 
+In contrast to the Zipper entry process , the Trigger invasion mechanisms induced by both Shigella ﬂexneri and Salmonella Typhimurium require neither Akt nor PI 3-kinases for bacterial internalization into cells ( 44 ) . 
+However , these kinases can be later involved in the infection processes . 
+For example , SopB , a PI phosphatase , which is translocated into host cells via the T3SS-1 of Salmonella Typhimurium leads to Akt phosphorylation to protect cells from apoptotic events ( 45 -- 47 ) . 
+Some evidence also suggests that the class III PI 3-kinase VPS34 is activated to form a Salmonellacontaining vacuole , which protects Salmonella from the host 's microbial weapons ( 48 ) . 
+This is also the case during S. ﬂexneri infection , since PI 3-kinases are activated to trigger antiapoptotic processes mediated by the serine/threonine kinase , Akt ( 49 ) . 
+It could , therefore , be interesting to investigate whether the Rckdependent entry process modulates the apoptosis of the infected cells . 
+In summary , our data reinforce the fact that internalization via the Zipper mechanism generally seems to require PI 3-kinases/Akt signaling , while invasion via the Trigger pathway involving a T3SS does not ( 7 ) . 
+Our ﬁndings help to further understand the complexity of the cellular events leading to a Trigger vs. a Zipper entry mechanism . 
+Salmonella , which is the ﬁrst bacte-rium found to be able to induce both Zipper and Trigger invasion processes , could provide a relevant model to identify the cellular determinants involved during these different processes . 
+Figure 9 . 
+PH-Akt-YFP , a probe for PI ( 3,4 ) P2 and PI ( 3,4,5 ) P3 , accumulates at the Rck entry site . 
+MA104 cells were transfected with PH-Akt-YFP and then incubated with GST-113 -- 159 Rck-coated beads for 30 min at 37 °C without any cell pretreatment ( A ) or following a pretreatment with 100 M LY294002 ( B ) . 
+Cells were processed for immunoﬂuorescence . 
+Confocal laser scanning microscopy shows horizontal and vertical sections of cells ( z sectioning ) . 
+PH-Akt-YFP appears in green , GST in blue . 
+Images are representative ; arrow indicates where vertical sections of cells were performed . 
+Scale bars 4 m. 
+Do wn 
+Figure 10 . 
+Diagram representing a model for the intracellular signaling pathway induced by Rck . 
+Interaction of Rck with its cellular receptor induces phosphorylation directly or indirectly of at least one tyrosine protein kinase . 
+Subsequent activation of class I PI 3-kinases induced PI ( 3,4,5 ) P3 formation , leading to activation of Akt . 
+Rck-mediated internalization also activated the small GTPase Rac1 , due to PI 3-kinase activation , leading to activation of the Arp2/3 complex to trigger actin polymerization . 
+The mechanisms controlling Cdc42 during Rck-mediated internalization remain largely unknown . 
+Solid arrows denote signaling events characterized in this study and previous investigations ( 35 ) , while dotted arrows denote possible signaling events and/or interactions . 
+Do wn 
+10 . 
+11 . 
+12 . 
+13 . 
+14 . 
+15 . 
+16 . 
+17 . 
+This work was supported by the Région Centre and performed within the SAVIRE project , funded by the Délégation Régionale à la Recherche et à la Technologie du Centre ( FEDER ; 1634-32245 ) and by the Région Centre ( 2008-00036085 ) . 
+M.R. holds a doctoral fellowship funded by the Région Centre and the Institut National de la Recherche Agronomique . 
+The authors thank Dr. Keith Ireton ( Institut Pasteur ) for donating plasmids . 
+REFERENCES

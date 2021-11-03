@@ -1,0 +1,516 @@
+Blackwell Science , LtdOxford , UKMMIMolecular Microbiology0950-382XBlackwell Publishing Ltd , 2005 ? 
+2005581289304Original ArticleCsgA is a PAMP recognized byTLR2Ç.Tükel etal . 
+doi :10.1111 / j.1365-2958.2005.04825.x First published online 26 August 2005 
+CsgA is a pathogen-associated molecular pattern of 
+Salmonella enterica serotype Typhimurium that is Toll-like
+recognized by 
+receptor 2 
+Çagla Tükel ,1,2 Manuela Raffatellu ,1,2 Andrea D. Humphries ,2 R. Paul Wilson ,1,2 
+Helene L. Andrews-Polymenis ,2 Tamara Gull ,3 Josely F. Figueiredo ,3 Michelle H. Wong ,4 Kathrin S. Michelsen ,4 Mustafa Akçelik ,1,5 L. Garry Adams3 and Andreas J. Bäumler1 ,2 * 1Department of Medical Microbiology and Immunology , School of Medicine , University of California at Davis , One Shields Avenue , Davis , CA 95616-8645 , USA . 
+2Department of Medical Microbiology and Immunology , College of Medicine , Texas A&M University System Health Science Center , 407 Reynolds Medical Building , College Station , TX 77843-1114 , USA . 
+3Department of Veterinary Pathobiology , College of Veterinary Medicine , Texas A&M University , College Station , TX 77843-4467 , USA . 
+4Department of Pediatric Infectious Diseases and Immunology , Cedars-Sinai Medical Center , 8700 Beverly Boulevard , Los Angeles , CA 90048 , USA . 
+5Department of Biology , Faculty of Science , University of Ankara , 06100 Tandogan , Ankara , Turkey . 
+Summary
+Knowledge about the origin and identity of the microbial products recognized by the innate immune system is important for understanding the pathogenesis of inﬂammatory diseases . 
+We investigated the potential role of Salmonella enterica serotype Typhimurium ﬁmbriae as pathogen-associated molecular patterns ( PAMPs ) that may stimulate innate pathways of inﬂammation . 
+We screened a panel of 11 mutants , each carrying a deletion of a different ﬁmbrial operon , for their enteropathogenicity using the calf model of human gastroenteritis . 
+One mutant ( csgBA ) was attenuated in its ability to elicit ﬂuid accumulation and GROα mRNA expression in bovine ligated ileal loops . 
+The mechanism by which thin curled ﬁmbriae encoded by the csg genes contribute to inﬂammation was further investigated using tissue culture . 
+The S. Typhimurium csgBA mutant induced signiﬁcantly 
+Accepted 25 July , 2005 . 
+* For correspondence . 
+E-mail ajbaumler @ ucdavis.edu ; Tel. ( +1 ) 530 754 7225 ; Fax ( +1 ) 530 754 7240 . 
+less IL-8 production than the wild type in human macrophage-like cells . 
+Puriﬁed thin curled ﬁmbriae induced IL-8 expression in human embryonic kidney ( HEK293 ) cells transfected with Toll-like receptor ( TLR ) 2/CD14 but not in cells transfected with TLR5 , TLR4/MD2/CD14 or TLR11 . 
+Fusion proteins between the major ﬁmbrial subunit of thin curled ﬁmbriae ( CsgA ) and glutathione-S-transferase ( GST ) elicited IL-8 production in HEK293 cells transfected with TLR2/CD14 . 
+Proteinase K treatment abrogated IL-8 production elicited in these cells by GST -- CsgA , but not by synthetic lipoprotein . 
+GST -- CsgA elicited more IL-6 production than GST in bone marrow-derived macrophages from TLR2 + / + mice , while there was no difference in IL-6 secretion between GST -- CsgA and GST in macrophages from TLR2 -- / -- mice . 
+These data suggested that CsgA is a PAMP that is recognized by TLR2 . 
+Introduction
+Salmonella enterica serotype Typhimurium is a Gramnegative motile pathogen that causes a localized gastro-enteritis and lymphadenitis in humans , which results in diarrhoea . 
+The histopathologic hallmark of human S. Typhimurium infection is a massive neutrophil inﬂux in the terminal ileum and proximal colon ( Day et al. , 1978 ; McGovern and Slavutin , 1979 ) . 
+S. Typhimurium infection of calves produces an infection that remains localized to the intestine and mesenteric lymph nodes , resulting in signs of disease ( i.e. diarrhoea ) and pathological changes ( i.e. a massive neutrophil inﬂux in terminal ileum and proximal colon ) that closely mimic gastroenteritis in humans ( Zhang et al. , 2003a ) . 
+The use of the calf model and human cell culture models has provided valuable insights into the pathogenesis of human S. Typhimurium infection . 
+Salmonella enterica serotype Typhimurium is an invasive enteric pathogen that can penetrate the intestinal epithelium by employing a type III secretion system ( T3SS-1 ) encoded by Salmonella pathogenicity island 1 ( SPI1 ) ( Galán and Curtiss III , 1989 ; Mills et al. , 1995 ; Raffatellu et al. , 2005a ) . 
+T3SS-1-dependent invasion of the bovine ileal mucosa results in the production of neutrophil chemoattractants ( e.g. IL-8 and GROα ) in infected tissue , thereby triggering a neutrophil inﬂux ( Santos et al. , 2002 ; Zhang et al. , 2003b ) . 
+Early events ( < 1 h after infection ) leading to IL-8 production in the intestinal mucosa can be modelled using S. Typhimurium infection of human epithelial cell lines derived from colonic cancer . 
+The dominant mechanism for IL-8 production in intestinal epithelial cell lines appears to be the innate immune recognition of a pathogen-associated molecular pattern ( PAMP ) ( i.e. ﬂagellin ) by its cognate pathogen recognition receptor [ i.e. Toll-like receptor 5 ( TLR5 ) ] ( Gewirtz et al. , 2001a , b ; Zeng et al. , 2003 ; Huang et al. , 2004 ; Tallant et al. , 2004 ) . 
+TLR5 is preferentially expressed at the basolateral side of intes-tinal epithelial cells in vitro ( Gewirtz et al. , 2001a ) and in vivo ( Cario et al. , 2000 ) , thereby enabling the epithelium to serve as a barrier that separates PAMPs expressed by commensal bacteria in the intestinal lumen from TLRs expressed by a variety of host cell types in the intestinal tissue . 
+Studies using bovine ligated ileal loops show that invasion of epithelial cells is followed by rapid bacterial trans-location into the lamina propria , which is apparent within 1 -- 2 h after S. Typhimurium infection ( Frost et al. , 1997 ; Santos et al. , 2002 ; Reis et al. , 2003 ) . 
+Bacteria in the lamina propria always have an intracellular location , either within mononuclear cells ( i.e. macrophages and dendritic cells ) or within neutrophils ( Frost et al. , 1997 ; Santos et al. , 2002 ) . 
+Late events ( > 1 h after infection ) leading to IL-8 production in the intestinal mucosa have thus been modelled using S. Typhimurium infection of human mono-cyte-derived macrophages or human macrophage-like cell lines . 
+S. Typhimurium infection of human macroph-ages induces a proinﬂammatory gene expression proﬁle , including the expression of IL-8 ( Rosenberger et al. , 2000 ; Nau et al. , 2002 ; 2003 ) . 
+A similar gene expression proﬁle can be elicited in macrophages by stimulation with puriﬁed PAMPs , including lipopolysaccharide ( LPS ) ( TLR4/MD -2 / CD14 ligand ) , Braun lipoprotein ( TLR2 ligand ) or ﬂagella ( TLR5 ligand ) ( Rosenberger et al. , 2000 ; Neilsen et al. , 2001 ; Nau et al. , 2002 ) . 
+These data suggest that macrophages can use multiple TLRs to detect several S. Typhimurium PAMPs simultaneously ( Nau et al. , 2003 ) . 
+The picture emerging from these studies is that IL-8 production and neutrophil inﬂux in the human intestinal mucosa during S. Typhimurium infection are triggered by the accumulated input from multiple TLRs , likely including a TLR5 response elicited in the intestinal epithelium and a TLR2 , TLR4 and TLR5 response elicited by macroph-ages ( and possibly other cell types ) in the lamina propria . 
+Although several PAMPs that stimulate the innate immune system during infection with invasive enteric pathogens are known , it is not clear whether all structural signatures of Gram-negative cells that can be recognized by pathogen recognition receptors have been identiﬁed . 
+This information is important because a complete understanding of the host response to infection requires a detailed knowledge about the origin and identity of the microbial products that stimulate the innate pathways of inﬂammation . 
+There is some evidence to suggest that the subcellular localization of a PAMP determines its importance for innate immune recognition of Gram-negative bacteria . 
+For instance , unmethylated CpG oligonucleotide containing DNA is present in the cytosol of Gram-negative bacteria . 
+This location presents an accessibility problem for the cognate pattern recognition receptor for unmethylated CpG , TLR9 , which has been speculated to be specialized in viral detection ( Iwasaki and Medzhitov , 2004 ) . 
+Peptidoglycan , which is located in the periplasm of Gramnegative bacteria , is a PAMP that is more important for recognition of Gram-positive organisms , where it is surface localized ( Takeuchi et al. , 1999 ) . 
+Finally , PAMPs that clearly are important for recognition of Gram-negative bacteria , such as LPS and ﬂagella , are localized on the bacterial cell surface . 
+To identify novel structural signatures of Gram-negative cells that may stimulate innate immunity , we thus investigated a class of ﬁlamentous S. Typhimurium surface appendages , termed ﬁmbriae , for their contribution to eliciting host responses during infection . 
+The S. Typhimurium genome contains 13 gene clusters with homology to ﬁmbrial biosynthesis genes , including csg ( agf ) , ﬁm , pef , lpf , bcf , saf , stb , stc , std , stf , sth , sti and stj ( McClelland et al. , 2001 ) . 
+In vivo expression in bovine ligated ileal loops and during infection of mice has recently been demonstrated for several of these ﬁmbrial gene clusters ( Humphries et al. , 2003 ; 2005 ) . 
+In this report , we investigated whether ﬁmbriae may be involved in eliciting host responses by serving as ligands for TLRs . 
+Results
+The csg ﬁmbrial gene cluster contributes to ﬂuid accumulation and induction of GROα mRNA expression in the calf model 
+The contribution of ﬁmbriae to the host response observed during S. Typhimurium infection of the ileal mucosa was studied using the calf model . 
+Previous studies have shown that the amount of ﬂuid accumulation in ligated loops directly correlates with the severity of inﬂammatory changes observed in the mucosa ( Santos et al. , 2002 ; Zhang et al. , 2002 ; 2003b ) . 
+We compared the ability of the S. Typhimurium wild type with that of 11 mutants , each carrying a deletion of an individual ﬁmbrial operon , to cause ﬂuid accumulation 8 h after infection of bovine ligated ileal loops . 
+Strains carrying deletions in ﬁm , pef , lpf , bcf , stb , stc , std , stf , sth or sti caused ﬂuid accumulation at levels that were not signiﬁcantly different from those elicited by the S. Typhimurium wild type ( SR11 ) . 
+However , ﬂuid accumulation in loops infected with the csgBA deletion mutant ( ADH20 ) was signiﬁcantly ( P < 0.05 ) reduced compared with the wild-type response ( Fig. 1A ) . 
+Blinded histopathological evaluation revealed a reduction in the severity of neutrophil inﬁltration in tissue collected from loops infected with the csgBA deletion mutant ( margination and perivascular inﬁltration of neutrophils and/or mild diffuse inﬁltration of neutrophils at the tips of absorptive villi ) compared with samples from wild-type infected loops ( moderate diffuse inﬁltration of neutrophils in the mucosa and perivascular multifocal inﬁltration in the submucosa ) . 
+To quantitate the reduction in neutrophil inﬂux caused by a deletion of csgBA , the relative levels of mRNA expression of the neutrophil chemoattractant GROα in the intestinal mucosa at 2 h after infection was determined by real-time polymerase chain reaction ( PCR ) ( Fig. 1B ) . 
+Compared with control loops injected with sterile LB broth , GROα expression was signiﬁcantly higher in loops infected with the S. Typhimurium wild type ( 22-fold increase ) than in loops infected with the csgBA deletion mutant ( ninefold increase ) . 
+Our data thus suggested that the csg ﬁmbrial gene cluster is contributing to ﬂuid accumulation and inﬂammation elicited during S. Typhimurium infection in calves . 
+Fig. 1 . 
+Infection of bovine ligated ileal loops with the S. Typhimurium wild type and derivatives carrying deletion of ﬁmbrial operons . 
+A. Fluid accumulation elicited by S. Typhimurium mutants 8 h after infection of bovine ligated ileal loops . 
+The ﬁmbrial operon deleted in each individual mutant is indicated on the x-axis . 
+Fluid accumulation is expressed as the percentage of the response elicited by the S. Typhimurium wild type ( 100 % ) . 
+Data are shown as geometric means ( bars ) from experiments performed in at least three different animals plus standard deviation . 
+Asterisks above bars indicate that ﬂuid accumulation is signiﬁcantly ( P < 0.05 ) lower than that elicited by the S. Typhimurium wild type . 
+LB , loop infected with sterile LB broth . 
+B. Fold-increases in GROα mRNA expression elicited by S. Typhimurium strains 2 h after infection of bovine ligated ileal loops . 
+Data were determined by quantitative real-time PCR and are shown as geometric means ( bars ) from experiments performed in three different animals ± standard errors . 
+Statistical signiﬁcance ( P-value ) between treatment groups ( brackets ) is indicated above . 
+C. Invasion of the ileal mucosa by S. Typhimurium strains . 
+Biopsy punches collected at 8 h after infection of bovine ligated ileal loops with the S. Typhimurium wild type or Δcsg mutant were treated with gentamicin for 90 min ( to kill extracellular bacteria ) and homogenized to enumerate tissue-associated bacteria . 
+Data are shown as geometric means ( bars ) from experiments performed in three different animals ± standard errors . 
+Statistical signiﬁcance ( P-value ) between treatment groups ( brackets ) is indicated above . 
+Deletion of csgBA does not alter the ability of S. Typhimurium to invade epithelial cells
+The mechanism by which the csg ﬁmbrial gene cluster may contribute to host responses elicited during S. Typhimurium infection in calves was further investigated using human cell culture models . 
+One possibility was that deletion of csgBA may interfere with S. Typhimurium invasion of epithelial cells , because T3SS-1-mediated invasion has been shown to be required for ﬂuid accumulation and inﬂammation in bovine ligated ileal loops ( Ahmer et al. , 1998 ; Zhang et al. , 2002 ; 2003b ) . 
+The ability of the S. Typhimurium wild type ( IR715 ) and its isogenic csgBA deletion mutant ( SF15 ) to invade human epithelial cells derived from a colon carcinoma ( HT-29 cells ) was compared using a gentamicin protection assay . 
+As a negative control , we used a strain ( CAS152 ) carrying a deletion of a gene ( sipB ) required for T3SS-1-mediated invasion and translocation of T3SS-1-secreted proteins into host cells . 
+While the sipB mutant ( CAS152 ) was defective for invasion of HT-29 cells , both the wild type ( IR715 ) and the csgBA mutant ( SF15 ) invaded epithelial cells equally well , regardless of whether bacteria were grown under conditions optimal for T3SS-1 expression ( Fig. 2A ) or optimal for expression of the csg ﬁmbrial gene cluster ( Fig. 2B ) prior to the invasion assay . 
+To test whether deletion of csgBA would result in an invasion defect in vivo , bacteria were recovered from biopsy punches collected 8 h after infection of bovine ligated ileal loops and treated with gentamicin to kill extracellular bacteria . 
+No differences in the numbers of bacteria recovered from bovine ileal tissue infected with the S. Typhimurium wild type or the csgBA mutant were observed ( Fig. 1C ) . 
+These data suggested that the csg ﬁmbrial gene cluster did not contribute to invasion of epithelial cells by S. Typhimurium . 
+Deletion of csgBA reduces IL-8 production in human macrophage-like cells
+It has been shown previously that recognition of ﬂagella by TLR5 is the main mechanism triggering IL-8 production in human intestinal epithelial cell lines infected with S. Typhimurium ( Gewirtz et al. , 2001a ; Tallant et al. , 2004 ) . 
+In contrast , IL-8 production in human macrophages can be elicited by a variety of S. Typhimurium PAMPs ( Rosenberger et al. , 2000 ; Nau et al. , 2002 ; 2003 ) . 
+We reasoned that the interaction of S. Typhimurium with phagocytes in the lamina propria would be a likely step during which the csg ﬁmbrial gene cluster may elicit host responses in the intestinal mucosa in vivo . 
+We used the human monocytic THP-1 cell line to model this interaction . 
+The ability of the S. Typhimurium wild type ( IR715 ) and a csgBA mutant ( SF15 ) to induce IL-8 expression in THP-1 cells was compared using real-time PCR . 
+As controls , we tested the ability of two strains ( RPW3 and EHW26 ) , lacking individual known PAMPs , to stimulate IL-8 expression . 
+Strain RPW3 carries a mutation in msbB , resulting in expression of a form of LPS in which acylation of lipid A is reduced , thereby preventing recognition through TLR4/MD2/CD14 ( Khan et al. , 1998 ) . 
+Strain EHW26 is non-ﬂagellated attributed to mutations in genes encoding ﬂagellin proteins ( ﬂiC and ﬂjB ) , thereby preventing recognition through TLR5 . 
+To rule out that differences in viability , intracellular survival or cytotoxicity between S. Typhimurium strains may interfere with host responses , THP-1 cells were inoculated with heat-killed bacteria . 
+Compared with the S. Typhimurium wild type , IL-8 mRNA expression elicited by the csgBA mutant , the msbB mutant and the ﬂiCﬂjB mutant in THP-1 cells was reduced ( Fig. 3A ) . 
+Similar results were obtained when IL-8 protein concentrations were determined in culture supernatants by enzyme-linked immunosorbant assay ( ELISA ) ( Fig. 3B ) . 
+Deletion of csgBA reduced IL-8 production elic-ited by S. Typhimurium in THP-1 cells to a similar degree as the lack of known PAMPs , including ﬂagella ( ﬂiCﬂjB mutant ) and intact LPS ( msbB mutant ) . 
+However , the absence of hexa-acylated lipid A ( msbB mutant ) , ﬂagella 
+Fig. 2 . 
+Invasion of human intestinal epithelial cells ( HT-29 ) by S. Typhimurium strains . 
+Bacteria were grown under conditions optimal for expression of the T3SS-1 ( A ) or thin curled ﬁmbriae ( B ) prior to inoculating HT-29 cells . 
+The number of bacteria recovered from the gentamicin protection assay is expressed as the percentage of the number present in the inoculum . 
+Data are shown as geometric means ( bars ) from three independent experiments ± standard error . 
+Fig. 3 . 
+Detection of IL-8 production in THP1 cells 6 h after infection with heat-killed S. Typhimurium strains . 
+The genotype of each bacterial strain used to inoculate THP1 cells is indicated on the x-axis . 
+A. Detection of IL-8 mRNA expression in THP1 cells by real-time PCR . 
+Data are expressed as fold-increases of IL-8 expression in infected THP1 cells over IL-8 expression in uninfected THP1 cells . 
+Data are shown as geometric means ( bars ) from three independent experiments ± standard error . 
+B. Detection of IL-8 protein secretion by THP1 cells using ELISA . 
+Data are shown as averages ( bars ) from three independent experiments ± standard error . 
+Statistical signiﬁcance ( P-value ) between treatment groups ( brackets ) is indicated above . 
+( ﬂiCﬂjB mutant ) or thin curled ﬁmbriae ( csgBA mutant ) did not abolish IL-8 production , presumably because THP-1 cells respond well to numerous PAMPs present on S. Typhimurium cells . 
+That is , although non-ﬂagellated S. Typhimurium cells ( ﬂiCﬂjB mutant ) do not elicit IL-8 production through stimulation of TLR5 by ﬂagellin , other PAMPs ( e.g. LPS ) are still expressed by this strain and are expected to elicit IL-8 production through stimulation of their cognate pathogen recognition receptors ( e.g. TLR4/MD2/CD14 ) . 
+As macrophages express multiple pathogen recognition receptors on their surface , including TLR1 , TLR2 , TLR4 , TLR5 and TLR6 ( Iwasaki and Medzhitov , 2004 ) , the absence of one individual PAMP ( e.g. ﬂa-gella ) is expected to result only in a modest reduction of IL-8 production elicited by whole bacterial cells in THP-1 cells . 
+Thin curled ﬁmbriae stimulate IL-8 expression in cells expressing TLR2
+The csg ﬁmbrial gene cluster of S. Typhimurium encodes the production of thin curled ﬁmbriae , also known as curli or thin aggregative ﬁmbriae ( Grund and Weber , 1988 ; Grund and Seiler , 1993 ; Romling et al. , 1998a ) . 
+To further investigate the mechanism by which the csg ﬁmbrial gene cluster may elicit IL-8 production in host cells , we puriﬁed thin curled ﬁmbriae from the surface of the S. Typhimurium msbB mutant ( to avoid contamination with LPS ) . 
+Preparations of thin curled ﬁmbriae contained a single band detectable by Coo-massie staining that was identiﬁed as CsgA by Western blot using anti-CsgA antiserum ( Fig. 4A ) . 
+We next studied the ability of puriﬁed thin curled ﬁmbriae to stimulate human embryonic kidney ( HEK293 ) cells transfected with human TLR2 , TLR2/CD14 , TLR2/6 , TLR4/MD2/CD14 , TLR5 or murine TLR11 . 
+As control , transfected cells were stimulated with the puriﬁed PAMP ligands for each human TLR , including puriﬁed S. enterica serotype Minnesota LPS for cells transfected with TLR4/MD2/CD14 , puriﬁed S. Typhimurium ﬂagellin for cells transfected with TLR5 and synthetic lipopeptide ( Pam3CSK4 ) for cells transfected with TLR2 , TLR2 / 
+Fig. 4 . 
+Protein analysis by Western blot . 
+A. Analysis of puriﬁed thin curled ﬁmbriae ( TCF ) by Coomassie staining after SDS-PAGE ( left panel ) and by Western blot detected with anti-CsgA serum ( right panel ) . 
+The size of the main protein band ( approximately 17 kDa ) detected by Coomassie staining in preparations of thin curled ﬁmbriae corresponded well with the size predicted for the mature CsgA protein ( left panel ) . 
+The 17 kDa band was labelled with anti-CsgA serum by Western blot ( right panel ) . 
+Position ( bars ) and molecular weights ( in kDa ) of standard proteins are indicated on the left . 
+B. Analysis of GST -- CsgA ( left two lanes ) and GST ( right two lanes ) by Coomassie blue staining ( CB ) and by Western blot detected with anti-CsgA serum ( αCsgA ) . 
+The GST -- CsgA protein ( approximately 36 kDa ) partially degraded during puriﬁcation as indicated by detection of immune reactive bands of approximately 30 kDa and 25 kDa by Western blot . 
+Puriﬁed GST protein was visible by Coomassie staining as an approximately 24 kDa band . 
+Position ( bars ) and molecular weights ( in kDa ) of standard proteins are indicated on the left . 
+C. Analysis of CsgA -- His ( approximately 19 kDa ) and His-STM348 ( approximately 45 kDa ) by Coomassie staining ( left two lanes ) and by Western blot detected with anti-CsgA serum ( right two lanes ) . 
+Position ( bars ) and molecular weights ( in kDa ) of standard proteins are indicated on the left . 
+CD14 and TLR2/6 . 
+IL-8 expression was quantiﬁed using real-time PCR . 
+Murine TLR11 detects a ligand present in uropatho-genic Escherichia coli but absent from the laboratory strain E. coli K-12 ( Zhang et al. , 2004 ) . 
+HEK293 cells transfected with murine TLR11 did not induce IL-8 expression when they were stimulated with puriﬁed thin curled ﬁmbriae of S. Typhimurium ( Fig. 5A ) . 
+TLR5 mediates innate immune responses to bacterial ﬂa-gella ( Hayashi et al. , 2001 ) . 
+HEK293 cells transfected with human TLR5 induced IL-8 expression upon stimulation with puriﬁed S. Typhimurium ﬂagellin but not in response to stimulation with puriﬁed thin curled ﬁmbriae of S. Typhimurium ( Fig. 5A ) . 
+LPS of many Gram-negative bacteria serves as a ligand for a complex formed by TLR4 , MD2 and CD14 ( Poltorak et al. , 1998 ; Shimazu et al. , 1999 ) . 
+HEK293 cells transfected with human TLR4/MD2/CD14 induced IL-8 expression upon stimulation with puriﬁed S. Minnesota LPS but not in response to stimulation with puriﬁed thin curled ﬁmbriae of S. Typhimurium ( Fig. 5A ) . 
+These data suggested that thin curled ﬁmbriae do not serve as a ligand for TLR4/MD2/CD14 , TLR5 or TLR11 . 
+TLR2 mediates innate immune responses to a variety of ligands , including lipoprotein ( Aliprantis et al. , 1999 ; Schwandner et al. , 1999 ) . 
+Synthetic lipopeptide ( Pam3CSK4 ) and puriﬁed thin curled ﬁmbriae of S. Typhimurium stimulated IL-8 expression in HEK293 cells transfected with human TLR2 and TLR2/6 at similar levels ( Fig. 5B ) . 
+HEK293 cells transfected with human TLR2/CD14 responded to both ligands with higher levels of IL-8 expression when compared with TLR2 transfected cells ( Fig. 5B ) . 
+Therefore , HEK293 cells transfected with human TLR2/CD14 were used for further experiments . 
+Overall these data suggested that thin curled ﬁmbriae stimulated IL − 8 expression through interaction with TLR2 . 
+However , the possibility that ﬁmbrial preparations were contaminated with another bacterial PAMP responsible for eliciting chemokine production remained to be ruled out . 
+Fig. 5 . 
+Detection of IL-8 expression elicited in HEK293 cells by puriﬁed thin curled ﬁmbriae ( TCF ) , LPS , ﬂagella or lipopeptide ( LP ) . 
+A. HEK293 cells transfected with human TLR5 , human TLR4/MD2/CD14 or murine TLR11 . 
+B. HEK293 cells transfected with human TLR2 , human TLR4/CD14 or human TLR2/TLR6 . 
+Data are expressed as fold-increases of IL-8 expression in HEK293 cells stimulated with PAMPs over IL-8 expression in unstimulated HEK293 cells . 
+Data are shown as geometric means ( bars ) from three independent experiments ± standard error . 
+CsgA induces IL-8 expression through TLR2 stimulation
+The csg ﬁmbrial gene cluster consists of two operons , csgBAC and csgDEFG ( Romling et al. , 1998a ) . 
+The major ﬁmbrial subunit CsgA was the main component of thin curled ﬁmbrial preparations ( Fig. 4A ) . 
+However , the csgG gene encodes a lipoprotein involved in ﬁmbrial assembly , thereby raising the possibility that the presence of small amounts of CsgG in preparations of puriﬁed thin curled ﬁmbriae may be responsible for stimulation of TLR2 . 
+To further study the mechanism by which thin curled ﬁmbriae may elicit IL-8 production in host cells , we puriﬁed soluble glutathione-S-transferase ( GST ) -- CsgA fusion protein from the E. coli cytosol by afﬁnity chromatography using glutathione sepharose ( Fig. 4B ) . 
+As a control , GST was puriﬁed by the same method from E. coli . 
+The GST -- CsgA fusion protein degraded partially during puriﬁcation , giving rise to degradation products that reacted with anti-CsgA antiserum ( Fig. 4B ) . 
+Puriﬁed GST and GST -- CsgA proteins were added to HEK293 cells transfected with human TLR2/CD14 and IL-8 expression was determined using real-time PCR . 
+Puriﬁed GST -- CsgA fusion protein , but not puriﬁed GST protein , elicited IL-8 expression in HEK293 cells transfected with human TLR2/CD14 in a dose-dependent manner ( Fig. 6A ) . 
+Fig. 6 . 
+Detection of IL-8 expression elicited by puriﬁed proteins in HEK293 cells transfected with human TLR2/CD14 . 
+A . 
+The indicated amounts of puriﬁed GST ( open squares ) or GST -- CsgA ( open circles ) were added to wells and IL-8 expression detected by real-time PCR . 
+Data are expressed as fold-increases of IL-8 expression elicited in cells stimulated with proteins over IL-8 expression in unstimulated cells . 
+Data are shown as geometric means ( bars ) from three independent experiments ± standard deviation . 
+B . 
+The indicated amounts of puriﬁed His -- STM438 ( open squares ) or CsgA -- His ( open circles ) were added to wells containing HEK293 cells transfected with human TLR2/CD14 . 
+IL-8 expression was detected by real-time PCR . 
+Data are expressed as fold-increases of IL-8 expression in cells stimulated with proteins over IL-8 expression in unstimulated cells . 
+Data are shown as geometric means ( bars ) from three independent experiments ± standard deviation . 
+We next conﬁrmed that induction of IL-8 expression detected by real-time PCR ( Fig. 6A ) leads to secretion of IL-8 by HEK293 cells transfected with human TLR2/CD14 . 
+Puriﬁed GST and GST -- CsgA proteins were added to HEK293 cells transfected with human TLR2/CD14 and IL-8 secretion measured using ELISA . 
+Cells incubated with GST -- CsgA released signiﬁcantly more IL-8 than cells incubated with the GST control protein ( Fig. 7 ) . 
+To further test whether induction of IL-8 expression was attributed to CsgA , we constructed a 6 × histidine-tagged CsgA fusion protein . 
+As a negative control , we constructed a 6 × histidine-tagged fusion to an unrelated protein ( open reading frame STM438 ) of S. Typhimurium . 
+His-tagged proteins were puriﬁed from the E. coli cytosol under denaturing conditions by afﬁnity chromatography using Ni-NTA resin ( Fig. 4C ) . 
+The ability of puriﬁed CsgA -- His and His -- STM438 to stimulate the IL-8 expression in HEK293 cells transfected with human TLR2/CD14 was assessed by real-time PCR . 
+Puriﬁed CsgA -- His but not puriﬁed His -- STM438 induced IL-8 expression in HEK293 cells transfected with human TLR2/CD14 in a concentra-tion-dependent manner ( Fig. 6B ) . 
+Proteinase K digestion followed by heat-denaturation was performed to further test whether TLR2/CD14 transfected HEK293 cells respond either to stimulation by GST -- CsgA or to stimulation by a possible lipoprotein contamination present in the GST -- CsgA preparation . 
+Protein-ase K digestion did not reduce the ability of synthetic lipopeptide ( Pam3CSK4 ) to induce IL-8 secretion in HEK293 cells transfected with human TLR2/CD14 . 
+In contrast , proteinase K treatment resulted in a signiﬁcant reduction of IL-8 secretion elicited by GST -- CsgA ( Fig. 7 ) . 
+The fact that IL-8 secretion elicited by GST -- CsgA was sensitive to proteinase K treatment while that elicited by synthetic lipopeptide was not affected by proteinase K treatment further supported the idea that TLR2 stimulation by GST -- CsgA was not attributed to a contamination with lipoprotein . 
+Collectively , these data provided strong evidence that thin curled ﬁmbriae of S. Typhimurium stimulate innate immune responses in host cells because CsgA is a structural signature recognized by TLR2 . 
+Stimulation of murine macrophages by CsgA depends on TLR2
+To further test whether CsgA is a TLR2 ligand , we determined the ability of bone marrow-derived macrophages from TLR2 + / + mice and TLR2 -- / -- mice to respond to stimulation with GST -- CsgA or with GST . 
+As mice do not produce IL-8 , TLR signalling by murine macrophages was monitored by measuring IL-6 protein secretion using ELISA . 
+Unstimulated macrophages from TLR2 + / + mice and TLR2 -- / -- mice released less than 130 pg ml − 1 of IL-6 into the culture medium ( data not shown ) . 
+Stimulation of murine bone marrow-derived macrophages from TLR2 + / + mice and TLR2 -- / -- mice with puriﬁed GST protein resulted in similar amounts ( between approximately 2700 pg ml − 1 and 2800 pg ml − 1 ) of IL-6 release , suggesting that the preparation was contaminated with a PAMP ( presumably LPS ) that is not recognized by TLR2 ( Fig. 8 ) . 
+Stimulation of bone marrow-derived macrophages from TLR2 + / + mice with GST -- CsgA resulted in signiﬁcantly higher ( P = 0.037 ) IL-6 production than stimulation with the GST control . 
+In contrast , IL-6 production elicited by stimulation of bone marrow-derived macrophages from TLR2 -- / -- mice with GST -- CsgA was reduced to the level elicited by stimulation with the GST control ( Fig. 8 ) . 
+The ﬁnding that differences in IL-6 production elicited by stimulation with GST and GST -- CsgA could only be observed in murine macrophages that expressed TLR2 conﬁrmed the notion that CsgA is a structural signature recognized by TLR2 , but not by other TLRs expressed by macrophages . 
+Fig. 7 . 
+Detection of IL-8 secretion by ELISA in HEK293 cells transfected with human TLR2 / CD14 . 
+Cells were incubated with preparations of synthetic lipopeptide ( Lpp ) 10 μg ml − 1 , GST -- CsgA ( 8 μg ml − 1 ) or GST ( 8 μg ml − 1 ) that were either untreated ( Proteinase K -- ) or previously treated with proteinase K followed by heat-denaturation ( Proteinase K + ) . 
+After an incubation period of 6 h , the IL-8 concentration ( pg ml − 1 ) in the culture medium was determined by ELISA . 
+Data are shown as averages ( bars ) from three independent experiments ± standard errors . 
+Statistical signiﬁcance ( P-value ) between treatment groups ( brackets ) is indicated above . 
+Discussion
+Thin curled ﬁmbriae were ﬁrst described as a novel surface structure of S. Typhimurium ( Grund and Weber , 1988 ) . 
+Subsequently , similar surface structures were identiﬁed in E. coli , where they were termed curli ( Olsen et al. , 1989 ) and in S. enterica serotype Enteritidis , where they were termed thin aggregative ﬁmbriae ( Collinson et al. , 1991 ) . 
+N-terminal sequencing of the major subunit of thin curled ﬁmbriae identiﬁed them as orthologues of E. coli curli and S. Enteritidis thin aggregative ﬁmbriae ( Stolpe et al. , 1994 ) . 
+Sequence analysis reveals that the nucle-otide sequence and operon structure of the gene cluster ( termed csg or agf ) encoding thin curled ﬁmbriae is highly conserved between E. coli and Salmonella serotypes ( Romling et al. , 1998a ) . 
+The csg ﬁmbrial biosynthesis gene cluster is furthermore found in Citrobacter spp. , Enterobacter spp. , Shigella spp . 
+and Klebsiella spp . 
+( Sakellaris et al. , 2000 ; Zogaj et al. , 2003 ) . 
+Thin curled ﬁmbriae may thus be a structural signature characteristic of a group of Gram-negative bacteria that belong to the family Enterobacteriaceae , including several important pathogens of humans and other mammals . 
+Thin curled ﬁmbriae were originally reported to be expressed at temperatures below 37 °C in E. coli K-12 in vitro ( Olsen et al. , 1989 ) . 
+However , unlike the E. coli laboratory strain K-12 , in which expression of thin curled ﬁmbriae is only observed at 28 °C , a signiﬁcant fraction of E. coli isolates from patients with sepsis express thin curled ﬁmbriae at 37 °C ( Bian et al. , 2000 ) . 
+In S. Typhimurium , expression of thin curled ﬁmbriae is restricted to low temperature on plates containing rich medium with low osmolarity , but biogenesis of thin curled ﬁmbriae occurs upon iron starvation ( a condition encountered in the mammalian host ) at 37 °C ( Romling et al. , 1998b ) . 
+Seroconversion of mice to CsgA provides indirect evidence for in vivo expression of thin curled ﬁmbriae by S. Typhimurium ( Humphries et al. , 2005 ) . 
+Finally , patients recovering from E. coli sepsis have antibodies against CsgA , suggesting that thin curled ﬁmbriae are expressed during infection ( Bian et al. , 2000 ) . 
+The ﬁrst evidence that thin curled ﬁmbriae may be a structural signature that stimulates the innate immune system was provided by the ﬁnding that E. coli expressing this surface structure elicits signiﬁcantly higher levels of IL-8 in THP-1 cells than non-ﬁmbriated cells ( Bian et al. , 2000 ) . 
+Furthermore , infection with E. coli expressing thin curled ﬁmbriae results in more severe hypotension and higher plasma nitrite/nitrate levels in a mouse sepsis model than infection with cells not expressing this surface structure ( Bian et al. , 2001 ) . 
+Our data provided further support for the idea that thin curled ﬁmbriae stimulate innate pathways of inﬂammation in vivo because deletion of csgBA resulted in reduced ﬂuid accumulation and inﬂammation elicited during S. Typhimurium infection of bovine ligated ileal loops ( Fig. 1 ) . 
+Once S. Typhimurium crosses the epithelium and reaches the lamina propria of the bovine ileum , it is located within mononuclear cells ( macrophages and/or dendritic cells ) ( Frost et al. , 1997 ; Santos et al. , 2002 ) , which seem to play an important role in the host response to infection . 
+S. Typhimurium survives within macrophages by employing a T3SS encoded by SPI2 ( Ochman et al. , 1996 ) . 
+Experiments using a mouse model of S. Typhimurium-induced gastroenteritis show that SPI2-dependent intestinal inﬂammation depends on the TLR adapter protein MyD88 ( Hapfelmeier et al. , 2005 ) . 
+These data support the idea that during invasion of the intestinal mucosa in vivo , macrophages infected with S. Typhimurium contribute to inﬂammation because their TLRs are stimulated by bacterial PAMPs . 
+Macrophages are known to express on their surface a large repertoire of pathogen recognition receptors that recognize bacterial ligands , including TLR1 , TLR2 , TLR4 , TLR5 and TLR6 [ reviewed in the study by Iwasaki and Medzhitov ( 2004 ) ] . 
+Whole bacteria contain agonists for multiple TLRs and microarray analysis of gene expression changes shows that the macrophage response to whole bacteria is dominated by the accumulated input from multiple TLRs ( Nau et al. , 2003 ) . 
+As a consequence , stimulation of macroph-ages with S. Typhimurium mutants lacking only one individual PAMP , such as hexa-acylated Lipid A ( TLR4 agonist ) or ﬂagella ( TLR5 agonist ) , resulted only in a small but signiﬁcant reduction of IL-8 production compared with the response elicited by wild-type S. Typhimurium ( Fig. 3 ) . 
+A small , but signiﬁcant reduction of IL-8 production was also observed when macrophages were infected with a csgBA mutant , suggesting that thin curled ﬁmbriae are one of the TLR agonists present on whole bacteria ( Fig. 3 ) . 
+Subsequent experiments with puriﬁed CsgA fusion proteins conﬁrmed that thin curled ﬁmbriae stimulated innate inﬂammatory responses in human cells in vitro by serving as a ligand for TLR2 ( Figs 6 -- 8 ) . 
+The observation that deletion of csgBA caused a small but signiﬁcant reduction in IL-8 production elicited by S. Typhimurium in macrophages further suggested that recognition of thin curled ﬁmbriae can only account for a fraction of the host response observed during infection of bovine ligated ileal loops , because several other TLR agonists ( e.g. ﬂagellin and LPS ) are expected to equally contribute to inﬂammation . 
+Consistent with this idea , ﬂuid accumulation in bovine ligated ileal loops infected with a csgBA mutant was only reduced to about 80 % of wildtype levels ( Fig. 1A ) . 
+Similarly , a non-ﬂagellated S. Typhimurium mutant ( ﬂiCﬂjB mutant ) has previously been shown to cause ﬂuid accumulation in bovine ligated ileal loops at approximately 80 % of wild-type levels ( Schmitt et al. , 2001 ) . 
+These data suggest that thin curled ﬁmbriae ( TLR2 agonist ) and ﬂagella ( TLR5 agonist ) may equally contribute to host responses elicited in bovine ligated ileal loops . 
+In conclusion , the observation that the absence of a single TLR agonist caused a small but signiﬁcant reduction in host responses detected in vivo ( Fig. 1 ) and in vitro ( Fig. 3 ) suggests that multiple TLR agonists contribute to the pathogenesis of gastroenteritis . 
+Thin curled ﬁmbriae join a growing list of bacterial ligands that are recognized by TLR2 . 
+These include ligands that are important for recognition of Gram-positive bacteria and Mycobacterium , such as lipoteichoic acid ( Schwandner et al. , 1999 ) and lipoarabinomannan ( Means et al. , 1999 ) . 
+The suggestion that TLR2 may recognize peptidoglycan of Gram-negative bacteria ( Takeu-chi et al. , 1999 ) has recently been called into question ( Travassos et al. , 2004 ) . 
+Neisserial porins stimulate TLR2 ( Massari et al. , 2002 ) , but given the limited sequence conservation among outer membrane proteins , this PAMP is not likely to contribute to innate immune recognition of Enterobacteriaceae . 
+In contrast , lipoprotein is a TLR2 agonist that is widely conserved among both Gram-posi-tive and Gram-negative bacteria and likely contributes to TLR2 stimulation by whole bacterial cells ( Aliprantis et al. , 1999 ; Schwandner et al. , 1999 ) . 
+Finally , puriﬁed Porphyromonas gingivalis ﬁmbriae stimulate innate immunity through TLR2 ( Asai et al. , 2001 ) . 
+However , the ability of P. gingivalis ﬁmbriae to stimulate TLR2 is likely attrib-uted to a ﬁmbriae-associated 12-kDa lipoprotein ( Hajish-engallis et al. , 2002 ) . 
+In contrast , thin curled ﬁmbriae of S. Typhimurium stimulated TLR2 through its major subunit , CsgA ( Fig. 6 ) . 
+Unlike stimulation of TLR2 with synthetic lipopeptide , stimulation with GST -- CsgA was sensitive to pretreatment with proteinase K ( Fig. 7 ) , suggesting that TLR2 stimulation by thin curled ﬁmbriae was not caused by lipoprotein contamination . 
+These data identiﬁed CsgA as a new TLR2 agonist . 
+Stimulation of HEK293 cells transfected with human TLR2/CD14 with synthetic lipopeptide ( 10 μg ml − 1 ) elicited approximately twofold higher IL-8 production than stimulation with GST -- CsgA ( 8 μg ml − 1 ) . 
+Considering the molecular weight of lipopeptide ( approximately 2 kDa ) and GST -- CsgA ( approximately 40 kDa ) , cells were stimulated with a 25-fold higher concentration of lipopeptide ( 5 μM ) than of GST -- CsgA ( 0.2 μM ) . 
+The actual amount of GST -- CsgA added to cells was likely even lower as the fusion protein was unstable and the preparation contained degradation products ( Fig. 4 ) . 
+Collectively , these data show that CsgA is a strong agonist for TLR2 , suggesting that thin curled ﬁmbriae contribute signiﬁcantly to TLR2-mediated host responses elicited by a subgroup of Gram-negative bacteria belonging to the family Enterobacteriaceae . 
+Fig. 8 . 
+Detection of IL-6 secretion by bone marrow-derived macrophages fromTLR2 + / + and TLR2 -- / -- mice . 
+Macrophages were stimulated with puriﬁed GST -- CsgA ( 8 μg ml − 1 ) or GST ( 8 μg ml − 1 ) for 24 h and IL-6 release into the supernatant was determined by ELISA . 
+Data are shown as means ( bars ) from three independent experiments ± standard errors . 
+Statistical signiﬁcance ( P-value ) between treatment groups ( brackets ) is indicated above . 
+Experimental procedures
+Bacterial strains and growth conditions
+Strains 14028 ( American Type Culture Collection ) and SR11 ( Schneider and Zinder , 1956 ) are S. Typhimurium wild-type isolates . 
+A SR11 derivative carrying a deletion in the ﬁm operon ( AJB4 ) has been described previously ( Bäumler et al. , 1996 ) . 
+We recently constructed derivatives of S. Typhimurium strain SR11 carrying deletions of either csgBA ( ADH20 ) , pefBACDI ( ADH19 ) , lpfABCDE ( ADH24 ) , bcfABCDEFG ( ADH14 ) , stbABCD ( ADH22 ) , stcABC ( ADH23 ) , stdAB ( ADH17 ) , stfACDEFG ( ADH16 ) , sthABCDE ( ADH21 ) or stiABCDE ( ADH18 ) ( Humphries et al. , 2003 ) . 
+Strain IR715 is a fully virulent spontaneous nalidixic acid resistant derivative of S. Typhimurium strain 14028 ( Stojiljk-ovic et al. , 1995 ) . 
+A derivative of IR715 carrying a deletion of csgAB ( SF15 ) has been described elsewhere ( Weening et al. , 2005 ) . 
+A 14028 derivative carrying a non-polar deletion of the sipB gene ( CAS152 ) has been described previously ( Tsolis et al. , 2000 ) . 
+Mutations in ﬂjB and ﬂiC have been described recently ( Schmitt et al. , 2001 ) and were introduced into the S. Typhimurium 14028 chromosome by P22 transduction yielding strain EHW26 ( Raffatellu et al. , 2005b ) . 
+A mutation in msbB has been described elsewhere ( Khan et al. , 1998 ) and was introduced into S. Typhimurium strain 14028 by P22 transduction to yield strain RPW3 ( Raffatellu et al. , 2005b ) . 
+E. coli strains DH5α ( Grant et al. , 1990 ) and BL21 ( DE3 ) Star ( Invitrogen ) have been described previously . 
+For infection of loops , bacteria were grown statically in Luria -- Bertani ( LB ) broth . 
+For optimal expression of thin curled ﬁmbriae bacteria were grown on solid T medium at ° 30 C for 48 h ( Collinson et al. , 1991 ) . 
+For optimal expression of T3SS-1 , 4 ml LB broth were inoculated with 0.04 ml of an overnight culture and incubated for 3 h at 37 °C . 
+For stimulation of THP-1 cells , bacteria were grown at conditions optimal for expression of thin curled ﬁmbriae , resuspended in phosphate buffered saline ( PBS ) at equal optical density ( OD600 ) and were heat-killed by incubation at 65 °C for 20 min . 
+Animal experiments
+Six male Holstein calves , 5 weeks old , were used for bovine ligated ileal loop surgery . 
+The calves were fed milk replacer twice a day and water ad libitum . 
+The calves were clinically healthy before the experiment and were culture negative for faecal excretion of Salmonella serotypes . 
+Detection of Sal-monella serotypes in faecal swabs was performed by enrichment in tetrathionate broth ( Difco ) and subsequent streaking on brilliant green agar ( BBL ) . 
+The calves were fasted for 24 h prior to the surgery . 
+Ligated ileal loops surgery was performed as described previously ( Santos et al. , 2001 ) . 
+Anaesthesia was induced with Propofol ( Propoﬂo , Abbot Laboratories , Chicago , IL ) followed by placement of an endot-racheal tube and maintenance with Isoﬂuorane ( Isoﬂo , Abbot Laboratories , Chicago , IL ) . 
+A laparotomy was performed , the ileum exposed and loops with length ranging from 6 to 9 cm ligated , leaving 1 cm loops between them . 
+The loops were infected by intralumenal injection of 3 ml of sterile LB broth or a bacterial suspension containing approximately 7.5 × 108 colony forming units ( cfu ) ml − 1 . 
+Each bacterial strain was tested in at least three different animals . 
+The loops were replaced into the abdominal cavity . 
+Tissue for mRNA isolation was collected at 2 h after infection . 
+Fluid accumulated in loops was determined at 8 h after inoculation and tissue samples were collected . 
+Biopsy punches collected at 8 h after infection were washed in PBS , treated with gentamicin ( 100 μg ml − 1 ) for 90 min at 37 °C and homogenized to determine tissue associated cfu by plating serial 10-fold dilutions on plates containing the appropriate antibiotics . 
+Alternatively , biopsy punches were processed for histopathologic analysis by ﬁxing tissue samples in formalin , processing them according to standard procedures for parafﬁn embedding , sectioning them at 5 μm , and staining them with haematoxylin and eosin . 
+Inﬂammatory changes were scored from 1 to 5 according to the following criteria : 1 , intravascular inﬁltration of neutrophils ; 2 , margination and perivascular inﬁltration of neutrophils and/or mild diffuse inﬁltration of neutrophils at the tips of absorptive villi ; 3 , moderate diffuse inﬁltration of neutrophils in the mucosa and perivascular multifocal inﬁltration in the submucosa ; 4 , severe diffuse inﬁltration of neutrophils in the mucosa and mild-to-moderate inﬁltration in the submucosa ; and 5 , severe diffuse inﬁltration of neutrophils throughout the mucosa and submucosa associated with oedema and necrosis of the mucosa . 
+Isolation of bone marrow-derived macrophages from mice
+TLR2-deﬁcient mice ( TLR2 -- / -- ) ( Takeuchi et al. , 1999 ) were obtained from Jackson Laboratory and bred at Cedars-Sinai Medical Center according to IACUC guidelines . 
+The TLR2-deﬁcient mice are on a C57BL/6 background and macroph - + / + ages from C57BL/6 mice ( TLR2 ) ( Jackson Laboratory ) were used as controls . 
+Bone marrow cells were ﬂushed from femurs and tibias of mice by complete medium [ Dulbecco 's modiﬁed Eagle 's medium ( DMEM ) , 10 % fetal bovine serum , − 1 2 mM glutamine , 100 μg ml penicillin and streptomycin ] and washed three times with complete medium . 
+Cells were cultured for 3 days in complete medium supplemented with murine M-CSF ( Biosource International , Camarillo , USA ) . 
+On day 3 adherent cells were fed with fresh M-CSF containing medium . 
+On day 6 adherent cells were fed with complete DMEM and used in experiments on day 8 . 
+Brieﬂy , macroph-ages were stimulated with puriﬁed GST , GST -- CsgA , His -- STM438 and CsgA -- His proteins for 24 h. Supernatants were harvested and assessed for cytokine release using murine IL-6 ELISA kit according to the manufacturer 's instructions ( BD Biosciences , San Diego , USA ) . 
+Protein puriﬁcation
+Puriﬁcation of thin curled ﬁmbriae from the surface of the S. Typhimurium msbB mutant ( RPW3 ) was performed by a previously established protocol ( Collinson et al. , 1991 ) . 
+In brief , contaminating cell macromolecules were removed from sonicated cell extracts by enzymatic digestion and preparative sodium dodecyl sulphate-polyacrylamide gel electro-phoresis ( SDS-PAGE ) . 
+Insoluble ﬁmbriae were recovered from the well of the gel . 
+A plasmid containing the csgA gene cloned into the GST fusion protein vector pGEX-4T-2 ( pSW5-50 ) has been described previously ( Humphries et al. , 2003 ) . 
+DH5α ( pGEX-4T-2 ) and DH5α ( pSW5-50 ) cells were grown to an OD600 of 0.6 and expression of GST ( encoded by pGEX-4T-2 ) or the GST -- CsgA fusion protein ( encoded by pSW5-50 ) induced with 1 mM Isopropyl-β-D-thiogalactopyranoside ( IPTG , SIGMA ) . 
+After 3 h incubation , bacteria were harvested by centrifugation at 10 000 g for 20 min . 
+The bacterial pellet was resuspended in 15 ml PBS and 5 ml protease inhibitor cocktail ( SIGMA , St Louis ) were added . 
+Cells were lysed using a French press at 12 000 psi . 
+GST and the GST -- CsgA fusion protein were puriﬁed by afﬁnity chromatography from the soluble fraction using glutathione sepharose ( Amersham Pharmacia ) according to the manufacturer 's instructions . 
+The protein concentration in each sample was determined by Bradford assay ( Ausubel et al. , 1994 ) . 
+A carboxy terminal 6 × histidine-tagged fusion to CsgA was constructed by amplifying csgA with primers 5 ′ - caccat gaaacttttaaaagtggcag-3 ′ and 5 ′ - atactggttagccgtggcgttg-3 ′ . 
+The resulting PCR product was cloned into the pET101/DTOPO vector ( Invitrogen ) giving rise to plasmid pAH132-13 . 
+The primers 5 ′ - cgggatccccgcaagcaataaagtac-3 ′ and 5 ′ - acgcgtcgaccgttttcagtaaatcaac-3 ′ were used to amplify STM438 . 
+The PCR product was digested with BamHI and SalI and ligated into expression vector pQE30 ( Qiagen ) giving rise to plasmid pHA438 . 
+BL21 ( DE3 ) Star ( Invitrogen ) cells were transformed with pAH132-13 or pHA438 . 
+Log phase cultures were induced to express CsgA -- His and His -- STM438 by the addition of 1 mM IPTG at 30 °C and 37 °C respectively . 
+The CsgA -- His and His -- STM438 fusion proteins were puriﬁed under denaturing conditions according to instructions by the manufacturer using Ni-NTA Agarose ( Qiagen ) . 
+Western blot
+Analysis of thin curled ﬁmbriae by immuno-blot was performed by solubilizing proteins through brief treatment with 90 % formic acid , freezing , and removal of acid with a Speed Vac concentrator for 1 h . 
+The sample was resuspended in SDS-PAGE sample buffer , boiled for 10 min and analysed by SDS-PAGE on a 15 % gel . 
+Analysis of afﬁnity chromatography puriﬁed fusion proteins by immuno-blot was performed by separating proteins by SDS-PAGE on a 12 % gel . 
+After electrophoresis , proteins were transferred to Immobilon-P membrane ( Millipore ) using a Trans-Blot SD semi-dry electrophoretic transfer cell ( Bio-Rad ) according to the manufacturer 's instructions . 
+Blots were blocked in PBS containing 5 % non-fat dry milk , 0.05 % Tween 20 , and 0.02 % NaN3 ( blocking buffer ) at room temperature for 1 h or overnight at 4 °C . 
+Each blot was incubated for 1 h at room temperature with a 1:1000 dilution of rabbit anti-CsgA serum described previously ( Humphries et al. , 2003 ) . 
+Blots were washed three times for 5 min with blocking buffer and detected with goat anti-rabbit alkaline phosphatase conjugate ( Bio-Rad ) in blocking buffer at room temperature for 1 h with agitation . 
+All blots were then washed three times for 5 min with blocking buffer and three times in PBS . 
+Signal was generated using Immun-star substrate ( Bio-Rad ) . 
+Tissue culture
+The human colon carcinoma cell line HT-29 has been described previously ( Fogh and Trempe , 1975 ) and was obtained from ATCC . 
+HT-29 cells were grown in McCoy 's 5a medium with 1.5 mM L-glutamine ( Gibco ) supplemented with 10 % fetal calf serum ( FCS ) . 
+For invasion assays , cells were seeded at 2.5 × 105 cells per well in 24-well plates and the invasion assay was performed on the following day . 
+Invasion assays were performed by infecting HT-29 cells with S. Typhimurium strains at approximately 1 × 107 cfu per well . 
+The infected HT-29 cells were incubated for 1 h at 37 °C and 5 % CO2 to allow for invasion . 
+Each well was washed ﬁve times with sterile PBS ( KCl 2.7 mM , KH2PO4 1.8 mM , NaCl 140 mM , Na2HPO4 10 mM , pH 7.4 ) to remove extracellular bacteria , and medium containing gentamicin ( 0.1 mg ml − 1 ) was added for a 90 min incubation at 37 °C 5 % CO2 . 
+After three washes with PBS , the cells were lysed with 0.5 ml of 1 % Triton X-100 , the lysates transferred to sterile tubes and each well rinsed with 0.5 ml of PBS . 
+Ten-fold serial dilutions were plated to enumerate the intracellular bacteria . 
+Human monocytic cell line THP-1 was kindly provided by Dr Vernon Tesh . 
+THP-1 cells were maintained in RPMI 1640 medium ( Gibco ) containing 10 % FCS . 
+To differentiate monocytes into macrophages , cells were seeded at 5 × 105 cells per well into 24-well plates and stimulated with 50 ng ml − 1 phorbol myristic acid ( PMA ) ( Sigma ) at 37 °C 5 % CO2 for 48 h. Cells were washed twice with PBS before adding fresh medium and incubation for up to 5 days . 
+Bacteria were grown at optimal conditions for expression of thin curled ﬁmbriae and the OD600 determined for estimation of bacterial numbers in the inoculum . 
+Prior to inoculation , bacteria were heat-killed by incubation at 65 °C for 20 min ( an undiluted sample was plated on LB agar to ensure that bacteria had been killed by the heat treatment ) . 
+An approximately 10:1 ( killed bacterium to host cell ) ratio was used for stimulation of THP-1 cells . 
+At 6 h after inoculation , RNA was extracted from cells as described below . 
+HEK293 cells stably transfected with hTLR4/MD2/CD14 , hTLR5 , hTLR2 , hTLR2/6 and hTLR2/CD14 were purchased from Invivogen . 
+Cells were maintained in DMEM with glucose ( 4.5 g l − 1 ) and 10 % FCS supplemented with blasticidin or hygromycin according to the manufacturer 's instructions . 
+HEK293 cells transfected with murine TLR11 were kindly provided by Dr Sankar Ghosh ( Zhang et al. , 2004 ) . 
+Cells were maintained in DMEM with 10 % FCS . 
+For stimulation experiments , HEK293 cells were seeded at 1 × 106 cells per well . 
+Ultra-pure S. enterica serotype Minnesota LPS , puriﬁed S. Typhimurium ﬂagella and synthetic lipopeptide ( Pam3CSK4 ) were purchased from Invivogen . 
+After overnight incubation appropriate ligands were added to the wells at the following ﬁnal concentrations : 10 μg ml − 1 LPS , 10 μg ml − 1 ﬂagellin , 10 μg ml − 1 lipopeptide , 5 μg ml − 1 puriﬁed thin curled ﬁmbriae , 8 μg ml − 1 GST -- CsgA , 8 μg ml − 1 GST , 4 μg ml − 1 CsgA -- His or 4 μg ml − 1 His -- STM438 . 
+For proteinase K treatment , ligands ( lipopeptide , GST -- CsgA or GST ) were treated with 1.5 mg ml − 1 proteinase K for 1 h at 37 °C , followed by heat inactivation of the enzyme by heat treatment ( 100 °C for 5 min ) , which was performed prior to adding samples to wells . 
+At 6 h after inoculation , RNA was extracted from cells as described below . 
+Supernatants were harvested at 6 h after inoculation and assessed for cytokine release using a human IL-8 ELISA kit according to the manufacture 's instructions ( BD Biosciences , San Diego , USA ) . 
+Real-time PCR
+To quantify the differences in CXC chemokine gene expression of tissue culture cells , real-time PCR analyses was performed with total RNA samples that were prepared using TRIzol reagent ( Molecular Research center ) at 6 h post inoculation . 
+Tissue collected 2 h after infection of bovine ligated ileal loops was snap frozen . 
+RNA was extracted from snap frozen tissue with 1 ml of Tri-reagent ( Molecular Research Center ) according to instructions by the manufacturer . 
+Realtime PCR was performed using the SYBR Green method according to instructions provided by the manufacturer of the PCR kit ( Applied Biosystems , CA ) . 
+Primers for human glyceraldehyde 3-phosphate dehydrogenase ( GAPDH ) were designed using Primer Express ( Applied Biosystems , CA ) . 
+Primers for ampliﬁcation of human IL-8 and bovine GROα have been described previously ( Stylianou et al. , 2002 ; Zhang et al. , 2003b ) . 
+Reverse transcription of total RNA ( 1 μg ) in 25 μl 5.5 mM MgCl2 , 500 μM dNTPs , 2.5 μM random hexamers , and 1.25 U μl − 1 MultiScribe Reverse Transcriptase was performed at 48 °C for 30 min . 
+Real-time PCR was performed for each cDNA sample ( 5 μl per reaction ) in duplicate using gene-speciﬁc primers ( 300 nM ) and an ABI Prism 7700 thermocycler ( 95 °C for 10 min followed by 40 cycles of 95 °C for 15 s and 60 °C for 1 min ) . 
+The threshold cycle ( CT ) value was determined for each sample and the mRNA concentration for each target gene quantiﬁed using a comparative CT method ( Applied Biosystems , CA ) . 
+Real-time PCR ampliﬁcation of GAPDH transcripts was used to normalize the cDNA concentrations of different samples . 
+The normalized amount of transcripts relative to the amount of transcripts present in samples from an uninfected control loop was given as 2-DCT ± S , where S is the standard deviation . 
+Statistical analysis
+For analysis of ratios ( i.e. data expressed as fold-increases or as percentage values ) data were transformed logarithmically . 
+Geometric means were determined and statistical signiﬁcance of differences was calculated using parametric tests . 
+A one-tailed paired Student 's t-test was used to determine whether differences were statistically signiﬁcant . 
+Acknowledgements
+We would like to thank Renée M. Tsolis for her assistance during calf surgery , Moshe Arditi for his help and advice with mouse experiments and Eric Weening for his help performing phage transduction . 
+Work in A.B. 's laboratory is supported by USDA/NRICGP Grant 2002-35204-12247 and Public Health Service Grants AI40124 and AI44170 . 
+H.A.-P . 
+is supported by Public Health Service Grant AI52250 . 
+J.F.F. is supported by CAPES , Brazil . 
+References 
+Ahmer , B. , Vanreeuwijk , J. , Timmers , C.D. , Valentine , P.J. , and Heffron , F. ( 1998 ) Salmonella typhimurium encodes an sdia homolog , a putative quorum sensor of the luxr family , that regulates genes on the virulence plasmid . 
+J Bacteriol 180 : 1185 -- 1193 . 
+Aliprantis , A.O. , Yang , R.B. , Mark , M.R. , Suggett , S. , Devaux , 
+B. , Radolf , J.D. , et al. ( 1999 ) Cell activation and apoptosis by bacterial lipoproteins through toll-like receptor-2 . 
+Science 285 : 736 -- 739 . 
+Asai , Y. , Ohyama , Y. , General , K. , and Ogawa , T. ( 2001 ) Bacterial ﬁmbriae and their peptides activate human gingival epithelial cells through Toll-like receptor 2 . 
+Infect Immun 69 : 7387 -- 7395 . 
+Ausubel , F.M. , Brent , R. , Kingston , R.E. , Moore , D.D. , Seidman , J.G. , Smith , J.A. , and Struhl , K. ( eds ) . 
+( 1994 ) Current Protocols in Molecular Biology . 
+New York : J. Wiley and Sons . 
+Bäumler , A.J. , Tsolis , R.M. , and Heffron , F. ( 1996 ) Contribution of ﬁmbrial operons to attachment to and invasion of epithelial cell lines by Salmonella typhimurium . 
+Infect Immun 64 : 1862 -- 1865 . 
+Bian , Z. , Brauner , A. , Li , Y. , and Normark , S. ( 2000 ) Expression of and cytokine activation by Escherichia coli curli ﬁbers in human sepsis . 
+J Infect Dis 181 : 602 -- 612 . 
+Bian , Z. , Yan , Z.Q. , Hansson , G.K. , Thoren , P. , and Normark , S. ( 2001 ) Activation of inducible nitric oxide synthase/nitric oxide by curli ﬁbers leads to a fall in blood pressure during systemic Escherichia coli infection in mice . 
+J Infect Dis 183 : 612 -- 619 . 
+Cario , E. , Rosenberg , I.M. , Brandwein , S.L. , Beck , P.L. , Reinecker , H.C. , and Podolsky , D.K. ( 2000 ) Lipopolysaccharide activates distinct signaling pathways in intestinal epithelial cell lines expressing Toll-like receptors . 
+J Immu-nol 164 : 966 -- 972 . 
+Collinson , S.K. , Emody , L. , Muller , K.H. , Trust , T.J. , and Kay , W.W. ( 1991 ) Puriﬁcation and characterization of thin , aggregative ﬁmbriae from Salmonella enteritidis . 
+J Bacteriol 173 : 4773 -- 4781 . 
+Day , D.W. , Mandal , B.K. , and Morson , B.C. ( 1978 ) The rectal biopsy appearances in Salmonella colitis . 
+Histopathology 2 : 117 -- 131 . 
+Fogh , J. , and Trempe , G. ( 1975 ) New human cell lines . 
+In Human Cells in vitro . 
+Fogh , J. ( ed . ) . 
+New York : Plenum Publishing Corp , pp. 115 -- 141 . 
+Frost , A.J. , Bland , A.P. , and Wallis , T.S. ( 1997 ) The early dynamic response of the calf ileal epithelium to Salmonella typhimurium . 
+Vet Pathol 34 : 369 -- 386 . 
+Galán , J.E. , and Curtiss , R. , III . 
+( 1989 ) Cloning and molecular characterization of genes whose products allow Salmo-nella typhimurium to penetrate tissue culture cells . 
+Proc Natl Acad Sci USA 86 : 6383 -- 6387 . 
+Gewirtz , A.T. , Navas , T.A. , Lyons , S. , Godowski , P.J. , and Madara , J.L. ( 2001a ) Cutting edge : bacterial ﬂagellin activates basolaterally expressed TLR5 to induce epithelial proinﬂammatory gene expression . 
+J Immunol 167 : 1882 -- 1885 . 
+Gewirtz , A.T. , Simon , P.O. , Jr , Schmitt , C.K. , Taylor , L.J. , Hagedorn , C.H. , O'Brien , A.D. , et al. ( 2001b ) Salmonella typhimurium translocates ﬂagellin across intestinal epithelia , inducing a proinﬂammatory response . 
+J Clin Invest 107 : 99 -- 109 . 
+Grant , S.G.N. , Jessee , J. , Bloom , F.R. , and Hanahan , D. ( 1990 ) Differential plasmid rescue from transgenic mouse DNAs into Escherichia coli methylation-restriction mutants . 
+Proc Natl Acad Sci USA 87 : 4645 -- 4649 . 
+Grund , S. , and Seiler , A. ( 1993 ) [ Electron microscopic studies of ﬁmbriae and lectin phagocytosis of Salmonella typh ¬ 
+imurium variety copenhagen ( STMVC ) ] . 
+Zentralbl Veterinarmed B 40 : 105 -- 112 . 
+Grund , S. , and Weber , A. ( 1988 ) A new type of ﬁmbriae on Salmonella typhimurium . 
+Zentralbl Veterinarmed B 35 : 779 -- 782 . 
+Hajishengallis , G. , Martin , M. , Sojar , H.T. , Sharma , A. , Schifferle , R.E. , DeNardin , E. , et al. ( 2002 ) Dependence of bacterial protein adhesins on toll-like receptors for proin-ﬂammatory cytokine induction . 
+Clin Diagn Lab Immunol 9 : 403 -- 411 . 
+Hapfelmeier , S. , Stecher , B. , Barthel , M. , Kremer , M. , Muller , A.J. , Heikenwalder , M. , et al. ( 2005 ) The Salmonella patho-genicity island ( SPI ) -2 and SPI-1 type III secretion systems allow Salmonella serovar typhimurium to trigger colitis via MyD88-dependent and MyD88-independent mechanisms . 
+J Immunol 174 : 1675 -- 1685 . 
+Hayashi , F. , Smith , K.D. , Ozinsky , A. , Hawn , T.R. , Yi , E.C. , Goodlett , D.R. , et al. ( 2001 ) The innate immune response to bacterial ﬂagellin is mediated by Toll-like receptor 5 . 
+Nature 410 : 1099 -- 1103 . 
+Huang , F.C. , Werne , A. , Li , Q. , Galyov , E.E. , Walker , W.A. , and Cherayil , B.J. ( 2004 ) Cooperative interactions between ﬂagellin and SopE2 in the epithelial interleukin-8 response to Salmonella enterica serovar typhimurium infection . 
+Infect Immun 72 : 5052 -- 5062 . 
+Humphries , A.D. , Raffatellu , M. , Winter , S. , Weening , E.H. , Kingsley , R.A. , Droleskey , R. , et al. ( 2003 ) The use of ﬂow cytometry to detect expression of subunits encoded by 11 Salmonella enterica serotype Typhimurium ﬁmbrial operons . 
+Mol Microbiol 48 : 1357 -- 1376 . 
+Humphries , A.D. , DeRidder , S. , and Bäumler , A.J. ( 2005 ) Salmonella enterica serotype Typhimurium ﬁmbrial proteins serve as antigens during infection of mice . 
+Infect Immun 73 , in press . 
+Iwasaki , A. , and Medzhitov , R. ( 2004 ) Toll-like receptor control of the adaptive immune responses . 
+Nat Immunol 5 : 987 -- 995 . 
+Khan , S.A. , Everest , P. , Servos , S. , Foxwell , N. , Zahringer , U. , Brade , H. , et al. ( 1998 ) A lethal role for lipid A in Salmonella infections . 
+Mol Microbiol 29 : 571 -- 579 . 
+McClelland , M. , Sanderson , K.E. , Spieth , J. , Clifton , S.W. , Latreille , P. , Courtney , L. , et al. ( 2001 ) Complete genome sequence of Salmonella enterica serovar Typhimurium LT2 . 
+Nature 413 : 852 -- 856 . 
+McGovern , V.J. , and Slavutin , L.J. ( 1979 ) Pathology of Sal-monella colitis . 
+Am J Surg Pathol 3 : 483 -- 490 . 
+Massari , P. , Henneke , P. , Ho , Y. , Latz , E. , Golenbock , D.T. , and Wetzler , L.M. ( 2002 ) Cutting edge : immune stimulation by neisserial porins is toll-like receptor 2 and MyD88 dependent . 
+J Immunol 168 : 1533 -- 1537 . 
+Means , T.K. , Wang , S. , Lien , E. , Yoshimura , A. , Golenbock , D.T. , and Fenton , M.J. ( 1999 ) Human toll-like receptors mediate cellular activation by Mycobacterium tuberculosis . 
+J Immunol 163 : 3920 -- 3927 . 
+Mills , D.M. , Bajaj , V. , and Lee , C.A. ( 1995 ) A 40 kb chromosomal fragment encoding Salmonella typhimurium invasion genes is absent from the corresponding region of the Escherichia coli K-12 chromosome . 
+Mol Microbiol 15 : 749 -- 759 . 
+Nau , G.J. , Richmond , J.F. , Schlesinger , A. , Jennings , E.G. , 
+Lander , E.S. , and Young , R.A. ( 2002 ) Human macrophage activation programs induced by bacterial pathogens . 
+Proc Natl Acad Sci USA 99 : 1503 -- 1508 . 
+Nau , G.J. , Schlesinger , A. , Richmond , J.F. , and Young , R.A. ( 2003 ) Cumulative Toll-like receptor activation in human macrophages treated with whole bacteria . 
+J Immunol 170 : 5203 -- 5209 . 
+Neilsen , P.O. , Zimmerman , G.A. , and McIntyre , T.M. ( 2001 ) Escherichia coli Braun lipoprotein induces a lipopolysac-charide-like endotoxic response from primary human endothelial cells . 
+J Immunol 167 : 5231 -- 5239 . 
+Ochman , H. , Soncini , F.C. , Solomon , F. , and Groisman , E.A. ( 1996 ) Identiﬁcation of a pathogenicity island for Salmo-nella survival in host cells . 
+Proc Natl Acad Sci USA 93 : 7800 -- 7804 . 
+Olsen , A. , Jonsson , A. , and Normark , S. ( 1989 ) Fibronectin binding mediated by a novel class of surface organelles on Escherichia coli . 
+Nature 338 : 652 -- 655 . 
+Poltorak , A. , He , X. , Smirnova , I. , Liu , M.Y. , Van Huffel , C.X. , Birdwell , D. , et al. ( 1998 ) Defective LPS signaling in C3H / HeJ and C57BL/10ScCr mice : mutations in Tlr4 gene . 
+Science 282 : 2085 -- 2088 . 
+Raffatellu , M. , Wilson , R.P. , Chessa , D. , Andrews-Polymenis , H. , Tran , Q.T. , Lawhon , S. , et al. ( 2005a ) SipA , SopA , SopB , SopD , and SopE2 contribute to Salmonella enterica serotype typhimurium invasion of epithelial cells . 
+Infect Immun 73 : 146 -- 154 . 
+Raffatellu , M. , Chessa , D. , Wilson , R.P. , Dusold , R. , Rubino , S. , and Bäumler , A.J. ( 2005b ) The Vi capsular antigen of Salmonella enterica serotype Typhi reduces Toll-like recep-tor-dependent interleukin-8 expression in the intestinal mucosa . 
+Infect Immun 73 : 3367 -- 3374 . 
+Reis , B.P. , Zhang , S. , Tsolis , R.M. , Bäumler , A.J. , Adams , L.G. , and Santos , R.L. ( 2003 ) The attenuated sopB mutant of Salmonella enterica serovar Typhimurium has the same tissue distribution and host chemokine response as the wild type in bovine Peyer 's patches . 
+Vet Microbiol 97 : 269 -- 277 . 
+Romling , U. , Bian , Z. , Hammar , M. , Sierralta , W.D. , and Normark , S. ( 1998a ) Curli ﬁbers are highly conserved between Salmonella typhimurium and Escherichia coli with respect to operon structure and regulation . 
+J Bacteriol 180 : 722 -- 731 . 
+Romling , U. , Sierralta , W.D. , Eriksson , K. , and Normark , S. ( 1998b ) Multicellular and aggregative behaviour of Salmo-nella typhimurium strains is controlled by mutations in the agfD promoter . 
+Mol Microbiol 28 : 249 -- 264 . 
+Rosenberger , C.M. , Scott , M.G. , Gold , M.R. , Hancock , R.E. , and Finlay , B.B. ( 2000 ) Salmonella typhimurium infection and lipopolysaccharide stimulation induce similar changes in macrophage gene expression . 
+J Immunol 164 : 5894 -- 5904 . 
+Sakellaris , H. , Hannink , N.K. , Rajakumar , K. , Bulach , D. , Hunt , M. , Sasakawa , C. , and Adler , B. ( 2000 ) Curli loci of Shigella spp . 
+Infect Immun 68 : 3780 -- 3783 . 
+Santos , R.L. , Tsolis , R.M. , Zhang , S. , Ficht , T.A. , Bäumler , A.J. , and Adams , L.G. ( 2001 ) Salmonella-induced cell death is not required for enteritis in calves . 
+Infect Immun 69 : 4610 -- 4617 . 
+Santos , R.L. , Zhang , S. , Tsolis , R.M. , Bäumler , A.J. , and Adams , L.G. ( 2002 ) Morphologic and molecular character ¬ 
+ization of Salmonella typhimurium infection in neonatal calves . 
+Vet Pathol 39 : 200 -- 215 . 
+Schmitt , C.K. , Ikeda , J.S. , Darnell , S.C. , Watson , P.R. , Bispham , J. , Wallis , T.S. , et al. ( 2001 ) Absence of all components of the ﬂagellar export and synthesis machinery differentially alters virulence of Salmonella enterica serovar Typhimurium in models of typhoid fever , survival in mac-rophages , tissue culture invasiveness , and calf enterocolitis . 
+Infect Immun 69 : 5619 -- 5625 . 
+Schneider , H.A. , and Zinder , N.D. ( 1956 ) Nutrition of the host and natural resistance to infection . 
+V . 
+An improved assay employing genetic markers in the double strain inoculation test . 
+J Exp Med 103 : 207 -- 223 . 
+Schwandner , R. , Dziarski , R. , Wesche , H. , Rothe , M. , and Kirschning , C.J. ( 1999 ) Peptidoglycan - and lipoteichoic acid-induced cell activation is mediated by toll-like receptor 2 . 
+J Biol Chem 274 : 17406 -- 17409 . 
+Shimazu , R. , Akashi , S. , Ogata , H. , Nagai , Y. , Fukudome , K. , Miyake , K. , and Kimoto , M. ( 1999 ) MD-2 , a molecule that confers lipopolysaccharide responsiveness on Toll-like receptor 4 . 
+J Exp Med 189 : 1777 -- 1782 . 
+Stojiljkovic , I. , Bäumler , A.J. , and Heffron , F. ( 1995 ) Ethano-lamine utilization in Salmonella typhimurium : nucleotide sequence , protein expression and mutational analysis of the cchA cchB eutE eutJ eutG eutH gene cluster . 
+J Bacteriol 177 : 1357 -- 1366 . 
+Stolpe , H. , Grund , S. , and Schroder , W. ( 1994 ) Puriﬁcation and partial characterization of type 3 ﬁmbriae from Salmo-nella typhimurium var . 
+copenhagen . 
+Zentralbl Bakteriol 281 : 8 -- 15 . 
+Stylianou , E. , Yndestad , A. , Sikkeland , L.I. , Bjerkeli , V. , Damas , J.K. , Haug , T. , et al. ( 2002 ) Effects of interferon-alpha on gene expression of chemokines and members of the tumour necrosis factor superfamily in HIV-infected patients . 
+Clin Exp Immunol 130 : 279 -- 285 . 
+Takeuchi , O. , Hoshino , K. , Kawai , T. , Sanjo , H. , Takada , H. , Ogawa , T. , et al. ( 1999 ) Differential roles of TLR2 and TLR4 in recognition of Gram-negative and Gram-positive bacterial cell wall components . 
+Immunity 11 : 443 -- 451 . 
+Tallant , T. , Deb , A. , Kar , N. , Lupica , J. , de Veer , M.J. , and DiDonato , J.A. ( 2004 ) Flagellin acting via TLR5 is the major activator of key signaling pathways leading to NF-kappa B 
+and proinﬂammatory gene program activation in intestinal epithelial cells . 
+BMC Microbiol 4 : 33 . 
+Travassos , L.H. , Girardin , S.E. , Philpott , D.J. , Blanot , D. , Nahori , M.A. , Werts , C. , and Boneca , I.G. ( 2004 ) Toll-like receptor 2-dependent bacterial sensing does not occur via peptidoglycan recognition . 
+EMBO Rep 5 : 1000 -- 1006 . 
+Tsolis , R.M. , Adams , L.G. , Hantman , M.J. , Scherer , C.A. , Kimborough , T. , Kingsley , R.A. , et al. ( 2000 ) SspA is required for lethal Salmonella typhimurium infections in calves but is not essential for diarrhea . 
+Infect Immun 68 : 3158 -- 3163 . 
+Weening , E.H. , Barker , J.D. , Laaraker , M.C. , Humphries , A.D. , Tsolis , R.M. , and Bäumler , A.J. ( 2005 ) The Salmo-nella enterica serotype Typhimurium lpf , bcf , stb , stc , std , and sth ﬁmbrial operons are required for intestinal persistence in mice . 
+Infect Immun 73 : 3358 -- 3366 . 
+Zeng , H. , Carlson , A.Q. , and Guo , Y. , Yu , Y. , Collier-Hyams , L.S. , Madara , J.L. , et al. ( 2003 ) Flagellin is the major proin-ﬂammatory determinant of enteropathogenic Salmonella . 
+J Immunol 171 : 3668 -- 3674 . 
+Zhang , S. , Santos , R.L. , Tsolis , R.M. , Stender , S. , Hardt , W.-D. , Bäumler , A.J. , and Adams , L.G. ( 2002 ) SipA , SopA , SopB , SopD and SopE2 act in concert to induce diarrhea in calves infected with Salmonella enterica serotype Typh-imurium . 
+Infect Immun 70 : 3843 -- 3855 . 
+Zhang , S. , Kingsley , R.A. , Santos , R.L. , Andrews-Polymenis , H. , Raffatellu , M. , Figueiredo , J. , et al. ( 2003a ) Molecular pathogenesis of Salmonella enterica serotype typhimu-rium-induced diarrhea . 
+Infect Immun 71 : 1 -- 12 . 
+Zhang , S. , Adams , L.G. , Nunes , J. , Khare , S. , Tsolis , R.M. , and Bäumler , A.J. ( 2003b ) Secreted effector proteins of Salmonella enterica serotype typhimurium elicit host-spe-ciﬁc chemokine proﬁles in animal models of typhoid fever and enterocolitis . 
+Infect Immun 71 : 4795 -- 4803 . 
+Zhang , D. , Zhang , G. , Hayden , M.S. , Greenblatt , M.B. , Bus-sey , C. , Flavell , R.A. , and Ghosh , S. ( 2004 ) A toll-like receptor that prevents infection by uropathogenic bacteria . 
+Science 303 : 1522 -- 1526 . 
+Zogaj , X. , Bokranz , W. , Nimtz , M. , and Romling , U. ( 2003 ) Production of cellulose and curli ﬁmbriae by members of the family Enterobacteriaceae isolated from the human gastrointestinal tract . 
+Infect Immun 71 : 4151 -- 4158 .

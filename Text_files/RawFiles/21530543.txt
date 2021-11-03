@@ -1,0 +1,420 @@
+doi :10.1016 / j.jmb .2011.04.036 
+J. Mol . 
+Biol . 
+( 2011 ) 409 , 630 -- 641 
+Contents lists available at www.sciencedirect.com 
+Journal of Molecular Biology 
+journa l homepage : http : / / ees.elsevier.com.jmb 
+h X-ray Structure of the Zinc Transporter ZnuA from Salmonella enterica Discloses Uniqu f Zinc-Coordinating Histidine
+T e 
+a 
+e 
+Triad o 
+s 
+Andrea Ilari1 † , Flaminia Alaleona1 † , Patrizia Petrarca2 , Andrea Battistoni2 and Emilia Chiancone1 
+1CNR Institute of Molecular Biology and Pathology and Department of Biochemical Sciences , `` Sapienza '' University of Rome , Piazzale Aldo Moro 5 , 00185 Rome , Italy 2Department of Biology , University of Rome `` Tor Vergata '' , Via della Ricerca Scientifica , 00133 R 
+ome , Italy 
+Received 8 February 2011 ; received in revised form 11 April 2011 ; accepted 12 April 2011 Available online 21 April 2011 
+ZnuA is the soluble component of the high-affinity ZnuABC zinc transporter belonging to the cluster 9 group of ATP-binding cassette-type periplasmic Zn - and Mn-binding proteins . 
+In Gram-negative bacteria , the ZnuABC system is essential for zinc uptake and homeostasis and is an important determinant of bacterial resistance to the host defense mechanisms . 
+The cluster 9 members share a two ( α / β ) 4 domain architecture with a long α-helix connecting the two domains . 
+In the Znspecific proteins , the so-called α3c and the α4 helices are separated by an insert of variable length , rich in histidine and negatively charged residues . 
+This distinctive His-rich loop is proposed to play a role in the management of zinc also due to its location at the entrance of the metal binding site located at the domain interface . 
+The known Synechocystis 6803 and Escherichia coli ZnuA structures show the same metal coordination involving three conserved histidines and a glutamic acid or a water molecule as fourth ligand . 
+The structures of Salmonella enterica ZnuA , with a partially or fully occupied zinc binding site , and of a deletion mutant missing a large part of the His-rich loop revealed unexpected differences in the metal-coordinating ligands , as histidine 140 from the mobile ( at the C-terminal ) part of the loop substitutes the conserved histidine 60 . 
+This unforeseen coordination is rendered possible by the `` open conformation '' of the two domains . 
+The possible structural determinants of these peculiarities and their functional relevance are discussed . 
+© 2011 Elsevier Ltd. . 
+All rights reserved . 
+Edited by R. Huber 
+Keywords : ZnuA ; 
+ZnuABC zinc transporter ; Salmonella enterica ; X-ray structure ; periplasmic protein 
+* Corresponding author . 
+E-mail address : emilia.chiancone@uniroma1.it . 
+† A.I. and F.A. contributed equally to this work . 
+This paper is dedicated to the memory of Professor Gian Tommaso Scarascia Mugnozza . 
+Abbreviations used : PBP , periplasmic solute-binding protein ; EcZnuA , E. coli ZnuA ; SynZnuA , Synechocystis ZnuA ; SeZnuA , S. enterica ZnuA ; PDB , Protein Data Bank ; RCSB , Research Collaboratory for Structural Bioinformatics . 
+Introduction
+Zinc , like other transition metals , notably iron and copper , is required by all living organisms to ensure cell growth but is potentially toxic to a number of cell functions . 
+Therefore , zinc homeostasis requires to be controlled strictly by the concerted action of specific proteins . 
+In bacteria , zinc is acquired from the growth medium by different metal transporters so as to reach total zinc concentrations in the submillimolar range , while the `` free '' metal is buffered at femtomolar to nanomolar levels by means of transcriptionally controlled zinc uptake and efflux systems .1 -- 3 The relevant Zn-trafficking proteins are characterized by tight binding of the metal ion , to prevent its release and adventitious reactions , and by a coordination environment that allows the easy transfer of the metal to the next partner protein .4 In this respect , the ZnuABC uptake system , which comes into play when the zinc concentration in the medium is low and is used by Gram-negative bacteria to transport zinc from the periplasmic space to the cytosol , is paradigmatic . 
+It is a highaffinity ATP-binding cassette-type transporter and , like all such systems , is composed of three proteins : a soluble periplasmic component ( ZnuA ) that captures Zn ( II ) and delivers it to the membrane permease ( ZnuB ) , whereas the ATPase component ( ZnuC ) provides the energy necessary for ion transport through the inner membrane .5,6 ZnuA is the most extensively studied component also in view of the observation that inactivation of the znuA-encoding genes in several pathogenic bacteria , including Salmonella enterica , results in decreased growth rates in environments poor of zinc and in significantly reduced virulence in different animal models .7 Phylogenetic analyses placed ZnuA in a group of periplasmic solute-binding proteins ( PBPs ) named cluster 9 , which includes also manganese-specific PBPs . 
+The available structural information shows that Zn - and Mn-specific PBPs share a two - ( α / β ) 4-domain architecture with a long α-helix connecting the two domains . 
+These consist of a parallel four-stranded β-sheet with strand sequence 2-3-1-4 . 
+The central β-sheet is lined by four α-helices , two on each side , that alternate with the β-strands in the primary sequence ( Figs. 1 and 2 ) . 
+The metal ion is bound at the interface between the two domains and is coordinated tetrahedrally . 
+Mn-specific PBPs coordinate the metal via two histidines and two acidic residues ( MntC and PsaA ) 10,11 or three histidines and a glutamic acid ( TroA ) .12 In contrast , in Znspecific PBPs , the metal is coordinated by three conserved histidines , while a fourth ligand is provided by a glutamic acid , close to a histidine ligand , or by a water molecule .13 -- 17 It has been suggested that differences in coordination geometry contribute to metal specificity .15 The ZnuA sequences display a further , most remarkable difference with respect to those of Mnspecific transporters , that is , only the Zn-specific proteins are characterized by a flexible insert rich in histidine and negatively charged residues ( His-rich loop ) located between the α3c and α4 helices ( ZnuA topology ) . 
+This exclusive presence and the location of the His-rich loop at the entrance of the metal binding site apparent from the known Escherichia coli13 ,14,16 and Synechocystis 680315 ZnuA structures led to the proposal that it may serve to facilitate zinc binding within the periplasmic space . 
+Recent studies carried out on S. enterica support this hypothesis as they point to a major role of the His-rich loop in facilitating Zn ( II ) recruitment under conditions of metal starvation .17 Alternatively , the His-rich loop may serve to transfer the metal to ZnuB13 -- 15 or to regulate the metal import process by acting as sensor of the Zn ( II ) level .17 Determination of the structure and zinc binding properties of a Synechocystis 6803 ZnuA Hisrich loop deletion mutant14 did not provide a definite answer to this question but suggested that the loop has long-range structural effects that can influence the binding of zinc . 
+Thus , deletion of the His-rich loop alters the relative position of the N - and Cterminal domains and leads to a 10-fold decreased affinity of the canonical Zn ( II ) binding site . 
+It should also be mentioned that a second Zn ( II ) binding site was identified in one of the available E. coli ZnuA ( EcZnuA ) structures . 
+In this secondary site , Zn ( II ) is bound on the external surface of the protein by two histidine residues , one belonging to the His-rich loop .16 Calorimetric studies carried out on Synecho-cystis ZnuA ( SynZnuA ) likewise pointed to the presence of two classes of Zn ( II ) binding sites .18 The data just reviewed in turn imply that the natural variability in length that characterizes the Hisrich loop in the various bacterial species may impact on the management of Zn by the protein . 
+To establish the validity of this contention , we determined the structure of S. enterica ZnuA ( SeZnuA ) . 
+SeZnuA is characterized by a His-rich loop of intermediate length relative to SynZnuA and EcZnuA . 
+Moreover , the sequences of SeZnuA and EcZnuA display only 17 differences apart from those in the His-rich loop region over a total of 310 -- 314 amino acids . 
+Importantly , the residues in the immediate vicinity of the three canonical Zn-ligating histidines ( His60 , His143 and His207 in EcZnuA ) are conserved ( Fig. 1 ) . 
+The high-resolution structures of SeZnuA with the Zn ( II ) binding site , either partially or fully occupied , and of a deletion mutant lacking a large part of the loop ( SeZnuA Δ118 -- 141 ) , where the site is empty , unveiled Zn ( II ) - induced conformational changes that are likely of functional relevance in metal sequestration from the periplasm and/or its delivery to ZnuB . 
+Importantly , they disclosed for the first time a unique triad of Zn ( II ) - binding histidines that comprises His140 , a residue placed on the C-terminal part of the His-rich loop that substitutes His60 ( EcZnuA numbering ) , one of the otherwise conserved metalbinding histidines in Zn - and Mn-specific PBPs . 
+0022-2836 / $ - see front matter © 2011 Elsevier Ltd. . 
+All rights reserved 
+Results and Discussion
+SeZnuA: Overall fold
+The crystals of SeZnuA as purified ( SeZnuA ) and of SeZnuA crystals soaked with zinc acetate [ Zn ( II ) 
+SeZnuA ] are both hexagonal ( P63 ) and contain only one molecule in the asymmetric unit . 
+The structure of SeZnuA is characterized by a partially occupied zinc binding site ( occupancy = 0.7 ) and has been solved at 1.7 Å resolution , while the Zn ( II ) -- SeZnuA structure , having a fully occupied Zn ( II ) bindin site , has been solved at 1.9 Å resolution . 
+The two forms share the same overall fold , except for the short 57 -- 61 region that assumes a different conformation in the two structures as will be described below in connection with the Zn ( II ) binding site ( Fig. 2 ) . 
+Accordingly , the superposition of the Cα traces of SeZnuA and Zn ( II ) -- SeZnuA yields a root-mean-square deviation ( rmsd ) of 0.356 Å . 
+SeZnuA , like all Zn - and Mn-specific PBPs and irrespective of the occupancy of the active site with zinc , is constructed by a pair of ( α / β ) 4 sandwich domains ( comprising residues 27 -- 173 and residues 204 -- 313 , respectively ) , which are connected by a long α-helix ( residues 174 -- 203 ) that is tightly packed against them ( Figs. 1 and 2 ) . 
+As in the other ATP-binding cassette-type PBPs of the cluster 9 family , the two domains are related by pseudo-2-fold symmetry . 
+Moreover , residues 118 -- 139 , belonging to the long His-rich loop between the secondary structural elements β4 and α4 , are not visible in the structure , an indication of a high degree of flexibility . 
+In contrast , the short His-rich loop segments 114 -- 117 and 140 -- 147 are clearly visible . 
+Moreover , quite unexpectedly on the basis of sequence alignment and homology , His140 coordinates zinc ( see below ) . 
+The structure of SeZnuA has been compared with the known ZnuA structures , namely , those of EcZnuA and SynZnuA . 
+The sequence identity of SeZnuA with EcZnuA is very high ( 85 % ) , as alluded to above . 
+That with SynZnuA amounts to 27 % ( Fig. 1 ) . 
+At variance with the structural alignment presented by Li and Jogl14 that assigns to EcZnuA 17 secondary structure elements ( namely , 9 α-helices and 8 β-strands ) , the comparative analysis presented in Fig. 1 points to the existence of three further helices : the short α1b helix is observed only in SeZnuA , whereas helices α3b and α3c are present in SeZnuA and in the EcZnuA structures with a fully occupied Zn ( II ) binding site ( 2OSV and 2OGW ) . 
+In previous comparative structural analyses on EcZ-nuA and SynZnuA , the entire β6 -- α7 -- β7 -- α8 regio was shown to adopt two different conformations . 
+It was established that the β6 -- α7 loop has an `` open '' conformation and is packed against the α8 helix in apo-EcZnuA and in EcZnuA bound to one Co ( II ) [ Protein Data Bank ( PDB ) codes 2PSE and 2PS9 , respectively ] ( Fig. 3a ) . 
+In contrast , this loop is more shifted toward solvent and assumes a `` closed '' conformation in SynZnuA ( 1PQ4 ) , in EcZnuA with a fully occupied Zn ( II ) binding site ( 2OSV ) and in EcZnuA with an additional Zn ( II ) bound on the external surface by His228 and other unidentified residues from the His-rich loop ( 2PRS ) . 
+The superposition of the Cα traces ( 232 residues out of 255 ) of SeZnuA and SynZnuA ( PDB code 1PQ4 ) yields an rmsd of 2.39 Å , as expected based on the lower degree of sequence similarity between the two proteins . 
+Several structural differences are apparent . 
+A completely different conformation is displayed by the long regions 80 -- 117 and 228 -- 273 ( SeZnuA numbering ) , the latter corresponding to the β6 -- α7 -- β7 -- α8 subdomain . 
+In SeZnuA , the 80 -- 117 region is more structured due to the presence of the additional α3c helix . 
+Moreover , as shown in Fig. 3b , the α7 helix moves toward solvent and drags the β6 -- α7 loop ( residues 228 -- 238 ) , which packs against the α8 helix and adopts the so-called `` open '' conformation . 
+Significantly , this conformation renders the zinc binding site accessible to the His-rich loop ( 114 -- 147 ) and allows Zn ( II ) binding by His140 , the first residue on the C-terminal part of the loop with a clearly defined electron density ( Fig. 3a ) . 
+In SynZnuA , the α7 helix is rotated by ∼ 20 ° relative to the position in SeZnuA such that the β6 -- α7 loop assumes a `` closed '' conformation , as mentioned above . 
+In the comparison between the SeZnuA and EcZnuA structures , several superpositions of the Cα traces have been performed , involving EcZnuA in the apo-form ( 2PS3 ) , EcZnuA with a fully occupied Zn ( II ) binding site ( 2OSV and 2OGW ) and EcZnuA with two bound zinc ions ( 2PRS ) . 
+The respective rmsd values of 0.654 Å , 0.490 Å and 0.462 Å indicate that the high degree of sequence identity carries over to structure . 
+Despite these relative low rmsd values between the Cα traces , four structural segments assume significantly different conformations in the two macromolecules , namely , the β6 -- α7 loop and the α2 , α7 and α8 helices ( Fig. 3c ) . 
+In SeZnuA , the β6 -- α7 loop ( 228 -- 238 ) is packed against the C-terminal part of the α8 helix and adopts an `` open '' conformation , at variance with EcZnuA where the α8 helix is rotated by ∼ 20 ° . 
+The SeZnuA α7 helix is rotated toward solvent with respect to the position adopted in all zinc bound EcZnuA structures , and the α2 helix is likewise characterized by a rotation toward solvent with respect to the other zinc bound ZnuA structures .13 -- 18 The detailed comparison of the SeZnuA and EcZnuA structures carried out thereafter revealed further distinctive differences in the 57 -- 61 region and in the C-terminal part of the His-rich loop that comprise two residues that coordinate Zn ( II ) at the primary binding site . 
+Differences in these regions , therefore , are apparent also when the structures of SeZnuA with a partially or a fully occupied Zn ( II ) binding site are compared ( see below ) . 
+An interesting distinction is related to the substitution of Glu143 in SeZnuA by Asp in EcZnuA , since Glu143 gives rise to a salt bridge with Lys116 ( NZ -- OE1 distance = 2.7 Å ) . 
+This additional interaction between two residues placed respectively at the C - and N-terminal ends of the His-rich loop anchors the loop on the protein scaffold and therefore is likely to influence the protein metal affinity ( Fig. 4 ) . 
+The other changes in the sequences of SeZnuA and EcZnuA , apart from those in the His-rich loop region , were mapped on the structures . 
+The corresponding residues appear to be located mostly on the surface of the N-terminal region of the protein ( Fig. 4 ) . 
+It is not known whether they are of functional importance , for example , are involved in the interaction of ZnuA with its molecular partners . 
+Fig. 1 . 
+Sequence alignment of SeZnuA , SynZnuA and EcZnuA . 
+The sequence alignment was performed with the program CLUSTALVIEW-MULTIALIGN ( http://mobyle.pasteur.fr/cgi-bin/portal.py?form=clustalw-multialign ) . 
+The secondary structure elements are indicated . 
+The His-rich loop is colored red . 
+The residues coordinating Zn ( II ) are underlined . 
+Identical residues between EcZnuA and SeZnuA are colored lime green , while asterisks indicate identical residues in the three sequences . 
+`` . '' 
+and `` : '' , respectively , indicate `` similar '' and `` more similar '' residues as defined by the CLUSTALVIEW program .8 
+Fig. 2 . 
+Comparison between the structures of SeZnuA , Zn -- SeZnuA and the Δ118 -- 141 SeZnuA deletion mutant . 
+The structures of SeZnuA ( light magenta ) , Zn -- SeZnuA ( yellow ) and Δ118 -- 141 SeZnuA ( green ) have been superimposed using the program Coot . 
+The different conformations assumed by the 57 -- 61 region are shown in the blow-up . 
+The picture has been generated using PyMOL .9 
+Fig. 3 ( legend on next page 
+SeZnuA: The Zn(II) binding site
+The primary Zn ( II ) binding site was identified by a strong peak in an anomalous Fourier map . 
+Its position is shifted by about 1.0 Å from the metal binding site in EcZnuA and by about 1.5 Å from that in SynZnuA ( Fig. 5 ) . 
+In Zn ( II ) -- SeZnuA , where the occupancy of this binding site is 1.0 , Zn ( II ) is coordinated tetrahedrally by the canonical , highly conserved His147 and His211 residues [ NE2 -- Zn ( II ) distances of 2.2 Å and 2.0 Å , respectively ] , by Glu59 [ OE1 -- Zn ( II ) distance of 1.7 Å ] and by His140 [ NE2 -- Zn ( II ) distance of 2.1 Å ] placed on the C-terminal part of the long His-rich loop ( Fig. 6a ) . 
+Participation of His140 in metal ligation was fully unexpected , as in all the other known ZnuA X-ray structures , the Zn ( II ) - coordinating ligands belong to the protein scaffold ( see Table 1 ) . 
+The Zn ( II ) ligand Glu59 is located in the short 57 -- 61 region that adopts a different conformation depending on the occupancy of the Zn ( II ) binding site with metal . 
+Thus , in SeZnuA , where the metal occupancy is 0.7 , the map of the 57 -- 61 region lacks detail , an indication of high mobility in accordance with the Bfactor that is higher than the overall one ( 45 Å2 versus 27 Å2 ) . 
+After assigning an occupancy of 0.7 to the whole 57 -- 61 region , a better map was obtained . 
+The side chains of Ser58 and Asp61 appear to be rotated by ∼ 180 ° and that of His60 by ∼ 90 ° around the Cβ atom with respect to the position adopted by the same residues in Zn ( II ) -- SeZnuA ( Fig. 2 ) . 
+The conformational differences in the 57 -- 61 segment , which comprises the Zn ( II ) ligand Glu59 , affect coordination of the metal ion as follows . 
+In SeZnuA [ where the Zn ( II ) occupancy is lower than 1.0 ] , the metal is not tetra-coordinated as in Zn ( II ) -- SeZnuA , but is penta-coordinated , with a water molecule as fifth ligand [ HOH -- Zn ( II ) = 2.1 Å ] substituted by a proline residue . 
+Interestingly , in EcZnuA , this coordination position can be occupied by Glu5914 ,16 or a by water molecule .14 It follows that also in the E. coli structures ,13,14,16 the short structural motif 57 -- 61 may adopt different conformations . 
+The fourth coordinating ligand is His60 in all previously solved ZnuA structures . 
+This highly conserved residue most likely coordinates Zn ( II ) in all members of the family . 
+In SeZnuA , His60 is brought at too large a distance to coordinate the metal by the conformation of the short 57 -- 61 region ( Fig. 1 ) , and the fourth coordination position is occupied by His140 , the first residue in the C-terminal part of the His-rich loop ( 114 -- 147 ) whose electron density is clearly defined ( Fig. 6a and b ) . 
+The electron density map of the preceding residue in the sequence , His139 , is difficult to interpret and does not allow the assignment of a unique conformation . 
+The electronic density map of the other residues in the loop , 118 -- 138 , is not visible as in the other ZnuA structures deposited in the PDB , indicating a high degree of flexibility . 
+Fig. 3 . 
+Comparison between SeZnuA and the EcZnuA structures . 
+( a ) Close-up view of the conformational differences in the β6 -- α7 -- β7 -- α8 region . 
+The structures of SeZnuA and Zn ( II ) -- SeZnuA are colored light magenta and yellow , respectively . 
+EcZnuA with two bound Zn ( II ) ( 2PRS ) is colored slate blue ; EcZnuA with one bound Zn ( II ) ( 2OSV ) is colored deep-teal cyan ; Co ( II ) - bound EcZnuA ( 2PS9 ) and apo EcZnuA ( 2PS3 ) are colored magenta and orange , respectively . 
+( b ) Comparison between the SeZnuA ( light magenta ) and SynZnuA ( gray ) structures . 
+The first residue and the last residue of the His-rich loop , Gly117 and His139 , and the β6 -- α7 loop comprising residues 228 -- 238 are labeled . 
+( c ) Comparison between the SeZnuA ( light magenta ) and the EcZnuA ( cyan ) structures . 
+Zn ( II ) is indicated by a gray sphere . 
+The first residue and the last residue of the His-rich loop , Gly117 and His139 , and the β6 -- α7 loop comprising residues 228 -- 238 are labeled . 
+The picture has been generated using PyMOL . 
+Fig. 4 . 
+Differences between the Zn ( II ) -- SeZnuA and Zn ( II ) -- EcZnuA structures . 
+The two structures are superimposed using Coot .19 Zn ( II ) -- SeZnuA is colored yellow , Zn ( II ) -- EcZnuA is colored cyan , the residues differing in the two structures are indicated in red . 
+The visible part of the His-rich loop in the two structures is shown in the blow-ups . 
+The distinctive salt bridge between Lys116 and Glu143 in Zn ( II ) -- EcZnuA is indicated . 
+The picture has been generated using PyMOL .9 
+( Fig. 6b ) . 
+Binding of the water molecule by Zn ( II ) is favored by a slight shift of Glu59 with respect to the position observed in Zn ( II ) -- SeZnuA . 
+Accordingly , Glu59 coordinates Zn ( II ) with OE2 [ OE2 -- Zn ( II ) = 2.1 Å ] ( Fig. 6c ) . 
+The slight displacements of the other Zn ( II ) - binding residues , His140 , His147 and His211 , do not affect their metal coordination . 
+The data just presented call for a detailed comparison of the Zn ( II ) binding site in all known ZnuA structures as they point to an unforeseen variability in metal ligation . 
+The typical coordination of Zn ( II ) in structural zinc binding sites is tetrahedral ,20 but can be four or five in enzymes where it is frequently distorted -- tetrahedral or trigonal -- bipyramidal in the absence of the enzyme substrate .20,21 In all members of the ZnuA family crystallized to date , the metal is coordinated with a tetrahedral geometry by the ligands detailed in Table 1 . 
+The first two coordination positions are occupied by the conserved His147 and His211 residues ( SeZnuA numbering ; Fig. 5 ) . 
+The third coordination position is occupied by Glu59 in SeZnuA and by a water molecule in SynZnuA since Glu59 i 
+Structure of the His-rich loop deletion mutant SeZnuA Δ118–141
+The unexpected and unprecedented coordination of Zn ( II ) by His140 belonging to the His-rich loop lends support to the contention that this loop participates directly in the management of the metal .18,22 To shed light on this specific point , we solved the structure of the SeZnuA Δ118 -- 141 deletion mutant ( SeZnuA Δ118 -- 141 ) at 2.0 Å resolution . 
+The superposition of the SeZnuA and SeZnuA Δ118 -- 141 Cα traces yields an rmsd of 0.273 Å , indicating that the remaining part of the protein scaffold is not affected by the deletion in accordance with its rigidity , except for the 57 -- 61 region . 
+However , deletion of the His-rich loop brings about remarkable local structural changes . 
+The residues of the loop that have not been deleted ( 114 -- 117 and 142 -- 147 ) form an additional two-strand antiparallel β-sheet . 
+The primary binding site does not contain Zn ( II ) . 
+However , inspection of the Fo − Fc electron density map contoured at 4 σ reveals the presence of a peak that was assigned to a sodium ion on this basis . 
+This sodium ion is displaced by ∼ 2 Å with respect to the metal in the SeZnuA structure ( Fig. 6c ) and is hydrogen bonded to His188 ( His211 ; SeZnuA numbering ) [ NE2 -- Na ( I ) = 3.5 Å ] , while His124 ( His147 ; SeZnuA numbering ) is hydrogen bonded to Glu59 [ NE2 -- OE1 = 2.9 Å ] . 
+Moreover , the conformation of the 57 -- 61 region differs relative to that adopted in SeZnuA and resembles that of the Zn ( II ) - soaked structure ( Fig. 2 ) . 
+Therefore , removal of the long His-rich loop and binding of Zn ( II ) have the same stabilizing effect on the 57 -- 61 region as shown clearly also by the values of the mean B-factor , which become similar to the overall ones in the various structures analyzed . 
+Thus , in SeZnuA , the overall B-factor is 27 Å2 , while that of the 57 -- 61 region is 45 Å2 ; in the SeZnuA Δ118 -- 141 deletion mutant and in Zn ( II ) -- SeZnuA , the overall B values are 33.8 Å2 and 30 Å2 , respectively , while those of the 57 -- 61 region are 35 Å2 and 34 Å2 . 
+A different situation seemingly applies to SynZ-nuA , where deletion of the 138 -- 171 His-rich loop leads to structural differences in the β6 -- α7 -- β7 -- α8 region that have been ascribed to the differen crystal packing . 
+Moreover , the affinity constant for Zn ( II ) decreases only by 1 order of magnitude .18 When the structures of the SeZnuA and SynZnuA deletion mutants are compared by superimposition of their Cα traces , rmsd values of 2.155 Å and 2.055 Å , respectively , are obtained for SynZnuA Δ138 -- 171 in the apo ( 2OV1 ) and Zn ( II ) - bound 
+Fig. 5 . 
+Stereo view of the zinc binding sites of Zn ( II ) -- SeZnuA , SynZnuA and Zn ( II ) -- EcZnuA . 
+Zn ( II ) -- SeZnuA ( in yellow ) , SynZnuA ( PDB accession code 1PQ4 ; in gray ) and EcZnuA ( PDB accession code 2OSV ; in cyan ) . 
+Zn ( II ) is indicated by a sphere of the same color as the structure ; the red sphere indicates a water molecule . 
+The structures were superimposed using the program Coot .19 The picture has been generated using PyMOL .9 
+Fig. 6 . 
+Zinc binding site in the X-ray structures from SeZnuA . 
+( a ) Fully occupied zinc binding site in Zn ( II ) -- SeZnuA . 
+The residues binding Zn ( II ) are indicated as sticks . 
+The 2Fo − Fc electron density map ( contoured at 1 σ ) for residues in the active-site region is shown in blue . 
+The anomalous difference Fourier map for data collected at the zinc peak wavelength is shown at a 5-σ contour level in green . 
+( b ) Partially occupied zinc binding site in SeZnuA . 
+The Zn ( II ) - binding residues are indicated as sticks . 
+2Fo − Fc electron density map ( contoured at 1 σ ) for residues in the active-site region is shown in blue . 
+The anomalous difference Fourier map for data collected at the zinc peak wavelength is shown at a 4-σ contour level in green . 
+( c ) Comparison among SeZnuA ( light magenta ) , Zn -- SeZnuA ( yellow ) and the Δ118 -- 141 SeZnuA deletion mutant ( green ) zinc binding site . 
+The pictures have been generated using PyMOL .9 
+( 2OV3 ) forms . 
+The major difference concerns the entire β6 -- α7 -- β7 -- α8 region . 
+Lastly , it should be mentioned that the attempts to obtain X-ray quality crystals of Zn ( II ) - bound SeZnuA Δ118 -- 141 by co-crystallization or in soaking experiments on preformed crystals had no success . 
+Table 1 . 
+Zn ( II ) - coordinating amino acids in the solved ZnuA X-ray crystal structures 
+His211 
+Glu59 Glu59 His60 His140 His147 ( OE1 ) ( Å ) ( OE2 ) ( Å ) ( NE2 ) ( Å ) ( NE2 ) ( Å ) ( NE2 ) ( Å ) 
+H2O ( Å ) 
+( NE2 ) ( Å ) 
+Zn ( II ) ligands Zn ( II ) -- SeZnuA SeZnuA EcZnuA SynZnuA 
+2.2 2.1 2.1 2.1 
+2.1 2.1 
+1.7 2.0 
+2.0 2.1 2.0 2.1 
+2.1 
+2.1 1.9 
+2.0 1.9 
+2 . 
+The SeZnuA numbering is used . 
+The structures of SeZnuA with the primary zinc binding site , either partially occupied ( SeZnuA ) or fully occupied [ Zn ( II ) -- SeZnuA ] , and of a deletion mutant missing a large part of the His-rich loop ( SeZnuA Δ118 -- 141 ) unexpectedly revealed that the metal is coordinated by a unique set of histidines that can ligate Zn ( II ) with a distinctive geometry relative to the known ZnuA structures .14 -- 16,18 In fact , one of the canonical Zn ( II ) - binding residues , His60 , though conserved in all members of the ZnuA family , is not a metal ligand in the abovementioned structures of full-length SeZnuA . 
+However , its participation in metal coordination during specific phases of the Zn ( II ) binding/transfer processes can not be excluded as suggested by structural and dynamical investigations18 and by the different conformations that the 57 -- 61 region can adopt . 
+The place of His60 at the fourth Zn ( II ) coordination position is taken by His140 , located on the C-terminal part of the His-rich loop , while coordination at the other positions involves the conserved His147 and His211 residues and Glu59 as in EcZnuA .14,16 The participation of His140 in the binding of Zn ( II ) , on the one hand , demonstrates that the His-rich loop can have a direct role in the management of zinc [ e.g. , may contribute to the intramolecular transfer of Zn ( II ) from a secondary to the primary metal binding site or to metal transfer from ZnuA to ZnuB ] and , on the other hand , calls for the presence of specific structural features , in the framework of highly similar overall structures such as those of SeZnuA and EcZnuA , that bring His140 at the required Zn ( II ) - coordinating distance . 
+The unique Zn ( II ) coordination displayed by SeZnuA appears to be linked to the `` open conformation '' adopted by the β6 -- α7 -- β7 -- α8 region , which opens the Zn ( II ) - binding cavity between the two ( α / β ) 4 subdomains , thus allowing the metal to reach His140 . 
+A structural restraint on the position of this residue and of the His-rich loop can be provided by the salt bridge established between Lys116 and Glu143 that anchors this loop to the protein scaffold ( Fig. 4 ) and has no counterpart in EcZnuA and SynZnuA . 
+However , the alignment of 100 sequences selected using BLAST and SeZnuA as query yields 30 sequences containing Lys and Glu in the positions corresponding to Lys116 and Glu143 in SeZnuA . 
+It is tempting to predict that such transporters will adopt the alternative SeZnuA Zn binding mode rather than the `` classical '' one . 
+The other feature to be highlighted in comparison with the previously obtained ZnuA structures concerns the conformational changes induced by Zn ( II ) binding . 
+These appear to be local and restricted to the vicinity of the metal binding site . 
+A significant change , for example , involves the short mobile 57 -- 61 region that can assume different conformations based on the comparison between the SeZnuA and Zn ( II ) -- SeZnuA structures ( respective metal occupancy of 0.7 and 1.0 ) . 
+In turn , the conformational changes linked to Zn ( II ) binding affect the coordination geometry . 
+Thus , when the Zn ( II ) binding site is partially occupied , a change in coordination geometry takes place . 
+The metal becomes penta-coordinated , since Glu59 ligates Zn ( II ) with OE2 instead of OE1 and shifts in position , allowing coordination of the metal by a water molecule ( Fig. 6b and c ) . 
+The rigidity of the ZnuA scaffold is evidenced also by the structure of the SeZnuA Δ118 -- 141 mutant . 
+Thus , deletion of the His-rich loop does not cause large conformational changes even though it affects the affinity for the metal dramatically . 
+No Zn ( II ) is bound in the SeZnuA Δ118 -- 141 active site , an indication that the missing His140 is of primary importance in determining the affinity for Zn ( II ) . 
+In this connection , it may be recalled that , in SynZnuA , the histidine-rich loop is believed to sequester Zn ( II ) from the medium and deliver it to the metal binding site .18 However , based on studies designed to unveil the mechanisms of ZnuABC-mediated import in Salmonella ,17 the role played by the His-rich loop appears to be more complex . 
+Thus , the growth of a znuA mutant strain producing SeZnuA Δ118 -- 141 in place of the wild-type protein is not impaired in a Luria -- Bertani medium containing ethylenediamine-tetraacetic acid , indicating that ZnuA can mediate zinc transport also in the absence of the His-rich region . 
+However , a severe growth defect was observed in a mutant strain expressing SeZnuA Δ118 -- 141 and unable to produce ZinT , another periplasmic protein assisting ZnuA in the recruitment of zinc within the periplasm , a sign that ZinT and ZnuA cooperate in the process of zinc recruitment . 
+Conclusions 
+Materials and Methods
+Protein crystallization, data collection and data reduction
+The purified proteins were prepared , according to published procedures ,17 in 20 mM Hepes , 10 mM NaCl at pH 7.0 . 
+All the crystallization experiments were carried out at 298 K by the hanging-drop vapor diffusion method . 
+The SeZnuA crystallization trials were performed using a protein sample concentrated to about 25 mg/ml . 
+Aliquots ( 1 μl ) of the protein sample were mixed with an equal amount of reservoir solution containing 1 -- 2 % ( w/v ) polyethylene glycol 400 , 2.3 -- 2.5 M ammonium sulfate and 0.1 M Hepes at pH 7.5 and were allowed to equilibrate with a 500-μl volume of reservoir solution . 
+Crystals grew in 2 weeks and reached dimensions of 0.05 mm × 0.05 mm × 0.3 mm . 
+Crystals of Zn ( II ) -- SeZnuA were obtained by soaking the crystals with 2 mM zinc acetate for 1 h. SeZnuA Δ118 -- 141 crystals were obtained by mixing 1 μl of protei solution , concentrated to about 15 mg/ml , with an equal amount of the same reservoir solution used for SeZnuA . 
+For data collection , SeZnuA , Zn -- SeZnuA and SeZnuA Δ118 -- 141 crystals were cryo-protected in a solution containing 80 % ( v/v ) of mother liquor and 20 % ( v/v ) glycerol ; the crystals soaked with zinc were transferred in the same cryo-solution with the addition of 2 mM zinc acetate . 
+The crystals were mounted in nylon loops and flash frozen by quick submersion into liquid nitrogen for transport to the synchrotron-radiation source . 
+Three single-wavelength data sets ( λ = 0.918 Å ) were collected from crystals of SeZnuA , Zn -- SeZnuA and SeZnuA Δ118 -- 141 at the BL-14 .1 beamline of the Synchrotron Radiation Source BESSY ( Berlin , Germany ) , using a CCD detector at a temperature of 100 K . 
+The data sets were processed with Denzo23 and scaled with Scalepack .23 The autoindexing procedure indicates that the crystals are hexagonal . 
+All the measured crystals belong to the P63 space group . 
+Crystal parameters and data collection statistics for the measured crystals are listed in Table 2 . 
+Table 2 . 
+Crystal parameters , data collection statistics and refinement statistics of SeZnuA in the free form and in complex with Zn ( II ) and of the ZnuA Δ118 -- 141 deletion mutant 
+SeZnuA SeZnuA + SeZnuA wild type Zn Δ118 -- 141 
+Structure solution and refinement
+The three structures ( SeZnuA , Zn -- SeZnuA and SeZnuA Δ118 -- 141 ) were determined by molecular replacement using EcZnuA ( PDB entry 2PRS ) as search model , which displays 86.94 % sequence identity with SeZnuA ( calculated using CLUSTALVIEW ) . 
+The rotational and translational searches performed with the program MOLREP24 ( CCP4 suite ) in the resolution range 10.0 -- 3.0 Å produced clear solutions , corresponding to a monomer in the asymmetric unit . 
+Refinements were performed using the maximum-likelihood method with the program REFMAC25 and model building with the program Coot19 ( see Table 2 ) . 
+The quality of the models was assessed using the program PROCHECK ; 26 all the residues of the three structures were within the allowed or generously allowed regions of the Ramachandran plot ( see Table 2 ) . 
+The structure of SeZnuA was refined to 1.71 Å resolution . 
+The final Rcrys was 20.9 % , and the free R value , calculated using the test set reflections , was 24.4 % . 
+The final model contains 266 residues ( residues 27 -- 117 and 139 -- 314 ) , 285 water molecules , 2 sulfate ions , 1 polyethylene glycol molecule ( C12H26O7 ) and 1 Zn ( II ) with an occupancy of 0.7 . 
+The residues 118 -- 138 are not visible in the structure . 
+The residues 57 -- 60 are disordered and assume different conformations . 
+To identify the bound metal ion , we collected a singlewavelength anomalous diffraction data set at the zinc anomalous peak wavelength at 1.282 Å . 
+A peak search in an anomalous difference Fourier map identified peak with a height of 18 σ located at the zinc binding site . 
+The structure of Zn ( II ) -- SeZnuA was refined to 1.71 Å resolution . 
+The final Rcrys was 20.6 % , and the free R value , calculated using the test set reflections , was 22.8 % . 
+The final model contains 265 residues ( residues 27 -- 117 and 139 -- 313 ) , 243 water molecules , 2 sulfate ions and 1 Zn ( II ) with full occupancy . 
+The 118 -- 138 residues are not visible in the structure . 
+The structure of SeZnuA Δ118 -- 141 was refined to 2.08 Å resolution . 
+The final Rcrys was 19.5 % , and the free R 
+Space group P63 P63 P63 Unit cell parameters ( Å ) a 143.65 143.65 143.65 b 143.65 143.65 143.65 c 30.81 31.80 30.81 No . 
+of molecules in the 1 1 1 asymmetric unit 〈 Bñ for atomic model ( Å2 ) 27.6 30.0 33.8 Resolution ranges ( Å ) 1.70 -- 50.0 1.93 -- 50.0 2.07 -- 50.0 ( 1.70 -- 1.76 ) ( 1.93 -- 2.0 ) ( 2.07 -- 2.14 ) Total observations 464,748 124,194 122,045 Unique reflections 40,175 26,743 22,468 ( 3940 ) ( 2626 ) ( 2204 ) Completeness ( % ) 100 ( 99.7 ) 99.0 ( 99.9 ) 99.0 ( 100 ) Redundancy 11.6 ( 11.4 ) 4.6 ( 4.8 ) 5.4 ( 5.5 ) R a merge 7.2 ( 40.5 ) 8 ( 43 ) 13 ( 43 ) χ2b 1.119 1.195 1.448 ( 0.683 ) ( 0.922 ) ( 0.788 ) 〈 I / σ ( I ) 〉 32.19 18.42 18.00 ( 5.30 ) ( 3.49 ) ( 4.00 ) Rcrys ( % ) 21.36 20.56 19.5 Rfree ( % ) 24.55 22.78 22.51 rms ( angles ) ( ° ) 1.172 1.540 1.596 rms ( bonds ) ( Å ) 0.0086 0.0161 0.0177 Residues in core region of 259 ( 98.5 ) 258 ( 98.9 ) 261 ( 99.6 ) Ramachandran plot ( % ) Residues in generously 3 ( 1.1 ) 3 ( 1.1 ) 1 ( 0.4 ) allowed region of Ramachandran plot ( % ) Residues in disallowed region of Ramachandran plot ( % ) Values in parentheses are for the highest-resolution shell . 
+a Rmerge = ∑ hkl ∑ i | Ii ( hkl ) − 〈 I ( hkl ) 〉 | / ∑ hkl ∑ iIi ( hkl ) , where Ii ( hkl ) is the ith observation of the reflection ( hkl ) and 〈 I ( hkl ) 〉 is the mean intensity of the ( hkl ) reflection . 
+b χ2 = ∑ 2 2 ii ( | Iij ( hkl ) − 〈 Ii ( hkl ) 〉 | ) / ( σi N / ( N − 1 ) ) . 
+value , calculated using the test set reflections , was 22.51 % . 
+The final model contains 263 residues ( residues 27 -- 290 ) , 148 water molecules and 2 sulfate ions . 
+1 ( 0.4 ) 
+0 ( 0.0 ) 
+0 ( 0.0 ) 
+PDB accession codes
+The coordinates for SeZnuA have been deposited in the Research Collaboratory for Structural Bioinformatics ( RCSB ) PDB with accession code 2XY4 . 
+The coordinates for Zn ( II ) -- SeZnuA have been deposited in the RCSB PDB with accession code 2XQV . 
+The coordinates for the SeZnuA Δ118 -- 141 deletion mutant have been deposited in the RCSB PDB with accession code 2XH8 . 
+Acknowledgements
+F.A. is a recipient of a Fondazione Roma fellowship . 
+The authors thank Dr. Mattia Falconi for usefu discussions and gratefully acknowledge Fondazione Roma for a research grant and the Helmholtz-Zentrum Berlin electron storage ring BESSY II for providing synchrotron radiation at beamline BL-14 .1 and for funding from the European Community 's Seventh Framework Programme ( FP7/2007 -2013 ) under grant agreement no. 226716 . 
+References 
+1 . 
+Guerinot , M. L. ( 2000 ) . 
+The ZIP family of metal transporters . 
+Biochim . 
+Biophys . 
+Acta , Biomembr . 
+1465 , 190 -- 198 . 
+2 . 
+Hantke , K. ( 2005 ) . 
+Bacterial zinc uptake and regulators . 
+Curr . 
+Opin . 
+Microbiol . 
+8 , 196 -- 202 . 
+3 . 
+Hantke , K. ( 2001 ) . 
+Bacterial zinc transporters and regulators . 
+BioMetals , 14 , 239 -- 249 . 
+4 . 
+Finney , L. A. & O'Halloran , T. V. ( 2003 ) . 
+Transition metal speciation in the cell : insights from the chemistry of metal ion receptors . 
+Science , 300 , 931 -- 936 . 
+5 . 
+Patzer , S. I. & Hantke , K. ( 1998 ) . 
+The ZnuABC high affinity zinc uptake system and its regulator zur in Escherichia coli . 
+Mol . 
+Microbiol . 
+28 , 1199 -- 1210 . 
+6 . 
+Patzer , S. I. & Hantke , K. ( 2000 ) . 
+The zinc-responsive regulator Zur and its control of the znu gene cluster encoding the ZnuABC zinc uptake system in Escher-ichia coli . 
+J. Biol . 
+Chem . 
+275 , 24321 -- 24332 . 
+7 . 
+Ammendola , S. , Pasquali , P. , Pistoia , C. , Petrucci , P. , Petrarca , P. , Rotilio , G. & Battistoni , A. ( 2007 ) . 
+Highaffinity Zn2 + uptake system ZnuABC is required for bacterial zinc homeostasis in intracellular environments and contributes to the virulence of Salmonella enterica . 
+Infect . 
+Immun . 
+75 , 5867 -- 5876 . 
+8 . 
+Thompson , J. D. , Higgins , D. G. & Gibson , T. J. ( 1994 ) . 
+CLUSTAL W : improving the sensitivity of progressive multiple sequence alignment through sequence weighting , position-specific gap penalties and weight matrix choice . 
+Nucleic Acids Res . 
+22 , 4673 -- 4680 . 
+9 . 
+DeLano , W. L. ( 2002 ) . 
+The PyMOL Molecular Graphics System . 
+DeLano Scientific , San Carlos , CA. 10 . 
+Rukhman , V. , Anati , R. , Melamed-Frank , M. & Adir , N. ( 2005 ) . 
+The MntC crystal structure suggests that import of Mn2 + in cyanobacteria is redox controlled . 
+J. Mol . 
+Biol . 
+348 , 961 -- 969 . 
+11 . 
+Lawrence , M. C. , Pilling , P. A. , Epa , V. C. , Berry , A. M. , Ogunniyi , A. D. & Paton , J. C. ( 1998 ) . 
+The crystal structure of pneumococcal surface antigen PsaA reveals a metal-binding site and a novel structure for a putative ABC-type binding protein . 
+Structure , 6 , 1553 -- 1561 . 
+12 . 
+Lee , Y. H. , Deka , R. K. , Norgard , M. V. , Radolf , J. D. & Hasemann , C. A. ( 1999 ) . 
+Treponema pallidum TroA is a periplasmic zinc-binding protein with a helical backbone . 
+Nat . 
+Struct . 
+Biol . 
+6 , 628 -- 633 . 
+13 . 
+Chandra , B. R. , Yogavel , M. & Sharma , A. ( 2007 ) . 
+Structural analysis of ABC-family periplasmic zinc binding protein provides new insights into mechanism of ligand uptake and release . 
+J. Mol . 
+Biol . 
+367 , 970 -- 982 . 
+14 . 
+Li , H. & Jogl , G. ( 2007 ) . 
+Crystal structure of the zinc-binding transport protein ZnuA from Escherichia coli reveals an unexpected variation in metal coordination . 
+J. Mol . 
+Biol . 
+368 , 1358 -- 1366 . 
+15 . 
+Banerjee , S. , Wei , B. X. , Bhattacharyya-Pakrasi , M. , Pakrasi , H. B. & Smith , T. J. ( 2003 ) . 
+Structural determinants of metal specificity in the zinc transport protein ZnuA from Synechocystis 6803 . 
+J. Mol . 
+Biol . 
+333 , 1061 -- 1069 . 
+16 . 
+Yatsunyk , L. A. , Easton , J. A. , Kim , L. R. , Sugarbaker , S. A. , Bennett , B. , Breece , R. M. et al. ( 2008 ) . 
+Structure and metal binding properties of ZnuA , a periplasmic zinc transporter from Escherichia coli . 
+JBIC , J. Biol . 
+Inorg . 
+Chem . 
+13 , 271 -- 288 . 
+17 . 
+Petrarca , P. , Ammendola , S. , Pasquali , P. & Battistoni , A. ( 2010 ) . 
+The Zur-regulated ZinT protein is an auxiliary component of the high-affinity ZnuABC zinc transporter that facilitates metal recruitment during severe zinc shortage . 
+J. Bacteriol . 
+192 , 1553 -- 1564 . 
+18 . 
+Wei , B. , Randich , A. M. , Bhattacharyya-Pakrasi , M. , Pakrasi , H. B. & Smith , T. J. ( 2007 ) . 
+Possible regulatory role for the histidine-rich loop in the zinc transport protein , ZnuA . 
+Biochemistry , 46 , 8734 -- 8743 . 
+19 . 
+Emsley , P. & Cowtan , K. ( 2004 ) . 
+Coot : model-building tools for molecular graphics . 
+Acta Crystallogr. , Sect . 
+D : Biol . 
+Crystallogr . 
+60 , 2126 -- 2132 . 
+20 . 
+Maret , W. & Li , Y. ( 2009 ) . 
+Coordination dynamics of zinc in proteins . 
+Chem . 
+Rev. 109 , 4682 -- 4707 . 
+21 . 
+Auld , D. S. ( 2001 ) . 
+Zinc coordination sphere in biochemical zinc sites . 
+BioMetals , 14 , 271 -- 313 . 
+22 . 
+Falconi , M. , Oteri , F. , Di Palma , F. , Pandey , S. , Battistoni , A. & Desideri , A. ( 2011 ) . 
+Structural -- dynamical investigation of the ZnuA histidine-rich loop : involvement in zinc management and transport . 
+J. Comput.-Aided Mol . 
+Des . 
+25 , 181 -- 194 . 
+23 . 
+Otwinowski , Z. & Minor , W. ( 1997 ) . 
+Processing of X-ray diffraction data collected in oscillation mode . 
+Methods Enzymol . 
+276 , 307 -- 326 . 
+24 . 
+Vagin , A. & Teplyakov , A. ( 2010 ) . 
+Molecular replacement with MOLREP . 
+Acta Crystallogr. , Sect . 
+D : Biol . 
+Crystallogr . 
+66 , 22 -- 25 . 
+25 . 
+Murshudov , G. N. , Vagin , A. A. & Dodson , E. J. ( 1997 ) . 
+Refinement of macromolecular structures by the maximum-likelihood method . 
+Acta Crystallogr. , Sect . 
+D : Biol . 
+Crystallogr . 
+53 , 240 -- 255 . 
+26 . 
+Laskowski , R. A. , MacArthur , M. W. , Moss , D. S. & Thornton , J. M. ( 1993 ) . 
+PROCHECK : a program to check the stereochemical quality of protein structures . 
+J. Appl . 
+Crystallogr . 
+26 , 283 -- 291

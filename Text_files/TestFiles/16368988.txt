@@ -1,0 +1,559 @@
+INFECTION AND IMMUNITY , Jan. 2006 , p. 331 -- 339 
+0019-9567/06 / $ 08.00 0 doi :10.1128 / IAI .74.1.331 -- 339.2006 Copyright © 2006 , American Society for Microbiology . 
+All Rights Reserved . 
+Identiﬁcation of CsrC and Characterization of Its Role in Epithelial Cell Invasion in Salmonella enterica Serovar Typhimurium
+Doreen R. Fortune , Mitsu Suyemoto , and Craig Altier * 
+College of Veterinary Medicine , North Carolina State University , 4700 Hillsborough Street , Raleigh , North Carolina 27606 Received 9 May 2005/Returned for modiﬁcation 8 June 2005/Accepted 26 October 2005 
+The csr regulatory system of Salmonella regulates the expression of the genes of Salmonella pathogenicity island 1 ( SPI1 ) required for the invasion of epithelial cells . 
+This system consists of the posttranscriptional regulator CsrA and an untranslated regulatory RNA , CsrB , that opposes the action of CsrA . 
+Here we identify and characterize the role of a second regulatory RNA , CsrC , whose ortholog was discovered previously in Escherichia coli . 
+We show that a mutant of csrC has only mild defects in invasion and the expression of SPI1 genes , as does a mutant of csrB , but that a double csrB csrC mutant is markedly deﬁcient in these properties , suggesting that the two regulatory RNAs play redundant roles in the control of invasion . 
+We further show that CsrC , like CsrB , is controlled by the BarA/SirA two-component regulator but that a csrB csrC mutant exhibits a loss of invasion equivalent to that of a barA or sirA mutant , indicating that much of the effect of BarA/SirA on invasion functions through its control of CsrB and CsrC . 
+In addition to their control by BarA/SirA , each regulatory RNA is also controlled by other components of the csr system . 
+The loss of csrB was found to increase the level of CsrC by sevenfold , while the loss of csrC increased CsrB by nearly twofold . 
+Similarly , the overexpression of csrA increased CsrC by nearly 11-fold and CsrB by 3-fold and also signiﬁcantly increased the stability of both RNAs . 
+Invasion is the process by which Salmonella penetrates the barrier of the intestinal epithelial layer . 
+It requires the functions of a type III secretion system , encoded within Salmonella patho-genicity island 1 ( SPI1 ) ( 6 , 16 , 17 , 21 , 25 , 30 ) . 
+This island encodes a multiprotein secretion apparatus , termed a needle complex , as well as secreted effector proteins that are delivered to the cytoplasm of the epithelial cells via the needle complex ( 15 , 19 , 22 ) . 
+These effector proteins thus induce changes in the cell cytoskel-eton that cause the bacterium to be engulfed ( 8 , 14 , 38 ) , causing both the signs of enteric salmonellosis and the potential for the organism to reach deeper tissues ( 16 , 21 , 29 , 35 ) . 
+The control of the SPI1 type III secretion system is complex , with several transcriptional regulators present within the island . 
+HilD and HilC are activators of the regulator hilA ( 13 , 20 , 33 ) . 
+HilA itself can control invasion directly by inducing expression of the secretion apparatus through control of the inv/spa operon and by inducing the genes that encode secreted effector proteins through control of the sip operon ( 3 , 4 ) . 
+HilA also induces invasion indirectly by its activation of another regulator , invF , which itself induces the sip operon ( 3 , 4 , 9 , 12 ) . 
+Control of SPI1 also extends to global regulators encoded outside the island . 
+One such regulator is the posttranscriptional regulatory protein CsrA . 
+First identiﬁed in Escherichia coli as a regulator of carbon storage and metabolism , CsrA binds to the messages of its targets and acts to alter mRNA stability ( 27 , 28 , 32 ) . 
+CsrA has been shown to reduce the half-life of at least one target message and to increase the half-life of another , indicating that mRNA can be made more or less stable as the result of this interaction , depending upon 
+* Corresponding author . 
+Mailing address : College of Veterinary Med-icine , North Carolina State University , 4700 Hillsborough Street , Raleigh , NC 27606 . 
+Phone : (919) 513-8284 . 
+Fax : (919) 513-6464 . 
+E-mail : craig _ altier@ncsu.edu . 
+the speciﬁc target ( 5 , 34 , 36 ) . 
+The binding site for CsrA has been shown to overlap the ribosome binding site , suggesting that CsrA may act by altering the efﬁciency of translation ( 5 , 11 ) . 
+Although such a mechanism of regulation might appear to be generic , CsrA presumably recognizes and binds a limited set of targets , as it controls only speciﬁc functional classes of genes . 
+In Salmonella , csrA regulates invasion and the expression of SPI1 genes as well as those required for the production of ﬂagella and for certain pathways of carbon metabolism ( 1 , 23 ) . 
+It appears that the level of CsrA must be tightly controlled to allow optimal invasion , as both loss of csrA and its overexpression are detrimental to invasion ( 1 ) . 
+A second part of the csr regulatory system in E. coli consists of two untranslated regulatory RNA molecules , CsrB and CsrC . 
+The two have similar predicted structures , with multiple stem-loops , and carry similar sequence motifs in the unpaired loop regions that resemble the sequence of a ribosome binding site . 
+It has thus been proposed that CsrB and CsrC bind CsrA , titrating it from its targets ( 26 , 37 ) . 
+In Salmonella , CsrB has been identiﬁed previously and has been shown to have 16 predicted stem-loops , each carrying the consensus sequence GWGGRHG ( 2 ) . 
+The loss of CsrB , however , produced a reduction in SPI1 gene expression much milder than that achieved through alterations in csrA expression and showed no discernible change in the penetration of epithelial cells ( 1 ) . 
+These ﬁndings thus suggested that there exist other methods by which CsrA is controlled , in addition to its titration by CsrB . 
+A second regulator known to control invasion in Salmonella is BarA/SirA . 
+BarA and SirA are the respective sensor kinase and cognate response regulator that comprise a two-component regulator required for the expression of SPI1 genes ( 2 , 20 , 34 ) . 
+SirA can bind to the promoters of the SPI1 genes hilA and hilC and thus presumably directly activates these genes ( 34 ) . 
+It can , however , also bind to csrB , and both BarA and SirA have been shown to be required for the expression of csrB ( 24 , 34 ) . 
+Thus , BarA/SirA works , at least in part , through its control of the csr system . 
+Although the second regulatory RNA , CsrC , has been identiﬁed in E. coli , it has not yet been described in Salmonella . 
+Here , we identify CsrC and describe its function . 
+We show that the cumulative effects of the loss of both CsrB and CsrC signiﬁcantly reduce SPI1 gene expression and epithelial cell invasion . 
+We further show that CsrB and CsrC are both controlled by BarA/SirA and that control of these two regulatory RNAs provides an important pathway by which BarA/SirA regulates invasion . 
+We also demonstrate that control of the csr system is complex , with levels of each regulatory RNA , CsrB and CsrC , being altered by changes in expression of the other and by the expression of CsrA . 
+33 
+TABLE 1 . 
+Strains and plasmids used 
+Source or reference 
+Strain or plasmid 
+Genotype 
+Strains 
+ATCC 14028s Wild type 
+American 
+Type Culture Collection 2 This work This work This work This work 2 20 1 1 2 2 This work This work This work This work This work 2 2 This work 2 2 This work This work This work This work 2 2 This work 7 This work 
+CA410 CA1000 CA1260 CA1005 CA1262 CA513 CA772 CA618 CA678 CA412 CA416 CA1255 CA1264 CA1027 CA1266 CA1044 CA781 CA921 CA1037 CA414 CA418 CA1026 CA1265 CA1028 CA1267 CA783 CA923 CA1045 LB5000 CA1475 
+csrB csrC 
+csrC csrC csrC csrB csrC csrB csrC barA sirA Wild type/pCA114 csrA sup8 sipC : : lacZY csrB sipC : : lacZY csrC sipC : : lacZY csrC csrC sipC : : lacZY csrC csrB sipC : : lacZY csrC csrB csrC sipC : : lacZY csrC csrB pCA71 sipC : : lacZY barA sipC : : lacZY sirA sipC : : lacZY barA csrB csrC sipC : : lacZY hilA : : lacZY csrB hilA : : lacZY csrC hilA : : lacZY csrC csrC hilA : : lacZY csrC csrB hilA : : lacZY csrC csrB csrC hilA : : lacZY barA hilA : : lacZY sirA hilA : : lacZY barA csrB csrC hilA : : lacZY r m csrC csrC STM4002 mutant sipC : : lacZY 
+MATERIALS AND METHODS
+Strains and growth conditions . 
+Strains and plasmids used in this study are shown in Table 1 . 
+Growth conditions used for each assay are described below . 
+When required , plasmids were maintained by the addition of ampicillin to the medium at a concentration of 100 g/ml . 
+The csrC mutant was constructed by ﬁrst identifying a region of the Salmonella enterica serovar Typhimurium LT2 genome homologous to E. coli csrC . 
+We then created a marked deletion of this region using a one-step inactivation method ( 10 ) . 
+PCR primers were designed to allow the ampliﬁcation of the chloramphenicol resistance marker from plasmid pKD3 and with 40 bases of homology to the regions immediately ﬂanking the predicted csrC region . 
+Primers used were 5 - GTATCTTGTGAGTTTACCCCA AAAGAGTAAAGTAATGCACTGTAGGCTGGAGCTGCTTC and 5 - CCG TTTTATTCAGTATAGAATTGAGGCGGAATCTAGCAGACATATGAA TATCCTCCTTAG . 
+The resulting PCR product was used to transform strain ATCC 14028s carrying pKD46 , which encodes Red recombinase , which provides for allelic exchange . 
+This created a 253-bp deletion encompassing positions 1191 to 1443 inclusive of GenBank sequence AE008887 and the replacement of this region with a chloramphenicol resistance marker . 
+Candidate mutants were tested for loss of the appropriate region by PCR ampliﬁcation . 
+All strains carrying combinations of mutations were constructed by P22 transduction . 
+The csrC mutant was complemented in single copy by integration of the wild-type gene adjacent to and immediately upstream from the site of the csrC deletion . 
+A 540-bp fragment including the predicted csrC and 267 bp of upstream DNA was PCR ampliﬁed using the primers 5 - AAGGCCTCGTCTCCGTCAGTCAAAG and 5 - CCCAAGCTTGAGGCGGAATCTAGCAG and was cloned into the suicide vector pVEX1211 . 
+The complementing csrC was integrated into the chromosome of the r strain LB5000 carrying the disrupted csrC by selection on streptomycin ( 20 g/ml ) and spectinomycin ( 100 g/ml ) . 
+The disrupted csrC and complementing copy were then moved together by P22 transduction into the wild-type strain by selection on streptomycin , spectinomycin , and chloramphen-icol ( 25 g/ml ) . 
+To determine whether the open reading frame ( ORF ) STM4002 was required for complementation , a stop codon was created in that ORF using the QuikChange mutagenesis protocol ( Stratagene ) and the primers 5 - CCG TGTCGGTATCTTGTGAGTTAACCCCAAAAGAGTAAAGTAATG and 5 - CATTACTTTACTCTTTTGGGGTTAACTCACAAGATACCGACACGG . 
+The mutation was conﬁrmed by the creation of a HpaI site . 
+The mutated fragment , otherwise identical to that used to complement the csrC mutant , was cloned onto pVEX1211 and integrated into the chromosome as described above . 
+Invasion assays . 
+HEp-2 cells were grown in 24-well plates to conﬂuence in RPMI 1640 with 5 % fetal calf serum . 
+Bacteria were grown overnight as static cultures in LB broth with 100 mM HEPES buffer , pH 8 . 
+Approximately 106 bacteria were added to cells , for a multiplicity of infection of 10 bacteria/cell . 
+Plates were then centrifuged for 5 min at 800 g and incubated for 1 h at 37 °C in 95 % air with 5 % CO2 . 
+Medium was removed , the cells were washed three times with phosphate-buffered saline , and the medium was replaced by medium supplemented with gentamicin ( 20 g/ml ) . 
+Cells were incubated for an additional hour , the medium was removed , and monolayers were washed three times with phosphate-buffered saline . 
+The cells were lysed with 1 % Triton X-100 for 5 min , and the bacterial titers of the lysates were determined by colony counts . 
+Each bacterial culture was tested in quadruplicate . 
+- Galactosidase assays . 
+Triplicate cultures of each bacterial strain to be assayed were grown standing at 37 °C and assayed for - galactosidase activity as described previously ( 28a ) . 
+Cultures were grown in LB medium supplemented with 100 mM HEPES , pH 8 . 
+Northern analysis and RNA stability assays . 
+All strains were grown overnight with aeration in LB broth . 
+Bacteria were then subcultured 1:50 and grown to late log phase ( optical density at 600 nm [ OD600 ] of 0.8 ) in LB supplemented with 100 mM HEPES , pH 8 . 
+Strains with the plasmid pCA114 , which carries csrA under the control of the araBAD promoter on pBAD18 , were , in addition , grown with ampicillin and either 0.2 % glucose for promoter repression or 0.2 % arabinose for promoter induction . 
+To 1 ml of each culture was added 100 l of stop solution ( 10 % buffer-saturated phenol in ethanol ) , and total RNA was isolated using an SV total RNA isolation system kit ( Promega ) according to the manufacturer 's protocol . 
+RNA concentration was determined by measuring the OD260 , and 5 g of total RNA from each sample was separated by electrophoresis using an agarose gel containing 9.25 % formaldehyde . 
+RNA was transferred to a nylon membrane ( Roche ) and ﬁxed by UV cross-linking . 
+Prehybridization and hybrid-ization were performed using Roche Dig Easy Hyb granules at 42 °C with gentle agitation . 
+The membrane was hybridized overnight with digoxigenin-dUTP-la-beled probes from either the 289-bp csrB region ( 2 ) or a 325-bp region that encompasses csrC , created using the primers 5 - CCCAAGCTTTGCCGTGTC GGTATC and 5 - AAGGCCTTGAGGCGGAATCTAGCAG . 
+Hybridization was detected using disodium-3 - ( 4-methoxyspirol [ 1,2-dioxetane-3 2 - ( 5-chloro ) tricy-clo ( 3.3.1.3 ) decan ] -4 - yl ) phenylphosphate ( Roche ) by chemiluminescence using a Boehringer Mannheim Lumi-Imager . 
+Band intensity was determined by densi-tometry using the LumiAnalyst 3.0 software ( Boehringer Mannheim ) . 
+For RNA stability assays , the production of new RNA was halted with rifampin ( 500 g/ml ) . 
+One-milliliter samples of cultures were collected at 0 , 1 , 8 , and 15 mi after rifampin treatment , and 100 l of stop solution was added to each culture . 
+RNA isolation and detection were performed as described above using 5 g of total bacterial RNA for each time point . 
+RNA half-life determination . 
+Wild-type and csrA strains were grown over-night with aeration in LB broth . 
+Bacteria were then subcultured 1:50 and grown to stationary phase ( OD600 of 1.2 ) in LB broth . 
+The production of new RNA was halted with rifampin ( 500 g/ml ) . 
+Samples were collected at 0 , 1 , 3 , 5 , 8 , and 15 min after rifampin treatment , and 100 l of stop solution was added to 1-ml aliquots of culture . 
+Total RNA was isolated as above , and samples were treated with DNase according to the manufacturer 's directions ( Promega ) . 
+cDNA was produced by reverse transcription using Superscript II ( Invitrogen ) from equal concentrations of RNA . 
+To detect CsrC , multiplex PCR ampliﬁcation was performed with primers speciﬁc to csrC , 5 - GCCGTAAGGTCACAGGAAAA and 5 - AAATCTGGCGCGAAGAATAA , and to the control gene icd , 5 - CCGCTG AAACCCTTGATTTA and 5 - ATTCAATTCCGGCGTAGATG , in the same reaction . 
+The products were measured by densitometry using a Lumi-Imager , and decay was plotted using linear regression ( Microsoft Excel 2003 ) . 
+The mean of three independent trials was used to determine the half-life of CsrC . 
+RNA secondary structure prediction . 
+RNA secondary structure was analyzed with the program RNADraw 1.01 , which uses the algorithm of Zuker and Stiegler ( 39 ) . 
+Statistical analysis . 
+For - galactosidase and invasion assays , a one-way analysis of variance was used to determine whether the mean of at least one strain differed from that of any of the others . 
+Then , multiple comparison tests ( least square difference t test at a P level of 0.05 ) were used to determine which means differed ( SAS System for Windows 8 ) . 
+Plasmids pCA114 pCA71 
+csrA under ParaBAD control ; Apr 1 csrB ; Apr 1 
+FIG. 1 . 
+Predicted structure of CsrC . 
+Stem-loops are numbered , and loops with the AGGA motif are shown with numbers circled . 
+Stem-loop 9 has the characteristic structure of a rho-independent transcriptional terminator . 
+The secondary structure was generated using RNADraw 1.01 . 
+RESULTS
+Effects of CsrC and CsrB on Salmonella invasion . 
+The csr regulatory system , comprised of the posttranscriptional regulator CsrA and the untranslated regulatory RNA CsrB , has been shown to control the invasion of intestinal epithelial cells in Salmonella enterica serovar Typhimurium ( 1 , 2 , 34 ) . 
+Recently , a second regulatory RNA , termed CsrC and unlinked to 
+CsrB , was identiﬁed in E. coli and was postulated to play a role similar to that of CsrB ( 37 ) . 
+To determine whether Salmonella carries a csrC ortholog , we examined the sequence of Salmo-nella serovar Typhimurium strain LT2 for nucleotide similarities to E. coli csrC . 
+We ﬁrst identiﬁed a region at centisome 87 of the chromosome with 88 % identity to the reported E. coli csrC sequence . 
+In E. coli , RNA secondary structure analysis predicted a CsrC molecule with nine stem-loops having conserved sequence within the unpaired portions of the loops ( 37 ) . 
+A similar analysis of the Salmonella serovar Typhimurium CsrC predicted it to have eight such structures , along with a rho-independent transcriptional terminator ( Fig. 1 ) . 
+Of these eight stem-loops , seven had a pair of guanine residues in the loop portion , and four of these carried the sequence AGGA , a motif found in E. coli CsrC and in CsrB from both E. coli and Salmo-nella . 
+This motif is also similar to a ribosome binding site thought to be the recognition site of CsrA for its target messages . 
+To investigate whether CsrC played any role in the control of Salmonella invasion , we made a deletion of csrC in the virulent strain ATCC 14028s and tested the ability of the resulting mutant to penetrate cultured epithelial cells . 
+We found that invasion of HEp-2 cells was signiﬁcantly reduced in the csrC mutant but that the reduction was modest , to a level 54 % of that of the wild type ( Fig. 2 ) . 
+This invasion defect was similar in magnitude to that produced by the loss of csrB . 
+However , the invasion of a double csrB csrC mutant was much more severely reduced , being 14-fold less than that of the wild type . 
+This reduced level of invasion was not signiﬁcantly different from that of a barA mutant ( 11-fold reduced ) or a sirA mutant ( 20-fold reduced ) , components of the BarA/SirA two-compo nent regulator known to control invasion . 
+Invasion of HEp-2 cells could be fully complemented in the csrC mutant by singlecopy expression of the wild-type gene . 
+In addition , the complementation of the csrB csrC double mutant with csrC restored invasion to a level comparable to that of either of the single mutants . 
+These ﬁndings thus show that both CsrB and CsrC play roles in the induction of invasion and that the loss of both results in a signiﬁcant invasion defect . 
+We next tested the ability of CsrC to affect the expression of invasion genes of SPI1 required for epithelial cell invasion . 
+Using a lacZY fusion to hilA , a transcriptional regulator of SPI1 genes , we found its expression to be only mildly reduced in the csrC mutant , to a level 75 % of that of the wild type ( Fig. 3A ) . 
+The double csrB csrC mutant , however , showed a severe defect in hilA expression , with a reduction of 5.8-fold . 
+As was observed for epithelial cell invasion , complementation of the csrC mutant restored hilA expression to the wild-type level , while complementation of the csrB csrC mutant restored expression to the level of a strain having only the csrB mutation . 
+BarA/SirA is a two-component regulator that is required for the full expression of SPI1 genes . 
+SirA , the response regulator , has been shown to bind to the promoters of hilA and hilC , as well as to csrB , and thus is proposed to activate SPI1 genes through multiple pathways ( 34 ) . 
+To examine the contribution of CsrB and CsrC to the induction of invasion gene expression , we compared their effects to those of barA and sirA mutants . 
+The effects of the loss of csrB and csrC on hilA expression were indistinguishable from the effects of null mutations of either barA or sirA ( Fig. 3A ) . 
+Further , expression in a csrB csrC double mutant was not further reduced by the loss of barA , as would be expected if BarA/SirA regulated hilA independent of the csr system . 
+Similarly , we examined the importance of CsrB and CsrC to the expression of sipC , encoding a SPI1 secreted effector protein . 
+As with hilA , expression of sipC was modestly reduced in the csrC mutant ( 65 % of wild type ) or the csrB mutant ( 39 % of wild type ) . 
+The double csrB csrC mutant , however , produced a 34-fold reduction in sipC expression ( Fig. 3B ) . 
+Complementation of the csrB csrC mutant by csrC in single copy restored expression to the level of a strain having only the csrB mutation , while complementation with csrB on a multicopy plasmid produced expression greater than that of the wild type . 
+Again , the loss of csrB and csrC together reduced expression to a degree indistinguishable from that of either a barA or sirA mutant , and expression in the barA mutant was not reduced further by the loss of csrB and csrC . 
+Thus , these results suggest that , even though BarA/SirA may also control SPI1 genes directly , much of the control of SPI1 by this two-component regulator requires CsrB and CsrC . 
+Although CsrC is known to be untranslated in E. coli , it remained possible that the observed phenotypes were due instead to the loss of a protein . 
+A single putative open reading frame of 74 amino acids , STM4002 , is predicted to overlap the csrC locus . 
+To determine whether this ORF was required for the expression of SPI1 genes , we complemented the csrC mutant in single copy with a construct carrying a point mutation in STM4002 . 
+This mutation created a stop codon in STM4002 , reducing it to a predicted two amino acids , but was outside the csrC locus . 
+Assays for the expression of sipC showed that complementation of the csrC mutant with this construct was equal to that using the wild-type csrC ( data not shown ) , indicating that production of this protein was not required for the activity of CsrC and supporting the role of CsrC as a functional RNA . 
+Control of CsrC and CsrB . 
+It has previously been shown that csrB is induced by both BarA and SirA ( 24 , 34 ) . 
+As our ﬁndings indicated that both CsrB and CsrC participate in the control of SPI1 , we next determined whether the BarA/SirA two-compo-nent regulator also controls csrC expression . 
+Northern analysis showed that the level of CsrC was reduced ﬁvefold in a barA mutant or in a sirA mutant ( Fig. 4A ) . 
+Consistent with previous ﬁndings , levels of CsrB were also reduced ﬁvefold in mutants of barA and sirA ( Fig. 4B ) . 
+Thus , the BarA/SirA two-compo-nent regulator positively controls both of the known regulatory RNAs of the csr system . 
+CsrA is a posttranscriptional regulator that binds to its target messages and alters their half-lives . 
+It has been previously shown in E. coli that CsrA positively regulates CsrC , but the method of this action is postulated to be indirect , rather than by alteration of the stability of the CsrC regulatory RNA by CsrA ( 37 ) . 
+To determine whether CsrA could control the level of CsrC in Salmonella , we next examined the level of CsrC in response to altered expression of csrA using Northern analysis . 
+Using a wild-type strain carrying the plasmid pCA114 , which has csrA under the control of the arabinose-inducible araBAD promoter , we found that overexpression of csrA signiﬁcantly increased the levels of both CsrC and CsrB . 
+When csrA was expressed from this arabinose-inducible promoter , the addition of arabinose to the culture medium resulted in a 10.8-fold increase in CsrC ( Fig. 4A ) and a 3-fold increase in CsrB ( Fig. 4B ) . 
+Repression of csrA from this same plasmid by growth in glucose produced a level of CsrC indistinguishable from that of wild type and a level of CsrB approximately 60 % of that found in the wild type 
+FIG. 2 . 
+Invasion of HEp-2 cells . 
+Isogenic strains with the listed genotypes were added to HEp-2 cells at a multiplicity of infection of approximately 10 , and cell invasion was determined using a gentamicin protection assay . 
+Invasion is shown with the wild-type strain set to 100 . 
+Values represent the means standard errors of the means with each strain tested in quadruplicate . 
+FIG. 3 . 
+Effects of csrB and csrC on expression of SPI1 genes . 
+Strains of the genotypes shown and carrying transcriptional lacZY fusions to hilA ( A ) or sipC ( B ) were tested in triplicate for - galactosidase production . 
+Error bars represent standard errors of the means . 
+Because CsrA is known to bind to its target messages and alter their half-lives , we next sought to determine whether the stability of CsrB or CsrC could be changed in response to altered levels of CsrA . 
+We identiﬁed changes in the stability of CsrB and CsrC in cultures grown to mid-log by halting the production of all RNA with the RNA polymerase inhibitor rifampin and then measuring the levels of each at time points thereafter using Northern analysis . 
+As shown in Fig. 5A , the concentration of CsrC was reduced in the csrA null mutant , but there was no detectable change in the rate of decay of CsrC . 
+Overexpression of csrA , however , did signiﬁcantly increase the longevity of CsrC . 
+The induction with arabinose of csrA on pCA114 under the control of the arabinose-inducible promoter caused a signiﬁcant increase in the stability of CsrC , while repression of csrA by growth in glucose produced CsrC with a stability no different from that of wild type ( Fig. 5A ) . 
+Similarly , the stability of CsrB was also increased by CsrA overexpression but was not reduced in the csrA null mutant ( Fig. 5B ) . 
+Thus , csrA , at least when it is overexpressed , can lead to increased stabilities of both CsrC and CsrB . 
+As CsrA can bind to its two regulatory RNAs , presumably titrating the protein , the levels of CsrB or CsrC might also be affected by the loss of the other regulatory RNA by providing a greater concentration of unbound and active CsrA . 
+To test this prediction , we examined the effects of deletions of csrB or csrC on the level of the other RNA . 
+We found that the loss of csrB increased the concentration of CsrC by 7.1-fold ( Fig. 4A ) , while the loss of csrC increased CsrB by 1.9-fold . 
+Therefore , levels of the two regulatory RNAs can each be changed by altering the concentration of free CsrA both directly , through its overexpression , and indirectly , by elimination of an RNA to which CsrA can bind . 
+One plausible explanation for these ﬁndings is that CsrA binds to and stabilizes CsrB and CsrC . 
+Thus , the loss of CsrA would reduce the levels of both CsrB and CsrC , while the loss of either CsrB or CsrC would increase the pool of CsrA available to bind to the remaining regulatory RNA , further stabilizing it . 
+As a null mutation of csrA had little effect on either CsrB or CsrC stability , we postulated that the level of CsrA present in the mid-log culture ( OD600 of 0.8 ) from which th 
+RNA was extracted might be too low to allow an observable change . 
+Indeed , in E. coli , levels of CsrA and CsrB increase as cultures reach stationary phase ( 18 ) , and we found by reverse transcription-PCR that expression of csrA in Salmonella increases with increasing culture density ( data not shown ) . 
+We therefore next measured changes in the half-lives of CsrB and CsrC due to the loss of csrA at a later point in the growth cycle ( OD600 , 1.2 ) and using reverse transcription-PCR , a more sensitive means to detect alterations in RNA levels . 
+We halted RNA production in cultures with rifampin , isolated total RNA at time points , reverse transcribed the RNA pool to create cDNA , and then PCR ampliﬁed using primers speciﬁc to either csrB or csrC . 
+As a control , we similarly ampliﬁed icd , encoding isocitrate dehydrogenase , a gene we had previously determined by microarray analysis not to have altered expression in a csrA mutant ( not shown ) . 
+Using this assay , we found that the stability of CsrC in the csrA mutant was greatly reduced ( Fig. 6 ) . 
+The half-life of CsrC in the wild type was calculated to be 10.9 min but was reduced to 0.5 min in the csrA mutant . 
+We could not , however , detect a difference in the half-life of CsrB due to the loss of csrA ( not shown ) . 
+These ﬁndings therefore suggest that CsrA stabilizes CsrC , but they fail to show the means by which CsrA affects the concentration of CsrB . 
+DISCUSSION
+The csr regulatory system of Salmonella controls a number of functions , including the expression of SPI1 genes and the invasion of epithelial cells , the production of ﬂagella , and the utilization of speciﬁc nutrient sources ( 23 ) . 
+This system was previously known to consist of the protein regulator CsrA and the untranslated regulatory RNA CsrB , which opposes the action of CsrA ( 1 , 2 ) . 
+Here we have shown that a second regulatory RNA previously identiﬁed in E. coli , CsrC , exists in Salmonella and is an equally important component of the csr system for the control of epithelial cell invasion . 
+The loss of either of the two regulatory RNAs alone produced only mild defects in invasion , but the loss of both together resulted in a much more severe defect . 
+This suggests that the two have similar functions and play redundant roles in the bacterium . 
+Supporting this contention is the proposed structure of the two molecules . 
+Each is predicted to consist of multiple stem-loop structures that may present bindings sites for CsrA , titrating it from its intended targets . 
+Both csrB and csrC are positively controlled by BarA/SirA , a two-component regulator required for invasion , suggesting the following model for control by the csr system ( Fig. 7 ) . 
+Within the intestinal tract of an animal host , BarA/SirA is activated , either in response to high concentrations of acetate or by an as-yet-unidentiﬁed signal for BarA activation ( 24 ) . 
+SirA then activates both csrB and csrC . 
+The activation of csrB by SirA is likely to be direct , as SirA has been shown to bind to csrB DNA ( 34 ) . 
+It is not yet known , however , whether SirA activates csrC by the same means . 
+Once produced , the two regulatory RNAs bind and titrate CsrA . 
+The reduction in free CsrA leads to th induction of SPI1 genes , although the direct target , or targets , of CsrA in the invasion pathway are not known . 
+It is possible that CsrA has direct targets within SPI1 , but it is also possible that CsrA affects the message stability of one or more regulators outside SPI1 that affect the expression of invasion genes . 
+Thus , it is likely that conditions that induce invasion cause a reduction in the concentration of free CsrA within the bacte-rium . 
+It is also known , however , that both the loss of CsrA and its overproduction can reduce the expression of SPI1 genes ( 1 ) , suggesting that the concentration of CsrA must be tightly controlled to produce maximal invasion . 
+In addition to its control of the csr system , BarA/SirA likely also directly activates the expression of SPI1 genes . 
+SirA has been shown to bind to two central regulators of SPI1 , hilA and hilC , and so presumably induces the expression of numerous SPI1 genes through their control ( 34 ) . 
+Results shown here , however , suggest that a large part of the control of invasion by BarA/SirA is manifested through control of the csr system , rather than by the direct control of SPI1 . 
+A mutant of both csrB and csrC had a defect in invasion and SPI1 gene expression similar to that of either a barA or sirA mutant , and the loss of barA in a csrB csrC double mutant engendered no additional invasion defect . 
+As the other known targets of SirA in the control of invasion , hilA and hilC , were intact in these tests , these ﬁndings suggest that control of the csr system provides the primary route for control of invasion by BarA/SirA . 
+This work also shows that each of the two regulatory RNAs can be controlled by other components of the csr system . 
+The overproduction of CsrA increased both the levels and the stability of CsrC and CsrB . 
+Further , the loss of either CsrB or CsrC increased the concentration of the other regulatory RNA . 
+One model by which these ﬁndings can be explained holds that CsrA binds to and stabilizes each of the regulatory RNAs . 
+Thus , overexpression of CsrA provides a greater binding capacity , while the loss of one of the RNAs allows greater binding of CsrA to the remaining RNA . 
+Consistent with this model is the ﬁnding that the loss of CsrA greatly reduced the half-life of CsrC . 
+As CsrA is known to affect the stability of its targets , the change of stability of CsrC would suggest a direct method of control by CsrA . 
+We were , however , not able to demonstrate a similar change in stability of CsrB , perhaps suggesting that its control by CsrA is instead not the result of direct binding . 
+This work also shows that the concentration of CsrC changes more in response to alterations in CsrA and CsrB than does the concentration of CsrB in response to changes in CsrA and CsrC . 
+It is possible that CsrB exists in higher concentrations in the wild-type bacterium , and so its loss has more profound effects on other elements of the system . 
+Alternatively , CsrB may exert a greater inﬂuence by the nature of its structure . 
+It carries a predicted 16 stem-loops for CsrA binding , while CsrC has only 8 ( Fig. 1 ) , and thus its los may lead to a higher concentration of free CsrA and consequent effects . 
+Finally , it is possible that the interaction between CsrA and the regulatory RNA molecules affects changes in their concentrations . 
+CsrA alters the half-life of CsrC ( Fig. 6 ) but does not appear to do so for CsrB . 
+Thus , it may be that CsrA regulates CsrC by binding and stabilizing it , while CsrA regulates CsrB by an indirect mechanism . 
+The csr system was ﬁrst identiﬁed in E. coli , and all three of the essential components , CsrA , CsrB , and CsrC , have close homologs in Salmonella serovar Typhimurium . 
+In E. coli , the system is known to function in the control of carbon meta-bolism , motility , and cell surface properties ( 31 ) . 
+In Salmonella , the csr system controls motility as well but has also adapted to regulate functions not found in E. coli , including invasion and the metabolism of speciﬁc carbon sources ( 23 ) . 
+Regulation of the system also has elements in common between the two species . 
+In both , the two-component regulator BarA/SirA ( BarA/UvrY in E. coli ) is required for expression of CsrB and CsrC , and the levels of both of the regulatory RNAs are affected by CsrA . 
+In E. coli , however , this control of CsrB and CsrC is proposed to be at the level of transcription , as CsrA has not been found to alter the stability of either regulatory RNA but does alter the expression of lacZ transcriptional fusions to each ( 37 ) . 
+In contrast , we have reported here that the loss of CsrA reduced the half-life of CsrC , but not CsrB . 
+In remains possible that Salmonella CsrA also regulates CsrB and CsrC by controlling their transcription , but these ﬁndings indicate as well that CsrA increases the longevity of CsrC by stabilizing it . 
+The csr system provides a complex means to control the expression of invasion and important metabolic functions in Salmonella . 
+It remains unknown , however , why this system would require two regulatory RNAs , CsrB and CsrC , that have such similar structures , functions , and mechanisms of control . 
+It is possible that , in addition to control by BarA/SirA , each also responds to additional genetic regulators , allowing the integration of multiple environmental signals . 
+It is also plausible that the integrated effects of these two regulators could produce a ﬁnely controlled level of CsrA required for the differential expression of target genes . 
+It is known that invasion is repressed both by the loss of csrA and its overexpression , suggesting that levels of CsrA must be tightly controlled ( 1 ) . 
+It is therefore possible that other members of the csr regulon require differing levels of CsrA to achieve optimal expression and that the concentrations of CsrC and CsrB within the bacterium provide this ﬁne control . 
+FIG. 4 . 
+Northern analysis of CsrC and CsrB . 
+Total RNA was isolated from cultures grown to an OD600 of 0.8 and hybridized to digoxigenin-dUTP-labeled probes for either csrC ( A ) or csrB ( B ) . 
+Strain genotypes are shown above . 
+csrA was induced by the addition of 0.2 % arabinose to a strain carrying pCA114 , which has csrA under the control of the araBAD promoter , and was repressed by the addition of 0.2 % glucose . 
+Values indicate the intensity of each band , with the wild type set to 1.0 , as determined by densitometry using a Boehringer Mannheim Lumi-Imager and LumiAnalyst 3.0 software . 
+FIG. 5 . 
+Stability of CsrC and CsrB . 
+Production of new RNA was halted with rifampin in cultures grown to an OD of 0.8 , and total 600 RNA was collected at 0 , 1 , 8 , and 15 min after rifampin treatment . 
+RNA was hybridized to digoxigenin-dUTP-labeled probes for either csrC ( A ) or csrB ( B ) . 
+csrA was induced by the addition of 0.2 % arab-inose to a strain carrying pCA114 , which has csrA under the control of the araBAD promoter , and was repressed by the addition of 0.2 % glucose . 
+FIG. 6 . 
+Half-life of CsrC . 
+Production of RNA was halted with rifampin in wild-type and csrA mutant strains grown to an OD600 of 1.2 . 
+Samples were collected at 0 , 1 , 3 , 5 , 8 , and 15 min after rifampin treatment , total RNA was isolated and treated with DNase , and cDNA was produced by reverse transcription . 
+To detect CsrC , multiplex PCR ampliﬁcation was performed with primers speciﬁc to csrC and to the control gene icd in the same reaction . 
+The products were measured by densitometry using a Lumi-Imager , and decay was plotted using linear regression ( Microsoft Excel 2003 ) . 
+The lower panel shows the mean intensity at each time point for three independent trials , with error bars representing standard errors of the means . 
+Half-life was calculated using the 0 - and 15-min time points for the wild type and the 0 - and 3-min time points for the csrA mutant , the latest time at which a product could be detected . 
+The upper panel shows a representative PCR . 
+FIG. 7 . 
+Model of SPI1 regulation . 
+SirA is activated either by the sensor kinase BarA or independently of BarA by acetate . 
+SirA activates transcription of the regulatory RNAs CsrB and CsrC , which titrate CsrA and thus oppose its action . 
+CsrA can act either positively or negatively on SPI1 genes , depending upon its concentration , and serves to increase the concentrations of both CsrB and CsrC . 
+In addition to its control of the csr system , SirA also likely has direct effects on SPI1 gene expression . 
+ACKNOWLEDGMENT
+This project was supported by the National Research Initiative of the USDA Cooperative State Research , Education and Extension Service , grant number 2003-35204-13641 . 
+REFERENCES 
+1 . 
+Altier , C. , M. Suyemoto , and S. D. Lawhon . 
+2000 . 
+Regulation of Salmonella enterica serovar Typhimurium invasion genes by csrA . 
+Infect . 
+Immun . 
+68 : 6790 -- 6797 . 
+2 . 
+Altier , C. , M. Suyemoto , A. I. Ruiz , K. D. Burnham , and R. Maurer . 
+2000 . 
+Characterization of two novel regulatory genes affecting Salmonella invasion gene expression . 
+Mol . 
+Microbiol . 
+35:635 -- 646 . 
+3 . 
+Bajaj , V. , C. Hwang , and C. A. Lee . 
+1995 . 
+hilA is a novel ompR/toxR family member that activates the expression of Salmonella typhimurium invasion genes . 
+Mol . 
+Microbiol . 
+18:715 -- 727 . 
+4 . 
+Bajaj , V. , R. L. Lucas , C. Hwang , and C. A. Lee . 
+1996 . 
+Co-ordinate regulation of Salmonella typhimurium invasion genes by environmental and regulatory 
+factors is mediated by control of hilA expression . 
+Mol . 
+Microbiol . 
+22:703 -- 714 . 
+5 . 
+Baker , C. S. , I. Morozov , K. Suzuki , T. Romeo , and P. Babitzke . 
+2002 . 
+CsrA regulates glycogen biosynthesis by preventing translation of glgC in Esch-erichia coli . 
+Mol . 
+Microbiol . 
+44:1599 -- 1610 . 
+6 . 
+Behlau , I. , and S. I. Miller . 
+1993 . 
+A PhoP-repressed gene promotes Salmo-nella typhimurium invasion of epithelial cells . 
+J. Bacteriol . 
+175:4475 -- 4484 . 
+7 . 
+Bullas , L. R. , and J. I. Ryu . 
+1983 . 
+Salmonella typhimurium LT2 strains which are r m for all three chromosomally located systems of DNA restriction and modiﬁcation . 
+J. Bacteriol . 
+156:471 -- 474 . 
+8 . 
+Collazo , C. M. , and J. E. Galán . 
+1997 . 
+The invasion-associated type III system of Salmonella typhimurium directs the translocation of Sip proteins into the host cell . 
+Mol . 
+Microbiol . 
+24:747 -- 756 . 
+9 . 
+Darwin , K. H. , and V. L. Miller . 
+1999 . 
+InvF is required for expression of genes encoding proteins secreted by the SPI1 type III secretion apparatus in Salmonella typhimurium . 
+J. Bacteriol . 
+181:4949 -- 4954 . 
+10 . 
+Datsenko , K. A. , and B. L. Wanner . 
+2000 . 
+One-step inactivation of chromosomal genes in Escherichia coli K-12 using PCR products . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 97:6640 -- 6645 . 
+11 . 
+Dubey , A. K. , C. S. Baker , K. Suzuki , A. D. Jones , P. Pandit , T. Romeo , and P. Babitzke . 
+2003 . 
+CsrA regulates translation of the Escherichia coli carbon starvation gene , cstA , by blocking ribosome access to the cstA transcript . 
+J. Bacteriol . 
+185:4450 -- 4460 . 
+12 . 
+Eichelberg , K. , and J. E. Galán . 
+1999 . 
+Differential regulation of Salmonella typhimurium type III secreted proteins by pathogenicity island 1 ( SPI-1 ) - encoded transcriptional activators InvF and hilA . 
+Infect . 
+Immun . 
+67:4099 -- 4105 . 
+13 . 
+Eichelberg , K. , W. D. Hardt , and J. E. Galán . 
+1999 . 
+Characterization of SprA , an AraC-like transcriptional regulator encoded within the Salmonella typhimurium pathogenicity island 1 . 
+Mol . 
+Microbiol . 
+33:139 -- 152 . 
+14 . 
+Fu , Y. , and J. E. Galán . 
+1998 . 
+The Salmonella typhimurium tyrosine phosphatase SptP is translocated into host cells and disrupts the actin cytoskel-eton . 
+Mol . 
+Microbiol . 
+27:359 -- 368 . 
+15 . 
+Galán , J. E. , and A. Collmer . 
+1999 . 
+Type III secretion machines : bacterial devices for protein delivery into host cells . 
+Science 284:1322 -- 1328 . 
+16 . 
+Galán , J. E. , and R. Curtiss III . 
+1989 . 
+Cloning and molecular characterization of genes whose products allow Salmonella typhimurium to penetrate tissue culture cells . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 86:6383 -- 6387 . 
+17 . 
+Groisman , E. A. , and H. Ochman . 
+1993 . 
+Cognate gene clusters govern invasion of host epithelial cells by Salmonella typhimurium and Shigella ﬂexneri . 
+EMBO J. 12:3779 -- 3787 . 
+18 . 
+Gudapaty , S. , K. Suzuki , X. Wang , P. Babitzke , and T. Romeo . 
+2001 . 
+Regulatory interactions of Csr components : the RNA binding protein CsrA activates csrB transcription in Escherichia coli . 
+J. Bacteriol . 
+183 : 6017 -- 6027 . 
+19 . 
+Hardt , W. D. , L. M. Chen , K. E. Schuebel , X. R. Bustelo , and J. E. Galán . 
+1998 . 
+S. typhimurium encodes an activator of Rho GTPases that induces membrane rufﬂing and nuclear responses in host cells . 
+Cell 93:815 -- 826 . 
+20 . 
+Johnston , C. , D. A. Pegues , C. J. Hueck , A. Lee , and S. I. Miller . 
+1996 . 
+Transcriptional activation of Salmonella typhimurium invasion genes by a member of the phosphorylated response-regulator superfamily . 
+Mol . 
+Microbiol . 
+22:715 -- 727 . 
+21 . 
+Jones , B. D. , and S. Falkow . 
+1994 . 
+Identiﬁcation and characterization of a Salmonella typhimurium oxygen-regulated gene required for bacterial internalization . 
+Infect . 
+Immun . 
+62:3745 -- 3752 . 
+22 . 
+Kubori , T. , Y. Matsushima , D. Nakamura , J. Uralil , M. Lara-Tejero , A. Sukhan , J. E. Galán , and S. I. Aizawa . 
+1998 . 
+Supramolecular structure of the Salmonella typhimurium type III protein secretion system . 
+Science 280:602 -- 605 . 
+23 . 
+Lawhon , S. D. , J. G. Frye , M. Suyemoto , S. Porwollik , M. McClelland , and C. Altier . 
+2003 . 
+Global regulation by CsrA in Salmonella typhimurium . 
+Mol . 
+Microbiol . 
+48:1633 -- 1645 . 
+24 . 
+Lawhon , S. D. , R. Maurer , M. Suyemoto , and C. Altier . 
+2002 . 
+Intestinal short-chain fatty acids alter Salmonella typhimurium invasion gene expression and virulence through BarA/SirA . 
+Mol . 
+Microbiol . 
+46:1451 -- 1464 . 
+25 . 
+Lee , C. A. , B. D. Jones , and S. Falkow . 
+1992 . 
+Identiﬁcation of a Salmonella typhimurium invasion locus by selection for hyperinvasive mutants . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 89:1847 -- 1851 . 
+26 . 
+Liu , M. Y. , G. Gui , B. Wei , J. F. Preston III , L. Oakford , U. Yuksel , D. P. Giedroc , and T. Romeo . 
+1997 . 
+The RNA molecule CsrB binds to the global regulatory protein CsrA and antagonizes its activity in Escherichia coli . 
+J. Biol . 
+Chem . 
+272:17502 -- 17510 . 
+27 . 
+Liu , M. Y. , and T. Romeo . 
+1997 . 
+The global regulator CsrA of Escherichia coli is a speciﬁc mRNA-binding protein . 
+J. Bacteriol . 
+179:4639 -- 4642 . 
+28 . 
+Liu , M. Y. , H. Yang , and T. Romeo . 
+1995 . 
+The product of the pleiotropic Escherichia coli gene csrA modulates glycogen biosynthesis via effects on mRNA stability . 
+J. Bacteriol . 
+177:2663 -- 2672 . 
+28a . 
+Miller , J. H. 1992 . 
+A short course in bacterial genetics : a laboratory manual and handbook for Escherichia coli and related bacteria . 
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 29 . 
+Miller , S. I. , and J. J. Mekalanos . 
+1990 . 
+Constitutive expression of the pho 
+regulon attenuates Salmonella virulence and survival within macrophages . 
+J. Bacteriol . 
+172:2485 -- 2490 . 
+30 . 
+Mills , D. M. , V. Bajaj , and C. A. Lee . 
+1995 . 
+A 40 kb chromosomal fragment encoding Salmonella typhimurium invasion genes is absent from the corresponding region of the Escherichia coli K-12 chromosome . 
+Mol . 
+Microbiol . 
+15:749 -- 759 . 
+31 . 
+Romeo , T. 1998 . 
+Global regulation by the small RNA-binding protein CsrA and the non-coding RNA molecule CsrB . 
+Mol . 
+Microbiol . 
+29:1321 -- 1330 . 
+32 . 
+Romeo , T. , M. Gong , M. Y. Liu , and A. M. Brun-Zinkernagel . 
+1993 . 
+Identi-ﬁcation and molecular characterization of csrA , a pleiotropic gene from Escherichia coli that affects glycogen biosynthesis , gluconeogenesis , cell size , and surface properties . 
+J. Bacteriol . 
+175:4744 -- 4755 . 
+33 . 
+Schechter , L. M. , S. M. Damrauer , and C. A. Lee . 
+1999 . 
+Two AraC/XylS family members can independently counteract the effect of repressing sequences upstream of the hilA promoter . 
+Mol . 
+Microbiol . 
+32:629 -- 642 . 
+34 . 
+Teplitski , M. , R. I. Goodier , and B. M. Ahmer . 
+2003 . 
+Pathways leading from BarA/SirA to motility and virulence gene expression in Salmonella . 
+J. Bacteriol . 
+185:7257 -- 7265 . 
+35 . 
+Tsolis , R. M. , L. G. Adams , T. A. Ficht , and A. J. Baumler . 
+1999 . 
+Contribution of Salmonella typhimurium virulence factors to diarrheal disease in calves . 
+Infect . 
+Immun . 
+67:4879 -- 4885 . 
+36 . 
+Wei , B. L. , A. M. Brun-Zinkernagel , J. W. Simecka , B. M. Pruss , P. Babitzke , and T. Romeo . 
+2001 . 
+Positive regulation of motility and ﬂhDC expression by the RNA-binding protein CsrA of Escherichia coli . 
+Mol . 
+Microbiol . 
+40:245 -- 256 . 
+37 . 
+Weilbacher , T. , K. Suzuki , A. K. Dubey , X. Wang , S. Gudapaty , I. Morozov , C. S. Baker , D. Georgellis , P. Babitzke , and T. Romeo . 
+2003 . 
+A novel sRNA component of the carbon storage regulatory system of Escherichia coli . 
+Mol . 
+Microbiol . 
+48:657 -- 670 . 
+38 . 
+Zhou , D. , M. S. Mooseker , and J. E. Galán . 
+1999 . 
+An invasion-associated Salmonella protein modulates the actin-bundling activity of plastin . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 96:10176 -- 10181 . 
+39 . 
+Zuker , M. , and P. Stiegler . 
+1981 . 
+Optimal computer folding of large RNA sequences using thermodynamics and auxiliary information . 
+Nucleic Acids Res . 
+9:133 -- 148 .

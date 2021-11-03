@@ -1,0 +1,715 @@
+doi :10.1016 / j.jmb .2005.07.069 
+J. Mol . 
+Biol . 
+( 2005 ) 352 , 876 -- 892 
+Crystal Structures o nate Kinase ( cD C m
+f ADP nd A 
+P 
+nd Propio-m 
+a MP NP-bou Salmonella typhimu of Acetate a d e 70/Actin S 
+Td ) from n with Me h 
+: 
+riu ugar 
+pariso 
+o 
+n S 
+mbers gnat 
+K
+at S ock Co 
+inase/He 
+u 
+perfamily 
+Dhirendra K. Simanshu1, H. S. Savithri2 and M. R. N. Murthy1*
+1 
+Molecular Biophysics Unit Indian Institute of Science Bangalore 560012 , India 
+Recently , it has been shown that L-threonine can be catabolized non-oxidatively to propionate via 2-ketobutyrate . 
+Propionate kinase ( TdcD ; EC 2.7.2 . 
+- ) catalyses the last step of this metabolic process by enabling the conversion of propionyl phosphate and ADP to propionate and ATP . 
+To provide insights into the substrate-binding pocket and catalytic mechanism of TdcD , the crystal structures of the enzyme from Salmonella typhimurium in complex with ADP and AMPPNP have been determined to resolutions of 2.2 Å and 2.3 Å , respectively , by molecular replacement using Methanosarcina thermophila acetate kinase ( MAK ; EC 2.7.2.1 ) . 
+Propionate kinase , like acetate kinase , contains a fold with the topology bbbababa , identical with that of glycerol kinase , hexokinase , heat shock cognaten 70 ( Hsc70 ) and actin , the superfamily of phosphotransferases . 
+The structure consists of two domains with the active site contained in a cleft at the domain interface . 
+Examination of the active site pocket revealed a plausible structural rationale for the greater speciﬁcity of the enzyme towards propionate than acetate . 
+This was further conﬁrmed by kinetic studies with the puriﬁed enzyme , which showed about ten times lower Km for propionate ( 2.3 mM ) than for acetate ( 26.9 mM ) . 
+Comparison of TdcD complex structures with those of acetate and sugar kinase/Hsc70/actin obtained with different ligands has permitted the identiﬁcation of catalytically essential residues involved in substrate binding and catalysis , and points to both structural and mechanistic similarities . 
+In the well-characterized members of this superfamily , ATP phosphoryl transfer or hydrolysis is coupled to a large conformational change in which the two domains close around the active site cleft . 
+The signiﬁcant amino acid sequence similarity between TdcD and MAK has facilitated study of domain movement , which indicates that the conformation assumed by the two domains in the nucleotide-bound structure of TdcD may represent an intermediate point in the pathway of domain closure . 
+q 2005 Elsevier Ltd. . 
+All rights reserved . 
+2 
+Department of Biochemistry Indian Institute of Science Bangalore 560012 , India 
+Keywords : propionate kinase ; Salmonella typhimurium ; TdcD ; crystal structure ; L-threonine metabolism 
+* Corresponding author 
+Abbreviations used : AMPPNP , adenylyl imidodiphosphate ; ATPgS , adenosine 5 0 - [ g-thio ] phosphate ; ASKHA , acetate and sugar kinase-heat shock cognate 70-actin ; TdcD , propionate kinase from Salmonella typhimurium ; MAK , acetate kinase from Methanosarcina thermophila . 
+E-mail address of the corresponding author : mrn@mbu.iisc.ernet.in 
+Introduction
+Kinases are a ubiquitous group of enzymes central to many metabolic processes . 
+The transfer of the terminal phosphoryl group from a nucleotide to a small molecule or to a protein substrate is a fundamental process in signal transduction , energy transfer and gene regulation . 
+The X-ray crystal structures of kinase -- substrate complexes have revealed structural details of substrate-binding sites and provided insights into the mode of phosphoryl transfer . 
+On the basis of structural folds and sequence similarities , kinases have been classiﬁed into three distinct families . 
+The classical 1 P-loop-containing kinases share a common loop with a conserved amino acid sequence between a b-strand and an a-helix . 
+A second group consists of 1 mainly protein kinases that have a conserved loop connecting two antiparallel b-strands involved in phosphate binding . 
+The third group , which 2 includes acetate and sugar kinase -- heat shock cognate 70-actin ( ASKHA ) , uses two b-hairpins to bind the phosphate groups of ATP . 
+3,4 In Escherichia coli and S. typhimurium , proteins encoded by tdc operon are responsible for transport and metabolism of L-serine and L-threonine . 
+5,6 Recently , it has been shown that L-threonine can be cleaved non-oxidatively to propionate via 2-ketobutyrate by pyruvate formate lyase or 2-ketobutyrate formate lyase , phosphotransacetyl-ase and propionate kinase in E. coli and S. typhimurium . 
+The ﬁnal reaction in the 5 -- 7 L-threonine catabolism is performed by propionate kinase encoded by tdcD , which enables the conversion of propionyl phosphate and ADP to propionate and ATP : 
+0022-2836 / $ - see front matter q 2005 Elsevier Ltd. . 
+All rights reserved 
+Propionate kinase exhibits signiﬁcant amino acid sequence identity with acetate kinase . 
+The only crystal structure of acetate kinase is available from a thermophilic organism , Methanosarcina thermophila . 
+3 The polypeptide fold of M. thermophila acetate kinase ( MAK ) contains a core similar to those of glycerol kinase/hexokinase/Hsc70 / actin superfamily . 
+This superfamily is characterized by two 3 domains , each with the topology bbbababa , separated by an active site cleft . 
+In the members of this 8 superfamily , phosphoryl transfer is coupled to a large conformational change in which the two domains close around the nucleotide . 
+It is 8 now generally believed that these proteins have undergone divergent evolution from a common ancestor . 
+3,4 Previous studies on E. coli acetate kinase have shown an inversion of conﬁguration during phosphoryl transfer , suggesting either a direct in-line 9 transfer or a covalent triple displacement mechanism involving two phosphoenzyme intermediates as two distinct possibilities for the catalytic mechanism . 
+The triple displacement mechanism 10 was proposed when a phosphoenzyme was isolated after incubating E. coli acetate kinase with radiolabelled ATP or acetyl phosphate and the isolated phosphoenzyme was able to transfer the phosphoryl group to ADP or acetate . 
+However , the 11,12 ability of E. coli acetate kinase to phosphorylate enzyme I of the phosphotransferase system and 13 CheY in vitro was thought to indicate the role of 14 the phosphoenzyme in sugar transport rather than in phosphorylation of acetate or ADP . 
+Further , the direct in-line transfer mechanism is supported by steady-state kinetics as well as stereochemical evidence . 
+Recently , inhibition and structural studies carried out on a probable transition state analogue of MAK formed by AlF3 , acetate and ADP provided strong additional support for the direct in-line transfer of the phosphoryl group from ATP to acetate . 
+15,16 Here , we report the three-dimensional structures of S. typhimurium propionate kinase ( TdcD ) in complex with ADP and AMPPNP , a non-hydro-lysable analogue of ATP . 
+This is the ﬁrst structural description of a propionate kinase and a homologue of acetate kinase from a mesophile . 
+The structures of TdcD in complex with AMPPNP and ADP revealed intact nucleotides . 
+This is in contrast to MAK , where only ADP and a sulphate ion were observed in the MAK co-crystallized with ATP ( MAK-ATP ) , and ADP and a sulphate ion in the A subunit and AMP and thiopyrophosphate in the B subunit were seen in MAK co-crystallized with adenosine 5 0 - [ g-thio ] phosphate ( ATPgS ) ( MAK-ATPgS ) . 
+Apart from overall features , the struc-3 ,16 tures of the TdcD complexes reveal the mode of nucleotide binding and its relationship to the proposed binding site of propionate . 
+Comparison of the TdcD complex structures with members of the ASKHA superfamily , mainly with that of 17 -- 20 acetate kinase obtained with different ligands , 3,16 along with results obtained from various sitedirected mutagenesis experiments with MAK 16,21 -- 24 and hexokinase , has permitted identiﬁcation of 25 catalytically essential residues involved in substrate binding and catalysis , and has highlighted the unique features of TdcD . 
+The liganded structures of TdcD and MAK have been compared to obtain insights into the structural basis of the increased dimeric thermostability of MAK and differences in the activities of the enzymes . 
+The signiﬁcant sequence similarity between TdcD and MAK has facilitated study of domain movement observed in these and other members of the ASKHA superfamily . 
+Mg2C 
+Propionyl phosphate C ADP 4 Propionate 
+C ATP 
+Results and Discussion
+Biochemical studies on TdcD
+TdcD from S. typhimurium was puriﬁed to homogeneity using Ni-NTA column chromato-graphy as described . 
+The puriﬁed enzyme 26 showed a single polypeptide band in SDS-PAGE , corresponding to a subunit molecular mass of 44 kDa . 
+Gel-ﬁltration chromatography experi-26 ments suggested that TdcD is a dimer in solution ( data not shown ) . 
+Enzymatic activity was measured by a coupled-enzyme assay based upon measurement of the ADP produced during the phosphoryl-ation of propionate . 
+Activity was also monitored for acetate , an analogue of propionate reported to be a phosphate acceptor . 
+The Km value for ATP usin 5 the puriﬁed enzyme was 112 ( G12 ) mM . 
+The Km values for propionate and acetate were 2.33 ( G 0.35 ) mM and 26.92 ( G4 .70 ) mM , respectively , showing that TdcD has about ten times higher afﬁnity for propionate than for acetate . 
+The Km values of ATP and propionate in TdcD were comparable to those of ATP and acetate in MAK determined using a similar coupled enzyme assay . 
+16 In TdcD , Kcat values for propionate ( 100 ( G8 ) s ) K1 and acetate ( 125 ( G9 ) s ) were similar . 
+Com-K1 parison of Kcat/Km values for propionate ( 4.64 mM s ) and acetate ( 42.91 mM s ) K1 K1 K1 K1 shows clearly that TdcD is more speciﬁc towards propionate than acetate . 
+In the case of MAK , the Km value for acetate was reported to be about ten times lower than that of propionate . 
+These results 27 demonstrate that propionate and acetate are the preferred substrates for TdcD and MAK , respectively . 
+Recent studies have revealed a gene , pduW , encoding another propionate kinase ( PduW ) in S. typhimurium , whose activity is important for the synthesis of propionyl-CoA during growth on 1,2-propanediol . 
+In S. typhimurium , a cell extract 28 enriched for PduW and TdcD showed levels of propionate kinase activity w11-fold and 45-fol higher than background , respectively . 
+These two 28 proteins share 42 % amino acid sequence identity . 
+TdcD and PduW exhibit amino acid sequence identities of 38 % and 45 % , respectively , with acetate kinase from S. typhimurium . 
+Figure 1 shows the alignment of the amino acid sequences of propio-nate and acetate kinase enzymes exhibiting propio-nate/acetate kinase activity in S. typhimurium and M. thermophila . 
+TdcD and MAK share 38 % amino acid sequence identity , which suggested that the latter could serve as a good starting model for determination of the structure of TdcD . 
+Most of the residues involved in the substrate binding and catalysis are well conserved in these enzymes . 
+The presence of signiﬁcant levels of sequence identity and conservation of most of the critical residues among these enzymes suggests similar structures and catalytic mechanisms . 
+Figure 1 . 
+Amino acid sequence alignment of propionate kinase and acetate kinase from S. typhimurium and M. thermophila . 
+The residues conserved in all four molecules are shown in black boxes . 
+TdcD_ST and PduW_ST denote the propionate kinase encoded by TdcD and PduW in S. typhimurium , whereas AK_ST and AK_MT denote acetate kinase present in S. typhimurium and M. thermophila , respectively . 
+The secondary structure elements of ADP bound TdcD are represented at the top of the aligned sequences by arrows ( b-strands ) and spirals ( 310 and a-helices ) . 
+The red triangles below the aligned sequences show the probable residues involved in catalytic mechanism or substrate binding . 
+The Figure was prepared using CLUSTALW and ESPript . 
+47 48 
+Structure determination
+We have attempted crystallization of S. typhi-murium propionate kinase as well as its complexes with ADP and AMPPNP . 
+Diffraction-quality crystals were obtained only for TdcD bound with the nucleotide or its analogue . 
+The structures of the complexes were solved by molecular replacement to resolutions of 2.2 Å and 2.3 Å , respectively , using the M. thermophila acetate kinase ( MAK-ATP ) structure as the search model . 
+The best molecular 3 replacement solution was obtained using the B subunit of MAK-ATP as a search model in the space group P3121 . 
+Since TdcD has an appreciable level of sequence identity with MAK , further reﬁnement of the structure was made assuming that the molecular replacement solutions were correct . 
+The initial 2FoKFc and FoKFc maps showed reasonably good density for most of the regions , except for residues ranging from 27 to 87 at the N terminus . 
+Improved electron density maps obtained after building the rest of the model helped in tracing these missing residues in subsequent rounds of model building . 
+Further analysis carried out after the structure solution suggested that these difﬁculties resulted from large differences in the organization of domains between TdcD and MAK . 
+Addition of ligand and water molecules to the model resulted in further decrease in Rfree and R-factor for the model . 
+The ﬁnal model of TdcD -- ADP has been reﬁned to an Rfree of 21.9 % and an R-factor of 19.3 % . 
+The structure of TdcD in complex with AMPPNP was solved using protein atoms of the TdcD -- ADP complex as the model , and was ﬁnally reﬁned to an Rfree of 22.8 % and an R-factor of 19.7 % ( Table 1 ) . 
+Quality of the model
+In both the ligand-bound TdcD structures , the electron density is of good quality throughout the polypeptide chain , except in the residue ranges 39 -- 42 and 49 -- 58 , where poor density is observed . 
+The electron density maps were not clear enough in these locations to permit stereochemically reasonable interpretation of side-chains of most of the residues . 
+Therefore , most of the residues in this region have been truncated to alanine . 
+This region is fully exposed to the solvent and is expected to undergo a large movement during substrate-induced domain closure , as seen in other members of the ASKHA superfamily . 
+Unlike MAK complexes , in liganded TdcD structures , resi-3 ,16 dues present in this region are not involved in crystal contacts . 
+No electron density could be observed for the N-terminal histidine tag . 
+The initial three residues at the N terminus and ﬁnal ﬁve residues at the C terminus were not included in the model due to the absence of well-deﬁned electron density . 
+These residues are presumably disordered . 
+Both the structures are well restrained to standard bond distances and angles and the main-chain torsion angles correspond well with the expected values ( Table 1 ) . 
+The structures have around 89 -- 90 % of the residues in the most favoured regions of the Ramachandran map calculated with the program PROCHECK . 
+In both the structures , 29 none of the residues is present in a disallowed region and residue Asn48 , which occurs in the generously allowed region in the TdcD -- AMPPNP complex , is in a region of poor electron density . 
+Overall structure of propionate kinase
+Analysis of the subunit packing within the crystal shows that one monomer is related to a second monomer by a 2-fold crystallographic axis , forming a plausible dimer ( Figure 2 ( a ) ) . 
+These subunits are referred to as A and B. Each subunit comprises of 14 b-strands , 15 a-helices and ﬁve 310 helices ( Figure 2 ( b ) ) , as indicated by the program PROMOTIF . 
+These elements of regular secondary 30 structure comprise 62.1 % of the polypeptide chain . 
+Each subunit comprises of two domains of unequal size , a small N-terminal domain and a large C-terminal domain , denoted as domains I and II , respectively . 
+The propionate and nucleotide-bind-ing sites are present in a cleft between the two domains ( Figure 2 ( c ) ) . 
+Both the domains contain a core of secondary structure bbbababa ( Figure 3 ) , which is similar to that of acetate kinase/glycerol kinase/hexokinase/Hsc70 / actin . 
+These proteins 8 differ from each other in subdomains inserted between particular secondary structural elements . 
+8 The a-helices present at the C-terminal ends of both the domains extend and form part of the other domain . 
+Domain I comprises of a mixed eightstranded b-sheet ( b1 , b2 , b3 , b4 , b5 , ba , bb , bc ) packed on one face by three a-helices ( a1 , a2 , aa ) and on the other face by two small helices ( ab , ac ) as well as by the C-terminal helix a3 * emanating from domain II . 
+The domain II comprises of a mixed six-stranded b-sheet ( b1 * , b2 * , b3 * , b4 * , b5 * , ba * ) and nine a-helices . 
+The a-helix extending from domain I ( a3 ) forms one side of the central b-sheet , whereas the other side is covered mainly by eight a-helices ( aa * , ab * , ac * , ad * , ae * , af * , a1 * , a2 * ) , most of which constitute the dimeric interface . 
+Superposition of al 
+0.006 1.2 22.8 
+0.006 1.2 22.7 
+89.9 9.8 0.3 
+89.6 10.4 0.0 
+Values in parentheses correspond to the highest resolution shell . 
+a RmergeZSjIjKhIjij = ShIji , where Ij is the intensity of reﬂection j and its symm reﬂections . 
+etry equivalents , and hIji is the average intensity of the 
+C atoms of TdcD complexed to ADP and AMPPNP a using the program ALIGN gave an average rmsd 31 of 0.152 Å , indicating that there is no major conformational change between these two TdcD complexes . 
+Different biological functions performed by acetate kinase/glycerol kinase/hexokinase / Hsc70/actin are mediated by insertions of distinct subdomains at different topological positions . 
+In the members of the AKSHA superfamily , the two core 8 subdomains and the insertions together constitute each subunit . 
+According to the nomenclature ﬁrst proposed for Hsc70 , in domains I and II , the 17 conserved subdomains are denoted as IA and IIA , and the divergent subdomains are labelled as IB and IIB . 
+Both the domains of propionate kinase , as in other members of the ASKHA superfamily , contain subdomains IB and IIB between the third b-strand and the ﬁrst a-helix of the core secondary structure bbbababa ( Figure 2 ) . 
+In domain I , the insertion corresponding to subdomain IB is between b3 and a1 , and consists of two anti-parallel b-strands ( ba and bb ) , which extend the central b-sheet . 
+The bb strand is short compared to that of acetate kinase and electron density for this strand is poor . 
+An insertion ( subdomain IIB ) at this position ( between b3 * and a1 * ) in domain II comprises of four a-helices ( aa * -- ad * ) constituting a major part of the dimeric interface . 
+An insertion in domain I , which forms part of the dimeric interface , occurs before a3 and contains a few small helices . 
+This insertion is unique to propionate and acetate kinases . 
+Another insertion that is unique to propionate and acetate kinases is between a2 * and b5 * of domain II , which consists of an additional b-strand ( ba * ) extending the central b-sheet , an a-helix ( af * ) and two 310 helices ( 3e and 3f ) . 
+As in acetate kinase , glycerol kinase and hexo-kinase , an insertion in propionate kinase between b4 and a2 contains an additional b-strand ( bc ) , which borders the central b-sheet , and an additional a-helix ( aa ) 
+aZb ( Å ) c ( Å ) Space group Temperature ( K ) B. Data collection Resolution range ( Å ) No . 
+of monomers per AU Total reﬂections Unique reﬂections Data redundancy I/s ( I ) Completeness ( % ) Rmerge ( % ) a C. Reﬁnement R-factor ( % ) Rfree ( % ) No . 
+atoms Protein Solvent Ligand D. Model quality Average B-factors ( Å ) 2 Protein atoms Water Ligand Coordinate error Luzzati ( working/test ) Sigmaa ( working/test ) rmsd from ideal values Bond lengths ( Å ) Bond angles ( deg . ) 
+Dihedral angles ( deg . ) 
+Residues in Ramachandran plot Most favoured regions ( % ) Allowed regions ( % ) Generously allowed regions ( % ) 
+35.0 -- 2.3 ( 2.38 -- 2.3 ) 1 699,205 21,467 32.57 23.37 ( 2.84 ) 99.5 ( 96.7 ) 6.2 ( 45.8 ) 
+35.0 -- 2.2 ( 2.28 -- 2.2 ) 1 424,150 24,118 17.58 21.55 ( 2.88 ) 99.3 ( 93.4 ) 7.0 ( 40.1 ) 
+19.7 ( 29.9 ) 22.8 ( 31.6 ) 
+19.3 ( 30.4 ) 21.9 ( 36.1 ) 
+2934 153 35 
+2929 152 27 
+47.89 46.39 62.35 
+45.81 45.67 77.77 
+0.26 / 0.31 0.33 / 0.37 
+0.25 / 0.29 0.33 / 0.35 
+0.006 1.2 22.8 
+0.006 1.2 22.7 
+89.9 9.8 0.3 
+89.6 10.4 0.0 
+Values in parentheses correspond to the highest resolution shell . 
+a RmergeZSjIjKhIjij = ShIji , where Ij is the intensity of reﬂection j and its symm reﬂections . 
+etry equivalents , and hIji is the average intensity of the 
+The crystal structures of liganded TdcD have revealed an interface characteristic of a tight dimer . 
+In each subunit , domain II contributes to a large part of the dimeric association . 
+Extensive complementarity exists in the surface features of the two subunits at the dimeric interface . 
+Because the structure of the TdcD dimer has a 2-fold axis of symmetry that coincides with crystallographic symmetry , all interactions between the two subunits occur in a symmetric fashion . 
+Accessible surface area calculations ‡ show that a single subunit of TdcD in the TdcD -- ADP complex structure has a surface area of 17,516.3 Å . 
+The total surface-2 accessible area buried on dimerization is 6161.1 Å , out of which 72.2 % ( 4449.8 Å ) is 2 2 non-polar and 27.8 % ( 1711.3 Å ) is polar . 
+Residues 2 that mainly contribute to the interface are 113 , 153 -- 171 , 214 -- 272 , 292 -- 318 and 341 -- 344 . 
+Atoms from 70 residues of one subunit make hydrophobic and polar interactions ( % 4.0 Å ) with the atoms of the other subunit . 
+The dimer interface is extensive and predominantly non-polar ( Figure 4 ) . 
+A large number of hydrophobic residues occur at the dimeric interface . 
+Polar interactions including saltbridges and hydrogen bonds are present at the interface . 
+There are four salt-bridges ( cut-off value of 4.0 Å ) and 31 direct hydrogen bonds ( cut-off value of 3.5 Å ) across the dimeric interface of TdcD . 
+In contrast , at the same cut-off values , there are ten salt-bridges and 26 direct hydrogen bonds across the dimeric interface in MAK . 
+As seen in other thermostable proteins , large number of salt-bridges present at the interface in MAK structure may provide greater thermostability to the dimeric protein from the thermophile . 
+Salt-bridges present at the dimeric interface of TdcD are between Arg306 and Asp220 and between Glu260 and Lys250 . 
+Equivalent residues at these positions in the MAK structure also form salt-bridges . 
+A few water molecules that are present at the dimeric interface contribute to the stability of the TdcD dimer via water-mediated hydrogen bonds . 
+Figure 2 . 
+Crystal structure of propionate kinase . 
+( a ) Three-dimensional structure of the homodimeric propionate kinase in complex with ADP , with each subunit coloured differently . 
+The molecular 2-fold axis is along the plane of the paper . 
+( b ) Ribbon diagram of a subunit of propionate kinase bound with AMPPNP and ethylene glycol . 
+The secondary structure elements in the subunit are coloured differently . 
+( c ) The surface representation of the TdcD-AMPPNP showing the binding site of AMPPNP and ethylene glycol near the proposed binding site of propionate . 
+Positively charged residues are shown in blue , negatively charged residues are shown in red and neutral residues are shown in white . 
+The ligands AMPPNP , ADP and ethylene glycol present in the active site cleft are drawn as ball-and-stick models . 
+( a ) and ( b ) were prepared using MOLSCRIPT and Raster3D ; ( c ) was prepared using GRASP † . 
+43 45 
+Dimer interface 
+‡ http://wolf.bms.umist.ac.uk/naccess 
+† http://trantor.bioc.columbia.edu/grasp/ 
+Nucleotide-binding site
+Inspection of difference electron density map during the reﬁnement showed a strong positive density near the expected nucleotide-binding site . 
+As anticipated , AMPPNP and ADP could be built into the electron density maps obtained for the corresponding complexes of TdcD ( Figures 5 ( a ) and 6 ( a ) ) . 
+The adenine base is in the anti conformation with respect to the ribose sugar . 
+The sugar ring in both AMPPNP and ADP complexes is in C2 0-end form with its O5 0 in the trans , gauche conformation . 
+Figure 3 . 
+Topology diagram of the secondary structural elements of TdcD . 
+Arrows represent bstrands , while small and large cylinders represent 310 and ahelices , respectively . 
+b-Strands and a-helices , coloured cyan and green , respectively , constitute the core secondary structure bbbababa in both the domains , while insertions of sub-domains between particular secondary structural elements are coloured yellow . 
+The core secondary structure elements bbbababa are numbered as b1 , b2 , b3 , a1 , b4 , a2 , b5 , a3 in domain I and as b1 * , b2 * , b3 * , a1 * , b4 * , a2 * , b5 * , a3 * in domain II . 
+Secondary structural elements present in the inserted subdomains are numbered as ba , bb and bc for bstrands , aa , ab and ac for a-helices in domain I , and ba * for b-strand and aa * , ab * , ac * , ad * , ae * and af * for a-helices in domain II . 
+The 310 helices are numbered as 3a , 3b 3c , 3d , 3e and 3f . 
+The Figure was generated using TOPDRAW . 
+49 
+Figure 4 . 
+Electrostatic potential surface representation illustrating the charge distribution in TdcD at the dimeric interface . 
+The Figure was generated using GRASP † . 
+† http://trantor.bioc.columbia.edu/grasp/ 
+The average B-factors of the bound nucleotides AMPPNP and ADP , reﬁned with full occupancy , are lower for the adenine ring ( 54.2 Å and 70.4 Å for 2 2 the AMPPNP and ADP complexes , respectively ) and the ribose sugar ( 60.0 Å and 76.0 Å , respect-2 2 ively ) and higher for the phosphate groups in the order of B ( a ) ! 
+B ( b ) ! 
+B ( g ) . 
+The average B-factors for the di - and triphosphate moieties are 89.0 Å and 2 74.6 Å in the ADP and AMPPNP complex struc-2 tures , respectively . 
+This pattern for atomic B-factors along the nucleotide molecule , observed also in the case of MAK , can be interpreted as the result of increased ﬂexibility and correlates to the varying levels of solvent exposure and interactions with protein atoms . 
+In hexokinase , in the absence of glucose , the phosphate groups and the metal ion of the metal -- nucleotide complex are proposed to be disordered , possibly to reduce the inherent ATPase activity of the enzyme . 
+25,32 In the structures of MAK obtained with ATP as well as with ATPgS , due to the cleavage of nucleotides , catalytically competent conformation of the g-phosphate group of ATP could not be observed . 
+But electron density for an intact nucleotide was obtained in the TdcD comple with AMPPNP , a non-hydrolysable analogue of ATP ( Figure 5 ( a ) ) . 
+The position of the g-phosphate group in the TdcD -- AMPPNP complex approximates the proposed optimal position of the g-phosphate group of ATP poised for catalysis . 
+Figure 5 ( b ) shows the interactions of AMPPNP with water molecules and protein residues . 
+The adenine base is present in a hydrophobic pocket formed by residues Ile327 , Leu279 , the aliphatic chain of Arg280 and C of Asn330 ( Figure 2 ( c ) ) . 
+The N7 b and N6 nitrogen atoms of the adenine ring make hydrogen bonds with water molecules . 
+There is no direct hydrogen bond between the adenine ring and the protein atoms . 
+The C2 0 oxygen atom of the ribose ring is hydrogen bonded to oxygen atoms of the carboxyl group of conserved Asp278 and the main-chain N of Leu279 . 
+The a-phosphate oxygen atom is bound to the amide nitrogen atom of Gly326 . 
+Interaction of the a-phosphate oxygen atom with equivalent glycine residues has been observed in other members of this superfamily . 
+This glycine residue is preceded by glycine in propionate kinases and alanine in acetate kinases . 
+The f , j angles for the residue preceding the glycine residue , obtained from the program PROCHECK , is found 29 to fall in the epsilon region of the Ramachandra plot . 
+First observed in the structure of acetate kinase , all members of the ASKHA superfamily 3 have this unusual conformation for the residue that precedes the a-phosphate-bound glycine residue . 
+The a-phosphate group is also hydrogen bonded to a water molecule . 
+The b-phosphate group of AMPPNP is exposed to the solvent and only N forms a hydrogen bond with the main-chain amide of Asn206 , which is present in the turn between strands b1 * and b2 * . 
+The g-phosphate group forms hydrogen bonds with His175 and a water molecule present above the side-chain of conserved Arg236 . 
+Since the phosphate moiety of the nucleotide binds between the two domains , the binding site is incomplete until the expected interdomain motion results in the closure of the domains . 
+In the structure of TdcD complexed with ADP , the nucleotide base and ribose are positioned in the active site at the same place as seen for the TdcD -- AMPPNP complex structure . 
+However , substantial differences in the orientation of a and b-phosphate groups of ADP are apparent . 
+The b-phosphate group of ADP points towards His203 and Gly325 present in the domain II ( Figure 6 ( b ) ) . 
+The a-phosphate group is hydrogen bonded to the main-chain N atom of Gly326 and a water molecule . 
+The b-phosphate group is hydrogen bonded to a water molecule present nearby . 
+There is no direct hydrogen bond with the protein atoms . 
+Electron density for the b-phosphate group in ADP was poor and it is probably oriented in a non-productive conformation ( in view of the direct in-line transfer mechanism ) , as in the case of the A subunit of all MAK complexes , except that the b-phosphate 3,16 group of ADP points in the opposite direction , towards the solvent-exposed region . 
+The Mg 2C bound to nucleotide , observed in structures of some of the members of this superfamily , was not seen in either model of TdcD . 
+Figure 5 . 
+( a ) Stereo view of the electron density corresponding to AMPPNP in AMPPNP -- TdcD complex structure from a 2FoKFc map contoured at 1.0 s. ( b ) Stereo diagram of the active site region showing bound AMPPNP ( labelled as ANP ) in the TdcD -- AMPPNP complex . 
+AMPPNP is shown in ball-and-stick . 
+Hydrogen bonds formed by AMPPNP with protein atoms and water molecules are shown as broken lines . 
+The Figure was prepared using the programs BOBSCRIPT and MOLSCRIPT , and rendered using Raster3D . 
+44 43 45 
+Figure 6 . 
+( a ) Stereo view of the electron density corresponding to ADP in the TdcD -- ADP complex structure from a 2FoKFc map countered at 1.0 s. ( b ) Stereo diagram of the active site region showing ADP bound to TdcD in the TdcD -- ADP complex structure . 
+ADP is shown in ball-and-stick . 
+Hydrogen bonds formed by ADP with protein atoms and water molecules are shown as broken lines . 
+The Figure was prepared using the programs BOBSCRIPT and MOLSCRIPT , 44 43 and rendered using Raster3D . 
+45 
+Proposed propionate-binding site
+Crystallization trials with propionate and ADP / AMPPNP showed no electron density for the propionate . 
+In the recently determined structure of MAK with the components of the putative transition state analogue containing ADP , acetate and AlF3 ( MAK-AlF ) , 16,27 3 acetate is present in the active site cleft formed by Val93 , Leu122 , Phe179 and Pro232 . 
+Surprisingly , ethylene glycol used as the cryoprotectant during data collection of TdcD -- AMPPNP crystal was found to be present in the pocket , corresponding to acetate in MAK -- AlF3 structure , which is expected to be the binding site of propionate in TdcD . 
+Figure 7 shows the interactions of ethylene glycol ( EDO ) with the neighbouring residues . 
+The oxygen atoms ( O1 and O2 ) of ethylene glycol form hydrogen bonds with a water molecule and the NE2 atom of His118 . 
+Aliphatic carbon atoms of ethylene glycol are present in a hydrophobic pocket formed by Ala88 , Leu117 , His118 , Phe174 and Pro227 . 
+However , electron density for the side-chain of the conserved Leu117 ( not shown in Figure 7 ) was absent from both models . 
+Interestingly , Val93 of MAK is replaced by Ala88 in TdcD to accommodate the bulkier propionate . 
+The hydrophobic binding pocket is proposed to accept the aliphatic group of the propionate and hence orient the phosphoryl acceptor oxygen atom of the carboxyl group at the mouth of the hydrophobic pocket pointing towards the position of the terminal g-phosphate seen in the TdcD -- AMPPPNP complex . 
+A less bulky residue , glycine , is present in all the butyrate kinase sequences , and a more bulky group , valine , is found in all acetate kinases at positions equivalent to Ala88 , present at the bottom of the hydrophobic pocket in propionate kinase . 
+These observations , along with the acetate-binding pocket in MAK-AlF , 27 3 suggest that the size of the hydrophobic pocket is a determinant of substrate speciﬁcity in acetate , propionate and butyrate kinases . 
+The lower Km value for propionate than for acetate in TdcD can be explained on the basis of these differences in the size of hydrophobic pocket . 
+Figure 7 . 
+Stereo diagram of the active site showing ethylene glycol ( labelled as EDO ) bound near the proposed binding site for propionate in TdcD . 
+The Figure shows the electron density corresponding to ethylene glycol and a water molecule from a 2FoKFc map countered at 1.0 s. Ethylene glycol is shown in ball-and-stick . 
+Hydrogen bonds between EDO and nearby atoms are shown as broken lines . 
+This Figure was prepared using the program BOBSCRIPT . 
+4 
+Figure 8 . 
+Alignments of the ﬁve putative motifs based on structural equivalence in the well-characterized members of the ASKHA superfamily . 
+Residues shown in bold in each motif correspond to either the conserved catalytic residues or those that have a structurally equivalent role in binding nucleotide or metal . 
+TdcD , propionate kinase from S. typhimurium ; AK , acetate kinase from M. thermophila ; HK , hexokinase from yeast ; GK , glycerol kinase from E. coli ; actin , actin from rabbit skeletal muscle ; Hsc70 , heat shock cognate 70 from Bos taurus . 
+Five conserved motifs and proposed catalytic residues
+Even though propionate and acetate kinases show no overall signiﬁcant sequence similarity with other ASKHA phosphotransferases , they 17 -- 20 share ﬁve motifs ( Figure 8 ) composed of secondary structural elements and conserved amino acid residues involved in catalysis , nucleotide and metal binding . 
+These ﬁve conserved motifs , ﬁrst identiﬁed by Bork et al. , correspond to two 4 phosphate ( phosphate 1 and phosphate 2 ) and one base ( adenosine ) binding regions and two other regions connecting domain I and domain II ( connect 1 and connect 2 ) . 
+Each of these ﬁve motifs was deduced on the basis of structure-based multiple sequence alignment and plausible roles of amino acids present at particular positions in the well-characterized members of the ASKHA superfamily ( Figure 8 ) . 
+17 -- 20 
+Phosphate 1 and phosphate 2 motifs
+The phosphate 1 motif formed by residues present in the turn between the b1 and b2-strands of subdomain Ia plays a role in nucleotide binding by interacting with the b-phosphate group . 
+The primary structure of this turn is nearly identical in most of the members of this superfamily . 
+The conserved Asp/Asn present in the b1-strand has been shown to interact with the Mg bound to 2C ATP . 
+Besides this , a basic residue from the b2-strand binds the b-phosphate group of ADP in glycerol kinase ( Arg17 ) and actin ( Lys18 ) . 
+Even in the TdcD -- AMPPNP structure , the closest residue from the phosphate 1 motif to the nucleotide is Lys14 in the b2-strand , which is expected to stabilize the b-phosphate group of the nucleotide upon domain closure . 
+The phosphate 2 motif , consisting of residues present in b1 * -- b2 * turn in subdomain IIa , interacts with the g-phosphate group of the nucleotide via main-chain amides . 
+The residues that form this motif are DXG ( where X is any amino acid ) in actin/Hsc70 , GTG in hexokinase/glycerol kinase and GNG in acetate and propionate kinases . 
+Conserved residues present in this motif in TdcD complexes bind to a and b-phosphate groups of the nucleotide . 
+Adenosine motif
+The adenosine motif contains conserved glycine residues in the ASKHA superfamily , including TdcD . 
+The adenosine base is bound by diverse interactions . 
+It is in the anti conformation , as seen in most of the enzyme-bound nucleotides , and binds primarily through hydrophobic interactions with residues only from domain II . 
+The N6 atom of the adenine ring is solvent-exposed in most of the proteins of this superfamily . 
+Connect 1 and connect 2 motifs
+In connect 1 and connect 2 motifs , conserved alanine and glycine residues have been proposed to form a close contact between these two motifs . 
+Residues present in these two motifs have been shown to have properties appropriate for an interdomain hinge . 
+In TdcD also , residues present in these two motifs were found to be part of hinge bending residues . 
+In the connect 1 motif of acetate kinase , conserved Asp148 was found to be essential for activity . 
+The carboxyl group of the equivalent 23 aspartate residue in members of the ASKHA superfamily is proposed to function in base catalysis or metal binding . 
+The equivalent residue in TdcD is also aspartate ( Asp143 ) and is expected to play a similar role in catalysis . 
+Glu384 present in the connect 2 motif was implicated in domain movement or catalysis in acetate kinase . 
+The 22 presence of an equivalent residue ( Glu/Asp ) in other members of the ASKHA superfamily including TdcD ( Glu381 ) suggests that it probably plays a similar role in domain movement or catalysis . 
+carried out on members of the ASKHA superfamily , mainly acetate kinase , to discuss the role of proposed catalytic residues . 
+The kinetics and various site-directed mutagenesis experiments have led to the identiﬁcation of catalytically essential residues in MAK . 
+The equivalent 16,21 -- 23 residues in the case of propionate and butyrate kinases were found to be largely conserved . 
+The equivalent catalytic residues in propionate kinase are Asn11 , Arg86 , Asp143 , His175 , Arg236 and Glu381 . 
+Previous studies on acetate kinase have suggested that phosphoryl transfer occurs either by a direct in-line transfer or by a covalent triple 9 displacement mechanism involving two phosphoenzyme intermediates . 
+In the structure of 10 acetate kinase with putative transition state components AlF3 , ADP and acetate , close proximity of 16 the carboxyl group of acetate and the b-phosphate group of ADP to AlF3 , which seems to mimic the meta-phosphate intermediate , provided strong support for direct in-line phosphoryl transfer . 
+Because of the similarities in the architecture of the active site , substrate structure and chemistry performed , it might be appropriate to assume that propionate and acetate kinases have similar cata-lytic mechanisms . 
+Structural details obtained from the TdcD complex structures indicate that once the substrate binds in the cleft , the proposed substrate-induced domain movement occurs , which positions the reactants , brings the active site residues present in both the domains close to the reactants , and shields the active site pocket from the surrounding solvent . 
+In parallel with the direct in-line transfer reaction mechanism proposed for the acetate kinase , in propionate kinase , Arg86 and Arg236 16 probably interact with the carboxyl group of propionate , while Asn11 and Glu381 interact with magnesium bound to ATP in a bi-dentate coordination . 
+Evidence from the structure of MAK-AlF3 suggests that His175 and Arg236 mainly provide stabilization of the transition state in TdcD . 
+Role of conserved residues 
+We have taken into consideration earlier wor 
+Analysis of the domain movement
+All well-characterized members of this superfamily , such as hexokinase , glycerol kinase , 18 19 Hsc70 and actin , undergo a large conformational 33 34 change , resulting from interdomain motion during the reaction cycle . 
+The domain movement in TdcD has been analysed by comparison with the subunit structure of the homologous acetate kinase . 
+However , precise analysis of the domain movements is not possible because of substitutions , insertions and deletions in the primary structure of the proteins . 
+Knowledge of the structure of TdcD in the absence of any ligand or in complex with propionate could help conﬁrm the deduced domain movements , but suitable crystals are not available . 
+As seen in the structure of glycerol kinase in complex with the non-hydrolysable ATP analogue b,g-di ﬂuoromethylene adenosine 5 0-triphosphate ( AMPPCF2P ) , an interesting observation in all 19 crystal structures of MAK with various nucleotide / ligand complexes is that the dimer in the crystal 3,16 is asymmetric , with subunit A in a relatively closed conformation and the second subunit B in an open conformation . 
+Here , we deﬁne open and closed conformation of domains on the basis of the distances between the residues present at the farthest point from the hinge residues . 
+In the two subunits of the MAK -- ATP complex structure , ADP 3 and SO4 are bound in different orientations , and the terminal b-strand ( bb ) of the central b-sheet present in domain I interacts with the same b-strand of a symmetry-related molecule . 
+In TdcD , the subunits are related by a crystallographic 2-fold axis . 
+Thus , no difference between the subunits could exist . 
+In both the liganded TdcD structures , the average B-factor for domain I ( moving domain ) is higher than that of domain II ( ﬁxed domain ) , indicating increased ﬂexibility of domain I with respect to domain II . 
+The moving domain in the liganded TdcD structures is not involved in crystal packing interactions . 
+The evidence currently available from proteins that undergo signiﬁcant domain motion seems to suggest that both open and closed states are only slightly different in energy , and they are in dynamic equilibrium at room temperature . 
+Therefore , even relatively weak crystal packing forces can stabilize various possible structures . 
+Like glycerol kinase , acetate and propionate kinase 19 structures differ in the organization of domains , even though all the structures were obtained in the presence of nucleotides . 
+This suggests that in TdcD and MAK , binding of propionate/acetate deeper inside the cleft or a later catalytic step rather than nucleotide binding might be required for complete closure of the domains . 
+Although the actual driving force for domain motion remains to be resolved , the cleft between the two domains is expected to clos upon propionate/acetate binding , leading to the positioning of both the substrate and the nucleotide in orientations optimal for catalysis . 
+The programs DynDom and DOMOV † have 35 been used to analyse differences in the organization of domains in the structures of TdcD and MAK . 
+According to the results of DynDom , in TdcD and MAK , the moving domain ( domain I ) , the ﬁxed domain ( domain II ) and the hinge residues present at the interface between the two domains comprise of several segments of non-sequential residues ( Table 2 ) . 
+The residues that comprise the ﬁxed and moving domains and the hinge region are largely equivalent in propionate and acetate kinases . 
+In the A and B subunits of the MAK -- ATP structure , the motion of the moving domain is a hinge rotation of 278 and a screw translation of K0 .8 Å relative to the ﬁxed domain ( Figure 9 ( a ) ) . 
+The ratio of interdomain to intradomain displacement is 3.0 for the A and B subunits of the MAK -- ATP structure . 
+Structural superposition of both the A and B subunits of MAK -- ATP and a subunit of TdcD -- ADP shows that domain I in the TdcD structure occupies an intermediate position compared to its position in the A and B subunits of the MAK -- ATP structure ( Figure 9 ( b ) ) . 
+In TdcD , the domain motion corresponds to a rotation of 20.958 and screw translation of K0 .13 Å relative to the A subunit of the MAK -- ATP structure and a rotation of 20.818 and a screw translation of 0.06 Å relative to the B subunits of the MAK -- ATP structure . 
+Superposition of the C atoms a of domain I/domain II of TdcD individually with the respective domains of the A and B subunits of MAK -- ATP using the program ALIGN gave rmsd 31 values ranging from 0.8 Å to 1.1 Å , indicating that domain repositioning is probably a result of rigid body movement ( Figure 9 ( c ) ) . 
+We suggest that the conformation assumed by domains I and II in the nucleotide-bound structure of TdcD might represent an intermediate point in the pathway of domain closure . 
+The expected domain motions in propionate kinase and acetate kinase are larger compared to the values reported for glycerol kinase , hexokinase , Hsc70 and actin . 
+The superposition of glycerol kinase domains is achieved by a rotation 19 of 6.08 and a 0.2 Å translation along a unique axis compared to a 128 rotation and a 0.3 Å translation for hexokinase . 
+The hinge motions between the 18,19 major domains of actin and Hsc70 were found 19,33 32 to be w9 .68 and 148 , respectively . 
+The domain motions observed in the structures of propionate kinase and acetate kinase , which need to be corroborated by further studies , is another crystallographic example of domain movement observed in proteins of the ASKHA superfamily . 
+Table 2 . 
+Residue range in the ﬁxed and the moving domains and in the hinge region of TdcD and MAK 
+TdcD Residues 
+Fixed domain Moving domain Hinge region MAK Fixed domain Moving domain Hinge region 
+86 -- 96 , 101 -- 123 , 142 -- 382 4 -- 85 , 97 -- 100 , 124 -- 141 , 383 -- 395 
+84 -- 86 , 96 -- 101 , 123 -- 124 , 141 -- 142 , 382 -- 383 Residues 91 -- 101 , 106 -- 128 , 147 -- 385 3 -- 90 , 102 -- 105 , 129 -- 146 , 386 -- 396 89 -- 91 , 101 -- 106 , 128 -- 129 , 146 -- 47 , 385 -- 386 
+Figure 9 . 
+( a ) Interdomain rotation axis within the A and B subunits of the MAK -- ATP complex structure determined by the program DynDom . 
+Arrow indicates the direction of rotation of the moving domain by the right-hand rule . 
+35 ( b ) Structural superposition of TdcD and the A and B subunits of the MAK -- ATP structure , showing the movement of domain I ( moving domain ) relative to the ﬁxed domain ( domain II ) . 
+( c ) Structural superposition of the moving domain and hinge residues in TdcD and the A and B subunits of the MAK -- ATP structure , indicating that the domain motion is a result of rigid body movement across hinge residues ( shown in red ) . 
+TdcD and the A and B subunits of the MAK -- ATP structure are shown in purple , yellow and green , respectively . 
+The Figure was generated using the programs RASMOL 42 and MOLSCRIPT , and rendered with Raster3D . 
+43 45 
+Conclusion
+The structures of TdcD in complex with ADP and AMPPNP are the ﬁrst of propionate kinase structures , and the ﬁrst structural description for an acetate kinase homologue from a mesophilic organism . 
+The overall structures of TdcD complexes are similar to the structures of acetate kinase solved with various ligands . 
+However , structural comparisons of TdcD and MAK complexes revealed a few interesting differences . 
+The major difference was observed in the arrangement of the two domains and is indicative of the large domain motion in these kinases . 
+The domain movement is known to play a role in catalysis an resembles those of the other members of the ASKHA superfamily , where also domain movement is required to bring the active site residues from the moving domain into close proximity to the substrate , position the reactants and shield the reaction intermediates from the surrounding solvent . 
+The other difference observed in the TdcD -- AMPPNP complex structure is the presence of intact AMPPNP . 
+This is in contrast to MAK , where the structure with ATP as well as the nonhydrolysable analogue ATPgS yielded cleaved nucleotides . 
+The structure of TdcD -- AMPPNP approximates the optimal position of the g-phos-phate group poised for catalysis . 
+The cryoprotectant ethylene glycol observed in the proposed propio-nate-binding site in the AMPPNP-bound TdcD complex structure probably reﬂects the mode of propionate binding . 
+The differences in the size of the hydrophobic pocket that binds the substrate , particularly the replacement of Val93 of MAK by Ala88 in TdcD , could account for the observed greater afﬁnity of TdcD towards propionate rather than acetate . 
+The larger numbers of salt-bridges present at the dimeric interface of MAK explain the integrity of the dimeric enzyme at the high growth temperature of the thermophile . 
+Most of the catalytically essential residues identiﬁed using kinetics and mutagenesis experiments in acetate kinase were found to be conserved in propionate kinase , suggesting a similar active site pocket and catalytic mechanism for both the enzymes . 
+Further structural and biochemical studies on TdcD are needed to conﬁrm the role of the proposed active site residues and to validate direct in-line transfer as the mode of phosphoryl transfer . 
+† http://bioinfo1.mbfys.lu.se/cgi-bin/Domov/ domov.cgi 
+Materials and Methods
+Crystallization and data collection
+Cloning , expression , puriﬁcation , co-crystallization of TdcD with ADP , collection of X-ray diffraction dataset and data processing have been described . 
+Brieﬂy , TdcD 26 was expressed with an N-terminal hexa-histidine tag , which facilitated its puriﬁcation using Ni-NTA afﬁnity column chromatography . 
+The complexes were prepared by incubating native protein ( 10 mg/ml ) with 10 mM ADP or 10 mM AMPPNP overnight at 4 8C . 
+Crystals of the TdcD -- ADP and TdcD -- AMPPNP complexes were obtained in 0.1 M Bis -- Tris ( pH 6.5 ) , 18 % ( w/v ) poly-ethylene glycol monomethyl ether 2000 and in 0.1 M Bis -- Tris ( pH 6.5 ) , 35 % ( v/v ) pentaerythritol ethoxylate ( 15/4 EO/OH ) , respectively . 
+Diffraction data were collected to resolutions of 2.2 Å and 2.3 Å for ADP and AMPPNP complexes , respectively , using 20 % ( v/v ) ethylene glycol as a cryoprotectant . 
+Systematic absences indicated that the crystals belonged to space group P3121 or P3221 . 
+The volume of the asymmetric unit of the crystals was compatible with only one subunit , with a volume per unit molecular mass of the protein of 2.7 Å Da and a 3 K1 calculated solvent content of 53.2 % ( v/v ) . 
+The crystal parameters and the data collection statistics are summarized in Table 1 . 
+Structure solution and reﬁnement
+The structure of TdcD -- ADP was solved by molecular replacement using a monomer of MAK -- ATP as the search model . 
+TdcD shares a sequence identity of 38 % with 3 MAK . 
+Since in the A and B subunits of MAK , domain I and II are closed to different extents , both the subunits , with non-identical residues mutated to alanine , were used separately as search models for the structure solution using the program AMoRe . 
+The highest peak 36 of the translation search using the A subunit as the search model had a correlation coefﬁcient of 30 % and an R-factor of 47 % , and using the B subunit as the search model resulted in a correlation coefﬁcient of 37 % and an R-factor of 47 % for the resolution range of 15.0 Å to 3.5 Å in the space group P3121 . 
+Solutions obtained with the B subunit as the search model were used for further reﬁnement . 
+Examination of the top solution revealed good crystal packing and no clash between symmetry-related molecules . 
+Reﬁnement using the CNS_solve1 .1 pro-37 gram was initiated , with a randomly chosen subset of 5 % of reﬂections for the calculation of the Rfree as a monitor of reﬁnement . 
+The 2FoKFc map calculated after initial positional reﬁnement showed good ﬁt for the majority of the main-chain and revealed major changes at places corresponding to insertions and deletions . 
+Towards the N-terminal end , no electron density was observed for residues 27 -- 87 . 
+After rigid body reﬁnement , the model was subjected to one round of simulated annealing with torsion angle dynamics , in which the protein atoms were heated to 5000 K and then cooled in steps of 25 K to the ﬁnal temperature of 300 K . 
+The sA weighted 2FoKFc and FoKFc maps were then calculated , and visualized using the interactive model-building program O , which 38 showed no improvement in the map for the missing region . 
+In the rest of the model , the position of the mainchain was adjusted manually in several places , and side-chains were added to the model in places where the density was clear . 
+Density modiﬁcation techniques using the program CNS_solve1 .1 were applied to reduce the 37 model dependency and to improve the electron density map . 
+After several rounds of model building and reﬁnement , it was possible to build most of the side-chains into the electron density . 
+From the resulting improved model , 2FoKFc and FoKFc electron density maps were calculated , which allowed the completion of all missing parts of the model . 
+Ambiguities in the model were resolved by setting the weights of the atoms concerned to zero until the density could be interpreted clearly . 
+An omit map was calculated in order to remove the model bias by omitting 5 % of the model in each cycle . 
+The structure of TdcD in complex with AMPPNP was solved using the TdcD -- ADP structure . 
+In the ﬁnal stages of reﬁnement , inspection of difference electron density maps showed strong positive density for the expected ligands AMPPNP and ADP . 
+The topology and the parameters for the ADP and AMPPNP were evaluated using the web-based program HIC-UP . 
+This was 39 followed by identiﬁcation of potential sites of solvent molecules by the automatic water-picking algorithm of CNS_solve1 .1 . 
+The positions of these automatically 37 picked water molecules were checked manually and a few more water molecules were identiﬁed manually on the basis of electron density contoured at 0.8 s in the 2FoKFc map and 2.5 s in the FoKFc map . 
+The model was then subjected to 20 steps of individual B-factor reﬁnement . 
+The ﬁnal reﬁnement statistics and assessment of model quality of the reﬁned structures are summarized in Table 1 
+The geometry of the ﬁnal model was checked using PROCHECK and WHAT-IF . 
+All the structural super-29 40 positions and the rmsd for TdcD and the other related proteins were determined using the program ALIGN . 
+31 Average B-factors for protein atoms , water molecules , and ligands were calculated using the BAVERAGE program of the CCP4 suite . 
+Interactions were evaluated using the 41 CONTACT module of the CCP4 package . 
+The interface 41 residues were identiﬁed by recognizing the residues of one monomer , which were within a cut-off distance of 4.0 Å from the atoms of the other monomer . 
+NACCESS † was used for surface area calculations . 
+The program DynDom and DOMOV ‡ were used to analyse the 34 domain motion . 
+DynDom identiﬁes dynamic domains by clusters of rotation vectors corresponding to main-chain segments , which may be composed of several regions moving in a concerted fashion without necessarily forming a globular unit . 
+This program was used to identify ﬁxed and moving domains and hinge residues at the transition points between the two domains . 
+DOMOV , a server to detect the domain movement from two homologous protein structures , was used to crosscheck the domain movement . 
+It was used also to calculate rotation and translation of the moving domain relative to the ﬁxed domain . 
+The Figures were prepared by using the programs RASMOL , GRASP § , MOLSCRIPT , BOB-42 43 SCRIPT and Raster3D . 
+44 45 
+Activity assay and kinetic studies
+Propionate kinase activity was examined routinely by an enzyme-coupled spectrophotometric assay in which the reaction was measured by coupling the formation of ADP to the oxidation of NADH by pyruvate kinase and lactate dehydrogenase . 
+The reaction mixture contained the following components in a ﬁnal volume of 0.1 ml : 50 mM Hepes -- NaOH ( pH 7.5 ) , 5 mM propionate , 3 mM ATP , 12.5 mM MgCl2 , 3 mM phosphoenolpyruvate , 0.25 mM reduced NADH , 2.5 units of lactate dehydrogenase , 2 units of pyruvate kinase . 
+The reaction was started by the addition of propionate kinase . 
+The progress of the reaction was followed by measuring the formation of NAD at 25 8C , which results in a decrease in C absorbance at 340 nm . 
+The concentration of TdcD was determined by Lowry 's method using bovine serum 46 albumin as the standard . 
+Substrate speciﬁcities of the homogeneous enzyme were determined with ATP , propionate and acetate . 
+For kinetic studies , the concentration of MgCl2 was held in excess at 25 mM in the typical assay system . 
+The kinetic constants for propionate and acetate were determined using puriﬁed TdcD in the presence of an excess of ATP ( 5 mM ) , whereas the concentration of propionate was held in excess at 50 mM for the determination of Km for ATP . 
+Enzymatic activity using acetate as substrate was measured in exactly the same way , except that acetate replaced propionate in the assay . 
+Kinetic parameters were determined using at least seven different concentrations of substrates . 
+The concentration ranges used for ATP , propionate and acetate were 0.025 -- 6 mM , 0.25 -- 40 mM and 2 -- 350 mM , respectively . 
+All enzyme assays were conducted at 25 8C , and experiments were repeated at least three times from independent puriﬁcations . 
+Kinetic parameters were calculated by ﬁtting the initial velocity versus substrate concentration to the Michaelis -- Menten equation , vZ ðVmax 1/2 S Þ = ðKmC 1/2 S Þ , using the non-linear regression analysis option of the GraphPad Prism software . 
+The Kcat values were determined on the basis of the molecular mass corresponding to the dimer of TdcD . 
+Structure analysis 
+Protein Data Bank accession numbers
+The coordinates and structure factors for TdcD in complex with ADP and AMPPNP have been submitted to the RCSB Protein Data Bank and have been assigned the accession codes 1X3M and 1X3N , respectively . 
+Acknowledgements
+The intensity data were collected at the X-ray facility for Structural Biology at the Indian Institute of Science ( IISc ) , supported by the Department of Science and Technology ( DST ) and the Department of Biotechnology ( DBT ) of the Government of India . 
+We thank the staff in the X-ray laboratory and Supercomputing Education and Research Center of IISc for their co-operation during the course of these investigations . 
+We have beneﬁted from discussions with Professor N. Appaji Rao on enzyme kinetics . 
+M.R.N.M. and H.S.S. thank DST and DBT for ﬁnancial support . 
+D.K.S. thanks CSIR , India , for ﬁnancial support . 
+References 
+protein 70/actin superfamily : implications of conserved structure for mechanism . 
+Annu . 
+Rev. Biophys . 
+Biomol . 
+Struct . 
+25 , 137 -- 162 . 
+9 . 
+Blattler , W. A. & Knowles , J. R. ( 1979 ) . 
+Stereochemical course of phosphokinases . 
+The use of adenosine [ gamma - ( S ) -16 O ,17 O ,18 O ] triphosphate and the mechanistic consequences for the reactions catalyzed by glycerol kinase , hexokinase , pyruvate kinase , and acetate kinase . 
+Biochemistry , 18 , 3927 -- 3933 . 
+10 . 
+Spector , L. B. ( 1980 ) . 
+Acetate kinase : a triple-displace-ment enzyme . 
+Proc . 
+Natl Acad . 
+Sci . 
+USA , 77 , 2626 -- 2630 . 
+11 . 
+Anthony , R. S. & Spector , L. B. ( 1971 ) . 
+Exchange reactions catalyzed by acetate kinase . 
+J. Biol . 
+Chem . 
+246 , 6129 -- 6135 . 
+12 . 
+Anthony , R. S. & Spector , L. B. ( 1972 ) . 
+Phosphorylated acetate kinase . 
+Its isolation and reactivity . 
+J. Biol . 
+Chem . 
+247 , 2120 -- 2125 . 
+13 . 
+Fox , D. K. , Meadow , N. D. & Roseman , S. ( 1986 ) . 
+Phosphate transfer between acetate kinase and enzyme I of the bacterial phosphotransferase system . 
+J. Biol . 
+Chem . 
+261 , 13498 -- 13503 . 
+14 . 
+Dailey , F. E. & Berg , H. C. ( 1993 ) . 
+Change in direction of ﬂagellar rotation in Escherichia coli mediated by acetate kinase . 
+J. Bacteriol . 
+175 , 3236 -- 3239 . 
+15 . 
+Miles , R. D. , Gorrell , A. & Ferry , J. G. ( 2002 ) . 
+Evidence for a transition state analog , MgADP-aluminum ﬂuoride-acetate , in acetate kinase from Methanosarcina thermophila . 
+J. Biol . 
+Chem . 
+277 , 22547 -- 22552 . 
+16 . 
+Gorrell , A. , Lawrence , S. H. & Ferry , J. G. ( 2005 ) . 
+Structural and kinetic analyses of arginine residues in the active site of the acetate kinase from Methano-sarcina thermophila . 
+J. Biol . 
+Chem . 
+280 , 10731 -- 10742 . 
+17 . 
+Flaherty , K. M. , DeLuca-Flaherty , C. & McKay , D. B. ( 1990 ) . 
+Three-dimensional structure of the ATPase fragment of a 70 K heat-shock cognate protein . 
+Nature , 346 , 623 -- 628 . 
+18 . 
+Bennett , W. S. & Steitz , T. A. ( 1980 ) . 
+Structure of a complex between yeast hexokinase A and glucose : II . 
+Detailed comparisons of conformation and active site conﬁguration with the native hexokinase B monomer and dimer . 
+J. Mol . 
+Biol . 
+180 , 211 -- 230 . 
+19 . 
+Bystrom , C. E. , Pettigrew , D. W. , Branchaud , B. P. , O'Brien , P. & Remington , S. J. ( 1999 ) . 
+Crystal structures of Escherichia coli glycerol kinase variant S58/W in complex with non-hydrolyzable ATP analogues reveal a putative active conformation of the enzyme as a result of domain motion . 
+Biochemistry , 38 , 3508 -- 3518 . 
+20 . 
+Kabsch , W. , Mannherz , H. G. , Suck , D. , Pai , E. F. & Holmes , K. C. ( 1990 ) . 
+Atomic structure of the actin : DNase I complex . 
+Nature , 347 , 37 -- 44 . 
+21 . 
+Ingram-Smith , C. , Barber , R. D. & Ferry , J. G. ( 2000 ) . 
+The role of histidines in the acetate kinase from Methanosarcina thermophila . 
+J. Biol . 
+Chem . 
+275 , 33765 -- 33770 . 
+22 . 
+Singh-Wissmann , K. , Ingram-Smith , C. , Miles , R. D. & Ferry , J. G. ( 1998 ) . 
+Identiﬁcation of essential glutamates in the acetate kinase from Methanosarcina thermophila . 
+J. Bacteriol . 
+180 , 1129 -- 1134 . 
+23 . 
+Miles , R. D. , Iyer , P. P. & Ferry , J. G. ( 2001 ) . 
+Sitedirected mutational analysis of active site residues in the acetate kinase from Methanosarcina thermophila . 
+J. Biol . 
+Chem . 
+276 , 45059 -- 45064 . 
+24 . 
+Singh-Wissmann , K. , Miles , R. D. , Ingram-Smith , C. & Ferry , J. G. ( 2000 ) . 
+Identiﬁcation of essential arginines in the acetate kinase from Methanosarcina thermophila . 
+Biochemistry , 39 , 3671 -- 3677 . 
+25 . 
+Zeng , C. , Aleshin , A. E. , Hardie , J. B. , Harrison , R. W. 
+& Fromm , H. J. ( 1996 ) . 
+ATP-binding site of human brain hexokinase as studied by molecular modeling and site-directed mutagenesis . 
+Biochemistry , 35 , 13157 -- 13164 . 
+26 . 
+Simanshu , D. K. & Murthy , M. R. N. ( 2005 ) . 
+Cloning , expression , puriﬁcation , crystallization and preliminary X-ray diffraction analysis of propionate kinase ( TdcD ) from Salmonella typhimurium . 
+Acta Crystallog . 
+sect . 
+F , 61 , 52 -- 55 . 
+27 . 
+Ingram-Smith , C. , Gorrell , A. , Lawrence , S. H. , Iyer , P. , Smith , K. & Ferry , J. G. ( 2005 ) . 
+Characterization of the acetate binding pocket in the Methanosarcina thermophila acetate kinase . 
+J. Bacteriol . 
+187 , 2386 -- 2394 . 
+28 . 
+Palacios , S. , Starai , V. J. & Escalante-Semerena , J. C. ( 2003 ) . 
+Propionyl coenzyme A is a common intermediate in the 1,2-propanediol and propionate catabolic pathways needed for expression of the prpBCDE operon during growth of Salmonella enterica on 1,2-propanediol . 
+J. Bacteriol . 
+185 , 2802 -- 2810 . 
+29 . 
+Laskowski , R. A. , McArthur , M. W. , Moss , D. S. & Thornton , J. M. ( 1993 ) . 
+PROCHECK : a program to check the stereo-chemical quality of protein structures . 
+J. Appl . 
+Crystallog . 
+26 , 283 -- 291 . 
+30 . 
+Hutchinson , E. G. & Thornton , J. M. ( 1996 ) . 
+PROMOTIF -- a program to identify and analyze structural motifs in proteins . 
+Protein Sci . 
+5 , 212 -- 220 . 
+31 . 
+Cohen , G. E. ( 1997 ) . 
+ALIGN : a program to superimpose protein coordinates accounting for insertions and deletions . 
+J. Appl . 
+Crystallog . 
+30 , 1160 -- 1161 . 
+32 . 
+Steitz , T. A. , Shoham , M. & Bennett , W. S. , Jr ( 1981 ) . 
+Structural dynamics of yeast hexokinase during catalysis . 
+Phil . 
+Trans . 
+Roy . 
+Soc . 
+ser . 
+B , 293 , 43 -- 52 . 
+33 . 
+Harrison , C. J. , Hayer-Hartl , M. , Di Liberto , M. , Hartl , F. & Kuriyan , J. ( 1997 ) . 
+Crystal structure of the nucleotide exchange factor GrpE bound to the ATPase domain of the molecular chaperone DnaK . 
+Science , 276 , 431 -- 435 . 
+34 . 
+Page , R. , Lindberg , U. & Schutt , C. E. ( 1998 ) . 
+Domain motions in actin . 
+J. Mol . 
+Biol . 
+280 , 463 -- 474 . 
+35 . 
+Hayward , S. & Lee , R. A. ( 2002 ) . 
+Improvements in the analysis of domain motions in proteins from conformational change : DynDom version 1.50 . 
+J. Mol . 
+Graph . 
+Model . 
+21 , 181 -- 183 . 
+36 . 
+Nawaja , J. ( 1994 ) . 
+AMoRe : an automated package for molecular replacement . 
+Acta Crystallog . 
+sect . 
+A , 50 , 157 -- 163 . 
+37 . 
+Brunger , A. T. , Adams , P. D. , Clore , G. M. , DeLano , W. L. , Gros , P. , Grosse-Kunstleve , R. W. et al. ( 1998 ) . 
+Crystallography & NMR system : a new software suite for macromolecular structure determination . 
+Acta Crystallog . 
+sect . 
+D , 54 , 905 -- 921 . 
+38 . 
+Jones , T. A. , Zou , J. Y. , Cowan , S. W. & Kjeldgaard , M. ( 1991 ) . 
+Improved methods for building protein models in electron density maps and the location of errors in these models . 
+Acta Crystallog . 
+sect . 
+A , 47 , 110 -- 119 . 
+39 . 
+Kleywegt , G. J. & Jones , T. A. ( 1998 ) . 
+Databases in protein crystallography . 
+Acta Crystallog . 
+sect . 
+D , 54 , 1119 -- 1131 . 
+40 . 
+Vriend , G. ( 1990 ) . 
+WHAT IF -- a molecular modeling and drug design program . 
+J. Mol . 
+Graph . 
+8 , 52 -- 56 . 
+41 . 
+Collaborative Computational Project , Number 4 . 
+( 1994 ) . 
+The CCP4 suite : programs for protein crystallography . 
+Acta Crystallog . 
+sect . 
+D , 50 , 760 -- 763 . 
+42 . 
+Sayle , R. A. & Milner-White , E. J. ( 1995 ) . 
+RASMOL : biomolecular graphics for all . 
+Trends Biochem . 
+Sci . 
+20 , 374 
+43 . 
+Kraulis , P. J. ( 1991 ) . 
+MOLSCRIPT : a program to produce both detailed and schematic plots of protein structures . 
+J. Appl . 
+Crystallog . 
+24 , 946 -- 950 . 
+44 . 
+Esnouf , R. M. ( 1999 ) . 
+Further additions to MolScript version 1.4 , including reading and contouring of electron-density maps . 
+Acta Crystallog . 
+sect . 
+D , 55 , 938 -- 940 . 
+45 . 
+Merritt , E. A. & Murphy , M. E. ( 1994 ) . 
+Raster3D version 2.0 . 
+A program for photorealistic molecular graphics . 
+Acta Crystallog . 
+sect . 
+D , 50 , 869 -- 873 . 
+46 . 
+Lowry , O. H. , Rosebrough , N. J. , Farr , A. L. & Randall , R. J. ( 1951 ) . 
+Protein measurement with the Folin phenol reagent . 
+J. Biol . 
+Chem . 
+193 , 265 -- 275 . 
+47 . 
+Higgins , D. , Thompson , J. , Gibson , T. , Thompson , J. D. , Higgins , D. G. & Gibson , T. J. ( 1994 ) . 
+CLUSTAL W. : improving the sensitivity of progressive multiple sequence alignment through sequence weighting , position-speciﬁc gap penalties and weight matrix choice . 
+Nucl . 
+Acids Res . 
+22 , 4673 -- 4680 . 
+48 . 
+Gouet , P. , Robert , X. & Courcelle , E. ( 2003 ) . 
+ESPript / ENDscript : extracting and rendering sequence and 3D information from atomic structures of proteins . 
+Nucl . 
+Acids Res . 
+31 , 3320 -- 3323 . 
+49 . 
+Bond , C. S. ( 2003 ) . 
+TopDraw : a sketchpad for protein structure topology cartoons . 
+Bioinformatics , 19 , 311 -- 312 .

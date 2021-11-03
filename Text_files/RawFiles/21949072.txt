@@ -1,0 +1,638 @@
+JOURNAL OF BACTERIOLOGY , Dec. 2011 , p. 6639 -- 6650 0021-9193 / 11 / $ 12.00 doi :10.1128 / JB.05868-11 
+Copyright © 2011 , American Society for Microbiology . 
+All Rights Reserved . 
+Temperature-Sensitive M
+e E in 
+utants of RNas Salmonella enterica 
+Disa L. Hammarlöf ,1 Lars Liljas ,1 and Diarmaid Hughes2 * 
+Department of Cell and Molecular Biology , Box 596,1 and Department of Medical Biochemistry and Microbiology , Box 582,2 Uppsala University , Uppsala , Sweden 
+Received 22 July 2011/Accepted 16 September 2011 
+RNase E has an important role in mRNA turnover and stable RNA processing , although the reason for its essentiality is unknown . 
+We isolated conditional mutants of RNase E to provide genetic tools to probe its essential function . 
+In Salmonella enterica serovar Typhimurium , an extreme slow-growth phenotype caused by mutant EF-Tu ( Gln125Arg , tufA499 ) can be rescued by mutants of RNase E that have reduced activity . 
+We exploited this phenotype to select mutations in RNase E and screened these for temperature sensitivity ( TS ) for growth . 
+Four different TS mutations were identiﬁed , all in the N-terminal domain of RNase E : Gly663Cys , Ile2073Ser , Ile2073Asn , and Ala3273Pro . 
+We also selected second-site mutations in RNase E that reversed temperature sensitivity . 
+The complete set of RNase E mutations ( 53 primary mutations including the TS mutations , and 23 double mutations ) were analyzed for their possible effects on the structure and function of RNase E by using the available three-dimensional ( 3-D ) structures . 
+Most single mutations were predicted to destabilize the structure , while second-site mutations that reversed the TS phenotype were predicted to restore stability to the structure . 
+Three isogenic strain pairs carrying single or double mutations in RNase E ( TS , and TS plus second-site mutation ) were tested for their effects on the degradation , accumulation , and processing of mRNA , rRNA , and tRNA . 
+The greatest defect was observed on rne mRNA autoregulation , and this correlated with the ability to rescue the tufA499-associated slow-growth phenotype . 
+This is consistent with the RNase E mutants being defective in initial binding or subsequent cleavage of an mRNA critical for fast growth . 
+RNase E ( 18 ) is a key component of the RNA degradosome ( 5 , 20 ) , a multienzyme complex that plays a central role in mRNA turnover and the processing of stable RNA in eubacteria ( 2 , 10 , 17 , 24 , 26 ) . 
+The degradosome is composed of a tetramer of RNase E molecules interacting via their N-termi-nal regions , with the C-terminal end of each RNase E molecule complexed with a monomer of RhlB , a dimer of enolase , and a trimer of PNPase ( reviewed in reference 5 ) . 
+RNase E endo-nuclease activity can also be directed to speciﬁc mRNAs by the combined activity of Hfq protein and mRNA-speciﬁc small RNAs ( 13 , 25 , 31 ) . 
+The catalytic activity of RNase E is largely contained within the N-terminal half of the protein , the structure of which has been determined in Escherichia coli ( 4 , 10 , 15 , 22 ) . 
+The catalytic half of RNase E is divided into the small and big domains , with the latter including several folds related to RNase H , S1 , and DNase I structures ( 4 ) . 
+In a previous study ( 11 ) , mutations in RNase E were isolated in a selection for suppression of an extreme slow-growth phenotype caused by a mutant form of EF-Tu ( tufA499 , EF-Tu Gln125Arg ) in Salmonella enterica serovar Typhimurium , and the question of how these mutations in RNase E suppress the tufA499 growth defect was raised . 
+EF-Tu brings aminoacyltRNAs ( aa-tRNAs ) , as part of the ternary complex EFTu GTP aa-tRNA , to the ribosomal A-site and thus is critical for driving the elongation rate of protein synthesis ( 12 , 27 ) . 
+The tufA499 mutation has been proposed to starve the ribosome of the ternary complex , causing ribosome pausing , thus 
+* Corresponding author . 
+Mailing address : Dept. of Medical Biochemistry and Microbiology , Box 582 , Uppsala University , Uppsala S-751 23 , Sweden . 
+Phone : 46-18-4714507 . 
+Fax : 46-18-4714673 . 
+E-mail : diarmaid.hughes@imbim.uu.se . 
+Published ahead of print on 23 September 2011 . 
+exposing nascent mRNAs to excessive RNase E cleavage , leading to slow growth ( 11 ) . 
+Mutants that restore a normal growth rate include those that increase EF-Tu activity and those that reduce RNase E activity ( 11 ) . 
+One of the rne suppressor mutations that restores normal growth rate to a strain dependent on tufA499 for protein synthesis also confers a temperaturesensitive ( TS ) phenotype to S. Typhimurium . 
+We used this genetic system to isolate a series of single and double mutations in RNase E that affect temperature sensitivity and analyzed them in terms of the available RNase E structures to assess their possible effects on the structure and interactions of RNase E. Three paired sets of mutations ( primary TS and TS suppressor combinations ) were also assayed for their effects on the slow-growth phenotype ( tufA499 ) and on RNA degradation and processing . 
+MATERIALS AND METHODS
+663 
+each culture was streaked onto LA for single colonies , incubated at 30 °C over-night , and screened for faster-growing colonies . 
+The majority of faster-growing colonies are predicted to carry mutations in rne that suppress the tufA499 slowgrowth phenotype ( 11 ) . 
+Fast-growing colonies were tested for a temperaturesensitive ( TS ) phenotype on LA at 43 °C and 37 °C . 
+Fourteen mutants with a TS phenotype at either 37 °C or 43 °C were isolated . 
+In addition , one mutant from our original collection of rne mutants was found to be TS . 
+Mutations in rne were moved by P22-mediated cotransduction with the linked zcg-9076 : : Tn10dTet marker ( TH5949 ) . 
+DNA sequencing showed that there were 4 different TS mutations in rne among the mutants isolated ( see Table 2 ) . 
+Each of the four TS mutants was used to select for suppressors of the TS phenotype by growing 20 cultures of each strain ( with zcg-9076 : : Tn10dTet ) at 30 °C and selecting for growth on LA at 43 °C ( rne-6 and rne-9 ) or at both 37 °C and 43 °C ( rne-10 and rne-11 ) . 
+Mutants were tested by cotransduction with zcg-9076 : : Tn10dTet and sequencing of rne to determine whether the TS suppressor mutation was within the rne coding sequence . 
+TS suppressor mutations in rne are listed below ( see Table 2 ) . 
+PCR and DNA sequencing . 
+The S. enterica LT2 genome sequence , NCBI accession number NC_003197 ( 21 ) , was used to design primers for PCR ampli-ﬁcation and sequencing . 
+DNA samples for PCR was obtained by dispersing fresh bacterial colonies in 100 l of sterile water , heating at 95 °C for 5 min , and then cooling on ice . 
+PCR was performed using PuReTaq Ready-To-Go PCR beads ( GE Healthcare , Uppsala , Sweden ) according to the protocol of the manufacturer . 
+Ampliﬁcations were carried out in 25 - l volumes containing 0.4 M reverse and forward primers and 1 l of DNA sample by use of a DNA engine PTC-200 thermocycler ( SDS-diagnostics , Falkenberg , Sweden ) . 
+PCR was initiated by denaturation at 95 °C for 5 min , followed by 25 cycles of 95 °C for 30 s , 56 °C for 20 s , and 72 °C for 1 min . 
+Ampliﬁcation products were visualized by agarose gel electrophoresis and ethidium bromide staining to assess the sizes of the gene fragments . 
+Products were puriﬁed prior to sequencing using the QIAquick PCR puriﬁcation kit ( Qiagen , VWR International AB , Stockholm , Sweden ) according to the manufacturer 's instructions . 
+PCR product concentrations were quantiﬁed using a Nanodrop NO-1000 spectrophotometer ( Nano-drop , Wilmington , DE ) . 
+DNA sequencing of puriﬁed PCR products was performed at Macrogen Inc. , Seoul , South Korea . 
+Rifampin run-out experiment to measure RNA half-life . 
+For analysis of mRNA half-lives and RNA processing , bacterial cultures were grown at 30 °C until the OD at 600 nm ( OD ) was 0.2 to 0.4 . 
+At this point , half of the culture 600 was shifted to 43 °C , both cultures were grown another 30 min , and then time zero ( t0 ) samples were extracted from 30 °C and 43 °C cultures and added to 0.2 volume of RNA stop solution ( 95 % ethanol , 5 % phenol ) on ice . 
+Rifampin was added to the 30 °C and 43 °C cultures to a ﬁnal concentration of 200 g/ml , and samples were extracted at 1 , 4 , 8 , and 16 min into the RNA stop solution . 
+The addition of rifampin inhibits further transcription initiation but allows transcribing RNA polymerases to complete transcription ( so-called rifampin run-out ) . 
+Preparation of RNA . 
+Cells were pelleted at 3,000 g for 15 min and stored at 80 °C . 
+Total RNA was extracted by the hot acid-phenol method ( 3 ) as follows . 
+Cell pellets were resuspended in 5 ml prewarmed 65 °C lysis buffer ( 100 mM Tris-HCl [ pH 7.5 ] , 40 mM EDTA , 200 mM NaCl , and 0.5 % SDS ) and incubated for 5 min at 65 °C . 
+Then , an equal volume of phenol was added , with vortexing for 15 s to precipitate proteins and cell debris . 
+After 10 min of centrifugation at 4,000 g at room temperature , the upper phase was extracted once with chloroform , and after centrifugation ( 10 min , room temperature ) , total RNA in the upper phase was precipitated by the addition of an equal volume of 2-propanol at 20 °C for 2 to 3 h . 
+The RNA was pelleted by centrifugation at 6,000 g for 60 min at 4 °C , washed 1 with 75 % ethanol , dried , and dissolved in double-distilled water ( ddH2O ) . 
+The quality of the RNA was assayed on a 2 % agarose gel and the RNA concentration measured using a Nanodrop NO-1000 spectrophotometer . 
+Northern blotting . 
+To analyze mRNA and RNA processing , total RNA samples ( 5 g ) were mixed with an equal volume of RNA loading buffer ( 95 % [ vol/vol ] formamide , 0.025 % [ wt/vol ] bromophenol blue , 0.025 % [ wt/vol ] xylene cyanol , 5 mM EDTA [ pH 8.0 ] , 0.025 % [ wt/vol ] SDS ) and separated under denaturing conditions on 7 M urea -- 6 to 12 % polyacrylamide gels . 
+The RNA was electroblotted to Hybond N membranes ( GE Healthcare and Bio-Rad TransBlot cell ) and cross-linked to the membrane by UV ( 700 mJ ) . 
+[ -32 P ] ATP-labeled oligodeoxynucleotides were hybridized to the RNAs in Church buffer ( 1 % bovine serum albumin [ BSA ] , 1 mM EDTA , 0.5 M NaH2PO4 , and 7 % SDS , pH 7.2 ) . 
+Unbound oligodeoxynucleotides were removed in several washing steps with 2.0 to 0.1 SSC ( 1 SSC is 0.15 M NaCl plus 0.015 M sodium citrate ) and 0.01 % SDS , the -32 P signal was detected using a PhosphorImager , model 400S ( Molecular Dynamics , GE Healthcare ) , and band intensities were quantiﬁed using the ImageQuant software , version 4.2 a ( Molecular Dynamics ) . 
+Oligonucleotides used for probing were as follows : 9S/5S , 5 - TACGGCGTTTCACTTC 
+TGAGTTCGG ; rpsT , 5 - CGGCTTGCGTTGTGCTTACGAG ; and hisR , 5 - CA CGACAACTGGAATCAC . 
+Relative quantiﬁcation of RNA by RT-PCR . 
+Chromosomal DNA was removed from the total RNA preparation by using DNase Turbo DNA-free ( Ambion ) . 
+Five hundred nanograms of RNA was converted into cDNA by using a highcapacity reverse transcription kit ( Applied Biosystems ) , with each reaction mixture including reverse transcription buffer , deoxynucleoside triphosphate ( dNTP ) mix , random primers , and reverse transcriptase according to the manufacturer 's instruction , to a total reaction volume of 50 l . 
+The thermal steps used were 10 min at 25 °C and 2 h at 37 °C . 
+To each real-time PCR ( RT-PCR ) reaction mixture , 5 l of cDNA ( diluted 1:5 ) , 12.5 l of Power SYBR green ( Applied Biosystems ) , 1.25 l of 6 M forward and reverse primers ( to a ﬁnal concentration of 0.3 M ) , and ddH2O were added to a ﬁnal reaction volume of 25 l . 
+The 7300 fast RT-PCR system ( Applied Biosystems ) was used for running the PCR program and for analyzing the data . 
+Oligonucleotides used for RT-PCR were as follows : tmRNA gene , 5 - GGCGGTTGGCCTCGTAA and 5 - GTTAT TAAGCTGCTAAAGCGTAGGTTT ; rne , 5 - TCCCGAACGATCAGATGGA and 5 - GTGCAGCTTCGGCAGCAT ; tufA , 5 - GCCGTCATACTCCGTTC TTCA and 5 - CGATGGTACCAGTCACGTCAGT ; and fusA , 5 - CCAGGGC GTTACCTTCGAATA and 5 - GTTCTGGTGCCATTCGTTAGC . 
+RESULTS
+Structural basis of properties of suppressors of an EF-Tu mutation . 
+The set of rne mutations that suppress the slow growth caused by the mutation tufA499 in EF-Tu ( 11 ) are found to be distributed throughout most parts of the catalytic N-terminal half of RNase E ( Table 1 ) . 
+None of the mutations isolated affected the C-terminal half of RNase E . 
+The deletion mutation removing Ala528 to Pro563 is close to the C-terminal protein scaffold part of RNase E , but the effect of this deletion can not be predicted , as this part of the RNase E structure has not been determined ( 22 ) . 
+The most recent available crystal structures of the catalytic part of RNase E ( 4 , 15 ) were used as a basis to assess the possible functional signiﬁcance of these mutations . 
+The catalytic half of RNase E has a number of domains or subdomains ( Fig. 1 ) . 
+The main part of the catalytic half forms a relatively compact unit that associates with another such unit . 
+The small domain is mainly involved in stabilizing the tetramer . 
+For many of the mutations , a destabilization of the protein can be predicted . 
+In some cases , the quaternary structure of the tetramer is destabilized , for example by mutation of one partner of an electrostatic interaction ( Glu12 , Asp294 , Arg414 , Arg425 , Arg456 , and Glu463 ) . 
+There are also examples of mutations of residues that necessarily lead to conformational differences within one domain and thereby possibly to a change in domain or subunit association . 
+The Gly66Cys , Gly113Asp , Ala448Val , and Cys471Tyr mutations can be expected to cause steric problems within a domain , leading to conformational changes . 
+Other mutations , like Ile207Ser/Asn , Leu424Arg , and Val459Gly , reduce the nonpolar contacts in the core , which may lead to a less stable protein . 
+Conserved amino acid residues essential for catalytic function have been identiﬁed by mutagenesis in the N-terminal half of RNase E ( 4 , 8 , 9 , 34 ) . 
+Several of these essential residues are very close or next to residues mutated in the suppressors of mutant EF-Tu . 
+The mutations in the catalytic part of the enzyme are found in all subdomains ( Fig. 2 ) . 
+The residues Arg219 and Asp220 are part of a network of charged interaction close to the binding site for the 5 phosphate of the substrate , and mutations to His and Ala , respectively , are likely to inﬂuence substrate binding . 
+Ala298 is very close to the catalytic residues Asp303 and Asp346 , and the change to Th could possibly inﬂuence the catalytic activity . 
+Some of the other changes are close to the RNA-binding surfaces ( Pro69 , Gly113 , Arg308 , Thr318 , Ala319 , and Met350 ) , and the mutations may inﬂuence substrate binding either directly or indirectly through conformational changes . 
+There are many changes in the linker and the small domain . 
+Some of these changes are in the interface between the small domain and the RNase H subdomain of another subunit ( Fig. 3 ) , where the mutations would disrupt direct interactions between the domains ( Glu12 , Leu424 , and Arg425 ) . 
+Several mutations are also found in the dimeric contact between two of the small domains . 
+For example , both partners of the salt link between Arg456 and Glu463 in different subunits are found among the mutants , as well as mutants of a network involving Ser449 , Glu454 , and Ser499 of another subunit . 
+These mutations may lead to disruption of the tetramer into dimers . 
+The overall conclusion that can be drawn from this analysis of the RNase E mutations is that the predicted effect of a mutation is almost always to destabilize the RNase E protein complex . 
+How this predicted destabilization translates into the phenotype of suppressing the growth defect associated with tufA499 is not immediately obvious . 
+To gain a deeper insight into the relationship between RNase E structure/function and the suppression of tufA499 , we isolated temperature-sensitive suppressor mutations in rne because these could be assayed for function under both permissive and nonpermissive conditions . 
+Isolation and identiﬁcation of temperature-sensitive mutations in RNase E that suppress the slow-growth phenotype of the tufA499 mutant . 
+Temperature-sensitive mutants have been useful in studying the functions of RNase E in E. coli ( 1 , 23 , 28 , 30 ) . 
+Because mutants of RNase E can be selected in S. Typhi-murium as suppressors of the slow-growth phenotype cause by the tufA499 mutation ( 11 ) , we employed the same approach to search for TS mutants of RNase E . 
+We grew 360 independent cultures of TH7509 at 30 °C and screened for suppression of tufA499 on LA at 30 °C . 
+Two fast-growing colonies from each culture were picked and screened for a TS phenotype by streaking for single colonies on LA at 30 °C , 37 °C , and 43 °C . 
+In this way , 14 independent TS mutants were isolated and shown by DNA sequencing to carry one of three different single amino acid substitution mutations in the N-terminal catalytic domain of RNase E ( rne-9 , Ile207Asn ; rne-10 , Gly66Cys ; and rne-11 , Ala327Pro ) . 
+Two of these mutants ( the rne-10 and rne-11 mutants ) were TS at both 37 °C and 43 °C , while the mutant with the altered amino acid Ile207 was TS only at 43 °C ( Table 2 ) . 
+Screening the 50 strains carrying different mutations previously selected in RNase E ( 11 ) resulted in the identiﬁcation of one additional mutant with a TS phenotype for growth at 43 °C ( rne-6 , Ile207Ser ) . 
+A TS phenotype is deﬁned here as an inability to form visible colonies after 24 h of incubation on LA ( Luria agar ) at the nonpermissive temperature . 
+The linkage between these mutations in rne and the TS phenotype was tested and conﬁrmed by transduction into TH7509 ( slow-growing tufA499 mutant ) and TH4527 ( S. Typhimurium LT2 , wild type ) , selecting for the rne-linked marker zcg-9076 : : Tn10dTet , and by DNA sequencing of the transduced rne gene from several recombinants of each phenotype in every case . 
+The constructed strains showed that each of the four rne mutations causes a TS phenotype in LT2 wildtype Salmonella . 
+Thus , the TS rne mutations have two phenotypes : ( i ) TS for growth at nonpermissive temperatures and ( ii ) suppression of the tufA499 slow-growth phenotype at permissive temperatures . 
+Isolation and identiﬁcation of suppressors of the rne TS mutations . 
+Suppressors of the TS mutant phenotype were selected from independent cultures of each of the constructed LT2 TS strains grown at 30 °C ( 20 cultures for each TS mutant ) after plating approximately 5 106 CFU on LA. . 
+Selections with rne-6 and rne-9 were made at 43 °C , while rne-10 and rne-11 ( TS at 37 °C ) were selected at both 37 °C and 43 °C . 
+Colonies were isolated from approximately half of the selections , except for the selection of rne-11 at 43 °C where no colonies grew ( suppressors of rne-11 were isolated only at 37 °C ) . 
+The rne gene from several independent mutants isolated from each selection was sequenced . 
+In a few cases reversion of the original TS mutation had occurred ( mutants not listed ) , but in most cases the original TS mutation was present and in addition a second-site mutation in rne was identiﬁed ( Table 2 ) . 
+In two independent mutants , the suppressor mutation altered the codon causing temperature sensitivity ( Gly66Cys3Cys66Ser ) . 
+P22-mediated cotransduction of rne into LT2 was used to conﬁrm that the suppression of the TS phenotype in each of these selected mutants was associated with the additional mutations identiﬁed in the rne gene . 
+Structural analysis of mutations causing , and compensating for , temperature sensitivity in RNase E. Each of the four identiﬁed TS mutants had changes in RNase E that are likely to destabilize the protein ( Table 3 ) . 
+Ile207 ( rne-6 and rne-9 ) is part of the core of the 5 sensor subdomain . 
+The replacement of Ile207 with a polar group ( Ser or Asn ) will reduce the nonpolar interactions in the domain . 
+Gly66 ( rne-10 ) is found in a loop in the S1 subdomain , and replacement with a cysteine will lead to steric problems unless the main-chain conformation is changed . 
+Indeed , Schubert et al. ( 32 ) have shown that a Gly66Ser mutant is less stable than the wild-type enzyme . 
+Ala327 ( rne-11 ) is found in the middle of a long helix in the DNase I subdomain , and a proline in this position will destabilize the helix , since the normal hydrogen-bonding pattern is interrupted . 
+The second-site mutations that suppress the TS phenotype are shown in Fig. 4 and 5 . 
+For the majority of them , a stabili-zation of the protein can be predicted , compensating for the destabilization of the original TS mutation . 
+For rne-6 and rne-9 mutants ( Fig. 4 ) , where Ile207 has been replaced with a polar residue ( Ser or Asn ) , several isolates had changes in Arg187 ( 12 isolates ) and Phe186 ( 3 isolates ) . 
+The side chain of Arg187 points toward the nonpolar core of the domain but makes a 180 ° turn , partly exposing the polar guanidinium group . 
+This group also forms a salt link to Asp183 . 
+A single base change in an arginine codon ( CGC ) can lead to two alternative nonpolar residues , Leu and Cys . 
+Replacement of the arginine with a hydrophobic residue is likely to lead to an improved nonpolar contact , compensating for the loss of the electrostatic interaction with Asp183 . 
+The Phe186 side chain is exposed on the surface of the domain , interacting with Trp182 . 
+Here , bas changes in the codon UUC can lead to leucine as well as other polar or nonpolar residues , all of which will lead to a reduced exposure of nonpolar groups . 
+Some of the other suppressors of the rne-6 and rne-9 mutations are found in other subdomains , three in the RNase H subdomain and one in the DNase I subdomain . 
+Three of these mutations , in Asp28 , Ser31 , and Ser393 , involve residues that are exposed in a small cavity in the interface between the RNase H , DNase I , and S1 subdomains . 
+These mutations may stabilize the domain-domain interactions , in the case of the Ser31Arg mutation by forming a salt link to Glu417 in the small subunit , and thereby compensate for the destabilization of the original mutation . 
+In the absence of a model for the complete RNase E protein , it is not possible to predict the effect of the deletion of the proline-rich region connecting the catalytic part of the protein to the RNA-binding domain of the C-terminal part . 
+Of the suppressors for rne-10 ( Fig. 5 ) , the replacement of Tyr60 with a cysteine will lead to more space for the side chain of Cys66 . 
+Although a serine is similar in size to a cysteine , mutations to a serine leads to a less temperature-sensitive mutant , possibly due to the small difference in size and the stronger hydrogen bonds that may be formed with the serine hydroxyl than with the sulfhydryl group of the cysteine . 
+The other changes are found in the 5 sensor subdomain , most commonly the Arg187Leu mutation , which is likely to increase the nonpolar contact and stabilize the 5 sensor subdomain as discussed above . 
+It is also possible that Arg187Leu affects the folding of the nascent RNase E monomer by assisting the packing of a hydrophobic face of the S1 subdomain against the 5 sensor subdomain . 
+These changes are likely to stabilize the whole enzyme , compensating for the loss of stability in the RNase H subdomain . 
+Also , in the case of rne-10 , a second-site mutation corresponding to a deletion of the connection between the catalytic part and the RNA-binding domain has been isolated . 
+The deletion includes a part of the polypeptide chain N terminus of the segment deleted in the rne-9s3 mutant . 
+This segment is apparently ﬂexible , since it was not ordered in the crystal structure of the protein ( 4 ) . 
+The suppressors of the rne-11 mutant are all within the DNase I subdomain . 
+The most frequently occurring compensatory mutations , Pro352 to Gln or Ser , may possibly increase the stability of the subdomain , since the nonpolar proline res-idue is partly exposed at the surface . 
+Growth proﬁles of TS and TS suppressor mutants . 
+The TS suppressor double mutants were selected for their ability to make colonies on agar at the nonpermissive temperature ( Table 2 ) . 
+The exponential growth rate of each TS and TS suppressor double mutant strain ( isogenic strains constructed b 
+TABLE 1 . 
+RNase E suppressors of EF-Tu mutation tufA499 Domain Pa Eb RNase H S D RNase H E D RNase H i D S1 I S1 E S1 I 5 sensor i RNase H i RNase H i RNase H i DNase I E DNase I S DNase I S DNase I E DNase I E DNase I I DNase I I DNase I i DNase I i DNase I E Zn link S Zn link S Zn link S Small S Small I Small S Small S Small S Small i Small I Small S Small I Small S Small S Small S Small S Small I Small S Small I Small E Small S Small I 
+Residue 
+Mutant ( s ) 
+Explanation 
+Glu12 Ile29 
+Val Thr 
+Loss of salt link-connecting subunits Loss of nonpolar contact 
+Glu30 Gly66 Pro69 Gly113 Ile207 Arg219 Asp220 Leu230 Gly288 Asp294 Ala298 Arg308 Thr318 Ala319 Ala327 Met350 Ser395 Glu398 Arg406 Gly409 Arg414 Ser418 Ser420 Leu421 Leu424 Loss of internal nonpolar contact Arg425 Loss of salt link to Glu 13 in another subunit ; rne-7 Glu430 Thr436 Mutants require new conformation Val445 Ala448 Steric problems ; rne-5 Ser449 Loss of network of hydrogen bonds Asn453 Glu454 Loss of network of hydrogen bonds Arg456 Loss of salt link Val459 Loss of nonpolar contact ; rne-3 Glu463 Loss of salt link Cys471 Steric problems Pro482 Ser499 Loss of network of hydrogen bonds Leu502 Ala528-Pro563 rne-2 a Positions ( P ) are indicated as follows : S , subunit-subunit contacts ; I , internal ( less than 10 Å2 of side chain exposed ) ; i , mainly internal ( less than 30 Å2 exposed ) ; E , exposed . 
+The estimates of the degree of exposure and involvement in subunit-subunit contacts were made using PISA ( 16 ) , a tool for analysis of macromolecular interfaces , maintained by Protein Data Bank Europe . 
+The PDB entry 2bx2 was used . 
+b Effects ( E ) are indicated as follows : D , likely to destabilize protein ; A , possibly inﬂuencing enzymatic activity . 
+Gly Cys Leu Asp Ser , Asn His Ala Met Ser Tyr , Gly Thr Leu Met Val , Thr Pro Ile , Tyr Gln , Gly His , Ser Ser Leu , His , Cys , Phe Tyr Leu Gln Arg Leu 
+Loss of polar contacts Steric problems ; rne-10 Cold sensitive ; rne-8 Steric problem close to RNA-binding surface Loss of nonpolar character ; rne-6 ( S ) , rne-9 ( N ) Lost salt link to Glu210 and Asp220 ; close to 5 binding Lost salt link to Arg169 , Arg219 , and Arg371 
+D 
+D 
+D 
+D 
+D 
+D 
+Conformational angles ( 116 , 38 ) only for Gly Loss of double salt link ; rne-1 Change may disturb close-by active site ; rne-4 
+D 
+A 
+D 
+Pro will destabilize helix ; rne-11 
+D 
+Loss of interaction with Glu398 Loss of interaction with Ser395 
+D 
+D 
+Loss of double salt link to Glu 276 in another subunit Loss of internal contact to Arg414 
+D 
+D 
+Arg , Pro Glu Val Tyr His Gly Gln Gly Lys Tyr Ala Ile Gln 
+D 
+D 
+D 
+D D D D D 
+D 
+FIG. 1 . 
+( Left ) The catalytic part of a monomer of RNase E . 
+There are ﬁve domains or subdomains in the catalytic part , and they are marked with unique colors . 
+The RNase H subdomain is composed of two chain segments and has two colors . 
+This drawing is based on PDB entry 2bx2 ( 4 ) . 
+( Right ) Structure of an RNase E tetramer using the same color scheme as the left panel . 
+Three of the subunits are shown in pale colors . 
+A double-stranded RNA oligonucleotide ( red ) is included in this drawing , based on PDB entry 2c0b . 
+FIG. 2 . 
+Mutations in the RNA-binding region of RNase E that suppress the slow-growth phenotype caused by the EF-Tu mutation tufA499 . 
+The coloring is the same as in Fig. 1 , but the orientation is different . 
+The side chains shown are those of the nonmutated E. coli structure in PDB entry 2c4r ( 4 ) . 
+The active-site residues Asp303 and Asp346 , shown with bound Mg2 ion ( yellow ) and water molecules ( red spheres ) binding to the metal ion , are also included . 
+The DNase I subdomain from another subunit in the tetramer is also included 
+FIG. 3 . 
+Some of the mutations in the small domain of RNase E. ( Left ) The contact area between the RNase H subdomain of one subunit and the small domain , including the linker , is shown . 
+( Right ) The contact of two small domains . 
+This interaction stabilizes the tetramer formation of two dimers , and several polar residues in the contact area are mutated in the suppressors . 
+Drawings are based on PDB entry 2bx2 ( 4 ) . 
+TABLE 2 . 
+Strains with TS mutations and mutations that suppressa TS in rne 
+Mutation in rne Colony formation on LA Alleleg TS mutation 30 °C c 37 °C 
+Suppression of d tufA499 
+Strainb 
+TS suppressor 
+43 °C TS 
+TH7180 TH7592 TH7593 TH7594 TH7595 TH7596 TH7597 TH7598 TH7605 TH7606 TH7610 TH7589 TH7599 TH7607 TH7608 TH7590 TH7600 TH7601 TH7602 TH7603 TH7604 TH7611 TH7591 TH7612 TH7613 TH7614 TH7640 
+rne-6 
+Ile207Ser Ile207Ser Ile207Ser Ile207Ser Ile207Ser Ile207Ser Ile207Ser Ile207Ser Ile207Ser Ile207Ser Ile207Ser Ile207Asn Ile207Asn Ile207Asn Ile207Asn Gly66Cys Gly66Cys Gly66Cys Gly66Cys Gly66Cys Gly66Cys Gly66Cys Ala327Pro Ala327Pro Ala327Pro Ala327Pro Ala327Pro 
+rne-6s1 rne-6s2 rne-6s3 rne-6s4 rne-6s5 rne-6s6 rne-6s7 rne-6s8 rne-6s9 rne-6s10 rne-9 rne-9s1 rne-9s2 rne-9s3 rne-10 rne-10s1 rne-10s2 rne-10s3 rne-10s4 rne-10s5 rne-10s7 rne-11 rne-11s1 rne-11s2 rne-11s3 rne-11s4 
+Arg187Leu Arg223Ser 
+Arg187Cys Gln195Lys Phe186Leu ( TTA ) Phe186Leu ( TGC ) Phe186Cys Asp28Val Ser31Arg Ser393Gly 
+TS 
+Arg187Leu Ser31Arg 
+( Asp536-Pro593 ) e 
+TS 
+TS 
+Gly172Ala Tyr60Cys 
+TS 
+Arg187Leu Cys66Ser ( AGT ) Cys66Ser ( TCT ) ( Met510-Ala599 ) f 
+TS TS TS TS TS TS TS TS 
+TS 
+Pro352Gln Ala301Val Pro352Ser Ser393Arg 
+a Suppression of TS is the ability to form colonies on rich agar ( LA ) at the nonpermissive temperature . 
+b All strains listed also carry the allele zcg-9076 : : Tn10dTet , approximately 50 % linked to rne by P22 transduction . 
+c indicates the ability to make colonies on LA. . 
+TS indicates the inability to make colonies after 24 h of incubation at the indicated temperatures . 
+d Relative suppression of the tufA499 slow-growth phenotype at 30 °C on rich agar ( LA ) assayed by colony size after 24 h of incubation . 
+, fast growth ; , slow growth ; , no visible growth of single colonies . 
+e rne-9s3 ( Asp536-Pro593 ) has nucleotides 1606 to 1779 deleted . 
+f rne-10s7 ( Met510-Ala599 ) has nucleotides 1528 to 1797 deleted . 
+g The `` s '' sufﬁx indicates `` suppressor '' and the relationship of the allele to the parental allele . 
+Thus , rne-6 is a parental TS allele , whereas rne-6s1 is one of the derived alleles that shows suppression of the TS phenotype associated with rne-6 . 
+P22 phage-mediated transduction into wild-type LT2 ) ( Table 2 ) was measured at 30 °C , 37 °C , and 43 °C in LB ( Fig. 6 ) . 
+A striking observation was that although all mutants carrying suppressors of rne-6 and rne-9 could form colonies at 43 °C , their exponential growth rates differed greatly . 
+Thus , the rne-6s1 mutant grows as fast as the wild-type at 43 °C , whereas the rne-6s2 mutant has a generation time that is four times longer ( Fig. 6 ) . 
+This suggests that while some of the secondsite mutations in rne recreate a growth phenotype close to that of the wild-type ( for example , rne-6s1 and rne-9s1 ) , most of the double mutants retain severe growth defects , especially at higher temperatures . 
+Among strains with rne-11 TS suppressors ( the rne-11 mutant is TS at 37 °C ) , all showed near wild-type growth rates at 37 °C , but none was able to grow at 43 °C ( Fig. 6 ) . 
+Growth suppression and TS phenotypes of mutant RNase E can be separated . 
+Because the rne TS mutants were originally selected for their ability to suppress the slow-growth phenotype of tufA499 , we asked whether this phenotype was retained in the TS suppressor double mutants . 
+Each of the rne double mutations ( TS mutation TS suppressor ) was moved by cotransduction with zcg-9076 : : Tn10dTet into the slow-growing tufA499 strain ( TH7509 ) . 
+As controls , the original TS mutations were also transduced into TH7509 . 
+Selections were made at 30 °C , and plates were screened for the presence of the large and small colonies , indicating suppression or lack of suppression of the slow-growth phenotype . 
+Representative colonies were picked from each transduction and restreaked to conﬁrm their colony sizes . 
+The relevant part of the rne gene was also sequenced from several transductants in each cross to conﬁrm that large and small colony sizes were correlated as expected with particular rne mutations . 
+Each of the TS mutations suppressed the slow-growth phenotype as expected . 
+A few of the double mutants showed continued strong suppression of the slow-growth phenotype , but for most of the double mutants this ability was completely absent or severely reduced ( Table 2 ) . 
+The double mutations that retained the ability to strongly enhance the growth of the tufA499 strain were rne-6s1 , rne-6s7 , rne-9s1 , and rne-10s3 ( Table 2 ) . 
+Accordingly , the two phenotypes associated with TS mutant RNase E , temperature sensitivity and suppression of tufA499-mediated slow growth , can be separated ( Table 2 ) . 
+RNase E mutations and RNA degradation and processing . 
+Three pairs of isogenic strains were chosen for experiments to address the effects of TS mutations and TS suppressor double mutations in RNase E on RNA degradation and processing . 
+The mutant alleles were as follows : rne-9 and rne-9s1 ; rne-10 and rne-10s3 ; rne-11 and rne-11s1 ( Table 2 ) . 
+The mutant alleles rne-6 and rne-6s1 / s7 were tested on a small scale and were found to have the same phenotypes as rne-9 and rne-9s1 and so were not included in further assays . 
+This similarity in phenotype probably reﬂects their close similarity in amino acid sequence . 
+The primary TS mutations alter three different amino acids in RNase E ( Gly66 , Ile207 , and Ala327 ) . 
+Two of the mutants are TS at 37 °C ( the rne-10 and rne-11 mutants ) , and one is TS at 43 °C ( the rne-9 mutant ) . 
+One of the double mutants had lost the ability to suppress the tufA499 slowgrowth phenotype ( the rne-11s1 mutant ) , while the other two ( the rne-9s1 and rne-10s3 mutants ) retained this suppression ability . 
+In these two double mutants , the second-site mutation is identical ( Arg187Leu ) , although the primary TS mutations affect different amino acids ( Gly66 and Ile207 ) . 
+RNA isolated from the wild-type and from isogenic strains carrying each of the six different RNase E mutations was assayed for ( i ) the half-life of rpsT mRNA , ( ii ) steady-state levels of tufA , fus , and rne mRNA , ( iii ) 9S-to-5S rRNA processing , and ( iv ) maturation of hisR tRNA . 
+Half-life of rpsT mRNA . 
+The half-life of rpsT mRNA , expressed from two different promoters , an established target for RNase E cleavage ( 19 ) , was measured in isogenic strains carrying wild-type RNase E and six different mutant variants ( rne-9 , rne-10 , rne-11 , rne-9s1 , rne-10s3 , and rne-11s1 variants ) . 
+In E. coli , it is observed that the longer P1 transcript is more sensitive to rne mutations ( 9 ) , but because we did not observe any signiﬁcant difference in stability of the two transcripts in our system , we present data for the combined transcripts ( Table 4 ) . 
+At the permissive temperature ( 30 °C ) , the half-lives were similar in all strains at 3.7 0.7 min , whereas at 43 °C they increased 3 - to 5-fold in each of the three TS mutants relative to the wild type ( Table 4 ) . 
+In contrast , in the presence of the second-site mutations , the increased mRNA half-life associated with primary TS mutations was partially reversed ( Table 4 ) . 
+We also note that while the strain with the rne-11s1 allele is TS at 43 °C , the rate of mRNA cleavage associated with this mutant RNase E is as fast as for rne-9s1 and rne-10s3 , alleles that support growth at 43 °C . 
+Thus , the relative temperature sensitivity for the growth of different RNase E mutants is not directly correlated with a decreased rate of cleavage for all mRNAs . 
+Mutations in rne affect the steady-state level of RNase E mRNA . 
+Steady-state levels of three mRNAs ( rne , tufA , fus ) were measured by real-time PCR at 30 °C , and after a shift to 43 °C for 30 min , in strains carrying different alleles of rne ( wild type , rne TS , and rne TS suppressors ) . 
+tmRNA was used as a standard . 
+Relative to the wild-type strain , the levels of tufA and fus mRNA were not signiﬁcantly affected by any of the mutant rne alleles or by the temperature shift ( tufA and fus mRNA levels stayed within about a factor of two of the wild-type levels for all strains and temperatures ) ( Fig. 7 ) . 
+In sharp contrast , the level of rne mRNA was increased in all mutant strains relative to the wild type , both at 30 °C and even more so after the shift to 43 °C ( Fig. 7 ) . 
+At 30 °C , the rne mRNA levels were 10 - to 14-fold higher than the wild-type level for each of the three TS mutants , while at 43 °C the relative increases were from 8-fold to more than 30-fold wild-type levels . 
+In every case , the sec-ond-site mutation within RNase E that reversed the TS phenotype also reduced the relative increase in rne mRNA levels , both at 30 °C and at 43 °C , although the levels remained higher than in the wild type ( 2 - to 13-fold ) . 
+The rate of rne mRNA degradation was also measured by real-time PCR after a rifampin run-out for the wild type and the three TS mutants ( the rne-9 , rne-10 , and rne-11 mutants ) at 30 °C and 43 °C . 
+In each of the TS mutants , the half-life of rne mRNA was greatly increased , from about 3 to 6 min for the wild type to more than 100 min for the TS mutants ( data not shown ) . 
+We conclude that the TS mutations in RNase E cause a large increase in rne mRNA levels even at the permissive temperature and that this effect is associated with a reduced rate of degradation of rne mRNA . 
+The large increases in rne mRNA half-lives in the TS mutants would be consistent with autoregulation involving two or more steps , including initial binding to a hairpin in the untranslated region ( 5 UTR ) followed by a subsequent ( cleavage ) event ( 33 ) . 
+The rne TS and TS suppressor mutations affect 9S-to-5S rRNA processing . 
+The processing of 9S RNA to 5S rRNA was measured and found to be affected in many of the rne TS and TS suppressor mutants ( Fig. 8A ) . 
+In the wild type , more than 95 % of the 9S/5S RNA molecules were fully processed at both 30 °C and 43 °C ( Fig. 8B ) . 
+The TS mutations rne-6 , rne-9 , rne-10 , and rne-11 were all associated with signiﬁcantly reduced processing ( Fig. 8 ) . 
+Some of the TS suppressor mutations partially reversed the processing defects at both temperatures ( Fig. 8B ) , but the percentage of incompletely processed RNA remained signiﬁcantly higher in all mutant variants than in the wild type . 
+The TS mutations in RNase E affect the maturation of hisR tRNAHis . 
+RNase E is involved in the processing of several His tRNAs ( 29 ) . 
+We examined the processing of the hisR tRNA in strains with mutant RNase E . 
+The three TS mutations ( rne-9 , rne-10 , and rne-11 mutations ) each increased the fraction of unprocessed hisR tRNA precursor 3 - to 4-fold at both 30 °C and 43 °C ( Table 4 ) . 
+Thus , the defective tRNA processing did not correlate with temperature sensitivity for growth . 
+For two of the double mutants tested , the rne-9s1 and rne-11s1 mutants , the fraction of unprocessed tRNA , at both 30 °C and 43 °C , was reduced to a level similar to that in the wild type ( Table 4 ) . 
+For the rne-10s3 mutant , there was no decrease in the fraction of unprocessed hisR tRNA relative to that found with the TS rne-10 mutant at either temperature ( Table 4 ) . 
+These data show that for these mutations , the TS growth phenotype does not correlate with defective processing of this tRNA at the nonpermissive temperature and that different mutant variants of RNase E have processing defects that are independent both of assay temperature and of the ability to support growth at a high temperature . 
+TABLE 3 . 
+RNase E mutations suppressing the TS phenotype of RNase E mutants 
+Residuea Mutant ( s ) Domain No.b Pc Ed Explanation Ile207 Ser 5 sensor i D rne-6 Ile207 Asn 5 sensor i rne-9 Asp28 Val RNase H E rne-6s8 ; improved nonpolar contact Ser31 Arg RNase H E rne-6s9 ; may form salt link to Glu417 in small domain Phe186 Leu , Cys 5 sensor E rne-6s5 , rne-6s6 , rne-6s7 ; rescued exposure of nonpolar surface Arg187 Leu , Cys 5 sensor E rne-6s1 , rne-6s3 , rne-9s1 ; improved nonpolar contact Gln195 Lys 5 sensor E rne-6s4 ; lysine in E. coli Arg223 Ser RNase H E rne-6s2 Ser393 Gly DNase I E rne-6s10 536 -- 593 rne-9s3 Gly66 Cys RNase H rne-10 Tyr60 Cys RNase H rne-10s2 ; reduces steric problems Cys66 Ser RNase H rne-10s4 , rne-10s5 Gly172 Ala 5 sensor rne-10s1 ; improved nonpolar contact Arg187 Leu 5 sensor rne-10s3 ; improved nonpolar contact 510 -- 599 rne-10s7 Ala327 Pro DNase I rne-11 Ala301 Val DNase I 1 S S rne-11s2 ; increased nonpolar contact between subunits Pro352 Gln , Ser DNase I 8 E rne-11s1 , rne-11s3 Ser393 Arg DNase I 1 E S rne-11s4 ; may form internal salt link with Asp28 a Amino acid residue mutated . 
+In case of deletions , the deleted nucleotides are written . 
+b Number of independent isolates of each mutation . 
+c Positions ( P ) of mutations in the RNase E structure are indicated as follows : S , subunit-subunit contacts ; E , exposed ; I , internal ( less than 10 Å2 of side chain exposed ) ; i , mainly internal ( less than 30 Å2 exposed ) . 
+d Predicted effects ( E ) of mutations on the RNase E structure are indicated as follows : D , likely to destabilize the protein ; S , likely to stabilize the protein . 
+D 
+1 1 3 8 1 1 1 1 
+S 
+S 
+S 
+I 
+D 
+2 
+i 
+S 
+2 
+1 
+I 
+S 
+6 
+E 
+S 
+I 
+D 
+FIG. 4 . 
+Suppressor mutations for the rne-6 ( Ile207Ser ) and rne-9 ( Ile207Asn ) temperature-sensitive mutations . 
+The coloring is the same as in Fig. 1 . 
+The suppressor mutations are found both in the 5 sensor subdomain and in the RNase H and DNase I subdomains . 
+The drawing is based on PDB entry 2bx2 ( 4 ) 
+FIG. 5 . 
+Suppressor mutations for the rne-10 ( left ) and rne-11 ( right ) temperature-sensitive mutations . 
+The coloring is the same as in Fig. 1 . 
+The suppressor mutations for rne-10 are close to the original mutations or in the 5 sensor subdomain . 
+The suppressors for rne-11 are all within the DNase 1 subdomain . 
+The drawing is based on PDB entry 2bx2 ( 4 ) . 
+FIG. 6 . 
+Relative growth rates of the wild type ( WT ) , four different rne-TS mutants , and rne-TS suppressor double mutants in LB broth as a function of growth temperature . 
+The growth rate of the wild type at each temperature is set to 1 
+TABLE 4 . 
+m 
+RNA half-lives and tRNA processing in rne mutants rpsT mRNA half-life ( min ) a 30 °C 43 °C 
+Fraction of mature hisR tRNAb 
+Relevant genotype 
+Strain 
+30 °C 43 °C 
+TH5949 rne ( WT ) 3.0 0.5 1.7 0.3 0.93 0.04 TH7589 rne-9 2.8 0.5 5.4 1.3 0.73 0.04 TH7599 rne-9s1 4.2 0.5 3.7 1.1 0.88 0.02 TH7590 rne-10 3.5 0.4 6.6 1.4 0.79 0.06 TH7602 rne-10s3 4.1 0.9 3.9 1.4 0.75 0.13 TH7591 rne-11 3.4 0.6 8.5 0.5 0.62 0.15 TH7612 rne-11s1 4.9 0.5 2.5 0.1 0.87 0.10 
+0.89 0.02 0.68 0.21 
+0.82 0.12 0.76 0.07 0.79 0.14 0.70 0.05 0.89 0.06 standard deviation . 
+a Half-lives are the average of at least 2 experiments and are presented as mean half-lives of the two processing products of rpsT mRNA b Steady-state levels of mature tRNA relative to total hisR RNA . 
+Mean of three independent experiments standard deviation . 
+FIG. 7 . 
+Steady-state levels of tufA , fusA , and rne mRNA . 
+Strains TH7589 , TH7599 , TH7590 , TH7602 , TH7591 , and TH7612 were grown at 30 °C until the OD600 was 0.2 to 0.4 and then shifted to 43 °C for 30 min . 
+Total RNA was isolated from cultures grown at 30 °C and from cultures shifted to 43 °C . 
+The steady-state levels of the tufA , fusA , and rne mRNAs were quantiﬁed by RT-PCR . 
+WT , wild type . 
+DISCUSSION
+This study aimed to identify and isolate temperature-sensi-tive mutants of RNase E , because these could be useful as tools to investigate the functions of this important enzyme in S. Typhimurium . 
+Although E. coli and S. Typhimurium are evolutionarily divergent , the sequences of their RNase E proteins are highly conserved , and there are only 7 amino acid differences in the endonucleolytic part of the enzyme ( S. Typhimu-rium to E. coli : Q195K , M237L , M239L , T457S , S485H , Y518F , V544A ) . 
+This suggests that it is valid and meaningful to make comparisons between the phenotypes of mutations isolated in E. coli and S. Typhimurium . 
+Two TS rne mutations have been described in E. coli : rne-1 ( Gly66Ser ) and rne-3071 ( Leu68Phe ) , both affecting the N-terminal half of RNase E ( 23 ) . 
+One of the four TS mutations isolated in this study in S. Typhimurium , rne-10 ( Gly66Cys ) , affects the same residue as E. coli rne-1 . 
+Interestingly , we isolated two independent suppressors of rne-10 ( Gly66Cys , TS at 37 °C ) . 
+These suppressors , rne-10s4 and rne-10s5 ( Table 2 ) , each create the same mutation as that found in the E. coli TS mutation rne-1 ( Gly66Ser ) . 
+It might seem paradoxical that a mutation that causes a TS phenotype in E. coli could be selected as a suppressor of temperature sensitivity in S. Typhimurium . 
+However , the two S. Typhimurium mutations were selected for their ability to support growth at 37 °C , suppressing the TS phenotype of rne-10 , and like E. coli rne-1 they have a TS phenotype at 43 °C . 
+At the nonpermissive temperature , strains with any of the TS E. coli or S. Typhimurium alleles are defective in 9S rRNA processing and mRNA turnover . 
+E. coli rne-1 is also associated with defective autoregulation , tRNA processing , and mRNA degradation . 
+Each of these defects is also found in the S. Typhimu-rium TS mutants ( Fig. 7 ; Table 4 ) . 
+The conclusion is that the TS mutations affecting several different amino acid residues in the N-terminal region of RNase E from either E. coli or S. Typhimurium have similar functional defects in RNA turnover and processing . 
+Second-site suppressor mutations of the rne-1 TS phenotype have been isolated in E. coli ( 30 ) . 
+Three second-site mutations were found : Gly172Ala , Phe186Cys , and Arg187Leu . 
+It was also shown that one of the E. coli TS suppressors , Arg187Leu could suppress also the TS phenotype of rne-3071 . 
+This kind of `` general suppression '' is also seen in our study . 
+Each of these three mutations was also isolated as a suppressor of TS in S. Typhimurium : Gly172Ala was isolated as a suppressor of rne-10 , Gly66Cys ; Phe186Cys was isolated as a suppressor of rne-6 , Ile207Ser ; and Arg187Leu was isolated as a suppressor of rne-6 , rne-9 , and rne-10 . 
+In addition , we isolated several additional second-site mutations that reverse the TS phenotype , including two large overlapping deletions that cover the region from residue 510 to 599 ( Table 2 ) . 
+The negative effects of the TS mutations on RNase E autoregulation were incompletely reversed by the suppressor mutations in either E. coli or S. Typhimurium ( Fig. 7 ) . 
+The suppressor mutations in both E. coli and S. Typhimurium did not completely compensate for the TS defect in mRNA degradation at high temperature , although the rne-11s1 allele is associated with a very large improvement at 43 °C ( Table 4 ) . 
+There was also allelic variation in the effects of the different double mutations on the completeness of 9S-to-5S rRNA processing ( Fig. 5 ) and tRNA processing ( Table 4 ) . 
+In E. coli , both the 9S/5S processing defect and the tRNA processing defect of rne-1 were reversed by the second-site suppressor mutations . 
+It was therefore tentatively concluded that the essential function of RNase E in E. coli might be maturation of tRNA ( 30 ) . 
+However , because high-level overproduction of RNase G restored weak growth to an E. coli mutant lacking RNase E without detectably improving tRNA processing , it has also been argued that tRNA processing is not the function that makes RNase E essential ( 7 ) . 
+Furthermore , it was recently shown that two different single amino acid substitutions within the predicted RNase H subdomain of RNase G can support the growth of RNase E deletion mutants but only partially substitute for its functions in mRNA decay , and marginally , if at all , participate in tRNA processing ( 6 ) . 
+In S. Typhimurium , we observed that the 9S-to-5S and tRNA processing defects were reversed by most , but signiﬁcantly not by all , double mutations that reversed the TS growth phenotype . 
+Thus , in the rne-10s3 mutant , there was no reversal of the 9S or the tRNA processing defect either at 30 °C or at 43 °C ( Fig. 8 ; Table 4 ) . 
+This strongly suggests that these defects are not the speciﬁc cause of the TS phenotype . 
+Accordingly , the identity of the essential function of RNase E for bacterial growth in both E. coli and S. Typhimurium remains an open question . 
+The TS mutants were selected based on their ability to rescue the slow-growth phenotype caused by tufA499 ( Table 2 ) . 
+However , when suppression of temperature sensitivity was subsequently selected , the growth phenotypes of the resulting double mutants were not uniform ( Table 2 ) . 
+Some rne double mutants retained the ability to suppress the tufA499-associated growth defect ( for example , the rne-9s1 and rne-10s3 mutants ) , whereas others had phenotypically reverted to expressing a `` pseudo-wild-type '' RNase E that did not suppress the slowgrowth phenotype associated with tufA499 ( for example , the rne-11s1 mutant ) . 
+Thus , the rne-11s1 allele expressed a tufA499 slow-growth phenotype that was very similar to that of the rne wild-type allele . 
+Interestingly , among the different RNA processing assays carried out with the mutants , the assay of rne mRNA steady-state levels ( Fig. 7 ) revealed differences in mutant phenotypes that qualitatively matched these differences in growth phenotype . 
+Thus , each of the RNase E TS mutations that rescued the tufA499 growth defect also caused a large increase in rne mRNA steady-state levels . 
+Similarly , the TS suppressor RNase E double mutants that retained the fastgrowth phenotype of the parental TS mutant ( the rne-9s1 and rne-10s3 mutants ) also retained high rne mRNA steady-state levels . 
+Thus , there is a correlation between rescue of the tufA499 growth phenotype and high steady-state levels of rne mRNA . 
+The strains ( wild-type and mutant ) that did not rescue the growth phenotype had low steady-state levels of rne mRNA . 
+Accordingly , rescue of the tufA499 slowgrowth phenotype is associated with RNase E mutants with reduced ability to autoregulate rne mRNA . 
+Current understanding of rne autoregulation implicates recognition and binding of RNase E to an unusually long 5 UTR region on the rne mRNA ( 9 , 14 , 35 ) . 
+This suggests the possibility that the stimulation of growth rate by mutant RNase E in strain dependent on tufA499 for the production of EF-Tu may also be due to reduced recognition or binding to an mRNA whose function is critical for fast growth . 
+FIG. 8 . 
+Processing of 9S to 5S rRNA in TS and TS suppressor strains . 
+Strains TH7589 , TH7599 , TH7590 , TH7602 , TH7591 , and TH7612 were grown at 30 °C until the OD600 was 0.2 to 0.4 and then shifted to 43 °C for 30 min . 
+Total RNA was isolated from cultures grown at 30 °C and 43 °C , separated on a 12 % polyacrylamide gel , and probed for 5S . 
+( A ) Representative gel showing incomplete processing in strains with mutations in rne after growth at 43 °C . 
+Bands corresponding to 9S and 5S are indicated . 
+( B ) , Percent incompletely processed 9S rRNA for the wild type ( wt ) and different rne mutants . 
+ACKNOWLEDGMENTS 
+D.H. and L.L. were supported by grants from the Swedish Scientiﬁc Research Council ( VR-NT and VR-Med ) . 
+D.H. also acknowledges support from the EU 7th Framework ( PAR project ) , Vinnova ( P35553-1 ) , SSF ( RBa08-0063 ) and the Wallenberg Foundation ( RiboCore Project ) . 
+REFERENCES 
+1 . 
+Apirion , D. , and A. B. Lassar . 
+1978 . 
+A conditional lethal mutant of Esche-richia coli which affects the processing of ribosomal RNA . 
+J. Biol . 
+Chem . 
+253:1738 -- 1742 . 
+2 . 
+Babitzke , P. , and S. R. Kushner . 
+1991 . 
+The Ams ( altered mRNA stability ) protein and ribonuclease E are encoded by the same structural gene of Escherichia coli . 
+Proc . 
+Natl. Acad . 
+Sci . 
+U. S. A. 88:1 -- 5 . 
+3 . 
+Blomberg , P. , E. G. Wagner , and K. Nordstrom . 
+1990 . 
+Control of replication of plasmid R1 : the duplex between the antisense RNA , CopA , and its target , CopT , is processed speciﬁcally in vivo and in vitro by RNase III . 
+EMBO J. 9:2331 -- 2340 . 
+4 . 
+Callaghan , A. J. , et al. 2005 . 
+Structure of Escherichia coli RNase E catalytic domain and implications for RNA turnover . 
+Nature 437:1187 -- 1191 . 
+5 . 
+Carpousis , A. J. 2007 . 
+The RNA degradosome of Escherichia coli : an mRNA-degrading machine assembled on RNase E. Annu . 
+Rev. Microbiol . 
+61:71 -- 87 . 
+6 . 
+Chung , D. H. , Z. Min , B. C. Wang , and S. R. Kushner . 
+2010 . 
+Single amino acid changes in the predicted RNase H domain of Escherichia coli RNase G lead to complementation of RNase E deletion mutants . 
+RNA 16:1371 -- 1385 . 
+7 . 
+Deana , A. , and J. G. Belasco . 
+2004 . 
+The function of RNase G in Escherichia coli is constrained by its amino and carboxyl termini . 
+Mol . 
+Microbiol . 
+51 : 1205 -- 1217 . 
+8 . 
+Garrey , S. M. , et al. 2009 . 
+Substrate binding and active site residues in RNases E and G : role of the 5 - sensor . 
+J. Biol . 
+Chem . 
+284:31843 -- 31850 . 
+9 . 
+Garrey , S. M. , and G. A. Mackie . 
+2011 . 
+Roles of the 5 - phosphate sensor domain in RNase E. Mol . 
+Microbiol . 
+80:1613 -- 1624 . 
+10 . 
+Ghora , B. K. , and D. Apirion . 
+1978 . 
+Structural analysis and in vitro processing to p5 rRNA of a 9S RNA molecule isolated from an rne mutant of E. coli . 
+Cell 15:1055 -- 1066 . 
+11 . 
+Hammarlöf , D. L. , and D. Hughes . 
+2008 . 
+Mutants of the RNA-processing enzyme RNase E reverse the extreme slow-growth phenotype caused by a mutant translation factor EF-Tu . 
+Mol . 
+Microbiol . 
+70:1194 -- 1209 . 
+12 . 
+Hughes , D. , and I. Tubulekas . 
+1993 . 
+Ternary complex-ribosome interaction : its inﬂuence on protein synthesis and on growth rate . 
+Biochem . 
+Soc . 
+Trans . 
+21:851 -- 857 . 
+13 . 
+Ikeda , Y. , M. Yagi , T. Morita , and H. Aiba . 
+2011 . 
+Hfq binding at RhlB-recognition region of RNase E is crucial for the rapid degradation of target mRNAs mediated by sRNAs in Escherichia coli . 
+Mol . 
+Microbiol . 
+79:419 -- 432 . 
+14 . 
+Kaberdin , V. R. , and U. Blasi . 
+2006 . 
+Translation initiation and the fate of bacterial mRNAs . 
+FEMS Microbiol . 
+Rev. 30:967 -- 979 . 
+15 . 
+Koslover , D. J. , et al. 2008 . 
+The crystal structure of the Escherichia coli RNase E apoprotein and a mechanism for RNA degradation . 
+Structure 16:1238 -- 1244 . 
+16 . 
+Krissinel , E. , and K. Henrick . 
+2007 . 
+Inference of macromolecular assemblies from crystalline state . 
+J. Mol . 
+Biol . 
+372:774 -- 797 . 
+17 . 
+Kuwano , M. , et al. 1977 . 
+Gene affecting longevity of messenger RNA : a mutant of Escherichia coli with altered mRNA stability . 
+Mol . 
+Gen. Genet . 
+154:279 -- 285 . 
+18 . 
+Mackie , G. A. 1998 . 
+Ribonuclease E is a 5 - end-dependent endonuclease . 
+Nature 395:720 -- 723 . 
+19 . 
+Mackie , G. A. 1991 . 
+Speciﬁc endonucleolytic cleavage of the mRNA for ribosomal protein S20 of Escherichia coli requires the product of the ams gene in vivo and in vitro . 
+J. Bacteriol . 
+173:2488 -- 2497 . 
+20 . 
+Marcaida , M. J. , M. A. DePristo , V. Chandran , A. J. Carpousis , and B. F. Luisi . 
+2006 . 
+The RNA degradosome : life in the fast lane of adaptive molecular evolution . 
+Trends Biochem . 
+Sci . 
+31:359 -- 365 . 
+21 . 
+McClelland , M. , et al. 2001 . 
+Complete genome sequence of Salmonella enterica serovar Typhimurium LT2 . 
+Nature 413:852 -- 856 . 
+22 . 
+McDowall , K. J. , and S. N. Cohen . 
+1996 . 
+The N-terminal domain of the rne gene product has RNase E activity and is non-overlapping with the arginine-rich RNA-binding site . 
+J. Mol . 
+Biol . 
+255:349 -- 355 . 
+23 . 
+McDowall , K. J. , R. G. Hernandez , S. Lin-Chao , and S. N. Cohen . 
+1993 . 
+The ams-1 and rne-3071 temperature-sensitive mutations in the ams gene are in close proximity to each other and cause substitutions within a domain that resembles a product of the Escherichia coli mre locus . 
+J. Bacteriol . 
+175:4245 -- 4249 . 
+24 . 
+Misra , T. K. , and D. Apirion . 
+1979 . 
+RNase E , an RNA processing enzyme from Escherichia coli . 
+J. Biol . 
+Chem . 
+254:11154 -- 11159 . 
+25 . 
+Morita , T. , K. Maki , and H. Aiba . 
+2005 . 
+RNase E-based ribonucleoprotein complexes : mechanical basis of mRNA destabilization mediated by bacterial noncoding RNAs . 
+Genes Dev . 
+19:2176 -- 2186 . 
+26 . 
+Mudd , E. A. , H. M. Krisch , and C. F. Higgins . 
+1990 . 
+RNase E , an endoribonuclease , has a general role in the chemical decay of Escherichia coli mRNA : evidence that rne and ams are the same genetic locus . 
+Mol . 
+Microbiol . 
+4:2127 -- 2135 . 
+27 . 
+Ogle , J. M. , A. P. Carter , and V. Ramakrishnan . 
+2003 . 
+Insights into the decoding mechanism from recent ribosome structures . 
+Trends Biochem . 
+Sci . 
+28:259 -- 266 . 
+28 . 
+Ono , M. , and M. Kuwano . 
+1979 . 
+A conditional lethal mutation in an Esch-erichia coli strain with a longer chemical lifetime of messenger RNA . 
+J. Mol . 
+Biol . 
+129:343 -- 357 . 
+29 . 
+Ow , M. C. , and S. R. Kushner . 
+2002 . 
+Initiation of tRNA maturation by RNase E is essential for cell viability in E. coli . 
+Genes Dev . 
+16:1102 -- 1115 . 
+30 . 
+Perwez , T. , et al. 2008 . 
+Intragenic suppressors of temperature-sensitive rne mutations lead to the dissociation of RNase E activity on mRNA and tRNA substrates in Escherichia coli . 
+Nucleic Acids Res . 
+36:5306 -- 5318 . 
+31 . 
+Prevost , K. , G. Desnoyers , J. F. Jacques , F. Lavoie , and E. Masse . 
+2011 . 
+Small RNA-induced mRNA degradation achieved through both translation block and activated cleavage . 
+Genes Dev . 
+25:385 -- 396 . 
+32 . 
+Schubert , M. , et al. 2004 . 
+Structural characterization of the RNase E S1 domain and identiﬁcation of its oligonucleotide-binding and dimerization interfaces . 
+J. Mol . 
+Biol . 
+341:37 -- 54 . 
+33 . 
+Schuck , A. , A. Diwa , and J. G. Belasco . 
+2009 . 
+RNase E autoregulates its synthesis in Escherichia coli by binding directly to a stem-loop in the rne 5 untranslated region . 
+Mol . 
+Microbiol . 
+72:470 -- 478 . 
+34 . 
+Shin , E. , et al. 2008 . 
+Identiﬁcation of amino acid residues in the catalytic domain of RNase E essential for survival of Escherichia coli : functional analysis of DNase I subdomain . 
+Genetics 179:1871 -- 1879 . 
+35 . 
+Sousa , S. , I. Marchand , and M. Dreyfus . 
+2001 . 
+Autoregulation allows Esch-erichia coli RNase E to adjust continuously its synthesis to that of its substrates . 
+Mol . 
+Microbiol . 
+42:867 -- 878

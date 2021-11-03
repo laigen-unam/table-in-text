@@ -1,0 +1,566 @@
+ﬂM Functions as a Transcriptional Repressor in the Autogenous Control of the Salmonella Flagellar Master Operon ﬂhDC
+R 
+Hanna M. Singer , a Marc Erhardt , a , b Kelly T. Hughesc 
+Microbiologie , Département de Médecine , Université de Fribourg , Fribourg , Switzerlanda ; Helmholtz Centre for Infection Research , Braunschweig , Germanyb ; Department of Biology , University of Utah , Salt Lake City , Utah , USAc 
+Motility of bacteria like Salmonella enterica is a highly regulated process that responds to a variety of internal and external stimuli . 
+A hierarchy of three promoter classes characterizes the Salmonella ﬂagellar system , and the onset of ﬂagellar gene expression depends on the oligomeric regulatory complex and class 1 gene product FlhD4C2 . 
+The ﬂhDC promoter is a target for a broad range of transcriptional regulators that bind within the ﬂhDC promoter region and either negatively or positively regulate ﬂhDC operon transcription . 
+In this work , we demonstrate that the RﬂM protein is a key component of ﬂhDC regulation . 
+Transposon mutagenesis was performed to investigate a previously described autoinhibitory effect of the ﬂagellar master regulatory complex FlhD4C2 . 
+RﬂM is a LuxR homolog that functions as a ﬂagellar class 1 transcriptional repressor . 
+RﬂM was found to be the negative regulator of ﬂhDC expression that is responsible for the formerly described autoinhibitory effect of the FlhD4C2 complex on ﬂhDC operon transcription ( K. Kutsukake , Mol . 
+Gen. Genet . 
+254:440 -- 448 , 1997 ) . 
+We conclude that upon commencement of ﬂagellar gene expression , the FlhD4C2 complex initiates a regulatory feedback loop by activating rﬂM gene expression . 
+rﬂM encodes a transcriptional repressor , RﬂM , which ﬁne-tunes ﬂhDC expression levels . 
+The biosynthesis , assembly , and rotation of ﬂagella require a significant amount of biosynthetic resources and energy ( 1 , 2 ) . 
+The expression of ﬂagellar genes is regulated in response to various environmental conditions , which can determine the onset of ﬂagellar bio-synthesis and the overall degree of ﬂagellation ( 3 , 4 ) . 
+One difference between ﬂagellar gene expression in Escherichia coli and Salmonella is that under low-nutrient conditions , the ﬂagellar regulon can be either induced ( E. coli ) or repressed ( Salmonella ) ( 5 -- 8 ) . 
+In all systems examined to date , ﬂagellar synthesis is repressed during bioﬁlm formation and upon entry into host cells ( 9 -- 12 ) . 
+The more than 60 genes of the ﬂagellar regulon are organized into a transcriptional hierarchy of three promoter classes . 
+The ﬂagellar master operon , ﬂhDC ( under the control of the ﬂa-gellar class 1 promoter ) , is transcribed to produce the FlhD4C2 transcriptional activator complex that is needed for the activation of genes downstream in the ﬂagellar transcriptional hierarchy , which are transcribed from ﬂagellar class 2 promoters . 
+FlhD4C2-dependent genes are required for the structure and assembly of the ﬂagellar hook-basal body ( HBB ) , which functions as the motor of the ﬂagellum . 
+Also transcribed from a class 2 ﬂagellar promoter is the ﬂiA gene , which encodes the ﬂagellum-speciﬁc transcription factor 28 , required to transcribe ﬂagellar class 3 promoters . 
+Class 3 ﬂagellar genes encode proteins required after HBB completion , including ﬁlament ( ﬂiC and ﬂjB ) , motor force generators ( motAB ) , and components of the chemosensory system ( che ) . 
+A broad range of factors positively and negatively regulate expression of the ﬂhDC operon . 
+Transcription of ﬂhDC from the class 1 promoter is dependent on the binding of the cyclic AMP-catabolite gene activator protein complex and can also be activated by the iron-regulatory protein Fur and by the nucle-oid proteins Fis and H-NS ( 13 -- 17 ) . 
+Those regulatory factors bind directly to the ﬂhDC promoter region , as shown for Fis in Salmonella and for Fur and H-NS in E. coli ( 15 , 17 , 18 ) . 
+There are numerous negative regulators of ﬂagellar biosynthesis , including SlyA , a transcriptional regulator of ﬂhDC ( 19 ) that is also required for Salmonella virulence ( 20 ) , RtsB , a Salmonella pathogenicity island 1 ( SPI-1 ) - encoded repressor of ﬂagellar class 1 transcription ( 21 ) , LrhA ( 22 ) , and RcsB . 
+RcsB is reported to positively regulate SPI-2 expression and favor Salmo-nella growth in macrophages ( 23 ) . 
+RcsB also binds an RcsB box in the ﬂhDC promoter region to repress the ﬂagellar master operon ( 23 , 24 ) . 
+Finally , ﬂhDC transcription is reported to be under autogenous control ( 13 ) . 
+FlhD4C2 is also under posttranscriptional regulation . 
+The ﬂagellar protein FliZ is a product of the ﬂiAZ operon , which is transcribed from ﬂagellar class 2 and 3 promoters . 
+FliZ positively regulates additional ﬂagellar class 2 gene expression ( 25 ) . 
+According to Saini et al. , FliZ posttranslationally alters the concentration of FlhD4C2 ( 26 ) . 
+Data provided by Wada et al. suggest that FliZ has a repressing effect on YdiV , another posttranscriptional anti-FlhD4C2 factor ( 27 ) . 
+YdiV binds to FlhD and prevents the FlhD4C2 complex from binding to class 2 promoters , either by physically keeping the FlhDC complex away from free promoter DNA or by releasing FlhDC from the DNA-bound state ( 7 , 28 ) . 
+In an earlier study , we identiﬁed RﬂM , previously known as EcnR ( see Materials and Methods ) , as a repressor of ﬂhDC transcription . 
+RﬂM is encoded in close proximity to the antidote/toxin gene pair ecnAB and exhibits the typical characteristics of an OmpR-like response regulator ( 29 ) . 
+It was therefore originally named EcnR ( entericidin gene R ) , but experimental analyses showed ecnAB to be posS itively regulated by and negatively regulated by EnvZ/OmpR ( 29 ) . 
+There is no evidence for regulation of ecnAB by RﬂM ( EcnR ) . 
+In our previous work , we isolated ﬂhDC promoter mutants that suppressed RﬂM inhibition ( 30 ) . 
+The inhibitory effect of RﬂM on motility has been shown to be dependent on the RcsCDB system ( 30 ) . 
+An additional deletion of rcsDBC or an insertion in rcsB prevented the reported loss of motility of P rﬂM . 
+Here , we characterized the inhib-ara itory effect of RﬂM on ﬂhDC transcription . 
+FlhD4C2 activates transcription of rﬂM , and in turn , RﬂM represses ﬂhDC transcription . 
+The RﬂM-FlhD C feedback loop thereby accounts for the for-4 2 merly described autoregulatory effect of FlhD C on ﬂhDC operon 4 2 transcription . 
+Received 20 June 2013 Accepted 15 July 2013 Published ahead of print 19 July 2013 
+Address correspondence to Kelly T. Hughes , hughes@biology.utah.edu . 
+Copyright © 2013 , American Society for Microbiology . 
+All Rights Reserved . 
+doi :10.1128 / JB.00728-13 
+Journal of Bacteriology p. 4274 -- 4282 
+MATERIALS AND METHODS
+Bacterial strains , plasmids , and media . 
+All bacterial strains used in this study are listed in Table 1 . 
+Cells were cultured in lysogeny broth ( LB ) medium , supplemented with tetracycline ( 15 g ml 1 ) or anhydrotetra-1 cycline ( AnTc ) ( 1 g ml ) if needed . 
+Gene expression from the arabinose promoter was achieved by addition of 0.2 % - arabinose to the medium . 
+L The generalized transducing phage of Salmonella enterica serovar Typhi-murium P22 HT105/1 int-201 was used in all crosses ( 31 ) . 
+Experiments using the virulent Salmonella enterica serovar Typhimurium ATCC 14028s background were performed under SPI-1-inducing conditions ( 24 , 32 , 33 ) . 
+Cultures were grown under high-osmolarity ( 1 % NaCl , ﬁnal ) and low-oxygen ( without agitation ) conditions and if necessary supplemented with anhydrotetracycline and arabinose as described above . 
+Phenotypic Lac activity was observed using MacConkey lactose ( MacLac ) agar supplemented with 0.2 % arabinose if required . 
+Nomenclature . 
+The gene rﬂM was originally named ecnR since it was a putative regulatory protein linked to the toxin-antitoxin genes ecnAB ( 29 ) . 
+The change in nomenclature thereby displays the newly characterized function of RﬂM as a modulator of the ﬂagellar master operon ﬂhDC ( regulator of ﬂagellar master operon ) . 
+Isolation of random T-POP insertions . 
+Strain TH15941 [ araBAD1007 : : ﬂhD C ﬂhC5213 : : MudJ ﬂiA5886 ( R91C L207P ) ] carries the ﬂhD C operon expressed from the chromosomal araBAD promoter ( ParaBAD ) ( 19 ) . 
+It also carries a lac operon ( via insertion of the MudJ transposon into the ﬂhC gene ) transcriptional reporter fusion to the chromosomal ﬂhDC promoter ( ﬂhC5213 : : MudJ ) and a ﬂiA null allele that is defective in binding DNA ( 34 ) . 
+The introduction of the ﬂiA null allele was 28 to prevent any potential effects of activity on the ﬂhDC autoregulatory control . 
+Strain TH15941 is Lac but becomes Lac in the presence of arabinose ( Ara-Lac ) due to induction of ﬂhD C transcription from ParaBAD , resulting in autorepression of ﬂhC-lac reporter transcription by FlhD4C2 . 
+P22 phage prepared from T-POP donor strain TH3923 { pJS28 ( Apr P22-9 ) F = 114 ( Ts ) Lac zzf-20 : : Tn10 [ tetA : : MudP ] ( Tcs ) zzf-3823 : : Tn10dTc [ del-25 ] leuA414 hsdSB Fels2 } was used to introduce T-POP into strain TH15941 carrying plasmid pNK2881 , which constitutively expresses the Tn10 transposase gene carrying the ats-1 and ats-2 ( altered target speciﬁcity mutations ) alleles , which result in the random insertion of Tn10 derivatives into the chromosome ( 35 ) . 
+About 30,000 T-POP insertions in TH15941 were screened for loss of FlhD4C2 autorepression , an Ara-Lac phenotype , in the presence of tetracycline ( Tc-Ara-Lac ) . 
+Thirty T-POP insertions that had an initial Ara-Lac phenotype in the presence of Tc were isolated and were further characterized as described in Results . 
+- Galactosidase assays . 
+- Galactosidase activity was measured according to method of Zhang and Bremer ( 36 ) with minor modiﬁcations as described in the following . 
+For each strain , a minimum of three independent biological replicates were picked from individual colonies . 
+For experiments performed with LT2 , cells were grown overnight in general LB medium . 
+Strain 14028s was grown under SPI-1 inducing conditions in LB medium supplemented with 1 % NaCl ( ﬁnal ) and without shaking . 
+LT2 samples were diluted 1:100 in LB medium supplemented with 0.2 % L-ar-abinose and 1 g ml 1 anhydrotetracycline if needed . 
+Cultures were grown until mid-log phase at 37 °C before permeabilization of the cells using 100 mM Na2HPO4 , 20 mM KCl , 2 mM MgSO4 , 0.08 % CTAB ( hexa-decyl-trimethyl ammonium bromide ) , 0.04 % sodium deoxycholate , and 5.4 l ml 1 - mercaptoethanol . 
+To start the reaction , substrate solution containing 60 mM Na2HPO4 , 40 mM NaH2PO4 , 1 mg ml 1 o-nitrophenyl - - D-galactoside ( ONPG ) 1 and 2.7 g ml - mercaptoethanol was added , and the time was measured until sufﬁcient color had been developed . 
+The enzyme reaction was then stopped by addition of 1 M sodium carbonate ( Na CO ) , and re-2 3 maining cell fragments were pelleted by centrifugation at full speed . 
+The optical density of the supernatant at 405 nm was measured , and Miller units were calculated according to the method of Miller ( 37 ) . 
+All samples were normalized against their corresponding arabinose-induced wild-type control in the presence or absence of anhydrotetracycline . 
+For statistical analysis , an unpaired t test was performed using the software program GraphPad Prism version 5.0 d for Mac ( GraphPad Software , San Diego , CA , USA ) . 
+The P value summaries are displayed above the respective bars . 
+RNA isolation and quantitative real-time PCR . 
+RNA isolation was performed for three independent biological replicates using the RNeasy minikit ( Qiagen ) . 
+For removal of genomic DNA , RNA was treated with DNase I for 30 min at 37 °C using a DNA-free RNA kit ( Zymo Research ) or on-column treatment was performed using kit 79254 ( Qiagen ) . 
+Subsequently , RNA samples were reverse transcribed according to the RevertAid ﬁrst-strand cDNA synthesis kit ( Fermentas ) . 
+Quantitative real-time PCRs were carried out using the EvaGreen quantitative real-time PCR ( qPCR ) master mix ( Bio-Rad ) and primers 5 = - TCTCAACGATGCCTTA CCCGAACA plus 5 = - GCAAGCTCATGTAAAGGCGTGTGT ( rﬂM ) , 5 = - CTGCTCAAAGAGCTGGTGTATCA plus 5 = - AGCGCGTTACAGTCTG CTCAT ( gyrB ) , 5 = - CAACCTGTTCGTACGTATCGAC plus 5 = - CAGCTC CATCTGCAGTTTGTTG ( rpoB ) , 5 = - CAACAGTATGCGCGTGATGAT plus 5 = - CGACGCAGAGCTTCATGATC ( rpoD ) , 5 = - TTGCAGAAATGA GCCATTACGCCG plus 5 = - GACGTTCAGC GCGAATGATGGTTT ( gmk ) , 5 = - GTAGGCAGCTTTGCGTGTAG plus 5 = - TCCAGCAGTTGTG GAATAATATCG ( ﬂhDC ) , 5 = - AACGTCTATTTTGTGAAAACCAAAG plus 5 = - AGACTCCAGAATCCCGTTTTC ( ﬂgE ) , and 5 = - AACGACGGTA TCTCCATTGC plus 5 = - ATTTCAGCCTGGATGGAGTC ( ﬂagellin , conserved region of ﬂiC and ﬂjB ) . 
+Experiments were performed on a CFX96 real-time PCR instrument ( Bio-Rad ) , with the exception of the experiment leading to Fig. 5 . 
+Here we used a Rotor-Gene Q 2plex real-time PCR system ( Qiagen ) . 
+Relative changes in mRNA levels were analyzed according to the Pfafﬂ method ( 38 ) and normalized against the transcript levels of the reference genes rpoB , rpoD , gyrB , and gmk . 
+Motility plates . 
+Motility plates were prepared as described previously ( 30 , 39 ) . 
+Strains were picked from fresh individual colonies grown on LB and pocked into 0.2 % arabinose-containing ( Ara ) and arabinose-free ( Ara ) motility agar . 
+Plates were kept at 30 °C and grown for 5.5 h ( Ara ) and 6.5 h ( Ara ) , respectively . 
+The diameter of the motility swarm was measured using the software program NIH ImageJ 1.44 g . 
+In order to increase the contrast between motility and background , contrast levels were equally adjusted using iWork Pages software . 
+Flagellar staining . 
+For immunostaining of ﬂagellar ﬁlaments , ﬂiC-ON phase-locked ( hin-5717 ) Salmonella bacteria containing a deletion of either rﬂM or rcsB were grown to mid-log phase and immobilized on poly-L-lysine-treated coverslips . 
+The bacteria were ﬁxed by addition of 5 % formaldehyde and 0.5 % glutaraldehyde . 
+Membrane staining was performed using FM-64 ( 0.5 mg ml 1 ) . 
+Flagella were stained using polyclonal anti-FliC antibodies ( rabbit ) and anti-rabbit-Alexa 488 secondary antibodies ( Invitrogen ) . 
+Images were collected using an inverted Axio Observer.Z1 ﬂuorescence microscope ( Zeiss ) . 
+TABLE 1 Salmonella enterica serovar Typhimurium LT2 and ATCC 14028s ( ST14028 ) strains used in this study Strain or plasmid Relevant characteristics EM57 LT2 araBAD1007 : : ﬂhD C rﬂM32 ﬂhC5213 : : MudJ EM59 LT2 araBAD1007 : : ﬂhD C ﬂhC5213 : : MudJ EM71 LT2 araBAD925 : : tetRA ﬂhC5213 : : MudJ rﬂM32 EM153 LT2 araBAD921 : : rﬂM rﬂM3 : : MudJ P ( ﬂhDC ) 5451 : : Tn10dTc [ del-25 ] EM154 LT2 araBAD1005 : : FCF P ( ﬂhDC ) 5451 : : Tn10dTc [ del-25 ] rﬂM3 : : MudJ EM635 14028s rcsB : : tetRA luxCDABE ( Kmr ) : : ybaJ EM636 14028s rﬂM5 : : FCF luxCDABE ( Kmr ) : : ybaJ EM642 14028s araBAD925 : : rcsB luxCDABE ( Kmr ) : : ybaJ EM643 14028s araBAD921 : : rﬂM luxCDABE ( Kmr ) : : ybaJ EM666 14028s araBAD1005 : : FRT luxCDABE ( Kmr ) : : ybaJ EM672 14028s araBAD1007 : : ﬂhD C rﬂM3 : : MudJ EM673 14028s araBAD1005 : : FRT rﬂM3 : : MudJ EM700 14028s araBAD1007 : : ﬂhD C rﬂM3 : : MudJ invH-sprB : : FCF EM701 14028s araBAD1005 : : FRT rﬂM3 : : MudJ invH-sprB : : FCF TH437 LT2 TH3923 pJS28 ( Apr P22-9 ) F = 114 ( Ts ) Lac zzf-20 : : Tn10 [ tetA : : MudP ] ( Tcs ) zzf-3823 : : Tn10dTc [ del-25 ] leuA414 hsdSB Fels2 hin-5717 : : FCF LT2 araBAD925 : : tetRA LT2 araBAD925 : : tetRA ﬂhC5213 : : MudJ LT2 araBAD921 : : rﬂM LT2 rﬂM3 : : MudJ LT2 araBAD996 : : rcsB ﬂhC5213 : : MudJ LT2 ﬂhC5213 : : MudJ araBAD921 : : rﬂM LT2 araBAD1007 : : ﬂhD C LT2 araBAD1007 : : ﬂhD C ﬂhC5213 : : MudJ ﬂiA5886 ( R91C L207P ) LT2 araBAD1007 : : ﬂhD C rﬂM3 : : MudJ rﬂM4 : : FKF hin-5717 : : FCF rcsB : : tetRA hin-5717 : : FCF 
+Reference or source This study This study This study This study This study This study This study This study This study This study This study This study This study This study J. Roth Lab collection 
+TH5971 TH6701 TH8972 TH9386 TH10068 TH13067 TH13069 TH14156 TH15941 TH16205 TH16952 TH16964 
+Lab collection P. Aldridge 
+J. Karlinsey Wozniak et al. , 2009 ( 30 ) Lab collection Lab collection Erhardt and Hughes , 2010 ( 19 ) This study This study This study This study 
+RESULTS
+FlhD4C2 activates its own repressor , RﬂM . 
+The master regulatory operon of ﬂagellar gene expression , ﬂhDC , is under autogenous repression ( 13 ) . 
+It was reported that increased levels of active 
+FlhD4C2 complex resulted in decreased ﬂhDC transcription in cases where 28 ( FliA ) was absent or where 28 was in the presence of its cognate anti- 28 factor FlgM ( 13 ) . 
+We conﬁrmed the auto-regulatory effect of FlhD4C2 on ﬂhDC operon transcription in the 28 presence of both and FlgM as shown in Fig. 1 . 
+When FlhD C 4 2 was overexpressed from the arabinose promoter upon addition of 0.2 % arabinose , a chromosomal ﬂhC-lac transcriptional fusion under the control of the ﬂhDC promoter reported a drop in ﬂhC-lac expression of about 2-fold ( Fig. 1A ) . 
+It was shown previously that tuning expression of FlhD4C2 from the arabinose promoter by addition of 0.05 % to 0.6 % arabinose resulted in a steady 60-fold increase in ﬂhDC mRNA levels compared to ﬂhDC expressed from the native PﬂhDC promoter ( 19 ) . 
+In addition , the FlhD4C2 levels needed for maximal activation of downstream ﬂagellar genes appear to be rapidly saturated , since class 2 and class 3 gene expression increased only 3 - to 5-fold in the tested range of ParaﬂhDC overexpression ( 19 ) . 
+To address whether FlhD4C2 could directly repress its own transcription or if FlhD4C2 mediated autorepression indirectly by activating the transcription of an unknown ﬂhDC operon repressor , we performed T-POP transposon mutagenesis and screened for potential FlhD4C2-dependent repressors of ﬂhDC gene transcription . 
+T-POP transposons are derivatives of transposon Tn10 that can transcribe chromosomal genes adjacent to the site of insertion from tetracycline-inducible promoters within the T-POP element ( 40 ) . 
+T-POP lacks transposition functions , which can be provided in trans by a Tn10 transposase expression plasmid pres-ent in recipient cells ( 40 ) . 
+After transposon insertions have been isolated and moved into a strain lacking Tn10 transposase , the T-POP transposon is no longer capable of further transposition . 
+Strain TH15941 ( araBAD1007 : : ﬂhD C ﬂhC5213 : : MudJ ﬂiA5886 ) carries an ﬂhC-lac transcriptional fusion and the ﬂhD C operon expressed from an arabinose-inducible promoter ( ParaﬂhD C ) . 
+This strain is Lac in the presence of arabinose due to FlhD C autorepression . 
+The phenotype on lactose 4 2 MacConkey ( MacLac ) agar is shown in Fig. 2 . 
+MacLac indicator medium shows the optimal sensitivity in the intermediate lac operon expression range ( 41 ) . 
+It thus represents the indicator me-dium of choice to visualize repression of ﬂhDC , such as ﬂhDC autorepression ( ParaﬂhD C ) or repression of ﬂhDC by the known transcriptional regulator RcsB ( PararcsB ) . 
+Using MacLac indicator medium , a transition from white ( Lac ) to dark-pink ( Lac ) colonies can be readily observed ( Fig. 2 ) . 
+Strain TH15941 was mutagenized with the T-POP transposon Tn10dTc [ del-25 ] and screened for insertions that were Lac ( dark pink ) in the presence of arabinose due to loss of FlhD C autorepression . 
+The 4 2 T-POP transposon Tn10dTc [ del-25 ] is deleted for the terminator of the tetA tetracycline resistance gene transcript , allowing transcription from the tetA promoter ( PtetA ) within the T-POP transposon into adjacent chromosomal DNA ( 40 ) . 
+Four groups of TPOP transposon insertion mutants that resulted in the apparent loss of FlhD4C2 autorepression ( i.e. , Lac in the presence of arabinose [ Ara-Lac ] ) were obtained . 
+One group included T-POP insertions linked to the arabinose region and are presumed to have disrupted the ﬂhDC operon . 
+A second group included T-POP insertions linked to the ﬂhC-lac operon fusion and are presumed to be polar insertions between the ﬂhDC promoter and the lac operon inserted in ﬂhC , thereby putting lac directly under PtetA control . 
+These two groups of Ara-Lac T-POP insertions in strain TH15941 were not further characterized . 
+The remaining two groups of Ara-Lac T-POP insertions were unlinked to both ara and ﬂhC-lac fusion chromosomal positions and represented candidates for insertions in a gene or genes responsible for FlhD4C2-dependent repression of ﬂhDC operon transcription . 
+One group included two insertions that exhibited an Ara-Lac phenotype only in the presence of tetracycline ( Tc ) . 
+These were presumed to turn on an activator of ﬂhDC gene expression from PtetA that is currently being subjected to further characterization . 
+The ﬁnal group of insertion mutants was Ara-Lac in either the presence or absence of added Tc , and their Ara-Lac phenotype was presumed to be due to the loss of function of the gene into which the T-POP was inserted . 
+T-POP insertions of this group that were linked to known negative regulators of ﬂhDC expression ( e.g. , lrhA , rtsB , and rcsB ) were not characterized further . 
+Of the remaining unlinked T-POP insertions , we sequenced 10 Tc-independent Ara-Lac insertion mutants , and DNA sequence analysis revealed transposition of the T-POP element into the rﬂM locus ( Table 2 ) . 
+This indicated that rﬂM encodes an FlhD4C2-induced repressor of ﬂhDC transcription ( the `` autorepressor '' ) . 
+RﬂM inhibits ﬂhC gene transcription . 
+The results of the random T-POP transposon mutagenesis suggested that RﬂM functions as an FlhD4C2-dependent inhibitor of ﬂhDC operon transcription . 
+Accordingly , we tested autoinhibition of ﬂhDC transcription upon induction of P ﬂhD C ara in the absence of the putative regulator RﬂM ( Fig. 1A ) . 
+The inhibitory effect of ParaﬂhD C induction on ﬂhDC gene transcription was lost in the rﬂM deletion strain , conﬁrming that RﬂM was responsible for the FlhD4C2 autoregulation effect observed by Kutsukake ( 13 ) . 
+In order to conﬁrm that RﬂM represses ﬂhDC operon transcription , we analyzed ﬂhDC mRNA levels in a strain that expresses excess rﬂM from an arabinose-inducible promoter ( P rﬂM ) . 
+As ara shown in Fig. 1B , under PararﬂM - inducing conditions , ﬂhDC expression decreased about 4-fold in a reverse transcriptase qPCR ( RT-qPCR ) assay . 
+Reduction in ﬂhDC transcription was also observed under P rﬂM - inducing conditions using an ﬂhC-lac ara operon fusion reporter shown in Fig. 1C . 
+Effect of RﬂM on rﬂM gene transcription . 
+We investigated whether RﬂM was under autogenous control . 
+To test if RﬂM autoregulates its own transcription , we utilized a previously isolated rﬂM-lac operon transcriptional fusion ( 30 ) . 
+A strain overexpressing RﬂM from the arabinose promoter ( PararﬂM ) was analyzed in comparison to the wild-type control , where the arabinose genes araBAD were deleted by inserting an Flp recombination target ( FRT ) - chloramphenicol acetyltransferase-FRT ( FCF ) resistance cassette ( araBAD : : FCF ) . 
+Both strains carried the above-men-tioned rﬂM-lac reporter and a T-POP insertion in the promoter region of ﬂhDC . 
+The latter allows the activation of ﬂhDC transcription upon addition of anhydrotetracycline ( AnTc ) , which activates T-POP-encoded tetA and tetR gene transcription , and prevents ﬂhDC autorepression . 
+As shown in Fig. 1D , the absence of FlhD4C2 ( e.g. , in the absence of the inducer AnTc , the ﬂhDC operon in these strains is not transcribed ) resulted in a reduction of rﬂM-lac transcription , presumably because the rﬂM gene required FlhD4C2 for its transcription . 
+However , induction of rﬂM from the arabinose locus had no effect on the remaining rﬂM-lac transcription , suggesting that RﬂM does not play an additional role in its own transcriptional regulation except through regulation of ﬂhDC . 
+FlhD4C2 activates its own repressor , RﬂM . 
+The results described above indicate that FlhD4C2 activates its own repressor , RﬂM . 
+To analyze the effects of ParaﬂhD C induction on rﬂM gene expression , we analyzed - galactosidase activity of a transcriptional rﬂM-lac reporter in Salmonella enterica LT2 and the virulent strain Salmonella enterica ATCC 14028s to exclude strainspeciﬁc effects and in addition analyze a potential cross talk between the interconnected virulence and ﬂagellar gene regulation networks . 
+The attenuated strain , LT2 , was grown under regular LB conditions , whereas the virulent strain , 14028s , was grown under high-salt and low-oxygen conditions , known to induce the viru-lence-associated Salmonella pathogenicity island 1 ( SPI-1 ) ( 24 , 32 , 33 ) . 
+In both strain backgrounds , a 3-fold induction of rﬂM was observed under P ﬂhD ara C - inducing conditions ( Fig. 3A ) . 
+We also performed complementary quantitative real-time PCR assays . 
+Upon ParaﬂhD C - inducing conditions , the rﬂM mRNA level was signiﬁcantly increased , as shown in Fig. 3B . 
+Effect of RﬂM on motility and ﬂagellation . 
+We have shown above that overexpression of rﬂM resulted in a substantial repression of the ﬂagellar master regulatory operon , ﬂhDC . 
+We therefore analyzed the effect of a deletion of the rﬂM gene and rﬂM overexpression on motility and ﬂagellar assembly . 
+A deletion in rﬂM resulted in an increase in motility compared to the wild type ( Fig. 4A and B ) and on average one additional ﬂagellum per cell body ( Fig. 4C ) . 
+Under rﬂM-overexpressing conditions ( labeled rﬂM1 ) , a substantial loss of motility was observed and motility was significantly impaired compared to that with the known repressor RcsB ( Fig. 4B ) . 
+Additionally , we analyzed gene expression of the three ﬂagellar promoter classes by quantitative real-time PCR . 
+Expression of all the classes was upregulated in the rﬂM background , with a decreasing effect along the transcriptional ﬂagellar hierarchy ( Fig. 5 ) . 
+While no signiﬁcant difference could be observed between the two regulators RﬂM and RcsB in terms of class 1 ( ﬂhDC ) expression , the RﬂM effect is clearly visible at later class 2 ( ﬂgE ) and class 3 ( ﬂiC and ﬂjB ) transcription . 
+This effect supports the observation that the RﬂM effect on motility and ﬂagellation was more pronounced than that of RcsB . 
+FIG 1 RﬂM inhibits its own activator ( ﬂhDC ) . 
+( A ) Expression levels of an ﬂhC-lac transcriptional fusion under ParaBAD : : ﬂhD C inducing conditions ( 0.2 % arabinose ) , measured by - galactosidase activity as described in Materials and Methods . 
+Three independent biological replicates of the ParaBAD : : ﬂhD C ﬂhC : : MudJ ( EM59 ; lane 2 ) and ParaBAD : : ﬂhD C rﬂM ﬂhC : : MudJ ( EM57 ; lane 4 ) strains were measured and compared to araBAD : : tetRA ﬂhC : : MudJ ( TH8972 ; lane 1 ) and araBAD : : tetRA rﬂM ﬂhC : : MudJ ( EM71 ; lane 3 ) control strains . 
+( B ) Relative ﬂhDC expression compared to wild-type mRNA levels of strain TH6701 araBAD : : tetRA or TH437 LT2 , respectively . 
+Transcript levels were compared by quantitative real-time PCR as described in the text . 
+The effect of arabinose-in-duced overexpression of RﬂM ( TH9386 ; ParaBAD : : rﬂM ) on ﬂhDC expression was monitored in independent experiments using total mRNA of three independent biological samples grown in arabinose-containing medium . 
+( C ) - Galactosidase activity showing transcription levels in strain expressing RﬂM from the arabinose promoter ( TH13069 ParaBAD : : rﬂM ﬂhC : : MudJ , labeled 1 ) , compared to results for the wild-type control ( TH8972 ; araBAD : : tetRA ﬂhC : : MudJ ) . 
+TH8972 contains chromosomal rﬂM but lacks rﬂM expression due to the absence of functional ﬂhDC ( labeled as * ) . 
+( D ) rﬂM expression levels in a - galactosidase assay showing repression of rﬂM transcription in strains lacking ﬂhDC . 
+For each strain , four independent replicates were analyzed . 
+EM154 ( araBAD : : FCF PﬂhDC : : Tn10dTc [ del-25 ] rﬂM : : MudJ ; lanes 1 and 3 ) and EM153 ( ParaBAD : : rﬂM PﬂhDC : : Tn10dTc [ del-25 ] rﬂM : : MudJ ; lanes 2 and 4 ) were grown until mid-log phase in arabinose-supplemented medium in the presence and absence of 1 g ml 1 anhydrotetracycline ( AnTc ) . 
+The relevant genotype is labeled as followed : a chromosomal wild-type copy of the gene is present ( ) , the gene is chromosomally overexpressed from an arabinose-inducible promoter ( 1 ) , or the strain is deleted for the respective gene ( ) . 
+It is important to note that rﬂM requires the presence of FlhDC in order to be expressed . 
+The asterisk ( ) indicates conditions where the wild-type rﬂM gene is present but not transcribed due to the absence of ﬂhDC . 
+Error bars represent the standard deviations of the means . 
+Data were analyzed by the Student t test . 
+Gene expression levels that differed signiﬁcantly are shown ( , P 0.01 ; , P 0.001 ) . 
+FIG 2 Phenotypes of different Para constructs on MacLac indicator plates in the presence ( ara ) and absence ( ara ) of arabinose . 
+Plates were incubated at 37 °C overnight . 
+TH8972 ParaBAD : : tetRA , EM71 ParaBAD : : tetRA rﬂM , EM59 ParaBAD : : ﬂhDC , EM57 ParaBAD : : ﬂhDC rﬂM , TH13069 ParaBAD : : rﬂM , and TH13067 ParaBAD : : rcsB are shown . 
+TABLE 2 Locations of tetracycline-independent Ara-Lac T-POP insertions 
+Location of insertion ( bp downstream of rﬂM start site ) 
+T-POP no. 4 5 and 9 6 and 24 10 11 17 22 25 
+DNA strand 
+157 39 200 157 191 542 473 149 
+Minus strand Minus strand 
+Minus strand Minus strand Reference ( plus ) strand Reference ( plus ) strand Minus strand Reference ( plus ) strand 
+FIG 3 FlhD4C2 activates its own repressor , RﬂM . 
+( A ) Expression of an rﬂMlac transcriptional fusion under ﬂhDC overexpression conditions compared to wild-type ﬂhDC expression conditions . 
+Transcription of rﬂM-lac as determined by - galactosidase assays for Salmonella enterica serovar Typhimurium LT2 and ATCC 14028s shows activation of rﬂM gene expression in a strain expressing excess FlhD4C2 . 
+Three independent biological replicates were grown in LB medium containing 0.2 % arabinose . 
+TH10068 ( LT2 rﬂM : : MudJ ; lane 1 ) and TH16205 ( LT2 ParaBAD : : ﬂhD C rﬂM : : MudJ ; lane 2 ) were grown shaking in normal LB medium . 
+For ST14028s , strains EM673 ( araBAD : : FRT rﬂM : : MudJ ; lane 3 ) , EM701 ( araBAD : : FRT rﬂM : : MudJ invH-sprB : : FCF ; lane 4 ) , EM672 ( P : : ﬂhD C araBAD rﬂM : : MudJ ; lane 5 ) , and EM700 ( ParaBAD : : ﬂhD C rﬂM : : MudJ invH-sprB : : FCF ; lane 6 ) were grown under SPI-1-in-ducing conditions as further described in Materials and Methods . 
+( B ) Effects of excess FlhD4C2 on rﬂM gene expression . 
+Strain TH14156 ParaBAD : : ﬂhD C ( 1 ) was grown to mid-log phase in LB medium containing 0.2 % arabinose . 
+Total RNA of three biological replicates was isolated , and rﬂM transcript levels were analyzed in independent experiments by real-time qPCR as described in the text . 
+Relative gene expression was determined using the Pfafﬂ method . 
+Individual mRNA levels were normalized against those for multiple reference genes ( gmk , gyrB , rpoB , and rpoD ) and are presented as fold change relative to those for the wild-type control , TH6701 araBAD : : tetRA or TH437 LT2 . 
+Data were analyzed by the Student t test . 
+Gene expression levels that differed signiﬁcantly are indicated ( , P 0.001 ) . 
+Error bars represent the standard deviations of the means . 
+The relevant genotype is labeled as followed : a chromosomal wild-type copy of the gene is present ( ) , the gene is chromosomally overexpressed from an arabinose-induc-ible promoter ( 1 ) , or the strain is deleted for the respective gene ( ) . 
+In summary , our results support a regulatory feedback loop for the autogenous control of ﬂhDC operon transcription . 
+Expression of ﬂhDC leads to production of a functional FlhD4C2 activator complex , which , in addition to activating ﬂagellar class 2 promoter transcription for hook-basal body assembly , activates rﬂM gene transcription . 
+RﬂM , when produced , acts to inhibit ﬂhDC transcription . 
+We have thereby demonstrated that this feedback loop is responsible for the formerly observed autoregulatory effect of FlhD4C2 . 
+FIG 4 Motility and ﬂagellation of rﬂM and rcsB mutants . 
+( A ) Motility of rﬂM and rcsB mutants with or without induction by arabinose . 
+Fresh colonies were poked into motility plates and grown at 30 °C for 5.5 h ( Ara ) or 6.5 h ( Ara ) . 
+( B ) Motility diameter was measured using ImageJ , and values for EM636 ( rﬂM : : FCF ) , EM635 ( rcsB : : tetRA ) , EM643 ( araBAD : : rﬂM ) , and EM642 ( araBAD : : rcsB ) are shown relative to those for the wild type ( WT ) EM666 ( araBAD : : FRT ) . 
+Relevant genotypes are listed . 
+For details , see the list of strains ( Table 1 ) . 
+( C ) Numbers of ﬂagella per cell in a ﬂiC-ON ( hin-5717 ) phase-locked background . 
+Cell bodies were stained using FM-64 , and ﬂagella were labeled using antibodies against the expressed ﬁlament subunit ﬂiC as described in Materials and Methods . 
+The number of ﬂagella per cell body was manually counted using ImageJ . 
+TH5971 ( hin-5717 ) , TH16952 ( ecnR hin-5717 ) , and TH16964 ( rcsB hin-5717 ) were analyzed . 
+FIG 5 Flagellar class 1 , 2 , and 3 gene expression of rﬂM and rcsB mutants . 
+Relative expression of the different ﬂagellar promoter classes under wild-type , rﬂM , and rcsB conditions is shown . 
+Quantitative real-time analysis was performed with two independent mRNA puriﬁcations . 
+Expression levels are shown for class 1 ( ﬂhDC ) , class 2 ( hook subunit ﬂgE ) , and class 3 ( ﬂagellin subunits ﬂiC and ﬂjB ) gene products . 
+gyrB , rpoB , and gmk served as reference genes for normalization . 
+DISCUSSION
+In this study , we show that the formerly observed autoregulatory effect of the ﬂagellar master regulator FlhD4C2 is caused by FlhD4C2-dependent production of a negative regulator , RﬂM . 
+FlhD4C2 and RﬂM thereby form a regulatory feedback loop , which regulates the rate of ﬂagellar gene expression with respect to the level of already-initiated ﬂagellar biosynthesis . 
+Expression of rﬂM is directly coupled to the presence of functional FlhD4C2 , which could be concluded from the fact that the amount of rﬂM mRNA was signiﬁcantly increased under FlhD4C2 overexpression conditions . 
+Conclusively , ﬂhDC expression decreased in the presence of excess RﬂM , and FlhD4C2 autoregulation was completely abolished in an rﬂM deletion background . 
+Flagellar synthesis is dependent on a hierarchy of three transcriptional promoter classes , with the master regulator , FlhD4C2 , at the top . 
+FlhD4C2 is a known DNA binding complex that has been shown to bind to the 40 to 80 regions of multiple ﬂagellar operons ( 42 , 43 ) and together with 70 targets RNA polymerase to transcribe class 2 ﬂagellar promoters ( 44 ) . 
+FlhD4C2 allows expression of the subsequent ﬂagellar genes ( under the control of the FlhD4C2-dependent class 2 promoters ) needed for hook-basal-body assembly . 
+The presence of functional FlhD4C2 thereby plays the main role in determining whether or not ﬂagella are synthesized . 
+Accordingly , negative feedback between the FlhD4C2 protein and ﬂhDC operon expression would prevent the cell from synthesizing an excess of ﬂagella . 
+Overexpression of ﬂhDC has previously been described to turn off ﬂhDC operon transcription and was attributed to a direct inhibition of the ﬂhDC operon by the FlhD4C2 complex ( 13 ) . 
+It was unclear , however , whether this inhibitory function was direct or indirect . 
+Thus , we designed a genetic selection and screen to differentiate between two possibilities : in addition to the known role of FlhD4C2 as a transcriptional activator of ﬂagellar class 2 promoters , FlhD4C2 could either act as a direct repressor of its own ( ﬂhDC operon ) transcription or as an activator of an unknown repressor of ﬂhDC operon transcription . 
+Our results support the latter possibility . 
+The identiﬁcation of an FlhD4C2-dependent ﬂhDC regulator allows us to postulate a novel regulatory feedback loop that accounts for the previously described autoregulation of FlhD4C2 . 
+The loop consists of two mechanisms : ( i ) FlhD4C2 activates rﬂM and ( ii ) RﬂM represses ﬂhDC transcription . 
+With this study , we added a new component to the complex regulatory mechanisms that controls expression and activity of the ﬂagellar master regulator FlhD4C2 . 
+Many environmental and regulatory stimuli are integrated at the level of 70-dependent transcription of the ﬂhDC operon . 
+Expression of FlhD4C2 therefore forms the prerequisite for the initiation of ﬂagellar synthesis by activation of ﬂagellar class 2 and 3 gene expression . 
+Regulation at the level of ﬂhDC operon transcription is thus the main target by which ﬂagellar synthesis is regulated . 
+In this study , we further characterized the ﬂhDC master operon regulation that is placed on top of the ﬂagellar gene expression cascade . 
+In addition to environmental ( external ) stimuli that control expression of ﬂhDC , an endogenous ( internal ) regulation mechanism that directly provides feedback of 
+FlhD4C2 protein levels exists . 
+An increase in ﬂhDC expression and the subsequent ﬂagellar synthesis requires a mechanism of counterbalance . 
+Such an effect was previously referred to as FlhD4C2 autorepression ( Fig. 6A ) , which our results show to be a regulatory feedback loop via RﬂM . 
+A previous study indicated an additional role of the RcsCDB system in the RﬂM-mediated repression of ﬂhDC ( 30 ) . 
+The response regulator RcsB has been shown to directly bind to the ﬂhDC promoter region ( 23 , 24 ) . 
+Accordingly , different scenarios of RﬂM-dependent repression of ﬂhDC can be envisioned , and follow-up experiments are currently in progress to test the role RcsB in this regulation network . 
+RﬂM could directly repress ﬂhDC , while RcsB takes over a supporting role ( Fig. 6B ) . 
+Alternatively , RcsB could directly repress ﬂhDC independently of RﬂM , and both proteins might compete for binding to the ﬂhDC promoter region ( Fig. 6C ) . 
+Finally , RﬂM could act as a corepressor of RcsB ( Fig. 6D ) . 
+The complexity and the hierarchical structure of the ﬂagellar system explain the frequency by which endogenous regulation mechanisms occur . 
+Feedback regulation in the ﬂagellar system targets multiple levels throughout biosynthesis of the ﬂagellum : ( i ) on the level of ﬂhDC gene expression via FlhD4C2-dependent activation of the LuxR-type repressor RﬂM , ( ii ) on the level of FlhDC protein complex via posttranscriptional repression ( FliT and YdiV ) and activation ( FliZ ) of FlhDC-dependent class 2 gene expression , and ( iii ) on the level of ﬂagellar class 3 gene expression by secretion of the anti- 28 factor FlgM after HBB completion and positive regulation of ﬂgM translation by FlgN ( 45 -- 47 ) . 
+In summary , the following scenario could be envisioned to couple the assembly process of the ﬂagellum to ﬂagellar gene expression . 
+70-dependent class 1 transcription of ﬂhDC leads to formation of the ﬂagellar master regulatory complex FlhD4C2 . 
+FlhD4C2 activates class 2 gene transcription , as well as that of its own repressor , rﬂM . 
+While class 2 products build up the HBB , FliZ activates FlhDC complex and RﬂM acts as a repressor of ﬂhDC transcription . 
+Upon completion of the HBB , the secretion speciﬁcity switch results in secretion of FlgM and FliD , and class 3 gene expression takes place . 
+Secretion of FliD upon HBB completion allows FliT to bind FlhDC complex and inhibit FlhD C activity . 
+Reduced activ-4 2 ity of FlhDC decreases expression of rﬂM and allows a new cycle of ﬂagellar gene expression and assembly starting with derepression of the ﬂhDC promoter . 
+FIG 6 Possible models of the regulatory ﬂhDC feedback loop . 
+Panel A shows the formerly described autoregulatory effect of ﬂhDC , where FlhD4C2 directly represses ﬂhDC operon transcription . 
+In contrast to this previous model , FlhD4C2 induces expression of rﬂM , and the RﬂM protein acts as a repressor of ﬂhDC transcription . 
+Repression of RﬂM might be direct but facilitated by RcsB ( B ) . 
+Alternatively , RﬂM might repress ﬂhDC independently of RcsB ( C ) or act as a corepressor of RcsB ( D ) . 
+ACKNOWLEDGMENTS
+This work was supported by grant FN-7626 , subsidy no. 31003A _ 132947/1 , from the Swiss National Science Foundation and grant no . 
+GM056141 from the National Institutes of Health to K.T.H. M.E. acknowledges funding from the Helmholtz Association under Helmholtz Young Investigator grant no . 
+VH-NG-932 and the People Programme ( Marie Curie Actions ) of the European Union 's Seventh Framework Programme ( FP7/2007 -2013 ) under REA grant agreement no. 300718 and 334030 . 
+H.M.S. gratefully acknowledges scholarship support from the Boehringer Ingelheim Fonds . 
+We thank Chakib Mouslim for useful discussions of the manuscript . 
+REFERENCES 
+1 . 
+Macnab RM . 
+1996 . 
+Flagella and motility , p 123 -- 145 . 
+In Neidhardt FC , Curtiss R , III , Ingraham JL , Lin ECC , Low KB , Magasanik B , Reznikoff WS , Riley M , Schaechter M , Umbarger HE ( ed ) , Escherichia coli and Sal-monella : cellular and molecular biology , 2nd ed , vol 1 . 
+American Society for Microbiology , Washington , DC . 
+2 . 
+Fontaine F , Stewart EJ , Lindner AB , Taddei F. 2008 . 
+Mutations in two global regulators lower individual mortality in Escherichia coli . 
+Mol . 
+Microbiol . 
+67:2 -- 14 . 
+3 . 
+Aldridge C , Poonchareon K , Saini S , Ewen T , Soloyva A , Rao CV , Imada K , Minamino T , Aldridge PD . 
+2010 . 
+The interaction dynamics of a negative feedback loop regulates ﬂagellar number in Salmonella enterica serovar Typhimurium . 
+Mol . 
+Microbiol . 
+78:1416 -- 1430 . 
+4 . 
+Soutourina OA , Bertin PN . 
+2003 . 
+Regulation cascade of ﬂagellar expression in Gram-negative bacteria . 
+FEMS Microbiol . 
+Rev. 27:505 -- 523 . 
+5 . 
+Yokota T , Gots JS . 
+1970 . 
+Requirement of adenosine 3 = ,5 = - cyclic phosphate for ﬂagella formation in Escherichia coli and Salmonella typhimu-rium . 
+J. Bacteriol . 
+103:513 -- 516 . 
+6 . 
+Zhao K , Liu M , Burgess RR . 
+2007 . 
+Adaptation in bacterial ﬂagellar and motility systems : from regulon members to ` foraging ' - like behavior in E. coli . 
+Nucleic Acids Res . 
+35:4441 -- 4452 . 
+7 . 
+Wada T , Morizane T , Abo T , Tominaga A , Inoue-Tanaka K , Kutsukake K. 2011 . 
+EAL domain protein YdiV acts as an anti-FlhD4C2 factor responsible for nutritional control of the ﬂagellar regulon in Salmonella enterica serovar Typhimurium . 
+J. Bacteriol . 
+193:1600 -- 1611 . 
+8 . 
+Wada T , Hatamoto Y , Kutsukake K. 2012 . 
+Functional and expressional analyses of the anti-FlhD4C2 factor gene ydiV in Escherichia coli . 
+Microbiology 158:1533 -- 1542 . 
+9 . 
+Prigent-Combaret C , Vidal O , Dorel C , Lejeune P. 1999 . 
+Abiotic surface sensing and bioﬁlm-dependent regulation of gene expression in Esche-richia coli . 
+J. Bacteriol . 
+181:5993 -- 6002 . 
+10 . 
+Beloin C , Ghigo JM . 
+2005 . 
+Finding gene-expression patterns in bacterial bioﬁlms . 
+Trends Microbiol . 
+13:16 -- 19 . 
+11 . 
+Eriksson S , Lucchini S , Thompson A , Rhen M , Hinton JC . 
+2003 . 
+Unravelling the biology of macrophage infection by gene expression pro-ﬁling of intracellular Salmonella enterica . 
+Mol . 
+Microbiol . 
+47:103 -- 118 . 
+12 . 
+Cummings LA , Wilkerson WD , Bergsbaken T , Cookson BT . 
+2006 . 
+In vivo , ﬂiC expression by Salmonella enterica serovar Typhimurium is heterogeneous , regulated by ClpX , and anatomically restricted . 
+Mol . 
+Microbiol . 
+61:795 -- 809 . 
+13 . 
+Kutsukake K. 1997 . 
+Autogenous and global control of the ﬂagellar master operon , ﬂhD , in Salmonella typhimurium . 
+Mol . 
+Gen. Genet . 
+254:440 -- 448 . 
+14 . 
+Komeda Y , Suzuki H , Ishidsu JI , Iino T. 1976 . 
+The role of cAMP in ﬂagellation of Salmonella typhimurium . 
+Mol . 
+Gen. Genet . 
+142:289 -- 298 . 
+15 . 
+Soutourina O , Kolb A , Krin E , Laurent-Winter C , Rimsky S , Danchin A , Bertin P. 1999 . 
+Multiple control of ﬂagellum biosynthesis in Esche-richia coli : role of H-NS protein and the cyclic AMP-catabolite activator protein complex in transcription of the ﬂhDC master operon . 
+J. Bacteriol . 
+181:7500 -- 7508 . 
+16 . 
+Campoy S , Jara M , Busquets N , de Rozas AM , Badiola I , Barbe J. 2002 . 
+Intracellular cyclic AMP concentration is decreased in Salmonella typhi-murium fur mutants . 
+Microbiology 148:1039 -- 1048 . 
+17 . 
+Kelly A , Goldberg MD , Carroll RK , Danino V , Hinton JC , Dorman CJ . 
+2004 . 
+A global role for Fis in the transcriptional control of metabolism and type III secretion in Salmonella enterica serovar Typhimurium . 
+Microbiology 150:2037 -- 2053 . 
+18 . 
+Stojiljkovic I , Baumler AJ , Hantke K. 1994 . 
+Fur regulon in gram-negative bacteria . 
+Identiﬁcation and characterization of new iron-regulated Esche-richia coli genes by a Fur titration assay . 
+J. Mol . 
+Biol . 
+236:531 -- 545 . 
+19 . 
+Erhardt M , Hughes KT . 
+2010 . 
+C-ring requirement in ﬂagellar type III secretion is bypassed by FlhDC upregulation . 
+Mol . 
+Microbiol . 
+75:376 -- 393 . 
+20 . 
+Libby SJ , Goebel W , Ludwig A , Buchmeier N , Bowe F , Fang FC , Guiney DG , Songer JG , Heffron F. 1994 . 
+A cytolysin encoded by Salmonella is required for survival within macrophages . 
+Proc . 
+Natl. Acad . 
+Sci . 
+U. S. A. 91:489 -- 493 . 
+21 . 
+Ellermeier CD , Slauch JM . 
+2003 . 
+RtsA and RtsB coordinately regulate expression of the invasion and ﬂagellar genes in Salmonella enterica sero-var Typhimurium . 
+J. Bacteriol . 
+185:5096 -- 5108 . 
+22 . 
+Lehnen D , Blumer C , Polen T , Wackwitz B , Wendisch VF , Unden G. 2002 . 
+LrhA as a new transcriptional key regulator of ﬂagella , motility and chemotaxis genes in Escherichia coli . 
+Mol . 
+Microbiol . 
+45:521 -- 532 . 
+23 . 
+Wang Q , Zhao Y , McClelland M , Harshey RM . 
+2007 . 
+The RcsCDB signaling system and swarming motility in Salmonella enterica serovar typhimurium : dual regulation of ﬂagellar and SPI-2 virulence genes . 
+J. Bacteriol . 
+189:8447 -- 8457 . 
+24 . 
+Francez-Charlot A , Laugel B , Van Gemert A , Dubarry N , Wiorowski F , Castanie-Cornet MP , Gutierrez C , Cam K. 2003 . 
+RcsCDB His-Asp phosphorelay system negatively regulates the ﬂhDC operon in Escherichia coli . 
+Mol . 
+Microbiol . 
+49:823 -- 832 . 
+25 . 
+Saini S , Koirala S , Floess E , Mears PJ , Chemla YR , Golding I , Aldridge C , Aldridge PD , Rao CV . 
+2010 . 
+FliZ induces a kinetic switch in ﬂagellar gene expression . 
+J. Bacteriol . 
+192:6477 -- 6481 . 
+26 . 
+Saini S , Brown JD , Aldridge PD , Rao CV . 
+2008 . 
+FliZ is a posttranslational activator of FlhD4C2-dependent ﬂagellar gene expression . 
+J. Bacteriol . 
+190:4979 -- 4988 . 
+27 . 
+Wada T , Tanabe Y , Kutsukake K. 2011 . 
+FliZ acts as a repressor of the ydiV gene , which encodes an anti-FlhD4C2 factor of the ﬂagellar regulon in Salmonella enterica serovar typhimurium . 
+J. Bacteriol . 
+193 : 5191 -- 5198 . 
+28 . 
+Takaya A , Erhardt M , Karata K , Winterberg K , Yamamoto T , Hughes KT . 
+2012 . 
+YdiV : a dual function protein that targets FlhDC for ClpXP-dependent degradation by promoting release of DNA-bound FlhDC complex . 
+Mol . 
+Microbiol . 
+83:1268 -- 1284 . 
+29 . 
+Bishop RE , Leskiw BK , Hodges RS , Kay CM , Weiner JH . 
+1998 . 
+The entericidin locus of Escherichia coli and its implications for programmed bacterial cell death . 
+J. Mol . 
+Biol . 
+280:583 -- 596 . 
+30 . 
+Wozniak C , Lee C , Hughes K. 2009 . 
+T-POP array identiﬁes EcnR and PefI-SrgD as novel regulators of ﬂagellar gene expression . 
+J. Bacteriol . 
+191:1498 -- 1508 . 
+31 . 
+Sanderson KE , Roth JR. 1983 . 
+Linkage map of Salmonella typhimurium , edition VI . 
+Microbiol . 
+Rev. 47:410 -- 453 . 
+32 . 
+Saini S , Ellermeier JR , Slauch JM , Rao CV . 
+2010 . 
+The role of coupled positive feedback in the expression of the SPI1 type three secretion system in Salmonella . 
+PLoS Pathog . 
+6 : e1001025 . 
+doi :10.1371 / journal.ppat .1001025 . 
+33 . 
+Bajaj V , Lucas RL , Hwang C , Lee CA. 1996 . 
+Co-ordinate regulation of Salmonella typhimurium invasion genes by environmental and regulatory factors is mediated by control of hilA expression . 
+Mol . 
+Microbiol . 
+22:703 -- 714 . 
+34 . 
+Aldridge PD , Karlinsey JE , Aldridge C , Birchall C , Thompson D , Yagasaki J , Hughes KT . 
+2006 . 
+The ﬂagellar-speciﬁc transcription factor , 28 , is the type III secretion chaperone for the ﬂagellar-speciﬁc anti- 28 factor FlgM . 
+Genes Dev . 
+20:2315 -- 2326 . 
+35 . 
+Bender J , Kleckner N. 1992 . 
+IS10 transposase mutations that speciﬁcally alter target site recognition . 
+EMBO J. 11:741 -- 750 . 
+36 . 
+Zhang X , Bremer H. 1995 . 
+Control of the Escherichia coli rrnB P1 promoter strength by ppGpp . 
+J. Biol . 
+Chem . 
+270:11181 -- 11189 . 
+37 . 
+Miller J. 1972 . 
+Assay of beta-galactosidase , p 352 -- 355 . 
+In Experiments in molecular genetics . . 
+Cold Spring Harbor Laboratory , Cold Spring Harbor , NY . 
+38 . 
+Pfafﬂ MW . 
+2001 . 
+A new mathematical model for relative quantiﬁcation in real-time RT-PCR . 
+Nucleic Acids Res . 
+29 : e45 . 
+doi :10.1093 / nar/29 .9 . 
+e45 . 
+39 . 
+Gillen KL , Hughes KT . 
+1991 . 
+Molecular characterization of ﬂgM , a gene 
+encoding a negative regulator of ﬂagellin synthesis in Salmonella typhimu-rium . 
+J. Bacteriol . 
+173:6453 -- 6459 . 
+40 . 
+Rappleye CA , Roth JR. 1997 . 
+A Tn10 derivative ( T-POP ) for isolation of insertions with conditional ( tetracycline-dependent ) phenotypes . 
+J. Bacteriol . 
+179:5827 -- 5834 . 
+41 . 
+Shuman HA , Silhavy TJ . 
+2003 . 
+The art and design of genetic screens : Escherichia coli . 
+Nat . 
+Rev. Genet . 
+4:419 -- 431 . 
+42 . 
+Liu X , Matsumura P. 1994 . 
+The FlhD/FlhC complex , a transcriptional activator of the Escherichia coli ﬂagellar class II operons . 
+J. Bacteriol . 
+176:7345 -- 7351 . 
+43 . 
+Wang S , Fleming RT , Westbrook EM , Matsumura P , McKay DB . 
+2006 . 
+Structure of the Escherichia coli FlhDC complex , a prokaryotic hetero-meric regulator of transcription . 
+J. Mol . 
+Biol . 
+355:798 -- 808 . 
+44 . 
+Liu X , Fujita N , Ishihama A , Matsumura P. 1995 . 
+The C-terminal region of the subunit of Escherichia coli RNA polymerase is required for transcriptional activation of the ﬂagellar level II operons by the FlhD/FlhC complex . 
+J. Bacteriol . 
+177:5186 -- 5188 . 
+45 . 
+Fraser GM , Bennett JC , Hughes C. 1999 . 
+Substrate-speciﬁc binding of hook-associated proteins by FlgN and FliT , putative chaperones for ﬂa-gellum assembly . 
+Mol . 
+Microbiol . 
+32:569 -- 580 . 
+46 . 
+Karlinsey JE , Lonner J , Brown KL , Hughes KT . 
+2000 . 
+Translation / secretion coupling by type III secretion systems . 
+Cell 102:487 -- 497 . 
+47 . 
+Aldridge P , Karlinsey J , Hughes KT . 
+2003 . 
+The type III secretion chaperone FlgN regulates ﬂagellar assembly via a negative feedback loop containing its chaperone substrates FlgK and FlgL . 
+Mol . 
+Microbiol . 
+49:1333 -- 1345 .

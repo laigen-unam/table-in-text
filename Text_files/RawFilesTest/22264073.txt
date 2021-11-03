@@ -1,0 +1,505 @@
+Downloaded via UNIV NACIONAL AUTONOMA MEXICO on October 19 , 2018 at 18:13:42 ( UTC ) . 
+See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles 
+Article 
+pubs.acs.org/jpr 
+Proteomic Pleiotropy of OpgGH, an Operon Necessary for Efficient Growth of Salmonella enterica serovar Typhimurium under Low-
+Osmotic Conditions Bret Cooper , † , * Ruiqiang Chen , ‡ Wesley M. Garrett , § Charles Murphy , † Caren Chang , ‡ Mark L. Tucker , † and Arvind A. Bhagwat * , ∥ † Soybean Genomics and Improvement Laboratory , § Animal Biosciences and Biotechnology Laboratory , and ∥ Environmental Microbial and Food Safety Laboratory , USDA-ARS , Beltsville , Maryland 20705 , United States ‡ Department of Cell Biology and Molecular Genetics , University of Maryland , College Park , Maryland 20742 , United States 
+* 
+S Supporting Information
+ABSTRACT : Salmonella enterica , a bacterial , food-borne pathogen of humans , can contaminate raw fruits and vegetables . 
+Unfortunately for consumers , the bacteria can 
+survive in water used to wash away contaminating bacteria . 
+The ability to survive the low-osmotic conditions of the wash water is attributed to the OpgGH operon that leads to the production of osmotically regulated periplasmic glucans . 
+Mutants lacking OpgGH grow slowly under low-osmotic conditions , but there are also unexpected traits such as abnormal flagellar motility and reduced virulence in mice . 
+To get a broader understanding of these pleiotropic effects under low osmolarity , we examined the proteome of these mutants using high-throughput mass spectrometry . 
+We identified approximately one-third of the proteins encoded by the genome and used label-free spectral counting to determine the relative amounts of proteins in wild-type cultures and mutants . 
+Mutants had reduced amounts of proteins required for osmotic sensing , flagellar motility , purine and pyrimidine metabolism , oxidative energy production , and protein translation . 
+By contrast , mutants had greater amounts of ABC transporters needed to balance cellular osmolarity . 
+Hence , the effects of OpgGH reach across the proteome , and the data are consistent with the mutant phenotypes . 
+KEYWORDS : MudPIT , spectral counting , osmolarity , periplasm , glucans 
+■ INTRODUCTION
+Persistent Salmonella enterica infection in humans causes gastroenteritis , leading to severe abdominal pain , diarrhea , and in some cases death . 
+S. enterica naturally exists in feces of domestic and wild animals and can contaminate human food supplies through unsanitary food processing and handling practices .1 Irradiation and normal heating and cooking of eggs and meat usually destroy small amounts of contaminating bacteria . 
+Nevertheless , not all foods are cooked ; some are merely washed prior to consumption . 
+Raw fresh fruits and vegetables could become potentially dangerous to eat when contaminated with crop irrigation or wash water sourced downstream of effluent waste from meat processing plants , unhygienic farm workers , or natural fauna fecal deposits .2,3 The consumption of fresh , raw produce , considered part of a healthy diet , is now ironically associated with the hazard of S. enterica infection .4 In 2010 , bagged lettuce was recalled from 26 states in the United States when S. enterica was found by the Food and Drug Administration in routine testing . 
+There was no reported illness , but the concerns were great , especially because we now know that pathogenic S. enterica can survive and reproduce in the low-nutrient , low-osmotic residual water of produce washed prior to packaging or sale .5 − 7 This trait is conferred by anionic short glucose chains known as osmotically regulated periplasmic glucans ( OPGs ) that reside at the periplasmic space and temper bacterial swelling and cell membrane rupture normally caused by low-osmotic conditions .8 The production of OPGs in S. enterica is controlled in part by the bicistronic operon OpgGH encoding the periplasmic glucan biosynthesis protein , OpgG , and the transmembrane glycosyltransferase protein , OpgH .9 Under low-osmotic environmental conditions , OpgGH is transcribed and translated , and OPGs are produced .9 By contrast , S. enterica with a null mutation of OpgGH does not produce any OPGs and grows slower under low-osmotic 9 conditions . 
+These observations prove the importance of OpgGH for survival under these conditions . 
+Interestingly , there are other , unexpected effects of the null mutation , namely , reduced virulence in mice , altered biofilm formation , and reduced flagellar motility .5,9 Surprisingly , neither the altered biofilm formation nor tempered motility explains reduced 9,10 virulence in mice . 
+Hence , the pleiotropic reach of OpgGH is more substantial than we presume . 
+Received : September 14 , 2011 Published : January 23 , 2012 
+1720 
+© 2012 American Chemical Society 
+dx.doi.org/10.1021/pr200933d | J. Proteome Res . 
+2012 , 11 , 1720 − 1727 
+Researchers have successfully used mass spectrometry to identify S. enterica proteins that function for virulence11 and to monitor proteins under growth conditions of low pH/low Mg2 +,12,13 thymol and hydrogen peroxide exposure ,14,15 cell envelope stress ,16 and high osmolarity .17 These studies ( and others ) do not sufficiently describe S. enterica proteomic responses to low-nutrient , low-osmotic conditions , nor do they consider responses in absence of OpgG and OpgH proteins . 
+Consequently , we have used high-throughput mass spectrometry to identify approximately a third of the proteins in S. enterica grown in a low-nutrient , low-osmotic medium . 
+We have also performed a comparative analysis of the amounts of those proteins found between a wild-type strain and a corresponding opgGH null mutant under low osmotic growth conditions . 
+The mutant had significantly decreased amounts of proteins and enzymes consistent with the genotype and the expected phenotypes . 
+There were also decreased amounts of proteins involved in osmotic sensing and proteins crucial for the main metabolic pathways required for energy production , purine and pyrimidine synthesis , and protein translation , among others . 
+The results reveal that OpgGH has pleiotropic effects on the proteome of S. enterica , effects that likely enable efficient survival under low-nutrient , low-osmotic growth conditions . 
+Table 1 . 
+Metrics for Three Replicate Experiments for S. enterica Strain SL1344 ( C ) and Mutant opgGH ( M ) Grown in LNNS Medium 
+■ EXPERIMENTAL PROCEDURES Bacterial Cultures 
+S. enterica subsp . 
+enterica serovar Typhimurium strain SLGH is a null mutant ( opgGH ; M data set ) with a chloramphenicol gene replacing the bicistronic operon OpgGH .10 The mutant does not produce OpgG ( gi | 16764506 ) and OpgH ( gi | 16764507 ) proteins and has other phenotypic traits specific to growth in low osmotic conditions .10 The mutation was successfully complemented by plasmid expression of OpgGH , and the associated traits disappeared .9 This proved that the phenotypes were a result of the opgGH mutation . 
+For simplicity , S. enterica subsp . 
+enterica serovar Typhimurium strain SL1344 ( parent strain of SLGH ) is used here as the wildtype control ( C data set ) . 
+Luria − Bertani ( LB ) broth is a standard laboratory medium with osmolarity of ∼ 400 mosmol L − 1 , while low-nutrient , no-salt ( LNNS ) broth is a model medium for low osmotic studies with osmolarity of ∼ 35 mosmol L − 1.5,9 In prior studies with another food-borne bacterial pathogen , E. coli O157 : H7 , Bhagwat found that when cells were diluted 400-fold or more from expression-permitting to expression-repressive medium , glutamate decarboxylase , the conditional marker enzyme , could not be detected by Western blot in log-phase cells .18 This implies that the dilution and consecutive generations were sufficient to rebalance the proteome under the new growth conditions . 
+With these studies in mind , wild-type and mutant cells were grown to a stationary phase in LB for 18 h at 37 °C and diluted 10,000-fold in LNNS medium pH 6.8 . 
+Cultures were grown to mid-log phase ( A600 ∼ 0.18 − 0.20 ) , approximately 10 or 11 generations ( Table 1 ) , and harvested for analysis .5 Cell numbers were confirmed by viable cell counting ( Table 1 ) . 
+Three independent cultures were grown for each strain , and each was used as an independent biological replicate ( C1 , C2 , C3 , and M4 , M5 , M6 ) . 
+Protein Preparation Bacterial cells were disrupted by treatment with dilute chloroform and incubation on ice , followed by isolation of the supernatant after centrifugation at 6,000 × g for 20 min .19 
+S. enterica optical density ( 600 viable cell total protein isolated samples nm ) a counts ( mg ) C1 0.124 5.92 × 107 1,051 C2 0.117 3.30 × 107 1,122 C3 0.120 3.48 × 107 1,111 M4 0.123 5.12 × 107 1,122 M5 0.126 8.40 × 107 1,062 M6 0.116 4.28 × 107 1,155 a S. enterica cultures C1 − C3 took 401 ± 22 min to reach mid-log phase ( OD ∼ 0.12 ) , whereas M4 − M6 took 498 ± 26 min . 
+The supernatant was frozen in liquid nitrogen and lyophilized . 
+Protein was then dissolved in 8 M urea/100 mM Tris-HCl , pH 8.0 , and 0.2 % dodecyl-β-maltoside ( Sigma-Aldrich ) . 
+Proteins were precipitated in 25 % trichloroacetic acid , washed in acetone , and resolubilized in 8 M urea/100 mM Tris-HCl , pH 8.0 . 
+Protein concentrations were estimated by bicinchoninic assay ( Pierce , Rockford , IL ) . 
+About 500 μg of protein from each sample was reduced in DTT , carboxyamidomethylated , and digested with Porozyme immobilized trypsin at 37 °C 20 overnight ( Applied Biosystems , Foster City , CA ) . 
+The digested samples were desalted using solid-phase extraction with SPEC-PLUS PT C18 columns ( Varian , Lake Forest , CA ) . 
+MudPIT 
+The peptide fractions were analyzed by liquid chromatography − tandem mass spectrometry , also known as MudPIT , 21 using our previously optimized methods . 
+The peptides were loaded off-line and then separated online on homemade biphasic columns prepared from 365 μm o.d. × 75 μm i.d. fused silica with a 5-μm tip and packed with 9 cm of reverse phase C18 resin ( Aqua , 5 μm , Phenomenex , Torrance , CA ) followed by 4 cm of strong cation exchange resin ( Luna , 5 μm , Phenomenex ) . 
+A 12-step elution procedure consisting of stepwise increasing concentrations of salt solution followed 20 by increasing gradients of organic mobile phase was used . 
+Solvent flow was 200 nL/min and was controlled with an Accela HPLC pump ( Thermo Fisher Scientific , Waltham , MA ) 20 and a T-split junction where 2,100 V electricity was applied . 
+The eluent was electrosprayed directly into the orifice of an LTQ-Orbitrap XL mass spectrometer ( Thermo Fisher Scientific ) controlled by Xcalibur 2.0.7 software ( Thermo Fisher Scientific ) . 
+A parent-ion scan was performed in the Orbitrap over the range of 400 − 1600 m/z at 30,000 resolution , with 500,000 automatic gain control ( AGC ) , 500 ms ion injection time , and 1 μscan . 
+Lock-mass was enabled . 
+Data-dependent MS2 was performed in the linear ion trap with 10,000 AGC and 100 ms ion injection times with 1 μscan . 
+MS2 was performed on the 10 most intense MS ions , with minimum signals of 1,000 . 
+MS2 spectra were obtained using an isolation width of 2 m/z and normalized collision energy of 35 % . 
+Dynamic exclusion was used with repeat count of 2 , 30 s repeat duration , a list of 500 , list duration of 2 min , and exclusion mass width of ± 0.7 Da . 
+Mascot Searching MS2 spectrum data files were separately extracted from the raw data with Bioworks 3.3.1 ( Thermo Fisher Scientific ) using parameters set to 600 − 4,500 mass range , 0 group scan , 1 minimum group count , and 5 minimum ion counts . 
+The MS2 spectra collected from all 3 replicates for each treatment were pooled ( designated C123 and M456 ) to reduce random sampling effects associated with MudPIT and to increase the statistical confidence associated with reproducible detection of proteins .21,22 Sets of MS2 spectra were searched with Mascot 2.3.02.23 Search parameters were set to tryptic digest , 1 possible missed cleavage , fixed amino acid modification [ +57 , C ] , variable amino acid modification [ +18 , M ] , monoisotopic mass values , ± 10 ppm parent ion mass tolerance , ± 0.8 Da fragment ion mass tolerance , and # 13C = 1 enabled . 
+The searched database consisted of protein sequences for S. enterica subsp . 
+enterica serovar Typhimurium strain LT2 ( 4,423 records , ftp : / / ftp.ncbi.nih.gov / genomes/Bacteria/Salmonella _ enterica _ serovar_Typhimurium_LT2 ) + strain LT2 plasmid pSLT ( 102 records ) + strain SL1344 plasmids SLP1 , SLP2 , SLP3 ( 217 records ) + 172 common contaminants . 
+Appended to these target sequences were 23,690 decoy sequences designed by running the PTTRNFNDR program 5 times against the S. enterica serovar Typhimurium strain LT2 protein records .24 The decoy sequences were added to increase the number of records in the database . 
+The overall effect of this raised the average Mascot Identity score , a value dependent on the 25 number of peptide candidates from the searched database , from 15.2 ( without decoys ) to 22.7 ( with decoys ) . 
+Raising the Identity score assured that peptides were identified by higher-25 quality peptide-spectrum matches . 
+Protein Identification Mascot output was processed by a modified , 64-bit version of PANORAMICS2 , a probability-based program that determines the likelihood that peptides are correctly assigned to proteins .21,26,27 PANORAMICS2 first considers all peptide matches made by Mascot and calculates the probability that these matches are correct . 
+Analysis was limited to peptides having Mascot Ions score-Identity score differences not less than negative 5 . 
+PANORAMICS2 considers the probabilities for both distinct peptides and shared peptides in a coherent manner and distributes the probabilities of shared peptides among all related proteins . 
+The Mascot Ions score , the database size , and the length and charge state of each peptide sequence are part of the probability model . 
+The reported protein probability indicates that a parsimonious protein group was correctly identified by the matched peptides . 
+A protein group can consist of one or more proteins identified by the same set of peptides . 
+Protein groups were ultimately treated as single proteins with one record being arbitrarily chosen as the representative of the group . 
+The probability that a protein identification was not correct ( false-positive rate ) is 1 minus the calculated protein probability .26,27 Peptide sequence matches , Mascot scores , protein group probabilities , and other relevant data are provided ( Supp . 
+Data 1 . 
+xls ; Supp . 
+Data 2 . 
+xls in Supporting Information ) . 
+The positions of amino acid modifications are indicated by the variable modification string ( 0 = no modification , 1 = oxidized methionine ) . 
+Relative Quantification of Proteins Because of random sampling effects associated with MudPIT ,21,22 it was difficult to determine if the absence of any protein/peptide was a result of a specific treatment or a byproduct of the chance of not detecting it . 
+Therefore , quantitative analysis was limited to proteins common to C123 and M456 data sets . 
+The exception to this rule was for proteins OpgG and OpgH since it was known experimentally that these proteins could exist in the C data sets but could not exist in the M data sets as a result of the null mutation . 
+Proteins with a probability greater than or equal to 0.99 and comprising at least 1 peptide with at least 1 spectral count were compared , except for OpgG , which was not in the M456 data set but was artificially added and given 0.1 spectral count in order to include this marker protein in the statistical comparison . 
+There were 1,025 proteins in both the C123 and M456 data sets that met these requirements ( `` C123vM456 '' tab in Supp . 
+Data 3 . 
+xls ) . 
+Four of the proteins were false matches to decoys and were removed from the data set . 
+A count of 1 was assigned to each peptide for each top-ranked matched spectrum that received an Ion score that produced a positive peptide probability in PANORAMICS2 , which required the Mascot Ions score-Identity score difference to be not less than negative 10 . 
+Note that the Ions-Identity score differential for counting ( not less than − 10 ) is less stringent than that for identification ( not less than − 5 ) because the counting of lower-scoring spectra for higher-confidence peptides improves the accuracy of measuring different amounts of proteins between samples .21,28 The total count for a distinct peptide was based on the total number of spectra satisfying the preceding criteria , but the total count for a shared peptide was divided by the number of protein groups with which it was shared .21 The numbers of spectra contributing to the identification of all shared and distinct peptides assigned to any one protein were summed . 
+A G-test was used to assess the statistical differences of the protein spectral counts per treatment ,29 with the hypothesis being that the spectral count of any protein A was equal across C and M data sets . 
+The advantage of the G-test is that it can statistically compare pooled data sets .21,29 Normalization values were the total sum of spectral counts for all considered proteins in each pooled set of data . 
+A corresponding p-value was 2 calculated from χ distribution with 1 degree of freedom ( `` C123vM456 '' tab in Supp . 
+Data 3 . 
+xls ) . 
+QVALUE software was used to estimate q-values ( i.e. , FDR ; q = 0.01 ) from G-test 30 p-values ( `` C123vM456 '' tab in Supp . 
+Data 3 . 
+xls ) . 
+There were 517 proteins with significantly different spectral counts between the C123 and M456 data sets ( `` C123vM456 '' tab in Supp . 
+Data 3 . 
+xls ) . 
+Fold change differences are given as Log2 values . 
+Proteins with increased accumulation in M456 are in yellow , and proteins with decreased accumulation are in blue ( `` C123vM456 '' tab in Supp . 
+Data 3 . 
+xls ) . 
+Proteins without significant changes are listed in brown ( `` C123vM456 '' tab in Supp . 
+Data 3 . 
+xls ) . 
+KEGG Pathway Analysis The 1,021 proteins in both C123 and M456 data sets were mapped to 855 KEGG identifiers ( http://www.genome.jp/ kaas-bin/kaas _ main ) for S. enterica subsp . 
+enterica serovar Typhimurium LT2 ( keyword `` stm '' ) . 
+The identifiers were subsequently mapped to positions in KEGG biological pathways ( http://www.genome.jp/kegg/tool/map_pathway2 . 
+html ) . 
+The online program did not place all identifiers in established maps , likely due to an incomplete categorization for all S. enterica proteins . 
+A key to the identifiers and the proteins is provided ( `` C123vM456 '' tab in Supp . 
+Data 3 . 
+xls ) . 
+Transmission Electron Microscopy Bacteria grown in LB or LNNS media were fixed with equal amounts ( v/v ) of 2.5 % glutaraldehyde and placed on Formvar coated Ni grids for 5 min . 
+After wicking excess fluid from the grid , bacteria were stained with 2 % uranyl acetate for 2 min . 
+The grids were examined with a Hitachi HT-7700 transmission electron microscope coupled to a bottom-mounted Advanced Microscopy Techniques XR-41C digital camera . 
+■ RESULTS
+Our goal was to evaluate the proteomic differences between wild-type control S. enterica strain SL1344 ( C data set ) and a null mutant opgGH ( M data set ) each grown in LNNS , a low-nutrient , low-osmotic medium . 
+Prior results revealed that in LB medium ( standard osmolarity ) and other stressful growth conditions with standard osmolarity there is no distinguishable phenotypic difference between opgGH mutants and wild-type cells after 24 h growth .9 In LB and other media with similar osmolarity , wild-type and mutant cells do not produce detectable amounts of OPGs , their capacity for biofilm formation is the same , and their growth and motility rates are 5,9 equivalent . 
+Transmission electron microscopy revealed that both cells types grown in LB have similar numbers of flagella ( Figure 1 caption ) . 
+Because these cells are phenotypically indistinguishable in LB , we assume that their proteomes are indistinguishable in LB . 
+We have not , however , examined the proteomes of the mutant in LB in any further detail using mass spectrometry because all data points to the expression of OpgGH under low-osmotic conditions as the genetic determinant that defines the survivability of S. enterica in low-osmolarity vegetable wash waters , our problem of interest . 
+For example , in low-osmotic LNNS medium , mutants do not produce OPGs , grow slowly , and have reduced flagellar motility .9 They also have fewer flagella ( Figure 1 ) . 
+Meanwhile , in LNNS medium , wild-type cells produce OPGs and maintain their motility and flagella ( Figure 1 ) .9 Therefore , the rational comparison that suits our experimentation is between the mutant and the wild-type cells grown multiple generations in LNNS medium . 
+We expected this comparison to define the proteomic effects of OpgGH under low-osmotic conditions . 
+Because opgGH mutants grow more slowly than the wildtype controls in LNNS , we ensured that similar numbers of viable cells of each were evaluated , first by collecting cultures that reached similar optical densities and then by measuring the number of viable cells in each culture ( Table 1 ) . 
+Three separate cultures were grown for each strain . 
+Similar amounts of proteins were acquired from the control and mutant cells for each biological replicate ( Table 1 ) . 
+We used MudPIT to identify proteins in the different cells and measured relative abundance changes using spectral counting .21 Spectral counts , the numbers of spectra matched to peptides , positively and linearly correlate with the amounts of proteins and peptides in samples , and spectral count differences for proteins with varied abundance can be distinguished statistically .21,29,31 − 33 We pooled the spectra from replicate runs to reduce random sampling effects associated with MudPIT and increase the statistical confidence associated with reproducible detection of proteins .21,29 In other words , pooling has a favorable effect on relative quantitation by spectral counting . 
+To demonstrate that the MudPIT runs were comparable and suitable for pooling , we evaluated a number of mass spectrometry and proteomics metrics using PANORAMICS2 , Preview , and NISTMSQC .21,34,35 PANORAMICS2 revealed that similar numbers of total tandem mass spectra were identified between replicates and that consistent numbers of proteins were identified between them ( Table 2 ) . 
+On average , approximately 300 fewer proteins were identified in the opgGH mutants than in the controls . 
+This amount of variance is statistically normal for complex , replicate samples .21 Nevertheless , the difference between numbers of proteins in these samples may also indicate an effect of the opgGH mutation . 
+Instrument error and sample irregularities caused by nonspecific or incomplete digestion and unpredicted chemical modifications can also make it difficult to compare independent MudPIT runs .34 − 36 Using Preview , we determined that peptide precursor and fragment m/z errors , the trypsin missed-cleavage rate , and percentages of peptides with carbamidomethylation artifacts , oxidized methionine , chemical carbamylation , and post-translational methylation were similar between samples ( Table 2 ) . 
+Likewise , but using NISTMSQC , we found that the percentage of spectral counts for semitryptic peptides was low and approximately equal between runs ( Table 2 ) . 
+Given the consistency of the metrics , we concluded that the replicate runs were sufficiently similar to each other to allow pooling of spectra . 
+Spectral counting data were normalized in the statistical analyses . 
+Across the board ( C and M data sets together ) , we identified 1,629 proteins at a 95 % or better confidence level . 
+This is approximately one-third of the encoded S. enterica genome . 
+There were 432 proteins that were unique to the C data set ( `` UniqueC123 '' tab in Supp . 
+Data 3 . 
+xls ) , but there were fewer proteins , just 56 , unique to the M data set ( `` UniqueM456 '' tab in Supp . 
+Data 3 . 
+xls ) . 
+Thus , the proteins in the M data set are mostly a subset of the proteins in the C data set . 
+This is partly explained by the prior observation that we detected fewer overall proteins in the opgGH mutant ( Table 2 ) . 
+When calculating the relative abundance changes in proteins in the mutant compared to control S. enterica , we limited our spectral counting to a subset of 1,021 proteins with probabilities ≥ 99 % in both C and M data sets . 
+We distinguished 517 proteins with statistically different spectral counts [ 1.0 % false discovery rate ( FDR ) ; `` C123vM456 '' tab in Supp . 
+Data 3 . 
+xls ] . 
+On the basis of spectral count comparisons , there were 188 proteins with increased accumulation in the opgGH mutant and 329 proteins with decreased accumulation . 
+To validate our findings , we sought to identify proteins with accumulation levels that corroborated the mutant genotype and phenotype . 
+As expected , OpgG was identified in control samples but not the opgGH mutant . 
+OpgH was not identified in controls ( or the mutant ) . 
+OpgH localizes to the plasma membrane , while OpgG likely interacts but resides in the periplasmic space .8 Therefore , it is possible that OpgH was not detected because plasma membrane proteins are sometimes difficult to identify unless specifically targeted ; 37 they were not specifically targeted in this case . 
+Nevertheless , because OpgG was found in the control but not the mutant , the proteomics results are consistent with the expected genotypes and phenotypes for OpgG production in LNNS . 
+The next set of proteins we sought were flagellar proteins because opgGH mutants have reduced flagellar motility in LNNS .9,10 In the opgGH mutant , there were reduced amounts of FliC and FlgD , protein components of the flagellar hook and filament . 
+Interestingly , there were additional flagellar proteins , FlgE , FlgF , FlgI , FlgL , FlgK , FlhD , FliD , FliA , and FliN , and chemotaxis proteins , CheA , CheY , CheZ , CheW , and STM2314 ( CheW-like protein ) , found in controls but not the mutant ( `` UniqueC123 '' tab in Supp . 
+Data 3 . 
+xls ) . 
+While it is possible that these proteins were not found in the mutant because of random sampling effects associated with MudPIT ,21,22 it is more plausible that their reduced amounts in the opgGH mutant prevented them from being easily observed . 
+Reduced amounts of flagellar proteins and chemotaxis proteins are consistent with prior observations that the mutants have impaired motility in LNNS .9 We confirmed by microscopy that mutants grown in LNNS had significantly fewer flagella than wild-type cells grown in LNNS or wild-type and mutants grown in LB ( Figure 1 ) . 
+Hence , the reduced spectral counts for flagella proteins are consistent with the observed phenotype . 
+Proteins with Decreased Abundance in the opgGH Mutant 
+Figure 1 . 
+S. enterica grown in LNNS medium . 
+( A ) Wild-type ; n = 45 ; 100 % of the cells were flagellated , with 3.18 ± 1.52 flagella per cell . 
+( B ) opgGH mutant ; n = 63 ; 17 % of the cells were flagellated , with 0.21 ± 0.48 flagella per cell ( among those that were flagellated , there were 1.18 ± 0.4 flagella per cell ) . 
+The difference in numbers of flagella is statistically significant ( Mann − Whitney Rank Sum Test , p < 0.001 ) . 
+By contrast , when cells are grown in LB medium ( not shown in the figure ) , 97 % of wild-type cells ( n = 60 ) have 4.90 ± 2.16 flagella per cell and 100 % of mutant cells ( n = 48 ) have 4.46 ± 2.10 flagella per cell ; these differences in flagella for cells grown in LB are not statistically significant . 
+The bar is 2 μm . 
+Table 2 . 
+Metrics for Mass Spectrometry and Proteomics Analyses of S. enterica Strain SL1344 ( C ) and Mutant opgGH ( M ) Grown in LNNS Medium 
+total S. enterica median pre - median frag - % missed % spectra of 
+S. enterica spectra proteins cursor m/z ment m/z tryptic semitryptic % carbamidomethyla - % oxidized % carbamyla - % methyla-samples collecteda ( P > 95 % ) b error ( ppm ) c error ( Da ) c cleavagesc peptidesd tion artifactsc methioninec tionc tionc 
+C1 238,124 1,533 − 0.9 − 0.054 4.6 12.6 10.5 C2 237,991 1,422 − 0.9 − 0.056 0.7 17.0 9.5 C3 253,663 1,247 − 0.5 − 0.034 7.2 16.9 3.6 C123 ( pre - 729,778 1,743 NA NA NA NA NA vious spectra combined ) M4 227,827 M5 246,565 M6 241,696 M456 ( pre - 716,088 vious spectra combined ) a Measured with Bioworks . 
+bMeasured with PANORAMICS2 ( proteins with probability > 95 % ) . 
+cM NISTMSQC ; NA , not applicable . 
+1.8 2.2 1.5 NA 
+6.2 7.6 6.9 11.9 0 9.4 NA NA 
+2.6 
+1,013 1,198 978 1,276 
+− 0.019 − 0.034 0.012 NA 
+− 0.3 − 1.3 − 0.1 NA 
+21.1 20.7 13.6 NA 
+0 
+0 
+0.7 2.7 0.8 NA 
+14.2 5.6 15.2 NA 
+2.5 0 NA 
+6.1 3.2 NA 
+12.8 16.0 NA 
+easured with Preview . 
+dM 
+easured with 
+EnvZ and OmpR make up a two-component regulatory system that influences osmotic regulation through porins in the cell membrane . 
+Under low-osmotic conditions , EnvZ-OmpR regulation leads to an increase of gene expression of porin gene OmpF while the amount of expression for porin gene OmpC remains static .38 In the opgGH mutant in LNNS medium , however , we found that the amounts of OmpR and the porin proteins OmpF , OmpC , and OmpD decreased ( `` C123vM456 '' tab in Supp . 
+Data 3 . 
+xls ) . 
+Furthermore , there was less ProQ , a homologue of the regulator of osmo-sensor 39 ProP in E. coli . 
+Thus , it appears that the opgGH mutation had a negative effect on osmotic sensing and the accumulation of other regulators of osmotic responses , thus compounding effects of osmotic stress . 
+To understand the roles of many of the other proteins that were found , we mapped them to known metabolic and 40 biochemical pathways using the KEGG database . 
+We were able to assign KEGG identifiers to 855 of 1,021 proteins evaluated . 
+The opgGH mutant had a large reduction in amounts of proteins and enzymes involved in purine and pyrimidine metabolism ( Supp . 
+Data 4.zip , `` C123vM456 '' tab in Supp . 
+Data 3 . 
+xls ) . 
+Furthermore , most of the major enzymes involved in glycolysis , pyruvate metabolism , and tricarboxylic acid ( TCA ) cycle pathways had reduced abundance in the opgGH mutant as well ( Supp . 
+Data 4.zip , `` C123vM456 '' tab in Supp . 
+Data 3 . 
+xls ) . 
+Together , these pathways lead to the production of nucleotides and oxidative fuel . 
+Thus , it is plausible that the reduced amounts of these enzymes led to an overall loss of energy production and resulted in the slower growth of the opgGH mutant in LNNS medium . 
+Acetyl-CoA , a product of the pyruvate metabolism enzyme pathway that appeared to be negatively affected in the mutant , is a precursor to fatty acid biosynthesis , and the TCA cycle , also with reduced amounts of enzymes in the mutant , is a source of biosynthetic precursors such as alpha-ketoglutarate and oxaloacetate , keys to the synthesis of amino acids . 
+Thus , one might expect associated processes to be influenced as a result of reduced amounts of enzymes for pyruvate metabolism and the TCA cycle . 
+Indeed , there were reduced amounts of FabA , FabB , FabF , FabG , and FabH enzymes involved in fatty acid biosynthesis . 
+Furthermore , the opgGH mutant had reduced amounts of crucial enzymes for lysine , phenylalanine , tyrosine , and tryptophan biosynthesis and alanine , aspartate , glutamate , glycine , serine , threonine , arginine , proline , cysteine , and methionine metabolism ( `` C123vM456 '' tab in Supp . 
+Data 3 . 
+xls ) . 
+A shortage of amino acids would result in reduction in glutathione and propanoate metabolism , for example , and also protein synthesis . 
+Along the lines of the latter , the opgGH mutant had reduced amounts of 17 enzymes required for tRNA biosynthesis ( Supp . 
+Data 4.zip , `` C123vM456 '' tab in Supp . 
+Data 3 . 
+xls ) and reduced amounts of 22 ribosome subunit proteins . 
+It is likely that deficiencies in these enzymes and proteins led to reduced amounts of fatty acids and reduced protein biosynthesis , the effects of which also could explain slower cell growth in the opgGH mutant . 
+Proteins with Increased Abundance in the opgGH Mutant 
+Despite the decreased amounts of enzymes and proteins required for translation , we also saw an increase in abundance of other proteins . 
+This is not a contradiction . 
+Because the mutants survive in LNNS , not all translation ceases . 
+So , preferential proteins can still be produced . 
+For example , as environmental osmolarity drops , bacteria release solutes through ABC transporters .41 Since ABC transport activity is inhibited under high osmotic conditions ,42 we expected that there might be increased amounts of ABC transporters that would coincide with presumed increased activity under low osmotic conditions . 
+Indeed , the opgGH mutant accumulated higher levels of ABC transporters than wild-type control cells ( Supp . 
+Data 4.zip , `` C123vM456 '' tab in Supp . 
+Data 3 . 
+xls ) . 
+One of these transporters , OpuBC , is homologous to one in Erwinia that mediates glycine betaine and choline uptake .43 Others appear to transport spermidine , putrescine , maltodextrin , methyl-galactoside and various amino acids and cations . 
+OsmY , a homologue of another periplasmic protein osmotically induced in E. coli ,44 increased too . 
+These data suggest that because the mutant can not respond to the low osmolarity environment using OPGs , it compensates by producing proteins that release solutes from the cell to adjust to osmotic pressure . 
+Hence , we do not regard these increases as pleiotropic effects from the loss of OpgGH but instead regard them as independent responses to the increased osmotic stress imposed on the mutants . 
+With the exception of ABC transporters , there were no other defined KEGG pathways predominated with proteins with increased abundance in the mutant . 
+In fact , most of the pathways mapped mainly included proteins with decreased abundance . 
+Taking a closer look , we found that 73 % ( 226 ) of the proteins with decreased abundance mapped to KEGG pathways , whereas only 48 % ( 73 ) with increased abundance mapped . 
+Furthermore , a larger portion of proteins with increased abundance did not have corresponding KEGG identifiers than did proteins with decreased abundance ( 20 % vs 6 % ) . 
+These findings implied that the proteins with increased abundance may have unique physical characteristics or functional properties not explained by KEGG . 
+This led us to notice that 13 of the 22 proteins that increased the most ( by more than 4-fold ) were smaller than 20 kDa in size . 
+Twelve of those 13 proteins either did not have a corresponding KEGG identifier or did not map to a KEGG pathway . 
+This size bias went across the data set : proteins with increased abundance had an average size of 29 kDa , while the proteins with decreased abundance had an average size of 44 kDa . 
+Wondering if small proteins had unique functions , we performed detailed literature reviews on them and observed two trends . 
+First , several of the highly expressed proteins such as YciF and OsmC function as multimers .45,46 In this case , higher order functions of multimers might not have been completely considered in KEGG pathways . 
+Second , many of the small proteins such as YciF ,47 YjbJ ,47 YdeI ,48 and OsmC47 are induced by oxidative or osmotic stress , the molecular responses to which are complex and not clearly defined by conventional metabolic pathways in KEGG . 
+Of that group , OsmC is a peroxiredoxin .46 Consequently , we looked for other small proteins that function in redox reactions and found 19 with increased accumulation in the mutant versus 10 with decreased accumulation . 
+These findings imply that the loss of OpgGH leads to the enzymatic compensation for real or perceived oxidative stress in mutants grown in LNNS medium . 
+Interestingly , 27 out of the 29 total redox proteins found either did not have a KEGG identifier or did not map to a KEGG pathway . 
+This reflects the limitations of KEGG ; there may be other undiscovered unique features associated with the remainder of the proteins that are important to osmotic tolerance . 
+■ DISCUSSION
+The ability of S. enterica to thrive in low-osmolarity medium is attributed to OpgG and OpgH proteins that produce OPGs and export them into the bacterial periplasmic space .9 Mutants lacking OpgG and OpgH grow slowly under low-osmotic conditions but also have reduced flagellar motility and other distinguishing phenotypic traits .9 Our proteomic analysis confirmed that opgGH mutants did not produce OpgG and had significantly reduced amounts of proteins needed for flagellar assembly . 
+The analysis also revealed reductions in other proteins required for related functions such as osmotic sensing and chemotaxis . 
+In addition , there were reduced amounts of many enzymes and proteins required to complete major biochemical pathways for purine and pyrimidine metabolism , glycolysis , pyruvate metabolism , TCA cycling , tRNA biosynthesis , amino acid metabolism , and fatty acid biosynthesis . 
+While it is logically plausible that the reduced amounts of so many proteins critical for central biochemical metabolism would lead to the phenotypes of delayed growth and motility , there was no reason to believe prior to our proteomic examination that the simple loss of OPGs would affect so many pathways required for crucial life functions .9 The means by which OpgGH influences the accumulation of these proteins remains unknown , but it is possible that OpgG and OpgH act as sensors themselves , or the loss of these proteins and the concomitant loss of OPGs destabilizes the plasma membrane , leading to the activation of other sensors and the regulation of many other branching pathways . 
+Our experiments reveal the proteomic pleiotropy of OpgGH and corroborate phenotypes that define the mutant opgGH in low-osmotic conditions in vitro .9 We do not believe that the same changes would have been observed had the mutant been grown in medium with standard osmolarity , such as LB , mainly because the mutant has no observable phenotypes that distinguish it in LB .9 Furthermore , because of results showing protein turnover after multiple generations following transfer into an opposing environmental condition ,18 we do not believe that the protein accumulation changes we observed are carry over from prior growth in LB . 
+Thus , all of the evidence implies that the proteomic changes are a result of the opgGH null mutation and that the changes reflect the mutant 's inability to fully adjust to low-osmotic growth conditions . 
+At the same time , it remains to be determined if these proteomics data are consistent in vivo . 
+Our prior research revealed that opgGH mutants have reduced virulence in mice . 
+Oddly , infectious conditions in the mouse gut are osmotically high ,17 so it may appear that OpgGH is affected by other environmental factors that we have not yet discovered . 
+Nonetheless , the phagosome where S. enterica proliferates in macrophages has low Mg2 + and may also have low osmolarity ,49,50 which is different than the hyper-osmotic gut environment where S. enterica enters the bloodstream . 
+Hence , there may be succinct cellular conditions that are sufficiently hypo-osmotic that make OpgGH important to virulence . 
+If so , perhaps EnvZ-OmpR , a two-component system that is indeed osmotically regulated ,38 is involved . 
+Here , we show that the mutants in LNNS have reduced amounts of OmpR . 
+This implies that OpgGH could subtly influence a signal describing periplasmic irregularity , depending on osmolarity , which consequently manifests osmotic sensing and virulence through separate pathways . 
+In one pathway , OmpR regulates osmotic adjustment through the amounts of porin proteins OmpF and OmpC , as implied in this study . 
+In another pathway , OmpR positively regulates the expression of the S. enterica pathogenicity island 2 that encodes a Type III secretion system and effectors required for mouse cell infection , as has been demonstrated by others .51,52 Notwithstanding that speculation , the pleiotropic effects on virulence may be more complicated than we have experimentally addressed in this simple in vitro study . 
+We conclude that OpgGH has pleiotropic effects on the proteome ; the altered amounts of many of the proteins that were resolved in this study participate in complex reactions that ultimately led to the reduced motility and growth phenotypes reported earlier .5,9,10 While it is alarming that S. enterica can grow in low-osmotic wash waters presumed to be useful in decontaminating the raw fruit and vegetable produce that many people consume as part of a healthy and balanced diet , it may be possible to constrain S. enterica survivability in low-osmotic wash waters . 
+These data serve as starting points for the study of proteins and metabolic pathways that may need to be adversely affected . 
+The data associated with this manuscript may be downloaded at http://bldg6.arsusda.gov/mtucker/Public/ Salmonella_data.html . 
+■ ASSOCIATED CONTENT * 
+S Supporting Information Supp . 
+Data 1 . 
+xls . 
+PANORAMICS2 output of peptides and proteins . 
+This includes peptide sequence matches , amino acid modifications , Mascot scores , peptide spectral counts , and protein group probabilities for pooled spectra from replicates of control ( C ) Salmonella enterica . 
+Supp . 
+Data 2 . 
+xls . 
+PANOR-AMICS2 output of peptides and proteins . 
+This includes peptide sequence matches , amino acid modifications , Mascot scores , peptide spectral counts , and protein group probabilities for pooled spectra from replicates of opgGH mutant ( M ) Salmonella enterica . 
+Supp . 
+Data 3 . 
+xls . 
+Differentially accumulating proteins between control ( C ) and opgGH mutant ( M ) Salmonella enterica . 
+Tab `` C123vM456 '' data include proteins with significantly different summed spectral counts , protein annotation , and KEGG pathway keys . 
+Tab `` UniqueC123 '' data include proteins found only in C and tab `` UniqueM456 '' data include proteins found only in M. Supp . 
+Data 4.zip . 
+Supplemental figures and legends of KEGG pathways altered in the opgGH mutant . 
+This material is available free of charge via the Internet at http://pubs.acs.org . 
+■ AUTHOR INFORMATION Corresponding Author 
+* ( B.C. ) Tel : 301-504-9892 . 
+Fax : 301-504-5728 . 
+E-mail : bret . 
+cooper@ars.usda.gov; ( A.A.B. ) Tel : 301-504-6443 . 
+Fax : 301-504-5728 . 
+E-mail : arvind.bhagwat@ars.usda.gov . 
+Notes The authors declare no competing financial interest . 
+■ ACKNOWLEDGMENTS 
+This work was supported in part by a Specific Cooperative Agreement between the University of Maryland and USDA ¬ 
+ARS . 
+Dr. Chang is supported in part by the Maryland Agricultural Experiment Station . 
+REFERENCES ■ 
+( 1 ) D'Aoust , J. Y. ; Maurer , J. ; Bailey , J. S. Salmonella species . 
+In Food Microbiology : Fundamentals and Frontiers , 2nd ed. ; Doyle , M. P. , Beuchat , L. R. , Montville , T. J. , Eds. ; ASM Press : Washington , DC , 2001 ; pp 141 − 178 . 
+( 2 ) Bhagwat , A. A. , Microbiological safety of fresh-cut produce : where are we now ? 
+In Microbiology of Fresh Produce ; Matthews , K. R. , Ed. ; American Society for Microbiology : Washington DC , 2006 ; pp 121 − 165 . 
+( 3 ) Critzer , F. J. ; Doyle , M. P. Microbial ecology of foodborne pathogens associated with produce . 
+Curr . 
+Opin . 
+Biotechnol . 
+2010 , 21 , 1 − 6 . 
+( 4 ) Franz , E. ; van Bruggen , A. H. Ecology of E. coli O157 : H7 and Salmonella enterica in the primary vegetable production chain . 
+Crit . 
+Rev. Microbiol . 
+2008 , 34 ( 3 − 4 ) , 143 − 61 . 
+( 5 ) Liu , L. ; Tan , S. ; Jun , W. ; Smith , A. ; Meng , J. ; Bhagwat , A. A. Osmoregulated periplasmic glucans are needed for competitive growth and biofilm formation by Salmonella enterica serovar Typhimurium in leafy-green vegetable wash waters and colonization in mice . 
+FEMS Microbiol . 
+Lett . 
+2009 , 292 ( 1 ) , 13 − 20 . 
+( 6 ) MMWR . 
+Outbreak of Salmonella serotype Saintpaul infections associated with multiple raw produce items United States , 2008 . 
+MMWR Morb . 
+Mortal . 
+Wkly Rep. 2008 , 57 ( 34 ) , 929 − 34 . 
+( 7 ) Xia , X. ; Zhao , S. ; Smith , A. ; McEvoy , J. ; Meng , J. ; Bhagwat , A. A. Characterization of Salmonella isolates from retail foods based on serotyping , pulse field gel electrophoresis , antibiotic resistance and other phenotypic properties . 
+Int . 
+J. Food Microbiol . 
+2009 , 129 , 93 − 8 . 
+( 8 ) Bohin , J.-P. ; Lacroix , J.-M. , Osmoregulation in the periplasm . 
+In The Periplasm ; Ehrmann , M. , Ed. ; ASM Press : Washington , DC , 2007 ; pp 325 − 341 . 
+( 9 ) Bhagwat , A. A. ; Jun , W. ; Liu , L. ; Kannan , P. ; Dharne , M. ; Pheh , B. ; Tall , B. D. ; Kothary , M. H. ; Gross , K. C. ; Angle , S. ; Meng , J. ; Smith , A. Osmoregulated periplasmic glucans of Salmonella enterica serovar Typhimurium are required for optimal virulence in mice . 
+Microbiology 2009 , 155 ( Pt 1 ) , 229 − 37 . 
+( 10 ) Kannan , P. ; Dharne , M. ; Smith , A. ; Karns , J. ; Bhagwat , A. A. Motility revertants of opgGH mutants of Salmonella enterica serovar Typhimurium remain defective in mice virulence . 
+Curr . 
+Microbiol . 
+2009 , 59 ( 6 ) , 641 − 5 . 
+( 11 ) Auweter , S. D. ; Bhavsar , A. P. ; de Hoog , C. L. ; Li , Y. ; Chan , Y. A. ; van der Heijden , J. ; Lowden , M. J. ; Coombes , B. K. ; Rogers , L. D. ; Stoynov , N. ; Foster , L. J. ; Finlay , B. B. Quantitative mass spectrometry catalogues salmonella pathogenicity island-2 effectors and identifies their cognate host binding partners . 
+J. Biol . 
+Chem . 
+2011 , 286 ( 27 ) , 24023 − 35 . 
+( 12 ) Shi , L. ; Ansong , C. ; Smallwood , H. ; Rommereim , L. ; McDermott , J. E. ; Brewer , H. M. ; Norbeck , A. D. ; Taylor , R. C. ; Gustin , J. K. ; Heffron , F. ; Smith , R. D. ; Adkins , J. N. Proteome of Salmonella enterica serotype Typhimurium grown in a low Mg/pH medium . 
+J. Proteomics Bioinf . 
+2009 , 2 , 388 − 97 . 
+( 13 ) Yu , J. L. ; Guo , L. Quantitative proteomic analysis of Salmonella enterica serovar Typhimurium under PhoP/PhoQ activation conditions . 
+J. Proteome Res . 
+2011 , 10 ( 7 ) , 2992 − 3002 . 
+( 14 ) Di Pasqua , R. ; Mamone , G. ; Ferranti , P. ; Ercolini , D. ; Mauriello , G. Changes in the proteome of Salmonella enterica serovar Thompson as stress adaptation to sublethal concentrations of thymol . 
+Proteomics 2010 , 10 ( 5 ) , 1040 − 9 . 
+( 15 ) Kim , K. ; Yang , E. ; Vu , G. P. ; Gong , H. ; Su , J. ; Liu , F. ; Lu , S. Mass spectrometry-based quantitative proteomic analysis of Salmo-nella enterica serovar Enteritidis protein expression upon exposure to hydrogen peroxide . 
+BMC Microbiol . 
+2010 , 10 , 166 . 
+( 16 ) Paradela , A. ; Mariscotti , J. F. ; Navajas , R. ; Ramos-Fernandez , A. ; Albar , J. P. ; Garcia-Del Portillo , F. Inverse regulation in the metabolic genes pckA and metE revealed by proteomic analysis of the Salmonella RcsCDB regulon . 
+J. Proteome Res . 
+2011 , 10 ( 8 ) , 3386 − 98 . 
+( 17 ) Sonck , K. A. ; Kint , G. ; Schoofs , G. ; Vander Wauven , C. ; Vanderleyden , J. ; De Keersmaecker , S. C . 
+The proteome of Salmonella Typhimurium grown under in vivo-mimicking conditions . 
+Proteomics 2009 , 9 ( 3 ) , 565 − 79 . 
+( 18 ) Bhagwat , A. A. Regulation of the glutamate-dependent acid-resistance system of diarrheagenic Escherichia coli strains . 
+FEMS Microbiol . 
+Lett . 
+2003 , 227 ( 1 ) , 39 − 45 . 
+( 19 ) Ames , G. F. ; Prody , C. ; Kustu , S. Simple , rapid , and quantitative release of periplasmic proteins by chloroform . 
+J. Bacteriol . 
+1984 , 160 ( 3 ) , 1181 − 3 . 
+( 20 ) Florens , L. ; Washburn , M. P. Proteomic analysis by multidimensional protein identification technology . 
+Methods Mol . 
+Biol . 
+2006 , 328 , 159 − 75 . 
+( 21 ) Cooper , B. ; Feng , J. ; Garrett , W. M. Relative , label-free protein quantitation : Spectral counting error statistics from nine replicate MudPIT samples . 
+J. Am . 
+Soc . 
+Mass Spectrom . 
+2010 , 21 , 1534 − 46 . 
+( 22 ) Liu , H. ; Sadygov , R. G. ; Yates , J. R. 3rd A model for random sampling and estimation of relative protein abundance in shotgun proteomics . 
+Anal . 
+Chem . 
+2004 , 76 ( 14 ) , 4193 − 201 . 
+( 23 ) Perkins , D. N. ; Pappin , D. J. ; Creasy , D. M. ; Cottrell , J. S. Probability-based protein identification by searching sequence data-bases using mass spectrometry data . 
+Electrophoresis 1999 , 20 ( 18 ) , − 3551 67 . 
+( 24 ) Feng , J. ; Naiman , D. Q. ; Cooper , B. Probability-based pattern recognition and statistical framework for randomization : modeling tandem mass spectrum/peptide sequence false match frequencies . 
+Bioinformatics 2007 , 23 ( 17 ) , 2210 − 7 . 
+( 25 ) Cooper , B . 
+The problem with peptide presumption and low Mascot scoring . 
+J. Proteome Res . 
+2011 , 10 , 1432 − 35 . 
+( 26 ) Feng , J. ; Garrett , W. M. ; Naiman , D. Q. ; Cooper , B. Correlation of multiple peptide mass spectra for phosphoprotein identification . 
+J. Proteome Res . 
+2009 , 8 ( 11 ) , 5396 − 405 . 
+( 27 ) Feng , J. ; Naiman , D. Q. ; Cooper , B. Probability model for assessing proteins assembled from peptide sequences inferred from tandem mass spectrometry data . 
+Anal . 
+Chem . 
+2007 , 79 ( 10 ) , 3901 − 11 . 
+( 28 ) Zhou , J. Y. ; Schepmoes , A. A. ; Zhang , X. ; Moore , R. J. ; Monroe , M. E. ; Lee , J. H. ; Camp , D. G. ; Smith , R. D. ; Qian , W. J. Improved LC-MS/MS spectral counting statistics by recovering low-scoring spectra matched to confidently identified peptide sequences . 
+J. Proteome Res . 
+2010 , 9 ( 11 ) , 5698 − 704 . 
+( 29 ) Zhang , B. ; VerBerkmoes , N. C. ; Langston , M. A. ; Uberbacher , E. ; Hettich , R. L. ; Samatova , N. F. Detecting differential and correlated protein expression in label-free shotgun proteomics . 
+J. Proteome Res . 
+2006 , 5 ( 11 ) , 2909 − 18 . 
+( 30 ) Storey , J. D. ; Tibshirani , R. Statistical significance for genomewide studies . 
+Proc . 
+Natl. Acad . 
+Sci . 
+U.S.A. 2003 , 100 ( 16 ) , 9440 − 5 . 
+( 31 ) Zhang , Y. ; Wen , Z. ; Washburn , M. P. ; Florens , L. Effect of dynamic exclusion duration on spectral count based quantitative proteomics . 
+Anal . 
+Chem . 
+2009 , 81 ( 15 ) , 6317 − 26 . 
+( 32 ) Zhang , Y. ; Wen , Z. ; Washburn , M. P. ; Florens , L. Refinements to label free proteome quantitation : how to deal with peptides shared by multiple proteins . 
+Anal . 
+Chem . 
+2010 , 82 ( 6 ) , 2272 − 81 . 
+( 33 ) Neilson , K. A. ; Ali , N. A. ; Muralidharan , S. ; Mirzaei , M. ; Mariani , M. ; Assadourian , G. ; Lee , A. ; van Sluyter , S. C. ; Haynes , P. A. Less label , more free : approaches in label-free quantitative mass spectrometry . 
+Proteomics 2011 , 11 ( 4 ) , 535 − 53 . 
+( 34 ) Kil , Y. J. ; Becker , C. ; Sandoval , W. ; Goldberg , D. ; Bern , M. Preview : a program for surveying shotgun proteomics tandem mass spectrometry data . 
+Anal . 
+Chem . 
+2011 , 83 ( 13 ) , 5259 − 67 . 
+( 35 ) Rudnick , P. A. ; Clauser , K. R. ; Kilpatrick , L. E. ; Tchekhovskoi , D. V. ; Neta , P. ; Blonder , N. ; Billheimer , D. D. ; Blackman , R. K. ; Bunk , D. M. ; Cardasis , H. L. ; Ham , A. J. ; Jaffe , J. D. ; Kinsinger , C. R. ; Mesri , M. ; Neubert , T. A. ; Schilling , B. ; Tabb , D. L. ; Tegeler , T. J. ; VegaMontoto , L. ; Variyath , A. M. ; Wang , M. ; Wang , P. ; Whiteaker , J. R. ; Zimmerman , L. J. ; Carr , S. A. ; Fisher , S. J. ; Gibson , B. W. ; Paulovich , A. G. ; Regnier , F. E. ; Rodriguez , H. ; Spiegelman , C. ; Tempst , P. ; Liebler , D. C. ; Stein , S. E. Performance metrics for liquid 
+chromatography-tandem mass spectrometry systems in proteomics analyses . 
+Mol . 
+Cell . 
+Proteomics 2010 , 9 ( 2 ) , 225 − 41 . 
+( 36 ) Tabb , D. L. ; Vega-Montoto , L. ; Rudnick , P. A. ; Variyath , A. M. ; Ham , A. J. ; Bunk , D. M. ; Kilpatrick , L. E. ; Billheimer , D. D. ; Blackman , R. K. ; Cardasis , H. L. ; Carr , S. A. ; Clauser , K. R. ; Jaffe , J. D. ; Kowalski , K. A. ; Neubert , T. A. ; Regnier , F. E. ; Schilling , B. ; Tegeler , T. J. ; Wang , M. ; Wang , P. ; Whiteaker , J. R. ; Zimmerman , L. J. ; Fisher , S. J. ; Gibson , B. W. ; Kinsinger , C. R. ; Mesri , M. ; Rodriguez , H. ; Stein , S. E. ; Tempst , P. ; Paulovich , A. G. ; Liebler , D. C. ; Spiegelman , C. Repeatability and reproducibility in proteomic identifications by liquid chromatographytandem mass spectrometry . 
+J. Proteome Res . 
+2010 , 9 ( 2 ) , 761 − 76 . 
+( 37 ) Chen , R. ; Binder , B. M. ; Garrett , W. M. ; Tucker , M. L. ; Chang , C. ; Cooper , B. Proteomic responses in Arabidopsis thaliana seedlings treated with ethylene . 
+Mol . 
+Biosyst . 
+2011 , 7 ( 9 ) , 2637 − 50 . 
+( 38 ) Martinez-Flores , I. ; Cano , R. ; Bustamante , V. H. ; Calva , E. ; Puente , J. L . 
+The ompB operon partially determines differential expression of OmpC in Salmonella typhi and Escherichia coli . 
+J. Bacteriol . 
+1999 , 181 ( 2 ) , 556 − 62 . 
+( 39 ) Smith , M. N. ; Kwok , S. C. ; Hodges , R. S. ; Wood , J. M. Structural and functional analysis of ProQ : an osmoregulatory protein of Escherichia coli . 
+Biochemistry 2007 , 46 ( 11 ) , 3084 − 95 . 
+( 40 ) Okuda , S. ; Yamada , T. ; Hamajima , M. ; Itoh , M. ; Katayama , T. ; Bork , P. ; Goto , S. ; Kanehisa , M. KEGG Atlas mapping for global analysis of metabolic pathways . 
+Nucleic Acids Res . 
+2008 , 36 ( WebServer issue ) , W423 − 6 . 
+( 41 ) Wood , J. M. ; Bremer , E. ; Csonka , L. N. ; Kraemer , R. ; Poolman , B. ; van der Heide , T. ; Smith , L. T. Osmosensing and osmoregulatory compatible solute accumulation by bacteria . 
+Comp . 
+Biochem . 
+Physiol. , Part A : Mol . 
+Integr . 
+Physiol . 
+2001 , 130 ( 3 ) , 437 − 60 . 
+( 42 ) Fox , M. A. ; White , J. P. ; Hosie , A. H. ; Lodwig , E. M. ; Poole , P. S. Osmotic upshift transiently inhibits uptake via ABC transporters in gram-negative bacteria . 
+J. Bacteriol . 
+2006 , 188 ( 14 ) , 5304 − 7 . 
+( 43 ) Choquet , G. ; Jehan , N. ; Pissavin , C. ; Blanco , C. ; Jebbar , M. OusB , a broad-specificity ABC-type transporter from Erwinia chrysanthemi , mediates uptake of glycine betaine and choline with a high affinity . 
+Appl . 
+Environ . 
+Microbiol . 
+2005 , 71 ( 7 ) , 3389 − 98 . 
+( 44 ) Yim , H. H. ; Villarejo , M. osmY , a new hyperosmotically inducible gene , encodes a periplasmic protein in Escherichia coli . 
+J. Bacteriol . 
+1992 , 174 ( 11 ) , 3637 − 44 . 
+( 45 ) Hindupur , A. ; Liu , D. ; Zhao , Y. ; Bellamy , H. D. ; White , M. A. ; Fox , R. O . 
+The crystal structure of the E. coli stress protein YciF . 
+Protein Sci . 
+2006 , 15 ( 11 ) , 2605 − 11 . 
+( 46 ) Park , S. C. ; Pham , B. P. ; Van Duyet , L. ; Jia , B. ; Lee , S. ; Yu , R. ; Han , S. W. ; Yang , J. K. ; Hahm , K. S. ; Cheong , G. W. Structural and functional characterization of osmotically inducible protein C ( OsmC ) from Thermococcus kodakaraensis KOD1 . 
+Biochim . 
+Biophys . 
+Acta 2008 , 1784 ( 5 ) , 783 − 8 . 
+( 47 ) Weber , A. ; Kogl , S. A. ; Jung , K. Time-dependent proteome alterations under osmotic stress during aerobic and anaerobic growth in Escherichia coli . 
+J. Bacteriol . 
+2006 , 188 ( 20 ) , 7165 − 75 . 
+( 48 ) Erickson , K. D. ; Detweiler , C. S . 
+The Rcs phosphorelay system is specific to enteric pathogens/commensals and activates ydeI , a gene important for persistent Salmonella infection of mice . 
+Mol . 
+Microbiol . 
+2006 , 62 ( 3 ) , 883 − 94 . 
+( 49 ) Deiwick , J. ; Nikolaus , T. ; Erdogan , S. ; Hensel , M. Environmental regulation of Salmonella pathogenicity island 2 gene expression . 
+Mol . 
+Microbiol . 
+1999 , 31 ( 6 ) , 1759 − 73 . 
+( 50 ) Garcia-del Portillo , F. ; Foster , J. W. ; Maguire , M. E. ; Finlay , B. B. Characterization of the micro-environment of Salmonella typhimurium-containing vacuoles within MDCK epithelial cells . 
+Mol . 
+Microbiol . 
+1992 , 6 ( 22 ) , 3289 − 97 . 
+( 51 ) Fass , E. ; Groisman , E. A. Control of Salmonella pathogenicity island-2 gene expression . 
+Curr . 
+Opin . 
+Microbiol . 
+2009 , 12 ( 2 ) , 199 − 204 . 
+( 52 ) Brown , N. F. ; Vallance , B. A. ; Coombes , B. K. ; Valdez , Y. ; Coburn , B. A. ; Finlay , B. B. Salmonella pathogenicity island 2 is expressed prior to penetrating the intestine . 
+PLoS Pathog . 
+2005 , 1 ( 3 ) , e32 .

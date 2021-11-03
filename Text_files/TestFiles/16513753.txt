@@ -1,0 +1,838 @@
+JOURNAL OF BACTERIOLOGY , Mar. 2006 , p. 2233 -- 2243 
+0021-9193/06 / $ 08.00 0 doi :10.1128 / JB .188.6.2233 -- 2243.2006 Copyright © 2006 , American Society for Microbiology . 
+All Rights Reserved . 
+New Flagellar Genes of Salmonella enterica Serovar Typhimurium
+Identiﬁcation of 
+Jonathan Frye ,2 Joyce E. Karlinsey ,1 Heather R. Felise ,1 Bruz Marzolf ,3 Naeem Dowidar ,3 Michael McClelland ,2 and Kelly T. Hughes1 * Department of Microbiology , Box 357242 , University of Washington , Seattle , Washington 981951 ; Sidney Kimmel Cancer Center , 10835 Altman Row , San Diego , California 921212 ; and The Institute for Systems Biology , 1441 N 34th Street , Seattle , Washington 981033 
+Received 21 September 2005/Accepted 18 November 2005 
+RNA levels of ﬂagellar genes in eight different genetic backgrounds were compared to that of the wild type by DNA microarray analysis . 
+Cluster analysis identiﬁed new , potential ﬂagellar genes , three putative methyl-accepting chemotaxis proteins , STM3138 ( McpA ) , STM3152 ( McpB ) , and STM3216 ( McpC ) , and a CheV homolog , STM2314 , in Salmonella , that are not found in Escherichia coli . 
+Isolation and characterization of Mud-lac insertions in cheV , mcpB , mcpC , and the previously uncharacterized aer locus of S. enterica serovar Typhimurium revealed them to be controlled by 28-dependent ﬂagellar class 3 promoters . 
+In addition , the srfABC operon previously isolated as an SsrB-regulated operon clustered with the ﬂagellar class 2 operon and was determined to be under FlhDC control . 
+The previously unclassiﬁed ﬂiB gene , encoding ﬂagellin methylase , clustered as a class 2 gene , which was veriﬁed using reporter fusions , and the ﬂiB transcriptional start site was identiﬁed by primer extension analysis . 
+RNA levels of all ﬂagellar genes were elevated in ﬂgM or ﬂiT null strains . 
+RNA levels of class 3 ﬂagellar genes were elevated in a ﬂiS null strain , while deletion of the ﬂiY , ﬂiZ , or ﬂk gene did not affect ﬂagellar RNA levels relative to those of the wild type . 
+The cafA ( RNase G ) and yhjH genes clustered with ﬂagellar class 3 transcribed genes . 
+Null alleles in cheV , mcpA , mcpB , mcpC , and srfB did not affect motility , while deletion of yhjH did result in reduced motility compared to that of the wild type . 
+What is a ﬂagellar gene ? 
+Loss of motility when a gene is disrupted might seem a good deﬁnition of a ﬂagellar gene . 
+However , the disruption of many genes not considered ﬂagellar genes results in a motility-defective phenotype . 
+These include genes such as hns , crp , cya , dnaJ and dnaK , pss , and psd ( 6 ) . 
+These are global regulators that affect gene expression in a number of regulons , including the ﬂagellar regulon . 
+There are a number of genes that are directly responsible for the structure and assembly of the bacterial ﬂagellum and its normal function in chemotaxis . 
+These originally deﬁned the ﬂagellar genes , and their characterization has led to the discovery that the ﬂagellar regulon is a hierarchy of coordinately transcribed genes ( 30 ) . 
+Structural genes are assigned to three assembly classes of early , middle , and late depending on when their products are needed for assembly and function ( 7 ) . 
+The promoters responsible for ﬂagellar gene expression are also assigned to three classes , class 1 , class 2 , and class 3 , according to their temporal expression after induction of the ﬂagellar regulon ( 25 ) . 
+A number of new ﬂagellar genes have been identiﬁed , not by their effect on motility but by the fact that they are transcribed from ﬂagellar promoters in operons with known ﬂagellar genes . 
+Some of these , such as ﬂhE , ﬂiY , ﬂiZ , and ﬂiT , have little or no effect on motility ( 37 ) , but in the case of ﬂiZ and ﬂiT they have positive and negative effects on transcription of other ﬂagellar genes ( 29 ) . 
+* Corresponding author . 
+Mailing address : Department of Microbiology , Box 357242 , University of Washington , Seattle , WA 98195 . 
+Phone : (801) 581-6517 . 
+Fax : (801) 581-4668 . 
+E-mail : Hughes@biology.utah.edu . 
+The ﬂagellar regulon of Salmonella enterica serovar Typhi-murium includes over 60 genes . 
+Our current understanding of this process is diagrammed in Fig. 1 ( reviewed in references 6 and 34 ) . 
+At the top of the transcriptional hierarchy lies the ﬂagellar master operon , ﬂhDC , where the fundamental decision to produce ﬂagella is controlled . 
+The ﬂhDC operon is expressed from what is deﬁned as the class 1 promoter . 
+As mentioned above , a number of global regulatory signals inﬂu-ence transcription of the ﬂhDC promoter , which has been shown to contain at least six different transcriptional start sites ( 52 ) . 
+The FlhD and FlhC proteins form a heteromultimeric complex ( FlhD2C2 ) that acts as a transcriptional activator to promote 70-dependent transcription from the class 2 ﬂagellar promoters ( 32 , 33 ) . 
+The FlhDC complex also acts to auto-repress transcription of the class 1 promoter ( 26 ) . 
+The class 2 promoters direct transcription of the ﬂagellar middle assembly genes needed for the structure and assembly of the hook-basal body ( HBB ) structure . 
+Also transcribed from class 2 promoters are three late assembly genes , ﬂgK , ﬂgL , and ﬂiD , whose products are assembled immediately after HBB completion ( 27 ) . 
+In addition to structural genes , a number of regulatory genes are also transcribed from class 2 promoters , including the ﬂiA and ﬂgM genes ( 17 , 23 ) . 
+The ﬂiA gene encodes the ﬂagellar-speciﬁc transcription factor , 28 , which directs transcription from class 3 promoters ( 38 ) . 
+It is held inactive prior to HBB completion by the anti- 28 factor , FlgM ( 25 , 39 ) . 
+Upon completion of the HBB , there is a switch in secretion speciﬁcity of the ﬂagellar type III secretion apparatus from HBB-type ( middle gene assembly ) substrates to late secretion substrates that include FlgK , FlgL , FliD , FlgM , and ﬂagellin ( either FliC or FljB ) ( 14 , 19 ) . 
+These late secretion substrates all have corresponding type III secretion chaperones ( TTSCs ) , which facilitate substrate secretion either directly or indirectly by preventing proteolytic degradation of substrates in the cytoplasm prior to secretion ( 4 , 12 ) . 
+The TTSCs also have roles as regulators of ﬂagellar gene expression . 
+The TTSC for FlgK and FlgL is FlgN ( 13 ) . 
+Loss of FlgN results in reduced intracellular FlgM levels due to a decrease in ﬂgM gene translation ( 24 ) . 
+The TTSC for FliD is FliT ( 13 ) . 
+Loss of FliT results in an increase in class 2 transcription ( 29 ) . 
+The TTSC for FlgM is 28 ( K. Hughes and P. Aldridge , unpublished results ) . 
+Loss of 28 results in no class 3 transcription ( 38 ) . 
+The TTSC for ﬂagellin is FliS ( 3 ) . 
+This study demonstrates that the loss of FliS results in an increase in class 3 transcription . 
+A set of genes that includes the late secretion substrates and their secretion chaperones and important regulatory proteins are transcribed from both class 2 and class 3 promoters . 
+These are the ﬂgM , ﬂgN , ﬂgK , ﬂgL , ﬂiA , ﬂiD , ﬂiS , and ﬂiT genes ( 15 , 23 , 27 ) . 
+The ﬂgM and ﬂgN genes are in the class 2 ﬂgAMN and class 3 ﬂgMN transcripts . 
+The ﬂgK and ﬂgL genes are in the class 2 ﬂgBCDEFGHIJKL and class 3 ﬂgKL operons . 
+The ﬂiAZY operon is transcribed from a class 2 promoter , and the shorter ﬂiAZ operon is from a separate class 3 promoter ( 23 ) . 
+The role that transcription from multiple promoters plays in the coupling of ﬂagellar gene expression to ﬂagellar assembly has yet to be determined . 
+In the work presented here , we compared levels of RNA from strains of S. enterica serovar Typhimurium LT2 defective in different ﬂagellar regulatory genes to the levels of RNA expressed in the wild-type strain . 
+This was done by DNA microarrays prepared from PCR-ampliﬁed open reading frames ( ORFs ) derived from the annotated sequence of the S. enterica serovar Typhimurium LT2 genome . 
+Using a clustering analysis of eight mutant backgrounds , the ﬂagellar genes were grouped to the known transcriptional classes ( class 2 or class 3 ) to assign previously uncharacterized ﬂagellar genes and the genes expressed from both class 2 and class 3 promoters . 
+In addition , novel Salmonella ﬂagellar genes were identiﬁed . 
+a Unless indicated otherwise , all strains were constructed during the course of this work . 
+The FKF ( FRT-Km-FRT ) and FCF ( FRT-Cm-FRT ) cassettes have the Flp recognition target sites ﬂanking either a kanamycin ( Km ) or chloramphenicol ( Cm ) resistance gene followed by a ribosome-binding site ( 8 ) . 
+The resistance gene can be removed by expression of FLP recombinase to leave a single FRT site followed by a ribosomal binding site ( 8 ) 
+223 
+FRYE ET AL. . 
+TABLE 1 . 
+List of bacterial strains 
+Source or referencea 
+Genotype 
+Strain 
+J. Roth 
+Wild type ﬂiC : : Tn10 ﬂjB 
+LT2 
+M. Homma 51 
+MH111 MJW708 TH453 TH1059 TH2788 TH3070 TH3234 TH3236 TH3358 TH3730 TH4707 TH4722 TH4911 TH4912 TH5071 TH5360 TH5711 TH5720 TH5721 TH5736 TH5737 TH6554 TH6555 TH6572 
+srfB : : MudJ ( 14028s background ) ﬂiC : : Tn10 ﬂi-5448 ( IS200IV ) : : Tn10dCm ﬂiY5221 : : Tn10dTc ( 86 from ATG of ﬂiY ) ﬂgK5289 : : MudK ﬂiA5394 : : MudJ ( Lac ) ﬂgK5396 : : MudJ ﬂgM5301 PﬂhDC5451 : : Tn10dTc [ del-25 ] ﬂiT : : Km ﬂgK5726 : : MudK ﬂgN5626 : : FKF ﬂk-5627 : : FKF ( ﬂk bp1-999 coding ) ﬂgM5628 : : FKF ﬂiA5647 : : FCF ﬂiZ5737 : : FKF ﬂhC2035 ﬂhD2040 ﬂa-2039 ( tar-ﬂhD ) ﬂiS5720 : : FKF ﬂgM5628 : : FKF ﬂiA5647 : : FCF ﬂa-2039 ( tar-ﬂhD ) ﬂgM5628 : : FKF ﬂa-2039 ( tar-ﬂhD ) ﬂgM5628 : : FKF ﬂiA5647 : : FCF ﬂiB5968 : : MudJ ﬂiB5740 : : MudK ﬂiA5805 : : tetRA ﬂiB5968 : : MudJ ﬂiA5805 : : tetRA ﬂiB5470 : : MudK ﬂa-2039 ( tar-ﬂhD ) ﬂiB5968 : : MudJ ﬂa-2039 ( tar-ﬂhD ) ﬂiB5470 : : MudK ﬂiA5999 ﬂiB5968 : : MudJ ﬂiA5999 ﬂiB5470 : : MudK ﬂa-2039 ( tar-ﬂhD ) ﬂgK5396 : : MudJ ﬂa-2039 ( tar-ﬂhD ) ﬂgK5726 : : MudK ﬂa-2039 ( tar-ﬂhD ) ﬂgK5289 : : MudK ﬂiA5886 ﬂgK5396 : : MudJ ﬂiA5886 ﬂgK5726 : : MudK ﬂiA5886 ﬂgK5289 : : MudK srfB : : MudJ srfB : : MudJ ﬂa-2039 ( tar-ﬂhD ) srfB : : MudJ ﬂiA5999 CRR4109 [ metC1975 : : Tn10 ( TcS ) ] PﬂhDC5451 : : Tn10dTc [ del-25 ] pNK972/LT2 proAB47/F Pro Lac zzf-1836 : : Tn10dCm 
+1 
+FIG. 1 . 
+Flagellar regulon expression coupled to ﬂagellum assembly . 
+The ﬂagellar genes are organized into a transcriptional hierarchy that is coupled to assembly of the ﬂagellar organelle as described in the text . 
+The 28 structural gene , ﬂiA , is labeled in red . 
+The genes labeled in red and green are transcribed from both class 2 ( FlhDC - and 70-dependent ) and class 3 ( 28-dependent ) promoters . 
+The structures are imbedded in the inner , cytoplasmic membrane ( I.M. ) , the peptidoglycan layer ( P.L. ) , and the outer membrane and lipopolysaccharride ( O.M. ) . 
+1 
+25 53 1 
+16 16 16 
+TH6719 TH6720 TH7409 TH7410 TH7411 TH7412 TH7458 TH7544 TH7718 TH7719 TH7720 TH7721 TH7722 TH7723 TH7942 TH7943 TH7944 TH9670 
+TT10427 TT10604 
+11 
+MATERIALS AND METHODS
+Bacterial strains and plasmids . 
+Bacterial strains used in this study and their origins are listed in Table 1 . 
+Plasmid pRP1 was constructed as follows . 
+Strain TH3234 carrying a Mu J insertion in the gene ( : : Mu J ) was converted to d ﬂiA ﬂiA d a Mud-P22 insertion ( ﬂiA : : MudP ) ( 54 ) . 
+The ﬂiA : : MudP strain was induced with mitomycin C , and DNA was isolated from the induced phage lysate ( the DNA packaged from the induced ﬂiA : : MudP is enriched for chromosomal DNA ﬂanking the 5 end of the ﬂiA locus [ 54 ] ; the DNA was digested with EcoRI [ New England Biolabs ] ) . 
+A 3.5-kbp fragment that includes the ﬂiB and ﬂiC genes and portions of the adjacent IS200 and ﬂiD sequences was ligated ( with T4 DNA ligase [ New England Biolabs ] ) into the pBluescript II KS vector ( Stratagene ) digested with EcoRI to create pRP1 . 
+Media and standard genetic manipulations . 
+Media , growth conditions , transductional methods , and motility assays were as described previously ( 15 , 16 ) . 
+The generalized transducing phage of S. enterica serovar Typhimurium P22 HT105/1 int-201 was used in all transductional crosses ( 9 ) . 
+Transductions involving tetra-cycline-sensitive ( Tcs ) selection was done as follows : 0.1 ml of a 10-fold dilution from a standard phage prep was mixed with 0.1 ml of an overnight culture 8 9 8 ( yielding a ﬁnal mixture of 10 to 10 phage and 2 10 cells ) . 
+As a control for spontaneous tetracycline sensitive mutants , 0.1 ml of 0.85 % saline solution was mixed with 0.1 ml of the same overnight culture . 
+Both solutions were allowed to stand at room temperature for about 30 min and then diluted 10 - and 100-fold prior to plating on tetracycline-sensitive selection plates and incubated at 42 °C ( 35 ) . 
+It takes 2 days for Tcs colonies to appear . 
+If the transduction works well , there should be at least 100 times the number of Tcs colonies on the experimental plates as there is on the no-phage control plates . 
+Isolation of targeted ﬂagellar gene deletions . 
+S. enterica serovar Typhimurium chromosomal gene deletion and replacement with drug resistance cassette FRT-Kan-FRT ( FKF ) or FRT-Chlor-FRT ( FCF ) were performed by the lambda Red phage mediated recombination system ( 8 ) . 
+The oligonucleotide sequences below in uppercase are the sites of recombination in the chromosome . 
+The lowercase sequences are sites of P1 or P2 for PCR ampliﬁcation of pKD4 ( FKF ) or pKD3 ( FCF ) ( 8 ) . 
+TH4911 ﬂgN5626 : : FKF ( deletion of entire coding region ) 1frtﬂgN , 5 - ATTCGCCAGGCGCAGAGCTACTTACAGAGTAAATAAGCGTgtgta ggctggagctgctcc-3 ; 2frtﬂgN , 5 - CAGGCCGGAAAGGCGCAACGTCGCCAT CCGGCAATGATTAcatatgaatatcctccttag-3 ; TH4912 ﬂk-5627 : : FKF ( deletion of entire coding region ) 1FRTFLK , 5 - GCATATATTGCTCAGATTTATGGT TAAAGGATAATTAATTgtgtaggctggagctgcttc-3 ; 2FRTFLK , 5 - GGTTGG CATCCTGGTGACGATATTATCGTTCCGGCGCGGTcatatgaatatcctcctta g-3 ; TH5071 ﬂgM5628 : : FKF ( deletion from codon 5 to 97 and the intervening region between ﬂgM and ﬂgN ) FlgMP1 , 5 - AACGTAACCCTCGAT GAGGATAAATAAATGAGCATTGACCGgtgtaggctgcagctgcttc-3 ; FlgNAT GP2 , 5 - ACGGTGGTCATCTGGTCAAGTATTTCTGACAAACGAGTCATc atatgaatatcctcctta-3 ; TH5360 ﬂiA5467 : : FCF ( deletion from codon 9 to 218 ) ﬂiAP1 , 5 - GTGTAATGGATAAACACTCGCTGTGGCAGCGTTATGTACCgt gtaggctggagctgcttc-3 ; ﬂiAP2 , 5 - AATCGTTTGATGGCCTGACTATGCAACT GGCTGACCCGCGcatatgaatatcctccttag-3 ; TH5711 ﬂiZ5737 : : FKF ( deletion of entire coding region ) ﬂiZF1 , 5 - CGAAAAGTGCCGCACAACGTATAGACT ACCAGGAGTTCTCgtgtaggctggagctgcttc-3 ; ﬂiZF2 , 5 - GTTTCACCAACACGA CTCTGCTACATCTTATGCTTTTTAAcatatgaatatcctccttag-3 ; TH5737 ﬂiS5720 : : FKF ( deletion from codon 2 to 135 ) 5 ﬂiS-FRT , 5 - AATTTACAGCTATGA ACAAGTCCTGATAACAGAGGTCACCATgtgtaggctggagctgcttcg-3 ; 3 ﬂiSFRT , 5 - ACGCTGCCAACGGTTGATAAACTCCACGGTTGAGGTCAT TAcatatgaatatcctccttag-3 . 
+Isolation of a Tn10dCm insertion in the IS200 element near the ﬂiB gene . 
+To target Mud insertions to speciﬁc regions within the ﬂagellar ﬂi region , a number of Tn10dCm insertions were isolated that were linked to a ﬂiC : : Tn10 allele , which was transduced into strain LT2 ( to create TH453 ) from strain MH111 ( Table 1 ) . 
+P22 was grown on strain TT10604 , which caries a Tn10dCm insertion in the F plasmid , and used to transduce strain TT10427 to chloramphenicol resistance . 
+TT10427 carries plasmid pNK972 that constitutively expresses Tn10 transposase ( 50 ) . 
+Because there was no F plasmid in strain TT10427 , it was not possible to inherit the Tn10dCm transposon by homologous recombination . 
+The chloramphenicol-resistant ( Cmr ) transductants were inherited by transposition into the recipient chromosome . 
+Greater than 50,000 Cmr transductants were pooled together , and a P22 lysate was prepared on the pooled cells carrying Tn10dCm insertions located at positions throughout the chromosome . 
+To isolate Tn10dCm insertions in the ﬂiC region , the pooled lysate was used to transduce TH453 ( ﬂiC : : Tn10 ) to Cmr on L-Cm plates , and the colonies were screened for loss of the ﬂiC : : Tn10 allele by replica printing onto L-Cm-Tc plates and screening for those that became Tcs upon transduction to Cmr . 
+This allows for the isolation of Tn10dCm insertions near ﬂiC , because the recipient does not carry 
+Tn10 transposase , so the Tn10dCm elements from the pooled donor lysate are inherited by homologous recombination . 
+Those close to ﬂiC can inherit r Tn10dCm-encoded Cm , and if they also coinherit the ﬂiC allele by cotrans-s r s duction , they become Tc . 
+A total of 19 Cm Tc transductants were kept for further analysis . 
+Of these 19 , 10 were found to be nonmotile , indicating that they had inserted into one of the ﬂagellar genes in the ﬂi region , 1 was nonmotile in a ﬂjB null strain only , indicating that it was inserted in the ﬂiC gene , and 8 were motile . 
+Flair complementation analysis was performed on the 10 nonmotile ﬂi : : Tn10dCm insertions . 
+Of the 10 , 5 were located on the ﬂiD gene , 1 was located in ﬂiF and 4 were located in ﬂiQ . 
+Linkage analysis of the 8 motile insertions revealed that four were linked to the ﬂiR locus ( located counterclockwise of ﬂiR on the standard S. enterica serovar Typhimurium linkage map ) , two were located between the ﬂiT and ﬂiE genes , one was located between the ﬂiC and ﬂiD genes , and one was between the ﬂiC and ﬂiA genes . 
+DNA sequence analysis was performed on the insertion between the ﬂiC and ﬂiA genes , named ﬂi-5448 : : Tn10dCm . 
+The ﬂi-5448 : : Tn10dCm transposon had inserted counterclockwise after base pair 25 of the presumed ATG start codon of the transposase gene of the IS200 element ( IS200IV ) located between the ﬂiA and ﬂiB loci . 
+Isolation of the ﬂiB5968 : : MudJ and ﬂiB5740 : : MudK insertions . 
+Strain TH3730 carries a Tn10dTc [ del-25 ] ( T-POP ) insertion located between the class 1 ﬂhDC promoter and the ﬂhDC structural genes . 
+This insertion places the ﬂhDC operon and thus the entire ﬂagellar regulon under control of the inducible tetA promoter ( 25 ) . 
+The MudJ transposon was introduced into strain TH1059 ( ﬂi-5448 : : Tn10dCm ) carrying the Tn10dCm insertion in the IS200IV element next to the ﬂiB gene by the method of transitory cis complementation ( 20 ) . 
+Greater than 50,000 MudJ-encoding kanamycin-resistant ( Kmr ) transductants were pooled , and P22 transducing phage was grown on the pooled cells . 
+The lysate was used to transduce strain TH3730 to Cmr on L-Cm plates , and these plates were then replica printed to L-Cm-Km plates to identify Cmr Kmr recipients that had also inherited a MudJ insertion along with the ﬂi-5448 : : Tn10dCm allele , presumably by cotransduction . 
+The Cmr Kmr transductants were screened for motility and expression of the lac genes in the presence of Tc ( ﬂhDC-inducing condition ) . 
+Putative ﬂiB : : MudJ isolates were deﬁned as being greater than 85 % linked to the ﬂi-5448 : : Tn10dCm allele by P22 transduction , exhibited a Tc-inducible Lac phenotype in the presence of the PﬂhDC : : T-POP insertion , and were motile ( loss of ﬂiB does not affect motility ) . 
+Subsequent PCR and DNA sequence analysis identiﬁed the ﬂiB5968 : : MudJ transposon to be inserted after base 38 of the ﬂiB coding region ( ﬂiB is transcribed counterclockwise on the standard S. enterica serovar Typhimurium linkage map ) . 
+The ﬂiB5740 : : MudK insertion was isolated in a hunt for MudK insertions in the ﬂiC gene ( 5 ) . 
+MudK insertions greater that 85 % linked to the ﬂi-5448 : : Tn10dCm allele that were motile were analyzed by PCR and DNA sequence analysis . 
+One , ﬂiB5740 : : MudK , was found to be inserted 813 nucleotides into the ﬂiB coding region , resulting in a translational fusion of the ﬁrst 271 amino acids of FliB to LacZ , and it was used for further studies . 
+Isolation of MudJ insertions in the cheV , mcpB , mcpC , and aer loci . 
+To isolate insertions of MudJ in cheV , we obtained a linked pmrD : : Cm allele from Edu-ardo Groisman . 
+About 50,000 random MudJ insertion mutants in a pmrD : : Cm-containing strain were pooled , and P22-transducing phage was used to transduce this pool into strain TH3730 , which has the ﬂhDC operon under control of the tetA promoter . 
+Four MudJ insertions that showed Tc-dependent Lac expression were tested by PCR using a primer that hybridized just outside the 3 end of cheV and a primer that hybridizes to the left end of Mu , which reads out of the MudJ element . 
+All four putative cheV : : MudJ insertions gave PCR products of sizes expected for insertions in cheV . 
+To isolate insertions of MudJ in the mcpC and aer genes , we utilized a Tn10dCm insertion already present in the strain collection , which by DNA sequence analysis revealed it to be at the very 3 end of the mcpB gene ( data not shown ) . 
+About 50,000 random MudJ insertions mutants in the mcpC : : Tn10dCmcontaining strain were pooled , and P22 transducing phage was used to transduce this pool into strain TH3730 , which has the ﬂhDC operon under control of the tetA promoter . 
+Six MudJ insertions that showed Tc-dependent Lac expression were separated from the mcpC : : Tn10dCm insertion by P22 transduction . 
+They were then tested by PCR using either a primer that hybridized just outside the 3 end of mcpC or a primer that hybridized just outside the 3 end of aer as well as a primer that hybridizes to the left end of Mu , which reads out of the MudJ element . 
+Two MudJ insertions were located on the mcpC gene , and four were located on the aer gene . 
+The MudJ pools isolated above were used with strain TH9670 that was defective in the mcpB-linked metC gene and has the ﬂhDC operon under control of the tetA promoter . 
+Three MudJ insertions that showed Tc-dependent Lac expression were tested by PCR using a primer that hybridized just outside the 3 end of mcpB and a primer that hybridizes to the left end of Mu , which reads out of th 
+223 
+MudJ element . 
+All three putative mcpB : : MudJ insertions gave PCR products of sizes expected for insertions in mcpB . 
+- Galactosidase assays . 
+- Galactosidase assays were performed as described by Maloy ( 35 ) . 
+Cells were grown to an optical density at 600 nm of 0.6 to 0.8 . 
+Each data point was the sum of three independently grown bacterial cultures each assayed twice , and the values were recorded as - galactosidase units ( nano-moles per minute per unit of optical density at 650 nm per milliliter ) . 
+Primer extension . 
+RNA was isolated as described previously ( 47 ) . 
+RNase inhibitor ( Boehringer Mannheim ) and DNase ( Bethesda Research Laboratories ) were added to the RNA in RNase-free water ( sterile irrigation water ; Baxter Healthcare Corp. ) . 
+32P labeling of primer FliBPE ( 5 - GGGTGACAAAGGCAG GTTCAGTGACGGTGA-3 ) was done with T4 polynucleotide kinase and [ -32 P ] ATP ( New England Nuclear ) ( 2 ) . 
+Primer extensions were carried out ( 2 ) with Moloney murine leukemia virus reverse transcriptase ( Bethesda Research Laboratories ) and buffer supplied by the manufacturer at 42 °C for 30 min . 
+Microarray design and manufacture . 
+The S. enterica serovar Typhimurium LT2 microarray was constructed from speciﬁc PCR products for each gene . 
+These were ampliﬁed from LT2 genomic DNA , and whenever possible these encompassed the whole ORF . 
+The initial array set was used in all studies , except for two of the comparisons of the ﬂhDC and LT2 strains . 
+For these , the microarray contained 4,442 whole ORF PCR products , representing 96.6 % of the Salmonella enterica serovar Typhimurium LT2 genome and the pSLT plasmid . 
+For the latter two experiments , the overall S. enterica serovar Typhimurium genome coverage for the array was 99.4 % ( 4,466 genes ) . 
+The arrays also contained PCR products representing the genes found on the LT2 virulence plasmid pSLT . 
+The DNAs were spotted onto Ultra-GAPS glass slides ( Corning Inc. , Corning , N.Y. ) in 50 % dimethyl sulfoxide and were hybridized by the method of Brown et al. ( http://cmgm.stanford.edu/brown/protocols/4_Ecoli_RNA.txt ) . 
+Details of the construction of the Salmonella array were described previously ( 41 ) . 
+RNA labeling and hybridization . 
+cDNA probes were labeled with Cy3 - and Cy5-dye-linked dUTP by direct incorporation during reverse transcription from total RNA to cDNA , following the method described by Pat Brown ( http://cmgm . 
+stanford.edu/pbrown/protocols/4_Ecoli_RNA.txt ) , with the following modiﬁcations . 
+Fifty micrograms of total RNA and 2.4 g of random hexamers were resuspended in 30 l of water , and subsequently the amounts and volumes of all components were doubled compared to those of the Brown protocol . 
+Two microliters of RNAsin ( F. Hoffmann-La Roche Ltd. , Basel , Switzerland ) was added to the reverse transcription , and the reaction was incubated at 42 °C for 2 h . 
+After the ﬁrst hour of incubation , an additional 2 l of Superscript II reverse trans-criptase was added . 
+Probes were puriﬁed using the QIAquick PCR puriﬁcation kit ( QIAGEN , Valencia , CA ) and eluted in 1 mM Tris-HCl , pH 8 . 
+0 . 
+Hybridization and data acquisition . 
+Probes were hybridized to the Salmonella array overnight in 25 % formamide , 5 SSC ( 1 SSC is 0.15 M NaCl plus 0.015 M sodium citrate ) , 0.1 % sodium dodecyl sulfate at 42 °C using a hybridization chamber ( Corning ) submerged in a water bath . 
+Protocols suggested by the manufacturer for hybridizations in formamide buffer ( http://www.corning.com/Lifesciences/technical _ information/techDocs/gaps _ ii_manual_protocol_5_02_cls_gaps_005 . 
+pdf ) were applied for prehybridization , hybridization , and posthybridization processing . 
+The cDNA probes from wild-type and mutant strains were hybridized to three arrays , and then dyes were switched and samples were hybridized to three additional arrays . 
+Scans were performed on a ScanArray 5000 Laser scanner ( Packard BioChip Technologies , Billerica , MA ) using ScanArray 2.1 software . 
+Data analysis . 
+Signal intensities were quantiﬁed using the QuantArray 3.0 software package ( Packard BioChip Technologies , Billerica , MA ) . 
+Spots were analyzed by adaptive quantitation , and local background was subsequently subtracted from the recorded spot intensities . 
+Ratios of the contribution of each spot to total signal in each channel were calculated ( data normalization ) . 
+Negative values ( i.e. , local background intensities higher than spot signal ) were considered no data . 
+The expression ratio of each gene was then calculated as the median of the six ratios from the six hybridizations . 
+RNA measurements were analyzed by calculating ratios and standard deviations between the mutant versus wild-type strains . 
+Genes with signals less than two standard deviations above background in both conditions were considered not detected and were removed prior to any analysis . 
+RESULTS
+Effect of ﬂagellar regulatory mutations on ﬂagellar gene expression . 
+Two DNA microarray experiments were performed to identify novel ﬂagellar genes of Salmonella enterica serovar Typhimurium . 
+In one experiment , genomic RNA samples isolated from different ﬂagellar mutant backgrounds were compared to RNA samples isolated from the wild-type strain LT2 ( see Materials and Methods ) . 
+In this experiment , each comparison was done between one sample from each of eight different strains and LT2 . 
+A cluster analysis program was then used to identify new genes that clustered with known ﬂagellar genes . 
+In a second experiment , four independent comparisons of RNA levels from a strain deleted for the ﬂagellar master operon , ﬂhDC , were compared to RNA levels from wild-type strain LT2 . 
+Cluster analysis . 
+The expression levels of whole cellular RNAs from the eight different ﬂagellar mutant strains relative to LT2 were subject to cluster analysis using the J-Express program ( MolMine AS , Bergen , Norway ) . 
+These strains included TH3358 ( ﬂgM5301 ) , TH4912 ( ﬂk-5627 ) , TH5071 ( ﬂg M5628 ) , TH5360 ( ﬂiA5647 ) , TH5720 ( ﬂhC2035 ) , TH6554 ( ﬂgM5628 ﬂiA5647 ) , TH6555 ( ﬂgM5628 ﬂhDC2039 ) , and TH6572 ( ﬂgM5628 ﬂiA5647 ﬂhDC2039 ) . 
+Two clusters were found to include predominantly class 2 or class 3 ﬂagellar genes and are presented in Fig. 2 . 
+In the class 2 ﬂagellar cluster ( Fig. 2A ) , we observed many of the genes required for hook-basal body ( HBB ) formation . 
+The late secretion substrate genes , ﬂgK and ﬂgL , and late secretion chaperone genes , ﬂiS and ﬂiT , which are transcribed from both class 2 and class 3 ﬂagellar promoters , also clustered with the class 2 genes . 
+In addition , the ﬂhC gene clustered with class 2 genes , which probably reﬂects the fact that the ﬂhDC operon is under autogenous control . 
+The ﬂiB gene , whose promoter has not been characterized , also clustered with the class 2 genes , which suggested that ﬂiB was independently transcribed from the upstream class 3 ﬂiC gene . 
+In results presented below , we show that this is the case . 
+In addition to known ﬂagellar genes , three genes from a presumed virulence gene operon , srfABC , and an uncharacterized gene , STM3152 , annotated as a methyl-accepting chemotaxis protein clustered with the class 2 genes . 
+We show below that the srfABC operon is under FlhDC control but not 28 control , indicating that this operon is a ﬂagellar class 2 operon . 
+STM3152 was found to be a 28-dependent class 3 gene , although it did not cluster with the class 3 genes . 
+A large number of other ﬂagellar genes were not present in the class 2 cluster . 
+While the entire ﬂgB-L operon and the ﬂgA gene were in the class 2 cluster , the ﬂhBAE operon and ﬂhD , ﬂiE , ﬂiJ , and ﬂiOPQR genes were not . 
+It is possible that the ﬂhBAE and ﬂiE operons have different expression patterns in the different ﬂagellar mutant strains compared to the other class 2 genes , but other genes cotranscribed with ﬂhD , ﬂiE , ﬂiJ and ﬂiOPQR did cluster as class 2 genes . 
+It is likely that the low level of expression of these genes did not produce the signiﬁcant changes in expression needed in the various mutant backgrounds to cluster with the other class 2 genes . 
+Genes at the 3 end of a transcript could be at low RNA levels due to mRNA degradation . 
+Also , in E. coli it was shown that 28 regulates expression of some class 2 operons ( such as ﬂiL-R ) but not others ( such as ﬂhBAE ) ( 33 ) . 
+This could account for lower levels of the ﬂhBAE operon genes . 
+The ﬂiK gene was not present in the array slides used for these studies . 
+In the class 3 ﬂagellar cluster ( Fig. 2B ) we observed primarily late assembly genes , the motor force generator genes motAB , and the genes of the chemotaxis system . 
+Unlike ﬂgKL and ﬂiST , the other late secretion substrate gene , ﬂiD clustered with the class 3 genes ( as did the ﬂiAZ operon ) , which are expressed from both class 2 and class 3 promoters . 
+In additio to known ﬂagellar genes , the cafA gene , encoding RNase G , clustered as a class 3 gene , but data below will show this to be an error of the particular set of array chips used early in this study . 
+In addition to known ﬂagellar genes , a putative dicyclic GMP phosphodiesterase gene , yhjH , identiﬁed previously to have a class 3 ﬂagellar promoter clustered with the ﬂagellar class 3 genes as did three uncharacterized genes , STM2314 , STM3138 , and STM3152 , annotated to be cheV ( a cheW-cheY hybrid gene known from Bacillus subtilis ) and two methyl-accepting chemotaxis proteins , respectively . 
+We did not observe the ﬂgMN operon in either cluster , and the tar ( cheM ) gene was not in the array slides . 
+FlhDC-dependent ﬂagellar genes . 
+In a second set of experiments , we looked at genes dependent on the ﬂhDC master operon for expression . 
+Using one set of microarray chips , two independent RNA isolates from a ﬂhDC strain were compared for reduced expression from two independent RNA isolates from strain LT2 ( see Materials and Methods ) . 
+This was repeated with an independently constructed set of microarray chips , and the top 90 FlhDC-dependent genes from all four comparisons are shown in Table 2 . 
+As expected , ﬂagellar gene expression was reduced compared to that of pathogenesis genes . 
+The ﬂagellar regulatory system was shown to affect the regulation of many virulence-associated genes ( 10 , 46 , 48 ) . 
+The list of FlhDC-dependent genes includes those identiﬁed by the cluster analysis as novel ﬂagellar genes , yhjH and STM2314 ( cheV ) , as well as putative MCP genes STM3138 ( mcpA ) , STM3152 ( mcpB ) , and STM3216 ( mcpC ) . 
+We have renamed the STM3138 , STM3152 , and STM3216 loci mcpA , mcpB , and mcpC due to their homology to known methyl-accepting chemotaxis protein genes . 
+The srfABC operon that clustered with ﬂagellar class 2 genes ranked highest of all the virulence-associated genes on the FlhDC-dependent list , which was consistent with its clustering with ﬂagellar genes . 
+The ﬂagellar genes that did not cluster ( ﬂgMN , ﬂhBAE , ﬂiE , ﬂiJ , ﬂiOPQR , and ﬂiY ) were less affected by the loss of ﬂhDC than the genes that did . 
+The ﬂiY gene is expressed by a 70-dependent promoter in addition to ﬂagellar promoters ( 23 ) , which would explain the reduced sensitivity to the loss of ﬂhDC . 
+Surprisingly , two ﬂagellar class 2 genes were , in fact , not signiﬁcantly affected by the absence of the ﬂhDC operon . 
+The ﬂiR gene averaged only 10 % lower RNA levels in the absence of the ﬂhDC operon , while the ﬂiQ gene was unaffected . 
+This likely reﬂects low levels of ﬂiQR mRNA in the presence of ﬂhDC . 
+Finally , the cafA gene , which clustered with ﬂagellar class 3 genes , showed FlhDC dependence using the ﬁrst set of array slides ( ﬂhDC / LT2 ratio , 0.17 ) but not in the second independently constructed set of array slides ( ﬂhDC / LT2 ratio , 1.3 ) , suggesting that the initial clustering with ﬂagellar genes was due to some error in array slide construction . 
+Also , cafA appears to be part of a large operon that includes the mreBCD genes , which were not FlhDC dependent on either set of array slides . 
+Isolation and characterization of Mud-lac operon fusions to new ﬂagellar genes . 
+To verify the microarray results for the identiﬁcation of novel ﬂagellar genes , we took advantage of the fact that a Mud-lac reporter fusion to the srfB gene had been isolated and generously provided to us by Fred Heffron . 
+We also took advantage of the close linkage of STM3152 to the metC gene and the fact that we already had an insertion of Tn10dCm at the very 3 end of the STM3216 gene to isolate Mud-lac insertions in STM3152 , STM3216 , and the aer locus ( see Materials and Methods ) as well as the close linkage of the cheV homolog gene , STM2314 , to a pmrD : : Cm insertion mutation generously provided to us by Eduardo Groisman . 
+Insertions of the lac transcriptional reporter vector MudJ in STM2314 , STM3152 , STM3216 , and aer loci were isolated ( see Materials and Methods ) . 
+These , along with the srfB : : MudJ insertion kindly provided by Fred Heffron , were assayed for effects of deletions in ﬂhDC and ﬂiA ( 28 ) on expression of these fusions to determine if these genes were transcribed from ﬂagellar class 2 or class 3 promoters . 
+Expression of the srfB : : MudJ insertion in strains carrying null alleles of ﬂhDC or ﬂiA conﬁrmed that the srfABC operon was a ﬂagellar class 2 operon . 
+Transcription was 30-fold reduced in the absence of FlhDC but was not signiﬁcantly affected by the ﬂiA null allele ( Table 3 ) . 
+MudJ insertions in the previously uncharacterized putative Sal-monella cheV ( STM2314 ) and mcp genes , STM2314 ( mcpA ) , STM3152 ( mcpB ) , STM3216 ( mcpC ) , and aer , were isolated and assayed in strains carrying null alleles of ﬂhDC or ﬂiA and in strains locked in either the ﬂiCON or ﬂjBON orientations of the ﬂagellar phase variation system to determine if any were under control of ﬂagellar phase variation ( Table 3 ) . 
+The MudJ insertion in STM2314 was 28 dependent and not affected by ﬂagellar phase variation . 
+As with the cheV : : MudJ insertion , MudJ insertions in the STM3152 ( mcpB ) , STM3216 ( mcpC ) , and aer loci were 28-dependent class 3 ﬂagellar genes and were not affected by ﬂagellar phase variation . 
+The cheV : : MudJ , mcpB : : MudJ mcpC : : MudJ , and aer : : MudJ fusions were not affect by ﬂagellar phase variation . 
+Only mcpB : : MudJ showed a somewhat reduced level in the ﬂiCOFF ﬂjBON ( Dhin-5718 : : FCF ) orientation , but the level observed was still within the error range of the - galactosi-dase assays . 
+While we did not obtain a MudJ insertion in STM3138 , we presumed that its clustering with the ﬂagellar class 3 genes , its dependence of FlhDC for expression ( RNA levels were 67-fold lower in ﬂhDC compared to LT2 [ Table 2 ] ) , its amino acid homology to MCP proteins , and the presence of a 28 consensus promoter sequence upstream ( the consensus 10 sequence is 80 bases upstream of the ATG start codon ) was sufﬁcient evidence to include it with the new Salmonella ﬂagellar class 3 genes . 
+We included the characterization of recently isolated ﬂgK : : MudJ in these studies ( 1 ) . 
+The ﬂgKL operon is transcribed from both class 2 and class 3 promoters ( 27 ) , and it clustered with the class 2 ﬂagellar genes ( Fig. 2 ) . 
+We tested the expression of the ﬂgK-lac transcriptional fusion in wild-type and ﬂhDC and ﬂiA mutant strains ( Table 3 ) . 
+The loss of 28-dependent class 3 transcription resulted in a fourfold reduction in ﬂgK-lac transcription , and transcription was abolished in the ﬂhDC strain background . 
+This is consistent with the ﬂgKL operon being transcribed from both class 2 and class 3 promoters . 
+Finally , we also isolated and characterized ﬂiB : : Mud-lac reporter constructs . 
+The ﬂiB gene was shown over 40 years ago to encode a protein that methylates the lysine residues of ﬂagellin ( 45 ) . 
+Prior to this array analysis , we presumed that the ﬂiB gene was transcribed in an operon with the ﬂiC gene ﬂagellin . 
+However , it was not determined if the ﬂiC and ﬂiB genes were cotranscribed in an operon , and it had not been reported where the ﬂiB gene resided within the ﬂagellar regulatory hierarchy . 
+Given its role as a ﬂagellin methylase , it was expected to be transcribed from a class 3 promoter . 
+However , the DNA array data showed that ﬂiB transcription was primarily dependent on FlhDC and not on 28 , indicating that it was transcribed in a class 2 transcript ( Fig. 2A ) . 
+Transcriptional and translational lac reporter fusions to the ﬂiB reporter were constructed using the Mud-lac transposons MudJ and MudK ( see Materials and Methods ) ( 18 ) . 
+The effect of FlhDC and 28 on the ﬂiB : : Mud-lac fusion constructs was determined and is presented in Table 3 . 
+Loss of 28 resulted in a twofold reduction in ﬂiB transcription using the ﬂiB : : MudJ ( lac operon ) transcriptional fusion vector , consistent with other class 2 genes ( 28 ) . 
+Loss of FlhDC resulted in complete loss of - ga-lactosidase activity for the ﬂiB : : MudJ fusion . 
+These results support the DNA array data and indicate that transcription of the ﬂiB gene was from a class 2 promoter . 
+Low levels of - galactosidase were obtained with the ﬂiB : : MudK construct , suggesting that there may be additional regulation of ﬂiB gene expression at the posttranscriptional level . 
+Primer extension assay of the ﬂiB gene . 
+The classiﬁcation of ﬂiB as a class 2 transcript predicted the presence of a promoter between the 3 end of the class 3 ﬂiC transcript and the beginning of the ﬂiB open reading frame . 
+Flagellar class 3 promoters have 10 ( GCCGATAA ) and 35 ( TAAAGTTT ) regions that are well conserved ( 21 ) , but the class 2 promoters lack a conserved 35 region , and even the 10 sequences are not well conserved , although 4 out of 10 class 2 promoters have an identical 10 sequence ( GATAAT ) ( 22 ) . 
+The closest sequence upstream of the ﬂiB start codon that corresponded to this sequence was CACAAT , 44 bases upstream of the ﬂiB coding region . 
+We performed primer extension assays on RNA samples isolated from isogenic wild-type ( LT2 ) , ﬂhDC ( TH2231 ) , and pﬂiB / WT ( pRP1/LT2 ) strains to locate a transcriptional start site for the ﬂiB gene . 
+The results of the primer extension analysis are shown in Fig. 3 . 
+The observed FlhDC-dependent start site maps to a guanine position ( marked by an asterisk ) that was located 9 bases downstream from the putative class 2 CACAAT ( 10 ) sequence mentioned above . 
+In addition , a polar Tn10 insertion in ﬂiC had no effect on ﬂiB-lac expression ( data not shown ) . 
+These results conﬁrm that ﬂiB was transcribed independently from the ﬂiC promoter from its own class 2 ﬂagellar promoter . 
+Motility phenotypes of strains defective in the srfB , yhjH , cafA , and ﬂiB loci . 
+In the original array , the original slides had cafA clustered with the ﬂagellar genes . 
+It was also identiﬁed by another group using the original Salmonella array slides as a gene coregulated with the ﬂagellar genes ( 48 ) . 
+Using the most recent set of Salmonella array slides , cafA did not show FlhDC-dependent regulation . 
+The location of the cafA gene in an operon of other nonﬂagellar genes and lack of any potential ﬂagellar promoter sequences supports that cafA is not a ﬂagellar gene . 
+We deleted the cafA and yhjH loci , and the DcafA and DyhjH mutant strains were tested for motility along wit strains containing Mud-lac null alleles of srfB or ﬂiB ( Fig. 4 ) . 
+The DcafA strain was unaffected in motility . 
+However , a polar , null allele in srfB was also unaffected in motility , even though it was veriﬁed to be dependent on an FlhDC-dependent class 2 promoter for its expression . 
+Loss of ﬂiB was also not affected for motility . 
+This is consistent with the idea that ﬂagellin meth-ylation by FliB is required for Salmonella virulence , not for ﬂagellin function ( K. Hughes and R. Curtiss III , unpublished data ) . 
+The deletion of yhjH caused a motility defect , as had been reported previously ( 43 ) . 
+The yhjH gene product was annotated as a dicyclic GMP phosphodiesterase . 
+The effect of yhjH on motility has yet to be determined . 
+FIG. 2 . 
+Cluster analysis of ﬂagellar genes using J-Express . 
+A. Cluster [ 1,1 ] included structural genes of the hook-basal body ( ﬂiF-N and ﬂgA-J ) , the ﬂagellin methylase ( ﬂiB ) , secretion chaperones ﬂiS and ﬂiT , a putative methyl-accepting chemotaxis gene , STM3152 , and the srfABC operon . 
+These are all expressed from class 2 promoters , except for the class 1 ﬂhC gene and class 3 STM3152 ( mcpB ) gene . 
+The ﬂiST genes are also expressed from a class 3 promoter . 
+The ﬂhC gene was artifactual , since it was deleted in three of the strains included in the cluster analysis . 
+B. Cluster [ 1,4 ] included genes of the chemosensory system ( tsr , STM3216 , aer , tcp , trg , STM2314 , STM3138 , cheZ , cheY , cheB , cheR , cheW , cheA , the ﬂagellar motor force generator genes [ motAB ] , the ﬂagellin genes [ ﬂiC and ﬂjB ] , the ﬂagellin cap gene [ ﬂiD ] , and regulatory genes ﬂiZ , ﬂiA [ 28 ] , and ﬂjA ) . 
+The RNase G structural gene , cafA , and the yhjH gene were also part of this cluster . 
+All genes are transcribed from ﬂagellar class 3 promoters , except for cafA . 
+The clustering of cafA with ﬂagellar genes was most likely an array error ( see the text ) . 
+The ﬂiA and ﬂiZ genes are also expressed from class 2 promoters 
+FRYE ET AL. . 
+TABLE 2 . 
+FlhDC-dependent Salmonella genesa 
+Rank and gene nameb Ratioc Rank and gene nameb Ratioc 
+1 . 
+ﬂiC ... 0 2 . 
+ﬂjB ... 0 3 . 
+ﬂgK ... 0 4 . 
+cheA ... 0 5 . 
+ﬂgG ... 0 6 . 
+ﬂiA ... 0 7 . 
+ﬂgD ... 0 8 . 
+ﬂiD ... 0 9 . 
+cheW ... 0 10 . 
+cheM ... 0 11 . 
+trg ... 0 12 . 
+ﬂgE ... 0 13 . 
+ﬂgL ... 0 14 . 
+motA ... 0 15 . 
+ﬂgF ... 0 16 . 
+ﬂgB ... 0 17 . 
+cheZ ... 0 18 . 
+aer ... 0 19 . 
+cheY ... 0 20 . 
+ﬂiH ... 0 21 . 
+cheR ... 0 22 . 
+cheB ... 0 23 . 
+motB ... 0 24 . 
+ﬂiZ ... 0 25 . 
+tsr ... 0 26 . 
+ﬂiM ... 0 27 . 
+ﬂiF ... 0 28 . 
+ﬂgH ... 0 29 . 
+ﬂiL ... 0 30 . 
+ﬂiB ... 0 31 . 
+ﬂiG ... 0 32 . 
+ﬂiS ... 0 33 . 
+ﬂgM ... 0 34 . 
+3138 ... 0 35 . 
+2314 ... 0 36 . 
+ﬂgC ... 0 37 . 
+ﬂgI ... 0 38 . 
+ﬂgJ ... 0 39 . 
+STM3216 ... 0 40 . 
+ﬂjA ... 0 41 . 
+srfA ... 0 42 . 
+tcp ... 0 43 . 
+srfB ... 0 44 . 
+yhjH ... 0 45 . 
+srfC ... 0 46 . 
+ﬂgA ... 0 47 . 
+ﬂiT ... 0 
+.03 .03 .04 .04 .06 .05 .05 .06 .07 .10 .08 .07 .07 .09 .07 .10 .09 .08 .09 .09 .12 .12 .12 .13 .14 .13 .14 .14 .14 .14 .16 .15 .15 .15 .15 .16 .17 .16 .16 .19 .21 .19 .20 .20 .20 .22 .23 
+4 4 5 5 5 5 5 5 5 5 5 5 6 6 6 6 6 6 6 6 6 6 7 7 7 7 7 7 7 7 7 7 8 8 8 8 8 8 8 8 8 8 9 ﬂ ﬂ ﬂ 
+8 . 
+ﬂiN ... 0 9 . 
+ﬂiI ... 0 0 . 
+ﬂiJ ... 0 1 . 
+ﬂhB ... 0 2 . 
+ﬂiP ... 0 3 . 
+modC ... 0 4 . 
+modA ... 0 5 . 
+ycgR ... 0 6 . 
+ﬂgN ... 0 7 . 
+STM3152 ... 0 8 . 
+ﬂiO ... 0 9 . 
+spaO ... 0 0 . 
+prgJ ... 0 1 . 
+modB ... 0 2 . 
+STM3155 ... 0 3 . 
+prgH ... 0 4 . 
+ﬂiE ... 0 5 . 
+sopB ... 0 6 . 
+ﬁmA ... 0 7 . 
+ﬂhA ... 0 8 . 
+invJ ... 0 9 . 
+invI ... 0 0 . 
+sipB ... 0 1 . 
+invG ... 0 2 . 
+sipC ... 0 3 . 
+STM1133 ... 0 4 . 
+invC ... 0 5 . 
+hilD ... 0 6 . 
+STM1328 ... 0 7 . 
+hilA ... 0 8 . 
+sicA ... 0 9 . 
+prgK ... 0 0 . 
+prgI ... 0 1 . 
+sprB ... 0 2 . 
+2787 ... 0 3 . 
+sipD ... 0 4 . 
+ﬂhE ... 0 5 . 
+hilC ... 0 6 . 
+STM4080 ... 0 7 . 
+yjcH ... 0 8 . 
+invA ... 0 9 . 
+sipA ... 0 0 . 
+yjcG ... 0 iYd ... 0 iR ... 0 iQ ... 0 
+.23 .26 .28 .31 .36 .41 .36 .38 .49 .32 .43 .50 .47 .46 .61 .38 .58 .34 .55 .53 .49 .50 .42 .42 .42 .31 .55 .53 .57 .45 .54 .44 .55 .50 .40 .51 .55 .46 .55 .53 .49 .57 .53 .57 .81 .98 
+1 4 3 4 0 0 8 0 3 
+5 2 4 2 9 
+5 9 5 7 
+a The top 90 genes were ranked from 4 independent array data sets . 
+b The ranking in this table reﬂects their average ranking from all four data sets . 
+Hence , some genes ranked higher than others , even though their overall FlhDC dependence was lower . 
+c The number represents the average ration of RNA in the ﬂhDC deletion background to the wild-type LT2 strain . 
+d The effect of FlhDC on the ﬂiY , ﬂiQ and ﬂiR genes , which did not make the top-90 cut , is also shown . 
+TABLE 3 . 
+- Galactosidase assays using the MudJ lac operon fusion vector as transcriptional reportera 
+Strain background srfB aer ﬂgK STM2314 STM3152 STM3216 ( cheV ) ( mcpB ) ( mcpC ) 
+i 
+ﬂ B 
+Wild type ﬂhDC 
+47 1.6 1 0.1 27 1.0 
+13 1 11 
+2 
+120 7.7 2.2 35 11 1 1.9 
+36 4.6 1.4 9.9 14 1 0.4 
+46 1.7 2.2 35 11 1 1.9 
+15 0.7 1.4 9.9 14 1 0.4 
+75 2.9 3.2 92 62 3.8 3.4 
+39 1.3 1.8 30 38 1.5 1.3 
+79 
+36 0.6 0.5 33 9 0.8 0.4 
+71 1.4 1 0.1 17 1.4 
+0.1 2.1 
+2.1 1.5 100 120 1.9 1.9 
+ﬂiA hin-5717 : : FCF hin-5718 : : FCF hin-5717 : : FCF ﬂhD2039 hin-5717 : : FCF ﬂiA 
+a The expression of srfB : : MudJ , ﬂgK : : MudJ and ﬂiB : : MudJ fusions were assayed in strains defective in either ﬂiA ( 28 ) or FlhDC compared to expression in the isogenic wild-type strain . 
+The ﬂiA allele used in these assays was ﬂiA5999 ( R91C , L207P ) and carries two point mutations that make this nonpolar mutant form of 28 defective in binding both the 35 ( L207P ) and 10 ( R91C ) regions of ﬂagellar promoters . 
+The expression of cheV : : MudJ , mcpB : : MudJ , mcpC : : MudJ , and aer : : MudJ fusions was assayed in strains defective in either ﬂiA ( 28 ) or FlhDC compared to expression in the isogenic wild-type strain and in strains locked in either the ﬂiCON ﬂjBOFF ( hin-5717 : : FCF ) or ﬂiCOFF ﬂiBON ( hin-5718 : : FCF ) state of ﬂagellar phase variation to determine if these genes were affected by ﬂagellar phase variation . 
+FIG. 3 . 
+A. Transcriptional start site mapping for the S. enterica serovar Typhimurium ﬂiB gene . 
+Lanes G , A , C , and T are the sequencing ladder . 
+Primer extensions were measured in isogenic wild-type ( WT ) , ﬂhDC , and pﬂiB wild-type ( pﬂiB / WT ) strains . 
+The base shown in red is the transcriptional start site . 
+B. Sequence upstream of the ﬂiB start codon is shown , and the transcriptional start site is marked by an asterisk . 
+The putative ﬂagellar class 2 promoter 10 sequence is shown in red . 
+The inverted sequence marked by arrows overlapping the ﬂiB transcriptional start site followed by a run of U 's is the putative Rho-independent transcriptional terminator for the ﬂiC transcript . 
+FIG. 4 . 
+Motility assays of novel ﬂagellar genes . 
+Null alleles in ﬂiB ( ﬂagellin methylase ) , cafA ( RNase G ) , yhjH ( unknown ) , and srfB ( unknown ) were tested and compared to the wild-type strain LT2 ( positive control ) and a strain deleted for hook-basal body structural genes ( ﬂgG-L ) . 
+FIG. 5 . 
+Analysis of functional domains in new Salmonella ﬂagellar genes cheV , mcpA , mcpB , mcpC , and aer . 
+The functional domains were determined using the SMART domain-based sequence annotation resource ( http://smart.embl-heidelberg.de/smart/set_mode . 
+cgi?NORMAL 1 ) ( 31 ) . 
+The Tar and Tsr MCP chemoreceptors were included for comparison . 
+DISCUSSION
+In this study , we screened the Salmonella genome for novel genes that were coregulated with known ﬂagellar genes using microarrays . 
+The Salmonella ﬂagellar genes clustered primarily according to whether they were expressed from class 2 or class 3 promoters . 
+One additional operon , the srfABC operon , was also included in the ﬂagellar class 2 gene cluster . 
+The srfC locus encodes a homolog to an ADP ribosyltransferase that is secreted by the virulenceassociated Hrp type III protein secretion system of Pseudo-monas syringae pv . 
+tomato DC3000 ( 40 ) . 
+The srfABC operon includes 3 of over 20 genes controlled by SsrAB , a two-component system located within Salmonella pathogenecity island 2 ( 49 ) . 
+Thus , the srfABC operon is thought to be associated with Salmonella virulence . 
+The operon showed the strongest regulation of all virulence genes by FlhDC . 
+A srfB : : MudJ insertion exhibited normal motility on a soft agar plate , indicating that the srf operon is not required for ﬂagellar construction . 
+We were surprised that several ﬂagellar structural genes , the ﬂhBAE genes , and the ﬂiE , ﬂiJ , and ﬂiOPQR genes did not cluster with class 2 genes , even though they are known ﬂagellar class 2 genes . 
+It is noteworthy that all ﬂagellar genes that showed the least dependence on FlhDC were at the 3 end of operons ( Table 2 ) . 
+This leads us to suspect that the mRNA of these operons was degraded from the 3 end so the levels of 3 gene mRNA was low . 
+We are intrigued by the possibility that microarrays , if set up to be quantitative , can be used to study mRNA degradation pathways . 
+This would be an important use for DNA microarrays in analyzing operon expression . 
+We were also surprised a little by the overlap between the FlhDC-dependent genes of Salmonella and those of E. coli . 
+In E. coli , six nonﬂagellar operons were identiﬁed that require FlhDC for expression not picked up in this study of Salmonella FlhDC-dependent genes . 
+These were genes required for cytoskelatin genes , mreBCD , and genes required for anaerobic respiration , glpABC , napFAGHBC , nrfABCDEFG , dmsABC , and hydNhypF ( 42 ) . 
+It is not clear why these were not picked up as FlhDC-dependent genes in Salmonella and may reﬂect the difference in lifestyles of the two organisms . 
+There are four new class 3 chemotaxis genes present in Salmonella that are not present in E. coli . 
+These genes , formerly named STM2314 , STM3138 , STM3152 , and STM3216 are here renamed cheV , mcpA , mcpB , and mcpC , respectively . 
+These genes clustered with the known class 3 ﬂagellar genes . 
+The structural motifs of these new genes are shown in Fig. 5 along with Aer and the well-characterized Tar and Tsr MCP receptors . 
+The CheV protein is a fusion of CheW to a CheY receiver domain . 
+McpA , McpB , McpC , and Aer all have a methyl-accepting signaling domain ( MA domain [ chemotaxis sensory transducer ] ) common to all MCP proteins . 
+Aer of Salmonella is essentially the same as Aer from E. coli ( data not shown ) . 
+McpB and McpC are similar to Tar and Tsr , with a putative periplasmic ligand-binding domain ﬂanked by transmembrane domains followed by a HAMP domain ( histidine kinases , adenylyl cyclases , methyl binding proteins , and phosphatases ) and the MA domain . 
+McpA is unusual . 
+McpA appears to have just a cytoplasmic MA domain followed by a coiled-coil region ( green ) . 
+Perhaps McpA interacts with the C-terminal domains of other Mcp receptors to inﬂuence their signaling . 
+Expression analysis of Mud-lac insertions in cheV , mcpB , and mcpC conﬁrmed that they are under the control of 28-dependent promoters . 
+The mcpC gene is in an apparent operon downstream of the Salmonella mcp gene required for aerotaxis , the aer gene . 
+We also obtained Mud-lac insertions in the previously uncharacterized Salmonella aer gene and veri-ﬁed that it was also expressed from a 28-dependent promoter . 
+The three novel MCPs not present in E. coli cluster to the same region of the Salmonella chromosome in the vicinity of the metC locus . 
+This is one of the largest regions of uncharacterized genes in the S. enterica serovar Typhimurium genome ( 44 ) , with a high density of S. enterica serovar Typhimuriumspeciﬁc ( STM ) genes ( 36 ) . 
+The mcpA ( STM3138 ) and mcpB ( STM3152 ) loci are located only 12.6 kbp from each other , and mcpC ( STM3216 ) is another 64.8 kbp clockwise of mcpB on the S. enterica serovar Typhimurium chromosome ( 36 ) . 
+Curiously , mcpC ( STM3216 ) is in an operon with the aerotaxis MCP gene aer , which is present in both S. enterica serovar Typhimurium and E. coli . 
+The location of mcpA immediately adjacent to 22 STM genes is suggestive that it may be part of a uncharacterized STM pathogenecity island , and future studies on a possible role of cheV and mcpA , mcpB , and mcpC in S. enterica serovar Typhimurium pathogenesis or survival as a commensal organism in S. enterica serovar Typhimurium hosts are warranted . 
+The ﬂiB gene was identiﬁed as a class 2 gene , and primer extension analysis revealed the presence of an FlhDC-dependent promoter located between ﬂiC and ﬂiB . 
+There is apparent overlap between the 3 - untranslated region of the ﬂiC transcript and the promoter region of ﬂiB ( Fig. 3 ) . 
+The ﬂiB transcriptional start site is located within the apparent Rho-independent termination signal for ﬂiC , suggesting that transcription of ﬂiC might interfere with that of ﬂiB . 
+However , a polar Tn10 insertion in ﬂiC did not affect expression of an ﬂiB-lac reporter construct ( data not shown ) . 
+Expression of ﬂiB from a class 2 promoter suggests that the FliB methylase must be temporally expressed before the ﬂiC or ﬂjB ﬁlament gene product on which it acts is produced . 
+The exact role in ﬂagellin methylation on Salmonella virulence has yet to be determined , but methylation of exposed lysine residues would remove the reactive positive charge of the lysine side group that could aid in avoiding the host immune response . 
+ACKNOWLEDGMENTS
+This work was supported by Public Health Service ( PHS ) grant GM56141 from the National Institutes of Health ( NIH ) , awarded to K.T.H. , and by PHS NIH grants AI034829 , AI052237 , and AI022933 to M.M. H.R.B. was a recipient of a PHS National Research Service Award ( T32 GM07270 ) from the National Institute for General Medical Sciences . 
+We thank Andy Lee for technical assistance with the primer extension assays , Angela Fung for help with the ﬂiB : : MudK isolation , Ryan Peterson for construction of plasmid pRP1 , Lewis Weil for technical assistance with - galactosidase assays , Cyndy Baker , Syed Tanveer Haider , and Ka Ye for help with the array analysis , Felisa Blackmer for technical assistance , our colleague Steffen Porwollik for invaluable assistance in array construction and data interpretation , and Eduardo Groisman for his generous gift of the pmrD : : Cm allele . 
+REFERENCES 
+1 . 
+Aldridge , P. , J. Karlinsey , and K. T. Hughes . 
+2003 . 
+The type III secretion chaperone FlgN regulates ﬂagellar assembly via a negative feedback loop containing its chaperone substrates FlgK and FlgL . 
+Mol . 
+Microbiol . 
+49:1333 -- 1345 . 
+2 . 
+Ausubel , F. M. , R. Brent , E. Kingston , D. D. Moore , J. G. Seidman , J. A. Smith , and K. Struhl . 
+1987 . 
+Current protocols in molecular biology . 
+Green Publishing Associates and John Wiley-Interscience , New York , N.Y. 3 . 
+Auvray , F. , J. Thomas , G. M. Fraser , and C. Hughes . 
+2001 . 
+Flagellin polymerisation control by a cytosolic export chaperone . 
+J. Mol . 
+Biol . 
+308:221 -- 229 . 
+4 . 
+Bennett , J. C. , and C. Hughes . 
+2000 . 
+From ﬂagellum assembly to virulence : the extended family of type III export chaperones . 
+Trends Microbiol . 
+8:202 -- 204 . 
+5 . 
+Boniﬁeld , H. R. , and K. T. Hughes . 
+2003 . 
+Flagellar phase variation in Sal-monella enterica serovar Typhimurium is mediated by a posttranscriptional control mechanism . 
+J. Bacteriol . 
+185:3567 -- 3574 . 
+6 . 
+Chilcott , G. S. , and K. T. Hughes . 
+2000 . 
+The coupling of ﬂagellar gene expression to ﬂagellar assembly in Salmonella enterica serovar Typhimurium and Escherichia coli . 
+Microbiol . 
+Mol . 
+Biol . 
+Rev. 64:694 -- 708 . 
+7 . 
+Chilcott , G. S. , and K. T. Hughes . 
+1998 . 
+The type III secretion determinants of the ﬂagellar anti-transcription factor , FlgM , extend from the amino-terminus into the anti- 28 domain . 
+Mol . 
+Microbiol . 
+30:1029 -- 1040 . 
+8 . 
+Datsenko , K. A. , and B. L. Wanner . 
+2000 . 
+One-step inactivation of chromosomal genes in Escherichia coli K-12 using PCR products . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 97:6640 -- 6645 . 
+9 . 
+Davis , R. W. , D. Botstein , and J. R. Roth . 
+1980 . 
+Advanced bacterial genetics . 
+Cold Spring Harbor Laboratory Press , Cold Spring Harbor , N.Y. 10 . 
+Ellermeier , C. D. , and J. M. Slauch . 
+2003 . 
+RtsA and RtsB coordinately regulate expression of the invasion and ﬂagellar genes in Salmonella enterica serovar Typhimurium . 
+J. Bacteriol . 
+185:5096 -- 5108 . 
+11 . 
+Elliott , T. , and J. R. Roth . 
+1988 . 
+Characterization of Tn10d-Cam : a trans-position-defective Tn10 specifying chloramphenicol resistance . 
+Mol . 
+Gen. Genet . 
+213:332 -- 338 . 
+12 . 
+Feldman , M. F. , and G. R. Cornelis . 
+2003 . 
+The multitalented type III chaperones : all you can do with 15 kDa . 
+FEMS Microbiol . 
+Lett . 
+219:151 -- 158 . 
+13 . 
+Fraser , G. M. , J. C. Bennett , and C. Hughes . 
+1999 . 
+Substrate-speciﬁc binding of hook-associated proteins by FlgN and FliT , putative chaperones for ﬂa-gellum assembly . 
+Mol . 
+Microbiol . 
+32:569 -- 580 . 
+14 . 
+Fraser , G. M. , T. Hirano , H. U. Ferris , L. L. Devgan , M. Kihara , and R. M. Macnab . 
+2003 . 
+Substrate speciﬁcity of type III ﬂagellar protein export in Salmonella is controlled by subdomain interactions in FlhB . 
+Mol . 
+Microbiol . 
+48:1043 -- 1057 . 
+15 . 
+Gillen , K. L. , and K. T. Hughes . 
+1991 . 
+Molecular characterization of ﬂgM , a gene encoding a negative regulator of ﬂagellin synthesis in Salmonella typhi-murium . 
+J. Bacteriol . 
+173:6453 -- 6459 . 
+16 . 
+Gillen , K. L. , and K. T. Hughes . 
+1991 . 
+Negative regulatory loci coupling ﬂagellin synthesis to ﬂagellar assembly in Salmonella typhimurium . 
+J. Bacteriol . 
+173:2301 -- 2310 . 
+17 . 
+Gillen , K. L. , and K. T. Hughes . 
+1993 . 
+Transcription from two promoters and autoregulation contribute to the control of expression of the Salmonella typhimurium ﬂagellar regulatory gene ﬂgM . 
+J. Bacteriol . 
+175:7006 -- 7015 . 
+18 . 
+Groisman , E. A. 1991 . 
+In vivo genetic engineering with bacteriophage Mu . 
+Methods Enzymol . 
+204:180 -- 212 . 
+19 . 
+Hirano , T. , T. Minamino , K. Namba , and R. M. Macnab . 
+2003 . 
+Substrate speciﬁcity classes and the recognition signal for Salmonella type III ﬂagellar export . 
+J. Bacteriol . 
+185:2485 -- 2492 . 
+20 . 
+Hughes , K. T. , and J. R. Roth . 
+1988 . 
+Transitory cis complementation : a method for providing transposition functions to defective transposons . 
+Genetics 119:9 -- 12 . 
+21 . 
+Ide , N. , T. Ikebe , and K. Kutsukake . 
+1999 . 
+Reevaluation of the promoter structure of the class 3 ﬂagellar operons of Escherichia coli and Salmonella . 
+Genes Genet . 
+Syst . 
+74:113 -- 116 
+22 . 
+Ikebe , T. , S. Iyoda , and K. Kutsukake . 
+1999 . 
+Promoter analysis of the class 2 ﬂagellar operons of Salmonella . 
+Genes Genet . 
+Syst . 
+74:179 -- 183 . 
+23 . 
+Ikebe , T. , S. Iyoda , and K. Kutsukake . 
+1999 . 
+Structure and expression of the ﬂiA operon of Salmonella typhimurium . 
+Microbiology 145:1389 -- 1396 . 
+24 . 
+Karlinsey , J. E. , J. Lonner , K. L. Brown , and K. T. Hughes . 
+2000 . 
+Translation/secretion coupling by type III secretion systems . 
+Cell 102:487 -- 497 . 
+25 . 
+Karlinsey , J. E. , S. Shugo Tanaka , V. Bettenworth , S. Yamaguchi , W. Boos , S. I. Aizawa , and K. T. Hughes . 
+2000 . 
+Completion of the hook-basal body of the Salmonella typhimurium ﬂagellum is coupled to FlgM secretion and ﬂiC transcription . 
+Mol . 
+Microbiol . 
+37:1220 -- 1231 . 
+26 . 
+Kutsukake , K. 1997 . 
+Autogenous and global control of the ﬂagellar master operon , ﬂhD , in Salmonella typhimurium . 
+Mol . 
+Gen. Genet . 
+254:440 -- 448 . 
+27 . 
+Kutsukake , K. , and N. Ide . 
+1995 . 
+Transcriptional analysis of the ﬂgK and ﬂiD operons of Salmonella typhimurium which encode ﬂagellar hook-associated proteins . 
+Mol . 
+Gen. Genet . 
+247:275 -- 281 . 
+28 . 
+Kutsukake , K. , and T. Iino . 
+1994 . 
+Role of the FliA-FlgM regulatory system on the transcriptional control of the ﬂagellar regulon and ﬂagellar formation in Salmonella typhimurium . 
+J. Bacteriol . 
+176:3598 -- 3605 . 
+29 . 
+Kutsukake , K. , T. Ikebe , and S. Yamamoto . 
+1999 . 
+Two novel regulatory genes , ﬂiT and ﬂiZ , in the ﬂagellar regulon of Salmonella . 
+Genes Genet . 
+Syst . 
+74:287 -- 292 . 
+30 . 
+Kutsukake , K. , Y. Ohya , and T. Iino . 
+1990 . 
+Transcriptional analysis of the ﬂagellar regulon of Salmonella typhimurium . 
+J. Bacteriol . 
+172:741 -- 747 . 
+31 . 
+Letunic , I. , L. Goodstadt , N. J. Dickens , T. Doerks , J. Schultz , R. Mott , F. Ciccarelli , R. R. Copley , C. P. Ponting , and P. Bork . 
+2002 . 
+Recent improvements to the SMART domain-based sequence annotation resource . 
+Nucleic Acids Res . 
+242 -- 244 . 
+30 : 32 . 
+Liu , X. , and P. Matsumura . 
+1996 . 
+Differential regulation of multiple overlapping promoters in ﬂagellar class II operons in Escherichia coli . 
+Mol . 
+Microbiol . 
+21:613 -- 620 . 
+33 . 
+Liu , X. , and P. Matsumura . 
+1994 . 
+The FlhD/FlhC complex , a transcriptional activator of the Escherichia coli ﬂagellar class II operons . 
+J. Bacteriol . 
+176 : 7345 -- 7351 . 
+34 . 
+Macnab , R. M. 1996 . 
+Flagella and motility , p. 123 -- 145 . 
+In F. C. Neidhardt , R. Curtiss III , J. L. Ingraham , E. C. C. Lin , K. B. Low , B. Magasanik , W. S. Reznikoff , M. Riley , M. Schaechter , and H. E. Umbarger ( ed . ) 
+, Escherichia coli and Salmonella : cellular and molecular biology , 2nd ed . 
+ASM Press , Washington , D.C. 35 . 
+Maloy , S. R. 1990 . 
+Experimental techniques in bacterial genetics . 
+Jones and Bartlett , Boston , Mass. 36 . 
+McClelland , M. et al. 2001 . 
+Complete genome sequence of Salmonella enterica serovar Typhimurium LT2 . 
+Nature 413:852 -- 856 . 
+37 . 
+Minamino , T. , T. Iino , and K. Kutuskake . 
+1994 . 
+Molecular characterization of the Salmonella typhimurium ﬂhB operon and its protein products . 
+J. Bacteriol . 
+7630 -- 7637 . 
+38 . 
+Ohnishi , K. , K. Kutsukake , H. Suzuki , and T. Iino . 
+1990 . 
+Gene ﬂiA encodes an alternative sigma factor speciﬁc for ﬂagellar operons in Salmonella typhi-murium . 
+Mol . 
+Gen. Genet . 
+221:139 -- 147 . 
+39 . 
+Ohnishi , K. , K. Kutsukake , H. Suzuki , and T. Iino . 
+1992 . 
+A novel transcriptional regulatory mechanism in the ﬂagellar regulon of Salmonella typhi ¬ 
+murium : an anti sigma factor inhibits the activity of the ﬂagellum-speciﬁc sigma factor , F. Mol . 
+Microbiol . 
+6:3149 -- 3157 . 
+40 . 
+Petnicki-Ocwieja , T. , D. J. Schneider , V. C. Tam , S. T. Chancey , L. Shan , Y. Jamir , L. M. Schechter , M. D. Janes , C. R. Buell , X. Tang , A. Collmer , and J. R. Alfano . 
+2002 . 
+Genomewide identiﬁcation of proteins secreted by the Hrp type III protein secretion system of Pseudomonas syringae pv . 
+tomato DC3000 . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 99:7652 -- 7657 . 
+41 . 
+Porwollik , S. , J. Frye , L. D. Florea , F. Blackmer , and M. McClelland . 
+2003 . 
+A non-redundant microarray of genes for two related bacteria . 
+Nucleic Acids Res . 
+31:1869 -- 1876 . 
+42 . 
+Pruss , B. M. , X. Liu , W. Hendrickson , and P. Matsumura . 
+2001 . 
+FlhD/FlhC-regulated promoters analyzed by gene array and lacZ gene fusions . 
+FEMS Microbiol . 
+Lett . 
+197:91 -- 97 . 
+43 . 
+Rychlik , I. , G. Martin , U. Methner , M. Lovell , L. Cardova , A. Sebkova , M. Sevcik , J. Damborsky , and P. A. Barrow . 
+2002 . 
+Identiﬁcation of Salmonella enterica serovar Typhimurium genes associated with growth suppression in stationary-phase nutrient broth cultures and in the chicken intestine . 
+Arch . 
+Microbiol . 
+178:411 -- 420 . 
+44 . 
+Sanderson , K. E. , A. Hessel , and K. E. Rudd . 
+1995 . 
+Genetic map of Salmo-nella typhimurium , edition VIII . 
+Microbiol . 
+Rev. 59:241 -- 303 . 
+45 . 
+Stocker , B. A. D. , M. W. McDonough , and R. P. Ambler . 
+1961 . 
+A gene determining presence or absence of e-N-methyllysine in Salmonella ﬂagellar protein . 
+Nature 189:556 -- 558 . 
+46 . 
+Teplitski , M. , R. I. Goodier , and B. M. Ahmer . 
+2003 . 
+Pathways leading from BarA/SirA to motility and virulence gene expression in Salmonella . 
+J. Bacteriol . 
+185:7257 -- 7265 . 
+47 . 
+Totten , P. A. , and S. Lory . 
+1990 . 
+Characterization of the type a ﬂagellin gene from Pseudomonas aeruginosa PAK . 
+J. Bacteriol . 
+172:7188 -- 7199 . 
+48 . 
+Wang , Q. , J. G. Frye , M. McClelland , and R. M. Harshey . 
+2004 . 
+Gene expression patterns during swarming in Salmonella typhimurium : genes spe-ciﬁc to surface growth and putative new motility and pathogenicity genes . 
+Mol . 
+Microbiol . 
+52:169 -- 187 . 
+49 . 
+Waterman , S. R. , and D. W. Holden . 
+2003 . 
+Functions and effectors of the Salmonella pathogenicity island 2 type III secretion system . 
+Cell Microbiol . 
+5:501 -- 511 . 
+50 . 
+Way , J. C. , M. A. Davis , D. Morisato , D. E. Roberts , and N. Kleckner . 
+1984 . 
+New Tn10 derivatives for transposon mutagenesis and for construction of lacZ operon fusions by transposition . 
+Gene 32:369 -- 379 . 
+51 . 
+Worley , M. J. , K. H. Ching , and F. Heffron . 
+2000 . 
+Salmonella SsrB activates a global regulon of horizontally acquired genes . 
+Mol . 
+Microbiol . 
+36:749 -- 761 . 
+52 . 
+Yanagihara , S. , S. Iyoda , K. Ohnishi , T. Iino , and K. Kutsukake . 
+1999 . 
+Structure and transcriptional control of the ﬂagellar master operon of Sal-monella typhimurium . 
+Genes Genet . 
+Syst . 
+74:105 -- 111 . 
+53 . 
+Yokoseki , T. , K. Kutsukake , K. Ohnishi , and T. Iino . 
+1995 . 
+Functional analysis of the ﬂagellar genes in the ﬂiD operon of Salmonella typhimurium . 
+Microbiology 141:1715 -- 1722 . 
+54 . 
+Youderian , P. , P. P. Sugiono , K. L. Brewer , N. P. Higgins , and T. Elliott . 
+1988 . 
+Packaging speciﬁc segments of the Salmonella chromosome with locked-in Mud-P22 prophages . 
+Genetics 118:581 -- 592

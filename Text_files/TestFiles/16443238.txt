@@ -1,0 +1,691 @@
+doi :10.1016 / j.jmb .2006.01.007 
+J. Mol . 
+Biol . 
+( 2006 ) 357 , 373 -- 386 
+Crucial Roles of Both Flanking Sequences in Silencing of the hilA pro oter in onella enterica
+m 
+Salm 
+Igor N. Olekhnovich * and Robert J. Kadner † 
+The hilA gene on the Salmonella enterica pathogenicity island-1 encodes the key transcriptional regulator of host cell invasion . 
+Transcription of hilA is regulated by numerous physiological signals , including repression under low osmolarity conditions . 
+To investigate the osmotic control of hilA transcription , promoter truncations that remove sequences ﬂanking the hilA promoter were examined . 
+Expression of the minimal hilA core promoter ( K55 to C90 , relative to the transcription start site ) was 57-times higher than the intact promoter ( K242 to C505 ) in the absence of osmotic stress . 
+Both ﬂanking sequences contributed to the strong silencing effect , which was greatly relieved by the simultaneous loss of the two nucleoid-structuring proteins , H-NS and Hha . 
+Mobility-shift assays revealed the presence of binding sites for the H-NS and Hha proteins , both upstream and downstream of the promoter . 
+Either ﬂanking region depressed expression when it was placed downstream of the lacUV5 promoter , and this inhibition was increased when the other ﬂanking sequence was present upstream of the promoter . 
+These results show that the hilA promoter is highly active without other transcription regulators . 
+Its high activity is strongly depressed in low osmolarity conditions by the nucleoid-structuring proteins H-NS and Hha , possibly by formation of a repressive DNA loop . 
+The hilA activators , HilD and HilC appear to overcome effects of downstream silencing region and disrupt repressive DNA loop . 
+Action of activators requires contact with RNA polymerase from their DNA binding site , centered at position K77 , relative to the hilA transcription start site . 
+Department of Microbiology University of Virginia School of Medicine , Charlottesville VA 22908-0734 , USA 
+q 2006 Elsevier Ltd. . 
+All rights reserved . 
+Keywords : transcriptional silencing ; H-NS ; Hha ; promoter deletion ; invasion functions 
+* Corresponding author 
+Introduction
+The characteristic ability of Salmonella enterica serovars to invade and survive in epithelial cells and macrophages depends on the injection of 1,2 speciﬁc effector proteins into the host cell or phagosome by two type III secretion systems ( T3SS ) . 
+Central to the cell invasion process is the T3SS that is encoded on Salmonella pathogenicity island-1 ( SPI1 ) and injects effector proteins that trigger rearrangements of the actin cytoskeleton leading to transient membrane rufﬂing and bacterial uptake . 
+SPI1 is a 40 kb element present in all 3,4 
+† Deceased 7 August 2005 . 
+Abbreviations used : USR , upstream silencing region ; DSR , downstream silencing region . 
+E-mail address of the corresponding author : io4n@virginia.edu 
+Salmonellae and located at centrisome 63 on the Salmonella enterica serovar Typhimurium chromosome . 
+Another T3SS and cognate effectors encoded on SPI-2 are required for bacterial growth within macrophage phagosomes . 
+The expression and activity of both T3SS machines are tightly regulated by complex regulatory networks in response to multiple environmental signals , which may restrict their activity to proper locations in the host . 
+The regulation of invasive potential and trans-cription of the SPI1 genes have been extensively studied . 
+The key component in this complex 5,6 regulatory circuit is HilA , an OmpR family member which activates directly or indirectly most genes related to SPI1 function . 
+Expression 7 of lacZ reporter fusions to many SPI1 structural genes or to hilA is affected by a wide range of environmental signals , including oxygenation , osmolarity , short chain fatty acids , and bile salts . 
+Many transcription factors contribute in 8 -- 12 positive or negative manners to control hilA and invasion gene expression . 
+Expression of hilA is increased by the pleiotropic activator proteins OmpR , PhoPQ , and the Factor for Inversion Stimulation , Fis . 
+Three homologous proteins , 8,13,14 HilC , HilD , and RtsA , which belong to the AraC/XylS family of transcription factors can activate expression of hilA and some of its target genes . 
+HilC and HilD are encoded on SPI1 15 -- 19 and RtsA on another SPI . 
+They appear to act directly by binding upstream of the regulated promoters . 
+16,20,21 Proteins that decrease expression of the hilA promoter include nucleoid-structuring proteins H-NS and Hha , Lon protease , Ams , HilE , and the RNA-stability-modifying CsrAB system . 
+22 -- 25 A highly abundant in Enterobacteria nucleoidbinding protein H-NS participates in many examples of gene silencing and affects expression of some 5 % of the Escherichia coli transcriptome . 
+26 H-NS is one of the few repressor proteins that can act by binding to downstream sequences of the promoters . 
+When interacting with DNA , H-NS binds to curved , AT-rich sequence ( AT tracts ) , which followed oligomerization and subsequent alteration of DNA structure . 
+Detailed analysis 27 -- 31 of the proU , bgl , and elt promoters suggests that binding of H-NS to the downstream silencers reﬂects regulation at the mRNA level , including initiation of transcription and elongation . 
+H-NS 32 -- 34 can form heteromeric complexes with related nucleoid-associated proteins , including Hha , YdgT , and StpA . 
+It has been proposed that 35 -- 37 Hha -- H-NS complex is required for E. coli haemo-lysin gene regulation in response to thermal and osmotic signals . 
+In several systems , studied so far , 35 silencing by H-NS involves formation of a repressive DNA loop . 
+It has been noted , that 38,39 disruption of the repressive nucleoprotein structures mediated by H-NS requires activation signals or positively acting transcription factors , however 29 little is known about the mechanisms of this action . 
+Expression of the hilA promoter in vivo , assayed from the activity of hilA-lacZ transcriptional fusions , is relatively low , subject to extensive regulatory modulation , and dependent on the activators HilC , HilD or RtsA . 
+In 7,17 contrast , in vitro transcription of the hilA promoter with E. coli RNA polymerase revealed high activity that was little affected by the presence of HilC or HilD . 
+These observations 40 are consistent with the view that in vivo hilA control occurs mainly by negative-acting factors . 
+To examine the interplay of the positive and negative acting components in hilA expression , we started a systematic analysis of the hilA promoter using a series of promoter derivatives of varying lengths in strains lacking some of the regulatory factors . 
+The results revealed the crucial contributions of the ﬂanking sequences together with H-NS and Hha nucleoid-associated proteins for proper regulation . 
+0022-2836 / $ - see front matter q 2006 Elsevier Ltd. . 
+All rights reserved 
+Results
+Flanking sequences on both sides of the hilA promoter decrease its activity
+To investigate the contribution of parts of the hilA promoter region for its response to regulatory proteins , promoter truncations that remove parts of the upstream and transcribed region were examined . 
+We chose to start our studies with medium copy number plasmid-based reporters owing to the higher level of expression and the ease of transfer to different strain backgrounds . 
+Chromosomal constructs were used later to conﬁrm plasmid-based ﬁndings . 
+DNA fragments carrying deﬁned regions of the hilA promoter were prepared by PCR , cloned in front of the promoter-less lacZY genes in the moderate-copy number plasmid pRS415P and expressed in S.enterica serovar 20 Typhimurium strain LT2 . 
+Expression of b-galacto-sidase was measured following microaerophilic growth of cells at 37 8C in unshaken cultures in salt-free LB medium or LB containing 1 % NaCl . 
+Only the response to osmolarity was examined to simplify initial comparisons . 
+The promoter carrying the region from K242 to C505 , which includes the 349 nt leader region , showed relatively low activity that was stimulated 2.8-fold by NaCl ( Figure 1 ) . 
+The same activity and regulation were seen with a longer promoter fragment ( K367 to C505 ) , suggesting that key regulatory elements were not present upstream of K242 ( data not shown ) . 
+As expected , most hilA expression from the fulllength promoter was lost in a strain deleted for SPI1 ( DSPI1 ) , which encodes the activators HilC and HilD . 
+The low activity remaining in the DSPI1 strain was decreased by elevated salt conditions . 
+Compared to the full-length promoter , the shortest promoter examined , termed the core promoter ( K55 to C90 ) , exhibited a marked increase in expression , ranging from 10.4-fold effect under high osmolarity conditions to 37-fold effect in low osmolarity medium . 
+Unlike the full-length promoter , expression from the core promoter was 20 % lower in the high-salt medium than in the low-salt medium . 
+The high core promoter activity was unaffected by deletion of SPI1 , showing that HilC / HilD do not activate the core promoter . 
+To localize the ﬂanking sequences that inﬂuence hilA expression , promoter variants carrying additional lengths of the upstream and downstream sequences were examined ( Figure 1 ) . 
+Extension of the upstream region from position K55 to K100 or K140 had no substantial effect on the level of expression or the response to salt , showing that presence of the HilC/HilD-binding region A2 at 20 K92 to K60 did not affect the high level of core promoter activity . 
+Addition of upstream sequences to K186 , K210 and K242 resulted in a progressive decrease in expression down to 20 or 30 % of the core promoter in low or high-salt conditions , respectively . 
+Induction by high-salt conditions wa partially restored in the K242 to C90 construct , but not in the others . 
+When the promoter fragment carrying the K242 to C90 region was expressed in the DSPI1 strain , activation in high-salt conditions was lost , but the activity in low-salt conditions was only slightly decreased . 
+These results show that the presence of upstream sequences between positions K242 and K140 causes up to an 80 % decrease in promoter expression . 
+This region is called the upstream silencing region , USR ( Figure 1 ) . 
+The USR overlaps the HilC/D-binding region A1 ( K226 to K195 ) , which appears necessary for induc-20 ,21 tion by high-salt conditions . 
+The downstream ﬂanking sequences had an even more striking effect on hilA expression . 
+Compared to the K55 to C90 promoter , the activity of the K55 to C150 promoter was depressed to 21 % or 29 % in high or low-salt conditions , respectively ( Figure 1 ) . 
+Further downstream extension resulted in progress-ive decrease in expression down to 2 % that of the core promoter in the K55 to C505 variant . 
+Thus , the downstream region confers a potent decrease in expression and is termed the downstream silencing region , DSR . 
+All of the promoter fragments that extended downstream from position K55 were repressed in high-salt conditions . 
+A substantial degree of salt inducibility was restored in the K100 to C505 promoter variant carrying the HilC/HilD-binding A2 region ( K85 to K61 ) .20,21 This stimulatory effect by the presence of the A2 region was SPI1-dependent , suggesting that action of HilC or HilD can increase promoter activity that has been silenced by the presence of the DSR . 
+Deletion of SPI1 also caused a modest decrease in expression in high-salt conditions of the K55 to C300 and K55 to C505 promoters . 
+These promoters lack the upstream HilC/D-binding sequences but , as shown later still bind HilC/D . 
+To conﬁrm plasmid-based ﬁndings , three hilA promoter variants K242 to C505 , K55 to C90 , and K55 to C505 in vector pRS415 were crossed by in vivo recombination into phage lRS45 ( imm21 nin ) , and then introduced as lysogens into the 5 41 chromosome of S.enterica serovar Typhimurium LT2 . 
+The level of b-galactosidase was determined 42 following growth in high and low-salt media . 
+The decrease in copy number of hilA-lacZ reporters from 50 ( plasmid pRS415 ) to 1 -- 2 ( lysogen ) manifests in about 26-fold reduction of the level of b-galacto-sidase among all three hilA-lacZ promoter variants tested ( Table 1 ) . 
+In addition , the chromosomal reporter of the full-length hilA promoter showe reporter K242 to C505 K55 to C90 K55 toC505 a 
+Figure 1 . 
+Expression of truncated version of hilA promoter . 
+The top section presents a schematic version of the hilA promoter region number in bp relative to the transcription start site at C1 . 
+The hilA coding region is indicated by the marked box . 
+The previously identiﬁed binding sites for HilC and HilD are indicated as regions A1 and A2 . 
+The positions of the upstream silencing region , USR , and the regions contributing to the downstream silencing region , DSR , are indicated at the top . 
+The sequences carried on the promoter fragments fused to lacZY reporter are aligned below the map and are named according to the hilA regions that they contain . 
+To the right of each promoter construct are presented the levels of b-galactosidase activity obtained when cells were grown in static culture in LB with 1 % NaCl ( C ) or no added NaCl ( K ) . 
+The left column ( SPI1C ) was obtained when the reporter plasmids were carried in the parental strain LT2 ; the right column reﬂects data for the indicated plasmids carried in strain IO926 , an isogenic variant of LT2 deleted for SPI1 . 
+All values are averages of at least two determinations in triplicate . 
+Values for the reporter plasmid without insert were in the range of six to ten units . 
+NaCl: C/K C/K C/K
+Plasmid 670/240 7010/8980 100/180 Relative 7/3 78/100 1⁄2 activity ( % ) Salt effect 2.8 0.8 0.6 b Lysogen 34/6 268/339 3/5 Relative 10/2 79/100 0.9 / 1.5 activity ( % ) Salt effect 5.7 0.8 0.6 a Truncated versions of hilA promoter were expressed from medium copy number lacZY reporter plasmid ( Figure 1 ) or lRS45 lysogen . 
+Salmonella lysogens IO942 ( K242/C505 ) , IO945 ( K55/C 90 ) , and IO946 ( K55/C505 ) are described in Table 3 . 
+The level of bgalactosidase was determined following growth in LB medium with 1 % NaCl ( NaClC ) or salt free LB medium ( NaClK ) . 
+All values are averages of three independent experiments . 
+b A ratio of b-galactosidase activities determined in NaClC and NaClK conditions . 
+twofold stronger stimulation by salt , than reporter based on a plasmid . 
+This effect can be attributed to the titration of protein factors in experiments employing plasmid-based reporters . 
+Compared to the full-length promoter , the chromosomal core promoter ( K55 to C90 ) exhibited 57-fold increase in expression in low osmolarity conditions , which is greater response than shown with plasmid reporters . 
+Thus , data obtained with chromosomal constructs conﬁrmed the effect of ﬂanking sequences on hilA expression detected with plasmid-borne reporters . 
+Taken together , these results show that the core hilA promoter has much higher activity than the full-length promoter , is independent of the SPI1-encoded regulators , and is not induced by high-salt conditions . 
+Negative elements in both the upstream and downstream regions substantially decrease reporter expression . 
+The silencing effects appear to be overcome by the presence of SPI1-encoded factors , but only the upstream region confers responsiveness to inducing salt conditions . 
+The HilC/HilD-binding regions A1 and A2 increase promoter activity only on promoters that contain silencing elements . 
+The DSR has the stronger effect on activity , but it might act in concert with the USR for proper regulation . 
+hilA-lacZ 
+Regulatory proteins affect expression of hilA promoters with USR and DSR
+Numerous global regulatory proteins have been reported to affect hilA expression . 
+To compare their effects on various regions of the hilA promoter , four representative promoter constructs carrying the core promoter ( K55 to C90 ) , the USR ( K242 to C90 ) , the DSR ( K55 to C300 ) , and full-length promoter ( K242 to C505 ) , were introduced into strains carrying null mutations in some genes previously found to affect hilA expression . 
+The level of b-galactosidase was determined after growth in high and low-salt conditions ( Table 2 ) . 
+Expression of the promoter constructs were measured in LT2 background , except of three ATCC14028 derivatives : CA678 ( DcsrATcam , carrying suppressors compensating for poor growth ) ; JS479 , DhilDTkan DhilCTcam DrtsA ( control strain lacking all Salmonella-speciﬁc activators of hilA ) ; and the wild-type strain . 
+The presence of SPI1 provided substantial activation under inducing conditions when either the USR or DSR were present , but no effect on the core promoter ( Table 2 ) . 
+SPI1 had the greatest activation ( 20-fold ) when both the USR and DSR were present . 
+The degree of stimulation was lower in low-salt conditions . 
+To see whether genes encoded on SPI1 besides hilC and hilD participated in this response , strain JS479 , with individual null mutations in hilC , hilD and rtsA was examined . 
+In this strain , expression of the full-length ( K242 to C505 ) and USR-containing ( K242 to C90 ) promoters showed similar levels of expression as in the DSPI1 strain . 
+The DSR-containing promoter ( K55 to C300 ) showed no effect of the absence of the three activators , suggesting that the activators act on the USR and that the silencing effects at the DSR alone can not be relieved by the activators . 
+Thus , full activation by the HilC/HilD/RtsA proteins requires the entire promoter , but the upstream ﬂanking sequences are required for detectable activation . 
+Absence of Hha and H-NS relieved the decreased expression resulting from the presence of either DSR or USR . 
+They acted mainly in the repressive low-salt conditions . 
+Absence of the hilE or pag functions resulted in about ﬁvefold increased expression of the full-length promoter in inducing conditions , with lower effect in low-salt conditions . 
+The hilE and pag mutants showed increased expression of the two promoters with only the USR or DSR , but these effects were seen only under inducing conditions with no change in the low-salt medium . 
+Absence of ams function had no effect on any of the promoters . 
+The effect of mutations in ﬁs , sirA , and csrA , which work most likely through hilD , rather than on hilA itself , closely 17,23,25 resembles the effect of DSPI1 deletion . 
+Finally , absence of small untranslated RNA CsrB , that 17,25 antagonizes CsrA activity , had no substantial effect on any of the promoters tested . 
+hilA-lacZ 
+Table 2 . 
+Effect of mutations in regulatory genes on expression of truncated hilA promoters 
+Plasmid ( philA ) K55 to C90 K242 to C90 K55 to C300 K242 to C505 Strain NaCl : C/K C/K C/K C/K 
+570/170 35/55 995/1020 560/1550 2575/640 2140/355 715/175 70/35 20/30 275/90 405/180 55/80 125/95 
+155/290 85/255 250/760 425/1370 610/400 500/300 250/300 140/340 120/295 180/365 240/405 220/430 155/200 
+2050/1760 820/1570 4750/5170 6185/10760 3275/2445 4135/2540 2300/2165 980/1570 995/1700 1615/2000 1945/2260 835/2045 430/765 
+6675/8285 7250/9070 7100/10620 7500/12155 4705/5970 7070/10200 9305/12280 8110/9905 7275/7985 6720/8775 7910/12040 9720/9295 4160/5960 
+LT2 ( WT ) IO926 ( DSPI-1 ) 
+IO933 ( hha ) LM639 ( hns ) IO929 ( hilE ) IO931 ( pag ) IO930 ( ams ) IO928 ( ﬁs ) IO927 ( sirA3TCm ) IO932 ( csrB ) ATCC14028 ( WT ) JS479 ( hilD hilC rtsA CA678 ( csrA ) 
+) 
+The four plasmids carrying portions of the hilA promoter driving lacZY expression were : K55 to C90 , K242 to C90 , K55 to C300 , and K242 to C505 . 
+Each plasmid was introduced by electroporation into strains carrying the indicated regulatory gene mutations . 
+The level of b-galactosidase was determined following growth in LB medium with 1 % NaCl or no added NaCl . 
+Deviations were less than 10 % 
+Figure 2 . 
+Effect of deletion of hns and hha regulators on expression of chromosomal transcriptional fusion hilA080TTn5lacZY in the presence or absence of hilDC . 
+Expression of chromosomal hilA-lacZY reporter was examined in LT2 background : WT ( LM643 ) , hha ( IO905 ) , hns ( LM645 ) , hha hns ( IO907 ) , DhilDC ( IO935 ) , DhilDC hha ( IO938 ) , DhilDC hns ( IO937 ) , DhilDC hha hns ( IO939 ) . 
+The level of b-galactosidase was determined following growth in LB medium with 1 % NaCl ( ﬁlled bars ) or no added NaCl ( open bars ) . 
+Data are representative of three independent experiments . 
+Synergistic effect of H-NS and Hha on hilA promoter
+Since neither Hha , H-NS , HilE , Pag , nor Ams is solely responsible for silencing of any hilA promoter construct tested ( Table 2 ) , we consider the possibility that some of these factors function cooperatively to silence hilA promoter from ﬂanking sequences . 
+We examined ﬁrst the double hha hns mutant , because cooperative action of H-NS and Hha proteins is already documented for the E. coli haemolysin gene . 
+A single copy hilA080TTn5-43 lacZY ( Tet ) transcriptional fusion , that contains r 8 full hilA promoter , was used to assess the effect of single and double mutants in the presence or absence of activators HilD and HilC ( Figure 2 ) . 
+The level of b-galactosidase was determined following growth in high and low-salt media . 
+In the absence of Hha , the full-length hilA promoter showed about 3.5-fold increase in b-galactosidase levels in both high and low-salt medium ( Figure 2 , line 2 ) . 
+In contrast , absence of H-NS showed 5.3-fold increase of hilA expression under low osmolarity conditions , but no effect in the high-salt medium ( line 3 ) . 
+Strikingly , the combination of hha and hns mutations resulted in a dramatic 26-fold increase in hilA expression under low osmolarity conditions ( line 4 ) . 
+The absence of two nucleoid-binding proteins had a much lesser effect on hilA silencing in high osmolarity conditions , which was compar-able with an effect observed in a single hha mutant . 
+As expected , activation of hilA promoter in the absence of the activators HilD and HilC ( lines 5 -- 8 ) was lost or signiﬁcantly reduced in inducing ( high osmolarity ) conditions . 
+However , under low osmolarity conditions , HilD and HilC activators were not essential for hilA expression in hns and hha hns double mutants ( lines 7 and 8 ) . 
+Thus , cooperative action of H-NS and Hha appears to be responsible for hilA silencing in the low osmolarity conditions . 
+Action sites of H-NS and Hha on hilA ﬂanking sequences
+To identify the DNA sites at which H-NS and Hha act , truncated versions of the hilA promoter described above ( Figure 1 ) were tested in in vivo transcription experiments and in gel shift assays ( Figure 3 ) . 
+Reporter plasmids carrying hilA-lacZY operon fusions with different lengths of ﬂanking sequences were introduced into S.enterica serovar Typhimurium strains carrying null mutations in the hns and hha genes ( Figure 3 ( a ) ) . 
+The levels of b-galactosidase in mutants were compared to wild-type S.enterica serovar Typhimurium LT2 , following growth in high and low-salt media . 
+We were unable to use the double hha hns mutant in these experiments , because it has a severely reduced growth rate in hilA background . 
+C In the absence of H-NS , the full-length K242 to C505 promoter showed a 5.7-fold increase in b-galactosidase levels in low-salt medium , but with little effect in high-salt conditions ( Figure 3 ( a ) ) . 
+The loss of induction by high salt was thus related to a decrease in silencing by H-NS under low osmolarity conditions . 
+The absence of Hha resulted in increased expression in both media , but with a greater relative increase in the low-salt medium . 
+Expression from the core promoter ( K55 to C90 ) was high and no appreciably affected by the absence of any of the regulators tested . 
+In promoter variants carrying upstream ﬂanking sequences K210/C90 or K242/C90 , the silencing effect of the USR in low-salt medium was essentially lost in the absence of H-NS and was greatly decreased in the absence of Hha . 
+In contrast , the strong silencing effect conferred by the DSR was still apparent in the absence of H-NS or Hh 
+Figure 3 . 
+Identiﬁcation of H-NS and Hha DNA-binding sites on hilA promoter . 
+( a ) Effect of deletion of hns and hha regulators on expression of truncated versions of the hilA promoter . 
+As described in the legend to Figure 1 , plasmids carrying the indicated hilA promoter fragments were introduced into parent strain LT2 ( WT ) and the derivatives : IO933 ( hhaTcam ) and LM639 ( hns-1Tkan ) . 
+The levels of b-galactosidase after growth at 1 % and no added NaCl are presented as in Figure 1 . 
+( b ) Electrophoretic mobility shift assays of the binding of H-NS , and MBP-Hha to regions of the hilA promoter . 
+Proteins were incubated with P-labeled DNA fragments representing portions of the hilA promoter as 32 indicated at positions K242 to K55 , K55 to C90 , and C100 to C300 . 
+Samples were resolved by non-denaturing polyacrylamide gel electrophoresis , and the positions of radioactive bands detected by PhosphorImager . 
+( c ) The hilA promoter sequence . 
+The AT tracts at which H-NS and Hha are thought to bind are underlined . 
+( K55/C200 , K55/C300 , and K55/C505 ) . 
+The inhibitory effect of low-salt medium was primarily affected , with relatively little change in expression in high-salt medium . 
+The absence of Hha had a lesser effect on silencing by the DSR than did H-NS , which is in contrast to the effect of Hha when the USR was also present . 
+Truncations downstream of position K210 or upstream of position C220 showed lack of H-NS / Hha-induced silencing . 
+Thus , the transcriptional reporter assays suggest that essential sites for H-NS/Hha action are located in sequences K210 to K55 ( USR ) and C90 to C220 ( DSR ) . 
+To investigate protein binding to various segments of the hilA promoter , gel shift assays with puriﬁed H-NS and MBP-Hha proteins were conducted . 
+The MBP-Hha protein was used to obtain adequate expression and to maintain solubility of Hha . 
+Figure 3 ( b ) shows the gel mobility 44 shift of three fragments from the hilA promoter , spanning K242 to K55 , K55 to C90 , and C100 to C300 . 
+A single shifted band of highly retarded H-NS-DNA complex was detected with fragments K242/K55 and C100/C300 at low concentrations of H-NS ( 60 -- 240 nM ) . 
+It was not seen with the core promoter ( K55/C90 ) ( Figure 3 ( b ) , lines 2 to 4 ) . 
+The presence of 60 nM MBP-Hha also resulted in shift of 
+K242/K55 and C100/C300 fragments , and reduced binding to core promoter fragment ( K55/C90 ) ( line 5 ) . 
+The combination of 60 nM H-NS and 60 nM MBP-Hha yielded a smear complex , which is difﬁcult to interpret . 
+However , in this case binding to core promoter fragment was reduced too ( line 8 ) . 
+These results are in agreement with data from transcriptional assays ( Figure 3 ( a ) ) and suggest that silencing proteins H-NS and Hha can bind individually to multiple positions in the hilA ﬂanking regions . 
+Figure 3 ( c ) shows AT tracts centered at positions K205 , K170 , and C137 as most likely DNA binding sites for H-NS and Hha proteins . 
+Silencing of the lacUV5 promoter by the hilA ﬂanking sequences
+To separate the positive and negative responses from the hilA-ﬂanking sequences , they were placed in various combinations around the strong , factor-independent lacUV5 promoter driving the lacZY reporter genes ( Figure 4 ) . 
+These plasmids were introduced into the WT , DSPI1 , hns and hha S.enterica serovar Typhimurium LT2 strains , and expression was determined after growth in high and low-salt media . 
+Again , we were unable to use the double hha hns mutant in these experiments , because it has a severely reduced growth rate in hilA background . 
+C In wild-type cells , placement of hilA ﬂanking sequences on both sides of the strong lacUV5 promoter ( Figure 4 , line 2 ) provided high degree of silencing in both high and low-salt conditions , very similar to the behavior of the hilA promoter ( Figure 1 ) . 
+This effect was markedly relieved in the hns and hha mutants . 
+Similar to hilA promoter ( Figure 3 ( a ) ) , decrease in silencing by H-NS was seen mostly under low osmolarity conditions . 
+The absence of Hha resulted in increased expression in both media . 
+The apparent induction by high-salt conditions required the presence of SPI1 , suggesting that some gene in this island , perhaps hilC or hilD , could decrease the silencing effect of the ﬂanking sequences under inducing conditions . 
+When the USR or the DSR were placed upstream of the lacUV5 promoter ( Figure 4 , lines 3 to 5 ) , there was less than twofold effect on lacUV5 expression , unlike the situation with the hilA promoter . 
+However , when either ﬂanking region in any orientation was placed between the promoter and the lacZ reporter ( lines 6 to 9 ) , expression was depressed down to 8 to 32 % of the activity of the lac promoter alone . 
+Thus , both ﬂanking regions had similar negative effects when they were placed downstream of the promoter . 
+The extent of silencing was unaffected by the deletion of the hns or SPI1 genes , but was wtwofold weaker in the hha mutant in the case of DSR . 
+The strong synergistic effect of two sequences was seen in low osmolarity conditions whether the USR was upstream and the DSR was downstream , or vice versa ( lines 10 to 13 ) . 
+Similar to `` hilA-like '' orientation of ﬂanking sequences ( line 2 ) , silencing effect was markedly relieved in hns and hha mutants . 
+The requirement for SPI1 was only seen in high salt conditions . 
+Thus , the ﬂanking sequences allow the nucleoid-binding proteins to silence this heterologous promoter . 
+One difference between the behaviors of the hilA and lacUV5 promoters was that the USR caused partial silencing when it was upstream of the hilA promoter but not the lacUV5 promoter . 
+Cooperative action of ﬂanking sequences in the presence of nucleoid-structuring proteins suggests formation of repressing DNA loop . 
+Figure 4 . 
+Effect of the hilA ﬂanking sequences on expression of the lacUV5 promoter . 
+On the left side is a schematic representation of the lacUV5 promoter and the hilA ﬂanking sequences that were cloned upstream of the lacZY reporter genes in plasmid pRS415P . 
+The lacUV5 promoter is indicated by an arrow , the hilA USR region from K242 to K55 by a stippled box , and the DSR from C1 to C505 by a ﬁlled box . 
+The orientation of the inserts is indicated by the nucleotide coordinates on the top of each box . 
+The levels of b-galactosidase are presented following growth as described in Figure of the indicated S.enterica serovar Typhimurium strains . 
+Figure 5 . 
+Effect of altered spacing on hilA promoter activity . 
+Insertions of randomly chosen DNA sequences of 5 to 11 bp , as indicated , were introduced into the K252 to C505 promoter construct , driving lacZY expression . 
+The insertions were introduced at positions K100 , K55 , and C12 as indicated . 
+The plasmids were introduced into parental strain LT2 and the isogenic strain IO926 , deleted for SPI1 . 
+The levels of b-galactosidase after growth at 1 % and no added NaCl are presented as in Figure 1 . 
+Altered spacing of the regulatory regions
+Changes in the DNA helical phasing often affect promoters that are regulated by multiple proteins that are brought into proximity by DNA looping . 
+To explore this possibility , random sequences corres-ponding to a half ( 5 or 6 bp ) or a full ( 10 or 11 bp ) DNA helical turn were inserted into the K242 to C505 promoter at three sites . 
+These sites were at K100 , between the USR and the A2 element ; at K55 , between the A2 element and the site for RNA polymerase ; and at C12 , between the transcription start site and the DSR ( Figure 5 ) . 
+Expression was measured in high and low-salt media in S.enterica serovar Typhimurium strains with or lacking the SPI1 locus . 
+Both the half-turn and the full-turn insertions at either K100 or at C12 had no major effect on the level of hilA-lac expression , its response to medium osmolarity , or on the requirement for SPI1-encoded factors ( Figure 5 ) . 
+In contrast , the insertion of 6 bp at K55 strongly decreased expression down to the level in the DSPI1 strain . 
+Insertion of 11 bp at this position partially restored promoter activity and regulation . 
+These results suggest the importance of proper helical phasing and spacing for the interaction of HilC/HilD bound at the A2 site with the C-terminal domain of the a subunit of RNA polymerase . 
+These results do not rule out 40 the involvement of DNA looping in the negative effects of the USR and DSR silencing regions because multiple proteins could bind to each region and can be able to promote DNA looping regardless of speciﬁc phasing . 
+Discussion
+Previous studies had focused on the region upstream of the hilA promoter and found it to be involved in activation and silencing . 
+It is shown here that the downstream sequences extending to C500 provide an even more potent inhibitory effect . 
+The core hilA promoter ( residues K55 to C90 ) displays remarkably high activity , comparable to that of the lacUV5 promoter . 
+Experiments here focused on the effect of salt , which is only one of a myriad of regulatory signals , in order to avoid complications posed by the altered growth rate under other conditions . 
+Whereas the full-lengt promoter is more highly expressed in high-salt medium , the core promoter shows a moderate decrease in high-salt medium , like that displayed by the lacUV5 promoter . 
+Addition of the ﬂanking sequences to the core promoter revealed that the USR caused a 70 to 75 % decrease in expression while also providing responsiveness to the HilC / HilD activator proteins . 
+The downstream DSR region , extending to C500 , conferred almost complete silencing of the promoter . 
+Promoters with only the DSR region ( e.g. K55 to C505 ) did not respond to activating factors , as shown by the lack of effect of HilC/HilD . 
+Although both the USR and DSR caused substantially decreased expression , they appear to act in a cooperative manner . 
+The decrease in expression from the intact promoter was more extreme than the decrease seen with either ﬂanking region alone , when monitored in the absence of the activators . 
+The strongest silencing effects were seen when the regions about 200 bp upstream and downstream from the trans-cription start were present . 
+We proposed here that binding of the silencing proteins to AT tracts centered at positions K205 , K170 , and C137 promote formation of a DNA loop through DNA bridging . 
+The regulatory phenotype resulting 45 from loss of two silencing proteins H-NS and Hha displayed a roughly 25-fold increase in full-length hilA promoter expression , which corresponds to about one-half of the core promoter activity . 
+Apparently , H-HS and Hha could act independently on hilA promoter and overcompensate for the lack of another protein . 
+In low osmolarity conditions the single hns and hha mutants increase hilA expression three to ﬁvefold . 
+Independent binding of these silencing proteins to hilA ﬂanking sequences is also reported here . 
+Additional experiments will be needed to evaluate the potential role of H-NS -- Hha complex in silencing of hilA , as was proposed for the E. coli haemolysin gene . 
+35 The effect of mutations in several other regulatory proteins on expression of the hilA promoter variants led to several conclusions . 
+Positive and negative regulators affected both the USR and DSR when they were present singly with the promoter . 
+Greater effects were seen when both ﬂanking regions were present . 
+Similar regulatory behavior was seen when the ﬂanking sequences surrounded the hilA or the lacUV5 promoter . 
+Since the hilA core promoter is so active and independent of the regulatory proteins , it seems that the hilA promoter does not require activation in the usual sense of the term . 
+The presence of the DSR downstream of either the hilA or lacUV5 promoter , or of the USR downstream of the lacUV5 promoter , conferred strong silencing that was not relieved by the activator proteins HilC/HilD , unless a ﬂanking region was also present upstream of the promoter . 
+The presence of ﬂanking sequences on both sides of the promoter resulted in increased silencing under repressive , low-salt conditions . 
+The presence of the activator proteins allowed increased expression of these reporters but only up to the level obtained when the ﬂanking sequences were only present downstream of the promoter . 
+Cooperative action of ﬂanking sequences in the presence of nucleoidstructuring proteins suggests formation of a repres-sing DNA loop . 
+The following model is consistent with our observations . 
+The hilA promoter has very high activity , which can be additionally moderately stimulated by activators HilD/HilC . 
+The 40 C-terminal domain of the a subunit of RNA polymerase ( RNAP ) contributes to this stimulation . 
+The presence of the ﬂanking sequences 40,46 greatly decreases hilA expression by providing sites for binding of silencing proteins , including H-NS and Hha . 
+With ﬂanking regions on both sides of the promoter , the silencing proteins promote repressive loop formation , similar to rrnB ribosomal RNA gene promoter . 
+These topological changes will need to 38 be demonstrated in our system , but the ability of H-NS to bridge DNA segments in a relatively sequence-independent manner has been documen-ted . 
+We speculate that interactions between HilC / 45 HilD activators and RNAP provide conformation changes in RNAP needed to break the repressive DNA loop . 
+Major contribution of RNAP subunit s 70 in DNA loop formation by H-NS has been reported recently . 
+After repressing loop is disrupted , HilD 39 and its paralogs are still needed to directly activate transcription through DSR under inducing conditions . 
+This action occurs when the activators are bound at the A2 binding site , centered at position K77 , and interact with the C-terminal domain of the RpoA subunits of RNA polymerase . 
+The 40,46 importance of this second mode of activation is seen from the requirement for proper helical phasing between the A2 site and the site of RNA polymerase and the complete dependence on the A2 sequence for hilA promoter activity . 
+40 Some of the inconsistent conclusions previously reported for hilA expression can be explained by cooperation in action of H-NS and Hha proteins , shown here . 
+Boddicker et al. found that mutants 46 lacking several of the negative-acting proteins , when grown in inducing conditions ( high osmolarity , low oxygen level ) , show elevated hilA expression , but that they still required HilD function for expression . 
+They argued that HilD was an essential activator even when silencing was removed . 
+Our results conﬁrm these observations and provide additional data for low osmolarity conditions , in which HilD and HilC activators were not essential in mutants lacking H-NS and Hha proteins . 
+Future studies will investigate how the environmental signals inﬂu-ence hilA expression . 
+Because the silencing effect is relieved by the HilC/HilD/RtsA proteins , it is likely that the global transcription activators , such as OmpR or PhoP , affect the transcription or stability of the Salmonella-speciﬁc activators ( HilC/HilD/RtsA ) , rather than by acting at the hilA promoter . 
+Also , in some cases , H-NS regulates not only the target gene but also genes for regulators of the target gene expression . 
+The question of whether expression of the activators is subject to silencing must also be considered . 
+If DNA bridging by silencing proteins is a general feature of regulation of some virulence genes , this provides a rationale for the retention of ACT-rich sequences that form curved DNA targets within the promoter-ﬂanking regions . 
+It is intri-guing that many genomic islands possess higher than the genomic average ACT content , which 47 could serve to promote binding of the silencing proteins . 
+Materials and Methods
+Bacterial strains, plasmids and growth conditions
+Bacterial strains and plasmids used in this work are listed in Table 3 . 
+Bacteria were routinely grown in LB medium containing the appropriate supplements at the following concentrations : ampicillin , 20 mg/ml for lysogenes and 150 mg/ml for plasmids ; kanamycin , 50 mg/ml ; tetracycline , 25 mg/ml ; chloramphenicol , 20 mg/ml ; and X-gal ( 5-bromo-4-chloro-3-indolyl-b-D-galactopyranoside ) , 40 mg/ml . 
+S.enterica serovar Typhimurium strains used in b-galactosidase assays were grown statically overnight at 37 8C in salt-free LB broth or in LB broth with 1 % ( w/v ) NaCl , as indicated . 
+Plasmid construction
+DNA isolation and recombinant DNA manipulations were carried out using standard methods . 
+The speciﬁed 48 regions around the hilA promoter were ampliﬁed from S.enterica serovar Typhimurium chromosomal DNA by PCR using Vent polymerase ( New England Biolabs ) as speciﬁed by the manufacturer . 
+The primers used to amplify the PCR-generated fragments introduced EcoRI and HindIII sites at either end ; their sequences are available upon request . 
+The PCR products were cloned as EcoRIHindIII fragments into the similarly digested lacZYA reporter plasmid pRS415P . 
+The reporter plasmids 20,41 were initially isolated in E. coli DH5a and were then passed in the restriction-negative modiﬁcation-positive S.enterica serovar Typhimurium strain CL4419 prior to transfer by electroporation into the S.enterica serovar Typhimurium derivatives . 
+Plasmids pHNS11 and pH3 , in which hns and hha genes of S.enterica serovar Typhimurium are expressed under the control of the T7 promoter , were constructed by cloning the PCR-ampliﬁed hns and hha genes from SL1344 chromosomal DNA into expression vector pMBPHisParallel1 ( gift from Z. Derewenda ) with both MBP and 49 His6 afﬁnity tags . 
+The following primers were used to create PCR fragments ﬂanked by NcoI-HindIII sites ( underlined ) : 
+All constructs were veriﬁed by automated DNA sequencing at the University of Virginia Microbiology Biomolecular Research Facility . 
+Creation of deﬁned mutations
+The DhhaTcam mutation was created using the procedure described by Datsenko and Wanner . 
+50 
+P22-mediated transduction
+Antibiotic-resistant gene insertions were moved between S.enterica serovar Typhimurium strains by transductions with P22 HT . 
+51 
+Introduction of hilA-lacZ fusions into chromosome of S.enterica serovar Typhimurium
+The hilA-lacZ fusions were introduced into the chromosome of S.enterica serovar Typhimurium LT2 as lysogens of phage lRS45 . 
+Reporter plasmids 42 carrying different portions of hilA promoter in vector pRS415 were transformed into E. coli MC4100 , and the resulting strains were infected with phage lRS45 ( imm nin ) . 
+21 5 41 Phage lysates were used to infect MC4100 again , and ampicillin-resistant , l lysogenic transductants were selected . 
+Phages obtained from these lysogens by spontaneous induction were ﬁrst grown in the restriction-negative modiﬁcation-positive S.enterica serovar Typhimurium strain SL4213 and then used to lysogenize strain TL2753 . 
+Both strains were galE and express E. coli l receptor from Km plasmid K r pSZ21-GFP ( gift from Joe Sklar and Tom Silhavy ) . 
+Several lysogens producing homogenous Ap blue r colonies in the presence of X-gal were used in b-galactosidase assay . 
+b-Galactosidase assay 
+Cells carrying the transcriptional fusion plasmids were grown in LB containing 1 % NaCl or no added NaCl to provide high-osmolarity or low-osmolarity conditions , respectively . 
+Low-oxygen conditions were established by static growth of cultures overnight in culture tubes at 37 8C . 
+The b-galactosidase activity was determined as described by continuous determination 52 at 415 nm of the rate of hydrolysis of 2 mM o-nitro-phenyl-b-D-galactopyranoside in a microplate reader ( Molecular Dynamics , Sunnyvale , CA ) . 
+Activity is expressed in units of DA415!min ! 
+A650 . 
+K1 K1 
+Protein puriﬁcation
+Plasmids pHNS11 and pH3 were introduced into E. coli strain BL21 ( DE3 ) by transformation . 
+Isolates were grown in LB supplemented with ampicillin ( 0.5 mg/ml ) at 37 8C . 
+Cultures were induced with 1 mM isopropyl-b-D-thiogalactopyranoside ( IPTG ) at early log phase , incubated with shaking for 3 h , and harvested by centrifugation . 
+The MBP-His6-tagged H-NS and Hha proteins were puriﬁed from cell extracts using Amylose Resin ( New England BioLabs ) as described by the manufacturer . 
+In brief , cells grown in 2 l of LB were washed and suspended in 40 ml of binding buffer ( 20 mM Tris -- HCl ( pH 7.4 ) , 0.2 M NaCl , 10 mM b-mercaptoethanol , 1 mM EDTA ) and disrupted by sonication on ice of 20 ml portions for three 3 min periods , with 10 min intervals for cooling . 
+Unbroke cells and particulate material were removed by centrifugation at 20,000 g for 30 min , and the cell extract was applied onto Amylose Resin column with 15 ml resin volume . 
+The resin was washed with 10 volumes of binding buffer , and MBP-His6-tagged proteins were eluted with 40 ml of binding buffer C10 mM maltose . 
+The MBP-His6 tag was removed from H-NS protein by incubating 40 ml of the MBP-His6-H-NS protein with 600 units of TEV protease ( Invitrogen ) for 60 h at 16 8C . 
+Proteins were precipitated with saturated ammoniu sulfate , dissolved in 12 ml of Ni-resin binding buffer ( 20 mM Tris -- HCl ( pH 7.9 ) , 0.5 M NaCl , 5 mM imidazole ) , and applied onto HIS-Select Nickel Afﬁnity Gel ( Sigma ) column with 10 ml of resin volume to adsorb MBP-His6 , uncut MBP-His6-H-NS , and the His-tagged rTEV protease . 
+Puriﬁed H-NS protein in the ﬂow-through fraction was concentrated using Centriplus YM-10 Centrifugal Filter Device ( Amicon , Inc. , Beverly , Mass. ) , and stored at K70 8C in aliquots with 30 % ( v/v ) glycerol . 
+Owing to the low solubility of Hha , MBP-His6-Hha was used for all experiments . 
+It was prepared as for H-NS but was not treated with rTEV protease and was concentrated using a Centriplus YM-10 Centrifugal Filter Device ( Amicon , Inc. , Beverly , Mass. ) , and stored at K20 8C with 50 % glycerol . 
+Yields of H-NS and MBP-Hha proteins were in the range of 0.8 -- 1.4 mg per liter of culture , and a purity of 90 to 95 % was estimated by Coomassie brilliant blue staining following sodium dodecyl sulfate-polyacrylamide gel electrophoresis . 
+53 
+( CATGCCATGGCCATGAGCGAAGCACTTAAAATTCTG ) and 3 0HNSt ( GGGCCCAAGCTTATTCCTTGATCAG-GAAATCTTCCAG ) for the hns gene ; and 5 HHA ( CATGCCATGGCCATGTCTGATAAAC-0 CATTAACTAAAACT ) and 3 0HHAterm ( GGGCCCAAGCTTAACGAATGAA-TTTCCATACTGAAGAGG ) for the hha gene . 
+Table 3 . 
+Bacterial strains and plasmids 
+Strain or plasmid Relevant characteristics 
+Reference or source 
+Bacterial strains 
+S. enterica serovar Typhim LT2 and derivatives LT2 IO926 IO933 LM639 IO929 IO931 IO930 IO928 IO927 IO932 LM643 LM645 IO905 IO907 IO935 IO937 IO938 IO939 TL2753 IO942 
+urium 
+SGS1412 This work This work C. Lee This work This work This work This work This work This work C. Lee C. Lee This work This work This work This work This work This work L. Csonka This work 
+Wild-type DSPI1Tkan , Kan 
+r DhhaTcam , Cam r hns-1Tkan , Kan r hilETTn5 , Kan r pagTTn5 , Kan r amsTTn5 , Kan r ﬁs-3Tcam , Cam r sirA3Tcam , Cam r DcsrBTkan , Kan r hilA080TTn5lacZY-080 , Tet r hns-1Tkan hilA080TTn5lacZY-080 , Tet , Kan r r DhhaTcam hilA080TTn5lacZY-080 , Tet , Cam r r DhhaTcam hns-1Tkan hilA080TTn5lacZY-080 , Tet , Kan , Cam r r r DhilC-hilD hilA080TTn5lacZY-080 , Tet r hns-1Tkan DhilC-hilD hilA080TTn5lacZY-080 , Tet , Kan r r DhhaTcam DhilC-hilD hilA080TTn5lacZY-080 , Tet , Cam r r DhhaTcam hns-1TkanDhilC-hilD hilA080TTn5lacZY-080 , Tet , Kan , r r galE2712 TL2753 lRS45TphilA-242 / C505-lacZYA ( pZS21-GFP ) Ap Kan r r TL2753 lRS45TphilA-55 / C505-lacZYA ( pZS21-GFP ) Ap Kan r r TL2753 lRS45TphilA-55 / C90-lacZYA ( pZS21-GFP ) Ap Kan r r metA22 metE551 trpE2 ilv-452 xyl-404 vsp2120 hsdSA hsdT ﬂaA66 hsdL6 hsdSA29 galE496 metA22 metE55 ilv zahTTn10 xyl-404 rpsL120 H1-b nml H2-enx Fels2 K SL1344 derivatives DSPI1Tkan , Kan r ﬁs-3Tcam , Cam r hilETTn5 , Kan r pagTTn5 , Kan r amsTTn5 , Kan r 
+Cam r 
+IO946 
+This work 
+IO945 
+This work 
+CL4419 
+O. Colson 
+SL4213 
+L. Csonka 
+urium 
+S. enterica serovar Typhim SD11 LM733 BJ2121 BJ2584 BJ2186 S. enterica serovar Typhim ATCC 14028 JS479 JS483 BA746 CA678 CA410 E. coli DH5a 
+C. Lee C. Lee B. Jones B. Jones B. Jones 
+ATCC14028 and derivatives Wild-type 
+urium 
+J. Slauch J. Slauch J. Slauch B. Ahmer C. Altier C. Altier 
+DhilDTkan DhilCTcam DrtsA , Kan , Cam r r DhilC-hilDTcam f ( rtsA-lac ) , Cam C r sirA3Tcam , Cam r DcsrATcam , suppressed , Cam r ATCC 14028 DcsrBTkan , Kan r 
+Invitrogen 
+endA1 hsdR17 glnV44 thi-1 recA1 gyrA relA1 D ( lac-argF ) -169 deoR ( f80dlacD ( lacZ ) M15 ) ompT , hsdSB , gal , dcm ( lDE3 ) D ( lacI-argF ) -205 thi araD139 ﬂbB5301 ptsF25 deoC1 relA1 rpsL150 
+Novagen L. Csonka 
+BL21 ( DE3 ) MC4100 
+Phages P22 HT 
+Laboratory stock R. Simons 
+0-lacZscimm21 indC 
+bla 
+lRS45 Plasmids pKD3 pKD46 pCP20 pRS415P and derivatives pZS21-GFP pMBPHis-parallel1 pHNS11 pH3 
+id 
+Ap , Cm , FRT chloramphenicol template plasm Ap , red recombinase plasmid Ap , FLP recombinase plasmid Ap , lacZYA transcriptional fusion plasmid Km , lamB Ap , expression vector Ap ; MBP-His6-H-NS-expressing plasmid Ap ; MBP-His6-Hha-expressing plasmid 
+51 51 
+51 20,42 This work J. Sklar & T. Silhavy Z. Derewenda , 50 This work This work 
+Gel mobility shift assay
+DNA fragments of hilA promoters were generated by PCR using plasmids philA-242C505L as template . 
+The sequences of the primers used are available upon request . 
+The ampliﬁed DNA fragments were puriﬁed from agarose gels using QIAquick Gel Extraction Kit ( Qiagen ) and end-labeled by incubation with T4 polynucleotide kinase ( New England Biolabs ) and [ g - P ] ATP ( 3000 Ci/mmol , ICN ) . 
+The labeled DNA 32 fragments were separated from unincorporated nucleo-tide by gel ﬁltration through Sephadex G-25 or G-50 Quick Spin columns ( Boehringer Mannheim ) . 
+Gel mobility shift assays with H-NS and MBP-Hha proteins were performed as described . 
+The gels were dried 33 and the positions of radioactive DNA fragments were detected using a PhosphorImager ( Molecular Dynamics , Sunnyvale , CA ) . 
+Acknowledgements
+The authors gratefully acknowledge L. Csonka , J. Goldberg , R. Nakamoto , and R. Simons for strains and helpful comments , and C. Altier , B. Ahmer , O. Colson , Z. Derewenda , B. Jones , C. Lee , T. Silhavy , J. Slauch , and J. Sklar for their generous provision of bacterial strains and plasmids . 
+This work was supported by research grant GM38681 from the National Institute of General Medical Sciences to R.J.K. 
+References 
+1 . 
+Clark , M. A. , Jepson , M. A. , Simmons , N. L. & Hirst , B. H. ( 1994 ) . 
+Preferential interaction of Salmo-nella typhimurium with mouse Peyer 's patch M cells . 
+Res . 
+Microbiol . 
+145 , 543 -- 552 . 
+2 . 
+Jones , B. D. , Ghori , N. & Falkow , S. ( 1994 ) . 
+Salmonella typhimurium initiates murine infection by penetrating and destroying the specialized epithelial M cells of Peyer 's patches . 
+J. Exp . 
+Med . 
+180 , 15 -- 23 . 
+3 . 
+Darwin , K. H. & Miller , V. L. ( 1999 ) . 
+Molecular basis for the interaction of Salmonella with the intestinal mucosa . 
+Clin . 
+Micro . 
+Rev. 12 , 405 -- 428 . 
+4 . 
+Hernandez , L. D. , Hueffer , K. , Wenk , M. R. & Galan , J. E. ( 2004 ) . 
+Salmonella modulates vesicular trafﬁc by altering phosphoinositide metabolism . 
+Science , 304 , 1803 -- 1807 . 
+5 . 
+Altier , C. ( 2005 ) . 
+Genetic and environmental control of Salmonella invasion . 
+J. Microbiol . 
+43 , 85 -- 92 . 
+6 . 
+Jones , B. D. ( 2005 ) . 
+Salmonella invasion gene regulation : a story of environmental awareness . 
+J. Microbiol . 
+43 , 110 -- 117 . 
+7 . 
+Bajaj , V. , Hwang , C. & Lee , C. A. ( 1995 ) . 
+hilA is a novel ompR/toxR family member that activates the expression of Salmonella typhimurium invasion genes . 
+Mol . 
+Microbiol . 
+18 , 715 -- 727 . 
+8 . 
+Bajaj , V. , Lucas , R. L. , Hwang , C. & Lee , C. A. ( 1996 ) . 
+Co-ordinate regulation of Salmonella typhimurium invasion genes by environmental and regulatory factors is mediated by control of hilA expression . 
+Mol . 
+Microbiol . 
+22 , 703 -- 714 . 
+9 . 
+Lawhon , S. D. , Maurer , R. , Suyemoto , M. & Altier , C. ( 2002 ) . 
+Intestinal short-chain fatty acids alter Salmo-nella typhimurium invasion gene expression and virulence through BarA/SirA . 
+Mol . 
+Microbiol . 
+46 , 1451 -- 1464 . 
+10 . 
+Prouty , A. M. , Brodsky , I. E. , Manos , J. , Belas , R. , Falkow , S. & Gunn , J. S. ( 2004 ) . 
+Transcriptional regulation of Salmonella enterica serovar Typhimurium by bile . 
+FEMS Imm . 
+Med . 
+Microbiol . 
+41 , 177 -- 185 . 
+11 . 
+Prouty , A. M. & Gunn , J. S. ( 2000 ) . 
+Salmonella enterica serovar Typhimurium invasion is repressed in the presence of bile . 
+Infect . 
+Immun . 
+68 , 6763 -- 6769 . 
+12 . 
+Van Immerseel , F. , De Buck , J. , Boyen , F. , Bohez , L. , Pasmans , F. , Volf , J. et al. ( 2004 ) . 
+Medium-chain fatty acids decrease colonization and invasion through hilA suppression after infection of chickens with Salmonella enterica serovar Enteritidis . 
+Appl . 
+Env . 
+Microbiol . 
+70 , 3582 -- 3587 . 
+13 . 
+Lucas , R. L. & Lee , C. A. ( 2001 ) . 
+Roles of hilC and hilD in regulation of hilA expression in Salmonella enterica serovar Typhimurium . 
+J. Bacteriol . 
+183 , 2733 -- 2745 . 
+14 . 
+Wilson , R. L. , Libby , S. J. , Freet , A. M. , Boddicker , J. D. , Fahlen , T. F. & Jones , B. D. ( 2001 ) . 
+Fis , a DNA nucleoid-associated protein , is involved in Salmonella typhimurium SPI-1 invasion gene expression . 
+Mol . 
+Microbiol . 
+39 , 79 -- 88 . 
+15 . 
+Akbar , S. , Schechter , L. M. , Lostroh , C. P. & Lee , C. A. ( 2003 ) . 
+AraC/XylS family members , HilD and HilC , directly activate virulence gene expression independently of HilA in Salmonella typhimurium . 
+Mol . 
+Microbiol . 
+47 , 715 -- 729 . 
+16 . 
+Ellermeier , C. D. & Slauch , J. M. ( 2003 ) . 
+RtsA and RtsB coordinately regulate expression of the invasion and ﬂagellar genes in Salmonella enterica serovar Typhi-murium . 
+J. Bacteriol . 
+185 , 5096 -- 5108 . 
+17 . 
+Ellermeier , C. D. , Ellermeier , J. R. & Slauch , J. M. ( 2005 ) . 
+HilD , HilC and RtsA constitute a feed forward loop that controls expression of the SPI1 type three secretion system regulator hilA in Salmonella enterica serovar Typhimurium . 
+Mol . 
+Microbiol . 
+57 , 691 -- 705 . 
+18 . 
+Lostroh , C. P. , Bajaj , V. & Lee , C. A. ( 2000 ) . 
+The cis requirements for transcriptional activation by HilA , a virulence determinant encoded on SPI1 . 
+Mol . 
+Microbiol . 
+37 , 300 -- 315 . 
+19 . 
+Lostroh , C. P. & Lee , C. A. ( 2001 ) . 
+The HilA box and sequences outside it determine the magnitud 
+of HilA-dependent activation of PprgH from Salmonella pathogenicity island 1 . 
+J. Bacteriol . 
+183 , 4876 -- 4885 . 
+20 . 
+Olekhnovich , I. N. & Kadner , R. J. ( 2002 ) . 
+DNA-binding activities of the HilC and HilD virulence regulatory proteins of Salmonella enterica serovar Typhimurium . 
+J. Bacteriol . 
+184 , 4148 -- 4160 . 
+21 . 
+Schechter , L. M. & Lee , C. A. ( 2001 ) . 
+AraC/XylS family members , HilC and HilD , directly bind and derepress the Salmonella typhimurium hilA promoter . 
+Mol . 
+Microbiol . 
+40 , 1289 -- 1299 . 
+22 . 
+Fahlen , T. F. , Wilson , R. L. , Boddicker , J. D. & Jones , B. D. ( 2001 ) . 
+Hha is a negative modulator of transcription of hilA , the Salmonella enterica serovar Typhimurium invasion gene transcriptional activator . 
+J. Bacteriol . 
+183 , 6620 -- 6629 . 
+23 . 
+Schechter , L. M. , Jain , S. , Akbar , S. & Lee , C. A. ( 2003 ) . 
+The small nucleoid-binding proteins H-NS , HU , and Fis affect hilA expression in Salmonella enterica serovar Typhimurium . 
+Infect . 
+Immun . 
+71 , 5432 -- 5435 . 
+24 . 
+Takaya , A. , Tomoyasu , T. , Tokumitsu , A. , Morioka , M. & Yamamoto , T. ( 2002 ) . 
+The ATP-dependent lon protease of Salmonella enterica serovar Typhimurium regulates invasion and expression of genes carried on Salmonella pathogenicity island 1 . 
+J Bacteriol , 184 , 224 -- 232 . 
+25 . 
+Altier , C. , Suyetomo , M. & Lawhon , S. D. ( 2000 ) . 
+Regulation of Salmonella enterica serovar Typhi-murium invasion genes by csrA . 
+Infect . 
+Immun . 
+68 , 6790 -- 6797 . 
+26 . 
+Hommais , F. , Krin , E. , Laurent-Winter , C. , Soutourina , O. , Malpertuy , A. , LeCaer , J. P. et al. ( 2001 ) . 
+Large-scale monitoring of pleiotropic regulation of gene expression by the prokaryotic nucleoid-associated protein , H-NS . 
+Mol . 
+Microbiol . 
+40 , 20 -- 36 . 
+27 . 
+Rimsky , S. , Zuber , F. , Buckle , M. & Buc , H. ( 2001 ) . 
+A molecular mechanism for the repression of transcription by the H-NS protein . 
+Mol . 
+Microbiol . 
+42 , 1311 -- 1323 . 
+28 . 
+Rimsky , S. ( 2004 ) . 
+Structure of the histone-like protein H-NS and its role in regulation and genome superstructure . 
+Curr . 
+Opin . 
+Microbiol . 
+7 , 109 -- 114 . 
+29 . 
+Dorman , C. J. & Deighan , P. ( 2003 ) . 
+Regulation of gene expression by histone-like proteins in bacteria . 
+Curr . 
+Opin . 
+Genet . 
+Dev . 
+13 , 179 -- 184 . 
+30 . 
+Dorman , C. J. ( 2004 ) . 
+H-NS : a universal regulator for a dynamic genome . 
+Nature Rev. Microbiol . 
+2 , 391 -- 400 . 
+31 . 
+Schroeder , O. & Wagner , R. ( 2002 ) . 
+The bacterial regulatory protein H-NS-a versatile modulator of nucleic acid structures . 
+Biol . 
+Chem . 
+303 , 945 -- 960 . 
+32 . 
+Jordi , B. J. A. M. & Higgins , C. F. ( 2000 ) . 
+The downstream regulatory element of the proU operon of Salmonella typhimurium inhibits open complex formation by RNA polymerase at a distance . 
+J. Biol . 
+Chem . 
+275 , 12123 -- 12128 . 
+33 . 
+Dole , S. , Nagarajavel , V. & Schnetz , K. ( 2004 ) . 
+The histone-like nucleoid structuring protein H-NS represses the Escherichia coli bgl operon downstream of the promoter . 
+Mol . 
+Microbiol . 
+52 , 589 -- 600 . 
+34 . 
+Yang , J. , Tauschek , M. , Strugnell , R. , Robins-Browne , R. M. & The , H-N . 
+S. ( 2005 ) . 
+protein represses transcription of the eltAB operon , which encodes heat-labile enterotoxin in enterotoxigenic Escherichia coli , by binding to regions downstream of the promoter . 
+Microbiology , 151 , 1199 -- 1208 . 
+35 . 
+Nieto , J. M. , Madrid , C. , Prenafeta , A. , Miquelay , E. , Balsalobre , C. , Carrascal , M. & Juarez , A. ( 2000 ) . 
+Expression of the hemolysin operon in Escherichia coli is modulated by a nucleoid-protein complex that includes the proteins Hha and H-NS . 
+Mol . 
+Gen. Genet . 
+263 , 349 -- 358 . 
+36 . 
+Paytubi , S. , Madrid , C. , Forns , N. , Nieto , J. M. , Balsalobre , C. , Uhlin , B. E. & Juarez , A. ( 2004 ) . 
+YdgT , the Hha paralogue in Escherichia coli , forms heterotrimeric complexes with H-NS and StpA . 
+Mol . 
+Microbiol . 
+54 , 251 -- 263 . 
+37 . 
+Williams , R. M. , Rimsky , S. & Buc , H. ( 1996 ) . 
+Probing the structure , function , and interactions of the Escherichia coli H-NS and StpA proteins by using dominant negative derivatives . 
+J. Bacteriol . 
+178 , 4335 -- 4343 . 
+38 . 
+Dame , R. T. , Wyman , C. , Wurm , R. , Wagner , R. & Goosen , N. ( 2002 ) . 
+Structural basis for H-NS-mediated trapping of RNA polymerase in the open initiation complex at the rrnB P1 . 
+J. Biol . 
+Chem . 
+277 , 2146 -- 2150 . 
+39 . 
+Shin , M. , Song , M. , Rhee , J. H. , Hong , Y. , Kim , Y. J. , Seok , Y. J. et al. ( 2005 ) . 
+DNA looping-mediated repression by histone-like protein H-NS : speciﬁc requirement of Esigma70 as a cofactor for looping . 
+Genes Dev . 
+19 , 2388 -- 2398 . 
+40 . 
+Olekhnovich , I. N. & Kadner , R. J. ( 2004 ) . 
+Contribution of the RpoA C-terminal domain to stimulation of the Salmonella enterica hilA promoter by HilC and HilD . 
+J. Bacteriol . 
+186 , 3249 -- 3253 . 
+41 . 
+Simons , R. W. , Houman , F. & Kleckner , N. ( 1987 ) . 
+Improved single and multicopy lac-based cloning vectors for protein and operon fusions . 
+Gene , 53 , 85 -- 96 . 
+42 . 
+Fletcher , S. A. & Csonka , L. N. ( 1995 ) . 
+Fine-structure deletion analysis of the transcriptional silencer of the proU operon of Salmonella typhimurium . 
+J. Bacteriol . 
+177 , 4508 -- 4513 . 
+43 . 
+Nieto , J. M. , Mourino , M. , Balsaobre , C. , Madrid , C. , Prenafeta , A. , Munoa , F. & Juarez , A. ( 1997 ) . 
+Construction of a double hha hns mutant of Escherichia coli : effect on DNA supercoiling and a-hemolysin production . 
+FEMS Microbiol . 
+Letters , 155 , 39 -- 44 . 
+44 . 
+Pons , J. I. , Rodriguez , S. , NMadrid , C. , Juarez , A. & Nieto , J. M. ( 2004 ) . 
+In vivo increase of solubility of overexpressed Hha protein by tandem expression with interacting protein H-NS . 
+Protein Expr . 
+Purif . 
+35 , 293 -- 297 . 
+45 . 
+Dame , R. T. , Luijsterburg , M. S. , Krin , E. , Bertin , P. N. , Wagner , R. & Wuite , G. J. L. ( 2005 ) . 
+DNA bridging : a property shared among H-NS-like proteins . 
+J. Bacteriol . 
+187 , 1845 -- 1848 . 
+46 . 
+Boddicker , J. D. , Knosp , B. M. & Jones , B. D. ( 2003 ) . 
+Transcription of the Salmonella invasion gene activator , hilA , required HilD activation in the absence of negative regulators . 
+J. Bacteriol . 
+185 , 525 -- 533 . 
+47 . 
+Ussery , D. W. & Hallin , P. F. ( 2004 ) . 
+Genome Update : AT content in sequenced prokaryotic genomes . 
+Microbiology , 150 , 749 -- 752 . 
+48 . 
+Sambrook , J. , Fritsch , E. F. & Maniatis , T. ( 1989 ) . 
+Molecular Cloning : A Laboratory Manual ( 2nd edit . ) 
+, Cold Spring Harbor Laboratory Press , Cold Spring Harbor , NY . 
+49 . 
+Shefﬁeld , P. , Garrard , S. & Derewenda , Z. ( 1999 ) . 
+Overcoming expresion and puriﬁcation problems of RhoGDI using a family of `` parallel '' expression vectors . 
+Protein Expr . 
+Purif . 
+15 , 34 -- 39 
+50 . 
+Datsenko , K. A. & Wanner , B. L. ( 2000 ) . 
+One-step inactivation of chromosomal genes in Escherichia coli K-12 using PCR protocols . 
+Proc . 
+Natl Acad . 
+Sci . 
+USA , 97 , 6640 -- 6645 . 
+51 . 
+Maloy , S. R. , Stewart , V. J. & Taylor , R. K. ( 1996 ) . 
+Genetic Analysis of Pathogenic Bacteria : A Laboratory Manual , Cold Spring Harbor Laboratory Press , Plainview , NY . 
+52 . 
+Olekhnovich , I. N. , Dahl , J. L. & Kadner , R. J. ( 1999 ) . 
+Separate contributions of UhpA and CAP to activation of transcription of the uhpT promoter of Escherichia coli . 
+J. Mol . 
+Biol . 
+292 , 973 -- 986 . 
+53 . 
+Laemmli , U. K. ( 1970 ) . 
+Cleavage of structural proteins during the assembly of the head of bacteriophage T4 . 
+Nature , 227 , 680 -- 685 .

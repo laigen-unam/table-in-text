@@ -1,0 +1,542 @@
+Journal of Applied Microbiology ISSN 1364-5072 
+O R I G I N A L A R T I C L E 
+SulA-induced ﬁlamentation in Salmonella enterica serovar
+Typhimurium : effects on SPI-1 expression and epithelial 
+infection 
+S. Humphrey1 , T. MacVicar1 , A. Stevenson2 , M. Roberts2 , T.J. Humphrey3 and M.A. Jepson1 
+1 School of Biochemistry , University of Bristol , Bristol , UK 
+2 Molecular Bacteriology Group , Department of Veterinary Pathology , Institute of Comparative Medicine , Glasgow University 
+Veterinary School , Glasgow , UK 
+3 National Centre for Zoonosis Research , University of Liverpool , Neston , UK 
+Keywords 
+Abstract 
+Salmonella , stress response , virulence . 
+Aims : Salmonella enterica serovar Typhimurium is capable of adopting a ﬁlamentous phenotype in response to damage . 
+How this adaptive response affects bacterial virulence is unclear . 
+We have examined the hypothesis that ﬁlamentation affects the ability of Salmonella to infect host cells . 
+Methods and Results : Expression of the cell division inhibitor SulA in Salm . 
+Typhimurium SL1344 from an arabinose-inducible plasmid resulted in ﬁlamentation . 
+We examined expression of the type 3 secretion system ( T3SS ) encoded by Salmonella pathogenicity island 1 ( SPI-1 ) using SL1344 expressing a chromosomal PprgH-gfp reporter . 
+Single cell analysis of SulA-induced SL1344 PprgH-gfp revealed a relationship between increasing cell length and decreasing propensity for prgH expression , but there was no evidence of a signiﬁcant change in prgH expression evident at the whole population level . 
+Filamentous Salm . 
+Typhimurium were capable of initiating membrane rufﬂing on MDCK epithelial cells , but only nonﬁlamentous bacteria ( < 6 lm ) invade . 
+Conclusions : Induction of SulA expression in Salmonella inhibits septation . 
+Increasing ﬁlament length is associated with down-regulation of SPI-1 gene expression , but a signiﬁcant proportion of ﬁlaments retain the ability to produce SPI-1 T3SS and induce membrane rufﬂes on epithelia . 
+Despite an active SPI-1 T3SS , ﬁlamentous Salmonella are unable to invade epithelial cells . 
+Signiﬁcance and Impact of the Study : Our ﬁndings that ﬁlamentous Salmonella can express an invasive phenotype but fail to invade cells suggest that their presence in food does not constitute an immediate risk of infection until septation occurs . 
+The described SulA expression model provides a convenient model for studying the impact of ﬁlamentation in the absence of additional stresses . 
+Correspondence 
+Mark A. Jepson , School of Biochemistry , 
+Medical Sciences Building , University of Bristol , University Walk , Bristol BS8 1TD , UK . 
+E-mail : m.a.Jepson@bristol.ac.uk 
+2010 ⁄ 2313 : received 20 December 2010 , revised 14 March 2011 and accepted 19 March 2011 
+doi :10.1111 / j.1365-2672 .2011.05022 . 
+x 
+Introduction
+Salmonella enterica are pathogenic bacteria that continue to be a major cause of worldwide morbidity in both humans and a variety of animal hosts ( Brenner et al. 2000 ) . 
+Usually acquired via ingestion of contaminated food or water , Salmonella cause gastroenteritis by initiating infection in the enterocytes of the distal ileum and may enter the lymphatic system to cause systemic bactera-emia via passage through the specialized antigen sampling M cells of the Peyer 's patches ( Clark et al. 1994 ; Jones et al. 1994 ) . 
+During its life cycle , Salmonella is exposed to a multitude of stressful environments , both within the host and in its transmission vehicles of food and water ( Pang et al. 1995 ) . 
+Accordingly , these organisms have evolved an extensive arsenal of stress response systems to survive such stresses ( Rowley et al. 2006 ) . 
+One additional mechanism that may protect Salmonella from a variety of stressful conditions is the transformation of the bacteria , upon exposure to suboptimal growth conditions , from the classical bacillary state into a ﬁlamentous morphology ( Mattick et al. 2003 ; Justice et al. 2008 ) , comparable to that observed for uropathogenic Escherichia coli ( UPEC ) in the murine model of cystitis ( Justice et al. 2006 ) . 
+Similarly , multiple studies have observed ﬁlamentous growth within macrophages for a range of micro-organisms , including Salmonella Typhimurium ( Rosenberger and Finlay 2002 ) and Mycobacterium tuberculosis ( Chauhan 
+et al. 2006 ) . 
+The ﬁlamentous phenotype results from continued bacterial growth in the absence of cell division and leads to the formation of unusually long cells , sometimes up to 200 lm , with multiple chromosomal copies distributed along the length of the ﬁlament ( Mattick et al. 2000 , 2003 ; Giotis et al. 2007 ; Justice et al. 2008 ) . 
+Such behav-iours were previously believed to be no more than a manifestation of exposure to suboptimal conditions in the bacterial population . 
+However , Salmonella ﬁlamentation is now recognized as a distinct response to aggressive environments such as those encountered in food production ( Mattick et al. 2000 ) that may ensure survival . 
+Mattick et al. ( 2000 ) observed that following exposure to a range of reduced water activity ( aw ) conditions with aw values of 0Æ93 -- 0Æ98 , ﬁlamentous Salmonella survived better than their bacillary counterparts . 
+Traditional methods of microbiological monitoring using the colony-form-ing unit ( CFU ) assay do not detect the increase in Salmonella biomass as a consequence of ﬁlamentation and potentially underestimate the level of food contamination ( Mattick et al. 2003 ) . 
+Filamentation has serious implications regarding food safety , as septation of Salmonella ﬁlaments into multiple bacillary daughter cells , 1 -- 2 lm in length , has been observed following a return to conditions favourable for bacterial growth ( Phillips et al. 1998 ) . 
+Accordingly , further research is warranted into the mechanisms involved in ﬁlamentation and the invasive properties of Salmonella ﬁlaments , potentially resulting in the development of novel approaches to food processing 
+Proteins involved in altering cell division frequency , such as ZipA and SulA , are considered to play a central role in the formation of ﬁlaments by inhibiting the cell division protein FtsZ ( Siegele and Hu 1997 ; Justice et al. 2008 ) . 
+In this study , the sulA gene was fused to an induc-ible expression vector to enable investigation of the effects of overproduction of SulA in S. enterica serovar Typhimurium SL1344 . 
+Very little is known about Salmonella in the ﬁlamentous state , with particular knowledge gaps concerning the virulence characteristics of these cells . 
+Filamentous cells are generally observed in stressful environments , stationary phase or during intracellular growth ; conditions known to be suboptimal for expression of the SPI-1 type 3 secretion system ( T3SS ) genes required for bacterialmediated cellular uptake ( Lundberg et al. 1999 ; Rosenber-ger and Finlay 2002 ; Mattick et al. 2003 ) . 
+In this study , we have produced ﬁlaments under conditions optimal for growth with minimal external stress , enabling investigation of the cellular structure of genetically induced ﬁlamentous Salmonella . 
+Interestingly , SPI-1 virulence gene expression and subsequent induction of membrane rufﬂes on MDCK epithelial cells were evident in ﬁlamentous populations in the absence of external stress conditions , indicating that ﬁlamentation per se does not abolish the expression of virulence factors in Salm . 
+Typhimurium . 
+Bacterial cell length limited the ability of Salm . 
+Typhimu-rium to be internalized into MDCK epithelial cells , suggesting that despite expression of a functional SPI-1 T3SS , Salmonella ﬁlaments do not directly present an infectious hazard until they undergo septation into multiple invasive daughter cells . 
+Methods
+Bacterial strains and culture conditions
+Strains used in this study are listed in Table 1 . 
+Bacteria were grown overnight at 37 C as a static culture in Luria -- Bertani ( Miller ) broth supplemented with antibiot-ics as appropriate , at the following concentrations : 100 lg carbenicillin ml ) 1 and 15 lg chloramphenicol ml ) 1 . 
+Cultures were diluted 1 : 100 ( v ⁄ v ) into LB ( + antibiotics ) and grown at 150 rev min for 3Æ5 h at 37 C in an orbi - ) 1 tal shaker . 
+Production of Salmonella ﬁlaments
+Following 1Æ5 h-growth in log phase , expression of SulA from the pSH02 vector was induced in SL1344 pSH02 cultures by the addition of 50 mmol l arabinose . 
+In all ) 1 other cultures , an equal volume of phosphate-buffered saline ( PBS ) was added as a control . 
+Table 1 Bacterial strains and plasmids used in this study 
+and safety . 
+Strain ⁄ Plasmid Genotype Source ⁄ Reference 
+Salmonella Typhimurium strains SL1344 hisG mutant of 4 ⁄ 74 JH3010 SL1344 , ( PprgH-gfp + ) , Cm r SL1344 , ( PrpsM-gfp + ) , Cm r 
+Hoiseth and Stocker ( 1981 ) Hautefort et al. ( 2003 ) 
+JH3016 
+Hautefort et al. ( 2003 ) 
+Plasmids 
+pBR322 origin , Am r pBAD ⁄ gIIIA r derivative , Am pBAD4 derivative , sulA gene , Am r 
+pBAD ⁄ gIIIA 
+Invitrogen , UK This study 
+pBAD4 
+pSH02 
+This study 
+Construction of plasmid pSH02 for the expression of SulA in Salmonella Typhimurium 
+To investigate the behaviour of ﬁlamentous Salmonella produced in the absence of environmental stress conditions , the Salmonella cell division inhibitor gene , sulA , was cloned into an inducible expression plasmid . 
+Brieﬂy , using oligonucleotides UG147 5 cents - TAACCATCGATACCA-TGGAGCTCGAGATC-3 cents and UG148 5 cents - TGGTATCGAT-GGTTAATTCCTCCTGTTAG-3 cents ( MWG ) , ampliﬁcation of the backbone of the l-arabinose-inducible pBAD ⁄ gIIIA vector ( Invitrogen , Paisley , UK ) was carried out by inverse PCR ( Ochman et al. 1988 ) , to remove the gIII secretion signal and introduce a ClaI restriction site . 
+The PCR product was digested with ClaI , ligated and transformed into E. coli TOP10 cells by electroporation . 
+Selection of transformants was carried out using LB agar containing 100 lg ampicillin ml ) 1 . 
+Several colonies were analysed by PCR to conﬁrm that the gIII secretion signal had been successfully removed and the vector was designated pBAD4 . 
+The sulA gene was ampliﬁed by PCR from the Salmo-nella chromosome using oligonucleotides SulAgene_For 5 cents - CCCATCGATACCATGTACACTTCAGGTTATGC-3 cents and SulAgene_Rev 5 cents - GCTCGAATTCCCAGGATAAATC-CTAATTTTACTTAA-3 cents ( MWG ) . 
+The resulting PCR product and pBAD4 vector were digested with ClaI and EcoRI , ligated and transformed into E. coli DH5a ( Invi-trogen ) according to the manufacturer 's instructions . 
+Transformants were selected on LB containing 100 lg carbenicillin ml . 
+Vectors containing the correct insert ) 1 were designated pSH02 . 
+Plasmid pSH02 was subsequently transformed into Salm . 
+Typhimurium SL1344 by electroporation , with selection on LB supplemented with 100 lg carbenicillin ml ) 1 ( Cb ) . 
+bacterial cultures were added to the dish . 
+Light microscopy
+To prepare a sample for imaging , 7 ll of bacteria culture was spread onto a 13-mm agar coverslip ( prepared by spreading 200 ll LB molten agar with appropriate antibiotics onto each 13-mm glass coverslip and allowing to set overnight ) . 
+The coverslip was then inverted onto a 22-mm glass coverslip within a metal imaging chamber and mounted on a wide-ﬁeld ( WF ) microscope ( Leica DMIRBE ; Leica Microsystems , Mannheim , Germany ) . 
+Phase-contrast and ﬂuorescence images were obtained using a 63 · or 100 · oil-immersion lens and captured with a CCD camera ( Hamamatsu City , Japan ) . 
+All images and time-lapse movies were captured using Volocity 4 software ( Improvision , Coventry , UK ) at maximum resolution . 
+Linear contrast enhancement was used for ﬁgure presentation but not for analysis . 
+Infection of cultured cells
+Madin -- Darby Canine Kidney ( MDCK ) strain I cells ( supplied by N.L. Simmons , Newcastle University ) were grown in 72 cm ﬂasks ( Costar ; Corning Life Scienes , 2 Lowell , MA ) at 37 C in a humidiﬁed atmosphere consisting of 5 % CO2 ⁄ 95 % air . 
+Madin -- Darby Canine Kidney cells were grown in Eagle 's minimum essential medium ( EMEM ; Sigma ) supplemented with 10 % ( v ⁄ v ) foetal calf serum ( Biosera , East Sussex , UK ) , 1 % ( v ⁄ v ) nonessential amino acids ( Sigma ) , 1 % ( v ⁄ v ) GlutaMAX ( GIBCO ) and 100 lg kanamycin ml ) 1 . 
+For live cell infection imaging , MDCK cells were prepared in 35-mm imaging dishes ( MatTek ) and incubated at 37 C in a humidiﬁed atmosphere ( 5 % CO2 ) for 2 days . 
+To prepare cells for infection , the medium was removed , the cells washed three times in 2-ml modiﬁed Krebs buffer ( Perrett and Jepson 2007 ) and , where appropriate , 100 lg carbenicillin ml ) 1 and 50 mmol l ) 1 arabinose were added . 
+The imaging dish was mounted on an inverted wide-ﬁeld microscope . 
+Following the ﬁrst time point in the time-lapse movie , 50 ll of log-phase 
+For ﬁxed cell imaging , MDCK cells were prepared on 13-mm glass coverslips and incubated at 37 C in a humidiﬁed atmosphere ( 5 % CO2 ) for 2 days . 
+To prepare cells for infection , medium was removed , the cells washed three times in prewarmed Krebs buffer and overlaid with 1 ml fresh Krebs buffer . 
+Fifty millimolar arabinose or an equal volume of PBS was added to the appropriate wells . 
+Log-phase cultures were adjusted to OD600 0Æ44 ± 0Æ05 with warm PBS , then 25 ll was added to the cells and infection was allowed to proceed at 37 C for 15 min . 
+Following infection , coverslips were washed in PBS and ﬁxed in 2 % paraformaldehyde at 4 C overnight . 
+Differential staining of adhered and invaded Salmonella 
+Following infection and ﬁxation , coverslips were labelled to identify adhered and invaded Salmonella as described previously ( Perrett and Jepson 2007 ) . 
+Coverslips were washed in PBS and incubated sequentially for 45 min at room temperature with goat anti-Salmonella CSA-1 antibody ( Kirkegaard and Perry Laboratories , Gaithersburg , MD ) , diluted 1 : 200 ( v ⁄ v ) in PBS , and ﬂuorescein isothi-ocyanate ( FITC ) - conjugated rabbit anti-goat immuno-globulin ( Sigma ) , diluted 1 : 100 ( v ⁄ v ) in PBS , to label all adhered extracellular bacteria green . 
+Madin -- Darby Canine 
+Kidney cells were subsequently permeabilized for 20 min by incubation with 1 % ( v ⁄ v ) Triton-X100 ( Sigma ) in PBS and washed in fresh PBS . 
+Coverslips were then subject to sequential incubation for 45 min with goat antiSalmonella CSA-1 antibody , diluted 1 : 200 ( v ⁄ v ) , and te-tramethylrhodamine isothiocyanate ( TRITC ) - conjugated rabbit anti-goat immunoglobulin ( Sigma ) , diluted 1 : 50 ( v ⁄ v ) in PBS , labelling extracellular and intracellular Sal-monella red . 
+Finally , coverslips were washed in PBS and mounted in Vectashield ( Vector Laboratories , Burlin-game , CA ) containing DAPI . 
+Extensive washing with PBS was conducted between all staining steps . 
+Images of DAPI-labelled MDCK nuclei , FITC-labelled adhered Salmonella and TRITC-labelled total Salmonella were obtained by confocal laser-scanning microscopy using a 
+Leica SP2 AOBS confocal system attached to a Leica IRBE microscope with laser excitation at 405 , 488 and 543 nm . 
+Using an oil-immersion objective ( · 100 ) lens , image stacks with steps at 0Æ5-lm intervals were acquired with standardized parameters to optimize resolution . 
+Projected z-series were analysed using Volocity 4 software ( Improvision ) to measure the length of each Salmonella cell in each of six randomly selected ﬁelds of view . 
+Data are the results of six independent experiments , where at least 976 bacteria were examined per culture . 
+Scanning electron microscopy (SEM)
+A 15-min infection of MDCK cells was carried out as described above . 
+However , for SEM processing , cells were washed in PBS and ﬁxed in 2 % glutaraldehyde at 4 C overnight . 
+Coverslips were incubated sequentially in 25 , 50 , 75 , 90 and 100 % ethanol for 20 min . 
+Coverslips were then overlaid with 100 ll hexamethyldisilazane ( Sigma ) and the solvent evaporated . 
+Following solvent evaporation , coverslips were gold coated and stored in airtight conditions until being examined with an FEI Quanta 400 SEM . 
+Statistical analyses
+Statistical analyses were carried out using GraphPad Prism software , version 4.0 . 
+One-way analysis of variance ( anova ) tests were used with Tukey 's post hoc tests , with signiﬁcance set at the level P < 0Æ05 . 
+Results
+Expression of SulA from plasmid pSH02 induces ﬁlamentation in Salmonella Typhimurium SL1344
+Relatively little is known about the structure and behav-iour of ﬁlamentous Salm . 
+Typhimurium in comparison with the well-characterized short cellular form . 
+Overexpression of the cell division inhibitor protein , SulA , under the control of the arabinose-inducible araBAD promoter was investigated for its ability to induce ﬁlament formation in Salm . 
+Typhimurium SL1344 , which could then reveal the structure and behaviour of ﬁlamentous Salmonella with minimal imposed stress . 
+Plasmids pBAD4 and pSH02 are identical with the exception that the latter contains the sulA gene under control of the araBAD promoter , while pBAD4 is an empty vector . 
+Expression of sulA from pSH02 induced formation of elongated Salm . 
+Typhimurium SL1344 cells ( Fig. 1a ) . 
+Approximately 70 % of Salmonella cells in the pSH02 ( + Ara ) culture were equal to or > 6 lm in length and therefore classiﬁed as ﬁlaments ( n = 839 ) ( Fig. 1b ) . 
+SulAmediated cell division inhibition produced a variety of different cell lengths ( Fig. 1b ) ; relatively short ﬁlaments ( 6Æ0 -- 9Æ9 lm ) made up 12Æ58 % of the total pSH02 ( + Ara ) culture , while very long ﬁlaments ( > 26 lm ) comprised 8Æ84 % of the total pSH02 ( + Ara ) culture . 
+Noninduced cultures of SL1344 pSH02 ( + PBS ) resembled the parent strain ( Fig. 1a ) , in that 100 % were shorter than 6 lm ( Fig. 1b ) . 
+In contrast to the effects observed with pSH02 , induction of the araBAD promoter in pBAD4 had no effect on the morphology of Salm . 
+Typhimurium , with cells resembling those of the parent strain ( data not shown ) . 
+This conﬁrms that overproduction of SulA in Salm . 
+Typhimu-rium SL1344 results in ﬁlament formation . 
+Plasmids pBAD4 and pSH02 have no signiﬁcant effect on Salmonella growth rate
+Growth of Salm . 
+Typhimurium SL1344 strains carrying the pBAD4 and pSH02 plasmids was compared under both inducing and noninducing conditions to investigate the inﬂuence of plasmid carriage and ﬁlamentation on the growth curve . 
+Induction of the araBAD promoter pBAD4 or pSH02 plasmid was achieved following 1Æ5-h growth by addition of 50 mmol l arabinose or PBS in the non - ) 1 induced controls . 
+The growth curve for all strains followed a similar pattern to that of the parent strain , with transition from logarithmic into stationary phase occurring after approx . 
+4-h growth ( Fig. 2 ) , despite SL1344 pSH02 ( + Ara ) cultures switching to a mode of growth in the absence of cell division following addition of arabinose . 
+These data suggest that the pBAD4 and pSH02 plasmids do not pose a signiﬁcant burden because growth remained similar and allowed meaningful comparisons to be made between each strain during this time course . 
+Expression of the SPI-1 gene, prgH, is tightly regulated with growth phase
+Filamentous Salmonella present a challenge to food pres-ervation owing to their ability to rapidly resume normal growth in late log phase . 
+Salmonella Typhimurium SL1344 strains were compared over 6 h of growth . 
+Arrow indicates the time at which 50 mmol l arabinose ( or a PBS control ) was added to induce ) 1 expression from the araBAD promoter . 
+SL1344 parent strain ( s ) , SL1344 pBAD4 ( + PBS ) ( d ) , SL1344 pBAD4 ( + Ara ) ( h ) , SL1344 pSH02 n ( + PBS ) ( ) and SL1344 pSH02 ( + Ara ) ( D ) . 
+cell division , which could signiﬁcantly increase the level of microbial contamination present in foodstuffs within short time periods . 
+This could result in Salmonella populations exceeding the dose required to initiate gastro-intestinal disease in humans . 
+We examined the potential invasiveness of ﬁlamentous Salmonella by monitoring expression of the SPI-1 T3SS , which is responsible for triggering bacterial uptake into epithelial cells ( Galan and Bliska 1996 ; Kubori et al. 1998 ; Ohl and Miller 2001 ) . 
+Genes encoding the SPI-1 needle structure are located within the prg ⁄ org operon ( Klein et al. 2000 ) . 
+Green ﬂuo-rescent protein ( GFP ) expression driven by the promoter of prgH , the ﬁrst gene in the prg ⁄ org operon , has been widely used as a reporter of SPI-1 expression ( Hautefort et al. 2003 ; Clark et al. 2009 ) . 
+Expression of the prgH gene is regulated by a graded input system ( Temme et al. 2008 ) , resulting in ` all or nothing ' expression in subpopulations of Salmonella ( Hautefort et al. 2003 ) . 
+The proportion of Salmonella that are positive for PprgH-gfp expression provides an index of SPI-1 expression status which peaks in late log phase , when approx . 
+53 -- 75 % of the population are positive for expression of this essential SPI-1 gene ( Hautefort et al. 2003 ; Perrett et al. 2009 ) . 
+We used a chromosomal PprgH-gfp construct to mon - + itor prgH expression throughout logarithmic phase growth in Salm . 
+Typhimurium . 
+Measurement of PprgH-gfp expression over 8-h growth indicated that in an + overnight culture of the parent strain ( JH3010 ) , 19 % of the population was positive for expression of GFP ( Fig. 3 ) . 
+Following subculture , the proportion of GFP-positive Salmonella decreased to 6 % within the ﬁrst 2 h in Salmonella Typhimurium SL1344 JH3010 was monitored over 8 h and the proportion of the population positive for green ﬂuorescent protein ( GFP ) expression scored at each hourly interval . 
+Results are means of three independent experiments performed in triplicate ; ± SD . 
+of growth before increasing dramatically to peak at 70 % after 4 h , then decreasing to 50 % by 8 h ( Fig. 3 ) . 
+Thus , in agreement with previous data ( Hautefort et al. 2003 ) , expression of the SPI-1 gene , prgH , did not occur in the majority of the population until late logarithmic phase . 
+Hence , this transition phase was conﬁrmed as the optimal time for the comparison of prgH expression between each of the strains . 
+OD600 
+( a ) SL1344 ( parent ) 
+SL1344 pSH02 ( + Ara ) 
+SL1344 pSH02 ( + PBS ) 
+( b ) 
+100 
+Figure 1 Expression of SulA from plasmid pSH02 induces ﬁlamentation in Salmonella 
+0 
+8 
+Typhimurium SL1344 . 
+( a ) Cultures were induced with 50 mmol l arabinose after ) 1 1Æ5-h growth in LB . 
+Images were taken after 3Æ5-h total growth . 
+The control pSH02 culture had PBS added in place of arabinose . 
+Scale bars represent 10 lm . 
+( b ) Cell lengths of 
+60 
+% of total Salmonell 
+40 
+individual Salmonella SL1344 parent strain ( black ) , SL1344 pSH02 ( + Ara ) ( grey ) and 
+20 
+SL1344 pSH02 ( + PBS ) ( white ) cells were measured after growth for 3Æ5 h ( + Ara ⁄ PBS after 1Æ5 h ) and the proportion of the population comprising each of the size categories calculated . 
+Results are the mean of three independent experiments performed in 
+0 
++ 
+5 · 9 1 · 0 
+9 · 9 -- 6 · 0 
+13 · 9 17 · 9 1 · 9 · 9 2 25 0 · 0 0 2 -- -- -- -- 4 · 8 · 0 · 0 1 1 1 2 Salmonella cell length ( µm ) 
+6 
+2 
+-- 
+triplicate ; ± SD . 
+10 · 00 
+1 · 00 
+0 · 10 
+0 · 01 
+0 · 00 0 
+3 
+6 
+5 
+4 
+2 
+1 
+Time ( h ) 
+Figure 2 Carriage of plasmids pBAD4 and pSH02 under inducing and noninducing conditions do not signiﬁcantly affect the rate of 
+tion or loss of viability in longer Salmonella cells . 
+SulA-mediated inhibition of cell division affects SPI-1 expression in Salmonella Typhimurium
+We used the chromosomal PprgH-gfp reporter strain + JH3010 together with the pSH02 plasmid to monitor prgH expression in SulA-induced Salm . 
+Typhimurium ﬁl-aments . 
+Studying this strain under optimal conditions for SPI-1 virulence gene expression and comparing expression in ﬁlamentous and bacillary morphotypes allowed us to investigate the impact of ﬁlamentation per se on expression of SPI-1 in Salmonella . 
+Addition of 50 mmol l arabinose after 1Æ5-h growth ) 1 enabled the effects of ﬁlamentation on SPI-1 expression to be determined by inducing ﬁlamentation before prgH had begun to be highly expressed in the culture ( Fig. 3 ) . 
+After 3Æ5-h growth , cultures of JH3010 and JH3010 pSH02 ( both induced and noninduced ) displayed similar levels of prgH expression ( 57 -- 63 % ; Fig. 4 ) , in close agreement with that reported previously for JH3010 at 3Æ5 h ( Hautefort et al. 2003 ; Clark et al. 2009 ; Perrett et al. 2009 ) . 
+The control culture , pSH02 ( + PBS ) , was included to conﬁrm that the presence of the pSH02 plasmid had no effect on the expression of prgH . 
+Thus , SulA induction and its inhibition of cell division do not prevent expression of the key proteins required for Salm . 
+Typhimurium invasion . 
+Data on prgH expression have thus far been limited to analysis of the entire population and have not investigated the possibility that prgH expression might differ with ﬁlament length . 
+To address this question , JH3010 pSH02-induced ﬁlaments were separated into seven size categories and the number of bacteria expressing the SPI-1 prgH gene quantiﬁed to determine the proportion of each population expressing SPI-1 T3SS . 
+This analysis revealed a clear negative correlation between increasing ﬁlament length and SPI-1 T3SS expression , with fewer of the longer ﬁlaments expressing prgH and the shortest cells comprising the largest proportion of the SPI-1-positive population ( Fig. 5 ) . 
++ Use of a chromosomal PrpsM-gfp construct ( JH3016 pSH02 ) enabled us to monitor expression of the constitutive gene rpsM under identical conditions . 
+Expression of rpsM was evident in 100 % of the SulA-induced populations , irrespective of cell length ( data not shown ) , demonstrating that decreased expression of prgH in longer ﬁlaments is not because of a general effect on transcrip ¬ 
+100 
+80 
+60 
+40 
+20 
+0 
+0 
+3 4 5 Time ( h ) 
+2 
+1 
+6 
+7 
+8 
+Figure 3 Expression of the SPI-1 gene , prgH , is highly growth phase dependent . 
+Expression of GFP from the PprgH-gfp reporter construct + 
+tion or loss of viability in longer Salmonella cells . 
+Filamentous Salmonella can induce membrane rufﬂing in MDCK epithelial cells
+While data obtained with the PprgH-gfp reporter strain + demonstrated that ﬁlamentous Salmonella are capable of expressing genes required for the construction of SPI-1 T3SS , they could not conﬁrm that the full needle structure required for invasion is assembled and functional . 
+To address this question , we investigated the ability of ﬁl-amentous Salmonella to attach to MDCK cells and induce membrane rufﬂing , a response that normally results in Salmonella invasion ( Ohl and Miller 2001 ) . 
+Using wide-ﬁeld time-lapse microscopy to visualize the infection process , Salm . 
+Typhimurium SL1344 pSH02-induced ﬁlaments were observed adhering to and initiating membrane rufﬂes on MDCK cells ( Fig. 6a and Movie S1 ) . 
+Induced ﬁlamentous Salmonella were motile and were frequently observed to induce membrane rufﬂing rapidly after contacting MDCK cells . 
+Interestingly , only SPI-1-expressing ﬁlaments were observed interacting with host cells . 
+As previously described ( Jepson et al. 2001 ) , infection with the SL1344 parent culture induced membrane rufﬂes forming tightly regulated , compact , roughly circular structures that propagated outwards with the bacte-rium remaining central until internalized ( Fig. 6b and Movie S2 ) . 
+In contrast , ﬁlament-induced rufﬂes often occurred along the length of the ﬁlament and did not appear to be as tightly orchestrated as those induced by short bacillary Salmonella , with some ﬁlaments initiating rufﬂing only at one end of the bacterium . 
+The surface morphology of ﬁlament-associated membrane rufﬂes appeared similar to those previously shown to be induced by unicellular Salmonella ( Fig. 6c , d ) . 
+There was no evidence of ﬁlamentous bacteria entering cells . 
+The ability of Salm . 
+Typhimurium pSH02-induced ﬁlaments to induce membrane rufﬂes in MDCK cells conﬁrms that in addition to prgH expression , a fully functional T3SS is assembled and translocates effector proteins into the infected cell . 
+Figure 4 SulA induction does not affect the proportion of Salmonella Typhimurium 
+60 
+SL1344 populations expressing SPI-1 T3SS . 
+( a ) Phase-contrast and ﬂuorescence images used 
+40 
+to quantify expression of the SPI-1 T3SS in different populations . 
+Scale bars represent 10 lm . 
+( b ) Relative levels of SPI-1 T3SS expression quantiﬁed within each population using the single-copy chromosomal reporter construct , PprgH-gfp + . 
+Results are means of 
+20 
+0 
+JH3010 pSH02 ( PBS control ) 
+JH3010 pSH02 ( + arabinose ) 
+Parent strain ( JH3010 ) 
+six independent experiments performed in duplicate ; ± SD . 
+Bacterial cell size is a limiting factor for association with MDCK epithelial cells and subsequent uptake by SPI-1-mediated endocytosis 
+Although live cell imaging did not provide direct evidence of internalization of ﬁlamentous Salm . 
+Typhimurium into the rufﬂes they induced , the possibility remained that invasion might have been overlooked . 
+We therefore utilized a differential cytochemical staining technique that distinguishes between adhered and invaded bacteria ( Perrett and Jepson 2007 ; Clark et al. 2009 ) and allowed comparison of the invasiveness of subpopulations of each of the cultures . 
+Invasion of pSH02 ﬁlamentous cultures at a whole population level was observed at levels comparable with that of the parent strain , with rates of 1Æ88 ( ± 0Æ9 ) , 1Æ89 ( ± 0Æ74 ) and 1Æ81 ( ± 1Æ41 ) Salmonella per MDCK cell for the parent strain , pSH02 ( + Ara ) and pSH02 ( + PBS ) , respectively . 
+The similar level of invasiveness in each culture correlates with prgH expression data ( Fig. 4b ) , and provides further validation for the use of SPI-1 promoterbased reporter fusions as reliable indicators of the invasiveness of Salmonella in epithelial cells . 
+Figure 4 SulA induction does not affect the proportion of Salmonella Typhimurium 
+60 
+SL1344 populations expressing SPI-1 T3SS . 
+( a ) Phase-contrast and ﬂuorescence images used 
+40 
+to quantify expression of the SPI-1 T3SS in different populations . 
+Scale bars represent 10 lm . 
+( b ) Relative levels of SPI-1 T3SS expression quantiﬁed within each population using the single-copy chromosomal reporter construct , PprgH-gfp + . 
+Results are means of 
+20 
+0 
+JH3010 pSH02 ( PBS control ) 
+JH3010 pSH02 ( + arabinose ) 
+Parent strain ( JH3010 ) 
+six independent experiments performed in duplicate ; ± SD . 
+SL1344 ﬁlaments induced via SulA-dependent cell division inhibition were separated into size categories and the percentage of prgHpositive ( grey ) and prgH-negative ( white ) bacteria in each category quantiﬁed . 
+As the measured invasion rate does not allow comparison of the abilities of ﬁlamentous and short bacillary Salmonella to interact with epithelial cells , additional analysis was undertaken to determine the size distribution of cell-associated Salmonella in each of the cultures . 
+Bacteria were categorized according to cell length and the proportion of the total cell-associated population calculated for each size category to compare their ability to interact with MDCK cells . 
+Interestingly , only approx . 
+6 % of cell-associated SL1344 pSH02 ( + Ara ) were ﬁlamentous ( i.e. > 6 lm in length ; Fig. 7a ) . 
+Thus , the proportion of ﬁlamentous bacteria within the cell-associated population is much smaller ( 6 % ) than that within the SL1344 pSH02 ( + Ara ) culture as a whole ( 70 % ; Fig. 1b ) , suggesting that ﬁlamentation compromises the ability of Salmonella to interact with epithelial cells . 
+Furthermore , within the small proportion of cell-associated ﬁlaments , there was also a relationship between increasing cell length and decreasing propensity for cell association ( Fig. 7a ) . 
+Despite both size categories constituting a similar proportion of the overall SL1344 pSH02 ( + Ara ) population ( Fig. 1b ) , association of bacteria in the range 6Æ0 -- 9Æ9 lm with MDCK cells was almost 50-fold greater than that of the maximum size category of > 26 lm . 
+As expected , 100 % of cell-associated Sal-monella in the SL1344 parent strain culture and SL1344 pSH02 ( + PBS ) culture were within the nonﬁlamentous range , 1Æ0 -- 5Æ9 lm ( Fig. 7a ) . 
+Finally , the inﬂuence of cell length on Salmonella invasion was determined by calculating the proportion of the cell-associated Salmonella in each size category that had invaded MDCK cells . 
+Approximately 47 % of the nonﬁlamentous ( < 6 lm ) cell-associated Salmonella from the pSH02 ( + Ara ) culture invaded MDCK epithelial cells , a proportion that was not signiﬁcantly different from that of either the SL1344 parent strain or the pSH02 ( + PBS ) cultures ( Fig. 7b ) . 
+However , no bacteria within the ﬁlamentous population were observed to have invaded MDCK cells ( Fig. 7b ) , indicating that ﬁlamentation is speciﬁcally associated with a defect in invasiveness , despite the ability of longer bacteria ( > 6 lm ) to express SPI-1 genes , adhere to the host cell membrane and induce rufﬂing . 
+100 % 
+80 % 
+60 % 
+40 % 
+20 % 
+0 
+% 
+6 
+5 · 9 9 · 9 3 · 9 7 · 9 · 9 · 9 -- -- -- 1 -- 1 -- 21 5 · 0 · 0 0 0 0 0 -- 2 1 6 · · · · 10 14 18 22 
+2 
+≥ 
+Discussion
+Bacterial cytokinesis is facilitated by polymerization of FtsZ monomers into a ring structure located perpendicular to the length of the cell at the site of division , anchored in close proximity to the cytoplasmic membrane ( Pichoff and Lutkenhaus 2002 , 2005 ; Dajkovic et al. 2008 ) . 
+The Z-ring acts as a scaffold for proteins involved in downstream stages of cell division ( Bi and Lutkenhaus 1992 ; Pichoff and Lutkenhaus 2002 ; Adams and Errington 2009 ) and , in rod-shaped bacteria , constricts to produce two daughter cells of equal length ( Adams and Errington 
+Salmonella cell length ( µm ) 
+Figure 5 There is an inverse relationship between increasing ﬁlament length and ability to express the SPI-1 T3SS . 
+Salmonella Typhimurium 
+2009 ; Margolin 2009 ) . 
+SulA inhibits Z-ring formation by sequestering FtsZ monomers ( Cordell et al. 2003 ; Dajkovic et al. 2008 ) . 
+The sulA gene is a member of the SOS stress response system of genes induced in response to DNA-damaging conditions ( Erill et al. 2007 ) , which cooperate to repair DNA damage in the bacterial cell and , importantly , cause arrest in cell division , mediated by SulA , to prevent passage of mutations onto daughter cells ( Trusca et al. 1998 ; Erill et al. 2007 ; Justice et al. 2008 ) . 
+We exploited the cell division inhibitory activity of SulA to facilitate production of ﬁlamentous Salmonella cells while minimizing external environmental stress , enabling us to dissect the behaviour of ﬁlamentous cells per se from that associated with ﬁlaments produced in response to stress exposure or stationary phase . 
+Selective expression of SulA in Salm . 
+Typhimurium SL1344 using an arabi-nose-inducible promoter enabled regulated production of ﬁlamentous bacteria ; however , this was also associated with dramatic heterogeneity in cell length within the population . 
+Gene expression from the araBAD promoter has previously been shown to give rise to heterogeneity within the bacterial population , with some bacteria more responsive to induction than others ( Siegele and Hu 1997 ; Megerle et al. 2008 ) . 
+This is believed to result from heterogeneous expression of arabinose uptake proteins within the population ( Davidson and Surette 2008 ) leading to variable rates of arabinose accumulation in individual bacterial cells . 
+It is likely that the heterogeneity in ﬁlament length noted in our experiments following arabinose-induced sulA expression was related to variable arabinose uptake giving rise to heterogeneity in the timing of sulA induction from pSH02 . 
+This would be expected to result in cell division being inhibited earlier in a fraction of the population , producing longer cells because of their continued growth in the absence of cell division . 
+Interestingly , a subset of completely uninduced Salmonella was observed , resembling cells of the parent SL1344 population . 
+Growth of all cultures was similar , irrespective of the presence of ﬁlaments ; therefore , all strains were expected to be approaching maximal levels of prgH expression at around 3Æ5 h. Interestingly , after 3Æ5 h , expression levels of the SPI-1 gene , prgH , were found to be similar ( 57Æ3 -- 62Æ9 % ) at a whole population level between the cultures examined . 
+When ﬁlamentous populations were categorized by cell length , however , a clear correlation between increasing cell length and decreasing expression of prgH was observed . 
+The underlying reasons for this relationship remain unclear but we were able to exclude the possibility that there is a nonspeciﬁc repression of gene expression or loss of viability in the ﬁlamentous population because a rpsM-gfp reporter was expressed in all Salmonella populations , regardless of length . 
+Figure 5 There is an inverse relationship between increasing ﬁlament length and ability to express the SPI-1 T3SS . 
+Salmonella Typhimurium 
+( a ) 
+( c ) 
+0 s 
++60 s 
++120 s 
++180 s 
++240 s 
++300 s ( 
+( b ) 
+d ) 
++120 s 
++60 s 
+0 s 
++300 s 
++240 s 
++180 s 
+Figure 6 Salmonella Typhimurium SL1344 pSH02-induced ﬁlaments are capable of close interactions and rufﬂe induction in MDCK epithelial cells . 
+Time-lapse imaging of induction of membrane rufﬂing ( arrows ) on MDCK epithelial cells by a Salmonella ﬁlament ( a ) and a Salmonella 
+parent strain cell . 
+( b ) The ﬁlament is able to induce rufﬂing but was not taken up into the cell within the time period examined . 
+Scale bars represent 10 lm . 
+( c ) Scanning electron micrograph of a Salmonella ﬁlament attached to the membrane of an MDCK epithelial cell . 
+The ﬁlament 
+is associated with a membrane rufﬂe at one end ( right of ﬁgure ) which is extensive and extends to similar extent from both sides of the ﬁlamentous bacterium . 
+Scale bar represents 5 lm . 
+( d ) Scanning electron micrograph of a Salmonella parent strain cell attached to an MDCK cell inducing a membrane rufﬂe that propagates outwards from the centrally located bacterium . 
+Scale bar represents 5 lm . 
+Salmonella cells that had adhered to and invaded MDCK cells were measured for each culture : SL1344 parent strain ( black ) , SL1344 pSH02 ( + Ara ) ( grey ) and SL1344 pSH02 ( + PBS ) ( white ) . 
+( a ) The proportion of cell-associated ( both adhered and invaded ) Salmonella was calculated for seven cell length categories . 
+( b ) The proportion of the total cell-associated Salmonella to have invaded MDCK cells was then calculated for each size category . 
+Results are means of six independent experiments ; ± SD . 
+Investigation of the ability of Salmonella to adhere to and invade MDCK epithelial cells demonstrated that ﬁlamentous cells were capable of attachment to MDCK cells with subsequent rufﬂe induction ; however , their size limited their ability to be successfully internalized , with only cells with dimensions close to that of the parent and control ( + PBS ) strains invading . 
+Interestingly , transmission electron microscopy ( TEM ) analysis and live cell imaging indicated that SL1344 pSH02-induced ﬁlaments were ﬂagellated and motile ( data not shown ) . 
+Consequently , we hypothesize that the impaired interaction of ﬁlamentous bacteria with MDCK cells was not because of a reduction in the ability of ﬁlamentous bacteria to make contact with the epithelial cell surface , rather , it is likely to be because of other factors such as steric hindrance or an absence of necessary adherence factors . 
+Interestingly , the overall invasiveness of the pSH02-induced culture was unaltered from that of the parent SL1344 strain and the pSH02 ( + PBS ) control strain . 
+Overall , these observations serve to highlight the impact of heterogeneity within populations and illustrate the importance of investigating gene expression in Salmonella at the single cell level rather than just within populations where subtle effects may be overlooked ( Meyer and Dworkin 2007 ) . 
+( a ) 
+100 
+80 
+60 
+40 
+20 
+0 
+To our knowledge , this is the ﬁrst study to investigate the impact of the ﬁlamentous morphology on Salmonella growth , virulence expression and ability to adhere to and invade MDCK epithelial cells . 
+The response to induction of ﬁlamentation utilizing the araBAD promoter was heterogeneous within the population , with some cells forming extremely long ﬁlaments , while other cells remained unresponsive to the presence of arabinose . 
+We have also demonstrated that ﬁlamentation per se does not impair the ability of a population of Salmonella to express virulence genes required for SPI-1-mediated invasion of host cells ; however , there is an effect of increasing cell length on the proportion of SPI-1-expressing cells within the population . 
+The inability of ﬁlamentous Salmonella to invade epithelial cells suggests that while these organisms present a surreptitious threat in terms of microbial contamination of food ( Mattick et al. 2000 , 2003 ; Humphrey 2004 ) , they do not themselves present a direct hazard in terms of invasion of epithelia until they undergo septation into multiple daughter cells of dimensions capable of invading host cells . 
+The observation that ﬁlamentous Salmonella do not readily invade epithelial cells , limiting their ability to cause immediate disease , further validates the inhibition of FtsZ-mediated cell division as a potential target for antimicrobial therapies ( Lock and Harry 2008 ; Beuria et al. 2009 ) . 
+Speculatively , inhibiting cell division to prevent invasion of host cells would have much wider applications for antimicrobial therapy than just Salmo-nella , as many foodborne bacteria utilize invasion of host cells as part the infection process . 
+The inﬂuence that bacterial ﬁlamentation has on the microbial disease process warrants further investigation into this interesting morphological response that serves to aid bacterial survival in stressful environments . 
+9 9 9 9 9 9 5 · · · -- -- -- -- -- 2 -- 25 9 13 17 · 1 · · 0 0 1 · 6 · 0 · 0 4 · 0 8 · 0 · 0 1 1 1 22 Salmonella cell length ( µm ) 
+6 
+≥ 2 
+( b ) 100 
+80 
+60 
+40 
+20 
+0 
+5 · 9 9 · 9 3 · 9 7 · 9 1 · 9 5 · 9 0 0 -- -- -- 1 1 2 2 1 · 6 · · 0 · 0 -- · 0 -- · 0 -- 10 14 18 22 Salmonella cell length ( µm ) 
+≥ 26 
+Figure 7 Salmonella cell length dictates the ability of the bacterium to associate with and subsequently invade MDCK epithelial cells . 
+Acknowledgements
+We thank Jay Hinton and Isabelle Hautefort for generously providing GFP-expressing SL1344 strains JH3010 and JH3016 and Nicholas Simmons for kindly providing the MDCK strain I cells . 
+We also thank Alan Leard , Katy Jepson and Judith Mantell for technical assistance and 
+≥ 26 
+Figure 7 Salmonella cell length dictates the ability of the bacterium to associate with and subsequently invade MDCK epithelial cells . 
+Craig Chapman and Peter McClure for helpful discussion . 
+We are grateful to BBSRC and Unilever for studentship funding ( SH ) and to the MRC and Wolfson Foundation for supporting the Wolfson Bioimaging Facility at the University of Bristol . 
+Typhimurium initiates murine infection by penetrating and destroying the specialized epithelial M cells of the Peyers Patches . 
+J Exp Med 180 , 15 -- 23 . 
+Justice , S.S. , Hunstad , D.A. , Seed , P.C. and Hultgren , S.J. 
+commentary . 
+J Clin Microbiol 38 , 2465 -- 2467 . 
+552 . 
+expression . 
+Microbiology 155 , 461 -- 467 . 
+7894 . 
+R812 -- R822 . 
+riol 190 , 2513 -- 2526 . 
+Morphological changes to Escherichia coli O157 : H7 , commensal E. coli and Salmonella spp in response to marginal growth conditions , with special reference to mildly stressing temperatures . 
+Sci Prog 86 , 103 -- 113 . 
+221 -- 255 . 
+187 -- 194 . 
+Ochman , H. , Gerber , A.S. and Hartl , D.L. ( 1988 ) Genetic applications of an inverse polymerase chain reaction . 
+Genetics 120 , 621 -- 623 . 
+ity Island 1 . 
+J Mol Biol 377 , 47 -- 61 . 
+lenge . 
+Trends Microbiol 3 , 253 -- 255 . 
+3946 -- 3953 . 
+Supporting Information
+pp. 235 -- 273 New York : Humana Press Inc. . 
+Additional Supporting Information may be found in the online version of this article : Movie S1 Time-lapse sequence showing rufﬂe induction by ﬁlamentous Salmonella Typhimurium SL1344 pSH02 ( + Ara ) cells after attachment to MDCK cells . 
+The movie comprises a sequence of overlaid phase-contrast and GFP images captured at 12 s intervals over 15 min . 
+Interestingly , the membrane rufﬂe appears to originate at one end of the longer Salmonella ﬁlament before spreading out along its entire length . 
+the ability of Salmonella enterica serovar Typhimurium to express the SPI-1 Type 3 secretion system , induce membrane rufﬂes , or invade epithelial cells . 
+J Bacteriol 191 , 7253 -- 7259 . 
+Movie S2 Time-lapse sequence showing rufﬂe induction by nonﬁlamentous Salmonella Typhimurium SL1344 cells after attachment to MDCK cells . 
+The movie comprises a sequence of overlaid phase-contrast and GFP images captured at 12 s intervals over 15 min . 
+Membrane rufﬂes propagate outwards from centrally located bacteria , engulﬁng them . 
+Please note : Wiley-Blackwell are not responsible for the content or functionality of any supporting materials supplied by the authors . 
+Any queries ( other than missing material ) should be directed to the corresponding author for the article . 
+References 
+Adams , D.W. and Errington , J. ( 2009 ) Bacterial cell division : assembly , maintenance and disassembly of the Z ring . 
+Nat Rev Microbiol 7 , 642 -- 653 . 
+Beuria , T.K. , Singh , P. , Surolia , A. and Panda , D. ( 2009 ) 
+Promoting assembly and bundling of FtsZ as a strategy to inhibit bacterial cell division : a new approach for developing novel antibacterial drugs . 
+Biochem J 423 , 61 -- 69 . 
+Bi , E. and Lutkenhaus , J. ( 1992 ) Isolation and characterization 
+of FtsZ alleles that affect septal morphology . 
+J Bacteriol 174 , 5414 -- 5423 . 
+Brenner , F.W. , Villar , R.G. , Angulo , F.J. , Tauxe , R. and Swaminathan , B. ( 2000 ) Salmonella nomenclature -- Guest 
+Chauhan , A. , Madiraju , M. , Fol , M. , Lofton , H. , Maloney , E. , Reynolds , R. and Rajagopalan , M. ( 2006 ) Mycobacterium tuberculosis cells growing in macrophages are ﬁlamentous 
+and deﬁcient in FtsZ rings . 
+J Bacteriol 188 , 1856 -- 1865 . 
+Clark , M.A. , Jepson , M.A. , Simmons , N.L. and Hirst , B.H. ( 1994 ) Preferential interaction of Salmonella Typhimurium with mouse Peyers Patch M cells . 
+Res Microbiol 145 , 543 -- 
+Clark , L. , Martinez-Argudo , I. , Humphrey , T.J. and Jepson , M.A. ( 2009 ) GFP plasmid-induced defects in Salmonella invasion depend on plasmid architecture , not protein 
+Cordell , S.C. , Robinson , E.J.H. and Lowe , J. ( 2003 ) Crystal structure of the SOS cell division inhibitor SulA and in complex with FtsZ . 
+Proc Natl Acad Sci USA 100 , 7889 -- 
+Dajkovic , A. , Mukherjee , A. and Lutkenhaus , J. ( 2008 ) Investigation of regulation of FtsZ assembly by SulA and development of a model for FtsZ polymerization . 
+J Bacte ¬ 
+Davidson , C.J. and Surette , M.G. ( 2008 ) Individuality in Bacteria . 
+Annu Rev Genet 42 , 253 -- 268 . 
+Erill , I. , Campoy , S. and Barbe , J. ( 2007 ) Aeons of distress : an 
+evolutionary perspective on the bacterial SOS response . 
+FEMS Microbiol Rev 31 , 637 -- 656 . 
+Galan , J.E. and Bliska , J.B. ( 1996 ) Cross-talk between bacterial pathogens and their host cells . 
+Annu Rev Cell Dev Biol 12 , 
+Giotis , E.S. , Blair , I.S. and McDowell , D.A. ( 2007 ) Morphological changes in Listeria monocytogenes subjected to suble-thal alkaline stress . 
+Int J Food Microbiol 120 , 250 -- 258 . 
+Hautefort , I. , Proenca , M.J. and Hinton , J.C.D. ( 2003 ) Singlecopy green ﬂuorescent protein gene fusions allow accurate 
+measurement of Salmonella gene expression in vitro and during infection of mammalian cells . 
+Appl Environ Microbiol 69 , 7480 -- 7491 . 
+Hoiseth , S.K. and Stocker , B.A.D. ( 1981 ) Aromatic-dependent 
+Salmonella Typhimurium are non-virulent and effective as live vaccines . 
+Nature 291 , 238 -- 239 . 
+Humphrey , T. ( 2004 ) Science and society -- Salmonella , stress responses and food safety . 
+Nat Rev Microbiol 2 , 504 -- 509 . 
+Jepson , M.A. , Kenny , B. and Leard , A.D. ( 2001 ) Role of sipA in the early stages of Salmonella typhimurium entry into epithelial cells . 
+Cell Microbiol 3 , 417 -- 426 . 
+Jones , B.D. , Ghori , N. and Falkow , S. ( 1994 ) Salmonella 
+( 2006 ) Filamentation by Escherichia coli subverts innate defenses during urinary tract infection . 
+Proc Natl Acad Sci USA 103 , 19884 -- 19889 . 
+Justice , S.S. , Hunstad , D.A. , Cegelski , L. and Hultgren , S.J. 
+( 2008 ) Morphological plasticity as a bacterial survival strategy . 
+Nat Rev Microbiol 6 , 162 -- 168 . 
+Klein , J.R. , Fahlen , T.F. and Jones , B.D. ( 2000 ) Transcriptional organization and function of invasion genes within 
+Salmonella enterica serovar typhimurium pathogenicity island 1 , including the prgH , prgI , prgJ , prgK , orgA , orgB , and orgC genes . 
+Infect Immun 68 , 3368 -- 3376 . 
+Kubori , T. , Matsushima , Y. , Nakamura , D. , Uralil , J. , Lara ¬ 
+Tejero , M. , Sukhan , A. , Galan , J.E. and Aizawa , S. ( 1998 ) Supramolecular structure of the Salmonella Typhimurium type III protein secretion system . 
+Science 280 , 602 -- 605 . 
+Lock , R.L. and Harry , E.J. ( 2008 ) Cell-division inhibitors : new 
+insights for future antibiotics . 
+Nat Rev Drug Discov 7 , 324 -- 338 . 
+Lundberg , U. , Vinatzer , U. , Berdnik , D. , von Gabain , A. and Baccarini , M. ( 1999 ) Growth phase-regulated induction of 
+Salmonella-induced macrophage apoptosis correlates with transient expression of SPI-1 genes . 
+J Bacteriol 181 , 3433 -- 3437 . 
+Margolin , W. ( 2009 ) Sculpting the bacterial cell . 
+Curr Biol 19 , 
+Mattick , K.L. , Jorgensen , F. , Legan , J.D. , Cole , M.B. , Porter , J. , Lappin-Scott , H.M. and Humphrey , T.J. ( 2000 ) Survival and ﬁlamentation of Salmonella enterica serovar Enteritidis 
+PT4 and Salmonella enterica serovar Typhimurium DT104 at low water activity . 
+Appl Environ Microbiol 66 , 1274 -- 1279 . 
+Mattick , K.L. , Rowbury , R.J. and Humphrey , T.J. ( 2003 ) 
+Megerle , J.A. , Fritz , G. , Gerland , U. , Jung , K. and Radler , J.O. ( 2008 ) Timing and dynamics of single cell gene expression 
+in the arabinose utilization system . 
+Biophys J 95 , 2103 -- 2115 . 
+Meyer , P. and Dworkin , J. ( 2007 ) Applications of ﬂuorescence microscopy to single bacterial cells . 
+Res Microbiol 158 , 
+Ohl , M.E. and Miller , S.I. ( 2001 ) Salmonella : a model for bacterial pathogenesis . 
+Annu Rev Med 52 , 259 -- 274 . 
+Pang , T. , Bhutta , Z.A. , Finlay , B.B. and Altwegg , M. ( 1995 ) Typhoid-fever and other salmonellosis -- a continuing chal ¬ 
+Perrett , C.A. and Jepson , M.A. ( 2007 ) Applications of cell imaging in Salmonella research . 
+In Methods in Molecular Biology ed . 
+Schatten , H. and Eisenstark , A. Vol . 
+394 , 
+Perrett , C.A. , Karavolos , M.H. , Humphrey , S. , Mastroeni , P. , Martinez-Argudo , I. , Spencer , H. , Bulmer , D. , Winzer , K. et al. ( 2009 ) LuxS-based quorum sensing does not affect 
+Phillips , L.E. , Humphrey , T.J. and Lappin-Scott , H.M. ( 1998 ) Chilling invokes different morphologies in two Salmonella enteritidis PT4 strains . 
+J Appl Microbiol 84 , 820 -- 826 . 
+Pichoff , S. and Lutkenhaus , J. ( 2002 ) Unique and overlapping 
+roles for ZipA and FtsA in septal ring assembly in Escheri-chia coli . 
+EMBO J 21 , 685 -- 693 . 
+Pichoff , S. and Lutkenhaus , J. ( 2005 ) Tethering the Z ring to the membrane through a conserved membrane targeting 
+sequence in FtsA . 
+Mol Microbiol 55 , 1722 -- 1734 . 
+Rosenberger , C.M. and Finlay , B.B. ( 2002 ) Macrophages inhi-bit Salmonella typhimurium replication through MEK ⁄ ERK kinase and phagocyte NADPH oxidase activities . 
+J Biol 
+Rowley , G. , Spector , M. , Kormanec , J. and Roberts , M. ( 2006 ) Pushing the envelope : extracytoplasmic stress responses in bacterial pathogens . 
+Nat Rev Microbiol 4 , 383 -- 394 . 
+Siegele , D.A. and Hu , J.C. ( 1997 ) Gene expression from plasmids containing the araBAD promoter at subsaturating inducer concentrations represents mixed populations . 
+Proc Natl Acad Sci USA 94 , 8168 -- 8172 . 
+Temme , K. , Salis , H. , Tullman-Ercek , D. , Levskaya , A. , Hong , S.H. and Voigt , C.A. ( 2008 ) Induction and relaxation dynamics of the regulatory network controlling the type III secretion system encoded within Salmonella Pathogenic ¬ 
+Trusca , D. , Scott , S. , Thompson , C. and Bramhill , D. ( 1998 ) Bacterial SOS checkpoint protein SulA inhibits polymerization of puriﬁed FtsZ cell division protein . 
+J Bacteriol 180 ,

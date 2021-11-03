@@ -1,0 +1,286 @@
+Curr Microbiol ( 2011 ) 62:1483 -- 1489 DOI 10.1007 / s00284-011-9890-8 
+Coregulation of Gene Expression by Sigma Factors RpoE and RpoS in Salmonella enterica Serovar Typhi During Hyperosmotic Stress
+Hong Du • Min Wang • Zhe Luo • Bin Ni • Fei Wang • Yanchen Meng • Shungao Xu • Xinxiang Huang 
+Received : 14 December 2010 / Accepted : 21 January 2011 / Published online : 11 February 2011 Springer Science + Business Media , LLC 2011 
+Abstract Salmonella enterica serovar Typhi ( S. Typhi ) is the cause of typhoid fever , a food-borne disease that is pre-valent worldwide , most particularly in developing countries . 
+RNA polymerase sigma factors RpoE ( rE ) and RpoS ( rS ) govern transcription initiation of two sets of genes in Esch-erichia and Salmonella . 
+It was previously suggested that some genes might be coregulated by RpoE and RpoS in Salmonella under conditions of environmental stress , but experimental evidence has been lacking . 
+We therefore constructed rpoS deletion ( DrpoS ) and double rpoE/rpoS deletion ( DrpoE/DrpoS ) mutants of S. Typhi and compared their growth properties with an rpoE mutant ( DrpoE ) and wildtype strains under conditions of hyperosmotic stress . 
+We report that the DrpoE , DrpoS , and DrpoE/DrpoS strains grew more slowly under hyperosmotic stress conditions than the wild-type strain , and the DrpoE/DrpoS strain grew most slowly . 
+The global transcriptional proﬁles of DrpoE , DrpoS , DrpoE/DrpoS after 30 min of hyperosmotic stress were investigated using a Salmonella genomic DNA microarray . 
+The results of microarray indicated that the expression levels of 38 genes were markedly reduced during hyperosmotic stress in the double mutant DrpoE/DrpoS strain , but expression levels were not signiﬁcantly affected by single DrpoE or DrpoS mutations . 
+This was conﬁrmed for several key genes by qRT-PCR . 
+This study therefore indicated crosstalk between sigma factors RpoE and RpoS in S. Typhi under hyperosmotic conditions and provides new insights into the regulatory networks of S. Typhi . 
+Introduction
+Salmonella enterica serovar Typhi ( S. Typhi ) is a gramnegative , enteroinvasive pathogen that causes typhoid fever . 
+Infection is initiated when Salmonella from contaminated water or food enter the host gastrointestinal tract . 
+The bacteria reach the distal ileum and enter the specialized intestinal epithelial M cells of Peyer 's patches . 
+After intestinal invasion the pathogen migrates into the mesenteric lymph nodes and survive in macrophages , the bacteria reach the liver , spleen , and bone marrow through the blood and lymph systems , where they replicate to produce systemic infection [ 9 , 17 , 20 ] . 
+In the lumen of the host intestine S. Typhi cells are exposed to a signiﬁcant increase in osmolarity : in contaminated water or food the external osmolarity is in the order of 50 mM NaCl , whereas Sal-monella encounter an osmolarity of * 300 mM NaCl in the small intestine [ 19 ] . 
+Given the importance of S. Typhi as the causative agent of typhoid it is important to understand the regulation of gene expression in this organism in response to exposure to hyperosmotic environments . 
+Hyperosmotic shock is known to activate the expression of both rE and rS-dependent genes in E. coli and S. Typhimurium [ 3 , 14 , 25 ] . 
+However , little work has addressed potential overlapping regulation of gene expression by rE and rS in S. Typhi in response to hyperosmotic stress . 
+RpoE , a sigma factor rE encoded by the gene rpoE , is an extracytoplasmic factor that initiates transcription of a series of genes and responds to envelope stress [ 27 ] . 
+In unstressed conditions , RpoE is repressed by RseA , an antisigma RpoE-binding factor located on the inner membrane of the cell [ 11 ] ; inner-membrane proteases RseP and DegS liberate and activate RpoE by degrading RseA [ 1 , 2 , 28 ] . 
+In Salmonella the rpoS gene encodes an alternative sigma factor ( rS/RpoS ) , the regulation of RpoS expression and activity is also complex and as a master regulator required for survival under extreme conditions and for virulence of S. enterica serovar Typhimurium [ 5 , 26 ] . 
+In a previous genomic microarray analysis of gene expression in S. Typhi we found that rpoE expression was initially decreased following hyperosmotic stress but then increased markedly [ 19 ] . 
+Conversely , rpoS expression was elevated immediately after exposure to hyperosmotic stress but expression levels then declined [ 19 ] . 
+These results indicate that both RpoE and RpoS were likely to be involved in the regulation of gene expression in S. Typhi under conditions of hyperosmotic stress , there were compensation between RpoE and RpoS . 
+The different responses of these two regulatory factors argue that the mechanisms underlying the bacterial response to stress are complex , but it remains unclear how these bacteria adapt to hyperosmotic conditions . 
+Microarray analysis is an effective strategy for genome-wide screens of changes in bacterial gene expression , and this approach demonstrated that hyperosmotic stress leads to a marked alternation in the global pattern of gene expression [ 13 , 29 ] . 
+However , no studies have so far addressed the possibility that some genes are coregulated by both RpoE and RpoS in S. Typhi under hyperosmotic stress conditions . 
+To investigate this possibility we used genomic DNA microarray analysis to study changes in gene expression induced by 30 min exposure of rpoE and rpoS mutant strains to hyperosmotic stress . 
+H. Du M. Wang Z. Luo B. Ni F. Wang Y. Meng S. Xu X. Huang ( & ) Department of Biochemistry and Molecular Biology , School of Medical Technology , Jiangsu University , Zhenjiang , China e-mail : huxinx@yahoo.com.hk 
+H. Du 
+e-mail : hong_du@126.com 
+H. Du 
+Clinical Laboratory , Second Afﬁliated Hospital of Soochow University , Suzhou , China 
+Table 1 Strains and plasmids used in this study 
+Source 
+Strain or plasmid Relevant characteristics 
+Strains 
+? 
+Wild-type strain ; z66 
+GIFU10007 DrpoE DrpoS 
+Gifu University Our group This study 
+? 
+GIFU10007 ( DrpoE ) ; z66 GIFU10007 ( DrpoS ) ; z66 ? 
+GIFU10007 ( DrpoE ; rpoS ) ; z66 ? 
+DrpoE/rpoS Plasmids 
+This study 
+Suicide plasmid ; sacB ; Amp Gifu University r 
+pGMB151 pGMBrpoE 
+pGMB151 containing rpoE gene Our group 
+RNA Extraction and Transcriptional Proﬁling by Genomic DNA Microarray Analysis 
+Materials and Methods
+Bacterial Strains and Conditions of Culture
+A wild-type z66-antigen positive strain of S. Typhi , GIFU10007 , was used in this study ; the mutants employed in this study are listed in Table 1 . 
+Bacteria were cultured 37 C in Luria -- Bertani ( LB ) broth with shaking ( 200 rpm ) . 
+For low environmental osmolarity the growth medium contained a ﬁnal concentration of 50 mM NaCl . 
+To induce hyperosmotic stress , NaCl was added to a ﬁnal concentration of 300 mM and incubation was continued for a further 30 min . 
+Construction of the rpoS and rpoE/rpoS Double Deletion Mutant Stains
+The rpoS gene deletion mutant ( DrpoS ) was prepared by homologous recombination according to a previously described method [ 8 ] with an rpoS-deletion suicide plasmid lacking 591 bp of the rpoS gene . 
+The DrpoE/DrpoS double deletion mutant strain was prepared by electropor-ation of the DrpoS mutant strain with suicide plasmid pGMB151 carrying an rpoE-deletion fragment [ 8 ] . 
+The mutant strain was selected by PCR as described previously [ 18 ] , veriﬁed by sequencing , and designated DrpoE/DrpoS . 
+Measurement of Bacterial Growth Under Hyperosmotic Stress Conditions
+Bacteria from a single colony were inoculated into 1 ml of LB broth containing 50 mM NaCl and cultured overnight at 37 C. Aliquots ( 300 ll ) of this culture were transferred to 30 ml of prewarmed ( 37 C ) fresh LB broth containing 300 mM NaCl . 
+Cultures were incubated with shaking ( 200 rpm ) at 37 C for 24 h ; growth was measured using a BioPhotometer ( Eppendorf ) . 
+The experiment was repeated three times . 
+Wild-type and mutant strains were cultured overnight with shaking at 37 C in LB broth ( pH 7.0 ) containing 50 mM NaCl ( low osmolarity ) . 
+After dilution into fresh medium cultures were incubated to exponential growth ( OD 0.5 at 600 nm ) . 
+To induce hyperosmotic stress , NaCl was added to a ﬁnal concentration of 300 mM and bacteria were incubated with shaking for a further 30 min at 37 C. Bacteria were collected by centrifugation and total RNA was extracted using an RNeasy kit ( mini-column , Qiagen , Germany ) according to the manufacturer 's instructions . 
+The quality and quantity of the extracted RNA were determined by agarose gel electrophoresis and analysis with a ND-1000 spectrophotometer ( NanoDrop Technologies , Wilmington , USA ) . 
+Extracted RNA was treated with 1 U of RNase-free DNase I ( TaKaRa ) at 37 C for 10 min to remove traces of DNA and then incubated at 85 C for 
+15 min to inactivate the DNase . 
+cDNA probes were synthesized using 20 lg of RNA . 
+A genomic DNA microarray designed for S. Typhi was used in this study and ﬂuorescence labeling of cDNA probes , hybridization , and microarray scanning were performed as described previously [ 31 ] . 
+Data Analysis
+GENEPIX PRO 6.0 ( Molecular Devices ) was used for signal quantiﬁcation . 
+The densitometric values of the spots with DNA sequences representing open reading frames ( ORFs ) were normalized to the average overall intensity of the slide in global normalization mode . 
+Data were exported into an Excel ( Microsoft Corporation ) spreadsheet for subsequent analysis as described previously [ 31 ] with minor modiﬁcations . 
+In brief , the two-channel ﬂuorescent intensity ratios were calculated for each individual spot on each slide ; the average intensity ratio of the same gene from different slides was taken as the mean change in gene expression level . 
+This was expressed as log2 ( ratio ) and entered as one datapoint in the gene expression proﬁle plot view . 
+Only genes that displayed at least eight valid values in 12 replicate analyses were subject to further analysis . 
+Quantitative Real Time RT-PCR (qRT-PCR) Assay
+Total RNA extracted after 30 min of hyperosmotic stress ( above ) was subjected to qRT-PCR as described previously [ 35 ] . 
+The PCR primers used for qRT-PCR are listed in Table 2 . 
+Each experiment was performed with four RNA samples from four independent experiments . 
+Results and Discussion
+Bacterial cells in natural environments often face dramatic environmental changes and have evolved responses to adapt to such changes . 
+In response to environmental challenge , enterobacteria such as E. coli or Salmonella can undergo a global programmed modiﬁcation of their patterns of gene expression , leading to increased resistance to stresses such as heat , oxidative agents , or hyperosmotic shock [ 14 , 24 , 34 ] . 
+To address the roles of RpoE and RpoS in the regulation of gene expression changes in response to hyperosmotic stress we constructed an DrpoE/DrpoS double mutant strain of S. Typhi . 
+When bacteria were grown in standard medium ( LB ) under high osmolarity ( 300 mM NaCl ) it was found that the DrpoE and DrpoS strains grew more slowly than the wild-type control strain , and growth of the double mutant DrpoE/DrpoS strain was signiﬁcantly reduced compared to either of the single mutant strains ( Fig. 1 ) . 
+However , despite extended lag phases and reduced growth rates , the mutant strains grew to a ﬁnal density comparable to the wild-type , although the density of the DrpoE/DrpoS strain at stationary phase was somewhat below that of the other strains ( Fig. 1 ) . 
+While , the growth of mutant strains and the wild-type strain at low osmotic conditions had no such signiﬁcant difference ( data not shown ) . 
+These results indicated that both RpoE and RpoS are important for the adaptation of S. Typhi to a hyperosmotic environment . 
+The ﬁnding that the growth deﬁcit in the double mutant is greater than in either single mutant argues that RpoE and RpoS are likely to play overlapping roles . 
+The osmolarity of the host gut is generally higher than that of food , and high osmolarity could act as a general cue to inform pathogens such as S. Typhi that they are within an appropriate host . 
+Activation of RpoE and RpoS in response to high osmolarity is likely to enhance the virulence of S. Typhi by inducing the expression of genes required for bacterial colonization of entry into the host gut and survival within the host . 
+Moreover , in a previous genomic microarray analysis of gene expression in S. Typhi under high osmotic stress , we found that the expression of rpoE gradually increases following exposure to stress , whereas rpoS showed the reverse pattern , with initial high levels declining on prolonged exposure [ 19 ] . 
+These results indicated potential complementarity between the expression of RpoE and RpoS , raising the possibility that some genes might be coregulated by RpoE and RpoS in Salmonella under hyperosmotic stress . 
+However , no genes have yet been identiﬁed that are regulated by both sigma factors under hyperosmotic stress conditions . 
+We therefore used a genomic DNA microarray to analyze the global transcriptional proﬁles of the DrpoE , DrpoS , DrpoE/DrpoS and wild-type strains after 30 min of exposure to hyperosmotic stress . 
+At this time point , expression levels of rpoS were increased by approximately twofold in the DrpoE mutant , while rpoE expression in the DrpoS mutant strain compared to the wild-type was increased about 1.8-fold . 
+The analysis revealed 38 genes whose expression levels were markedly reduced in the DrpoE/DrpoS double mutant strain ( Table 3 ) . 
+Importantly , the expression levels of all 38 genes were only weakly affected by either the DrpoE or DrpoS single mutations , suggesting that these genes are likely to be coregulated by RpoE and RpoS . 
+To conﬁrm this result , the expression levels of six genes from different operons ( osmC , osmY , otsB , narU , ugpB , and dps ) were analyzed by qRT-PCR . 
+This analysis dem-onstrated that the qRT-PCR results were highly consistent with the microarray results ( Fig. 2 ) . 
+Both methods showed that the expression of all six genes was barely detectable in the DrpoE/DrpoS double mutant strain following exposure to hyperosmotic conditions , but in all cases there was no signiﬁcant change of expression levels in either the DrpoE or DrpoS single mutant strains . 
+This demonstrates that , for all six genes , both RpoE or RpoS are alone sufﬁcient to induce their expression in response to hyperosmotic stress , but that expression is abolished in the absence of both sigma factors . 
+To the best of our knowledge this is the ﬁrst demonstration of speciﬁc S. Typhi genes that are coregulated by both RpoE and RpoS during hyperosmotic stress . 
+Among the 38 genes , four ( osmC , osmY , osmB , and otsBA ) were previously reported to be regulated by RpoS [ 4 , 7 , 10 , 12 , 16 , 37 ] . 
+osmC encodes an envelope protein of unknown function and is a member of the regulon whose expression depends on osmotic pressure in E. coli [ 4 , 10 , 12 ] . 
+osmY encodes a periplasmic protein of unknown function and is also known to be osmotically inducible [ 16 ] . 
+osmB encodes an outer membrane lipoprotein and is expressed at high levels during osmotic stress and during stationary phase [ 21 ] . 
+Genes otsBA encode enzymes that participate in the synthesis of trehalose from UDP glucose and glucose-6-phosphate and are required for osmoregulatory trehalose synthesis [ 6 , 15 , 22 ] ; we previously dem-onstrated that the expression of these genes is strongly increased in S. Typhi under hyperosmotic stress conditions [ 19 ] . 
+Changes in these genes expression induced by a hyperosmotic environment are likely to be important to allow Salmonella to successfully invade the epithelium of the host small intestine , and both RpoE and Rpos are likely to contribute to this adaptation . 
+In addition , a number of genes involved in cellular metabolism showed RpoE - and RpoS-dependent upregulation in response to hyperosmotic stress . 
+These included narUZY , glnHPQ , and ugpBAECQ . 
+The narUZY reported are RpoS-regulated , narU gene is involved in nitrite transport and is known to be necessary for the survival of E. coli during severe nutrient starvation [ 33 ] , narZY is necessary for carbon-starvation-inducible thermotolerance and acid tolerance in S. typhimurium [ 32 ] . 
+Genes of the glnHPQ operon encode three subunits of the glutamine ABC transporter that permit the uptake of glutamine as a nitrogen source and thereby inﬂuence bacterial growth . 
+The ugp operon encodes the transport system for accumulating glycerol-3-phosphate ( G3P ) and ugpB codes for the periplasmic G3P-binding protein . 
+G3P can be utilized by E. coli as the sole source of carbon and of phosphate [ 23 , 30 ] and ugp operon mutants failed to grow on both glycerol-2-phosphate and glycerol-3-phosphate [ 36 ] . 
+Decreased expression of these genes in response to hyperosmotic stress is likely to inﬂuence bacterial growth . 
+We previously reported that the expression of those genes was maintained at relatively constant levels following exposure of wild-type S. Typhi to hyperosmotic stress [ 19 ] ; regulation of these metabolic genes by both RpoE and RpoS could explain why single mutant DrpoE and DrpoS strains gave stationary phase densities comparable to that achieved by the wild-type strain but that growth was arrested at a lower cell density in the DrpoE/DrpoS double mutant . 
+Other genes whose expression was markedly decreased in the rpoE/DrpoS double mutant included dps ( encoding a DNA starvation/stationary phase protection protein , needed under oxidative but not reported under hyperosmotic stress ) , psiF ( a hypothetical protein gene in Salmonella ) , wrbA [ an NAD ( P ) H : quinone oxidoreductase in E. coli ] , ygaE ( a DNA-binding transcriptional regulator ) , sufC ( a putative ABC transport ATP-binding subunit ) , and some hypothetical proteins genes . 
+Further studies will be required to address the roles of these RpoE - and RpoS-coregulated genes in bacterial adaptation to environmental stress . 
+Table 2 Primers used in this study 
+Name Sequence 
+50-GTATCAACAGAAAGCGG 50-GCCACTTTGCTTTGTAG 50-TGTTGACCTCTGCTGTTG 50-CCTTTCGCCACTTTCA 5 0-CGAACTATGCGTATTTT 5 0-GCACGATATGGGTTTTA 5 0-TCAGCCTACATTATTGCC 50-GGTACATAACTGCCGTC 50-TGGAAGGGGAGTTAGG 50-ACTGGGACTCGTCAAA 50-CAGAGAGCGATAAAAAA 50-GGAGTTTTGCTGTTGAT 
+P-osmC-A P-osmC-B P-osmY-A 
+P-osmY-B P-otsB-A P-otsB-B 
+P-narZ-A P-narZ-B P-ugpB-A 
+P-ugpB-B 
+Fig. 1 Growth curves of S. Typhi wild-type and DrpoE , DrpoS , and DrpoE/DrpoS mutant strains under conditions of hyperosmolarity . 
+Each datapoint represents the mean of three independent measurements 
+P-dps-A P-dps-B 
+Table 3 Salmonella enterica serovar Typhi GIFU10007 genes whose expression is downregulated following hyperosmotic stress in the double mutant DrpoS/DrpoE strain versus wild-type and single mutant ( DrpoS or DrpoE ) strains 
+Description of gene product Name log2 ( mutant/WT ) a 
+DrpoS/DrpoE 
+DrpoE 
+DrpoS 
+Osmotically inducible protein C Periplasmic protein 
+-5.57 -7.75 -5.21 
+0.24 0.44 0.18 
+-0.41 0.72 -0.88 
+osmC osmY osmE 
+Osmotically inducible lipoprotein E precursor 
+Osmotically inducible lipoprotein B precursor Trehalose phosphatase Trehalose-6-phosphate synthase 
+-4.71 -4.82 -4.01 
+0.33 0.52 0.83 
+-0.67 -0.22 0.17 
+osmB otsB otsA 
+Nitrite extrusion protein 
+-3.10 -6.70 -3.86 
+0.38 0.42 
+0.66 0.51 0.36 
+narU narZ narY 
+Respiratory nitrate reductase 2 alpha chain Respiratory nitrate reductase 2 beta chain 
+-0.02 
+Glycerol-3-phosphate-binding periplasmic protein Glycerol-3-phosphate transport system permease protein sn-Glycerol-3-phosphate transport system permease protein 
+-3.56 -3.19 -2.87 
+0.40 0.26 0.36 
+-0.26 0.61 0.79 
+ugpB ugpA ugpE 
+sn-Glycerol-3-phosphate transport ATP-binding protein Cytoplasmic glycerophosphodiester phosphodiesterase DNA protection during starvation conditions 
+-3.77 -2.92 -5.66 
+0.44 0.13 
+0.57 0.71 
+ugpC ugpQ dps 
+-0.22 
+-0.17 
+Glutamine ABC transporter periplasmic-binding protein Glutamine ABC transporter permease component Glutamine ABC transporter ATP-binding component 
+-3.39 -3.10 -2.33 
+-0.15 -0.04 -0.03 
+0.90 
+glnH glnP glnQ 
+-0.37 0.81 
+Phosphate starvation-inducible protein PsiF TrpR binding protein WrbA Putative transcriptional regulator YgaE 
+-5.10 -4.16 -3.17 
+-0.47 -0.37 0.30 
+-0.25 -0.19 -0.21 
+psiF wrbA t2689 
+Hypothetical protein t0552 Hypothetical protein t1080 Hypothetical protein t1153 
+-4.16 -2.49 -2.55 
+0.19 0.18 0.01 
+-0.10 -0.05 -0.56 
+t0552 t1080 t1153 
+Hypothetical protein t1163 Hypothetical protein t1164 Hypothetical protein t1238 
+-3.25 -2.52 -2.49 
+0.16 0.46 0.31 
+-0.18 -0.48 -0.51 
+t1163 t1164 t1238 
+Putative ABC transport ATP-binding subunit Hypothetical protein t1240 Hypothetical protein t1479 
+0.08 0.33 0.56 
+-2.51 -4.39 -2.75 
+-0.05 -0.12 0.67 
+sufC t1240 t1479 
+Hypothetical protein t1791 Hypothetical protein t1800 Hypothetical protein t1802 
+-0.46 0.26 -0.45 
+-3.19 -4.81 -4.08 
+0.64 
+t1791 t1800 t1802 
+-0.89 -0.12 
+t2036 t3278 t3831 
+Hypothetical protein t2036 Hypothetical protein t3278 Hypothetical protein t3831
+-3.44 -3.08 -3.02 
+-0.79 -0.08 -0.90 
+-0.18 -0.21 
+Hypothetical protein t4605 t4605 Hypothetical protein t4606 t4606
+In summary , we report that both RpoE and RpoS are important for the adaptation of S. Typhi to a hyperosmotic environment , and the presence of either of RpoE or RpoS is required to sustain the growth of S. Typhi under these conditions . 
+Genomic microarray analysis revealed that 38 genes , including osmotically inducible genes , metabolic genes , and a DNA protection gene , are coregulated by RpoS and RpoE in S. Typhi during hyperosmotic stress . 
+Our results indicate that there is extensive overlap between RpoE and RpoS in S. Typhi under conditions of hyperosmotic stress , a ﬁnding that may help us to understand the regulation of gene expression of S. Typhi in response to enteric hyperosmotic conditions . 
+-0.18 -0.21 
+0.36 0.65 
+0.40 0.58 
+-6.69 -2.44 
+a 
+Negative log2 ( mutant/WT ) values indicate downregulation in the mutant strain 
+Acknowledgments We thank T. Ezaki ( Gifu University ) for bacterial strains and continuous support . 
+This work was supported by National Natural Science Foundation of China ( 30870095 ) , National Special Scientiﬁc Program ( 2008ZX10004-009 ) , Professional Research Foundation for Advanced Talents of Jiangsu University ( No. 10JDG044 ) . 
+References 
+key genes showing large changes in expression level ( Table 3 ) . 
+Values are means of four independent determinations ; error bars represent standard deviations . 
+There was signiﬁcant concordance between the qRT-PCR results and the microarray analysis 
+8 . 
+Du H , Sheng X , Zhang H et al ( 2011 ) RpoE may promote ﬂa-gellar gene expression in Salmonella enterica serovar Typhi under hyperosmotic stress . 
+Curr Microbiol 62:492 -- 500 9 . 
+Everest P , Wain J , Roberts M et al ( 2001 ) The molecular mechanisms of severe typhoid fever . 
+Trends Microbiol 9:316 -- 320 10 . 
+Gordia S , Gutierrez C ( 1996 ) Growth-phase-dependent expression of the osmotically inducible gene osmC of Escherichia coli K-12 . 
+Mol Microbiol 19:729 -- 736 11 . 
+Grigorova IL , Chaba R , Zhong HJ et al ( 2004 ) Fine-tuning of the Escherichia coli sigmaE envelope stress response relies on multiple mechanisms to inhibit signal-independent proteolysis of the transmembrane anti-sigma factor , RseA . 
+Genes Dev 18:2686 -- 2697 12 . 
+Gutierrez C , Devedjian JC ( 1991 ) Osmotic induction of gene osmC expression in Escherichia coli K12 . 
+J Mol Biol 220:959 -- 973 13 . 
+Han Y , Zhou D , Pang X et al ( 2005 ) Comparative transcriptome analysis of Yersinia pestis in response to hyperosmotic and highsalinity stress . 
+Res Microbiol 156:403 -- 415 14 . 
+Hengge-Aronis R ( 1996 ) Back to log phase : sigma S as a global regulator in the osmotic control of gene expression in Escherichia coli . 
+Mol Microbiol 21:887 -- 893 15 . 
+Hengge-Aronis R , Klein W , Lange R et al ( 1991 ) Trehalose synthesis genes are controlled by the putative sigma factor encoded by rpoS and are involved in stationary-phase thermotolerance in Escherichia coli . 
+J Bacteriol 173:7918 -- 7924 16 . 
+Hengge-Aronis R , Lange R , Henneberg N , Fischer D ( 1993 ) Osmotic regulation of rpoS-dependent genes in Escherichia coli . 
+J Bacteriol 175:259 -- 265 17 . 
+House D , Bishop A , Parry C et al ( 2001 ) Typhoid fever : pathogenesis and disease . 
+Curr Opin Infect Dis 14:573 -- 578 18 . 
+Huang X , le Phung V , Dejsirilert S et al ( 2004 ) Cloning and characterization of the gene encoding the z66 antigen of Salmo-nella enterica serovar Typhi . 
+FEMS Microbiol Lett 234:239 -- 246 19 . 
+Huang X , Xu H , Sun X et al ( 2007 ) Genome-wide scan of the gene expression kinetics of Salmonella enterica Serovar Typhi during hyperosmotic stress . 
+Int J Mol Sci 8:116 -- 135 20 . 
+Jones BD , Falkow S ( 1996 ) Salmonellosis : host immune responses and bacterial virulence determinants . 
+Annu Rev Immunol 14:533 -- 561 21 . 
+Jung JU , Gutierrez C , Martin F et al ( 1990 ) Transcription of osmB , a gene encoding an Escherichia coli lipoprotein , is regulated by dual signals : osmotic stress and stationary phase . 
+J Biol Chem 265:10574 -- 10581 22 . 
+Kaasen I , Falkenberg P , Styrvold OB , Strom AR ( 1992 ) Molecular cloning and physical mapping of the otsBA genes , which encode the osmoregulatory trehalose pathway of Escherichia coli : evidence that transcription is activated by katF ( AppR ) . 
+J Bacteriol 174:889 -- 898 23 . 
+Lin ECC ( 1976 ) Glycerol dissimilation and its regulation in bacteria . 
+Annu Rev Microbiol 30:535 -- 578 
+24 . 
+McCann MP , Kidwell JP , Matin A ( 1991 ) The putative sigma factor KatF has a central role in development of starvationmediated general resistance in Escherichia coli . 
+J Bacteriol 173:4188 -- 4194 25 . 
+Miticka H , Rowley G , Rezuchova B et al ( 2003 ) Transcriptional analysis of the rpoE gene encoding extracytoplasmic stress response sigma factor sigmaE in Salmonella enterica serovar Typhimurium . 
+FEMS Microbiol Lett 226:307 -- 314 26 . 
+Nickerson CA , Curtiss R ( 1997 ) Role of sigma factor RpoS in initial stages of Salmonella typhimurium infection . 
+Infect Immun 65:1814 -- 1823 27 . 
+Rhodius VA , Suh WC , Nonaka G et al ( 2006 ) Conserved and variable functions of the sigmaE stress response in related gen-omes . 
+PLoS Biol 4 : e2 28 . 
+Rowley G , Spector M , Kormanec J , Roberts M ( 2006 ) Pushing the envelope : extracytoplasmic stress responses in bacterial pathogens . 
+Nat Rev Microbiol 4:383 -- 394 29 . 
+Ruberg S , Tian ZX , Krol E et al ( 2003 ) Construction and validation of a Sinorhizobium meliloti whole genome DNA micro-array : genome-wide proﬁling of osmoadaptive gene expression . 
+J Biotechnol 106:255 -- 268 30 . 
+Schweizer H , Argast M , Boos W ( 1982 ) Characteristics of a binding protein-dependent transport system for sn-glycerol-3-phosphate in Escherichia coli that is part of the pho regulon . 
+J Bacteriol 150:1154 -- 1163 31 . 
+Sheng X , Huang X , Mao L et al ( 2009 ) Preparation of Salmonella enterica Serovar Typhi genomic DNA microarrays for gene expression proﬁling analysis . 
+Prog Biochem Biophys 36:306 -- 312 32 . 
+Spector MP , Garcia del Portillo F , Bearson SM et al ( 1999 ) The rpoS-dependent starvation-stress response locus stiA encodes a nitrate reductase ( narZYWV ) required for carbon-starvation-inducible thermotolerance and acid tolerance in Salmonella typhimurium . 
+Microbiology 145:3035 -- 3045 33 . 
+Stephanie JC , Wenjing J , Jeffrey AC ( 2006 ) Role of the Esche-richia coli nitrate transport protein , NarU , in survival during severe nutrient starvation and slow growth . 
+Microbiology 152 : 2091 -- 2100 34 . 
+Testerman TL , Vazquez-Torres A , Xu Y et al ( 2002 ) The alternative sigma factor sigmaE controls antioxidant defences required for Salmonella virulence and stationary-phase survival . 
+Mol Microbiol 43:771 -- 782 35 . 
+Xu S , Zhang H , Sheng X et al ( 2008 ) Transcriptional expression of ﬂjB : z66 , a ﬂagellin gene located on a novel linear plasmid of Salmonella enterica serovar Typhi under environmental stresses . 
+New Microbiol 31:241 -- 247 36 . 
+Yang K , Wang M , Metcalf WW ( 2009 ) Uptake of glycerol-2-phosphate via the ugp-encoded transporter in Escherichia coli K-12 . 
+J Bacteriol 191:4667 -- 4670 37 . 
+Yim HH , Brems RL , Villarejo M ( 1994 ) Molecular characterization of the promoter of osmY , an rpoS-dependent gene . 
+J Bacteriol 176:100 -- 107

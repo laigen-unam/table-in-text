@@ -1,0 +1,766 @@
+NIH Public A Author Manuscript
+ccess 
+Cell Mol Life Sci . 
+Author manuscript ; available in PMC 2013 August 19 . 
+Published in final edited form as : 
+Cell Mol Life Sci . 
+2011 November ; 68 ( 22 ) : 3687 -- 3697 . 
+doi :10.1007 / s00018-011-0841-0 . 
+Salmonella effector proteins and host-cell responses 
+C.V. Srikanth , Regino Mercado-Lubo , Kelly Hallstrom , and Beth A. McCormick 
+Department of Microbiology and Physiological Systems , The University of Massachusetts Medical School , 55 Lake Avenue North , Worcester , MA 01655 
+Abstract 
+Acute gastroenteritis caused by Salmonella enterica serovar typhimurium is a significant public health problem . 
+This pathogen has very sophisticated molecular machinery encoded by the two pathogenicity islands , namely Salmonella Pathogenicity Island 1 and 2 ( SPI-1 and SPI-2 ) . 
+Remarkably , both SPI-1 and SPI-2 are very tightly regulated in terms of timing of expression and spatial localization of the encoded effectors during the infection process within the host cell . 
+This regulation is governed at several levels , including transcription and translation , and by posttranslational modifications . 
+In the context of a finely tuned regulatory system , we will highlight how these effector proteins co-opt host signaling pathways that control the ability of the organism to infect and survive within the host , as well as elicit host proinflammatory responses . 
+Introduction
+Salmonella enterica serovar typhimurium ( S. typhimurium ) is a facultative intracellular pathogen that causes a variety of diseases in humans and animals , ranging from gastroenteritis to systemic infection . 
+The disease is primarily spread by the contamination of water and food items with fecal matter from infected hosts and is often self-limiting , but can cause prolonged complications [ 33 ] . 
+The ability of S. typhimurium to cause disease in humans is related to its horizontal acquisition of virulence genes termed pathogenicity islands ( SPI ) . 
+In S. typhimurium SPI-1 and SPI-2 contain genes for two type-three secretion systems ( T3SS ) . 
+TTSSs are specific to Gram ( - ) bacteria and likely evolved from the flagella basal body . 
+Each TTSS contains a motor , a needle complex , and a translocon through which secreted effectors are delivered into host cells [ 74 ] . 
+The secreted effectors co-opt host-cell signal transduction cascades that provide various pivotal functions to the organism , including promoting bacterial entry , controlling inflammatory responses , and regulating bacterial survival within the cell ( Table 1 ) . 
+The SPI-1 T3SS ( T3SS1 ) is primarily associated with invasion [ 27 ] , while the SPI-2 T3SS ( T3SS2 ) seems to principally promote the intracellular survival of at least S. Typhimurium , as it has been suggested that survival of S. Typhi in macrophages does not require SPI-2 effectors [ 25 ] . 
+Despite these differences in T3SS1 and TTSS2 , some effectors from both systems are actually required at the same time [ 8 , 47 ] , suggesting the coordination involved in regulating SPI-1 and SPI-2 is more complex than previously thought . 
+The regulation of the timing of synthesis and secretion of these effectors is achieved through several tiers of checkpoints , such as transcription and translation , post-mediated control . 
+In this review , we have assembled information to specifically emphasize how the timing of the delivery and the spatio-localization of Salmonella effectors contribute to a successful infection at the expense of the host . 
+Corresponding Author : Beth A. McCormick , Ph.D. , Department of Microbiology and Physiological Systems , University of Massachusetts Medical School , 55 Lake Avenue North , Worcester , MA 01655 , USA , Tel : 508-856-6048 , beth.mccormick@umassmed.edu . 
+Inside the host , after entering the lumen of the small intestine , S. Typhimurium traverses the intestinal mucus layer and immediately senses the microenvironment ( i.e. , pH , oxygen tension , osmolarity ) of the intestinal epithelial cells . 
+At this point , the first level of control over the timing of the expression of secreted effectors is achieved at the transcriptional level . 
+Salmonella operate an elaborate transcriptional machinery controlled by a master regulator encoded on SPI-1 called HilA [ 3 ] . 
+The expression of HilA is directed by a multi-component feed forward regulatory loop consisting of HilD , HilC , and RtsA , which are AraC-like regulators that can independently activate HilA expression [ 22 ] . 
+HilD can be repressed by HilE , and HilC and RstA further amplify the inducing signal . 
+Another protein , FliZ , was identified to be a major positive regulator of this system . 
+Through genetic and biochemical analyses , FliZ was found to post-translationally control HilD , and as a result , to positively regulate HilA expression [ 14 ] . 
+This control mechanism is independent of other flagellar components , and is not mediated through HilE or through FliZ-mediated RpoS regulation . 
+Moreover , mutants lacking FliZ expression were significantly attenuated in their ability to colonize mouse intestines , but could still cause systemic infection [ 14 , 41 , 51 ] . 
+Therefore , a lack of either SPI-1 activation or of FliZ can attenuate intestinal colonization . 
+A recent study has also revealed a role for DNA adenine methylation ( DAM ) in posttranscriptional control of SPI-1 gene expression [ 53 ] . 
+In this study , DAM deficient mutants ( dam - ) of Salmonella were attenuated in mouse models and presented several virulenceassociated defects . 
+In addition , impaired interaction of the dam mutants with the intestinal epithelium correlated with reduced secretion of SPI-1 effectors . 
+It is interesting to note that several regulators of T3SS1 , such as HilA , HilC , HilD , and InvF , were found in significantly lower levels in the dam mutant . 
+ella 
+n 
+o 
+alm 
+S 
+relies on T3SS2 to survive and replicate intracellularly 
+The virulence genes located in SPI-2 are controlled by the regulatory circuits of three different two-component regulatory systems : SpiR/SsrB , EnvZ/OmpR , and PhoQ/PhoP ( reviewed by [ 24 ] ) . 
+SsrB is the response regulator , and membrane resident SpiR is the predicted integral cognate sensor . 
+SsrB protein binds to the promoters of all SPI-2 functional gene clusters and is essential for expression of the structural , regulatory , and effector components of the SPI-2 locus [ 79 ] . 
+HilD has been identified as a major regulator controlling the crosstalk between the SPI-1 and SPI-2 regulatory networks [ 12 ] . 
+HilD binds directly to the regulatory regions of the ssrAB operon ( the coding regions of ssrA and ssrB ) and counteracts the repression exerted by the negative regulator , H-NS , or ompR ( a factor required for the activation of SPI-2 genes ) . 
+Setting the platform for invasion and infection 
+effectors 
+ted 
+re 
+ec 
+S 
+In the intestinal lumen several environmental cues ( i.e. , osmolarity , oxygen tension , pH ) trigger the upregulation of Salmonella T3SS1 . 
+Therefore , upon colonization , it is likely that Salmonella begins to secrete effector proteins into the intestinal milieu . 
+This concept is supported by studies showing 80 -- 90 % of secreted Salmonella effector proteins were found either associated with non-adherent bacteria or in the infection media , whereas only about 10 % were actually translocated into the host cell [ 15 ] . 
+The observation that Salmonella secretion and translocation appear to be uncoupled led to the speculation that Salmonella effector proteins functionally interact with the host cell both extracellularly and intracellularly . 
+alm 
+S 
+relies on T3SS2 to survive and replicate intracellularly 
+Setting the platform for invasion and infection 
+effectors 
+ted 
+re 
+ec 
+S 
+An example of effector-extracellular epithelial interactions is illustrated by our recent work investigating the molecular action of the Salmonella effector invasion protein A ( SipA ) . 
+SipA promotes gastroenteritis by harboring two functional motifs that individually trigger mechanisms of inflammation or bacterial entry [ 78 ] . 
+To facilitate infection , SipA activates the host enzyme , caspase-3 , within 4 h of infection . 
+This enzyme is required for SipA cleavage at a specific recognition motif that divides the protein into its two functional domains and activates SipA in a manner necessary for pathogenesis . 
+What is striking about this observation is this processing of SipA was found to occur on the outer surface of the intestinal epithelium , suggesting SipA needs to be cleaved before interacting with the apical surface ( [ 73 ] ; Fig. 1 ) . 
+Whether other effector proteins are processed extracellularly in a similar manner remains to be determined . 
+In recent years , technologies to identify secreted effectors have been developed founded on a sequence-based method called Effective T3 . 
+This methodology uses parameters such as length , position , and composition of the protein of interest to predict the probability of it being a secreted effector . 
+For Salmonella , the Effective T3-based strategy predicted that close to 3 % of the total proteome was secreted , and this portion has been called the secretome of the pathogen [ 2 ] . 
+Another study investigating secreted Salmonella effectors used sequence information based on several parameters , including the taxonomy of the protein sequence , to determine the probability of the protein being secreted [ 71 ] . 
+This study identified 400 Salmonella-secreted proteins , many of which were outside the SPI-1 and SPI-2 loci . 
+Epithelial translocation of early T3SS1 effectors 
+Early upon contact with enterocytes , S. typhimurium engages the translocation of secreted effectors in a highly timed and coordinated manner . 
+The Salmonella effectors SopE , SopE2 , and SopB initiate the process of invasion ( Fig. 1 ) . 
+Together , these proteins promote the activation of host-cell Rho GTPases , which subsequently turn on signal transduction pathways , priming not only the entry of the organism , but also setting in motion the NF-KB-dependent inflammatory cascade [ 35 , 76 ] . 
+Entry of the organism into host cells requires intimate interaction with the host cytoskeleton , which is partly mediated by SipC , a membrane-anchored protein and a component of the bacterial translocon . 
+SipC contains two membrane-spanning regions with N and C termini facing the host-cell cytoplasm . 
+This topological assembly of SipC is key to the actin nucleation and the translocation processes . 
+Remarkably both of these processes are primarily dependent on the C-terminus of SipC [ 61 ] . 
+Chang and coworkers [ 13 ] demonstrated that the effector translocation function and actinnucleating function are dissociable 
+SipA is unique since it plays multiple roles in bacterial entry and inflammation [ 48 , 82 ] . 
+As described above , this effector is important even prior to bacterial entry into the epithelial cells . 
+During the entry process , SipA has been shown to promote actin filament polymerization by reducing the threshold monomer concentration required for polymerization . 
+In addition , SipA interacts with the assembled filaments and prevents depolymerization [ 83 ] . 
+Structural studies investigating SipA-actin binding have revealed that SipA acts as a ` molecular staple ' using its two extended arm domains to tether actin monomers that are in close proximity [ 30 ] . 
+The net effect of SipA and SipC activity is the bundling of actin filaments , which leads to the formation of membrane ruffles , a key step in Salmonella entry into the non-phagocytic epithelial cells [ 57 , 82 ] . 
+Remarkably , SipA is not necessary for bacterial entry , probably because of functional redundancy of the effectors [ 48 ] . 
+However , very early during infection a SipA mutant displays a reduced entry rate [ 82 ] . 
+From cytosolic , temporal , and localization points of view SipA demonstrates a high degree of specialization . 
+, 
+SopB , which bears homology to mammalian inositol phosphate 4 phosphatase , is also implicated in bacterial entry into the host cell [ 84 ] . 
+SopB has phosphoinositide phosphatase activity which , by dephosphorylation of phosphatidylinositol-4 ,5 - bisphosphate at the plasma membrane , promotes the invasion process [ 63 ] . 
+SopB also contributes to the activation of a RhoG exchange factor SGEF ( Src homology 3 domain-containing guanine nucleotide exchange factor ) , a guanosine nucleotide exchange factor for RhoG , which results in actin rearrangements contributing to the Salmonella entry process [ 66 ] . 
+Later on in the infection process , SopB activity also promotes SCV biogenesis ( described below and in Fig. 1 ) . 
+The actions of SipC , SipA , and SopB , particularly their effects on actin , lead to major cytoskeletal rearrangements , and thus formation of membrane ruffling . 
+After actin rearrangement-driven membrane ruffling , the invasion process relies on the formation of phagosomes to contain the internalized bacteria . 
+This process , assisted by SopB and SopD , requires pinching off of these large endocytic vacuoles , called macropinosomes . 
+Remarkably , SopD has been reported to be translocated by both T3SS1 and TTSS2 [ 72 ] . 
+SopD shares a strong homology to SopD2 , and in concert with SopB it induces fluid secretion and inflammation in a bovine-ligated ileal loop model of infection [ 40 ] . 
+Initially , Bokowski et al. reported localization of SopD at the sites of bacterial invasion in a SopB phosphatase activity-dependent manner . 
+Furthermore , SopD plays a role in membrane fusion and macropinosome formation during infection [ 4 ] . 
+In another study using stable isotope labeling of amino acids in cell culture ( SILAC ) , and quantitative mass-spectrometric based methods , the intracellular target of SopD was confirmed to be small G protein Cdc42 [ 69 ] . 
+In the same study intracellular localization of SopB was reported to be at the plasma membrane . 
+effectors ensure damage control 
+SPI1 
+Late 
+Once Salmonella gets inside the host cells , the surface architecture of the cells returns to normal ( Fig. 1 ) . 
+Therefore , shortly after endocytosis , Salmonella must engage a second set of secreted effectors that ensures repair and homeostasis of the invaded cell ( Table 1 ) . 
+SptP , a protein that exhibits opposing activities to SopE and SopE2 , relieves the invasion-induced damage by reversing the changes to the host-cell membrane as early as within 3 h of infection [ 26,29 ] . 
+How virulence proteins with opposing abilities precisely perform and fulfill their task is a pivotal question that remains to be addressed . 
+However , a plausible explanation is through very strict regulation of the timing of the expression , translocation , and turn-over of these effectors in the host cell . 
+Detailed studies by Kubori et al. [ 45 ] have shed light onto this possibility as they demonstrated that soon after infection , SopE undergoes degradation by the ubiquitin-proteasomal complex , whereas SptP survives longer before getting degraded by the same complex . 
+Another study focused on the temporal dynamics of SptP and SopE2 with fluorescent tagging . 
+Using FIASH/tetracysteine labeling , Van Engelenburg and Palmer demonstrated that these two effectors display very different secretion kinetics and rates of degradation [ 77 ] . 
+Salmonella expresses several other proteins that reverse the changes caused by earlier effectors . 
+For instance , SptP and SspH1 participate in downregulating IL-8 , and Hagara and Miller found that SspH1 localizes to the nucleus and inhibits NF-kB-dependent gene expression . 
+This observation has lead to the compelling hypothesis that suppressing proinflammatory responses is critical to intracellular survival and Salmonella pathogenesis [ 34 ] . 
+Once Salmonella makes its way into the host epithelial cell and its effectors have reversed the physiological changes to the cell following entry , it must adapt to the new environment . 
+Thus , shortly after endocytosis the bacteria trigger mechanisms that promote sustenance and multiplication inside the host cell ( Fig. 1 ; Table 1 ) . 
+Salmonella relies on the T3SS2 to survive and replicate within the colonic epithelial cells and in macrophages . 
+Intracellular survival and replication are required for Salmonella to disseminate and cause systemic infection . 
+Within macrophages and intestinal epithelial cells , Salmonella resides inside a small vacuole called the Salmonella-containing vacuole ( SCV ) that persists anywhere from a few hours to days ( reviewed by [ 5 ] ) . 
+During SCV biogenesis , several Rabs ( Rab5A/B/C ) from the host are acquired and retained in the vacuole . 
+This includes several proteins that are absent in a model phagosome ; however , some proteins like Rab8 , Rab13 , Rab23 , Rab35 that are usually present in model phagosomes are absent in SCVs . 
+Rab7 , which is a component of late phagosomes , is acquired very early by SCV . 
+Following the formation of the SVC , the microenvironment within the vacuole undergoes drastic changes that eventually trigger activation of T3SS2 ( discussed below ) . 
+At least 20 Salmonella effector proteins are known to be translocated by TTSS2 across the phagosomal membrane into the eukaryotic cell cytoplasm . 
+Specific roles and functional details for all the effectors are not yet well understood , and so far no specific effector has been identified as the key factor responsible for altered vesicular trafficking . 
+However , SopB , though a SPI-1 protein , persists at least 12 h post-infection and contributes to the maintenance of the SCV as well as to long-term systemic infection in mice [ 32 , 47 ] . 
+For example , SopB transcripts were detected at least 8 h post-infection in macrophages [ 20 ] . 
+SopB serves to selectively remove M6PR-positive membrane from the SCV , and such pathways of recycling could be important in deciding the fate of the vacuole [ 11 ] . 
+During SCV maintenance , SopB alters the charge on the SCV membrane , thereby displacing several typical components of the vacuolar membrane and ultimately preventing it from fusing with lysosomes [ 4 ] . 
+Therefore , by the virtue of its lipid-modifying property , SopB could determine severaloutcomes during infection , such as signal transduction during early infection and SCV maturation during later infection . 
+Activation of TTSS2 
+The expression and assembly of T3SS2 is induced as a direct result of changes in phagosomal conditions ( Fig. 1 ) . 
+Those conditions include an acidic medium , with a pH that fluctuates between 5 and 5.5 , decreased concentration of divalent cations ( Ca2 ? 
+and Mg2 ? ) 
+and phosphates [ 18 ] , and the presence of antimicrobial peptides . 
+Under these conditions the expression of T3SS2 reaches its peak within 2 to 4 h post-infection . 
+The expression of SPI-2-encoded genes is regulated by three two-component systems , SpiR/Ssrb , EmvZ / OmpR and PhoQ/PhoP ( reviewed by Fass and Grossman [ 24 ] ) . 
+Currently , the functions of T3SS2 remain incompletely defined . 
+However , its importance in Salmonella virulence and intracellular survival is well understood , as T3SS2 mutants fail to grow within animal models [ 37 ] . 
+A reasonable hypothesis for the role of TTSS2 is that it allows intracellular replication in epithelial and phagocytic cells . 
+This would permit the infection of distant organs during the late stage infection by altering host vesicular trafficking , and by the redirection of essential molecules like lipids and amino acids to the SCV . 
+The translocation of TTSS2 effector proteins across the SCV requires the formation of a translocon complex that promotes the formation of a pore through which proteins reach the host-cell cytoplasm ( Fig. 1 ; Table 1 ) . 
+It has been reported that the secreted proteins SseB , SseC , and SseD associate in an SCV surface-located macromolecular structure [ 62 ] . 
+In the absence of SseB , substrate proteins SseC and SseD are still secreted but do not reach the cell surface . 
+In contrast , SseC and SseD are not required for the secretion and surface location of SseB . 
+The translocated effectors most important during intracellular survival seem to be SifA , SseJ , SseF , SseG , SopD2 , and PipB2 , as strains mutated for these effectors exhibit virulence defects in mouse infection models [ 43 , 75 ] . 
+F 
+o 
+rm 
+atio 
+n 
+o 
+f Salmonella containing vacuole 
+Activation of TTSS2 
+ery across the SCV 
+eliv 
+d 
+tein 
+ro 
+P 
+ar localization of the SCV 
+cle 
+u 
+erin 
+P 
+Following the activation of T3SS2 , the SCV migrates to the perinuclear region in close proximity to the Golgi network , where it undergoes a crucial phase of development ( Fig. 1 ) . 
+It has been recently shown that Salmonella targets the Golgi apparatus to acquire nutrients and membrane constituents in order to preserve the integrity of replication within the SCV [ 70 ] . 
+This specific positioning requires the translocated effectors SifA , SseG , and SseF [ 7 , 19 ] . 
+SseF and SseG mutants exhibit a defect in Golgi localization and replication , as well as attenuated virulence in mice [ 70 ] . 
+Disrupting localization to the Golgi apparatus inhibits bacterial replication [ 46 ] . 
+Consequently , interaction of SCV with an intact exocytic pathway appears to be an important aspect of bacterial virulence . 
+Formation of Salmonella induced filaments -- The main outcome during SCV maturation is the formation of Salmonella-induced filaments ( Sifs ) . 
+As depicted in Fig. 1 , Sifs are long filamentous membrane structures necessary for the proper positioning of the SCV in close proximity to the Golgi apparatus and near the perinuclear region of the host . 
+Sif tubules extend from the surface of the SCV and appear to be derived from late endocytic compartments ; they contain LAMP-1 , vacuolar adenosine triphosphatase ( vATPase ) , lysobisphosphatidic acid , and cathepsin [ 21 ] . 
+Sif formation requires the localization of T3SS2 effectors SifA and PipB2 to the SVC . 
+PipB2 functions as a linker for the plus-end-directed microtubule motor kinesin-1 and mediates its recruitment [ 36 ] . 
+SifA binds to a eukaryotic protein named SifA kinesininteracting protein ( SKIP ) that also binds to the plus-ended-directed microtubule network and regulates the level of kinesin-1 on the SCV [ 7 ] . 
+SifA was recently identified as a member of the WxxxE family of bacterial TTSS effectors that subvert host-cell functions by mimicking activated small GTPases or their pathways [ 1 ] . 
+Members of this family include IpgB1 , IpfB2 , and Map ( produced by E. coli and Shigella ) . 
+These proteins induce actin cytoskeleton rearrangements similar to that induced by activated GTPases Cdc42 , Rac1 , and RhoA [ 1 ] . 
+Effectors with the WxxxE motif do not have known structural similarities to GTPases , and their activity is unaltered by GTPase inhibitors [ 1 ] . 
+Sif formation also requires the presence of an intact microtubule network [ 10 , 31 ] , and the bidirectional nature of the tubule movement suggests the involvement of distinct minus-end-directed and plus-ended-directed motors . 
+There are some discrepancies in the field regarding the interaction of SifA with other proteins for the induction of tubular filaments . 
+Nonetheless , [ 65 ] showed that Sif formation appears to be induced in a cooperative manner by SifA and SseJ , which interact in a protein complex with SKIP and RhoA family GTPase to promote phagosomal tubulation . 
+Additionally , SipA was shown to persist very late after the formation of SCVs ; in both macrophages and non-phagocytic cells , molecular crosstalk between SipA and SifA was observed [ 8 ] . 
+The appearance of Sifs coincides with the initiation of bacterial replication several hours after invasion of the host cell [ 21 ] . 
+The physiological function of Sifs is incompletely understood , although Salmonella mutants that can not make Sifs exhibit attenuated virulence in mouse models of Salmonella infection and reduced replication rate within cultured macrophages . 
+These data suggest that Sif formation plays a key role in Salmonella pathogenesis . 
+[ 75 ] . 
+Thus , it is inferred that the main role of Sifs is to increase the size of the SCV to better accommodate bacterial replication during systemic infection . 
+p 
+ctin 
+A 
+o 
+ly 
+m 
+erization around the SCV 
+Several hours after Salmonella entry into either epithelial cells or macrophages , a collection of F-actin filaments is observed surrounding the SCV . 
+In fact , S. Typhimurium-infected cells treated with an inhibitor of actin polymerization result in decreased bacterial replication , suggesting that actin manipulation is an important factor for bacterial replication [ 17 ] . 
+Interestingly , the polymerized actin that encases the SCV depends on the T3SS2 . 
+Although the effector proteins responsible for the movement of actin filaments to surround the SCV have not been identified , two effectors , SspH2 and SseI , have been shown to co-localize with the polymerized actin cytoskeleton [ 58 ] . 
+Both SspH2 and SseI interact through homologous N-terminal domains with the host actin-binding protein , filamin . 
+However , neither SspH2 or SseI is essential for the formation of F-actin around the SCV since double mutants still show normal SCV-associated actin polymerization [ 58 ] . 
+In addition , direct evidence that actin polymerization plays an important role in intracellular survival is lacking . 
+Some Salmonella strains express the SpvB protein , an intracellular toxin encoded by the spv locus that has been shown to induce vacuole associated actin depolymerization [ 49 ] , presumably by ADP-ribosylating actin . 
+Similarly , Salmonella strains that lack the SPI-2 genes ssaV and ssaJ are unable to depolymerize actin in human macrophages [ 9 ] . 
+These results imply that SpvB requires SPI-2 to gain access to the host-cell cytoplasm . 
+Recent data also suggest that the T3SS2 is required for SpvB-mediated actin depolymerization [ 9 ] . 
+Effector spatial regulation 
+estering of effectors 
+u 
+eq 
+l s 
+atia 
+p 
+S 
+Several SPI-1 and SPI-2 effectors show distinct localization patterns during infection ( Table 1 ) . 
+Engelenberg and coworkers have developed a fluorescent tag-based method to study the translocation of effectors in real time [ 77 ] . 
+These authors labeled three SPI-2 effectors , SteA , SteC , and Pib2 , to validate this method . 
+PipB2 displayed highly dynamic behavior of tubules emanating from the Salmonella-containing vacuole labeled with both endo - and exocytic markers . 
+SteA was preferentially localized in Golgi bodies . 
+This segregation suggests that targeting and localization of effectors may be important for promoting Salmonella pathogenesis . 
+Using a small intereference RNA ( siRNA ) - based screen , Mota et al. reported the contribution of SCAMPs ( secretory carrier membrane proteins ) in the maintenance of the SCV in the Golgi region of Hela cells . 
+This indicates a role for SCAMPs in vacuolar membrane dynamics . 
+Moreover , SCAMP3 was shown to be involved in manipulating specific post-Golgi trafficking that might allow Salmonella to acquire nutrients and membrane lipids , or to control host immune responses [ 59 ] . 
+In both macrophages and nonphagocytic cells , SipA was necessary for bacterial multiplication within the SCV . 
+Remarkably , SipA was involved in the modulation of SCV morphology and perinuclear distribution by acting cooperatively with the SPI-2 effector , SifA [ 8 ] . 
+These findings define an unexpected additional function for SipA after Salmonella entry and reveal crosstalk between effectors secreted by the two distinct TTSSs ( Fig. 1 ) . 
+SopA , a SPI-1 effector involved in causing inflammation , is one example of a pathogen-associated protein mimicking a host protein . 
+Exhibiting a unique means of host-pathogen interaction , SopA undergoes post-transcriptional and post-translocational ubiquitination by host modification pathways . 
+SopA itself acts as a HECT3 ubiquitin ligase . 
+In what could add another level of complexity , SopA has been shown by our laboratory to possess a caspase-3 cleavage site , and it is cleaved by caspase-3 post-translationally , a process that is necessary for SopA-mediated inflammation . 
+In addition , SseL , another secreted effector , displays deubiquitinating activity in vitro . 
+By acting as a deubiquitinating enzyme , this molecule inhibits the degradation of IkBa , a central regulator of the NF-kB pathway . 
+In addition , the SPI-2 effector , SlrP , has recently been reported to bear E3 ubiquitin ligase activity [ 6 ] . 
+This bacterial enzyme was found to mediate ubiquitination of host thioredoxin . 
+Stable expression of SlrP in Hela cells resulted in a significant decrease of thioredoxin activity , which in turn increased cell death . 
+Ubiquitination-dependent recruitment and control of the biological activity of SopB are perhaps the best examples of how post-translational modification may be manipulated by pathogens to ensure infection and intracellular survival [ 44 ] . 
+SopB has been documented to persist even after it has been ubiquitinated , and so how this effector escapes the degradation machinery has been a long-standing question . 
+Mutation of the SopB residue that is conjugated by ubiquitin results in the loss of SopB activity but does not affect its turnover . 
+In this case , ubiquitination is affecting a process that is distinct from mediating protein stability . 
+One of the rapidly emerging areas in host-pathogen interaction studies is how the pathogen uses various forms of post-translational modification systems of the host towards its own survival . 
+How Listeria monocytogenes manipulates host sumoylation to establish infection , described in a report by Ribet and colleagues , is another illustration of this example [ 68 ] . 
+Host response 
+il recruitment is established 
+h 
+p 
+tro 
+eu 
+N 
+Cdc42 activation promoted by SopE , SopE2 , and SopB triggers several mitogen-activated protein kinase ( MAPK ) pathways . 
+Specifically , ERK , Jnk , and p38 pathways are induced , the net result of which is terminal activation of major regulators , such as AP-1 and NF-kB [ 39 , 66 ] . 
+The activation of these regulators is key to stimulating pathways of inflammation as they establish the basolateral secretion of IL-8 , which is a requirement for PMN migration [ 56 ] . 
+Concomitant to this , SipA mediates arachidonic acid metabolism in epithelial cells , which leads to the apical release of HXA3 ( hepoxilin A3 ) . 
+Once released HXA3 forms a gradient along epithelial intercellular junctions , a step that is crucial in recruitment of the PMNs at the apical epithelial surface [ 60 ] . 
+Damage control: The multifunctional protein, AvrA, is anti-inflammatory—
+AvrA is a multifunctional protein that affects several pathways during Salmonella infection [ 16 , 81 ] . 
+This effector deubiquitinates IkBa , and in doing so , blocks its degradation and inhibits NF-kB activation . 
+AvrA also deubiquitinates b-catenin and further blocks the NF-kB pathway [ 81 ] . 
+- m P 
+ediated post-translational modifications 
+ost-translational modifications are now recognized as a very important strategy employed y the pathogen to govern spatial and temporal regulation of their effectors . 
+Molecular imicry of some key components of host-cell post-translational modification pathways is ne way by which Salmonella and some other pathogens achieve this end . 
+b m o 
+Host response 
+il recruitment is established 
+h 
+p 
+tro 
+eu 
+N 
+During later stages of infection , AvrA is associated with interferon gamma responses [ 52 ] . 
+Additionally , [ 50 ] reported the ability of AvrA to restore the tight junctions of the epithelia so as to dampen inflammatory pathways . 
+Therefore , cells colonized with AvrA-deficient bacterial cells exhibited decreased cell permeability , disruption of tight junctions , and increased inflammatory responses [ 50 ] . 
+In contrast , AvrA-expressing bacteria led to increased permeability and restoration of tight junctions . 
+An intriguing result from their study was that AvrA expression itself is controlled by a complex mechanism ; CsrA/CsrB appears to regulate AvrA in a post-transcriptional manner [ 42 ] . 
+Wu and coworkers reported that AvrA-expressing Salmonella infection led to significant accumulation of acetylated p53 in comparison to infection with an AvrA-deficient strain . 
+Moreover , HCT116p53 − / − cells had decreased inflammatory responses relative to the control parental cell line [ 80 ] . 
+Further , a recent study investigating gene expression profiling in the mouse colon following Salmonella infection sheds light on several potential functions of AvrA . 
+Upregulations of pathways such as mTOR , NF-kB , growth factor , oxidative phosphorylation , and MAPK signaling were early effects of AvrA . 
+AvrA also possesses a potential caspase-3 cleavage site [ 73 ] ; the significance of this motif remains to be determined . 
+Host innate immunity is important to control Salmonella infection : 
+Following passage across the intestinal epithelium Salmonella are taken up by macrophages . 
+Like in epithelial cells the bacteria are able to survive in macrophages by forming an SCV , whereby Salmonella has mechanisms to secrete effectors into the cytoplasm [ 28 ] . 
+Following phagocytosis of Salmonella , macrophages become immunologically activated by cytokines and exhibit a profound increase in their microbicidal , degradative , and secretory functions . 
+Recognition of Salmonella by the innate immune system is mediated through pattern recognition receptors that bind to conserved molecules from microorganisms , most notably Toll-like receptor ( TLR ) family members ( reviewed by Prost LR et al. [ 67 ] ) . 
+TLRs activate transcriptional responses to extracellular and vacuolar pathogen-associated molecular patterns . 
+Stimulation of these receptors results in the release of inflammatory signals , including interleukin-1b ( IL-1b ) and tumor necrosis factor-a ( TNF-a ) , from the macrophages . 
+This process likely involves detection of a number of bacterial ligands called pathogen-associated molecular patterns ( PAMPs ) by the TLR family , and in particular by the lipopolysaccharide ( LPS ) receptor TLR-4 / MD-2 . 
+Not surprisingly , mice deficient in TLR-4 are more susceptible to infection with S. Typhimurium [ 64 ] . 
+Other components of innate immune responses , such as interferon-c , IL-12 , and TNF-a , have been shown to be important to control S. typhimurium infection in the mouse or humans . 
+These cytokines are required for macrophage activation and efficient killing of Salmonella in systemic infections [ 23 , 38 , 55 ] . 
+Macrophages also respond to Salmonella through caspase-1 induction and secretion of the proinflammatory cytokine IL-1b through Ipaf ( ICE protease-activating factor ) , a member of the NLR family [ 54 ] . 
+These mechanisms of immune activation are unique to macrophages , as compared to intestinal epithelial cells , mainly owing to differences in TLR expression and the concomitant pathways triggered by these two cell types . 
+Conclusion 
+Salmonella infection is a major health problem in the developing and developed world . 
+Therefore , understanding the details of the molecular mechanisms employed by this pathogen to gain access into the host and to induce inflammation is extremely important , and perhaps fundamental for the design of novel vaccine strategies or therapeutics . 
+This review focused on the TTSS effects of Salmonella because the ability of this pathogen to invade the non-phagocytic cells of the intestine is key to its pathogenesis . 
+During the infection process , 
+The research was supported by grants from the National Institutes of Health (DK56754 and DK33506), and the Crohn’s and Colitis Foundation of America to B.A.M.
+1 . 
+Alto NM , Shao F , Lazar CS , Brost RL , Chua G , Mattoo S , McMahon SA , Ghosh P , Hughes TR , Boone C , Dixon JE . 
+Identification of a bacterial type III effector family with G protein mimicry functions . 
+Cell . 
+2006 ; 124 ( 1 ) :133 -- 145 . 
+[ PubMed : 16413487 ] 2 . 
+Arnold R , Brandmaier S , Kleine F , Tischler P , Heinz E , Behrens S , Niinikoski A , Mewes HW , Horn M , Rattei T. Sequence-based prediction of type III secreted proteins . 
+PLoS Pathog . 
+2009 ; 5 ( 4 ) : e1000376 . 
+Epub 2009 Apr 24 . 
+Erratum in : PLoS Pathog . 
+2009 Apr ; 5 ( 4 ) . 
+[ PubMed : 19390696 ] Bajaj V , Lucas RL , Hwang C , Lee CA . 
+Co-ordinate regulation of Salmonella typhimurium invasion genes by environmental and regulatory factors is mediated by control of hilA expression . 
+Mol Microbiol . 
+1996 ; 22 ( 4 ) :703 -- 714 . 
+[ PubMed : 8951817 ] 
+3 . 
+Bakowski MA , Cirulis JT , Brown NF , Finlay BB , Brumell JH . 
+SopD acts cooperatively with SopB during Salmonella enterica serovar typhimurium invasion . 
+Cell Microbiol . 
+2007 ; 9 ( 12 ) :2839 -- 2855 . 
+Epub 2007 Aug 13 . 
+[ PubMed : 17696999 ] 4 . 
+Bakowski MA , Braun V , Brumell JH . 
+Salmonella-containing vacuoles : directing traffic and nesting to grow . 
+Traffic . 
+2008 ; 9 ( 12 ) :2022 -- 2031 . 
+Epub 2008 Oct 8 . 
+Review . 
+[ PubMed : 18778407 ] 5 . 
+Bernal-Bayard J , Ramos-Morales F. Salmonella type III secretion effector SlrP is an E3 ubiquitin ligase for mammalian thioredoxin . 
+J Biol Chem . 
+2009 ; 284 ( 40 ) :27587 -- 27595 . 
+Epub 2009 Aug 18 . 
+[ PubMed : 19690162 ] 6 . 
+Boucrot E , Henry T , Borg JP , Gorvel JP , Méresse S . 
+The intracellular fate of Salmonella depends on the recruitment of kinesin . 
+Science . 
+2005 ; 308 ( 5725 ) :1174 -- 1178 . 
+[ PubMed : 15905402 ] 7 . 
+Brawn LC , Hayward RD , Koronakis V. Salmonella SPI1 effector SipA persists after entry and cooperates with a SPI2 effector to regulate phagosome maturation and intracellular replication . 
+Cell Host Microbe . 
+2007 ; 1 ( 1 ) :63 -- 75 . 
+[ PubMed : 18005682 ] 8 . 
+Browne SH , Lesnick ML , Guiney DG . 
+Genetic requirements for Salmonella-induced cytopathology in human monocyte-derived macrophages . 
+Infect Immun . 
+2002 ; 70 ( 12 ) :7126 -- 7135 . 
+[ PubMed : 12438395 ] 9 . 
+Brumell JH , Goosney DL , Finlay BB . 
+SifA , a type III secreted effector of Salmonella typhimurium , directs Salmonella-induced filament ( Sif ) formation along microtubules . 
+Traffic . 
+2002 ; 3 ( 6 ) :407 -- 415 . 
+[ PubMed : 12010459 ] 10 . 
+Bujny MV , Ewels PA , Humphrey S , Attar N , Jepson MA , Cullen PJ . 
+Sorting nexin-1 defines an early phase of Salmonella-containing vacuole-remodeling during Salmonella infection . 
+J Cell Sci . 
+2008121 ( Pt 12 ) :2027 -- 2036 . 
+Epub 2008 May 27 . 
+[ PubMed : 18505799 ] 11 . 
+Bustamante VH , Martínez LC , Santana FJ , Knodler LA , Steele-Mortimer O , Puente JL . 
+HilDmediated transcriptional cross-talk between SPI-1 and SPI-2 . 
+Proc Natl Acad Sci USA . 
+2008 ; 105 ( 38 ) :14591 -- 14596 . 
+[ PubMed : 18799744 ] 12 . 
+Chang J , Chen J , Zhou D. Delineation and characterization of the actin nucleation and effector translocation activities of Salmonella SipC . 
+Mol Microbiol . 
+2005 ; 55 ( 5 ) :1379 -- 1389 . 
+[ PubMed : 15720547 ] 13 . 
+Chubiz JE , Golubeva YA , Lin D , Miller LD , Slauch JM . 
+FliZ regulates expression of the Salmonella pathogenicity island 1 invasion locus by controlling HilD protein activity in Salmonella enterica serovar typhimurium . 
+J Bacteriol . 
+2010 ; 192 ( 23 ) :6261 -- 6270 . 
+Epub 2010 Oct 1 . 
+[ PubMed : 20889744 ] 
+one of the most remarkable features of this organism is its capacity to temporally and spatially regulate the dynamics of its virulence factors . 
+Understanding how Salmonella controls this elaborate regulatory machinery is not only fascinating but may also reveal novel insights regarding its pathogenicity . 
+Acknowledgments 
+14 . 
+Collazo CM , Galán JE . 
+The invasion-associated type III system of Salmonella typhimurium directs the translocation of Sip proteins into the host cell . 
+Mol Microbiol . 
+1997 ; 24 ( 4 ) :747 -- 756 . 
+[ PubMed : 9194702 ] 15 . 
+Collier-Hyams LS , Zeng H , Sun J , Tomlinson AD , Bao ZQ , Chen H , Madara JL , Orth K , Neish AS . 
+Cutting edge : Salmonella AvrA effector inhibits the key proinflammatory , anti-apoptotic NF-kappa B pathway . 
+J Immunol . 
+2002 ; 169 ( 6 ) :2846 -- 2850 . 
+[ PubMed : 12218096 ] 16 . 
+Couillault HT , Rockenfeller P , Boucrot E , Dumont A , Schroeder N , Hermant A , Knoedler LA , Steele-Mortimer O , Borg JP , Gorvel JP , Meresse S . 
+The Salmonella effector protein PipB2 is a linker for kinesin-1 . 
+Proc Natl Acad Sci USA . 
+2006 ; 103 ( 36 ) :13497 -- 13502 . 
+Epub 2006 Aug 25 . 
+[ PubMed : 16938850 ] 17 . 
+Deiwick J , Nikolaus Thomas , Erdogan Sezgin , Hensel Michael . 
+Environmental regulation of Salmonella pathogenicity island 2 gene expression . 
+Mol Microbiol . 
+1999 ; 31:1759 -- 1773 . 
+[ PubMed : 10209748 ] 18 . 
+Deiwick J , Salcedo SP , Boucrot E , Gilliland SM , Henry T , Petermann N , Waterman SR , Gorvel JP , Holden DW , Méresse S . 
+The translocated Salmonella effector proteins SseF and SseG interact and are required to establish an intracellular replication niche . 
+Infect Immun . 
+2006 ; 74 ( 12 ) :6965 -- 6972 . 
+Epub 2006 Oct 2 . 
+[ PubMed : 17015457 ] 19 . 
+Drecktrah D , Knodler LA , Galbraith K , Steele-Mortimer O . 
+The Salmonella SPI1 effector SopB stimulates nitric oxide production long after invasion . 
+Cell Microbiol . 
+2005 ; 7 ( 1 ) :105 -- 113 . 
+[ PubMed : 15617527 ] 20 . 
+Drecktrah D , Levine-Wilkinson S , Dam T , Winfree S , Knodler LA , Schroer TA , Steele-Mortimer O. Dynamic behavior of Salmonella-induced membrane tubules in epithelial cells . 
+Traffic . 
+2008 ; 9 ( 12 ) :2117 -- 2129 . 
+Epub 2008 Oct 18 . 
+[ PubMed : 18785994 ] 21 . 
+Ellermeier CD , Ellermeier JR , Slauch JM . 
+HilD , HilC and RtsA constitute a feed forward loop that controls expression of the SPI1 type three secretion system regulator hilA in Salmonella enterica serovar Typhimurium . 
+Mol Microbiol . 
+2005 ; 57 ( 3 ) :691 -- 705 . 
+[ PubMed : 16045614 ] 22 . 
+Everest P , Roberts M , Dougan G. Susceptibility to Salmonella typhimurium infection and effectiveness of vaccination in mice deficient in the tumor necrosis factor a p55 receptor . 
+Infect Immun . 
+1998 ; 66:3355 -- 3364 . 
+[ PubMed : 9632605 ] 23 . 
+Fass E , Groisman E. Control of Salmonella pathogenicity island-2 gene expression . 
+Curr opin Microbiol . 
+2009 ; 12:199 -- 204 . 
+[ PubMed : 19264535 ] 24 . 
+Forest CG , Ferraro E , Sabbagh SC , Daigle F. Intracellular survival of Salmonella enterica serovar Typhi in human macrophages is SPI-2 independent . 
+Microbiology . 
+2010 ; 156 ( Pt 12 ) :3689 -- 3698 . 
+[ PubMed : 20817644 ] 25 . 
+Fu Y , Galán JE . 
+A Salmonella protein antagonizes Rac-1 and Cdc42 to mediate host-cell recovery after bacterial invasion . 
+Nature . 
+1999 ; 401 ( 6750 ) :293 -- 297 . 
+[ PubMed : 10499590 ] 26 . 
+Galan JE . 
+Molecular genetic bases of Salmonella entry into host cells . 
+Mol Microbiol . 
+1996 ; 20:263 -- 271 . 
+[ PubMed : 8733226 ] 27 . 
+Galán JE . 
+Salmonella interactions with host cells : type III secretion at work . 
+Annu Rev Cell Dev Biol . 
+2011 ; 17:53 -- 86 . 
+Review . 
+[ PubMed : 11687484 ] 28 . 
+Galan JE , Zhou D. Striking a balance : modulation of the actin cytoskeleton by Salmonella . 
+Proc Natl Acad Sci USA . 
+2000 ; 97 ( 16 ) :8754 -- 8761 . 
+[ PubMed : 10922031 ] 29 . 
+Galkin VE , Orlova A , VanLoock MS , Zhou D , Galán JE , Egelman EH . 
+The bacterial protein SipA polymerizes G-actin and mimics muscle nebulin . 
+Nat Struct Biol . 
+2002 ; 9 ( 7 ) :518 -- 521 . 
+[ PubMed : 12055622 ] 30 . 
+Garcia-del Portillo F , Zwick MB , Leung KY , Finlay BB . 
+Salmonella induces the formation of filamentous structures containing lysosomal membrane glycoproteins in epithelial cells . 
+Proc Natl Acad Sci USA . 
+1993 ; 90 ( 22 ) :10544 -- 10548 . 
+[ PubMed : 8248143 ] 31 . 
+Giacomodonato MN , Uzzau S , Bacciu D , Caccuri R , Sarnacki SH , Rubino S , Cerquetti MC . 
+SipA , SopA , SopB , SopD and SopE2 effector proteins of Salmonella enterica serovar Typhimurium are synthesized at late stages of infection in mice . 
+Microbiology . 
+2007 ; 153 ( Pt 4 ) :1221 -- 1228 . 
+[ PubMed : 17379731 ] 
+32 . 
+Graham SM , Molyneux EM , Walsh AL , Cheesbrough JS , Molyneux ME , Hart CA . 
+Nontyphoidal Salmonella infections of children in tropical Africa . 
+Pediatr Infect Dis J. 2000 ; 19:1189 -- 1196 . 
+[ PubMed : 11144383 ] 33 . 
+Haraga A , Miller SI . 
+A Salmonella enterica serovar typhimurium translocated leucine-rich repeat effector protein inhibits NF-kappa B-dependent gene expression . 
+Infect Immun . 
+2003 ; 71 ( 7 ) :4052 -- 4058 . 
+[ PubMed : 12819095 ] 34 . 
+Hardt WD , Chen LM , Schuebel KE , Bustelo XR , Galán JE . 
+S. typhimurium encodes an activator of Rho GTPases that induces membrane ruffling and nuclear responses in host cells . 
+Cell . 
+1998 ; 93 ( 5 ) :815 -- 826 . 
+[ PubMed : 9630225 ] 35 . 
+Henry T , Couillault C , Rockenfeller P , Boucrot E , Dumont A , Schroeder N , Hermant A , Knodler LA , Lecine P , Steele-Mortimer O , Borg JP , Gorvel JP , Méresse S . 
+The Salmonella effector protein PipB2 is a linker for kinesin-1 . 
+Proc Natl Acad Sci USA . 
+2006 ; 103 ( 36 ) :13497 -- 13502 . 
+Epub 2006 Aug 25 . 
+[ PubMed : 16938850 ] 36 . 
+Hensel M , Shea JE , Gleeson C , Jones MD , Dalton E , Holden DW . 
+Simultaneous identification of bacterial virulence genes by negative selection . 
+Science . 
+1995 ; 269 ( 5222 ) :400 -- 403 . 
+[ PubMed : 7618105 ] 37 . 
+Hess J , Ladel C , Miko D , Kaufmann SH . 
+Salmonella typhimurium aroA-infection in gene-targeted immunodeficient mice : major role of CD4 ? 
+TCR-ab cells and IFN-gamma in bacterial clearance independent of intracellular location . 
+J Immunol . 
+1996 ; 156:3321 -- 3326 . 
+[ PubMed : 8617956 ] 38 . 
+Hobbie S , Chen LM , Davis RJ , Galán JE . 
+Involvement of mitogen-activated protein kinase pathways in the nuclear responses and cytokine production induced by Salmonella typhimurium in cultured intestinal epithelial cells . 
+J Immunol . 
+1997 ; 159 ( 11 ) :5550 -- 5559 . 
+[ PubMed : 9548496 ] 39 . 
+Jones MA , Wood MW , Mullan PB , Watson PR , Wallis TS , Galyov EE . 
+Secreted effector proteins of Salmonella dublin act in concert to induce enteritis . 
+Infect Immun . 
+1998 ; 66 ( 12 ) :5799 -- 5804 . 
+[ PubMed : 9826357 ] 40 . 
+Kage H , Takaya A , Ohya M , Yamamoto T. Coordinated regulation of expression of Salmonella pathogenicity island 1 and flagellar type III secretion systems by ATP-dependent ClpXP protease . 
+J Bacteriol . 
+2008 ; 190 ( 7 ) :2470 -- 2478 . 
+[ PubMed : 18245288 ] 41 . 
+Kerrinnes T , Zelas ZB , Streckel W , Faber F , Tietze E , Tschäpe H , Yaron S. CsrA and CsrB are required for the post-transcriptional control of the virulence-associated effector protein AvrA of Salmonella enterica . 
+Int J Med Microbiol . 
+2009 ; 299 ( 5 ) :333 -- 341 . 
+Epub 2008 Nov 29 . 
+[ PubMed : 19042154 ] 42 . 
+Knodler LA , Steele-Mortimer O . 
+The Salmonella effector PipB2 affects late endosome/lysosome distribution to mediate Sif extension . 
+Mol Biol Cell . 
+2005 ; 16 ( 9 ) :4108 -- 4123 . 
+[ PubMed : 15987736 ] 43 . 
+Knodler LA , Winfree S , Drecktrah D , Ireland R , Steele-Mortimer O. Ubiquitination of the bacterial inositol phosphatase , SopB , regulates its biological activity at the plasma membrane . 
+Cell Microbiol . 
+2009 ; 11 ( 11 ) :1652 -- 1670 . 
+Epub 2009 Jul 13 . 
+[ PubMed : 19614667 ] 44 . 
+Kubori T , Galán JE . 
+Temporal regulation of Salmonella virulence effector function by proteasome-dependent protein degradation . 
+Cell . 
+2003 ; 115 ( 3 ) :333 -- 342 . 
+[ PubMed : 14636560 ] Kuhle V , Abrahams GL , Hensel M. Intracellular Salmonella enterica redirect exocytic transport processes in a Salmonella pathogenicity island 2-dependent manner . 
+Traffic . 
+2006 ; 7 ( 6 ) :716 -- 730 . 
+Epub 2006 Apr 21 . 
+[ PubMed : 16637890 ] 45 . 
+Lawley TD , Chan K , Thompson LJ , Kim CC , Govoni GR , Monack DM . 
+Genome-wide screen for Salmonella genes required for long-term systemic infection of the mouse . 
+PLoS Pathog . 
+2006 ; 2 ( 2 ) : e11 . 
+Epub 2006 Feb 24 . 
+[ PubMed : 16518469 ] 46 . 
+Lee CA , Silva M , Siber AM , Kelly AJ , Galyov E , McCormick BA . 
+A secreted Salmonella protein induces a proinflammatory response in epithelial cells , which promotes neutrophil migration . 
+Proc Natl Acad Sci USA . 
+2000 ; 97 ( 22 ) :12283 -- 12288 . 
+[ PubMed : 11050248 ] 47 . 
+Lesnick ML , Reiner NE , Fierer J , Guiney DG . 
+The Salmonella spvB virulence gene encodes an enzyme that ADP-ribosylates actin and destabilizes the cytoskeleton of eukaryotic cells . 
+Mol Microbiol . 
+2001 ; 39 ( 6 ) :1464 -- 1470 . 
+[ PubMed : 11260464 ] 
+48 . 
+Liao AP , Petrof EO , Kuppireddi S , Zhao Y , Xia Y , Claud EC , Sun J. Salmonella type III effector AvrA stabilizes cell tight junctions to inhibit inflammation in intestinal epithelial cells . 
+PLoS One . 
+2008 ; 3 ( 6 ) : e2369 . 
+[ PubMed : 18523661 ] 49 . 
+Lin D , Rao CV , Slauch JM . 
+The Salmonella SPI1 type three secretion system responds to periplasmic disulfide bond status via the flagellar apparatus and the RcsCDB system . 
+J Bacteriol . 
+2008 ; 190 ( 1 ) :87 -- 97 . 
+Epub 2007 Oct 19 . 
+[ PubMed : 17951383 ] 50 . 
+Liu X , Lu R , Wu S , Sun J. Salmonella regulation of intestinal stem cells through the Wnt/betacatenin pathway . 
+FEBS Lett . 
+2010 ; 584 ( 5 ) :911 -- 916 . 
+Epub 2010 Jan 19 . 
+[ PubMed : 20083111 ] 51 . 
+López-Garrido J , Casadesús J. Regulation of Salmonella enterica pathogenicity island 1 by DNA adenine methylation . 
+Genetics . 
+2010 ; 184 ( 3 ) :637 -- 649 . 
+Epub 2009 Dec 14 . 
+[ PubMed : 20008574 ] 
+52 . 
+Mariathasan S , Newton K , Monack DM , Vucic D , French DM , Lee WP , Roose-Girma M , Erickson S , Dixit VM . 
+Differential activation of the inflammasome by caspase-1 adaptors ASC and Ipaf . 
+Nature . 
+2004 ; 430 ( 6996 ) :213 -- 218 . 
+Epub 2004 Jun 9 . 
+[ PubMed : 15190255 ] 53 . 
+Mastroeni P , Harrison JA , Robinson JH , Clare S , Khan S , Maskell DJ , Dougan G , Hormaeche CE . 
+Interleukin-12 is required for control of the growth of attenuated aromatic-compound-dependent Salmonellae in BALB/c mice : role of gamma interferon and macrophage activation . 
+Infect Immun . 
+1998 ; 66:4767 -- 4776 . 
+[ PubMed : 9746577 ] 54 . 
+McCormick BA , Colgan SP , Delp-Archer C , Miller SI , Madara JL . 
+Salmonella typhimurium attachment to human intestinal epithelial monolayers : transcellular signalling to subepithelial neutrophils . 
+J Cell Biol . 
+1993 ; 123 ( 4 ) :895 -- 907 . 
+[ PubMed : 8227148 ] 55 . 
+McGhie EJ , Hayward RD , Koronakis V. Cooperation between actin-binding proteins of invasive Salmonella : SipA potentiates SipC nucleation and bundling of actin . 
+EMBO J. 2001 ; 20 ( 9 ) :2131 -- 2139 . 
+[ PubMed : 11331579 ] 56 . 
+Miao EA , Brittnacher M , Haraga A , Jeng RL , Welch MD , Miller SI . 
+Salmonella effectors translocated across the vacuolar membrane interact with the actin cytoskeleton . 
+Mol Microbiol . 
+2003 ; 48 ( 2 ) :401 -- 415 . 
+[ PubMed : 12675800 ] 57 . 
+Mota LJ , Ramsden AE , Liu M , Castle JD , Holden DW . 
+SCAMP3 is a component of the Salmonella-induced tubular network and reveals an interaction between bacterial effectors and post-Golgi trafficking . 
+Cell Microbiol . 
+2009 ; 11 ( 8 ) :1236 -- 1253 . 
+[ PubMed : 19438519 ] 58 . 
+Mrsny RJ , Gewirtz AT , Siccardi D , Savidge T , Hurley BP , Madara JL , McCormick BA . 
+Identification of hepoxilin A3 in inflammatory events : a required role in neutrophil migration across intestinal epithelia . 
+Proc Natl Acad Sci USA . 
+2004 ; 101 ( 19 ) :7421 -- 7426 . 
+Epub 2004 May 3 . 
+[ PubMed : 15123795 ] 59 . 
+Myeni SK , Zhou D . 
+The C terminus of SipC binds and bundles F-actin to promote Salmonella invasion . 
+J Biol Chem . 
+2010 ; 285 ( 18 ) :13357 -- 13363 . 
+Epub 2010 Mar 8 . 
+[ PubMed : 20212042 ] 60 . 
+Nikolaus T , Deiwick J , Rappl C , Freeman J , Schröder W , Miller S , Hensel M. SseBCD Proteins Are Secreted by the Type III Secretion System of Salmonella Pathogenicity Island 2 and Function as a Translocon . 
+J Bacteriol . 
+2001 ; 183 ( 20 ) :6036 -- 6045 . 
+[ PubMed : 11567004 ] 61 . 
+Norris FA , Wilson MP , Wallis TS , Galyov EE , Majerus PW . 
+SopB , a protein required for virulence of Salmonella dublin , is an inositol phosphate phosphatase . 
+Proc Natl Acad Sci USA . 
+1998 ; 95 ( 24 ) :140579 . 
+62 . 
+O'Brien AD , Rosenstreich DL , Scher I , Campbell GH , MacDermott RP , Formal SB . 
+Genetic control of susceptibility to Salmonella typhimurium in mice : role of the LPS gene . 
+J Immunol . 
+1980 ; 124:20 -- 24 . 
+[ PubMed : 6985638 ] 63 . 
+Ohlson MB , Huang Z , Alto NM , Blanc MP , Dixon JE , Chai J , Miller SI . 
+Structure and function of Salmonella SifA indicate that its interactions with SKIP , SseJ , and RhoA family GTPases induce endosomal tubulation . 
+Cell Host Microbe . 
+2008 ; 4 ( 5 ) :434 -- 446 . 
+[ PubMed : 18996344 ] 64 . 
+Patel JC , Galán JE . 
+Differential activation and function of Rho GTPases during Salmonella-host cell interactions . 
+J Cell Biol . 
+2006 ; 175 ( 3 ) :453 -- 463 . 
+Epub 2006 Oct 30 . 
+[ PubMed : 17074883 ] 65 . 
+Prost LR , Sanowar S , Miller SI . 
+Salmonella sensing of anti-microbial mechanisms to promote survival within macrophages . 
+Immunol Rev. 2007 ; 219:55 -- 65 . 
+[ PubMed : 17850481 ] 66 . 
+Ribet D , Hamon M , Gouin E , Nahori MA , Impens F , Neyret-Kahn H , Gevaert K , Vandekerckhove J , Dejean A , Cossart P. Listeria monocytogenes impairs SUMOylation for efficient infection . 
+Nature . 
+2010 ; 464 ( 7292 ) :1192 -- 1195 . 
+[ PubMed : 20414307 ] 
+67 . 
+Rogers LD , Kristensen AR , Boyle EC , Robinson DP , Ly RT , Finlay BB , Foster LJ . 
+Identification of cognate host targets and specific ubiquitylation sites on the Salmonella SPI-1 effector SopB / SigD . 
+J Proteomics . 
+2008 ; 71 ( 1 ) :97 -- 108 . 
+Epub 2008 Feb 5 . 
+[ PubMed : 18541478 ] 68 . 
+Salcedo SP , Holden DW . 
+SseG , a virulence protein that targets Salmonella to the Golgi network . 
+EMBO J. 2003 ; 22 ( 19 ) :5003 -- 5014 . 
+[ PubMed : 14517239 ] 69 . 
+Samudrala R , Heffron F , McDermott JE . 
+Accurate prediction of secreted substrates and identification of a conserved putative secretion signal for type III secretion systems . 
+PLoS Pathog . 
+2009 ; 5 ( 4 ) : e1000375 . 
+Epub 2009 Apr 24 . 
+[ PubMed : 19390620 ] 70 . 
+Sherry AE , Inglis NF , Stevenson A , Fraser-Pitt D , Everest P , Smith DG , Roberts M. Characterisation of proteins extracted from the surface of Salmonella Typhimurium grown under SPI-2-inducing conditions by LC-ESI/MS/MS sequencing . 
+Proteomics . 
+2010 ; 11 ( 3 ) :361 -- 370 . 
+[ PubMed : 21268266 ] 71 . 
+Srikanth CV , Wall DM , Maldonado-Contreras A , Shi HN , Zhou D , Demma Z , Mumy KL , McCormick BA . 
+Salmonella pathogenesis and processing of secreted effectors by caspase-3 . 
+Science . 
+2010 ; 330 ( 6002 ) :390 -- 393 . 
+[ PubMed : 20947770 ] 72 . 
+Stebbins CE , Galan JE . 
+Priming virulence factors for delivery into the host . 
+Nat Rev Mol Cell Biol . 
+2003 ; 4:738 -- 744 . 
+[ PubMed : 14506477 ] 73 . 
+Stein MA , Leung KY , Zwick M , Garcia-del Portillo F , Finlay BB . 
+Identification of a Salmonella virulence gene required for formation of filamentous structures containing lysosomal membrane glycoproteins within epithelial cells . 
+Mol Microbiol . 
+1996 ; 20 ( 1 ) :151 -- 164 . 
+[ PubMed : 8861213 ] 74 . 
+Stender S , Friebel A , Linder S , Rohde M , Mirold S , Hardt WD . 
+Identification of SopE2 from Salmonella typhimurium , a conserved guanine nucleotide exchange factor for Cdc42 of the host cell . 
+Mol Microbiol . 
+2000 ; 36 ( 6 ) :1206 -- 1221 . 
+[ PubMed : 10931274 ] 
+75 . 
+Van Engelenburg SB , Palmer AE . 
+Quantification of real-time Salmonella effector type III secretion kinetics reveals differential secretion rates for SopE2 and SptP . 
+Chem Biol . 
+2008 ; 15 ( 6 ) :619 -- 628 . 
+[ PubMed : 18559272 ] 76 . 
+Wall DM , Nadeau WJ , Pazos MA , Shi HN , Galyov EE , McCormick BA . 
+Identification of the Salmonella enterica serotype typhimurium SipA domain responsible for inducing neutrophil recruitment across the intestinal epithelium . 
+Cell Microbiol . 
+2007 ; 9 ( 9 ) :2299 -- 2313 . 
+Epub 2007 May 18 . 
+[ PubMed : 17697195 ] 77 . 
+Worley MJ , Ching KH , Heffron F. Salmonella SsrB activates a global regulon of horizontally acquired genes . 
+Mol Microbiol . 
+2000 ; 36 ( 3 ) :749 -- 761 . 
+[ PubMed : 10844662 ] 78 . 
+Wu S , Ye Z , Liu X , Zhao Y , Xia Y , Steiner A , Petrof EO , Claud EC , Sun J. Salmonella typhimurium infection increases p53 acetylation in intestinal epithelial cells . 
+Am J Physiol Gastrointest Liver Physiol . 
+Epub 2010 Mar 11 . 
+2010 ; 298 ( 5 ) : G784 -- G794 . 
+[ PubMed : 20224008 ] 79 . 
+Ye Z , Petrof EO , Boone D , Claud EC , Sun J. Salmonella effector AvrA regulation of colonic epithelial cell inflammation by deubiquitination . 
+Am J Pathol . 
+2007 ; 171 ( 3 ) :882 -- 892 . 
+Epub 2007 Aug 9 . 
+Erratum in : Am J Pathol . 
+2009 May ; 174 ( 5 ) :1981 -1982 . 
+[ PubMed : 17690189 ] Zhou D , Mooseker MS , Galán JE . 
+Role of the S. typhimurium actin-binding protein SipA in bacterial internalization . 
+Science . 
+1999 ; 283 ( 5410 ) :2092 -- 2095 . 
+[ PubMed : 10092234 ] 80 . 
+Zhou D , Mooseker MS , Galán JE . 
+An invasion-associated Salmonella protein modulates the actinbundling activity of plastin . 
+Proc Natl Acad Sci USA . 
+1999 ; 96 ( 18 ) :10176 -- 10181 . 
+[ PubMed : 10468582 ] 81 . 
+Zhou D , Chen LM , Hernandez L , Shears SB , Galán JE . 
+A Salmonella inositol polyphosphatase acts in conjunction with other bacterial effectors to promote host cell actin cytoskeleton rearrangements and bacterial internalization . 
+Mol Microbiol . 
+2001 ; 39 ( 2 ) :248 -- 259 . 
+Erratum in : Mol Microbiol Jun 40 ( 6 ) :1461 . 
+[ PubMed : 11136447 ] 
+Spatial dynamics of Salmonella effectors during infection . 
+Secretion of effectors and their action begin prior to bacteria entry . 
+SipA secretion leads to activation of caspase-3 , which may act as the starting point of the inflammatory pathways induced by the bacteria . 
+Upon contact with epithelial cells , the bacteria translocate early effectors through the type three secretion system encoded by Salmonella pathogenicity island-1 ( SPI-1 , green circles ) . 
+This leads to the induction of pathways that activate the transcription factors AP-1 and NF-jB . 
+These processes trigger major cytoskeletal rearrangements , resulting in bacterial entry into the epithelial cells along with the basolateral release of interleukin 8 ( IL-8 ) , which is a crucial step in polymorpho mononeuclear leukocyte ( PMNs ) recruitment . 
+SipA and other proinflammatory effectors induce the PKCa driven pathwayof eiconasoid biosynthesis , which culminates in the apical release of hepoxilin-A3 ( HXA3 ) . 
+HXA3 forms a gradient along the paracellular space , which guides PMNs to the apical surface of the epithelium , a process that also damages the epithelial layer . 
+Endocytosed bacteria remain in a spacious vacuole called the Salmonella-containing vacuole ( SCV ) . 
+At this point , several effectors , such as SptP and SspH1 , function to re-establish homeostasis by inhibiting proinflammatory mechanisms . 
+Bacteria within the SCV secrete effectors through another type III secretion system encoded by Salmonella pathogenicity island-2 ( SPI-2 , blue circles ) . 
+These effectors promote the stability of the SCV and the survival of bacteria within the SCV . 
+Also seen in the schematic is the persistence of some SPI-1 effectors even after the formation of SCV . 
+References

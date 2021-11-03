@@ -1,0 +1,945 @@
+INFECTION AND IMMUNITY , Feb. 2006 , p. 1243 -- 1254 
+0019-9567/06 / $ 08.00 0 doi :10.1128 / IAI .74.2.1243 -- 1254.2006 Copyright © 2006 , American Society for Microbiology . 
+All Rights Reserved . 
+hosphorylase Negatively Controls spv Expression in Salmonella enterica†
+Polynucleotide P 
+Virulence Gene 
+Soﬁa Eriksson Ygberg ,1 Mark O. Clements ,2 Anne Rytkönen ,3 Arthur Thompson ,4 David W. Holden ,3 Jay C. D. Hinton ,4 and Mikael Rhen1 * Microbiology and Tumor Biology Center , Karolinska Institute , Nobels väg 16 , 171 77 Stockholm , Sweden1 ; Wolfson Institute for Biomedical Research , University College London , London WC1E 6BT , United Kingdom2 ; Centre for Molecular Biology and Infection , Department of Infectious Diseases , Imperial College London , Armstrong Road , London SW7 2AZ , United Kingdom3 ; and Molecular Microbiology Group , Institute of Food Research , Norwich Research Park , Colney , Norwich , NR4 7UA , United Kingdom4 Received 1 August 2005/Returned for modiﬁcation 12 September 2005/Accepted 2 October 2005 
+Mutational inactivation of the cold-shock-associated exoribonuclease polynucleotide phosphorylase ( PNPase ; encoded by the pnp gene ) in Salmonella enterica serovar Typhimurium was previously shown to enable the bacteria to cause chronic infection and to affect the bacterial replication in BALB/c mice ( M. O. Clements et al. , Proc . 
+Natl. Acad . 
+Sci . 
+USA 99:8784 -- 8789 , 2002 ) . 
+Here , we report that PNPase deﬁciency results in increased expression of Salmonella plasmid virulence ( spv ) genes under in vitro growth conditions that allow induction of spv expression . 
+Furthermore , whole-genome microarray-based transcriptome analyses of bacteria growing inside murine macrophage-like J774.A .1 cells revealed six genes as being signiﬁcantly up-regulated in the PNPase-deﬁcient background , which included spvABC , rtcB , entC , and STM2236 . 
+Mutational inactivation of the spvR regulator diminished the increased expression of spv observed in the pnp mutant background , implying that PNPase acts upstream of or at the level of SpvR . 
+Finally , competition experiments revealed that the growth advantage of the pnp mutant in BALB/c mice was dependent on spvR as well . 
+Combined , our results support the idea that in S. enterica PNPase , apart from being a regulator of the cold shock response , also functions in tuning the expression of virulence genes and bacterial ﬁtness during infection . 
+Members of the genus Salmonella have evolved through the acquisition of several genetic elements that enhance bacterial virulence and enable these bacteria to act as facultative intracellular pathogens ( 31 , 34 ) . 
+These acquired genetic elements include the Salmonella pathogenicity islands ( SPIs ) ( 31 , 34 , 40 ) , the spv virulence gene cluster ( 33 ) , and selected prophages ( 25 ) . 
+In addition , Salmonella pathogenicity is dependent on a strict transcriptional regulation of horizontally acquired genetic elements ( 27 , 30 , 40 , 60 , 70 , 71 ) . 
+This regulation is coordinated through the bacterial responses to environmental cues experienced during infection ( 30 , 71 ) and includes the expression of SPI1 genes needed for bacterial invasion ( 12 , 26 , 34 ) and for the induction of proinﬂammatory responses ( 37 ) and the expression of spv and SPI2 genes needed for intracellular survival and replication ( 10 , 30 , 34 , 56 , 57 , 71 , 77 ) . 
+It has , however , remained enigmatic as to how the imported genetic elements became adapted to the repertoire of preexisting gene regulators . 
+In part , this regulatory compatibility can be explained by the fact that the imported genetic elements rely to a degree on evolutionary conserved regulatory factors for their expression , such as two-component sensor regulatory systems , the RNA-polymerase factors , and nucleoid-associated proteins . 
+These factors then act in concert with speciﬁc virulence ¬ 
+* Corresponding author . 
+Mailing address : Microbiology and Tumor Biology Center , Karolinska Institute , Nobels väg 16 , 171 77 Stockholm , Sweden . 
+Phone : 46852483794 . 
+Fax : 468330498 . 
+E-mail : mikael.rhen @mtc . 
+ki.se . 
+† Supplemental material for this article may be found at http://iai . 
+asm.org / . 
+associated gene regulatory proteins to achieve the proper induction of virulence genes ( 71 ) . 
+Polynucleotide phosphorylase ( PNPase ; encoded by the pnp gene ) belongs to an expanding family of exoribonucleases ( 7 ) with homologues identiﬁed in eubacteria ( 22 , 29 , 79 ) , Drosoph-ila melanogaster ( 47 ) , plants ( 44 , 87 ) , and even mice and humans ( 48 , 75 , 87 ) . 
+The Escherichia coli PNPase participates in RNA degradation ( 2 ) and plays a central role in adaptation to growth at low temperature ( 86 ) . 
+In this context , PNPase assists adaptation to the new environmental situation by speciﬁcally degrading mRNAs that code for cold shock proteins ( CSPs ) , a process which is needed for the resumption of bacterial replication after shifting to decreased temperature ( 86 ) . 
+PNPase is also a crucial component of the RNA degradosome , the multiprotein complex that is responsible in part for mRNA deg-radation in E. coli ( 2 , 69 ) . 
+The facultative intracellular pathogen Salmonella enterica serovar Typhimurium causes a systemic infection in mice ( 8 , 53 ) . 
+The murine infection resembles human typhoid fever and involves invasion of the intestinal epithelial cell barrier , subsequent visceral colonization , and replication in phagocytic cells ( 8 , 26 , 34 , 53 ) . 
+S. enterica serovars Typhimurium and Typhi both contain a gene which is very similar to the E. coli pnp gene ( 11 , 55 ) , and an S. enterica serovar Typhimurium mutant deﬁcient for PNPase exoribonuclease activity shows the expected defect in cold adaptation ( 11 ) . 
+When grown at 37 °C in rich complex medium , the S. enterica serovar Typhimurium pnp mutation does not show alterations in mRNA levels of csp genes but instead expresses increased levels of other mRNA species , in particular those coded for by SPI1 and , to a lesser degree , SPI2 ( 11 ) . 
+Mutational inactivation of the S. enterica serovar Typhimurium PNPase also results in an altered infection pathogenesis ; in contrast to acute systemic infections caused by wild-type ( wt ) S. enterica serovar Typhimurium , the pnp mutation gains the ability to establish a persistent infection in BALB/c mice ( 11 ) . 
+The complexity by which environmental signals regulate the expression of virulence genes in Salmonella is well illustrated by the fact that the bulk of the essential virulence genes are not properly expressed during growth in ordinary complex laboratory medium ( 71 ) . 
+Therefore , to ﬁnd out whether virulence genes apart from SPI1 and SPI2 would depend on PNPase for their expression , we have in this report studied the effect of PNPase deﬁciency on bacterial gene expression under in vitro conditions that simulate selected aspects of the intracellular environment and during actual bacterial replication inside mu-rine macrophage-like J774-A .1 cells . 
+The concomitant results reported here show that the expression of the spv operon is strongly increased in the absence of PNPase under conditions that allow the induction of spv gene expression . 
+In the absence of the transcriptional activator gene spvR , however , no accumulation in spv gene expression was observed with PNPase deﬁciency , implying that the relaxed expression of spv genes resulting from PNPase deﬁciency did not relive spv expression from the gene regulator SpvR . 
+Signiﬁcantly , competition experiments with BALB/c mice showed that the apparent growth advantage of the pnp mutant depended on SpvR as well . 
+124 
+MATERIALS AND METHODS
+Bacterial strains , growth media , and plasmids . 
+Salmonella enterica serovar Typhimurium MC1 ( SR-11 variant 3181 ) and the isogenic pnp mutant MC71 are described in Clements et al. ( 11 ) . 
+Strains were grown in Luria broth ( LB ) or on Luria agar with antibiotics as appropriate ( ampicillin , 100 g/ml ; chloramphenicol , 10 g/ml ; kanamycin , 30 g/ml ; tetracycline , 10 g/ml ) . 
+Low-pH minimal medium ( MM5 .8 ) , as adapted from Kox et al. ( 42 ) , included 100 mM Bis/Tris ( Sigma ) buffer ( pH 5.8 ) , 0.1 % ( wt/vol ) Casamino Acids , 0.16 % ( wt/vol ) glycerol , and 10 M MgCl2 . 
+Complete cell tissue culture medium ( CC ) consisted of RPMI 1640 medium ( Gibco ) supplemented with 10 % ( wt/vol ) fetal bovine serum ( Gibco ) , 2 mM L-glutamine ( Sigma ) , and 20 mM HEPES ( Sigma ) as previously described ( 17 ) . 
+To generate phoP , rpoS , or spvR mutants of wt MC1 and the pnp mutant MC71 bacteria , the strains were transduced with P22 int phage lysates ( 76 ) containing phoP : : Tn10 ( 23 ) , spvR : : Tn5 ( 72 ) , or rpoS inactivated through insertion with the suicide vector pRR10 ( 21 ) . 
+A Tn10 tetracycline resistance marker , carried on the virulence plasmid pSLT and shown to be neutral in virulence assays applying BALB/c mice ( 4 ) , was used to tag bacteria in competition experiments . 
+Plasmid pFF-1 was obtained by cloning the PCR-ampliﬁed pnp gene into the T7 RNA-polymerase-dependent expression vector pET21 ( c ) using the primers 5 CGGGATCCCGATGCGAGAAGATCGGGTA TT3 and 5 CCGCTCGAGCGGCTCGGCCTGTTCGCTCGC3 with the BamHI and XhoI cloning sites , respectively , in boldface type ( 11 ) . 
+The fragment thus ampliﬁed included 17 bp upstream of the pnp initiation codon , as well as the last codon before the stop signal . 
+In this construct , expression is driven from the plasmid-encoded start codon and ribosomal-binding site . 
+The pET-based vector pHAM-1 encoding the catalytic carboxy-terminal portion of SpvB was available from previous work ( 67 , 83 ) . 
+Cell culture and infection models . 
+The murine macrophage-like J774-A .1 cells ( ATCC TIB67 ) were grown in RPMI 1640 medium ( Gibco ) supplemented with 10 % ( wt/vol ) fetal bovine serum ( Gibco ) , 2 mM L-glutamine ( Sigma ) , and 20 mM HEPES ( Sigma ) . 
+To avoid the rapid cytotoxicity mediated by expression of invasion-associated SPI1 genes ( 9 , 50 , 63 ) , the bacterial inocula were taken from bacteria grown on agar plates , a condition that does not induce SPI1 expression ( 16 , 71 ) , and opsonized with fresh mouse serum to facilitate bacterial uptake into J774-A .1 cells . 
+To increase the uptake of salmonella , plates were centrifuged at 1,000 g for 5 min , and this was deﬁned as time zero hour . 
+After 1 h of phagocytosis , extracellular bacteria were killed with 30 - g/ml gentamicin . 
+This medium was replaced after 1 h with medium containing 5 - g/ml gentamicin . 
+Incubations were continued for the time required for each time point tested . 
+The relatively low levels of gentamicin were chosen to avoid any potential effects on intracellular bacterial gene expression by gentamicin ( 17 ) . 
+Bacteria were released from host cells by hypotonic lysis and enumerated by viable counting on Luria agar plates . 
+RNA extraction for microarrays . 
+Total bacterial RNA for the microarray experiments was isolated from bacteria propagated in either of three separate growth media . 
+First , for experiments referred to as MM5 .8 , bacteria were grown aerobically in MM5 .8 until they reached optical density at 600 nm ( OD ) of 0.5 . 
+600 Second , for CC samples , the bacteria were grown as described in Eriksson et al. ( 17 ) . 
+The bacterial RNA was in each experiment stabilized in 1 % ( wt/vol ) acidic phenol and 19 % ( wt/vol ) ethanol in water ( 17 , 36 , 82 ) . 
+Third , for extraction of bacterial RNA from intracellular bacteria , we refer to a recent description ( 17 ) . 
+Brieﬂy , for each extraction of Salmonella RNA , a total of 108 J774-A .1 murine macrophage-like cells were seeded in 20 six-well cell culture plates and infected with mouse complement-opsonized S. enterica serovar Typhimurium MC1 or MC71 prepared as described in Eriksson et al. ( 17 ) , at a multiplicity of infection ( MOI ) of 100:1 or 10:1 bacteria to cells ( 17 ) . 
+Eight hours postinfection , the macrophages were lysed for 30 min on ice in 0.1 % ( wt/vol ) sodium dodecyl sulfate ( SDS ) , 1 % ( wt/vol ) acidic phenol , and 19 % ( wt/vol ) ethanol in water , causing lysis of eukaryotic cells but not lysing the intracellular bacteria . 
+The phenol-ethanol mixture acted to stabilize all bacterial RNA ( 36 , 82 ) . 
+Bacteria were isolated by centrifugation ( 10,000 g ; 30 min ) from the host cell lysate obtained from 120 wells of infected J774-A .1 murine macrophage-like cells and pooled . 
+For all experiments , total RNA was prepared using the Promega SV total RNA puriﬁcation kit . 
+The quality of bacterial RNA samples was analyzed by size fractionation on a microﬂuid-based system where the fractionated RNA is detected by being stained with an intercalating ﬂuorescent dye ( 2100 Bioanalyzer ; Agilent ) . 
+This allowed us to simultaneously deﬁne the RNA samples with respect to quantity and quality . 
+Microarray procedures . 
+DNA microarray analysis of gene expression was performed essentially as previously described ( 17 ) . 
+Brieﬂy , RNA was ﬁrst reverse transcribed into cDNA and subsequently labeled by random priming with Cy5-dCTP ( for labeling protocols , see www.ifr.bbsrc.ac.uk/Safety/Microarrays / #Protocols ) . 
+Genomic DNA ( gDNA ) was ﬂuorescently labeled with Cy3-dCTP and used as a reference channel in each experiment . 
+The labeled cDNA and gDNA were mixed together , denatured , and hybridized to the microarray under standard glass coverslips ( 22 by 22 mm ) . 
+Hybridization was performed at 65 °C overnight , after which the slides were washed twice in 2 SSC ( 1 SSC is 0.15 M NaCl plus 0.015 sodium citrate ) at 65 °C for 5 min , followed by washing twice , once with 1 SSC and once with 0.2 SSC for 5 min , each at room temperature . 
+The washed slides were scanned on a GenePix 4000A scanner ( Axon Instruments , Inc. ) . 
+Fluorescent spots and local background intensities were quantiﬁed using Genepix Pro software ( Axon Instruments , Inc. ) . 
+All hybridizations were repeated three or four times . 
+Spots showing a reference signal that was lower than the background plus 2 standard deviations or obvious blemishes were excluded from subsequent analyses . 
+The local background was subtracted from spot signals , and ﬂuorescence ratios were calculated . 
+To compensate for unequal dye incorporation or any effect of the amount of template , data centering was performed by bringing the median natural logarithm of the ratios for each group of spots printed by the same pin to zero . 
+The averages from the four data sets from each strain were calculated and compared to each other , and genes that had a 2-fold difference in expression were further analyzed . 
+This new subset of data was analyzed by analysis of variance , and genes for which the difference in expression that had a P value of 0.005 were considered signiﬁcant . 
+RNA blot analyses . 
+For Northern blotting , bacteria were grown in MM5 .8 to an OD600 of 0.3 . 
+Rifampin ( 200 g/ml ; Sigma ) was added , and samples were taken immediately and at deﬁned intervals ( 0 , 2.5 , 5 , 10 , and 15 min ) . 
+Total RNA was prepared and analyzed for purity as above . 
+Ten micrograms of RNA per lane was separated on denaturing agarose gels and ﬁnally transferred onto nylon sheets ( Amersham ) by capillary blotting . 
+Hybridization conditions were applied as speciﬁed by the manufacturer of the membrane ( Amersham ) . 
+Brieﬂy , the membrane was baked for 2 h at 80 °C and then prehybridized in 50 % ( wt/vol ) formamide , 4 SSC , 0.2 % ( wt/vol ) SDS , 2.5 Denhardt solution , and 0.05-mg / ml sonicated herring sperm DNA at 42 °C for 3 h. Internal fragments of the genes encoding spvR ( positions 31630 to 32131 , as annotated in the sequenced LT2 genome ) , spvA ( 30302 to 30810 , as annotated in the sequenced LT2 ge-nome ) , and 16S rRNA ( positions 289339 to 289840 , as annotated in the sequenced LT2 genome ) were ampliﬁed by PCR , labeled with [ -32 P ] dCTP ( Am-ersham ) using a random priming labeling kit ( Roche ) , and used as probes . 
+The synthesized probes were added to the prehybridization solution and incubated at constant agitation at 42 °C overnight . 
+The membrane was washed twice with 2 SSC and 0.1 % ( wt/vol ) SDS and then twice for 20 min each in 0.1 SSC -- 0.1 
+( wt/vol ) SDS . 
+A radioisotope imaging system ( Phosphoirmager 445SI ; Molecular Dynamics ) was used to detect radioactivity . 
+Half-lives were calculated using the rate equation for a one-substrate enzyme-catalyzed reaction . 
+For the dot blot experiment , bacteria were grown to OD600 of 0.6 in LB and then transferred to MM5 .8 to mimic transition to an intracellular environment . 
+Samples were taken at 1 , 1.5 , and 2 h and ﬁnally overnight , posttransition . 
+Total RNA was prepared and analyzed as above . 
+Twelve micrograms of total RNA per dot was applied onto nylon sheets ( Amersham ) and UV cross-linked . 
+After this , the same procedure as for Northern blots was used . 
+Determination of - galactosidase activities . 
+Enzyme activities expressed by lacZ transcriptional constructs were measured according to Miller ( 59 ) using 2-nitrophenyl - - galactoside ( Sigma ) as a substrate . 
+The spvR-lacZ ( pHUB70 ) , spvA-lacZ ( pHUB61 ) , and tlpA-lacZ ( pOF1 ) constructs have been described previously ( 38 , 72 , 80 ) . 
+For bacteria grown in MM5 .8 , the samples used for - ga-lactosidase activity measurements were neutralized with an equal volume of 1 M Tris-HCl buffer , pH 8.0 , before addition to the reaction mixture . 
+For comparing - galactosidase activities , we used an unpaired t test with Welch correction . 
+Immunostaining and immunoﬂuorescence . 
+Murine macrophage-like J774-A .1 cells were infected as described for the microarray experiment ( using MOI as indicated ) and subsequently ﬁxed in a freshly prepared 4 % ( wt/vol ) formaldehyde solution , prepared as described by Eriksson et al. ( 18 ) . 
+The ﬁxed cells were subsequentially permeabilized in 0.1 % ( wt/vol ) saponin and stained with antibodies as indicated in a solution with 10 % ( wt/vol ) horse serum and 0.1 % ( wt/vol ) saponin ( 3 ) . 
+Texas red-conjugated phalloidin was from Molecular Probes . 
+For primary antibodies , we used a 1:200 dilution of the rabbit 156 anti-lysosome-associated membrane glycoprotein 1 ( LAMP-1 ) ( 3 ) and a 1:200 dilution of goat anti-Salmonella ( CSA-1 ) ( 3 ) , while for secondary antibodies we used rhodamine red X-conjugated donkey anti-rabbit and Cy2-conjugated donkey anti-goat antibodies ( both diluted 1:200 ) . 
+The samples were mounted using Aqua polymount ( Polysciences ) and analyzed by confocal microscopy ( 3 ) . 
+Assessment of cytotoxicity . 
+Three separate methods were used to score the viability of the macrophage-like J774A .1 cells during infection . 
+( i ) The proportion of attached to detached cells was estimated by phase-contrast microscopy . 
+To document these observations , the cells were grown on glass coverslips , ﬁxed , and stained for bacteria and actin after infection as speciﬁed above . 
+Thereafter , the density of infected murine macrophage-like J774 cells was monitored by microscopical counting . 
+( ii ) As release of lactate dehydrogenase ( LDH ) is used as a deﬁned measure of SPI1 - and SPI2-induced induced cell death ( 14 , 62 , 63 ) , we used a cytotoxicity detection kit ( Roche ) measuring LDH activity in the cell culture supernatants after given time points postinfection . 
+The activities are given as the percentage of LDH activity released in relation to the LDH activity obtained by lysing a comparable amount of uninfected cells with Triton X-100 . 
+( iii ) Apoptosis was monitored by measurement of nuclear fragmentation ( 28 , 51 ) . 
+For these experiments , infected murine macrophage-like J774-A .1 cells were collected by centrifugation ( 800 g ; 1 min ) . 
+This included both the attached cells and the potentially detached cells ( in total , approximately 2 105 cells ) . 
+The pelleted cells were washed in cold phosphate-buffered saline . 
+The pellet was then rapidly dissolved in 200 l of 10 mM Tris-HCl ( pH 7.5 ) , 150 mM NaCl , and 1 % ( wt/vol ) Triton X-100 buffer . 
+Thereafter , the suspension was separated into `` Triton-insoluble '' and `` Triton-soluble '' fractions by centrifugation ( 14,000 g ; 5 min ) . 
+A small proportion of the supernatant was then immediately run on a 1 % ( wt/vol ) agarose gel . 
+Meanwhile , the pellet was solubilized into 100 l of a 10 mM Tris-HCl -- 2 mM EDTA -- 1 % ( vol/vol ) buffer ( pH 7.5 ) and analyzed on a 1 % agarose gel . 
+Finally , the rest of the Triton-soluble material was extracted with phenol-chloroform and precipitated with ethanol by using glycogen ( Roche ) as a carrier . 
+The material was dissolved into 10 l distilled water , treated with RNase , and analyzed on 1 % ( wt/vol ) agarose gels . 
+Agarose gels included ethidium bromide ( 0.5 g/ml ; Sigma ) to reveal nucleic acids . 
+Infection experiments . 
+For in vivo infection experiments , we used S. enterica serovar Typhimurium strains MC1 and MC1 spvR mutant ( 11 , 72 ) tagged with a Tn10 element on pSLT and previously shown to be neutral in mice infection experiments ( 4 ) and MC71 and MC71 spvR mutant strains . 
+Infection experiments were carried out as previously described ( 11 , 78 ) . 
+Brieﬂy , female BALB/c mice , 6 to 8 weeks of age , were infected intraperitoneally with a 50:50 mixture of MC1-Tn10 and MC71 bacteria in a total dose of approximately 5 103 bacteria per mouse or with a 50:50 mixture of MC1-Tn10-spvR mutant strain and MC71 spvR mutant bacteria , also in a total dose of 5 103 bacteria per mouse . 
+Groups of ﬁve mice were used for each of two series of experiments ( 10 mice per competition in total ) . 
+Three days after infection , mice were sacriﬁced , and the livers and spleens were removed for enumeration of the total amount of viable bacteria , as well as the percentage of tetracycline-resistant bacteria . 
+To compare the signiﬁcance in ratios , we applied the two-sided Mann-Whitney U test . 
+RESULTS
+Whole-genome scale probing for bacterial gene expression in vitro reveals a strong association between PNPase and spv gene expression . 
+Our previous transcriptome analyses of Sal-monella enterica serovar Typhimurium gene expression in vitro were carried out with bacterial cultures replicating in complex LB medium ( 11 ) . 
+While these analyses deﬁned a strong association between SPI1 gene expression and PNPase , the growth conditions applied were not optimal for the expression of several virulence genes , such as SPI2 ( 39 ) or spv genes ( 17 , 71 ) . 
+To further deﬁne the repertoire of virulence genes affected by PNPase , we extended the microarray-based transcriptome analysis to include bacteria grown in deprived medium with a low Mg2 concentration and a pH of 5.8 ( MM5 .8 ) . 
+The composition of the medium was primarily designed to mimic the intravacuolar environment in which Salmonella replicates ( 17 , 42 ) and is known to induce expression of SPI2 ( 78 ) . 
+We ﬁrst deﬁned the transcriptome for the wild-type , PNPaseproﬁcient S. enterica serovar Typhimurium strain MC1 grown in MM5 .8 medium . 
+Samples for RNA preparation were taken when the culture entered the transition into the stationary phase ( OD600 , 0.5 ) . 
+To probe for alterations in gene expression , we used cultures grown in CC as a comparator and applied a false discovery rate of 0.005 . 
+Under these conditions , we deﬁned 447 genes as up-regulated and 479 genes as downregulated during replication in MM5 .8 ( see Table S1 in the supplemental material ) . 
+Among the genes strongly induced for expression , we identiﬁed representatives of the SPI2 and the spv gene clusters , whereas among the genes strongly suppressed we identiﬁed SPI1 and genes for ﬂagellation and mo-tility ( see Table S1 in the supplemental material ) . 
+Having shown that MM5 .8 did induce expression of genes that are normally induced when bacteria are residing in an intracellular compartment ( 17 ) , we next tested whether PNPase affected the mRNA levels of any of these genes . 
+To probe for the effect of PNPase deﬁciency , we applied S. enterica serovar Typhimurium strain MC71 , which was constructed from MC1 by introducing a STOP codon in pnp by site-directed mutagenesis ( 11 ) . 
+When MC71 was grown in MM5 .8 to the transition to the stationary phase of growth ( OD600 , 0.5 ) , MC71 showed a relative increase in expression of 37 genes and a relative decrease in the expression of 9 genes compared to wt MC1 ( Fig. 1 ) . 
+More speciﬁcally , the comparison revealed a strong ( 7 - to 8-fold ) relative increase in spv expression in MC71 , in addition to an increase ( 2 - to 10-fold ) in mRNA levels of genes located in prophages ( STM0906 , STM0908 , STM0914 , STM2233 to STM2237 , STM2587 , STM2616 , and STM2620 ) and of genes encoding proteins involved in stress responses ( STM1251 and ibpAB ) and DNA repair ( mutM and recF ) . 
+In parallel , we found a PNPase-de-pendent decrease ( two - to threefold ) in the expression of genes associated with purine synthesis ( carA , purK , trpCD , and purF ) and of genes involved in ﬂagellar synthesis ( ﬂgBC ) ( Fig. 1 ) . 
+mRNA analyses reveal increased levels of spv gene mRNA at PNPase deﬁciency in vitro . 
+The spv gene cluster is transcribed from two main promoters , one in front of the transcriptional activator protein gene spvR ( PspvR ) and another in front of spvA ( PspvA ) directing the expression of Spv effector proteins ( 13 , 43 , 52 , 81 ) . 
+To verify the association between PNPase an spv expression , we next determined spvA expression by comparing spvA mRNA levels in the wt MC1 PNPase-proﬁcient and the MC71 PNPase-deﬁcient mutant background by carrying out Northern blotting to probe for spvA mRNA during logarithmic growth ( OD600 , 0.3 ) in MM5 .8 after blocking RNA synthesis with rifampin . 
+This analysis clearly showed expression of spvA mRNA in both MC1 and MC71 . 
+The analysis also revealed an overall higher spvA mRNA content and an alternative spvA mRNA pattern in MC71 ( Fig. 2A ) ; whereas both MC1 and MC71 showed spvA mRNA of apparently higher molecular weight named A1 , MC71 revealed clear accumulation of a second spvA mRNA named A2 that was only weakly detected from MC1 ( Fig. 2A and B ) . 
+When using rifampin to block the mergenc of nascent mRNA species , we could not demonstrate any stabilization of the spvA1 mRNA in MC71 in either of two separate sets of experiments ( Fig. 2A and data not shown ) . 
+In contrast , the spvA1 mRNA appeared more stable in MC1 ( Fig. 2A and B ) , suggesting that this transcript was differentially degraded by PNPase . 
+Parallel Northern analyses using a 32P-labeled PCR-gener-ated spvR fragment revealed a clear signal for spvR in MC71 but no signal in MC1 ( data not shown ) . 
+This is consistent with the previously reported difﬁculty in detecting the spvR transcript in S. enterica ( 1 ) . 
+Nevertheless , these analyses conﬁrmed the increased spv mRNA levels in MC71 implied by microarray analyses . 
+Transcriptional spv-lacZ fusions reveal PNPase-dependent expression of spv genes . 
+The fact that we could not conclusively demonstrate any increase in the half-life of the spvA mRNA in the PNPase-deﬁcient strain MC71 ( Fig. 2A and B ) prompted us to test whether an increased transcriptional strength of spv promoters could account for the increased spvA mRNA levels observed with the PNPase-deﬁcient background . 
+The constructs used included the spvA ( pHUB61 ) or spvR ( pHUB70 ) promoter positioned to direct lacZ expression in a pACYC184-based construct ( Fig. 3A ) ( 72 ) . 
+As the expression of spvA-lacZ fusions tends to be weak in rich growth medium ( 84 ) and indeed conﬁrmed for pHUB61 grown in CC ( data not shown ) , we initiated a series of experiments to compare the expression of - galactosidase from spv-lacZ fusions when the bacteria were grown overnight in MM5 .8 in batch cultures ( 15 to 17 h ) . 
+Regarding the spvA-lacZ construct pHUB61 , the - galactosi-dase levels obtained when the bacteria were grown overnight in MM5 .8 were signiﬁcantly higher for MC71 than for PNPaseproﬁcient MC1 ( Fig. 3B ) . 
+Likewise , in comparison to MC1 / pHUB70 , we noted a signiﬁcant increase in the - galactosidase levels expressed by MC71/pHUB70 grown in MM5 .8 ( Fig. 3C ) . 
+To ensure that the alterations in - galactosidase activities in the PNPase-deﬁcient MC71 background were not due to stabilization of lacZ mRNA or to alterations in the copy number of the operon fusion constructs in MC71 , we applied the tlpA-lacZ fusion pOF1 as a control ( 38 ) . 
+Like the spv genes , tlpA is contained on the virulence plasmid pSLT but was not induced during bacterial replication in MM5 .8 ( see Table S1 in the supplemental material ) . 
+Furthermore , pOF1 relied on the same lacZ cartridge as pHUB61 and pHUB70 and cloned with tlpA in the same position in the same cloning vector . 
+The tlpA-lacZ fusion did not show increased but rather a slightly decreased level of activity in the pnp mutant MC71 background when grown in MM5 .8 ( Fig. 3D ) , which indeed suggests that the increased - galactosidase activities obtained with spvA-lacZ and spvR-lacZ in MC71 originated from increased transcriptional activity . 
+The increased expression of spvA in overnight cultures of PNPase-deﬁcient MC71 was also veriﬁed by blotting for spvA mRNA . 
+For this experiment , PNPase-proﬁcient MC1 and MC71 were grown in MM5 .8 , and the bacterial RNA was extracted at early ( 1 h , 1.5 h , and 2 h ) and late ( overnight ) tim points of growth . 
+Dot blot assays applying the PCR-ampliﬁed and 32P-labeled spvA gene as a probe revealed no signiﬁcant signal for spvA mRNA during the very early time points in either MC1 or MC71 ( Fig. 2C ) . 
+Also , we could not detect any signiﬁcant accumulation of spvA mRNA in the overnight cultures of MC1 . 
+This would be consistent with the observation that spvA mRNA becomes induced during logarithmic growth in minimal medium low in magnesium , to become only weakly detectable after prolonged incubation ( 84 ) . 
+In contrast and in accordance with the LacZ measurements from MC71 / pHUB61 , PNPase-deﬁcient strain MC71 showed a substantial accumulation of spvA mRNA in MC71 after overnight incubation ( Fig. 2C ) . 
+We next tested if complementation of the PNPase deﬁciency in MC71 could restore the spvA-lacZ activity to wild-type levels . 
+Initial attempts using cloned pnp to complement for the pnp mutation in trans were not successful , due to our inability to maintain pnp-containing plasmid constructs in S. enterica serovar Typhimurium . 
+However , when the pnp open reading frame was contained in the pET21 ( c ) vector under the T7 promoter ( pFF-1 ) , the constructs could be maintained . 
+The pFF-1 construct caused a reduction in the spvA-lacZ activities in the MC71 pnp mutant background but did not affect lacZ fusion expression in the MC1 wt background ( Fig. 3E ) . 
+A control construct containing the 3 - terminal portion of spvB in the pET32 vector ( pHAM-1 ) ( 67 , 83 ) did not mediate complementation ( Fig. 3E ) . 
+These observations implied that the T7 promoter shows weak expression in S. enterica serovar Typhi-murium , even though the bacterium formally lacks the T7 RNA polymerase and the PNPase deﬁciency of MC71 can be complemented in trans . 
+PNPase deﬁciency does not relieve spvA gene expression from dependency on growth phase , PhoP , RpoS , or SpvR . 
+Expression of spv-lacZ fusions in bacteria grown in low-mag-nesium minimal medium is reported to be dependent on the bacterial growth phase , the transcription factor SpvR , and the alternative - factor RpoS ( 84 , 85 ) . 
+Furthermore , the conditions prevailing in MM5 .8 are likely to activate the PhoP/PhoQ response regulatory system ( 42 ) , also implicated in spv gene expression ( 30 ) . 
+Therefore , we set out to test whether the - galactosidase activity expressed by the spvA-lacZ constructs in the PNPase-deﬁcient background MC71 grown in MM5 .8 still depended on the bacterial growth phase and the transcription factors PhoP , RpoS , and SpvR . 
+The growth slopes in MM5 .8 appeared similar for both PNPase-proﬁcient MC1 and PNPase-deﬁcient MC71 ( Fig. 3F ) . 
+However , the concomitant expression of - galactosidase became much stronger in MC71/spvA-lacZ when the cultures entered late logarithmic phase of growth ( Fig. 3G ) . 
+In parallel , the spvR-lacZ fusion construct pHUB70 was observed to express a similar growth-phase-dependent induction of - galac-tosidase activity when the bacteria were grown in MM5 .8 , albeit the difference in - galactosidase activity between MC1 and MC71 remained lower ( data not shown ) . 
+To test to what extent the increase in spvA expression that associated with PNPase deﬁciency during propagation in MM5 .8 still depended on the transcription factors PhoP , RpoS , or SpvR implicated in spv gene activation ( 5 , 20 , 21 , 30 , 35 , 43 , 68 , 71 , 84 , 85 ) , we measured - galactosidase activities encoded by pHUB61 ( spvA-lacZ ) in phoP , rpoS , and spvR mutants of MC1 and MC71 . 
+Inactivation either of phoP , rpoS , or spvR in PNPase-proﬁcient MC1 or PNPase-deﬁcient MC71 resulted in a signiﬁcant reduction of spvA-lacZ expression in overnight cultures grown in MM5 .8 ( Fig. 3H ) . 
+Thus , PNPase deﬁciency did affect the transcriptional strengths from both the spvA and spvR promoters , yet PNPase deﬁciency apparently did not evoke or apply any alternative bypass routes for spvA gene activation . 
+PNPase-proﬁcient and PNPase-deﬁcient bacteria do not differ in their ability to induce cytotoxicity in J774-A .1 cells 8 h postinfection . 
+We have recently developed a method that enables transcriptometric analysis of bacteria growing within host cells ( 17 , 36 ) . 
+However , to generate enough bacterial RNA for microarray analyses , we needed to apply an MOI of 100:1 ( 17 ) , potentially generating infection-associated cytotoxicity and apo-ptosis ( 14 , 45 , 46 , 49 , 62 , 63 ) . 
+Therefore , before deﬁning and comparing the transcriptomes of PNPase-proﬁcient MC1 and PNPase-deﬁcient MC71 while growth occurred in host cells , we analyzed the murine macrophage-like J774-A .1 cells infected with S. enterica serovar Typhimurium MC1 and MC71 for possible alterations in toxicity or bacterial growth . 
+Upon infection of J774-A .1 macrophage-like cells with PNPase-proﬁcient MC1 or PNPase-deﬁcient MC71 at an MOI of 100:1 , no signs of cytotoxicity or detachment of murine macrophage-like J774-A .1 cells as judged by phase-contrast microscopy were observed at 8 h postinfection ( data not shown ) . 
+Likewise , as followed by immunoﬂuorescence micros-copy labeling for Salmonella bacteria and ﬁlamentous actin at 10 h postinfection , the density and appearance of the host cells on glass slides were very similar whether the cells were infected with MC1 or MC71 bacteria ( Fig. 4A and B ) . 
+When the infected murine macrophage-like J774-A .1 cells were monitored for the release of lactate dehydrogenase ( LDH ) as a general indicator of cytotoxicity , the levels of released LDH observed at 8 h postchallenge by application of an MOI of 100:1 or 18 h postchallenge by application of an MOI of 10:1 remained low ( Fig. 4C ) . 
+The LDH levels released by cells infected with MC71 at an MOI of 100:1 were slightly but statistically significantly higher than those released upon infection with MC1 . 
+Yet , the LDH levels remained very low compared to the levels reported with invasive SPI1-expressing bacteria ( 14 , 63 ) and to the levels contained in a comparable number of uninfected cells ( Fig. 4C ) ( 63 ) . 
+Similarly , when analyzed on ethidium bromide-stained agarose gels , no detectable DNA fragmentation was apparent at 8 h postinfection when an MOI of 100:1 of noninvasive complement-opsonized bacteria was applied ( Fig. 4D ) . 
+However , if the uninfected cells were allowed to overgrow the cell culture , leading to acidiﬁed and crowded cell conditions , DNA fragmentation was indeed detected ( Fig. 4D ) . 
+In separate infection experiments , immunoﬂuorescence microscopy labeling for intracellular bacteria revealed PNPaseproﬁcient MC1 and PNPase-deﬁcient MC71 bacteria residing in an LAMP-1-positive compartment , with no differences observed in the labeling pattern for the two strains ( Fig. 4E to J ) . 
+Viable counts , performed in parallel from nonﬁxed and unstained cells 8 h postinfection , revealed a 5.4-fold and 5.0-fold growth index , respectively , for the MC1 wt and MC71 pnp mutation , when the growth yields were compared to intracellular bacterial counts at 2 h postinfection . 
+A repetition of th growth experiment did not provide any apparent alterations in the growth yields ( data not shown ) . 
+In summary , the host cells appeared intact 8 h postinfection , and no signiﬁcant differences in cytotoxicity , intracellular localization , or bacterial growth yields were found between cells infected with either PNPase-proﬁcient or PNPase-deﬁcient S. enterica serovar Typhimurium strains . 
+Intracellular transcriptome of S. enterica serovar Typhi-murium SR-11 . 
+Having established the infection procedures , we next determined the transcriptome of the PNPase-proﬁ-cient MC1 strain when replicating in the macrophage-like cells . 
+For these experiments , bacterial RNA was extracted at 8 h postinfection was compared to RNA extracted from CC-grown bacteria . 
+This time point was previously deﬁned to reveal the majority of the gene expression proﬁle alterations upon infection of murine macrophage-like J774-A .1 cells ( 17 ) . 
+Since we previously determined the transcriptome of S. enterica serovar Typhimurium SL1344 when replication occurs within host cells , we ﬁrst compared the transcriptomes of intracellular S. enterica serovar Typhimurium of lines SR-11 and SL1344 to deﬁne to what extent the pattern of gene expression was dependent on the bacterial strain background . 
+The gene expression proﬁles of the two lines were consistent : 94.4 % of the genes revealed similar expression patterns in both strains after application of a twofold cutoff ( false-discovery rate 0.005 ) ( see Table S1 in the supplemental material ) ( 17 ) . 
+A proportion of the expressional difference reﬂected the histidine auxotrophy of strain SL1344 . 
+Nevertheless , these observations show that the transcriptomes of the two different strains of S. enterica serovar Typhimurium were comparable when the bacteria were replicating within murine macrophage-like J774-A .1 cells . 
+We then evaluated to what extent the intracellular transcriptome reﬂected the one obtained when bacteria were replicating in MM5 .8 . 
+The comparison showed that 42 % of the MC1 genes that were up-regulated in murine macrophage-like J774-A .1 cells were also more highly expressed in MM5 .8 ( see Table S1 in the supplemental material ) . 
+It is noteworthy that virulence genes within SPI2 ( ssaG ) , SPI3 ( mgtB ) , and the spv locus ( spvA ) and a gene within SPI5 ( pipD ) that functionally associ-ates with SPI2 were clearly represented within this category of genes ( see Table S1 in the supplemental material ) . 
+Almost one-third ( 30.5 % ) of MC1 genes that were down-regulated in murine macrophage-like J774-A .1 cells were also expressed at lower levels in MM5 .8 ( see Table S1 in the supplemental material ) , including genes within SPI1 ( hilC ) and SPI4 ( STM4260 ) and motility-related ( ﬂiC ) genes , as well as a gene within SPI5 ( pipC ) that associates with SPI1 gene expression ( see Table S1 in the supplemental material ) ( 40 ) . 
+Thus , while growth in vitro in MM5 .8 obviously did not reproduce all aspects of the SCV , the large proportion of genes that showed parallel trends of expression in MM5 .8 and during infection of murine macrophage-like J774-A .1 cells conﬁrms that MM5 .8 indeed does represent certain crucial aspects of the intravacu-olar compartment . 
+PNPase deﬁciency affects spv expression not only in vitro but also in murine macrophage-like J774-A .1 cells . 
+Having deﬁned the intracellular transcriptomes for PNPase-proﬁcient S. enterica serovar Typhimurium MC1 , we compared the transcriptomes of intracellular MC1 and PNPase-deﬁcient MC71 . 
+The gene expression proﬁles obtained at 8 h postuptake were found to reveal an extremely high degree of similarity . 
+Only six genes ( spvABC , entC , rtcB , and STM2236 ) were up-regulated , whereas the motility-associated cheAW and motB genes wer down-regulated in intracellular MC71 compared to intracellular MC1 bacteria ( Fig. 5A ) . 
+These data showed that PNPase speciﬁcally affected the expression of a small set of genes during macrophage infection . 
+We next assessed to what extent inactivation of spvR , the gene encoding a key activator of spvABCD transcription ( Fig. 3H ) ( 71 , 81 ) , inﬂuenced the intracellular transcriptome . 
+As measured by microarray analysis , expression of spvAB and to some extent spvC became signiﬁcantly reduced in both PNPseproﬁcient MC1 and PNPase-deﬁcient MC71 upon mutational inactivation of spvR ( Fig. 5B ) . 
+More signiﬁcantly , the differences observed for spv gene expression between intracellular MC1 and MC71 were not observed in the spvR mutant backgrounds . 
+Surprisingly , inactivation of spvR also affected the increased mRNA levels observed for entC in the PNPase-deﬁcient MC71 ( Fig. 5B ) . 
+This shows that much of the differences observed in the intracellular transcriptomes for PNPaseproﬁcient MC1 and PNPase-deﬁcient MC71 depended on SpvR . 
+PNPase deﬁciency associates with a spvR-dependent alteration in virulence in BALB/c mice . 
+Apart from affecting virulence gene expression , PNPase deﬁciency was previously reported to affect infection pathogenesis and replication of the bacteria in BALB/c mice ( 11 ) . 
+Here , we followed up this phenomenon by performing in vivo competition experiments between PNPase-proﬁcient MC1 and PNPase-deﬁcient MC71 bacteria in BALB/c mice after intraperitoneal infection . 
+Upon recovery of bacteria from the livers and spleens 3 days postinfection , the MC71 bacteria showed a higher competitive index in both the livers and spleens in two separate sets of experiments ( the combined data are shown Fig. 6 ) . 
+As PNPase de-ﬁciency was found associated with increased spv gene expression in murine macrophage-like J774-A .1 cells ( Fig. 5A ) and as the spv genes participate in bacterial replication during the systemic phase of infection ( 32 , 33 , 73 ) , we next tested the effect of inactivating spvR on the competitive indexes in mice . 
+Thus , spvR mutants of MC1 and MC71 were competed against each other in BALB/c mice after intraperitoneal challenge . 
+Astonishingly , under these premises MC71 lost its competitive advantage in mice in each of two separate sets of experiments , and in fact the competitive index for MC71 decreased ( the combined data are shown in Fig. 6 ) . 
+Therefore , a noticeable proportion of the in vivo alteration in competitive index conferred by PNPase deﬁciency was dependent on alterations in spvR and SpvR-regulated gene expression . 
+FIG. 1 . 
+Differences in the transcriptomes of PNPase-proﬁcient MC1 and PNPase-deﬁcient MC71 S. enterica serovar Typhimurium during growth in low-pH minimal medium ( MM5 .8 ) . 
+Alterations are deﬁned as the ratio in mRNA signals between MC71 and MC1 , when the bacteria were grown in MM5 .8 to OD600 values of 0.5 . 
+Alterations in gene mRNA contents were measured by whole-genome microarray-based analyses . 
+The data include quadruplicate measurements and show all genes that show alterations of 2-fold and with a P value of 0.005 . 
+FIG. 2 . 
+Analysis of spvA mRNA expression in bacteria grown in low-pH minimal medium ( MM5 .8 ) . 
+( A ) One representative Northern blot probing for spvA mRNA after the addition of rifampin to cultures growing in MM5 .8 to OD600 values of 0.3 . 
+RNA was isolated at 0 , 2.5 , 5 , 10 , and 15 min after RNA synthesis was blocked . 
+A1 and A2 indicate the positions of the two spvA-reactive mRNA species , whereas arrows labeled 16S and ompA show the positions of the signals obtained with a 16S rRNA and ompA probes on the same blot after the membrane was stripped and the images were overlaid . 
+( B ) Phosphorimager-assisted quantiﬁcation of the A1 and A2 spvA mRNA signals shown in panel A at the time of addition of rifampin and the estimated mRNA half-life measurements of spvA mRNAs . 
+( C ) One representative dot blot probing for spvA mRNA obtained from PNPase-proﬁcient MC1 and PNPase-deﬁcient MC71 at various time points after transfer of growth in MM5 .8 , detected with a 32P-labeled spvA gene fragment 
+FIG. 3 . 
+Expression of - galactosidase by spv-lacZ fusions . 
+( A ) Summary of the genetic organization of the spv gene cluster , indicating the position of the lacZ cartridges in relation to the spvR and spvA promoters . 
+The bars upstream of the shaded lacZ arrows indicate the spv region included in the constructs ( 72 , 81 ) . 
+( B and C ) Staple bar presentations of - galactosidase activities expressed by spvA-lacZ ( B ) or spvR-lacZ ( C ) in PNPase-proﬁcient MC1 ( black columns ) or PNPase-deﬁcient MC71 ( gray columns ) grown in MM5 .8 . 
+( D ) - Galactosidase activities of the control tlpA-lacZ transcriptional fusion construct in MC1 ( black columns ) or MC71 ( gray columns ) grown in MM5 .8 . 
+( E ) Complementation in trans when MC1/spvA-lacZ ( black columns ) or MC71/spvA-lacZ ( gray columns ) is provided with pFF-1 containing pnp or with pHAM-1 containing parts of spvB as a control . 
+( F and G ) Growth slopes ( F ) and concomitant - galactosidase activities ( G ) expressed by MC1/spvA-lacZ ( black line ) and MC71/spvA-lacZ ( gray line ) bacteria growing in MM5 .8 . 
+Combined data from three separate cultures grown in parallel generated the data . 
+( H ) Effect of phoP , rpoS , or spvR mutations on - galactosidase activities expressed by spvA-lacZ in MC1 ( black columns ) or MC71 ( gray columns ) when grown in MM5 .8 . 
+For panels B , C , D , E , G , and H , the measurements were carried out on stationary-phase cultures , and each value represents the mean of at least three separate experiments . 
+Asterisks ( C to H ) indicate the P values obtained when an unpaired t test was performed with Welch correction , as follows : * , P 0.02 ; ** , P 0.005 ; and *** , P 0.001 . 
+FIG. 4 . 
+Assessment of cytotoxicity in murine macrophage-like J774-A .1 cells infected with S. enterica serovar Typhimurium . 
+Murine macrophage-like J774-A .1 cells grown on glass coverslips were allowed to phagocytose opsonized PNPase-proﬁcient MC1 ( A ) or PNPase-deﬁcient MC71 ( B ) bacteria . 
+Ten hours postinfection , the coverslips were washed , ﬁxed , permeabilized , stained for bacteria ( green ) and ﬁlamentous actin ( red ) , and examined by confocal ﬂuorescence microscopy at a magniﬁcation of 40 . 
+( C ) Levels of lactate dehydrogenase in the supernatants of murine macrophage-like J774-A .1 cell cultures infected with either MC1 ( white columns ) or MC71 ( gray columns ) with the MOIs and at the time points postinfection as indicated . 
+The black column represents the total LDH activity released from uninfected murine macrophage-like J774-A .1 cells by detergent treatment . 
+( D ) Nucleic acid contents in Triton X-100-insoluble and Triton X-100-soluble fractions of macrophage-like J774-A .1 cells infected with either MC1 or MC71 . 
+Uninfected cultures are included as controls . 
+Samples were taken at the time points given . 
+( E to J ) Confocal microscopic images ( magniﬁcation , 92 ) of macrophages 10 h postinfection , using an MOI of 100:1 of either MC1 ( E to G ) or MC71 ( H to J ) and immunolabeled with the lysosomal marker protein LAMP-1 ( red ) ( E and H ) and S. enterica serovar Typhimurium ( green ) ( F and I ) . 
+Panels G and J show the merged images of panels E and F and H and I , respectively . 
+FIG. 5 . 
+The effect of PNPase on spv expression during replication within murine macrophage-like J774-A .1 cells . 
+( A ) PNPase-proﬁcient MC1 and PNPase-deﬁcient MC71 bacteria were grown in J774-A .1 cells for 8 h , and the levels of bacterial mRNA were measured with microarray technology to reveal the ratio in signals between MC71 and MC1 . 
+The averages from quadruplicate hybridizations for each strain were compared , and it was found that nine genes had 2-fold difference and a P value of 0.005 . 
+These signiﬁcant alterations are expressed as the ratio of mRNA levels between MC71 and MC1 , and displayed on a log base 10 scale . 
+( B ) MC1 and MC71 with and without spvR were grown within murine macrophage-like J774-A .1 cells for 8 h , and the levels of bacterial mRNA were measured with microarray technology . 
+The averages from quadruplicate hybridizations for each strain were compared . 
+Fluorescence hybridization signals compared to an internal gDNA standard are shown for genes that were altered between MC1 and MC71 ( A ) . 
+FIG. 6 . 
+Infection experiments probing the competitive indexes of PNPase-proﬁcient MC1 and PNPase-deﬁcient MC71 strains in BALB/c mice . 
+Mice were challenged intraperitoneally with either a mixture of MC71 and MC1 ( Tetr ) or MC71 spvR mutant and MC1spvR mutant ( Tetr ) . 
+The bacteria were given at a ratio of 1:1 and in a total dose of approximately 5 103 bacteria per mouse . 
+Three days after infection , the mice were sacriﬁced for enumeration of the bacteria in the livers and spleens . 
+The ﬁgure shows the ratios between MC1 ( Tetr ) and MC71 ( black columns ) , or MC1 spvR mutant ( Tetr ) MC71spvR mutant ( gray columns ) and total bacterial loads . 
+The competitions were carried out twice using ﬁve mice per competition each time , and the results are shown after the data from the two separate series of infections were combined . 
+Asterisks show the level of signiﬁcance ( *** , P 0.001 ; Mann-Witney double-sided U test ) when the ratios between the viable counts from competitions between MC71 and MC1 versus the MC71 spvR mutant to the MC1 spvR mutant in either the spleen or liver were compared . 
+DISCUSSION
+For many serovariants of Salmonella enterica , virulence in the mouse model for systemic salmonellosis is dependent on the bacterial spv gene cluster that promotes bacterial replication in the liver and spleen , as the bacteria reside in macro-phages ( 32 , 33 ) . 
+While the exact details by which Spv proteins participate in the disease process are not known , the molecular function has been determined for two of the ﬁve Spv proteins : SpvB is an actin-speciﬁc mono ( ADP-ribosyl ) transferase ( 46 
+49 , 67 , 83 ) , whereas SpvR acts as transcriptional activator for spv expression ( 5 , 43 , 54 , 68 , 80 , 81 , 84 , 85 ) . 
+However , the genetic control of spv gene expression is complex and requires selected environmental cues , as well as the interplay between several transcriptional regulators ( 71 ) . 
+Expression of spv genes is clearly induced when the bacteria reside within mammalian cells ( 17 , 24 , 72 ) and in vitro when the bacteria are grown in minimal medium mimicking the intravacuolar environment ( 84 , 85 ) . 
+Expression of spv genes can also be achieved , at least to some extent , as the bacteria enter the stationary phase of growth in rich medium ( 13 , 15 , 21 , 80 , 84 , 85 ) . 
+Apart from SpvR , the regulatory factors that participate in spv gene induction include the response regulator PhoP ( 30 ) the alternative - factor RpoS ( 15 , 21 , 41 , 71 ) , and integration host factor ( 52 ) . 
+In addition , the global gene regulator H-NS ( 65 , 71 ) , leucine-responsive regulatory protein ( 52 ) , and the catabolite repression system ( 66 ) have been identiﬁed as repressors of spv gene expression . 
+We have previously demonstrated that mutational inactivation of the pnp gene encoding the exoribonuclease PNPase in Salmonella enterica serovar Typhimurium resulted in apparent increased bacterial replication in the host and in the establishment of chronic carrier states among convalescent mice ( 11 ) . 
+In parallel , when the bacteria were grown in vitro in rich growth medium , the PNPase-deﬁcient mutant revealed stron-ger expression of invasion-associated SPI1 genes and to some extent increased expression of SPI2 genes ( 11 ) , implying that PNPase-activity somehow connected with virulence gene expression . 
+A recent investigation demonstrated that persistent salmonellosis in the mouse involves prolonged bacterial colonization of macrophages ( 61 ) . 
+Therefore , in the current study we probed the effect of PNPase on S. enterica serovar Typhi-murium gene expression while the bacteria were replicating in an in vitro growth medium that partially mimicked the intra-vacuolar environment ( MM5 .8 ) or within murine macrophagelike J774-A .1 cells . 
+When whole-genome-based microarray technology was applied to deﬁne different bacterial transcriptomes , growth in MM5 .8 was found to result in decreased expression of SPI1 genes and in a strong increase in the SPI2 and spv gene expression in both the PNPase-proﬁcient MC1 and PNPase-de-ﬁcient MC71 backgrounds . 
+Somewhat surprisingly , PNPase de-ﬁciency associated only with a fairly moderate alteration in the transcriptome when the bacteria were grown in MM5 .8 . 
+The alteration recorded in the PNPase-deﬁcient MC71 background included genes associated with stress responses , DNA repair , and , signiﬁcantly , the spv genes ( Fig. 1 ; see Table S1 in the supplemental material ) . 
+Yet while Northern blot analyses clearly conﬁrmed an accumulation of spvA mRNA in the PNPase-deﬁcient MC71 background grown in MM5 .8 , we could not demonstrate any increase in the half-life of the spvA mRNA in MC71 ( Fig. 2A and B ) . 
+In parallel , lacZ fusions probing the transcription of the spvA and spvR promoters also revealed higher - galactosidase levels in the PNPase-deﬁcient MC71 background ( Fig. 3B and C ) . 
+These observations suggest that the increased levels of spvA expression observed at PNPase deﬁciency , at least partially , could originate from an increased transcription from the spvA promoter . 
+Still , the expression of spvA-lacZ remained dependent on growth phase and on the transcriptional regulators PhoP , RpoS , and SpvR , even in the PNPase-deﬁcient MC71 strain ( Fig. 3F to H ) . 
+This would be in accordance with the previously deﬁned strict dependency of the spvA promoter on RpoS and SpvR ( 35 , 84 , 85 ) . 
+Thus , one could envision a model in which spvA mRNA is not directly affected by PNPase . 
+Instead PNPase could , by affecting the amount or activity of accessory transcription factors or regulatory RNAs , control spv expression indirectly . 
+However , the array data did not reveal any signiﬁcant increase in the mRNAs in MC71 for the activator genes phoP or rpoS or any signiﬁcant decrease in the mRNAs for H-NS or the leucine-responsive regulatory protein ( see Table S1 in the supplemental material ) . 
+Yet , when we compared the genes altered for their expression at shift to MM5 .8 , we did ﬁnd parallels to the PhoPQ-regulon recently revealed for S. enterica serovar Typhimurium grown in mag-nesium-deprived M9 minimal medium ( 64 ) . 
+The transcriptomes of MC1 and MC71 grown in MM5 .8 showed induction in the expression of the PhoPQ-connected bioA , cysCDJN , mig-3 , pagOC , oat , udg , ybaY , and ygaY genes and a repression in the expression of the PhoPQ-connected nrdFH , slyB , and yfbE genes , compared to the transcriptomes expressed in CC ( see Table S1 in the supplemental material ) . 
+Furthermore , it is interesting to note that the promoter region of spvA in particular does share sequences reminiscent of the PhoP-binding site ( 38 ) . 
+It thus remains quite possible that MM5 .8 provokes activation of the PhoPQ regulon , while it may not activate phoPQ expression in itself . 
+Nevetheless , the growth medium applied by Monsieurs et al. ( 64 ) to provoke the PhoPQ regulon differs in many respects from MM5 .8 , which might explain differences in the transcriptome proﬁles observed . 
+The transition from CC into murine macrophage-like J774-A .1 cells is known to have a drastic effect on the bacterial transcriptome , and this alteration also includes induction of spv gene expression ( 17 ) . 
+Therefore , we used the microarray analysis to deﬁne differences in the intracellular transcriptomes displayed by the PNPase-proﬁcient MC1 and PNPase-deﬁcient MC71 strains while the bacteria were grown in mu-rine macrophage-like J774-A .1 cells . 
+The comparison of the intracellular transcriptomes of MC1 and MC71 revealed a signiﬁcantly different expression of only nine genes and included spvA , spvB , and spvC as being up-regulated in MC71 ( Fig. 5A ) . 
+The expression of spvA , spvB , and spvC genes was reduced to equal levels in spvR mutant derivatives of MC1 and MC71 grown in murine macrophage-like J774-A .1 cells ( Fig. 5B ) . 
+Somewhat unexpectedly , introducing the spvR mutation into MC71 also reduced the increase in entC expression conferred by PNPase deﬁciency . 
+Thus , it remains possible that expression of the isochorismate synthetase EntC is affected by the expression of spv genes . 
+As entC expression was grossly unaffected by spvR in the PNPase-proﬁcient MC1 strain , it is unlikely that entC would directly rely on SpvR for its expression . 
+However , we can not exclude the possibility that entC expression would respond to an alternative PNPase-suppressed and SpvR-de-pendent transcriptional activation . 
+Mutational inactivation of PNPase was originally reported to affect not only SPI1 and SPI2 expression , but also infection pathogenesis in BALB/c mice ( 11 ) . 
+The pnp mutant MC71 displayed higher bacteria doses in the spleens of the infected mice at early time points after infection ; the mutant bacteria showed increased rates of replication in mice and ﬁnally wer capable of establishing persistent infections ( 11 ) . 
+As PNPase deﬁciency clearly caused an increase in spv gene expression when the bacteria were growing in MM5 .8 or in murine mac-rophage-like J774-A .1 cells , we probed the effect of inactivating the spvR gene on bacterial replication in vivo . 
+This was done by comparing the competitive indexes of the pnp mutant when competed against a PNPase-proﬁcient strain in BALB/c mice and by competing corresponding spvR mutants . 
+The results obtained ( Fig. 6 ) clearly showed that the growth advantage conferred in mice by PNPase deﬁciency depended on spv gene expression . 
+Thus , PNPase seems not only to suppress spv gene expression under conditions that induce spv gene expression , but also to suppress bacterial replication in BALB/c mice . 
+In many respects , the pattern of regulation of PNPase-de-pendent expression of virulence in S. enterica genes resembles that of the PNPase-directed cold shock response in E. coli ; spv genes , as well as csp genes , are induced by environmental changes . 
+Both classes of genes are needed to adapt the bacteria to new environmental demands , and the mRNA levels for all of these genes are modulated by PNPase . 
+In E. coli , PNPase is not required for the induction of the cold shock response itself but for degradation of the csp mRNAs during adaptation to decreased growth temperature ( 86 ) . 
+A parallel scenario could be envisaged for the interplay between PNPase and virulence gene expression in Salmonella . 
+According to the gene expression proﬁle data presented here , PNPase is not necessary for the induction of spv virulence gene expression but may function to restrict gene expression once the genes have been induced . 
+Nevertheless , the effect of PNPase on the expression of a given virulence gene may not necessarily reﬂect a PNPasemediated degradation of the given mRNA . 
+Instead , PNPase could affect gene expression indirectly through affecting the stability of the mRNA encoding a gene regulatory factor , the stability of regulatory RNA molecules , or the regulation of a factor otherwise needed for proper SPI expression ( 58 ) . 
+Any such scenario could well explain the increased spvA expression observed here for the PNPase-deﬁcient strain MC71 . 
+Recent studies of Yersinia virulence suggest yet another mechanism for PNPase-mediated regulation of virulence expression . 
+As for Salmonella , the virulence of Yerinia relies on the expression of type III secretion ( 6 ) . 
+The effector proteins secreted by the Yersina type III secretion system prevent phagocytosis and expression of the oxidative burst ( 6 , 74 ) . 
+Inactivation of Yersinia PNPase caused a delay in the secretion of such virulence proteins to the extent that the mutants expressed decreased survival in murine macrophage-like RAW cells ( 74 ) . 
+The defect in the expression did not rely on the level of gene expression but rather occurred at the posttranslational level . 
+In parallel , another component of the RNA degradosome , the endoribonuclease RNaseE , has also been implicated in the expression of hilA , a main transcriptional regulatory gene of SPI1 ( 19 ) . 
+We propose that PNPase can ﬁne-tune the expression of environmentally induced genes , such as cold-shock or virulence genes , and allow bacteria to successfully adapt to alternating biological niches . 
+Such observations suggest that imported genetic virulence elements also could be subjected to posttranscriptional regulation and that their regulation has become integrated not only into the network of existing gene regulatory proteins , but also to the activity of preexisting ribo-nucleases . 
+ACKNOWLEDGMENTS
+We are grateful for support from VR Cancer fonden and STINT ( M.R. ) , for a Core Strategic grant from the BBSRC , and for an EU Marie Curie Training site grant ( J.C.D.H. ) . 
+Work in D.W.H. 's laboratory was supported by grants from the Medical Research Council ( United Kingdom ) and the Wellcome Trust . 
+REFERENCES 
+1 . 
+Abe , A. , and K. Kawahara . 
+1995 . 
+Transcriptional regulation and promoter sequence of the spvR gene of virulence plasmid pKDSC50 in Salmonella choleraesuis serovar Choleraesuis . 
+FEMS Microbiol . 
+Lett . 
+129:225 -- 230 . 
+2 . 
+Bernstein , J. A. , P. H. Lin , S. N. Cohen , and S. Lin-Chao . 
+2004 . 
+Global analysis of Escherichia coli RNA degradosome function using DNA microarrays . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 101:2758 -- 2763 . 
+3 . 
+Beuzon , C. R. , S. Meresse , K. E. Unsworth , J. Ruiz-Albert , S. Garvis , S. R. Waterman , T. A. Ryder , E. Boucrot , and D. W. Holden . 
+2000 . 
+Salmonella maintains the integrity of its intracellular vacuole through the action of SifA . 
+EMBO J. 19:3235 -- 3249 . 
+4 . 
+Björkman , J. , M. Rhen , and D. I. Andersson . 
+1996 . 
+Salmonella typhimurium cob mutants are not hypervirulent . 
+FEMS Microbiol . 
+Lett . 
+139:121 -- 126 . 
+5 . 
+Caldwell , A. L. , and P. A. Gulig . 
+1991 . 
+The Salmonella typhimurium virulence plasmid encodes a positive regulator of a plasmid-encoded virulence gene . 
+J. Bacteriol . 
+173:7176 -- 7185 . 
+6 . 
+Carniel , E. 2002 . 
+Plasmids and pathogenicity islands in Yersinia . 
+Curr . 
+Top . 
+Microbiol . 
+Immunol . 
+264:89 -- 108 . 
+7 . 
+Carpousis , A. J. 2002 . 
+The Escherichia coli RNA degradosome : structure , function and relationship in other ribonucleolytic multienzyme complexes . 
+Biochem . 
+Soc . 
+Trans . 
+30:150 -- 155 . 
+8 . 
+Carter , P. B. , and F. M. Collins . 
+1974 . 
+The route of enteric infection in normal mice . 
+J. Exp . 
+Med . 
+139:1189 -- 1203 . 
+9 . 
+Chen , L. M. , K. Kaniga , and J. E. Galán . 
+1996 . 
+Salmonella spp . 
+are cytotoxic for cultured macrophages . 
+Mol . 
+Microbiol . 
+21:1101 -- 1115 . 
+10 . 
+Clements , M. , S. Eriksson , D. Tezcan-Merdol , J. C. Hinton , and M. Rhen . 
+2001 . 
+Virulence gene regulation in Salmonella enterica . 
+Ann . 
+Med . 
+33:178 -- 185 . 
+11 . 
+Clements , M. O. , S. Eriksson , A. Thompson , S. Lucchini , J. C. Hinton , S. Normark , and M. Rhen . 
+2002 . 
+Polynucleotide phosphorylase is a global regulator of virulence and persistency in Salmonella enterica . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 99:8784 -- 8789 . 
+12 . 
+Collazo , C. M. , and J. E. Galán . 
+1997 . 
+The invasion-associated type III protein secretion system in Salmonella -- a review . 
+Gene 192:51 -- 59 . 
+13 . 
+Coynault , C. , V. Robbe-Saule , M. Y. Popoff , and F. Norel . 
+1992 . 
+Growth phase and SpvR regulation of Salmonella typhimurium spvABC virulence genes . 
+Microb . 
+Pathog . 
+13:133 -- 145 . 
+14 . 
+Decktrach , D. , L. A. Knodler , K. Galbraith , and O. Steele-Mortimer . 
+2005 . 
+The Salmonella SPI1 effector SopB stimulates nitric oxide production long after invasion . 
+Cell . 
+Microbiol . 
+7:105 -- 113 . 
+15 . 
+El-Gedaily , A. , G. Paesold , C.-Y . 
+Chen , G. D. Guiney , and M. Krause . 
+1997 . 
+Plasmid virulence gene expression induced by short chain fatty acids in Salmonella dublin : identiﬁcation of rpoS-dependent and rpoS-independent mechanisms . 
+J. Bacteriol . 
+179:1409 -- 1412 . 
+16 . 
+Eriksson , S. , M. Clements , and M. Rhen . 
+2001 . 
+Salmonella as a tenant in phagocytic cells . 
+Res . 
+Adv. Microbiol . 
+2:87 -- 102 . 
+17 . 
+Eriksson , S. , S. Lucchini , A. Thompson , M. Rhen , and J. C. Hinton . 
+2003 . 
+Unravelling the biology of macrophage infection by gene expression proﬁling of intracellular Salmonella enterica . 
+Mol . 
+Microbiol . 
+47:103 -- 118 . 
+18 . 
+Eriksson , S. , B. J. Chambers , and M. Rhen . 
+2003 . 
+Nitric oxide production by murine dendritic cells is cytotoxic for intracellular Salmonella typhimurium . 
+Scand . 
+J. Immunol . 
+58:493 -- 502 . 
+19 . 
+Fahlen , T. F. , N. Mathur , and B. D. Jones . 
+2000 . 
+Identiﬁcation and characterization of mutants with increased expression of hilA , the invasion gene transcriptional activator of Salmonella typhimurium . 
+FEMS Immunol . 
+Med . 
+Microbiol . 
+28:25 -- 35 . 
+20 . 
+Fang , F. C. , M. Krause , C. Roudier , J. Fierer , and D. G. Guiney . 
+1991 . 
+Growth regulation of a Salmonella plasmid gene essential for virulence . 
+J. Bacteriol . 
+173:6783 -- 6789 . 
+21 . 
+Fang , F. C. , S. J. Libby , N. A. Buchmeier , P. C. Loewen , J. Switala , J. Harwood , and D. G. Guiney . 
+1992 . 
+The alternative - factor KatF ( RpoS ) regulates Salmonella virulence . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 89:11978 -- 11982 . 
+22 . 
+Favaro , R. , and G. Deho . 
+2003 . 
+Polynucleotide phosphorylase-deﬁcient mutants of Pseudomonas putida . 
+J. Bacteriol . 
+185:5279 -- 5286 . 
+23 . 
+Fields , P. I. , E. A. Groisman , and F. Heffron . 
+1989 . 
+A Salmonella locus that controls resistance to microbicidal proteins from phagocytic cells . 
+Science 243:1059 -- 1062 . 
+24 . 
+Fierer , J. , L. Eckmann , F. Fang , C. Pfeifer , B. B. Finlay , and D. G. Guiney . 
+1993 . 
+Expression of the Salmonella virulence plasmid gene spvB in cultured macrophages and non-phagocytic cells . 
+Infect . 
+Immun . 
+61:5231 -- 5236 
+25 . 
+Figueroa-Bossi , N. , and L. Bossi . 
+1999 . 
+Inducible prophages contribute to Salmonella virulence in mice . 
+Mol . 
+Microbiol . 
+33:167 -- 176 . 
+26 . 
+Galán , J. E. , and D. Zhou . 
+2000 . 
+Striking a balance : modulation of the actin cytoskeleton by Salmonella . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 97:8754 -- 8761 . 
+27 . 
+Garvis , S. G. , C. R. Beuzon , and D. W. Holden . 
+2001 . 
+A role for the PhoP/Q regulon in inhibition of fusion between lysosomes and Salmonella-containing vacuoles in macrophages . 
+Cell . 
+Microbiol . 
+3:731 -- 744 . 
+28 . 
+Gerschenson , L. E. , and R. J. Rotello . 
+1992 . 
+Apoptosis : a different type of cell death . 
+FASEB J. 6:2450 -- 2455 . 
+29 . 
+Goverde , R. L. , J. H. Huisi n't Veld , J. G. Kusters , and F. R. Mooi . 
+1998 . 
+The psychrotrophic bacterium Yersinia enterocolitica requires expression of pnp , the gene for polynucleotide phosphorylase , for growth at low temperature ( 5 °C ) . 
+Mol . 
+Microbiol . 
+28:555 -- 569 . 
+30 . 
+Groisman , E. A. 2001 . 
+The pleiotropic two-component regulatory system PhoP-PhoQ . 
+J. Bacteriol . 
+183:1835 -- 1842 . 
+31 . 
+Groisman , E. A. , and H. Ochman . 
+1997 . 
+How Salmonella became a patho-gen . 
+Trends Microbiol . 
+5:343 -- 349 . 
+32 . 
+Gulig , P. A. , H. Danbara , D. G. Guiney , A. J. Lax , F. Norel , and M. Rhen . 
+1993 . 
+Molecular analysis of spv virulence genes of the Salmonella virulence plasmid . 
+Mol . 
+Microbiol . 
+7:825 -- 830 . 
+33 . 
+Gulig , P. A. , and T. J. Doyle . 
+1993 . 
+The Salmonella typhimurium virulence plasmid increases the growth rate of Salmonellae in mice . 
+Infect . 
+Immun . 
+61:504 -- 511 . 
+34 . 
+Hansen-Wester , I. , and M. Hensel . 
+2001 . 
+Salmonella pathogenicity islands encoding type III secretion systems . 
+Microbes Infect . 
+3:549 -- 559 . 
+35 . 
+Heiskanen , P. , S. Taira , and M. Rhen . 
+1994 . 
+Role of rpoS in the regulation of spv virulence genes of Salmonella typhimurium . 
+FEMS Microbiol . 
+Lett . 
+123:125 -- 130 . 
+36 . 
+Hinton , J. C. , I. Hautefort , S. Eriksson , A. Thompson , and M. Rhen . 
+2004 . 
+Beneﬁts and pitfalls of using microarrays to monitor bacterial gene expression during infection . 
+Curr . 
+Opin . 
+Microbiol . 
+7:277 -- 282 . 
+37 . 
+Hobbie , S. , L. M. Chen , R. J. Davis , and J. E. Galán . 
+1997 . 
+Involvement of mitogen-activated protein kinase pathways in the nuclear responses and cytokine production induced by Salmonella typhimurium in cultured intestinal epithelial cells . 
+J. Immunol . 
+159:5550 -- 5559 . 
+38 . 
+Hurme , R. , K. D. Berndt , S. J. Normark , and M. Rhen . 
+1997 . 
+A protein-aceous gene regulatory thermometer in Salmonella . 
+Cell 90:55 -- 64 . 
+39 . 
+Kim , C. C. , and S. Falkow . 
+2004 . 
+Delineation of upstream signaling events in the Salmonella pathogenicity island 2 transcriptional activation pathway . 
+J. Bacteriol . 
+186:4694 -- 4704 . 
+40 . 
+Knodler , L. A. , J. Celli , W. D. Hardt , B. A. Vallance , C. Yip , and B. B. Finlay . 
+2002 . 
+Salmonella effectors within a single pathogenicity island are differentially expressed and translocated by separate type III secretion systems . 
+Mol . 
+Microbiol . 
+43:1089 -- 1103 . 
+41 . 
+Kowarz , L. , C. Coynault , V. Robbe-Saule , and F. Norel . 
+1994 . 
+The Salmonella typhimurium katF ( rpoS ) gene : cloning , nucleotide sequence , and regulation of spvR and spvABCD virulence plasmid genes . 
+J. Bacteriol . 
+176:6852 -- 6860 . 
+42 . 
+Kox , L. F. , M. M. Wosten , and E. A. Groisman . 
+2000 . 
+A small protein that mediates the activation of a two-component system by another two-compo-nent system . 
+EMBO J. 19:1861 -- 1872 . 
+43 . 
+Krause , M. , C. Roudier , J. Fierer , J. Hardwood , and D. G. Guiney . 
+1991 . 
+Molecular analysis of the virulence locus of the Salmonella dublin plasmid pSDL2 . 
+Mol . 
+Microbiol . 
+5:307 -- 316 . 
+44 . 
+Kudla , J. , R. Hayes , and W. Gruissem . 
+1996 . 
+Polyadenylation accelerates degradation of chloroplast mRNA . 
+EMBO J. 15:7137 -- 7146 . 
+45 . 
+Kurita , A. , H. Gotoh , M. Eguchi , N. Okada , S. Matsumura , H. Mastui , H. Danbara , and Y. Kikuchi . 
+2003 . 
+Intracellular expression of the Salmonella virulence plasmid virulence protein SpvB causes apoptotic cell death in eukaryotic cells . 
+Microb . 
+Pathog . 
+35:43 -- 48 . 
+46 . 
+Lesnick , M. L. , N. E. Reiner , J. U. Fierer , and D. G. Guiney . 
+2001 . 
+The Salmonella spvB virulence gene encodes an enzyme that ADP-ribosylates actin and destabilizes the cytoskeleton of eukaryotic cells . 
+Mol . 
+Microbiol . 
+39:1464 -- 1470 . 
+47 . 
+Leszczyniecka , M. , R. DeSalle , D. C. Kang , and P. B. Fisher . 
+2004 . 
+The origin of polynucleotide phosphorylase domains . 
+Mol . 
+Phylogenet . 
+Evol . 
+31:123 -- 130 . 
+48 . 
+Leszczyniecka , M. , D. C. Kang , D. Sarkar , Z. Z. Su , M. Holmes , K. Valerie , and P. B. Fisher . 
+2002 . 
+Identiﬁcation and cloning of human polynucleotide phosphorylase , hPNPase old-35 , in the context of terminal differentiation and cellular senescence . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 99:16636 -- 16641 . 
+49 . 
+Libby , S. J. , M. Lesnick , P. Hasegawa , E. Weidenhammer , and D. G. Guiney . 
+2000 . 
+The Salmonella virulence plasmid spv genes are required for cytopa-thology in human monocyte-derived macrophages . 
+Cell . 
+Microbiol . 
+2:49 -- 58 . 
+50 . 
+Lundberg , U. , U. Vinatzer , D. Berdnik , A. von Gabain , and M. Baccarini . 
+1999 . 
+Growth phase-regulated induction of Salmonella-induced macrophage apoptosis correlates with transient expression of SPI-1 genes . 
+J. Bacteriol . 
+181:3433 -- 3437 . 
+51 . 
+Mangan , D. F. , and S. M. Wahl . 
+1991 . 
+Differential regulation of human monocyte programmed cell death ( apoptosis ) by chemotactic factors and proinﬂammatory cytokines . 
+J. Immunol . 
+147:3408 -- 3412 . 
+52 . 
+Marshall , D. G. , B. J. Sheehan , and C. J. Dorman . 
+1999 . 
+A role for the leucine-responsive regulator protein and integration host factor in the reg ¬ 
+ulation of the Salmonella plasmid virulence ( spv ) locus in Salmonella typhi-murium . 
+Mol . 
+Microbiol . 
+34:134 -- 145 . 
+53 . 
+Mastroeni , P. , and M. Sheppard . 
+2004 . 
+Salmonella infections in the mouse model : host resistance factors and in vivo dynamics of bacterial spread and distribution in the tissues . 
+Microb . 
+Infect . 
+6:398 -- 405 . 
+54 . 
+Matsui , H. , A. Abe , S. Suzuki , M. Kijima , Y. Tamura , M. Nakamura , K. Kawahara , and H. Danbara . 
+1993 . 
+Molecular mechanism of the regulation of expression of plasmid-encoded mouse bacteremia ( mba ) genes in Salmo-nella serovar cholearesuis . 
+Mol . 
+Gen. Genet . 
+236:219 -- 226 . 
+55 . 
+McClelland , M. , K. E. Sanderson , J. Spieth , S. W. Clifton , P. Latreille , L. Courtney , S. Porwollik , J. Ali , M. Dante , F. Du , S. Hou , D. Layman , S. Leonard , C. Nguyen , K. Scott , A. Holmes , N. Grewal , E. Mulvaney , E. Ryan , H. Sun , L. Florea , W. Miller , T. Stoneking , M. Nhan , R. Waterston , and R. K. Wilson . 
+2001 . 
+Complete genome sequence of Salmonella enterica se-rovar Typhimurium LT2 . 
+Nature 413:852 -- 856 . 
+56 . 
+Meresse , S. , K. E. Unsworth , A. Habermann , G. Grifﬁths , F. Fang , M. J. Martinez-Lorenzo , et al. 2001 . 
+Remodelling of the actin cytoskeleton is essential for replication of intravacuolar Salmonella . 
+Cell . 
+Microbiol . 
+3:567 -- 577 . 
+57 . 
+Miao , E. A. , M. Brittnacher , A. Haraga , R. L. Jeng , M. D. Welch , and S. I. Miller . 
+2003 . 
+Salmonella effectors translocated across the vacuolar membrane interact with the actin cytoskeleton . 
+Mol . 
+Microbiol . 
+48:401 -- 415 . 
+58 . 
+Miki , T. , N. Okada , and H. Danbara . 
+2004 . 
+Two periplasmic disulﬁde oxidoreductases , DsbA and SrgA , target outer membrane protein SpiA , a component of the Salmonella pathogenicity island type III secretion system . 
+J. Biol . 
+Chem . 
+279:34631 -- 34642 . 
+59 . 
+Miller , J. H. 1972 . 
+Experiments in molecular genetics . 
+Cold Spring Harbor Laboratory , Press , Cold Spring Harbor , N.Y. 60 . 
+Miller , S. I. , and J. J. Mekalanos . 
+1990 . 
+Constitutive expression of the phoP regulon attenuates Salmonella virulence and survival within macrophages . 
+J. Bacteriol . 
+172:2485 -- 2490 . 
+61 . 
+Monack , D. M. , D. M. Boule , and S. Falkow . 
+2004 . 
+Salmonella typhimurium persists within macrophages in the mesenteric lymph nodes of chronically infected Nramp / mice and can be reactivated by IFN neutralization . 
+J. Exp . 
+Med . 
+199:231 -- 241 . 
+62 . 
+Monack , D. M. , C. S. Detweiler , and S. Falkow . 
+2001 . 
+Salmonella pathoge-nicity island 2-dependent macrophage death is mediated in part by the host cysteine protease caspase-1 . 
+Cell . 
+Microbiol . 
+3:825 -- 837 . 
+63 . 
+Monack , D. M. , W. W. Navarre , and S. Falkow . 
+2001 . 
+Salmonella-induced macrophage death : the role of caspase-1 in death and inﬂammation . 
+Microb . 
+Infect . 
+3:1201 -- 1212 . 
+64 . 
+Monsieurs , P. , S. de Keersmaecker , W. W. Navarre , M. W. Bader , F. De Smet , M. McLelland , F. C. Fang , B. De Moor , J. Vanderleyden , and K. Marchal . 
+2005 . 
+Comparison of the PhoPQ regulon in Escherichia coli and Salmonella typhimurium . 
+J. Mol . 
+Evol . 
+60:462 -- 479 . 
+65 . 
+O'Byrne , C. P. , and C. J. Dorman . 
+1994 . 
+Transcription of the Salmonella typhimurium spv virulence locus is regulated negatively by the nucleoid-associated protein H-NS . 
+FEMS Microbiol . 
+Lett . 
+121:99 -- 106 . 
+66 . 
+O'Byrne , C. P. , and C. J. Dorman . 
+1994 . 
+The spv virulence operon of Salmnella typhimurium LT-2 is negatively regulated by the cyclic AMP ( cAMP ) - cAMP receptor protein system . 
+J. Bacteriol . 
+176:905 -- 912 . 
+67 . 
+Otto , H. , D. Tezcan , R. Girish , F. Haag , M. Rhen , and F. Koch-Nolte . 
+2000 . 
+The spvB gene product of the Salmonella enterica virulence plasmid is a mono ( ADP-ribosyl ) transferase . 
+Mol . 
+Microbiol . 
+37:1106 -- 1115 . 
+68 . 
+Pullinger , G. D. , G. D. Baird , G. M. Williamson , and A. J. Lax . 
+1989 . 
+Nucleotide sequence of a plasmid gene involved in the virulence of Salmo-nella . 
+Nucleic Acids Res . 
+17:7983 . 
+69 . 
+Py , B. , C. F. Higgins , H. M. Krisch , and A. J. Caprousis . 
+1996 . 
+A DEAD-box RNA helicase in the Escherichia coli RNA degradosome . 
+Nature 381:169 -- 172 . 
+70 . 
+Raupach , B. , N. Kurth , K. Pfeffer , and S. H. E. Kaufmann . 
+2003 . 
+Salmonella typhimurium strains carrying independent mutations display similar virulence phenotypes yet are controlled by distinct host defense mechanisms . 
+J. Immunol . 
+170:6133 -- 6140 . 
+71 . 
+Rhen , M. , and C. J. Dorman . 
+2005 . 
+Hierarchial gene regulators adapt Sal-monella enterica to its host milieus . 
+Int . 
+J. Med . 
+Microbiol . 
+294:487 -- 502 . 
+72 . 
+Rhen , M. , P. Riikonen , and S. Taira . 
+1993 . 
+Transcriptional regulation of Salmonella enterica virulence plasmid genes in cultured macrophages . 
+Mol . 
+Microbiol . 
+10:45 -- 56 . 
+73 . 
+Rhen , M. , M. Virtanen , and P. H. Mäkelä . 
+1989 . 
+Localization by insertion mutagenesis of a virulence-associated region on the Salmonella typhimurium 96 kilobase pair plasmid . 
+Microb . 
+Pathog . 
+6:153 -- 158 . 
+74 . 
+Rosenzweig , J. A. , G. Weltman , G. V. Plane , and K. Schesser . 
+2005 . 
+Modulation of Yersinia type three secretion system by the S1 domain of polynucleotide phosphorylase . 
+J. Biol . 
+Chem . 
+280:156 -- 163 . 
+75 . 
+Sarkar , D. , M. Leszczyniecka , D. C. Kang , I. V. Lebedeva , K. Valerie , K. , Dhar , S. Pandita , and P. B. Fisher . 
+2003 . 
+Down-regulation of Myc as a potential target for growth arrest induced by human polynucleotide phosphorylase ( hPNPaseold-35 ) in human melanoma cells . 
+J. Biol . 
+Chem . 
+278 : 24542 -- 24551 . 
+76 . 
+Schmieger , H. 1972 . 
+Phage P22 mutants with increased or decreased transduction abilities . 
+Mol . 
+Gen. Genet . 
+119:75 -- 78 . 
+77 . 
+Shea , J. E. , M. Hensel , C. Gleeson , and D. W. Holden . 
+1996 . 
+Identiﬁcation o 
+a virulence locus encoding a second type III secretion system in Salmonella typhimurium . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 93:2593 -- 2597 . 
+78 . 
+Shea , J. E. , C. R. Beuzon , C. Gleeson , R. Mundy , and D. W. Holden . 
+1999 . 
+Inﬂuence of the Salmonella typhimurium pathogenicity island 2 type III secretion system on bacterial growth in the mouse . 
+Infect . 
+Immun . 
+67:213 -- 219 . 
+79 . 
+Symmons , M. F. , G. H. Jones , and B. F. Luisi . 
+2000 . 
+A duplicated fold is the structural basis for polynucleotide phosphorylase catalytic activity , processivity , and regulation . 
+Structure Fold . 
+Des . 
+8:1215 -- 1226 . 
+80 . 
+Taira , S. , P. Heiskanen , R. Hurme , H. Heikkilä , P. Riikonen , and M. Rhen . 
+1995 . 
+Evidence for functional polymorphism of the spvR gene regulating virulence gene expression in Salmonella . 
+Mol . 
+Gen. Genet . 
+246:437 -- 444 . 
+81 . 
+Taira , S. , P. Riikonen , H. Saarilahti , S. Sukupolvi , and M. Rhen . 
+1992 . 
+The mkaC virulence gene of the Salmonella serovar Typhimurium 96 kb plasmid encodes a transcriptional activator . 
+Mol . 
+Gen. Genet . 
+228:381 -- 384 . 
+82 . 
+Tedin , K. , and U. Blasi . 
+1996 . 
+The RNA chain elongation rate of the lambda late mRNA is unaffected by high levels of ppGpp in the absence of amino acid starvation . 
+J. Biol . 
+Chem . 
+271:17675 -- 17686 . 
+83 . 
+Tezcan-Merdol , D. , T. Nyman , U. Lindberg , F. Haag , F. Koch-Nolte , and M. Rhen . 
+2001 . 
+Actin is ADP-ribosylated by the Salmonella enterica virulenceassociated protein SpvB . 
+Mol . 
+Microbiol . 
+39:606 -- 619 . 
+84 . 
+Wilson , J. A. , T. J. Doyle , and P. A. Gulig . 
+1997 . 
+Exponential-phase expression of spvA of the Salmonella typhimurium virulence plasmid : induction in intracellular salts medium and intracellularly in mice and cultured mamma-lian cells . 
+Microbiology 143:3827 -- 3839 . 
+85 . 
+Wilson , J. A. , and P. A. Gulig . 
+1998 . 
+Regulation of the spvR gene of the Salmonella typhimurium virulence plasmid during exponential-phase growth in intracellular salts medium and a t stationary phase in L broth . 
+Microbiology 144:1823 -- 1833 . 
+86 . 
+Yamanaka , K. , and M. Inouye . 
+2001 . 
+Selective mRNA degradation by polynucleotide phosphorylase in cold shock adaptation in Escherichia coli . 
+J. Bacteriol . 
+183:2808 -- 2816 . 
+87 . 
+Yehudai-Resheff , S. , M. Hirsh , and G. Schuster . 
+2001 . 
+Polynucleotide phosphorylase functions as both an exonuclease and a poly ( A ) polymerase in spinach chloroplasts . 
+Mol . 
+Cell . 
+Biol . 
+21:5408 -- 5416 .

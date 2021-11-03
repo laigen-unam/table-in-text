@@ -1,0 +1,494 @@
+JOURNAL OF BACTERIOLOGY , Oct. 1995 , p. 5434 -- 5439 0021-9193 / 95 / $ 04.0010 Copyright q 1995 , American Society for Microbiology 
+Glutathione Is Required for Maximal Transcription of the Cobalamin Biosynthetic and 1,2-Propanediol Utilization (cob/pdu) Regulon and for the Catabolism of Ethanolamine, 1,2-Propanediol, and Propionate in Salmonella typhimurium LT2
+MICHELLE R. RONDON , ROBERT KAZMIERCZAK , AND JORGE C. ESCALANTE-SEMERENA * 
+Department of Bacteriology , University of Wisconsin -- Madison , Madison , Wisconsin 53706-1567 
+Received 4 May 1995/Accepted 19 July 1995 
+Transcription of the cob/pdu regulon of Salmonella typhimurium is activated by the PocR regulatory protein in response to 1,2-propanediol ( 1,2-PDL ) in the environment . 
+Nutritional analysis and DNA sequencing conﬁrmed that a strain defective in expression of the cob/pdu regulon in response to 1,2-PDL lacked a functional gshA gene . 
+gshA encodes g-glutamylcysteine synthetase ( L-glutamate : L-cysteine g-ligase [ ADP forming ] ; EC 6.3.2.2 ) , the enzyme that catalyzes the ﬁrst step in the synthesis of glutathione ( GSH ) . 
+The DNA sequence of gshA was partially determined , and the location of gshA in the chromosome was established by two-factor crosses . 
+P22 cotransduction of gshA with nearby markers showed 21 % linkage to srl and 1 % linkage to hyd ; srl was 9 % cotransducible with hyd . 
+In light of these data , the gene order gshA srl hyd is suggested . 
+The level of reduced thiols in the gshA strain was 87 % lower than the levels measured in the wild-type strain in both aerobically and anaerobically grown cells . 
+1,2-PDL-dependent transcription of cob/pdu was studied by using M. Casadaban 's Mu-lacZ fusions . 
+In aerobically grown cells , transcription of a cbi-lacZ fusion ( the cbi genes are the subset of cob genes that encode functions needed for the synthesis of the corrin ring ) was 4-fold lower and transcription of a pdu-lacZ fusion was 10-fold lower in a gshA mutant than in the wild-type strain . 
+Expression of the cob/pdu regulon in response to 1,2-PDL was restored when GSH was included in the medium . 
+In anaerobically grown cells , cbi-lacZ transcription was only 0.4-fold lower than in the gshA1 strain ; pdu-lacZ transcription was reduced only by 0.34-fold , despite the lower thiol levels in the mutant . 
+cobA-lacZ transcription was used as negative control of a gene whose transcription is not controlled by the PocR/1 ,2 - PDL system ; under both conditions , cobA transcription remained unaffected . 
+The gshA mutant strain was unable to utilize 1,2-PDL , ethanolamine , or propionate as a carbon and energy source . 
+The defect in ethanolamine utilization appears to be at the level of ethanolamine ammonia-lyase activity , not at the transcriptional level . 
+Possible roles for GSH in ethanolamine , 1,2-PDL , and propionate catabolism are proposed and discussed . 
+In Salmonella typhimurium , the cobalamin biosynthetic op-eron ( cob ) and the 1,2-propanediol ( 1,2-PDL ) utilization ( pdu ) genes are coregulated at the transcriptional level in response to 1,2-PDL in the environment ( 9 , 33 ) . 
+This induction requires the PocR protein ( 9 , 33 ) , a transcriptional activator with homology to the AraC protein ( 11 , 36 ) . 
+Adenosylcobalamin serves as a cofactor for the ﬁrst enzyme in the 1,2-PDL deg-radation pathway ( 21 ) . 
+The cob and the pdu operons are located at min 41 on the chromosome and are transcribed divergently from each other ( 21 ) . 
+The intervening DNA between cob and pdu contains the pocR gene ( 9 , 11 , 33 ) , which is transcribed in the same direction as the cob operon ( 9 ) . 
+In this paper , we report the isolation and characterization of a mutant strain of S. typhimurium ( JE2546 ) which is unable to utilize 1,2-PDL as the sole carbon and energy source under aerobic conditions . 
+Interestingly , the mutation in this strain affects cob and pdu transcription in aerobically but not anaerobically grown cells . 
+We document that the gene disrupted in strain JE2546 is gshA , whose product catalyzes the ﬁrst step in glutathione ( GSH ) synthesis . 
+In E. coli , the GshA protein , 
+* Corresponding author . 
+Mailing address : Department of Bacteriology , University of Wisconsin -- Madison , 1550 Linden Dr. , Madison , WI 53706-1567 . 
+Phone : (608) 262-7379 . 
+Fax : (608) 262-9865 . 
+Electronic mail address : jcescala@facstaff.wisc.edu . 
+g-glutamylcysteine synthetase ( EC 6.3.2.2 ) , has been shown to catalyze the synthesis of g-glutamylcysteine from L-cysteine and L-glutamic acid ( 42 ) . 
+In E. coli , GSH is synthesized from g-glutamylcysteine and glycine by the GshB protein ( glutathi-one synthetase [ EC 6.3.2.3 ] ) ( 14 ) . 
+GSH has been shown to play many roles in the physiology of eucaryotic and procaryotic cells , including protection against oxidative damage , toxic compounds , radiation , and heavy metals ( 28 ) . 
+Glutathione is also a cofactor or cosubstrate for many enzymes ( 28 ) . 
+Studies with Escherichia coli have documented the involvement of GSH in activation of the KefB potassium efﬂux system ( 16 ) , in adaptation to osmotic stress ( 27 ) , in the reactivation of aconitase ( 18 ) , in arsenate resistance ( 31 ) , and in the detoxiﬁcation of the very reactive a-ketoaldehyde meth-ylglyoxal ( 12 ) . 
+We present data which document that GSH is required for maximal transcription of cob and pdu under aerobic growth conditions and that a GSH-deﬁcient mutant of S. typhimurium is defective in a number of cellular processes . 
+Our results suggest that the role of GSH in the detoxiﬁcation of aldehydes may extend to the catabolism of poor carbon sources such as ethanolamine , 1,2-PDL , and probably propionate . 
+MATERIALS AND METHODS
+Bacterial strains , media , and growth conditions . 
+The genotypes of strains and plasmids used in this work are listed in Table 1 . 
+Media and techniques used in this study have been described elsewhere ( 33 ) . 
+Cultures were grown at 378C with shaking in 5-ml volumes in test tubes ( 20 by 150 mm ) ; reduced-oxygen cultures were grown in ﬁlled screw-cap tubes without shaking . 
+Incubation of agar plates under anoxic conditions was accomplished by using Gas-Pak jars ( Bethesda Research Laboratories , Gaithersburg , Md. ) . 
+Growth of cultures was monitored with a Spectronic 20D spectrophotometer ( Milton Roy Co. , Rochester , N.Y. ) . 
+GSH was added to 0.1 mM ( ﬁnal concentration ) ; 1,2-PDL was added to 12 mM ( ﬁnal concentration ) ; carbon sources were present as noted in the text ; auxotro-phic requirements and antibiotics were added to concentrations reported earlier ( 33 ) . 
+Chemicals . 
+2,4-Dinitrophenylhydrazine ( DNPH ) , 3-methyl-2-benzothiazolin-one hydrazone , 5,59-dithiobis ( 2-nitrobenzoic acid ) ( DTNB ) , and glutathione reductase ( GSSG reductase ) were purchased from Sigma Chemical Co. ( St. Louis , Mo. ) ; all other chemicals were commercially available . 
+Assays . 
+( i ) b-Galactosidase . 
+b-Galactosidase activity was measured in mid-log-phase cultures as previously described ( 33 ) . 
+( ii ) EAL . 
+Ethanolamine ammonia-lyase ( EAL ) activity was assayed as previously described ( 32 ) except that higher amounts of protein ( 0.04 to 0.08 mg ) were used . 
+One unit of activity was deﬁned as the amount of enzyme that produced 1 nmol of acetaldehyde per minute . 
+( iii ) Determination of glutathione ( GSH ) levels . 
+GSH levels in deproteinated cell extracts were measured by using the DTNB-GSSG reductase recycling assay ( 20 ) as described elsewhere ( 3 ) . 
+Extracts were prepared by precipitation of proteins with 1 volume of 100 % methanol , followed by heating for 10 min at 658C . 
+The precipitate was removed by centrifugation , the supernatant was dried under vacuum , and the pellet was resuspended in GSH assay buffer ( 43 mM Na PO , 6.3 mM Na EDTA [ pH 7.5 ] ) . 
+The assay measured the difference in A 2 4 4 412 of the reaction mixture after a 4-min incubation period at 308C . 
+( iv ) Determination of methylglyoxal levels . 
+DNPH-reactible material in culture supernatants was assayed as described previously ( 22 ) . 
+The measurements were compared against a standard curve generated with commercially available methylglyoxal ( Sigma ) . 
+The culture medium itself contained no reactible material . 
+Genetic techniques . 
+( i ) Transductions . 
+All crosses used bacteriophage P22 double mutant HT105/1 int201 ( 37 , 38 ) . 
+Transductions were performed as described previously ( 33 ) . 
+( ii ) Mapping . 
+The Tn10d ( Tc ) element in JE2546 was mapped by using the Mud-P22 mapping kit described by Benson and Goldman ( 8 ) , using transducing lysates prepared on the set of lysogens and selecting for the loss of tetracycline resistance ( Tcr ) on Bochner plates ( 10 , 24 ) . 
+Crude preparations of bacteriophage P22 tail spike protein were obtained as described previously ( 39 , 44 ) . 
+Approximately 35 mg of protein of a crude extract containing P22 tail spike protein was routinely spread onto the plate prior to dispensing of Mud-P22 samples by means of a multiprong device . 
+Recombinant DNA techniques . 
+( i ) Cloning of gshA101 : : Tn10d ( Tc ) . 
+We used the Mud-P22 system ( 44 ) to clone the Tn10d ( Tc ) element from JE2546 . 
+The proU1884 : : MudP ( clockwise packaging ) element was introduced into strain JE2546 to yield strain JE2893 . 
+This strain was used to induce the P22 prophage by the addition of mitomycin C. Following an overnight incubation at 378C with shaking , a phage lysate was prepared ( 13 ) , and DNA was isolated from the phage heads ( 44 ) . 
+This DNA was digested to completion with PstI ( which does not cut within the Tn10d ( Tc ) element [ 43 ] ) and ligated into PstI-digested pSU19 ( 26 ) . 
+The ligation mix was electroporated into the restriction-deﬁcient , modiﬁcationproﬁcient S. typhimurium strain JR501 and plated on LB plates containing chloramphenicol to select for inheritance of plasmids . 
+Plasmids carrying the Tn10d ( Tc ) element were identiﬁed by replica printing onto LB-chloramphenicol plates containing tetracycline at a concentration of 2 mg/ml ( 43 ) . 
+Plasmid DNA was prepared from these colonies via an alkaline lysis method ( 25 ) and used to transform strain JR501 to Cmr . 
+These plates were replica printed to test for coinheritance of the Tcr and Cmr markers . 
+Plasmid DNA was prepared from double-drug-resistant colonies by using a Wizard MiniPrep kit ( Promega , Mad-ison , Wis. ) ; DNA was digested with PstI to determine the size of the insert and with EcoRI to cut at a unique site within the Tn10d ( Tc ) element ( 43 ) . 
+This analysis revealed that the cloned insert had no EcoRI site other than the one present in the Tn10d ( Tc ) element ; thus , we were able to subclone the two EcoRI-PstI fragments obtained from a double digest directly into pUC19 ( 30 ) . 
+These manipulations were performed in E. coli DH5a/F9 in order to use the blue/white screen for plasmids containing the cloned DNA ( 6 ) . 
+This subcloning step separated the two halves of the Tn10d ( Tc ) element , allowing us to use the primer 59ATGTGTATCCACCTTAAC39 ( Genosys , The Woodlands , Tex. ) , which hybridized to the inverted repeat of the element , to sequence the junction site of the insertion and the ﬂanking chromosomal DNA . 
+( ii ) DNA sequencing . 
+A Sequenase kit ( version 2.0 ; U.S. Biochemical Co. , Cleveland , Ohio ) was used to sequence the DNA region ﬂanking the Tn10d ( Tc ) element . 
+Sequence data were compared with sequences in GenBank by using the BLAST algorithm developed by the National Center for Biotechnology Information at the National Library of Medicine ( 2 ) . 
+543 
+RESULTS
+We document that in S. typhimurium LT2 , reduced GSH levels have a severe impact on the transcription of the cob/pdu regulon and on the utilization of ethanolamine , 1,2-PDL , and propionate as carbon and energy sources . 
+Interestingly , these effects are seen only when cells are grown under aerobic conditions , and as expected , they are reversed by exogenous GS or by its precursor g-glutamylcysteine , the product of the reaction catalyzed by GshA . 
+We also report the partial determination of the nucleotide sequence of the gshA gene of S. typhimurium LT2 . 
+The chromosomal location of the gshA gene was established by genetic means , and the gene order relative to nearby markers was determined . 
+Identiﬁcation and chromosomal location of gshA in S. typhi-murium . 
+Strain JE2546 [ gshA101 : : Tn10d ( Tc ) ] was isolated during a mutant search designed to identify genetic loci ( other than those already known ) required for aerobic growth with 1,2-PDL as the sole carbon source , using a phage P22 lysate prepared on a pool of approximately 80,000 strains , each carrying a Tn10d ( Tc ) element . 
+The Tn10d ( Tc ) element in strain JE2546 did not map to any previously known loci involved in 1,2-PDL utilization ( pdu , pocR , btuB , tonB , etc. ) . 
+Mapping experiments using the Mud-P22 mapping kit of Benson and Goldman ( 8 ) determined that the general location of this element was in the 57 - to 60-min region of the chromosome . 
+Two-factor crosses with markers in this region showed that this element was 21 % cotransducible by phage P22 with the srl locus and 1 % cotransducible with hyd . 
+We found that srl and hyd were 9 % cotransducible , a ﬁnding that suggested the gene order gshA srl hyd . 
+These results were consistent with the location of gshA in E. coli ( 7 ) . 
+The DNA sequence ﬂanking the Tn10d ( Tc ) element in strain JE2546 was determined and found to be 94 % identical at the amino acid level ( 151 of 161 amino acid residues compared ; 31 % of the total protein length ) to the GshA protein of E. coli B ( Fig. 1 ) ( 42 ) . 
+gshA encodes L-glutamate : L-cysteine g-ligase ( ADP forming ; EC 6.3.2.2 ) , also known as g-glutamyl-cysteine synthetase , which catalyzes the ﬁrst step in the synthesis of GSH . 
+The location of the insertion correlates with the location of gshA in E. coli ( 7 ) . 
+Hereafter , we refer to the insertion in JE2546 as gshA101 : : Tn10d ( Tc ) . 
+Effect of mutation gshA101 : : Tn10d ( Tc ) on the intracellular level of reduced thiols . 
+Deproteinated cell extracts of strain JE2546 contained only 13 % of the level of DTNB-reactible material found in extracts of the wild-type strain . 
+This was true for extracts prepared from aerobically grown cells and for extracts made from anaerobically grown cells , demonstrating that JE2546 is deﬁcient in thiol synthesis under both growth conditions . 
+Although the DTNB-GSSG reductase recycling assay is not speciﬁc for GSH , the reduction of DTNB-reactible material observed in the gshA mutant was signiﬁcant , and it likely reﬂected the inability of the cell to synthesize GSH . 
+These results were consistent with the insertion in strain JE2546 disrupting the gshA gene . 
+Phenotypes of the gshA mutant . 
+( i ) Growth phenotypes . 
+The gshA mutant ( JE2546 ) was unable to grow aerobically with 1,2-PDL as the sole carbon and energy source in culture me-dium supplemented with cobalamin . 
+The gshA1 strain grew on the same medium with a growth rate of 0.11 doublings per h. Strain JE2546 also failed to grow on ethanolamine ( plus co-balamin ) or propionate as the sole carbon and energy source . 
+The growth rate of the gshA1 strain on ethanolamine was 0.13 doublings per h ; on propionate , the strain grew at a rate of 0.15 doublings per h. Strain JE2546 was able to use ethanolamine as the sole nitrogen source , suggesting that low but sufﬁcient amounts of ethanolamine-degrading enzymes were synthesized in this strain . 
+These levels were insufﬁcient to support growth of the cell when ethanolamine served as the sole carbon and energy source . 
+Only minor growth effects were observed when JE2546 was grown on other carbon sources such as succinate , fumarate , or pyruvate ( data not shown ) . 
+In previous studies examining growth of gsh mutants in minimal medium , no or only minor differences in growth in comparison with a wild-type strain were observed ( 5 , 17 , 18 , 29 ) ; we think that this reﬂects the carbon source provided ( glucose or succinate in those cases ) . 
+Interestingly , no difference in growth between the gshA ( JE2546 ) and gshA1 ( TR6583 ) strains was observed when cells were grown anaerobically on medium containing ethanolamine or propionate as the sole carbon and energy source and nitrate as the electron acceptor . 
+1,2-PDL was not tested since the wild-type strain does not grow on this compound anaerobically ( 33 ) . 
+( ii ) Transcription of the cob and pdu genes in aerobically grown cells . 
+A dramatic reduction in cob and pdu transcription was observed in the GSH-deﬁcient strain ( Table 2 ) . 
+Transcription of the cbi-24 : : lacZ fusion was reduced 4-fold ; transcription of the pdu-8 : : lacZ fusion was reduced 10-fold . 
+This result helped explain the inability of the gshA mutant to grow on 1,2-PDL as a carbon and energy source . 
+For both cbi and pdu , wild-type levels of transcription were restored in cells grown in medium supplemented with GSH ( Table 2 ) , conﬁrming that lack of GSH was responsible for th altered transcription of the cob/pdu regulon seen in the gshA strain . 
+In contrast , transcription of a cobA343 : : lacZ fusion was reduced only about 25 % in the mutant background . 
+We chose the cobA343 : : lacZ fusion as a control for nonspeciﬁc effects . 
+cobA encodes a protein required for the synthesis of cobalamin , yet it is not part of the cob/pdu regulon , as the cobA gene is located at a distance from the cob operon , and transcription of cobA is not regulated by 1,2-PDL ( 15 , 34 ) . 
+Together , these results indicated that decreased intracellular levels of GSH had a speciﬁc effect on cob and pdu expression and that our data did not reﬂect a general effect on gene transcription . 
+( iii ) Transcription of cob and pdu in anaerobically grown cells . 
+In anaerobically grown cells , the effect of the gshA mutation on cob and pdu transcription was not pronounced ( Table 2 ) . 
+In the presence of 1,2-PDL , cbi-24 : : lacZ transcription was reduced only 0.4-fold ; pdu-8 : : lacZ transcription was reduced only 0.34-fold ; the control cobA343 : : lacZ fusion was unaffected . 
+These results were consistent with our ﬁnding that growth of the gshA mutant under anaerobic conditions was not affected . 
+Thus , it seems that for both transcription and growth , the gshA mutant has a phenotype only when the cells are grown aerobically . 
+( iv ) Transcription of the ethanolamine utilization ( eut ) genes was not affected by reduced levels on GSH . 
+Transcription of the eut operon is known to be induced by the presence of ethanolamine and cobalamin in the medium ( 35 ) . 
+Unlike transcription of pdu and cob , transcription of the eut operon was not signiﬁcantly affected by the gshA mutation . 
+Transcription of a eut-lacZ fusion in the gshA mutant was approximately 72 % of the level measured in the gshA1 strain . 
+This reduction was similar to that of the control cobA343 : : lacZ fusion ( 77 % ) , suggesting that the failure of the gshA strain to grow on etha-nolamine was not due to a defect in activation of eut expression . 
+( v ) EAL activity in the gshA mutant . 
+We investigated the possibility that active EAL depends on the presence of GSH . 
+The level of EAL activity was determined in cell extracts of gshA1 ( TR6583 ) and gshA ( JE2546 ) strains grown under conditions known to induce transcription of the eut operon ( 35 ) . 
+A cell extract of JE2546 contained only 12 % ( 13 U ) of the EAL activity measured in the gshA1 strain ( 110 U ) . 
+EAL activity in a strain carrying an insertion within the eut operon , upstream of the eutBC genes encoding EAL , was only 6 % ( 7 U ) of the EAL activity found in the gshA1 strain . 
+Thus , the level of EAL activity in the gshA mutant was comparable to that in a strain that did not produce EAL . 
+These results suggested that GSH was needed directly or indirectly to maintain EAL activity . 
+TABLE 1 . 
+Strains and plasmids used Genotypea 
+Strain or plasmid 
+Source or reference 
+Strains S. typhimurium LT2 
+TR6583 ( formerly SA2979 ) metE205 ara-9 JF1534 hyd-1088 : : MudJ JR501 hsdSA29 hsdSB121 hsdL6 trpC2 metA22 metE551 ilv452 leu3121 rpsL120 galE719 xyl-404 H1-b H2-e , n , x nml ( Fels2 ) 2 ﬂa-66 TT15261 proU1884 : : MudP Derivatives of TR6583 JE2529 srl-203 : : Tn10d ( Cm ) JE2546 gshA101 : : Tn10d ( Tc ) JE2649 cbi-24 : : MudA JE3084 cbi-24 : : MudA gshA101 : : Tn10d ( Tc ) JE3562 pdu-12 : : MudA JE3085 pdu-12 : : MudA gshA101 : : Tn10d ( Tc ) JE1096 cobA343 : : MudJ JE3225 cobA343 : : MudJ gshA101 : : Tn10d ( Tc ) JE1684 eutE18 : : MudA JE2646 eutE18 : : MudA gshA101 : : Tn10d ( Tc ) JE2893 proU1884 : : MudP gshA101 : : Tn10d ( Tc ) E. coli DH5a/F9 F9/endA1 hsdR17 ( r 2 1 r K mK ) supE44 thi-1 recA1 gyrA ( Nal ) relA1 D ( lacZYA-argF ) U169 deoR [ f80dlacD ( lacZ ) M15 ] Plasmids pSU19 pUC19 a Throughout this paper , Tn10DEL 16DEL 17 ( DEL 5 deletion ) is abbreviated Tn10d ( Tc ) , Mud1-8 is abbreviated MudA , and M Mutation cbi-24 : : MudJ was formerly known as cob-24 : : MudJ . 
+K. Sanderson via J. Roth J. Foster via K. Sanderson 41 
+8 
+This study 
+6 
+Cmr cloning vector ( 26 ) Apr cloning vector ( 30 ) udI 1734 is abbreviated MudJ . 
+FIG. 1 . 
+Location of the Tn10d ( Tc ) element within gshA . 
+The E. coli GshA protein is represented by the large arrow . 
+The location of the Tn10d ( Tc ) element within the S. typhimurium coding region is indicated by the large inverted triangle . 
+The small lines represent the locations of the sequences that were determined and are to scale . 
+The partial amino acid sequence of the GshA protein of E. coli B , as well as the deduced sequence from S. typhimurium , is shown . 
+The underlined amino acids indicate a difference between the E. coli ( E. c. ) and S. typhimurium ( S. ty . ) 
+proteins . 
+A question mark indicates that the residue was not determined at that location . 
+Numbers indicate the size of the E. coli protein and the location of the insertion ; 295 refers to the ﬁnal lysine residue in the upper sequence . 
+DISCUSSION
+GSH has been identiﬁed as a key component for the utili-zation of ethanolamine , 1,2-PDL , and propionate in S. typhi-murium . 
+While the lack of GSH has a severe negative effect on transcription of the cob/pdu regulon , it appears to affect etha-nolamine utilization by drastically reducing the level of active EAL . 
+These effects may be due to the interaction of GSH directly with proteins or intermediates of these pathways . 
+Possible role of GSH in the catabolism of ethanolamine , 1,2-propanediol , and propionate . 
+Analysis of the role of GSH in utilization of ethanolamine , 1,2-PDL , and propionate is complicated by the fact that the catabolic pathways for these compounds have not been completely elucidated . 
+1,2-PDL is catabolized to propionaldehyde by propanediol dehydratase , thought to be encoded by the pdu genes ( 21 ) . 
+The fate of propionaldehyde is not known . 
+Ethanolamine is cleaved by EAL to produce acetaldehyde and ammonia ( 10a ) . 
+Acetaldehyde is then catabolized to acetyl coenzyme A ( 40 ) . 
+The pathway for propionate utilization in S. typhimurium has not been studied ; preliminary work in E. coli suggests that propionate may be catabolized via several pathways ( 15a ) . 
+Recent analyses of the eut and pdu genes in S. typhimurium have suggested that the Eut and Pdu catabolic enzymes may be conﬁned within compartments where degradation of these compounds takes place ( 11 , 40 ) . 
+A rationale for this hypothesis is that the ﬁrst step in the catabolism of both ethanolamine and 1,2-PDL results in the formation of an aldehyde , which may be toxic to the cell . 
+By localizing the enzymes and intermediates in a multiprotein compartment , the cell may have developed a mechanism to physically isolate these reactive aldehydes and thus protect itself from the negative effects of aldehyde reactivity . 
+GSH may play a key role in both the Eut and Pdu pathways , perhaps by protecting proteins in the complex from damage by aldehydes . 
+GSH could function as an aldehyde scavenger under conditions in which these compounds are being locally produced . 
+Alternatively , GSH might act as a cofactor for the aldehyde dehydrogenases which further metabolize acetaldehyde and propionaldehyde . 
+GSH-dependent aldehyde dehydrogenases are widespread and have been documented in E. coli ( 19 ) , although there is not evidence that the Eut and Pdu dehydrogenases are GSH dependent . 
+GSH-dependent detoxiﬁcation of very reactive aldehydes has been demonstrated in the case of a-ketoaldehydes such as pyruvaldehyde ( also known as methylglyoxal ) ( 12 , 23 ) . 
+Meth-ylglyoxal synthesis in E. coli increases when the cell grows on carbon sources such as glycerol ( 12 ) . 
+GSH reacts with meth-ylgyloxal to form a thiohemiacetal adduct which is converted t lactoyl-S-glutathione by glyoxylase I and to D-lactate by glyoxylase II ( 12 ) . 
+In fact , we showed that when the gshA1 ( TR6583 ) and gshA ( JE2546 ) strains were grown on glycerol , growth of the gshA strain was arrested before the culture reached mid-log phase ( data not shown ) . 
+At the onset of the arrest , sixfold more DNPH-reactible material was detected in the medium of the gshA mutant than in the medium of the gshA1 strain at the same cell density . 
+This level increased to 160-fold 18 h after growth of the gshA mutant ceased . 
+These results indicated that the lack of GSH in JE2546 has a drastic effect on the ability of the cell to cope with aldehyde accumulation . 
+A similar phenomenon may occur during growth on ethanolamine , propionate , and 1,2-PDL , although this hypothesis needs to be documented . 
+How does a lack of GSH affect cob/pdu transcription ? 
+Two proteins needed for the efﬁcient transcription of the cob/pdu regulon in S. typhimurium are PduF ( the proposed 1,2-PDL transport protein ) and PocR ( the transcription factor required for 1,2-PDL-dependent cob and pdu expression ) . 
+We have previously shown that 1,2-PDL itself , and not a metabolite of 1,2-PDL , is the effector for PocR ( 33 ) . 
+Thus , it is unlikely that the effect of the gshA mutant is to prevent production of the true inducer of the cob/pdu regulon . 
+To explain the effect of GSH on cob/pdu transcription , we propose that the lack of GSH may affect the function of PduF and/or of PocR . 
+If this idea were correct , one possible explanation would be that GSH is needed to maintain some or all of the cysteinyl residues present in these proteins ( eight Cys in PduF and nine Cys in PocR [ 11 ] ) as reduced thiols in order to preserve biological activity . 
+Effects on other proteins also known to affect cob/pdu transcription , i.e. , catabolite gene activator protein and the ArcA/B system ( 1 , 4 ) , can not be ruled out at this point . 
+Why is the effect of a lack of GSH evident only during aerobic conditions ? 
+As we have shown , gshA mutants have a phenotype only when grown aerobically , whereas the level of reduced thiols in the mutant is greatly decreased both during aerobic and anaerobic growth . 
+This ﬁnding indicates that there is not an alternative pathway for GSH synthesis that functions anaerobically . 
+There may be another molecule , synthesized only under anaerobic conditions , that is able to perform the functions of GSH when GSH is not available . 
+Alternatively , the need for GSH may be greatly reduced under anaerobic growth conditions . 
+If GSH is used by the cell to maintain redox-sensitive molecules in their active state , GSH may be dispensable in environments devoid of molecular oxygen . 
+Aconitase may be one example of this , since GSH is needed aerobically to maintain sulfhydryl groups reduced for binding the iron-sulfur center required for enzyme activity ( 18 ) . 
+On the other hand , if GSH is needed aerobically to control aldehyde reactivity , either there must be an alternative mechanism for aldehyde detoxiﬁcation anaerobically or utilization of these compounds may proceed differently under anaerobic conditions such that aldehydes do not accumulate . 
+A better understanding of these pathways is needed to resolve these questions . 
+TABLE 2 . 
+Effects of a gshA mutation on cob and pdu expressiona 
+b-Galactosidase activity ( U/A650 ) in : 
+Strain 
+Relevant genotype 
+Aerobically grown cells Anaerobically grown cells 
+No addition 1,2-PDL 1,2-PDL -- GSH No addition 1,2-PDL 
+JE2649 cbi-24 : : lacZ gshA1 10 43 49 133 787 JE3084 cbi-24 : : lacZ gshA101 : : Tn10d ( Tc ) 8 11 50 142 474 JE3562 pdu-12 : : lacZ gshA1 1 70 84 20 3,319 JE3085 pdu-12 : : lacZ gshA101 : : Tn10d ( Tc ) 2 7 103 13 2,176 JE1096 cobA343 : : lacZ gshA1 58 57 65 45 50 JE3225 cobA343 : : lacZ gshA101 : : Tn10d ( Tc ) 45 43 56 50 52 a Cells were grown in NCE minimal medium containing MgSO4 , methionine , and D - ( 1 ) - xylose ( 30 mM ) plus the stated additions ( 33 ) . 
+Aerobic growth was achieved by growing cultures in 5 ml of medium in test tubes ( 20 by 150 mm ) with shaking ( 175 rpm ) ; anaerobic growth was achieved by growing cultures in completely ﬁlled screw-cap tubes . 
+1,2-PDL was added to 12 mM ; GSH was added to 0.1 mM . 
+Cells were assayed during mid-log phase ( A650 5 0.3 to 0.5 ) . 
+Values represent averages of three experiments ; within each experiment , samples were assayed in duplicate . 
+ACKNOWLEDGMENTS
+This work was supported by Public Health Service grant GM40313 from the National Institute of General Medical Sciences to J.C.E.-S. , by the College of Agricultural and Life Sciences , and by University of Wisconsin -- Madison Graduate School project number 930684 . 
+We thank John Foster for strain JF1534 . 
+REFERENCES 
+1 . 
+Ailion , M. , T. A. Bobik , and J. R. Roth . 
+1993 . 
+Two global regulatory systems ( Crp and Arc ) control the cobalamin/propanediol regulon of Salmonella typhimurium . 
+J. Bacteriol . 
+175:7200 -- 7208 . 
+2 . 
+Altschul , S. F. , W. Gish , W. Miller , and E. W. Myers . 
+1990 . 
+Basic local alignment search tool . 
+J. Mol . 
+Biol . 
+215:403 -- 410 . 
+3 . 
+Anderson , M. E. 1985 . 
+Determination of glutathione and glutathione disul-ﬁde in biological samples . 
+Methods Enzymol . 
+113:548 -- 555 . 
+4 . 
+Andersson , D. I. 1992 . 
+Involvement of the Arc system in redox regulation of the Cob operon in Salmonella typhimurium . 
+Mol . 
+Microbiol . 
+6:1491 -- 1494 . 
+5 . 
+Apontoweil , P. , and W. Berends . 
+1975 . 
+Isolation and characterization of glutathione-deﬁcient mutants of Escherichia coli K12 . 
+Biochim . 
+Biophys . 
+Acta 399:10 -- 22 . 
+6 . 
+Ausubel , F. M. , R. Brent , R. E. Kingston , D. D. Moore , J. G. Seidman , J. A. Smith , and K. Struhl ( ed . ) . 
+1989 . 
+Current protocols in molecular biology , vol . 
+1 . 
+Greene Publishing Associates and Wiley-Interscience , New York . 
+7 . 
+Bachmann , B. J. 1990 . 
+Linkage map of Escherichia coli K-12 , edition 8 . 
+Microbiol . 
+Rev. 54:130 -- 197 . 
+8 . 
+Benson , N. R. , and B. S. Goldman . 
+1992 . 
+Rapid mapping in Salmonella typhimurium with Mud-P22 prophages . 
+J. Bacteriol . 
+174:1673 -- 1681 . 
+9 . 
+Bobik , T. A. , M. Ailion , and J. R. Roth . 
+1992 . 
+A single regulatory gene integrates control of vitamin B12 synthesis and propanediol degradation . 
+J. Bacteriol . 
+174:2253 -- 2266 . 
+10 . 
+Bochner , B. R. , H.-C . 
+Huang , G. L. Schieven , and B. N. Ames . 
+1980 . 
+Positive selection for loss of tetracycline resistance . 
+J. Bacteriol . 
+143:926 -- 933 . 
+10a . 
+Chang , G. W. , and J. T. Chang . 
+1975 . 
+Evidence for the B12-dependent enzyme ethanolamine deaminase in Salmonella . 
+Nature ( London ) 254:150 -- 151 . 
+11 . 
+Chen , P. , D. I. Andersson , and J. R. Roth . 
+1994 . 
+The control region of the pdu/cob regulon in Salmonella typhimurium . 
+J. Bacteriol . 
+176:5474 -- 5482 . 
+12 . 
+Cooper , R. A. 1984 . 
+Metabolism of methylglyoxal in microorganisms . 
+Annu . 
+Rev. Microbiol . 
+38:49 -- 68 . 
+13 . 
+Davis , R. W. , D. Botstein , and J. R. Roth . 
+1980 . 
+A manual for genetic engineering : advanced bacterial genetics . 
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 14 . 
+Daws , T. , C.-J . 
+Lim , and J. A. Fuchs . 
+1989 . 
+In vitro construction of gshB : : kan in Escherichia coli and use of gshB : : kan in mapping the gshB locus . 
+J. Bacteriol . 
+171:5218 -- 5221 . 
+15 . 
+Escalante-Semerena , J. C. , S.-J . 
+Suh , and J. R. Roth . 
+1990 . 
+cobA function is required for both de novo cobalamin biosynthesis and assimilation of exog-enous corrinoids in Salmonella typhimurium . 
+J. Bacteriol . 
+172:273 -- 280 . 
+15a . 
+Evans , C. T. , B. Sumeg , P. A. Srere , A. D. Sherry , and C. T. Malloy . 
+1993 . 
+[ 13C ] propionate oxidation in wild-type and citrate synthase mutant Esche-richia coli : evidence for multiple pathways of propionate utilization . 
+Bio-chem . 
+J. 291:927 -- 932 . 
+16 . 
+Ferguson , G. P. , A. W. Munro , R. M. Douglas , D. McLaggan , and I. R. Booth . 
+1993 . 
+Activation of potassium channels during metabolite detoxiﬁcation in Escherichia coli . 
+Mol . 
+Microbiol . 
+9:1297 -- 1303 . 
+17 . 
+Fuchs , J. A. , and H. R. Warner . 
+1975 . 
+Isolation of an Escherichia coli mutant deﬁcient in glutathione synthesis . 
+J. Bacteriol . 
+124:140 -- 148 . 
+18 . 
+Gardner , P. R. , and I. Fridovich . 
+1993 . 
+Effect of glutathione on aconitase in Escherichia coli . 
+Arch . 
+Biochem . 
+Biophys . 
+301:98 -- 102 . 
+19 . 
+Gutheil , W. G. , B. Holmquist , and B. L. Vallee . 
+1992 . 
+Puriﬁcation , characterization , and partial sequence of the glutathione-dependent formaldehyde dehydrogenase from Escherichia coli : a class III alcohol dehydrogenase . 
+Biochemistry 31:475 -- 481 . 
+20 . 
+Habeeb , A. F. S. A. 1972 . 
+Reaction of protein sulhydryl groups with Ellman 's reagent . 
+Methods Enzymol . 
+25:457 -- 464 . 
+21 . 
+Jeter , R. M. 1990 . 
+Cobalamin-dependent 1,2-propanediol utilization by Sal-monella typhimurium . 
+J. Gen. Microbiol . 
+136:887 -- 896 . 
+22 . 
+Kadner , R. J. , P. G. Murphy , and C. Stephens . 
+1992 . 
+Two mechanisms for growth inhibition by elevated transport of sugar phosphates in Escherichia coli . 
+J. Gen. Microbiol . 
+138:2007 -- 2014 . 
+23 . 
+Lo , T. W. C. , M. E. Westwood , A. C. McLellan , T. Selwood , and P. J. Thornalley . 
+1994 . 
+Binding and modiﬁcation of proteins by methylglyoxal under physiological conditions . 
+J. Biol . 
+Chem . 
+269:32299 -- 32305 . 
+24 . 
+Maloy , S. R. , and W. D. Nunn . 
+1981 . 
+Selection for loss of tetracycline resistance by Escherichia coli . 
+J. Bacteriol . 
+145:1110 -- 1112 . 
+25 . 
+Maniatis , T. , E. F. Fritsch , and J. Sambrook . 
+1982 . 
+Molecular cloning : a laboratory manual . 
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 26 . 
+Martinez , E. , B. Bartolome , and F. de la Cruz . 
+1988 . 
+pACY184-derived cloning vectors containing the multiple cloning site and lacZa reporter gene of pUC8/9 and pUC18/19 plasmids . 
+Gene 68:159 -- 162 . 
+27 . 
+McLaggan , D. , T. M. Logan , D. G. Lynn , and W. Epstein . 
+1990 . 
+Involvement of g-glutamyl peptides in osmoadaptation of Escherichia coli . 
+J. Bacteriol . 
+172:3631 -- 3636 . 
+28 . 
+Meister , A. 1988 . 
+Glutathione metabolism and its selective modiﬁcation . 
+J. Biol . 
+Chem . 
+263:17205 -- 17208 . 
+29 . 
+Murata , K. , and A. Kimura . 
+1982 . 
+Some properties of glutathione biosyn-thesis-deﬁcient mutants of Escherichia coli B. J. Gen. Microbiol . 
+128:1047 -- 1052 . 
+30 . 
+Norrander , J. , T. Kempe , and J. Messing . 
+1983 . 
+Construction of improved M13 vectors using oligodeoxynucleotide-directed mutagenesis . 
+Gene 26:101 -- 106 . 
+31 . 
+Oden , K. L. , T. B. Gladysheva , and B. P. Rosen . 
+1994 . 
+Arsenate reductio 
+mediated by the plasmid-encoded ArsC protein is coupled to glutathione . 
+Mol . 
+Microbiol . 
+12:310 -- 316 . 
+32 . 
+O'Toole , G. A. , and J. C. Escalante-Semerena . 
+1991 . 
+Identiﬁcation and initial characterization of the eutF locus of Salmonella typhimurium . 
+J. Bacteriol . 
+173:5168 -- 5172 . 
+33 . 
+Rondon , M. R. , and J. C. Escalante-Semerena . 
+1992 . 
+The poc locus is required for 1,2-propanediol-dependent transcription of the cobalamin biosynthetic ( cob ) and propanediol utilization ( pdu ) genes of Salmonella typhi-murium . 
+J. Bacteriol . 
+174:2267 -- 2272 . 
+34 . 
+Rondon , M. R. , and J. C. Escalante-Semerena . 
+Unpublished results . 
+35 . 
+Roof , D. M. , and J. R. Roth . 
+1989 . 
+Functions required for vitamin B-12 dependent ethanolamine utilization in Salmonella typhimurium . 
+J. Bacteriol . 
+171:3316 -- 3323 . 
+36 . 
+Roth , J. R. , J. G. Lawrence , M. Rubenﬁeld , S. Kieffer-Higgins , and G. M. Church . 
+1993 . 
+Characterization of the cobalamin ( vitamin B ) biosynthetic 12 genes of Salmonella typhimurium . 
+J. Bacteriol . 
+175:3303 -- 3316 . 
+37 . 
+Schmieger , H. 1971 . 
+A method for detection of phage mutants with altered transduction ability . 
+Mol . 
+Gen. Genet . 
+100:378 -- 381 . 
+38 . 
+Schmieger , H. , and H. Bakhaus . 
+1973 . 
+The origin of DNA in transducing particles of P22 mutants with increased transduction frequencies ( HT-mu - 
+39 . 
+Schwarz , J. J. , and P. B. Berget . 
+1989 . 
+The isolation and sequence of missense and nonsense mutations in the cloned bacteriophage P22 tailspike protein gene . 
+Genetics 121:635 -- 649 . 
+40 . 
+Stojiljkovic , I. , A. J. Bäumler , and F. Heffron . 
+1995 . 
+Ethanolamine utilization in Salmonella typhimurium : nucleotide sequence , protein expression , and mutational analysis of the cchA cchB eutE eutj eutH gene cluster . 
+J. Bacteriol . 
+177:1357 -- 1366 . 
+41 . 
+Tsai , S. P. , R. J. Hartin , and J. Ryu . 
+1989 . 
+Transformation in restrictiondeﬁcient Salmonella typhimurium LT2 . 
+J. Gen. Microbiol . 
+135:2561 -- 2567 . 
+42 . 
+Watanabe , K. , Y. Yamano , K. Murata , and A. Kimura . 
+1986 . 
+The nucleotide sequence of the gene for g-glutamylcysteine synthetase of Escherichia coli . 
+Nucleic Acids Res . 
+14:4393 -- 4400 . 
+43 . 
+Way , J. C. , M. A. Davis , D. Morisato , D. E. Roberts , and N. Kleckner . 
+1984 . 
+New Tn10 derivatives for transposon mutagenesis and for construction of lacZ operon fusions by transposition . 
+Gene 32:369 -- 379 . 
+44 . 
+Youderian , P. , P. Sugiono , K. L. Brewer , N. P. Higgins , and T. Elliott . 
+1988 . 
+Packaging speciﬁc segments of the Salmonella chromosome with locked-in Mud-P22 prophages . 
+Genetics 118:581 -- 592

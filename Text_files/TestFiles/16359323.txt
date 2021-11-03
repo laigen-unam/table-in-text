@@ -1,0 +1,547 @@
+Blackwell Science , LtdOxford , UKMMIMolecular Microbiology0950-382X © 2005 The Authors ; Journal compilation © 2005 Blackwell Publishing Ltd ? 
+2005591126141Original ArticleVirulenceanddrugresistancerolesofdrugefﬂuxpumpsK.Nish - ino , T.LatiﬁandE.A.Groisman 
+Molecular Microbiology ( 2006 ) 59 ( 1 ) , 126 -- 141 
+doi :10.1111 / j.1365-2958.2005.04940.x First published online 27 October 2005 
+Virulence and drug resistance roles of multidrug efﬂux
+systems of Salmonella enterica serovar Typhimurium 
+Kunihiko Nishino , † Tammy Latiﬁ and Eduardo A. Groisman * 
+Department of Molecular Microbiology , Howard Hughes Medical Institute , Washington University School of Medicine , 660 S. Euclid , St. Louis , MO 63110 , USA . 
+Summary 
+Drug efﬂux systems play a major role in resistance to a wide range of noxious compounds in several Gram negative species . 
+Here , we report the drug resistance and virulence phenotypes of Salmonella mutants defective in either resistance-nodulation-division ( RND ) - type systems and/or in drug efﬂux systems belonging to the major facilitator ( MFS ) , multidrug and toxic compound extrusion ( MATE ) , and ATP-binding cassette ( ABC ) superfamilies . 
+We determined that nine potential drug transporters contribute to drug resistance of Salmonella and found that the Salmonella-speciﬁc MdsABC system conferred resistance to a variety of toxic compounds . 
+The RND-type MdsAB system could function with either MdsC , which is encoded in the same operon , or TolC as the outer membrane component . 
+Although the Salmo-nella EmrAB , MdfA and MdtK are 90 % identical in their amino acid sequences to their Escherichia coli homologues , the drug speciﬁcity of Salmonella transport-ers was different from that reported for equivalent E. coli transporters . 
+Deletion of the macAB genes attenuated Salmonella virulence and a strain lacking all drug efﬂux systems was avirulent when mice were inoculated by the oral route . 
+The promoter region of the macAB drug efﬂux system genes harbours a binding site for the response regulator PhoP , which functions to repress macAB transcription.The PhoP/PhoQ two-component system is a major regulator of Salmo-nella virulence , which underscores the connection between drug efﬂux systems and virulence . 
+Introduction
+Multidrug efﬂux pumps cause serious problems in cancer 
+Accepted 28 September , 2005 . 
+* For correspondence . 
+E-mail groisman@borcim.wustl.edu; Tel. ( +1 ) 314 362 3692 ; Fax ( +1 ) 314 747 8228 . 
+† Present address : Department of Cell Membrane Biology , Institute of Scientiﬁc and Industrial Research , Osaka University , Osaka , Japan . 
+chemotherapy and the treatment of bacterial infections . 
+In bacteria , resistance to drugs is often associated with multidrug transporters functioning to decrease cellular drug accumulation ( Nikaido , 1996 ; Zgurskaya and Nikaido , 2000 ) . 
+In Gram negative bacteria , the pumps belonging to the resistance-nodulation-division ( RND ) family are especially effective in generating resistance , as they form a tripartite complex together with the periplasmic proteins belonging to the membrane-fusion-protein ( MFP ) family and the outer membrane channels , so that drugs are pumped out directly to the external medium . 
+The RND pumps often have a wide substrate speciﬁcity ( Yu et al. , 2003 ) . 
+Salmonella enterica is a pathogen that causes a variety of diseases in humans ranging from gastroenteritis to bacteremia and typhoid fever ( Scherer and Miller , 2001 ) . 
+In the 1990s , the prevalence of multidrug-resistant S. enterica has increased dramatically in the United Kingdom ( Threlfall et al. , 1996 ; 1997 ) , the United States ( Hosek et al. , 1997 ; Glynn et al. , 1998 ) and Canada ( Ng et al. , 1999 ) . 
+Many countries have also documented outbreaks associated with drug-resistant Salmonella in poultry , beef and swine ( Davies et al. , 1996 ; Cody et al. , 1999 ; Grein et al. , 1999 ; Molbak et al. , 1999 ; Villar et al. , 1999 ) . 
+Emerging resistance to these antibiotics in Salmonella has been found in both humans and animals and is thus a potentially serious public health problem ( Cloeckaert and Chaslus-Dancla , 2001 ; Piddock , 2002 ) . 
+High-level ﬂu-oroquinolone resistance in S. enterica serovar Typhimu-rium phage type DT204 has been previously shown to be essentially due to both multiple target gene mutations and active efﬂux by the AcrAB-TolC efﬂux system ( Baucheron et al. , 2002 ; 2004 ) . 
+The determination of bacterial genome sequences enables us to trace putative drug resistance genes in S. enterica serovar Typhimurium genome ( Paulsen et al. , 1998 ; 2000 ) . 
+For example , ﬁve putative drug efﬂux systems belonging to the RND family have been annotated ( McClelland et al. , 2001 ; Ren et al. , 2004 ) . 
+However , the transport ability , as well as their roles in drug resistance and virulence of these systems , has remained unknown except for the AcrAB , AcrD and AcrEF systems ( Nikaido et al. , 1998 ; Eaves et al. , 2004 ; Olliver et al. , 2005 ) . 
+TolC is required for virulence of S. enterica serovar Enteritidis in mice ( Stone and Miller , 1995 ) and S. enterica serovar Typhimurium in chicks ( Baucheron et al. , 2005 ) and AcrB is required for virulence of S. enterica serovar Typhimu-rium ( Lacroix et al. , 1996 ) , suggesting that drug transport-ers may contribute not only to drug resistance but also to virulence . 
+The successful infection by a bacterial pathogen relies upon its ability to sense and to respond to its immediate environment . 
+Salmonella encounter different potentially lethal environments during infection of an animal host . 
+For example , Salmonella must resist the action of intestinal bile salts , which are detergents made by the liver and secreted into and stored in high concentrations in the gallbladder . 
+Bile containing these salts is released into the intestine to aid in the dispersion and degradation of fats . 
+Enteric bacteria , including Salmonella , are resistant to the effects of bile ( Gunn , 2000 ) . 
+Both serovars Typhimurium and Typhi demonstrate particularly high resistance to bile ( minimal bactericidal concentrations : > 60 % and 18 % respectively ) , which exceeds the concentrations Salmo-nella would encounter during infection ( van Velkinburgh and Gunn , 1999 ) . 
+High-level resistance to bile has been shown to be dependent upon the AcrAB-TolC drug efﬂux system ( Nikaido et al. , 1998 ) , and PhoP/PhoQ , a two-component regulatory system necessary for virulence ( see Groisman , 2001 for a review ) . 
+Mutants defective in phoP/phoQ are also sensitive to antimicrobial peptides and acid pH ( Foster and Hall , 1990 ; Groisman et al. , 1992 ; 1997 ) . 
+PhoP activates genes ( pags ) required for intramac-rophage survival and resistance against host antimicrobial peptides ( Fields et al. , 1989 ; Groisman et al. , 1992 ; Groisman , 2001 ) , and represses genes ( prgs ) , including those encoded in the Salmonella pathogenicity island 1 ( SPI-1 ) , that are required for invasion of host epithelial cells ( Behlau and Miller , 1993 ) . 
+Here , we report the drug resistance and virulence roles of potential drug transporters of S. enterica belonging to the RND , MFS ( major facilitator ) , MATE ( multidrug and toxic compound extrusion ) and ABC ( ATP-binding cassette ) superfamilies . 
+We show that all nine potential drug transporter genes contribute to drug resistance of S. enterica , that inactivation of all drug efﬂux pumps attenuates virulence , and that the PhoP/PhoQ system controls expression of one of these drug efﬂux systems that is required for virulence for mice . 
+Results
+Identiﬁcation of potential multidrug exporter genes
+Genomic analyses revealed that Salmonella has ﬁve putative RND transporter systems ( Fig. 1 ) ( Paulsen et al. , 1998 ; http://www.membranetransport.org/ ) . 
+Although there are six genes coding for RND transporters ( Fig. 1 ) , we counted them as ﬁve systems because the MdtB and MdtC proteins function as one transporter system in Escherichia coli ( Nagakubo et al. 2002 ) . 
+Four of these 
+Role of drug transporter genes in resistance to toxic compounds
+To investigate the contribution of potential drug transport-ers in resistance to toxic compounds , we made derivatives of the wild-type S. enterica serovar Typhimurium ATCC14028s strain lacking individual RND drug transporter genes , the tolC gene , or genes belonging to the MFS ( emrAB and mdfA ) , MATE ( mdtK ) and ABC ( macAB ) transporter families ( Table 1 ) . 
+Deletion of the tolC , acrB or acrAB genes resulted in strains with increased susceptibility to all 16 antimicrobial agents and chemical compounds tested ( Table 2 ) . 
+The acrB , acrAB and tolC mutant strains have overlapping substrate susceptibility proﬁles , which is in agreement with the notion that the encoded proteins interact as a tripartite pump system . 
+It is worth noting that the ∆ tolC mutant was more susceptible to certain compounds including novobiocin , sodium dodecyl sulphate ( SDS ) and sodium deoxycholate ( DOC ) , than the acrAB mutant ( Table 2 ) , which is in good agreement with a recent report ( Baucheron et al. , 2005 ) . 
+When the acrD and acrEF genes were deleted from the acrAB mutant , the resulting strain showed slightly increased susceptibility to DOC . 
+A ∆ acrAB acrEF acrD mdtABC mutant was more sensitive to novobiocin , SDS and DOC . 
+Deletion of the emrAB genes from the ∆ acrAB acrEF acrD mdtABC mdsABC increased susceptibility to DOC ( Table 2 ) . 
+The AcrEF , AcrD , MdtABC and EmrAB systems of E. coli rely on TolC as their outer membrane component for their functions ( Fralick , 1996 ; Nishino and Yamaguchi , 2002 ; 2004 ; Nishino et al. , 2003a ) . 
+On the other hand , strains deleted for the acrD , acrEF , mdtABC , mdsABC , emrAB , mdfA , mdtK or macAB genes exhibited the same drug susceptibility as the wild-type strain . 
+and when both the emrAB and mdfA genes were deleted , the resulting strain retained wild-type susceptibility to the tested compounds . 
+We considered three possibilities to explain the reason why the latter deletions had no effect on drug susceptibility . 
+One possibility is that the effect of the single or double gene deletions might be masked by the presence of a functional AcrAB system . 
+The second possibility is that the deleted genes might not be expressed under the tested condition . 
+And third , the deleted genes might not code for drug exporters . 
+To investigate the ﬁrst possibility , we constructed strains with deletions in both : the genes corresponding to the RND family of transporters and the acrB gene . 
+The acrEF acrB double mutant displayed a slightly increased susceptibility to doxorubicin , ethidium bromide and DOC , whereas the acrD acrB , acrEF acrB and mdtABC acrB double mutants were more susceptible to DOC ( Table 2 ) . 
+A strain with all nine potential drug export-ers deleted was more sensitive to novobiocin , SDS and DOC compared with the ∆ acrAB mutant . 
+The minimum inhibitory concentration ( MIC ) values of these compounds for this mutant were almost the same as those found with the tolC mutant ( Table 2 ) . 
+While this result supports the ﬁrst of the possibilities , the effect of deletion of putative drug exporter genes on drug susceptibilities was much smaller than the effect of deleting acrB . 
+To investigate whether the putative drug transporter genes were expressed under laboratory conditions , we streaked out onto X-Gal Luria -- Bertani ( LB ) agar plates strains in which the E. coli lacZY genes replaced the chromosomal copy of the drug resistance genes ( Fig. 2 ) . 
+The tolC-lacZY and acrA-lacZY strains were blue on plates − 1 containing 80 µg ml of X-Gal , whereas the acrD-lacZY , emrA-lacZY , mdfA-lacZY , mdtK-lacZY and macA-lacZY strains were only faint blue ( Fig. 2 ) . 
+Thus , the AcrAB-TolC efﬂux system is expressed in complex laboratory media , whereas the other efﬂux systems appear to require additional cues for expression [ e.g. induction of the emrAB genes inside macrophages ( Eriksson et al. , 2003 ) ] . 
+We then cloned all nine putative drug transporter genes into the multicopy number plasmid pUC118 , and investigated their ability to confer drug resistance upon the Salmonella acrB mutant . 
+The plasmids carrying the acrAB or acrEF genes conferred multidrug resistance against all tested compounds ( Table 3 ) . 
+The plasmids carrying the acrD or mdtABC genes conferred resis ¬ 
+Vir 
+ulence and drug resistance roles of drug efﬂux pumps 127 systems -- AcrAB , AcrD , AcrEF and MdtABC -- have homologues in E. coli with which they exhibit ∼ 90 % amino acid identity ( Fig. 1 ) . 
+In E. coli , the function of all four transporters requires the outer membrane channel TolC ( Nishino et al. , 2003a ) , which also exists in S. enterica ( Fig. 1 ) . 
+Except for the acrD gene , all RND efﬂux system genes also code for a MFP in the same operon ( Fig. 1 ) . 
+The ﬁfth putative RND transporter is encoded by the Salmonella-speciﬁc STM0351 gene , which is ﬂanked by Salmonella-speciﬁc genes encoding a putative MFP and an outer membrane protein ( STM0352 and STM0350 respectively ) . 
+A BLAST search showed that the most closely related open reading frames ( ORFs ) to STM0350 , STM0351 and STM0352 are the oprM , mexF and mexE ORFs of Pseudomonas aeruginosa respectively . 
+We propose to rename STM0352 , STM0351 , STM0350 as mdsA , mdsB , mdsC respectively ( mds for multidrug transporter of Salmonella ) . 
+Fig. 1 . 
+Drug efﬂux genes encoded in the S. enterica serovar Typhimurium genome . 
+Chromosomal positions of genes coding for putative drug transporters , outer membrane proteins , and membrane fusion proteins are indicated by the kb ( kilobase pair ) in the S. enterica serovar Typhimurium strain LT2 genome ( McClelland et al. , 2001 ) . 
+Arrows correspond to the lengths and directions of the genes . 
+Amino acid identity between homologous proteins in S. enterica and E. coli are indicated as numbers under the gene names . 
+Virulence and drug resistance roles of drug efﬂux pumps 129 
+Table 1 . 
+Bacterial strains and plasmids . 
+Strains as in text WT 
+Original name ATCC14028s MS7953s EG16564 EG16565 EG16566 EG16567 EG16568 EG16569 EG16570 EG16571 EG16572 EG16573 EG16574 EG16575 EG16576 EG16577 EG16578 EG16579 EG16580 EG16581 EG16582 EG16583 EG16584 EG16585 EG16586 
+Characteristics 
+Reference 
+Salmonella enterica serovar Typhimurium wild-type phoP7953 : : Tn10 ∆ tolC : : CmR ∆ acrB : : KmR ∆ acrAB : : CmR ∆ acrD : : CmR ∆ acrEF : : CmR ∆ mdtABC : : CmR ∆ mdsABC : : CmR ∆ emrAB : : CmR ∆ mdfA : : CmR ∆ mdtK : : CmR ∆ macAB : : CmR ∆ emrAB : : CmR ∆ mdfA : : KmR ∆ acrB : : KmR ∆ tolC : : CmR ∆ acrB : : KmR ∆ acrD : : CmR ∆ acrB : : KmR ∆ acrEF : : CmR ∆ mdtABC : : CmR ∆ acrB : : KmR ∆ acrB : : KmR ∆ mdsABC : : CmR ∆ acrAB ∆ acrEF ∆ acrAB ∆ acrEF ∆ acrD ∆ acrAB ∆ acrEF ∆ acrD ∆ mdtABC ∆ acrAB ∆ acrEF ∆ acrD ∆ mdtABC ∆ mdsABC : : CmR ∆ acrAB ∆ acrEF ∆ acrD ∆ mdtABC ∆ mdsABC ∆ emrAB : : CmR ∆ acrAB ∆ acrEF ∆ acrD ∆ mdtABC ∆ mdsABC ∆ emrAB : : CmR ∆ mdfA : : KmR ∆ acrAB ∆ acrEF ∆ acrD ∆ mdtABC ∆ mdsABC ∆ emrAB ∆ mdfA ∆ mdtK : : CmR ∆ acrAB ∆ acrEF ∆ acrD ∆ mdtABC ∆ mdsABC ∆ emrAB ∆ mdfA ∆ mdtK : : CmR ∆ macAB : : KmR ∆ acrB : : KmR/pUC118 ∆ acrB : : KmR/pUCacrAB ∆ acrB : : KmR/pUCacrD ∆ acrB : : KmR/pUCacrEF ∆ acrB : : KmR/pUCmdtABC ∆ acrB : : KmR/pUCmdsABC ∆ acrB : : KmR/pUCemrAB ∆ acrB : : KmR/pUCmdfA ∆ acrB : : KmR/pUCmdtK ∆ acrB : : KmR/pUCmacAB ∆ tolC -- lacZY + KmR ∆ acrAB -- lacZY + KmR ∆ acrEF -- lacZY + KmR ∆ acrD -- lacZY + KmR ∆ mdtABC -- lacZY + KmR ∆ mdsABC -- lacZY + KmR ∆ emrAB -- lacZY + KmR ∆ mdfA -- lacZY + KmR ∆ mdtK -- lacZY + KmR ∆ macAB - lacZY + KmR ∆ acrB : : KmR ∆ mdsABC : : CmR/pUC118 ∆ acrB : : KmR ∆ mdsABC : : CmR/pmdsABC ∆ acrB : : KmR ∆ mdsABC : : CmR/pmdsAB ∆ acrB : : KmR ∆ tolC ∆ mdsABC : : CmR/pUC118 ∆ acrB : : KmR ∆ tolC ∆ mdsABC : : CmR/pmdsABC ∆ acrB : : KmR ∆ tolC ∆ mdsABC : : CmR/pmdsAB 
+Fields et al. ( 1986 ) Fields et al. ( 1986 ) This study This study This study This study This study This study This study This study This study This study This study This study This study This study This study This study This study This study This study This study This study This study This study 
+phoP ∆ tolC ∆ acrB ∆ acrAB ∆ acrD ∆ acrEF ∆ mdtABC ∆ mdsABC ∆ emrAB ∆ mdfA ∆ mdtK ∆ macAB ∆ emrAB mdfA ∆ acrB tolC ∆ acrB acrD ∆ acrB acrEF ∆ acrB mdtABC ∆ acrB mdsABC ∆ acrAB acrEF ∆ acrAB acrEF acrD ∆ acrAB acrEF acrD mdtABC ∆ acrAB acrEF acrD mdtABC mdsABC ∆ acrAB acrEF acrD mdtABC mdsABC emrAB ∆ acrAB acrEF acrD mdtABC mdsABC emrAB mdfA ∆ acrAB acrEF acrD mdtABC mdsABC emrAB mdfA mdtK ∆ acrAB acrEF acrD mdtABC mdsABC emrAB mdfA mdtK macAB ∆ acrB/vector ∆ acrB/pacrAB ∆ acrB/pacrD ∆ acrB/pacrEF ∆ acrB/pmdtABC ∆ acrB/pmdsABC ∆ acrB/pemrAB ∆ acrB/pmdfA ∆ acrB/pmdtK ∆ acrB/pmacAB tolC-lacZY acrA-lacZY acrE-lacZY acrD-lacZY mdtA-lacZY mdsA-lacZY emrA-lacZY mdfA-lacZY mdtK-lacZY macA-lacZY ∆ acrB mdsABC/vector ∆ acrB mdsABC/pmdsABC ∆ acrB mdsABC/pmdsAB ∆ acrB tolC mdsABC/vector ∆ acrB tolC mdsABC/pmdsABC ∆ acrB tolC mdsABC/pmdsAB Vector pKD3 
+EG16587 
+This study 
+EG16588 
+This study 
+EG16589 EG16590 EG16591 EG16592 EG16593 EG16594 EG16595 EG16596 EG16597 EG16598 EG15109 EG15112 EG15114 EG15120 EG15122 EG15124 EG15129 EG15132 EG15134 EG15136 EG16972 EG16973 EG16974 EG16975 EG16976 EG16977 
+This study This study This study This study This study This study This study This study This study This study This study This study This study This study This study This study This study This study This study This study This study This study This study This study This study This study 
+rep R R R6Kγ [ ρ ] Ap FRT Cm FRT 
+Datsenko and Wanner ( 2000 ) Datsenko and Wanner ( 2000 ) Datsenko and Wanner ( 2000 ) Takara Bio 
+R6Kγ [ ρ ] Ap FRT KmR FRT 
+rep R 
+pKD4 
+rep tsApR CmR 
+pCP20 
+pSC101 cI857λPRﬂp 
+rep R pMBIAp 
+pUC118 Plasmids 
+acrAB genes cloned into pUC118 , ApR acrD gene cloned into pUC118 , ApR acrEF genes cloned into pUC118 , ApR mdtABC genes cloned into pUC118 , ApR mdsABC genes cloned into pUC118 , ApR emrAB genes cloned into pUC118 , ApR mdfA gene cloned into pUC118 , ApR mdtK gene cloned into pUC118 , ApR macAB gene cloned into pUC118 , ApR mdsC gene was removed from pUCmdsABC by BamHI-SalI digestion cloned into pUC118 , ApR 
+pUCacrAB pUCacrD pUCacrEF pUCmdtABC pUCmdsABC pUCemrAB pUCmdfA pUCmdtK pUCmacAB pUCmdsAB 
+This study This study This study This study This study This study This study This study This study This study 
+Table 2 . 
+Susceptibility of Salmonella drug transporter deleted strains to toxic compounds . 
+MIC ( µg ml − 1 ) 
+Strain 
+CP NA NFLX DXR ACR CV EBR MB R6G TPP BENZ SDS DOC 
+EM NOV TC 
+WT ∆ tolC 
+4 
+4 
+0.25 0.016 0.016 0.016 0.25 0.25 0.25 0.25 0.25 0.25 0.25 0.25 0.25 0.016 0.016 0.016 0.016 0.016 0.016 0.016 0.016 0.016 0.016 
+> 128 4 8 8 > 128 > 128 > 128 > 128 > 128 > 128 > 128 > 128 > 128 4 8 4 8 8 4 4 4 4 4 
+> 512 32 32 32 > 512 > 512 > 512 > 512 > 512 > 512 > 512 > 512 > 512 32 32 32 32 32 32 32 32 32 32 
+256 2 2 2 256 256 256 256 256 256 256 256 256 2 2 2 2 2 2 2 2 2 2 
+> 512 32 64 64 > 512 > 512 > 512 > 512 > 512 > 512 > 512 > 512 > 512 32 64 32 64 64 32 32 32 32 32 
+> 512 16 16 16 > 512 > 512 > 512 > 512 > 512 > 512 > 512 > 512 > 512 16 16 16 16 16 16 16 16 16 16 
+> 512 8 8 8 > 512 > 512 > 512 > 512 > 512 > 512 > 512 > 512 > 512 8 8 8 8 8 8 8 8 8 8 
+> 512 32 32 32 > 512 > 512 > 512 > 512 > 512 > 512 > 512 > 512 > 512 32 32 32 32 32 32 32 32 32 32 
+64 4 4 4 64 64 64 64 64 64 64 64 64 4 4 4 4 4 4 4 4 4 4 
+> 512 32 128 128 > 512 > 512 > 512 > 512 > 512 > 512 > 512 > 512 > 512 32 128 64 128 128 64 64 32 32 32 
+> 40 000 156 20 000 20 000 > 40 000 > 40 000 40 000 > 40 000 > 40 000 > 40 000 > 40 000 > 40 000 > 40 000 156 10 000 10 000 10 000 20 000 10 000 5 000 1 250 1 250 313 
+128 4 4 4 128 128 128 128 128 128 128 128 128 4 4 4 4 4 4 4 4 4 4 
+256 0.5 2 2 256 256 256 256 256 256 256 256 256 0.5 2 2 2 2 1 1 0.5 0.5 0.5 
+4 1 1 1 4 4 4 4 4 4 4 4 4 1 1 1 1 1 1 1 1 1 1 
+N.D. 0.5 N.D. N.D. N.D. N.D. N.D. N.D. N.D. N.D. N.D. N.D. N.D. N.D. N.D. N.D. N.D. 0.5 0.5 0.5 N.D. N.D. 
+0.5 1 1 4 4 4 4 4 4 4 4 4 0.5 1 1 1 1 1 1 1 1 0.5 
+∆ acrB ∆ acrAB ∆ acrD ∆ acrEF ∆ mdtABC ∆ mdsABC ∆ emrAB ∆ mdfA ∆ mdtK ∆ macAB ∆ emrAB ∆ mdfA ∆ acrB tolC ∆ acrB acrD ∆ acrB acrEF ∆ acrB mdtABC ∆ acrB mdsABC ∆ acrAB acrEF ∆ acrAB acrEF acrD ∆ acrAB acrEF acrD mdtABC ∆ acrAB acrEF acrD mdtABC mdsABC ∆ acrAB acrEF acrD mdtABC mdsABC emrAB ∆ acrAB acrEF acrD mdtABC mdsABC emrAB mdfA ∆ acrAB acrEF acrD mdtABC mdsABC emrAB mdfA mdtK ∆ acrAB acrEF acrD mdtABC mdsABC emrAB mdfA mdtK macAB 
+0.5 1 
+N.D. 0.5 0.016 32 32 16 32 32 313 
+4 
+4 
+2 
+8 
+4 
+0.5 1 
+N.D. 0.5 0.016 32 32 16 32 32 313 
+4 
+4 
+2 
+8 
+4 
+0.5 1 
+N.D. 0.5 0.016 32 32 16 32 32 313 
+4 
+4 
+2 
+8 
+4 
+EM , erythromycin ; NOV , novobiocin ; TC , tetracycline ; CP , chloramphenicol ; NA , nalidixic acid ; NFLX , norﬂoxacin ; DXR , doxorubicin ; ACR , acriﬂavine ; CV , crystal violet ; EBR , ethidium bromide ; MB , methylene blue ; R6G , rhodamine 6G ; TPP , tetraphenylphosphonium bromide ; BENZ , benzalkonium chloride ; SDS , sodium dodecyl sulphate ; DOC , sodium deoxycholate . 
+Values in boldface are smaller than those of the WT ( ATCC14028s ) control strain . 
+MIC determinations were repeated at least three times . 
+N.D. , not determined because strain has chloramphenicol resistance cassette 
+The MdsAB system requires either the MdsC protein or the TolC protein for drug resistance
+The Salmonella-speciﬁc drug efﬂux system mdsABC operon codes for a putative outer membrane protein -- MdsC -- which is in contrast to the other operons coding for RND-type drug transporter genes ( Fig. 1 ) . 
+In E. coli , the operons coding for RND-type drug transporter homologues lack genes for outer membrane proteins ( Nishino and Yamaguchi , 2001a ) because they rely on TolC as their outer membrane component ( Fralick , 1996 ; Nishino and Yamaguchi , 2002 ; 2004 ; Nishino et al. , 2003a ) . 
+We examined the requirement for the MdsC and TolC proteins in MdsAB-mediated drug resistance by determining the MIC for four different compounds of a set of isogenic 
+Vir 
+ulence and drug resistance roles of drug efﬂux pumps 131 tance against novobiocin , SDS and DOC ( Table 3 ) . 
+Overproduction of the Salmonella-speciﬁc transporter MdsABC conferred resistance against novobiocin , acri-ﬂavine , crystal violet , ethidium bromide , methylene blue , rhodamine 6G , tetraphenylphosphonium bromide ( TPP ) , benzalkonium bromide and SDS . 
+Overexpression of the emrAB genes conferred resistance against novobiocin , nalidixic acid , rhodamine 6G and DOC . 
+The mdfA gene conferred resistance to tetracycline , chloramphenicol , norﬂoxacin , and doxorubicin ; the mdtK gene to norﬂoxacin , doxorubicin and acriﬂavine ; and the macAB gene to erythromycin . 
+These results indicate that all nine identiﬁed drug transporter genes encode functional systems that appear to differ in their substrate speciﬁcity . 
+Fig. 2 . 
+Expression of Salmonella drug transporter genes and outer membrane protein genes on LB agar plates containing X-Gal ( 80 µg ml − 1 ) . 
+The plates were incubated over-night ( for 20 h ) at 37 °C and photographed the following day . 
+∆ acrB mdsABC and ∆ acrB tolC mdsABC strains . 
+Overexpression of both the mdsABC and mdsAB genes conferred drug resistance to the ∆ acrB mdsABC strain ( Table 4 ) . 
+On the other hand , overexpression of mdsABC , but not mdsAB , conferred drug resistance to the ∆ acrB tolC mdsABC strain ( Table 4 ) . 
+These data indicate that the drug resistance phenotype conferred by the MdsAB system is dependent on the presence of either the MdsC or TolC proteins ; and it suggests that the MdsAB system can function with both TolC and MdsC as outer membrane component . 
+Virulence role of drug transporters
+We inoculated BALB/c mice by the oral route with isogenic strains harbouring deletions in drug transporter genes and followed mouse survival over time . 
+The mutation in tolC attenuated virulence ( Fig. 3 ) , as previously reported for a S. enterica serovar Enteritidis tolC mutant ( Stone and 
+Miller , 1995 ) . 
+Among the RND-type transporters , MdtABC and MdsABC were required for full virulence . 
+There was a small delay in mortality of mice inoculated with the ∆ acrAB and ∆ acrEF mutants . 
+A mutant lacking all RND-type transporter genes was attenuated , like the tolC mutant . 
+Of the MFS , MATE and ABC-type drug transport-ers , MacAB was required for virulence . 
+Finally , a strain deleted for all nine drug transporter genes was unable to kill mice ( Fig. 3 ) even though its growth in LB media was normal . 
+These results indicate that drug efﬂux genes are required for Salmonella 's ability to cause a lethal infection in mice . 
+The PhoP-PhoQ virulence regulatory system controls transcription of the macAB drug exporter genes
+Because the PhoP/PhoQ system is required for resistance to bile salts ( van Velkinburgh and Gunn , 1999 ) , and because certain drug transporters have been implicated in resistance to bile salts , we investigated the possibility that the PhoP protein may regulate expression of the drug transporter genes . 
+Using real-time quantitative polymerase chain reaction ( PCR ) , we determined that the expression levels of the macA and macB genes were lower in organisms growing in low Mg2 + than in those experiencing high Mg2 + ( Fig. 4A ) . 
+This is in contrast to the expression of other drug transporter genes , which was not affected by Mg2 + ( data not shown ) . 
+Moreover , the macA and macB genes were expressed to higher levels in a phoP mutant than in the wild-type strain ( Fig. 4A ) , suggesting that these genes are repressed by PhoP as low Mg2 + is the signal that activates the PhoP/PhoQ system ( Groisman , 2001 ) . 
+Using the Gene Promoter Scan ( GPS ) tool ( Zwir et al. , 2005a , b ) , we identiﬁed a sequence resembling the PhoP box in the region upstream of the macAB operon ( Fig. 4B ) . 
+The identiﬁed region is a bona ﬁde PhoP-binding site as DNase I footprinting analysis with the puriﬁed PhoP-His6 protein showed protection of the region upstream of the macA ORF ( Fig. 4C ) . 
+This indicates that PhoP exerts its repression effect directly ( Fig. 4D ) . 
+Table 3 . 
+Susceptibility of Salmonella drug transporter overproduced strains to toxic compounds . 
+MIC ( µg ml − 1 ) 
+Strain EM NOV TC CP NA NFLX DXR ACR CV EBR MB R6G TPP BENZ SDS DOC 
+∆ acrB/vector 
+4 
+2 
+1 4 1 4 1 1 1 4 1 1 
+0.5 4 0.5 4 0.5 0.5 0.5 8 0.5 0.5 
+1 4 1 4 1 1 8 1 1 1 
+0.016 0.13 0.016 0.13 0.016 0.016 0.016 0.13 0.13 0.016 
+8 
+32 
+2 
+64 > 512 
+16 > 512 
+8 
+32 512 
+4 64 
+128 
+20 000 > 40 000 40 000 40 000 40 000 20 000 > 40 000 20 000 20 000 20 000 
+∆ acrB/pacrAB ∆ acrB/pacrD ∆ acrB/pacrEF ∆ acrB/pmdtABC ∆ acrB/pmdsABC ∆ acrB/pemrAB ∆ acrB/pmdfA ∆ acrB/pmdtK ∆ acrB/pmacAB 
+128 4 128 4 4 4 4 4 8 
+256 64 128 16 8 16 2 2 2 
+> 128 8 > 128 8 8 8 32 64 8 
+> 512 32 512 32 128 32 32 256 32 
+128 2 32 2 16 2 2 2 2 
+> 512 8 > 512 8 64 16 8 8 8 
+> 512 > 512 > 512 512 256 128 128 128 128 
+64 > 512 64 128 64 64 64 64 
+16 > 512 16 256 16 16 16 16 
+32 512 32 64 32 32 32 32 
+4 64 4 8 4 4 4 4 
+EM , erythromycin ; NOV , novobiocin ; TC , tetracycline ; CP , chloramphenicol ; NA , nalidixic acid ; NFLX , norﬂoxacin ; DXR , doxorubicin ; ACR , acriﬂavine ; CV , crystal violet ; EBR , ethidium bromide ; MB , methylene blue ; R6G , rhodamine 6G ; TPP , tetraphenylphosphonium bromide ; BENZ , benzalkonium chloride ; SDS , sodium dodecyl sulphate ; DOC , sodium deoxycholate . 
+Values in boldface are larger than those of ∆ acrB/vector control strain . 
+MIC determinations were repeated at least three times . 
+Table 4 . 
+Susceptibility of Salmonella strains to toxic compounds . 
+Expression of outer membrane component 
+MIC ( µg ml − 1 ) 
+Drug Expression resistance 
+TolC MdsC 
+R6G 
+CV MB 
+Strain 
+of MdsA/B phenotype ACR 
+16 
+2 
+32 
+No Yes Yes No Yes No 
+-- + + -- + + 
+-- + -- -- + -- 
+8 
++ + 
+∆ acrB mdsABC/vector 
+256 256 16 256 16 
+16 16 2 16 2 
+128 128 32 128 32 
+64 64 8 64 8 
+∆ acrB mdsABC/pmdsABC ∆ acrB mdsABC/pmdsAB ∆ acrB tolC mdsABC/vector ∆ acrB tolC mdsABC/pmdsABC ∆ acrB tolC mdsABC/pmdsAB 
++ -- -- -- 
+Values in boldface are larger than those of ∆ acrB mdsABC/vector or ∆ acrB tolC mdsABC/vector control strain . 
+The MIC determinations were repeated at least three times . 
+ACR , acriﬂavine ; CV , crystal violet ; MB , methylene blue ; R6G , rhodamine 6G . 
+Discussion
+We have demonstrated that S. enterica serovar Typhimu-rium possesses ﬁve RND-type drug efﬂux systems and four efﬂux systems belonging to the MFS , MATE and ABC families . 
+The Salmonella-speciﬁc RND-type efﬂux system MdsABC conferred resistance to a variety of toxic compounds . 
+In E. coli , the operons coding for RND-type drug transporter genes lack genes for outer membrane proteins ( Nishino and Yamaguchi , 2001a ) because they rely on TolC as their outer membrane component for their functions ( Fralick , 1996 ; Nishino and Yamaguchi , 2002 ; 2004 ; Nishino et al. , 2003a ) . 
+This is in contrast to the operons containing RND-type drug transporter genes of P. aeruginosa , which usually have outer membrane protein genes ( i.e. mexA-mexB-oprM , mexC-mexD-oprJ , mexE-mexF-oprN ) ( Poole , 2004 ) . 
+While S. enterica does not have a homologue of the MdtEF ( YhiUV ) transporter system of E. coli , it harbours a unique drug efﬂux system operon -- mdsABC -- that codes for the putative outer membrane protein MdsC . 
+The MdsAB system can use either MdsC or TolC as the outer membrane component ( Table 4 ) . 
+Of the nine drug efﬂux systems of Salmonella , only the AcrAB-TolC system was expressed on complex media . 
+This is the likely reason that , except for AcrAB-TolC , single deletions of efﬂux systems genes had no signiﬁcant effect on drug susceptibility . 
+On the other hand , when these transporters were expressed from a heterologous promoter in a drug-sensitive mutant , we could establish that they encode functional efﬂux pumps . 
+The substrate the possibility that the MacAB system may have a spe-ciﬁc role in detoxifying natural compounds encountered during infection . 
+Because the PhoP/PhoQ system is required for virulence ( Groisman , 2001 ) and for resistance to bile salts of S. enterica ( van Velkinburgh and Gunn , 1999 ) , and because drug transporters are also required for virulence and resistance to bile salts ( Thanassi et al. , 1997 ) , we investigated the possibility that the PhoP protein may regulate their expression . 
+We demonstrated that the PhoP protein binds to a site in the intergenic region between the somA gene and the macAB ABC-transporter genes . 
+somA is a PhoP-activated gene that has been implicated in virulence in mice and is induced inside macrophages ( Detweiler et al. , 2003 ) . 
+We have now determined that the macAB operon is a PhoP-repressed locus ( Fig. 4A ) . 
+The existence of a pair of divergently transcribed genes , one being activated and the other repressed by PhoP ( Fig. 4D ) , is reminiscent of the mode of transcription regulation of the divergently transcribed mgtA and treR genes of E. coli : while mgtA is activated , treR is repressed by PhoP ( Yamamoto et al. , 2002 ) . 
+Because PhoP-activated genes are required for intramacrophage survival ( Groisman , 2001 ) and resistance against host antimicrobial peptides ( Fields et al. , 1989 ; Groisman et al. , 1992 ) , and PhoP-repressed genes participate in invasion of epithelial cells ( Behlau and Miller , 1993 ; Bajaj et al. , 1996 ) , our results suggest that during infection of a mammalian host the macAB genes mediate a Salmonella activity outside host cells . 
+V 
+ir 
+ulence and drug resistance roles of drug efﬂux pumps 133 speciﬁcity of all RND-type drug efﬂux pumps of S. enterica were similar to those of the pumps of E. coli , the exception being MdsABC . 
+Expression of the AcrAB and AcrEF protein gave multidrug resistance against all investigated compounds ( Table 3 ) . 
+AcrD and MdtABC conferred resistance against novobiocin , SDS and DOC to S. enterica cells . 
+The contribution of the Salmonella MacAB system to erythromycin resistance is smaller than that of the E. coli MacAB ( Kobayashi et al. , 2001 ; 2003 ) with which it exhibits 83 % amino acid identity . 
+The susceptibilities of Salmonella expressing the EmrAB , MdfA and MdtK systems was somewhat different from those of the equivalent E. coli strains , even though the corresponding proteins are 90 % identical . 
+The Salmonella EmrAB system confers resistance against novobiocin and nalidixic acid whereas the E. coli EmrAB does not ( Lomovskaya and Lewis , 1992 ; Nishino and Yamaguchi , 2001a ) . 
+On the other hand , the Salmonella EmrAB does not confer resistance to carbonyl cyanide mchlorophenylhydrazone ( CCCP ) ( data not shown ) whereas E. coli EmrAB does ( Lomovskaya and Lewis , 1992 ; Nishino and Yamaguchi , 2001a ) . 
+Salmonella MdfA does not confer resistance against acriﬂavine , ethidium bromide and TPP whereas the E. coli MdfA does ( Edgar and Bibi , 1997 ; Nishino and Yamaguchi , 2001a ) . 
+Salmo-nella MdtK ( YdhE ) does not confer TPP and DOC resistance unlike the E. coli MdtK ( Nishino and Yamaguchi , 2001a ) . 
+These phenotypic differences could be due to the small number of amino acid substitutions having critical effects on the substrate speciﬁcities of multidrug efﬂux pumps as previously reported ( Edgar and Bibi , 1999 ; Adler and Bibi , 2004 ; 2005 ) . 
+Alternatively or in addition , the differences in drug susceptibilities could be due to species-speciﬁc genes . 
+We have now shown that deletion of single drug efﬂux pump genes had no signiﬁcant effects on drug resistance , except for the acrAB mutant . 
+However , when the all nine drug efﬂux pumps were simultaneously deleted in a single strain , Salmonella became sensitive to several compounds including DOC , even more susceptible than the acrAB-deleted strain . 
+The tolC mutant was more sensitive to DOC than the acrAB mutant , and when all efﬂux systems were deleted in a single strain , the resulting mutant showed hypersensitivity to DOC to the same level as the tolC mutant , probably because most of the transporters require TolC for function ( Nishino et al. , 2003a ) . 
+Moreover , Salmonella was completely attenuated in mice when the nine drug transporter genes were deleted , which is different from the phenotype of a strain deleted only for the acrAB genes . 
+This avirulent phenotype could be due to hypersensitivity of the mutant against DOC that is one of the primary constituents of bile . 
+Furthermore , deletion of the macAB genes attenuated Salmonella virulence more than mutation of the tolC gene . 
+This raises 
+Fig. 3 . 
+The virulence role of Salmonella drug efﬂux system mutants . 
+BALB/c mice were inoculated intragastrically with 105 cfu of different Salmonella strains as indicated . 
+The survival assay was performed twice with groups of ﬁve mice per strain and survival was recorded for at least 3 weeks . 
+Shown is the result of one of the two experiments , which gave similar results . 
+Fig. 3 . 
+cont . 
+Fig. 4 . 
+The macAB drug efﬂux genes are repressed by the PhoP protein . 
+A. Transcription of the ABC-type transporter macAB genes is repressed in low Mg2 + in a PhoP-dependent fashion . 
+Expression levels of the macA and macB genes were determined in the wild-type strain and the phoP mutant using organisms grown in N-minimal media ( pH 7.4 ) with 10 µM or 10 mM Mg2 + . 
+The transcript amount was determined by quantitative real-time PCR as described in Experimental procedures . 
+The fold change ratio was calculated by dividing the expression level of gene under the condition of 10 µM Mg2 + by that in the condition of 10 mM Mg2 + . 
+The data correspond to mean values of three independent experiments . 
+Error bars correspond to the standard deviation . 
+B. Nucleotide sequence of the somA-macA intergenic region . 
+Boxed sequence corresponds to the PhoP binding site predicted by the GPS method . 
+The red underline corresponds to DNA sequences footprinted by the puriﬁed PhoP-H6 protein as shown in C. Bold ATG sequence corresponds to the macA predicted start codon . 
+Bold CAT sequence corresponds to the complementary sequence of the somA predicted start codon . 
+C . 
+The PhoP protein footprints the macA-somA intergenic region . 
+We used 0 , 25 , 50 and 100 pmol of Salmonella PhoP-His-6 ( from left to right ) . 
+AG corresponds to a sequencing ladder showing the A and G nucleotides . 
+D. Model for the control of macAB drug resistance and somA virulence genes by the PhoP/PhoQ two-component regulatory system . 
+In low Mg2 + environments , PhoP binds to the intergenic region between the macA and the somA genes , resulting in downregulation of macAB and expression of somA . 
+Experimental procedures
+Bacterial strains, plasmids and growth conditions
+Bacterial strains and plasmids used in this study are listed in Table 1 . 
+S. enterica serovar Typhimurium strains used in this study are derived from the wild-type strain ATCC 14028s . 
+Phage P22-mediated transductions were performed as described ( Davis et al. , 1980 ) . 
+Bacterial strains were grown at 37 °C in LB broth , or , for the determination of speciﬁc transcript levels , they were grown in N-minimal media with 10 mM or 10 µM MgCl2 , pH 7.7 . 
+Plasmid constructions
+The acrAB , acrD , acrEF , mdtABC , mdsABC , emrAB , mdfA , mdtK and macAB genes were ampliﬁed from strain ATCC14028s genomic DNA by PCR with primers listed in Table 5 , which introduced restriction enzyme sites at both ends of the ampliﬁed fragments . 
+The PCR fragments were cloned between the BamHI and SphI sites ( SmaI and XbaI sites for mdtABC ) of vector pUC118 , which resulted in these genes being present in the same orientation and downstream of the lac promoter in the pUC118 vector . 
+The nucleotide sequences of the recombinant plasmids were determined with an ABI PRISM 310 genetic analyser . 
+Table 5 . 
+Primers used in this study . 
+Primer 
+Original number Sequence 
+For gene deletion 
+tolC-P1 3316 tolC-P2 3317 acrA-P1 3320 acrB-P1 3321 acrB-P2 3322 acrD-P1 3325 acrD-P2 3326 acrE-P1 3327 acrF-P2 3328 mdtA-P1 3330 mdtC-P2 3324 mdsA-P1 3318 mdsC-P2 3319 emrA_P1 4218 emrB_P2 4219 mdfA_P1 4222 mdfA_P2 4223 mdtK_P1 4226 mdtK_P2 4227 macA_P1 4224 macB_P2 4225 For chromosomal lacZY-fusion tolC-P2forP2P1 4408 tolC-P1forP2P1 4407 acrA-P2forP2P1 4393 acrB-P1forP2P1 4394 acrD-P2forP2P1 4396 acrD-P1forP2P1 4395 acrE-P2forP2P1 4397 acrF-P1forP2P1 4398 mdtA-P2forP2P1 4413 mdtC-P1forP2P1 4414 mdsA-P2forP2P1 4405 mdsC-P1forP2P1 4406 emrA-P2forP2P1 4399 emrB-P1forP2P1 4400 mdfA-P2forP2P1 4404 mdfA-P1forP2P1 4403 mdtK-P2forP2P1 4412 mdtK-P1forP2P1 4411 macA-P2forP2P1 4409 macB-P1forP2P1 4410 
+TACAAATTGATCAGCGCTAAATACTGCTTCACAACAAGGAGTGTAGGCTGGAGCTGCTTC TTTTGCGAAATGATGCGTGATGGATGGATTTTGTCCGTTTCATATGAATATCCTCCTTAG ACCATTGACCAATTTGAAATCGGACACTCGAGGTTTACATGTGTAGGCTGGAGCTGCTTC GCTCAGCCCAGGTCTTAACTTAAACAGGAGCCGTTAAGACGTGTAGGCTGGAGCTGCTTC TAAGCTGTGCTATATCATGTCTTTTGGGTGAGTATTCGTCCATATGAATATCCTCCTTAG AAATCTATAACGATATGTAGAAACACGAGGTTTCCCTTTAGTGTAGGCTGGAGCTGCTTC TTTTGATCGTGTCGCAATTCTTAATGCCATAGAGGGTAATCATATGAATATCCTCCTTAG TCCGGTGAATAACGAGCTTTCGGTTTTTTAAGGAACAGTAGTGTAGGCTGGAGCTGCTTC CCAATAAGGTGGTAAGCAATGCAACTGGAATTAGTCTTTTCATATGAATATCCTCCTTAG AACATTCCGCAAAACGTTTCAGGATGAGAAACTTATACCGGTGTAGGCTGGAGCTGCTTC CAATCCAGAGTTGCCAGCGGGTGTTGTCAGGAAGTTCTGTCATATGAATATCCTCCTTAG TGCGGAATGGCCGACACGCTGCGGTAAAGAGGGAAACGACGTGTAGGCTGGAGCTGCTTC TAGCGCGCGCGCCGCACTGGCGACGCGGGCGCTATTTGGGCATATGAATATCCTCCTTAG CGGCTCAGCCGATGTGAATAATAAGATCGTGGAGAACAACGTGTAGGCTGGAGCTGCTTC CTACTAAAAAAGGGATCCGCAGATCCCTTTTATCAGATAGCATATGAATATCCTCCTTAG TCATTACACTCTGCGCGGTTTTTATTGGCGAAGAGATGGTGTGTAGGCTGGAGCTGCTTC ATGCCTGATAACAGAAAGCTTATCAGGCGTAGCCGCTCTCCATATGAATATCCTCCTTAG TTTTAGTCTTTCATATAACAACAAAATAAAAGGTGAATACGTGTAGGCTGGAGCTGCTTC ATGTCGAGAAAATAGCCGCCATGCGACGGCTATCGTCGTACATATGAATATCCTCCTTAG CGGTTTACTTTCTGGTTAAAATTTTGCCGTCAGGGTTTCTGTGTAGGCTGGAGCTGCTTC CTGTTGCATCTTATCAGGCCGACAAATGACGTCAGCAAGACATATGAATATCCTCCTTAG 
+TACAAATTGATCAGCGCTAAATACTGCTTCACAACAAGGACATATGAATATCCTCCTTAG GGGCACAGGTCTGATAAGCGCAGCGCCAGCGAATAACTTAGTGTAGGCTGGAGCTGCTTC ACCATTGACCAATTTGAAATCGGACACTCGAGGTTTACATCATATGAATATCCTCCTTAG AAAAAAGGCCGCTTGCGCGGCCTTATCAACAGTGAGCAAAGTGTAGGCTGGAGCTGCTTC AAATCTATAACGATATGTAGAAACACGAGGTTTCCCTTTACATATGAATATCCTCCTTAG TTTTTTGTGCCCGACACCTCGTATCAGGCTGGCCGGGATCGTGTAGGCTGGAGCTGCTTC TCCGGTGAATAACGAGCTTTCGGTTTTTTAAGGAACAGTACATATGAATATCCTCCTTAG ACCGTTTAAAAAGGCGTCCGAAGACGCCTCTGTTTACCGGGTGTAGGCTGGAGCTGCTTC AACATTCCGCAAAACGTTTCAGGATGAGAAACTTATACCGCATATGAATATCCTCCTTAG CATGACCAAACCGCCGACAATGGTTATCCCCAGCGGCTGCGTGTAGGCTGGAGCTGCTTC TGCGGAATGGCCGACACGCTGCGGTAAAGAGGGAAACGACCATATGAATATCCTCCTTAG TAGCGCGCGCGCCGCACTGGCGACGCGGGCGCTATTTGGGGTGTAGGCTGGAGCTGCTTC CGGCTCAGCCGATGTGAATAATAAGATCGTGGAGAACAACCATATGAATATCCTCCTTAG CTACTAAAAAAGGGATCCGCAGATCCCTTTTATCAGATAGGTGTAGGCTGGAGCTGCTTC TCATTACACTCTGCGCGGTTTTTATTGGCGAAGAGATGGTCATATGAATATCCTCCTTAG ATGCCTGATAACAGAAAGCTTATCAGGCGTAGCCGCTCTCGTGTAGGCTGGAGCTGCTTC TTTTAGTCTTTCATATAACAACAAAATAAAAGGTGAATACCATATGAATATCCTCCTTAG ATGTCGAGAAAATAGCCGCCATGCGACGGCTATCGTCGTAGTGTAGGCTGGAGCTGCTTC CGGTTTACTTTCTGGTTAAAATTTTGCCGTCAGGGTTTCTCATATGAATATCCTCCTTAG CTGTTGCATCTTATCAGGCCGACAAATGACGTCAGCAAGAGTGTAGGCTGGAGCTGCTTC 
+For gene cloning acrA-F_BamHI acrB-R_SphI acrD-F_BamHI acrD-R_SphI acrE-F_BamHI acrF-R_SphI mdtA-F_SmaI mdtC-R_XbaI mdsA-F_BamHI mdsC-R_SphI emrA-F_BamHI emrB-R_SphI mdfA-F_BamHI mdfA-R_SphI mdtK-F_BamHI mdtK-R_SphI macA-F_BamHI macB-R_SphI For quantitative PCR rrs-F rrs-R macA-F macA-R macB-F 
+GCGGGATCCGGATGTATGTACCATAGCACG GCGGCATGCTCAGCGATGTTCTGTCGAATG GCGGGATCCCATTATCTCCTTTATTTCTCC GCGGCATGCTTATTTCGGGCGCGGCTTCAG GCGGGATCCAATAATTTGTAGGATACCCCA GCGGCATGCTTAATCATGATGGCGATTAAA GCGCCCGGGGACCGTGTTCCATAATTCCTC GCGTCTAGATCATATCTCTACTACCGGTTT GCGGGATCCGACGACTTCCCCATCCTGACT GCGGCATGCCCTTATTTTGCAGGTAATATA GCGGGATCCAGCGCCGACCCGCTCAAAAAT GCGGCATGCGCAGATCCCTTTTATCAGATA GCGGGATCCAACATCCAGGCTCGGAGCAAT GCGGCATGCCGGATGCCTCTCTATGCCTGA GCGGGATCCATCTTCAACTCCTGAAATAAA GCGGCATGCCTATGAACGCAACGTTGTAGG GCGGGATCCAAGATTGTCGAGATTGAACCA GCGGCATGCCTCCTCTGTCTCATTGTGTAC 
+3525 3526 3533 3534 3537 3538 3529 3530 4371 4372 4374 4375 4378 4377 4382 4381 4379 4380 
+CCAGCAGCCGCGGTAAT TTTACGCCCAGTAATTCCGATT CGCGCCAGCAGCAGTTA CGCCGCGGTATCCAGAT ACAGCAGCAGCGTGTCAGTATT 
+3023 3024 5020 5021 4949 
+Construction of gene deletion mutants
+Gene disruption was performed as described ( Datsenko and Wanner , 2000 ) . 
+The chloramphenicol resistance cat gene or the kanamycin resistance kan gene , ﬂanked by Flp recognition sites , was ampliﬁed by PCR with primers listed in Table 5 . 
+The resulting PCR products were used to transform the recipient ATCC14028s strain harbouring plasmid pKD46 , which expresses Red recombinase . 
+The chromosomal structure of the mutated loci was veriﬁed both by PCR as described ( Datsenko and Wanner , 2000 ) , and by Southern hybridization using probes speciﬁc to : ( i ) the antibitotic resistance genes used during the construction of the chromosomal deletions , and ( ii ) sequences ﬂanking the inactivated loci . 
+Then , the deletions were transferred to the wild-type ATCC14028s strain by P22 transduction . 
+The cat and kan genes were eliminated by using plasmid pCP20 as described ( Datsenko and Wanner , 2000 ) . 
+Determination of the MIC for toxic compounds
+The antibacterial activities of different agents were determined on L agar ( 1 % tryptone , 0.5 % yeast extract , 0.5 % NaCl ) plates containing the compounds ( Sigma ) at various concentrations as indicated in Tables 2 and 3 . 
+Agar plates were made by the twofold agar dilution technique as described ( Nishino and Yamaguchi , 2001b ; 2004 ; Nishino et al. , 2005 ) . 
+To determine the MICs , bacteria were grown in LB broth at 37 °C overnight , cells were diluted into the same media , and organisms were tested at a ﬁnal inoculum size of 104 cfu µl − 1 with the use of a multipoint inoculator ( Sakuma Seisakusyo , Tokyo , Japan ) , following incubation at 37 °C for 20 h . 
+The MIC was the lowest concentration of compound that inhibited cell growth . 
+Construction of targeted single copy lac fusion strains
+Construction of a chromosomal lacZY fusion strains was done as described ( Ellermeier et al. , 2002 ) . 
+A cat or kan cassette was ampliﬁed from pKD3 or pKD4 plasmid using primers listed in Table 5 and drug transporter genes were disrupted by the one-step gene-inactivation method ( Datsenko and Wanner , 2000 ) . 
+After removing the cat or kan cassette using plasmid pCP20 , the lacZY transcriptional fusion plasmid pCE37 was integrated into the Flp target sequence downstream of the promoter of the drug efﬂux genes by Flp-mediated recombination . 
+Thus , the resulting strains were deleted for the drug efﬂux genes . 
+β-Galactosi-dase activities of the constructed strains listed in Table 1 
+Table 5 . 
+cont . 
+Primer 
+Original number Sequence 
+macB-R tolC-F tolC-R acrA-F acrA-R acrB-F acrB-R acrD-F acrD-R acrE-F acrE-R acrF-F acrF-R mdtA-F mdtA-R mdtB-F mdtB-R mdtC-F mdtC-R mdsA-F mdsA-R mdsB-F mdsB-R mdsC-F mdsC-R emrA-F emrA-R emrB-F emrB-R mdfA-F mdfA-R mdtK-F mdtK-R 
+4950 4943 4944 4921 4922 4923 4924 5014 5015 4927 4928 4929 4930 4955 4956 4957 4958 4959 4960 4937 4938 4939 4940 5018 5019 4931 4932 4933 4934 4935 4936 4951 4952 
+TCGGCTCATCTGCCAGAATC GCCCGTGCGCAATATGAT 
+CCGCGTTATCCAGGTTGTTG AAAACGGCAAAGCGAAGGT GTACCGGACTGCGGGAATT TGAAAAAAATGGAACCGTTCTTC CGAACGGCGTGGTGTCA CGTTATTAAAACCGCTGCACAA TACGGTTAAACCAGCCGAAAA AAGCGGCTGCGGCTATC TTGTGCCGACCAGTGGAA GCTCTGTCGTCCATCTCAAAGA CGCGCTACAACGTTATAGTTTTCA GAATGCGCGTCGTGATCTG TCCAGTTCCTGACGGGAAAC GATTAACGCAGCCACCAATTTAT GCCGGATTGACTTTGCTGTAA GAGGTAGAAGAGACACTGGCTATCTCT CGGAGCGCAGGAATAAAAAC TGCTAAAGCCCTTAGCCGTACA GCGCGGCCAGAAAACC CCCGGTCTGTCGGTTAACG CGCTCGTCAAAGGGTTTCAG TCGTAACGCGCTGGAATTG TTTAGTCGACGCGACAGTTCA GCGCAAAGCGACCTTAACC CTTCCCGGCCAATAAGATTG TCTGGTCAATGACCGTCATTG TGTAGCCCCCCAGAATCG TTTGAGGAGGCGGTGTGTATAA AGCGGCGCGATTAACG TTTGTTTGGTCACGGCTTACTG GCCGGAGCCATTGAGTTG 
+For DNaseI footprinting somA_macA-1 somA_macA-2 
+CTGTGTCATGATCGTAATCCGCGAC 
+5414 5415 
+CAGATAACGCTTTTTAAATTTCTTTCCCTTAGCAC 
+Bacteria were grown overnight ( 12 -- 14 h ) in LB broth with aeration at 37 °C and then cells were harvested , washed and resuspended in sterile phosphate-buffered saline ( PBS ) . 
+A 5 total of 10 bacterial cells were used to infect intragastrically groups of virus-free 7-week-old BALB/c female mice . 
+The course of infection and survival was recorded for 3 weeks . 
+RNA extraction
+Bacteria were grown in N-minimal media with 10 mM MgCl2 at 37 °C overnight , washed and used to inoculate N-minimal media with 10 mM or 10 µM MgCl2 , pH 7.7 . 
+Bacteria were rapidly collected when the cultures reached an OD600 of 0.3 . 
+Total RNA was isolated from bacterial cultures with the RNeasy Protect Bacteria mini kit ( QIAGEN ) and RNase-free DNase ( QIAGEN ) as described ( Nishino and Yamaguchi , 2002 ; Nishino et al. , 2003b ) . 
+The absence of genomic DNA in DNase-treated RNA samples was conﬁrmed both by inspecting non-denaturing agarose electrophoresis gels and by performing PCR with primers targeting the genomic DNA . 
+The RNA concentration was determined spectrophotometrically ( Sambrook et al. , 1989 ) . 
+Determination of speciﬁc transcript levels by quantitative real-time PCR
+Bulk cDNA samples were synthesized from total RNA deriverd from bacterial cells by using TaqMan reverse transcription reagents ( PE Applied Biosystems ) and random hexamers as primers . 
+Speciﬁc primer pairs were designed with the ABI PRISM Primer Express software ( PE Applied Biosystems ) . 
+The rrs gene of the 16S rRNA gene was chosen as the normalizing gene . 
+The sequences of the primers are listed in Table 5 . 
+Real-time PCR was performed with each speciﬁc primer pair by using SYBR Green PCR master mixture ( PE Applied Biosystems ) . 
+The reactions were performed with an ABI PRISM 7000 sequence detection system ( PE Applied Biosystems ) , and during the reactions the ﬂuorescence signal due to SYBR Green intercalation was monitored to quantify the amount of double-stranded DNA product formed in each PCR cycle . 
+DNase I footprinting
+Footprinting was conducted as described ( Wosten and Groisman , 1999 ) using puriﬁed PhoP-His6 protein from S. enterica serovar Typhimurium and DNA fragments generated by the PCR with primers 5414 , 5415 and 14028s chromosomal DNA as the template . 
+Primer 5415 was labelled with 32P before the PCR . 
+The PhoP-His6 protein was overproduced in E. coli BL21 ( DE3 ) harbouring plasmid pSC2-phoP and puriﬁed as described ( Chamnongpol and Groisman , 2000 ) with the modiﬁcations described below . 
+After puriﬁcation , the eluate was dialysed overnight against 20 mM 
+Acknowledgements
+We thank Michael J. Cromie for technical assistance ; Dongwoo Shin , Mollie D. Winﬁeld , and Takeshi Nishino for technical advice on mice experiments ; Akihito Yamaguchi , Akinori Kato , Igor Zwir , Jetta J.E. Bijlsma , Takahiro Hirata , Takeshi Honda , and Yixin Shi for excellent discussions ; and members of our lab for comments on this work . 
+This work was supported , in part , by the Mochida Memorial Foundation for Medical and Pharmaceutical Research to K.N. , and by Grant AI49561 from the National Institutes of Health to E.A.G. , who is an Investigator of the Howard Hughes Medical Institute . 
+References 
+Adler , J. , and Bibi , E. ( 2004 ) Determinants of substrate rec-ognition by the Escherichia coli multidrug transporter MdfA identiﬁed on both sides of the membrane . 
+J Biol Chem 279 : 8957 -- 8965 . 
+Adler , J. , and Bibi , E. ( 2005 ) Promiscuity in the geometry of electrostatic interactions between the Escherichia coli multidrug resistance transporter MdfA and cationic substrates . 
+J Biol Chem 280 : 2721 -- 2729 . 
+Bajaj , V. , Lucas , R.L. , Hwang , C. , and Lee , C.A. ( 1996 ) Coordinate regulation of Salmonella typhimurium invasion genes by environmental and regulatory factors is mediated by control of hilA expression . 
+Mol Microbiol 22 : 703 -- 714 . 
+Baucheron , S. , Imberechts , H. , Chaslus-Dancla , E. , and Clo-eckaert , A. ( 2002 ) The AcrB multidrug transporter plays a major role in high-level ﬂuoroquinolone resistance in Sal-monella enterica serovar typhimurium phage type DT204 . 
+Microb Drug Resist 8 : 281 -- 289 . 
+Baucheron , S. , Chaslus-Dancla , E. , and Cloeckaert , A. ( 2004 ) Role of TolC and parC mutation in high-level ﬂuoroquinolone resistance in Salmonella enterica serotype Typh-imurium DT204 . 
+J Antimicrob Chemother 53 : 657 -- 659 . 
+Baucheron , S. , Mouline , C. , Praud , K. , Chaslus-Dancla , E. , and Cloeckaert , A. ( 2005 ) TolC but not AcrB is essential for multidrug-resistant Salmonella enterica serotype Typh-imurium colonization of chicks . 
+J Antimicrob Chemother 55 : 707 -- 712 . 
+Behlau , I. , and Miller , S.I. ( 1993 ) A PhoP-repressed gene promotes Salmonella typhimurium invasion of epithelial cells . 
+J Bacteriol 175 : 4475 -- 4484 . 
+Chamnongpol , S. , and Groisman , E.A. ( 2000 ) Acetyl phosphate-dependent activation of a mutant PhoP response regulator that functions independently of its cognate sensor kinase . 
+J Mol Biol 300 : 291 -- 305 . 
+Cloeckaert , A. , and Chaslus-Dancla , E. ( 2001 ) Mechanisms of quinolone resistance in Salmonella . 
+Vet Res 32 : 291 -- 300 . 
+Cody , S.H. , Abbott , S.L. , Marﬁn , A.A. , Schulz , B. , Wagner , P. , Robbins , K. , et al. ( 1999 ) Two outbreaks of multidrug-resistant Salmonella serotype Typhimurium DT104 infections linked to raw-milk cheese in Northern California . 
+JAMA 281 : 1805 -- 1810 . 
+Datsenko , K.A. , and Wanner , B.L. ( 2000 ) One-step inactivation of chromosomal genes in Escherichia coli K-12 using PCR products . 
+Proc Natl Acad Sci USA 97 : 6640 -- 6645 . 
+Davies , A. , O'Neill , P. , Towers , L. , and Cooke , M. ( 1996 ) An outbreak of Salmonella typhimurium DT104 food poisoning associated with eating beef . 
+Commun Dis Rep CDR Rev 6 : R159 -- R162 . 
+Davis , R.W. , Bolstein , D. , and Roth , J.R. ( 1980 ) Advanced Bacterial Genetics . 
+Cold Spring Harbor , New York : Cold Spring Harbor Laboratory Press . 
+Detweiler , C.S. , Monack , D.M. , Brodsky , I.E. , Mathew , H. , and Falkow , S. ( 2003 ) virK , somA and rcsC are important for systemic Salmonella enterica serovar Typhimurium infection and cationic peptide resistance . 
+Mol Microbiol 48 : 385 -- 400 . 
+Eaves , D.J. , Ricci , V. , and Piddock , L.J. ( 2004 ) Expression of acrB , acrF , acrD , marA , and soxS in Salmonella enterica serovar Typhimurium : role in multiple antibiotic resistance . 
+Antimicrob Agents Chemother 48 : 1145 -- 1150 . 
+Edgar , R. , and Bibi , E. ( 1997 ) MdfA , an Escherichia coli multidrug resistance protein with an extraordinarily broad spectrum of drug recognition . 
+J Bacteriol 179 : 2274 -- 2280 . 
+Edgar , R. , and Bibi , E. ( 1999 ) A single membrane-embedded negative charge is critical for recognizing positively charged drugs by the Escherichia coli multidrug resistance protein MdfA . 
+EMBO J 18 : 822 -- 832 . 
+Ellermeier , C.D. , Janakiraman , A. , and Slauch , J.M. ( 2002 ) Construction of targeted single copy lac fusions using lambda Red and FLP-mediated site-speciﬁc recombination in bacteria . 
+Gene 290 : 153 -- 161 . 
+Eriksson , S. , Lucchini , S. , Thompson , A. , Rhen , M. , and Hinton , J.C. ( 2003 ) Unravelling the biology of macrophage infection by gene expression proﬁling of intracellular Salmonella enterica . 
+Mol Microbiol 47 : 103 -- 118 . 
+Fields , P.I. , Swanson , R.V. , Hsidaris , C.G. , and Heffron , F. ( 1986 ) Mutants of Salmonella typhimurium that can not survive within a macrophage are avirulent . 
+Proc Natl Acad Sci USA 83 : 5189 -- 5193 . 
+Fields , P.I. , Groisman , E.A. , and Heffron , F. ( 1989 ) A Salmo-nella locus that controls resistance to microbicidal proteins from phagocytic cells . 
+Science 243 : 1059 -- 1062 . 
+Foster , J.W. , and Hall , H.K. ( 1990 ) Adaptive acidiﬁcation tolerance response of Salmonella typhimurium . 
+J Bacteriol 172 : 771 -- 778 . 
+Fralick , J.A. ( 1996 ) Evidence that TolC is required for functioning of the Mar/AcrAB efﬂux pump of Escherichia coli . 
+J Bacteriol 178 : 5803 -- 5805 . 
+Glynn , M.K. , Bopp , C. , Dewitt , W. , Dabney , P. , Mokhtar , M. , and Angulo , F.J. ( 1998 ) Emergence of multidrug ¬ 
+resistant Salmonella enterica serotype typhimurium DT104 infections in the United States . 
+N Engl J Med 338 : 1333 -- 1338 . 
+Grein , T. , O'Flanagan , D. , McCarthy , T. , and Bauer , D. ( 1999 ) An outbreak of multidrug-resistant Salmonella typh-imurium food poisoning at a wedding reception . 
+Ir Med J 92 : 238 -- 241 . 
+Groisman , E.A. ( 2001 ) The pleiotropic two-component regulatory system PhoP-PhoQ . 
+J Bacteriol 183 : 1835 -- 1842 . 
+Groisman , E.A. , Parra-Lopez , C. , Salcedo , M. , Lipps , C.J. , and Heffron , F. ( 1992 ) Resistance to host antimicrobial peptides is necessary for Salmonella virulence . 
+Proc Natl Acad Sci USA 89 : 11939 -- 11943 . 
+Groisman , E.A. , Kayser , J. , and Soncini , F.C. ( 1997 ) Regulation of polymyxin resistance and adaptation to low-Mg2 + environments . 
+J Bacteriol 179 : 7040 -- 7045 . 
+Gunn , J.S. ( 2000 ) Mechanisms of bacterial resistance and response to bile . 
+Microbes Infect 2 : 907 -- 913 . 
+Hosek , G. , Leschinsky , D.D. , Irons , S. , and Safranek , T.J. ( 1997 ) Multidrug-resistant Salmonella serotype Typhimu-rium in United States , 1996 . 
+MMWR Morb Mortal Wkly Report 46 : 308 -- 310 . 
+Kobayashi , N. , Nishino , K. , and Yamaguchi , A. ( 2001 ) Novel macrolide-speciﬁc ABC-type efﬂux transporter in Escheri-chia coli . 
+J Bacteriol 183 : 5639 -- 5644 . 
+Kobayashi , N. , Nishino , K. , Hirata , T. , and Yamaguchi , A. ( 2003 ) Membrane topology of ABC-type macrolide antibiotic exporter MacB in Escherichia coli . 
+FEBS Lett 546 : 241 -- 246 . 
+Lacroix , F.J. , Cloeckaert , A. , Grepinet , O. , Pinault , C. , Popoff , M.Y. , Waxin , H. , and Pardon , P. ( 1996 ) Salmonella typh-imurium acrB-like gene : identiﬁcation and role in resistance to biliary salts and detergents and in murine infection . 
+FEMS Microbiol Lett 135 : 161 -- 167 . 
+Lomovskaya , O. , and Lewis , K. ( 1992 ) Emr , an Escherichia coli locus for multidrug resistance . 
+Proc Natl Acad Sci USA 89 : 8938 -- 8942 . 
+McClelland , M. , Sanderson , K.E. , Spieth , J. , Clifton , S.W. , Latreille , P. , Courtney , L. , et al. ( 2001 ) Complete genome sequence of Salmonella enterica serovar Typhimurium LT2 . 
+Nature 413 : 852 -- 856 . 
+Molbak , K. , Baggesen , D.L. , Aarestrup , F.M. , Ebbesen , J.M. , Engberg , J. , Frydendahl , K. , et al. ( 1999 ) An outbreak of multidrug-resistant , quinolone-resistant Salmonella enterica serotype typhimurium DT104 . 
+N Engl J Med 341 : 1420 -- 1425 . 
+Nagakubo , S. , Nishino , K. , Hirata , T. , and Yamaguchi , A. ( 2002 ) The putative response regulator BaeR stimulates multidrug resistance of Escherichia coli via a novel multi-drug exporter system , MdtABC . 
+J Bacteriol 184 : 4161 -- 4167 . 
+Ng , L.K. , Mulvey , M.R. , Martin , I. , Peters , G.A. , and Johnson , W. ( 1999 ) Genetic characterization of antimicrobial resistance in Canadian isolates of Salmonella serovar Typhimu-rium DT104 . 
+Antimicrob Agents Chemother 43 : 3018 -- 3021 . 
+Nikaido , H. ( 1996 ) Multidrug efﬂux pumps of gram-negative bacteria . 
+J Bacteriol 178 : 5853 -- 5859 . 
+Nikaido , H. , Basina , M. , Nguyen , V. , and Rosenberg , E.Y. ( 1998 ) Multidrug efﬂux pump AcrAB of Salmonella typh ¬ 
+imurium excretes only those β-lactam antibiotics containing lipophilic side chains . 
+J Bacteriol 180 : 4686 -- 4692 . 
+Nishino , K. , and Yamaguchi , A. ( 2001a ) Analysis of a complete library of putative drug transporter genes in Escher-ichia coli . 
+J Bacteriol 183 : 5803 -- 5812 . 
+Nishino , K. , and Yamaguchi , A. ( 2001b ) Overexpression of the response regulator evgA of the two-component signal transduction system modulates multidrug resistance conferred by multidrug resistance transporters . 
+J Bacteriol 183 : 1455 -- 1458 . 
+Nishino , K. , and Yamaguchi , A. ( 2002 ) EvgA of the two-component signal transduction system modulates production of the yhiUV multidrug transporter in Escherichia coli . 
+J Bacteriol 184 : 2319 -- 2323 . 
+Nishino , K. , and Yamaguchi , A. ( 2004 ) Role of histone-like protein H-NS in multidrug resistance of Escherichia coli . 
+J Bacteriol 186 : 1423 -- 1429 . 
+Nishino , K. , Yamada , J. , Hirakawa , H. , Hirata , T. , and Yamaguchi , A. ( 2003a ) Roles of TolC-dependent multidrug transporters of Escherichia coli in resistance to β-lactams . 
+Antimicrob Agents Chemother 47 : 3030 -- 3033 . 
+Nishino , K. , Inazumi , Y. , and Yamaguchi , A. ( 2003b ) Global analysis of genes regulated by EvgA of the two-component regulatory system in Escherichia coli . 
+J Bacteriol 185 : 2667 -- 2672 . 
+Nishino , K. , Honda , T. , and Yamaguchi , A. ( 2005 ) Genome-wide analyses of Escherichia coli gene expression responsive to the BaeSR two-component regulatory system . 
+J Bacteriol 187 : 1763 -- 1772 . 
+Olliver , A. , Valle , M. , Chaslus-Dancla , E. , and Cloeckaert , A. ( 2005 ) Overexpression of the multidrug efﬂux operon acrEF by insertional activation with IS1 or IS10 elements in Salmonella enterica serovar typhimurium DT204 acrB mutants selected with ﬂuoroquinolones . 
+Antimicrob Agents Chemother 49 : 289 -- 301 . 
+Paulsen , I.T. , Sliwinski , M.K. , and Saier , M.H. , Jr. ( 1998 ) Microbial genome analyses : global comparisons of transport capabilities based on phylogenies , bioenergetics and substrate speciﬁcities . 
+J Mol Biol 277 : 573 -- 592 . 
+Paulsen , I.T. , Nguyen , L. , Sliwinski , M.K. , Rabus , R. , and Saier , M.H. , Jr. ( 2000 ) Microbial genome analyses : comparative transport capabilities in eighteen prokaryotes . 
+J Mol Biol 301 : 75 -- 100 . 
+Piddock , L.J. ( 2002 ) Fluoroquinolone resistance in Salmo-nella serovars isolated from humans and food animals . 
+FEMS Microbiol Rev 26 : 3 -- 16 . 
+Poole , K. ( 2004 ) Efﬂux-mediated multiresistance in Gramnegative bacteria . 
+Clin Microbiol Infect 10 : 12 -- 26 . 
+Ren , Q. , Kang , K.H. , and Paulsen , I.T. ( 2004 ) TransportDB : a relational database of cellular membrane transport systems . 
+Nucleic Acids Res 32 : D284 -- D288 . 
+Sambrook , J. , Fritsch , E.F. , and Maniatis , T. ( 1989 ) 
+Molecular Cloning : a Laboratory Manual , 2nd edn . 
+Cold Spring Harbor , New York : Cold Spring Harbor Laboratory Press . 
+Scherer , C.A. , and Miller , S.I. ( 2001 ) Molecular pathogenesis of Salmonella . 
+In Principles of Bacterial Pathogenesis . 
+Groisman , E.A. ( ed . ) . 
+New York : Academic Press , pp. 266 -- 333 . 
+Stone , B.J. , and Miller , V.L. ( 1995 ) Salmonella enteritidis has a homologue of tolC that is required for virulence in BALB/c mice . 
+Mol Microbiol 17 : 701 -- 712 . 
+Thanassi , D.G. , Cheng , L.W. , and Nikaido , H. ( 1997 ) Active efﬂux of bile salts by Escherichia coli . 
+J Bacteriol 179 : 2512 -- 2518 . 
+Threlfall , E.J. , Frost , J.A. , Ward , L.R. , and Rowe , B. ( 1996 ) Increasing spectrum of resistance in multiresistant Salmo-nella typhimurium . 
+Lancet 347 : 1053 -- 1054 . 
+Threlfall , E.J. , Ward , L.R. , Skinner , J.A. , and Rowe , B. ( 1997 ) Increase in multiple antibiotic resistance in nontyphoidal salmonellas from humans in England and Wales : a comparison of data for 1994 and 1996 . 
+Microb Drug Resist 3 : 263 -- 266 . 
+van Velkinburgh , J.C. , and Gunn , J.S. ( 1999 ) PhoP-PhoQ-regulated loci are required for enhanced bile resistance in Salmonella spp . 
+Infect Immun 67 : 1614 -- 1622 . 
+Villar , R.G. , Macek , M.D. , Simons , S. , Hayes , P.S. , Goldoft , M.J. , Lewis , J.H. , et al. ( 1999 ) Investigation of multidrug-resistant Salmonella serotype typhimurium DT104 infections linked to raw-milk cheese in Washington State . 
+JAMA 281 : 1811 -- 1816 . 
+Wosten , M.M. , and Groisman , E.A. ( 1999 ) Molecular characterization of the PmrA regulon . 
+J Biol Chem 274 : 27185 -- 27190 . 
+Yamamoto , K. , Ogasawara , H. , Fujita , N. , Utsumi , R. , and Ishihama , A. ( 2002 ) Novel mode of transcription regulation of divergently overlapping promoters by PhoP , the regulator of two-component system sensing external magnesium availability . 
+Mol Microbiol 45 : 423 -- 438 . 
+Yu , E.W. , Aires , J.R. , and Nikaido , H. ( 2003 ) AcrB multidrug efﬂux pump of Escherichia coli : composite substratebinding cavity of exceptional ﬂexibility generates its extremely wide substrate speciﬁcity . 
+J Bacteriol 185 : 5657 -- 5664 . 
+Zgurskaya , H.I. , and Nikaido , H. ( 2000 ) Multidrug resistance mechanisms : drug efﬂux across two membranes . 
+Mol Microbiol 37 : 219 -- 225 . 
+Zwir , I. , Shin , D. , Kato , A. , Nishino , K. , Latiﬁ , T. , Solomon , F. , et al. ( 2005a ) Dissecting the PhoP regulatory network of Escherichia coli and Salmonella enterica . 
+Proc Natl Acad Sci USA 102 : 2862 -- 2867 . 
+Zwir , I. , Huang , H. , and Groisman , E.A. ( 2005b ) Analysis of differentially-regulated genes within a regulatory network by GPS genome navigation . 
+Bioinformatics ( in press ) .

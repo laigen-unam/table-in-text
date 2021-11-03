@@ -1,0 +1,434 @@
+The Vi-capsule prevents Toll-like receptor 4 recognition almo
+Summary 
+The viaB locus enables Salmonella enterica serotype Typhi to reduce Toll-like receptor ( TLR ) dependent cytokine production in tissue culture models . 
+This DNA region contains genes involved in the regulation ( tviA ) , biosynthesis ( tviBCDE ) and export ( vexABCDE ) of the Vi capsule . 
+Expression of the Vi capsule in S. Typhimurium , but not expression of the TviA regulatory protein , reduced tumour necrosis factor-alpha ( TNF-a ) and IL-6 production by murine bone-marrow derived macrophages . 
+Production of TNF-a and IL-6 was dependent on expression of TLR4 as stimulation of macrophages from TLR4 - / - mice with S. Typhimu-rium did not result in expression of these cytokines . 
+Intraperitoneal infection of mice with S. Typhimurium induced expression of TNF-a and inducible nitric oxide synthase ( iNOS ) in the liver . 
+Introduction of the cloned viaB region into S. Typhimurium reduced TNF-a and iNOS expression to levels observed after infection with a S. Typhimurium msbB mutant . 
+In contrast , no differences in TNF-a expression between the S. Typhimurium wild type and strains expressing the Vi-capsule or carrying a mutation in msbB were observed after infection of TLR4 - / - mice . 
+We conclude that the Vi capsule prevents both in vitro and in vivo recognition of S. Typhimurium lipopolysaccharide by TLR4 . 
+Introduction
+Salmonella enterica serotype Typhi is a strictly human-adapted pathogen causing typhoid fever , a severe systemic infection . 
+In contrast , immunocompetent individuals infected with the zoonotic Salmonella enterica serotype 
+Received 31 July , 2007 ; revised 18 October , 2007 ; accepted 31 October , 2007 . 
+* For correspondence . 
+E-mail ajbaumler@ucdavis . 
+edu ; Tel. ( +1 ) 530 754 7240 ; Fax ( +1 ) 530 754 7225 . 
+Typhimurium develop gastroenteritis , a localized infection of the terminal ileum and colon ( Santos et al. , 2001 ) . 
+In immunocompromised individuals , such as patients with acquired immunodeﬁciency syndrome ( AIDS ) , S. Typhimurium can disseminate from the intestine and cause bacteremia with a rapid onset of symptoms , which can progress to septic shock ( Gordon et al. , 2001 ; 2002 ; Kankwatira et al. , 2004 ) . 
+In contrast , typhoid fever has a gradual onset of symptoms and does not rapidly progress to hypotension ( Butler et al. , 1978 ) . 
+Serum levels of pyrogenic cytokines , such as tumour necrosis factor-alpha ( TNF-a ) and interleukin-1b ( IL-1b ) , are elevated in typhoid fever patients compared with healthy individuals ( Butler et al. , 1993 ; Keuter et al. , 1994 ) but are low compared with cytokine levels measured in the serum of patients with sepsis ( Girardin et al. 1988 ; Waage et al. , 1989 ; Wortel et al. , 1992 ) . 
+The fact that S. Typhi and S. Typhimurium cause different disease syndromes in the same host species ( i.e. humans ) illustrates that genetic differences between these two pathogens are critically important for the disease outcome . 
+The S. Typhi chromosome contains a 134 kb DNA region termed Salmonella pathogenicity island ( SPI ) 7 , which is absent from the S. Typhimurium chromosome and encodes genes required for production of the Vi-capsular antigen ( Parkhill et al. , 2001 ) . 
+S. Typhi isolates from the blood of typhoid fever patients typically express the Vi capsule ( Robbins and Robbins , 1984 ) . 
+However , SPI7 is genetically unstable in vitro and can be lost upon laboratory passage of S. Typhi ( Bueno et al. , 2004 ; Nair et al. , 2004 ) . 
+A spontaneous loss of the ability to produce a capsule gives rise to S. Typhi isolates with increased capacity to elicit TNF-a production in human macrophage-like ( THP-1 ) cells ( Hirose et al. , 1997 ) or IL-8 secretion in human colonic epithelial ( Caco-2 ) cells ( Sharma and Qadri , 2004 ) . 
+The region within SPI7 responsible for this phenotype is the viaB locus , because a precise deletion of this 14 kb DNA region signiﬁcantly increases IL-8 expression elicited by S. Typhi in human colonic epithelial ( T84 ) cells or THP-1 cells ( Raffatellu et al. , 2005a ) . 
+Introduction of the cloned viaB locus into S. Typhimurium alters the host response in the intestine in vivo , including a reduction in cytokine expression , neutrophil recruitment and ﬂuid accumulation in bovine ligated ileal loops ( Raffatellu et al. , 2007 ) . 
+However , the effect of the viaB locus on the host response during the systemic phase of infection , the hallmark of typhoid fever pathogenesis , has not yet been investigated . 
+Two important pathogen-associated molecular patterns ( PAMPs ) expressed by S. Typhi are lipopolysaccharide ( LPS ) and ﬂagellin , whose recognition by the pathogen recognition receptors TLR4 ( Medzhitov et al. , 1997 ) and TLR5 ( Hayashi et al. , 2001 ) , respectively , induces pro-inﬂammatory changes in host gene expression . 
+Deletion of the viaB locus increases IL-8 expression elicited by S. Typhi in human embryonic kidney ( HEK293 ) cells transfected with human TLR5 or human TLR4/MD -2 / CD14 ( Raffatellu et al. , 2005a ) . 
+However , it is not clear from these data by which mechanism the viaB locus reduces TLR-dependent cytokine production . 
+The viaB locus contains genes for the regulation ( tviA ) , the biosynthesis ( tviBCDE ) and the export ( vexABCDE ) of the Vi-capsular antigen ( Virlogeux et al. , 1995 ) , a linear polymer of a-1 ,4 ( 2-deoxy ) -2 - N-acetylgalacturonic variably O-acetylated at the C3 position ( Heyns and Kiessling , 1967 ) . 
+It has been shown recently that the TviA regulatory protein controls transcription of the ﬂagellin gene ﬂiC , thereby reducing TLR5-mediated IL-8 production in human intestinal epithelial cells by reducing ﬂagellin secretion ( Winter et al. , 2007 ) . 
+In this study we wanted to determine whether reduction of TLR4-dependent responses involves TviA-mediated regulation of genes located outside the viaB locus or , alternatively , depends on expression of the Vi-capsular polysaccharide . 
+In S. Typhimurium , expression of FliC can be detected in bacteria recovered from the intestine and the Peyer 's patches , but not in bacteria recovered from the mesenteric lymph nodes or spleens of mice ( Cummings et al. , 2006 ) . 
+These data suggest that LPS is more important than ﬂagellin for host responses elicited during the systemic phase of infection with Salmonella serotypes . 
+We thus reasoned that the in vivo signiﬁcance of a viaB-mediated reduction of TLR4 signalling could be studied using an animal model of systemic salmonellosis . 
+S. Typhi can grow in the intestine of germfree mice ( Collins and Carter , 1978 ) or streptomycin-pretreated mice ( Raffatellu et al. , 2007 ) . 
+However , oral infection with S. Typhi elicits few inﬂammatory changes in the cecal mucosa ( Raffatellu et al. , 2007 ) and livers and spleens of mice remain free of bacteria ( Collins and Carter , 1978 ) . 
+To use the mouse model for studying how the viaB locus affects TLR4-mediated host responses in vivo we expressed the Vi-antigen in the mouse virulent S. Typhimurium . 
+The use of intraperitoneal inoculation to synchronize the bacterial arrival at systemic sites of infection allowed us to follow host responses in vivo at early deﬁned time points and correlate results to in vitro stimulation of primary macrophages , a cell type that is important for initiating TLR4-mediated host responses leading to shock ( Beutler and Kruys , 1995 ) . 
+Stimulation of macrophages further enabled us to determine whether the 
+The Vi-capsule prevents TLR4 signalling 877 presence of the TviA regulatory protein or expression of the Vi-capsular antigen in S. Typhimurium are sufficient for reducing TLR4-mediated host responses . 
+Our results provide important mechanistic insights into how the viaB locus modulates host responses that distinguish typhoid fever from infections with S. Typhimurium . 
+Results
+Expression of the Vi-capsule in S. Typhimurium prevents O-antigen agglutination
+Previous studies have shown that introduction of the cloned viaB locus into S. Typhimurium results in expression of the Vi-antigen ( Cao et al. , 1992 ; Raffatellu et al. , 2007 ) . 
+To study the effect of expressing the Vi-capsular antigen in the mouse model , the cloned viaB locus ( plasmid pDC5 ) ( Raffatellu et al. , 2007 ) was introduced into S. Typhimurium strain IR715 . 
+Expression of the Vi-capsular antigen by S. Typhimurium ( pDC5 ) was con-ﬁrmed by immunoelectron microscopy with rabbit anti-Vi serum ( Fig. 1A ) . 
+In their initial description of the capsule in 1934 , Felix and Pitt noted that S. Typhi expressing the Vi-antigen could not be agglutinated with antiserum directed against the O-antigen repeat unit of LPS ( Felix and Pitt , 1934 ) . 
+To determine whether expression of the Vi-antigen in S. Typhimurium and S. Typhi is functionally similar , we determined whether expression of the capsule would prevent bacterial agglutination with serum directed against the O-antigen in both serotypes . 
+Consistent with previous reports , the S. Typhi wild type ( Ty2 ) could be agglutinated with anti-Vi serum , but not with serum against its O-antigen ( anti-O9 , O12 serum ) while an S. Typhi strain carrying a deletion of the tviABCDEvexABCDE genes ( viaB mutant ) could be agglutinated with serum against the S. Typhi O-antigen but not with anti-Vi serum ( Fig. 1B ) . 
+As expected , the S. Typhimurium wild type ( IR715 ) could be agglutinated with serum against its O-antigen ( anti-O4 , O12 serum ) but not with anti-Vi serum . 
+Introduction of the cloned viaB locus ( plasmid pDC5 ) into S. Typhimurium abolished agglutination with serum against the S. Typh-imurium O-antigen while the resulting strain could be agglutinated with anti-Vi serum . 
+These data showed that expression of the Vi-antigen blocked O-antigen agglutination in both S. Typhi and S. Typhimurium . 
+It is relevant to mention in this context , that although the viaB locus is present in S. enterica serotype Paratyphi C , expression of the Vi-antigen does not interfere with O-antigen agglutination in this serotype ( Daniels et al. , 1989 ) . 
+Introduction of the viaB locus into S. Typhimurium reduces activation of MAP kinases in J774A.1 cells
+As an initial characterization , we determined the effect of the viaB locus on the cytokine response elicited by 
+S. Typhimurium in murine J774A .1 macrophage-like cells , a commonly used tissue culture model . 
+S. Typhimurium has been shown previously to induce cell death in murine macrophages ( Chen et al. , 1996 ; Guilloteau et al. , 1996 ; Lindgren et al. , 1996 ; Monack et al. , 1996 ) by a process termed pyroptosis ( Cookson and Brennan , 2001 ) . 
+As death of host cells can be induced within 1 h after infection , we reasoned that cytotoxicity may potentially interfere with measurements of cytokine secretion induced by S. Typhimurium in murine macrophages ( which involves overnight exposure to bacteria ) . 
+As pyroptosis of J774A .1 cells is only observed at a high multiplicity of infection ( moi ) ( Lindgren et al. , 1996 ) we ﬁrst determined at which moi cell death is no longer observed . 
+J774A .1 cells were infected at moi ranging from 100 ( 100 bacteria to 1 mac-rophage ) to 0.01 ( 1 bacterium to 100 macrophages ) using a gentamicin protection assay . 
+After overnight exposure , the numbers of viable J774A .1 cells were examined by measuring lactate dehydrogenase activity of cell lysates . 
+We found the numbers of J774A .1 cells exposed to S. Typhimurium or S. Typhimurium ( pDC5 ) not to be reduced compared with numbers of mock-infected J774A .1 cells when infection was performed at moi of 0.1 or 0.01 ( data not shown ) . 
+An moi of 0.1 ( 1 bacterium to 10 macrophages ) was used for all subsequent macrophage infections . 
+We next determined whether activation of MAP kinases could be observed when J774A .1 cells were infected at an moi of 0.1 . 
+Phosphorylation of the MAP kinases p38 and JNK was investigated 10 min after infection by Western blot . 
+Infection of J774A .1 cells with the S. Typhimurium wild type resulted in increased phosphorylation of JNK and p38 as compared with treatment with sterile phosphate-buffered saline ( PBS ) ( Fig. 2 ) . 
+Compared with infection with the S. Typhimurium wild type , phosphorylation of MAP kinases was markedly reduced when cells were infected with a S. Typhimurium msbB mutant . 
+A mutation in msbB reduces the acylation of lipid A , which abrogates the ability of LPS to function as a TLR4 agonist 
+( Somerville et al. , 1996 ) . 
+In J774A .1 cells infected with the capsulated strain S. Typhimurium ( pDC5 ) phosphorylation of MAP kinases was also markedly reduced . 
+These data showed that the viaB locus reduced the ability of S. Typhimurium to activate MAP kinases in J774A .1 cells . 
+The viaB locus reduces TNF-a and IL-6 production in J774A.1 cells
+To determine whether the activation of MAP kinases observed 10 min after infection results in cytokine production , we infected J774A .1 cells at an moi of 0.1 and collected supernatants from a gentamicin protection assay after overnight exposure . 
+The amount of TNF-a and IL-6 secreted into the culture supernatants was then quantiﬁed by ELISA . 
+J774A .1 cells infected with the S. Typhimurium wild type secreted signiﬁcantly more TNF-a and IL-6 than mock-infected J774A .1 cells or J774A .1 cells infected with a S. Typhimurium strain carrying the cloned viaB locus ( pDC5 ) . 
+The level of TNF-a and IL-6 production induced by S. Typhimurium expressing the Vi-capsule was lower than that of J774A .1 cells infected with a S. Typhimurium msbB mutant ( Fig. 3 ) . 
+We recently demonstrated that introduction of the cloned tviA regulatory gene reduces expression of ﬂagellin in S. Typhimurium and is sufficient to reduce TLR5-dependent IL-8 production in human colonic T-84 epithelial cells . 
+Furthermore , production of the Vi-capsular antigen was not required for reducing TLR5-dependent IL-8 production in T-84 cells ( Winter et al. , 2007 ) . 
+We therefore determined whether the tviA regulatory gene would be sufficient for reducing TNF-a and IL-6 secretion in J774A .1 cells . 
+Introduction of the cloned tviA regulatory gene ( pTVIA2 ) into S. Typhimurium resulted in modestly reduced TNF-a production compared with infection with the S. Typhimurium wild type . 
+Mutations in ﬂiC and ﬂjB , the two ﬂagellin genes of S. Typhimurium , reduced TNF-a production in J774A .1 cells ( Fig. 3 ) . 
+Furthermore , J774A .1 cells infected with a S. Typhimurium strain carrying the cloned tviA gene ( pTVIA2 ) or with a S. Typhimurium ﬂiC ﬂjB mutant produced lower amounts of IL-6 than J774A .1 cells infected with the S. Typhimurium wild type . 
+These data suggested that rec-ognition of ﬂagellin by TLR5 contributed to the induction of IL-6 production and TNF-a production induced by S. Typhimurium in J774A .1 cells . 
+However , introduction of the cloned viaB locus ( pCD5 ) into S. Typhimurium reduced IL-6 production and TNF-a production by a greater magnitude than introduction of the cloned tviA gene ( pTVIA2 ) , suggesting that expression of the Vi-capsular antigen contributed to the reduced cytokine expression in J774A .1 cells . 
+We next determined whether genetic alterations of S. Typhimurium strains used in this study affects the numbers of viable bacteria recovered from J774A .1 cells . 
+The S. Typhimurium wild type ( IR715 ) was recovered in signiﬁcantly higher numbers from a gentamicin protection assay at 2.5 , 18 and 24 h after infection of J774A .1 cells than all other S. Typhimurium strains used in this study ( Fig. 4A ) . 
+Furthermore , the S. Typhimurium msbB mutant was recovered in signiﬁcantly lower numbers than all other S. Typhimurium strains tested . 
+Intact lipid A has previously been shown to be important for macrophage survival of S. Typhimurium ( Jones et al. , 1997 ) , which may explain the reduced recovery of the msbB mutant . 
+However , a previous study shows that a ﬂiC ﬂjB mutant is recovered at numbers similar to those of the S. Typhimurium wild type from mouse resident peritoneal macrophages ( Schmitt et al. , 2001 ) . 
+The ﬁnding that the ﬂiC ﬂjB mutant was recovered in lower numbers than the wild type from J774A .1 cells in our study may be related to differences in the moi ( 0.1 in our study compared with ﬁve in the previous report ) , differences in bacterial growth conditions [ static super optimal broth ( SOB ) broth versus shaking Luria -- Bertani ( LB ) broth ] , differences in bacterial strains ( ATCC14028 versus SL3201 ) or differences in host cells ( J774A .1 cells versus mouse peritoneal mac-rophages ) ; however , this was not further investigated . 
+As expression of ﬂagellin is also reduced in S. Typhimurium strains expressing the TviA regulatory protein ( i.e. strains carrying plasmids pDC5 or pTVIA2 ) ( Winter et al. , 2007 ) , reduced recovery of these strains may be caused by defects similar to those reducing recovery of the ﬂiC ﬂjB mutant . 
+Alternatively , the TviA regulatory protein may affect expression of other virulence factors in S. Typhimurium . 
+To assess bacterial attachment in the absence of phagocytosis , J774A .1 cells were infected with bacteria and incubated at 4 °C in the absence of gentamicin . 
+Recovery of cell-associated bacteria showed that the S. Typhimurium wild type and the msbB mutant were recovered in greater numbers than the other mutants tested ( Fig. 4B ) . 
+These data were consistent with the idea that the absence of ﬂagella ( ﬂiC ﬂjB mutant ) or reduced ﬂagellin expression ( in strains carrying plasmids pDC5 or pTVIA2 ) resulted in reduced attachment to J774A .1 cells under the assay conditions used in this study . 
+Furthermore , these data suggested that reduced recovery of the msbB mutant from the gentamicin protection assay ( Fig. 4A ) was likely due to reduced bacterial survival rather than reduced bacterial uptake . 
+Importantly , differences in bacterial uptake could not account for the reduction in cytokine expression observed in bacteria carrying plasmid pDC5 . 
+For instance , the ﬂiC ﬂjB mutant and the ﬂiC ﬂjB mutant carrying pDC5 were recovered in similar numbers from J774A .1 cells ( Fig. 4 ) . 
+However , the ﬂiC ﬂjB mutant elicited signiﬁcantly more TNF-a and IL-6 production in J774A .1 cells than the ﬂiC ﬂjB mutant carrying pDC5 ( Fig. 3 ) . 
+Thus , differences in cytokine production elicited by these two strains could not be explained by differences in bacterial recovery from J774A .1 cells . 
+To eliminate the possibility that plasmids pDC5 or pTVIA2 may alter cytokine production because their introduction into S. Typhimurium may alter expression of virulence genes , thereby changing bacterial viability , we repeated stimulation of J774A .1 cells using heat-killed S. Typhimurium cells at a dose of approximately one heat-killed bacterium to 10 macrophages . 
+Stimulation of J774A .1 cells with heat-killed S. Typhimurium resulted in a similar magnitude of IL-6 and TNF-a production ( Fig. 5 ) as infection with live S. Typhimurium ( Fig. 3 ) . 
+Importantly , introduction of pDC5 markedly reduced IL-6 and TNF-a secretion elicited in J774A .1 cells by heat-killed S. Typhimurium ( Fig. 5 ) . 
+Introduction of the tviA gene only resulted in a partial reduction IL-6 secretion , suggesting that expression of the Vi-capsular antigen contributed signiﬁcantly to reduction of cytokine secretion in this model . 
+After optimizing assays for S. Typhimurium-induced cytokine production in J774A .1 cells , we investigated responses in primary murine macrophages . 
+To compare responses measured in J774A .1 macrophage-like cells with those observed in primary macrophages , it was relevant to ﬁrst determine whether both cell types would respond equally to stimulation with LPS and ﬂagellin , the two TLR ligands relevant for our study . 
+J774A .1 cells and bone marrow-derived macrophages isolated from C57BL/6 mice were stimulated with ultrapure LPS or with ultrapure S. Typhimurium ﬂagellin ( recombinant FliC puriﬁed from HEK293 cells ) and cytokine production was quantiﬁed 24 h later by ELISA ( Fig. 6 ) . 
+J774A .1 cells responded both to stimulation with LPS and to stimulation with ﬂagellin . 
+In contrast , bone marrow-derived macroph-ages were very responsive to LPS but could not be stimulated with puriﬁed ﬂagellin . 
+Our data suggested that J774A .1 cells may express both TLR4 and TLR5 while primary murine bone marrow-derived macrophages may express only TLR4 . 
+This interpretation is consistent with previous reports showing a lack of TLR5 expression in murine bone marrow-derived dendritic cells and murine peritoneal macrophages ( Means et al. , 2003 ) . 
+An important prediction from this result was that TviA mediated regulation of FliC would not alter cytokine production elic-ited in bone marrow-derived macrophages , despite the fact that TviA signiﬁcantly reduced cytokine production elicited in J774A .1 cells [ S. Typhimurium versus S. Typhimurium ( pTVIA2 ) , Figs 3 and 5 ] . 
+The Vi-capsular antigen reduces TLR4-dependent TNF-a and IL-6 production in bone marrow-derived macrophages
+Bone marrow-derived macrophages from C57BL/6 mice were stimulated with heat-killed S. Typhimurium as described above and secretion of TNF-a and IL-6 into the culture supernatant quantiﬁed by ELISA . 
+Introduction of the viaB locus ( pDC5 ) , but not introduction of the cloned tviA gene ( pTVIA2 ) , reduced TNF-a production elicited by heat-killed S. Typhimurium in bone marrow-derived mac-rophages ( Fig. 7 ) . 
+A heat-killed S. Typhimurium ﬂiC ﬂjB mutant triggered similar levels of TNF-a release as the heat-killed S. Typhimurium wild type , suggesting that production of this cytokine was largely unaffected by TLR5 signalling in bone marrow-derived macrophages . 
+While production of IL-6 was signiﬁcantly reduced when J774A .1 cells were stimulated with the heat-killed ﬂiC ﬂjB mutant compared with stimulation with the heat-killed S. Typhimurium wild type ( Fig. 5 ) , inactivation of ﬂiC and ﬂjB had no affect on IL-6 production in bone marrowderived macrophages ( Fig. 7 ) . 
+These data conﬁrmed that unlike in J774A .1 cells , ﬂagellin did not contribute to IL-6 production elicited by heat-killed S. Typhimurium in bone marrow-derived murine macrophages . 
+Furthermore , introduction of the cloned viaB locus ( pDC5 ) , but not introduction of the cloned tviA gene ( pTVIA2 ) , reduced IL-6 production elicited by heat-killed S. Typhimurium in bone marrow-derived murine macrophages . 
+These data suggested that a reduction of TNF-a and IL-6 production in bone marrow-derived macrophages required expression of the Vi-capsular antigen , while the TviA-mediated regulation of ﬂagellin genes was not required for this trait . 
+To investigate the contribution of TLR4-dependent host responses to TNF-a and IL-6 production in bone marrowderived macrophages , we repeated above experiment using macrophages from C57BL/10ScNJ mice ( TLR4 - / - mice ) . 
+This strain is homozygous for the defective LPS response deletion allele Tlr4lps-del ( Agace et al. , 1992 ) . 
+Stimulation of bone marrow-derived macrophages from TLR4 - / - mice with heat-killed S. Typhimurium strains indicated that production of TNF-a and IL-6 was dependent on the presence an intact Tlr4 gene ( Fig. 6 ) . 
+Collectively , these data showed that expression of the Vi-capsular antigen in S. Typhimurium reduced TLR4-dependent production of TNF-a and IL-6 in bone marrowderived murine macrophages . 
+The viaB locus reduces TLR4-dependent TNF-a and iNOS expression during systemic infection
+Lipopolysaccharide contributes to mortality during S. Typhimurium sepsis ( Khan et al. , 1998 ) , in part because it elicits the rapid production of TNF-a ( Engelberts et al. , 1991 ) , an important mediator of shock in mice infected intraperitoneally with S. Typhimurium ( Dharmana et al. , 2002 ) . 
+To investigate the relevance of the capsulemediated suppression of TLR4-mediated host responses for the systemic phase of infection in vivo , we investigated host responses using a mouse peritonitis/sepsis model . 
+The intraperitoneal route was chosen to synchronize the arrival of bacteria at systemic sites of infection , which enabled us to measure induction of TNF-a expression at a deﬁned early time point ( 1 h ) after infection . 
+All bacterial strains were recovered at similar numbers 1 h after infection from the liver and from blood of C57BL/6 mice ( Fig. 8A and B ) . 
+Infection with the S. Typhimurium wild type resulted in a marked upregulation of TNF-a expression in the liver within 1 h. TNF-a expression was signiﬁcantly reduced when mice were infected with a S. Typhimurium msbB mutant , suggesting that induction of this cytokine was mediated largely through LPS ( Fig. 8C ) . 
+Infection with an S. Typhimurium strain carrying the cloned viaB locus ( pDC5 ) reduced TNF-a expression to levels observed after infection with the msbB mutant . 
+These results suggested that in vivo the viaB locus could neutralize the effect of LPS in inducing TNF-a expression during S. Typhimurium sepsis . 
+Differences in inducing TNF-a expression were TLR4-dependent , as no signiﬁcant differences between bacterial strains in eliciting TNF-a expression were detected after infection of TLR4 - / - mice ( ANOVA P = 0.38 ) . 
+The development of septic shock in mice injected intraperitoneally with LPS is accompanied by increased expression of inducible nitric oxide synthase ( iNOS ) , which can be prevented by pretreatment with an anti-TNF-a monoclonal antibody ( Cunha et al. , 1994 ) . 
+We thus investigated whether the reduced TNF-a expression observed in mice infected with Vi-antigen expressing S. Typhimurium would result in reduced iNOS expression . 
+No increase in iNOS expression was detected 1 h after infection of C57BL/6 mice ( data not shown ) . 
+However , infection with the S. Typhimurium wild type resulted in a dramatic increase in iNOS expression at 4 h after infection ( Fig. 9 ) . 
+Expression of iNOS was signiﬁcantly lower in mice infected with the S. Typhimurium msbB mutant or the S. Typhimurium strain expressing the Vi-antigen than in mice infected with wild type S. Typhimurium . 
+Importantly , the presence of the Vi-antigen reduced iNOS expression by a magnitude similar to that caused by eliminating LPS-induced iNOS expression . 
+These results further supported the idea that the viaB locus could fully neutralize the effect of LPS on the host responses in this animal model of sepsis . 
+Discussion
+While S. Typhimurium-induced gastroenteritis is characterized by a massive neutrophil inﬂux in the intestine ( Harris et al. , 1972 ; Day et al. , 1978 ; McGovern and Sla-vutin , 1979 ) , neutrophils are scarce in the intestinal inﬁltrates of typhoid fever patients ( Sprinz et al. , 1966 ; Harris et al. , 1972 ; Mukawi , 1978 ; Alvarado , 1983 ; Guyot et al. , 1984 ; Kraus et al. , 1999 ; Nguyen et al. , 2004 ) . 
+Although effector proteins translocated into epithelial cells by the invasion-associated type III secretion system ( T3SS-1 ) of S. Typhimurium are critically important for eliciting intestinal neutrophil inﬂux and diarrhoea ( Tsolis et al. , 1999 ; Zhang et al. , 2002a , b ; Zhang et al. , 2003 ; Raffatellu et al. , 2005b ) , S. Typhi carries a functional repertoire of T3SS-1 effectors ( Raffatellu et al. , 2005c ) . 
+These data suggest that differences in the host responses elicited by S. Typhimurium and S. Typhi in humans can not be explained by differences in the functionality of T3SS-1 ( Raffatellu et al. , 2005c ) . 
+Instead , the differences in the intestinal responses to these pathogens may in part be explained by the viaB locus ( Raffatellu et al. , 2006 ) , a genetic region , which is present in S. Typhi , but absence from the S. Typhimurium genome ( McClelland et al. , 2001 ; Parkhill et al. , 2001 ) . 
+The presence of the viaB locus allows S. Typhi to reduce production of neutrophil chemoattractants in tissue culture models ( Hirose et al. , 1997 ; Sharma and Qadri , 2004 ; Raffatellu et al. , 2005a ; 2007 ) . 
+Deletion of the viaB locus in S. Typhi results in signiﬁcantly increased expression of neutrophil chemoattractants , neutrophil recruitment and ﬂuid accumulation in bovine ligated ileal loops . 
+Furthermore , introduction of the cloned viaB locus into S. Typhiumurium results in a signiﬁcant reduction of cytokine expression and in reduced ﬂuid secretion in this gastroenteritis model ( Raffatellu et al. , 2007 ) . 
+One of the mechanisms contributing to neutrophil recruitment during S. Typhimurium-induced gastroenteritis is IL-8 production induced by bacterial ﬂagellin , which stimulates TLR5 , a pathogen recognition receptor expressed basolaterally on intestinal epithelial T84 cells ( Gewirtz et al. , 2001 ) . 
+The viaB locus reduces IL-8 production elicited by S. Typhi in T84 cells ( Raffatellu et al. , 2005a ) or CaCo-2 cells ( Sharma and Qadri , 2004 ) . 
+A recent study on the underlying mechanism shows that expression of the Vi-capsular antigen is not required by S. Typhi to reduce IL-8 expression in intestinal epithelial cells . 
+Instead , the TviA regulatory protein encoded within the viaB locus suppresses ﬂagellin secretion in S. Typhi , thereby reducing TLR5-mediated IL-8 production in intes-tinal epithelial cells ( Winter et al. , 2007 ) . 
+Furthermore , introduction of the cloned tviA gene into S. Typhimurium results in reduced ﬂagellin secretion and reduced IL-8 production in intestinal epithelial cells ( Winter et al. , 
+The Vi-capsule prevents TLR4 signalling 885 2007 ) . 
+During infection of mice , S. Typhimurium expresses the ﬂagellin gene ﬂiC in the Peyer 's patches , but not at extra-intestinal locations such as the mesenteric lymph node or the spleen ( Cummings et al. , 2006 ) . 
+Therefore , the above mechanism may contribute to differences between S. Typhi and S. Typhimurium in host responses elicited in the intestine . 
+However , TviA-mediated regulation of ﬂagellin expression is not likely to contribute to host responses observed at systemic sites of infection . 
+Unlike bacteremic infections with other Gram-negative pathogens , S. Typhi infections result in a bacteremia that is characterized by a gradual onset of symptoms and does not produce a fulminant clinical picture resembling septic shock ( Butler et al. , 1978 ) . 
+The serum concentrations of IL-6 and TNF-a are elevated in typhoid fever patients , but are markedly lower than those observed during Gram-negative sepsis ( Butler et al. , 1993 ) . 
+In contrast , S. Typhimurium causes a fulminant sepsis in AIDS patients , which has become a leading cause of death in sub-Saharan Africa ( Gordon et al. , 2002 ) . 
+Mice infected with S. Typhimurium develop a bacteremic disease that may mimic aspects of S. Typhimurium bacteremia in AIDS patients . 
+Characterization of a S. Typhimurium msbB mutant provides evidence that death in the mouse model is directly dependent on the toxicity of the lipid A moiety of LPS ( endotoxin ) and suggests that lethality may be mediated via pro-inﬂammatory cytokine and/or iNOS responses ( Khan et al. , 1998 ) . 
+The toxic effects of LPS are primarily caused indirectly through the activation of monocytes and macrophages , leading to the release of TNF-a ( Beutler and Kruys , 1995 ) . 
+Passive immunization against TNF-a prevents the induction of iNOS expression ( Cunha et al. , 1994 ) and protects mice from the lethal effect of LPS ( Beutler et al. , 1985 ) , suggesting that this cytokine is one of the principal mediators of the lethal effect of endotoxin . 
+LPS-induced production of TNF-a by macrophages involves recognition of this bacterial product by the TLR4/MD -2 / CD14 receptor complex ( Medzhitov et al. , 1997 ; Dziarski and Gupta , 2000 ; Jiang et al. , 2000 ) . 
+A recent study shows that deletion of the viaB locus in S. Typhi results in increased IL-8 expression in human embryonic kidney ( HEK-293 ) cells transfected with the human TLR4/MD -2 / CD14 receptor complex ( Raffatellu et al. , 2005a ) . 
+The goal of this study was to investigate the biological relevance of this observation using appropriate tissue culture and animal models . 
+A TviA-mediated control over the production of a TLR5 agonist ( i.e. ﬂagellin ) explains how the viaB locus reduces TLR5-dependent host responses in intestinal epithelial cells ( Winter et al. , 2007 ) , but this mechanism can not account for the observation that the viaB locus reduces TLR4-dependent IL-8 expression in HEK-293 cells ( Raffatellu et al. , 2005a ) . 
+While introduction of the cloned tviA gene reduces TLR5-dependent IL-8 production elicited by 
+S. Typhimurium in human intestinal epithelial cells ( Winter et al. , 2007 ) , we show that introduction of this gene did not alter TLR4-dependent TNF-a production elicited in murine bone marrow-derived macrophages . 
+Instead , reduction of TLR4-dependent TNF-a production elicited by S. Typhimurium in murine macrophages required expression of the Vi-capsular antigen . 
+These data represent the ﬁrst evidence that the viaB-mediated inhibition of TLR4-signalling requires expression of the Vi-antigen . 
+Furthermore , this and previous studies suggest that the viaB-mediated evasion of TLR5 and TLR4-dependent responses involves different mechanisms . 
+However , the TviA regulatory protein encoded within the viaB locus is essential for both processes as it positively regulates production of the Vi-capsular antigen ( Virlogeux et al. , 1995 ) and negatively regulates ﬂagellin expression ( Winter et al. , 2007 ) . 
+The picture emerging from these studies is that the TviA regulatory protein mediates changes in bacterial gene expression resulting in a stealth design , which allows S. Typhi to remain below the radar of the host 's innate immune surveillance system . 
+These TviA-mediated changes in bacterial gene expression include the repression of a PAMP ( i.e. ﬂagellin ) to reduce TLR5 signalling and the induction of capsule expression to reduce TLR4 signalling . 
+Infection of mice showed that expression of the Vi-capsular antigen dramatically altered the host response to S. Typhimurium . 
+The Vi-capsular antigen reduced expression of TNF-a and iNOS in vivo to levels observed after infection with a S. Typhimurium msbB mutant , suggesting that the viaB locus could fully neutralize the effect of LPS on these host responses in C57BL/6 mice . 
+No differences in TNF-a expression were observed between TLR4 - / - mice infected with the S. Typhimurium wild type , the S. Typhimurium wild type carrying the cloned viaB locus or the S. Typhimurium msbB mutant . 
+These data demonstrated that host responses evaded by the viaB locus were strictly TLR4 dependent , which was consistent with results from in vitro stimulation of macrophages . 
+These data represent the ﬁrst evidence that the Vi-capsular antigen can markedly alter host responses during the systemic phase of a bacterial infection in vivo . 
+Future research is required to determine the mechanism by which the Vi-capsular antigen may interfere with TLR4-signalling . 
+One possibility is that the polysaccharide may physically mask PAMPs and/or act as a physical barrier to their release , thereby interfering with TLR stimulation . 
+The ﬁnding that the Vi-antigen inhibits agglutination of S. Typhi with anti-LPS antibodies ( Felix and Pitt , 1934 ; Felix et al. , 1934 ) supports the idea that the capsule can physically mask this surface structure . 
+We also observed an inhibition of O-antigen agglutination when the Vi-antigen was expressed in S. Typhimurium . 
+Alternatively , the capsule may interfere with stimulation of the TLR4/MD -2 / CD14 receptor complex by binding soluble components ( i.e. CD14 ) , as has recently been shown for the capsular polysaccharide of Neisseria men-ingitidis ( Kocabas et al. , 2007 ) . 
+The ﬁnding that both the S. Typhi and the N. meningitides capsules function in the inhibition of TLR4-signalling raises the possibility that evasion of innate immunity may be a general feature of bacterial capsular polysaccharides , which represents an exciting area for future research . 
+Experimental procedures
+Bacterial strains, culture conditions and preparation of inoculums
+S. Typhimurium strain IR715 is a fully virulent , spontaneous nali-dixic acid-resistant derivative of strain ATCC14028 ( Stojiljkovic et al. , 1995 ) . 
+EHW26 is a non-ﬂagellated derivative of ATCC14028 ( ﬂiC ﬂjB mutant ) , which has been described previously ( Raffatellu et al. , 2005a ) . 
+RPW3 is a derivative of strain IR715 carrying a mutation in msbB , which has been described previously ( Raffatellu et al. , 2005a ) . 
+Construction of a plasmid ( pDC5 ) carrying the viaB locus has been described previously ( Raffatellu et al. , 2007 ) . 
+The tviA gene and its 600 bp promoter region were ampliﬁed by polymerase chain reaction ( PCR ) using the primers 5 ′ - GGTACCCAGTATGACGTTCTG-3 ′ and 5 ′ - CGAATTCTTGTCCGTGTTTTAC-3 ′ and cloned into the EcoRI and KpnI sites of the plasmid pWKS30 ( Wang and Kushner , 1991 ) to give rise to the plasmid pTVIA2 . 
+Strains were cultured statically overnight at 37 °C in SOB with Mg2 + ( 20 g l-1 tryptone , 5 g l-1 yeast extract , 10 mM NaCl , 2.5 mM KCl , 10 mM MgCl2 10 mM MgSO4 ) to achieve optimal Vi-capsule expression . 
+Expression of the Vi-capsule was monitored prior to every experiment by slide agglutination using rabbit anti-Vi serum ( BD ) . 
+RPW3 was cultured aerobically overnight at 37 °C in MSB broth ( 10 g l-1 peptone , 5 g l-1 yeast extract , 2 mM MgSO , 2 mM 4 CaCl2 ) ( Murray et al. , 2001 ) . 
+When appropriate , antibiotics were added at the following concentrations : nalidixic acid 0.5 mg ml-1 , kanamycin 0.05 mg ml-1 and carbenicillin 0.1 mg ml-1 . 
+Before infection of mice , overnight cultures were diluted in PBS , and each culture was adjusted to an optical density ( OD600 ) of 1 . 
+After infection , serial 10-fold dilutions of the inoculum were plated on LB agar plates to conﬁrm estimated bacterial numbers . 
+In experiments involving heat-killed bacteria , bacteria were incubated at 65 °C for 30 min . 
+HOURSeat-killed bacteria were plated on LB plates to conﬁrm the absence of live bacteria in the inoculum . 
+Immunoelectron microscopy and agglutination visualization
+Immunogold labelling was performed as previously described ( Humphries et al. , 2003 ) . 
+Brieﬂy , overnight cultures were prepared under the conditions listed above . 
+Bacteria were washed twice with Dulbecco 's phosphate-buffered saline ( DPBS , Gibco ) and then resuspended in DPBS at a concentration of 1 ¥ 109 colony forming units ( cfu ) ml-1 . 
+EM-grade water ( EM Science ) was used to wash a Formvar/carbon-coated grid ( EM Science ) . 
+Next , 10 ml of bacterial suspension was applied to the grid for 2 min . 
+Grids were incubated for 20 min in a primary rabbit anti-Vi serum ( BD ) diluted 1:200 in DPBS ( Gibco ) containing 1 % bovine serum albumin ( BSA ) ( Sigma ) , then washed ﬁve times for 1 min in DPBS containing 1 % BSA . 
+Grids were incubated for 20 min in goat anti-rabbit 10 nm gold conjugate ( EM Science ) diluted 1:20 in DPBS containing 1 % BSA , then washed three times for 1 min in DPBS containing 1 % BSA and three times for 1 min in EM-grade water . 
+Finally , grids were stained with 1 % Uranyl acetate for 2 min and visualized using a Philips CM120 electron microscope . 
+For agglutination assays , overnight cultures were prepared as described above . 
+One millilitre of bacterial suspension was centrifuged at 15 000 g for 5 min and then resuspended in 10 ml of Vi , O4 or O9 antiserum ( BD ) . 
+The suspension was then placed on a cover slide and negatively stained with a drop of India ink ( FaberCastell ) . 
+The slides were visualized at a magniﬁcation of 1000 ¥ using a Zeiss Axiovert 200M inverted microscope . 
+Tissue culture experiments
+The J774A .1 cell line was obtained from the American Type Culture Collection ( ATCC TIB-67 ) and was routinely cultured in Dulbecco 's modiﬁed Eagle 's medium ( DMEM ) supplemented with 10 % fetal calf serum and 1 % nonessential amino acids ( Gibco ) . 
+For MAP Kinase Phosphorylation assays , cells were seeded in six well plates at a density of 4 ¥ 108 cells per well and incubated overnight . 
+In all other assays , cells were seeded in 24 well plates at a density of 1 ¥ 106 cells per well and incubated overnight . 
+For primary macrophage assays , 4 - to 6-week-old female C57BL/6 J ( TLR4 + / + ) mice ( Jackson Laboratory ) and C57BL/10ScNJ ( TLR4 - / -- ) mice ( Jackson Laboratory ) were used . 
+To isolate bone marrow-derived macrophages , mice femurs were removed and ﬂushed with complete medium ( DMEM , 10 % fetal bovine serum , 2 mM glutamine , 100 mg ml1 penicillin and streptomycin ) . 
+The bone marrow was then cultured for 3 days in complete medium supplemented with L-cell conditioned medium , which was prepared as described ( Rolan and Tsolis , 2007 ) . 
+On day 3 , the media was replaced with fresh complete medium supplemented with L-cell conditioned medium . 
+On day 7 , adherent cells were treated with Trypsin-EDTA ( Gibco ) and the resulting cell suspension was centrifuged at 1000 r.p.m. for 10 min . 
+The cells were seeded in 24 well plates at a density of 5 ¥ 105 cells per well . 
+Cells were then incubated overnight in complete media without L-cell conditioned media or antibiotics . 
+For analysis of MAP kinase phosphorylation , J774A .1 cells were infected for 10 min at an moi of 0.1 ( 1 bacterium to 10 cells ) , washed once with DPBS and lysed 0.1 ml in phosphosafe extraction reagent ( Novagen ) containing 2.5 % protease inhibitor ( Sigma ) according to the instructions of the manufacturer . 
+The protein concentration was determined using the Micro BCA kit ( Pierce ) . 
+Total protein ( 0.01 mg ) was resolved by SDS-PAGE and transferred to a polyvinylidene ﬂuoride membrane . 
+Primary antibodies were purchased from Cell Signalling Technology , including the following phosphorylation-speciﬁc antibodies : p-SAPK / JNK ( Thr183/Tyr185 ) and p-p38 ( Thr180/Tyr182 ) . 
+Secondary antibodies ( goat anti rabbit conjugated to horseradish peroxidase ) were purchased from Jackson Immunoresearch and used according to the recommendations of the manufacturer . 
+Peroxidase activity was visualized using Immobilon Western Chemiluminescent HRP Substrate ( Millipore ) . 
+For each primary antibody , a separate membrane was used . 
+To determine infection conditions that result in low macroph-age cell death , the CytoTox 96 Non-Radioactive Cytotoxicity Assay was used according to the Total Cell Number Assay protocol ( both from Promega ) . 
+Bacteria at a range of moi were added to 1 ¥ 106 J774A .1 cells in 24 well plate . 
+Multiplicity of infection of 0.01 ( 1 bacterium to 100 cells ) , 0.1 , 1 , 10 and 100 were tested . 
+J774A .1 cells were infected for 1 h. Next , cells were washed three times with 0.5 ml of DPBS ( Gibco ) . 
+J774A .1 medium containing 100 mg ml-1 gentamicin ( Gibco ) was then added to the cells for 90 min . 
+Then , the medium was replaced with J774A .1 medium containing 25 mg ml-1 gentamicin and the macrophages were incubated at 37 °C for 22.5 h. Cells were washed ﬁve times with DPBS . 
+Cells were lysed by the addition of 100 ml of lysis solution ( Promega ) and incubated at 37 °C for 1 h . 
+A volume of 50 ml of the cell lysate was transferred to a ﬂat bottom 96 well enzymatic assay plate and 50 ml of the reconstituted substrate mix ( Promega ) was then added to the lysate . 
+The plate was then incubated in the dark for 30 min at room temperature . 
+Finally , 50 ml of the stop solution ( Promega ) was added and the absorbance was recorded at 490 nm . 
+To determine bacterial numbers in J774A .1 cells , bacteria were added to cells for 1 h at an moi of 0.1 . 
+Cells were washed three times with 0.5 ml of DPBS ( Gibco ) . 
+J774A .1 medium containing 0.1 mg ml-1 gentamicin ( Gibco ) was then added to the cells for 90 min . 
+The medium was replaced with J774A .1 medium containing 0.025 mg ml-1 gentamicin and the macrophages were incubated at 37 °C for 0 , 18 or 24 h. Cells were then washed ﬁve times with DPBS and ice-cold sterile distilled water was added to the J774A .1 cells . 
+To promote lysis , the cells were placed at 4 °C for 30 min . 
+Next , intracellular bacteria were quantiﬁed by spreading serial 10-fold dilutions on LB agar plates with the appropriate antibiotics . 
+To determine bacterial attachment , J774A .1 cells were incubated for 1 h at 4 °C . 
+Bacteria were added to cells ( 1 h at 4 °C to allow for attachment in the absence of phagocytosis ) at an moi of 0.1 . 
+Cells were then washed eight times with ice-cold PBS and cells were suspended in 0.5 ml PBS . 
+Cell-associated bacteria were quantiﬁed by spreading serial 10-fold dilutions on LB agar plates with the appropriate antibiotics . 
+For experiments using heat-killed bacteria , macrophages were infected for 24 h in antibiotic free media . 
+For stimulation with puriﬁed ligands , J774A .1 cells or bone-marrow derived macroph -- 1 ages were stimulated with 10 mg well ultrapure LPS ( S. enterica serotype Minnesota , InvivoGen ) or with 10 ng well-1 ultrapure recombinant ﬂagellin ( S. Typhimurium FliC ﬂagellin puriﬁed from human kidney HEK293 cells ) for 24 h . 
+The concentration of cytokines in the supernatants of macrophages 24 h after stimulation with ligands ( LPS , FliC ) or after infection with heat-killed or live bacteria determined using eBioscience ELISA kits according to the instructions provided by the manufacturer . 
+Each experiment performed three times independently , using each time triplicate wells per treatment group . 
+Animal experiments
+Overnight cultures were grown under the conditions listed above . 
+For mice experiments , 4 - to 6-week-old female C57BL/6 J ( TLR4 + / + ) mice ( Jackson Laboratory ) and C57BL/10ScNJ 
+( TLR4 - / - ) mice ( Jackson Laboratory ) were used . 
+Mice were intra-peritoneally infected with 1 ¥ 108 cfu . 
+At 1 , 4 and 8 h groups of four mice where sacriﬁced and spleen as well as blood samples were collected and processed . 
+To determine S. Typhimurium numbers in the liver , tissue samples were homogenized in PBS and serial 10-fold dilutions plated onto LB agar plates containing the appropriate antibiotics . 
+S. Typhimurium numbers in blood were determined by plating 10-fold serial dilutions of blood in PBS on LB agar plates containing the appropriate antibiotics . 
+A liver sample was collected from each mouse , immediately snap-frozen in liquid nitrogen and stored at -80 C. RNA was then extracted from snap-frozen tissue with TriReagent ( Molecular Research Center ) according to the instruction of the manufacturer . 
+A total of 1000 ng of RNA from each sample was reverse transcribed in 0.05 ml volume ( Taqman reverse transcription reagent , Applied Biosystems ) . 
+Approximately 0.005 ml of cDNA was used for each real-time reaction . 
+Real-time PCR was performed using SYBR Green ( Applied Biosystems ) and the 7900HT Fast RealTime PCR System . 
+The data were analysed using the comparative Ct method ( Applied Biosystems ) . 
+Fold-increases in cytokine expression in infected mice were calculated relative to the average level of the respective cytokine in four PBS-infected control mice killed at the corresponding time point . 
+The mouse GAPDH primers have been previously described ( Roux et al. , 2007 ) . 
+The mouse TNF-a primers used were 5 ′ - AGCCAGGAGGGAGAACAGAAA C-3 ′ ( forward primer ) and 5 ′ - CCAGTGAGTGAAAGGGACAGAAC C-3 ′ ( reverse primer ) . 
+The mouse iNOS primers used were 5 ′ - TTGGGTCTTGTTCACTCCACGG-3 ′ ( forward primer ) and 5 ′ - CCTCTTTCAGGTCACTTTGGTAGG-3 ′ . 
+Statistical analysis
+For statistical analysis of data , fold-changes in mRNA levels measured by real-time PCR and cfu numbers underwent logarithmic transformation . 
+Statistical analysis of data was performed using ANOVA followed by either a Student 's t-test ( for data with J774A .1 cells or data on RNA isolated from spleens ) or a paired Student 's t-test ( for experiments with bone marrow-derived macrophages ) . 
+Acknowledgements
+We would also like to thank Maria Winter and Maarten de Jong for expert technical assistance , Grete Adamson for her help with electron microscopy , Yao-Hui Sun for his help with microscopy , and Renée Tsolis and Charles Bevins for helpful suggestions during this work . 
+Work in AJB 's laboratory was supported by USDA/NRICGP Grant No. 2002-35204-12247 and Public Health Service Grants AI040124 , AI044170 and AI065534 . 
+Reference
+Agace , W. , Hedges , S. , and Svanborg , C. ( 1992 ) Lps genotype in the C57 black mouse background and its inﬂuence on the interleukin-6 response to E. coli urinary tract infection . 
+Scand J Immunol 35 : 531 -- 538 . 
+Alvarado , T. ( 1983 ) Faecal leucocytes in patients with infectious diarrhoea . 
+Trans R Soc Trop Med Hyg 77 : 316 -- 320 . 
+Beutler , B. , and Kruys , V. ( 1995 ) Lipopolysaccharide signal transduction , regulation of tumor necrosis factor biosynthesis , and signaling by tumor necrosis factor itself . 
+J Cardiovasc Pharmacol 25 ( Suppl . 
+2 ) : S1 -- S8 . 
+Beutler , B. , Milsark , I.W. , and Cerami , A.C. ( 1985 ) Passive immunization against cachectin/tumor necrosis factor protects mice from lethal effect of endotoxin . 
+Science 229 : 869 -- 871 . 
+Bueno , S.M. , Santiviago , C.A. , Murillo , A.A. , Fuentes , J.A. , Trombert , A.N. , Rodas , P.I. , et al. ( 2004 ) Precise excision of the large pathogenicity island , SPI7 , in Salmonella enterica serovar Typhi . 
+J Bacteriol 186 : 3202 -- 3213 . 
+Butler , T. , Bell , W.R. , Levin , J. , Linh , N.N. , and Arnold , K. ( 1978 ) Typhoid fever . 
+Studies of blood coagulation , bacte-remia , and endotoxemia . 
+Arch Intern Med 138 : 407 -- 410 . 
+Butler , T. , Ho , M. , Acharya , G. , Tiwari , M. , and Gallati , H. ( 1993 ) Interleukin-6 , gamma interferon , and tumor necrosis factor receptors in typhoid fever related to outcome of antimicrobial therapy . 
+Antimicrob Agents Chemother 37 : 2418 -- 2421 . 
+Cao , Y. , Wen , Z. , and Lu , D. ( 1992 ) Construction of a recombinant oral vaccine against Salmonella typhi and Salmo-nella typhimurium . 
+Infect Immun 60 : 2823 -- 2827 . 
+Chen , L.M. , Kaniga , K. , and Galan , J.E. ( 1996 ) Salmonella spp are cytotoxic for cultured macrophages . 
+Mol Microbiol 21 : 1101 -- 1115 . 
+Collins , F.M. , and Carter , P.B. ( 1978 ) Growth of salmonellae in orally infected germfree mice . 
+Infect Immun 21 : 41 -- 47 . 
+Cookson , B.T. , and Brennan , M.A. ( 2001 ) Pro-inﬂammatory programmed cell death . 
+Trends Microbiol 9 : 113 -- 114 . 
+Cummings , L.A. , Wilkerson , W.D. , Bergsbaken , T. , and Cookson , B.T. ( 2006 ) In vivo , ﬂiC expression by Salmo-nella enterica serovar Typhimurium is heterogeneous , regulated by ClpX , and anatomically restricted . 
+Mol Microbiol 61 : 795 -- 809 . 
+Cunha , F.Q. , Assreuy , J. , Moss , D.W. , Rees , D. , Leal , L.M. , Moncada , S. , et al. ( 1994 ) Differential induction of nitric oxide synthase in various organs of the mouse during endotoxaemia : role of TNF-alpha and IL-1-beta . 
+Immunology 81 : 211 -- 215 . 
+Daniels , E.M. , Schneerson , R. , Egan , W.M. , Szu , S.C. , and Robbins , J.B. ( 1989 ) Characterization of the Salmonella paratyphi C Vi polysaccharide . 
+Infect Immun 57 : 3159 -- 3164 . 
+Day , D.W. , Mandal , B.K. , and Morson , B.C. ( 1978 ) The rectal biopsy appearances in Salmonella colitis . 
+Histopathology 2 : 117 -- 131 . 
+Dharmana , E. , Keuter , M. , Netea , M.G. , Verschueren , I.C. , and Kullberg , B.J. ( 2002 ) Divergent effects of tumor necrosis factor-alpha and lymphotoxin-alpha on lethal endotoxemia and infection with live Salmonella typhimurium in mice . 
+Eur Cytokine Netw 13 : 104 -- 109 . 
+Dziarski , R. , and Gupta , D. ( 2000 ) Role of MD-2 in TLR2-and TLR4-mediated recognition of Gram-negative and Gram-positive bacteria and activation of chemokine genes . 
+J Endotoxin Res 6 : 401 -- 405 . 
+Engelberts , I. , von Asmuth , E.J. , van der Linden , C.J. , and Buurman , W.A. ( 1991 ) The interrelation between TNF , IL-6 , and PAF secretion induced by LPS in an in vivo and in vitro murine model . 
+Lymphokine Cytokine Res 10 : 127 -- 131 . 
+Felix , A. , Bhatnagar , S.S. , and Pitt , R.M. ( 1934 ) Observations on the properties of the Vi antigen of B. typhosus . 
+Br J Exp Pathol 15 : 346 -- 354 . 
+Felix , A. , and Pitt , R.M. ( 1934 ) A new antigen of B. typhosus . 
+Lancet 227 : 186 -- 191 . 
+Gewirtz , A.T. , Navas , T.A. , Lyons , S. , Godowski , P.J. , and Madara , J.L. ( 2001 ) Cutting edge : bacterial ﬂagellin activates basolaterally expressed TLR5 to induce epithelial proinﬂammatory gene expression . 
+J Immunol 167 : 1882 -- 1885 . 
+Girardin , E. , Grau , G.E. , Dayer , J.M. , Roux-Lombard , P. , and Lambert , P.H. ( 1988 ) Tumor necrosis factor and interleukin-1 in the serum of children with severe infectious purpura . 
+N Engl J Med 319 : 397 -- 400 . 
+Gordon , M.A. , Walsh , A.L. , Chaponda , M. , Soko , D. , Mbvwinji , M. , Molyneux , M.E. , and Gordon , S.B. ( 2001 ) Bacteraemia and mortality among adult medical admissions in Malawi -- predominance of non-typhi salmonellae and Streptococcus pneumoniae . 
+J Infect 42 : 44 -- 49 . 
+Gordon , M.A. , Banda , H.T. , Gondwe , M. , Gordon , S.B. , Boeree , M.J. , Walsh , A.L. , et al. ( 2002 ) Non-typhoidal Sal-monella bacteraemia among HIV-infected Malawian adults : high mortality and frequent recrudescence . 
+Aids 16 : 1633 -- 1641 . 
+Guilloteau , L.A. , Wallis , T.S. , Gautier , A.V. , Macintyre , S. , Platt , D.J. , and Lax , A.J. ( 1996 ) The Salmonella virulence plasmid enhances Salmonella-induced lysis of macroph-ages and inﬂuences inﬂammatory responses . 
+Infect Immun 64 : 3385 -- 3393 . 
+Guyot , J. , Gonvers , J.J. , Pyndiah , N. , and Heitz , M. ( 1984 ) [ Value of fecal leukocyte studies in cases of acute diarrhea ] . 
+Schweiz Med Wochenschr 114 : 634 -- 636 . 
+Harris , J.C. , Dupont , H.L. , and Hornick , R.B. ( 1972 ) Fecal leukocytes in diarrheal illness . 
+Ann Intern Med 76 : 697 -- 703 . 
+Hayashi , F. , Smith , K.D. , Ozinsky , A. , Hawn , T.R. , Yi , E.C. , Goodlett , D.R. , et al. ( 2001 ) The innate immune response to bacterial ﬂagellin is mediated by Toll-like receptor 5 . 
+Nature 410 : 1099 -- 1103 . 
+Heyns , K. , and Kiessling , G. ( 1967 ) Strukturaufklarung des Vi-antigens aus Citrobacter freundii ( E. coli ) 5396/38 . 
+Carbohydr Res 3 : 340 -- 353 . 
+Hirose , K. , Ezaki , T. , Miyake , M. , Li , T. , Khan , A.Q. , Kawamura , Y. , et al. ( 1997 ) Survival of Vi-capsulated and Vi-deleted Salmonella typhi strains in cultured macrophage expressing different levels of CD14 antigen . 
+FEMS Microbiol Lett 147 : 259 -- 265 . 
+Humphries , A.D. , Raffatellu , M. , Winter , S. , Weening , E.H. , Kingsley , R.A. , Droleskey , R. , et al. ( 2003 ) The use of ﬂow cytometry to detect expression of subunits encoded by 11 Salmonella enterica serotype Typhimurium ﬁmbrial operons . 
+Mol Microbiol 48 : 1357 -- 1376 . 
+Jiang , Q. , Akashi , S. , Miyake , K. , and Petty , H.R. ( 2000 ) Lipopolysaccharide induces physical proximity between CD14 and toll-like receptor 4 ( TLR4 ) prior to nuclear trans-location of NF-kappa B. J Immunol 165 : 3541 -- 3544 . 
+Jones , B.D. , Nichols , W.A. , Gibson , B.W. , Sunshine , M.G. , and Apicella , M.A. ( 1997 ) Study of the role of the htrB gene in Salmonella typhimurium virulence . 
+Infect Immun 65 : 4778 -- 4783 . 
+Kankwatira , A.M. , Mwafulirwa , G.A. , and Gordon , M.A. 
+( 2004 ) Non-typhoidal Salmonella bacteraemia -- an underrecognized feature of AIDS in African adults . 
+Trop Doct 34 : 198 -- 200 . 
+Keuter , M. , Dharmana , E. , Gasem , M.H. , van der VenJongekrijg , J. , Djokomoeljanto , R. , Dolmans , W.M. , et al. ( 1994 ) Patterns of proinﬂammatory cytokines and inhibitors during typhoid fever . 
+J Infect Dis 169 : 1306 -- 1311 . 
+Khan , S.A. , Everest , P. , Servos , S. , Foxwell , N. , Zahringer , U. , Brade , H. , et al. ( 1998 ) A lethal role for lipid A in Sal-monella infections . 
+Mol Microbiol 29 : 571 -- 579 . 
+Kocabas , C. , Katsenelson , N. , Kanswal , S. , Kennedy , M.N. , Cui , X. , Blake , M.S. , et al. ( 2007 ) Neisseria meningitidis type C capsular polysaccharide inhibits lipooligosaccharide-induced cell activation by binding to CD14 . 
+Cell Microbiol 9 : 1297 -- 1310 . 
+Kraus , M.D. , Amatya , B. , and Kimula , Y. ( 1999 ) Histopathology of typhoid enteritis : morphologic and immunophenotypic ﬁndings . 
+Mod Pathol 12 : 949 -- 955 . 
+Lindgren , S.W. , Stojiljkovic , I. , and Heffron , F. ( 1996 ) Mac-rophage killing is an essential virulence mechanism of Salmonella typhimurium . 
+Proc Natl Acad Sci USA 93 : 4197 -- 4201 . 
+McClelland , M. , Sanderson , K.E. , Spieth , J. , Clifton , S.W. , Latreille , P. , Courtney , L. , et al. ( 2001 ) Complete genome sequence of Salmonella enterica serovar Typhimurium LT2 . 
+Nature 413 : 852 -- 856 . 
+McGovern , V.J. , and Slavutin , L.J. ( 1979 ) Pathology of Sal-monella colitis . 
+Am J Surg Pathol 3 : 483 -- 490 . 
+Means , T.K. , Hayashi , F. , Smith , K.D. , Aderem , A. , and Luster , A.D. ( 2003 ) The Toll-like receptor 5 stimulus bacterial ﬂagellin induces maturation and chemokine production in human dendritic cells . 
+J Immunol 170 : 5165 -- 5175 . 
+Medzhitov , R. , Preston-Hurlburt , P. , and Janeway , C.A. Jr ( 1997 ) A human homologue of the Drosophila Toll protein signals activation of adaptive immunity . 
+Nature 388 : 394 -- 397 . 
+Monack , D.M. , Raupach , B. , Hromockyj , A.E. , and Falkow , S. ( 1996 ) Salmonella typhimurium invasion induces apoptosis in infected macrophages . 
+Proc Natl Acad Sci USA 93 : 9833 -- 9838 . 
+Mukawi , T.J. ( 1978 ) Histopathological study of typhoid perforation of the small intestines . 
+Southeast Asian J Trop Med Public Health 9 : 252 -- 255 . 
+Murray , S.R. , Bermudes , D. , de Felipe , K.S. , and Low , K.B. ( 2001 ) Extragenic suppressors of growth defects in msbB Salmonella . 
+J Bacteriol 183 : 5554 -- 5561 . 
+Nair , S. , Alokam , S. , Kothapalli , S. , Porwollik , S. , Proctor , E. , Choy , C. , et al. ( 2004 ) Salmonella enterica serovar Typhi strains from which SPI7 , a 134-kilobase island with genes for Vi exopolysaccharide and other functions , has been deleted . 
+J Bacteriol 186 : 3214 -- 3223 . 
+Nguyen , Q.C. , Everest , P. , Tran , T.K. , House , D. , Murch , S. , Parry , C. , et al. ( 2004 ) A clinical , microbiological , and pathological study of intestinal perforation associated with typhoid fever . 
+Clin Infect Dis 39 : 61 -- 67 . 
+Parkhill , J. , Dougan , G. , James , K.D. , Thomson , N.R. , Pickard , D. , Wain , J. , et al. ( 2001 ) Complete genome sequence of a multiple drug resistant Salmonella enterica serovar Typhi CT18 . 
+Nature 413 : 848 -- 852 . 
+Raffatellu , M. , Chessa , D. , Wilson , R.P. , Dusold , R. , Rubino , 
+S. , and Bäumler , A.J. ( 2005a ) The Vi capsular antigen of Salmonella enterica serotype Typhi reduces Toll-like receptor-dependent interleukin-8 expression in the intestinal mucosa . 
+Infect Immun 73 : 3367 -- 3374 . 
+Raffatellu , M. , Wilson , R.P. , Chessa , D. , Andrews-Polymenis , H. , Tran , Q.T. , Lawhon , S. , et al. ( 2005b ) SipA , SopA , SopB , SopD and SopE2 contribute to Salmonella enterica serotype Typhimurium invasion of epithelial cells . 
+Infect Immun 73 : 146 -- 154 . 
+Raffatellu , M. , Sun , Y.H. , Wilson , R.P. , Tran , Q.T. , Chessa , D. , Andrews-Polymenis , H.L. , et al. ( 2005c ) Host restriction of Salmonella enterica serotype Typhi is not caused by functional alteration of SipA , SopB , or SopD . 
+Infect Immun 73 : 7817 -- 7826 . 
+Raffatellu , M. , Chessa , D. , Wilson , R.P. , Tukel , C. , Akcelik , M. , and Bäumler , A.J. ( 2006 ) Capsule-mediated immune evasion : a new hypothesis explaining aspects of typhoid fever pathogenesis . 
+Infect Immun 74 : 19 -- 27 . 
+Raffatellu , M. , Santos , R.L. , Chessa , D. , Wilson , R.P. , Winter , S. , Rossetti , C.A. , et al. ( 2007 ) The Capsule encoding viaB locus reduces IL-17 expression and mucosal innate responses in the bovine intestinal mucosa during infection with Salmonella enterica serotype Typhi . 
+Infect Immun 75 : 4342 -- 4350 . 
+Robbins , J.D. , and Robbins , J.B. ( 1984 ) Reexamination of the protective role of the capsular polysaccharide ( Vi antigen ) of Salmonella typhi . 
+J Infect Dis 150 : 436 -- 449 . 
+Rolan , H.G. , and Tsolis , R.M. ( 2007 ) Mice lacking components of adaptive immunity show increased Brucella abortus virB mutant colonization . 
+Infect Immun 75 : 2965 -- 2973 . 
+Roux , C.M. , Rolan , H.G. , Santos , R.L. , Beremand , P.D. , Thomas , T.L. , Adams , L.G. , and Tsolis , R.M. ( 2007 ) Brucella requires a functional Type IV secretion system to elicit innate immune responses in mice . 
+Cell Microbiol 9 : 1851 -- 1869 . 
+Santos , R.L. , Zhang , S. , Tsolis , R.M. , Kingsley , R.A. , Adams , L.G. , and Bäumler , A.J. ( 2001 ) Animal Models of Salmo-nella Infections : Enteritis vs. Typhoid Fever . 
+Mircrob Infect 3 : 1335 -- 1344 . 
+Schmitt , C.K. , Ikeda , J.S. , Darnell , S.C. , Watson , P.R. , Bispham , J. , Wallis , T.S. , et al. ( 2001 ) Absence of all components of the ﬂagellar export and synthesis machinery differentially alters virulence of Salmonella enterica serovar Typhimurium in models of typhoid fever , survival in macrophages , tissue culture invasiveness , and calf enterocolitis . 
+Infect Immun 69 : 5619 -- 5625 . 
+Sharma , A. , and Qadri , A. ( 2004 ) Vi polysaccharide of Sal-monella typhi targets the prohibitin family of molecules in intestinal epithelial cells and suppresses early inﬂammatory responses . 
+Proc Natl Acad Sci USA 101 : 17492 -- 17497 . 
+Somerville , J.E. Jr , Cassiano , L. , Bainbridge , B. , Cunningham , M.D. , and Darveau , R.P. ( 1996 ) A novel Escherichia coli lipid A mutant that produces an antiinﬂammatory lipopolysaccharide . 
+J Clin Invest 97 : 359 -- 365 . 
+Sprinz , H. , Gangarosa , E.J. , Williams , M. , Hornick , R.B. , and Woodward , T.E. ( 1966 ) Histopathology of the upper small intestines in typhoid fever . 
+Biopsy study of experimental disease in man . 
+Am J Dig Dis 11 : 615 -- 624 . 
+Stojiljkovic , I. , Bäumler , A.J. , and Heffron , F. ( 1995 ) Ethano-lamine utilization in Salmonella typhimurium : nucleotide sequence , protein expression and mutational analysis of the cchA cchB eutE eutJ eutG eutH gene cluster . 
+J Bacteriol 177 : 1357 -- 1366 . 
+Tsolis , R.M. , Adams , L.G. , Ficht , T.A. , and Bäumler , A.J. ( 1999 ) Contribution of Salmonella typhimurium virulence factors to diarrheal disease in calves . 
+Infect Immun 67 : 4879 -- 4885 . 
+Virlogeux , I. , Waxin , H. , Ecobichon , C. , and Popoff , M.Y. ( 1995 ) Role of the viaB locus in synthesis , transport and expression of Salmonella typhi Vi antigen . 
+Microbiology 141 : 3039 -- 3047 . 
+Waage , A. , Brandtzaeg , P. , Halstensen , A. , Kierulf , P. , and Espevik , T. ( 1989 ) The complex pattern of cytokines in serum from patients with meningococcal septic shock . 
+Association between interleukin 6 , interleukin 1 , and fatal outcome . 
+J Exp Med 169 : 333 -- 338 . 
+Wang , R.F. , and Kushner , S.R. ( 1991 ) Construction of versatile low-copy-number vectors for cloning , sequencing and gene expression in Escherichia coli . 
+Gene 100 : 195 -- 199 . 
+Winter , S.E. , Raffatellu , M. , Wilson , R.P. , Rüssmann , H. , and Bäumler , A.J. ( 2007 ) The Salmonella enterica serotype Typhi regulator TviA reduces IL-8 production in intestinal epithelial cells by repressing ﬂagellin secretion . 
+Cellular Microbiology 10 : 247 -- 261 . 
+Wortel , C.H. , von der Mohlen , M.A. , van Deventer , S.J. , Sprung , C.L. , Jastremski , M. , Lubbers , M.J. , et al. ( 1992 ) Effectiveness of a human monoclonal anti-endotoxin antibody ( HA-1A ) in Gram-negative sepsis : relationship to endotoxin and cytokine levels . 
+J Infect Dis 166 : 1367 -- 1374 . 
+Zhang , S. , Adams , L.G. , Nunes , J. , Khare , S. , Tsolis , R.M. , and Bäumler , A.J. ( 2003 ) Secreted effector proteins of Salmonella enterica serotype typhimurium elicit hostspeciﬁc chemokine proﬁles in animal models of typhoid fever and enterocolitis . 
+Infect Immun 71 : 4795 -- 4803 . 
+Zhang , S. , Santos , R.L. , Tsolis , R.M. , Mirold , S. , Hardt , W.-D. , Adams , L.G. , and Bäumler , A.J. ( 2002b ) Phage mediated horizontal transfer of the sopE1 gene increases entero-pathogenicity of Salmonella enterica serotype Typhimu-rium for calves . 
+FEMS Microbiol Lett 217 : 243 -- 247 . 
+Zhang , S. , Santos , R.L. , Tsolis , R.M. , Stender , S. , Hardt , W.-D. , Bäumler , A.J. , and Adams , L.G. ( 2002a ) SipA , SopA , SopB , SopD and SopE2 act in concert to induce diarrhea in calves infected with Salmonella enterica sero-type Typhimurium . 
+Infect Immun 70 : 3843 -- 3855 .

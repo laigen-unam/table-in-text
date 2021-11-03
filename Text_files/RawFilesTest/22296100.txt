@@ -1,0 +1,263 @@
+Downloaded via UNIV NACIONAL AUTONOMA MEXICO on October 19 , 2018 at 18:10:38 ( UTC ) . 
+See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles 
+Article 
+pubs.acs.org/jpr 
+Revealed from Proteomic Analysis of
+Pseudogene Recoding Salmonella Serovars 
+Ye Feng , * , † , ¶ Kun-Yi Chien , ‡ , ¶ Hsiu-Ling Chen , § and Cheng-Hsun Chiu * , ‡ , § 
+† Genomics Research Center , Harbin Medical University , Harbin , P. R. China 
+‡ Graduate Institute of Biomedical Sciences , Chang Gung University College of Medicine , Taoyuan , Taiwan § Molecular Infectious Disease Research Center , Chang Gung Memorial Hospital , Chang Gung University College of M Taoyuan , Taiwan 
+edicine , 
+* 
+S Supporting Information 
+ABSTRACT : Recoding refers to the reprogramming of mRNA translation by nonstandard read-out rules . 
+In this study , we used stable isotope labeling with amino acids in cell culture ( SILAC ) technology to investigate the proteome of host-adapted Salmonella serovars , which are characteristic of accumulation of pseudogenes . 
+Interestingly , a few annotated pseudogenes were indeed able to express peptides downstream of the inactivation site , suggesting the occurrence of recoding . 
+Two mechanisms of recoding , namely , programmed frameshifting and codon redefinition , were both found . 
+We believe that the phenomena of recoding are not rare in bacteria . 
+More studies are required for a better understanding of bacterial translation and the implication of pseudogene recoding in Salmonella serovars . 
+KEYWORDS : Salmonella , serovar , recoding , pseudogene 
+■ INTRODUCTION
+Salmonella are important pathogens in humans and animals . 
+Taxonomically , Salmonella organisms are considered as a genus which includes more than 2500 different serovars . 
+While most serovars are host-generalist , a few serovars are host-restricted ( or adapted ) , namely , able to cause disease in one or a small group of hosts only . 
+Loss of function through pseudogene formation has been considered as a hallmark of host-restricted Salmonella serovars .1 − 6 For example , the host-generalist S. Typhimurium contains less than 30 pseudogenes , whereas the host-adapted serovars S. Typhi , S. Paratyphi A , and S. Choleraesuis each have more than 150 pseudogenes . 
+A popular explanation of the phenomena is that the host-generalist pathogens may require a large gene inventory to maintain the ability of infecting multiple host species , whereas the hostspecialist pathogens , established in specialized niches , do not have to keep a high level of genetic and phenotypic plasticity . 
+As a result , the redundant genes will finally undergo the decaying process . 
+Currently , bacterial annotation is mostly based on in silico predictions . 
+When the query gene can not match the correct open reading frame as the reference ortholog , it is considered as a pseudogene . 
+Frameshift and nonsense mutation are two main causes of pseudogenization in bacteria . 
+The annotated pseudogenes can not be translated because of the corrupted coding frame . 
+However , a small proportion of them are able to utilize recoding to adjust the abnormality of the inactivation site and allow the downstream translation . 
+Programmed frameshifting and codon redefinition are the two mechanisms corresponding to frameshift and nonsense mutation , respectively . 
+While the former enables ribosomes to slip across the aberrant site by adopting an alternative frame and then continuing the triplet decoding , the latter can assign the internal stop codon to a special amino acid , often selenocysteine or pyrrolysine , so that the whole translation process can be read through .7 − 10 Although discovered in many organisms , recoding is generally thought to rarely occur in nature .11 Since the nucleotide sequence of recoded genes and the true pseudogenes make little difference , the identification and annotation of recoded genes lag far behind . 
+The aim of this study was to develop an appropriate experimental approach to detect recoding at the genomic scale and meanwhile to find the real extent of its occurrence . 
+We identified peptides from Salmonella serovars by stable isotope labeling with amino acids in cell culture ( SILAC ) technology . 
+Consequently , a few annotated pseudogenes were found to be able to translate normal peptides , suggesting that the recoding mechanism may actually be common in Salmonella or even in the whole bacteria kingdom . 
+Received : September 7 , 2011 Published : February 1 , 2012 
+1715 
+© 2012 American Chemical Society 
+dx.doi.org/10.1021/pr200904c | J. Proteome Res . 
+2012 , 11 , 1715 − 1719 
+S. Typhimurium LT2 ( abbr . 
+STM ) , S. Typhi ATCC33458 ( abbr . 
+STY ) , and S. Choleraesuis SC-B67 ( collected from Chang Gung Medical Fundation , abbr . 
+SCS ) were used in this study . 
+All of the bacteria were maintained in LB plates before being cultured in SILAC medium . 
+SILAC and Treatments
+The SILAC media used in this study were L-Lys - and L-Arg-depleted RPMI media ( Invitrogen , Carlsbad , CA ) supplemented with 20 mM HEPES buffer and either 12C6-L-Lys / 12C6-L-Arg ( light medium ) or 13C6-L-Lys/13C6-L-Arg ( heavy medium ) ( 98 % purity , Isotec , Miamisburg , OH ) . 
+A single colony of each Salmonella serovar was grown at 37 °C overnight in LB broth . 
+Twenty-five microliters of each overnight culture was transferred to 5 mL of either heavy ( STM ) or light medium ( SCS and STY ) at 37 °C overnight . 
+Ten microliters of each overnight culture was transferred to 50 mL of fresh medium and allowed to grow to late log phase ( O.D. 600 = 0.6 ) . 
+For each pair of serovars , equal numbers of cells , estimated by O.D. 600 , were mixed and subjected to a protein extraction procedure . 
+Bacterial proteins were extracted with 0.1 % SDS solution by sonication . 
+Protein concentration was determined by the BCA method ( Thermo Fisher , Rockford , IL ) . 
+Forty micrograms of protein extracts were reduced and alkylated with dithiothreitol and iodoacetamide , respectively , and digested with 1 μg of modified trypsin ( Promega , Madison , WI ) at 37 °C overnight . 
+Peptide solutions were desalted by homemade RP ( reverse phase ) microcolumns packed with Source 15RPC ( GE healthcare , Uppsala , Sweden ) and dried by speed vacuum . 
+Online 2D LC System
+The comprehensive 2D-SCX-RP-LC system ( Ultimate 3000 , Dionex , Germering , Germany ) has been equipped with one gradient pump for SCX ( strong cation exchange ) , one other gradient pump for RP , one isocratic pump for online dilution , one 10-port valve with two RP-trapping columns for alternating trapping , one 6-port valve for controlling the trapping column washing , and a manual injector for sample loading . 
+Such a combination allowed us to introduce an organic solvent ( acetonitrile ) in the first dimensional SCX separation without affecting the second dimensional RP separations by using an online dilution design . 
+Briefly , samples dissolved in 50 % acetonitrile containing 0.1 % formic acid were loaded onto the SCX column through a manual injector . 
+The flow rate of the first dimensional separation was operated at a flow rate of 1 μL / min on a home-packed SCX column ( 0.5 × 150 mm , pack with Luna-SCX particles from Phenomenex , Torrance , CA ) . 
+The peptides were eluted using a continuous ammonium chloride concentration gradient in the presence of 0.1 % formic acid and 30 % ACN . 
+The salt gradient was segmented in 17 steps , 90 min for each , and matched with the second dimensional reverse phase separations . 
+The isocratic loading pump delivering 50 μL / min of solvent A ( 0.1 % formic acid in water ) was used for diluting the effluent of SCX column through a T-union and mixing tubing before it reached the trapping column . 
+In the meantime , the other RP-trapping column , installed on the same 10-port valve , was connected with the RP-separating column and was being analyzed by a mass spectrometer . 
+Six minutes before each salt gradient step being completed , the binary pump for the SCX separation stopped , and the six-port valve switched to allow the loading pump to wash away the residual salt solution in the flow path of the RP-trapping column . 
+After the trapping column switched to the RP analytical column , the bound peptides were eluted with a complete acetonitrile gradient ( elution , regeneration , and then re-equilibration ) in the presence of 0.05 % formic acid over 84 min . 
+Mass Spectrometry 
+The effluent of the online 2D LC was analyzed by a LTQ-Orbitrap hybrid mass spectrometer ( Thermo Electron , Bremen , Germany ) . 
+The mass spectrometer was operated in the information-dependent acquisition ( IDA ) mode . 
+Survey full scan MS spectra ( from m/z 300 to 2000 ) are acquired in the Orbitrap at a resolution of 60 000 with lock mass function enabled . 
+Ten most intense ions in each MS spectrum are selected for isolation and fragmentation in the linear ion trap ( MS/MS ) . 
+Each precursor ions was allowed to be analyzed twice and then excluded in the subsequent 1 min . 
+The MS/MS isolation width was set to 2 Da , and the maximum precursor accumulation time for MS/MS was set to 150 ms. Peptide and Protein Identification Raw MS files from the LTQ-Orbitrap were analyzed by Mascot ( Version 2.2.2 , Matrix Science Inc. , Boston , MA ) and MaxQuant ( version 1.0.13.13 ) . 
+The MaxQuant software created a new fasta file for each serovar by including a complete set of common contaminates and reversed sequence entries for estimating false discovery rate . 
+The databases were configured in an in-house Mascot search engine ( Version 2.2.2 , Matrix Science Inc. , Boston , MA ) , and MS/MS spectra were searched against the three Salmonella databases of each individual serovar . 
+The protein-coding sequences of the three Salmonella strains were extracted from Genbank files . 
+The accession numbers are AE006468 .1 ( for STM ) , AE017220 .1 ( for SCS ) , and AE014613 .1 ( for STY ) , respectively . 
+As the pseudogenes in SCS and STY do not have the coding sequences with correct open reading frame , the sequences of their corresponding orthologs in STM were put into the respective databases of SCS and STY . 
+In addition , nucleotides of intergenic regions were also extracted and added to the database for searching . 
+The parameters setting for the Mascot searches are as follows : cysteine carbamidomethylation was selected as a fixed modification , whereas protein N-terminal acetylation , methionine oxidation were selected as variable modifications , and a maximum of two missed cleavages were allowed . 
+Parent mass and fragment ions were searched with mass deviation of 5 ppm and 0.5 Da , respectively . 
+The search results were further processed by MaxQuant with the following parameter settings : peptides of minimum 6 amino acids were allowed , false discovery rate was set to 0.01 , and a posterior error probability ( PEP ) for each MS/MS spectrum below or equal to 0.1 was required . 
+Pseudogene PCR Validation on Genomic DNA and cDNA The genomic DNA was isolated from overnight culture of bacteria according to the manual ( GeneMark , Taichung , Taiwan ) . 
+The RNA was purified from log phase of bacteria with TRIzol reagent ( Invitrogen , Carlsbad , CA ) and transcribed to cDNA using iScript cDNA synthesis kit ( Bio-Rad Laboratories , Richmond , CA ) . 
+The genomic DNA and cDNA were used in the following pseudogene validation . 
+The pseudogene was amplified with primer pairs listed in the 
+■ MATERIALS AND METHODS Bacterial Strains 
+Supporting Information ( Table S1 ) and sequenced by ABI 3730 sequencer ( Applied Biosystems , Carlsbad , CA ) . 
+■ RESULTS AND DISCUSSION 
+In this study , we used LC − MS/MS to examine whether the pseudogenes in S. Typhi ATCC33458 and S. Choleraesuis SC-B67 were able to express normal protein sequences . 
+Because the original pseudogene prediction in the two strains were taking S. Typhimurium LT2 as the reference , we also included STM in our experiments . 
+Thus , two independent SILAC experiments were carried out : STM vs SCS and STM vs STY ( details in the Methods section ) . 
+The complete peptide lists are provided in the Supporting Information ( Table S2a − d ) . 
+As expected , most detected peptides were mapped to the protein-coding genes , and few were located within the intergenic regions , suggesting the overall accuracy of the original annotation . 
+The general information about the peptides detected is listed in Table 1 . 
+Table 1 . 
+General Information of the Study 
+STY 
+SCS 
+no . 
+of identified peptides 
+13022 4318 1566 17 218 15 14 
+16376 4441 1798 29 151 14 10 
+no . 
+of annotated proteins in the genome no . 
+of identified proteins no . 
+of intergenic regions expressing peptides no . 
+of annotated pseudogenes in the genome no . 
+of annotated pseudogenes expressing peptides no . 
+of detected recoded genes 
+In order to explore the recoding phenomenon , we focused on the peptides expressed by the annotated pseudogenes . 
+Theoretically , the pseudogene can still act as a template to express peptides upstream of the inactivation site , so we used the downstream peptides only as the evidence of recoding . 
+As a result , 14 and 15 annotated pseudogenes had such peptides detected in SCS and in STY , respectively . 
+BLAST searches guaranteed that these peptides have a unique hit in the genome ; i.e. , they do not exist in any other genes . 
+We first resequenced these pseudogenes to check the accuracy of the original sequences deposited in NCBI GenBank database . 
+Of them , five pseudogenes become different from their original sequences , and their open reading frames have returned to the normal state ( Table 2 ) . 
+All of the differences belonged to frameshift , 
+Table 2 . 
+Genes Showing Different Result between Current and Original Sequencinga 
+ID (in original and current gene ID STM) name site sequencing
+SCPS102 STM0994 mukB 586aa original : ' ccc ' ; current : ' c ' ; SCPS45 STM2539 hscA 168aa original : ' a ' ; current : ' aa ' ; SCPS72 STM3901 ilvG 72aa original : ' cc ' ; current : ' ccc ' ; SCPS83 STM4176 purH 359aa original : ' aaa ' ; current : ' aaga ' ; t1716 STM1204 fhuE 331aa original : ' ggg ' ; current : ' gg ' ; aThe column site tells where the inactivation occurred . 
+The column of original and current sequencing shows the sequence string at the inactivation site . 
+and all were located within the stretches of homopolymers coincidentally . 
+Because capillary technology is prone to make mistakes when meeting homopolymers , errors might have occurred during the original genome sequencing . 
+Nevertheless , we could not rule out the possibility that the genome itself is continually going through a series of minor evolutions at these loci . 
+It has been known that within bacteria genome , certain genes may contain simple sequence repeats , often termed as contingency loci , through which bacterial pathogens are able to switch the expression by polymerase slippage in order for 12 sensing and responding to external changes . 
+The coding frames of the remaining 24 genes were truly disrupted . 
+We also sequenced their mRNA and found that the mRNA sequences were identical to the genomic sequences . 
+On the other hand , 19 of the 24 genes have more than one peptide detected downstream of the inactivation site , which greatly reduces the likelihood of false peptide identification ( Figure 1A shows one example , and other cases are listed in the Supporting Information , Table S3 ) . 
+Combination of these results suggests that the abnormality of coding frame has indeed been corrected during the translation phase . 
+Thirteen out of the 24 genes belong to programmed frameshifting ( Table 3 ) , and the other 11 belong to codon redefinition ( Table 4 ) . 
+We found that the programmed frameshifting sites are mostly located within homopolymers . 
+Perhaps the programmed-frameshifting prefers repairing the frameshift caused by homopolymer , but it is more likely that the bacteria replication is prone to produce such frameshift , and then the programmed-frameshifting is forced to tolerate them . 
+Of the 11 cases of codon redefinition , six fell into the situation that CAG mutates to TAG but translation ensues . 
+Three of the others belong to the conversion from TGG to TAG . 
+Some methanogenic archaea and bacteria have been known to translate TAG into a special amino acid pyrrolysine with the assistance from the pylT gene , which encodes an unusual transfer RNA ( tRNA ) with a CUA anticodon .13,14 Our data suggest that Salmonella may prefer to recode the codon TAG , but it is unclear if Salmonella will decode TAG into pyrrolysine or other amino acids . 
+Because prediction of start codon remains to be the most difficult part of current prokaryotic annotation , the above result can also be interpreted as that another start codon , probably downstream of the recoding site , replaces the original start codon to initiate the translation of downstream peptides . 
+Such a possibility does exist , but in at least 7 cases , the detected peptide happened to cover the recoding site , which provides direct evidence that recoding did take place . 
+Figure 1B lists one of the cases , and the rest are listed in the Supporting Information ( Table S3 ) . 
+We believe that the recoded amino acid has such a similar m/z value to its counterpart in STM that the Mascot search engine can identify the peptide from the STM protein sequences . 
+However , the specific amino acids that the recoding sites encode are not clear . 
+It is also unknown whether Salmonella follows the same mechanism of recoding as the previous literature reported . 
+Because we used SILAC technology , the quantitative information of peptides in the recoded genes can be measured by comparison with the counterparts in STM ( STM used as control in which the recoded genes have normal open reading frames ) . 
+For housekeeping genes ( those used for multilocus sequence typing ) , the expression ratio between STM and SCS ( or STY ) ranged mostly from 0.25 to 4 , whereas for the recoded genes , the expression of many peptides in SCS ( or STY ) was even one tenth less than that in STM ( Supporting Information , Table S3 ) . 
+Thus , recoding seems not to be a highly effective alternative to normal translation machinery but merely an adequate replacement . 
+Accordingly , genes with the 
+Figure 1 . 
+Figure demonstration of recoding . 
+Panel A is an example showing that the annotated pseudogene t0199 expressed peptides not only upstream but also downstream of the inactivation site ; panel B illustrates where the programmed frameshifting occurred . 
+Table 3 . 
+Genes That May Have Programmed Frameshiftinga 
+Table 4 . 
+Genes That May Have Codon Redefinitiona 
+no . 
+of detected 
+no . 
+of 
+detected peptides 
+ID ( in 
+geneID ID ( in STM ) name SCPS97 STM0617 rna 
+site comparison peptides 
+geneID STM ) name site comparison 
+142aa SCS : ' gcag ' ; 0/1/7 STM : ' gcg ' ; 
+1/0/2 
+SCPS6 STM0874 mdaA 113aa SC : ' taa ' ; LT : ' caa ' ; 
+1/0/2 
+SCPS3 STM0826 ybiN 
+SCPS37 STM2194 yeiG 
+1/0/1 
+SCPS109 STM2294 yfaZ 
+3/0/3 
+SCPS39 STM2299 yfbG
+233aa SCS : ' aaaaaaaa ' ; 1/0/1 STM : ' aaaaaaa ' 65aa SCS : ' gcgcgcgc ' ; 1/0/4 STM : ' gcgcgc ' ; 34aa SCS : ' aaaa ' ; 0/0/3 STM : ' aaaaa ' ; 381aa SCS : ' aaaaa ' ; 11/0/6 STM : ' aaaaaa ' ; 57aa SCS : 0/0/4 ' ggggggggg ' ; STM : ' gggggggg ' ; t0199 STM0191 fhuA 139aa STY : ' tc ' ; STM : 2/1/7 ' tctc ' ; t2506 STM0358.S res 177aa STY : ' aa ' ; STM : 0/0/2 ' aaa ' ; t1243 STM1375 ynhG 109aa STY : ' tttt ' ; STM : 2/1/2 ' ttatt ' ; t1421 STM1500 ynfD 55aa STY : ' atac ' ; 0/1/0 STM : ' aac ' ; t2706 STM2809 proV 145aa STY : ' aaaa ' ; 3/0/10 STM : ' aaaaa ' ; t3100 STM3179 mdaB 78aa STY : ' aaaaaa ' ; 1/0/2 STM : ' aaaaaaa ' ; t4583 STM4533 tsr 152aa STY : ' ttttt ' ; 5/1/8 STM : ' tttttt ' ; a The column of `` site '' indicates where the recoding occurred . 
+The column of `` comparison '' shows the abnormal nucleotide string ( in SCS or STY ) and the normal string ( in STM ) at the recoding site . 
+The three numbers ( from left to right ) in the column of `` no . 
+of detected peptides '' represent the number of peptides before , on , and after the recoding site , respectively . 
+0/0/3 
+SCPS144 STM3295 folP
+1/0/4 
+3/1/4 
+0/0/1 
+0/0/2 
+4/1/0 
+11/0/1 
+recoding phenomenon are rarely likely to play the housekeeping role but function only under particular conditions . 
+The expression level between regions before and after the recoding site was also compared . 
+We hypothesized that the pseudogenes face two choices during translation : they can be recoded to produce normal peptides , or they follow normal translational machinery to produce premature/wrong proteins . 
+If the two kinds of machinery function in one gene simultaneously , then the peptides before the recoding site should have a higher expression level than that behind the recoding site . 
+Actually , no remarkable difference can be 
+SCPS11 STM1062 uup 272aa SC : ' tag ' ; LT : ' cag ' ; SCPS34 STM1989 yedI 44aa SC : ' tag ' ; LT : ' cag ' ; SCPS44 STM2532 266aa SC : ' tag ' ; LT : ' cag ' ; t2279 STM0589 fepE 79aa TY : ' tag ' ; LT : ' tgg ' ; t2066 STM0822 ybiB 67aa TY : ' tag ' ; LT : ' cag ' ; t1168 STM1289 yeaD 50aa TY : ' tag ' ; LT : ' tgg ' ; t0687 STM2168 pbpG 5aa TY : ' tga ' ; LT : ' cga ' ; t2690 STM2795 ygaU 32aa TY : ' tag ' ; LT : ' cag ' ; t3073 STM3152 432aa TY : ' tag ' ; LT : ' cag ' ; t4575 STM4525 hsdM 467aa TY : ' tag ' ; LT : ' tgg ' ; a The column of `` site '' indicates where the recoding occurred . 
+The column of `` comparison '' shows the abnormal nucleotide string ( in SCS or STY ) and the normal string ( in STM ) at the recoding site . 
+The three numbers ( from left to right ) in the column of `` no . 
+of detected peptides '' represent the number of peptides before , on , and after the recoding site , respectively . 
+observed between regions before and after the recoding site , in terms of either the number of detected peptides ( Tables 3 and 4 ) or the expression ratio ( Supporting Information , Table S3 ) . 
+This phenomenon therefore gives us a hint that some pseudogenes can only be expressed through recoding mechanism but reject the normal translation machinery . 
+However , this hypothesis needs more experimental support . 
+CONCLUSION ■
+Pseudogene formation has been regarded as an important mark during host restriction in Salmonella . 
+In this study , we found that the majority of pseudogenes did fail to express , demonstrating the overall accuracy of in silico annotation . 
+However , we also found that several genes were annotated as pseudogenes but had normally translated peptides detected . 
+Considering that the current recoded genes were found in one physiological state only ( in LB broth ) , more genes may have the potential to be recoded . 
+In other words , the recoding phenomenon may not be rare in bacteria . 
+In order to elucidate the importance of recoding in bacteria and to gain a more accurate annotation , we suggest that the proteome should be used as a regular approach for pseudogene annotation in each bacterial genome sequencing project . 
+■ ASSOCIATED CONTENT * 
+S Supporting Information Table S1 lists primers for pseudogene confirmation . 
+Table S2a − d lists the complete peptides detected in SILAC experiments . 
+Table S3 lists the detected peptides from the recoded genes as well as their quantitative information . 
+This material is available free of charge via the Internet at http : / / pubs.acs.org . 
+■ AUTHOR INFORMATION Corresponding Author 
+* E-mail : chchiu@adm.cgmh.org.tw ( C.H.C. ) ; pandafengye @ gmail.com ( Y.F. ) . 
+Tel. : 886 3 3281200 . 
+Fax : 886 3 3288957 . 
+Author Contributions ¶ These authors contributed equally to this work . 
+Notes 
+The authors declare no competing financial interest . 
+■ ACKNOWLEDGMENTS 
+This study was supported by the National Science Council , Taiwan ( 97-2314-B-182A-051-MY3 ) . 
+■ REFERENCES 
+( 1 ) McClelland , M. ; Sanderson , K. E. ; Spieth , J. ; Clifton , S. W. ; Latreille , P. ; Courtney , L. ; Porwollik , S. ; Ali , J. ; Dante , M. ; Du , F. ; Hou , S. ; Layman , D. ; Leonard , S. ; Nguyen , C. ; Scott , K. ; Holmes , A. ; Grewal , N. ; Mulvaney , E. ; Ryan , E. ; Sun , H. ; Florea , L. ; Miller , W. ; Stoneking , T. ; Nhan , M. ; Waterston , R. ; Wilson , R. K. Complete genome sequence of Salmonella enterica serovar Typhimurium LT2 . 
+Nature 2001 , 413 ( 6858 ) , 852 − 6 . 
+( 2 ) Parkhill , J. ; Dougan , G. ; James , K. D. ; Thomson , N. R. ; Pickard , D. ; Wain , J. ; Churcher , C. ; Mungall , K. L. ; Bentley , S. D. ; Holden , M. T. ; Sebaihia , M. ; Baker , S. ; Basham , D. ; Brooks , K. ; Chillingworth , T. ; Connerton , P. ; Cronin , A. ; Davis , P. ; Davies , R. M. ; Dowd , L. ; White , N. ; Farrar , J. ; Feltwell , T. ; Hamlin , N. ; Haque , A. ; Hien , T. T. ; Holroyd , S. ; Jagels , K. ; Krogh , A. ; Larsen , T. S. ; Leather , S. ; Moule , S. ; O'Gaora , P. ; Parry , C. ; Quail , M. ; Rutherford , K. ; Simmonds , M. ; Skelton , J. ; Stevens , K. ; Whitehead , S. ; Barrell , B. G. Complete genome sequence of a multiple drug resistant Salmonella enterica serovar Typhi CT18 . 
+Nature 2001 , 413 ( 6858 ) , 848 − 52 . 
+( 3 ) McClelland , M. ; Sanderson , K. E. ; Clifton , S. W. ; Latreille , P. ; Porwollik , S. ; Sabo , A. ; Meyer , R. ; Bieri , T. ; Ozersky , P. ; McLellan , M. ; Harkins , C. R. ; Wang , C. ; Nguyen , C. ; Berghoff , A. ; Elliott , G. ; Kohlberg , S. ; Strong , C. ; Du , F. ; Carter , J. ; Kremizki , C. ; Layman , D. ; Leonard , S. ; Sun , H. ; Fulton , L. ; Nash , W. ; Miner , T. ; Minx , P. ; Delehaunty , K. ; Fronick , C. ; Magrini , V. ; Nhan , M. ; Warren , W. ; Florea , L. ; Spieth , J. ; Wilson , R. K. Comparison of genome degradation in Paratyphi A and Typhi , human-restricted serovars of Salmonella enterica that cause typhoid . 
+Nat . 
+Genet . 
+2004 , 36 ( 12 ) , 1268 − 74 . 
+( 4 ) Chiu , C. H. ; Tang , P. ; Chu , C. ; Hu , S. ; Bao , Q. ; Yu , J. ; Chou , Y. Y. ; Wang , H. S. ; Lee , Y. S . 
+The genome sequence of Salmonella enterica serovar Choleraesuis , a highly invasive and resistant zoonotic pathogen . 
+Nucleic Acids Res . 
+2005 , 33 ( 5 ) , 1690 − 8 . 
+( 5 ) Holt , K. E. ; Thomson , N. R. ; Wain , J. ; Langridge , G. C. ; Hasan , R. ; Bhutta , Z. A. ; Quail , M. A. ; Norbertczak , H. ; Walker , D. ; 
+Simmonds , M. ; White , B. ; Bason , N. ; Mungall , K. ; Dougan , G. ; Parkhill , J. Pseudogene accumulation in the evolutionary histories of Salmonella enterica serovars Paratyphi A and Typhi . 
+BMC Genomics 2009 , 10 ( 1 ) , 36 . 
+( 6 ) Liu , W. Q. ; Feng , Y. ; Wang , Y. ; Zou , Q. H. ; Chen , F. ; Guo , J. T. ; Peng , Y. H. ; Jin , Y. ; Li , Y. G. ; Hu , S. N. ; Johnston , R. N. ; Liu , G. R. ; Liu , S. L. Salmonella paratyphi C : Genetic divergence from Salmonella choleraesuis and pathogenic convergence with Salmonella typhi . 
+PLoS One 2009 , 4 ( 2 ) , e4510 . 
+( 7 ) Farabaugh , P. J. Programmed translational frameshifting . 
+Microbiol . 
+Rev. 1996 , 60 ( 1 ) , 103 − 34 . 
+( 8 ) Baranov , P. V. ; Fayet , O. ; Hendrix , R. W. ; Atkins , J. F. Recoding in bacteriophages and bacterial IS elements . 
+Trends Genet . 
+2006 , 22 ( 3 ) , 174 − 81 . 
+( 9 ) Gesteland , R. F. ; Atkins , J. F. Recoding : Dynamic reprogramming of translation . 
+Annu . 
+Rev. Biochem . 
+1996 , 65 , 741 − 68 . 
+( 10 ) Silva , R. M. ; Miranda , I. ; Moura , G. ; Santos , M. A. Yeast as a model organism for studying the evolution of non-standard genetic codes . 
+Briefings Funct . 
+Genomics Proteomics 2004 , 3 ( 1 ) , 35 − 46 . 
+( 11 ) Baranov , P. V. ; Gurvich , O. L. ; Fayet , O. ; Prere , M. F. ; Miller , W. A. ; Gesteland , R. F. ; Atkins , J. F. ; Giddings , M. C. RECODE : A database of frameshifting , bypassing and codon redefinition utilized for gene expression . 
+Nucleic Acids Res . 
+2001 , 29 ( 1 ) , 264 − 7 . 
+( 12 ) Moxon , R. ; Bayliss , C. ; Hood , D. Bacterial contingency loci : The role of simple sequence DNA repeats in bacterial adaptation . 
+Annu . 
+Rev. Genet . 
+2006 , 40 , 307 − 33 . 
+( 13 ) Zhang , Y. ; Gladyshev , V. N. High content of proteins containing 21st and 22nd amino acids , selenocysteine and pyrrolysine , in a symbiotic deltaproteobacterium of gutless worm Olavius algarvensis . 
+Nucleic Acids Res . 
+2007 , 35 ( 15 ) , 4952 − 63 . 
+( 14 ) Zhang , Y. ; Baranov , P. V. ; Atkins , J. F. ; Gladyshev , V. N. Pyrrolysine and selenocysteine use dissimilar decoding strategies . 
+J. Biol . 
+Chem . 
+2005 , 280 ( 21 ) , 20740 − 51 .

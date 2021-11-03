@@ -1,0 +1,461 @@
+Microbiology ( 2005 ) , 151 , 3793 -- 3801 
+DOI 10.1099 / mic.0.28156-0 
+f Salmonella 
+Acetate excretion during growth o enterica on ethanolamine requires 
+phosphotransacetylase (EutD) activity, and acetate recapture requires acetyl-CoA synthetase (Acs) and phosphotransacetylase (Pta) activities
+Vincent J. Starai ,3 Jane Garrity and Jorge C. Escalante-Semerena 
+Department of Bacteriology , University of Wisconsin-Madison , 1710 University Ave , Madison , WI 53726-4087 , USA 
+Correspondence 
+Jorge C. Escalante-Semerena 
+escalante@bact.wisc.edu 
+This report shows that Salmonella enterica catabolizes ethanolamine to acetyl-CoA ( Ac-CoA ) , which enters the glyoxylate bypass and tricarboxylic acid cycle for the generation of energy and central metabolites . 
+During growth on ethanolamine , S. enterica excreted acetate , whose recapture depended on Ac-CoA synthetase ( Acs ) and the housekeeping phosphotransacetylase ( Pta ) 
+enzyme activities . 
+The Pta enzyme did not play a role in acetate excretion during growth of S. enterica on ethanolamine . 
+It is proposed that during growth on ethanolamine , acetate excretion is necessary to maintain a pool of free CoA . 
+Acetate excretion requires the eut operon-encoded phosphotransacetylase ( EutD ) and acetate kinase ( Ack ) enzymes . 
+EutD function was not 
+required for growth on ethanolamine , and an eutD strain showed only a slight reduction in growth rate . 
+The existence of an as-yet-unidentiﬁed system that releases acetate was revealed during growth of a strain lacking Acs , the housekeeping phosphotransacetylase ( Pta ) , and EutD . 
+The functions of pyruvate oxidase ( PoxB ) , Ack and STM3118 protein [ a homologue of the 
+Received 26 April 2005 Revised 12 August 2005 
+Saccharomyces cerevisiae Ac-CoA hydrolase ( Ach1p ) enzyme ] were not involved in the release of acetate by the acs pta eutD strain . 
+Accepted 1 September 2005 
+INTRODUCTION 
+The enterobacterium Salmonella enterica can use ethanol-amine and 1,2-propanediol as sources of carbon , energy , and , in the case of ethanolamine , nitrogen ( Blackwell & Turner , 1978 ; Bobik et al. , 1999 ; Chang & Chang , 1975 ; Roof & Roth , 1988 ) . 
+Catabolism of ethanolamine and 1,2-propanediol by this bacterium is intriguing . 
+The biochemistry for the conversion of either compound is straightforward ( Fig. 1 ) . 
+In both cases , an alcohol function is converted to the corresponding aldehyde by either coenzyme B12 ( AdoCbl ) - dependent deamination ( ethanolamine to acetaldehyde ) ( Faust et al. , 1990 ) or dehydration ( 1,2-propanediol to propionaldehyde ) ( Bobik et al. , 1997 ) . 
+Acetaldehyde is oxidized to acetate , and propionaldeyde is oxidized to propionate , each of which is activated to its corresponding acyl-CoA derivative ( Bobik et al. , 1997 ; Faust et al. , 1990 ; Leal et al. , 2003 ) . 
+In S. enterica , ethanolamine and 1,2-propanediol are likely catabolized within a carboxysome-like structure ( Havemann 
+3Present address : Department of Biochemistry , Dartmouth Medical School , 7200 Vail Building Hanover , NH 03755-3844 , USA . 
+Abbreviations : Ac-CoA , acetyl-CoA ; Ac-P , acetyl phosphate ; Ack , acetate kinase ; Acs , acetyl-CoA synthetase ; Pta , phosphotransacetylase . 
+et al. , 2002 ; Havemann & Bobik , 2003 ; Kofoid et al. , 1999 ; Stojiljkovic et al. , 1995 ) , hereafter referred to as the meta-bolosome . 
+Ethanolamine catabolism is important to the lifestyle of S. enterica in the gut , as strains unable to grow on ethanolamine are attenuated in the mouse model of infection ( Stojiljkovic et al. , 1995 ) . 
+Results from in vivo expression technology ( IVET ) experiments have also indicated that 1,2-propanediol is relevant to the survival of S. enterica as a pathogen ( Conner et al. , 1998 ) . 
+Why these compounds are metabolized within metabolosomes remains an open question . 
+Genetic and biochemical analyses of S. enterica strains identiﬁed the chromosomal locus required for growth of this bacterium on ethanolamine ( Roof & Roth , 1988 , 1989 ) . 
+Sequence analysis of the ethanolamine utilization ( eut ) operon revealed 17 open reading frames , eutSPQTDMNEJGHABCLKR ( Kofoid et al. , 1999 ; Stojiljkovic et al. , 1995 ) ( Fig. 2a ) . 
+The eutR gene , located 39 to the operon and independently transcribed from it ( Sheppard & Roth , 1994 ) , encodes the EutR transcription activator protein , which becomes active in the presence of ethanolamine and coenzyme B12 ( Roof & Roth , 1988 , 1992 ; Sheppard & Roth , 1994 ) . 
+Several of the eut genes ( e.g. eutSMNLK ) encode proteins with homology to cyanobacterial carboxysomal shell proteins ( Kofoid et al. , 
+0002-8156 G 
+2005 SGM 
+1999 ; Stojiljkovic et al. , 1995 ) . 
+In cyanobacteria and thio-bacilli , this multiprotein complex is involved in carbon dioxide ﬁxation and concentration ( Badger & Price , 2003 ; Baker et al. , 2000 ; Friedberg et al. , 1993 ) . 
+The function of the metabolosome encoded by the eut operon remains unclear . 
+In S. enterica , a similar multiprotein complex is assembled during growth on 1,2-propanediol ( Havemann et al. , 2002 ; Havemann & Bobik , 2003 ) , and it was suggested that this structure might be used to contain propionaldehyde ( Bobik et al. , 1999 ; Rondon et al. , 1995 ) . 
+Similarly , the metabolosome involved in ethanolamine catabolism was proposed to contain acetaldehyde ( Rondon et al. , 1995 ) . 
+At present , a good understanding of the physiology of ethanolamine catabolism is lacking . 
+Work presented here provides insights into how S. enterica acquires carbon and energy from ethanolamine catabolism and reveals mechanisms that the cell uses to maintain a balance between acetylCoA ( Ac-CoA ) and free acetate ( Fig. 2b ) . 
+On the basis of the data reported here , we propose that a fraction of ethanolamine is converted to acetate via the energy-conserving phosphotransacetylase ( EutD ) / acetate kinase ( Ack ) pathway , with no apparent involvement of the housekeeping phosphotransacetylase ( Pta ) enzyme . 
+Ac-CoA synthetase ( Acs ) and Pta are responsible for recapturing acetate for later use via the Krebs cycle and glyoxylate bypass . 
+METHODS
+Bacterial strains , culture media and growth conditions . 
+All bacterial strains used in this study were derivatives of Salmonella enterica serovar Typhimurium LT2 . 
+The genotypes of strains used in this work are listed in Table 1 . 
+Bacterial strains were grown on nocarbon E minimal medium ( NCE ) ( Berkowitz et al. , 1968 ) supplemented with : ethanolamine ( 30 mM ) as the source of carbon and energy ; MgSO4 ( 1 mM ) ; L-methionine ( 0 ? 
+5 mM ) ; cyanocobalamin ( 150 mM ) ; and trace minerals ( 1 : 100 , v/v ) ( Balch & Wolfe , 1976 ) . 
+Luria -- Bertani ( LB ) broth was used as rich medium . 
+Growth curves reported here were performed at least twice in 125 ml sidearm ﬂasks with vigorous shaking ( 200 r.p.m. ) at 37 uC . 
+All chemicals were purchased from Sigma . 
+Phage P22 transductions . 
+All transductional crosses were performed as described by Davis et al. ( 1980 ) with phage P22 HT105/1 int-210 ( Schmieger , 1971 ; Schmieger & Bakhaus , 1973 ) . 
+Transductants were freed of phage as described by Chan et al. ( 1972 ) . 
+Fig. 1 . 
+Acyl-CoA synthesis from ethanolamine and 1,2-propanediol . 
+The ﬁrst step in ethanolamine or 1,2-propanediol catabolism is catalysed by a coenzyme B12-dependent enzyme that yields acetaldehyde or propionaldehyde , followed by an oxidation to the corresponding short-chain fatty acid , which is released as either acetyl - or propionyl-CoA . 
+EutBC , coenzyme B - dependent ethanolamine ammonia-lyase ( EC 4.3.1.7 ; 12 Babior , 1982 ; Faust et al. , 1990 ) ; EutE , putative acetaldehyde dehydrogenase ( Roof & Roth , 1989 ; Stojiljkovic et al. , 1995 ) ; PduCDE , 1,2-propanediol dehydratase ( EC 4.2.1.28 ; Bobik et al. , 1997 ) ; PduP , propionaldehyde dehydrogenase ( Leal et al. , 2003 ) . 
+PCR ampliﬁcations . 
+Enzyplus ( ENZYPOL ) was used in PCR ampliﬁcation during construction of the eutD deletion strain of S. enterica . 
+All reactions were performed in an Eppendorf Mastercycler gradient PCR thermal cycler ( Brinkmann Instruments ) . 
+All primers were purchased from Integrated DNA Technologies . 
+Construction of non-polar eutD deletion . 
+The deletion of eutD was constructed as described by Datsenko & Wanner ( 2000 ) , except that all manipulations were performed in S. enterica . 
+The cat cassette + in plasmid pKD3 was ampliﬁed using PAGE-puriﬁed primers with 50 bp of perfect homology for the 59 and 39 ends of eutD : eutD59DEL ( 59-TGACGGTCGCCCAAATTCAACAACGGTTGGGAGAGAAGC-CATGATCATTGAACGCGTGTAGGCTGGAGCTGCTTC-39 ) and eutD39DEL ( 59-CGTGTTTTCCTCTCATTAAAGGGGTCCAGAACG-GGACCGTTCATTCAACCAGTGTCATATGAATATCCTCCTTA-39 ) . 
+Construction of the deletion strain from this point was as described in the original protocol , except that the S. enterica strain JE6692 was used as the recipient . 
+The presence of the deletion was conﬁrmed using ABI PRISM non-radioactive BigDye cycle terminator DNA sequencing methodology ( PerkinElmer Life Sciences ) according to the manufacturer 's instructions . 
+DNA sequence was determined at the Biotechnology Center of the University of Wisconsin . 
+Determination of excreted acetate during growth on ethanol-amine . 
+Overnight cultures of S. enterica grown at 37 uC in LB were subcultured 1 : 100 into 20 ml NCE minimal medium containing ethanolamine as the source of carbon and energy . 
+Samples ( 1 ml ) were removed at intervals , and the optical density of the culture was determined using a Klett colorimeter furnished with a red ﬁlter . 
+Samples were centrifuged for 5 min at 13 000 g in a Microfuge 18 centrifuge ( Beckman Coulter ) . 
+A 500 ml sample of the supernatant was ﬁltered through a 0 ? 
+45 mm Spin-X centrifuge tube ﬁlter ( Corning ) and acidiﬁed by the addition of 2 ? 
+5 ml of a 5 M H2SO4 solution . 
+Acidiﬁed samples were stored at 220 uC until used . 
+HPLC was used to analyse the composition of the samples ( see below ) . 
+HPLC analysis . 
+Samples ( 200 ml ) containing organic acids excreted by the strains of S. enterica used in these studies were resolved using a Waters HPLC system equipped with a model 600 solvent delivery system , a model 900 photodiode array detector , and a column heater . 
+An Aminex HPX-87H organic acid analysis column ( 30067 ? 
+8 mm , 
+Bio-Rads ) was maintained at 45 uC and developed isocratically with 0 ? 
+005 M H2SO4 at a ﬂow rate of 0 ? 
+6 ml min . 
+Separations were 21 monitored at 210 nm . 
+Under these conditions , acetate eluted 14 ? 
+6 min after injection . 
+The area under the peak corresponding to acetate was quantiﬁed using the Waters Millenium software package to determine the concentration of acetate in the sample . 
+RESULTS AND DISCUSSION
+S. enterica undergoes acetate switch during growth on ethanolamine
+As shown here , ethanolamine is an acetogenic carbon and energy source for S. enterica . 
+During growth on ethanol-amine , this bacterium excreted and recaptured acetate as it would during the catabolism of other known acetogenic substrates ( e.g. glucose , serine , aspartate , etc. ) . 
+The acetate switch , as deﬁned by A. Wolfe , is the physiological condition where acetate dissimilation equals its assimilation ( Wolfe , 2005 ) . 
+During growth of wild-type S. enterica on ethanol-amine , the acetate switch occurred at late exponential phase , with acetate being completely depleted from the medium by the time the culture reached early stationary phase ( Fig. 3a ) . 
+Pta enzyme activity is not required for acetate excretion during growth on ethanolamine , but it is required for acetate recapture 
+It was previously reported that strains lacking the housekeeping Pta enzyme did not grow on ethanolamine ( Kofoid 
+Fig. 2 . 
+S. enterica gene functions needed to convert ethanolamine to acetate . 
+( a ) Genes encoding proteins with a known or putative enzymic activity are indicated as such . 
+Genes encoding proteins with homology to cyanobacterial carboxysome proteins are labelled with vertical arrows . 
+Horizontal arrows above the operon identify the two transcripts encoded at this locus . 
+EutR is the activator of transcription of the eut operon . 
+( b ) Pathways for acetate activation in S. enterica . 
+Depending on the external concentration of acetate , S. enterica uses either of two independent pathways to convert acetate to Ac-CoA . 
+Low concentrations ( ¡ 10 mM ) of acetate require AMP-forming synthetase ( Acs ) activity ( right ) ; at cents 25 mM , acetate is converted to Ac-CoA by the acetate kinase ( Ack ) and phosphotransacetylase ( Pta , EutD ) enzymes ( left ) . 
+§ Tn10d ( tet ) is an abbreviation of Tn10D16D17 ( Way et al. , 1984 ) . 
++ et al. , 1999 ) . 
+In our hands , however , a S. enterica pta strain grew on ethanolamine as carbon and energy source at a rate similar to that measured for the wild-type strain , with both cultures reaching the same cell density ( Fig. 3a , b ) . 
+In addition , the kinetics of acetate excretion and recapture in the pta and wild-type strains was very similar ( Fig. 3a , b ) . 
+A strain lacking Acs enzyme activity depended on Pta to recapture excreted acetate . 
+Unlike in the wild-type strain , acetate recapture in the acs strain was much slower , probably reﬂecting the kinetics of acetate recapture by the Pta enzyme ( Fig. 3c ) . 
+An acs pta strain excreted acetate but did not recapture any of it ( Fig. 3d ) . 
+Acetate excretion during growth on ethanolamine requires Ack activity
+Parallel studies with a strain carrying an in-frame deletion of the ack gene ( lacked Ack ) showed a factor-of-two increase in the doubling time of the ack strain ( doubling time 3 ? 
+9 h ) relative to that of the wild-type strain ( doubling time 2 ? 
+1 h ) ( Fig. 3a vs Fig. 4 ) . 
+A more profound difference between the strains was observed when the acetate excretion/recapture pattern was determined . 
+Unlike the wild-type strain , the ack strain excreted only a small amount of acetate ( Fig. 3a vs Fig. 4 ) , suggesting that acetate excretion proceeded via acetyl phosphate ( Ac-P ) . 
+Thus it appears that the slower growth rate of the ack strain may be due to an accumulation of Ac-P . 
+Table 1 . 
+Strains and plasmids 
+Unless otherwise stated , strains listed were constructed during the course of this work . 
+Strain or plasmid 
+Relevant genotype 
+Source or reference * 
+S. enterica strainsD * LT2 
+Wild-type 
+Laboratory collection 
+LT2 derivatives TR6583 
+metE205 ara-9 
+K. Sanderson ( University of Calgary ) via J. Roth ( Univer ¬ 
+sity of California -- Davis ) 
+TR6583 derivatives JE2236 
+eutE18 : : Mud1-8d aceB113 : : MudJ 
+Laboratory collection Laboratory collection 
+JE4173 JE4561 
+icd1 : : Tn10d ( tet ) § + pta103 : : cat + pKD46 DeutD1143 DeutD1143 pta103 : : cat + JE7310/pEUTD2 JE7437/pEUTD2 DeutD1143 pta103 : : cat acs : : kan + + DeutD1143 pta103 : : cat acs : : kan + + DSTM3118-2 Dacs2 DeutD1143 pta103 : : cat acs : : kan + + poxB1 : : cat + DeutD1143 acs : : kan ack408 : : Tn10 + DeutD1143 pta103 : : cat Dacs2 + 
+Laboratory collection Laboratory collection 
+JE6317 JE6692 
+JE7310 JE7437 
+JE7375 JE7439 
+JE7498 JE7715 
+JE7758 JE7832 
+JE8326 JE8507 
+Dack103 
+Laboratory collection 
+JE8749 JE8821 
+Dacs2 pta103 : : cat + 
+Plasmids pKD3 
+Source of FRT-cat - FRT fragment + araBp-gam-bet-exo , repA101 ( ts ) , oriR101 ts-rep , { cI857 } ( lambda ) ( ts ) , Flp recombinase + eutD cloned into plasmid pBAD30 + 
+E. coli GSCD E. coli GSC 
+pKD46 pCP20 
+E. coli GSC 
+pEUTD2 
+Brinsmade & Escalante-Semerena ( 2004 ) 
+Cloning vector , bla + 
+pBAD30 
+Guzman et al. ( 1995 ) 
+* GSC , Genetic Stock Center . 
+DAll S. enterica strains used in this study were derivatives of S. enterica serovar Typhimurium LT2 . 
+dIn the text , Mud1-8 is referred to as MudA . 
+. 
+10 0 
+300 
+200 ( a ) 100 
+( b ) 
+Cell density ( Klett units ) 
+. 
+acs + pta 
+7 5 
+acs + pta + 
+EutD phosphotransacetylase activity is not required for growth on ethanolamine
+40 
+A strain lacking the EutD phosphotransacetylase enzyme showed a slight decrease in the rate of growth and the ﬁnal cell density of the culture relative to the wild-type strain ( Fig. 5a ) . 
+Both defects were readily corrected by the wildtype allele of eutD ( Fig. 5a ) . 
+Similar results were obtained with a pta eutD strain ( Fig. 5b ) , consistent with the idea that phosphotransacetylase activity is not central to ethanol-amine catabolism in S. enterica . 
+. 
+5 0 
+.5 
+2 
+25 
+50 
+25 
+50 
+75 15 
+300 
+200 ( c ) 
+( d ) acs pta 
+We note that the growth behaviour of an eutD strain on ethanolamine was in sharp contrast to that of an eutE strain ( Fig. 5a ) , indicating that unlike EutD , EutE function was required for growth of S. enterica on ethanolamine . 
+Although the absence of EutD activity only slightly affected growth of S. enterica on ethanolamine , in the absence of this enzyme acetate excretion was abolished during growth on ethanolamine ( Fig. 6a ; open triangles ) . 
+Inactivation of the pta gene in an eutD strain did not affect growth rate , ﬁnal cell density , or acetate excretion ( Fig. 6b ) . 
+Surprisingly , inactivation of the acs gene restored acetate excretion in the pta eutD strain , but no recapture was observed ( Fig. 6c ) , consistent with the ﬁnding that Acs and Pta activities were needed for recapture ( Fig. 3d ) . 
+Based on these results , and others discussed above , we propose that ethanolamine catabolism proceeds via Ac-CoA , and that acetate is excreted via the EutD/Ack pathway . 
+( d ) acs pta 
+100 
+acs pta + 
+Excreted acetate ( mM ) 
+10 
+4 
+0 
+Excreted acetate ( mM ) 
+Acetate excretion during growth on ethanolamine requires EutD phosphotransacetylase activity 
+10 
+5 
+Cell density ( Klett units 
+1 
+100 50 Time ( h ) 
+150 
+100 
+50 
+( a ) 220 
+( b ) 220 
+Fig. 3 . 
+Acs and Pta activities are required for acetate excretion recapture . 
+( a ) acs + pta + , strain TR6583 ; ( b ) pta , strain JE6317 ( pta103 : : cat + ) . 
+( c ) Dacs2 pta + , strain JE7758 . 
+( d ) Dacs2 pta103 : : cat + , strain JE8821 . 
+& , Cell density ; n , acetate concentration in the medium . 
+Wild-type 140 
+Wild-type 140 
+eutD 
+80 
+80 
+pta eutD/peutD + 
+eutD/peutD + 
+30 
+30 
+pta eutD 
+. 
+10 0 
+300 ack 200 
+eutE 
+eutE 
+100 
+.5 
+7 
+5 
+5 
+10 20 30 40 50 
+10 20 30 40 50 Time ( h ) 
+40 
+5.0 
+Fig. 5 . 
+The EutD/Ack pathway is needed for optimal growth on ethanolamine , but it is not essential . 
+Differences in growth rate and cell yield between wild-type and eutD strains were corrected by introducing a wild-type allele of eutD on a plasmid ( pEUTD2 ) . 
+This plasmid carried a wild-type allele of eutD under the control of the arabinose-inducible promoter in plasmid pBAD30 ( Guzman et al. , 1995 ) ; 200 mM L ( + ) - arabinose was added to the medium to induce eutD expression . 
+Strains used : eut + , strain TR6583 ; eutE , strain JE2236 ( eutE18 : : MudA ) ; eutD , strain JE7310 ( DeutD1143 ) ; eutD pta , strain JE7437 ( DeutD1143 pta103 : : cat + ) ; eutD/peutD + , strain JE7375 [ DeutD1143/pEUTD2 ( bla + ParaBAD-eutD + ) ] ; pta eutD/peutD + , strain JE7439 [ DeutD1143 pta03 : : cat + / pEUTD2 ( bla + ParaBAD-eutD + ) ] . 
+2.5 
+75 
+25 50 Time ( h ) 
+Fig. 4 . 
+Ack activity is required for acetate excretion . 
+Strain JE8749 ( Dack103 ) carrying an in-frame deletion of the ack gene was used for this experiment . 
+& , Cell density ; n , acetate concentration in the medium . 
+Cell density ( Klett units ) 
+Excretion of acetate by the acs eutD pta strain could be explained in at least three ways . 
+One way would involve an Ac-CoA hydrolase , a second way would involve pyruvate oxidase ( PoxB ) , and a third way would involve an un-identiﬁed system . 
+We used the protein sequence of Saccharomyces cerevisiae Ac-CoA hydrolase ( Ach1p ) ( Buu et al. , 2003 ) to search for genes of Salmonella enterica encoding homologous proteins . 
+The search yielded open reading frame STM3118 as the only gene possibly encoding a structural orthologue of Ach1p Ac-CoA hydrolase . 
+We constructed an in-frame deletion of STM3118 in strain JE7498 ( eutD acs pta ) and studied the growth behaviour and acetate excretion pattern in the resulting strain ( JE7715 ) . 
+In addition to growing on ethanol-amine to wild-type levels , strain JE7715 excreted as much acetate as did its parent strain JE7498 , indicating that STM3118 was not involved in acetate excretion in a strain lacking Acs , EutD and Pta activities ( data not shown ) . 
+This result does not rule out the existence of non-orthologous replacements of Ach1p Ac-CoA hydrolase in S. enterica , a possibility that has not been investigated . 
+Inactivation of either poxB or ack did not prevent acetate excretion in strains JE7832 ( poxB acs pta eutD ) or strain JE8326 ( eutD acs ack ) ( data not shown ) . 
+Results obtained with the poxB mutant suggested that PoxB was not responsible for the observed acetate excretion in the acs pta eutD strain JE7832 . 
+Results obtained with strain JE8326 suggested that acetate release in such a strain did not proceed via Ac-P . 
+At present , the identity of the acetate-releasing system operating in the acs pta eutD strain remains unclear . 
+Why is EutD, and not Pta, function required for ethanolamine catabolism?
+One plausible answer to this question may lie in part in the kinetic differences between these enzymes . 
+Although the S. enterica Pta enzyme ( SePta ) has not been isolated and characterized , its close relative from Escherichia coli ( EcPta ) has ( Brinsmade & Escalante-Semerena , 2004 ; Shimizu et al. , 1969 ; Suzuki , 1969 ) . 
+The EutD enzyme has a sevenfold higher afﬁnity for CoA than does EcPta ( 46 vs 320 mM ) , a 23-fold higher afﬁnity for Ac-P than does EcPta ( 0 ? 
+13 vs 3 mM ) , and a 10-fold higher speciﬁc activity than that reported for EcPta ( 3044 vs 333 ) . 
+Relative to EcPta ( and , by extrapolation , to SePta ) , EutD is a very efﬁcient enzyme ( Brinsmade & Escalante-Semerena , 2004 ; Shimizu et al. , 1969 ; Suzuki , 1969 ) . 
+The high afﬁnity of EutD for Ac-CoA and its presumable location within the ethanolamine meta-bolosome is proposed to prevent a non-physiological build-up of Ac-CoA , leading to a release of CoA and acetate and the concomitant production of ATP via substrate-level phosphorylation . 
+Acetate excretion may help the cell minimize the negative effect of intracellular acetate accumulation on the pool of glutamate and other unidentiﬁed ions ( Roe et al. , 1998 ; Russell & Diez-Gonzalez , 1998 ) . 
+Relief from the toxic effects of acetate during growth on ethanolamine would be reached when the acetate switch is ﬂipped towards acetate assimilation . 
+Excreted acetate ( mM 
+. 
+10.0 
+12 5 
+300 
+( b ) pta eutD 
+( c ) acs pta eutD 
+( a ) eutD 
+10.0 
+. 
+7 5 
+100 
+7.5 
+. 
+5 0 
+5.0 
+. 
+2 5 
+2.5 
+10 
+50 
+25 
+5 50 Time ( h ) 
+75 
+50 
+25 
+75 
+2 
+Fig. 6 . 
+EutD phosphotransacetylase activity is required for acetate excretion during growth on ethanolamine . 
+Lack of Acs activity in an eutD strain triggers acetate excretion . 
+( a ) eutD , strain JE7310 ( DeutD1143 ) ; ( b ) eutD pta , strain JE7437 ( DeutD1143 pta103 : : cat + ) ; ( c ) eutD pta Dacs , strain JE8507 ( DeutD1143 pta103 : : cat + Dacs2 ) . 
+& , Cell density ; n , acetate concentration in the medium . 
+Fig. 7 . 
+Model for ethanolamine degradation in S. enterica . 
+The size of the ethanolamine metabolosome is not to scale . 
+Growth on ethanolamine proceeds via the glyoxylate bypass and the Krebs cycle 
+A strain lacking isocitrate dehydrogenase [ JE4561 icd1 : : + Tn10d ( tet ) ] did not grow on ethanolamine as the carbon and energy source on medium supplemented with glutamate , indicating that catabolism of ethanolamine proceeds via the tricarboxylic acid ( Krebs ) cycle . 
+Similarly , a strain lacking malate synthase ( AceB ) and isocitrate lyase ( AceA ) activities ( strain JE4173 ) failed to grow on ethanolamine , indicating that the glyoxylate bypass is also required for the utilization of ethanolamine as the carbon and energy source . 
+cycle and glyoxylate bypass , increasing the amount of carbon and energy available for growth . 
+Elegant studies of acs expression indicate that the Acs level is very low in lowdensity cultures ( Browning et al. , 2004 ) , a fact that would explain the kinetics of acetate accumulation and recapture from the environment . 
+The very efﬁcient EutD phosphotransacetylase , in conjunction with acetate kinase , regenerates free CoA , a process that appears to also involve an as-yet-unidentiﬁed acetate-releasing system . 
+It is an enigma why in the absence of EutD phosphotransacetylase the housekeeping Pta phosphotransacetylase does not compensate for EutD . 
+We propose that the absence of EutD may trigger the diversion of acetaldehyde to ethanol , avoiding the accumulation of Ac-CoA . 
+This and other ideas are under investigation . 
+A working model 
+Fig. 7 summarizes our interpretation of the data reported in this paper . 
+We postulate that in wild-type S. enterica , a portion of the ethanolamine-derived pool of Ac-CoA is converted to acetate and excreted into the medium for later use , with the remaining Ac-CoA entering central meta-bolism . 
+Acetate excretion may be needed to regenerate free CoA . 
+As the Acs level increases , exogenous acetate is recaptured by Acs and Ack/Pta and is catabolized via the TCA 
+ACKNOWLEDGEMENTS
+This work was supported by NIH grant GM62203 to J. C. E.-S . 
+V. J. S. was supported in part by a Jerome Stefaniak Predoctoral Fellowship awarded by the Department of Bacteriology , UW-Madison , and by a Pﬁzer Predoctoral Fellowship . 
+J. G. is an HHMI Predoctoral Fellow and a participant of the NIH Biotechnology Training Program at UW-Madison supported by grant T32-GM08349 . 
+REFERENCES 
+Babior , B. M. ( 1982 ) . 
+Ethanolamine ammonia-lyase . 
+In B12 , pp. 263 -- 288 . 
+Edited by D. Dolphin . 
+New York : Wiley . 
+Badger , M. R. & Price , G. D. ( 2003 ) . 
+CO2 concentrating mechanisms in cyanobacteria : molecular components , their diversity and evolution . 
+J Exp Bot 54 , 609 -- 622 . 
+Baker , S. H. , Williams , D. S. , Aldrich , H. C. , Gambrell , A. C. & Shively , J. M. ( 2000 ) . 
+Identiﬁcation and localization of the carboxysome peptide Csos3 and its corresponding gene in Thiobacillus neapolitanus . 
+Arch Microbiol 173 , 278 -- 283 . 
+Balch , W. E. & Wolfe , R. S. ( 1976 ) . 
+New approach to the cultivation of methanogenic bacteria : 2-mercaptoethanesulfonic acid ( HS-CoM ) - dependent growth of Methanobacterium ruminantium in a pressurized atmosphere . 
+Appl Environ Microbiol 32 , 781 -- 791 . 
+Berkowitz , D. , Hushon , J. M. , Whitﬁeld , H. J. , Roth , J. & Ames , B. N. 
+( 1968 ) . 
+Procedure for identifying nonsense mutations . 
+J Bacteriol 96 , 215 -- 220 . 
+Blackwell , C. M. & Turner , J. M. ( 1978 ) . 
+Microbial metabolism of amino alcohols : formation of coenzyme B12-dependent ethanolamine ammonia-lyase and its concerted induction in Escherichia coli . 
+Biochem J 176 , 751 -- 757 . 
+Bobik , T. A. , Xu , Y. , Jeter , R. M. , Otto , K. E. & Roth , J. R. ( 1997 ) . 
+Propanediol utilization genes ( pdu ) of Salmonella typhimurium : three genes for the propanediol dehydratase . 
+J Bacteriol 179 , 6633 -- 6639 . 
+Bobik , T. A. , Havemann , G. D. , Busch , R. J. , Williams , D. S. & Aldrich , H. C. ( 1999 ) . 
+The propanediol utilization ( pdu ) operon of Salmonella enterica serovar Typhimurium LT2 includes genes necessary for formation of polyhedral organelles involved in coenzyme B-12 dependent 1,2-propanediol degradation . 
+J Bacteriol 181 , 5967 -- 5975 . 
+Brinsmade , S. R. & Escalante-Semerena , J. C. ( 2004 ) . 
+The eutD gene of Salmonella enterica encodes a protein with phosphotrans-acetylase enzyme activity . 
+J Bacteriol 186 , 1890 -- 1892 . 
+Browning , D. F. , Beatty , C. M. , Sanstad , E. A. , Gunn , K. E. , Busby , 
+S. J. & Wolfe , A. J. ( 2004 ) . 
+Modulation of CRP-dependent transcription at the Escherichia coli acsP2 promoter by nucleoprotein complexes : anti-activation by the nucleoid proteins FIS and IHF . 
+Mol Microbiol 51 , 241 -- 254 . 
+Buu , L. M. , Chen , Y. C. & Lee , F. J. ( 2003 ) . 
+Functional characterization and localization of acetyl-CoA hydrolase , Ach1p , in Saccharomyces cerevisiae . 
+J Biol Chem 278 , 17203 -- 17209 . 
+Chan , R. K. , Botstein , D. , Watanabe , T. & Ogata , Y. ( 1972 ) . 
+Specialized transduction of tetracycline resistance by phage P22 in Salmonella typhimurium . 
+II . 
+Properties of a high transducing lysate . 
+Virology 50 , 883 -- 898 . 
+Chang , G. W. & Chang , J. T. ( 1975 ) . 
+Evidence for the B12-dependent enzyme ethanolamine deaminase in Salmonella . 
+Nature 254 , 150 -- 151 . 
+Conner , C. P. , Heithoff , D. M. , Julio , S. M. , Sinsheimer , R. L. & Mahan , M. J. ( 1998 ) . 
+Differential patterns of acquired virulence genes distinguish Salmonella strains . 
+Proc Natl Acad Sci U S A 95 , 4641 -- 4645 . 
+Datsenko , K. A. & Wanner , B. L. ( 2000 ) . 
+One-step inactivation of chromosomal genes in Escherichia coli K-12 using PCR products . 
+Proc Natl Acad Sci U S A 97 , 6640 -- 6645 . 
+Davis , R. W. , Botstein , D. & Roth , J. R. ( 1980 ) . 
+A Manual for Genetic Engineering : Advanced Bacterial Genetics . 
+Cold Spring Harbor , NY : Cold Spring Harbor Laboratory . 
+Faust , L. P. , Connor , J. A. , Roof , D. M. , Hoch , J. A. & Babior , B. M. ( 1990 ) . 
+Cloning , sequencing and expression of the genes encoding the adenosylcobalamin-dependent ethanolamine ammonia-lyase of Salmonella typhimurium . 
+J Biol Chem 265 , 12462 -- 12466 . 
+Friedberg , D. , Jager , K. M. , Kessel , M. , Silman , N. J. & Bergman , B. 
+( 1993 ) . 
+Rubisco but not Rubisco activase is clustered in the carboxysomes of the cyanobacterium Synechococcus sp . 
+PCC 7942 : Mud-induced carboxysomeless mutants . 
+Mol Microbiol 9 , 1193 -- 1201 . 
+Guzman , L.-M. , Belin , D. , Carson , M. J. & Beckwith , J. ( 1995 ) . 
+Tight regulation , modulation , and high-level expression by vectors containing arabinose PBAD promoter . 
+J Bacteriol 177 , 4121 -- 4130 . 
+Havemann , G. D. & Bobik , T. A. ( 2003 ) . 
+Protein content of polyhedral organelles involved in coenzyme B12-dependent degradation of 1,2-propanediol in Salmonella enterica serovar Typhimurium LT2 . 
+J Bacteriol 185 , 5086 -- 5095 . 
+Havemann , G. D. , Sampson , E. M. & Bobik , T. A. ( 2002 ) . 
+PduA is a shell protein of polyhedral organelles involved in coenzyme B12-dependent degradation of 1,2-propanediol in Salmonella enterica serovar Typhimurium LT2 . 
+J Bacteriol 184 , 1253 -- 1261 . 
+Kofoid , E. , Rappleye , C. , Stojiljkovic , I. & Roth , J. ( 1999 ) . 
+The 17-gene ethanolamine ( eut ) operon of Salmonella typhimurium encodes ﬁve homologues of carboxysome shell proteins . 
+J Bacteriol 181 , 5317 -- 5329 . 
+Leal , N. A. , Havemann , G. D. & Bobik , T. A. ( 2003 ) . 
+PduP is a coenzyme-A-acylating propionaldehyde dehydrogenase associated with the polyhedral bodies involved in B12-dependent 1,2-propanediol degradation by Salmonella enterica serovar Typhimurium LT2 . 
+Arch Microbiol 180 , 353 -- 361 . 
+Roe , A. J. , McLaggan , D. , Davidson , I. , O'Byrne , C. & Booth , I. R. ( 1998 ) . 
+Perturbation of anion balance during inhibition of growth of Escherichia coli by weak acids . 
+J Bacteriol 180 , 767 -- 772 . 
+Rondon , M. R. , Kazmierczak , R. & Escalante-Semerena , J. C. ( 1995 ) . 
+Glutathione is required for maximal transcription of the cobalamin biosynthetic and 1,2-propanediol utilization ( cob/pdu ) regulon and for the catabolism of ethanolamine , 1,2-propanediol , 
+and propionate in Salmonella typhimurium LT2 . 
+J Bacteriol 177 , 5434 -- 5439 . 
+Roof , D. M. & Roth , J. R. ( 1988 ) . 
+Ethanolamine utilization in Salmonella typhimurium . 
+J Bacteriol 170 , 3855 -- 3863 . 
+Roof , D. M. & Roth , J. R. ( 1989 ) . 
+Functions required for vitamin B12-dependent ethanolamine utilization in Salmonella typhimurium . 
+J Bacteriol 171 , 3316 -- 3323 . 
+Roof , D. M. & Roth , J. R. ( 1992 ) . 
+Autogenous regulation of ethanol-amine utilization by a transcriptional activator of the eut operon in Salmonella typhimurium . 
+J Bacteriol 174 , 6634 -- 6643 . 
+Russell , J. B. & Diez-Gonzalez , F. ( 1998 ) . 
+The effects of fermentation acids on bacterial growth . 
+Adv Microb Physiol 39 , 205 -- 234 . 
+Schmieger , H. ( 1971 ) . 
+A method for detection of phage mutants with altered transduction ability . 
+Mol Gen Genet 100 , 378 -- 381 . 
+Schmieger , H. & Bakhaus , H. ( 1973 ) . 
+The origin of DNA in transducing particles of P22 mutants with increased transduction frequencies ( HT-mutants ) . 
+Mol Gen Genet 120 , 181 -- 190 . 
+Sheppard , D. E. & Roth , J. R. ( 1994 ) . 
+A rationale for autoinduction of a transcriptional activator : ethanolamine ammonia-lyase ( EutBC ) and the operon activator ( EutR ) compete for adenosyl-cobalamin in Salmonella typhimurium . 
+J Bacteriol 176 , 1287 -- 1296 . 
+Shimizu , M. , Suzuki , T. , Kameda , K. Y. & Abiko , Y. ( 1969 ) . 
+Phosphotransacetylase of Escherichia coli B , puriﬁcation and properties . 
+Biochim Biophys Acta 191 , 550 -- 558 . 
+Stojiljkovic , I. , Bäumler , A. J. & Heffron , F. ( 1995 ) . 
+Ethanolamine utilization in Salmonella typhimurium : nucleotide sequence , protein 
+expression , and mutational analysis of the cchA cchB eutE eutj eutH gene cluster . 
+J Bacteriol 177 , 1357 -- 1366 . 
+Suzuki , T. ( 1969 ) . 
+Phosphotransacetylase of Escherichia coli B , activation by pyruvate and inhibition by NADH and certain nucleotides . 
+Biochim Biophys Acta 191 , 559 -- 569 . 
+Way , J. C. , Davis , M. A. , Morisato , D. , Roberts , D. E. & Kleckner , N. 
+( 1984 ) . 
+New Tn10 derivatives for transposon mutagenesis and for construction of lacZ operon fusions by transposition . 
+Gene 32 , 369 -- 379 . 
+Wolfe , A. J. ( 2005 ) . 
+The acetate switch . 
+Microbiol Mol Biol Rev 69 , 12 -- 50 .

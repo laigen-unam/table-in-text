@@ -1,0 +1,405 @@
+Current Drug Targets , 2006 , 7 , 849-860 
+849 
+Multi-Drug Resistance in Salmonella enterica: Efflux Mechanisms and Their Relationships with the Development of Chromosomal Resistance Gene Clusters
+Teresa Quinn , Rebecca O'Mahony , Alan W. Baird , Denise Drudy , Paul Whyte and Séamus Fanning * 
+School of Agriculture , Food Science & Veterinary Medicine , University College Dublin , Belfield , Dublin 4 , Ireland 
+Abstract : Bacterial drug resistance represents one of the most crucial problems in present day antibacterial chemotherapy . 
+Of particular concern to public health is the continuing worldwide epidemic spread of Salmonella enterica serovar Typhimurium phage type DT104 harbouring a genomic island called Salmonella genomic island I ( SGI-1 ) . 
+This island contains an antibiotic gene cluster conferring resistance to ampicillin , chloramphenicol , florfenicol , streptomycin , sulfona-mides and tetracyclines . 
+These resistance genes are assembled in a mosaic pattern , indicative of several independent recombinational events . 
+The mobility of SGI-1 coupled with the ability of various antibiotic resistance genes to be integrated and lost from the chromosomal resistance locus allows for the transfer of stable antibiotic resistance to most of the commonly used antibiotics and adaptation to new antibiotic challenges . 
+This , coupled with the incidence of increasing fluoroquinolone resistance in these strains increases the risk of therapeutic failure in cases of life-threatening salmonello-sis . 
+Fluoroquinolone resistance has largely been attributed to mutations occurring in the genes coding for intracellular targets of these drugs . 
+However , efflux by the AcrAB-TolC multi-drug efflux pump has recently been shown to directly contribute to fluoroquinolone resistance . 
+Furthermore , the resistance to chloramphenicol-florfenicol and tetracyclines in DT104 isolates , is due to interaction between specific transporters for these antibiotics encoded by genes mapping to the SGI-1 and the AcrAB-TolC tripartite efflux pump . 
+The potential for the use of efflux pump inhibitors to restore therapeutic efficacy to fluoroquinolones and other antibiotics offers an exciting developmental area for drug discovery . 
+ords : Salmonella enterica , antimicrobial resistance , class 1 integron , SGI-1 clusters , AcrAB-TolC efflux pump . 
+W 
+ey 
+K 
+1. INTRODUCTION
+Drug resistant microorganisms have become a major worldwide health issue as many of the currently available antibiotics are becoming ineffective in the treatment of infectious diseases [ 1-4 ] . 
+Development of antibiotic resistance in bacteria is an inevitable consequence of selective pressure imposed by the indiscriminate use of antibiotics in both human and veterinary medicine . 
+Resistance to antibiotics occurs as a result of drug inactivation , target modification and decreased accumulation associated with decreased membrane permeability and / or increased efflux [ 5 ] . 
+A summary of these resistance mechanisms is presented in Fig . 
+( 1 ) . 
+Multi-drug resistance typically occurs as a result of accumulation of multiple mutations and/or the horizontal transfer of resistance genes on mobile genetic elements such as plasmids and transposons along with novel genetic elements such as integrons and resistance islands [ 6-10 ] . 
+More recently , increased expression of multi-drug efflux pumps has been recognised as a significant determinant of microbial resistance [ 11-14 ] . 
+Development of antibiotic resistance by Salmonella and other enteric organisms that are found in the gastrointestinal tract of warm-blooded food animals carries the risk that these 
+* Address correspondence to this author at Centre for Food Safety , School of Agriculture , Food Science and Veterinary Medicine , University College Dublin , Belfield , Dublin 4 , Ireland . 
+Tel : ( +353 -1 ) 716 6082 ; Fax : ( +353 -1 ) 716 6091 ; E-mail : sfanning@ucd.ie resistant organisms can be transmitted to humans via the food chain . 
+In humans the majority of Salmonella infections result in a self-limiting gastroenteritis . 
+However , in invasive infections , particularly in immunocomprised patients , antimicrobial therapy is necessary . 
+Consequently , of major concern to public health has been the emergence and worldwide epidemic spread of multidrug-resistant strains of Sal-monella enterica serovar Typhimurium phage type DT104 ( S. typhimurium DT104 ) showing stable resistance to five of the most commonly used antibiotics : ampicillin , chloramphenicol , streptomycin , sulfonamides and tetracyclines [ 15 ] . 
+The corresponding resistance determinants map to a gene cluster that has been shown to be part of a 43-Kbp genomic island called Salmonella genomic island I ( SGI-1 ) [ 16 , 17 ] . 
+With the development of stable resistance to most common antibiotic families , fluoroquinolones are now the preferred treatment in cases of multi-drug resistant life threatening salmonellosis [ 18 ] . 
+Emergence of Salmonella strains with reduced susceptibility to fluoroquinolones , and in particular multi-drug resistant strains of S. typhimurium DT104 , is therefore a major concern in both veterinary and human medicine [ 19-22 ] . 
+The genetic basis of fluoroquinolone resistance is attributable to mutations in the quinolone resistance determining region ( QRDR ) of the target gene gyrA [ 15 , 23 , 24 ] . 
+In addition , active efflux arising from overproduction of the multi-drug AcrAB-TolC efflux pump contrib-utes to the development of fluoroquinolone resistance in S. typhimurium DT104 [ 25 ] . 
+Furthermore , resistance to chlo-ramphenicol-florfenicol and tetracyclines in these isolates has been shown to be due to interaction between specific transporters for these antibiotics encoded by genes mapping within SGI-1 and the AcrAB-TolC tripartite efflux pump [ 25 ] . 
+© 2006 Bentham Science Publishers Ltd 
+1389-4501/06 $ 50.00 +.00 
+Here we review the contribution of genomic islands and efflux mechanisms to multi-drug resistance in Salmonella . 
+The relationship between efflux pumps and genomic islands in the development of antibiotic resistance is examined and its impact on potential therapeutic strategies discussed . 
+2.1 . 
+Emergence of Multiple-Antibiotic Resistant S. typhi-murium DT104 Since 1990 there has been a dramatic increase in the prevalence of multi-drug resistant strains of Salmonella in developed countries [ 26 ] . 
+The occurrence of multi-drug resistant Salmonella has been best documented in S. typhimur-ium and in particular S. typhimurium DT104 which emerged in the mid-1980s as a global health problem [ 27 , 28 ] . 
+Resistant isolates of this phage type were first reported in the United Kingdom where they were isolated from cattle and humans . 
+Phage type DT104 strains are now common in other animal species including poultry , pigs and sheep [ 29-32 ] . 
+Human infections with multiple antibiotic resistant DT104 isolates have been associated with the consumption of chicken , beef , pork , sausages , meat paste , unpasteurised cheese and lettuce [ 28 , 33 , 34 ] . 
+The DT104 epidemic is now worldwide with numerous outbreaks continuing to be reported [ 35-37 ] . 
+S. typhimurium DT104 is characterized by its simultaneous penta-resistance to five commonly used antimicrobials : ampicillin ( A ) , chloramphenicol ( C ) , streptomy-cin/spectinomycin ( S ) , sulfonamide ( Su ) and tetracycline ( T ) which led to the acronym ACSSuT . 
+Thus the antimicrobial resistance ( R ) profile ACSSuT is synonymous with the DT104 phage type . 
+2.2. Role of Integrons in Diffusion of Resistance
+Mobile genetic elements including plasmids , transposons and bacteriophages facilitate the acquisition and subsequent dissemination of resistance determinants between bacterial populations . 
+Recently , another class of mobile genetic element , the integron , was described and these are now considered efficient means by which the transfer of resistance markers among unrelated bacterial populations can be facilitated as part of a transposon of the Tn21 family or independently on broad host range plasmids [ 38 ] . 
+Integrons contain a recently described system for site-specific recombination , similar to that in temperate bacteriophages [ 39 ] . 
+These structures are naturally occurring gene expression systems that can potentially capture and integrate one or more gene cassettes and convert them into functionally expressed genes . 
+It is these gene cassettes that encode open reading frames ( ORFs ) corresponding to the resistance determinants of several antimicrobial agents . 
+Nine classes of integrons have been described to date and class 1 are clinically significant . 
+The typical structure of a class 1 integron includes two conserved segments ( CS ) , denoted as 5 ' - and 3 ' - CS , flanking a variable region containing the gene cassette . 
+An intI1 gene encoding an integrase enzyme is located within the 5 ' - CS and this is responsible for the recombination of a gene cassette at a specific att1 at tachment site located between the 5 ' - CS and the gene cassette . 
+Also within this region is a promoter that facilitates the efficient expression of any recombined gene cassette . 
+Each gene cassette in addition to containing the ORF also has a conserved sequence , the 59 base element on the distal end that is required for att1 recognition . 
+The 3 ' - CS contains two ORFs encoding resistance to quaternary ammonium compounds ( qac ) and sulfonamides ( sul1 ) , respectively . 
+Integrons can incorporate and express more than one gene cassette , provided that its location is flanked by these 5 ' - and 3 ' - CS domains . 
+Thus integrons may contain a number of recombined gene cassettes , oriented in a classical `` head-to-tail '' arrangement conferring a multi-drug resistant phenotype on any isolate in which these genetic elements are located . 
+DNA hybridisation and PCR experiments have shown that integrons are widespread among bacteria , particularly among the Enterobacteriaceae . 
+Fig . 
+( 1 ) . 
+Mechanisms of antibiotic resistance in bacteria include : ( 1 ) alteration of the target for the antibiotic to prevent antibiotic binding , ( 2 ) reduction of permeability by loss of porins in Gram-negative bacteria , ( 3 ) increased efflux of antibiotic resulting from over-expression of efflux pumps and ( 4 ) physical degradation of the antibiotic . 
+2 . 
+MULTIPLE ANTIBIOTIC RESISTANCE SALMONELLA 
+IN 
+2.3 . 
+Development of Salmonella Genomic Island 1 ( SGI-1 ) The ACSSuT resistance profile of S. typhimurium DT104 is associated with the evolution of a cluster of resistance genes located in the chromosome [ 40 ] . 
+This locus maps towards the distal end of a larger 43-Kbp island known as the Salmonella Genomic Island ( SGI-1 ) [ 41 ] . 
+The resistance-encoding locus has been well characterised . 
+It is approximately 13-Kbp and is flanked by two class 1 integrons containing gene cassettes encoding an aadA2 gene ( conferring resistance to streptomycin and spectinomycin ) on the proximal side and the β-lactamase gene bla-PSE gene on the distal end in addition to the sulI and qacE ∆ 1 genes that are characteristic of class 1 integrons and specify resistance to sulfonamides and disinfectants , respectively [ 42 , 43 ] . 
+The chloramphenicol/florfenicol ( floR also known as cmlA-like ) and tetracycline ( tetG ) - encoding ORFs are located between these integrons ( Fig . 
+( 2 ) ) . 
+These genes code for single component efflux pumps of the major facilitator superfamily ( MFS ) with 
+12 transmembrane segments [ 44 , 45 ] . 
+The wide dissemination of this multi-drug resistant clone of S. typhimurium DT104 may have resulted from the chromosomal integration of class 1 integrons thereby aiding their persistence in the absence of antimicrobial selection . 
+The G+C content for SGI-1 differs from that of the S. typhimurium genome ( 49.17 % vs 51-53 % ) . 
+This suggests that SGI-1 may have originated and evolved from a variety of independent sources . 
+Furthermore , the resistance cluster within SGI-1 contains domains with differing G+C contents [ 17 ] suggesting that the cluster is itself a mosaic of genetic loci acquired from multiple origins . 
+The efflux pump genes ( floR and tetG ) have a similar G+C content of 58 % , which may indicate a common origin . 
+Angulo et al. [ 46 ] suggested that these genes have been acquired from bacteria associated with aquatic environments since homologs of these efflux genes have been identified on plasmids in fish pathogens . 
+However , a possible horizontal transfer from Pseudomonas spp . 
+can not be outruled as tetG occurs in bacteria of this ge-nus [ 47 ] and floR is closely related to the chloramphenicolresistance encoding gene cmlA found in Pseudomonas aeru-ginosa [ 48 ] . 
+The SGI-1 cluster is located between two genes in S. typhimurium DT104 , thdF ( encoding a thiopene and furan oxidation protein-common amongst Salmonella of various serotypes ) and int2 ( part of a retron sequence that is associated with S. typhimurium only ) . 
+SGI-1 has also been identified in a number of non-Typhimurium serotypes ( Agona , Albany , Paratyphi B , Meleagridis and Newport ) where the location of SGI-1 is found between the former locus and the yidY gene that immediately follows the retron sequence in S. typhimurium [ 17 , 41 , 49-52 ] . 
+In all Salmonella , SGI-1 is flanked by an imperfect 18 bp direct repeat ( denoted DR-L and DR-R ) . 
+The latter is identical to the last 18 bp of the thdF open reading frame ( ORF ) in all serotypes . 
+In contrast DR-L is the same in all cases identified to date suggesting that it is probably derived from the SGI-1 donor . 
+The presence of these imperfect direct repeats coupled with the presence of SGI-1 on different S. enterica serovars suggests that this locus may be capable of undergoing horizontal transfer . 
+Previously , Schmieger and Schicklmaier [ 53 ] showed that P22-like phages normally present in a lysogenic state in S. typhimurium DT104 , can transfer the entire resistance locus of SGI-1 . 
+However , until recently , there was no molecular proof of transfer of the complete locus by non-phage mediated means . 
+Doublet et al. [ 10 ] showed the in vivo mobilization of the SGI-1 cluster as an integrative mobilizable element from Salmonella enterica donors to Escherichia coli recipient strains . 
+Site-specific integration followed transfer in the latter case . 
+Conjugation was dependent on a helper plasmid R55 that functioned to mobilize the locus in trans . 
+Fig . 
+( 2 ) . 
+A basic genetic map of the 13-Kbp distal end of SGI-1 in Salmonella typhimurium DT104 . 
+The flanking integrons are noted along with a derived plasmid integrated between the latter structures . 
+All five resistances ( ACSSuT ) are accounted for 
+Several variants of SGI-1 have been reported [ 41 , 50 , 54 ] . 
+These are denoted SGI-1 A through H ( Fig . 
+( 3 ) ) . 
+These variants have arisen following independent recombinational events associated with the gene cassettes of the two class 1 integrons wherein the progenitor encoding sequences associated with SGI-1 have been replaced by other resistance-encoding sequences . 
+2.4. Emerging Fluoroquinolone Resistance
+The emergence of multi-drug resistant S. typhimurium DT104 showing decreased susceptibility to fluoroquinolones followed the licensing for veterinary use of enrofloxacin in 1993 [ 24 ] . 
+Indeed a number of studies have provided data indicating an increase in quinolone resistance in Salmonella isolates following the approval of quinolone usage in livestock [ 55-57 ] . 
+The first reported example of high-level fluoroquinolone resistance was in S. typhimurium variant Copenhagen phage type DT204 that emerged and clonally spread in limited areas of Europe [ 58-60 ] . 
+These strains were mainly isolated from animals and humans between 1991 and 1995 and demonstrated high-level resistance to ciprofloxacin ( MIC of 32 µg / ml ) . 
+Recent reports have documented emergence of high-level fluoroquinolone resistance in serovars Choleraesius , Schwarzengrund and Typhimurium [ 61-63 ] . 
+In Salmonella the genetic basis for quinolone resistance has been attributed to mutations occurring in the genes coding for intracellular targets of these drugs , namely DNA gyrase ( Topoisomerase II ) and Topoisomerase IV ( reviewed by [ 21 , 23 , 64 ] ) . 
+Nalidixic acid resistance is usually a consequence of a single point mutation in the quinolone-resistance determining region ( QRDR ) of the gyrA gene which encodes the A subunit of DNA gyrase . 
+The most frequently observed mutations involve amino acid residue changes at Ser-83 ( to Phe , Tyr or Ala ) or at Asp-87 ( to Gly , Asn or Tyr ) . 
+These amino acid substitutions are also associated with low-level ciprofloxacin resistance [ 21 , 23 , 64 ] . 
+Although high-level fluoroquinolone resistance in Salmonella is still uncommon compared with other pathogenic bacteria , strains that have been characterised carry at least two mutations in the gyrA gene often in association with additional mutations in gyrB ( coding for Ser 464 ) and parC ( coding for Gly 78 and Ser 80 ) [ 59 , 62 , 65-67 ] . 
+Fluoroquinolone resistance in Salmo-nella has also been attributed to active efflux mechanisms ( discussed in 3.3 . ) . 
+A qnr gene responsible for plasmid mediated quinolone resistance has recently been identified [ 68 ] . 
+The contribution of the qnr gene to quinolone resistance in Salmonella still remains to be elucidated . 
+Fig . 
+( 3 ) . 
+Salmonella Genomic Island 1 ( SGI-1 ) and a number of its derivatives from several serotypes . 
+The various antibiotic gene clusters mediate resistance to ampicillin ( bla-PSE ) , chloramphenicol and florfenicol ( floR ) , gentamicin ( aac ( 3 ) ) , streptomycin and spectinomycin ( aadA and aadA7 ) , sulfonamides ( sul1 ) , tetracyclines ( tetG ) , and trimethoprim ( dfrA1 and dfrA10 ) 
+3 . 
+ROLE OF ACTIVE EFFLUX IN ANTIBIOTIC RESISTANCE IN SALMONELLA 
+3.1 . 
+Biological Diversity of Efflux Systems The first drug transport proteins to be identified in pro-karyotes were a family of drug specific tetracycline efflux pumps [ 69-71 ] . 
+More recently , efflux pumps referred to as multi-drug resistance pumps , which expel a range of structurally dissimilar organic compounds including multiple classes of antibiotics , have been identified [ 72 ] . 
+They contribute to the intrinsic drug resistance of many Gramnegative bacteria and when over-expressed can produce elevated levels of resistance resulting in a multi-drug resistance phenotype [ 11-14 , 73 ] . 
+In general , most genes encoding multi-drug resistant pumps are normal constituents of bacterial chromosomes whereas antibiotic-specific pumps are usually encoded on transmissible plasmids and transposons thereby facilitating horizontal dissemination of the resistance determinants . 
+Five families of efflux pumps capable of providing resistance to clinically significant drugs in prokaryotes are now known : the major facilitator superfamily ( MFS ) , the resistance nodulation-division ( RND ) family , the small multi-drug resistance ( SMR ) family , the ATP-binding cassette ( ABC ) family , and the multi-drug and toxic compound extrusion ( MATE ) family [ 74 ] . 
+The structural organisation and mode of action of these families of transporters is schematically illustrated in Fig . 
+( 4 ) . 
+Multi-drug efflux pumps of the RND family have been increasingly shown to play a major role in providing both intrinsic and elevated levels of resistance to a wide range of noxious compounds in Gramnegative bacteria [ 75 , 76 ] . 
+3.2. AcrAB-TolC Efflux System
+A homologue of the well studied AcrAB-TolC multi-drug transport system in E. coli has been described in S. typhimurium where it has been shown to contribute to efflux mediated antibiotic resistance [ 25 , 58 , 77-80 ] . 
+The AcrAB pump has wide substrate specificity , effluxing clinically important antibiotics including β-lactams , quinolones , tetracyclines and chloramphenicol along with detergents , cationic dyes and disinfectants [ 81 , 82 ] . 
+Like the majority of other Gram-negative multi-drug efflux systems it functions as a tripartite complex . 
+The functional elements include AcrB , the cytoplasmic membrane pump ( which is a member of the RND family ) and a membrane fusion protein AcrA . 
+Together with the third component of the system , the outer-membrane channel TolC that is encoded by a third non-cistronic gene mapping elsewhere on the chromosome , this system pumps drugs directly into the external medium . 
+The crystal structure of TolC was recently resolved by X-ray analysis [ 83 ] . 
+It is a trimeric protein , which not only spans the outer membrane but also forms a 100 Å long tube protruding at least half way into the periplasmic space . 
+Resolution of the crystal structure of AcrA confirmed that it displayed an elongated shape [ 84 ] consistent with the hypothesis that this protein spans the periplasmic space coordinating the concerted operation of inner and outer membrane components of the complex [ 85 ] . 
+A milestone in structural biology has been the high-resolution elucidation of the crystal structure of AcrB that enabled a functional model of the efflux complex to be generated [ 86 ] . 
+Like TolC , AcrB is a trimer with each monomer containing greater than 1000 amino acid residues . 
+Similar to other members of the RND superfamily , AcrB contains 12 transmembrane α-helices ( per monomer ) with two large periplasmic domains located between helices 1 and 2 and helices 7 and 8 . 
+The top of this trimeric periplasmic domain forms a funnel , which appears to dock with the inner end of the periplasmic tunnel of the TolC trimer . 
+The funnel is connected by a narrow pore to a very large central cavity spanning the cytoplasmic membrane and extending to the cytoplasm , which is formed by the three transmembrane domains of the AcrB protomers [ 87 ] . 
+The central cavity has been shown to play an important role in drug recognition and transport [ 88-90 ] . 
+Substrate binding studies along with subsequent structural analysis indicated that three AcrB ligands could bind simultaneously by weak chemical forces to the large central cavity at different locations [ 90 ] . 
+The most striking feature of AcrB is the presence of open vestibules connecting the central cavity of the transporter to the periplasm indicating that transport of drugs can occur not only from the cytoplasm but also from the perip-lasm and outer leaflet of the cytoplasmic membrane [ 86 ] . 
+A schematic diagram of the structural organisation of AcrAB-TolC indicating the sites of substrate capture is depicted in Fig . 
+( 5 ) . 
+Fig . 
+( 4 ) . 
+Structural organisation and mode of action of the five characterised families of multi-drug efflux pumps in Gram-negative bacteria . 
+Efflux pumps can occur as single-component or multi-component systems . 
+Single-component efflux pumps belonging to the MFS , SMR or MATE families of transporters will excrete drugs into the periplasm . 
+Drugs can then leave the cell through outer membrane porins or by direct diffusion through the outer membrane . 
+Multi-component efflux pumps belonging to the RND , MFS and ABC family of transporters operate as part of a tripartite protein complex . 
+Each pump contains a transporter located in the cytoplasmic membrane , which interacts with a membrane fusion protein and an outer membrane protein allowing for translocation of drugs out of the cell . 
+Members of all but the ABC family ( whose members use the energy of hydrolysis of ATP to drive drug efflux ) utilize proton motive force to drive efflux . 
+Transport by members of the MATE family is also driven by the transmembrane electrical gradient of sodium ions 
+3.3 . 
+Role of AcrAB-TolC Efflux System in Quinolone Resistance in Salmonella 
+A number of studies have attributed fluoroquinolone resistance in S. typhimurium to active efflux as a result of overproduction of the AcrAB efflux pump [ 25 , 58 , 79 , 80 , 91 ] . 
+Giraud et al. [ 91 ] reported that the level of production of 
+Fig . 
+( 5 ) . 
+Schematic model of the AcrAB-TolC efflux pump . 
+It functions as a tripartite complex , consisting of AcrB , the cytoplasmic membrane pump , a membrane fusion protein AcrA and an outer membrane channel TolC . 
+The top of the periplasmic domain of AcrB forms a funnel that docks with TolC . 
+The funnel is connected by a narrow pore to a large central cavity . 
+Drugs access the central cavity of the AcrB transporter from the periplasm through a number of vestibules or from the cytoplasm 
+AcrA correlated with the resistance levels to fluoroqui-nolones in in vitro quinolone selected mutants whose phenotype of resistance to fluoroquinolones could not be completely accounted for by mutations in DNA gyrase alone . 
+In addition , increased expression of acrB was reported in a number of post-therapy quinolone resistant isolates from a patient treated with ciprofloxacin [ 79 ] . 
+More recently , comprehensive investigations into the contribution of efflux to high and low level fluoroquinolone resistance in strains of S. typhimurium DT204 and DT104 showing increased expression of AcrA , have been carried out [ 25 , 58 , 80 ] . 
+Direct evidence for the contribution of the AcrAB-TolC efflux system to high and low level fluoroquinolone resistance in these isolates has been provided by inactivation of the acrB gene coding for the transporter , inactivation of the tolC gene coding for the outer membrane component of the efflux system and inhibition of the AcrB pump using the efflux pump inhibitor L - Phenylalanine - L - Arginine - β - naphthylamine ( PAβN ) . 
+Inactivation of acrB and tolC genes resulted in a significant reduction in the MIC 's to several fluoroqui-nolones as illustrated in Table 1 . 
+Furthermore , PAβN decreased the MICs to levels which were comparable with those obtained after target gene inactivation . 
+Interestingly , efflux by the AcrAB-TolC efflux system appears to be the main mechanism mediating quinolone resistance in S. typhi-murium DT104 strains with little contribution from gyrA mutations [ 25 ] . 
+In contrast , both active efflux and accumulation of target gene mutations , including parC mutations appear to be essential to confer the high-level fluoroquinolone resistance observed in S. typhimurium DT204 [ 80 ] . 
+3.4 . 
+Involvement of AcrAB-TolC in Multi-Drug Resistance in Salmonella 
+Although the majority of studies to date in Salmonella have focussed on the role of the AcrAB efflux pump in qui-nolone resistance , several studies have demonstrated that over production of the AcrAB efflux pump can result in multiple antibiotic resistance in S. typhimurium [ 25 , 78 , 79 , 91 ] . 
+Nikaido et al. [ 78 ] described an AcrAB-overproducing mutant of S. typhimurium that was more resistant than its progenitor to a wide variety of compounds including fusidic acid , chloramphenicol , tetracycline , norfoxacin and penicil-lin . 
+Similarly , mutants of S. typhimurium selected with enro-floxacin showing overproduction of AcrA exhibited higher levels of resistance than the parent strain , not only to qui-nolones but also to structurally unrelated compounds such as tetracyclines , chloramphenicol , β-lactams and cefoxitin . 
+Table 1 . 
+Quinolone Resistance in S. typhimurium DT104 and DT204 Strains 
+Quinolone MICs ( mg/l ) 
+Substitutions in QRDR 
+Strain 
+Ref . 
+CIP 
+MAR 
+ENR 
+FLU 
+NAL 
+GyrA 
+GyrB 
+ParC 
+DT104 strains 
+64 
+2 2 
+¬ 
+¬ 
+[ 25 ] 
+BN10055 
+Ser83Tyr 
+4 
+> 1024 
+Ser83Tyr 
+0.25 
+64 
+0.25 0.06 
+2 
+¬ 
+¬ 
+BN10055 acrB : : kan 
+1 
+Ser83Tyr 
+0.06 
+32 
+0.125 0.06 
+¬ 
+¬ 
+BN10055 ∆ tolC : : kan 
+Ser83Phe 
+2 
+1024 
+2 1 
+¬ 
+32 
+¬ 
+[ 25 ] 
+543SA98 
+Ser83Phe 
+0.25 
+32 
+0.25 0.06 
+¬ 
+1 
+¬ 
+543SA98 acrB : : kan 
+Ser83Phe 
+0.125 
+16 
+0.125 0.06 
+¬ 
+1 
+¬ 
+543SA98 ∆ tolC : : kan 
+¬ 
+1 
+512 
+1 0.5 
+¬ 
+¬ 
+32 
+[ 25 ] 
+BN9945 
+¬ 
+0.125 0.06 
+¬ 
+¬ 
+1 
+BN9945 acrB : : kan 
+0.25 
+32 
+0.125 0.06 
+¬ 
+¬ 
+¬ 
+1 
+BN9945 ∆ tolC : : kan 
+0.06 
+16 
+DT204 strains 
+[ 80 ] 
+32 
+32 
+64 
+102 SA00 
+Ser80IIe 
+Ser83Ala , Asp87Asn Ser464Phe 
+> 1024 
+> 1024 
+2 
+102 SA00 acrB : : kan 
+2 2 
+Ser80IIe 
+Ser83Ala , Asp87Asn Ser464Phe 
+128 
+512 
+2 
+102 SA00 ∆ tolC : : kan 
+2 2 
+Ser80IIe 
+Ser83Ala , Asp87Asn Ser464Phe 
+64 
+256 
+Control DT104 strains 
+[ 25 ] 
+¬ 
+¬ 
+¬ 
+S/921495 4 0.5 0.125 0.06 0.03 
+¬ 
+¬ 
+¬ 
+S/921495 acrB : : kan 0.5 0.06 0.008 0.008 0.004 
+¬ 
+¬ 
+¬ 
+S/921495 ∆ tolC : : kan 0.5 0.06 0.008 0.008 0.004 
+NAL , nalidixic acid ; FLU , flumequine ; ENR , enrofloxacin ; MAR , marbofloxacin ; CIP , ciprofloxacin 
+[ 91 ] . 
+Isolates of S. typhimurium recovered from a patient treated with ciprofloxacin showing increased expression of acrB also demonstrated multiple antibiotic resistance [ 79 ] . 
+Recently , the AcrAB efflux pump has been shown to contribute to fluoroquinolone , chloramphenicol/florfenicol and tetracycline resistance in multi-drug resistant S. typhimurium DT104 [ 25 ] . 
+Over-expression of efflux pumps can result from mutations within local repressor genes or from activation of a regulon regulated by global transcriptional regulators such as MarA , SoxS or Rob Fig . 
+( 6 ) . 
+The marRAB locus in S. typhi-murium has been shown to be structurally and functionally similar to that in E. coli [ 92 ] and there is close homology between the soxRS genes of S. typhimurium and E. coli [ 93 ] . 
+As in E. coli , increased expression of marA and soxS results in a multiple antibiotic resistance phenotype [ 93-95 ] . 
+Although there is clear evidence for increased expression of the AcrAB efflux system in multi-drug resistance in S. enterica serovar Typhimurium , few studies to date have examined the regulation of this AcrAB-mediated efflux and the findings have been inconclusive [ 79 , 95-97 ] . 
+The contribution of these global regulators to the up-regulation of acrAB in fluoroquinoline and multi-drug resistant Salmonella phenotypes still remains to be fully elucidated . 
+4 . 
+RELATIONSHIP BETWEEN THE ACRAB-TOLC EFFLUX PUMP AND SGI-1 IN DT104 ISOLATES 
+Recently , Baucheron et al. [ 25 ] investigated the interaction between the AcrAB-TolC efflux system and the antibiotic gene cluster harboured in the SGI-1 in strains of multidrug-resistant S. typhimurium DT104 . 
+Among the anti-biotic resistance genes in these strains , choramphenicol , am-picillin and tetracyclines are known substrates of the AcrAB multi-drug transporter [ 78 , 91 , 98 ] . 
+As previously described in Fig . 
+( 2 ) , the floR gene and the tetG genes that confer resistance to chloramphenicol-florfenicol and tetracyclines respectively , code for single component efflux pumps of the major facilitator superfamily ( MFS ) . 
+Site-directed mutagenesis of the acrB and tolC genes decreased the resistance to chloramphenicol-florfenicol and tetracyclines resulting in a susceptible or intermediate-resistance phenotype . 
+Furthermore , simultaneous expression of the AcrAB-TolC efflux system and the FloR or Tet ( G ) resulted in antibiotic resistance that was much greater than that conferred by each of the pumps expressed singly ( the fold increase in drug resistance was close to the product of the fold increases due to the individual pumps ) . 
+These data indicate that clinical levels of resistance to chloramphenicol-florfenicol and tetracyclines in multi-drug resistant S. typhi-murium DT104 are dependent on functional interaction between AcrAB-TolC and FloR and Tet ( G ) , respectively . 
+In contrast , the AcrAB-TolC efflux pump did not contribute to the resistance to ampicillin , streptomycin and sulfonamides in these isolates . 
+Fig . 
+( 6 ) . 
+Simplified representation of the regulatory control of expression of the AcrAB-TolC efflux pump in E. coli . 
+The global regulatory proteins MarA , SoxS and Rob are primarily responsible for activation of acrAB and tolC transcription . 
+Intracellular levels of MarA are controlled by MarR that binds to marO and negatively modulates expression of the marRAB operon . 
+The MarA homologs SoxS and Rob can also bind to the marO marbox and activate marRAB transcription . 
+In addition to mediating increases in MarA synthesis they can also directly activate tolC and acrAB genes . 
+The repressor protein AcrR prevents excessive production of AcrA and AcrB . 
+Expression of soxS is activated by superoxide-generating agents via the conversion of its local transcriptional activator SoxR into an active form ( SoxR * ) . 
+Adapted from Grkovic et al. [ 109 ] 
+The effect of simultaneous expression of various efflux pumps on susceptibility of antibiotics that are substrates of both pumps was extensively studied in E. coli and P. aeruginosa . 
+It was found that co-expression of single - and multicomponent pumps showing overlapping drug specificity resulted in multiplicative enhancements of the level of drug resistance . 
+A model based on different target components of pump action was put forward by Lee et al. [ 99 ] to explain this multiplicative enhancement of drug resistance . 
+This was later expanded on by Palmer [ 100 ] , who hypothesized that multi-component efflux pumps can co-operate with singlecomponent transporters located in the inner membrane in a multiplicative manner only if the multi-component pump captures the substrate from the periplasm and not the cytosol . 
+Thus in the case of S. typhimurium , the MFS transporters FloR and Tet ( G ) would transport antibiotics from the cytoplasmic membrane to the periplasm which would then be extruded to exterior of the cell by the multi-drug transporter AcrB through the TolC channel ( Fig . 
+( 7 ) ) . 
+Consistent with this model of transport is the established presence of vesti-bules in AcrB that permit direct access of substrates from the periplasm or outer leaflet of the cytoplasmic membrane to the central cavity of AcrB [ 86 ] . 
+5. CONCLUSIONS AND PERSPECTIVES
+Development of antibiotic resistance is an evolutionary inevitability . 
+A serious consequence of the rapidity of emergence of antimicrobial resistance mechanisms is the erosion of the effectiveness of our arsenal of antibiotics leading to an increase in morbidity , mortality and health care costs . 
+In vivo recombination is an important genetic tool that contributes to the dissemination of an expanding repertoire of antibiotic resistance determinants . 
+Accumulation of different resistance genes on mobile SGI-1 islands as in DT104 strains , facilitates the gradual development of several resistance mechanisms , all acquired via single independent genetic events . 
+The mobility of SGI-1 coupled with the ability of various antibiotic resistance genes to be integrated and subsequently lost from the chromosome , allows not only for the transfer of stable resistance to most of the commonly used antibiotics but also adaptation to new antibiotic challenges . 
+This , coupled with increasing fluoroquinolone resistance poses a serious danger to the future treatment of Salmonella infections . 
+Approaches to overcoming antibiotic resistance include limiting the use of antibiotics and identifying and developing new pharmacological strategies to overcome resistance , both of which are formidable tasks . 
+Fig . 
+( 7 ) . 
+Schematic diagram illustrating the possible nature of substrate transport that can account for a multiplicative increase of resistant to chloramphenicol , florfenicol and tetracyclines in S. typhimurium DT104 isolates co-expressing single-component ( FloR and Tet ( G ) ) and multi-component efflux pumps ( AcrAB-TolC ) capable of extruding these antibiotics . 
+Multiplicative increases in resistance can occur only when substrate capture by the multi-component pump occurs in the periplasm . 
+In this case equilibrium of pumping and diffusion rates exist separately for outer and inner membrane ( represented by arrows and symbols P for efflux and D for diffusion ) . 
+For further discussion of this model the reader is referred to a paper by Palmer [ 100 ] 
+[ 6 ] [ 7 ] 
+[ 8 ] 
+[ 9 ] 
+[ 10 ] 
+The increasing recognition of the contribution of efflux activity to antibiotic resistance has resulted in the identification of efflux pumps as legitimate pharmacological targets in the war against resistance . 
+The potential for the use of efflux pump inhibitors as adjuvant therapy similar to that of β-lactamase inhibitors and β-lactams offers an exciting area for future drug discovery . 
+To date , considerable advances have been made in the identification and development of chemical modulators of the eukaryotic multi-drug efflux pump P-gp ( P-glycoprotein ) that confers resistance to anticancer drugs [ 101 ] . 
+Although there is increasing research into the development of bacterial efflux pump inhibitors [ 102-104 ] the development of clinically useful compounds remains in its infancy . 
+Nonetheless , several potentially useful efflux pump inhibitors have been identified . 
+Systematic screening of large collections of synthetic and natural compounds for inhibitors of the RND efflux pumps in P. aeruginosa identified a series of dipeptide amide compounds exemplified by L-Phenylal-anine-L-Arginine-β-naphthylamine ( PAβN , MC-207 , 110 ) and D-Ornithine-D-homophenylalanine-3-aminoquinolone ( MC-02 , 595 ) which potentiated the activity of the fluoroquinolone levofloxacin [ 105 , 106 ] . 
+PAβN has also been shown to decrease MICs to quinolones in Salmonella [ 25 , 58 , 107 ] . 
+Attempts are still being made to optimise the pharmacological properties of this series of inhibitors [ 103 ] . 
+More recently , alkylaminoquinolone and alkoxyquinolone derivatives have been shown to restore susceptibilities to structurally unrelated antibiotics such as norfloxacin , tetracycline and choramphenicol in clinical isolates of multi-drug resistant Gram-negative bacteria by inhibiting the AcrAB-TolC efflux system [ 104 , 108 ] . 
+In addition , catechin gallates were shown to potentiate the activity of norfloxacin against a norfloxacin resistant strain of Staphylococcus aureus overexpressing the NorA multi-drug efflux pump [ 102 ] . 
+[ 11 ] [ 12 ] [ 13 ] [ 14 ] [ 15 ] [ 16 ] 
+[ 17 ] 
+[ 18 ] 
+[ 19 ] 
+[ 20 ] 
+[ 21 ] [ 22 ] [ 23 ] 
+[ 24 ] [ 25 ] 
+[ 26 ] [ 27 ] 
+[ 28 ] 
+[ 29 ] 
+[ 30 ] 
+[ 31 ] 
+[ 32 ] 
+With the increasing detailed knowledge of the structures of efflux pumps and identification of the substrate binding domains , the potential to develop specifically designed inhibitors useful in the clinical treatment of salmonellosis is now a real possibility . 
+In addition , elucidation of the regulatory pathways modulating the expression of AcrAB-TolC in Salmonella may provide an additional target that could potentially decrease transcription of the transport genes . 
+It can be anticipated that future development of inhibitors of the AcrAB-TolC efflux pump or its transcriptional regulators may help to increase the potency of fluoroquinolones and possibly chloramphenicol/florfenicol and tetracyclines ( where applicable ) against Salmonella . 
+REFERENCES 
+[ 109 ] Grkovic , S. ; Brown , M.H. and Skurray , R.A. ( 2001 ) Semin . 
+Cell Dev . 
+Biol. , 12 ( 3 ) , 225-237 .

@@ -1,0 +1,277 @@
+ACCELERATED PUBLICATION 
+This paper is available online at www.jbc.org 
+THE JOURNAL OF BIOLOGICAL CHEMISTRY VOL . 
+282 , NO. 47 , pp. 33897 -- 33901 , November 23 , 2007 © 2007 by The American Society for Biochemistry and Molecular Biology , Inc. . 
+Printed in the U.S.A. 
+Injection of Flagellin into the 
+Host Cell Cytosol by Salmonella
+enterica Serotype Typhimurium * 
+Received for publication , September 13 , 2007 
+Published , JBC Papers in Press , October 1 , 2007 , DOI 10.1074 / jbc.C700181200 Yao-Hui Sun , Hortensia Garcıa Rolán , and Renée M. Tsolis1 
+From the Department of Medical Microbiology and Immunology , University of California at Davis , Davis , California , 95616 
+Bacterial flagellins are potent inducers of innate immunity . 
+Three signaling pathways have been implicated in the sensing of flagellins ; these involve toll-like receptor 5 ( TLR5 ) and the cyto-solic proteins Birc1e/Naip5 and Ipaf . 
+Although the structural basis of TLR5-flagellin interaction is known , little is known about how flagellin enters the host cell cytosol to induce signaling via Birc1e/Naip5 and Ipaf . 
+Here we demonstrate for the first time the translocation of bacterial flagellin into the cytosol of host macrophages by the vacuolar pathogen , Salmonella enterica serotype Typhimurium . 
+Translocation of flagellin into the host cell cytosol was directly demonstrated using - lacta-mase reporter constructs . 
+Flagellin translocation required the Salmonella Pathogenicity Island 1 Type III secretion system ( SPI-1 T3SS ) but not the flagellar T3SS . 
+Bacterial flagella are filamentous appendages on the cell surface that mediate bacterial motility . 
+The filament of the flagellum is composed of 20,000 flagellin subunits ( 1 ) . 
+Flagellin monomers of many bacterial species function as pathogen-as-sociated molecular patterns and can be detected by host cells using both surface-localized toll-like receptor 5 ( TLR5 ) 2 and cytosolic Nod-like receptors ( 2 -- 6 ) . 
+The interaction of flagellin with TLR5 at the cell surface has been characterized in detail , identifying the structural basis for the TLR5-flagellin interaction ( 7 , 8 ) . 
+TLR5 sensing has been shown to be important in Legionnaires disease , a respiratory tract infection caused by the bacterium Legionella pneumophila , since human TLR5 polymorphisms correlated with disease susceptibility ( 7 , 8 ) . 
+In the intestine , TLR5 localizes to the basolateral surface of enterocytes and to CD11c lamina propria dendritic cells ( 9 , 10 ) . 
+In these locations , TLR5 is thought to be involved in sensing a breach of the intestinal mucosa by enteroinvasive pathogens , 
+* This work was supported by U.S. Public Health Service Grants AI50553 and AI065739 . 
+The costs of publication of this article were defrayed in part by the payment of page charges . 
+This article must therefore be hereby marked `` advertisement '' in accordance with 18 U.S.C. Section 1734 solely to indicate this fact . 
+1 To whom correspondence should be addressed : Dept. of Medical Microbiology and Immunology , University of California at Davis , One Shields Ave. , Davis , CA 95616 . 
+Fax : 530-754-7240 ; E-mail : rmtsolis@ucdavis.edu . 
+2 The abbreviations used are : TLR , toll-like receptor ; IL , interleukin ; FliC , S. Typhimurium Phase I flagellin ; BMDM , bone marrow-derived macrophages ; IPTG , isopropyl-1-thio - - D-galactopyranoside ; HRP , horseradish peroxidase ; LDH , lactate dehydrogenase ; ASC , apoptosis-associated speck-like protein containing a C-terminal caspase recruitment domain . 
+triggering an inflammatory response that limits systemic spread of the bacteria ( 11 ) . 
+In addition to sensing by TLRs , flagellin was recently shown to be sensed by two different Nod-like receptors , Ipaf and Birc1e ( also known as Naip5 ) ( 2 , 4 -- 6 , 12 ) . 
+Ipaf transmits a proinflammatory signal in response to flagellin by activating the inflammasome , resulting in caspase 1-dependent activation of Il-1 , which is accompanied by cell death ( pyroptosis ) ( 13 -- 17 ) . 
+Birc1e/Naip5 signals in response to flagellin , restricting intracellular growth of L. pneumophila by antagonizing the ability of the bacterium to avoid fusion with lysosomes and form a repli-cative phagosome ( 18 ) . 
+Several lines of evidence suggest that pathogens residing in a membrane-bound compartment of the cell , such as L. pneumophila and S. Typhimurium ( Salmonella enterica serotype Typhimurium ) , may release flagellins from their vacuole into the host cytosol , which triggers signaling via Ipaf and Birc1e . 
+First , S. Typhimurium and L. pneumophila mutants lacking flagellin elicit reduced caspase activation , IL-1 secretion , and cytotoxicity in macrophages ( 2 , 4 -- 6 , 19 ) . 
+Second , mutants of S. Typhimurium lacking the SPI-1 T3SS and L. pneumophila mutants lacking a functional Type IV secretion system ( T4SS ) fail to trigger Ipaf-dependent signaling ( 4 , 5 , 19 ) . 
+Third , introduction of purified flagellins into the cytosol of macrophages using pore-forming toxins or detergents or by heterologous expression in Escherichia coli expressing listeriolysin O triggers caspase-1 activation and IL-1 activation by an Ipaf-dependent mechanism ( 2 , 4 -- 6 , 20 ) . 
+Although injection of effector proteins into host cells by the S. Typhimurium SPI-1 T3SS has been visualized microscopically ( 21 , 22 ) , it has not yet been demonstrated that in infected cells , bacteria are able to translocate flagellin from a mem-brane-bound compartment into the cytosol . 
+In this report , we show that S. Typhimurium translocates flagellin into the cytosol of infected cells by a process that depends on the SPI-1 T3SS but is independent of the flagellar T3SS . 
+EXPERIMENTAL PROCEDURES
+Bacterial Strains and Growth Conditions -- The S. Typhi-murium strains used are derivatives of IR715 , a spontaneous nalidixic acid-resistant mutant of ATCC14028 ( 23 ) . 
+An invA mutant ( AJB75 ) was obtained by transduction of the invA : : TnphoA mutation from S. Typhimurium 3642 using bacteriophage KB1int ( 24 , 25 ) . 
+A flgB mutant was obtained by transduction of flgB6148 : : MudJ into IR715 from TH8460 ( obtained from K. Hughes ) using the bacteriophage P22HTint . 
+A fliC : : Tn10 fljB : : MudJ mutant ( EHW26 ) was obtained from the Bäumler laboratory ( 26 ) . 
+For macrophage infection , S. Typhimurium was grown in Luria-Bertani ( LB ) broth to late logarithmic phase to maximize expression of the Salmonella path-ogenicity island 1-encoded Type III secretion system ( T3SS-1 ) , as described previously ( 21 ) . 
+Plasmid Construction -- Plasmids are derivatives of the broad host range plasmid pBBR1MCS ( 27 ) . 
+Plasmids pFlagTEM-1 , pSipA/FT , and pGST/FT ( where FT indicates FlagTEM-1 fusions ) have been described previously ( 21 ) . 
+In plasmid pFlagTEM-1 , the N-terminal signal sequence directing - lac-tamase to the periplasm has been removed and replaced with a 3 FLAG epitope . 
+To construct fusions of S. Typhimurium Phase I flagellin ( FliC ) to TEM-1 , the fliC gene or portions containing the N-terminal 35 , the N-terminal 48 , or the C-terminal 225 amino acids were amplified from S. Typhimurium . 
+These fragments were cloned into pFlagTEM-1 to generate constructs encoding FliC1 -- 495 : : FT , FliC1 -- 35 : : FT , FliC1 -- 48 : : FT , or FT : : FliC270 -- 495 . 
+To express untagged FliC protein under control of the Trc promoter , fliC was amplified with NdeI/SalI extensions and cloned into pFlagTEM-1 digested with NdeI and XhoI . 
+All constructs were confirmed by DNA sequencing . 
+Isolation of Bone Marrow-derived Macrophages -- Bone mar-row-derived macrophages ( BMDMs ) were isolated from C57BL/6 following standard protocols . 
+Briefly , after aseptically obtaining femurs from the mice , the bone marrow cells were flushed out with 6 ml of cold RPMI 1690 medium ( RPMI , Invitrogen ) . 
+Cells were pelleted at 1,000 rpm for 10 min at 4 °C . 
+The cells were resuspended in RPMI supplemented with 20 % heat-inactivated fetal bovine serum , L-cell conditioned medium , 1 mM glutamine , 1 % nonessential amino acids , and 1 % antibiotic-antimycotic ( Invitrogen ) and placed in Petri dishes at 37 °C in 5 % CO2 . 
+At day 3 , cells were fed by adding 10 ml of medium and incubated for an additional 5 days in the presence of CO2 . 
+BMDMs were harvested at day 7 by treatment with trypsin and washing with cold phosphate-buffered saline ( PBS ) . 
+Macrophages were centrifuged at 1,000 rpm for 10 min at 4 °C , resuspended in RPMIsup ( RPMI supplemented with 20 % heat-inactivated fetal bovine serum , 1 mM glutamine , and 1 % nones-sential amino acids ) , and counted for the infection assays . 
+Infection of Macrophages with Salmonella -- For macrophage cytotoxicity and IL-1 assays , 96-well microtiter dishes were seeded with BMDMs at a concentration of 4 104 cells/well in 0.2 ml of RPMIsup and incubated overnight at 37 °C in 5 % CO2 . 
+The macrophages used for IL-1 secretion were treated with 100 ng/ml lipopolysaccharide ( E. coli 055 : B5 , Sigma ) for 4 h before infection . 
+Macrophages were infected with 20 bacteria per cell by centrifuging at 250 g for 5 min at room temperature to synchronize infection . 
+Cells were incubated for 20 min at 37 °C in 5 % CO2 , and free bacteria were removed by three washes with PBS . 
+RPMIsup plus 1 mM IPTG and 100 g of gentamicin/ml were added to the macrophages for the duration of infection . 
+Assay of - Lactamase -- To demonstrate the translocation of TEM-1 fusion proteins , J774A .1 mouse macrophages were seeded in 96-well coverglass bottom plates and infected with S. Typhimurium strains expressing - lactamase fusion proteins at a multiplicity of infection of 100 . 
+Plates were centri-fuged at 250 g for 5 min at room temperature to synchronize infection . 
+After incubation for 60 min at 37 °C in 5 % CO2 , free bacteria were removed from the cells by three washes with PBS . 
+0.2 ml of Dulbecco 's modified Eagle 's medium supplemented with 10 % heat-inactivated fetal bovine serum , 1 % non-essential amino acids , 1 mM glutamine containing 1 mM IPTG and 100 g/ml gentamicin were added to each well , and plates were incubated at 37 °C in 5 % CO2 . 
+After 3 h , cells were washed once with Hank 's balanced salt solution ( Invitrogen ) and loaded with the fluorescent substrate CCF2/AM ( 1 mM , Invitrogen ) for 1.5 h at room temperature using the standard loading protocol recommended by the manufacturer . 
+Fluorescence micros-copy analysis was performed using an Axiovert M200 ( Carl Zeiss ) , equipped with a CCF2 filter set ( Chroma Technology ) . 
+Fluorescence micrographs were captured using a Zeiss Axiocam MRC5 and Zeiss AxioVision 4.5 software . 
+Images were imported into Adobe PhotoShop for color adjustment . 
+Quantification of Flagellin Translocation by Flow Cytometry -- J774A .1 macrophages were infected with mid-logarithmic phase S. Typhimurium as described above . 
+Cells were washed and loaded with CCF2/AM using the manufacturer 's standard loading protocol for 1.5 h . 
+After another wash with PBS , cells were fixed in 4 % paraformaldehyde for 15 min at room temperature . 
+Cells were collected from each well in 1 ml of PBS with a cell scraper . 
+Data were acquired using an LSRII ( Becton Dickinson ) , using 407 nm as excitation wavelength and bandpass filters 450/50 for detection of Cascade Blue and 545/60 for detection of AmCyan . 
+Data were analyzed using FlowJo software ( Tree Star , Inc ) . 
+Western Blot -- After growing bacteria to mid-log phase , 1 mM IPTG was added for an additional 2 h to induce fliC expression . 
+Bacterial supernatants were precipitated with 10 % ( w/v ) tri-chloroacetic acid and resuspended in 1 Laemmli sample buffer . 
+Bacteria were pelleted and resuspended in 1 Laemmli sample buffer and heated at 100 °C for 5 min . 
+The total protein equivalent to 1 107 colony-forming units or 1 ml of culture supernatant was loaded onto an SDS-PAGE gel and transferred to polyvinylidene difluoride membrane by electroblotting . 
+FliC was detected using Salmonella Hi antiserum and goat anti-rabbit IgG conjugated to horseradish peroxidase ( HRP ) . 
+FliC : : FLAG-TEM-1 fusions were detected using anti-FLAG monocolonal antibody ( 1:5000 , Sigma ) . 
+Primary antibody binding was detected using a goat anti-mouse IgG antibody conjugated to HRP . 
+HRP activity was detected with a chemiluminescent substrate ( PerkinElmer Life Sciences ) . 
+Macrophage Cytotoxicity -- The percentage of BMDMs death was determined by measuring lactate dehydrogenase ( LDH ) release at 1 and 4 h after infection using the CytoTox 96 nonradioactive cytotoxicity assay kit ( Promega , Madison , WI ) following instructions provided by the manufacturer . 
+Measurement of IL-1 Secretion -- IL-1 was measured in culture supernatants of infected BMDMs using an enzyme-linked immunosorbent assay kit ( e-Bioscience , San Diego , CA ) following the manufacturer 's instructions . 
+Macrophages were primed with lipopolysaccharide as described above , and supernatants were collected 24 h after infection . 
+RESULTS
+Although the inability of Salmonella flagellin mutants to activate the inflammasome provides indirect evidence for translocation of flagellin into the host cell cytosol during infection , flagellin has not yet been detected directly in the cytosol of infected cells . 
+To detect this translocation event occurring during infection , we employed a - lactamase reporter system utilized previously by our group to visualize translocation of the Salmonella Typhi Type III secretion effector SipA ( 26 ) . 
+For this purpose , we expressed S. Typhimurium FliC from a derivative of the broad host range plasmid pBBR1MCS , pFlagTEM-1 , in which fliC is expressed from the Trc promoter . 
+To determine whether the level of flagellin expressed from this medium copy number construct is similar to expression from wild type S. Typhimurium , we assayed expression of FliC by Western blot . 
+The expression level of FliC in S. Typhimurium carrying the plas-mid-encoded flagellin construct was similar to expression in wild type S. Typhimurium carrying the empty vector ( Fig. 1A ) . 
+This level of expression was sufficient to trigger formation of inflammasomes upon infection of murine bone marrow-de-rived macrophages since the strains expressing flagellin induced pyroptosis , or an inflammatory cell death , as evidenced by secretion of IL-1 and release of LDH ( Fig. 1 , B and C ) . 
+An S. Typhimurium fliCfljB mutant , which does not express either of the two flagellins , elicited neither IL-1 release nor cell death , consist-ent with earlier reports that flagellin expression is required for these cellular responses to Salmonella infection ( 2 , 4 ) . 
+We next expressed S. Typhimurium flagellin from the same promoter , with TEM-1 - lactamase fused to its C terminus . 
+By loading S. Typhimurium-infected macrophages with the cell-permeable - lactamase substrate CCF2/AM ( 28 ) , cytosolic FliC : : TEM-1 fusion protein can be detected . 
+Cleavage of CCF2 by the - lactamase reporter results in a shift in the fluorescence emission maximum from 520 ( green ) to 447 nm ( blue ) so that cells in which cytosolic translocation of FliC has occurred appear blue by fluorescence microscopy . 
+At 4 h after infection of macrophages , a fusion of the full-length FliC protein to TEM-1 ( FliC1 -- 495 : : FT ) could be detected in the cytosol of 77.5 % of infected macrophages ( Fig. 2A ) . 
+This translocation was dependent on the SPI-1 T3SS as an invA mutant defective in the T3SS did not translocate the FliC1 -- 495 : : FT fusion . 
+Translocation was reduced but not abolished in a flgB mutant defective in the flagellar basal body , showing that the flagellar T3SS is not required for translocation of flagellin into the cytosol of infected cells . 
+The number of cells containing translocated flagellin was similar to the number found for the SPI-1 T3SS effector SipA ( Fig. 2A ) . 
+It has been shown that the N terminus of FliC is required for its secretion and assembly into the flagellar structure ( 29 ) . 
+The first 48 amino acids are sufficient for secretion of FliC into Sal-monella culture supernatants ( 30 ) . 
+We therefore tested whether the FliC secretion domain is sufficient for its translocation into infected host cells . 
+Fusions of the first 35 ( FliC1 -- 35 : : FT ) or 48 ( FliC1 -- 48 : : FT ) N-terminal amino acids of FliC to TEM-1 were sufficient for secretion into the superna-tant of S. Typhimurium cultures ( Fig. 2B ) . 
+Inactivation of the SPI-1 T3SS by an invA mutation did not abolish secretion either of the full-length FliC fused to TEM-1 or of the N-terminal fusions of FliC to TEM-1 , although the amount of protein in the supernatant was reduced ( Fig. 2B ) . 
+Inactivation of the flagellar T3SS by mutation of flgB , encoding a component of the basal body rod structure , also reduced , but did not abrogate , secretion of the N-terminal fusions of FliC to TEM-1 . 
+The reduction in FliC : : FT translocation observed cells infected with the flgB mutant may be due to overexpression of chromosomally encoded flagellin in the flgB mutant ( data not shown ) , which competes with the FliC : : FT fusion protein for secretion ( Fig. 2A ) . 
+A fusion of the C-terminal 225 amino acids of FliC to the C terminus of TEM-1 ( FliC270 -- 495 : : FT ) was expressed in S. Typhimurium but secreted in small amounts by the invA mutant . 
+As expected , secretion of the SPI-1 T3SS effector SipA was eliminated by the invA mutation but not by the flgB mutation . 
+These results show that either a functional SPI-1 T3SS or a functional flagellar T3SS is sufficient for secretion of N-termi-nal fusions of FliC in liquid cultures . 
+Although FliC1 -- 35 : : FT and FliC1 -- 48 : : FT were secreted to the culture supernatant , these domains did not mediate wild type levels of flagellin translocation into host cells ( Fig. 2C ) . 
+FliC1 -- 48 mediated a low level of translocation of the TEM-1 reporter that was 3 % of the level observed with full-length flagellin . 
+FliC270 -- 495 , containing the binding site for the flagellar chapthelial monolayers is able to mediate flagellin transcytosis to the basolaterial aspect . 
+The translocation of flagellin into the mac-rophage cytosol observed by these investigators is mechanistically distinct from the cytosolic translocation of flagellin reported here since in the previous study , flagellin was localized to membrane-bound vacuoles rather then being free in the cytosol . 
+Further , flagellin transcytosis was dependent on a third T3SS , encoded on Salmonella pathogenicity island 2 ( SPI-2 T3SS ) , and was independent of the SPI-1 T3SS ( 39 ) . 
+Taken together , these results show that flagellin interacts with the innate immune system at multiple levels to induce proinflammatory responses during Salmonella infection . 
+FIGURE 1 . 
+Expression of S. Typhimurium flagellin from pBBR1MCS elicits cell death and IL-1 release from murine bone marrow-derived macro-phages . 
+A , Western blot showing expression of FliC flagellin in S. Typhi-murium wild type ( WT ) or fliCfljB strains carrying pTrc-fliC encoded on pBBR1mcs or the empty vector pBBR1mcs . 
+B , cell death assayed by LDH release from murine bone marrow-derived macrophages at 1 ( open bars ) and 4 h ( closed bars ) after infection with S. Typhimurium wild type or fliCfljB mutant expressing fliC . 
+ND , not determined . 
+C , IL-1 release measured by enzyme-linked immunoabsorbent assay 24 h after infection of macrophages with the same S. Typhimurium strains indicated above . 
+Results shown are from single replicates of at least two independent experiments . 
+survival after oral infection with S. Typhimurium , and ASC / and 
+Ipaf / mice had slightly higher systemic spread to the lymph nodes from the intestine ( 33 ) , suggesting that activation of the inflammasome by cytosolic flagellin may have important implications for responses to invasive bacteria . 
+In mice , S. Typhimurium was found in CD11c dendritic cells in the lamina propria ( 10 ) . 
+Since S. Typhimurium induces caspase-1-dependent apoptosis of dendritic cells via the SPI-1 T3SS , these cells may sense cytosolic flagellin translocation by Salmo-nella and trigger proinflammatory responses ( 34 ) . 
+The Peyer 's patches of the ileum and the lamina propria would appear to be the most likely anatomical site for sensing of cyto-solic flagellin since S. Typhimurium represses flagellin expression at systemic sites such as the mesenteric lymph nodes and spleen ( 35 , 36 ) . 
+FIGURE 2 . 
+Translocation of S. Typhimurium FliC flagellin into J774A .1 macrophages . 
+A , 4 h after infection of The results of our study reveal macrophageswithS . 
+TyphimuriumstrainsexpressingFlagTEM-1fusions , cytosolictranslocationof - lactamasewas mechanistic details of FliC egress assessed by flow cytometry ( left ) or fluorescence microscopy ( right ) . 
+Cells in which flagellin translocation has into the cytosol of infected cells . 
+occurred appear blue . 
+B , Western blots showing expression and secretion of FliC-FlagTEM-1 fusions during in vitro growth . 
+The upper left blot shows expression of fusion proteins in cell lysates ( CL ) of wild type ( WT ) S. Typhimurium . 
+The SPI-1 T3SS was absolutely The remaining blots show detection of FliC fusion proteins in supernatants ( SP ) of wild type , invA mutant , or flgB required for localization of flagellin mutant expressing flagellin fusion proteins . 
+Fusion proteins were detected with a monoclonal antibody specific for to the cytosol , whereas no strict theFLAGepitope.C , translocationoftruncatedflagellinfusionproteinsbywildtypeorinvAmutantS . 
+Typhimurium . 
+Each pair of images represents data acquired by flow cytometry ( left ) or fluorescence microscopy ( right ) . 
+Results requirement of the flagellar T3SS shown are from individual experiments that were replicated at least twice independently . 
+was observed ( Fig. 2 ) . 
+These findings are consistent with those of erone FliS ( 31 ) , did not mediate translocation . 
+These results Miao et al. ( 4 ) , who tested a large number of mutants with spesuggest that domains of FliC in addition to the N-terminal cific defects in the flagellar apparatus for their cytotoxicity in secretion signal are required for translocation into the host cell . 
+macrophages . 
+These investigators found that mutants lacking a functional flagellar apparatus were able to trigger cytotoxicity DISCUSSION and IL-1 secretion when flagellin was expressed ectopically Activation of caspase-1 and pyroptotic cell death in S. Typhi - ( 4 ) . 
+Further , the inability of secretion-competent fusions of murium-infected macrophages has been shown to depend on flagellin to TEM-1 - lactamase to be translocated into infected Ipaf and ASC ( 32 ) . 
+Recent studies have shown that S. Typhi - cells ( Fig. 2 ) argues against the idea that flagellin may be murium mutants lacking flagellin fail to activate this pathway secreted into the vacuole containing Salmonella and then leak and do not cause cell death ( 2 , 4 ) . 
+In addition to flagellin , acti - nonspecifically through holes in the vacuole created by the vation of the inflammasome also required a functional SPI-1 SPI-1 T3SS . 
+Rather , the requirement for additional sequences T3SS , suggesting that flagellin is secreted into the cytosol by beyond the secretion signal for cytosolic translocation is similar this system ( 4 ) . 
+However , it has not been demonstrated that to what has been observed for some T3SS effectors that are flagellin is actually translocated from the vacuole containing injected into the host cell . 
+For the Salmonella T3SS effector Salmonella into the host cell cytosol . 
+Therefore , the transloca - SspH2 , translocation into host cells required the N-terminal tion of flagellin into the cytosol of Salmonella-infected cells 143 amino acids , which includes two domains conserved shown here provides an important link between the data among a group of translocated effectors ( 37 ) . 
+Similarly , for the obtained with bacterial flagellin mutants and results obtained Yersinia T3SS effectors YopE and YopH , the N-terminal with macrophages from Ipaf / and ASC / mutant mice that domain required for translocation ( 50 or 71 amino acids ) was show a reduced responsiveness to flagellin delivered to the longer than that required for secretion into culture supernacytosol via transfection reagents ( 2 , 4 ) . 
+Thus , this proinflamma - tants ( 15 or 17 amino acids ) ( 38 ) . 
+tory mechanism may have important consequences for in vivo A previous report has described the release of flagellin into infection , for example , by preventing systemic spread of Salmo - cells by a different mechanism . 
+Gewirtz and colleagues ( 39 ) nella from the intestine . 
+Caspase-1 / mice exhibited reduced showed that S. Typhimurium colonizing the apical side of epi ¬ 
+Acknowledgments -- We thank Kelly Hughes for providing the S. Typhimurium flgB mutant , Gabriel Núñez and Luigi Franchi for helpful discussions , Christiane Gerke for help with flow cytometry , and Andreas Bäumler and Sebastian Winter for critical comments on the manuscript . 
+Flow cytometry was performed in a facility constructed with support from Research Facilities Improvement Program Grant C06RR12088 from the National Center for Research Resources , National Institutes for Health . 
+REFERENCES 
+1 . 
+O'Brien , E. J. , and Bennett , P. M. ( 1972 ) J. Mol . 
+Biol . 
+70 , 133 -- 152 2 . 
+Franchi , L. , Amer , A. , Body-Malapel , M. , Kanneganti , T. D. , Ozoren , N. , Jagirdar , R. , Inohara , N. , Vandenabeele , P. , Bertin , J. , Coyle , A. , Grant , E. P. , and Nunez , G. ( 2006 ) Nat . 
+Immunol . 
+7 , 576 -- 582 3 . 
+Hayashi , F. , Smith , K. D. , Ozinsky , A. , Hawn , T. R. , Yi , E. C. , Goodlett , D. R. , Eng , J. K. , Akira , S. , Underhill , D. M. , and Aderem , A. ( 2001 ) Nature 410 , 1099 -- 1103 4 . 
+Miao , E. A. , Alpuche-Aranda , C. M. , Dors , M. , Clark , A. E. , Bader , M. W. , Miller , S. I. , and Aderem , A. ( 2006 ) Nat . 
+Immunol . 
+7 , 569 -- 575 5 . 
+Molofsky , A. B. , Byrne , B. G. , Whitfield , N. N. , Madigan , C. A. , Fuse , E. T. , Tateda , K. , and Swanson , M. S. ( 2006 ) J. Exp . 
+Med . 
+203 , 1093 -- 1104 6 . 
+Ren , T. , Zamboni , D. S. , Roy , C. R. , Dietrich , W. F. , and Vance , R. E. ( 2006 ) PLoS Pathog . 
+2 , e18 7 . 
+Andersen-Nissen , E. , Smith , K. D. , Bonneau , R. , Strong , R. K. , and Aderem , A. ( 2007 ) J. Exp . 
+Med . 
+204 , 393 -- 403 8 . 
+Smith , K. D. , Andersen-Nissen , E. , Hayashi , F. , Strobe , K. , Bergman , M. A. , Barrett , S. L. , Cookson , B. T. , and Aderem , A. ( 2003 ) Nat . 
+Immunol . 
+4 , 1247 -- 1253 9 . 
+Gewirtz , A. T. , Navas , T. A. , Lyons , S. , Godowski , P. J. , and Madara , J. L. ( 2001 ) J. Immunol . 
+167 , 1882 -- 1885 10 . 
+Uematsu , S. , Jang , M. H. , Chevrier , N. , Guo , Z. , Kumagai , Y. , Yamamoto , M. , Kato , H. , Sougawa , N. , Matsui , H. , Kuwata , H. , Hemmi , H. , Coban , C. , Kawai , T. , Ishii , K. J. , Takeuchi , O. , Miyasaka , M. , Takeda , K. , and Akira , S. ( 2006 ) Nat . 
+Immunol . 
+7 , 868 -- 874 11 . 
+Vijay-Kumar , M. , Wu , H. , Jones , R. , Grant , G. , Babbin , B. , King , T. P. , Kelly , D. , Gewirtz , A. T. , and Neish , A. S. ( 2006 ) Am . 
+J. Pathol . 
+169 , 1686 -- 1700 12 . 
+Coers , J. , Vance , R. E. , Fontana , M. F. , and Dietrich , W. F. ( 2007 ) Cell Microbiol . 
+9 , 2344 -- 2357 13 . 
+Brennan , M. A. , and Cookson , B. T. ( 2000 ) Mol . 
+Microbiol . 
+38 , 31 -- 40 
+14 . 
+Chen , L. M. , Kaniga , K. , and Galan , J. E. ( 1996 ) Mol . 
+Microbiol . 
+21 , 1101 -- 1115 15 . 
+Cookson , B. T. , and Brennan , M. A. ( 2001 ) Trends Microbiol . 
+9 , 113 -- 114 16 . 
+Lindgren , S. W. , Stojiljkovic , I. , and Heffron , F. ( 1996 ) Proc . 
+Natl. Acad . 
+Sci . 
+U. S. A. 93 , 4197 -- 4201 17 . 
+Monack , D. M. , Raupach , B. , Hromockyj , A. E. , and Falkow , S. ( 1996 ) Proc . 
+Natl. Acad . 
+Sci . 
+U. S. A. 93 , 9833 -- 9838 18 . 
+Fortier , A. , de Chastellier , C. , Balor , S. , and Gros , P. ( 2007 ) Cell Microbiol . 
+9 , 910 -- 923 19 . 
+Amer , A. , Franchi , L. , Kanneganti , T. D. , Body-Malapel , M. , Ozoren , N. , Brady , G. , Meshinchi , S. , Jagirdar , R. , Gewirtz , A. , Akira , S. , and Nunez , G. ( 2006 ) J. Biol . 
+Chem . 
+281 , 35217 -- 35223 20 . 
+Zamboni , D. S. , Kobayashi , K. S. , Kohlsdorf , T. , Ogura , Y. , Long , E. M. , Vance , R. E. , Kuida , K. , Mariathasan , S. , Dixit , V. M. , Flavell , R. A. , Dietrich , W. F. , and Roy , C. R. ( 2006 ) Nat . 
+Immunol . 
+7 , 318 -- 325 21 . 
+Raffatellu , M. , Sun , Y. H. , Wilson , R. P. , Tran , Q. T. , Chessa , D. , Andrews-Polymenis , H. L. , Lawhon , S. D. , Figueiredo , J. F. , Tsolis , R. M. , Adams , L. G. , and Baumler , A. J. ( 2005 ) Infect . 
+Immun . 
+73 , 7817 -- 7826 22 . 
+Schlumberger , M. C. , Muller , A. J. , Ehrbar , K. , Winnen , B. , Duss , I. , Stecher , B. , and Hardt , W. D. ( 2005 ) Proc . 
+Natl. Acad . 
+Sci . 
+U. S. A. 102 , 12548 -- 12553 23 . 
+Stojiljkovic , I. , Baumler , A. J. , and Heffron , F. ( 1995 ) J. Bacteriol . 
+177 , 1357 -- 1366 24 . 
+Baumler , A. J. , Tsolis , R. M. , Valentine , P. J. , Ficht , T. A. , and Heffron , F. ( 1997 ) Infect . 
+Immun . 
+65 , 2254 -- 2259 25 . 
+Galan , J. E. , and Curtiss , R. , III ( 1989 ) Proc . 
+Natl. Acad . 
+Sci . 
+U. S. A. 86 , 6383 -- 6387 26 . 
+Raffatellu , M. , Chessa , D. , Wilson , R. P. , Dusold , R. , Rubino , S. , and Baumler , A. J. ( 2005 ) Infect . 
+Immun . 
+73 , 3367 -- 3374 27 . 
+Kovach , M. E. , Phillips , R. W. , Elzer , P. H. , Roop , R. M. , II , and Peterson , K. M. ( 1994 ) BioTechniques 16 , 800 -- 802 28 . 
+Zlokarnik , G. , Negulescu , P. A. , Knapp , T. E. , Mere , L. , Burres , N. , Feng , L. , Whitney , M. , Roemer , K. , and Tsien , R. Y. ( 1998 ) Science 279 , 84 -- 88 29 . 
+Kuwajima , G. , Kawagishi , I. , Homma , M. , Asaka , J. , Kondo , E. , and Macnab , R. M. ( 1989 ) Proc . 
+Natl. Acad . 
+Sci . 
+U. S. A. 86 , 4953 -- 4957 30 . 
+Vegh , B. M. , Gal , P. , Dobo , J. , Zavodszky , P. , and Vonderviszt , F. ( 2006 ) Biochem . 
+Biophys . 
+Res . 
+Commun . 
+345 , 93 -- 98 31 . 
+Auvray , F. , Thomas , J. , Fraser , G. M. , and Hughes , C. ( 2001 ) J. Mol . 
+Biol . 
+308 , 221 -- 229 32 . 
+Mariathasan , S. , Newton , K. , Monack , D. M. , Vucic , D. , French , D. M. , Lee , W. P. , Roose-Girma , M. , Erickson , S. , and Dixit , V. M. ( 2004 ) Nature 430 , 213 -- 218 33 . 
+Lara-Tejero , M. , Sutterwala , F. S. , Ogura , Y. , Grant , E. P. , Bertin , J. , Coyle , A. J. , Flavell , R. A. , and Galan , J. E. ( 2006 ) J. Exp . 
+Med . 
+203 , 1407 -- 1412 34 . 
+van der Velden , A. W. , Velasquez , M. , and Starnbach , M. N. ( 2003 ) J. Immunol . 
+171 , 6742 -- 6749 35 . 
+Cummings , L. A. , Barrett , S. L. , Wilkerson , W. D. , Fellnerova , I. , and Cookson , B. T. ( 2005 ) J. Immunol . 
+174 , 7929 -- 7938 36 . 
+Cummings , L. A. , Wilkerson , W. D. , Bergsbaken , T. , and Cookson , B. T. ( 2006 ) Mol . 
+Microbiol . 
+61 , 795 -- 809 37 . 
+Miao , E. A. , and Miller , S. I. ( 2000 ) Proc . 
+Natl. Acad . 
+Sci . 
+U. S. A. 97 , 7539 -- 7544 38 . 
+Sory , M. P. , Boland , A. , Lambermont , I. , and Cornelis , G. R. ( 1995 ) Proc . 
+Natl. Acad . 
+Sci . 
+U. S. A. 92 , 11998 -- 12002 39 . 
+Lyons , S. , Wang , L. , Casanova , J. E. , Sitaraman , S. V. , Merlin , D. , and Gewirtz , A. T. ( 2004 ) J. Cell Sci . 
+117 , 5771 -- 5780

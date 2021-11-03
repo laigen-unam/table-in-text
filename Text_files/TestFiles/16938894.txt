@@ -1,0 +1,372 @@
+alternative sigma factor RpoS in Salmonella enterica
+The sigma factor RpoS regulates the expression of many stress response genes and is required for virulence in several bacterial species . 
+We now report that RpoS accumulates when Salmonella enterica serovar Typhimurium is growing logarithmically in media with low Mg2 concentrations . 
+This process requires the two-component regulatory system PhoP PhoQ , which is speciﬁcally activated in low Mg2 . 
+We show that PhoP controls RpoS protein turnover by serving as a transcriptional activator of the iraP ( yaiB ) gene , which encodes a product that enhances RpoS stability by interacting with RssB , the protein that normally delivers RpoS to the ClpXP protease for degradation . 
+Mutation of the phoP gene rendered Salmonella as sensitive to hydrogen peroxide as an rpoS mutant after growth in low Mg2 . 
+In Escherichia coli , low Mg2 leads to only modest RpoS stabilization , and iraP is not regulated by PhoP PhoQ . 
+These ﬁndings add the sigma factor RpoS to the regulatory proteins and two-component systems that are elevated in a PhoP PhoQ-dependent fashion when Salmonella face low Mg2 environments . 
+Our data also exemplify the critical differences in regulatory circuits that exist between the closely related enteric bacteria Salmonella and E. coli . 
+IraP magnesium Escherichia coli
+he alternative sigma factor RpoS of bacterial RNA polymerTase is necessary for bacterial survival in stationary phase , and under various stresses including high osmolarity , oxidative stress , acid pH , temperature shock , and starvation for different nutri-38 s ents ( reviewed in refs . 
+1 and 2 ) . 
+Also known as or , RpoS regulates expression of 10 % of Escherichia coli genes ( 3 ) , including katE and xthA , which encode hydroperoxidase II catalase and exonuclease III , respectively ( 4 , 5 ) . 
+In Salmonella enterica serovar Typhimurium , RpoS plays a major role in virulence by controlling expression of the spv plasmid genes ( 6 , 7 ) , which govern Salmonella 's growth rate in deep organs and are required for systemic infection in mice ( 8 -- 10 ) . 
+The production and accumulation of the RpoS protein are tightly controlled at the levels of transcription , translation , and protein stability ( 1 , 2 ) . 
+Regulated proteolysis is a particularly critical mechanism that ultimately determines the levels of the RpoS protein ( 11 ) . 
+Thus , E. coli cells that are exponentially growing in defined medium with glucose as sole carbon source contain low amounts of RpoS because of its continuous rapid degradation ( 12 ) . 
+When the bacterium experiences a variety of different stresses , including nutrient starvation , hyperosmolarity , and heat shock , RpoS accumulates rapidly , which promotes expression of numerous RpoS-dependent genes , many of which confer protection against the specific stress conditions ( 1 , 13 ) . 
+RpoS stability is dependent upon several proteins , including the ATP-dependent ClpXP protease , which governs this process ( 14 ) . 
+RpoS degradation also requires the RssB protein ( 15 , 16 ) , an atypical response regulator that lacks a DNA-binding domain and exerts its activity by binding to RpoS and delivering it to the ClpXP protease ( 15 -- 18 ) . 
+Also called SprE in E. coli ( 16 , 19 ) and MviA in Salmonella ( 16 , 19 ) , RssB appears to be the rate-limiting factor in RpoS degradation ( 20 ) . 
+It has been recently shown that the small protein IraP ( previously known as YaiB ) stabilizes 
+RpoS by binding to the RssB protein ; IraP is particularly important for stabilization of RpoS during phosphate starvation in E. coli ( 21 ) . 
+The Salmonella PhoP PhoQ system governs the adaptation to low Mg2 environments ( 22 -- 24 ) , intramacrophage survival , and virulence in mice ( 25 -- 27 ) . 
+The sensor protein PhoQ responds to low Mg2 by promoting phosphorylation of the response regulator PhoP ( 28 -- 31 ) , which binds to its target promoters to stimulate transcription of PhoP-activated genes ( 24 , 32 ) . 
+The Salmonella PhoP PhoQ system controls expression of 3 % of the genome ( 33 ) . 
+Mutations in phoP and rpoS have some similar phenotypes , suggesting a possible connection between PhoP PhoQ and RpoS . 
+Inactivation of either the phoP or rpoS genes results in Salmonella strains that are highly attenuated for virulence in mice ( 6 , 25 -- 27 , 34 ) . 
+The PhoP and RpoS regulons are both activated inside macrophages ( 35 -- 37 ) and by sublethal concentrations of the cat-ionic antimicrobial peptide polymyxin ( 38 ) . 
+Both the phoP and rpoS genes negatively regulate bacterial growth within fibroblasts ( 39 ) . 
+phoP and rpoS mutants also both display increased susceptibility to acid pH ( 40 ) . 
+Moreover , PhoP has been reported to control expression of the RpoS-regulated spv virulence genes under certain conditions ( 41 , 42 ) . 
+In this article , we establish that the PhoP PhoQ system 2 stabilizes RpoS when Salmonella experience low Mg , primarily by transcriptional control of IraP . 
+Even though low Mg2 also promotes RpoS accumulation in E. coli , this process differs from that taking place in Salmonella in that it requires PhoP but not IraP . 
+Results The RpoS Protein Levels Increase in Low Mg2 in a PhoP-Dependent Fashion . 
+To explore whether the PhoP PhoQ system controls RpoS protein levels , we grew Salmonella wild-type cells in N-minimal media ( pH 7.7 ) with 10 mM Mg2 overnight and then diluted the cells and grew them in N-minimal media with different Mg2 concentrations until the cultures reached an OD600 of 0.35 -- 0.4 . 
+Extracts from these logarithmically growing bacteria were prepared , and the levels of RpoS were determined by Western blot analysis by using anti-RpoS antibodies . 
+The RpoS protein was strongly induced in extracts prepared from cells grown in 20 M Mg2 but not from those organisms grown in 40 M Mg2 ( Fig. 1A ) . 
+We hypothesized that the PhoP PhoQ system might be responsible for the increase in RpoS protein levels taking place in 20 M Mg2 because low Mg2 is the signal that activates the PhoP PhoQ system ( 22 , 32 ) . 
+Indeed , after bacterial growth for 4 h in 10 M Mg2 , RpoS was detected in the wild-type strain but not in the isogenic phoP mutant ( Fig. 1B ) . 
+The phoP mutant grew as well as the wild-type strain at the time cells were 
+Conﬂict of interest statement: No conﬂicts declared. Freely available online through the PNAS open access option.
+¶ To whom correspondence may be addressed . 
+E-mail : groisman@borcim.wustl.edu or susang@helix.nih.gov . 
+harvested ( Fig. 7A , which is published as supporting information on the PNAS web site ) . 
+A strain defective in PhoP 's cognate sensor kinase PhoQ did not accumulate the RpoS protein during 2 logarithmic growth in low Mg ( data not shown ) , consistent with PhoQ 's established role in activation of the PhoP protein ( 31 , 43 ) . 
+On the other hand , near wild-type RpoS levels were detected in a strain deleted for the phoQ gene but harboring an allele of phoP ( termed phoP * ) that promotes transcription of PhoP-activated genes independently of PhoQ ( 43 ) ( data not shown ) . 
+Cumulatively , our data indicate that the PhoP PhoQ system promotes higher levels of the RpoS protein when Sal-monella experience low Mg2 . 
+Expression of RpoS-Regulated Genes Is Induced in Low Mg2 in a PhoP-Dependent Manner . 
+Because RpoS protein levels increase when cells experience low Mg2 , the expression of RpoSdependent genes should be induced under these conditions . 
+In fact , the mRNA levels corresponding to the RpoS-dependent katE gene were 20-fold higher in the wild-type strain than in the phoP mutant ( Fig. 1D ) . 
+Mutation of the rpoS gene abolished expression of the katE gene but not of the PhoP-activated RpoS-independent mgtC gene ( Fig. 1E ) . 
+As expected , the transcription levels of the PhoP - and RpoS-independent corA gene were unaffected by mutation of the phoP or rpoS genes ( Fig. 1 D and E ) . 
+These experiments demonstrated that both the phoP and rpoS genes are required for katE gene transcription in low Mg2 conditions and support the hypothesis that the PhoP PhoQ system effects on the RpoS pathway are physiologically relevant . 
+The PhoP PhoQ System Controls the RpoS Protein Levels Posttranslationally . 
+A phoP mutation had no effect on the expression of a transcriptional fusion of the rpoS promoter to lac at high or low 
+Mg2 ( Fig. 7B ) . 
+PhoP also did not affect the stability of the rpoS mRNA ; the half-life of the rpoS message was the same in both strains ( i.e. , 5 min ) after 4 h of growth in N-minimal media with 10 M Mg2 ( data not shown ) . 
+To examine whether PhoP exerted its effect posttranslationally , we investigated the levels of an RpoS-FLAG protein in strains deleted for the chromosomal copy of the rpoS gene and expressing rpoS from a derivative of the plac promoter in a plasmid vector that also provided the ribosome-binding site . 
+The amounts of RpoS-FLAG protein were 8-fold higher in the phoP strain than in the isogenic phoP mutant ( Fig. 1C ) . 
+Because the only rpoS-derived sequences in the plasmid were those corresponding to the rpoS ORF , these results are most consistent with PhoP controlling the RpoS protein levels posttranslationally , likely via a PhoP-regulated gene product ( s ) . 
+If the plasmid construct also harbored the 5 untranslated region of rpoS , the RpoS-FLAG protein could not be detected in the phoP mutant ( Fig. 1C ) , which is similar to what was determined when RpoS was expressed from its normal chromosomal promoter ( Fig. 1B ) and raises the possibility of PhoP also affecting rpoS translation . 
+The iraP Gene Leads to Stabilization of RpoS in Low Mg2 in Salmonella . 
+Our data suggest that PhoP controls RpoS at a posttranslational level . 
+Regulation of RpoS stability is highly regulated and provides an important point of control for RpoS ( 44 ) . 
+The half-life of RpoS was compared in cells grown in the presence of 2 Mg concentrations that either induce or repress the PhoP PhoQ system . 
+Fig. 2 A and B shows that RpoS is 15 times more stable in cells grown in the presence of low Mg2 than in high 2 Mg concentrations . 
+Therefore , stabilization of RpoS during growth in low Mg2 in Salmonella is reminiscent of what takes place in E. coli , which stabilizes RpoS to different degrees when experiencing a variety of stresses including starvation for carbon , nitrogen , or phosphate ( 44 ) . 
+The small protein IraP has recently been shown to mediate the increase in stability of the E. coli RpoS protein after phosphate starvation ( 21 ) , but the signals controlling iraP expression were not reported . 
+The Salmonella genome has an ORF that is 83 % identical to the E. coli IraP protein ; however , the iraP promoter region is not as well conserved ( see below and Fig. 5C ) . 
+IraP had a profound effect on the stabilization of RpoS in low Mg2 . 
+The half-life of RpoS was 1 min in the iraP mutant experiencing low Mg2 , which is much lower than the 30-min half-life in the wild-type strain ( Fig. 2A ) . 
+On the other hand , the RpoS half-life was similar in iraP and wild-type Salmonella experiencing PhoP-repressing high Mg2 conditions ( Fig. 2B ) . 
+As described in E. coli ( 21 ) , mutation of the Salmonella iraP gene also reduced the accumulation and stability of RpoS during phosphate starvation , independent of PhoP ( Fig. 2C and data not shown ) . 
+Consistent with the effect of IraP on RpoS degradation , the Salmonella iraP mutant contained reduced RpoS levels when experiencing low Mg2 compared with the wild-type strain ( Fig. 2D ) , whereas it exhibited a normal growth rate ( data not shown ) . 
+The iraP mutant could be rescued by a plasmid expressing the iraP gene from a heterologous promoter but not by the plasmid vector itself ( Fig. 2E ) . 
+The iraP-expressing plasmid could partially rescue the phoP mutant as well ( Fig. 2E ) . 
+These results indicate that the PhoP-dependent increase in RpoS displayed by Salmonella in low Mg2 is primarily dependent upon stabilization of RpoS by IraP . 
+However , other PhoP-regulated gene products likely participate in this process because there were higher levels of RpoS in the iraP mutant than in the phoP mutant ( Fig. 2D ) . 
+Transcription of the Salmonella iraP Gene Is Induced in Low Mg2 in a PhoP-Dependent Manner . 
+Analysis of the putative promoter region of the Salmonella iraP gene revealed the presence of sequences resembling the PhoP-binding site ( 33 , 45 ) at two different positions ( Fig. 3A ) . 
+Consistent with this analysis , DNase I footprinting of the region upstream of the iraP ORF with the purified PhoP protein revealed protection of two regions : an ORF-distal region that displayed higher affinity for the PhoP protein than the ORF-proximal region ( Fig. 3B ) . 
+Primer extension experiments and S1 mapping revealed the presence of two transcription start sites : a PhoP-activated site that was observed only in the wild-type strain experiencing low 2 Mg and a PhoP-repressed site that was present in larger amounts in the wild-type strain after growth in high Mg2 and in the phoP mutant under both conditions ( Fig. 3C and data not shown ) . 
+Thus , we tested the possibility of PhoP regulating iraP transcription using isogenic wild-type and phoP strains deleted for the iraP gene and harboring a chromosomal lacZY transcriptional fusion to the iraP promoter . 
+The - galactosidase activity produced by the phoP strain was 2 - to 3-fold higher than that produced by the phoP mutant when cells were grown in 10 M Mg2 ( Fig. 3D ) . 
+PhoP induced iraP gene transcription only in organisms grown in 20 M Mg2 ( Fig. 3D ) , which is in striking parallel with the Mg2 concentrations that stimulate accumulation of the RpoS protein in a PhoP-dependent manner ( Fig. 1 A ) . 
+Salmonella phoP and iraP Mutants Are Sensitive to Hydrogen Peroxide when Grown in Low Mg2 . 
+Inactivation of the rpoS gene renders Salmonella hypersusceptible to hydrogen peroxide ( 46 ) , possibly because of RpoS control of the antioxidant enzyme exonuclease III ( 4 ) . 
+Because functional phoP and iraP genes are necessary for normal RpoS levels during growth in low Mg2 , we hypothesized that mutants defective in these genes would exhibit increased susceptibility to hydrogen peroxide after growth under such conditions . 
+Consistent with this notion , the Salmonella phoP and iraP mutants were as susceptible as an rpoS mutant when organisms were grown in low Mg2 ( Fig. 4A ) but exhibited wild-type resistance to hydrogen peroxide when organisms were harvested at stationary phase after growth in high Mg2 , which are PhoP-repressing conditions ( Fig. 4B ) . 
+Low Mg2 Promotes Accumulation of RpoS in E. coli in a PhoP-Dependent but IraP-Independent Fashion . 
+The stabilization of RpoS after starvation for Mg2 is less dramatic in E. coli than in Salmonella . 
+The half-life of RpoS went from 2 min in high Mg2 - growing cells to 6 min under Mg2 starvation conditions , and this increase was not affected by a mutation in iraP ( Fig. 5A ) , unlike in Salmonella ( Fig. 2 A and B ) . 
+Consistent with a lack of IraP-dependent stabilization after Mg2 starvation , similar levels of iraP transcription were obtained in high versus low Mg2 , and in isogenic wild-type and phoP strains ( data not shown ) . 
+In addition , the PhoP-binding sites that are present in the Salmonella iraP promoter are not found in the E. coli sequence ( Fig. 5C ) . 
+Despite being regulated differently in Salmonella and E. coli , the iraP genes of these two species encode functionally equivalent proteins as the Salmo-nella iraP gene could rescue an E. coli iraP mutant and vice versa ( data not shown ) . 
+PhoP still plays a role in RpoS accumulation in E. coli ; in Mg2 starvation conditions , the levels of RpoS were much lower in a phoP mutant ( Fig. 5B ) . 
+In an rssB mutant , in which RpoS is stable , the phoP mutation lowered RpoS levels 2-fold after Mg2 starvation ( Fig. 5B ) . 
+This finding suggests that there is a PhoP-dependent , IraP-independent RpoS stabilization . 
+Discussion The RpoS protein levels are tightly controlled in response to a variety of signals by several transcriptional and posttranscriptional regulators ( 1 , 2 ) . 
+We have now determined that , when 
+Salmonella experiences low Mg2 , RpoS becomes stable , which promotes expression of RpoS-dependent genes . 
+This stabilization requires the PhoP and PhoQ proteins , consistent with the known activation of the PhoP PhoQ two-component system by low Mg2 ( 22 , 32 ) . 
+Surprisingly , the stabilization of RpoS is less dramatic in E. coli experiencing low Mg2 conditions . 
+The PhoP protein is a DNA-binding transcriptional regulator ( 33 , 45 ) that increases RpoS levels indirectly because inactivation of the phoP gene had no effect on rpoS transcription . 
+In Salmonella , PhoP increases RpoS levels by promoting transcription of the iraP ( i.e. , yaiB ) gene ( Fig. 6 ) , which encodes a small protein recently shown to stabilize RpoS during phosphate starvation in E. coli ( 21 ) . 
+IraP acts by binding to RssB , probably sequestering it from binding to RpoS and delivering RpoS to the ClpXP protease ( Fig. 6 ) . 
+However , synthesis of IraP and the resulting stabilization of RpoS may not be the full explanation for lack of RpoS accumulation in a Salmonella phoP mutant because there were lower levels of the RpoS protein in a phoP mutant than in an iraP mutant ( Fig. 2B ) . 
+Moreover , when rpoS was transcribed from a heterologous promoter in a phoP mutant , the RpoS levels were higher in a construct that also provided a foreign ribosome-binding site than in one harboring the 5 UTR region of rpoS ( Fig. 1C ) . 
+Thus , the PhoP-dependent upregulation of RpoS levels taking place when Salmonella experience low Mg2 is mediated by both IraP and a yet to be identified PhoP-dependent product . 
+The IraP proteins of Salmonella and E. coli are 83 % identical and can substitute for each other in vivo . 
+It is likely that the IraP proteins use a similar mechanism to stabilize RpoS ( Figs. 2 and 5 ) ( 21 ) . 
+In addition , the iraP gene is necessary for stabilization after phosphate starvation in both E. coli and Salmonella ( 21 ) ( Fig. 2C ) . 
+However , it is striking that these organisms appear to regulate iraP expression in different ways : the Salmonella PhoP protein regulates iraP transcription directly by binding to distinct sites in the iraP promoter ( Fig. 3B ) . 
+In contrast , PhoP does not appear to regulate the initiation of iraP transcription in E. coli . 
+Sequences resembling the PhoP-binding site are not present in the iraP promoter region ( Fig. 5C ) , and the Salmonella PhoP protein does not footprint the E. coli promoter ( unpublished results ) . 
+Consistent with these observations , RpoS stability is only slightly greater during Mg2 starvation in E. coli , and mutations in iraP do not affect RpoS accumulation or turnover under low Mg2 growth conditions ( Fig. 5A ) . 
+In E. coli under low Mg2 conditions , there is a PhoP-dependent accumulation of RpoS ( Fig. 5B ) , even though RpoS is not fully stable . 
+Because this PhoP-dependence is mostly bypassed by an rssB mutation , it would seem that , under Mg2 starvation conditions , RpoS is degraded extremely rapidly and that a PhoP-dependent product other than iraP acts to help accumulate RpoS . 
+Such a PhoP-regulated product may also exist in Salmonella , because the effect of a phoP mutation on RpoS accumulation in low Mg2 is significantly more dramatic than the effect of an iraP mutation ( Fig. 2D ) . 
+The findings reported in this article provide further support to the notion that the PhoP PhoQ two-component system is a central regulator that controls the expression and or activity of other regulatory proteins and systems when cells experience low Mg2 , including the two-component system RstA RstB of E. coli , ( 47 ) , the SpiR SsrB two-component system ( 48 ) , and Salmonella the Salmonella transcription factor SlyA ( 49 ) . 
+In addition , the PhoP PhoQ system has the ability to activate the PmrA PmrB system posttranslationally by promoting expression of the small basic protein PmrD ( 50 ) , which has been shown to bind to the phosphorylated form of the response regulator PmrA protein and protect it from dephosphorylation by the sensor protein PmrB ( 51 ) . 
+This ability allows Salmonella to express PmrA-activated genes in response to the low Mg2 signal sensed by the PhoQ protein . 
+The enhanced RpoS levels resulting from activation of the PhoP PhoQ system is reminiscent of that activating the PmrA PmrB system because it is mediated to a large extent by a small protein ( i.e. , IraP ) that is under transcriptional control of PhoP ( Fig. 3 ) and shown to bind to the response regulator RssB ( 21 ) . 
+Thus , the PhoP-regulated IraP protein endows Sal-monella with the ability to express RpoS-regulated genes in response to low Mg2 ( Fig. 1 D and E ) . 
+Finally , the low Mg2 - promoted RpoS stabilization depended on the IraP protein in Salmonella ; E. coli showed less stabilization and did not regulate IraP under low Mg2 . 
+This finding demonstrates that closely related bacterial species can adopt different regulatory strategies to govern expression of conserved proteins , which likely contribute to their ability to occupy distinct niches . 
+Materials and Methods Bacterial Strains , Plasmids , Primers , and Growth Conditions . 
+The bacterial strains and plasmids used in this study are listed in Table 1 , which is published as supporting information on the PNAS web site , and the primers used for this study are listed in Table 2 , which is published as supporting information on the PNAS web site . 
+The construction of plasmids and strains is described in Supporting Materials and Methods , which is published as supporting information on the PNAS web site . 
+All S. enterica serovar Typhimurium strains used for this study were derived from the wild-type strain 14028s . 
+Phage P22-mediated transductions were performed as described ( 52 ) . 
+Bacteria were grown at 37 °C with aeration in Luria-Bertani ( LB ) broth or in N-minimal media ( 53 ) ( pH 7.7 ) , supplemented with 0.1 % casamino acids , 38 mM glycerol , and 10 M or 10 mM MgCl2 . 
+When necessary , antibiotics were added at the following final concentrations : ampicillin , 50 g ml ; chloramphenicol , 20 g ml ; kanamycin , 50 g ml ; rifampicin , 500 g ml , and tetracycline , 10 g ml . 
+E. coli DH5 was used as a host for the preparation of plasmid DNA . 
+All E. coli strains are derived from MG1655 unless otherwise indicated . 
+Western Blot Assay for RpoS . 
+Cells were harvested from an over-night culture grown in N-minimal media at pH 7.7 with 10 mM Mg2 , washed twice with N-minimal media at pH 7.7 without Mg2 , and diluted 1:50 into 12.5 ml of N-minimal media , pH 7.7 , with 10 M or 10 mM Mg2 . 
+When indicated , isopropyl - D-thiogalactoside ( IPTG ) ( 0.01 mM or 0.5 mM ) was added . 
+Bacteria were grown for 4 h at 37 °C with aeration ( OD600 at 0.35 -- 0.40 ) . 
+The cells were then harvested , washed once with PBS , and resuspended in 0.4 ml of PBS . 
+The cells were opened by sonication . 
+Cell debris was removed by centrifugation at 20,800 g for 10 min at 4 °C . 
+Protein concentrations were determined by a modified Lowry method , with BSA used as a standard . 
+A whole cell lysate ( 10 g of protein ) was run in an SDS-10 % polyacrylamide gel , transferred onto a nitrocellulose membrane , and developed by using an anti-RpoS monoclonal antibody ( Neoclone , Madison , WI ) , an anti-CorA anti-serum ( a generous gift from M. E. Maguire , Case Western Reserve University , Cleveland , OH ) , an anti-mouse IgG horseradish peroxidase-linked antibody , an anti-rabbit IgG horseradish per-oxidase-linked antibody , and the ECL detection system ( Amersham Biosciences , Piscataway , NJ ) . 
+Assay for Salmonella RpoS Degradation in Vivo . 
+Cells were grown in N-minimal media as described above or in Mops as described ( 21 ) . 
+Logarithmic phase cells were treated with chloramphenicol ( 200 g ml ) , and 950 - l samples were removed at the indicated time points and precipitated with 5 % ice-cold tricarboxylic acid . 
+Precipitated pellets were washed with 500 l of 80 % cold acetone and then resuspended in a volume of SDS sample buffer normalized to the OD600 . 
+Western blot analysis of samples was carried out as described above . 
+For quantitative analysis of the blots , we used Imageguage ( Storm ; Amersham Pharmacia ) . 
+Assay for E. coli RpoS Degradation in Vivo . 
+Cells were grown overnight in M9 minimal media , supplemented with 10 M FeSO4 , 2 mM MgSO4 , and 100 M CaCl2 , and then diluted into 30 ml of the same fresh media with starting OD600 0.01 and growth continued to OD600 0.3 . 
+Fifteen milliliters of culture were filtered and washed twice with 50 ml of prewarmed media without Mg2 Ca2 ; cells were resuspended from the filter with 15 ml of media without Mg2 Ca2 , grown an additional 45 min , and assayed for RpoS degradation . 
+Fifteen milliliters of culture without filtering were used to assay RpoS degradation before starvation . 
+The sample collection and assay were carried out as described ( 21 ) . 
+Note that Ca2 as well as Mg2 can repress the PhoP PhoQ system . 
+Although the N-minimal medium used for Salmonella experiments does not contain Ca2 , M9 , used for E. coli , does , and therefore it was necessary to limit both for these experiments . 
+Hydrogen Peroxide Killing Assay . 
+Bacteria were grown to logarithmic phase in N-minimal media with 10 M Mg2 as described above or grown to stationary phase in N-minimal media with 10 mM Mg2 . 
+Then , bacteria were diluted 1:100 into N-minimal media ( pH 7.7 ) with 10 M or 10 mM Mg2 . 
+Fifty microliters of the diluted bacterial culture was mixed with 50 l of 30 mM hydrogen peroxide in N-minimal media ( pH 7.7 ) with 10 M or 10 mM Mg2 and was placed in a 96-well plate ( Cell Culture Cluster ; Costar , Corning , NY ) . 
+After 0 , 5 , 10 , 20 , and 30 min incubation at 37 °C with aeration , cultures were serially diluted in 
+1 . 
+Hengge-Aronis , R. ( 2002 ) Microbiol . 
+Mol . 
+Biol . 
+Rev. 66 , 373 -- 395 . 
+2 . 
+Loewen , P. C. , Hu , B. , Strutinsky , J. & Sparling , R. ( 1998 ) Can . 
+J. Microbiol . 
+44 , 707 -- 717 . 
+3 . 
+Weber , H. , Polen , T. , Heuveling , J. , Wendisch , V. F. & Hengge , R. ( 2005 ) J. Bacteriol . 
+187 , 1591 -- 1603 . 
+4 . 
+Sak , B. D. , Eisenstark , A. & Touati , D. ( 1989 ) Proc . 
+Natl. Acad . 
+Sci . 
+USA 86 , 3271 -- 3275 . 
+5 . 
+Loewen , P. C. & Triggs , B. L. ( 1984 ) J. Bacteriol . 
+160 , 668 -- 675 . 
+6 . 
+Fang , F. C. , Libby , S. J. , Buchmeier , N. A. , Loewen , P. C. , Switala , J. , Harwood , J. & Guiney , D. G. ( 1992 ) Proc . 
+Natl. Acad . 
+Sci . 
+USA 89 , 11978 -- 11982 . 
+7 . 
+Kowarz , L. , Coynault , C. , Robbe-Saule , V. & Norel , F. ( 1994 ) J. Bacteriol . 
+176 , 6852 -- 6860 . 
+8 . 
+Gulig , P. A. , Danbara , H. , Guiney , D. G. , Lax , A. J. , Norel , F. & Rhen , M. ( 1993 ) Mol . 
+Microbiol . 
+7 , 825 -- 830 . 
+9 . 
+Libby , S. J. , Adams , L. G. , Ficht , T. A. , Allen , C. , Whitford , H. A. , Buchmeier , N. A. , Bossie , S. & Guiney , D. G. ( 1997 ) Infect . 
+Immun . 
+65 , 1786 -- 1792 . 
+10 . 
+Wilmes-Riesenberg , M. R. , Foster , J. W. & Curtiss , R. , III ( 1997 ) Infect . 
+Immun . 
+65 , 203 -- 210 . 
+11 . 
+Hengge-Aronis , R. , Lange , R. , Henneberg , N. & Fischer , D. ( 1993 ) J. Bacteriol . 
+175 , 259 -- 265 . 
+12 . 
+Lange , R. & Hengge-Aronis , R. ( 1994 ) Genes Dev . 
+8 , 1600 -- 1612 . 
+13 . 
+Matin , A. ( 1991 ) Mol . 
+Microbiol . 
+5 , 3 -- 10 . 
+14 . 
+Schweder , T. , Lee , K. H. , Lomovskaya , O. & Matin , A. ( 1996 ) J. Bacteriol . 
+178 , 470 -- 476 . 
+15 . 
+Becker , G. , Klauck , E. & Hengge-Aronis , R. ( 1999 ) Proc . 
+Natl. Acad . 
+Sci . 
+USA 96 , 6439 -- 6444 . 
+16 . 
+Pratt , L. A. & Silhavy , T. J. ( 1996 ) Proc . 
+Natl. Acad . 
+Sci . 
+USA 93 , 2488 -- 2492 . 
+17 . 
+Klauck , E. , Lingnau , M. & Hengge-Aronis , R. ( 2001 ) Mol . 
+Microbiol . 
+40 , 1381 -- 1390 . 
+18 . 
+Zhou , Y. , Gottesman , S. , Hoskins , J. R. , Maurizi , M. R. & Wickner , S. ( 2001 ) Genes Dev . 
+15 , 627 -- 637 . 
+19 . 
+Bearson , S. M. , Benjamin , W. H. , Jr. , Swords , W. E. & Foster , J. W. ( 1996 ) J. Bacteriol . 
+178 , 2572 -- 2579 . 
+20 . 
+Pruteanu , M. & Hengge-Aronis , R. ( 2002 ) Mol . 
+Microbiol . 
+45 , 1701 -- 1713 . 
+21 . 
+Bougdour , A. , Wickner , S. & Gottesman , S. ( 2006 ) Genes Dev . 
+20 , 884 -- 897 . 
+22 . 
+Garcia Vescovi , E. , Soncini , F. C. & Groisman , E. A. ( 1996 ) Cell 84 , 165 -- 174 . 
+23 . 
+Groisman , E. A. , Kayser , J. & Soncini , F. C. ( 1997 ) J. Bacteriol . 
+179 , 7040 -- 7045 . 
+24 . 
+Soncini , F. C. , Garcia Vescovi , E. , Solomon , F. & Groisman , E. A. ( 1996 ) J. Bacteriol . 
+178 , 5092 -- 5099 . 
+25 . 
+Fields , P. I. , Groisman , E. A. & Heffron , F. ( 1989 ) Science 243 , 1059 -- 1062 . 
+26 . 
+Galan , J. E. & Curtiss , R. , III ( 1989 ) Microb . 
+Pathog . 
+6 , 433 -- 443 . 
+27 . 
+Miller , S. I. , Kukral , A. M. & Mekalanos , J. J. ( 1989 ) Proc . 
+Natl. Acad . 
+Sci . 
+USA 86 , 5054 -- 5058 . 
+28 . 
+Castelli , M. E. , Cauerhff , A. , Amongero , M. , Soncini , F. C. & Vescovi , E. G. ( 2003 ) J. Biol . 
+Chem . 
+278 , 23579 -- 23585 . 
+cold LB and plated onto LB agar plates and incubated overnight at 37 °C to determine the number of cfu . 
+The percentage survival was calculated as follows : ( cfu of hydrogen peroxide-treated culture cfu of untreated culture ) 100 . 
+The statistical significance of the hydrogen peroxide susceptibility data was analyzed by a two-tailed Student 's t test by using Excel software ( Microsoft , Redmond , WA ) . 
+- Galactosidase Assay . 
+Strains were grown in N-minimal media ( pH 7.7 ) supplemented with either 10 M or 10 mM Mg2 . 
+Activity was determined as described ( 54 ) after 4 h of growth at 37 °C . 
+Assays were performed in duplicate . 
+PCR , DNase I Footprinting , and Primer Extension assays are as described in Supporting Materials and Methods . 
+We thank M. E. Maguire ( Case Western Reserve University , Cleveland , OH ) for anti-CorA antibodies ; A. Kato , C. Mouslim , C. Perez , Y. Shi , and H. Huang for discussions ; S. Wickner for comments on the manu-script ; and J. Lee and E. Lee for technical support . 
+This work was supported in part by National Institutes of Health ( NIH ) Grant AI49561 ( to E.A.G. , who is an Investigator of the Howard Hughes Medical Institute ) , and in part by the Intramural Research Program of the NIH , National Cancer Institute , Center for Cancer Research . 
+29 . 
+Chamnongpol , S. , Cromie , M. & Groisman , E. A. ( 2003 ) J. Mol . 
+Biol . 
+325 , 795 -- 807 . 
+30 . 
+Montagne , M. , Martel , A. & Le Moual , H. ( 2001 ) J. Bacteriol . 
+183 , 1787 -- 1791 . 
+31 . 
+Shin , D. & Groisman , E. A. ( 2005 ) J. Biol . 
+Chem . 
+280 , 4089 -- 4094 . 
+32 . 
+Groisman , E. A. ( 2001 ) J. Bacteriol . 
+183 , 1835 -- 1842 . 
+33 . 
+Zwir , I. , Shin , D. , Kato , A. , Nishino , K. , Latifi , T. , Solomon , F. , Hare , J. M. , Huang , H. & Groisman , E. A. ( 2005 ) Proc . 
+Natl. Acad . 
+Sci . 
+USA 102 , 2862 -- 2867 . 
+34 . 
+Lee , I. S. , Lin , J. , Hall , H. K. , Bearson , B. & Foster , J. W. ( 1995 ) Mol . 
+Microbiol . 
+17 , 155 -- 167 . 
+35 . 
+Alpuche Aranda , C. M. , Swanson , J. A. , Loomis , W. P. & Miller , S. I. ( 1992 ) Proc . 
+Natl. Acad . 
+Sci . 
+USA 89 , 10079 -- 10083 . 
+36 . 
+Chen , C. Y. , Eckmann , L. , Libby , S. J. , Fang , F. C. , Okamoto , S. , Kagnoff , M. F. , Fierer , J. & Guiney , D. G. ( 1996 ) Infect . 
+Immun . 
+64 , 4739 -- 4743 . 
+37 . 
+Eriksson , S. , Lucchini , S. , Thompson , A. , Rhen , M. & Hinton , J. C. ( 2003 ) Mol . 
+Microbiol . 
+47 , 103 -- 118 . 
+38 . 
+Bader , M. W. , Navarre , W. W. , Shiau , W. , Nikaido , H. , Frye , J. G. , McClelland , M. , Fang , F. C. & Miller , S. I. ( 2003 ) Mol . 
+Microbiol . 
+50 , 219 -- 230 . 
+39 . 
+Cano , D. A. , Martinez-Moya , M. , Pucciarelli , M. G. , Groisman , E. A. , Casadesus , J. & Garcia-Del Portillo , F. ( 2001 ) Infect . 
+Immun . 
+69 , 6463 -- 6474 . 
+40 . 
+Bearson , B. L. , Wilson , L. & Foster , J. W. ( 1998 ) J. Bacteriol . 
+180 , 2409 -- 2417 . 
+41 . 
+Heithoff , D. M. , Conner , C. P. , Hanna , P. C. , Julio , S. M. , Hentschel , U. & Mahan , M. J. ( 1997 ) Proc . 
+Natl. Acad . 
+Sci . 
+USA 94 , 934 -- 939 . 
+42 . 
+Heithoff , D. M. , Conner , C. P. , Hentschel , U. , Govantes , F. , Hanna , P. C. & Mahan , M. J. ( 1999 ) J. Bacteriol . 
+181 , 799 -- 807 . 
+43 . 
+Chamnongpol , S. & Groisman , E. A. ( 2000 ) J. Mol . 
+Biol . 
+300 , 291 -- 305 . 
+44 . 
+Peterson , C. N. , Mandel , M. J. & Silhavy , T. J. ( 2005 ) J. Bacteriol . 
+187 , 7549 -- 7553 . 
+45 . 
+Lejona , S. , Aguirre , A. , Cabeza , M. L. , Garcia Vescovi , E. & Soncini , F. C. ( 2003 ) J. Bacteriol . 
+185 , 6287 -- 6294 . 
+46 . 
+Robbe-Saule , V. , Algorta , G. , Rouilhac , I. & Norel , F. ( 2003 ) Appl . 
+Environ . 
+Microbiol . 
+69 , 4352 -- 4358 . 
+47 . 
+Minagawa , S. , Ogasawara , H. , Kato , A. , Yamamoto , K. , Eguchi , Y. , Oshima , T. , Mori , H. , Ishihama , A. & Utsumi , R. ( 2003 ) J. Bacteriol . 
+185 , 3696 -- 3702 . 
+48 . 
+Bijlsma , J. J. & Groisman , E. A. ( 2005 ) Mol . 
+Microbiol . 
+57 , 85 -- 96 . 
+49 . 
+Shi , Y. , Latifi , T. , Cromie , M. J. & Groisman , E. A. ( 2004 ) J. Biol . 
+Chem . 
+279 , 38618 -- 38625 . 
+50 . 
+Kox , L. F. , Wosten , M. M. & Groisman , E. A. ( 2000 ) EMBO J. 19 , 1861 -- 1872 . 
+51 . 
+Kato , A. & Groisman , E. A. ( 2004 ) Genes Dev . 
+18 , 2302 -- 2313 . 
+52 . 
+Davis , R. W. , Bolstein , D. & Roth , J. R. ( 1980 ) Advanced Bacterial Genetics ( Cold Spring Harbor Lab . 
+Press , Cold Spring Harbor , NY ) . 
+53 . 
+Snavely , M. D. , Miller , C. G. & Maguire , M. E. ( 1991 ) J. Biol . 
+Chem . 
+266 , 815 -- 823 . 
+54 . 
+Miller , J. H. ( 1972 ) Experiments in Molecular Genetics ( Cold Spring Harbor Lab . 
+Press , Cold Spring Harbor , NY ) .

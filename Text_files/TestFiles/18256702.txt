@@ -1,0 +1,607 @@
+The ISME Journal ( 2008 ) 2 , 293 -- 307 & 2008 International Society for Microbial Ecology www.nature.com/ismej 
+All rights reserved 1751-7362/08 $ 30.00 
+ORIGINAL ARTICLE 
+Evolutionary loss of the rdar morphotype
+in Salmonella as a result of high mutation 
+rates during laboratory passage 
+Carla J Davidson1 ,3 , Aaron P White2 ,3 and Michael G Surette1 ,2 
+1Department of Biochemistry and Molecular Biology , and Faculty of Medicine , University of Calgary , Calgary , Alberta , Canada and 2 Department of Microbiology and Infectious Diseases , Faculty of Medicine , University of Calgary , Calgary , Alberta , Canada 
+Rapid evolution of microbes under laboratory conditions can lead to domestication of environmental or clinical strains . 
+In this work , we show that domestication due to laboratory passage in rich medium is extremely rapid . 
+Passaging of wild-type Salmonella in rich medium led to diversification of genotypes contributing to the loss of a spatial phenotype , called the rdar morphotype , within days . 
+Gene expression analysis of the rdar regulatory network demonstrated that mutations were primarily within rpoS , indicating that the selection pressure for scavenging during stationary phase had the secondary effect of impairing this highly conserved phenotype . 
+If stationary phase was omitted from the experiment , radiation of genotypes and loss of the rdar morphotype was also demonstrated , but due to mutations within the cellulose biosynthesis pathway and also in an unknown upstream regulator . 
+Thus regardless of the selection pressure , rapid regulatory changes can be observed on laboratory timescales . 
+The speed of accumulation of rpoS mutations during daily passaging could not be explained by measured fitness and mutation rates . 
+A model of mutation accumulation suggests that to generate the observed accumulation of r38 mutations , this locus must experience a mutation rate of approximately 10 4 mutations/gene/generation . 
+Sequen-cing and gene expression of population isolates indicated that there were a wide variety of r38 phenotypes within each population . 
+This suggests that the rpoS locus is highly mutable by an unknown pathway , and that these mutations accumulate rapidly under common laboratory conditions . 
+The ISME Journal ( 2008 ) 2 , 293 -- 307 ; doi :10.1038 / ismej .2008.4 ; published online 7 February 2008 Subject Category : evolutionary genetics Keywords : rpoS ; s38 ; adaptation ; domestication 
+Introduction 
+Evolution is the result of the interplay between mutation rates , stochastic events and selection . 
+The short generation times and small genomes of microbes make them ideal model organisms for examining the combined impact of mutation rates and selection on genome evolution . 
+Furthermore , the availability of high throughput and detailed gene expression data allows for an unparalleled examination of the effects of mutation and selection on gene regulatory network function . 
+Members of the genus Salmonella develop a pattern formation phenotype that is hypothesized to be an important survival strategy that provides a resting stage comparable to 
+Correspondence : MG Surette , Department of Microbiology and Infectious Diseases , University of Calgary , B724 3330 Hospital Drive NW , Calgary , Alberta , Canada T2N 4P2 . 
+E-mail : surette@ucalgary.ca 3These authors contributed equally to this work . 
+Received 20 October 2007 ; revised 21 December 2007 ; accepted 24 December 2007 ; published online 7 February 2008 spore formation in Gram positives ( White et al. , 2006 ) . 
+This phenotype has been termed the rdar morphotype , and is characterized by the formation of red , dry and rough spreading colonies when grown on agar containing Congo red . 
+Though widely conserved among wild isolates of the Salmonellae , the morphotype has been lost in some commonly used laboratory strains , suggesting that it is sensitive to loss due to common laboratory mutations such as deletion or attenuation mutations in rpoS ( Römling et al. , 1998 ; White and Surette , 2006 ) . 
+White and Surette ( 2006 ) demonstrated that 90 % of isolates representing the seven subgroups of Salmonella were capable of forming rdar colonies ; however , among the frequently used strains of the SARC16 subset ( Boyd et al. , 1996 ) , the prevalence was only 31 % . 
+Some strains impaired in rdar formation had lost the function of rpoS , which codes for the sigma factor s38 that regulates the expression of numerous genes involved in stationary-phase stress response ( O'Neal et al. , 1994 ) , and is required for rdar formation ( Römling et al. , 1998 ) . 
+However , thi was not the only affected pathway observed White and Surette ( 2006 ) . 
+Rdar formation is the result of coordinated expression of genes required for biosynthesis of fimbriae ( Collinson et al. , 1993 , 1996 ; Römling and Rohde , 1999 , 2000 ) , cellulose ( Römling et al. , 2000 ; Zogaj et al. , 2001 ) and additional polysaccharides ( Gibson et al. , 2006 ) . 
+s38 is involved in the gene regulatory network governing the rdar phenotype ; in early stationary phase , it activates the transcription of a key regulator in rdar formation , agfD . 
+AgfD ( CsgD ) is a transcriptional regulator that initiates transcription in the agfBAC operon , which encodes the main structural proteins for fimbrial biosynth-esis ( Collinson et al. , 1993 , 1996 ; Römling et al. , 1998 , 2000 ; White and Surette , 2006 ) . 
+agfD is also regulated by the transcriptional regulators OmpR , MlrA and CpxR-P ( Gerstel and Römling , 2003 ; White and Surette , 2006 ) . 
+s38 not only directly regulates agfD , but also feeds into its activation via positive regulation of the transcriptional regulator mlrA , ( Brown et al. , 2001 ) . 
+Expression of agfD is initiated in late exponential phase with a peak in early stationary phase , which results in initiation of transcription of the rest of the fimbrial biosynthetic genes , and other genes in the regulon including adrA , ( Römling et al. , 2000 ) which is involved in regulating cellulose biosynthesis . 
+AdrA is a member of the GGDEF family of proteins that is involved in modulating c-di-GMP levels ; specifically , its diguanate cyclase activity generates c-di-GMP ( Römling , 2005 ; Römling et al. , 2005 ; Simm et al. , 2007 ) . 
+Cellulose biosynthesis is partially regulated by intracellular concentrations of c-di-GMP , which interacts with the ( Bacterial Cellulose Synthesis ) BCS proteins located in the inner membrane to activate cellulose biosynthesis ( Zogaj et al. , 2001 ; Römling , 2005 ) . 
+Low levels of c-di-GMP are associated with motile behaviors such as swimming and swarming , whereas higher levels of c-di-GMP are associated with sessile adaptations including the synthesis and export of extracellular components ( Römling , 2005 ; Römling et al. , 2005 ) . 
+In addition , the rdar morphotype also includes the capsular biosynthesis and aggregative pathways ( White and Surette , 2006 ) . 
+This morphotype is the result of complex regulation involving numerous major biosynthetic pathways and is highly conserved among Salmonella . 
+s38 null or attenuation mutations are common in experimental evolution of Escherichia coli ( E. coli ) ( King et al. , 2004 ; Zinser and Kolter , 2004 ; Ferenci , 2005 ; Maharjan et al. , 2006 ) . 
+s70 , the exponential-phase s factor , is responsible for the transcription of housekeeping genes involved in cell maintenance and growth . 
+As the culture approaches stationary phase , s38 increases in concentration and competes with s70 for binding with the core polymerase ( Ishihama , 2000 ) . 
+This leads to competing priorities for bacteria : regulation via s38 provides protection against multiple stresses , particularly low pH ( Farrell and Finkel , 2003 ; King et al. , 2006 ) , whereas regulation via s70 provides improved nutrient scavenging ( Notley-McRobb et al. , 2002 ) . 
+Consequently , null or attenuation mutations of rpoS are common in laboratory conditions where improved scavenging can provide a selective advantage . 
+In this work , we demonstrate how laboratory passage leads to loss of the rdar phenotype , and use transcriptional profiling to identify impaired regulatory pathways . 
+As expected , laboratory passage resulted in rapid loss of s38 function ; however , selection in a different regimen led to mutations in other parts of the pathway governing rdar formation . 
+In both selection regimens , populations underwent radiation leading to population level heterogeneity in genotypes , several of which contributed to the loss of the rdar phenotype . 
+The rapid loss of rdar formation during daily passage may be the result of high mutation rates at the rpoS locus . 
+Methods and materials
+Bacterial strains , media and growth conditions Salmonella enterica serovar Typhimurium strain ATCC 14028 ( ST 14028 ) was used as the reference strain for all experiments . 
+Strains were grown overnight at 37 1C with agitation ( 200 r.p.m. ) in Miller 's Luria-Bertani ( Invitrogen Canada , Burlington Ontario ) ( LB ) broth for all competition and passaging experiments . 
+For expression assays , strains were grown overnight at 37 1C with agitation in 1 % Tryptone ( Difco , Mississauga , Ontario ) ( T ) broth . 
+Reference strain ST 14028 was frozen from an þ rdar ST 14028 isolate . 
+Due to the possibility of the rapid development of rdar mutants , all experiments were started from overnight cultures taken directly from this frozen isolate . 
+Experimental evolution
+Frozen Salmonella was inoculated into 5 ml LB and incubated at 37 1C with agitation . 
+After 24 h , 50 ml of culture was inoculated into 5 ml fresh medium and incubated at 37 1C with agitation ; this was repeated for a total of 14 days , providing approximately 5.6 generations of growth per day . 
+Passaging experiments were done in quadruplicate . 
+To determine the fraction of rdar and non-aggregative ( smooth ) colo-nies present in the culture each day , subsamples from 24 h-old cultures were normalized to 1.0 OD600 and 100 ml aliquots of a 10 6 dilution were plated onto media containing 1 % tryptone ( Difco ) and 1.5 % agar ( Difco ) ( T agar ) and incubated at 28 1C for 2 -- 4 days . 
+To passage cultures in exponential phase , 50 ml aliquots were removed after 6 h growth at 37 1C with agitation and used to inoculate fresh LB broth ; this was repeated for a total of 84 h , providing between 5 and 6 generations ( log2 ( number of doublings ) ) per cycle , depending on exact starting and finishing densities . 
+Isolates were selected from the daily passaging regimen ( DPI-1 , DPI-2 ) , and from the exponential-phase passaging regimen ( EPI-1 , EPI-2 ) . 
+We also tested whether a functional rdar phenotype contributed to the frequency of non-aggregative mutations in experimental evolution cultures . 
+ST 14028 and DagfD were grown at 37 1C with agitation , and passaged daily for a total of 7 days . 
+To determine the fraction of rpoS mutants in each culture at day 7 , the s38 responsive reporter sig38H4 ( White and Surette , 2006 ) ( described below ) was transformed into the population of cells . 
+Forty-eight colonies from each population were picked into a 96-well plate , and the s38-responsive expression was measured over 24 h . 
+We calculated the frequency of s38 mutants in each population and tested the null hypothesis that these frequencies were equivalent using a two-sample t-test assuming equal variances . 
+Construction of deletion mutant
+Deletion mutants for DagfD and DrpoS have been described previously ( White et al. , 2006 ) . 
+An inframe deletion of 691 bp in mlrA ( encoding amino acids 3 -- 232 in MlrA ) was generated using overlap extension PCR with primers mlrAFor1 , mlrARev1 , mlrAFor2 and mlrARev2 ( Table 1 ) . 
+PCR products were purified , digested with BamHI and PstI and ligated into pHSG415 . 
+Chromosomal deletions in mlrA were introduced into ATCC 14028 following established procedures ( White et al. , 1999 , 2007 ) and were confirmed by PCR and phenotypic analysis . 
+Phenotypic characterization and sequencing of mutants To determine which pathways were affected by experimental evolution leading to the loss of rdar morphotype , deletion mutants DagfD , DrpoS and DmlrA and evolved isolates DPI-1 , DPI-2 , EPI-1 and EPI-2 were characterized for various phenotypic traits specific to rdar formation . 
+Colony morphology was characterized after growth on T agar for 2 -- 4 days at 28 1C , and confirmed for experimental 
+Restriction sites are underlined ( mlrAFor1 : BamHI , mlrARev2 : PstI ) . 
+Italicized sequences correspond to regions of identity between mlrARev1 and mlrAFor2 . 
+isolates by further purification and recharacterization . 
+Production of cellulose was monitored by incubation on LB agar ( Invitrogen Canada Inc. , Burlington , ON , Canada ) supplemented with 200 mg ml 1 calcufluor white ( fluorescent brightener 28 , Sigma-Aldrich , Oakville , Ontario , Canada ) and visualization of the colonies under UV light . 
+Cellulose production is characterized by blue fluor-escence when viewed under broad-spectrum UV light . 
+Fimbrial production was detected by production of a dark red colony when grown on T agar supplemented with 100 mg ml 1 Congo red . 
+s38 function was tested by catalase assay ( Notley-McRobb et al. , 2002 ) , or flooding the plates with gaseous iodine ( Hengge-Aronis and Fischer , 1992 ; Notley-McRobb et al. , 2002 ) . 
+For the iodine assay , T agar plates containing Salmonella colonies were incubated overnight at 4 1C , then at 37 1C for an hour before being exposed to iodine gas . 
+Functional s38 is required for glycogen storage , and iodine gas turns wild-type colonies dark brown ( Notley-McRobb et al. , 2002 ) . 
+The catalase assay involves dropping hydrogen peroxide on the colony ; colonies with functional s38 produce vigorous bubbling ( Notley-McRobb et al. , 2002 ) . 
+Colonies on all plates obtained from one daily passaging trial and one exponential passaging trial were tested for s38 function using the catalase/iodine assays . 
+Sequences of the rpoS , agfD , mlrA and adrA coding and intergenic regions were sequenced with the primers rpoScloneFOR and rpoScloneREV , agfD1 and agfD2 ( White et al. , 2006 ) , mlrAcloneFOR and mlrAcloneREV , adrA01 and adrA03 , respectively ( Table 1 ) . 
+Gene expression assays
+The expression of genes associated with the rdar morphotype was monitored during growth of evolved strains and deletion mutants at 28 1C in T broth . 
+Development of lux-based reporters containing promoter regions cloned into a low-copy luciferase vector have been previously described for mlrA ( White and Surette , 2006 ) , agfD , agfB , adrA ( White et al. , 2006 ) and s70 ( Stocki et al. , 2007 ) . 
+Each reporter was transformed into DagfD , DmlrA and DrpoS , as well as DPI-1 , DPI-2 , EPI-1 , EPI-2 and ST 14028 . 
+Overnight cultures supplemented with 50 mg/ml kanamycin were diluted 1:600 into 150 ml 1 % T broth in individual wells of a 96-well clearbottom black plate ( 9520 Costar ; Corning Inc. , Lowell , MA , USA ) . 
+The wells were covered with 50 ml mineral oil to reduce evaporation . 
+Cultures were incubated at 28 1C with agitation ( 2 mm orbital shake , 90 s every half hour ) assayed for luminescence ( 1 s ) and optical density ( 620 nm , 0.1 s ) every half hour for 48 h in a Wallac Victor2 ( Perkin Elmer Life Sciences , Boston , MA , USA ) . 
+The maximum expression of each reporter in each strain relative to wild type was calculated from at least three independent experiments with multiple replicates in each experiment . 
+Because maximum expression was observed during stationary phase where optical density is not an accurate reflection of cell number , the expression values were not normalized by OD . 
+With few exceptions , the magnitude of expression from assay to assay was comparable ; therefore replicates were averaged across assays . 
+The average and 95 % confidence interval of maximum expression were calculated for each reporter strain . 
+Table 1 Primers used in this study 
+Primer name Sequence 
+TGACTCGAGCAAGTTTATGAGCGC AGTCCATCCTGAAGCCCGGCTGGA GTCGGATCCCCAGATTAAACTCGTACATAC GTCGGATCCTCTGTTTAAACGCCAAGG GCCGAATTCCAGGTCTGCACAAAATTC GCCAAGCTTGACAAGGGTACTTACTCGC GCCGGATCCACCTTCAGCGCGGTAGCAGA CGTCCCTGGGCGCCATCGTTTCACCCTT , AACGATGGCGCCCAGGGACGCGACATTCAT GCCCTGCAGAGGAGAGTTTTGCCGCCCTC 
+adrA01 adrA03 
+mlrAcloneFor mlrAcloneRev rpoScloneFor rpoScloneRev mlrAFor1 mlrARev1 mlrAFor2 mlrARev2 
+Growth and fitness assays
+For growth assays , triplicate overnight cultures of ST 14028 and DPI-1 , DPI-2 , EPI-1 and EPI-2 were diluted 1/1000 into 25 ml Luria-Bertani broth and grown at 37 1C for 24 h . 
+At 1 h intervals until 12 h , 0.2 -- 1.0 ml aliquots were taken from each culture and the optical density was measured at 600 nm ( OD600 ) . 
+Final readings were taken after 24 h growth . 
+Fitness of evolved and deletion mutants was determined by direct competition with ST 14028 . 
+Evolved mutants DPI-1 , DPI-2 and deletion mutants DagfD , DmlrA and DrpoS were diluted in quadruplicate into 5 ml fresh LB and incubated at 37 1C with agitation . 
+After co-ordinated growth in LB for 24 h , 50 ml from each strain was combined with an equal volume of ST 14028 into 5 ml of LB . 
+To determine the exact starting ratios of rdar and non-aggregative colonies , an aliquot of this initial mixture was immediately diluted 5 10 5 and plated in duplicate onto T agar , then incubated at 28 1C for 2 -- 4 days . 
+Mixed cultures were grown for 24 h at 37 1C with agitation . 
+At the end of each competition , cultures were diluted 5 10 7 and grown on T agar for 448 h to determine the final ratio of rdar and non-aggregative colonies . 
+The competitive fitness ( W ) of each strain was calculated as the log ratio of the realized growth rates ( Lenski et al. , 1991 ; Lenski , 2004 ) . 
+The fitness of each evolved isolate and deletion mutant relative to the wild type was calculated for at least four replicate trials ; in the case of DagfD , seven replicates were required to determine if there was a significant fitness difference from the wild type . 
+To determine the fitness of isolate EPI-2 relative to wild type during exponential phase , coordinated overnight cultures of EPI-2 and ST 14028 were mixed 50:50 , diluted 200-fold into fresh LB medium and grown at 37 1C . 
+After 6 h , 100 ml of the mixed culture was transferred into 5 ml of fresh LB medium , and a 50 ml aliquot was removed , diluted and grown on T agar at 28 1C to determine initial frequencies of each strain . 
+This was repeated after an additional 6 h growth to determine frequencies of each strain after exponential phase growth . 
+The fitness of EPI-2 relative to wild type was calculated as the log realized growth rate over 6 h as above . 
+To control for the possibility of appearance of new NAS mutants from ST 14028 during the competition , we grew cells from aliquots of the ST 14028 culture used for competition at the beginning and end of both overnight and exponential phase trials to determine whether novel NAS mutants appeared de novo . 
+We documented the appearance of one de novo NAS mutant during one competition . 
+The results from this competition were not included in the analysis . 
+The non-aggregative mutants EPI-1 and EPI-2 did not reach the same frequency during exponentialphase passaging as DPI-1 and DPI-2 did in the daily passaging regimen ; therefore , we performed two additional competitions . 
+First , we tested whether the competitive ability of EPI-2 was density dependent . 
+Exponential-phase competitions were performed as above , but with starting densities of 10:90 , 50:50 and 90:10 ST 14028 : EPI-2 . 
+Secondly , we tested whether the evolved wild type had a different competitive ability than the ancestral wild type . 
+EPI-2 was competed as above against a wildtype isolate obtained from the end of the exponen-tial-phase passaging experiment ( ST * ) . 
+For all competitions , the average and s.d. of the fitness coefficient W was calculated . 
+The significance of the fitness of each strain relative to the ancestor was tested by repeated one-tailed Student 's t-test ( h0 : W 1/4 1 , h1 : W41 for all strains , except for agfD , h0 : W 1/4 1 , h1 : Wo1 ) with a Bonferroni corrected P-value ( 0.05 / 7 ) to correct for the increased probability of positive outcomes with multiple tests . 
+Model of mutational sweep
+To determine how selective advantage contributed to the accumulation of non-aggregative colonies in the daily and exponential-phase passaging experiments , we used the model developed by De Gelder et al. ( 2004 ) . 
+Briefly , bacterial growth is modeled as a non-linear autoregressive process : 1þs mðtÞ 1/4 2 mðt 1Þ þ 2lnðt 1Þ ð1Þ where m ( t ) 1/4 number of mutants at time t , n ( t ) 1/4 number of wild type at time t , s 1/4 selection coefficient , or W 1 and l 1/4 mutation rate ( De Gelder et al. , 2004 ) . 
+If the average fraction of mutants in the population is b ( t ) , given the initial pool of mutants b ( 0 ) , selection coefficient s and mutation rate l , then b ( t ) can be calculated by the following : btðb0 ; s ; lÞ 1/4 m = ðm þ n ðtÞ ðtÞ ðtÞÞ ð2Þ The recursion can be solved for k cycles with l generations per cycle with the following equation : 
+2lksb s lks 0 
+ð2 ð1 lÞÞ þ lð1 b0Þð2 ð1 lÞlkÞ 1 lÞÞ þ lð1 b lks lk lk s 0 Þð2 ð1 lÞ Þ þ ð1 lÞ ð1 b0Þð2 ð 
+ð Þ 
+ð Þ 1/4 blk b0 ; s ; l 2lksb ð2s ð 0 
+3 
+lÞÞ 
+1 
+Data of the frequency of non-aggregative colonies in daily and exponential-phase passaging were fitted to the above model using maximum likelihood using the program optim in R 2.4.1 ( Team , 2006 ) , with the Nelder -- Mead algorithm ( program provided online at http://www.webpages.uidaho.edu/~joyce/ Labpage/Evo-x . 
+html ) to estimate the initial pool of mutants ( b0 ) , mutation rate ( l ) and selection coefficient ( s ) that explain the rise in frequency of non-aggregative mutants during the course of the passaging experiments . 
+95 % confidence intervals were calculated by parametric bootstrap , and goodness of fit was determined by a Likelihood Ratio Statistic that tests against the null hypothesis that the data are Poisson distributed with a mean Dkblk ( where D is sample size ) versus the alternative hypothesis that the data are Poisson distributed with a different mean ( De Gelder et al. , 2004 ) . 
+Additionally , the mutation rate during daily passaging was estimated fitting the following model to times in generations ( G ) until half the population is taken over by the mutant : 1/4 ð Þ G log 1 = b 2 0 = s ( Cooper et al. , 2001 ) . 
+Where G 1/4 generations until mutant frequency equals half the population , b0 1/4 frequency of mutants in initial pool and s 1/4 selection coefficient ( W 1 ) . 
+We could not solve for exponential-phase passaging because the fraction of non-aggregative mutants did not reach 50 % before the end of the experiment . 
+Assuming that the dominant process is selection , we can solve for the initial pool of mutants and calculate the mutation rate required ( Cooper et al. , 2001 ) . 
+Assuming an initial frozen inoculum of 2 ml , we can solve for frequency of mutants in the initial pool and estimate the mutation rate required to get this fraction in 11.28 generations ( log22500 ) , we get : l 1/4 ð GsÞ ð Þ 1 = 2 = 11:28 5 To fit the model to data of accumulation of non-aggregative isolates in the daily passaging regimen , we used the average fitness of DPI-1 and DPI-2 . 
+The times in generations until the non-aggregative mutants reached a frequency of 0.5 were estimated from data of fraction of non-aggregative mutants per day fitted to a simple logarithmic function . 
+The mutation rate was estimated from the four daily passaging trials at 37 1C , and the mean , s.d. and 95 % confidence intervals were calculated . 
+Determining mutation rates in evolved ST 14028 cultures Rifampicin-sensitive single colonies of isolates DPI-1 , DPI-2 , EPI-1 , EPI-2 and ST 14028 were resuspended in phosphate-buffered saline , and approximately 100 -- 1000 cells were aliquoted into 28 wells of a 96-well plate with 100 ml LB . 
+Subsamples from 21 to 24 wells were plated to determine starting numbers of cells . 
+The plate was incubated at 37 1C with agitation . 
+After 24 h of growth , the entire contents of each well were plated on LB agar supplemented with 100 mg ml 1 rifampicin to determine the number of mutants that arose during growth . 
+Subsamples from 25 to 28 wells were plated to determine the number of bacteria in the population . 
+The number of rifampi-cin-resistant clones within each population was counted , and the results used to calculate mutation frequency according to the MSS Maximum Likelihood Method ( Rosche and Foster , 2000 ) . 
+RpoS activity in cell populations during evolution 38 To measure the activity of s in multiple isolates within evolved populations , two populations from daily passaging ( trial 2 , day 8 and trial 3 , day 7 ) and 38 ST 14028 were transformed with the s - responsive reporter sig38H4 by electroporation ( GenePulser 2.0 ; Bio-Rad Laboratories Inc. ) . 
+Approximately 1000 transformants from each strain were picked and transferred to LB medium in clear 384-well micro-titer plates ( Whatman Inc. , Florham Park , NJ , USA ) using a colony-picking robot ( Norgren Systems , Palo Alto , CA , USA ) and incubated at 37 1C before storage in 20 % glycerol at 70 1C . 
+To assay s38 activity , clones were transferred into 80 ml of T broth in black , clear bottom 384-well microtiter plates ( 3711 Costar ; Corning Inc. , Corning , NY , USA ) using a 384-pin manual plate replicator ( catalog no . 
+VP 386 ; V&P Scientific , San Diego , CA , USA ) and incubated at 28 1C for 48 h with agitation . 
+Luminescence ( 0.1 s ) and optical density ( 620 nm , 0.1 s ) measurements were taken at 24 , 26 , 28 , 30 , 32 , 34 and 48 h in a Wallac Victor2 ( Perkin Elmer Life Sciences , Boston , MA , USA ) Wells that did not grow ( OD600o0 .1 ) were removed from the analysis , and the percent frequency histogram of maximum fluorescence was calculated for each time point . 
+Clones were also stamped onto LB agar and incubated at 28 1C for 24 h prior to imaging with a Kodak Image Station 2000MM camera system . 
+ð Þ 
+4 
+Results
+Sweep of non-aggregative mutants in different passaging regimens Wild-type isolates of pathogenic bacterial species are known to adapt quickly to laboratory growth conditions ( Fux et al. , 2005 ) . 
+We observed previously that many strains in a well-characterized Salmonella reference collection ( SARC ; ( Boyd et al. , 1996 ) ) had lost the aggregative colony morphology known as the rdar morphotype , and hypothesized that this was caused by laboratory passage ( White and Surette , 2006 ) . 
+To determine whether daily laboratory passaging could lead to the loss of the rdar morphotype , ST 14028 was grown in LB medium at 28 or 37 1C and transferred daily into fresh medium for a total of 14 days . 
+The relative number of rdar and non-aggrega-tive , smooth ( NAS ) colonies in 24 h-old cultures was determined after each day . 
+In each experiment , takeover by NAS mutants was extremely rapid and reproducible , with near complete takeover of the population by approximately 56 generations at 37 1C ( 7 days ) and by approximately 79 generations ( 11 days ) at 28 1C ( Figure 1a ) . 
+During the daily passaging experiments , cells spent considerable time in stationary phase . 
+To determine if stationary-phase survival was contri-buting to takeover by the NAS mutants , ST 14028 was passaged in LB medium while maintaining the cells in exponential phase . 
+Under these growth conditions , non-aggregative colonies were not observed until approximately 50 generations and the frequency did not reach 50 % of the population ( Figure 1b ) . 
+Clones were isolated from the daily passaging regimen ( DPI-1 , DPI-2 ) and the exponen-tial-phase passaging regimen ( EPI-1 , EPI-2 ) for further analysis . 
+This result was also highly reproducible among all four parallel lines . 
+We determined that non-aggregative mutants from the daily passaging regimen were deficient in s38 function ( see below : Phenotype of isolated non-aggregative mutants ) . 
+We tested whether a functional rdar phenotype contributed to the accumulation of non-aggregative mutations in the daily passaging experiment by comparing the frequency of rpoS mutants in the populations of ST 14028 and DagfD ( NAS ) after 7 days of passaging in LB at 37 1C . 
+The frequency of rpoS mutants in ST 14028 was 50.35 % ( n 1/4 4 , s.d. 1/4 18.37 ) , and in DagfD was 62.34 % ( n 1/4 3 , s.d. 1/4 6.16 ) . 
+A two-sample t-test assuming equal variances failed to reject the null hypothesis that the frequencies were different ( t-statistic 1/4 2.57 , d.f. 1/4 5 , P 1/4 0.35 ) . 
+Phenotype of isolated non-aggregative mutants Four non-aggregative mutants were isolated from the daily passaging or exponential passaging regimens at 37 1C ( Figure 2 ; DPI-1 , DPI-2 , EPI-1 and EPI-2 , respectively ) . 
+The phenotypes of these mutants were compared to agfD , mlrA or rpoS deletion mutants , all known to have NAS morphology ( Table 2 ; ( Römling et al. , 1998 ; Brown et al. , 2001 ) ) . 
+Among these three control strains , only DrpoS exhibited a lack of peroxidase activity and lack of iodine staining ( Table 2 ) . 
+Morphology of strains DPI-1 and 
+Figure 1 Proportion non-aggregative and smooth ( NAS ) colonies per generation of experimental evolution . 
+Each line represents an individual trial . 
+( a ) Daily passaging at 37 1C ( open squares ) and at 28 1C ( filled squares ) , ( b ) Exponential phase passaging at 37 1C . 
+Generations calculated as the log2 of the observed number of doublings for each passage . 
+DPI-2 on Congo red - or calcofluor-containing media indicated that each was negative for fimbrial and cellulose production ( Table 2 ) . 
+DPI-1 and DPI-2 were also negative for iodine staining , and had reduced peroxidase activity compared with ST 14028 ( Table 2 ) , indicating that these strains were likely defective in s38 activity . 
+In contrast , EPI-1 and EPI-2 exhibited a colony morphology that was intermediate between DPI-1 and ST 14028 , with a small amount of pattern formation in the centre of the colony ( Figure 2 ) . 
+Strains EPI-1 and EPI-2 exhibited positive peroxidase activity and iodine staining , indicating that they were not impaired in s38 activity and were also both positive for fimbrial production as indicated by red colony formation on Congo red ( Table 2 ) . 
+Isolate EPI-2 was negative for cellulose production , as judged by a lack of calco-fluor binding ( Table 2 ) , indicating impairment in the cellulose biosynthesis pathway . 
+We tested all NAS mutants that appeared during one daily passaging trial and one exponential-phase passaging trial for s38 function by both iodine staining and catalase . 
+In the daily passaging trial , all NAS colonies showed reduced or loss of s38 function . 
+In the exponential phase passaging trial , all NAS colonies had functional s38 according to the peroxidase assay , though EPI-1 exhibited lower s38 activity in expression assays . 
+Gene expression assays
+Figure 2 Colony morphology of Salmonella enterica serovar Typhimurium strains . 
+1 ml of cells from overnight cultures of ST 14028 ( a ) , DPI-1 ( b ) , DPI-2 ( c ) , EPI-1 ( d ) or EPI-2 ( e ) were inoculated on T agar and grown at 28 1C for 72 h. 
+To characterize the pathways in which the evolved mutants were compromised , we measured the expression of genes involved in rdar formation in 
+Table 2 Observed phenotypes of evolved and deletion mutants 
+Colony Morphologya Congo redb Calcofluorc isolate 
+Source 
+Peroxidase / iodined 
++ + 
++ 
++ 
+Salmonella enterica serovar typhimurium 
+RDAR 
+ST 14028 
+NAS NAS 
+DPI-1 DPI-2 EPI-1 
+Isolated from daily passaging Isolated from daily passaging Isolated from exponential phase passaging 
++ 
++ + 
++ 
++ 
+Intermediate -- some pattern formation but only in middle of colony NAS -- faint pattern formation in middle of colony RDAR -- not as well developed as WT NAS NAS NAS 
+Isolated from exponential phase passaging 
+EPI-2 
++ 
++ 
+Isolated from exponential phase passaging This paper ( White and Surette , 2006 ) ( White and Surette , 2006 ) 
+NA 
+ST * 
+NA 
+NA 
+DmlrA DrpoS DagfD 
++ + 
++ + 
+aMorphology described by RDAR ( red , dry and rough when grown on agar medium containing Congo red ) , or NAS ( non-aggregative and smooth ) . 
+bCongo red phenotypes were either purple ( + , fimbrial positive ) , or unstained ( , fimbrial negative ) . 
+cCalcofluor , either fluorescent ( + , cellulose positive ) or non-fluorescent ( , cellulose negative ) . 
+dPeroxidase/iodine , bubbling , and dark brown ( + + , RpoS positive ) , slight bubbling , light brown ( + , RpoS intermediate ) or non-bubbling and unstained ( , RpoS negative ) . 
+NA -- test was not performed . 
+ST 14028 , evolved mutants DPI-1 , DPI-2 , EPI-1 and EPI-2 , as well as DagfD , DrpoS , DmlrA ( Figure 3 ) . 
+Every strain had reduced s38 activity compared to ST 14028 , including those strains judged to have a functional s38 in phenotypic assays . 
+These mutants formed a group including EPI-1 , EPI-2 , DmlrA and DagfD , which expressed approximately half the native s38 activity . 
+We considered this group to be still within the range of functional s38 activity as judged by their normal expression of s38-dependent phenotypes of peroxidase activity and glycogen storage . 
+As expected , DPI-1 exhibited very low s38 activity that was equal to the DrpoS mutant . 
+DPI-2 exhibited s38 activity intermediate between DrpoS and the functional s38 group , indicating that these isolates were an rpoS null and impaired function mutant ( rpoSimp ) respectively . 
+The mutant EPI-1 exhibited approximately half of wt mlrA expression , but was not impaired for the other genes analyzed . 
+EPI-2 exhibited low expression in adrA , consi-stent with its impairment in cellulose production ( Figure 3 , Table 2 ) . 
+DNA sequencing to determine chromosomal mutations in evolved strains DNA sequencing showed that both the exponential phase isolates had native rpoS sequences , whereas DPI-2 had a single base-pair change causing an amino acid change ( N-S at position 125 ) . 
+Long range PCR of DPI-1 indicated a 3482 bp deletion from STM2922 to pcm , encompassing the entire rpoS coding sequence ( corresponding to positions of 3064362 -- 3067844 of the Salmonella typhimurium LT2 , complete genome NC_003197 .1 ) . 
+We sequenced two additional isolates from the daily passaging regimen . 
+One isolate ( DPI-3 ) obtained from a later day of the DPI-1 passage contained the same deletion as DPI-1 , indicating that this parti-cular strain was involved in takeover of the wt population . 
+The other isolate ( DPI-4 ) analyzed had a 3202 bp deletion from surE to rpoS , encompassing pcm , nlpD and the majority of the rpoS coding sequence ( corresponding to positions of 3065984 -- 3069187 of the Salmonella typhimurium LT2 , complete genome NC_003197 .1 ) . 
+This analysis confirmed that each of the daily passage isolates contained rpoS mutations . 
+Gene expression assays suggested that EPI-1 had a similar expression profile to DmlrA ( Figure 3 ) ; however , no mutations in the mlrA coding sequence or promoter region were identified . 
+EPI-2 had impaired adrA expression ( Figure 3 ) and was negative for cellulose production ( Table 2 ) , but no mutations were detected in the adrA coding sequence or promoter region . 
+Cellulose production by EPI-2 was restored when complemented with constitutively expressed adrA , indicating that EPI-2 had functional bcs operons ( Solano et al. , 2002 ) . 
+Growth and fitness assays
+We measured the optical density of ST 14028 and evolved strains in LB , the medium of the evolution experiments and the competitions , during 24 h of growth . 
+DPI-1 and DPI-2 grew slower than ST 14028 , though DPI-2 was intermediate between DPI-1 and ST 14028 . 
+Neither DPI-1 nor DPI-2 reached the same density as ST 14028 during stationary phase . 
+We were unable to determine whether these strains had an advantage coming out of lag phase ( Figure 4 ) . 
+However , when grown in minimal media with different sugar substrates in every case DrpoS , DPI-1 , DPI-2 and EPI-1 came out of lag phase faster than ST 14028 ( data not shown ) . 
+EPI-2 was the only mutant to grow faster than ST 14028 , with a faster growth during exponential phase , however , this advantage diminished as the cultures neared stationary phase ( Figure 4b ) . 
+EPI-1 did not exhibit any advantage in growth ( Figure 4b ) . 
+We measured the competitive fitness of evolved isolates DPI-1 , DPI-2 and EPI-2 and DagfD , DrpoS and DmlrA mutants relative to ST 14028 . 
+Competitions allow a determination of selective advantage and are much better at distinguishing subtle differences in growth ; values of W41 indicated stronger competitive fitness of the evolved or deletion mutant relative to ST 14028 . 
+All evolved isolates had values of W higher than one and were significant according to an adjusted P-value of 0.007 with the exception of DPI-1 , ( P 1/4 0.01 , n 1/4 4 , Wavg 1/4 1.070 ) and DrpoS ( P 1/4 0.016 , n 1/4 4 , Wavg 1/4 1.13 ) . 
+The strongest competitor was DPI-2 ( Wavg 1/4 1.273 , n 1/4 4 ) followed by EPI-2 in the exponential regimen ( Wavg 1/4 1.219 , n 1/4 13 ) . 
+DmlrA did not exhibit any difference in competitive fitness relative to ST 14028 ( P 1/4 0.205 , n 1/4 4 , Wavg 1/4 1.019 ) , and DagfD was significantly less fit than its ST 14028 ancestor ( P 1/4 0.00703 , n 1/4 7 , Wavg 1/4 0.9635 ) . 
+In competitions between EPI-2 and ST 14028 , EPI-2 was shown to be a strong competitor , similar to DPI-2 ( Figure 5a ) . 
+However , NAS mutants in the exponential passaging regimen did not accumulate as rapidly as NAS mutants in the daily passaging regimen despite the similar fitness of isolated mutants ( Figure 1 ) . 
+To test whether this was a result of density dependence or evolution of the wild type , we tested EPI-2 against ST 14028 in a number of starting ratios , and EPI-2 against a wild-type isolate obtained from the end of the exponential phase passaging experiment ( ST * ) . 
+There was no difference between different density treatments ( F 1/4 0.853 , d.f. 1/4 2 , P 1/4 0.474 ) ; however , there was a strong difference between the fitness of EPI-2 relative to ST 14028 and ST * ( Figure 5b ) ( t-statistic 1/4 3.46 , d.f. 1/4 18 , P 1/4 0.001386 ) . 
+Figure 3 Expression of genes of the rdar regulatory network in S. enterica serovar Typhimurium strains . 
+Bars represent the ratio of maximum gene expression ( c.p.s. ) in each strain compared to ST 14028 ( wt ) expression levels . 
+Error bars represent 95 % confidence intervals . 
+Predicted mutation rates
+Fluctuation analysis of the appearance of rifampicin resistant mutants in 24 h of growth in LB showed that the mutation rates in both ST 14028 and evolved isolates varied between 9.84 10 10 and 6.19 10 9 mutations/gene/generation . 
+The mutation rates were similar between isolates ( Table 3 ) . 
+Using a model of mutation accumulation as a function of fitness and mutation rates ( De Gelder et al. , 2004 ) , we examined the contributions of measured fitness to accumulation of rpoS mutants in the daily passaging regimen . 
+This autoregressive model examines the combined influence of mutation and selection on the accumulation of mutants in a population . 
+Because all NAS mutants in one daily passaging trial had a loss of s38 function , and because the sequences of four daily passaging isolates showed mutations in rpoS , we assumed that all NAS mutants observed during daily passa-ging were due to mutations at this locus . 
+Using published mutation rates ( 4.96 10 7 ( Drake , 1991 ) ) and the observed selection coefficients , the model predicts that the rpoS mutants would not have reached fixation during the course of the experiment ( Figure 6 , upper left panel ) . 
+We then fit the De Gelder model to the data of frequency of non-aggregative mutants during the daily passaging and exponential phase passaging experiments . 
+The test of goodness of fit indicated that the model did not fit the data well for either the daily passaging or exponential-phase pass-aging experiments ( H0 : x 1/4 Dkblk , daily passaging , P 1/4 0.630 , exponential-phase passaging , P 1/4 0.935 ) . 
+A lack of power may be partially responsible for 
+Figure 5 Competitive fitness ( W ) of evolved strains and deletion mutants relative to ST14028 . 
+( a ) 95 % confidence interval of competitive fitness ( W ) of deletion mutants DagfD , DrpoS , DmlrA and evolved isolates DPI-1 , DPI-2 , and EPI-2 relative to ST14028 . 
+All competitions were performed at 37 1C for 24 h , except for EPI-2 . 
+Competitions for this strain were performed for 24 h ( ON ) and 6 h ( Exp ) ( b ) 95 % confidence interval of competitive fitness ( W ) of EPI-2 relative to ST 14028 and relative to isolate scored as wild type from end of exponential phase screen ( ST * ) . 
+For all competitions , n 1/4 4 , except for DagfD , ( n 1/4 7 ) , and EPI-2 ( exp ) vs ST 14028 ( n 1/4 9 ) . 
+Figure 4 Measured optical density ( OD600 ) of growth of cultures in LB broth over 24 h. ( a ) WT , DPI-1 and DPI-2 , ( b ) WT , EPI 1 , EPI-2 . 
+Error bars represent 95 % confidence intervals . 
+Initial observations were on undiluted culture , but dilutions were performed as density increased to ensure that optical density was not saturating . 
+Mutation rates calculated from fluctuation assay testing rifampicin resistance , MSS Maximum Likelihood algorithm ( Rosche and Foster , 2000 and references therein ) . 
+poor fit , especially in the exponential-phase passa-ging where mutant frequencies did not surpass 0.4 before the end of the experiment . 
+But more likely this is due to overdispersion of the data , meaning that there are sources of variability in the data that are unaccounted for in the model . 
+For example , growth may be variable throughout the experiment if there are multiple mutants appearing in the population with different competitive fitnesses ( personal communication , Jose Ponciano ) . 
+Instead , we compared model predictions given known fitnesses and increasing mutation rates . 
+We found that at a mutation rate of 4.96 10 4 mutations/gene/generation and fitness ( W ) of 1.27 predicted a sweep of mutations similar to what was measured ( Figure 6 , lower right panel ) . 
+By solving Equation ( 5 ) for frequencies of non-aggregative mutants in four repeated trials of daily passaging at 37 1C , we determined the mutation rate l to be 1.96 10 3 mutations/gene/generation ( n 1/4 4 , 95 % CI 1/4 9.76 10 4plp2 .62 10 3 ) . 
+Varying the estimate of initial inoculum size between 1 and 10 ml has minimal effects on the calculation of mutation rate by this equation ( data not shown ) . 
+Table 3 Mutation rates of ST 14028 and evolved isolates 
+RpoS responsive expression in evolved populations DNA sequencing revealed that there were three unique rpoS mutations present amongst four DPI isolates . 
+This indicated that there may be a variety of rpoS mutations within the evolved populations from daily passaging . 
+To test this hypothesis , we transformed the s38-dependent sig38H4 luciferase reporter ( White et al. , 2006 ) into the evolved populations ( after 7 and 8 days of passage , respectively ) , and into ancestral ST 14028 , and measured 38 the s activity in B1000 isolates . 
+If the evolved populations consist of a variety of rpoS mutant strains we would expect a wide distribution of s38-expression phenotypes . 
+The ST 14028 population exhibited a peak of expression at 9000 -- 10 000 c.p.s. , and the solid-phase expression was largely uniform ( Figure 7 ) . 
+However , the two evolved populations exhibited peaks of s38 activity at lower levels , with the population from trial two , day 8 having a lower peak at 4000 c.p.s. , and the population from trial three , day 7 at 6000 c.p.s. , and both exhibiting a large proportion of isolates with extremely low s38 activity . 
+Interestingly , both evolved populations contained a small fraction of colonies that exhibited a higher than normal s38 activity . 
+Similar to the liquid-phase expression , the evolved populations also exhibited more variability in s38 expression in the solid phase ( Figure 7 ) . 
+95 % CI lower 95 % CI limit upper limit 
+Mutation rate ( mutations/gene / generation ) 
+Isolate 
+9 10 
+10 10 
+9 10 
+2.74 9.84 1.75 6.19 1.87 
+ST 14028 DPI-1 DPI-2 EPI-1 EPI-2 
+1.61 4.70 9.72 4.06 1.03 
+7.20 1.08 3.77 2.28 3.87 
+10 10 10 9 10 9 10 9 
+10 10 10 10 10 9 10 10 
+10 10 10 9 10 9 10 9 
+Figure 6 Predicted and measured mutational sweep of rpoS mutants in the daily passaging regimen according to De Gelder model ( De Gelder et al. , 2004 ) for different values of l. Solid line : observed frequency of rpoS mutants in daily passaging at 37 1C . 
+Dashed line with squares : predicted frequency of rpoS mutants in daily passaging given fitness of W 1/4 1.27 , corresponding to DPI-2 . 
+Dashed line with diamonds : predicted frequency of rpoS mutants in daily passaging give fitness of W 1/4 1.07 , corresponding to DPI-1 . 
+Figure 7 Frequency histogram of expression of RpoS responsive promoter sig38H4 in evolved and ancestral populations . 
+( a ) ST14028 , ( b ) Trial two , day eight , ( c ) Trial three , day seven , 34 h postinduction . 
+Inset : solid phase expression of subset same populations 24 h postinduction . 
+Vertical line indicates wild-type level of expression . 
+Discussion
+We analyzed evolutionary loss of the rdar morphotype during passage of S. enterica serovar Typhi-murium ATCC 14028 in standard laboratory media . 
+In both exponential phase and daily passaging experiments the increase in frequency of non-aggregative and smooth mutants was highly reproducible . 
+In the daily passaging regimen , the takeover of mutants was much faster than the exponentialphase regimen . 
+Analysis of the rdar morphotype in Salmonella strains from the SARC reference collection ( Boyd et al. , 1996 ) has shown that the morphotype has been lost in 69 % of this commonly used subset of strains ( White and Surette , 2006 ) . 
+The results of this experiment suggest that the loss of rdar morphotype was partially due to loss of s38 function as a result of laboratory passaging . 
+However , not all of the mutations uncovered in this work were rpoS mutations . 
+Exponential-phase passaging produced different mutations that remain unidentified , which demonstrates that the rdar phenotype is sensitive to loss due to multiple types of laboratoryacquired mutations . 
+Furthermore , there was no significant difference in the accumulation of rpoS mutations in 7 days of passaging between ST 14028 and DagfD , a rdar morphotype-negative strain , indicating that the loss of the phenotype was not a consequence of rdar morphotype expression but was more a function of nutritional scavenging . 
+Thus the acquired mutations confer a benefit in a regimen under which rdar is not expressed . 
+This has implications in the study of this organism ; repeated laboratory passage will likely result in the loss of this highly regulated phenotype . 
+Loss of the phenotype due to passaging has been reported ( Römling et al. , 1998 , 2003 ) , but the rapidity by which mutations accumulate in the population is surprising . 
+It is conceivable that common laboratory practice of streaking from frozen culture and selecting isolated colonies may result in the occasional selection of an rpoS mutant . 
+The phenotypic and expression characterization demonstrated that the isolates from the daily passaging regimen , DPI-1 and DPI-2 , were an rpoS deletion and impaired function mutant respectively . 
+rpoS mutations are common in many selection regimens ( Zambrano et al. , 1993 ; Finkel and Kolter , 1999 ; Notley-McRobb and Ferenci , 2000 ; Chen et al. , 2004 ; Zinser and Kolter , 2004 ; Mandel and Silhavy , 2005 ; Maharjan et al. , 2006 ) . 
+In Escherichia coli , as growth rate of the culture declines , the concentration of s38 within the cell reaches 30 % the level of s70 ( Jishage and Ishihama , 1995 ; Ihssen and Egli , 2004 ) . 
+At this point , s38 becomes an effective competitor with s70 for the core RNA polymerase and begins to drive various stress -- response genes ( Jishage and Ishihama , 1995 ) . 
+The competition between the drive for protection against stress via a functioning s38 , and improved scavenging via increased s70 leads to varied mutations in rpoS ( Notley-McRobb et al. , 2002 ; Chen et al. , 2004 ; King et al. , 2004 ; Ferenci , 2005 ; Mandel and Silhavy , 2005 ; Maharjan et al. , 2006 ) . 
+rpoS mutations have been identified in clinical isolates of S. enterica serovar Typhi ( Robbe-Saule et al. , 2003 ) , though are rare , and are not demonstrated in serovar Typhimur-ium , thus it is unclear whether these mutants truly exist in clinical settings . 
+This study emphasizes how easy it is to generate rpoS mutations in the laboratory and care must be taken in clinical studies to ensure that rpoS mutants are not selected by accident from an rpoS þ ancestor . 
+The exponential passage isolates had different phenotypic profiles than the daily passage isolates . 
+Although isolate EPI-1 was positive for catalase activity and possessed the wt rpoS sequence , it was slightly impaired in s38 activity as indicated by lower expression of sig38H4 . 
+This suggests that an unidentified regulator of rpoS could be impaired in function . 
+The regulation of s38 transcription , translation and overall activity is among the most complicated of all bacterial pathways ( Jishage and Ishihama , 1995 ; Hengge-Aronis , 1999 ; Venturi , 2003 ; Hirsch and Elliott , 2005 ) , and it is possible that s38 activity was impaired by mutation within this pathway in EPI-1 . 
+Isolate EPI-2 , in contrast , had normal s38 activity , but was impaired in cellulose biosynthesis and yielded a unique expression and phenotypic profile . 
+The expression analysis showed that transcription of agfDHlux in this strain was lower than wild type , similar to DagfD , and that adrAHlux transcription was reduced . 
+adrA transcription is partially dependent on s38 and can be dependent on AgfD , although evidence suggests that at least in E. coli cellulose can be produced independently of AgfD ( Da Re and Ghigo , 2006 ) . 
+However , EPI-2 did not possess mutations in either adrA or agfD , therefore it is unclear how transcription of adrA was impaired in this strain . 
+It is likely that the alteration of upstream regulation resulted in the lower expression of this gene . 
+The growth and competition assays illustrated how new mutants competed relative to the ancestor . 
+Both DrpoS , and DPI-1 ( rpoS ) and DPI-2 ( rpoSimp ) demonstrated considerably slower exponential growth than wild type and did not reach the same finishing density . 
+It is unclear then how these strains maintained the high competitive advantage demonstrated by the competition experiments . 
+However , the competitions indicated a strong competitive fitness of all three strains relative to the ancestor . 
+In particular , DPI-2 ( rpoSimp ) demonstrated the highest competitive fitness . 
+rpoSimp mutants often have an advantage over both rpoS and rpoS þ strains in environments that may present a pH challenge ( Farrell and Finkel , 2003 ; King et al. , 2004 , 2006 ) . 
+In this study , cells would have encountered high pH when they reached stationary phase in LB . 
+Competition assays can detect subtle growth differences and the effects of competitive interactions between strains that may not be apparent in simple growth curves . 
+s38 mutations have been demonstrated to confer an advantage in stationary phase ( Zambrano et al. , 1993 ) , and growth in minimal medium supplemented with sugars and casamino acids demonstrated that the s38 mutants had a growth advantage in coming out of lag phase relative to wild type ( data not shown ) , though this was not demonstrated in rich medium . 
+It is likely that the s38 mutation conferred an advantage during the stationary phase of the daily growth curve . 
+The EPI-2 isolate had a clear growth advantage in exponential phase , reaching stationary phase before the other isolates . 
+Maintaining the population in exponential phase selected for faster growth and this advantage translated to a much higher competitive fitness relative to the ancestor in the exponential growth regimen . 
+The difference in growth curves for EPI-1 and EPI-2 , which were isolated from the exponential-phase passaging experiment , is intri-guing . 
+In rich medium , EPI-1 increased in optical density ( OD600 ) in the same manner as ST 14028 . 
+Unfortunately , we were unable to compete EPI-1 against ST214028 to determine whether it had a competitive advantage relative to wild type . 
+The competition assays indicated a strong competitive fitness of all three evolved isolates in these experimental conditions relative to the ancestor . 
+Despite the demonstrated fitness of EPI-2 relative to ST 14028 , the accumulation of this mutant in the exponential phase passaging population was not as rapid as the rpoS and rpoSimp mutants isolated in the daily passaging regimen . 
+This may be due to parallel evolution of cells later scored as wild type , as competition experiments demonstrated that the ST * was a better competitor relative to EPI-2 than ST 14028 . 
+Exponential phase passaging demonstrated that there were at least three identifiable evolved mutants at the end of 50 generations , EPI-1 , EPI-2 and ST * , and it is likely that other mutants existed that were not detected by our selection . 
+This indicates radiation of the population in this regimen , over a very short time period , much as cultures in glucose-limited chemostats exhibited increased genomic and phenotypic variability ( Maharjan et al. , 2006 ) . 
+However , even accounting for clonal interference , the discrepancy between accumulations of mutants in either regimen can not be explained . 
+In particular , the De Gelder model showed that the accumulation of s38 mutations was far too rapid to be explained by published mutation rates , or the mutation rate measured by fluctuation analysis in DPI-1 and DPI-2 . 
+Using published mutation rates and the measured competitive fitness , the De Gelder model does not reflect the speed by which the non-aggregative mutants swept the population during the daily passaging regimen . 
+When a higher mutation rate of 4.96 10 4 mutations/gene/generation was incorporated into this model , the predicted sweep of mutations was similar to what was observed in our experiments . 
+Furthermore , when we calculated the mutation rate using the approach of Cooper and Lenski ( Cooper et al. , 2001 ) , we obtained an estimate of 1.96 10 3 mutations/gene/generation ( n 1/4 4 , 95 % CI 1/4 9.76 10 4plp2 .62 10 3 ) . 
+Stationary phase culture can lead to high genome-wide rates of mutation ( Loewe et al. , 2003 ) , without induction of known mutator pathways . 
+Mutator phenotypes have also been identified in clinical strains of E. coli and S. enterica with a prevalence of over 1 % ( LeClerc et al. , 1996 ) and in long-term experimental evolution ( Sniegowski et al. , 1997 ) . 
+However , fluctuation assays showed that mutation rates under these experimental conditions remained low and were comparable between ancestral ST 14028 and all evolved isolates , including those carrying s38 mutations . 
+Therefore , it is unlikely that a mutator phenotype arose and contributed s38 mutations during the timelines of our experiment . 
+The De Gelder model predicts the accumulation of a mutation phenotype . 
+Because the isolates from daily passaging we sequenced all had mutations at rpoS , we assumed that the NAS isolates appearing in this regimen are solely due to mutations in this gene . 
+If the mutations in the populations measured in 
+Figure 7 are due to mutations in other parts of the pathway , then this elevated mutation rate can not be attributed to mutation at the rpoS locus alone . 
+However , the mutS -- rpoS intergenic region has been demonstrated to be variable in enteric bacteria ( Herbelin et al. , 2000 ; Kotewicz et al. , 2002 , 2003 ) , which suggests a history of duplications and deletions in this region . 
+This suggests that this elevated mutation rate may apply primarily at the rpoS locus . 
+A deletion of the rbs operon in long-term evolution lines of E. coli was demonstrated to be the result of an insertion element which contributed to a mutation rate of 5.4 10 5 mutations / gene/generation at that locus ( Cooper et al. , 2001 ) . 
+However , we did not identify an IS element in the region of rpoS , the deletions did not share a common start or end point , and these mutations arose with an estimated order or two orders of magnitude higher frequency compared to mutations caused by insertion elements leading to loss of ribose catabolism ( Cooper et al. , 2001 ) . 
+Furthermore , although deletions in rpoS have been demonstrated in other systems ( Chen et al. , 2004 ) , they are less frequent than single base-pair changes ( Zambrano et al. , 1993 ) ; an IS element would not explain the presence of single base pair changes such as in DPI-2 . 
+The distribution of s38-responsive expression phenotypes supports the hypothesis that loss of s38 function was being driven by the accumulation of many different types of mutations . 
+The two populations from which the DPI isolates were taken showed a wide variety of s38 expression phenotypes , in contrast with the ST 14028 ancestor , which showed a normal distribution of s38 expression . 
+These experiments demonstrate that domestication in laboratory conditions is extremely rapid , and depending on selection regimens may affect numerous pathways regulating the development of a highly conserved phenotype . 
+The de Gelder model and fluctuation analysis suggest also that there may be higher than published mutation rates at the rpoS locus , which is consistent with the hypothesis that during evolutionary history this locus has been the site of numerous insertions and deletions . 
+Acknowledgements
+We thank J Ponciano and S Abdo for assistance with model implementation and fruitful discussions , RE Lenski for experimental advice , and J Barrick for assistance with analysis . 
+This work was supported by grants from the Canadian Institutes of Health Research and NIH ( 5P50 GM068763 ) to MGS . 
+CJD was supported by a Postgraduate Scholarship from Canadian National Science and Engineering Research Council ( NSERC ) . 
+APW was supported by a Postdoctoral Fellowship from AHFMR . 
+MGS is supported as an Alberta Heritage Foundation for Medical Research ( AHFMR ) Scientist and Canada Research Chair in Microbial Gene Expression . 
+References 
+Boyd EF , Wang F-S , Whittam TS , Selander RK . 
+( 1996 ) . 
+Molecular genetic relationships of the Salmonellae . 
+Appl Environ Microbiol 62 : 804 -- 808 . 
+Brown PK , Dozois CM , Nickerson CA , Zuppardo A , Terlonge J , Curtis RI . 
+( 2001 ) . 
+MlrA , a novel regulator of curli ( AgF ) and extracellular matrix synthesis by Escherichia coli and Salmonella enterica Serovar Typhimurium . 
+Mol Microbiol 41 : 349 -- 363 . 
+Chen G , Patten CL , Schellhorn HE . 
+( 2004 ) . 
+Positive selection for loss of RpoS function in Escherichia coli . 
+Mutat Res 554 : 193 -- 203 . 
+Collinson SK , Clouthier SC , Doran JL , Banser PA , Kay WW . 
+( 1996 ) . 
+Salmonella enteriditis agfBAD operon encoding thin aggregative fimbrae . 
+J Bacteriol 178 : 662 -- 667 . 
+Collinson SK , Doig PC , Doran JL , Clouthier SC , Trust TJ , Kay WW . 
+( 1993 ) . 
+Thin aggregative fimbrae mediate binding of Salmonella enteriditis to fibronectin . 
+J Bacteriol 175 : 12 -- 18 . 
+Cooper VS , Schneider D , Blot M , Lenski RE . 
+( 2001 ) . 
+Mechanisms causing rapid and parallel loss of ribose catabolism genes in evolving populations of Escher-ichia coli B. J Bacteriol 183 : 2834 -- 2841 . 
+Da Re S , Ghigo JM . 
+( 2006 ) . 
+A CsgD independent pathway for cellulose production and biofilm formation in Escherichia coli . 
+J Bacteriol 188 : 3073 -- 3087 . 
+De Gelder L , Ponciano JM , Abdo Z , Joyce P , Forney LJ , Top EM . 
+( 2004 ) . 
+Combining mathematical models and statistical methods to understand and predict the dynamics of antibiotic-sensitive mutants in a population of resistant bacteria during experimental evolution . 
+Genetics 168 : 1131 -- 1144 . 
+Drake JW . 
+( 1991 ) . 
+`` A constant rate of spontaneous mutation in DNA-based microbes '' . 
+Proc Natl Acad Sci USA 88 : 7160 -- 7164 . 
+Farrell MJ , Finkel SE . 
+( 2003 ) . 
+The growth advantage in stationary-phase phenotype conferred by rpoS mutations is dependent on the pH and nutrient environment . 
+J Bacteriol 185 : 7044 -- 7052 . 
+Ferenci T. ( 2005 ) . 
+Maintaining a health SPANC balance through regulatory and mutational adaptation . 
+Mol Microbiol 57 : 1 -- 8 . 
+Finkel SE , Kolter R. ( 1999 ) . 
+Evolution of microbial diversity during prolonged starvation . 
+Proc Natl Acad Sci USA 96 : 4023 -- 4027 . 
+Fux CA , Shirtliff M , Stoodley P , Costerton JW . 
+( 2005 ) . 
+Can laboratory reference strains mirror ` real world ' pathogenesis ? 
+Trends Microbiol 13 : 58 -- 63 . 
+Gerstel U , Römling U. ( 2003 ) . 
+The csgD promoter , a control unit for biofilm formation in Salmonella typhimurium . 
+Res Microbiol 154 : 659 -- 667 . 
+Gibson DL , White AP , Snyder SD , Martin S , Heiss C , Azadi P , Surette MG , Kay WW . 
+( 2006 ) . 
+Salmonella produces an O-Antigen capsule regulated by AgfD and important for environmental persistence . 
+J Bacteriol 188 : 7722 -- 7730 . 
+Hengge-Aronis R. ( 1999 ) . 
+Interplay of global regulators and cell physiology in the general stress response of Escherichia coli . 
+Curr Opin Microbiol 2 : 148 -- 152 . 
+Hengge-Aronis R , Fischer D. ( 1992 ) . 
+Identification and molecular analysis of glgS , a novel growth-phase-regulated and rpoS-dependent gene involved in glycogen synthesis in Escherichia coli . 
+Mol Microbiol 6 : 1877 -- 1886 . 
+Herbelin CJ , Chirillo SC , Melnick KA , Whittam TS . 
+( 2000 ) . 
+Gene conservation and loss in the mutS-rpoS genomic region of pathogenic Escherichia coli . 
+J Bacteriol 182 : 5381 -- 5390 . 
+Hirsch M , Elliott T. ( 2005 ) . 
+Stationary-phase regulation of RpoS translation in Escherichia coli . 
+J Bacteriol 187 : 7204 -- 7213 . 
+Ihssen J , Egli T. ( 2004 ) . 
+Specific growth rate and not cell density controls the general stress response in Escher-ichia coli . 
+Microbiol 150 : 1637 -- 1648 . 
+Ishihama A. ( 2000 ) . 
+Functional modulation of Escherichia coli RNA polymerase . 
+Ann Rev Microbiol 54 : 499 -- 518 . 
+Jishage M , Ishihama A. ( 1995 ) . 
+Regulation of RNA polymerase sigma subunit synthesis in Escherichia coli : intracellular levels of s70 and s38 . 
+J Bacteriol 177 : 6832 -- 6835 . 
+King T , Ishihama A , Kori A , Ferenci T. ( 2004 ) . 
+A regulatory trade-off as a source of strain variation in the species Escherichia coli . 
+J Bacteriol 186 : 5614 -- 5620 . 
+King T , Seeto S , Ferenci T. ( 2006 ) . 
+Genotype-by-environ-ment interactions influencing the emergence of rpoS mutations in Escherichia coli populations . 
+Genetics 172 : 2071 -- 2079 . 
+Kotewicz ML , Brown EW , LeClerc JE , Cebula TA . 
+( 2003 ) . 
+Genomic variability among enteric pathogens : the case of the mutS-rpoS intergenic region . 
+Trends Microbiol 11 : 2 -- 6 . 
+Kotewicz ML , Li B , Levy DD , LeClerc JE , Shifflet AW , Cebula TA . 
+( 2002 ) . 
+Evolution of multi-gene segments in the mutS-rpoS intergenic region of Salmonella enterica Serovar Typhimurium . 
+Microbiol 148 : 2531 -- 2540 . 
+LeClerc JE , Li B , Payne WL , Cebula TA . 
+( 1996 ) . 
+High mutation frequencies among Escherichia coli and Salmonella pathogens . 
+Science 274 : 1208 -- 1211 . 
+Lenski RE . 
+( 2004 ) . 
+Phenotypic and genomic evoluton during a 20,000-generation experiment with the bacterium Escherichia coli . 
+In : Janick J ( ed ) . 
+Plant Breeding Reviews , vol . 
+24 ( Part 2 ) . 
+John Wiley & Sons : Hoboken , NJ , USA . 
+Lenski RE , Rose MR , Simpson SC , Tadler SC . 
+( 1991 ) . 
+Long-term experimental evolution in Escherichia coli . 
+I. Adaptation and divergence during 2000 generations . 
+Am Nat 138 : 1315 -- 1341 . 
+Loewe L , Textor V , Scherer S. ( 2003 ) . 
+High deleterious genomic mutation rate in stationary phase of Escher-ichia coli . 
+Science 302 : 1558 -- 1560 . 
+Maharjan R , Seeto S , Notley-McRobb L , Ferenci T. ( 2006 ) . 
+Clonal adaptive radiation in a constant environment . 
+Science 313 : 514 -- 517 . 
+Mandel MJ , Silhavy TJ . 
+( 2005 ) . 
+Starvation for different nutrients in Escherichia coli results in differential modulation of RpoS levels and stability . 
+J Bacteriol 187 : 434 -- 442 . 
+Notley-McRobb L , Ferenci T. ( 2000 ) . 
+Experimental analysis of molecular events during mutational periodic selections in bacterial evolution . 
+Genetics 156 : 1493 -- 1501 . 
+Notley-McRobb L , King T , Ferenci T. ( 2002 ) . 
+rpoS mutations and loss of general stress resistance in Escherichia coli populations as a consequence of conflict between competing stress responses . 
+J Bacteriol 184 : 806 -- 811 . 
+O'Neal CR , Gabriel WM , Turk AK , Libby SJ , Fang FC , Spector MP . 
+( 1994 ) . 
+RpoS is necessary for both the positive and negative regulation of starvation survival genes during phosphate , carbon , and nitrogen 
+starvation in Salmonella typhimurium . 
+J Bacteriol 176 : 4610 -- 4616 . 
+Robbe-Saule V , Algorta G , Rouilhac I , Norel F. ( 2003 ) . 
+Characterization of RpoS status in clinical isolates of Salmonella enterica . 
+Appl Environ Microbiol 69 : 4352 -- 4358 . 
+Römling U. ( 2005 ) . 
+Characterization of the rdar morphotype , a multicellular behaviour in the Enterobacteriaceae . 
+Cell Mol Life Sci 62 : 1234 -- 1246 . 
+Römling U , Bokranz W , Rabsch W , Zogaj X , Nimtz M , Tschape H. ( 2003 ) . 
+Occurrence and regulation of the multicellular morphotype in Salmonella serovars important in human disease . 
+Int J Med Microbiol 293 : 273 -- 285 . 
+Römling U , Gomelsky M , Galperin MY . 
+( 2005 ) . 
+C-di-GMP : the dawning of a novel bacterial signalling system . 
+Mol Microbiol 57 : 629 -- 639 . 
+Römling U , Rohde M. ( 1999 ) . 
+Flagella modulate the multicellular behaviour of Salmonella typhimurium at the community level . 
+FEMS Microbiol Lett 180 : 91 -- 102 . 
+Römling U , Rohde M , Olsén A , Normark S , Reinköster J. ( 2000 ) . 
+AgfD , the checkpoint of multicellular and aggregative behaviour of Salmonella typhimurium regulates at least two independent pathways . 
+Mol Microbiol 36 : 10 -- 12 . 
+Römling U , Sierralta WD , Eriksson K , Normark S. ( 1998 ) . 
+Multicellular and aggregative behaviour of Salmonella typhimurium strains is controlled by mutations in the agfD promoter . 
+Mol Microbiol 28 : 249 -- 264 . 
+Rosche WA , Foster PL . 
+( 2000 ) . 
+Determining mutation rates in bacterial populations . 
+Methods 20 : 4 -- 17 . 
+Simm R , Lusch A , Kader A , Andersson M , Römling U. ( 2007 ) . 
+Role of EAL containing proteins in multicellular behavior of Salmonella enterica serovar Typhimurium . 
+J Bacteriol 189 : 3613 -- 3623 . 
+Sniegowski PD , Gerrish PJ , Lenski RE . 
+( 1997 ) . 
+Evolution of high mutation rates in experimental populations of E. coli . 
+Nature 387 : 703 -- 705 . 
+Solano C , Garcia B , Valle J , Berasain C , Ghigo JM , Gamazo C , Lasa I. ( 2002 ) . 
+Genetic analysis of Salmonella 
+enteriditis biofilm formation : critical role of cellulose . 
+Mol Microbiol 43 : 793 -- 808 . 
+Stocki SL , Annett CB , Sibley CD , McLaws M , Chekley S , Singh N , Surette MG , White A. ( 2007 ) . 
+Persistance of Salmonella on egg conveyor belts is dependent on the belt type but not on the rdar morphotype . 
+Poultry Sci 86 : 2375 -- 2383 . 
+Team RDC . 
+( 2006 ) . 
+R : a language and environment for statistical computing . 
+R Foundation for Statistical Computing : Vienna , Austria . 
+Venturi V. ( 2003 ) . 
+Control of rpoS transcription in Escherichia coli and Pseudomonas : why so different ? 
+Mol Microbiol 49 : 1 -- 9 . 
+White AP , Allen-Vercoe E , Jones BW , DeVinney R , Kay WW , Surette MG . 
+( 2007 ) . 
+An efficient system for markerless gene replacement applicable in a wide variety of enterobacterial species . 
+Can J Microbiol 53 : 56 -- 62 . 
+White AP , Collinson SK , Burian J , Clouthier SC , Banser PA , Kay WW . 
+( 1999 ) . 
+High efficiency gene replacement in Salmonella enteriditis : chimeric fimbrins containing a T-cell epitope from Leishmania major . 
+Vaccine 17 : 2150 -- 2161 . 
+White AP , Gibson DL , Kim W , Kay WW , Surette MG . 
+( 2006 ) . 
+Thin aggregative fimbrae and cellulose enhance long-term survival and persistance in Salmo-nella . 
+J Bacteriol 188 : 3219 -- 3277 . 
+White AP , Surette MG . 
+( 2006 ) . 
+Comparative genomics of the rdar morphotype in Salmonella . 
+J Bacteriol 188 : 8395 -- 8406 . 
+Zambrano MM , Siegel DA , Almiron M , Tormo A , Kolter R. ( 1993 ) . 
+Microbial competition : Escherichia coli mutants that take over stationary phase cultures . 
+Science 259 : 1757 -- 1760 . 
+Zinser ER , Kolter R. ( 2004 ) . 
+Escherichia coli evolution during stationary phase . 
+Res Microbiol 155 : 328 -- 336 . 
+Zogaj X , Nimtz M , Rohde M , Bokranz W , Römling U. ( 2001 ) . 
+The multicellular morphotypes of Salmonella typhimurium and Escherichia coli produce cellulose as the second component of the extracellular matrix . 
+Mol Microbiol 39 : 1452 -- 1463 .

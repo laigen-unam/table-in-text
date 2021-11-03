@@ -1,0 +1,592 @@
+ORIGINAL ARTICLE 
+How Salmonella Typhimurium Measures the Length of Flagellar Filaments
+J. P. Keener 
+Department of Mathematics , University of Utah , 155 South 1400 East , Salt Lake City , Utah 84112 
+Received : 17 January 2005 / Accepted : 30 September 2005 / Published online : 26 July 2006 © C Society for Mathematical Biology 2006 
+Abstract We present a mathematical model for the growth and length regulation of the ﬁlament of the ﬂagellar motor of Salmonella Typhimurium . 
+Under the assumption that the molecular constituents are translocated into the nascent ﬁlament by an ATPase and then move by molecular diffusion to the growing end , we ﬁnd a monotonically decreasing relationship between the speed and the velocity of growth that is inversely proportional to length for a large length . 
+This gives qualitative but not quantitative agreement with data of the velocity of growth . 
+We also propose that the length of ﬁlaments is `` measured '' by the rate of secretion of the σ 28 - antifactor FlgM , using negative feedback , and present a mathematical model of this regulatory network . 
+The combination of this regulatory network with the length-dependent rate of growth enable the bacterium to detect length shortening and regrow severed ﬂagellar ﬁlaments . 
+Keywords Flagellar · Filament · Length
+1. Introduction
+A central question in cell biology is how cells determine and regulate the size of their organelles . 
+More generally , it is of interest to understand how physical and/or mechanical properties of a cell and its environment are measured ( Marshall , 2004 ) . 
+The ﬂagellar motor of Salmonella Typhimurium is an example of an organelle that is built to exacting standards . 
+Morphologically , it is divided into three parts : the basal body , the hook , and the ﬁlament . 
+The ﬁlament and hook are external to the cell , while the basal body is anchored in the inner and outer membranes . 
+The ﬁlament is the largest portion of a ﬂagellum , stretching to more than 10 µm , and when rotated by the motor at the base , serves as a propellor . 
+The hook lies between the ﬁlament and the basal structure and works as a universal joint . 
+A diagram of the ﬂagellar complex is shown in Fig. 1 . 
+* Corresponding author . 
+E-mail address : keener@math.utah.edu 
+The synthesis of the ﬂagellar motor requires the expression of 50 genes , arranged in clusters of 17 operons , in a carefully controlled temporal order . 
+These operons are divided into three classes according to their order of expression ( Kutsukake et al. , 1990 ) . 
+The master operon in the highest class governs the expression of the rest by activating operons in the second class . 
+A ﬂagellum-speciﬁc sigma factor in the second class regulates the expression of other operons in the same or lower classes . 
+The basal structure and hook must be complete before the proteins for the ﬁlament are expressed , so that transcription of the ﬁlament components is `` just-in-time '' ( Zaslaver et al. , 2004 ) . 
+Assembly of the ﬂagellum complex begins with the insertion of a ring structure within the cytoplasmic membrane . 
+When this ring structure is completed , a secretion apparatus is constructed and inserted . 
+The secretion apparatus is needed for export of ﬂagellar structural subunits beyond the inner cytoplasmic membrane . 
+Beyond the cytoplasm , secreted subunits self-assemble into the growing structure . 
+The nascent ﬂagellum is a hollow cylindrical structure ( outer diameter 20 nm , inner diameter 2 nm ( Yonekura et al. , 2003 ) ) that is formed when partially folded monomeric constituents reach the growing tip and polymerize . 
+The monomeric subunits are secreted from the cellular cytoplasm following hydrolysis of ATP by the ATPase protein FliI . 
+Secretion of the hook constituent protein , FlgE , proceeds until the hook is 55 ( ± 6 ) nm long . 
+At that point , secretion switches to proteins FlgK and FlgL ( class 2 factors ) , which form the hook -- ﬁlament junction and then production and secretion of FliC , the ﬁlament constituent protein ( ﬂagellin ) , begins ( Table 1 ) 
+Filament 
+Hook − Filament junction 
+Hook 
+Distal Rod 
+Basal Body 
+Outer Membrane 
+Proximal Rod 
+MS Ring 
+Cytoplasmic Membrane 
+Motor/Switch 
+Export Apparatus 
+Fig. 1 Schematic diagram of ﬂagellar motor construction . 
+Two important components of the system regulating these events are the transcription factor σ 28 and its inhibitor FlgM . 
+σ 28 is a class 2 factor , while FlgM is both class 2 and class 3 . 
+Being class 2 factors , both σ 28 and FlgM are produced during the second stage of construction while the hook is being constructed . 
+σ 28 is an activator of RNA polymerase that is necessary for transcription of all class 3 factors , including the ﬂagellar protein FliC . 
+When possible , σ 28 binds with core RNA to form activated RNA polymerase , called Eσ 28 , and transcription of class 3 factors proceeds . 
+However , FlgM inhibits the activity of σ 28 ( Chadsey et al. , 1998 ) . 
+Thus , as long as there is an excess of FlgM , the activity of σ 28 is inhibited , and class 3 transcription is prevented . 
+Before the hook assembly is complete , the ATPase that drives the secretion is selective for hook protein FlgE . 
+Upon completion of the hook , the speciﬁcity of the ATPase is modiﬁed so that hook protein is no longer secreted . 
+At this time , FlgK , FlgL , and FlgM become substrates for the ATPase and so are secreted . 
+FlgM is secreted into the extracellular environment and is not incorporated into the growing ﬂagellum . 
+However , the secretion of FlgM acts as a signal that ﬂagellar construction can begin . 
+As FlgM is secreted , σ 28 is released from its inactivation , and class 3 factors FlgM and FliC are produced . 
+Because FlgM is an inhibitor of σ 28 activity , this is a negative feedback loop . 
+Filaments are typically 10 µm long although the ﬁlament continues to grow indeﬁnitely , while the velocity of growth decreases with length . 
+Iino ( 1974 ) measured the velocity of growth to be an exponentially decreasing function of length , with a typical velocity of growth for a ﬁlament in the range of 10 -- 100 nm/min . 
+Interestingly , if a ﬁlament is broken off , it will regrow with the same length-dependent velocity as at ﬁrst ( Iino , 1974 ) , indicating that the cell has some way of measuring the ﬂagellar length and detecting the breakage . 
+The main questions that we wish to address in this paper are what determines the velocity of growth and how the bacterium measures and regulates the length of its ﬁlament . 
+The hypothesis of this paper is that as movement of secretants through the tube is driven primarily by diffusion , the ﬂux through the tube is ohmic and is therefore inversely proportional to the length of the tube . 
+This length-dependent ﬂux is transduced into a chemical signal by means of the negative feedback circuit involving the secretant FlgM . 
+Together , these enable the cell to measure ﬁlament length and respond to breakage . 
+In the remaining part of this paper we develop and analyze mathematical models of these processes 
+Table 1 Some proteins used in ﬁlament construction and their function . 
+Protein Function 
+FliC FliD 
+Filament constituent protein Filament cap protein Hook -- ﬁlament junction Secretant/anti - σ 28 factor RNA regulator 
+FlgKL FlgM σ 28 
+The ﬁrst step in this analysis is to develop a model of length dependent secretion rate . 
+An important fact is that the nascent tube has an inner diameter of about 2 nm , which for steric reasons , means that movement of molecules must be in single ﬁle , with no passing permitted ( Macnab , 2003 ) . 
+We suppose that the unfolded monomers are of length l . 
+We suppose that the secretion machinery is located at x = 0 , and that the growing tip is at x = L ( t ) . 
+We let p ( x , t ) dx be the probability that at time t there is a molecular subunit whose trailing end lies between x and x + dx along the forming tube . 
+As molecules in the tube are of length l , ∫ L p ( x , t ) dx = l N , 0 where N is the number of monomers in the tube at time t. Standard conservation implies that 
+If monomers move via a standard diffusion process , then J = − D ∂ p . 
+It is worth x ∂ noting that this is correct for a single ﬁle diffusion processes as long as we track the average ﬂux of particles and not the movement of individual particles . 
+It is useful to note that J is the ﬂux in units of numbers of molecules per time . 
+l At the polymerizing end of the ﬁlament , there is a cap constructed of FliD . 
+These proteins are thought to prevent the escape of FliC and to facilitate polymerization ( Hughes and Aldridge , 2001 ) . 
+It follows that at the growing tip , the ﬂux of molecules must exactly match the rate of polymerization . 
+Thus , at x = L , where kp is the rate constant for polymerization . 
+In the Appendix , we derive a formula for kp from the folding energy of the monomer . 
+The secretion process is energized by an ATPase ( FliI ) . 
+It is not known exactly how this ATPase works , although there are hypothetical verbal models . 
+One proposal ( Minamino and Macnab , 2000 ) , illustrated in Fig. 2 , is that soluble FliI ( complexed with FliJ ) receives the export substrate from cytoplasmic chaperones ( Step 2 ) , and delivers the substrate to a membrane associated structure ( Step 3 ) , which then translocates it to the channel in the nascent structure ( Step 4 ) . 
+To model this process , we assume that the membrane-associated structure can be in one of the two states , either empty awaiting binding with its cognate substrate ( shown as Steps 1 , 2 , and 4 ) , or bound and involved in translocation ( shown as Step 3 ) . 
+We suppose that the probability of going from the unbound to the bound state in time [ S ] δt is Konδt = kon K + [ S ] δt , where [ S ] is the concentration of the substrate . 
+Usually , it is assumed that the probability of going from the bound to unbound state in time δt is koffδt , however , because of the steric no-passing condition , translocation and unloading can not take place unless there is open space in the ﬁlament for the subunit to move into . 
+Thus , we assume that the probability of going from the bound to the unbound state in time δt is koff ( 1 − p ( 0 , t ) ) δt . 
+Thus , if P is the probability that the membrane-associated ATPase is bound by its cognate substrate S , then where p ( 0 , t ) is the probability that the x = 0 end of the nascent hook is occupied by a monomer at time t . 
+The primary consequence of this statement is that translocation can be delayed if the forming hook is crowded with monomer . 
+With these as the binding and unbinding rates , the ﬂux of monomer at x = 0 must be the same as the unbinding rate , at x = L , where β is the number of monomers per unit length of ﬁlament . 
+Eqs . 
+( 2 ) -- ( 8 ) constitute a free boundary problem . 
+To transform this into a prob-2 lem on a ﬁxed domain , we set x = L ( τ ) y , t = l τ , s = L , and from the chain rule D l learn that where s is the scaled ﬁlament length s = L , and the growth of the ﬁlament is de-l termined by py u kp p , D at y = 1 . 
+Reasonable numbers for parameters are β = 2.4 / nm and l = 75 nm , so that = 2 = 0.0111 . 
+βl Numerical simulations show that p quickly reaches quasi-steady state . 
+This is because u , which acts as a time constant for the diffusion process , is slowly varying , so that the boundary conditions are slowly varying as well . 
+This quasi-steady solution satisﬁes 
+2 . 
+Length dependent growth rate 
+( 1 ) 
+∂ p 
+= − ∂ J , ∂ t ∂ x 
+( 2 ) 
+where J is the ﬂux of probability . 
+J 
+= − D px = kp p , l 
+( 3 ) 
+l 
+Fig. 2 Schematic diagram of the secretion mechanism . 
+dP 
+= Kon ( 1 − P ) − koff ( 1 − p ( 0 , t ) ) P , dt 
+J 
+= koff ( 1 − p ( 0 , t ) ) P. 
+( 5 ) 
+We take P to be in quasi-steady state , so that 
+P = Kon , koff ( 1 − p ( 0 , t ) ) + Kon 
+( 6 ) 
+implying that 
+− D ∂ p = koff Kon ( 1 − p ( 0 , t ) ) , l ∂ x koff ( 1 − p ( 0 , t ) ) + Kon 
+at x = 0 . 
+Finally , the length L ( t ) of the growing ﬁlam equation 
+ent is governed by the differential 
+dL = J , 
+( 8 ) 
+dt βl 
+∂ l2 
+= ∂ + ′ ∂ L ( τ ) y , ∂ τ D ∂ t ∂ x 
+∂ ∂ = L ( τ ) , ∂ y ∂ x 
+( 9 ) 
+so that 
+= D ∂ − DL ′ ( τ ) y ∂ . 
+∂ t l2 ∂ τ l L ( τ ) ∂ y 
+= 1 ∂ , ∂ x L ( τ ) ∂ y 
+∂ 
+∂ 
+( 10 ) 
+es 
+In these new coordinates , the partial differential equation ( 2 ) becom ∂ p s ′ = ( τ ) y ∂ p 2 + 1 ∂ p , ∂ τ s ( τ ) ∂ y s2 ∂ y2 
+( 11 ) 
+s ′ = − 1 py | y = 1 . 
+ls β 
+( 12 ) 
+Now , set u = s2 and ﬁnd 
+∂ p = yu ′ ∂ p ∂ 2 
++ p u , 2 y y2 ∂ τ ∂ ∂ 
+′ = − p | y y = 1 , 
+u 
+( 13 ) 
+where = 2 1 , with boundary conditions l 
+√ l2 k 
+p = − u off Kon ( 1 − p ( 0 , t ) ) y − + . 
+D koff ( 1 p ( 0 , t ) ) Kon 
+( 14 ) 
+at y = 0 and 
+= − √ l2 
+( 15 ) 
+yu ′ ∂ p ∂ 2 
+= + p 0 , 2 ∂ y ∂ y2 
+′ = − py | y = 1 . 
+u 
+( 16 ) 
+As u ′ is a scalar ( as yet unknown ) , it must be that ( 2 ′ ) y u py = Aexp − , 4 
+( 17 ) 
+and 
+∫ y ( ) = − y2u ′ 
+p ( y ) A exp dy + B. 0 4 
+( 18 ) 
+It is useful to introduce the notation ∫ 1 ( 2 ′ ) E ( u ′ ) = y u exp − dy , 0 4 
+( 19 ) 
+so that 
+p ( 1 ) = AE ( u ′ ) + B , ( ′ ) u p ′ ( 1 ) = Aexp − , 4 
+p ( 0 ) = B , 
+p ′ ( 0 ) = A , 
+Then , the boundary conditions ( 14 ) and ( 15 ) become 
+( 1 − B ) 
+A = − s KD , Ka ( 1 − B ) + 1 
+( 21 ) 
+and 
+( ′ ) u 
+Kb Aexp − = − s KD ( AE ( u ′ ) + B ) , 
+j = 1 − B . 
+lkoff Ka ( 1 − B ) + 1 Eliminating Aand B from these , we ﬁnd ( ( 1 j u ′ ) ) = ′ 1 − − − Kb j exp − , KD j E ( u ) 1 Ka j 4 
+s 
+( 25 ) 
+and 
+( 
+exp − u ′ ) ( ( ′ ) ) 4 K j exp − ′ 1 − j − u . 
+E ( u ) 1 − K j b a 4 
+′ 
+= 
+u 
+( 26 ) 
+√ 
+As s = u , Eqs . 
+( 25 ) and ( 26 ) can be viewed as an implicit differential equation for u ′ as a function of u , which is not easily interpreted . 
+However , as is quite small , we can ﬁnd a meaningful approximate equation ( ) 
+The main conclusion of this calculation is that there is a ﬂux -- length relationship which translates into a velocity -- length relationship dL = V ( L ) when the secretant dt is ﬂagellin . 
+This ﬂux -- length relationship is a monotone decreasing function of L , and which for sufﬁciently large L is inversely proportional to L . 
+This ﬂux -- length relationship is plotted in Fig. 3 , for Ka = 2 ( solid curve ) and Ka = 0 ( dashed curve ) , and Kb = 0 . 
+Increasing Kb merely shifts these curves to the left . 
+These velocity -- length curves exhibit the correct qualitative behavior . 
+The only available data ( Iino , 1974 ) show velocity -- length curves for ﬁlaments to be well ﬁ by decaying exponentials for ﬁlaments in the range of 4 -- 12 µm . 
+Possible explanations for why there is not quantitative agreement with data are discussed later . 
+exp − u ′ ) ( ( ′ ) ) 4 K j exp − ′ 1 − j − u . 
+E ( u ) 1 − K j b a 4 
+′ 
+= 
+u 
+( 26 ) 
+√ 
+ds 
+= 1 KD j , dτ 2 
+= 1 − j 1 − 
+KD j 1 − Kb j , Ka j 
+s 
+( 27 ) 
+1 this reduces further to ( in 
+which is valid to leading order in . 
+When Ka j dimensional units ) 
+d d 
+L = t 
+1 
+k 
+off 
+( 28 ) 
+koff , kp 
+kofflL D 
+1 + 
++ 
+β 
+or even simpler as 
+dL = D 1 , 
+( 29 ) 
+dt βl L 
+for L sufﬁciently large . 
+3. Filament length control
+Filament length is not tightly regulated . 
+However , if they are broken off , ﬁlaments regrow at a rate that is similar to that of the original growth ( Iino , 1974 ) , indicating that the length of the ﬁlament is somehow sensed by the bacterium . 
+It is the hypothesis of this paper that length detection is a consequence of two features , namely the length-dependent rate of secretion and the negative feedback that regulates the production of FlgM . 
+When FlgM is secreted rapidly , its concentration remains low and production of FliC and more FlgM continues . 
+However , when the secretion slows down ( which it will as the ﬂagella grows longer ) , the concentration of FlgM builds up again , inhibiting σ 28 activity , shutting off the production of FliC . 
+However , if the ﬁlament is broken off , secretion of FlgM increases dramatically ( as the secretion rate is length dependent ) , setting off a signal that more FliC is needed for the reconstruction project . 
+We wish to develop a mathematical model of this regulatory process . 
+The chemical reactions are as follows : It is known that σ 28 forms a complex Eσ 28 with core RNA , via 
+Filament Growth Curve 
+0.5 
+j ( Dimensionless Flux 
+0.45 
+0.4 
+0.35 
+0.3 
+0.25 
+0.2 
+0.15 
+0.1 
+0.05 
+0 0 
+30 40 50 60 70 K s ( Dimensionless Length ) D 
+20 
+10 
+80 
+90 
+100 
+Fig. 3 Flux j ( dimensionless ) of monomer as a function of ﬁlament length with Ka = 2 ( solid curve ) , and with Ka = 0 ( dashed curve ) . 
+kσ 
+σ ← − 28 − → E k − σ 
+σ . 
+28 
+It is suggested that FlgM inhibits the activity of σ 28 in three ways ( Chadsey et al. , 1998 ) . 
+It binds with σ 28 , it probably destabilizes Eσ 28 , causing σ 28 to unbind from the core RNA , and it may bind to Eσ 28 , preventing the polymerase activity . 
+Thus , we assume that FlgM forms a complex with σ 28 
+km 
+FlgM + σ 28 ← − − → Cσ . 
+k − m 
+( 31 ) 
+with Eσ 28 by assuming that they form a complex 
+We model the interaction of FlgM C ∗ via σ 
+km ∗ 
+FlgM + Eσ 28 − ∗ ← − σ → C , k − m ∗ 
+( 32 ) 
+and that C ∗ degrades to C σ σ via 
+kC 
+C − ← → C ∗ σ − σ . 
+k − C 
+( 33 ) 
+Because this scheme forms a loop ( see Fig. 4 ) , the principle of detailed balance requires that kC k − m ∗ = k − m kσ . 
+k − C km ∗ km k − σ Finally , FlgM is produced at a rate proportional to σ ∗ and secreted ( after the hook is completed ) , while σ 28 is gradually degraded . 
+The differential equations for the biochemistry are as follows . 
+We denote M = [ FlgM ] , σ =[ σ 28 ] , σ ∗ = [ Eσ 28 ] , C = [ C ] , and C ∗ = [ C ∗ σ σ ] . 
+Then , 
+dM 
+= k ∗ σ ∗ − µ ∗ dt M − kmσ M + k − mC − km ∗ σ M + k − m ∗ C ∗ , 
+( 35 ) 
+km FlgM 
+28 
+σ 
+C 
+k 
+k 
+k 
+− σ 
+σ 
+k 
+k 
+C 
+km * FlgM 
+28 
+Eσ 
+C * 
+k * 
+Fig. 4 σ 28 -- FlgM reaction loop 
+Here we have ignored the degradation of σ 28 . 
+Finally , we assume that the production of ﬂagellar protein FliC is governed by dt where F = [ FliC ] , assuming that ρ copies of FliC are produced for every copy of FlgM . 
+The rates of secretion are sec = l , and v is the control volume in which the concentration of FlgM and FliC are measured . 
+This assumes that the molecules FlgM and FliC are secreted at a rate that is proportional to their relative concentrations , as both are secretion targets for the secretion machinery . 
+The rate of secretion is determined by the diffusion model proposed in Section 2 , namely , with the ﬂux -- length relationship given by ( 27 ) , and Kon related to substrate concentration through Kon = [ S ] kon + , KS [ S ] 
+dF = ρk ∗ σ ∗ − µF , 
+( 40 ) 
+F 
+M µ 
+= 
+= 
+µF 
+F + M sec , 
+µM 
++ µsec , M 
+F 
+where vµ J 
+[ S ] = [ F ] + [ M ] . 
+( 42 ) 
+This relationship assumes that FlgM and FliC are the sole targets of secretion . 
+In fact , FliD ( cap protein ) is also secreted during ﬁlament construction , but we ignore this secretion substrate here . 
+To simplify these equations somewhat , we assume that the biochemistry is in quasi-equilibrium ( found by setting the right-hand sides of ( 36 ) -- ( 39 ) to zero ) , in which case ∗ = σ0 Kσ KM σ + , M KM 
+µM 
++ µsec , M 
+F 
+where vµ J 
+[ S ] = [ F ] + [ M ] . 
+( 42 ) 
+σ M 
+C + C ∗ = 0 + , M KM 
+( 43 ) 
+where 
+K = kσ + k − σ M k ∗ + , 
+k − σ Kσ = 
+( 44 ) 
+k − σ + . 
+kσ 
+k m σ σ k − km k − m ∗ k − m Here σ0 = σ + σ ∗ + C + C ∗ is the total amount of σ 28 , a quantity which we assum does not change 
+e 
+With this approximation , the equation for M ( the slow manifold equation ) is found by adding Eqs . 
+( 35 ) , ( 38 ) , and ( 39 ) with the result that ( ) d vσ M K M J vM + 0 = M + K ∗ + − . 
+dt M KM M KM S l Similarly , Eq . 
+( 40 ) becomes 
+( 45 ) 
+d ( v F ) = KM 
+K − F J ρ , dt M ∗ + KM S l where K ∗ = k ∗ vσ0 Kσ . 
+The ﬂagellar length is slowly increasing , related to the rate of secretion of FliC , dt S βl at x = L , where F in this equation is evaluated at the growing end of the ﬁlament S rather than at the basal end . 
+As the relative amounts of FliC and FlgM secreted can vary , Eq . 
+( 47 ) should include the time delay τ = L to account for the transport J delay from the time a molecule enters the x = 0 end until it arrives at the x = L end , but we ignore this complication here . 
+The relationship between J and L is given by 
+( 46 ) 
+dL = F J , 
+( 47 ) 
+Ll = l − 1 . 
+− D J k 1 J off Kon l As this is an implicit relationship for J as a function of L , it is useful to rewrite ( 47 ) l as an equation for J as ( ) ( ) l d J dL F J l = , dt l dJ S βl dL 2 l = D − l − 1 1 . 
+− dJ l J 2 K ( k 1 J 2 on off K ) on l In this way , we have the system of three differential equations ( 45 ) , ( 46 ) , and ( 49 ) for vM , v F , and J ( it is not necessary to invert ( 48 ) ) , with L determined from these l through ( 48 ) . 
+( 49 ) 
+and use ( 48 ) to determine that ( 
+) 
+( 50 ) 
+3.1. Parameter values
+The data for length -- velocity relationships for ﬁlaments are sparse . 
+Iino ( 1974 ) found length -- velocity curves for three strains of Salmonella that were well ﬁt by curves of the form with κ = 0.27 / µm , and V0 ranging between 0.25 and 0.55 µm / min . 
+However , V0 is not the maximal velocity , as this ﬁt is valid only for ﬁlaments in the range of 4 -- 14 µm . 
+( A fourth strain of Salmonella had much slower velocities with V0 = 0.02 µm / min . ) 
+Using this data , we estimate l − 3 D = 1.3 × 10 min / µm . 
+It is known that k − m = 200 pM , and k − m ∗ = 800 pM ( Chilcott and Hughes , 2000 ) . 
+k k ∗ m m Thus , it must be that 
+V = V0 exp ( − κ L ) , 
+( 51 
+k − C = k − σ 4 . 
+kC kσ 
+This implies that the complex C ∗ is less stable than Eσ 28 , so that FlgM destabilizes the complex C ∗ . 
+Using these equilibrium constants , we ﬁnd 
+K = k + k 800 
+σ − σ M + pM . 
+kσ 4k − σ 
+( 53 ) 
+The remaining parameter values are unknown , but were estimated to give reasonable agreement with data , and are shown in Table 2 . 
+3.2. Results
+The qualitative behavior of these equations is readily deduced . 
+Initially ( at the termination of hook construction ) , M is large , being a class 2 product , and F = 0 . 
+With M initially much larger than K , σ 28 M is effectively inhibited and there is no production of class 3 factors . 
+When the hook is completed , secretion speciﬁcity is switched so that secretion of M begins . 
+Subsequently , M decreases to small levels , inducing the production of both F and M . 
+As F increases , ﬁlament growth increases at ﬁrst , but as the length of the ﬁlament increases , the rate of secretion drops , while both M and F continue to increase . 
+This increase of M causes the rate of production of both F and M to decrease , to match the decreased need for these . 
+If a ﬁlament is suddenly shortened , this growth scenario is repeated with a minor modiﬁcation . 
+As the levels of both F and M are high when the shortening occurs , the initial growth rate is large , as the stores of F are used up . 
+As F and M drop , however , their production rates are again increased , allowing continued regrowth 
+k − C = k − σ 4 . 
+kC kσ 
+K = k + k 800 
+σ − σ M + pM . 
+kσ 4k − σ 
+( 53 ) 
+Numerical simulation of these equations demonstrates this scenario . 
+In Fig. 5 is shown the length as a function of time of a ﬁlament that starts at length L = 55 nm , and grows until length L = 20 µm , at which point it is broken off to L = 2 µm and then regrows . 
+In Fig. 6 are shown the numbers of intracellular FlgM and FliC molecules during this process . 
+The growth rate during regrowth is essentially indistinguishable from the growth rate during the initial growth period . 
+4. Discussion
+Here we have presented a model based on physical mechanisms for the growth of ﬂagellar ﬁlaments . 
+We ﬁnd a monotonically decreasing relationship between length and velocity that is inversely proportional to length for a large length . 
+That velocity should be inversely proportional to length is not surprising . 
+In fact , this is the expected result for any diffusive process . 
+For example , a similar velocity -- length relationship has been found for the extension of ﬁlopodia , which is governed by the diffusion of G-actin ( Mogilner and Rubenstein , 2005 ) . 
+This result agrees qualitatively but not quantitatively with measurements . 
+In Fig. 7 is shown the velocity of growth curve ( with algebraic decay ) found here ( solid curve ) compared to the ﬁt of the data found in Iino ( 1974 ) ( dashed curve ) . 
+The difference between the data and the model is disturbing . 
+There are several possible explanations for this discrepancy . 
+First , it could be that the movement of monomers is not by a standard diffusive process . 
+Very little is known about the movement of unfolded linear molecules in the forming tube . 
+It is known that the inner surface of the channel consists of mainly polar amino acids and it is suggested that monomer -- wall interactions may inﬂuence the movement of the molecules on a local spatial scale ( Yonekura et al. , 2003 ) . 
+This is likely similar to the effect that a charge distribution on the wall of an ion channel has on the movement of ions through the channel . 
+It has been suggested ( private communication ) that there should be a Boltzmann factor appearing somewhere . 
+For example , if the movement of monomer to the growing end of the tube could be viewed as escape from a potential well , the depth of which is proportional to the length of the ﬁlament , then the mean escape time , and hence the velocity of growth , would be exponential in length . 
+One way to include the effect of the wall interactions in the description of the dif - ′ fusion process is to take J = − D ∂ p V ( x ) ∂ x µ + p , where V ( x ) is the potential in which the molecules move , so that V ′ ( x ) is the force on a molecule , and µ is the molecular friction . 
+Filaments have an 11-fold symmetry and 11 monomers contribute 4.6 nm to the length of a ﬁlament , so that V ( x ) should be a periodic function with period 4.6 nm . 
+However , as this is so much smaller than the length of the unfolded monomers , let alone the length of the ﬁlament , V ( x ) contributes very little to the average movement of the molecules . 
+The important thing to notice is that because V ( x ) is periodic , as a monomer moves through the tube it feels the binding energy symmetrically , both pushing it and pulling it , so that the net binding energy a molecule must overcome is not additive with length , as would be required by the argument of the last paragraph . 
+Thus , it is unlikely that monomer -- wall interactions change the overall behavior from that of an effective diffusion process . 
+Another possibility could be that the velocity of growth is determined , not by diffusive ﬂux , but by the availability of FliC , and that as the ﬁlament grows , FliC production is down-regulated , leading to a decrease in velocity . 
+However , the model presented here , which is based on the known biochemistry , makes the ( testable ) prediction that the availability of FliC is not rate limiting , but instead increases as the ﬁlament grows . 
+Another possible explanation for this discrepancy lies with the interpretation of the data . 
+The conclusion that the velocity is exponential was made based on roughly a half dozen data points over less than one order of magnitude of lengths . 
+Curiously , the data lie almost exactly on the ﬁt curve , with very little error . 
+It is difﬁcult to believe that the experimental procedures ( especially when measuring a velocity , which involves taking ﬁnite differences that are notoriously error-prone ) were as accurate as this suggests . 
+We are not aware of other more recent data that conﬁrms or contradicts these early ﬁndings . 
+It is interesting to note that if the growth velocity is governed by a Boltzmann factor , it should exhibit exponential dependence on temperature , whereas if it is a standard diffusion process , the ﬂux should depend linearly on temperature . 
+Perhaps temperature sensitivity can also be examined experimentally . 
+The model presented here ﬁnds that length detection is accomplished by the combination of a length-dependent ﬂux of a secreted molecule with a negative feedback on the production of the molecule . 
+A related mechanism is used for quorum sensing in P. aeruginosa ( Dockery and Keener , 2001 ) . 
+With quorum sensing , there is a positive feedback for the production of the diffusible molecule . 
+When the diffusible molecule moves freely to the exterior of the cell , its concentratio remains at low levels within the cell . 
+However , when outward diffusion is slowed because of high levels of the molecule in the extracellular space , intracellular levels of the molecule build up , triggering an autocatalytic switch which upregulates this and other products . 
+In P. aeruginosa , the diffusible molecule is called an auto-inducer . 
+It should be noted that this is a length detection mechanism , not a length regulation mechanism , and is quite different from the variety of length regulation mechanisms reviewed in Marshall ( 2004 ) . 
+For example , ﬂagellar hooks are very precisely length regulated , in that their length is carefully set . 
+However , there is no length detection mechanism for hooks , as if they are broken off after they are ﬁrst made , they do not regrow . 
+A model for a possible mechanism by which the hook structure is length regulated and the secretion switch is made was presented in Keener ( 2005 ) . 
+Filament Length vs Time 
+25 
+Length ( microns 
+20 
+15 
+10 
+5 
+0 
+600 800 
+400 
+200 
+0 
+1000 
+1200 
+1400 
+Time ( minutes ) 
+Fig. 5 Length of a ﬁlament as a function of time . 
+Intracellular FlgM and FliC 
+4000 
+V ( microns/minute ) 
+Number of Molecule 
+3500 
+3000 
+2500 
+2000 
+1500 
+1000 
+500 
+0 
+600 800 
+400 
+200 
+0 
+1000 
+1200 
+1400 
+Time ( minutes ) 
+Fig. 6 Quantities of intracellular FlgM ( lower curve ) and FliC ( upper curve ) during the growth of a ﬁlament . 
+Filament Growth Velocity Curves 
+0.2 
+0.18 
+0.16 
+0.14 
+0.12 
+0.1 
+0.08 
+0.06 
+0.04 
+0.02 
+0 0 
+20 
+18 
+16 
+14 
+6 
+4 
+2 
+8 10 12 L ( microns ) 
+Fig. 7 Velocity of ﬁlament growth as a function of length ; model ( solid curve ) and exponential ﬁt of data ( dashed curve ) . 
+Acknowledgement
+This research was supported in part by NSF Grant DMS-0211366.
+Appendix
+In this appendix , we derive the boundary condition ( 3 ) . 
+It is clear that it is energetically favorable for ﬂagellin molecules to be folded rather than unfolded . 
+Thus , the polymerization process is fueled by the energy of folding . 
+We can model this by assuming that near the growing end of the tube , molecules experience a force so that for L − l < x < L , ′ J = − W ( x ) p − Dpx , ν where W ( x ) is the potential energy well associated with folding , and ν is the molecular viscosity . 
+We expect that W ′ ( x ) < 0 so that folding has the effect of pulling the molecule out of the tube . 
+Furthermore , p = 0 for x ≥ L . 
+As l/L is small , the diffusion process should be in quasi-steady state in the small ( boundary layer ) region L − l < x < L. Thus , ∫ L ( ) = J W ( η ) − W ( x ) p ( x ) exp dη , D x ν D in the interval L − l < x < L. For x < L − l , J = − Dpx , so to match the ﬂux J , it must be that 
+References 
+Chadsey , M.S. , Karlinsey , J.E. , Hughes , K.T. , 1998 . 
+The ﬂagellar anti-sigma factor FlgM actively dissociates Salmonella typhimurium σ 28 RNA polymerase holoenzyme . 
+Genes Dev . 
+12 , 3123 -- 3136 . 
+Chilcott , G.S. , Hughes , K.T. , 2000 . 
+Coupling of ﬂagellar gene expression to ﬂagellar assembly in Salmonella Typhimurium and Escheria coli . 
+Microbiol . 
+Mol . 
+Biol . 
+Rev. 64 , 694 -- 708 . 
+Dockery , J.D. , Keener , J.P. , 2001 . 
+A mathematical model for quorum sensing in Pseudomonas aeruginosa . 
+Bull . 
+Math . 
+Biol . 
+63 , 95 -- 116 . 
+Hughes , K.T. , Aldridge , P.D. , 2001 . 
+Putting a lid on it . 
+Nat . 
+Struct . 
+Biol . 
+8 , 96 -- 97 . 
+Iino , T. , 1974 . 
+Assembly of Salmonella ﬂagellin in vitro and in vivo . 
+J. Supramol . 
+Struct . 
+2 , 372 -- 384 . 
+Keener , J.P. , 2005 . 
+A model for length control of ﬂagellar hooks of Salmonella typhimurium . 
+J. Theor . 
+Biol . 
+234 , 263 -- 275 . 
+Kutsukake , K. , Ohya , Y. , Iino , T. , 1990 . 
+Transcriptional analysis of the ﬂagellar regulon of Salmonella typhimurium . 
+J. Bacteriol . 
+172 , 741 -- 747 . 
+Macnab , R.M. , 2003 , How bacteria assemble ﬂagella . 
+Annu . 
+Rev. Microbiol . 
+57 , 77 -- 100 . 
+Marshall , W.F. , 2004 . 
+Cellular length control systems . 
+Annu . 
+Rev. Cell Dev . 
+Biol . 
+20 , 677 -- 693 . 
+Minamino , T. , Macnab , R.M. , 2000 . 
+Interactions among components of the Salmonella ﬂagellar export apparatus and its substrates . 
+Mol . 
+Microbiol . 
+19 , 1 -- 5 . 
+Mogilner , A. , Rubenstein , B. , 2005 . 
+The physics of ﬁlopodial protrusion . 
+Biophys . 
+J. 89 , 1 -- 14 . 
+Yonekura , K. , Maki-Yonekura , S. , Namba , K. , 2003 . 
+Complete atomic model of the bacterial ﬂagellar ﬁlament by electron cryomicroscopy . 
+Nature 424 , 643 -- 650 . 
+Zaslaver , A. , Mayo , A.E. , Rosenberg , R. , Bashkiin , P. , Sberro , H. , Tsalyuk , M. , Surette , M.G. , Alon , U. , 2004 . 
+Just-in-time transcription program in metabolic pathways . 
+Nat . 
+Genet . 
+36 ( 5 ) , 486

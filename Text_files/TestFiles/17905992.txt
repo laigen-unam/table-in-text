@@ -1,0 +1,780 @@
+The
+The Rcs phosphorelay is a multicomponent signaling system that positively regulates colanic acid synthesis and negatively regulates motility and virulence . 
+We have exploited a spontaneously isolated mutant , IgaA ( T191P ) , that is nearly maximally activated for the Rcs system to identify a vast set of genes that respond to the stimulation , and we report new regulatory properties of this signaling system in Salmonella enterica serovar Typhimurium . 
+Microarray data show that the Rcs system normally functions as a positive regulator of SPI-2 and other genes important for the growth of Salmonella in macrophages , although when highly activated the system completely represses the SPI-1 / SPI-2 virulence , ﬂagellar , and ﬁmbrial biogenesis pathways . 
+The auxiliary protein RcsA , which works with RcsB to positively regulate colanic acid and other target genes , not only stimulates but also antagonizes the positive regulation of many genes in the igaA mutant . 
+We show that RcsB represses motility through the RcsB box in the promoter region of the master operon ﬂhDC and that RcsA is not required for this regulation . 
+Curiously , RcsB selectively stimulates expression of the ﬂagellar type 3 secretion genes ﬂiPQR ; an RcsAB box located downstream of ﬂiR inﬂuences this regulation . 
+We show that excess colanic acid impairs swimming and inhibits swarming motility , consistent with the inverse regulation of the two pathways by the Rcs system . 
+The Rcs phosphorelay signaling system appears to be exclusively present only in the family Enterobacteriaceae ( 30 ) . 
+This system was ﬁrst identiﬁed by its role in the positive regulation of capsular polysaccharide or colanic acid synthesis in Esche-richia coli but is now known to also regulate genes involved in the maintenance of cell wall integrity , cell division , the regulation of stationary-phase sigma factor S , motility , and virulence ( Fig. 1 ) ( 39 ) . 
+In response to unknown environmental signals , the hybrid kinase RcsC is activated to autophosphor-ylate a conserved His residue . 
+From here , the phosphate is transferred ﬁrst to an Asp residue within RcsC itself , then to a His residue in RcsD , and ﬁnally to the response regulator RcsB . 
+RcsB P ( the phosphorylated or functionally active form of RcsB ) associates with an unstable protein , RcsA , to bind to an RcsAB box in the promoter region of several genes ( 70 ) , although not all genes require RcsA for regulation . 
+Conditions that modestly induce the Rcs regulon include osmotic and other kinds of membrane stress , growth at low temperatures in the presence of glucose and zinc , and possibly growth on a solid surface ( 27 , 39 ) . 
+Capsule synthesis also is reported to be activated by acetyl phosphate via RcsB independently of RcsC ( 20 ) . 
+Capsular polysaccharide helps cells survive drying ( 52 ) and apparently is important for later stages of bioﬁlm formation ( 10 ) . 
+* Corresponding author . 
+Mailing address : Section of Molecular Genetics and Microbiology & Institute of Cellular and Molecular Biology , University of Texas at Austin , Austin , TX 78712 . 
+Phone : (512) 471-6881 . 
+Fax : (512) 471-7088 . 
+E-mail : rasika@uts.cc.utexas.edu . 
+† Supplemental material for this article may be found at http://jb . 
+asm.org / . 
+Published ahead of print on 28 September 2007 . 
+While the Rcs system positively regulates capsule synthesis , it negatively regulates ﬂagella synthesis ( Fig. 1 ) ( 39 ) . 
+Swimming and swarming motility are both dependent on ﬂagella ( 28 , 36 ) . 
+In E. coli the Rcs system is thought to repress motility by controlling the master ﬂagellar operon ( 18 ) . 
+Puriﬁed RcsA enhances the afﬁnity of RcsB for the RcsAB box within the promoter region of ﬂhDC ( 18 ) ; however , RcsA does not appear to affect the motility of E. coli in vivo unless expressed at high levels from a plasmid ( 20 ) . 
+Flagellar biogenesis in both E. coli and S. enterica involves the expression of more than 50 genes that are transcribed in operons of three temporal classes ( 8 ) . 
+The class 1 genes are included in the master operon ﬂhDC , the proteins of which direct transcription of class 2 promoters , which encode structural and assembly proteins required for the biosynthesis of the base of the ﬂagellar structure . 
+FliA ( 28 ) is made at this stage and regulates class 3 transcription , which produces the functional ﬂagellar ﬁlament . 
+Early in assembly , after the inner membrane/supramembrane ( MS ) ring and the cytoplasmic C ring are assembled , a ﬂagellum-speciﬁc type 3 secretion ( TTS ) apparatus docks at the base of this structure and directs the export of most extracytoplasmic ﬂagellar subunits comprising the rod , the external hook , and the ﬁlament . 
+The ﬂagellar TTS system shares sequence and structural similarities with secretion systems that export virulence proteins into host cells ( 38 ) . 
+Mutations that activate the Rcs phosphorelay system are reported to attenuate virulence in S. enterica ; the activating mutations were either in RcsC ( 25 , 48 ) or in IgaA ( 14 ) . 
+A point mutation in igaA ( intracellular growth attenuator ) was ﬁrst identiﬁed in a screen for S. enterica mutants able to proliferate in ﬁbroblast cells ( 5 ) ; the mutant was attenuated for growth in macrophages . 
+igaA encodes an inner membrane protein ( 14 ) that is homologous to yrfF in E. coli and to umoB in Proteus mirabilis ( 15 ) . 
+The igaA mutant in Salmonella was mucoid and showed reduced motility , and the locus was shown to be essential ( 4 ) . 
+Lethality was suppressed by mutations in rcsB , rcsC , or rcsD , suggesting that IgaA represses the Rcs signaling system in both E. coli and S. enterica ( Fig. 1 ) ( 4 , 9 , 14 ) . 
+In the absence of IgaA , an overactive Rcs signaling pathway is lethal , likely because of the inappropriate regulation of an Rcs regulon member ( s ) . 
+The role of IgaA in virulence apparently is to prevent the activation of the RcsCDB system during early stages of infection . 
+We show in this study , however , that the Rcs system is required for the activation of some virulence genes required for later stages of infection . 
+Our study began with the isolation of a spontaneous mutant of S. enterica that was simultaneously mucoid and completely defective in both swimming and swarming motility . 
+We mapped the mutation to igaA . 
+A literature search revealed that the particular missense mutation we had isolated ( T191P ) had been reported earlier , and it was the strongest of the ﬁve mutations assayed for the induction of colanic acid synthesis ( 14 ) . 
+An initial microarray analysis of the igaA mutant revealed a 20 - to 400-fold induction of genes for colanic acid synthesis and a similarly impressive repression of ﬂagellar and SPI-1 / SPI-2 ( SPI is short for `` Salmonella pathogenicity island '' ) virulence genes . 
+We therefore exploited this mutant , which apparently is nearly maximally activated for the Rcs signaling pathway , to identify a vast set of genes ( 20 % of the Salmo-nella genome ) positively and negatively regulated by RcsB in both mid-log and stationary phases of growth . 
+We also have identiﬁed RcsA-dependent and - independent targets of RcsB . 
+We provide most of these microarray data as supplementary material , but we present the novel results showing dual regulation of SPI-2 and other virulence genes by the Rcs system . 
+The experimental focus of this paper is on the regulation of ﬂagellar genes and motility . 
+We report that RcsB regulates ﬂagellar gene expression both negatively and positively . 
+We show that the negative regulation occurs solely at the initiation of transcription of the master operon and operates through an RcsB box within the ﬂhDC promoter ; RcsA appears to have no effect on ﬂhDC transcription . 
+Positive regulation involves the three TTS genes ﬂiPQR ; RcsA does not promote this regulation but instead antagonizes it . 
+An RcsAB box located downstream of ﬂiR appears to be required for the elevated transcript levels of ﬂiPQR . 
+We also show that excess colanic acid inhibits swarming motility . 
+Thus , while polysaccharides in general favor surface motility ( 28 ) , the colanic acid polysaccharide does not . 
+MATERIALS AND METHODS
+Bacterial strains , growth conditions , and procedures . 
+Strains are listed in Table 1 . 
+Bacteria were grown in L broth ( LB ) base ( 20 g/liter ) . 
+LB swim plates were solidiﬁed with 0.3 % agar , while LB swarm plates were supplemented with 0.5 % glucose and were solidiﬁed with 0.6 % agar ( 65 ) . 
+Eiken agar ( Eiken Chemical Co. , Tokyo , Japan ) was used in most experiments . 
+For preparation of RNA samples , cultures were harvested at an optical density at 600 nm ( OD600 ) of 0.6 ( 2.5 h ) for mid-log phase and at 6 h for stationary phase . 
+The growth curve for wild-type bacteria has been published already ( 65 ) . 
+Strains with the igaA mutant allele had a slightly slower growth rate than the wild type and reached mid-log phase ( OD600 of 0.6 ) with a delay of 0.5 h ; they were harvested for stationary phase by an equivalent delay . 
+Procedures for motility assays , viewing bacteria on plates , and photography have been described previously ( 42 ) . 
+Antibiotics used in this study are ampicillin ( 100 g/ml ) , chloramphenicol ( 30 g/ml ) , tetracycline ( 12.5 g/ml ) , and kanamycin ( 25 g/ml ) . 
+Deletion of genes and regulatory regions was achieved by the one-step mutagenesis procedure ( 11 ) as described previously ( 68 ) . 
+Mutant combinations were constructed by P22 transduction where appropriate . 
+Mapping and identiﬁcation of the igaA mutation . 
+P22 was grown on TH341 carrying Tn10dCm ( defective Tn10 , lacking the transposase , and carrying chlor-amphenicol resistance [ Cmr ] ) and used to generate a random pool of Tn10dCm hops into the spontaneous mucoid mutant , which was transformed with pNK972 , a plasmid expressing the transposase gene of Tn10 . 
+Transducing lysates prepared from 25,000 Cmr pooled colonies were crossed with the wild-type strain 14028 , selecting for mucoid and nonmotile colonies resistant to Cm . 
+One such transductant was named QW119 , and it was crossed back with 14028 to determine the distance ( 14 kb ) between the Cmr marker and the mutated locus using cotransduction frequencies . 
+The Cmr marker was located at a noncoding region between genes bigA and yhfL by using semirandom-primed PCR from both ends of the Cm coding sequence and subsequent sequencing of the PCR products . 
+r TH1793 carrying a tetracycline resistance ( Tc ) insertion in dam , 3.6 kb down from bigA , then was crossed with QW119 , and the distance between dam : : Tcr and the mutated locus was determined to be 11 kb by cotransduction frequencies , establishing the order of the markers as Cmr -- dam : : Tcr -- mucoid locus . 
+DNA sequencing around the predicted position of the mutation revealed a point mutation of A to C at nucleotide 571 in igaA ( Table 1 ) . 
+Introducing point mutations on the chromosome . 
+Point mutations within the chromosomal RcsAB box sequence in ﬂhDC were created as follows . 
+The ﬂhDC coding sequence ﬁrst was replaced with tetRA ( encoding tetracycline resistance genes [ 7 ] ) by a modiﬁcation of the one-step mutagenesis procedure ( 11 ) . 
+The modiﬁcation involved using genomic DNA from TH338 ( carrying tetRA ) as the template to amplify the tetRA sequence using hybrid primers that included 40 to 50 nucleotides homologous to sequences ﬂanking either side of the region to be deleted within ﬂhDC , followed by 20 nucleotides homologous to sequences on either side of the tetRA cassette . 
+The ampliﬁed PCR product was introduced into the wild-type strain as described previously ( 11 ) , and the resulting strain , ﬂhDC : : tetRA , was named QW215 . 
+The region replaced by tetRA in ﬂhDC started at the 1 transcription start site of ﬂhD and extended to the termination codon TAA of ﬂhC . 
+Point mutations in the RcsAB box ( Table 1 ) were introduced into QW215 by designing appropriate PCR primers carrying the mutations . 
+The basic forward primer containing the RcsAB box was 5 CTCCGTTGTATGTCACG 
+AGCTGACGAGTAGAGTTGCGTCGAATTAGGAAAAATCTTAGGCATT TGTAAAAATTGATGTA ( the box is underlined ) . 
+In mutant primers , the G , A , and C residues shown in boldface in the wild-type sequence were changed to T , C , and A , respectively , either singly or in combinations . 
+Each of the forward primers , together with the reverse primer ( 5 GACATCATCCTTCCGCTGTT ) , was used to generate PCR products using wild-type ﬂhDC as the template . 
+The PCR products were electroporated into QW215 with pKD46 ( a helper plasmid encoding phage lambda recombinase [ 11 ] to replace the tetRA cassette ) . 
+Tets transformants were selected on media described previously ( 41 ) on which Tets colonies appear much bigger than Tetr colonies ; these were further veriﬁed by replica plating on tetracycline and unmodiﬁed LB plates . 
+All point mutations ﬁnally were veriﬁed by DNA sequencing . 
+The Cmr-linked igaA allele was moved into the RcsAB box mutants by transduction and screening for mucoidy , and the construct was veriﬁed by DNA sequencing . 
+Microarray experiments and reverse transcription-PCR ( RT-PCR ) . 
+RNA preparation and microarray analyses were done as described previously ( 65 ) . 
+The microarray data in all tables represent two to ﬁve independent experimental repeats . 
+A list of differentially expressed ( DE ) genes for each comparison ( e.g. , wild type compared to rcsB at one growth phase ) was selected by using the signiﬁcance analysis of microarrays method , which assigns a score to each gene on the basis of the change in gene expression relative to the standard deviation of repeated measurements ( 63 ) . 
+Brieﬂy , signiﬁcance analysis of microarrays orders the genes by using a modiﬁed statistic t and declares a gene to be up - or down-regulated if the observed modiﬁed statistic t is above or below the global cutoff point , which is chosen to control the estimated median false discovery rates . 
+The false discovery rate was set to 5 % . 
+Each DE list was further screened stringently according to the behavioral consistency of each DE gene in two genetic backgrounds ( RcsB [ high levels of active RcsB ] and rcsB ) and in two growth phases ( mid-log phase and stationary phase ) . 
+RT-PCR was performed essentially as described previously ( 66 ) , using a one-step RT-PCR kit ( Qiagen ) . 
+Brieﬂy , DNase ( Ambion ) - treated RNA samples initially were diluted to 20 ng / l and were further normalized against RT-PCR-ampliﬁed 30S rRNA as an internal control . 
+An RT-PCR of 50 l consisted of 10 l buffer ( 5 ) , 1 l of deoxynucleoside triphosphates ( 10 mM ) , 2 l each of forward and reverse primers ( 25 M ) , 1 l of RT-PCR enzyme mix , and 40 ng of RNA and RNase-free water supplemented to 50 l. RT-PCR cycling conditions were as follows : 50 °C for 35 min and 95 °C for 15 min , followed by 26 cycles of 94 °C for 30 s , 55 °C for 30 s , and 72 °C for 40 s , and then an extra step of elongation at 72 °C for 10 min . 
+RESULTS
+IgaA ( T191P ) is strongly induced for colanic acid synthesis and simultaneously is repressed for ﬂagellar , ﬁmbriae , and SPI-1 / SPI-2 virulence genes . 
+A spontaneous mucoid mutant of S. enterica ( QW119 ) ( Table 1 ) was found to be completel defective in swimming and swarming motility ( Fig. 2A ) . 
+The mutation was mapped to the igaA locus by three-factor crosses , and sequence analysis identiﬁed the mutation as IgaA ( T191P ) ( see Materials and Methods ) . 
+We will refer to this allele as igaA * . 
+Consistent with the mutant phenotype , microarray analysis of this mutant showed a dramatic induction of colanic acid synthesis genes ( 20 - to 400-fold ) that are a major target of the Rcs signaling system ( see Table S1 in the supplemental material ) . 
+These data , along with experiments reported previously ( 14 ) , suggest that the Rcs system is nearly maximally induced in the igaA * strain QW119 ( indicated by RcsB in Table S1 in the supplemental material ) . 
+Comparison of the RcsB to rcsB strains therefore should give us the whole range of genes positively and negatively regulated by RcsB . 
+These microarray experiments showed that RcsB regulates nearly one-ﬁfth of the Salmonella genome . 
+Data for genes that are strongly regulated in both mid-exponential and stationary phases of growth are provided in Tables S1 and S2 in the supplemental material . 
+A list of 445 other genes regulated in either one or the other growth phase ( but not in both phases ) is available from the authors upon request . 
+We also have examined the contribution of RcsA to this regulation ( see Tables S3 and S4 in the supplemental material ) . 
+We ﬁrst summarize the overall ﬁndings from these studies and then focus on the regulation of ﬂagellar genes and motility . 
+Positive regulation of colanic acid and a subset of ﬂagellar biosynthesis genes . 
+Positively regulated genes are those for which the transcription levels are elevated in an RcsB background or decreased in a rcsB background . 
+The most strongly positively regulated genes belong to the colanic acid biosynthesis cluster ( see Table S1 in the supplemental material ) , followed by those associated with membrane and periplasmic functions . 
+Among genes with known functions , inclusion of the class 2 ﬂagellar genes ﬂiQ and ﬂiR ( see Table S1 in the supplemental material ) in the set of strongly induced genes is curious , because the rest of the ﬂagellar genes are repressed by RcsB ( see Table S2 in the supplemental material ) ; ﬂiQR are members of an export system speciﬁc for extracytoplasmic ﬂagellar proteins ( 37 ) . 
+Negative regulation of ﬂagellar and virulence genes . 
+Negatively regulated genes are those for which the transcription levels are decreased in an RcsB background or increased in a rcsB background . 
+Among the most strongly negatively regulated genes are those encoding ﬂagellar motility ( up to 117-fold repression ) ( see Table S2 in the supplemental material ) . 
+Besides the well-known ﬂagellar biosynthetic pathway , th more recently identiﬁed motility genes ( mcpC , STM3155 , yhjH , etc. [ 21 , 67 ] ) also were repressed by RcsB . 
+Equally striking was the repression of virulence genes encoded on the pathogenicity island SPI-1 ( up to 270-fold ) ( see Table S2 in the supplemental material ) as well as virulence genes encoded on the pathoge-nicity island SPI-2 ( up to 150-fold ) and genes for ﬁmbriae ( up to 37-fold ) ( Table 2 ) . 
+The latter class of genes ( SPI-2 and ﬁm ) showed a novel regulation that is discussed separately below . 
+Dual regulation of SPI-2 and other virulence genes . 
+The microarray data revealed a third class of genes that were bot positively and negatively regulated depending of the activity level of RcsB ( Table 2 ) . 
+The transcription ratios at normal levels of RcsB ( wild type compared to rcsB ) show that RcsB is required for expression of the indicated genes , i.e. , the genes are positively regulated by RcsB . 
+The transcription ratios at elevated levels of RcsB ( wild type compared to RcsB ) show that the same genes are repressed when RcsB is highly active , i.e. , negatively regulated by RcsB . 
+The largest functionally related group of genes showing dual regulation included genes encoding the TTS system on the pathogenicity island SPI-2 ( , , ssa ssb sse , etc. ) . 
+This system is required for the intracellular survival of Salmonella and the remodeling of the Salmonellacontaining vacuole ( 69 ) . 
+Genes for the SsrAB two-component signaling system encoded within SPI-2 also show dual regulation . 
+This system controls the expression of components of the SPI-2 TTS apparatus as well as its translocated effectors . 
+Other genes grouped under pathogenicity also are required for growth of Salmonella in macrophages . 
+For example , the genes pagC , pagD , ugtL , mig-14 , virK , pgtE , pipB , sopD , and pagK have functions associated with the bacterial envelope , and some have been directly implicated in virulence and resistance to antimicrobial peptides ( 50 ) . 
+Fimbrial genes ( ﬁm ) belonged to the dual category as well ; ﬁmbriae are thought to play a role only during the intestinal phase of infection ( 32 ) . 
+RcsB recently has been reported to inﬂuence the piliation state of E. coli ( 57 ) . 
+RcsA both stimulates and antagonizes a subset of RcsB-regulated genes . 
+Earlier array studies do not distinguish between RcsA-dependent and RcsA-independent targets . 
+In order to study these , we ﬁrst compared gene expression of the wild type to that of an rcsA mutant but found no genes that were signiﬁcantly differentially expressed . 
+We therefore performed microarray analysis of the wild-type and RcsB strains with or without RcsA . 
+RcsA had either a stimulatory or an antagonistic effect on the positive regulation of several genes by RcsB ( some of these are indicated in Tables S1 and S2 in the supplemental material ) . 
+The effect of RcsA on the negative regulation of genes by RcsB was less clear in that the effect either was small , not observed in all members of a regulon , or not consistently observed in all experimental repeats . 
+The data showing all the positively regulated genes for which expression either was stimulated or antagonized by RcsA are presented in Tables S3 and S4 in the supplemental material , respectively . 
+RcsA was not required for the negative or the positive regulation of ﬂagellar genes . 
+However , an antagonistic effect was seen on the positive regulation of ﬂiPQR ; i.e. , the absence of RcsA increased the positive stimulation by RcsB ( see Tables S1 and S4 in the supplemental material ) . 
+An antagonistic effect also was observed on the positive regulation of rcsA , the gene immediately downstream of ﬂiR ( see Tables S1 and S4 in the supplemental material ) . 
+Note that the rcsA strain QW327 used in these experiments had removed most of the gene , leaving 100 bp at the beginning and at the end ( Table 1 ) ; the rcsA transcript corresponding to residual regions of the gene is being detected in the microarrays . 
+An antagonistic effect may result from competition between the two proteins for binding the RcsAB box and could be interpreted as a moderating inﬂuence of RcsA on the positive regulation of genes by RcsB . 
+Swarm Swim 14028 Wild type 8.3 7.8 
+QW184 p wza : : kan 8.2 7.8 wza QW119 igaA * -- -- QW200 igaA * pwzawza : : kan -- -- QW220 igaA * pﬂhD ( g8t ) -- 3.4 QW221 igaA * pﬂhD ( a9c ) -- 4.7 QW222 igaA * p -- 4.8 ﬂhD ( g8t , a9c ) QW226 igaA * pﬂhD ( g8t , a9c , c15a ) -- 4.6 QW227 igaA * pﬂhD ( c15a ) -- 3.7 QW228 igaA * pﬂhD ( g8t ) pwzawza : : kan 4.3 5.1 QW229 igaA * pﬂhD ( a9c ) pwzawza : : kan 8.3 8.3 QW230 igaA * pﬂhD ( g8t , a9c ) pwzawza : : kan 8.3 8.3 QW231 igaA * pﬂhD ( g8t , a9c , c15a ) pwzawza : : kan 8.3 8.0 QW233 igaA * pﬂhD ( c15a ) pwzawza : : kan -- 3.0 a Effect of RcsAB box mutations on the recovery of motility in igaA * strains . 
+Mutations within the RcsAB box TAGGAAAAATCTTA found in the promoter region of ﬂhD are indicated in parenthesis after pﬂhD . 
+Residue numbering is from the 1 transcription start site . 
+Boldface residues represent conserved residues among four such boxes identiﬁed in ftsA , osmC , and two ﬂhD variants in E. coli ( 18 ) . 
+The numbers in the Swarm and Swim columns refer to the diameter of the colonies , while the dash refers to no migration ( swim ) or movement ( swarm ) outwards from the point of inoculation . 
+Regulation of ﬂagellar genes and motility . 
+( i ) Negative regulation of ﬂagellar genes occurs through the RcsB-binding box in the master ﬂagellar operon ﬂhDC : excess colanic acid inhibits swarming motility . 
+An RcsAB box was identiﬁed within a footprint of RcsAB proteins in the promoter region of ﬂhDC in E. coli ( 18 ) . 
+An identical sequence ( TAGGAAA / AATCTTA ) is present at a similar location in S. enterica , at 5 to 19 from the 1 transcription start site ( 71 ) . 
+We shall refer to this sequence as the RcsB box in S. enterica , since RcsA is not required for repression . 
+To test if the inhibition of motility genes was entirely through repression of the ﬂhDC master operon , we created point mutations in the GA ( left half site ) and C ( right half site ) residues of the RcsB box ( in boldface ) , alone and in combinations , in the igaA * strain QW119 ( see Materials and Methods ) . 
+These three residues were seen to be conserved between several RcsA-independent targets and an RcsA-dependent target ( 18 ) . 
+All of these mutant derivatives remained mucoid . 
+While most of the mutant strains had regained swimming motility to various extents when assayed on 0.3 % agar plates , none of them showed swarming motility on 0.6 % agar plates ( Table 3 ) . 
+Motility assays for representative mutants are shown in Fig. 2A . 
+Of the ﬁve combinations of point mutants , the single mutants g8t ( QW220 ) and c15a ( QW227 ) showed the lowest recovery of motility , while all mutants that included the a9c mutation ( QW221 , QW222 , and QW226 ) had recovered half the swimming motility of the wild type ( Table 3 and Fig. 2A , compare QW119 to QW226 ) . 
+In order to test if mucoidy was interfering with motility , we introduced a deletion mutation of wza , the ﬁrst gene in the colanic acid biosynthesis operon , into the igaA * strain ( resulting in strain QW200 ) as well as in all of its RcsB box mutant derivatives ( resulting in strains QW228 to QW233 ) . 
+Mutation of wza abolished the mucoid phenotype of the mutants but did not reverse the motility defect in the igaA * parent ( Fig. 2A , compare QW200 to QW119 ) . 
+However , both swarming an swimming motility now could be observed in the RcsB box mutants ( Table 3 ) . 
+The results conﬁrmed that the a9 residue was critical , the g8 residue less critical , and the c15 residue not critical for RscB-mediated repression of motility ( only QW231 is shown in Fig. 2A ) . 
+A control strain with the wza deletion alone ( QW184 ) swarmed as well as the wild type , showing that colanic acid was not required for swarming ( also see reference 62 ) . 
+Gene expression was assayed only in the mutant with all three RcsB box residues altered ( QW226 ) ; repression of mo-tility operons was completely relieved in this strain , while the expression pattern of all other genes remained unchanged ( some of the microarray data for this strain were reported previously [ 67 ] ; the rest of the data are not shown ) . 
+The mo-tility defect of QW226 , despite the relief of ﬂhDC repression , demonstrates that the excess colanic acid still being produced by this strain impairs swimming and inhibits swarming ( Fig. 2A , compare QW226 to QW231 ) . 
+In an earlier study , we had reported that a Tn10 insertion in rcsD ( formerly yojN ) in S. enterica serovar Typhimurium inhibited swarming on medium solidiﬁed with one commercial source of agar ( Bacto ) but not another ( Eiken ) ( 62 ) . 
+In light of the reported stimulation of swarming motility by insertion mutations in rcsD in both E. coli ( 60 ) and P. mirabilis ( 2 ) , we decided to reexamine our results by creating speciﬁc deletions in each of the rcs genes by the method of Datsenko and Wanner ( 11 ) and by assaying the motility phenotypes of the resulting mutants ( Fig. 2B ) . 
+The rcsB mutant ( QW434 ) showed better swimming and swarming motility than the wild type , consistent with the negative effect of RcsB on the expression of ﬂhDC . 
+rcsA ( QW327 ) had no effect on swimming , also as expected ; however , swarming motility was inhibited 25 % . 
+A rscAB double mutant ( QW329 ) , however , showed the same phenotype as the rscB mutant . 
+rcsC ( QW398 ) and rcsD ( QW459 ) mutants showed a small inhibition of swimming but 40 to 60 % inhibition of swarming . 
+A rcsCD double mutant ( QW436 ) was similar to the single mutants for swimming , but it was slightly worse at swarming . 
+We attribute the modest inhibition of swimming motility in the rcsC and rcsD mutants to the loss of phosphatase activity of RcsCD and a consequent accumulation of RcsB P due to phosphorylation from other phosphor donors ( 20 , 39 ) ( Fig. 1 ) ( see Discussion ) . 
+The more pronounced effect of these mutants on swarming motility is due to the development dynamics of the swarmer colony , in which motility initiates only after a substantial lag . 
+Both mutants initiated swarming later than the wild type , the delay being longer for rcsD than for rcsC . 
+A small initial delay was observed in the rcsA mutant as well ( see Discussion ) . 
+In summary , our mutation data show that only conserved residues in the left half of the RcsB box are important for the repression of ﬂhDC in S. enterica and that RcsB-mediated inhibition of motility occurs entirely through the repression of the ﬂhDC promoter . 
+Colanic acid is not required for swarming , and excess colanic acid inhibits swarming motility completely . 
+Deletion of rcsB has a positive effect on motility , but deletion of rcsC or rcsD had a slightly negative effect on swimming motility and a more pronounced negative effect on swarming motility . 
+( ii ) Positive regulation of ﬂagellar genes ﬂiPQR . 
+The ﬂiL ﬂagellar operon encodes seven genes , ﬂiL through ﬂiR ( Fig. 3A ) ( 36 ) . 
+rcsA is located 281 bp after ﬂiR ( 45 ) . 
+An RcsAB box , homologous to the one identiﬁed in E. coli , occurs 18 bp downstream from the stop codon of ﬂiR . 
+The RcsA and RcsB proteins have been shown to bind to this box and to positively regulate rcsA expression in E. coli ( 70 ) . 
+The maximum induction of ﬂiPQR genes was seen at stationary phase in the RcsB igaA * strain QW119 ( Fig. 3B ) ( note that ﬂiP is not included in Table S1 in the supplemental material , because that table lists only genes upregulated in both exponential and stationary phases of growth ) . 
+The stimulation of ﬂiQ and ﬂiR was strong ( 14 - and 54-fold , respectively ) , and the stimulation of ﬂiP was moderate in comparison ( threefold ) . 
+This stimulation was increased in the absence of rcsA , an effect also seen on expression of rcsA itself , as noted earlier ( Fig. 3B ; also see Table S4 in the supplemental material ) . 
+Curiously , there appeared to be a reverse gradient of expression of these genes , in that the last gene in the opero was expressed at higher levels than the previous gene ; thus , the order of expression levels was ﬂiR ﬂiQ ﬂiP ( Fig. 3B ) . 
+RT-PCR was used to conﬁrm all three ﬁndings from microarray experiments ; i.e. , the elevated expression of only ﬂiPQR in the RcsB mutant , the RcsB dependence of the response , and the increased stimulation of expression in the absence of RcsA . 
+These results are presented in Fig. 3C , in which ﬂiM is used as a representative early gene in the operon and ﬂiO is used as the nearest neighbor of the positively regulated gene ﬂiP . 
+In the wild-type strain 14028 , the gradient of gene expression follows proximal genes distal genes in the ﬂiL operon ; the ﬂiR message is barely detected . 
+In the RcsB strain QW119 , however , the ﬂiM transcript is barely detected , while expression of ﬂiQR is elevated , along with some elevation of ﬂiP . 
+The increased expression of rcsA in the RcsB background ( QW119 ) is consistent with the positive regulation of this gene by RcsB ( see Table S1 in the supplemental material ) . 
+In the absence of RcsB ( QW442 ) , transcription of ﬂiM is restored due to the release of ﬂhDC repression , and the positive regulation of both ﬂiR and rcsA is abolished . 
+In the absence of RcsA , however , the expression of ﬂiPQR is enhanced further ( Fig. 3B ) , and the reverse transcription gradient extends into ﬂiO ( Fig. 3C ) . 
+Deletion of 48 bp containing the RcsAB box in the ﬂiR-rcsA intergenic region decreases both the ﬂiPQR and rcsA transcripts . 
+Since RcsB binding to the RcsAB box is required for stimulation of rcsA transcription ( 70 ) , the positive regulation of ﬂiPQR likely also is promoted by RcsB binding here . 
+Given that the transcription of the ﬂiL operon is repressed in the igaA * background , it follows that ﬂiPQR must be transcribed from an internal RcsB-dependent cryptic promoter in this operon or that a basal level of the transcript is being stabilized in the igaA * background . 
+The detailed nature of this positive regulation , which apparently does not affect motility as determined by similar levels of swimming and swarming observed for the wild type and igaA * mutant QW231 ( wherein ﬂhDC repression is relieved and excess colanic acid synthesis is abrogated [ Fig. 2A , compare 14028 to QW231 ] ) , will be explored in future studies . 
+DISCUSSION
+In this study , we have exploited a spontaneously arising point mutant , IgaA ( T191P ) ( or igaA * ) , which is nearly maximally induced for the Rcs signaling system , to glean information about motility , virulence , and other genes regulated by this system in S. enterica . 
+Microarray experiments revealed that the Rcs system regulates nearly one-ﬁfth of the S. enterica genome under these conditions . 
+Flagellar genes were the largest group of functionally related genes that were strongly negatively regulated , the other large group being the SPI-1 and SPI-2 virulence genes . 
+Within the ﬂagellar regulon , three ﬂagellar genes , ﬂiPQR , were selectively upregulated . 
+A large set of SPI-2 and other virulence genes primarily involved in the growth of Sal-monella in macrophages were activated or repressed , depending on the level of RcsB . 
+We have followed up further only on the microarray results pertaining to motility . 
+The Rcs system and regulation of motility . 
+( i ) Repression of the ﬂagellar regulon . 
+A sequence identical to that of the RcsAB-binding box consensus derived from E. coli studies is present in S. enterica at an equivalent position within the ﬂhDC promoter . 
+We have called this the RcsB box in S. enterica , because microarray data did not show a requirement for RcsA in the repression of the ﬂagellar genes by RcsB . 
+These results are consistent with those of earlier studies on S. enterica that showed no effect of an rcsA mutation on the expression of ﬂhDC : : lac in an igaA1 mutant background ( 4 ) . 
+They also are consistent with results of studies on E. coli that showed no effect of rcsA on motility when present as a single copy ( 20 ) . 
+We note that the RcsB box is part of a large region bound by the osmoregulator OmpR in E. coli ; OmpR represses ﬂhDC under conditions of high osmolarity ( 59 ) . 
+However , deletion of ompR does not affect motility under our experimental conditions ( our unpublished data ; also see reference 62 ) . 
+Our mutational analysis showed that the conserved GA res-idues ( 8 and 9 ) in the left half of the RcsB box were important for repression , while the C residue ( 11 ) was not , as determined by assays for the restoration of motility ( Table 3 and Fig. 2A ) . 
+Microarray analysis of the triple-conserved-res-idue RcsB box mutant determined that transcription of the ﬂagellar regulon was restored to wild-type levels ( data not shown ) , showing that the repression of motility by RcsB is solely through ﬂhDC . 
+( ii ) Positive regulation of ﬂiPQR . 
+Microarray experiments showed that three class 2 ﬂagellar genes , ﬂiPQR , were positively regulated by RcsB ( Fig. 3 ) . 
+These results were conﬁrmed by RT-PCR experiments . 
+A curious aspect of this regulation is what we have termed a reverse gradient of expression ; i.e. , expression levels in the order ﬂiR ﬂiQ ﬂiP . 
+Whether this regulation involves the initiation of transcription from an internal cryptic promoter and/or stabilization of a basal-level transcript remains to be determined . 
+The ﬂiR-rcsA intergenic region containing an RcsAB box appears to be important for the regulation ( Fig. 3 ) . 
+We had reported earlier that ﬂiQR showed a different expression pattern from that of class 2 ﬂagellar genes , in that unlike class 2 genes they continued to be expressed in stationary phase ( 65 ) . 
+Their expression during log phase also was not signiﬁcantly affected in ﬂhDC and ﬂiA mutant backgrounds ( our unpublished data ) . 
+It appears , therefore , that these two genes can be regulated independently of ﬂagellar operon control . 
+The exact role of the ﬂiPQR genes in ﬂagellar export is not known , but along with ﬂiO they are essential for ﬂagellar biogenesis , and their gene products are found in the basal body ( 37 ) . 
+The existence of a natural FliR/FlhB fusion in Clostridium ( 51 ) suggests an association of FliR with the membrane protein FlhB , which plays a role in determining export substrate speciﬁcity ( 37 ) . 
+The positive regulation of these ﬂagellar ex-port-related genes by RcsB , for which other positively regulated functions are involved in responding to membrane stress , including capsule and other polysaccharide synthesis , suggests that perhaps FliPQR have a dual role in the cell . 
+Thus , these proteins may participate in the export of ﬂagellar components when conditions favor motility but export other molecules when conditions call for a sessile existence . 
+( iii ) rcs genes and swarming . 
+Deletion of rcsB had a positive effect on motility , consistent with a role of the Rcs system in the repression of motility ( Fig. 2B ) . 
+However , deletion of rcsC or rcsD had a slightly negative effect on swimming motility and a more pronounced negative effect on swarming motility . 
+Th motility phenotype of the rcsC mutant could be related to the dual function of RcsC as both a phosphatase and a kinase ( 39 ) . 
+The loss of phosphatase activity could result in the accumulation of RcsB P due to cross-talk from other sources . 
+Indeed , acetyl phosphate-mediated activation of RscB has been reported to delay transcription of the ﬂagellar operon in an rcsC mutant in E. coli ( 20 ) . 
+A similar mechanism may be invoked to explain the phenotype of the rcsD mutant , since RcsD links RcsC and RcsB in the signaling pathway ( Fig. 1 ) . 
+The more severe effect on swarming motility of both the rcsC and rcsD mutations is due to a longer lag in the initiation of swarming in these mutants . 
+The rcsA mutation , which does not affect swimming , affects swarming at the initiation stage as well . 
+We speculate that this may be due to an antagonistic effect of RcsA on the repression of ﬂhDC , i.e. , more inhibition in the absence of RcsA ; we observed such an effect in one of three microarray experimental repeats . 
+Swarming apparently is more sensitive to changes in the transcription proﬁle of ﬂagellar genes , likely because of other factors that inﬂuence the initiation of motility on the surface ( 28 ) . 
+( iv ) Colanic acid and swarming . 
+Moist surface conditions are of paramount importance during swarming ( 28 ) . 
+Swarming bacteria often secrete special wetting agents and surfactants that aid in trapping sufﬁcient moisture and decreasing surface tension to facilitate the spreading of the swarming colony . 
+For example , P. mirabilis produces an acidic capsular polysaccharide ( 19 , 54 ) , Serratia marcescens and Serratia liquefaciens produce the surfactant serrawettin ( 35 , 43 , 44 ) , Pseudomonas aeruginosa makes rhamnolipids ( 13 ) , and Bacillus subtilis makes the surfactant surfactin ( 33 , 46 ) , all of which aid the advancement of the surface colony . 
+In E. coli and S. enterica , the lipopolysaccharide is proposed to play this role ( 62 ) . 
+We therefore were curious to learn whether excess colanic acid would promote swarming . 
+We have found that not only does excess colanic acid not promote swarming , but in fact it inhibits swarming while moderately inhibiting swimming motility . 
+Consistent with our earlier ﬁndings that genes for colanic acid synthesis are not induced during swarming or growth on an agar surface ( 65 ) , deletion of wza does not affect swarming ( Fig. 2A ) . 
+Thus , colanic acid is not required for swarming , is not induced during swarming , and does not promote swarming if overproduced . 
+Inhibition of motility by excess colanic acid is consistent with the transcriptional shutdown of motility functions by the organism in an apparent preparation for a sessile existence . 
+Our results are inconsistent with the ﬁnding that cps genes are induced upon growth on an agar surface in E. coli ( 17 ) . 
+It is possible that E. coli and Salmonella respond differently to the induction of these genes on surfaces . 
+The Rcs system and regulation of virulence genes . 
+S. enterica encodes two virulence systems that operate at different steps of the infection cycle ( 31 ) . 
+The SPI-1 system is involved in the intestinal phase of infection and is essential for the invasion of nonphagocytic cells ( 22 ) . 
+The SPI-2 system is required for intracellular survival and proliferation and is essential for systemic infection ( 29 , 58 , 69 ) . 
+Consequently , the expression of these systems is differentially regulated : the expression of SPI-1 is stimulated by environmental cues ( e.g. , high osmolarity and low oxygen tension ) present in the intestinal tract , while the expression of SPI-2 is stimulated by conditions present within host cells ( e.g. , low Mg2 concentrations and acidic pH ) 
+( 23 ) . 
+The results reported in this study suggest that the Rcs signaling system is an important player in ﬁne-tuning the bacterial response to different environmental challenges . 
+We discuss below only our new results with respect to SPI-2 . 
+Dual regulation of SPI-2 genes . 
+A majority of the genes showing dual regulation by RcsB in our studies , i.e. , genes positively regulated at normal levels and negatively regulated at highly activated levels of RcsB , either belong to the SPI-2 group or are virulence determinants known to be involved in survival in macrophages , which are endowed with robust and varied antimicrobial defenses ( 55 ) ( Table 2 ) . 
+The SPI-2-en-coded TTS system and the two-component PhoPQ system are absolutely required to withstand these defenses ( 26 , 34 , 69 ) . 
+The SPI-2 effectors remodel the Salmonella-containing vacuole ( SCV ) by a variety of functions , which include an inhibition of various aspects of endocytic trafﬁcking , an avoidance of NADPH oxidase-dependent killing , the induction of a delayed apoptosis-like host cell death , the control of SCV membrane dynamics , the assembly of a meshwork of F-actin around the SCV , an accumulation of cholesterol around the SCV , and interference with the localization of inducible nitric oxide synthase to the SCV ( 69 ) . 
+ugtL , virK , mig-14 , and pgtE are PhoPQ-regulated genes that play a role in resistance to polymyxin B and/or cationic antimicrobial peptides ( 50 ) . 
+pagC , pagD , pipB , sopD , and pagK also are controlled by the PhoPQ signaling system ( 73 ) . 
+Positive regulation of all of these virulence genes by the Rcs system is consistent with the report that an rcsC mutant of S. enterica serovar Typhimurium was attenuated for systemic infection ( 12 ) . 
+PhoPQ controls a large number of genes in Salmonella ( 47 , 72 , 73 ) ; why only a subset of these is affected by the Rcs system is not clear . 
+We note that a connection between the Rcs and the PhoPQ systems has been seen in several studies ( 24 , 27 , 61 ) . 
+Both OmpR/EnvZ and PhoPQ have been implicated in the expression of SPI-2 genes and associated effectors by controlling the SsrAB system , which regulates transcription of the SPI-2 genes ( 3 , 16 ) . 
+It appears from our studies that the Rcs system is the third signaling system that also regulates SsrAB ( Table 2 ) . 
+Multiple regulation of the SPI-2 pathway may be designed to respond to different stimuli at different stages of infection ( 1 ) . 
+The Salmonella ugd gene , for example , which is required for the incorporation of 4-aminoarabinose in the li-popolysaccharide and resistance to the antibiotic polymyxin B , also is controlled by three two-component systems : PhoPQ , PmrAD , and RcsCDB systems ( 49 , 61 ) . 
+The dual regulation of SPI-2 we have observed in an isolated system is only an indicator of the more complex regulation inside the bacterial host , where the Rcs system must activate SPI-2 gene expression in macrophages while repressing motility and SPI-1 virulence . 
+The signiﬁcance of the degree of RcsB activation for SPI-2 expression may be related to the different host signals encountered by the bacteria en route to their site of proliferation or within their speciﬁc niches . 
+The IgaA protein must play an important role during these transitions . 
+How is the dual regulation of the virulence genes by RcsB achieved ? 
+Identiﬁcation of promoters that are directly regulated by RcsB will allow a dissection of the molecular mechanism of this regulation . 
+The 14-bp RcsAB box consensus ( 70 ) generally occurs in the promoter region but can be found as far upstream as 50 to 300 bp from the transcription start site ( 27 ) 
+The consensus sequence therefore does not have enough sequence or position speciﬁcity to reliably predict which genes may be directly regulated . 
+The identiﬁcation of genes directly regulated by these regulators must await a more direct analysis , such as chromatin immunoprecipitation-on-chip . 
+Function of the Rcs regulon . 
+The speciﬁc signals that activate the Rcs system are not known , although the general physiological conditions that trigger the system are accepted to be osmotic or other membrane stresses acting through RcsF and IgaA upstream of RcsC ( 6 , 39 , 40 ) ( Fig. 1 ) . 
+rcs genes are not present in endosymbionts , which have only an intracellular existence . 
+Consideration of the pathways that are the most strongly regulated suggests that the Rcs system initially evolved to protect the organism from osmotic changes in the environment as well as to support a sessile existence within bioﬁlms . 
+Colanic acid is reported to be required for maintaining a proper bioﬁlm architecture ( 10 , 53 ) . 
+Motility and pathogenicity ( including SPI-1 / SPI-2 ) are not required in such an environment , and the Rcs system is expected to be most activated in such a sessile state . 
+A transition from a sessile to a motile state requires the system to be deactivated . 
+Inside the host , motility and SPI-1 virulence are important for the intestinal phase of infection but then must be selectively turned off in the macro-phages while still allowing SPI-2 gene expression . 
+IgaA must be an important player in these transitions , which clearly are inﬂuenced by other signaling pathways as well . 
+S. enterica contains more than 30 two-component systems ( 64 ) . 
+Of these , the PhoPQ system has been reported to control as much as 2 to 3 % of genes in E. coli and S. enterica ( 47 , 72 ) . 
+This system often mediates its effects indirectly via activation of other regulatory systems , such as the PmrAB two-compo-nent system ( 1 , 56 ) . 
+While we do not yet have information on which genes are directly regulated by RcsB , our analysis suggests that the RcsCDB signaling system interacts with the PhoPQ and SsrAB systems , shares signals and regulatory pathways with the EnvZ/OmpR system , and likely controls the largest genetic program identiﬁed to date . 
+ACKNOWLEDGMENTS We thank Kelly Hughes for strains and advice with mapping , Steffen Porwollik for arrays and assistance with data processing , and Susana Mariconda for technical assistance . 
+This work was supported by NIH grant GM57400 . 
+M.M. was supported in part by grants AI034829 , AI057733 , and AI52237-06 . 
+REFERENCES 1 . 
+Beier , D. , and R. Gross . 
+2006 . 
+Regulation of bacterial virulence by two-component systems . 
+Curr . 
+Opin . 
+Microbiol . 
+9:143 -- 152 . 
+2 . 
+Belas , R. , R. Schneider , and M. Melch . 
+1998 . 
+Characterization of Proteus mirabilis precocious swarming mutants : identiﬁcation of rsbA , encoding a regulator of swarming behavior . 
+J. Bacteriol . 
+180:6126 -- 6139 . 
+3 . 
+Bijlsma , J. J. , and E. A. Groisman . 
+2005 . 
+The PhoP/PhoQ system controls the intramacrophage type three secretion system of Salmonella enterica . 
+Mol . 
+Microbiol . 
+57:85 -- 96 . 
+4 . 
+Cano , D. A. , G. Dominguez-Bernal , A. Tierrez , F. Garcia-Del Portillo , and J. Casadesus . 
+2002 . 
+Regulation of capsule synthesis and cell motility in Salmo-nella enterica by the essential gene igaA . 
+Genetics 162:1513 -- 1523 . 
+5 . 
+Cano , D. A. , M. Martinez-Moya , M. G. Pucciarelli , E. A. Groisman , J. Casadesus , and F. Garcia-Del Portillo . 
+2001 . 
+Salmonella enterica serovar Typhimurium response involved in attenuation of pathogen intracellular proliferation . 
+Infect . 
+Immun . 
+69:6463 -- 6474 . 
+6 . 
+Castanié - Cornet , M. P. , K. Cam , and A. Jacq . 
+2006 . 
+RcsF is an outer membrane lipoprotein involved in the RcsCDB phosphorelay signaling pathway in Escherichia coli . 
+J. Bacteriol . 
+188:4264 -- 4270 . 
+7 . 
+Chevance , F. F. , J. E. Karlinsey , C. E. Wozniak , and K. T. Hughes . 
+2006 . 
+A little gene with big effects : a serT mutant is defective in ﬂgM gene translation . 
+J. Bacteriol . 
+188:297 -- 304 . 
+8 . 
+Chilcott , G. S. , and K. T. Hughes . 
+2000 . 
+Coupling of ﬂagellar gene expression to ﬂagellar assembly in Salmonella enterica serovar Typhimurium and Esch-erichia coli . 
+Microbiol . 
+Mol . 
+Biol . 
+Rev. 64:694 -- 708 . 
+9 . 
+Costa , C. S. , M. J. Pettinari , B. S. Mendez , and D. N. Anton . 
+2003 . 
+Null mutations in the essential gene yrfF ( mucM ) are not lethal in rcsB , yojN or rcsC strains of Salmonella enterica serovar Typhimurium . 
+FEMS Microbiol . 
+Lett . 
+222:25 -- 32 . 
+10 . 
+Danese , P. N. , L. A. Pratt , and R. Kolter . 
+2000 . 
+Exopolysaccharide production is required for development of Escherichia coli K-12 bioﬁlm architecture . 
+J. Bacteriol . 
+182:3593 -- 3596 . 
+11 . 
+Datsenko , K. A. , and B. L. Wanner . 
+2000 . 
+One-step inactivation of chromosomal genes in Escherichia coli K-12 using PCR products . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 97:6640 -- 6645 . 
+12 . 
+Detweiler , C. S. , D. M. Monack , I. E. Brodsky , H. Mathew , and S. Falkow . 
+2003 . 
+virK , somA and rcsC are important for systemic Salmonella enterica serovar Typhimurium infection and cationic peptide resistance . 
+Mol . 
+Microbiol . 
+48:385 -- 400 . 
+13 . 
+Déziel , E. , F. Lepine , S. Milot , and R. Villemur . 
+2003 . 
+rhlA is required for the production of a novel biosurfactant promoting swarming motility in Pseudo-monas aeruginosa : 3 - ( 3-hydroxyalkanoyloxy ) alkanoic acids ( HAAs ) , the precursors of rhamnolipids . 
+Microbiology 149:2005 -- 2013 . 
+14 . 
+Domınguez-Bernal , G. , M. G. Pucciarelli , F. Ramos-Morales , M. Garcia-Quintanilla , D. A. Cano , J. Casadesus , and F. Garcia-del Portillo . 
+2004 . 
+Repression of the RcsC-YojN-RcsB phosphorelay by the IgaA protein is a requisite for Salmonella virulence . 
+Mol . 
+Microbiol . 
+53:1437 -- 1449 . 
+15 . 
+Dufour , A. , R. B. Furness , and C. Hughes . 
+1998 . 
+Novel genes that upregulate the Proteus mirabilis ﬂhDC master operon controlling ﬂagellar biogenesis and swarming . 
+Mol . 
+Microbiol . 
+29:741 -- 751 . 
+16 . 
+Feng , X. , R. Oropeza , and L. J. Kenney . 
+2003 . 
+Dual regulation by phosphoOmpR of ssrA/B gene expression in Salmonella pathogenicity island 2 . 
+Mol . 
+Microbiol . 
+48:1131 -- 1143 . 
+17 . 
+Ferrières , L. , and D. J. Clarke . 
+2003 . 
+The RcsC sensor kinase is required for normal bioﬁlm formation in Escherichia coli K-12 and controls the expression of a regulon in response to growth on a solid surface . 
+Mol . 
+Microbiol . 
+50:1665 -- 1682 . 
+18 . 
+Francez-Charlot , A. , B. Laugel , A. Van Gemert , N. Dubarry , F. Wiorowski , M. P. Castanie-Cornet , C. Gutierrez , and K. Cam . 
+2003 . 
+RcsCDB His-Asp phosphorelay system negatively regulates the ﬂhDC operon in Escherichia coli . 
+Mol . 
+Microbiol . 
+49:823 -- 832 . 
+19 . 
+Fraser , G. M. , and C. Hughes . 
+1999 . 
+Swarming motility . 
+Curr . 
+Opin . 
+Microbiol . 
+2:630 -- 635 . 
+20 . 
+Fredericks , C. E. , S. Shibata , S. Aizawa , S. A. Reimann , and A. J. Wolfe . 
+2006 . 
+Acetyl phosphate-sensitive regulation of ﬂagellar biogenesis and capsular biosynthesis depends on the Rcs phosphorelay . 
+Mol . 
+Microbiol . 
+61 : 734 -- 747 . 
+21 . 
+Frye , J. , J. E. Karlinsey , H. R. Felise , B. Marzolf , N. Dowidar , M. McClelland , and K. T. Hughes . 
+2006 . 
+Identiﬁcation of new ﬂagellar genes of Salmonella enterica serovar Typhimurium . 
+J. Bacteriol . 
+188:2233 -- 2243 . 
+22 . 
+Galán , J. E. 1999 . 
+Interaction of Salmonella with host cells through the centisome 63 type III secretion system . 
+Curr . 
+Opin . 
+Microbiol . 
+2:46 -- 50 . 
+23 . 
+Galán , J. E. 2001 . 
+Salmonella interactions with host cells : type III secretion at work . 
+Annu . 
+Rev. Cell Dev . 
+Biol . 
+17:53 -- 86 . 
+24 . 
+Garcıa-Caldero ́n , C. B. , J. Casadesus , and F. Ramos-Morales . 
+2007 . 
+Rcs and PhoPQ regulatory overlap in the control of Salmonella enterica virulence . 
+J. Bacteriol . 
+189:6635 -- 6644 . 
+25 . 
+Garcia-Calderon , C. B. , M. Garcia-Quintanilla , J. Casadesus , and F. Ramos-Morales . 
+2005 . 
+Virulence attenuation in Salmonella enterica rcsC mutants with constitutive activation of the Rcs system . 
+Microbiology 151 : 579 -- 588 . 
+26 . 
+Groisman , E. A. 2001 . 
+The pleiotropic two-component regulatory system PhoP-PhoQ . 
+J. Bacteriol . 
+183:1835 -- 1842 . 
+27 . 
+Hagiwara , D. , M. Sugiura , T. Oshima , H. Mori , H. Aiba , T. Yamashino , and T. Mizuno . 
+2003 . 
+Genome-wide analyses revealing a signaling network of the RcsC-YojN-RcsB phosphorelay system in Escherichia coli . 
+J. Bacteriol . 
+185 : 5735 -- 5746 . 
+28 . 
+Harshey , R. M. 2003 . 
+Bacterial motility on a surface : many ways to a common goal . 
+Annu . 
+Rev. Microbiol . 
+57:249 -- 273 . 
+29 . 
+Hensel , M. 2000 . 
+Salmonella pathogenicity island 2 . 
+Mol . 
+Microbiol . 
+36 : 1015 -- 1023 . 
+30 . 
+Huang , Y. H. , L. Ferrieres , and D. J. Clarke . 
+2006 . 
+The role of the Rcs phosphorelay in Enterobacteriaceae . 
+Res . 
+Microbiol . 
+157:206 -- 212 . 
+31 . 
+Hueffer , K. , and J. E. Galan . 
+2004 . 
+Salmonella-induced macrophage death : multiple mechanisms , different outcomes . 
+Cell Microbiol . 
+6:1019 -- 1025 . 
+32 . 
+Humphries , A. D. , S. M. Townsend , R. A. Kingsley , T. L. Nicholson , R. M. Tsolis , and A. J. Baumler . 
+2001 . 
+Role of ﬁmbriae as antigens and intestinal colonization factors of Salmonella serovars . 
+FEMS Microbiol . 
+Lett . 
+201:121 -- 125 . 
+33 . 
+Kearns , D. B. , and R. Losick . 
+2003 . 
+Swarming motility in undomesticated Bacillus subtilis . 
+Mol . 
+Microbiol . 
+49:581 -- 590 . 
+34 . 
+Kuhle , V. , and M. Hensel . 
+2004 . 
+Cellular microbiology of intracellular Sal-monella enterica : functions of the type III secretion system encoded by Salmonella pathogenicity island 2 . 
+Cell Mol . 
+Life Sci . 
+61:2812 -- 2826 
+35 . 
+Lindum , P. W. , U. Anthoni , C. Christophersen , L. Eberl , S. Molin , and M. Givskov . 
+1998 . 
+N-Acyl-L-homoserine lactone autoinducers control production of an extracellular lipopeptide biosurfactant required for swarming motility of Serratia liquefaciens MG1 . 
+J. Bacteriol . 
+180:6384 -- 6388 . 
+36 . 
+Macnab , R. M. 1996 . 
+Flagella and motility , p. 123 -- 145 . 
+In F. C. Neidhardt , R. Curtiss III , J. L. Ingraham , E. C. C. Lin , K. B. Low , B. Magasanik , W. S. Reznikoff , M. Riley , M. Schaechter , and H. E. Umbarger ( ed . ) 
+, Escherichia coli and Salmonella : cellular and molecular biology , 2nd ed. , vol . 
+1 . 
+ASM Press , Washington , DC . 
+37 . 
+Macnab , R. M. 2003 . 
+How bacteria assemble ﬂagella . 
+Annu . 
+Rev. Microbiol . 
+57:77 -- 100 . 
+38 . 
+Macnab , R. M. 2004 . 
+Type III ﬂagellar protein export and ﬂagellar assembly . 
+Biochim . 
+Biophys . 
+Acta 1694:207 -- 217 . 
+39 . 
+Majdalani , N. , and S. Gottesman . 
+2005 . 
+The Rcs phosphorelay : a complex signal transduction system . 
+Annu . 
+Rev. Microbiol . 
+59:379 -- 405 . 
+40 . 
+Majdalani , N. , M. Heck , V. Stout , and S. Gottesman . 
+2005 . 
+Role of RcsF in signaling to the Rcs phosphorelay pathway in Escherichia coli . 
+J. Bacteriol . 
+187:6770 -- 6778 . 
+41 . 
+Maloy , S. R. , and W. D. Nunn . 
+1981 . 
+Selection for loss of tetracycline resistance by Escherichia coli . 
+J. Bacteriol . 
+145:1110 -- 1111 . 
+42 . 
+Mariconda , S. , Q. Wang , and R. M. Harshey . 
+2006 . 
+A mechanical role for the chemotaxis system in swarming motility . 
+Mol . 
+Microbiol . 
+60:1590 -- 1602 . 
+43 . 
+Matsuyama , T. , A. Bhasin , and R. M. Harshey . 
+1995 . 
+Mutational analysis of ﬂagellum-independent surface spreading of Serratia marcescens 274 on a low-agar medium . 
+J. Bacteriol . 
+177:987 -- 991 . 
+44 . 
+Matsuyama , T. , K. Kaneda , Y. Nakagawa , K. Isa , H. Hara-Hotta , and I. Yano . 
+1992 . 
+A novel extracellular cyclic lipopeptide which promotes ﬂagel-lum-dependent and - independent spreading growth of Serratia marcescens . 
+J. Bacteriol . 
+174:1769 -- 1776 . 
+45 . 
+McClelland , M. , K. E. Sanderson , J. Spieth , S. W. Clifton , P. Latreille , L. Courtney , S. Porwollik , J. Ali , M. Dante , F. Du , S. Hou , D. Layman , S. Leonard , C. Nguyen , K. Scott , A. Holmes , N. Grewal , E. Mulvaney , E. Ryan , H. Sun , L. Florea , W. Miller , T. Stoneking , M. Nhan , R. Waterston , and R. K. Wilson . 
+2001 . 
+Complete genome sequence of Salmonella enterica se-rovar Typhimurium LT2 . 
+Nature 413:852 -- 856 . 
+46 . 
+Mireles , J. R. , Jr. , A. Toguchi , and R. M. Harshey . 
+2001 . 
+Salmonella enterica serovar Typhimurium swarming mutants with altered bioﬁlm-forming abilities : surfactin inhibits bioﬁlm formation . 
+J. Bacteriol . 
+183:5848 -- 5854 . 
+47 . 
+Monsieurs , P. , S. De Keersmaecker , W. W. Navarre , M. W. Bader , F. De Smet , M. McClelland , F. C. Fang , B. De Moor , J. Vanderleyden , and K. Marchal . 
+2005 . 
+Comparison of the PhoPQ regulon in Escherichia coli and Salmonella typhimurium . 
+J. Mol . 
+Evol . 
+60:462 -- 474 . 
+48 . 
+Mouslim , C. , M. Delgado , and E. A. Groisman . 
+2004 . 
+Activation of the RcsC/YojN/RcsB phosphorelay system attenuates Salmonella virulence . 
+Mol . 
+Microbiol . 
+54:386 -- 395 . 
+49 . 
+Mouslim , C. , and E. A. Groisman . 
+2003 . 
+Control of the Salmonella ugd gene by three two-component regulatory systems . 
+Mol . 
+Microbiol . 
+47:335 -- 344 . 
+50 . 
+Navarre , W. W. , T. A. Halsey , D. Walthers , J. Frye , M. McClelland , J. L. Potter , L. J. Kenney , J. S. Gunn , F. C. Fang , and S. J. Libby . 
+2005 . 
+Co-regulation of Salmonella enterica genes required for virulence and resistance to antimicrobial peptides by SlyA and PhoP/PhoQ . 
+Mol . 
+Microbiol . 
+56:492 -- 508 . 
+51 . 
+Nölling , J. , G. Breton , M. V. Omelchenko , K. S. Makarova , Q. Zeng , R. Gibson , H. M. Lee , J. Dubois , D. Qiu , J. Hitti , Y. I. Wolf , R. L. Tatusov , F. Sabathe , L. Doucette-Stamm , P. Soucaille , M. J. Daly , G. N. Bennett , E. V. Koonin , and D. R. Smith . 
+2001 . 
+Genome sequence and comparative analysis of the solvent-producing bacterium Clostridium acetobutylicum . 
+J. Bacteriol . 
+183:4823 -- 4838 . 
+52 . 
+Ophir , T. , and D. L. Gutnick . 
+1994 . 
+A role for exopolysaccharides in the protection of microorganisms from desiccation . 
+Appl . 
+Environ . 
+Microbiol . 
+60:740 -- 745 . 
+53 . 
+Prigent-Combaret , C. , O. Vidal , C. Dorel , and P. Lejeune . 
+1999 . 
+Abiotic surface sensing and bioﬁlm-dependent regulation of gene expression in Escherichia coli . 
+J. Bacteriol . 
+181:5993 -- 6002 . 
+54 . 
+Rahman , M. M. , J. Guard-Petter , K. Asokan , C. Hughes , and R. W. Carlson . 
+1999 . 
+The structure of the colony migration factor from pathogenic Proteus mirabilis . 
+A capsular polysaccharide that facilitates swarming . 
+J. Biol . 
+Chem . 
+274:22993 -- 22998 . 
+55 . 
+Rosenberger , C. M. , and B. B. Finlay . 
+2003 . 
+Phagocyte sabotage : disruption of macrophage signalling by bacterial pathogens . 
+Nat . 
+Rev. Mol . 
+Cell . 
+Biol . 
+4:385 -- 396 . 
+56 . 
+Rychlik , I. , and P. A. Barrow . 
+2005 . 
+Salmonella stress management and its relevance to behaviour during intestinal colonisation and infection . 
+FEMS Microbiol . 
+Rev. 29:1021 -- 1040 . 
+57 . 
+Schwan , W. R. , S. Shibata , S. I. Aizawa , and A. J. Wolfe . 
+2007 . 
+The two-component response regulator rcsb regulates type 1 piliation in Escherichia coli . 
+J. Bacteriol 189:7159 -- 7163 . 
+58 . 
+Shea , J. E. , C. R. Beuzon , C. Gleeson , R. Mundy , and D. W. Holden . 
+1999 . 
+Inﬂuence of the Salmonella typhimurium pathogenicity island 2 type III secretion system on bacterial growth in the mouse . 
+Infect . 
+Immun . 
+67:213 -- 219 . 
+59 . 
+Shin , S. , and C. Park . 
+1995 . 
+Modulation of ﬂagellar expression in Escherichia coli by acetyl phosphate and the osmoregulator OmpR . 
+J. Bacteriol . 
+177 : 4696 -- 4702 . 
+60 . 
+Takeda , S. , Y. Fujisawa , M. Matsubara , H. Aiba , and T. Mizuno . 
+2001 . 
+A novel feature of the multistep phosphorelay in Escherichia coli : a revised model of the RcsC 3YojN 3RcsB signalling pathway implicated in capsular synthesis and swarming behaviour . 
+Mol . 
+Microbiol . 
+40:440 -- 450 . 
+61 . 
+Tierrez , A. , and F. Garcia-del Portillo . 
+2004 . 
+The Salmonella membrane protein IgaA modulates the activity of the RcsC-YojN-RcsB and PhoPPhoQ regulons . 
+J. Bacteriol . 
+186:7481 -- 7489 . 
+62 . 
+Toguchi , A. , M. Siano , M. Burkart , and R. M. Harshey . 
+2000 . 
+Genetics of swarming motility in Salmonella enterica serovar Typhimurium : critical role for lipopolysaccharide . 
+J. Bacteriol . 
+182:6308 -- 6321 . 
+63 . 
+Tusher , V. G. , R. Tibshirani , and G. Chu . 
+2001 . 
+Signiﬁcance analysis of microarrays applied to the ionizing radiation response . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 98:5116 -- 5121 . 
+64 . 
+Ulrich , L. E. , and I. B. Zhulin . 
+2006 . 
+MiST : a microbial signal transduction database . 
+Nucleic Acids Res . 
+35 : D386 -- D390 . 
+65 . 
+Wang , Q. , J. G. Frye , M. McClelland , and R. M. Harshey . 
+2004 . 
+Gene expression patterns during swarming in Salmonella typhimurium : genes spe-ciﬁc to surface growth and putative new motility and pathogenicity genes . 
+Mol . 
+Microbiol . 
+52:169 -- 187 . 
+66 . 
+Wang , Q. , H. Liu , and P. J. Szaniszlo . 
+2002 . 
+Compensatory expression of ﬁve chitin synthase genes , a response to stress stimuli , in Wangiella ( Exophiala ) dermatitidis , a melanized fungal pathogen of humans . 
+Microbiology 148 : 2811 -- 2817 . 
+67 . 
+Wang , Q. , S. Mariconda , A. Suzuki , M. McClelland , and R. M. Harshey . 
+2006 . 
+Uncovering a large set of genes that affect surface motility in Salmo-nella enterica serovar Typhimurium . 
+J. Bacteriol . 
+188:7981 -- 7984 . 
+68 . 
+Wang , Q. , A. Suzuki , S. Mariconda , S. Porwollik , and R. M. Harshey . 
+2005 . 
+Sensing wetness : a new role for the bacterial ﬂagellum . 
+EMBO J. 24:2034 -- 2042 . 
+69 . 
+Waterman , S. R. , and D. W. Holden . 
+2003 . 
+Functions and effectors of the Salmonella pathogenicity island 2 type III secretion system . 
+Cell Microbiol . 
+5:501 -- 511 . 
+70 . 
+Wehland , M. , and F. Bernhard . 
+2000 . 
+The RcsAB box . 
+Characterization of a new operator essential for the regulation of exopolysaccharide biosynthesis in enteric bacteria . 
+J. Biol . 
+Chem . 
+275:7013 -- 7020 . 
+71 . 
+Yanagihara , S. , S. Iyoda , K. Ohnishi , T. Iino , and K. Kutsukake . 
+1999 . 
+Structure and transcriptional control of the ﬂagellar master operon of Sal-monella typhimurium . 
+Genes Genet . 
+Syst . 
+74:105 -- 111 . 
+72 . 
+Zwir , I. , H. Huang , and E. A. Groisman . 
+2005 . 
+Analysis of differentially-regulated genes within a regulatory network by GPS genome navigation . 
+Bioinformatics 21:4073 -- 4083 . 
+73 . 
+Zwir , I. , D. Shin , A. Kato , K. Nishino , T. Latiﬁ , F. Solomon , J. M. Hare , H. Huang , and E. A. Groisman . 
+2005 . 
+Dissecting the PhoP regulatory network of Escherichia coli and Salmonella enterica . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 102:2862 -- 2867

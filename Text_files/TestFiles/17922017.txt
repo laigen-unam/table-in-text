@@ -1,0 +1,291 @@
+In vivo gene regulation in Salmonella spp. by a
+Systems allowing tightly regulated expression of prokaryotic genes in vivo are important for performing functional studies of bacterial genes in host-pathogen interactions and establishing bacteria-based therapies . 
+We integrated a regulatory control circuit activated by acetyl salicylic acid ( ASA ) in attenuated Salmonella enterica that carries an expression module with a gene of interest under control of the XylS2-dependent Pm promoter . 
+This resulted in 20 -- 150-fold induction ex vivo . 
+The regulatory circuit was also efﬁciently induced by ASA when the bacteria resided in eukaryotic cells , both in vitro and in vivo . 
+To validate the circuit , we administered Salmonella spp. , carrying an expression module encoding the 5-ﬂuorocytosine -- converting enzyme cytosine deaminase in the bacterial chromosome or in a plasmid , to mice with tumors . 
+Induction with ASA before 5-ﬂuorocytosine administration resulted in a signiﬁcant reduction of tumor growth . 
+These results demonstrate the usefulness of the regulatory control circuit to selectively switch on gene expression during bacterial infection . 
+Development of systems that allow controlled expression of hetero-logous genes is critical for the study of gene function . 
+These systems would open new perspectives in the functional analysis of hostpathogen interactions , allowing assessment of the importance of speciﬁc virulence genes during the infection process . 
+They would also facilitate the exploitation of recombinant microorganisms for targeted expression of therapeutic molecules . 
+Therefore , effort has been invested in the development of expression systems that allow tightly regulated expression of prokaryotic genes under in vitro and in vivo conditions1 -- 3 . 
+Previous expression systems have relied on the use of inducers or on the alteration of environmental conditions . 
+These approaches , however , are not suitable for activation in eukaryotic cells . 
+Promoters derived from virulence genes have permitted the generation of expression systems activated upon bacterial infection4 ,5 . 
+These systems , however , are either silent ( extracellularly ) or activated ( within eukaryotic cells ) , preventing gene expression at will during speciﬁc stages of the infection process1 ,3,6 . 
+Thus , expression systems have been developed that could be activated in response to external stimuli such as tetracycline , mitomycin or X-rays , even within eukaryotic cells2 ,7 -- 9 . 
+Unfortunately , these improved systems are suboptimal , as their implementation is barely compatible with in vivo studies because of sub-optimal pharmacokinetics and toxicity of the inducer . 
+Additionally , an ideal system should have negligible basal expression ( minimal metabolic burden ) and high induction ratio ( critical for genes encoding toxic products ) . 
+Furthermore , none of the existing inducers can breach all biological barriers , reaching bacteria within the endocytic compartment without side effects . 
+Thus , the implementation of a regulatory system permitting tight in situ control of bacterial gene expression during microbial transit across different niches during infection is still an elusive target . 
+ASA is one of the most widely used and best-characterized analgesic and anti-inﬂammatory drugs on the market10 . 
+The biological half-life of ASA is only 20 min , as it is rapidly converted into salicylic acid , which has a half-life of 2 -- 4 h . 
+An extensive body of clinical and experimental evidence describes the pharmacological properties of ASA11 ,12 . 
+Salicylate-responsive regulatory factors control the naphthalene degradative pathway in Pseudomo-nas putida . 
+The regulatory protein NahR and its target promoters Psal or Pnah have been used to express heterologous genes13 ,14 . 
+The nahR-Psal regulatory system is tightly regulated ( 20 -- 100-fold induction ) in response to the natural inducer salicylate15 ,16 . 
+Regulatory systems induced by aromatic compounds can also be activated by ASA , such as the mutant xylS2 regulator of the meta-operon in the toluene-xylene catabolic pathway of P. putida13 . 
+The regulatory capacity of these systems could be ampliﬁed 7 -- 20-fold by using a regulatory cascade , in which the regulators ( NahR and XylS2 ) are simultaneously activated by salicylate or ASA13 ,16 . 
+Here we implemented and validated an in vivo ASA or salicylate-inducible cascade expression system based on a regulatory circuit integrated into the chromosome of an attenuated Salmonella enterica aroA ( SL7207-4S2 strain ) . 
+This allows tightly regulated in vivo expression of the target gene after bacterial infection in response to salicylate . 
+In vitro characterization studies revealed induction ratios of 20 -- 150-fold . 
+S. enterica can replicate within solid tumors when delivered systemically , and this has previously been exploited for the delivery of therapeutic genes in humans9 ,17 -- 21 . 
+Thus , we validated our system in vivo in mice challenged with a ﬁbrosarcoma . 
+We administered S. enterica carrying an expression module encoding the 5-ﬂuorocytosine -- converting enzyme cytosine deaminase to mice bearing tumors . 
+ASA induction before treatment with 5-ﬂuorocytosine resulted in a signiﬁcant reduction ( P o 0.01 ) in tumor growth in comparison to controls and mice receiving bacteria in which cytosine deaminase expression was controlled by a tetracycline-inducible system . 
+These results demonstrate the potential of this approach to achieve tightly regulated expression of prokaryotic genes in vivo . 
+We expect that this method will facilitate functional studies to elucidate the role of bacterial genes during different phases of the infection process as well as the implementation of bacteria-based therapies . 
+RESULTS Regulated Salmonella spp . 
+gene expression in culture medium 
+We integrated the regulatory circuit for the salicylate-inducible cascade expression system ( Active Motif ; Fig. 1a ) into the chromosome of an attenuated S. enterica aroA ( SL7207-4S2 strain ; see Supplementary Table 1 online for a list of all strains , plasmids and cell lines used in this work ) . 
+We introduced a target gene ( lacZ ) under the control of the Pm promoter using an expression plasmid . 
+When we used either ASA or salicylate to activate the cascade ampliﬁcation circuit ( Fig. 1a ) , we observed a dose-dependent expression of b-galactosidase in clones carrying the lacZ expression vector ( Fig. 1b ) . 
+Using a low-copy-number plasmid expressing lacZ ( pMPO13 ) resulted in 20-fold lower basal expression levels than using a high-copy-number plasmid ( pMPO2 ; 204 versus 4,384 
+Miller units ) . 
+After induction with 2 mM salicylate , however , the synergistic ampliﬁcation effect of the regulatory circuit integrated into the chromosome resulted in much higher and similar enzymatic activities using both vectors ( 36,792 versus 66,185 Miller units , respectively ; Fig. 1c ) . 
+We obtained a tenfold higher induction rate in clones containing pMPO13 compared to those carrying pMPO2 ( 180 versus 15 Miller units ; Fig. 1d ) , thereby suggesting that pMPO13 is the most promising vector for validating the regulatory circuit . 
+ASA and salicylate induced gene expression in infected cells
+To test the performance of the regulatory circuit when S. enterica reside in the intracellular compartment of mammalian cells , we infected HeLa cells with S. enterica carrying pMPO2 or pMPO13 . 
+We detected basal expression only in cells infected with bacteria carrying pMPO2 ( Supplementary Fig. 1 online ) . 
+In contrast , we observed similar b-galactosidase expression in HeLa cells infected with bacteria bearing pMPO2 or pMPO13 after induction ( see Supplementary Fig. 1 ) . 
+We observed no differences in protein expression when we used ASA or salicylate as inducers , thereby conﬁrming that both compounds reached intracellular bacteria . 
+We obtained comparable results using the macrophage-like cell line 
+J774.A1 (data not shown). These results suggested that the inducer contrast, 71% of cells can exert its activity on intracellular bacteria, and that the low-copy- tary Fig. 2 online). number vector was the more appropriate for subsequent studies.
+Regulated Salmonella spp. gene expression in infected mice
+In preliminary studies we evaluated expression of the reporter gene within the cell line to be used for induction of tumors in mice . 
+We infected F1.A11 cells , which derive from a spontaneous murine ﬁbrosarcoma , with an SL7207-4S2 derivative carrying a plasmid that encodes gfp , pMPO15 , that was derived by replacement of Pm-lacZ in pMPO13 with Pm-gfp ( Supplementary Table 1 ) . 
+After 4 h induction with 2 mM salicylate , ﬂuorescence microscopy revealed GFP-expressing bacteria in tumor cells ( Fig. 2a ) . 
+Flow cytometry analysis inidcated that 30 % of the eukaryotic cells were 
+To evaluate whether the regulatory control circuit can be exploited to achieve tightly regulated in situ expression , we challenged mice with the cell line F1.A11 ( Fig. 3a ) . 
+When the F1.A11-derived tumors were palpable ( 1 -- 1.5 mm in diameter ; approximately 0.1 -- 0.2 g ) , we administered 106 c.f.u. of the strain SL7207-4S2 carrying the gfp encoding plasmid pMPO15 intraperitoneally . 
+After 4 days , we divided mice into two groups , which we injected with salicylate either intraperitoneally or intravenously . 
+Four hours after induction we killed the mice , excised tumors and lymphoid organs , and prepared and plated cellular suspensions to determine the number of c.f.u. / g of tissue . 
+As expected , bacteria were enriched within tumors ( an average of 3 106 , 2 106 and 1 108 c.f.u. / g in spleen , liver and tumors , respectively ) . 
+We then analyzed tumor cells by ﬂow cytometry to evaluate the presence of GFP-expressing bacteria . 
+Approximately 39 and 48 % of the tumor cells were GFP-positive after induction with salicylate by intraperitoneal and intravenous route , respectively ( Fig. 3b , c ) . 
+In contrast , only 11 % of the F1.A11 cells from noninduced controls contained GFP ( Fig. 3 ) . 
+We did not observe GFP-positive cells in tumors in samples from mice that received S. enterica carrying the empty vector ( data not shown ) . 
+Expression of a prodrug-converting enzyme in tumor cells
+Mammalian cells are resistant to 5-ﬂuorocytosine because they lack cytosine deaminase , an enzyme that converts 5-ﬂuorocytosine into 5-ﬂuorouracil , a cytotoxic compound routinely used in cancer chemotherapy . 
+We evaluated the capacity of the new system to selectively deliver a prodrug-converting enzyme into solid tumors in vivo . 
+Thus we compared the effect on tumor growth of infecting S. enterica carrying vectors with the Escherichia coli cytosine deaminase -- encoding gene codA under the control of either the salicylate-inducible circuit ( pMPO16 ; Supplementary Table 1 ) or the tetR-tetO promoter and operator ( pMPO17 ; Supplementary Table 1 ) . 
+When tumors were palpable , we intraperitoneally admi-nistered SL7207-4S2 carrying either pMPO16 or pMPO17 ( 106 c.f.u. ) . 
+After 5 days , we induced cytosine deaminase expression by a single intraperitoneal injection of salicylate or tetracycline ( Fig. 4a ) , and initiated 5-ﬂuorocytosine therapy 4 h after induction . 
+We observed similar tumor growth in mice receiving S. enterica in combination with 5-ﬂuorocytosine or phosphatebuffered saline ( PBS ; Fig. 4b ) . 
+We detected slower tumor progression in mice treated with 5-ﬂuorocytosine that were injected with SL7207-4S2 carrying pMPO17 , wherein codA expression was induced by tetracycline ( Fig. 4b ) . 
+The differences , however , were not statistically signiﬁcant with respect to controls ( P 4 0.05 ) . 
+In contrast , the size of the tumors from 5-ﬂuorocytosine -- treated mice receiving SL7207-4S2 carrying pMPO16 , wherein cytosine deaminase expression was induced by salicylate , was signiﬁcantly smaller than in controls ( P o 0.01 ; Fig. 4b -- d ) . 
+These results provide the proof of concept for the usefulness of the regulatory circuit to control prokaryotic gene expression in vivo . 
+Broad implementation of this platform , however , might require stabilization of the expression module . 
+Thus , we evaluated the performance of strains in which the expression module was integrated into the chromosome . 
+Tumor size in 5-ﬂuorocytosine -- treated mice receiving bacteria expressing codA from the chromosome ( SL7207-4S2-MPO27 ; Supplementary Table 1 ) was similar to that observed in mice receiving the strain carrying the expression module in a plasmid ( SL7207-4S2 with pMPO16 ) , but only after induction ( Fig. 4e ) . 
+In contrast , tumors in mice injected with PBS or with a control strain , where the expression module without codA was integrated ( SL7207-4S2-MPO28 ; Supplementary Table 1 ) , were signiﬁcantly larger ( P o 0.05 ; Fig. 4e ) . 
+DISCUSSION
+The availability of genomic information from bacterial pathogens now permits essential in vivo functional studies on putative virulence genes . 
+This work can be addressed more efﬁciently by using tightly regulated expression systems . 
+These will allow assessment of the role of speciﬁc genes at different stages of the infection process . 
+Presently available systems , however , are suboptimal for in vivo studies . 
+The main aim of this work was to validate a system to obtain tightly regulated expression of prokaryotic genes in vivo based on inducers exhibiting an adequate pharmacokinetic and safety proﬁle . 
+Our strategy allows a tightly regulated expression of selected genes under the control of the Pm promoter in vivo , and presence of the inducers led to activation of protein expression regardless of the topology ( intracellular or extracellular ) . 
+This suggests that the eukaryotic environment does not interfere with gene expression , despite considerable differences in growth conditions . 
+We observed similar expression levels in S. enterica carrying low ( pMPO13 ) and high-copy-number ( pMPO2 ) vectors . 
+Although the background expression was 20-fold lower using the low-copy-number vector , more than 50 % of the maximal reporter expression was reached after induction . 
+As genetic constructs in low-copy-number vectors are more stable in vivo , even without selective pressure6 ,22,23 , they seem to be the vectors of choice for in vivo studies when monocopy gene dosage is not feasible or not required . 
+The developed approach is extremely ﬂexible , as it is possible to integrate additional expression cassettes under control of Pm without titrating out its activator XylS2 , which is overexpressed by the upstream regulator nahR-Psal . 
+The choice of salicylate as inducer of the regulatory cascade was based on its rapid absorption , broad biological distribution in different tissues , short half-life as well as the lack of toxicity when administered at therapeutic dosages compatible with cascade induction , which would allow transient expression for B 9 h after induction . 
+Additional advantages of the system are the minimized metabolic burden resulting from a tight regulation and the high induction levels , which also allow using monocopy gene dosage16 . 
+In addition to its application in the study of host-pathogen interactions , this approach can be exploited for biomedical interventions in which bacterial vectors are used for expression of heterologous antigens or the targeted delivery of anticancer agents21 ,24 -- 26 , as the number of viable S. enterica start to decline in spleen 4 d after infection to nondetectable levels around day 20 ( refs . 
+6,22 ) . 
+Thus , we evaluated whether the regulatory control circuit can be exploited to deliver the 5-ﬂuorocytosine -- converting enzyme cytosine deaminase in tumor cells in vivo . 
+Upon induction with salicylate there was a signiﬁcant reduction in tumor progression in mice treated with strains carrying the expression module either in a plasmid or integrated into the chromosome with respect to controls and mice receiving S. enterica in which cytosine deaminase expression was controlled by a tetracycline-inducible system . 
+Although S. enterica gene expression in cell cultures strongly depends on the host cell type27 , suggesting that gene expression in host tissues might be difﬁcult to predict , our data showed that recombinant S. enterica bearing the nahR : : Psal/xylS2 module displayed high induction rates within macrophages , epithelial cells and tumor cells . 
+None of the other systems that had been proposed to control S. enterica gene expression in situ can be compared with the salicylate-dependent regulatory circuit in terms of efﬁciency , ﬂexibility and safety . 
+Thus , our regulatory control circuit may constitute a cornerstone for functional studies of bacteria-host interactions during the infection process , as well as for the establishment of novel therapeutic interventions . 
+METHODS
+In vitro characterization of clones bearing the expression circuit . 
+We induced with either sodium salicylate or ASA ( Sigma ) SL7207-4S2 derivatives carrying b-galactosidase -- or GFP-encoding vectors grown in LB broth at 37 1C to an optical density at 600 nm ( OD600 ) of 0.3 . 
+After 4 and 6 h , we evaluated the production of b-galactosidase by determining the number of Miller units28 . 
+In vitro infection and intracellular expression studies . 
+We grew bacteria at 37 1C in LB broth supplemented with 0.3 M sodium chloride and 100 mg/ml ampicillin . 
+We grew HeLa and J774.A1 cells on coverslips placed in 24-well tissue culture plates ( Nunc ) in Dulbeccós modiﬁed Eagle 's medium ( DMEM ; Gibco BRL ) supplemented with 2 mM L-glutamine and 10 % FCS at 37 1C until they reached 60 -- 80 % conﬂuence . 
+We added 106 c.f.u. to each well , and incubated cells for an additional 1 or 2 h for J774A .1 and HeLa cells , respectively . 
+We then washed cells , added fresh DMEM supplemented with 50 mg/ml of gentamicin to kill extracellular bacteria , and induced gene expression with sodium salicylate or ASA ( 2 mM ) . 
+After a 4-h incubation , we washed , ﬁxed ( 2 % paraformaldehyde ) and stained with a b-galactosidase staining kit ( Roche ) cells infected with the lacZ vector -- containing S. enterica . 
+To evaluate GFP expression in the intracellular compartment of F1.A11 cells , we induced cells as described above and analyzed them by ﬂuorescence microscopy . 
+For quantiﬁcation , we detached infected cells with trypsin and analyzed them by ﬂow cytometry using a FACScalibur cytometer and the CellquestPro software ( Becton-Dickinson ) . 
+In vivo analysis of clones bearing the regulatory circuit . 
+We intraperitoneally injected mice with 106 c.f.u. of SL7207-4S2 ( pMPO15 ) . 
+After 30 min , we injected 150 ml of sodium salicylate ( 100 mM ) intraperitoneally or intravenously , which is compatible with accepted ASA dosages12 . 
+After 4 h , we killed the mice and analyzed single-cell suspensions obtained from spleens , mesenteric lymph nodes and peritoneal lavages , for the presence of GFP-positive cells by ﬂow cytometry . 
+Animals were treated in accordance with local and European Community guidelines . 
+To evaluate activation of the regulatory circuit within tumors , mice received a subcutaneous injection into the right ﬂank with 5 104 cells from a spontaneous murine ﬁbrosarcoma ( F1.A11 m cells ) resuspended in 100 l of PBS . 
+When palpable tumors developed , we intraperitoneally injected mice with 106 c.f.u. of SL7207-4S2 ( pMPO15 ) . 
+Five days after infection , we induced the expression of gfp , as described above . 
+After 4 h , we killed the mice and removed tumors , spleens and livers for ﬂow cytometric analysis and determination of bacterial viable counts . 
+In vivo comparison of salicylate or tetracycline inducible systems . 
+Mice were challenged with F1.A11 cells , as described above . 
+When tumors were palpable , mice intraperitoneally received 106 c.f.u. of SL7207-4S2 carrying codA under control of the salicylate-responsive regulatory circuit ( pMPO16 ) or the tetR-tetO promoter-operator ( pMPO17 ) , as well as derivatives in which the expression module and control modules were integrated into the chromosome ( SL7207-4S2-MPO27 and SL7207-4S2-MPO28 ) . 
+6 Control mice received PBS or 10 c.f.u. of plasmid-less SL7207-4S2 . 
+After 5 d , we induced expression of codA by intraperitoneal injection of salicylate or tetracycline ( 100 mg ) . 
+Four hours later , we initiated 5-ﬂuorocytosine therapy ( 300 mg/kg every 12 h ) . 
+We measured tumor growth using calipers at the narrowest and longest surface lengths . 
+We calculated tumor size as the product of the mean of these two lengths per mouse averaged over the total number of mice per group ( n 1/4 6 ) . 
+We calculated stati-stical differences in tumor size using the Student 's t-test . 
+We euthanized mice when tumors were 10 mm long to avoid unnecessary suffering . 
+Additional methods . 
+Strains , plasmids and cell lines are described in Supplementary Table 1 . 
+We also provide full description of the integration of the regulatory module nahR/Psal : : xylS2 and the codA expression module into the S. enterica chromosome in Supplementary Methods online . 
+Note: Supplementary information is available on the Nature Methods website.
+AUTHOR CONTRIBUTIONS
+J.L.R. and P.D.B. performed most of the experimental work and analysis of data , and contributed to experimental design . 
+E.M.C. mapped the insertion of the regulatory module and constructed the strains bearing the expression module integrated into the aroC locus . 
+A.C. initially designed the cascade expression system for use in eukaryotic cells . 
+C.L. contributed to the in vivo work . 
+E.S. and C.A.G. were responsible for experimental design , participated in the analysis of raw data and wrote the paper . 
+COMPETING INTERESTS STATEMENT
+The authors declare competing ﬁnancial interests : details accompany the full-text HTML version of the paper at http://www.nature.com/naturemethods/ . 
+Published online at http://www.nature.com/naturemethods Reprints and permissions information is available online at http://npg.nature.com/reprintsandpermissions
+1 . 
+Hohmann , E.L. , Oletta , C.A. , Loomis , W.P. & Miller , S.I. Macrophage-inducible expression of a model antigen in Salmonella typhimurium enhances immunogenicity . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 92 , 2904 -- 2908 ( 1995 ) . 
+2 . 
+McKinney , J. , Guerrier-Takada , C. , Galan , J. & Altman , S. Tightly regulated gene expression system in Salmonella enterica serovar Typhimurium . 
+J. Bacteriol . 
+184 , 6056 -- 6059 ( 2002 ) . 
+3 . 
+Bumann , D. Regulated antigen expression in live recombinant Salmonella enterica serovar Typhimurium strongly affects colonization capabilities and speciﬁc CD4 ( + ) - T-cell responses . 
+Infect . 
+Immun . 
+69 , 7493 -- 7500 ( 2001 ) . 
+4 . 
+Ward , S.J. , Douce , G. , Figueiredo , D. , Dougan , G. & Wren , B.W. Immunogenicity of a Salmonella typhimurium aroA aroD vaccine expressing a nontoxic domain of Clostridium difﬁcile toxin A. Infect . 
+Immun . 
+67 , 2145 -- 2152 ( 1999 ) . 
+5 . 
+Huang , Y. , Hajishengallis , G. & Michalek , S.M. Construction and characterization of a Salmonella enterica serovar typhimurium clone expressing a salivary adhesin of Streptococcus mutans under control of the anaerobically inducible nirB promoter . 
+Infect . 
+Immun . 
+68 , 1549 -- 1556 ( 2000 ) . 
+6 . 
+Medina , E. , Paglia , P. , Rohde , M. , Colombo , M.P. & Guzman , C.A. Modulation of host immune responses stimulated by Salmonella vaccine carrier strains by using different promoters to drive the expression of the recombinant antigen . 
+Eur . 
+J. Immunol . 
+30 , 768 -- 777 ( 2000 ) . 
+7 . 
+Bateman , B.T. , Donegan , N.P. , Jarry , T.M. , Palma , M. & Cheung , A.L. Evaluation of a tetracycline-inducible promoter in Staphylococcus aureus in vitro and in vivo and its application in demonstrating the role of sigB in microcolony formation . 
+Infect . 
+Immun . 
+69 , 7851 -- 7857 ( 2001 ) . 
+8 . 
+Qian , F. & Pan , W. Construction of a tetR-integrated Salmonella enterica serovar Typhi CVD908 strain that tightly controls expression of the major merozoite surface protein of Plasmodium falciparum for applications in human vaccine production . 
+Infect . 
+Immun . 
+70 , 2029 -- 2038 ( 2002 ) . 
+9 . 
+Pawelek , J.M. , Low , K.B. & Bermudes , D. Bacteria as tumour-targeting vectors . 
+Lancet Oncol . 
+4 , 548 -- 556 ( 2003 ) . 
+10 . 
+Weissmann , G. Aspirin . 
+Sci . 
+Am . 
+264 , 84 -- 90 ( 1991 ) . 
+11 . 
+Hennekens , C.H. Update on aspirin in the treatment and prevention of cardiovascular disease . 
+Am . 
+J. Manag . 
+Care 8 , S691 -- S700 ( 2002 ) . 
+12 . 
+Yin , M.J. , Yamamoto , Y. & Gaynor , R.B. . 
+The anti-inﬂammatory agents aspirin and salicylate inhibit the activity of I ( kappa ) B kinase-beta . 
+Nature 396 , 77 -- 80 ( 1998 ) . 
+13 . 
+Cebolla , A. , Sousa , C. & de Lorenzo , V. Rational design of a bacterial transcriptional cascade for amplifying gene expression capacity . 
+Nucleic Acids Res . 
+29 , 759 -- 766 ( 2001 ) . 
+14 . 
+Suarez , A. et al. . 
+Stable expression of pertussis toxin in Bordetella bronchiseptica under the control of a tightly regulated promoter . 
+Appl . 
+Environ . 
+Microbiol . 
+63 , 122 -- 127 ( 1997 ) . 
+15 . 
+Cebolla , A. , Sousa , C. & de Lorenzo , V. Effector speciﬁcity mutants of the transcriptional activator NahR of naphthalene degrading Pseudomonas deﬁne protein sites involved in binding of aromatic inducers . 
+J. Biol . 
+Chem . 
+272 , 3986 -- 3992 ( 1997 ) . 
+16 . 
+Cebolla , A. , Royo , J.L. , De Lorenzo , V. & Santero , E. Improvement of recombinant protein yield by a combination of transcriptional ampliﬁcation and stabilization of gene expression . 
+Appl . 
+Environ . 
+Microbiol . 
+68 , 5034 -- 5041 ( 2002 ) . 
+17 . 
+Clairmont , C. et al. . 
+Biodistribution and genetic stability of the novel antitumor agent VNP20009 , a genetically modiﬁed strain of Salmonella typhimurium . 
+J. Infect . 
+Dis . 
+181 , 1996 -- 2002 ( 2000 ) . 
+18 . 
+Yu , Y.A. et al. . 
+Visualization of tumors and metastases in live animals with bacteria and vaccinia virus encoding light-emitting proteins . 
+Nat . 
+Biotechnol . 
+22 , 313 -- 320 ( 2004 ) . 
+19 . 
+Low , K.B. et al. . 
+Lipid A mutant Salmonella with suppressed virulence and TNFa induction retain tumor-targeting in vivo . 
+Nat . 
+Biotechnol . 
+17 , 37 -- 41 ( 1999 ) . 
+20 . 
+Wei , M.Q. et al. . 
+Facultative or obligate anaerobic bacteria have the potential for multimodality therapy of solid tumours . 
+Eur . 
+J. Cancer 43 , 490 -- 496 ( 2007 ) . 
+21 . 
+Toso , J.F. et al. . 
+Phase I study of the intravenous administration of attenuated Salmonella typhimurium to patients with metastatic melanoma . 
+J. Clin . 
+Oncol . 
+20 , 142 -- 152 ( 2002 ) . 
+22 . 
+Medina , E. et al. . 
+Pathogenicity island 2 mutants of Salmonella typhimurium are efﬁcient carriers for heterologous antigens and enable modulation of immune responses . 
+Infect . 
+Immun . 
+67 , 1093 -- 1099 ( 1999 ) . 
+23 . 
+Tzschaschel , B.D. , Guzman , C.A. , Timmis , K.N. & de Lorenzo , V . 
+An Escherichia coli hemolysin transport system-based vector for the export of polypeptides : export of Shiga-like toxin IIeB subunit by Salmonella typhimurium aroA . 
+Nat . 
+Biotechnol . 
+14 , 765 -- 769 ( 1996 ) . 
+24 . 
+Medina , E. , Guzman , C.A. , Staendner , L.H. , Colombo , M.P. & Paglia , P. Salmonella vaccine carrier strains : effective delivery system to trigger anti-tumor immunity by oral route . 
+Eur . 
+J. Immunol . 
+29 , 693 -- 699 ( 1999 ) . 
+25 . 
+Pawelek , J.M. , Low , K.B. & Bermudes , D. Tumor-targeted Salmonella as a novel anticancer vector . 
+Cancer Res . 
+57 , 4537 -- 4544 ( 1997 ) . 
+26 . 
+Nemunaitis , J. et al. . 
+Pilot trial of genetically modiﬁed , attenuated Salmonella expressing the E. coli cytosine deaminase gene in refractory cancer patients . 
+Cancer Gene Ther . 
+10 , 737 -- 744 ( 2003 ) . 
+27 . 
+Burns-Keliher , L. , Nickerson , C.A. , Morrow , B.J. & Curtiss , R. , III . 
+Cell-speciﬁc proteins synthesized by Salmonella typhimurium . 
+Infect . 
+Immun . 
+66 , 856 -- 861 ( 1998 ) . 
+28 . 
+Miller , J.H. Experiments in molecular genetics . 
+( Cold Spring Harbor Laboratory Press , Cold Spring Harbor , New York , 1972 ) .

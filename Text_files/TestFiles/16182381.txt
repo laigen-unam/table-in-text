@@ -1,0 +1,382 @@
+The functional interface between
+Salmonella and its host cell : 
+opportunities for therapeutic 
+intervention 
+Jayesh C. Patel , Olivia W. Rossanese and Jorge E. Galán 
+Section of Microbial Pathogenesis , Yale University School of Medicine , 295 Congress Avenue , New Haven , CT 06536 , USA 
+Salmonella is a facultative intracellular pathogen that causes diseases ranging from self-limiting enteritis to typhoid fever . 
+This bacterium uses two type III secretion systems to deliver effector proteins directly into the host cell to promote infection and disease . 
+Recent characterization of these virulence proteins and their host-cell targets is uncovering the molecular mechanisms of Salmonella pathogenesis and is revealing a picture of the atomic interface between this pathogen and its host . 
+This level of analysis provides the possibility of designing novel therapeutics to disrupt infection and disease processes at the molecular level . 
+Salmonella pathogenicity and type III secretion Salmonella enterica , the cause of food poisoning and typhoid fever , has evolved a complex functional interface with its host [ 1 ] . 
+This interface , which is the product of evolutionary forces operating over a long period of time , is characterized by its ﬁne-tuning rather than by its potential to inﬂict harm on the host . 
+From the side of the pathogen , a central theme that drives the organization of this interface is one of structural and functional mimicry of host-cell proteins [ 2 ] . 
+In contrast to the lessreﬁned approach used by bacterial products that introduce covalent , non-reversible modiﬁcations to their cellular targets [ 3 ] , the protein ` mimics ' of Salmonella enable the precise and reversible manipulation of cellular functions , thus minimizing the disruption of host-cell homeostasis . 
+Using a specialized protein injection device , known as the type III secretion system ( TTSS ) , Salmon-ella delivers into the host cell a battery of effector proteins that are able to mimic the function of a variety of host-cell proteins [ 4 ] . 
+Some of these effector proteins , although structurally highly divergent from their mammalian counterparts , have convergently evolved to carry out functions that are virtually identical to those of the mammalian proteins . 
+However , mimicry is also accomplished by proteins that share extensive primary amino acid sequence similarity with their host counterparts and therefore might have been horizontally acquired during evolution . 
+After oral ingestion , most often through the consumption of tainted food or water , Salmonella reaches the intestinal tract , comes into contact with the intestinal epithelium and stimulates its own uptake into epithelial cells . 
+After internalization , Salmonella actively modulates host vesicular trafﬁcking pathways to avoid delivery to lysosomes and to establish a specialized replicative niche ( Figure 1 ) . 
+These events are mediated by the bacterially encoded effector proteins that are sequentially delivered by two TTSSs encoded in different regions of the Salmonella chromosome : Salmonella pathogenicity island 1 ( SPI-1 ) and 2 ( SPI-2 ) [ 4,5 ] . 
+However , it should be noted that , although central to pathogenicity , these steps constitute just a subset of the events that lead to bacterial pathogenesis . 
+During the past few years , the interaction of Salmonella with host cells has been the subject of intense research . 
+As a result , details of the functional , and even the atomic , interface between Salmonella and its host cells are beginning to emerge . 
+In this article , we will discuss the events that lead to the uptake of Salmonella , the survival and replication of Salmonella within mammalian cells , and the possibilities for the development of new therapeutic strategies . 
+Manipulation of the actin cytoskeleton to enter intestinal epithelial cells The ability of Salmonella spp . 
+to enter host cells is central to establishing a successful infection . 
+In vertebrates , Salmonella spp . 
+use a variety of mechanisms to breach the intestinal wall and reach a sheltered niche that is permissive for replication . 
+The mechanisms of cell entry are characterized by the profuse rearrangement of the actin cytoskeleton at the site of bacteria -- host-cell contact ( Figure 1a ) [ 6 -- 8 ] . 
+This localized remodeling of the host cytoskeleton drives membrane rufﬂing and lamellopodial extensions that envelop external bacteria , leading to the entry of the bacteria into membrane-bound vacuoles . 
+Entry into non-phagocytic cells is absolutely dependent on the delivery of speciﬁc effector proteins directly into the host cell via the SPI-1-encoded TTSS . 
+These virulence factors function in concert to engage host-cell proteins and orchestrate a complex series of events that culminate in entry of the bacteria . 
+Corresponding author : Galán , J.E. ( jorge.galan@yale.edu ) . 
+Available online 22 September 2005 
+www.sciencedirect.com 0165-6147 / $ - see front matter Q 2005 Elsevier Ltd. . 
+All rights reserved . 
+doi :10.1016 / j.tips .2005.09.00 
+To date , ﬁve distinct Salmonella effectors , each capable of manipulating the cytoskeletal machinery within the host , are known to drive engulfment . 
+One key cellular target is the Rho family of small GTPases , which are central regulators of eukaryotic cytoskeletal dynamics [ 9 ] . 
+RhoGTPases function as molecular switches , alternating between active GTP-bound and inactive GDP-bound conformations . 
+This binary exchange of nucleotides induces deﬁned structural changes , primarily at two regions within the GTPase : switch I and switch II [ 10 ] . 
+These regions comprise speciﬁc invariant amino acids that , in the presence of Mg2C , form a high-afﬁnity binding pocket to stabilize the bound guanine nucleotide . 
+For example , in the activated GTP-bound state , conserved threonine and glycine residues within switch I and II , respectively , are spatially oriented to form hydrogen bonds with the g-phosphate oxygens . 
+In vivo , the GTPase cycle is regulated by a vast array of accessory proteins , including guanine nucleotide exchange factors ( RhoGEFs ) , which catalyze activation , GTPase-activating proteins ( RhoGAPs ) , which accelerate GTP hydrolysis leading to inactivation , and guanine nucleotide dissociation inhibitors ( GDIs ) , which control GTPase cycling between membranes and the cytosol [ 9 ] . 
+These accessory proteins engage their cognate GTPase , in particular targeting the switch I and II regions , and insert residues intended to destabilize the bound nucleotide and induce cycling . 
+Salmonella has evolved a sophisticated strategy to reversibly modulate the RhoGTPase switch . 
+It encodes two closely related type III effector proteins , SopE and SopE2 , which , following translocation , directly engage and activate two Rho family members , Cdc42 and Rac [ 11,12 ] . 
+Remarkably , SopE and eukaryotic RhoGEFs appear to use a near identical catalytic mechanism , despite lacking any sequence or structural homology [ 13,14 ] . 
+Indeed , SopE locks the switch I and II regions of Cdc42 in a conformation that is analogous to that seen with eukaryotic RhoGEFs and their substrates . 
+However , the catalytic core of SopE displays signiﬁcant differences from eukaryotic RhoGEFs . 
+SopE contains a unique 166 GAGA169 motif that inserts between the switch regions of Cdc42 creating an environment that is incompatible with high-afﬁnity nucleotide binding . 
+In particular , the GAGA loop instigates a ` push -- pull mechanism ' whereby switch I is pushed aside , removing residues that are important for nucleotide and phosphate binding , whereas switch II is pulled towards the nucleotide binding site such that it sterically interferes with the stabilizing Mg2C ion [ 10 ] . 
+Eukaryotic RhoGEFs use an array of amino acids , typically with larger side-chains than the GAGA loop , to similarly destabilize the nucleotide-binding pocket . 
+The net result is a dramatic reduction in the afﬁnity of the GTPase for guanine nucleotides , creating a transient binary complex of GEF and nucleotide-free GTPase . 
+The high intracellular ratio of GTP : GDP coupled with the solvent-accessible nucleotide-binding site ensures that the ` empty ' GTPase is rapidly loaded with GTP . 
+Once activated the switch I and II regions of the GTPase regain a structure that is incompatible with GEF binding , thereby concluding the exchange reaction . 
+The capacity www.sciencedirect.com of SopE to mimic eukaryotic RhoGEFs represents a remarkable example of convergent evolution and ensures that the host has little chance of developing resistance to this virulence factor . 
+A second Salmonella type III effector , termed SopB , also targets the RhoGTPase switch . 
+This effector has phosphoinositide phosphatase activity , which was implicated originally in late events post-entry into the cell , such as ﬂuid secretion and inﬂammation [ 15,16 ] . 
+However , subsequent studies revealed functional redundancy with SopE and SopE2 in driving GTPase-mediated actin rearrangements [ 17 ] . 
+Translocation of SopB into cells alters cellular phosphoinositide phosphate ( PIP ) and inositol phosphate ( IP ) metabolism [ 18 -- 20 ] . 
+In particular , SopB catalyses dephosphorylation of PtdIns ( 3,5 ) P2 , PtdIns ( 4,5 ) P2 and PtdIns ( 3,4,5 ) P3 , primarily at positions 4 and 5 of the inositol ring . 
+Indeed , entry of Salmonella coincides with SopB-mediated elimination of PtdIns ( 4,5 ) P2 at the base of rufﬂes and subsequent enhancement of vesicle ﬁssion [ 21 ] . 
+In addition , SopB consumes the cellular Ins ( 1,3,4,5,6 ) P5 reservoir to generate Ins ( 1,4,5,6 ) P4 . 
+These changes are propagated , presumably via an endogenous eukaryotic RhoGEF , to Cdc42 and/or Rac and subsequently localize actin remodeling . 
+This indirect GTPase activation contrasts with the direct GTPase stimulation mediated by SopE and SopE2 . 
+However , despite their differing biochemical activities , SopE , SopE2 and SopB have key redundant roles during internalization . 
+Indeed , Salmonella strains that lack just one of these effectors display only a modest reduction in entry , whereas a triple DsopE/E2/B mutant is completely abrogated for cytoskeletal remodeling and entry [ 17 ] . 
+Hijacking the cytoskeletal machinery : mechanisms of actin nucleation By locally activating Cdc42 and Rac , Salmonella can exploit the downstream cytoskeletal machinery of the host to drive actin nucleation and promote its engulfment . 
+In fact , recent studies advocate a role for the heptameric Arp2/3 complex , a ubiquitous eukaryotic actin organizer that can initiate actin nucleation , branching and cross-linking [ 22 ] . 
+Moreover , two proteins , WASp and Scar , which can bridge Cdc42 and Rac activation to the regulation of Arp2/3 , have also been implicated in Salmonella entry [ 23 ] . 
+However , alternative mechanisms of actin assembly are also likely to contribute because blocking Arp2/3 , WASp or Scar function , by expression of dominant-interfering mutants , elicits only a moderate decrease in Salmonella invasion [ 23 ] . 
+Indeed , Salmonella encodes two type III effector proteins , SipA and SipC , which can engage actin directly [ 7 ] . 
+SipA has several biological activities , including a capacity to nucleate ﬁlamentous actin ( F-actin ) and promote F-actin bundling [ 24 -- 26 ] . 
+Moreover , SipA can stabilize F-actin by directly antagonizing the action of depolymerizing factors within the cell , such as ADF/co ﬁlin and gelsolin [ 27,28 ] . 
+The second actin binding protein from Salmonella , SipC , comprises de novo actin polymerization and F-actin bundling activity , in addition to its distinct role in mediating the translocation of effector proteins [ 29,30 ] . 
+Together , SipA and perhaps SipC are believed to promot efﬁcient bacterial uptake by ensuring the spatial localiz-ation of actin foci beneath invading Salmonella . 
+Targeting the RhoGTPase switch 
+( a ) Entry 
+( b ) Cytoskeletal recovery 
+Actin onella DAPI 
+Salm 
+Actin DAPI 
+2 -- 3 h 
+10 mins 
+Salmonella 
+GTP 
+PI3P 
+GDP 
+X 
+GTP Rho switch 
+GDP 
+( d ) Replication 
+( c ) Intracellular trafficking EEA1 Rab5 ,7 Lgps 
+4 + h 
+3 -- 4 h 
+SCV 
+PI3P 
+SopD2 SseF SseG SseJ 
+PI3 ,5 P2 
+Early Late 
+SPI-2 TTSS active 
+endosome endosome 
+Lysosomes 
+DAPI LAMP1 
+PI3P ( PX-GFP ) Salmonella 
+Salmonella 
+F-actin 
+SopE , E2 SipA 
+SipC SptP 
+Cdc42 and Rac 
+SopB 
+SifA 
+TRENDS in Pharmacological Sciences 
+Figure 1 . 
+Interaction of Salmonella with epithelial cells . 
+( a ) On contact with the host cell , Salmonella delivers multiple effector proteins to manipulate the cytoskeletal machinery of the host and trigger entry . 
+SopE , SopE2 and SopB target the RhoGTPase switch and promote activation of the Rho family members Cdc42 and Rac , leading to actin remodeling . 
+SopE and SopE2 function as GEFs and directly catalyze GTPase activation , whereas SopB functions indirectly , presumably via a host-encoded GEF ( X ) . 
+SipA and SipC engage actin directly to induce actin nucleation and polymerization . 
+The immunoﬂuorescence image shows actin remodeling induced by Salmonella typhimurium infection of Henle-407 cells . 
+( b ) The GTPase-activating protein ( GAP ) activity of SptP inactivates the RhoGTPase switch , leading to cytoskeletal recovery . 
+Internalized Salmonella occupies a spacious vacuole generated by the fusion of SopB-induced vesicles . 
+The immunoﬂuorescence image shows recovery of cytoskeletal homeostasis following invasion of S. typhimurium ( arrows ) into Ref52 cells . 
+( c ) Following internalization , the Salmonella-containing vacuole ( SCV ) selectively interacts with the host endocytic machinery . 
+The SCV initially acquires the early endosome markers EEA1 and Rab5 , which are sequentially replaced by the late endosome and lysosome markers Rab7 and lysosomal glycoproteins ( Lgps ) . 
+However , the SCV does not fuse directly with either the endosomes or the lysosomes , in part , because of the phosphoinositide phosphatase activity of SopB . 
+The immunoﬂuorescence image shows intracellular Salmonella residing within phosphatidylinositol 3-phosphate 
+www.sciencedirect.co 
+Closing the door on entry: the role of SptP
+The actin remodeling events initiated by Salmonella are transient and typically reversed 2 -- 3 h post-entry ( Figure 1b ) . 
+Remarkably , Salmonella actively helps the host cell to regain its normal cellular architecture through the action of SptP [ 31 ] . 
+This type III effector protein comprises two functionally independent domains , both designed to minimize excessive cellular damage . 
+The C-terminus encodes a tyrosine phosphatase . 
+Although its cellular substrate ( s ) remains unclear , this activity is necessary for downregulating the pro-inﬂammatory nuclear responses that accompany invasion [ 32 ] . 
+The N-terminus of SptP folds to mimic a eukaryotic RhoGAP , thus extending the repertoire of Salmonella effectors that target the RhoGTPase switch [ 33 ] . 
+Similar to other RhoGAPs , SptP accelerates the intrinsic GTP hydrolysis activity of GTPases [ 34 ] . 
+Upon binding Rac , it stabilizes the switch I and II regions and initiates hydrolysis by positioning a nucleophillic water molecule , via the conserved Gln61 residue , in the correct geometry to attack the g-phosphate of GTP . 
+Unlike SopE , the catalytic core of SptP is identical to its eukaryotic counterparts and comprises an invariant arginine residue ( Arg209 ) , termed the ` arginine ﬁnger ' , which protrudes into the active site of the GTPase and neutralizes the negative charge that develops at the b-phosphate during the transition state [ 33 ] . 
+In an interesting deviation from eukaryotic GAPs , the arginine ﬁnger of SptP is contained within a well-organized a-helix and not in a conventional loop structure . 
+The GAP activity of SptP speciﬁcally inactivates Cdc42 and Rac and hence directly counters the cytoskeletal remodeling functions of SopE , SopE2 and SopB . 
+Given their antagonistic nature , the correct temporal regulation of these effectors is essential for efﬁcient entry of Salmonella . 
+Recent studies addressed the signaling pathways involved and revealed a regulatory mechanism based on differing protein half-lives following translocation [ 35 ] . 
+In contrast to SptP , SopE was found to undergo rapid proteosome-mediated degradation in the host cell , ensuring only a temporary activation of the RhoGTPase switch . 
+Hence , the entry process concludes with cytoskeletal homeostasis for the host cell and intracellular residence for Salmonella within a membrane-bound compartment . 
+Modulation of vesicular trafﬁcking to prevent delivery into lysosomes
+The building of the replicative niche of Salmonella starts during the internalization event itself . 
+Through the activity of the SPI-1 TTSS effector SopB , Salmonella induces the formation of abundant large macropinocytic vesicles , most of which do not contain bacteria ( Figure 1b ) [ 19 ] . 
+These vesicles are highly fusogenic because of the rapid acquisition of PtdIns ( 3 ) P [ 19 ] , which results in the recruitment of components of the vesicular fusion machinery such as Rab5 and EEA1 [ 36 ] . 
+In fact , PtdIns ( 3 ) P is already present in the nascent phagosomes because of its localized generation at the plasma membrane through the SopB-mediated degradation of PtdIns ( 3,4,5 ) P3 [ 17 ] . 
+The homotypic fusion of the Salmonella-generated vesicles leads to the formation of large Salmonella-containing vacuoles ( SCVs ) , which do not fuse with lysosomes and thereby avoid destruction . 
+Such diversion from the canonical endocytic pathway is at least in part due to the activity of the phosphoinositide phosphatase activity of SopB , which presumably exerts its function by preventing the conversion of PtdIns ( 3 ) P to PtdIns ( 3,5 ) P2 , a crucial signal that mediates the transition of early and late endosomes into multivesicular bodies and lysosomes [ 37,38 ] . 
+To establish a successful infection , Salmonella must avoid delivery to lysosomes and create a niche that is suitable to support its replication . 
+During the early stages of infection , the SCV acquires the late endosomal marker Rab7 , followed by the lysosomal glycoproteins LAMP1 , LAMP2 and LIMP1/LAMP3 , and the vacuolar ATPase ( Figure 1c ) [ 39 ] . 
+The acquisition of these early and late endosomal markers reveals that the SCV can interact with the host endocytic network and suggests that Salmonella does not evade destruction by simply removing its vacuoles from the endocytic pathway . 
+Indeed , Salmonella requires extensive contact with the host to obtain the membrane and nutrients it will require to survive and replicate . 
+However , the SCV membrane never acquires the lysosomal marker mannose-6-phosphate receptor and the proteolytic enzymes of the lysosome do not gain access to the lumen of the SCV [ 39 ] , indicating that the SCV does not fuse directly with either late endosomes or lysosomes . 
+Therefore , Salmonella can interact selectively with the host-cell endocytic machinery to speciﬁcally control the process of vacuolar maturation and to carefully modulate the composition and contents of the SCV . 
+Establishing a replicative niche : engaging SPI-2 Continued remodeling of the SCV membrane is necessary for effective replication of intracellular bacteria . 
+This modulation requires the function of the SPI-2 TTSS , whose expression is induced w3 h after infection [ 5 ] . 
+The SPI-2 TTSS translocates a second set of effector proteins across the SCV membrane , and this function is essential for the establishment of systemic infection . 
+Strains that lack the SPI-2 TTSS are defective for replication within macrophages and are avirulent in mice [ 40 ] . 
+At the time SPI-2 TTSS expression is induced , polymerized actin is observed around the SCV ; inhibition of actin by latrunculinB blocks bacterial replication and causes the loss of the vacuolar membrane from around the bacteria [ 41 ] . 
+This actin accumulation around the SCV is dependent on the function of the SPI-2 TTSS , although the actual effector ( s ) that is responsible for the modulation of these actin dynamics has not been identiﬁed . 
+The SPI-2 effector SspH2 has recently been demonstrated to colocalize with the SCV-associated polymerized actin , suggesting that this effector has a role in these late-stage actin dynamics [ 42 ] . 
+However , Salmonella mutants that lack SspH2 are still capable of inducing actin polymerization around the SCV , indicating that other effectors are involved in this process . 
+Three to 4 h after infection , the SCV moves to a peri-nuclear position , in close proximity to the Golgi apparatus [ 43 ] . 
+This intracellular positioning of the SCV is dependent on SseG , a SPI-2 TTSS effector that possesses a domain that can physically interact with Golgi membranes . 
+The interaction of the SCV with Golgi membranes might have implications for bacterial replication because Salmonella sseG mutants are defective for intracellular growth . 
+The Salmonella replicative compartment , w5 -- 6 h after internalization , is characterized by the presence of long membrane tubules that extend outwards from the SCV ( Figure 1d ) [ 44 ] . 
+These structures are called Salmonella-induced ﬁlaments ( Sifs ) . 
+Sifs are similar in membrane composition to the SCVs and are dependent on microtubules for their formation [ 45,46 ] . 
+The physiological relevance of Sifs is unknown but their formation is an indicator of a successful late-stage infection and the initiation of bacterial replication . 
+Five effectors of the SPI-2 TTSS , SifA , SopD2 , SseF , SseG and SseJ , have been implicated in modulating the SCV membrane . 
+These effectors localize to the SCV membrane and to Sifs in infected cells , suggesting that they might have a direct role in the manipulation of membrane dynamics [ 45,47 -- 51 ] . 
+SifA , in particular , is essential for the integrity of the SCV [ 50 ] ; bacteria that lack SifA are unable to maintain an intact vacuole and are released into the cytosol of host cells [ 52 ] . 
+Together with the host protein SKIP ( SifA and kinesin-interacting protein ) , SifA mediates Sif formation and the Golgi proximal localization of SCVs [ 53 ] . 
+SopD2 , SseF and SseG have also been implicated in Sif formation ; infection of cells with strains with mutations in any of the genes encoding these proteins leads to a reduction in the quality and quantity of the Sifs formed [ 49,54 ] . 
+Consistent with the important role that these ﬁve effectors have in the establishment of an intracellular replicative niche , bacteria that lack these proteins have a replication defect in macrophages that is correlated with reduced virulence in the mouse model of infection [ 48 -- 51,55 ] . 
+The precise mechanisms by which these effectors promote SCV maturation are unknown . 
+SseF and SseG can localize to microtubules in infected cells , suggesting that these proteins might disrupt microtubule-dependent trafﬁcking events within the host , for the beneﬁt of SCV maturation [ 56 ] . 
+SseJ contains a domain with homology to an acyltransferase , and thus it is possible that this protein directly modulates the lipid composition of the SCV membrane [ 48 ] . 
+Because expression of SifA , SopD2 or SseJ on their own can cause aggregation and swelling of www.sciencedirect.com endosomes , it is also possible that these effectors could increase the fusogenicity of the SCV itself [ 45,47,48,54 ] . 
+Establishment of systemic infection is likely to be complex and most probably requires additional virulence functions and effectors . 
+The SPI-2 TTSS effectors PipB , PipB2 and SifB localize to the SCV and to Sifs , but have not been implicated in the formation of either structure , nor do they appear to have a role in intracellular replication [ 51,57 ] . 
+Conversely , Salmonella typhimurium that lacks SopD , the homolog of SopD2 , has a replication defect in macrophages and is attenuated in the mouse model of infection but does not localize to the SCV and has no role in the formation or maintenance of either the SCV or Sifs [ 54 ] . 
+Although many of the bacterial effector proteins responsible for the formation of the Salmonella intracellular replicative niche have been identiﬁed , no mechanistic details of this process have yet emerged . 
+Detailed studies of these events are likely to uncover exciting biology . 
+3 
+( PI3P ) - labeled vesicles . 
+PX-GFP , a chimera of green ﬂuorescent protein and the PI3P binding ( PX ) domain of p40phox , a subunit of NADPH oxidase , was used as to label PI3P . 
+( d ) As infection progresses , the Salmonella pathogenicity island 2 ( SPI-2 ) type III secretion system ( TTSS ) delivers additional effector proteins and bacterial replication is initiated . 
+SifA is essential for the formation of Salmonella-induced ﬁlaments ( Sifs ) , elongated membrane tubules that emanate from the SCV . 
+SifA , SopD2 , SseF , SseG and SseJ localize to the SCV and to Sifs , and participate in membrane dynamics . 
+The immunoﬂuorescence image shows characteristic Sifs extending from the SCV , visualized with LAMP1 . 
+Abbreviations : DAPI , 4 0-6-diamidino-2-phenylindole ( used to stain DNA ) ; PI3 ,5 P2 , phosphatidylinositol ( 3,5 ) - bisphosphate 
+Deﬁning the atomic host -- pathogen interface : a new dawn for novel therapeutic approaches to infectious disease ? 
+Research during the past few years has begun to deﬁne , in great detail , the interface between Salmonella and its host . 
+Indeed , the availability of the high-resolution structures of virulence organelles and their components [ 58 -- 61 ] or those of bacterial proteins in complex with their target host-cell proteins [ 13,26,33,62 ] has already provided a unique glimpse of the true atomic interface between Salmonella and its host . 
+What emerges from this level of analysis is the possibility of novel therapeutic strategies aimed at selectively and speciﬁcally disrupting these interactions . 
+For example , specialized organelles involved in bacterial virulence , such as the type III or type IV secretion systems , offer unique targets for therapeutic drug design . 
+In fact , research efforts in this direction are well underway [ 63,64 ] . 
+Because the function of these organelles is not essential for bacterial growth in vitro , drugs aimed at inhibiting their function would most likely interfere with bacterial pathogenicity rather than survival and therefore they should be less likely to generate resistance . 
+In addition , because these virulence organelles are largely absent from non-pathogenic bacteria , the potential use of such drugs would not result in disruption of the normal ﬂora , a recurrent problem with the use of conventional antimicrobials . 
+Perhaps even more intri-guing is the possibility of targeting the function of the virulence factors . 
+Because some of the virulence factors exhibit enzymatic activity , drugs aimed at speciﬁcally inhibiting these activities might provide a useful anti-pathogen strategy [ 65 -- 67 ] . 
+Another strategy would be to target the atomic interfaces between virulence factors and their host target proteins . 
+Superﬁcial analysis might suggest that the fact that most bacterial virulence effector proteins target essential host-cell processes might pose an insurmountable challenge to the design of therapeutic agents . 
+However , what is emerging from the analysis of the atomic interface between Salmonella effector proteins and their target host-cell proteins is that the actual interfaces offer unique features that could be amenable fo speciﬁc targeting . 
+For example , although the bacterial GAP ( SptP ) and GEF ( SopE ) function in a manner that closely resembles their eukaryotic cell counterparts , the actual interfaces of these proteins with their targets is signiﬁcantly different from those of the eukaryotic proteins with their cognate GTPases [ 13,33 ] . 
+Targeting the speciﬁc interface between the pathogen and the host might enable the design of anti-infectives with advantages over conventional antibiotics . 
+For example , compounds that speciﬁcally target the host -- pathogen interface might be less likely to generate resistance . 
+Although these potential drugs would not kill the pathogens , they would signiﬁcantly hamper their ability to infect or cause disease , enabling the host defense mechanisms a chance to eliminate the pathogen . 
+However , given the often-redundant nature of virulence proteins , it is possible that this approach will require the simultaneous targeting of various virulence factor -- host interfaces . 
+Although this is clearly only the beginning of an exciting area of investigation , the Salmonella -- host interface has already provided a paradigm that can be explored to validate this novel concept of therapeutic intervention to treat and combat infectious diseases . 
+As the details of the atomic interfaces between other pathogens and their hosts emerge , the scope of these strategies can be expanded to develop selective strategies against a wide range of infectious agents . 
+Acknowledgements
+We apologize to all those whose work could not be cited because of space limitations . 
+We are grateful to Gabriel Briones , Karsten Hueffer and Tomoko Kubori for immunoﬂuorescence images . 
+References 
+1 Ohl , M.E. and Miller , S.I. ( 2001 ) Salmonella : a model for bacterial pathogenesis . 
+Annu . 
+Rev. Med . 
+52 , 259 -- 274 2 Stebbins , C.E. and Galan , J.E. ( 2001 ) Structural mimicry in bacterial virulence . 
+Nature 412 , 701 -- 705 3 Aktories , K. ( 1997 ) Bacterial toxins that target Rho proteins . 
+J. Clin . 
+Invest . 
+99 , 827 -- 829 4 Galan , J.E. ( 2001 ) Salmonella interactions with host cells : type III secretion at work . 
+Annu . 
+Rev. Cell Dev . 
+Biol . 
+17 , 53 -- 86 5 Waterman , S.R. and Holden , D.W. ( 2003 ) Functions and effectors of the Salmonella pathogenicity island 2 type III secretion system . 
+Cell . 
+Microbiol . 
+5 , 501 -- 511 6 Zhou , D. ( 2001 ) Collective efforts to modulate the host actin cytoskeleton by Salmonella type III-secreted effector proteins . 
+Trends Microbiol . 
+9 , 567 -- 569 7 Hayward , R.D. and Koronakiss , V. ( 2002 ) Direct modulation of the host cell cytoskeleton by Salmonella actin-binding proteins . 
+Trends Cell Biol . 
+12 , 15 -- 20 8 Patel , J.C. and Galan , J.E. ( 2005 ) Manipulation of the host actin cytoskeleton by Salmonella-all in the name of entry . 
+Curr . 
+Opin . 
+Microbiol . 
+8 , 10 -- 15 9 Etienne-Manneville , S. and Hall , A. ( 2002 ) Rho GTPases in cell biology . 
+Nature 420 , 629 -- 635 10 Vetter , I.R. and Wittinghofer , A. ( 2001 ) The guanine nucleotidebinding switch in three dimensions . 
+Science 294 , 1299 -- 1304 11 Hardt , W.D. et al. ( 1998 ) S. typhimurium encodes an activator of Rho GTPases that induces membrane rufﬂing and nuclear responses in host cells . 
+Cell 93 , 815 -- 826 12 Stender , S. et al. ( 2000 ) Identiﬁcation of SopE2 from Salmonella typhimurium , a conserved guanine nucleotide exchange factor for Cdc42 of the host cell . 
+Mol . 
+Microbiol . 
+36 , 1206 -- 1221 13 Buchwald , G. et al. ( 2002 ) Structural basis for the reversible activation of a Rho protein by the bacterial toxin SopE . 
+EMBO J. 21 , 3286 -- 3295 
+14 Schlumberger , M.C. et al. ( 2003 ) Amino acids of the bacterial toxin SopE involved in G nucleotide exchange on Cdc42 . 
+J. Biol . 
+Chem . 
+278 , 27149 -- 27159 15 Norris , F.A. et al. ( 1998 ) SopB , a protein required for virulence of Salmonella dublin , is an inositol phosphate phosphatase . 
+Proc . 
+Natl. Acad . 
+Sci . 
+U. S. A. 95 , 14057 -- 14059 16 Galyov , E.E. et al. ( 1997 ) A secreted effector protein of Salmonella dublin is translocated into eukaryotic cells and mediates inﬂammation and ﬂuid secretion in infected ileal mucosa . 
+Mol . 
+Microbiol . 
+25 , 903 -- 912 17 Zhou , D. et al. ( 2001 ) A Salmonella inositol polyphosphatase acts in conjunction with other bacterial effectors to promote host cell actin cytoskeleton rearrangements and bacterial internalization . 
+Mol . 
+Microbiol . 
+39 , 248 -- 259 18 Marcus , S.L. et al. ( 2001 ) A synaptojanin-homologous region of Salmonella typhimurium SigD is essential for inositol phosphatase activity and Akt activation . 
+FEBS Lett . 
+494 , 201 -- 207 19 Hernandez , L.D. et al. ( 2004 ) Salmonella modulates vesicular trafﬁc by altering phosphoinositide metabolism . 
+Science 304 , 1805 -- 1807 20 Drecktrah , D. et al. ( 2004 ) Modulation and utilization of host cell phosphoinositides by Salmonella spp . 
+Infect . 
+Immun . 
+72 , 4331 -- 4335 21 Terebiznik , M.R. et al. ( 2002 ) Elimination of host cell PtdIns ( 4,5 ) P ( 2 ) by bacterial SigD promotes membrane ﬁssion during invasion by Salmonella . 
+Nat . 
+Cell Biol . 
+4 , 766 -- 773 22 Criss , A.K. and Casanova , J.E. ( 2003 ) Coordinate regulation of Salmonella enterica serovar Typhimurium invasion of epithelial cells by the Arp2/3 complex and Rho GTPases . 
+Infect . 
+Immun . 
+71 , 2885 -- 2891 23 Unsworth , K.E. et al. ( 2004 ) Analysis of the mechanisms of Salmonella-induced actin assembly during invasion of host cells and intracellular replication . 
+Cell . 
+Microbiol . 
+6 , 1041 -- 1055 24 Zhou , D. et al. ( 1999 ) Role of the S. typhimurium actin-binding protein SipA in bacterial internalization . 
+Science 283 , 2092 -- 2095 25 Galkin , V.E. et al. ( 2002 ) The bacterial protein SipA polymerizes G-actin and mimics muscle nebulin . 
+Nat . 
+Struct . 
+Biol . 
+9 , 518 -- 521 26 Lilic , M. et al. ( 2003 ) Salmonella SipA polymerizes actin by stapling ﬁlaments with nonglobular protein arms . 
+Science 301 , 1918 -- 1921 27 McGhie , E.J. et al. ( 2004 ) Control of actin turnover by a Salmonella invasion protein . 
+Mol . 
+Cell 13 , 497 -- 510 28 Dai , S. et al. ( 2004 ) Efﬁcient Salmonella entry requires activity cycles of host ADF and coﬁlin . 
+Cell . 
+Microbiol . 
+6 , 459 -- 471 29 Hayward , R.D. and Koronakis , V. ( 1999 ) Direct nucleation and bundling of actin by the SipC protein of invasive Salmonella . 
+EMBO J. 18 , 4926 -- 4934 30 Chang , J. et al. ( 2005 ) Delineation and characterization of the actin nucleation and effector translocation activities of Salmonella SipC . 
+Mol . 
+Microbiol . 
+55 , 1379 -- 1389 31 Fu , Y. and Galan , J.E. ( 1999 ) A Salmonella protein antagonizes Rac-1 and Cdc42 to mediate host-cell recovery after bacterial invasion . 
+Nature 401 , 293 -- 297 32 Murli , S. et al. ( 2001 ) Role of tyrosine kinases and the tyrosine phosphatase SptP in the interaction of Salmonella with host cells . 
+Cell . 
+Microbiol . 
+3 , 795 -- 810 33 Stebbins , C.E. and Galan , J.E. ( 2000 ) Modulation of host signaling by a bacterial mimic : structure of the Salmonella effector SptP bound to Rac1 . 
+Mol . 
+Cell 6 , 1449 -- 1460 34 Li , G. and Zhang , X.C. ( 2004 ) GTP hydrolysis mechanism of Ras-like GTPases . 
+J. Mol . 
+Biol . 
+340 , 921 -- 932 35 Kubori , T. and Galan , J.E. ( 2003 ) Temporal regulation of Salmonella virulence effector function by proteasome-dependent protein degradation . 
+Cell 115 , 333 -- 342 36 Steele-Mortimer , O. et al. ( 1999 ) Biogenesis of Salmonella typhimur-ium-containing vacuoles in epithelial cells involves interactions with the early endocytic pathway . 
+Cell . 
+Microbiol . 
+1 , 33 -- 49 37 Simonsen , A. et al. ( 2001 ) The role of phosphoinositides in membrane transport . 
+Curr . 
+Opin . 
+Cell Biol . 
+13 , 485 -- 492 38 Rudge , S.A. et al. ( 2004 ) Vacuole size control : regulation of PtdIns ( 3,5 ) P2 levels by the vacuole-associated Vac14-Fig4 complex , a PtdIns ( 3,5 ) P2-speciﬁc phosphatase . 
+Mol . 
+Biol . 
+Cell 15 , 24 -- 36 39 Knodler , L.A. and Steele-Mortimer , O. ( 2003 ) Taking possession : biogenesis of the Salmonella-containing vacuole . 
+Trafﬁc 4 , 587 -- 599 40 Hansen-Wester , I. and Hensel , M. ( 2001 ) Salmonella pathogenicity islands encoding type III secretion systems . 
+Microbes Infect . 
+3 , 549 -- 55 
+41 Meresse , S. et al. ( 2001 ) Remodelling of the actin cytoskeleton is essential for replication of intravacuolar Salmonella . 
+Cell . 
+Microbiol . 
+3 , 567 -- 577 42 Miao , E.A. et al. ( 2003 ) Salmonella effectors translocated across the vacuolar membrane interact with the actin cytoskeleton . 
+Mol . 
+Microbiol . 
+48 , 401 -- 415 43 Salcedo , S.P. and Holden , D.W. ( 2003 ) SseG , a virulence protein that targets Salmonella to the Golgi network . 
+EMBO J. 22 , 5003 -- 5014 44 Garcia-del Portillo , F. et al. ( 1993 ) Salmonella induces the formation of ﬁlamentous structures containing lysosomal membrane glycoproteins in epithelial cells . 
+Proc . 
+Natl. Acad . 
+Sci . 
+U. S. A. 90 , 10544 -- 10548 45 Brumell , J.H. et al. ( 2002 ) SifA , a type III secreted effector of Salmonella typhimurium , directs Salmonella-induced ﬁlament ( Sif ) formation along microtubules . 
+Trafﬁc 3 , 407 -- 415 46 Brumell , J.H. et al. ( 2001 ) Characterization of Salmonella-induced ﬁlaments ( Sifs ) reveals a delayed interaction between Salmonellacontaining vacuoles and late endocytic compartments . 
+Trafﬁc 2 , 643 -- 653 47 Brumell , J.H. et al. ( 2003 ) SopD2 is a novel type III secreted effector of Salmonella typhimurium that targets late endocytic compartments upon delivery into host cells . 
+Trafﬁc 4 , 36 -- 48 48 Ruiz-Albert , J. et al. ( 2002 ) Complementary activities of SseJ and SifA regulate dynamics of the Salmonella typhimurium vacuolar membrane . 
+Mol . 
+Microbiol . 
+44 , 645 -- 661 49 Kuhle , V. and Hensel , M. ( 2002 ) SseF and SseG are translocated effectors of the type III secretion system of Salmonella pathogenicity island 2 that modulate aggregation of endosomal compartments . 
+Cell . 
+Microbiol . 
+4 , 813 -- 824 50 Beuzon , C.R. et al. ( 2000 ) Salmonella maintains the integrity of its intracellular vacuole through the action of SifA . 
+EMBO J. 19 , 3235 -- 3249 51 Freeman , J.A. et al. ( 2003 ) The Salmonella enterica serovar typhimurium translocated effectors SseJ and SifB are targeted to the Salmonella-containing vacuole . 
+Infect . 
+Immun . 
+71 , 418 -- 427 52 Brumell , J.H. et al. ( 2002 ) Disruption of the Salmonella-containing vacuole leads to increased replication of Salmonella enterica serovar typhimurium in the cytosol of epithelial cells . 
+Infect . 
+Immun . 
+70 , 3264 -- 3270 53 Boucrot , E. et al. ( 2005 ) The intracellular fate of Salmonella depends on the recruitment of kinesin . 
+Science 308 , 1174 -- 1178 54 Jiang , X. et al. ( 2004 ) The related effector proteins SopD and SopD2 from Salmonella enterica serovar Typhimurium contribute to virulence during systemic infection of mice . 
+Mol . 
+Microbiol . 
+54 , 1186 -- 1198 
+55 Brumell , J.H. et al. ( 2001 ) SifA permits survival and replication of Salmonella typhimurium in murine macrophages . 
+Cell . 
+Microbiol . 
+3 , 75 -- 84 56 Kuhle , V. et al. ( 2004 ) Effector proteins encoded by Salmonella pathogenicity island 2 interfere with the microtubule cytoskeleton after translocation into host cells . 
+Trafﬁc 5 , 356 -- 370 57 Knodler , L.A. et al. ( 2003 ) Salmonella type III effectors PipB and PipB2 are targeted to detergent-resistant microdomains on internal host cell membranes . 
+Mol . 
+Microbiol . 
+49 , 685 -- 704 58 Yip , C.K. et al. ( 2005 ) Structural characterization of the molecular platform for type III secretion system assembly . 
+Nature 435 , 702 -- 707 59 Marlovits , T.C. et al. ( 2004 ) Structural insights into the assembly of the type III secretion needle complex . 
+Science 306 , 1040 -- 1042 60 Terradot , L. et al. ( 2005 ) Structures of two core subunits of the bacterial type IV secretion system , VirB8 from Brucella suis and ComB10 from Helicobacter pylori . 
+Proc . 
+Natl. Acad . 
+Sci . 
+U. S. A. 102 , 4596 -- 4601 61 Yeo , H.J. et al. ( 2000 ) Crystal structure of the hexameric trafﬁc ATPase of the Helicobacter pylori type IV secretion system . 
+Mol . 
+Cell 6 , 1461 -- 1472 62 Lilic , M. and Stebbins , C.E. ( 2004 ) Re-structuring the host cell : up close with Salmonella 's molecular machinery . 
+Microbes Infect . 
+6 , 1205 -- 1211 63 Nordfelth , R. et al. ( 2005 ) Small-molecule inhibitors speciﬁcally targeting type III secretion . 
+Infect . 
+Immun . 
+73 , 3104 -- 3114 64 Goldschmidt , R.M. et al. ( 2004 ) Identiﬁcation and characterization of inhibitors of bacterial Type III protein secretion systems ( TTPS ) as potential antimicrobial agents . 
+44th Interscience Conference on Antimicrobial Agents and Chemotherapy , Washington DC ( Abstr . ) 
+F-712 65 Tautz , L. et al. ( 2005 ) Inhibition of Yersinia tyrosine phosphatase by furanyl salicylate compounds . 
+J. Biol . 
+Chem . 
+280 , 9400 -- 9408 66 Hu , X. et al. ( 2004 ) Computational analysis of tyrosine phosphatase inhibitor selectivity for the virulence factors YopH and SptP . 
+J. Mol . 
+Graph . 
+Model . 
+23 , 175 -- 187 67 Liang , F. et al. ( 2003 ) Aurintricarboxylic acid blocks in vitro and in vivo activity of YopH , an essential virulent factor of Yersinia pestis , the agent of plague . 
+J. Biol . 
+Chem . 
+278 , 41734 -- 41741

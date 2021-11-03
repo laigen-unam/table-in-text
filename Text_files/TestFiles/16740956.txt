@@ -1,0 +1,503 @@
+T
+The 5 - untranslated region ( 5 UTR ) of the ﬂiC ﬂagellin gene of Salmonella contains sequences critical for efﬁcient ﬂiC mRNA translation coupled to assembly . 
+In a previous study we used targeted mutagenesis of the 5 end of the ﬂiC gene to isolate single base changes defective in ﬂiC gene translation . 
+This identiﬁed a predicted stem-loop structure , SL2 , as an effector of normal ﬂiC mRNA translation . 
+A single base change ( 38C : U ) in the ﬂiC 5 UTR resulted in a mutant that is defective in ﬂiC mRNA translation and was chosen for this study . 
+Motile ( Mot ) revertants of the 38C : T mutant were isolated and characterized , yielding several unexpected results . 
+Second-site suppressors that restored ﬂiC translation and motility included mutations that disrupt a RNA duplex stem formed between RNA sequences in the ﬂiC 5 UTR SL2 region ( including a precise deletion of SL2 ) and bases early within the ﬂiC-coding region . 
+A stop codon mutation at position 80 of ﬂgM also suppressed the 38C : T motility defect , while ﬂgM mutants defective in anti- 28 activity had no effect on ﬂiC translation . 
+One remarkable mutation in the ﬂiC 5 UTR ( 15G : A ) results in a translation defect by itself but , in combination with the 38C : U mutation , restores normal translation . 
+These results suggests signals intrinsic to the ﬂiC mRNA that have both positive and negative effects on ﬂiC translation involving both RNA structure and interacting proteins . 
+Salmonella enterica serovar Typhimurium possess 5 to 10 peritrichous ﬂagella that are utilized for motility ( 19 ) . 
+The bacterial ﬂagellum is composed of three main substructures : ( i ) a basal body that transverses the cell membranes and acts a proton-driven rotary motor enabling the ﬂagellum to rotate and propel the bacterium through a liquid environment and across surfaces ; ( ii ) a hook that acts as ﬂexible coupling between the external ﬁlament and the basal body ; and ( iii ) a rigid , helical ﬁlament that typically extends up to 10 m from the cell surface and acts as a propeller . 
+Flagellum assembly begins with the basal body , proceeds through the hook , and is completed by the ﬁlament ( 20 ) . 
+The assembly of extracellular structures such as the ﬁlament and the hook involves the transport of the component proteins through a central channel within the growing ﬂagellum . 
+The cost of the maintenance of a ﬂagellar motility system is high due to the large number of genes and protein subunits and the energy required for ﬂagellum synthesis and functioning , which is ca. 2 % of biosynthetic energy expenditure of the cell ( 19 ) . 
+As a result , the ﬂagellar system of Salmonella is highly regulated at multiple levels , including responses to environmental cues and the developmental stages of the organelle ( 4 ) . 
+The ﬂagellar biosynthetic and chemotaxis systems require more than 60 genes that are arranged into a transcriptional hierarchy of three promoter classes ( class 1 , class 2 , and class 3 ) whose expression corresponds to when their products are needed for assembly ( 16 ) . 
+The class 1 ﬂhDC operon is the master control operon . 
+Transcription from this promoter is inﬂuenced by a number of global regulatory signals 
+* Corresponding author . 
+Mailing address : Department of Biology , University of Utah , Salt Lake City , UT 84112 . 
+Phone : (810) 581-6517 . 
+Fax : (801) 581-4668 . 
+E-mail : hughes@biology.utah.edu . 
+in a manner that is not fully understood ( 14 ) . 
+The FlhD and FlhC proteins form a heterotetrameric complex that is required for the transcription of class 2 promoters upstream of the Middle genes ( 18 ) . 
+Class 2 promoters mediate the transcription of genes necessary for the assembly and structure of the hook-basal body ( HBB ) complex in addition to the transcriptional regulators FlgM and FliA ( 28 ) . 
+Class 3 promoters require 28-RNA polymerase for their transcription ( 23 ) . 
+FlgM is an inhibitor of 28 and prevents class 3 transcription prior to completion of the HBB structure ( 13 , 15 ) . 
+Upon HBB completion , FlgM is secreted outside of the cell resulting in a 28-dependent transcription from the class 3 promoters ( 13 ) . 
+Class 3 promoters direct transcription of the ﬂgKL operon that encodes the hook-ﬁlament junction proteins , the ﬂiDST operon that encodes the ﬁlament cap ( FliD ) and the secretion chaperones FliS ( FliC chaperone ) and FliT ( FliD chaperone ) , the ﬂgMN operon encoding the anti- 28 factor FlgM and the secretion chaperone FlgN ( FlgK and FlgL chaperone ) , the ﬂagellin operons ﬂiC and ﬂjBA , the ﬂiAZY operon that encodes 28 ( ﬂiA ) , a regulator of class 2 transcription ( ﬂiZ ) , and a gene of unknown function ( ﬂiY ) ( 11 ) . 
+In addition , class 3 promoters direct transcription of genes whose products are required for chemotaxis and ﬂagellar rotation . 
+In Salmonella , little is known regarding the translational control mechanisms in ﬂagellin biosynthesis . 
+The best-studied system is in the Caulobacter crescentus ﬂagellar system , where the FlbT protein has been discovered as a regulator of ﬂagellin gene translation translational . 
+FlbT acts by directly binding the 5 untranslated region ( 5 UTR ) of ﬂagellin mRNA to inhibit its translation ( 2 ) . 
+Recently , we found that transcription of the chromosomal ﬂiC gene without the ﬂiC 5 UTR region are nonmotile , suggesting an important role for the ﬂiC 5 UTR in normal ﬂiC mRNA expression associated with ﬁlament assembly ( 1 ) . 
+The 5 end of the ﬂiC gene was analyzed , and regions essential for transcriptional and translational control were de-ﬁned . 
+A stem-loop region , SL2 , of the ﬂiC 5 UTR was discovered that when mutated was defective in ﬂiC translation ( 1 ) . 
+In the present study we isolated and characterized motile ( Mot ) revertants of a translation-defective mutant within a putative stem-loop structure , SL2 , of the ﬂiC 5 UTR ( 38C : U relative to the AUG start codon ) . 
+This analysis led to the unexpected discovery that SL2 is an inhibitor of ﬂiC mRNA translation . 
+In addition , suppressors identiﬁed the C-terminal 17 amino acids of FlgM and a region in the ﬂiC structural gene that codes for amino acids 13 and 14 that act to facilitate regulation of ﬂiC mRNA translation . 
+A model is presented that suggests an interaction between the SL2 of the ﬂiC 5 UTR and the ﬂiC coding region , including the 3 base of amino acid codon 11 through the initial base of amino acid codon 15 . 
+MATERIALS AND METHODS
+Bacterial strains and growth medium conditions . 
+The bacterial strains used in the present study are listed in Table 1 . 
+Strains were grown in Luria-Bertani ( LB ) medium with aeration as described by Davis et al. ( 6 ) . 
+Motility assay was performed in motility agar plates that consisted of 10 g of tryptone , 5 g of NaCl , and 0.3 % ( wt/vol ) agar per liter ( pH 7.4 ) . 
+Plates were incubated at 37 °C . 
+Minimal E salts medium supplemented with 0.2 % glucose was used as a minimal medium ( 28 ) . 
+Indicator media included X-Gal ( 5-bromo-4-chloro-3-indolyl - - D-galacto-pyranoside ) , MacConkey-lactose ( Difco ) , and 2,3,5-triphenyltetrazolium chloride ( TTC ) - lactose ( 17 ) . 
+Green plates were made up as described previously ( 27 ) and used to isolate phage-free bacteria after transductions . 
+Selection of tetracy-cline-sensitive ( Tcs ) clones was done on zinc-fusaric acid selection plates ( 21 ) . 
+Strain construction . 
+Markers were mobilized between Salmonella strains by generalized transduction using the mutant P22 bacteriophage HT105/int -201 ( 26 ) . 
+The following antibiotics were used for resistance marker selections ( ﬁnal concentrations ) : ampicillin , 30 g/ml for chromosomal resistant gene expression or 100 g/ml for plasmid-encoded resistant gene expression ; chloramphenicol , 12.5 g/ml ; kanamycin , 50 g/ml ; and tetracycline , 15 g/ml ( 21 ) . 
+- Galactosidase assays . 
+- Galactosidase assays were performed in triplicate as described previously ( 21 ) . 
+Cells were grown to a net Klett reading of 100 ( optical density at 600 nm of 0.6 ) prior to the assay . 
+FliC immunoblotting . 
+Immunoblots were performed in triplicate as described previously ( 12 ) . 
+Samples were subjected to 10 % Tricine sodium dodecyl sulfate-polyacrylamide gel electrophoresis . 
+Blots were probed using an anti-FliC polyclonal antibody ( Difco ) and an horseradish peroxidase-conjugated secondary antibody ( Bio-Rad ) . 
+Nonradioactive ECL Plus Kit ( Amersham Biosciences ) was used for blot detection . 
+Quantiﬁcation was performed with ImageQuant for the Macintosh ( IQ v1 .2 ; Molecular Dynamics ) . 
+Protein levels were calculated as a percentage of the total protein at time t divided by the amount of protein at time zero and multiplied by 100 . 
+Predicted RNA secondary structures . 
+RNA secondary structures were predicted by using the M-FOLD program , which is available online ( 22 ) . 
+We analyzed two different partial RNA secondary structures . 
+One structure included the ﬂiC 1 translational start site and 12 nucleotides ( nt ) downstream the ATG start codon . 
+The second structure included the ﬂiC 1 translational start site , the full length of the 5 UTR ( 62 nt ) and 42 nt downstream the ATG initiation codon . 
+In the wild-type strain , TH6232 , the examined RNA total length was 77 nt for the ﬁrst structure and 108 nt for the second one . 
+M-FOLD analyses were conducted at the ﬁxed temperature of 37 °C . 
+In some cases more than one global folding pattern were displayed with an increase in the available free energy . 
+Construction of transcriptional and translational fusions . 
+Transcriptional and translational fusions of the ﬂiC gene to the lac operon and lacZ gene , respectively , were constructed in strains TH6232 , TH7293 , and TH7317 using the - Red system of Datsenko and Wanner ( 5 ) . 
+A segment of DNA including the entire ﬂiC 5 UTR sequence from TH6232 , TH7293 , and TH7317 was transformed into strains TH6305 and TH6307 , which contain the MudJ and MudK lac transcriptional and translational fusion vectors in the ﬂiC coding region . 
+The UTR sequence was ampliﬁed with primers carrying extensions ( between 36 and 40 nt ) homologous to the last portion of the targeted sequence ( forward primer ) and to a region downstream from it ( reverse primer ) to allow transfer of the sequence by recombination into the chromosome . 
+Primers were engineered to insert ﬂiC promoter-down mutations to facilitate the measurement of - galac-tosidase levels . 
+Primers used to introduce promoter-down mutations ( a A residue between the 10 and 35 promoter regions that is 23 bp upstream of the transcriptional start site or a C : T in the 10 region that is 13 bp upstream of the transcriptional start-site ) were as follows : 5 promoter 13-bp ﬂiC2 ( 5 - GAA GTG AAA AAT TTT CTA AAG TTC GAA ATT CAG GTG CTG ATA CAA GG-3 ) , 5 promoter TH7044 ( 5 - GGA AGT GAA AAA TTT TCT AAA GTT CGA ATT CAG G-3 ) , and 3 ﬂiC 39R ( 5 - CAG CGA CAG GCT GTT TG-3 ) . 
+Both recipient strains TH6305 and TH6307 have a tetRA cassette insertion that removed a region of DNA , including the 10 sequence of ﬂiC promoter through 10 bases before the ATG start codon , and are in the ﬂiCON orientation . 
+TH6305 has a ﬂiC-lac transcriptional fusion where transcription of the lac operon is dependent on the ﬂiC promoter , whereas lacZ is independently translated . 
+TH6307 has the ﬂiC-lacZ translational fusion , where both transcription and translation of lacZ are dependent on the ﬂiC promoter and the mRNA translation initiation region . 
+Competent cells were concentrated 250-fold and transformed with 100 ng of PCR product . 
+Recombinant colonies were selected by plating transformed cells on Tcs plates at 42 °C . 
+Loss of the plasmid pKD46 was conﬁrmed by screening Tcs colonies for growth on L-Ap plates at 37 °C . 
+Constructs were conﬁrmed by PCR using the primers 5 ﬂiC13 ( 5 - CTT TGT CAG GTC TGT C-3 ) , which contains homology to the upstream DNA immediately adjacent to ﬂiC ( 75 bp from ATG of ﬂiD reverse ) , and 3 ﬂiC 39R . 
+Sequencing of the PCR products obtained was performed at the Biochemistry DNA Sequence Facility , University of Washington , Seattle . 
+Construction of ﬂiC : : Mud-lac transcriptional and translational fusion to the ﬂiC gene in Mot revertant strains with promoter-down mutations . 
+A tetRA cassette insertion was introduced in the ﬂiC gene between codons 12 and 13 in strains TH8856 , TH8862 , TH8868 , and TH8874 . 
+The primers were as follows : FliC cod 12-13 tetR ( 5 - G ATC ATG GCA CAA GTC ATT AAT ACA AAC AGC CTG TCG CTG TTAAGACCCACTTTCACATT-3 ) and FliC cod 12-13 tetA ( 5 - C CAG AGC GGA CTG GGA TTT GTT CAG GTT ATT CTG GGT CAA CTAAGCACTTGTCTCCTG-3 ) . 
+The tetRA cassette was replaced with a PCR product ( 253 bp in length ) from TH7312 , TH7314 , and TH7318 containing the respective Mot revertant ﬂiC coding sequence mutation . 
+The ﬂiC sequence was ampliﬁed with the primers ﬂiC reverse CELI ( 5 - ATG GAG ATA CCG TCG-3 ) and ﬂiC-29 ( 5 - CAA GTT GTA ATT GAT AA-3 ) . 
+Constructs were sequenced by using the primer ﬂiC13 ( 5 - CTT TGT CAG GTC TGT C-3 ) to conﬁrm the ﬂiC 5 UTR 38C : T , the ﬂiC promoter , and the ﬂiC coding sequence mutations . 
+Construction of double mutants . 
+Double mutants containing both the ﬂiC 5 UTR motile revertant deletion of SL2 [ ﬂiC 5 UTR ( 47 through 36 relative to AUG start codon ) ] from TH7317 and , respectively , the ﬂiC coding motile revertant mutations from strains TH7312 ( 41C : G ) , TH7314 ( 41 C : A ) , and TH7318 ( 37 T : C ) were constructed by using - Red ( 5 ) . 
+A tetRA cassette was introduced into strains TH7312 , TH7314 , and TH7318 in the ﬂiC 5 UTR region , 40 bases upstream of the ﬂiC AUG start codon . 
+The primers were as follows : FLICUTR ( 40BP ) tetR ( 5 - CTT TTC CTT ATC AAT TAC AAC TTG ATG TTA TTG GAC T TTAAGACCCACTTTCACATT-3 ) and FLICUTR ( 40BP ) tetA ( 5 - GCC GAT ACA AGG GTT ACG GTG AGA AAC CGT GGG CAAC CTAAGCACTTGTCTCCTG-3 ) . 
+The tetRA cassette was replaced with a DNA fragment containing the TH7317 ﬂiC 5 UTR deletion . 
+The PCR product of 113 bp was obtained by using the primers ﬂiC 39R ( 5 - CAG CGA CAG GCT GTT TG-3 ) and UTR ( 5 - TTC GAA ATT CAG GTG-3 ) . 
+Strain constructs were conﬁrmed by sequencing using the primer ﬂiC 39R . 
+The strains with different ﬂgM alleles in strains with the ﬂiC-lac transcriptional reporter fusion ( ﬂiC5050 : : MudJ ) were constructed as follows . 
+Strain TH4107 enx ( pyrC691 : : Tn10 ﬂgM5222 : : MudCm ﬂiC5050 : : MudJ ﬂjB vh2 ) was transduced to pyrC with P22 transducing phage lysates prepared on strains TH4572 ( ﬂgM5224 [ R5C ] ) , TH4576 ( ﬂgM5228 [ I82T ] ) , TH4577 ( ﬂgM5229 [ E89-Stop ] ) , TH5139 ( ﬂgM5628 : : FRT ) , TH8891 ( ﬂgM6318 [ G80-Stop ] ) , and LT2 selecting for growth on minimal glucose medium and screening for Tcs and Cms . 
+PyrC transductants become Tcs due to the loss of the pyrC691 : : Tn10 allele , and transductants that also replace the pyrC-linked ﬂgM5222 : : MudCm allele with the ﬂgM allele of the donor strain are Cms . 
+The resulting set of strains were then transduced to ampicillin resistance using a P22 transducing lysate prepared on strain TH6595 ( ﬂiC5469 : : MudB ) and screened for Kms . 
+This resulted in replacement of the ﬂiC-lac transcriptional reporter with a ﬂiC-lac translational reporter , allowing assay of the effect of the ﬂgM alleles on ﬂiC-lac transcription and translation . 
+The set of strains with the different ﬂgM alleles in strains with the ﬂiC5969 ( 38C : T allele ) and either the ﬂiC5050 : : MudJ or ﬂiC5469 : : MudK re porter fusions were constructed as follows . 
+P22 transducing phage lysates prepared on strains TH6293 ( hin-5717 : : FRT ﬂiC5050 : : MudJ ﬂiC5532 : : tetRA ) and TH6295 ( hin-5717 : : FRT ﬂiC5469 : : MudK ﬂiC5532 : : tetRA ) were used to separately transduce strains TH9408 , TH9409 , TH9410 , TH9411 , TH9412 , and TH9413 to Kmr and screened for a Tcs phenotype . 
+Because the ﬂiC5532 : : tetRA Tcr allele is a replacement of the region including the ﬂiC 5 UTR through the 10 ﬂiC promoter region with the tetRA genes from transposon Tn10 , the Kmr , Tcs transductants would have inherited the ﬂiC : : MudJ or ﬂiC : : MudK reporter but retained the ﬂiC 5 UTR region of the recipient strains . 
+The set of strains with the different ﬂgM alleles in the HBB mutant background ( ﬂgG-L ) used to measure FlgM anti- 28 activity using a class 3 transcriptional reporter fusion ( motA5461 : : MudJ ) were constructed as follows . 
+A P22 transducing lysate grown on strain TH10067 ( pyrC : : FKF ﬂgM5222 : : MudCm ﬂgBC : : tetRA ﬂjBenx vh2 ) was used to transduce strain SJW1518 ( ﬂgG-L2157 ﬂjBenx vh2 ) to Kmr , which selects for the linked pyrC : : FKF allele and screened for Cmr and Tcs , which includes Kmr transductants that also brought in the linked ﬂgM5222 : : MudCm and retained the ﬂgG-L2157 allele because in order to be Cmr and Tcs , a recombination even had to occur between the ﬂgM and ﬂgB genes . 
+This resulted in the creation of strain TH10218 . 
+TH10067 was also used to transduce strains TH9408 , TH9409 , TH9410 , TH9411 , TH9412 , and TH9413 to Tcr , followed by a screen for Kms and Cms transductants to place the ﬂgBC : : tetRA adjacent to the six ﬂgM alleles . 
+P22 transducing lysates were grown on these six strains and used to transduce TH10218 to pyrC , followed by a screen for Tcs and Cms , which resulted in the placement of the ﬂgG-L2157 allele adjacent to the six ﬂgM alleles . 
+These six strains were then transduced to Kmr with P22 lysate grown on strain TH3933 ( motA5461 : : MudJ ) to generate strains TH10231 through TH10236 . 
+Isolation of the ﬂiC coding sequence mutations from the ﬂiC 5 UTR ( 38C : T ) mutant . 
+Constructs were obtained by using - Red ( 5 ) . 
+As a recipient strain we used TH8670 that has a Tn10dTc insertion in the ﬂiC gene , after coding base 71 . 
+Synthesis of the double-stranded DNA to be used for Tn10dTc replacement was performed by an in vitro polymerization reaction ( ﬁll-in ) using two primers of different lengths . 
+Long primers ( 91 bases ) carried the ﬂiC coding sequence second-site suppressor of the motility defect in the ﬂiC 5 UTR 38C : T mutant . 
+The primers were as follows : Mot # 4 ﬂiCutr ( 5 - G TCG CTG TTG AGC CAG AAT AAC CTG AAC AAA TCC CAG TCC GCT CTG GGC ACC GCT ATC GAG CGT CTG TCT TCC GGT CTG CGT ATC AAC AGC-3 ) carrying the TH7312 mutation ( 41 C : G ) , Mot # 6 ﬂiCutr ( 5 - G TCG CTG TTG AAC CAG AAT AAC CTG AAC AAA TCC CAG TCC GCT CTG GGC ACC GCT ATC GAG CGT CTG TCT TCC GGT CTG CGT ATC AAC AGC-3 ) carrying the TH7314 mutation ( 41 C : A ) , Mot # 10 ﬂiCutr ( 5 - G TCG CTG CTG ACC CAG AAT AAC CTG AAC AAA TCC CAG TCC GCT CTG GGC ACC GCT ATC GAG CGT CTG TCT TCC GGT CTG CGT ATC AAC AGC-3 ) carrying the TH7318 ( 37 T : C ) mutation , and Mot 3 Fillin ( 5 - GTT GAT ACG CAG ACC-3 ) complementary to the 3 ends of the latter primers and used to provide a free 3 - hydroxyl group for initiation of synthesis . 
+Construction of ﬂgM alleles into strain TH7293 . 
+A ﬂgM : : tetRA insertiondeletion was introduced in strain TH7293 by using - Red ( 5 ) . 
+The primers used were as follows : ﬂgM TAA tetA ( 5 - C ATC TGG TCA AGT ATT TCT GAC AAA CGA GTC ATA CGC TTA CTAAGCACTTGTCTCCTG-3 ) and ﬂgM AUG tetR ( 5 - A GCT GGC CGC TAC AAC GTA ACC CTC GAT GAG GAT AAA TAA-3 ) . 
+PCR veriﬁcation was performed to conﬁrm the correct structure with the primers T1Test ( 5 - AGG AGA GAT TTC ACC GC-3 ) , which is 750 bases upstream of the tetA stop codon reading out of tetA , and ﬂgM3 ( 5 - CTG GTC AAG TAT TTC-3 ) . 
+The tetRA cassette was then replaced with the ﬂgM gene from the TH7293 motile revertant strain TH8891 ( ﬂgM G80Stop ) . 
+The ﬂgM gene was ampliﬁed with the primers ﬂgM3 ( 5 - CTG GTC AAG TAT TTC-3 ) and FLGMAUG-40 ( 5 - TGG CCG CTA CAA CGT AA-3 ) . 
+Flagellum staining . 
+Cells were grown in LB to an optical density at 600 nm of ca. 0.6 to 0.8 . 
+A 0.5-ml volume of bacterial culture was gently mixed with 0.1 ml of fresh ﬁxative solution ( 1 ml of 16 % paraformaldehyde , 1.5 l of glutaraldehyde ) and 20 l of 1 M NaPO4 buffer ( pH 7.4 ) . 
+A 10 - l volume of sample was added into each well of a poly-L-lysine ( Sigma ) multitest slide by using a widebore Eppendorf tip . 
+Samples were incubated for 20 min at room temperature . 
+Fixed bacteria were washed three times with phosphate-buffered saline ( PBS ; pH 7.4 ) and allowed to dry completely . 
+A 10 - l volume of blocking solution ( 2 % bovine serum albumin [ BSA ] in PBS ) was added to each well , and the slides were incubated for 10 min at room temperature ( 9 , 25 ) . 
+Cells were then treated with 10 l of the anti-FliC antibody ( Difco Salmonella H antiserum ) puriﬁed by serum afﬁnity chromatography as described previously ( 10 ) at a 1:200 dilution in BSA-PBS overnight at 4 °C . 
+Slides were placed on wetted 3MM paper in a petri dish and wrapped with Paraﬁlm to prevent evaporation . 
+Samples were washed 10 times with PBS and treated with 10 l of ﬂuorescein isothiocyanate ( FITC ) - conjugated goat anti-rabbit secondary antibody ( 1:200 dilution in BSA-PBS ) for 2 h at room temperature in the dark . 
+Samples were washed eight times with PBS and equilibrated with 1 drop of SlowFade Light Antifade Equilibration Buffer ( Molecular Probes ) . 
+Cell membranes and DNA were stained with 1 l of FM4-64 ( 1 mg/ml ; Molecular Probes ) ( 24 ) and 2 l of DAPI ( 4 ,6 - diamidino-2-phenylin-dole ; 2 ng/ml ; Molecular Probes ) . 
+Slides were mounted in SlowFade glycerol ( Molecular Probes ) . 
+Samples were observed with a Zeiss Axioscope 2 MOT microscope equipped with a 100 objective lens and photographed with an Hamamatsu ORCA-ER digital camera . 
+Cells were illuminated with a 100 Mercury arc with the following cubes set ( Chroma Technology ) : 41028 yellow green ﬂuorescent protein ( GFP ) BP for FITC , 31058 FM4-64 for the FM4-64 probe , and 31041 blue GFP II for DAPI . 
+Individual ﬂuorescent channels and images were merged by using Open Lab modular software ( Scientiﬁc Imagin ) to create the ﬁnal picture . 
+RNA isolation . 
+Strains were grown in LB broth at 37 °C to logarithmic phase ( optical density at 600 nm of 0.5 ) . 
+Transcription was inhibited by rifampin ( Sigma ) treatment at a concentration of 500 g/ml . 
+A 1.5-ml volume of culture was added to a guanidine ( GuSCN ) - phenol solution ( 7.5 M guanidine thiocya-nate , 0.5 % sodium dodecyl sulfate , 1 mM EDTA , 50 mM sodium acetate [ pH 4.0 ] ) at 0 , 0.5 , 1 , 1.5 , 2 , 3 , and 4 min after the addition of rifampin . 
+Total RNA was prepared as described previously ( 8 ) . 
+RNA samples were analyzed by aga-rose gel electrophoresis to ensure RNA quality . 
+Probe construction . 
+A [ 32P ] UTP radiolabeled RNA probe used to detect the ﬂiC transcript was synthesized by using an in vitro transcription reaction ( Ambion MAXIscript ) . 
+Template DNA for the transcription reaction was ampliﬁed using the following primers : T7 ﬂiC 3 ( 5 - TAC GAC TCA CTA TAG GGA GA CAC ATT CAG CGT ATC CAG AC-3 ) and 5 Vitrotran ﬂiC ( 5 - TGC GCA GAC CAC TGA AG-3 ) . 
+T7 ﬂiC 3 has the T7 promoter sequence ( 19 bp ) at the 5 end . 
+Ampliﬁcation of the target DNA yielded a PCR product that contained the T7 promoter upstream of the sequence of interest . 
+The probe was complementary to the sequence of the ﬂiC transcript located between 217 to 504 bases downstream of the ﬂiC ATG start codon . 
+The PCR product was examined on agarose gel to verify that the product was unique and of the expected size . 
+A tota of 0.1 g of double-stranded DNA was used as a template in the in vitro transcription reaction . 
+RESULTS
+Isolation and characterization of motile revertants of the ﬂiC 5 UTR 38C : T allele . 
+In an accompanying study , the 5 end of the ﬂiC gene was mutagenized , and motility-defective mutants were isolated and characterized for defects in transcription , translation , and ﬁlament assembly ( 1 ) . 
+A stem-loop structure , SL2 , within the ﬂiC 5 UTR was identiﬁed that appeared to be critical for ﬂiC translation because mutants defective in stem formation showed reduced ﬂiC mRNA translation and motility . 
+For example , the single mutants 45G : C and 38C : G in SL2 reduced translation and possessed a mo-tility defect , while the 45G : C 38C : G double mutant had wild-type levels of ﬂiC mRNA translation and was motile . 
+We sought to characterize the role of SL2 in ﬂiC mRNA translation through the isolation and characterization of motile revertants of one of the SL2 translation-speciﬁc mutants ( Fig. 1 ) . 
+Strain TH7293 carries a ﬂiC-5 UTR single base mutation in SL2 ( 38C : U ) that is defective in ﬂiC mRNA translation , resulting in a motility-defective phenotype ( Mot ) . 
+Mot revertants of the 38C : T mutant were isolated and characterized . 
+The Mot revertants were ﬁrst screened for linkage to the ﬂiC gene , and ca. 99 % of the Mot revertants were linked to the ﬂiC gene . 
+Linkage was determined by growing a P22 transducing lysate on the Mot revertants strains , and the lysate was used to transduce strain TH7952 [ hin-5717 : : FRT ON ( ﬂiC ) ﬂiC5532 : : tetRA ] to Tcs . 
+Strain TH7952 has a segment of DNA containing the 10 of the ﬂiC promoter through base 10 from the ﬂiC ATG start codon deleted and replaced s by a tetRA cassette ( 1 ) . 
+Transduction to Tc will replace the s tetRA cassette with the ﬂiC 5 end from the donor strain . 
+Tc transductants were tested directly for motility onto motility plates for linkage of the Mot revertants in the donor strain to the ﬂiC region . 
+We performed , as a control , the same genetic cross using as donor a P22 lysate grown on the parent strain TH7293 . 
+Selection was done for Tcs colonies . 
+As expected , all transductant colonies ( 100 of 100 ) from the control cross were Mot . 
+DNA sequence analysis of ﬂiC-linked motile revertants of the ﬂiC 38C : T 5 UTR allele . 
+Initially , 14 independent motil 
+( Mot ) revertants of strain TH7293 were isolated , and all were linked to ﬂiC . 
+DNA sequence analysis resulted in two catego-ries of mutations ( Fig. 1 ) . 
+Ten Mot revertants had mutations in the 5 UTR , including single base changes at positions 15 , 39 , 41 , and 46 ( relative to the ATG start codon ) ; a single base deletion at 45 ; a duplication of bases 7 through 1 ; a deletion of the entire SL2 and a double mutant with a single base insertion of A at the original 40 position ; and a large duplication from 37 through 22 . 
+In addition to the 5 UTR mutants , four mutants were obtained with single base changes in the ﬂiC-coding region at amino acids 13 and 14 . 
+One of these , obtained twice , was a silent mutation at amino acid 13 ( L13L ) , and the other two were at amino acid 14 ( T14S and T14N ) . 
+We found the revertant resulting from a complete deletion of SL2 to be remarkable . 
+Prior to the isolation of this mutant , we thought the fact that the 38C : T ﬂiC 5 UTR mutant was defective in ﬂiC mRNA translation meant that this region was required for translation . 
+The fact that the entire SL2 could be deleted to restore translation is strong evidence that SL2 is a translational inhibitory domain of the 5 UTR , and the 38C : T allele resulted in an increase in the translational inhibitory activity of the domain . 
+A rare , unlinked motile revertant of the ﬂiC 38C : T 5 UTR allele is in ﬂgM . 
+In an independent set of experiments , 160 independent Mot revertants of strain TH7293 were isolated and checked for linkage to ﬂiC . 
+All but one was linked . 
+The unlinked Mot revertant was mapped through the isolation of a linked Tn10dTc transposon . 
+One insertion that was 67 % linked to Mot by P22-mediated transduction was determined by DNA sequence analysis to be in the mviM gene that encodes for a putative Salmonella virulence factor . 
+The mviM gene is closely linked to the ﬂagellar ﬂg genes . 
+Three-factor mapping analysis was performed using the mviM : : Tn10dTc and a pyrC : : Cm allele to localize the ﬂiC-unlinked Mot mutation to a small enough region of the chromosome that could be analyzed by DNA sequence analysis . 
+The three-factor cross analysis placed the Mot allele clockwise of both mviM and pyrC on the standard Salmonella linkage map in the vicinity of the ﬂgAMN genes . 
+Further DNA sequence analysis revealed the Mot allele to be a single-base-change mutation in the ﬂgM gene ( 238 G : T ) 53bases upstream the ﬂgM gene stop codon that resulted in a TGA stop codon at the G80 amino acid codon position of ﬂgM [ GGA ( Gly ) 80 : TGA ( Stop ) ] . 
+Effect of ﬂiC-linked 38C : T motile revertants on ﬂiC expression . 
+To investigate the contribution of the 38C : T mutation on ﬂiC expression , ﬂiC-lac transcriptional and translational fusions in ﬂiC were introduced into strains that had either a wild-type ﬂiC 5 UTR , the , 38C : T allele ( ﬂiC5969 ) , or the deletion the ﬂiC 5 UTR SL2 region ( SL2 ) . 
+Initial assays showed ﬂiC expression of the translational reporter fusion to be elevated by the SL2 deletion ( Table 2 , compare TH6235 [ row 1 ] to TH8905 [ row 3 ] ) , although the standard deviation was too high in these assays to be conclusive . 
+In order to get a more accurate measure on the effect of SL2 on ﬂiC translation , we introduced mutations in the ﬂiC promoter region that had been isolated in our lab to downregulate ﬂiC gene transcription ( 1 ) . 
+The purpose of using promoter-down mutations was twofold . 
+First , the ﬂiC gene has a strong promoter , and - galactosidase activities are easier to measure when ﬂiC-lac a The numbers are - galactosidase activity units in nmol/min/optical density at 650 nm ml . 
+The levels of ﬂiC transcription and translation were assayed using either a ﬂiC : : MudJ ( lac transcriptional ) or ﬂiC : : MudK ( lac translational ) reporter fusions ( 3 ) . 
+All strains are locked in the ﬂiCON orientation ( hin-5717 : : FRT ) . 
+These assays were performed in the presence or absence of a ﬂiC promoter down mutation ( A between the 10 and 35 promoter regions [ 23 relative to the transcription start site ] ) . 
+This was done to show that regulation was independent of ﬂiC promoter strength and allows future Lac revertant selections to be done with the promoter-down mutant backgrounds . 
+The following strains were used ( listed in order of MudJ then MudK ) : wild type , wild-type promoter-down , TH8860 and TH8872 ; ﬂiC5969 ( 38C : T ) promoterdown , TH8862 and TH8874 ; SL2 motile revertant promoter-down , TH8864 and TH8876 . 
+TH6232 was used as the background ( no-Mud ) control . 
+fusions are expressed at lower levels . 
+Second , the 38C : T mutant is Lac on selective media with the normal ﬂiC promoter , but Lac with the promoter-down mutation , which facilitates the isolation of revertants using Lac selections . 
+The promoter-down mutation was a single base deletion in the spacer region between the 10 and 35 promoter sequences ( 23 A relative to 1 of the translation ) . 
+We obtained statistically signiﬁcant results with the promoter-down allele . 
+The effect of the SL2 mutation was to increase ﬂiC-lacZ translation ca. 30 % over the wild type ( Table 2 , compare strains TH8872 [ row 4 ] and TH8876 [ row 6 ] ) . 
+Transcriptional assays of strains with either a wild-type ﬂiC 5 UTR region , the 38C : T , or the SL2 allele all showed similar - galactosidase levels , with or without the ﬂiC promoterdown allele , indicating that the 38C : T and SL2 mutations in the ﬂiC 5 UTR had no apparent effect on ﬂiC transcription or mRNA stability ( Table 2 ) . 
+These results were conﬁrmed by RNase protection assays ( data not shown ) . 
+In contrast a ﬁve - to sevenfold decrease in - galactosidase activity was observed with the ﬂiC-lacZ translational fusion with the 38C : T 5 UTR mutation ( Table 2 , compare TH6235 [ row 1 ] and TH 8904 [ row 2 ] and compare TH8872 [ row 4 ] with TH8874 [ row 5 ] ) . 
+As mentioned above , deletion of SL2 restored ﬂiC translation to a level greater than that observed with the wild-type ﬂiC 5 UTR . 
+To determine whether the SL2 deletion results in increased ﬂiC mRNA translation compared to ﬂiC mRNA with the wild-type 5 - UTR , FliC protein levels were measured in wildtype ( TH6232 ) , 38C : T ( TH7293 ) , and SL2 ( TH7317 ) strains . 
+A ﬁvefold decrease in FliC protein levels due to the 38C : T mutation and a 50 % increase in FliC protein levels due to the SL2 mutation over the wild-type levels were observed by Western blot analysis ( Fig. 2 ) . 
+The results presented above indicate that SL2 is a negativ regulator of ﬂiC mRNA translation and suggest that the 38C : T substitution enhanced this inhibitory role . 
+Four Mot revertants of the 38C : T allele had the second site mutation in the ﬂiC coding sequence : TH7312 ( 41C : G ) , TH7314 ( 41C : A ) , TH7318 , and TH7321 ( 37T : C ) . 
+The fact that one of these Mot revertant mutations ( in both TH7318 and TH7321 ) resulted in a change of a nonrare leucine codon to another nonrare leucine codon suggested that the effect of these mutations was due to the changes in mRNA sequence independent of the amino acid codon change . 
+The FliC protein was assayed for the ﬂiC-coding Mot revertants in the 38C : T background ( TH7312 , TH7314 , and TH7318 ) ( Fig. 2 ) . 
+The 41C : A allele of strain TH7314 restored FliC levels to those seen in the wild-type strain TH6232 . 
+The other two coding revertant alleles , 37T : C ( TH7318 ) and 41C : G ( TH7312 ) , had 50 % higher FliC levels comparable to the SL2 deletion revertant strain ( TH7317 ) . 
+The ﬂiC-coding Mot revertant alleles were separated from the original 38C : T mutation . 
+When separated from the 38C : T mutation , the FliC levels were at best 30 % higher for 37 T : C ( TH8882 ) and 41 C : A 
+( TH8879 ) and the same for the 41 C : G allele ( Fig. 2 ) . 
+Consistent with the FliC levels observed , the ﬂiC-coding Mot revertant alleles exhibited a wild-type motility phenotype ( data not shown ) . 
+Potential interaction of the ﬂiC 5 UTR SL2 region with ﬂiC coding sequences . 
+The isolation of 38C : T motile suppressors in the ﬂiC coding region at positions 37 and 41 suggested that these regions might interact . 
+When these sequences were aligned , we found a remarkably strong potential stem structure that could form by base pairing between the SL2 region of the 5 UTR and a region of ﬂiC coding sequence from positions 32 through 43 ( Fig. 3 ) . 
+According to this model , a stretch of 11 bases in the SL2 region of the ﬂiC 5 UTR can base pair with a stretch of 12 bases in the ﬂiC coding sequence , leaving a single A residue unpaired . 
+We decided to insert a base in the ﬂiC 5 UTR between the 44C and 45G residues that could have the potential of base pairing with the unpaired A residue in the ﬂiC coding sequence . 
+An insertion of A , C , or G resulted in a motility phenotype similar to that of the wild type , whereas the insertion of a T residue resulted in a nonmotile phenotype ( results not shown ) . 
+This suggests that strengthening of the interaction of SL2 with the ﬂiC coding region has an inhibitory effect on ﬂiC translation . 
+The insertion of A , C , or G was not expected to enhance the interaction between the SL2 region , and the resulting motile phenotypes are in agreement with this result . 
+Effect of ﬂgM alleles on suppression of the 38C : T translation defect . 
+Strain TH8891 [ hin-5717 : : FRT ( ﬂiCON ) ﬂiC596 
+( 38C : T ) ﬂgM6318 ( G80Stop ) ] harbors the ﬂiC-unlinked Mot revertant of 38C : T that resulted in stop codon mutation at amino acid 80 of FlgM . 
+To verify that this single base change at codon 80 was responsible for the Mot revertants phenotype , the ﬂgM region from TH8891 was ampliﬁed by PCR , and the resulting DNA fragment was used to replace the ﬂgM : : tetRA allele introduced into the parent strain TH7293 [ hin-5717 : : FRT ( ﬂiCON ) ﬂiC5969 ( 38C : T ) ] using selection for Tcs in the presence of the - Red functions . 
+The new strain , TH9213 , acquired the Mot revertant phenotype of the donor strain , indicating that the ﬂgM6318 ( G80Stop ) allele could suppress the motility defect caused by decreased ﬂiC mRNA translation of the 38C : T mutation . 
+This was quite unexpected . 
+FlgM inhibits ﬂiC transcription as an anti- 28 factor , but the 38C : T mutation does not affect ﬂiC transcription ( Table 2 ) . 
+However , increased ﬂiC transcription could compensate for reduced ﬂiC mRNA translation if an overall increase in ﬂiC transcript led to more FliC gene product . 
+However , why was the ﬂgM6318 ( G80Stop ) suppressor of the 38C : T motility-defective mutation such a rare occurrence ( 1 % of motile revertants ) ? 
+To determine whether the loss of FlgM resulted in suppression of the 38C : T-dependent motility-defective phenotype , a set of ﬂgM alleles isolated as having reduced or no anti- 28 activity was transduced into the TH7293 ﬂgM : : tetRA strain selecting for Tcs . 
+The set included ﬂgM and a complete nonpolar deletion ( ﬂgM5628 : : FRT ) of ﬂgM , two point mutants -- ﬂgM5524 ( R5C ) and ﬂgM5528 ( I82T ) -- that are defective in interacting with 28 , and ﬂgM5529 , which has a stop codon mutation at amino acid 89 of ﬂgM . 
+A gradient of motility suppression was observed ( Fig. 4 ) . 
+A slight increase in motility was observed with the single amino acid substitution mutants , a little more with 89-Stop mutant , and even more with the complete ﬂgM deletion . 
+However , the ﬂgM6318 ( G80-Stop ) allele clearly suppressed the motility defect over all other ﬂgM alleles . 
+This suggests that truncated FlgM , missing its last 18 amino acids but not missing its last 9 amino acids , has an active role in suppressing the translation defect of the ﬂiC 38C : T mutation independent of its anti- 28 activity . 
+Effect of ﬂgM alleles on 28-dependent transcription . 
+The ﬂgM6318 ( G80-Stop ) suppressor was tested for its effect on ﬂiC transcription and translation compared to the other ﬂgM alleles by using lac transcriptional and translational reporter constructs ( Table 3 ) ( 3 ) . 
+Both the ﬂgM6318 ( G80-Stop ) suppressor allele and the ﬂgM allele with the entire ﬂgM coding region deleted ( ﬂgM5628 : : FRT ) exhibited a comparable in 
+1 ﬂgM ( TH10043 , TH10060 ) 1,500 80 1,700 100 2 ( R5C ) ( TH10038 , 1,700 50 2,100 280 ﬂgM5524 TH10055 ) 3 ﬂgM5528 ( I82T ) ( TH10039 , 1,500 90 2,000 100 TH10056 ) 4 ﬂgM5529 ( E89-Stop ) ( TH10040 , 1,600 73 1,900 110 TH10057 ) ﬂgM5628 : : FRT ( TH10041 , 2,200 97 2,300 250 TH10058 ) 6 ﬂgM6318 ( G80-Stop , Mot ) 2,100 84 2,400 120 ( TH10042 , TH10059 ) 7 ﬂiC5969 ( UTR-38C : T ) ﬂgM 1,100 170 140 19 ( TH10157 , TH10163 ) 8 ﬂiC5969 ﬂgM5524 ( R5C ) ( TH10152 , 1,200 190 430 23 TH10158 ) 9 ﬂiC5969 ﬂgM5528 ( I82T ) ( TH10153 , 1,100 97 470 51 TH10159 ) 10 ﬂiC5969 ﬂgM5529 ( E89-Stop ) 1,200 200 430 35 ( TH10154 , TH10160 ) 11 ﬂiC5969 ﬂgM5628 : : FRT ( TH10155 , 1,500 210 670 82 TH10161 ) 12 ﬂiC5969 ﬂgM6318 ( G80-Stop ) 1,500 180 650 88 ( TH10156 , TH10162 ) 13 No Mud control strain ( TH6232 ) 2.0 0.1 2.0 0.1 a The numbers are - galactosidase activity units in nmol/min/optical density at 650 nm ml . 
+The levels of ﬂiC transcription and translation were assayed using either a ﬂiC : : MudJ ( lac transcriptional ) or ﬂiC : : MudK ( lac translational ) reporter fusions ( 3 ) . 
+All strains are locked in the ﬂiCON orientation using alleles defective in ﬂagellar phase variation ( either ﬂjBenx vh2 or hin-5717 : : FRT ) . 
+The strain designations listed in the order transcriptional fusion , translational fusion . 
+creases in - galactosidase activity in the lac transcriptional and translational fusion constructs compared to the ﬂgM allele [ Table 3 , compare ﬂgM levels of TH10043 and TH10060 ( row 1 ) with ﬂgM5628 : : FRT levels of TH10041 and TH10058 ( row 5 ) and with ﬂgM6318 ( G80-Stop ) levels of TH10042 and TH10059 ( row 6 ) ] . 
+The other ﬂgM alleles -- ﬂgM5524 ( R5C ) , ﬂgM5528 ( I82T ) , and ﬂgM5529 ( E89-Stop ) -- had only a small effect on ﬂiC-lac expression ( compare row 1 [ ﬂgM ] to rows 2 , 3 , and 4 in Table 3 ) . 
+The ﬂiC-lac transcriptional and translational assays were repeated in the presence of the ﬂiC 38C : T mutation ( ﬂiC5969 ) . 
+The ﬂiC5969 showed reduced ﬂiC-lac transcription of ca. 25 % and reduced ﬂiC-lac transcription and translation of ca. 95 % ( Table 3 , compare row 1 with row 7 ) . 
+Again , both the ﬂgM6318 ( G80-Stop ) and the ﬂgM5628 alleles exhibited comparable increases in - galactosidase activity in the lac transcriptional and translational fusion constructs compared to the ﬂgM allele ( Table 3 , compare row 7 with rows 11 and 12 ) , whereas the other ﬂgM alleles had smaller effects ( Table 3 , compare row 7 with rows 8 , 9 , and 10 ) . 
+These results demonstrate that the ﬂgM motile revertant of the ﬂiC 38C : T 5 UTR mutant allele , ﬂgM6318 ( G80-Stop ) , did not exhibit signiﬁcant differences in its effect on ﬂiC transcription and translation in the presence or absence of the 38C : T 5 UTR mutant allele compared to the complete deletion allele of ﬂgM ( ﬂgM5628 ) . 
+Finally , we tested the effect of the ﬂgM alleles on the expression of a lac transcriptional reporter to another 28-de-pendent promoter , the motA promoter , in a strain defective in HBB formation ( ﬂgG-L ) . 
+The purpose of these experiments was to determine whether FlgM ( G80-Stop ) was able to bind a The numbers are - galactosidase activity units in nmol/min/optical density at 28 650 nm ml . 
+Levels of - dependent transcriptional activities were assayed in strains carrying a motA : : MudJ ( lac transcription ) reporter construct and a deletion of HBB genes ( ﬂgG-L ) . 
+28 and show anti- 28 activity . 
+The ﬂgG-L mutation prevents FlgM secretion from the cell and 28-dependent transcription is completely inhibited ( 10 ) . 
+In this assay , the ﬂgM5524 ( R5C ) , ﬂgM5528 ( I82T ) , and ﬂgM5529 ( E89-Stop ) alleles show signiﬁcant anti- 28 activity ( Table 4 , compare ﬂgM [ row 1 ] with rows 2 , 3 , and 4 ) , whereas the ﬂgM5529 ( E89-Stop ) allele showed only a small decrease in motA-lac expression compared to the ﬂgM5628 allele [ Table 4 , compare ﬂgM ( row 1 ) with ﬂgM5628 ( row 5 ) and with ﬂgM5529 ( E89-Stop ) ( row 6 ) ] . 
+These results demonstrate that the ﬂgM6318 ( G80-Stop ) allele did not exhibit signiﬁcant differences in its effect on anti- 28 activity compared to the complete deletion allele of ﬂgM ( ﬂgM5628 ) . 
+Effect of the ﬂiC 38C : T allele and motile revertant alleles on ﬂagellum production . 
+The effect of the ﬂiC 38C : T 5 UTR allele on ﬂagellum production was examined by microscopy . 
+Immunomicroscopy was performed with strains TH6232 ( ﬂiC ) , TH7293 ( 38C : T ) , and TH7317 ( SL2 ) . 
+The cells were treated with the live membrane stain FM4-64 ( red ) and DAPI ( blue DNA stain ) . 
+Flagellar ﬁlaments ( FliC ) were colored green by using a polyclonal anti-FliC antibody followed by the addition of anti-rabbit FITC-conjugated antibody as described in Materials and Methods ( Fig. 5 ) . 
+TH6232 ( ﬂiC ) cells showed an average of ﬁve to six ﬂagella per surface area , while TH7293 ( ﬂiC-5 UTR 38C : T ) had an average of one or two short ﬂagella per cell . 
+TH7317 ( SL2 ) exhibited at least as many ﬂagella as the TH6232 ( ﬂiC ) control . 
+The results are consistent with a reduction of ﬂiC mRNA translation by the ﬂiC 38C : T 5 UTR allele and normal or slightly elevated ( 50 % ) ﬂiC mRNA translation with the ﬂiC SL2 5 UTR de-letion mutant . 
+DISCUSSION
+We discovered a region of the ﬂiC 5 UTR that is involved in the inhibition of ﬂiC translation . 
+A stem-loop region within the 5 UTR , called SL2 , was identiﬁed as having a number of base substitutions that were defective in expression of a ﬂiC-lacZ translational fusion reporter but did not affect the expression of a ﬂiC-lac transcriptional fusion reporter ( 1 ) . 
+The mutant with decreased translation all destabilized the stem of SL2 . 
+One pair of mutations that were in the different bases within a presumed SL2 base pair , 38C : G and 45G : C , individually resulted in defective ﬂiC mRNA translation , but the combination of the two resulted in wild-type translation levels . 
+In the present study , motile revertants were analyzed for one trans-lation-defective mutant of the SL2 stem , TH7293 , that harbors the 38C : T mutation . 
+The analysis of motile revertants led to several surprising discoveries . 
+One surprising result from the DNA sequence analysis of motile revertants was that one motile revertant had SL2 completely and precisely deleted . 
+This demonstrated that SL2 was not required for normal ﬂiC mRNA translation . 
+In fact , there was a slight increase in ﬂiC mRNA translation in the SL2 deletion mutant . 
+We can only conclude that SL2 does not function to facilitate ﬂiC mRNA translation . 
+The fact that translation-defective mutants arise from single base substitutions that disrupt the stem of SL2 suggests that SL2 has a role in the inhibition of ﬂiC mRNA translation under some as-yet-unidentiﬁed condition . 
+Mutations that disrupt the stem lead to the loss of controlled inhibition by SL2 so that SL2 inhibitory activity is constitutive . 
+We suspect that ﬂiC transcription is localized to the base of the ﬂagellum to couple ﬂiC mRNA translation to assembly . 
+It is possible that SL2 has a role in preventing unwanted ﬂiC mRNA translation in the cytoplasm where translation is not coupled to secretion and assembly . 
+However , since cells deleted for the SL2 are perfectly motile , it can not be essential for ﬂiC translation and assembly . 
+The SL2 segment probably contributes to the efﬁciency of the assembly process . 
+A second unexpected ﬁnding was that a number of suppressors of the translation-defective 38C : T allele were in the ﬂiC coding region . 
+These suppressors were at positions 37 and 41 relative to the beginning of the ATG start codon . 
+The ﬁnding that one suppressor did not change the amino acid codon is consistent with a translation-speciﬁc effect . 
+This intriguing set of mutants is reminiscent of the signal recognition particle pathway in gram-negative bacteria involved in the cotranslation assembly of inner membrane proteins . 
+The N-ter-minal 50 amino acids of the FliC protein ( 1-MAQVINTNSL SLLTQNNLNK SQSALGTAIE RLSSGLRINS AKDDAAG QAI-50 ) include the secretion signal and are not visible in the ﬁnal crystal structure ( 29 ) but could be visualized by using electron cyromicroscopy and image analysis ( 30 ) . 
+The N terminus of a peptide can affect the location of translation in the cell . 
+The signal recognition particle pathway recognizes the nascent N-terminal peptide of proteins destined for the cytoplasmic membrane or for the Sec type II secretion pathway and facilitates the localized translation of these proteins ( 7 ) . 
+It may be that there are regions in the ﬂiC mRNA sequence that cause ribosome stalling to prevent ﬂiC mRNA translation when it is not coupled to secretion . 
+Two such regions would be SL2 and the sequence around the amino acid 13,14 coding region . 
+When these sequences are aligned , there is a remarkably strong stem structure that forms ( Fig. 3 ) . 
+All of the motile revertants of the 38C : U translation defect that were due to sequence changes in either SL2 or the 37/41 coding region disrupt this stem structure . 
+Strengthening the interaction between the SL2 region of the ﬂiC 5 UTR and the ﬂiC coding region by insertion of a T residue at position 45 relative t the ATG start codon resulted in a nonmotile phenotype , whereas insertion of A , G , or C , which are not predicted to strengthen this interaction , had no effect on motility . 
+This supports the model that interaction between these regions plays an important role in the regulation of ﬂiC mRNA translation . 
+It is not clear how the duplication revertants affect this stem-loop structure since additional sequence could easily affect the secondary and tertiary conformations of the ﬂiC 5 mRNA structure . 
+A third unexpected result was the isolation of the 15G : A substitution resulting in suppression of the motility defect of the strain with a 38C : T translation defective mutation . 
+This is because that exact same mutation , the 15G : A transition in the ﬂiC 5 UTR sequence , was among the single base substitution mutations in the original ﬂiC translation-defective mutants ( 1 ) . 
+Somehow the 15 position can inﬂuence the SL2 region in both a positive and a negative manner , depending on what base is located at the 38 position ( relative to the AUG start codon ) of the ﬂiC 5 UTR . 
+The isolation and characterization of motile revertants of the 15G : A in a strain with the `` C '' base at the 38 position ( the wild-type base at this position ) should result in the isolation of 38C : T mutants along with other suppressors that might lead to a better understanding of how the 15 position functions in the regulation of ﬂiC mRNA translation . 
+The ﬁnal unexpected result was the isolation of a motile suppressor in the ﬂgM gene . 
+This rare suppressor ( 1 % of motile suppressors of TH7293 ) was unusual because the degree of suppression was dependent on the loss of the last 18 amino acids of FlgM and not on an FlgM-null phenotype . 
+Mutants isolated as defective in anti- 28 activity did not suppress the ﬂiC mRNA translation defect caused by the 38C : T mutation . 
+This result leads us to conclude that the very C terminus of FlgM is involved in regulation of ﬂiC mRNA translation . 
+It ﬁts with the position of single amino acid substitution mutations in FlgM that are defective in anti- 28 activity . 
+These all reside in the region from amino acid 57 through amino acid 82 . 
+We have isolated a stop codon mutant at amino acid codon 89 of ﬂgM with reduced anti- 28 activity , but it retains the translation defect caused by the 38C : T mutation in the ﬂiC 5 UTR . 
+The fact that no single amino acid substitutions in FlgM relieved the ﬂiC mRNA translation inhibitory activity suggests that there are multiple amino acids in the C terminus of FlgM that contribute to this activity . 
+A good future experiment would be a targeted mutagenesis of the C-terminal 18-amino-acid coding region of ﬂgM , followed by a screen for increased or decreased translation of ﬂiC mRNA . 
+ACKNOWLEDGMENTS This study was supported by PHS grant GM62206 from the National Institutes of Health . 
+We thank the 2003 Cold Spring Harbor Advanced Bacterial genetics course participants for the isolation and mapping of 160 independent motile revertants of strains TH7293 that led to the isolation of strain TH8891 ( stop codon mutant at amino acid codon 80 of ﬂgM ) . 
+REFERENCES 1 . 
+Aldridge , P. , J. Gnerer , J. E. Karlinsey , and K. T. Hughes . 
+2005 . 
+Transcriptional and translational control of the Salmonella ﬂiC gene . 
+J. Bacteriol . 
+188:4487 -- 4496 . 
+2 . 
+Anderson , P. E. , and J. W. Gober . 
+2000 . 
+FlbT , the posttranscriptional regulator of ﬂagellin synthesis in Caulobacter crescentus , interacts with the 5 untranslated region of ﬂagellin mRNA . 
+Mol . 
+Microbiol . 
+38:41 -- 52 . 
+3 . 
+Boniﬁeld , H. R. , and K. T. Hughes . 
+2003 . 
+Flagellar phase variation in Sal-monella enterica serovar Typhimurium is mediated by a posttranscriptional control mechanism . 
+J. Bacteriol . 
+185:3567 -- 3574 . 
+4 . 
+Chilcott , G. S. , and K. T. Hughes . 
+2000 . 
+The coupling of ﬂagellar gene expression to ﬂagellar assembly in Salmonella typhimurium and Escherichia coli . 
+Microbiol . 
+Mol . 
+Biol . 
+Rev. 64:694 -- 708 . 
+5 . 
+Datsenko , K. A. , and B. L. Wanner . 
+2000 . 
+One-step inactivation of chromosomal genes in Escherichia coli K-12 using PCR products . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 97:6640 -- 6645 . 
+6 . 
+Davis , R. W. , D. Botstein , and J. R. Roth . 
+1980 . 
+Advanced bacterial genetics . 
+Cold Spring Harbor Laboratory , Cold Spring Harbor , N.Y. 7 . 
+Gier , J. W. 2005 . 
+Biogenesis of inner membrane proteins in Escherichia coli . 
+Annu . 
+Rev. Microbiol . 
+59:329 -- 355 . 
+8 . 
+Goluszko , P. , S. L. Moseley , L. D. Truong , A. Kaul , J. R. Williford , R. Selvarangan , S. Nowicki , and B. Nowicki . 
+1997 . 
+Development of experimental model of chronic pyelonephritis with Escherichia coli O75 : K5 : H-bearing Dr ﬁmbriae : mutation in the dra region prevented tubulointerstitial nephritis . 
+J. Clin . 
+Investig . 
+99:1662 -- 1672 . 
+9 . 
+Harry , E. J. , K. Pogliano , and R. Losick . 
+1995 . 
+Use of immunoﬂuorescence to visualize cell-speciﬁc gene expression during sporulation in Bacillus subtilis . 
+J. Bacteriol . 
+177:3386 -- 3393 . 
+10 . 
+Hughes , K. T. , K. L. Gillen , M. J. Semon , and J. E. Karlinsey . 
+1993 . 
+Sensing structural intermediates in bacterial ﬂagellar assembly by export of a negative regulator . 
+Science 262:1277 -- 1280 . 
+11 . 
+Ide , N. , T. Ikebe , and K. Kutsukake . 
+1999 . 
+Reevaluation of the promoter structure of the class 3 ﬂagellar operons of Escherichia coli and Salmonella . 
+Genes Genet . 
+Syst . 
+74:113 -- 116 . 
+12 . 
+Karlinsey , J. E. , J. Lonner , K. L. Brown , and K. T. Hughes . 
+2000 . 
+Translation/secretion coupling by type III secretion systems . 
+Cell 102:487 -- 497 . 
+13 . 
+Karlinsey , J. E. , S. S. Tanaka , V. Bettenworth , S. Yamaguchi , W. Boos , S. I. Aizawa , and K. T. Hughes . 
+2000 . 
+Completion of the hook-basal body of the Salmonella typhimurium ﬂagellum is coupled to FlgM secretion and ﬂiC transcription . 
+Mol . 
+Microbiol . 
+37:1220 -- 1231 . 
+14 . 
+Kutsukake , K. 1997 . 
+Autogenous and global control of the ﬂagellar master operon , ﬂhD , in Salmonella typhimurium . 
+Mol . 
+Gen. Genet . 
+254:440 -- 448 . 
+15 . 
+Kutsukake , K. 1994 . 
+Excretion of the anti-sigma factor through a ﬂagellar substructure couples ﬂagellar gene expression with ﬂagellar assembly in Salmonella typhimurium . 
+Mol . 
+Gen. Genet . 
+243:605 -- 612 . 
+16 . 
+Kutsukake , K. , Y. Ohya , and T. Iino . 
+1990 . 
+Transcriptional analysis of the ﬂagellar regulon of Salmonella typhimurium . 
+J. Bacteriol . 
+172:741 -- 747 . 
+17 . 
+Lederberg , J. 1948 . 
+Detection of fermentation variants with tetrazolium . 
+J. Bacteriol . 
+56:695 . 
+18 . 
+Liu , X. , and P. Matsumura . 
+1994 . 
+The FlhD/FlhC complex , a transcriptional activator of the Escherichia coli ﬂagellar class II operons . 
+J. Bacteriol . 
+176 : 7345 -- 7351 . 
+19 . 
+Macnab , R. M. 1996 . 
+Flagella and motility , p. 123 -- 145 . 
+In F. C. Neidhardt , R. Curtiss III , J. L. Ingraham , E. C. C. Lin , K. B. Low , B. Magasanik , W. S. Reznikoff , M. Riley , M. Schaechter , and H. E. Umbarger ( ed . ) 
+, Escherichia coli and Salmonella : cellular and molecular biology , 2nd ed . 
+American Society for Microbiology , Washington , D.C. 20 . 
+Macnab , R. M. 2004 . 
+Type III ﬂagellar protein export and ﬂagellar assembly . 
+Biochim . 
+Biophys . 
+Acta 1694:207 -- 217 . 
+21 . 
+Maloy , S. R. 1990 . 
+Experimental techniques in bacterial genetics . 
+Jones and Bartlett , Boston , Mass. 22 . 
+Mathews , D. H. , J. Sabina , M. Zuker , and D. H. Turner . 
+1999 . 
+Expanded sequence dependence of thermodynamic parameters improves prediction of RNA secondary structure . 
+J. Mol . 
+Biol . 
+288:911 -- 949 . 
+23 . 
+Ohnishi , K. , K. Kutsukake , H. Suzuki , and T. Iino . 
+1990 . 
+Gene ﬂiA encodes an alternative sigma factor speciﬁc for ﬂagellar operons in Salmonella typhi-murium . 
+Mol . 
+Gen. Genet . 
+221:139 -- 147 . 
+24 . 
+Pogliano , J. , N. Osborne , M. D. Sharp , A. Abanes-De Mello , A. Perez , Y. L. Sun , and K. Pogliano . 
+1999 . 
+A vital stain for studying membrane dynamics in bacteria : a novel mechanism controlling septation during Bacillus subtilis sporulation . 
+Mol . 
+Microbiol . 
+31:1149 -- 1159 . 
+25 . 
+Pogliano , K. , E. J. Harry , and R. Losick . 
+1995 . 
+Visualization of the subcellular location of sporulation proteins in Bacillus subtilis using immunoﬂuo-rescence microscopy . 
+Mol . 
+Microbiol . 
+18:459 -- 470 . 
+26 . 
+Schmieger , H. 1972 . 
+Phage P22-mutants with increased or decreased transduction abilities . 
+Mol . 
+Gen. Genet . 
+119:75 -- 88 . 
+27 . 
+Sternberg , N. L. , and R. Maurer . 
+1991 . 
+Bacteriophage-mediated generalized transduction in Escherichia coli and Salmonella typhimurium . 
+Methods Enzymol . 
+204:18 -- 43 . 
+28 . 
+Vogel , H. J. , and D. M. Bonner . 
+1956 . 
+Acetylornithinase in Escherichia coli : partial puriﬁcation and some properties . 
+J. Biol . 
+Chem . 
+218:97 -- 106 . 
+29 . 
+Yonekura , K. , S. Maki-Yonekura , and K. Namba . 
+2003 . 
+Complete atomic model of the bacterial ﬂagellar ﬁlament by electron microscopy . 
+Nature 424:643 -- 650 . 
+30 . 
+Yonekura , K. , S. Maki-Yonekura , and K. Namba . 
+2005 . 
+Building the atomic model for the bacterial ﬂagellar ﬁlament by electron cyromicroscopy and image analysis . 
+Structure 13:407 -- 412

@@ -1,0 +1,479 @@
+Contents lists available at ScienceDirect 
+Molecular Immunology
+journal homepage : www.elsevier.com/locate/molimm 
+Molecular differences between the divergent responses of ovalbumin-speciﬁc CD4 T cells to alum-precipitated ovalbumin compared to ovalbumin 
+expressed by Salmonella 
+Karine Serre a , ∗ ,1 , Elodie Mohr a , ∗ ,1 , Kai-Michael Toellner a , Adam F. Cunningham a , Samuel Granjeaud b , c , Roger Bird a , Ian C.M. MacLennan a 
+a MRC Centre for Immune Regulation , University of Birmingham , Medical School , Birmingham , UK b INSERM , ERM 206 , Marseille F-13009 , France c Université de la Méditerranée , ERM 206 , Marseille F-13009 , France 
+article 
+info 
+nse o tinct ce Th 2-ass mmu he te CD4 T helper ( Th ) cell diff iation deﬁned by in vitro cytokine-directed culture systems leaves major gaps in our knowledge o mechanisms driving divergent Th differentiation . 
+This is evident from our analysis of the respo f mouse ovalbumin-speciﬁc CD4 T cells to different forms of ovalbumin that induce markedly dis responses in vivo . 
+We show that live attenuated ovalbumin-expressing Salmonella ( SalOVA ) indu 1-associated T-bet and IFN - . 
+Conversely , alum-precipitated ovalbumin ( alumOVA ) induces the Th ociated GATA-3 and IL-4 . 
+The early diversity occurring within these CD4 T cells isolated 3 days after i nization was assessed using real-time RT-PCR microﬂuidic cards designed with 384 selected genes . 
+T chnique was validated both at the population and single cell levels at different stages of the responses , showing 2-microglobulin to be a more stably expressed reference mRNA than either - actin or 18S RNA . 
+SalOVA was then shown selectively to induce the OVA-speciﬁc CD4 T cells to produce many chemokines and pro-inﬂammatory cytokines , contrasting with alumOVA-induced cells that only produced a few Th2-associated cytokines . 
+Several cytokines and features associated with follicular helper functions were induced in the OVA-speciﬁc CD4 T cells by both antigens . 
+Finally , IL-17RB is strongly associated with OVA-speciﬁc CD4 T cells responding to alumOVA , suggesting that alum may promote Th2 immune response through a role for the IL-25 / IL-17RB pathway . 
+© 2008 Elsevier Ltd. . 
+All rights reserved . 
+erent f the 
+Article history : Received 2 April 2008 
+Accepted 12 May 2008 Available online 25 June 2008 
+Gene expression proﬁle Alum adjuvant Keywords : Th1/Th2 cells Cytokines Cytokine receptors 
+1. Introduction
+abstract
+the development of different subsets of CD4 T helper ( Th ) cells that display speciﬁc functions . 
+The nomenclature of CD4 Th cells , including Th1 , Th2 , Th3 , Th17 , Treg , Tr1 and follicular helper cells , mainly relates to the selective production of cytokines ( Reinhardt et al. , 2006 ) . 
+Generally Th1 CD4 T cells secrete IFN - and protect against intracellular pathogens , while Th2 cells secrete IL-4 and combat extracellular infections . 
+Our knowledge of Th com-Appropriate immune responses against pathogens rely upon engineered to express an ovalbumin transgene ; alumOVA , alum-precipitated ovalbumin ; LN , lymph node . 
+Birmingham Medical School , IBR , Wolfson Drive , Birmingham B15 2TT , United Kingdom . 
+Tel. : +44 121414697 0 ; fax : +44 121414359 9 . 
+Abbreviations : Ag , antigen ; SalOVA , live attenuated Salmonella typhimurium ∗ Corresponding authors at : MRC Centre for Immune Regulation , University of E-mail addresses : k.serre@bham.ac.uk ( K. Serre ) , e.mohr@bham.ac.uk ( E. Mohr ) . 
+1 These authors contributed equally to this work . 
+mitment has been extensively provided by in vitro systems . 
+This is achieved by subjecting T cells to TCR/CD28 stimulation in the presence of cytokines ( O'Garra , 1998 ) . 
+IL-12 drives Th1 differentiation ( Openshaw et al. , 1995 ) whereas IL-4 induces Th2 cells ( Hsieh et al. , 1992 ) . 
+Although in vitro IL-4 initiates Th2 differentiation , in vivo IL-4 and IL-4-signaling are dispensable for the induction of many Th2-features ( Cunningham et al. , 2002 , 2004b ; Finkelman et al. , 2000 ; Jankovic et al. , 2000 ; Noben-Trauth et al. , 1997 ; Ouyang et al. , 2000 ) . 
+Indeed , various types of immunization inducing Th2 responses , such as alum-precipitated protein or Nippostrongylus brasiliensis , or ovalbumin-induced allergic lung pathologies , have been reported to induce IL-4 producing CD4 T cells efﬁciently in IL-4 / IL-13 - or IL-4R - deﬁcient mice ( Cunningham et al. , 2002 , 2004b ; Voehringer et al. , 2006 ) . 
+This cautions that CD4 T cell polarization may be more heterogeneous in vivo , where a range of signals are delivered by dynamic cellular and molecular interactions within speciﬁc microenvironments ( Bajenoff et al. , 2006 , 2003 ; Katakai et al. , 2004 ) . 
+Therefore the early gene expression proﬁle of T cells committed towards Th1 or Th2 in vivo may give insight into signalin pathways involved in this polarization . 
+To study the requirements during Th differentiation in vivo , we transferred naıve ovalbumin ( OVA ) - speciﬁc transgenic CD4 T ( OTII ) cells into normal mice that were then immunized with speciﬁc forms of OVA driving either a Th1 or a Th2 type of immune response . 
+The response in the draining lymph node ( LN ) was followed after immunizing subcutaneously , either with a Th1 inducer -- live attenuated Salmonella typhimurium engineered to express an OVA transgene ( SalOVA ) , or Th2 inducer -- alum-precipitated OVA ( alumOVA ) . 
+The resolution of primary Salmonella enterica serovar typhimurium infection depends on the appropriate induction of CD4 Th1 cells ( Hess et al. , 1996 ; Ravindran et al. , 2005 ) . 
+Protective roles have been shown for IFN - , TNF - , IL-1 , IL-12 , IL-15 , and IL-18 , whereas IL-4 and IL-10 have been reported to inhibit host defenses against Salmonella ( Eckmann and Kagnoff , 2001 ) . 
+T-bet , a key transcription factor for IFN - induction , is required for resistance to Salmonella infection ( Ravindran et al. , 2005 ) . 
+In addition , attenuated Salmonella induce a T-dependent antibody response with switching to IgG2a ( IgG2c in C57Bl/6 mice ) ( Cunningham et al. , 2007 , 2004a ; McSorley and Jenkins , 2000 ) . 
+By contrast , the use of alum-precipitated proteins induces Th2 type of immune responses ( Brewer et al. , 1999 ) . 
+Although alum is one of the most widely used adjuvant in human vaccines , the mechanism by which it promotes very strong antibody - and Th2-immune responses remains unclear . 
+It promotes the production of cytokines ( IL-4 ) , Th2-associated transcription factors ( GATA-3 , c-maf , NIP45 ) , and switching to IgG1 and IgE ( Cunningham et al. , 2002 , 2004a ) . 
+GATA-3 , a key transcription factor for IL-4 production , is important for the development and maintenance of Th2-responses ( Pai et al. , 2004 ; Zhu et al. , 2004 ) . 
+We have used the fundamentally different T and B cell outcomes of these immunization protocols to analyze the divergent differentiation of OTII cells in responses to SalOVA and alumOVA . 
+In this study , after characterizing the classical Th1 and Th2 T cell features of the two responses , a more extensive search for differences and similarities in effector functions that develop alongside IFN - - or IL-4-producing OTII cells was assessed . 
+We performed real time RT-PCR using low-density microﬂuidic cards designed with 384 individual gene expression assays selected for their roles in different biological processes relevant to T cell differentiation and function ( Chtanova et al. , 2001 , 2005 , 2004 ; Rogge et al. , 2000 ) . 
+This report validates the use of this approach and shows that gene expression proﬁle , assessed 3 days after challenge , shows multiple consistent differences and similarities between SalOVA - and alumOVA-responding OTII cells . 
+0161-5890 / $ -- see front matter © 2008 Elsevier Ltd. . 
+All rights reserved . 
+doi :10.1016 / j.molimm .2008.05.010 
+2. Materials and methods
+2.1. Mice
+Wild-type C57BL/6J mice were from HO Harlan OLAC Ltd. ( Bicester , U.K. ) . 
+OTII mice , which are transgenic for TCR speciﬁc for 323 -- 339 OVA-peptide in the context of H-2 I-Ab ( Charles River , Wilmington , MA ) , were crossed to CD45 .1 + C57BL/6J congenic mice ( The Jackson Laboratory , Bar Harbor , Maine ) . 
+All animals were maintained under standard animal house conditions in accordance with local and U.K. Home Ofﬁce regulations . 
+2.2. T cell puriﬁcation and adoptive transfer
+CD4 T cells from LN of OTII mice were puriﬁed using anti-CD4 MACS microbeads ( Miltenyi Biotec Ltd. , Bisley , U.K. ) . 
+Five 106 T cells were labeled with CFSE ( Cambridge Bioscience , Cambridge , U.K. ) and injected i.v. into recipients . 
+Mice were immunized the following day . 
+2.3. Immunization, Ag and ovalbumin-expressing Salmonella
+OVA ( Pierce ) is mixed with 9 % aluminium potassium sulfate ( A7167 Sigma ) solution then , after the pH is adjusted to pH7 , the mix is let to precipitate in the dark for 30 min . 
+Ten micrograms of OVA precipitated with alum in a ﬁnal volume of 10 l was injected subcutaneously into footpad of the rear feet . 
+Salmonella enterica serovar typhimurium aroA-strain SL3261 ( Hoiseth and Stocker , 1981 ) expressing OVA were generated as follows . 
+The ova gene was ampliﬁed from the pcDNA3-OVA vector ( gift from Dr. Martin Zenke , Aachen University Medical School , Germany ) ( Diebold et al. , 2001 ) and cloned into pCR2 .1 TOPO ( Invitrogen ) . 
+The gene was then ligated into a modiﬁed pet22b + ( Novagen , Merck Biosciences , U.K. ) that allows constitutive gene expression by replacement of the T7 promoter region and lac operator by an adapted tac promoter using GeneEditor site-directed mutagenesis system ( Promega ) . 
+The resulting plasmid pettacOVA was then electroporated into Salmonella . 
+OVA protein expression was con-ﬁrmed by Western blotting . 
+The stability of the plasmid was tested by showing that 35 days after i.p. infection > 90 % of the recoverable bacteria still expressed the plasmid . 
+Further tests conﬁrmed that plasmid containing organisms colonized the host as well as non-modiﬁed Salmonella . 
+The bacterial concentration was quantiﬁed at OD600 using growth curves . 
+Bacteria growing in mid-log range were used for studies of the immune response to SalOVA . 
+106 live organisms were injected subcutaneously in the rear footpads in 10 l. 
+2.4. Flow cytometry, T cell analysis and FACS-cell sorting
+Popliteal LN were digested for 20 min at room temperature with collagenase type II ( 1 mg/ml ) ( Lorne Laboratories Ltd , Reading , U.K. ) and DNase I ( 0.15 mg/ml ) ( Sigma ) , followed by 5 min treatment with 10 mM EDTA ( Sigma ) . 
+Anti-CD45 .1 - PE ( A20 ) , CD4-PerCP-Cy5 .5 ( RM4-5 ) , biotinylated anti-CD69 ( H1 .2 F3 ) , CD62L ( MEL-14 ) , CD44 ( IM7 ) , and streptavidin-APC were from PharMingen . 
+Populations or single cells were sorted by ﬂow cytometry ( MoFlo , DakoCytomation , U.K. ) . 
+Sorted cells purity was assessed on a FACScalibur ( Becton Dickinson ) . 
+Final analysis and graphical output were performed using FlowJo software ( Treestar , Costa Mesa , CA ) . 
+2.5. Intracellular cytokine staining
+Day 6 after immunization popliteal LN cells were incubated at 5 × 106 cells/ml with or without 10 M free 323 -- 339 OVA-peptide for 6 h prior to cytokine detection . 
+Intracellular FACS staining was performed using Cytoﬁx / cytoperm kit ( Becton Dickinson ) . 
+Anti-IL-4-APC ( 11B11 ) , IFN - - biotin ( X.MG1 .2 ) , and streptavidin-APC were from PharMingen . 
+2.6. Real-time semi-quantitative RT-PCR
+Cell suspension mRNA was prepared using RNeasy columns from Qiagen . 
+Reverse transcription was performed with random oligonucleotides ( Promega ) using MMLV reverse transcriptase ( Invitrogen ) for 1 h at 42 ◦ C. Relative quantiﬁcation of speciﬁc cDNA species to - actin or 2-microglobulin messenger was carried out in a duplex PCR using TaqMan chemistry ( Applied Biosystems , Warrington , U.K. ) . 
+As a prerequisite , the ampliﬁcation efﬁciency was conﬁrmed for each combination for the two sets of primers/probes . 
+Probes for cytokines and transcription factors were detected via a 5 ′ label with FAM , while probe for - actin or 2-microglobulin were 5 ′ labeled with VIC or NED , respectively . 
+TaqMan probes and primers were designed using Primer Express software ( Applied Biosystems ) and sequences are detailed below 
+Single cells were collected in 384 well plates containing 2 l of cell-to-signal lysis buffer ( Ambion , U.K. ) . 
+mRNA were speciﬁcally reverse-transcribed and the PCR performed by adding 8 l of a mix containing the Quantitect enzyme RT-PCR master mix ( Qiagen Quantitect Probe RT-PCR kit ) , primers and probes . 
+Standard reaction conditions for the TaqMan RT-PCR or PCR were used on the ABI 7900 . 
+2.7. Sequences for primers and probes
+ˇ-actin : forward , CGTGAAAAGATGACCCAGATCA ; reverse , TGGTACGACCAG-AGGCATACAG ; probe , TCAACACCCCAGCCATGTACGTAGCC ; ˇ2-microglobulin : forward , CTGCAGAGTTAAGCATGCCAGTAT ; reverse , ATCACA-TGTCTCGATCCCAGTAGA ; probe , CGAGCCCAAGACC ; GATA-3 : forward , CCACCCCATTACCACCTATCC ; reverse , CACACACTCCCT-GCCTTCTGT ; probe , TCGAGGCCCAAGGCACGATCC ; IFN - : forward , TCTTCTTGGATATCTGGAGGAACTG ; reverse , GAGATAATC-TGGCTCTGCAGGATT ; probe , TTCATGTCACCATCCTT ; IL-4 : forward , GATCATCGGCATTTTGAACGA ; reverse , AGGACGTTTGGCAC-ATCCAT ; probe , TGCATGGCGTCCCTTCTCCTGTG ; IL-13 : forward , TTGAGGAGCTGAGCAACATCAC ; reverse , GCGGCCAGGTCCACACT ; probe , CAAGACCAGACTCCCCTGTGCAACG ; T-bet : forward , ATGCCAGGGAACCGCTTATA ; reverse , AACTTCCTGGCGCATCCA ; probe , CCCAGACTCCCCCAACACCGGA . 
+Primers and probes were from Applied Biosystems or Eurogentec . 
+2.8. Microﬂuidic cards real-time semi-quantitative RT-PCR and analysis
+The microﬂuidic cards were designed using commercial TaqMan ® Low Density Array ( Applied Biosystems ) . 
+TaqMan ® Gene Expression Assays were loaded into the array 's 384-well cards by the manufacturer . 
+The list of all 384 genes spotted onto the microﬂuidic cards has been deposited in GEO database ( Platform GPL5073 ) . 
+mRNA was prepared using RNeasy columns from Qiagen in a ﬁnal volume of 100 l to which 660 l of a mix containing the Quantitect enzyme RT-PCR master mix was added . 
+95 l of this mix was loaded onto each of the 8 channels of the 384-well cards . 
+Reverse transcription and real-time PCR were performed sequentially onto the microﬂuidic cards . 
+Standard reaction conditions for the TaqMan RT-PCR or PCR were used on the ABI 7900 . 
+mRNA transcript level of each gene was analyzed using Applied Biosystem 's SDS software by setting thresholds determining the cycle number at which the threshold was reached ( Ct ) . 
+For a given gene , the threshold value was kept constant in all 9 samples . 
+The Ct of the 2-microglobulin was subtracted from the Ct of the target gene and the relative amount was calculated as 2 − Ct. . 
+These data are deposited in GEO database under GSE7481 access number ( http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?token= rdgvfckuwcuaqxk & acc = GSE7481 ) . 
+Genes for which the assay failed or was below the detection level ( Ct > 40 ) were given a ﬁxed value ( 0 for 2 − Ct and − 15.5 for − Ct ) to reﬂect the absence of expression . 
+Genes that were not expressed or had 4 or less values shared out within the three conditions ( naıve , SalOVA , alumOVA ) were removed from the analysis . 
+Relative amounts from the 324 remaining genes were subjected to three entries ( naıve , SalOVA , alumOVA ) multi-class signiﬁcance analysis of microarrays applying a 0.5 % false discovery rate . 
+Statistical signiﬁcance of differentially expressed genes was determined using TIGR MeV3 .1 software ( Saeed et al. , 2003 ) . 
+This approach retained 248 genes ( 65 % ) . 
+Only genes for which difference between naıve and activated cells was superior to 2 were kept in the analysis . 
+The remaining 194 genes were classiﬁed by functional family for analysis . 
+In order to facilitate the viewing of the results , the − Ct values were submitted to a clustering analysis . 
+The variation of each gene expression is displayed with a mean-centered normalization . 
+Genes that had a 2 -- 5-fold or more than 5-fold differences between SalOVA - and alumOVA-responding OTII cells were highlighted using turquoise or blue boxes/text in the corresponding ﬁgure . 
+3. Results
+3.1. Generation of IFN- - or IL-4-producing OTII cells in vivo
+To monitor T cell differentiation , CFSE-labeled CD45 .1 + OTII cells were transferred into congenic wild-type CD45 .2 + recipients . 
+The following day , mice were immunized s.c. in footpads , either with SalOVA or alumOVA . 
+Six days after immunization , OTII cells were isolated from the draining popliteal LN by FACS sorting ( Fig. 1A ) . 
+The sorted cells ' expression of mRNA that characterize Th1 ( IFN-and T-bet ) or Th2 ( IL-4 , IL-13 and GATA-3 ) commitment was assessed by real time RT-PCR ( Fig. 1A ) . 
+When responding to SalOVA OTII cells displayed median IFN - and T-bet mRNA levels 200 - and 500-fold higher , respectively , as compared to OTII cells responding to alumOVA . 
+Conversely , median IL-4 , IL-13 and GATA-3 mRNA levels were , respectively , 300 - , 60 - and 10-fold higher in OTII cells responding to alumOVA compared to those responding to SalOVA . 
+Intracellular cytokine staining shows that the mRNA is effectively translated into proteins ( Fig. 1B , dot plots ) . 
+A median of 20 % of OTII cells from 6 SalOVA-immunized mice produced IFN - compared with a 4 % median from 6 mice immunized with alumOVA ( Fig. 1B ) . 
+This conﬁrms previous observations that few IFN - - producing cells are induced by immunization with alumOVA ( Smith et al. , 2004 ) . 
+Histograms in Fig. 1B also show that the amount of IFN - produced per cell is higher after SalOVA immunization than after alumOVA . 
+By contrast , IL-4-production is restricted to mice immunized with alumOVA ( 2 % median from 6 mice ) . 
+CFSE dilution shows that , although immunization had induced most OTII cells in both responses to proliferate , only a small proportion of the responding cells , respectively , produced IFN - or IL-4 ( Fig. 1B ) . 
+3.2. Further characterization of OTII cells polarized in vivo 3 days after immunization
+Before immunization transferred OTII cells present a homogeneous phenotype , characteristic of naıve CD4 T cells ( non-divided , CD69 − , CD62L + , CD44 − ) ( Fig. 2A ) . 
+In contrast , 72 h after immunization most OTII cells have undergone between 5 and 7 divisions . 
+At this stage , most cells express CD44 , but there is heterogeneity in CD69 and CD62L expressions . 
+The total number of OTII cells recovered 3 days after alumOVA was always greater than at the same stage after SalOVA . 
+These differences may be attributable to the amount of OVA injected for mice received 10 g of OVA when immunized with alumOVA , while OVA contained in the injected SalOVA is estimated at 0.14 g and represents about 1/1000 of the total Salmonella proteins . 
+3.3. Assessment of the reproducibility of the results obtained by dedicated real-time semi-quantitative RT-PCR microﬂuidic cards
+Studies of gene expression by OTII cells recruited into the response to either SalOVA or alumOVA were carried out by sorting , 3 days after immunization , OTII cells that had complete at least one cell cycle ( Fig. 2B ) . 
+Naıve OTII cells were also isolated from peripheral LN of non-immunized chimeric mice . 
+The mRNA extracted from each of the populations was loaded onto the microﬂuidic cards . 
+The numbers of cells obtained for each population of OTII cells analyzed are shown in Table 1 . 
+The mRNA transcript levels of the different genes were assessed as described in Section 2 . 
+Not surprisingly activated OTII cells expressed 20 % more of the 384 genes represented on the microﬂuidic cards than the naıve population . 
+The percentages of reproducibly expressed genes in OTII cells from naıve , SalOVA-activated and alumOVA-activated LN , were , respectively , 88.2 % ( − / +2.2 ) , 93.4 % ( − / +3 ) and 94.9 % ( − / +0.8 ) ( Fig. 3A ) . 
+The correlation coefﬁcients , respectively , scoring 0.977 ( − / +0.011 ) , 
+3560 K. Serre et al. / Molecular Im logy 45 ( 2008 ) 3558 -- 3566 
+0.985 ( − / +0.010 ) and 0.978 ( − / +0.017 ) for the naıve , SalOVA - and alumOVA-activated populations show a high level of reproducibility ( Fig. 3A ) . 
+As expected , the greatest variability was observed for genes displaying low level of expression and was more pronounced for samples prepared from the lowest number of cells ( naıve and SalOVA ) ( Fig. 3A ) . 
+Conversely , signiﬁcant differences were observed when values obtained for each gene from naıve OTII cells were compared to those of activated OTII cells ( Fig. 3B ) . 
+In this case , the overall correlation coefﬁcient scored 0.60 ( − / +0.04 ) . 
+Finally , differences were observed when values obtained for each gene from SalOVA-responding OTII cells were compared to those of alumOVA-responding OTII cells ( Fig. 3B ) , the overall correlation coefﬁcient scored 0.976 ( − / +0.02 ) . 
+Taken together these results show that the microﬂuidic cards are a reliable tool to compare gene expression in different populations . 
+Table 1 
+Numbers of cells used for each population in microﬂuidic card experiments 
+3.4. Comparison of endogenous reference genes for expression proﬁling of SalOVA- and alumOVA-activated OTII cells
+Analysis of variation of gene expression in differentiating populations relies upon the comparison with housekeeping genes tha remain stable between the naıve and the activated cells . 
+Three genes constitutively expressed by CD4 T cells ( - actin , 18S RNA , 2-microglobulin ) were selected to assess their stability of expression in the context of the present study of CD4 T cell differentiation in vivo . 
+While - actin and 18S RNA are highly expressed genes , 2-microglobulin is expressed at more modest levels ( Fig. 3A ) . 
+When data were normalized according to - actin mRNA levels ( or 18S RNA not shown ) , activated OTII cells appeared to down regulate the majority of the genes compared to naıve OTII cells ( Fig. 3B , red dots ) . 
+By contrast , when normalized to 2-microglobulin mRNA levels the activated CD4 T cells show a slight general increase in the level of gene expressions ( Fig. 3B , black dots ) . 
+As the genes on these microﬂuidic cards were selected for their likely differential expression by activated T cells , the latter appears to reﬂect more faithfully the acquisition of immunological functions by activated CD4 T cells . 
+These observations at the population level led us to compare the behavior of 2-microglobulin and - actin expression at the single OTII cell level at various stages during the differentiation process by real time RT-PCR . 
+OTII cells were isolated as single cells as a function of the number of division accomplished , as visualized by CFSE dilution , at the following stages ( Histograms in Fig. 3C ) : non-dividing naıve OTII cells from non-immunized mice ( Naıve OTII ) ; and from mice 3 days after immunization ; ( i ) activated cells , as assessed by high CD69 expression ( gates as shown in Fig. 2A ) , that had not yet divided ( 0 division ) ; ( ii ) cells that had divided 2 -- 3 times ( 2 -- 3 divisions ) ; ( iii ) cells that had divided 6 times ( 6 divisions ) . 
+RT-PCR was performed on the single cells derived from each of these 4 sequential OTII subsets . 
+When monitored at the single cell level , although both 2-microglobulin and - actin were increased during the ﬁrst cell cycles , - actin showed the greatest level of change for activated OTII cells that had not divided or had undergone 2 -- 3 rounds of division ( Fig. 3C ) . 
+This is shown by the increase in the trendline slopes for OTII cells that have just started dividing . 
+In addition , the standard deviation obtained varies to a greater extent for - actin than for 2-microglobulin , indicating a cell cycle state-dependent heterogeneity of the - actin expression . 
+This might reﬂect the role of - actin in both : ( i ) in the formation of the immunological synapses necessary for DC and CD4 T cell interaction and ( ii ) during the cell division process as part of the cytoskeleton complex . 
+These considerations , along with published evidences of the limitations of - actin as internal control for RT-PCR ( Selvey et al. , 2001 ) , have led us to use 2-microglobulin in preference to - actin to normalize the data in the current study . 
+Statistical signiﬁcance of differentially expressed genes was then calculated as described in Section 2 . 
+Numbers of cells used for each population in microﬂuidic card experiments 
+AlumOVA 523,000 490,000 475,000 
+SalOVA 92,000 120,000 160,000 
+Naıve 
+OTII 1 2 3 
+234,000 234,000 92,000 
+3.5. Differential gene expression analyzed by real-time RT-PCR
+There were selectively higher levels of mRNA for IFN - , T-bet , Hlx , CIITA , IL-12R 2 , in OTII cells responding to SalOVA and IL-4 , IL-13 , GM-CSF , GATA-3 from alumOVA responders . 
+These expected results provide further positive controls for the gene expression data . 
+Among the 248 genes showing signiﬁcant proﬁles , the 194 of most interest are displayed in Fig. 4 . 
+When both groups of activated cells are compared to naıve cells for the expression of these 194 genes , the expression of 82 ( 42 % ) was up-regulated and 10 ( 5 % ) down regulated . 
+Fifty three of the 194 ( 27.3 % ) were speciﬁc to SalOVA-responding OTII cells , whereas 52 ( 26.8 % ) were speciﬁc to alumOVA-responding cells . 
+The array of cytokines produced by activated CD4 T cells strongly inﬂuences the effectiveness of an immune response . 
+SalOVA-responding CD4 T cells expressed the broader repertoire of cytokines . 
+These included IL-1 , IL-1 , IL-6 , IL-12 , IL-15 , IL-27 ( IL-30 ) , IL-18 , and IFN - . 
+In contrast , mRNA for only a few cytokines including IL-4 , IL-13 , GM-CSF , TGF 3 were detected in alumOVA-responding cells . 
+OTII cells were induced by both Ag to up-regulate IL-2 , IL-10 , IL-17 , IL-17C , IL-21 , IL-27 ( EBI3 ) and TGF 1 . 
+In addition , SalOVA-responding OTII cells expressed many cytokine receptors : IL-1R1 , IL-1R2 , IL-1Rrp ( T1/ST2 ) , IL-12R 1 , IL-12R 2 , IL-15R , IL-17Re , IL-18R1 , IL-18Rap , IL23R and GM-CSFR 2 . 
+In contrast , alumOVA-responding OTII cells selectively up-regulated only IL-6R and IL-17Rb . 
+Isolates from SalOVA-responding OTII cells also contained high levels of mRNA for a wide array o chemokines ( CCL2 , CCL3 , CCL4 , CCL7 , CCL9 , CXCL1 , CXCL2 , CXCL4 , CXCL9 , CXCL11 ) . 
+The chemokine receptors -- CCR1 , CXCR3 and CX3CR1 -- were also selectively associated with SalOVA-responding cells . 
+On the other hand CCR4 , CCR8 , CCRL2 and CXCR5 expression was a feature of OTII-populations induced by both Ag . 
+B7 and TNF members expressed by CD4 T cells regulate the outcome of an immune response . 
+A large number of B7 and TNF family members , including PD-1 , ICOS , 4-1BBL , DR6 , Fas , GITR , Light , Light-R , mDcTrailR2 , OX40L , TNF - , Troy were up-regulated in mRNA preparations from OTII cells activated by either Ag . 
+Interestingly , DR3 , Lt R and TWEAK appeared to be highly speciﬁc to SalOVA-responding OTII cells . 
+Furthermore , cell surface molecules such as CD38 , SLAMF7 , SLAMF9 , TLR5 and TLR-9 were associated with SalOVA-responding OTII cells whereas CD59a , CD62L , CD83 , CD200 , CD223 ( Lag-3 ) , CD224 , Edg1 , EphA3 , Galectin-3 , Itga2 , and Neuropilin-1 were found in alumOVA-responding OTII cells . 
+No obvious differential expression was observed for molecules involved in intracellular transduction signal ( such as kinases , phosphatases ) , or the caspases and bcl-family molecules involved in cell survival/death . 
+Nevertheless , many of these were increased in responding compared to naıve OTII cells . 
+Finally , there was clear differential expression of several genes encoding transcription factors . 
+CIITA , Hlx and T-bet were associated with SalOVA-responding OTII cells , whereas Fosl1 , GATA-3 , Gﬁ1 , Helios and Nfatc1 were associated with alumOVA-responding OTII cells . 
+Fig. 2 . 
+Phenotype and isolation of OTII cells differentiated in vivo . 
+One day after receiving CFSE-labeled CD45 .1 + OTII cells congenic CD45 .2 + B6 mice were immunized either with SalOVA or alumOVA in the footpads . 
+( A ) Three days after immunization OTII cells in the draining popliteal LN , identiﬁed by CD4 and CD45 .1 co-expression were assessed for the expression of CFSE , CD69 , CD62L and CD44 . 
+CFSE dilution reﬂects proliferation induced in OTII cells by immunization . 
+The numbers above the horizontal bars in the histograms indicate the percent of cells with ﬂuorescence intensity in the range indicated by the bars . 
+( B ) Shows representative sorts of OTII cells that had completed at least 1 cell cycle sorted from responding LN 3 days after immunization . 
+These were used for the gene expression proﬁling studies shown in Figs. 3 and 4 . 
+4. Discussion
+Despite the importance of CD4 Th cells in the regulation of immune responses , there is much more to be learnt about the diversity of effector functions induced in vivo by different types of immunization . 
+Transfer of naıve OTII cells into normal mice , and subsequent immunization with SalOVA or alumOVA allowed the emergence of distinct effectors to be monitored during Th and Th2 types of immune responses . 
+Both SalOVA - and alumOVA-responding OTII populations contain restricted subsets of highly specialized cells producing either IFN - or IL-4 , respectively . 
+Importantly , the perspective of Th1 - or Th2-polarization , deﬁned as either IFN - - or IL-4-producing cells does not reﬂect the diversity of effector Th subsets generated during polarized immune responses in vivo . 
+Indeed , analysis of the transcriptomes of naıve or activated OTII at the small scale of 384 genes of immunological relevance reveals global differences in both the diversity of T effectors cells and the factors leading to their generation in responses to SalOVA or alumOVA . 
+Consistent with the acquisition of a range of effector functions , the majority of differentially expressed genes was upregulated in activated compared to naıve OTII cells either selectively to one or another Ag ( 54 % ) , or induced in both responses ( 42 % ) . 
+The results might reﬂect the generation by these two Ag of common pool of CD4 Th cells in addition to selective highly specialized primed cells ; both of these are discussed below . 
+This work shows that OTII cells already acquired selective and divergent effector functions by 3 days depending on the Ag -- SalOVA or alumOVA . 
+The production of large number of cytokines and chemokines was associated with SalOVA-responding OTII cells . 
+These included IL-1 , IL-1 , IL-6 , IL-12 , IL-15 , IL-27 ( IL-30 ) , IL-18 , and IFN - , and CCL2 , CCL3 , CCL4 , CCL7 , CCL9 , CXCL1 , CXCL2 , CXCL4 , CXCL9 , and CXCL11 . 
+In addition , they speciﬁcally expressed three TNF family members -- DR3 , LtbR , and TWEAK . 
+Although these molecules have been shown to potentiate Th1 ( Bamias et al. , 2003 ; Migone et al. , 2002 ; Papadakis et al. , 2004 ) , or pro-inﬂammatory cytokines ( Chicheportiche et al. , 2002 ; Stopfer et al. , 2004 ) , their potential role in the initiation or maintenance of the Th1 phenotype and IFN - production during Salmonella infection remains to be addressed . 
+In contrast , alumOVA-responding OTII cells selectively produce only IL-4 , IL-13 , GM-CSF . 
+The possibility that some common CD4 Th cells develop is suggested by the ﬁnding that both alumOVA and SalOVA induce a proportion of the OTII cells to produce some or all of the following cytokines : IL-2 , IL-10 , IL-17 , IL-17C , IL-21 , and IL-27 ( EBI3 ) . 
+In addition , genes that are associated with follicular helper functions , such as Bcl6 , CD200 , CXCR5 , ICOS , IL-21 , SAP , PD-1 ( Chtanova et al. , 2004 ; Vinuesa et al. , 2005 ) were up-regulated in both SalOVA - and alumOVA-responding OTII cells . 
+Although selective up-regulation of CD200 was more marked in alumOVA-responding OTII cells , the results indicate that follicular Th cells might develop in responses to Th1 or Th2 types of Ag , as previously suggested ( Smith et al. , 2004 ) . 
+Our results show that great diversiﬁcation from a naıve CD4 T cell population has already occurred within 3 days after immunization . 
+The precocity of this divergent commitment highlights the importance of identifying the ﬁrst signals delivered by dendritic cells that drive CD4 T cells to differentiate and acquire effector functions . 
+The model system used has identiﬁed differential gene expression that deserve further study : IL-17Re , CD38 , SLAMF7 , SLAMF9 , TLR-5 , among the SalOVA-responding OTII cells and CD59a , CD62L , CD83 , CD200 , CD223 , CD224 , IL-6R , IL-17Rb , Edg1 , EphA3 , Galectin-3 , Itga2 , Neuropilin-1 , SLAMF6 , Helios and Fosl1 among the alumOVA-responding OTII cells . 
+The expression of IL-6R and IL-17Rb restricted to alumOVA-responding OTII cells , for example , is of interest regarding the issue of what , if not IL-4 itself , is the trigger for IL-4 production by CD4 T cells in response to alumprecipitated antigen in vivo ( Brewer et al. , 1999 ; Cunningham et al. , 2002 , 2004b ) . 
+IL-6 has been shown to induce CD4 T cells to become Th2 ( Dodge et al. , 2003 ; Rincon et al. , 1997 ) . 
+IL-17Rb has been found in human ( Angkasekwinai et al. , 2007 ; Bosco et al. , 2006 ; Chtanova et al. , 2004 ; Wang et al. , 2007 ) and mouse ( Angkasekwinai et al. , 2007 ) CD4 Th2 cells . 
+IL-17Rb binds to IL-17B and IL-25 ( IL-17E ) . 
+IL-25 injection or systemic over-expression in transgenic mice provokes the up-regulation of Th2-features or proallergic pathologies ( Angkasekwinai et al. , 2007 ; Fallon et al. , 2006 ; Kim et al. , 2002 ; Pan et al. , 2001 ) . 
+IL-25 has been shown to take part in the initiation of Th2 differentiation ( Angkasekwinai et al. , 2007 ) or in the maintenance and restimulation of Th2 memory cells ( Wang et al. , 2007 ) . 
+Although the mechanism of action of IL-25 has been shown to be IL-4-independent , IL-4 synergize with IL-25 to induce Th2 features . 
+It is plausible that alum has the ability to induce IL-17Rb expression in responding CD4 T cells rendering them sensitive to IL-25 . 
+Potential sources of IL-25 identiﬁed are CD4 Th2 cells ( Fort et al. , 2001 ) ( although this study failed to show selective IL-25 expression in OTII cells ) , mast cells ( Ikeda et al. , 2003 ) , dendritic cells ( Wang et al. , 2007 ) , and lung epithelial cells ( Angkasekwinai et al. , 2007 ) , suggesting that innate immune cells may ﬁrst produce this cytokine . 
+Therefore , it is possible that alum promotes Th2 immune response through the induction of IL-25 and/or IL-6 . 
+semiunize 
+a thr Ct. . 
+T A 18S he - a OTII c ells th ecies Fig. 3 . 
+Reproducibility and normalization of the gene expression data obtained by quantitative real-time RT-PCR . 
+( A and B ) OTII cells ( characterized in Fig. 2B ) were isolated from popliteal LN either of non-immunized mice or mice that had been imm d 3 days before with either SalOVA or alumOVA . 
+Speciﬁc mRNA levels were assessed by real time RT-PCR using microﬂuidic cards . 
+The number of cycles required to reach eshold signal -- Ct ( see Section 2 ) for each of the target genes minus either the Ct for 2-microglobulin ( black dots ) , or the C for - actin ( red dots ) , was expressed as 2 − t he values were plotted : ( A ) for two samples of a similar population or , ( B ) for two samples of different populations . 
+Dots speciﬁc for housekeeping genes ( - actin , RN , 2-microglobulin ) are highlighted by color . 
+The equation of the linear trendline , and the correlation coefﬁcient ( CC ) calculated using 2-microglobulin ( black ) , or t ctin ( red ) as reference are speciﬁed . 
+( C ) Mice received CFSE-labeled OTII cells and were either non-immunized or immunized with alumOVA . 
+Three days later , single ells from popliteal LN were isolated on the basis of the number of cell cycles they had completed ( see histograms top right corner ) as follows : naıve OTII cells , OTII c at had not divided , but were CD69 + ( 0 division ) , OTII cells that had completed 2 -- 3 divisions , or those that had completed 6 divisions . 
+Relative quantiﬁcation of cDNA sp speciﬁc of - actin and 2-microglobulin genes was carried out by a duplex RT-PCR on single cells . 
+Dot plots represent mRNA transcript level for the two genes , calculated as 2 − Ct. . 
+About 130 cells from each subset were analyzed . 
+Equation of the trendline and standard deviation values ( red ) are shown . 
+Fig. 4 . 
+Genes differentially expressed by OTII cells responding either to SalOVA or alumOVA . 
+The mRNA was extracted from OTII cells that were puriﬁed from three independent groups of ten naıve , or SalOVA-immunized or alumOVA-immunized chimeric mice . 
+Mean-centered cluster analysis is performed on differentially expressed genes within functional families assessed by real time RT-PCR using microﬂuidic cards . 
+Turquoise and blue boxes/text highlight mRNA levels , respectively , with 2 -- 5 or more than 5-fold differences between SalOVA - and alumOVA-responding OTII cells . 
+Zeros notify the absence of gene expression in one condition 
+Conﬂict of interest 
+The authors have no conﬂicting ﬁnancial interests . 
+Acknowledgments
+This work was funded by a program grant from the British Medical Research Council . 
+We thank Jorge Caamano , Francesco Falciani , Mirana Ramialison , Dagmar Scheel-Toellner , Cecile Tonnelle and Lucy Walker for helpful discussions or critically reviewing this manuscript . 
+References 
+Angkasekwinai , P. , Park , H. , Wang , Y.H. , Chang , S.H. , Corry , D.B. , Liu , Y.J. , Zhu , Z. , Dong , C. , 2007 . 
+Interleukin 25 promotes the initiation of proallergic type 2 responses . 
+J. Exp . 
+Med . 
+204 , 1509 -- 1517 . 
+Bajenoff , M. , Egen , J.G. , Koo , L.Y. , Laugier , J.P. , Brau , F. , Glaichenhaus , N. , Germain , R.N. , 2006 . 
+Stromal cell networks regulate lymphocyte entry , migration , and territoriality in lymph nodes . 
+Immunity 25 , 989 -- 1001 . 
+Bajenoff , M. , Granjeaud , S. , Guerder , S. , 2003 . 
+The strategy of T cell antigenpresenting cell encounter in antigen-draining lymph nodes revealed by imaging of initial T cell activation . 
+J. Exp . 
+Med . 
+198 , 715 -- 724 . 
+Bamias , G. , Martin 3rd , C. , Marini , M. , Hoang , S. , Mishina , M. , Ross , W.G. , Sachedina , M.A. , Friel , C.M. , Mize , J. , Bickston , S.J. , Pizarro , T.T. , Wei , P. , Cominelli , F. , 2003 . 
+Expression , localization , and functional activity of TL1A , a novel Th1-polarizing cytokine in inﬂammatory bowel disease . 
+J. Immunol . 
+171 , 4868 -- 4874 . 
+Bosco , A. , McKenna , K.L. , Devitt , C.J. , Firth , M.J. , Sly , P.D. , Holt , P.G. , 2006 . 
+Identiﬁcation of novel Th2-associated genes in T memory responses to allergens . 
+J. Immunol . 
+176 , 4766 -- 4777 . 
+Brewer , J.M. , Conacher , M. , Hunter , C.A. , Mohrs , M. , Brombacher , F. , Alexander , J. ,1999 . 
+Aluminium hydroxide adjuvant initiates strong antigen-speciﬁc Th2 responses in the absence of IL-4 - or IL-13-mediated signaling . 
+J. Immunol . 
+163 , 6448 -- 6454 . 
+Chicheportiche , Y. , Chicheportiche , R. , Sizing , I. , Thompson , J. , Benjamin , C.B. , Ambrose , C. , Dayer , J.M. , 2002 . 
+Proinﬂammatory activity of TWEAK on human dermal ﬁbroblasts and synoviocytes : blocking and enhancing effects of anti-TWEAK monoclonal antibodies . 
+Arthritis Res . 
+4 , 126 -- 133 . 
+Chtanova , T. , Kemp , R.A. , Sutherland , A.P. , Ronchese , F. , Mackay , C.R. , 2001 . 
+Gene microarrays reveal extensive differential gene expression in both CD4 ( + ) and CD8 ( + ) type 1 and type 2 T cells . 
+J. Immunol . 
+167 , 3057 -- 3063 . 
+Chtanova , T. , Newton , R. , Liu , S.M. , Weininger , L. , Young , T.R. , Silva , D.G. , Bertoni , F. , Rinaldi , A. , Chappaz , S. , Sallusto , F. , Rolph , M.S. , Mackay , C.R. , 2005 . 
+Identiﬁcation of T cell-restricted genes , and signatures for different T cell responses , using a comprehensive collection of microarray datasets . 
+J. Immunol . 
+175 , 7837 -- 7847 . 
+Chtanova , T. , Tangye , S.G. , Newton , R. , Frank , N. , Hodge , M.R. , Rolph , M.S. , Mackay , C.R. , 2004 . 
+T follicular helper cells express a distinctive transcriptional proﬁle , reﬂecting their role as non-Th1 / Th2 effector cells that provide help for B cells . 
+J. Immunol . 
+173 , 68 -- 78 . 
+Cunningham , A.F. , Fallon , P.G. , Khan , M. , Vacheron , S. , Acha-Orbea , H. , MacLennan , I.C. , McKenzie , A.N. , Toellner , K.M. , 2002 . 
+Th2 activities induced during virgin T cell priming in the absence of IL-4 , IL-13 , and B cells . 
+J. Immunol . 
+169 , 2900 -- 2906 . 
+Cunningham , A.F. , Gaspal , F. , Serre , K. , Mohr , E. , Henderson , I.R. , Scott-Tucker , A. , Kenny , S.M. , Khan , M. , Toellner , K.M. , Lane , P.J. , Maclennan , I.C. , 2007 . 
+Salmonella induces a switched antibody response without germinal centers that impedes the extracellular spread of infection . 
+J. Immunol . 
+178 , 6200 -- 6207 . 
+Cunningham , A.F. , Khan , M. , Ball , J. , Toellner , K.M. , Serre , K. , Mohr , E. , Maclennan , I.C. , 2004a . 
+Responses to the soluble ﬂagellar protein FliC are Th2 , while those to FliC on Salmonella are Th1 . 
+Eur . 
+J. Immunol . 
+34 , 2986 -- 2995 
+Cunningham , A.F. , Serre , K. , Toellner , K.M. , Khan , M. , Alexander , J. , Brombacher , F. , MacLennan , I.C. , 2004b . 
+Pinpointing IL-4-independent and IL-4-inﬂuenced acquisition and maintenance of Th2 activity by CD4 T cells . 
+Eur . 
+J. Immunol . 
+34 , 686 -- 694 . 
+Diebold , S.S. , Cotten , M. , Koch , N. , Zenke , M. , 2001 . 
+MHC class II presentation of endogenously expressed antigens by transfected dendritic cells . 
+Gene Ther . 
+8 , 487 -- 493 . 
+Dodge , I.L. , Carr , M.W. , Cernadas , M. , Brenner , M.B. , 2003 . 
+IL-6 production by pulmonary dendritic cells impedes Th1 immune responses . 
+J. Immunol . 
+170 , 4457 -- 4464 . 
+Eckmann , L. , Kagnoff , M.F. , 2001 . 
+Cytokines in host defense against Salmonella . 
+Microbes Infect . 
+3 , 1191 -- 1200 . 
+Fallon , P.G. , Ballantyne , S.J. , Mangan , N.E. , Barlow , J.L. , Dasvarma , A. , Hewett , D.R. , McIlgorm , A. , Jolin , H.E. , McKenzie , A.N. , 2006 . 
+Identiﬁcation of an interleukin ( IL ) -25 - dependent cell population that provides IL-4 , IL-5 , and IL-13 at the onset of helminth expulsion . 
+J. Exp . 
+Med . 
+17 , 1105 -- 1116 . 
+Finkelman , F.D. , Morris , S.C. , Orekhova , T. , Mori , M. , Donaldson , D. , Reiner , S.L. , Reilly , N.L. , Schopf , L. , Urban Jr. , J.F. , 2000 . 
+Stat6 regulation of in vivo IL-4 responses . 
+J. Immunol . 
+164 , 2303 -- 2310 . 
+Fort , M.M. , Cheung , J. , Yen , D. , Li , J. , Zurawski , S.M. , Lo , S. , Menon , S. , Clifford , T. , Hunte , B. , Lesley , R. , Muchamuel , T. , Hurst , S.D. , Zurawski , G. , Leach , M.W. , Gorman , D.M. , Rennick , D.M. , 2001 . 
+IL-25 induces IL-4 , IL-5 , and IL-13 and Th2-associated pathologies in vivo . 
+Immunity 15 , 985 -- 995 . 
+Hess , J. , Ladel , C. , Miko , D. , Kaufmann , S.H. , 1996 . 
+Salmonella typhimurium aroA - infection in gene-targeted immunodeﬁcient mice : major role of CD4 + TCR-alpha beta cellsandIFN-gammainbacterialclearanceindependentofintracellularlocation . 
+J. Immunol . 
+156 , 3321 -- 3326 . 
+Hoiseth , S.K. , Stocker , B.A. , 1981 . 
+Aromatic-dependent Salmonella typhimurium are non-virulent and effective as live vaccines . 
+Nature 291 , 238 -- 239 . 
+Hsieh , C.S. , Heimberger , A.B. , Gold , J.S. , O'Garra , A. , Murphy , K.M. , 1992 . 
+Differential regulation of T helper phenotype development by interleukins 4 and 10 in an alpha beta T-cell-receptor transgenic system . 
+Proc . 
+Natl. Acad . 
+Sci . 
+U.S.A. 89 , 6065 -- 6069 . 
+Ikeda , K. , Nakajima , H. , Suzuki , K. , Kagami , S. , Hirose , K. , Suto , A. , Saito , Y. , Iwamoto , I. , 2003 . 
+Mast cells produce interleukin-25 upon Fc epsilon RI-mediated activation . 
+Blood 101 , 3594 -- 3596 . 
+Jankovic , D. , Kullberg , M.C. , Noben-Trauth , N. , Caspar , P. , Paul , W.E. , Sher , A. , 2000 . 
+Single cell analysis reveals that IL-4 receptor/Stat6 signaling is not required for the in vivo or in vitro development of CD4 + lymphocytes with a Th2 cytokine proﬁle . 
+J. Immunol . 
+164 , 3047 -- 3055 . 
+Katakai , T. , Hara , T. , Lee , J.H. , Gonda , H. , Sugai , M. , Shimizu , A. , 2004 . 
+A novel reticular stromal structure in lymph node cortex : an immuno-platform for interactions among dendritic cells , T cells and B cells . 
+Int . 
+Immunol . 
+16 , 1133 -- 1142 . 
+Kim , M.R. , Manoukian , R. , Yeh , R. , Silbiger , S.M. , Danilenko , D.M. , Scully , S. , Sun , J. , DeRose , M.L. , Stolina , M. , Chang , D. , Van , G.Y. , Clarkin , K. , Nguyen , H.Q. , Yu , Y.B. , Jing , S. , Senaldi , G. , Elliott , G. , Medlock , E.S. , 2002 . 
+Transgenic overexpression of human IL-17E results in eosinophilia , B-lymphocyte hyperplasia , and altered antibody production . 
+Blood 100 , 2330 -- 2340 . 
+McSorley , S.J. , Jenkins , M.K. , 2000 . 
+Antibody is required for protection against virulent but not attenuatedSalmonellaenterica serovar typhimurium . 
+Infect . 
+Immun . 
+68 , 3344 -- 3348 . 
+Migone , T.S. , Zhang , J. , Luo , X. , Zhuang , L. , Chen , C. , Hu , B. , Hong , J.S. , Perry , J.W. , Chen , S.F. , Zhou , J.X. , Cho , Y.H. , Ullrich , S. , Kanakaraj , P. , Carrell , J. , Boyd , E. , Olsen , H.S. , Hu , G. , Pukac , L. , Liu , D. , Ni , J. , Kim , S. , Gentz , R. , Feng , P. , Moore , P.A. , Ruben , S.M. , Wei , P. , 2002 . 
+TL1A is a TNF-like ligand for DR3 and TR6/DcR3 and functions as a T cell costimulator . 
+Immunity 16 , 479 -- 492 . 
+Noben-Trauth , N. , Shultz , L.D. , Brombacher , F. , Urban Jr. , J.F. , Gu , H. , Paul , W.E. , 1997 . 
+An interleukin 4 ( IL-4 ) - independent pathway for CD4 + T cell IL-4 pro ¬ 
+duction is revealed in IL-4 receptor-deﬁcient mice . 
+Proc . 
+Natl. Acad . 
+Sci . 
+U.S.A. 94 , 10838 -- 10843 . 
+O'Garra , A. , 1998 . 
+Cytokines induce the development of functionally heterogeneous T helper cell subsets . 
+Immunity 8 , 275 -- 283 . 
+Openshaw , P. , Murphy , E.E. , Hosken , N.A. , Maino , V. , Davis , K. , Murphy , K. , O'Garra , A. , 1995 . 
+Heterogeneity of intracellular cytokine synthesis at the single-cell level in polarized T helper 1 and T helper 2 populations . 
+J. Exp . 
+Med . 
+182 , 1357 -- 1367 . 
+Ouyang , W. , Lohning , M. , Gao , Z. , Assenmacher , M. , Ranganath , S. , Radbruch , A. , Murphy , K.M. , 2000 . 
+Stat6-independent GATA-3 autoactivation directs IL-4-independent Th2 development and commitment . 
+Immunity 12 , 27 -- 37 . 
+Pai , S.Y. , Truitt , M.L. , Ho , I.C. , 2004 . 
+GATA-3 deﬁciency abrogates the development and maintenance of T helper type 2 cells . 
+Proc . 
+Natl. Acad . 
+Sci . 
+U.S.A. 101 , 1993 -- 1998 . 
+Pan , G. , French , D. , Mao , W. , Maruoka , M. , Risser , P. , Lee , J. , Foster , J. , Aggarwal , S. , Nicholes , K. , Guillet , S. , Schow , P. , Gurney , A.L. , 2001 . 
+Forced expression of murine IL-17E induces growth retardation , jaundice , a Th2-biased response , and multiorgan inﬂammation in mice . 
+J. Immunol . 
+167 , 6559 -- 6567 . 
+Papadakis , K.A. , Prehn , J.L. , Landers , C. , Han , Q. , Luo , X. , Cha , S.C. , Wei , P. , Targan , S.R. , 2004 . 
+TL1A synergizes with IL-12 and IL-18 to enhance IFN-gamma production in human T cells and NK cells . 
+J. Immunol . 
+172 , 7002 -- 7007 . 
+Ravindran , R. , Foley , J. , Stoklasek , T. , Glimcher , L.H. , McSorley , S.J. , 2005 . 
+Expression of T-bet by CD4 T cells is essential for resistance to Salmonella infection . 
+J. Immunol . 
+175 , 4603 -- 4610 . 
+Reinhardt , R.L. , Kang , S.J. , Liang , H.E. , Locksley , R.M. , 2006 . 
+T helper cell effector fates -- who , how and where ? 
+Curr . 
+Opin . 
+Immunol . 
+18 , 271 -- 277 . 
+Rincon , M. , Anguita , J. , Nakamura , T. , Fikrig , E. , Flavell , R.A. , 1997 . 
+Interleukin ( IL ) -6 directs the differentiation of IL-4-producing CD4 + T cells . 
+J. Exp . 
+Med . 
+185 , 461 -- 469 . 
+Rogge , L. , Bianchi , E. , Bifﬁ , M. , Bono , E. , Chang , S.Y. , Alexander , H. , Santini , C. , Ferrari , G. , Sinigaglia , L. , Seiler , M. , Neeb , M. , Mous , J. , Sinigaglia , F. , Certa , U. , 2000 . 
+Transcript imaging of the development of human T helper cells using oligonucleotide arrays . 
+Nat . 
+Genet . 
+25 , 96 -- 101 . 
+Saeed , A.I. , Sharov , V. , White , J. , Li , J. , Liang , W. , Bhagabati , N. , Braisted , J. , Klapa , M. , Currier , T. , Thiagarajan , M. , Sturn , A. , Snufﬁn , M. , Rezantsev , A. , Popov , D. , Ryltsov , A. , Kostukovich , E. , Borisovsky , I. , Liu , Z. , Vinsavich , A. , Trush , V. , Quackenbush , J. , 2003 . 
+TM4 : a free , open-source system for microarray data management and analysis . 
+Biotechniques 34 , 374 -- 378 . 
+Selvey , S. , Thompson , E.W. , Matthaei , K. , Lea , R.A. , Irving , M.G. , Grifﬁths , L.R. , 2001 . 
+Beta-actin -- an unsuitable internal control for RT-PCR . 
+Mol . 
+Cell Probes 15 , 307 -- 311 . 
+Smith , K.M. , Brewer , J.M. , Rush , C.M. , Riley , J. , Garside , P. , 2004 . 
+In vivo generated Th1 cells can migrate to B cell follicles to support B cell responses . 
+J. Immunol . 
+173 , 1640 -- 1646 . 
+Stopfer , P. , Mannel , D.N. , Hehlgans , T. , 2004 . 
+Lymphotoxin-beta receptor activation by activated T cells induces cytokine release from mouse bone marrow-derived mast cells . 
+J. Immunol . 
+172 , 7459 -- 7465 . 
+Vinuesa , C.G. , Tangye , S.G. , Moser , B. , Mackay , C.R. , 2005 . 
+Follicular B helper T cells in antibody responses and autoimmunity . 
+Nat . 
+Rev. Immunol . 
+5 , 853 -- 865 . 
+Voehringer , D. , Reese , T.A. , Huang , X. , Shinkai , K. , Locksley , R.M. , 2006 . 
+Type 2 immunity is controlled by IL-4 / IL-13 expression in hematopoietic non-eosinophil cells of the innate immune system . 
+J. Exp . 
+Med . 
+203 , 1435 -- 1446 . 
+Wang , Y.H. , Angkasekwinai , P. , Lu , N. , Voo , K.S. , Arima , K. , Hanabuchi , S. , Hippe , A. , Corrigan , C.J. , Dong , C. , Homey , B. , Yao , Z. , Ying , S. , Huston , D.P. , Liu , Y.J. , 2007 . 
+IL-25 augments type 2 immune responses by enhancing the expansion and functions of TSLP-DC-activated Th2 memory cells . 
+J. Exp . 
+Med . 
+204 , 1837 -- 1847 . 
+Zhu , J. , Min , B. , Hu-Li , J. , Watson , C.J. , Grinberg , A. , Wang , Q. , Killeen , N. , Urban Jr. , J.F. , Guo , L. , Paul , W.E. , 2004 . 
+Conditional deletion of Gata3 shows its essential function in T ( H ) 1-T ( H ) 2 responses . 
+Nat . 
+Immunol . 
+5 , 1157 -- 1165

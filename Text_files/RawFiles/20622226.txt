@@ -1,0 +1,464 @@
+J Vet Diagn Invest 22:559 -- 569 ( 2010 ) 
+Development of microarray and multiplex polymerase chain reaction assays for identification of serovars and virulence genes in Salmonella enterica of human or animal origin
+Greg Peterson , Bryan Gerdes , Jami Berges , Tiruvoor G. Nagaraja , Jonathan G. Frye , David S. Boyle , Sanjeev Narayanan1 
+Abstract . 
+Salmonella enterica is an important enteric pathogen consisting of many serovars that can cause severe clinical diseases in animals and humans . 
+Rapid identification of Salmonella isolates is especially important for epidemiologic monitoring and controlling outbreaks of disease . 
+Although immunologic and DNA-based serovar identification methods are available for rapid identification of isolates , they are time consuming or costly or both . 
+In the current study , 2 molecular methods for identification of Salmonella serovars were developed and validated . 
+A 70-mer oligonucleotide spotted microarray was developed that consisted of probes that detected genes responsible for genetic variation among isolates of Salmonella that can be used for serotyping . 
+A multiplex polymerase chain reaction ( PCR ) assay was also developed , which is capable of identifying 42 serovars , thus providing a valuable prediction of the pathogenicity of the isolates by detecting the presence of virulence genes sseL , invA , and spvC . 
+The gene spvC was the best predictor of pathogenicity . 
+In a blind study , traditional serologic methods were correlated at 93.3 % with the microarraybased method and 100 % with the multiplex PCR-based serovar determination . 
+Key words : Diagnostic microarray ; Salmonella serotyping . 
+Introduction
+Gastrointestinal tracts of both humans and animals are a major habitat for Salmonella . 
+In 2005 , more than 36,000 clinical cases of salmonellosis were reported to the Centers for Disease Control and 10 Prevention . 
+Of these , 15,000 resulted in hospitaliza-22 tion , and 400 were fatal . 
+Salmonella enterica subspecies enterica , with most clinical cases belonging to subgroup I , is categorized into serogroups ( based on lipopolysaccharide or O antigens ) and serotypes ( based on the flagellar or H antigens ) .40 To identify the individual serovars ( based on O and H antibody -- antigen tests ) of Salmonella , testing is routinely performed in state reference laboratories and in several veterinary laboratories , which , because of the high number of samples submitted , can lead to long turnaround times . 
+In an attempt to streamline the process , molecular techniques have been devel ¬ 
+From the Department of Diagnostic Medicine and Pathobiology , College of Veterinary Medicine , Kansas State University , Manhattan , KS ( Peterson , Gerdes , Berges , Nagaraja , Narayanan ) , the Bacterial Epidemiology and Antimicrobial Resistance Research Unit , U.S. Department of Agriculture , Agricultural Research Service , Athens , GA ( Frye ) , and PATH , Seattle , WA ( Boyle ) . 
+1 Corresponding Author : Sanjeev Narayanan , K-246 Mosier Hall , Department of Diagnostic Medicine and Pathobiology , 1800 Denison Avenue , College of Veterinary Medicine , Kansas State University , Manhattan , KS 66502 . 
+sanjeev@vet.k-state.edu oped , such as ribotyping ,14 polymerase chain reaction ( PCR ) single-strand conformation polymorphism analysis ,34 restriction fragment length polymorphism ,23 pulsed-field gel electrophoresis ,4,25 IS200 fingerprinting ,15 automated 59 nuclease PCR ,24 and random amplified polymorphic DNA analysis ,43 which are major improvements in serovar determination , but the success of these assays requires highly technical skills , are prone to interlaboratory variation , are time consuming , and are incapable of processing large numbers of samples . 
+Multiplex PCR assays are efficient platforms for detecting many gene targets in a single-sample preparation by incorporating multiple primer pairs . 
+In the past , multiplex PCR assays were limited to identifying a small number of serovars , and these assays did not attempt to predict the overall pathogenicity of Salmonella isolates .2,7,26,46 A recent 27 study described a multiplex PCR procedure consisting of 2 multiplex PCR panels for determining 30 clinically relevant serovars of Salmonella . 
+The objective of the present study was to increase the number of serovars identified using the multiplex procedure and to develop an additional multiplex PCR panel called Salmonella Typing Virulence ( STV ) that determines the presence or absence of the genes spvC , invA , and sseL to allow researchers to predict the overall pathogenicity , invasiveness , and replication ability of the Salmonella isolates , respectively . 
+55 
+DNA microarrays , which work on nucleic acid hybridization principles , are widely used and have the multiplex capability to detect hundreds of thousands of genes in a single experiment .8 Spotted DNA microarray platforms are cost effective , flexible , and easy to use in any laboratory with basic facilities and 11 equipment . 
+This technology has been used in highthroughput detection of pathogens , such as methicil-lin-resistant Staphylococcus in hospitals ,44 and in the identification of antimicrobial resistance genes .16,36 More recently , 3 studies29 ,42,50 have focused on molecular serotyping of Salmonella using microarray protocols . 
+These microarrays could identify only a limited number of serovars and required multiple probe sets for each serovar . 
+For example , 414 probes and a software program were necessary to identify 14 different serovars .42 Because there are presently 1,531 Salmonella enterica subspecies enterica group I serovars ,19 such assays can get complicated and expensive . 
+Therefore , the objective of the current study was 1 ) to develop an economical , highthroughput , adaptable microarray that is capable of determining a large number of common serovars using a limited number of probes ; and 2 ) to compare the results with a modified multiplex PCR assay and with established serologic assays . 
+Materials and methods
+Bacterial strains, culture, and DNA extraction
+Salmonella isolates used in the present study were acquired from human clinical sources or were isolated from the feces of feedlot cattle in the midwestern United States or from various other sources , including turkey , swine , horse , and reptiles . 
+Isolates were sent to Kansas State University Veterinary Diagnostic Laboratories ( Manhattan , KS ) for species and serogroup identification and later to the National Veterinary Services Laboratories ( NVSL ) for serotyping by traditional antibody-based methods , using the Kauffmann -- White scheme . 
+Isolates were grown overnight at 37uC on tryptic soy agar , a and a single colony was picked and inoculated into 5 ml of tryptic soy brotha and grown at 37uC with shaking . 
+Bacterial genomic DNA was extracted from 500 ml of overnight cultures using a commercial tissue kitb according to the manufacturer 's instructions . 
+Final DNA concentrations were determined using a spectrophotometer.c 
+STV multiplex PCR and primer design
+A new multiplex panel for detecting virulence genes was developed . 
+Primers to amplify the sseL gene13 ,41 were designed using Primer 3 version 4.0 software , d based on conserved sequences from GenBank ( accession AE008802 ) , so that the melting temperature ( Tm ) and the product size were compatible with other reactions in the multiplex panel ( Table 1 ) . 
+Potential primer candidates were checked with BLAST searches for nucleotides until an acceptable set was found . 
+The primers PT4 ( amplifying sequences of a 
+Salmonella Enteritidis phage type 4 strain ) and STM 7 ( amplifying sequences of a Salmonella Typhimurium strain ) and sseL were combined with primers for spvC and invA , to create a unique multiplex PCR ( STV ) . 
+All primers included in this panel were analyzed using AutoDimer version 1 softwaree to ascertain that they did not form homodimers or heterodimers .47 
+Multiplex PCR reaction protocols
+The multiplex PCR was modified based on a previous study .27 The protocol consisted of 2 multiplex PCR assays each consisting of 5 primer sets . 
+The primer sets corresponded to arbitrary regions on the genome of S. Typhimurium33 ( STM ) and Salmonella Typhi35 ( STY ) , as determined by microarray analyses .27 The completed multiplex PCR reactions were electrophoresed on agarose gels , and the amplicons were numbered 1 through 5 , based on their sizes ( 1 being the largest amplicon ) . 
+If the PCR products were detected at a predicted location on a gel , it was considered positive for that reaction . 
+For example , in the STM multiplex PCR reaction , if products corresponding to STM 1 and STM 5 primer sets amplified , then the amplicon code for the STM reaction for that particular isolate would be designated 1 , 5 . 
+Similar amplicon codes were also generated for the STY multiplex panel . 
+Occasionally , faint , nonspecific bands appeared ( consistent with the previous study27 ) ; however , only the most prominent bands were considered for amplicon coding . 
+The incidences and the prominence of the faint , nonspecific bands were considerably reduced when the Qiagen Multiplex PCR kitb was used . 
+The STM assay was modified to use the Qiagen b Multiplex PCR Kit per the manufacturer 's instructions . 
+Briefly , 12.5 ml of 23 buffer was added to 4 ml of Q Solution with 50 -- 100 ng of template DNA for a final volume of 25 ml . 
+The reaction conditions included initial denaturation step at 94uC for 15 min , followed by 35 cycles of 94uC for 30 sec , 62uC for 45 sec , a step down to 58uC for 45 sec and 72uC for 1 min , and a final extension of 72uC for 5 min . 
+All reactions were performed on a gradient thermocycler.f The STY assay was modified to contain 1.25 U of Hot g Start Taq , 1.63 reaction buffer , 0.2 mM of each deoxyribonucleotide triphosphate ( dNTP ) , and 50 -- 100 ng of template DNA for a final volume of 50 ml . 
+The STV h reaction contained 1.25 U of Taq polymerase , 13 Ex Taq g reaction buffer , 0.2 mM of each dNTP , and 50 -- 100 ng of template DNA for a final volume of 50 ml . 
+Both the STY and STV used the same cycling parameters : 1 cycle of 94uC for 6 min ; followed by 35 cycles of 94uC for 30 sec ; a step up to 62uC for 15 sec , 58uC for 15 sec , and 72uC for 1 min ; and a final extension of 72uC for 5 min . 
+Sample analysis and scoring of multiplex PCR products The PCR products were separated by electrophoresis in a 3 % agarose gelh in 13 TBE ( 90 mM Tris , 90 mM borate , 20 mM ethylenediamine tetra-acetic acid [ pH 8.0 ] ) for approximately 2 hr at 5.6 V/cm . 
+The gel was stained using ethidium bromide ( 10 mg/ml ) , visualized under ultraviolet light , h and captured by a digital imaging system.i The PC amplicon sizes were determined by comparison to molecular weight markersj and scored as described above . 
+Microarray probe design and printing
+Initially , 3 -- 8 candidate probes for each gene target were selected ( a total of 63 probes ) and printed in replicates of 3 or 10 . 
+These probes corresponded to genetic regions determined to be important for serovar differentiation by previous studies and with the multiplex PCR assays discussed above .27,39 These genetic regions were originally chosen because heterogeneity in the region was reported to be helpful in differentiating between common serovars of Salmonella .39 Based on their sensitivities , intensities of signals , and correlations with multiplex PCR data , 37 probes were selected ( Table 2 ) and were considered for further studies . 
+The remaining 26 probes were excluded during the validation step ( described later ) from further consideration because of low intensity and/or negative hybridization , false positives and/or increased background , or signal inconsistency ( data not shown ) . 
+Candidate oligonucleotides were designed using OligoWiz 2.048 and synthesized.k On each microarray , the positive hybridization controls EUB ( 16S region conserved in all Eubacteria ) 49 and rpoB1 were included . 
+Negative controls , including H2O , hybridization buffer only , and a 25 -- base pair ( bp ) DNA probe without homology to any listing in GenBank , were also printed .38 Two fields containing the 70-mer oligonucleotides were printed on slides , l using a slide printer , m at a concentration of 35 mM each in replicates of 3 or 10 . 
+After printing , the DNA was cross-linked in a crosslinkern at 600 mJ and stored in the dark at room temperature until used . 
+Microarray DNA labeling and hybridization
+Extracted genomic DNA was labeled directly using a BioPrimeH Plus Array CGH Genomic ( Direct ) Labeling Systemo per manufacturer 's protocol with slight modifications . 
+After random primer hybridization , an additional 1.5 ml of 1 mM cyanine ( Cy3 ) or 1 mM Cy5 -- 29-deoxycytidine-59-triphosphatep was spiked into the labeling mixture to improve dye incorporation and amplification . 
+For all DNA labeling reactions , the efficiency of labeling was determined using the microarray feature on a spectro-photometer , c which measures the fluorescent dye incorporation in the sample DNA . 
+The labeled DNA was mixed with an equal volume of 23 hybridization solution 7q and was used for hybridization . 
+The microarray chips were prehybridized in blocking solution ( 0.1 % bovine serum albumin , 53 saline -- sodium citrate [ SSC ] , and 1 % sodium dodecyl sulfate [ SDS ] ) at 42uC for 1 hr with shaking , and then spun at 2,200 3 g to dry . 
+The labeled DNA mixture was hybridized overnight at 42uC , followed by washing for 10 min in each of the following buffers : 103 SSC , 0.2 % sodium lauroyl sarcosinate ; 103 SSC ; and 0.23 SSC . 
+Lastly , the slides were quickly dipped in water , spun dry at r 2,200 3 g , and visualized on a slide reader . 
+Other in vitro labeling kits , including ARES Alexa o FluorH 546 and 647 DNA Labeling Kits , Array TM q 900DNA Labeling Kit for DNA , and DNA indirect o o labeling kits , were employed , but the BioPrime system was used in further experiments because it provided consistently higher efficiency of dye incorporation , as c evidenced by a spectrophotometer and by total spot fluorescence , on a microarray chip , as measured by a slide r reader . 
+Validation of molecular methods
+For the multiplex blind study , 111 Salmonella culture samples and 31 bacterial DNA samples were submitted to the authors ' laboratory . 
+All samples were processed with STM , STY , and STV multiplex PCR and scored as described above . 
+For the microarray blind study , 20 Salmonella pure culture samples , and 36 bacterial DNA samples were submitted to our laboratory . 
+All samples were hybridized to serotyping microarray chips , and STM , STY , and STV scoring was conducted . 
+Serotyping results were compared against results from traditional antibody-based serotyping , and statistical analyses ( see below ) were conducted . 
+Data analyses
+The fluorescent hybridization signals from the array were visualized using a slide readerr and matched to the GenePix Array List ( GAL ) file previously created by the microarray slide printer . 
+A GenePix Report ( GPR ) file was generated measuring the overall intensities . 
+Each target region wa represented by 3 or 10 replicate spots . 
+The fluorescence signals from each set were averaged and used for further analyses . 
+Data were analyzed using the TIGR MultiExperiment Viewer ( TMEV ) programs with 1 color setting . 
+Data was also analyzed using a relative pathogen signal ( RPS ) ratio method previously described .45 Briefly , the averaged signal intensities for each probe were divided by the signal intensities of the positive control spots to attain an RPS ratio . 
+Mean hybridization signals to spots containing a unique DNA probe ( 25 bp ) that shared no significant homology to sequences in GenBank were subtracted from the RPSs of test spots .38 A final ratio was determined from that : Values greater than 0.25 were considered positive , and values less than 0.25 were considered negative . 
+The sensitivity and specificity of the multiplex and the microarray were calculated using the antibody-based testing as the gold standard . 
+Specificity was measured as the number of true negatives / ( number of true negatives + false positives ) , and sensitivity was measured as the true positives / ( number of true positives + false negatives ) . 
+Table 1 . 
+List of primers used in the Salmonella Typing Virulence multiplex polymerase chain reaction assay . 
+* 
+NCBI accession no . 
+Primer Primer sequence ( 59R39 ) Amplicon size ( bp ) Reference 
+Gene 
+spvC 
+SPVC-1 SPVC-2 
+ACTCCTTGCACAACCAAATGCGGA TGTCTTCTGCATTTCGCCACCATCA ACAGTGCTCGTTTACGACCTGAAT AGACGACTGGTACTGATCGATAAT GGCGATATAAGTACGACCATCATGG GCACGCGGCACAGTTAAAA TTCCGCGACAACCGACCTTTCTAA TTCTTGAACCAGACCTTGCGTTGC CATAACCCGCCTCGACCTCAT AGATGTCGTGAGAAGCGGTGG 
+M64295 
+571 
+12 
+invA 
+M90846 
+INVA-1 INVA-2 PT4 F PT4 R sseL F sseL R STM2150F STM2150R 
+244 
+12 
+AF370716 
+PT4 
+2 
+7 
+225 
+sseL 
+AE008002 
+This study 
+169 
+AE008795 
+STM 7 
+2 
+7 
+101 
+* NCBI 5 National Center for Biotechnology Information ; bp 5 base pair ; PT4 5 amplifying sequences of a Salmonella Enteritidis phage type 4 strain ; STM 7 5 amplifying sequences of a Salmonella Typhimurium strain . 
+Table 2 . 
+The 70-mer probes used in the current study for serotyping Salmonella enterica . 
+* 
+NCBI 
+Assay 70-mer oligonucleotide Primer sequence 
+accession no . 
+STM 1 
+STM 1 0716F_441-510 A STM 1 0716F_416-485 B STM 2 1350F_1077-1146 STM 2 1350F_373-442 B STM 2 1350F_768-837 C STM 2 1350F_407-476 D STM 2 1350F_1005-1074 STM 3 0839F_461-530 B STM 3 0839F_255-324 D STM 3 0839F_111-180 E STM 3 0839F_424-493 G STM 4 4525F_1081-1150 STM 4 4525F_82-151 D STM 5 4538F_666-735 A STM 5 4538F_635-704 B STM 5 4538F_285-354 C STM 5 4538F_691-760 D STY 1 0312R_281-350 A STY 1 0312R_92-161 B STY 2 0346F_384-453 A STY 2 0346F_149-218 B STY 2 0346F_178-247 C STY 2 0346F_97-166 D STY 3 2299F_19-88 A STM 4 3845F_92-161 A STM 4 3845F_63-132 B STY 5 2349F_122-191 A STY 5 2349F_490-559 B spvC 3364-3436 invA 78-147 invA 2 1885-1950 PT4 3452-3521 PT4 2 3425-3494 PT4 3 3492-3561 sseL 18937-19006 sseL 2 18702-18771 STM 7 2150F_315-384 E 
+AE008729 
+TGCGGCTACGCCCTTGCTGATAAAGGGATTGATACACGACTCATACAGGACTATCTGGGGCACAGGAATA ACATCCTCATATGCTGCGACATGCCTGCGGCTACGCCCTTGCTGATAAAGGGATTGATACACGACTCATA ATGAACACCGATGGTTATGCCGCCACCGGTGTAGAAATTAAAATCGTGGATGAAGATCGCAATACGCTTC AATGTCAGGCTAAAATATTCTTCGCCCCCACCGTGTTCAAACAGAATCGTCCGGTCGATCTTATCCTTCC TTTTTAATCGGGGCGCGTAGCGTATTGCTGGACATCTTTACCCCAGAAGCCTGCCTTACCTTATTAGCGC GTTCAAACAGAATCGTCCGGTCGATCTTATCCTTCCGCTACAAAATCAACTGCGCCATCTGACGCATATT TTGAGTATTTACGGTTCTACAGAAAGTTCTCCACACTCGATGGTTAATCTGGGTGATTCGACTTCACGCA TGAAGTTGAGGATATCGAAGGCGTATGGATGCGTACCTATGGTGCTGATTGCTTTGGGCTACCAGATTTC GATACTTCACCTTTAGAGCAATATGTTGCGTTGGCTGTGGTTGCAGGTGCATTAAGTAACATGGGGGCTG CATGTAATATCGATGGTTGGATTTAAAACGCCTTACCCTCAGGAATCAATCGAACAATGCGTCGCGCCAG TCCCGCTGACCTCTCTATTTTGTGGATTTGTGAAATATGAAGTTGAGGATATCGAAGGCGTATGGATGCG GTTCTTTACCAAAGGCACGGTCACCAATCCGCATCAGGATAAAAACTGCACCGATGACGTGTGGGTGTAT CTCCTATCAAAACTACGTCAATGAACTCGCCTCGCTGCTGTTTTTGAAAATGTGCAAAGAGACCGGCCAG CCCATTACGTTTGGTACGGGAGAAGCGAAAACCCATGTTCAGGACATTATTAACGACATCATGCCTTGTC GATGACGGCCTCCATGATTGATATCACCATTCCCATTACGTTTGGTACGGGAGAAGCGAAAACCCATGTT GTGGCGATGGAGGAGAAAAATAGCCAGCAGAAAGAGATGGACGCCAGTTCTATCGATAACGTCAAAGCGT CGAAAACCCATGTTCAGGACATTATTAACGACATCATGCCTTGTCTGCTGCCGTTAATTAGCTTCGCCAT TGTGGGCTATGACTCTCCTTCTGTTGGTGCTACGGATATCTGGGGATTATTTTCCGTCAGTCCGAAAACA ATCAAATATCCCGGTGTTTGATTTGGCTAAATTAAATCAGGAAGGGCTTGCCGAGACACAGGCTCAGGCA ATGGAAGTGACTCTGGGAGGACGGTCACTGACCACCACCAATTCTGTACTGGAAGCTAAAACCCTGTTCC GGTTCAGAAGGATATTACCGTCACTGCCAATATTGACAGTACACTTGAACTGCTGCAGGCCGATGGTTCA ATATTGACAGTACACTTGAACTGCTGCAGGCCGATGGTTCATCCCTCCCGTCGACTATGAAGCTGGATTT TTATTGCCGCAGCTGTGGCATTGGCCACCGTTTATTCTTTTTCTGTTTCTGCGGTTCAGAAGGATATTAC ATGGGAGCGTTTGGGTTCCTTGGATCACGACTTACATCCTACTTCGAAAGTCGACATACTGTGATTGGCT TCCTTTTCGTGTGTGGTGGCAAAGTCGATGTACGTGCACCAATTCCCCCCAGTTTTAGGGATAGACTACT TAACTTCAATGTTGATATATCTCATCGTCTCCTTTTCGTGTGTGGTGGCAAAGTCGATGTACGTGCACCA AAAAATTCCAGTTTTGGCCAGCCAGGGCGAACAGCTTTACAAGACCCAAAAGTATGCCAAAGCACTCGAC AGGTTAATTTTCAGGGTTACTGGTTCGGTTTAATGGGGATCTACTTCGGCCCCAATATCGGCGAGTTCTA GAAAAATAATTTCAACTCCTTGCACAACCAAATGCGGAAGATGCCGGTATCCCACTTTAAAGAGGCGCTG ACCTACCTATCTGGTTGATTTCCTGATCGCACTGAATATCGTACTGGCGATATTGGTGTTTATGGGGTCG TTATTGATTGCACATAAAGATCTTGTCCTCCTTACGTCTGTCGATGTCCGTCGATTTATTAAGAAA AAATTTTGTGGTGCGGTGCCTGGTGCCTCCAGGTGACATTAACCAGTTAACAATTAATGCCGACTTAAAC ATCATAGCCCCTCCATTTCTGGTAAATAAATTTTGTGGTGCGGTGCCTGGTGCCTCCAGGTGACATTAAC AACCAGTTAACAATTAATGCCGACTTAAACCACCCATACTGATTCAGGGAGTTTTAACTGTGCCGCGTGC TTTACAGAACAATGTACCCAACGGCTGTGGTCTATTTTGTTACCATACAATTCAACTCTTATCGAATGCC GCACTCAGCTACTTGAAAAGATTGCTCAATCAGGATTATCTCACAATGAAGTCTTCCTGGTAAATACAGG CTGCAACCGCAGGGAGCAACGGATTGTATTGCGTTAAAAGATGTCGTGAGAAGCGGTGGCTATACTTTTA 
+STM 2 
+AE008758 
+A 
+E 
+3 
+STM 
+AE008735 
+C 
+STM 4 
+AE008913 
+STM 5 
+AE008913 
+STY1 
+AL627266 
+STY 2 
+AL627273 
+STY 3 STY 4 
+AL627273 AE008879 
+STY 5 
+AL627273 
+STV 1 STV 2 
+D14490 U43273 
+STV 3 
+AF370716 
+STV 4 
+AE008802 
+STV 5 
+AE008795 
+* NCBI 5 National Center for Biotechnology Information ; STM 5 Salmonella Typhimurium ; STY 5 Salmonella Typhi ; STV 5 the Salmonella Typing Virulence multiplex polymerase chain reaction panel 
+Results
+Multiplex PCR assay development and validation The newly developed multiplex PCR panels successfully identified 42 serovars of Salmonella . 
+This included Bareilly , Choleraesuis , Kentucky , London , Meleagridis , Minnesota , Muenster , Orion , Reading , Senftenberg , Tennessee , and Uganda ( Fig. 1 ; Table 3 ) , as well as the 30 serovars published previously27 ( data not shown ) . 
+A third multiplex STV panel containing 5 sets of PCR primers was created to predict the virulence of a Salmonella isolate and to further discriminate some serovars ( Fig. 2 ) . 
+The amplicons for sseL ( 169 bp ) and invA ( 244 bp ) were present in all isolates tested . 
+As previously noted , invA has been used as a genetic marker for all pathogenic Salmonella .12 The PCR targeting the spvC gene amplified a 571-bp product from serovars Choleraesuis , Dublin , Enteritidis , and Typhimurium only ( Fig. 2 ) . 
+Amplicon codes were generated as described above , for all serovars tested , including the 12 new serovars ( Tables 1 , 2 ) . 
+In the blind study , the multiplex PCR-based serovar determination correlated with the traditional antibody-based serotyping results ( performed by NVSL ) 100 % of the time ( total of 111 isolates ) as belonging to 23 serovars when their serogroup was known . 
+In the absence of the serogroup data , the multiplex PCR assay successfully identified the serovars of 135 out of 142 Salmonella isolates , in which case the overall sensitivity and specificity were both 95.3 % . 
+Microarray serovar identification
+A spotted microarray platform was developed containing 70-mer probes for STM , STY , and STV genes . 
+Based on the hybridization patterns , unique signatures were developed for the tested serovars . 
+This array of 37 probes was successful in determining all serovars of Salmonella tested ( total of 86 isolates belonging to 40 serovars ; 10 of these isolates are shown in Fig. 3 ) . 
+The correlation between the signals generated in the microarray and the bands amplified in multiplex PCR matched 30 out of the 30 isolates tested in the initial validation step ( data not shown ) 
+Figure 1 . 
+Salmonella Typhimurium ( STM ; A ) and Salmonella Typhi ( STY ; B ) multiplex polymerase chain reaction ( PCR ) products of 12 previously unscreened serovars . 
+If PCR products ( 5 primer sets for STM and 5 primer sets for STY ) were present at the predicted location on a gel , it was considered positive for those reactions . 
+An amplicon code was designated based on the bands that were present . 
+For example , serovar Bareilly ( panel A , second lane ) had PCR products for primer sets STM 2 and STM 5 . 
+Therefore , the amplicon code for STM multiplex PCR for Bareilly is 2 , 5 ( see Table 3 for amplicon codes for all serovar tested in the current study ) . 
+1 . 
+Agona 2 , 3 5 2 , 4 , 5 2 . 
+Anatum 1 -- 5 0 2 , 4 3 . 
+Bareilly { 2 , 5 2 , 4 2 , 4 , 5 4 . 
+Berta 2 , 3 , 5 2 , 3 2 , 4 , 5 5 . 
+Bovismorbificans 2 , 3 , 5 0 2 , 4 6 . 
+Braenderup 2 , 5 0 2 , 4 , 5 7 . 
+Brandenburg 1 , 2 2 2 , 4 8 . 
+Chester 1 , 2 0 2 , 4 9 . 
+Choleraesuis { 2 , 5 2 , 5 1 , 2 , 4 , 5 10 . 
+Derby 1 -- 3 , 5 5 2 , 4 11 . 
+Dublin 2 , 3 , 5 3 1 , 2 , 4 12 . 
+Enteritidis 2 , 3 , 5 3 1 -- 4 13 . 
+Hadar 3 , 5 0 2 , 4 , 5 14 . 
+Heidelberg 1 , 2 , 4 , 5 2 2 , 4 , 5 15 . 
+Infantis 2 2 2 , 4 16a . 
+Java 1 1 , 2 , 4 , 5 0 ND 16b . 
+Java 2 2 , 4 0 ND 17 . 
+Javiana 1 , 2 2 , 5 2 , 4 18 . 
+Kentucky { 2 , 5 2 , 5 2 , 4 19 . 
+London { 1 , 2 , 4 , 5 0 2 , 4 20 . 
+Mbandaka 2 , 3 , 5 2 , 5 2 , 4 21 . 
+Meleagridis { 1 , 2 , 5 2 , 5 2 , 4 , 5 22 . 
+Minnesota { 1 , 2 , 5 2 , 5 2 , 4 23 . 
+Montevideo 5 2 , 4 2 , 4 24 . 
+Muenster { 1 , 2 , 5 2 , 4 2 , 4 25 . 
+Muenchen 1 , 2 , 5 0 2 , 4 , 5 26 . 
+Newport 1 -- 3 , 5 0 2 , 4 27 . 
+Ohio 2 , 5 0 2 , 4 28 . 
+Oranienburg 2 , 5 2 , 4 2 , 4 29 . 
+Orion { 1 , 3 4 2 , 4 30 . 
+Paratyphi B 1 , 2 , 4 , 5 0 2 , 4 , 5 31a . 
+Poona 1 1 , 5 1 , 2 ND 31b . 
+Poona 2 1 , 2 1 , 2 2 , 4 31c . 
+Poona 3 1 , 5 2 ND 32 . 
+Reading { 1 , 2 , 4 , 5 0 2 , 4 , 5 33 . 
+Saintpaul 1 -- 5 0 2 , 4 , 5 34 . 
+Senftenberg { 1 -- 3 1 , 2 , 4 , 5 2 , 4 , 5 35 . 
+Stanley 1 , 2 , 5 2 2 , 4 , 5 36 . 
+Tennessee { 2 , 3 , 5 1 , 5 2 , 4 , 5 37 . 
+Thompson 2 , 3 , 5 5 2 , 4 38 . 
+Typhi 1 1 -- 3 , 5 2 , 4 , 5 39 . 
+Typhimurium 1 -- 5 4 1 , 2 , 4 , 5 40 . 
+Uganda { 1 , 2 2 , 5 2 , 4 , 5 41 . 
+Weltevreden 1 , 2 , 4 , 5 1 , 4 , 5 2 , 4 42 . 
+Westhampton 1 -- 3 1 , 2 , 4 , 5 2 , 4 
+* ND 5 amplicon code not determined in the current study . 
+{ Serotype previously unscreened by STM and STY . 
+In the blind study , serovars of 52 out of 56 total isolates representing 28 different serovars ( Table 4 ) were successfully identified . 
+The sensitivity and spec-ificity of the microarray-based serotyping assay were determined to be 93.3 % . 
+Because many of the isolates used in the blind study were submitted as DNA samples from diagnostic laboratories throughout across the country , the serogroup data were unknown . 
+Discussion
+In the current study , the discriminatory power of a multiplex PCR assay for molecular serovar identification of Salmonella was greatly improved from the existing techniques27 with the addition of a new multiplex PCR panel ( STV ) that not only incorporates 2 gene targets ( STM 7 and PT4 ) that differentiate certain serovars27 but also detects the presence of the virulence markers spvC , invA , and sseL . 
+All isolates tested were positive for virulence genes invA and sseL . 
+Because only strains of Salmonella isolated from clinical sources were included in the present study , the presence of these genes in less-virulent strains , especially those from environmental sources , is not known . 
+The invA gene encodes an invasion protein and has been reported to be present in most strains of Salmonella isolated from animals and humans .31 The sseL encodes a deubiquitinase enzyme that contributes to intracellular survival and invasion by Salmonella in macrophages and is claimed to be present only in highly virulent strains .13,41 The virulence gene spvC is generally carried in a plasmid but may also be present in the genome and has been shown in previous studies to improve survival in the presence of starvation stress in the host tissues .6,12,20,28 The spvC gene encodes a phosphothreonine lyase that has significant similarity to OspF of Shigella flexneri and has an inhibitory effect on signal transduction mediated by ERK and JNK pathways and NFkB activation in eukaryotic cells , thereby , inhibiting 32 proinflammatory cytokine responses . 
+Previous studies have reported that the spvC gene is predominant in 4 serovars tested , including Typhimurium , Choleraesuis , Dublin , and Enteritidis ,12,20 with Salmonella Typhimurium and Enteritidis being the most common 20 serovars isolated from diarrheal patients . 
+Therefore , the presence of the spvC gene may predict the ability of a Salmonella strain to survive in a host environment , its capacity to infect other hosts , and the possibility of causing an outbreak . 
+The potential of the assay was demonstrated by testing of 111 blinded isolates with a sensitivity of 100 % when serogroup data were available . 
+When calculations were performed without considering the serogroup data ( 135 of 142 isolates ) , the sensitivity and specificity was determined to be 95.3 % . 
+Microarrays have been used previously to identify serovars of bacteria such as Escherichia coli ,3,21 Salmonella ,9,18,29,30,39,50 and Bartonella5 because of the rapidity of the assay and its ability to provide high throughput and consistently reproducible results . 
+In addition , the charged coupled device detection of fluorescent spots in microarrays has been reported to provide high sensitivity .17 Th microarray developed in the current study consisted of probes that targeted the genetic regions shown to be important for serovar differentiation by previous studies39 and multiplex PCR assays . 
+The data from the microarray-based serotyping were compared with analysis of the same isolates using a multiplex PCR , and the sensitivity and specificity was determined to be 93.3 % ( see Materials and Methods section ) . 
+previous multiplex PCR study2 noted that some target DNA may not be amplified because of intraserovar variation at the primer binding regions , which could lead to the compiling of false-amplicon codes . 
+In the present study , the 95.3 % concordance of multiplex PCR and microarray suggests that such mutations may not significantly affect the effectiveness of multiplex PCR to determine the serovar of a Salmonella isolate . 
+Serotype STM STV 
+STY 
+* ND 5 amplicon code not determined in the current study . 
+{ Serotype previously unscreened by STM and STY . 
+Figure 2 . 
+Multiplex polymerase chain reaction ( PCR ) Salmonella Typing Virulence ( STV ) products of 29 serovars for which A , Salmonella Typhimurium ( STM ) and B , Salmonella Typhi ( STY ) were screened previously .27 C , multiplex PCR STV products of the 12 new Salmonella enterica serovars . 
+An amplicon code was designated based on the bands that were present . 
+For example , serovar Agona ( panel A , second lane ) had PCR products for primer sets STV 2 , STV 4 , and STV 5 . 
+Therefore , the amplicon code for STV multiplex PCR for Agona is 2 , 4 , 5 ( see Table 3 for amplicon codes for all serovars tested in the current study ) . 
+Figure 3 . 
+Results from microarray ( black is positive , and white is negative ) and multiplex polymerase chain reaction for Salmonella Typhimurium ( STM ) 1 -- 5 , Salmonella Typhi ( STY ) 1 -- 5 , and Salmonella Typing Virulence ( STV ) 1 -- 5 genes of 10 Salmonella isolates representing 7 serovars . 
+The current study describes 2 rapid molecular methods that can accurately identify the serovars of common clinical isolates of S. enterica subsp . 
+enterica . 
+The multiplex PCR is straightforward and can currently be applied in any laboratory with access to PCR and gel electrophoresis equipment . 
+The growing number of Salmonella genome sequences available for analysis and comparison by complete genomic hybridization and other methods will iden 
+Total 135/142 52/56
+* The numerator indicates the total of number of isolates that were correctly identified molecularly , and the denominator indicates total number tested with serotypes identified by traditional antibody tests . 
+{ Serotype previously unscreened by Salmonella Typhimurium and Salmonella Typhi multiplex PCR assays . 
+tify future targets to improve the discrimination of serovars that may share the same amplicon codes . 
+Of the 1,531 serovars of Salmonella enterica currently known ,19 the blind studies in the present study only covered a relatively limited number of them . 
+Although previous studies and those conducted earlier27 included isolates from some of the most common serovars encountered ,20 larger validation studies will be necessary to use these tests as diagnostic tools . 
+In addition , higher throughput for diagnostic samples may be achieved by performing a fluorogenic 59 nuclease PCR assay . 
+All blind samples ( n 5 142 ) were processed for multiplex PCR , and a subset ( n 5 56 ) were also tested by microarray analysis ( Table 4 ) . 
+The smaller number of samples used in the microarray blind studies were due to the relatively higher costs to perform the assay . 
+Conventional antibody-based serotyping has become increasingly expensive in the recent past because of high costs associated with licensing and transportation of live or frozen cultures via mail , maintenance of freezers for storing the cultures , and production of large collections of specific antisera . 
+Expense of the microarray can be reduced by low-density arrays with support matrices , such as nitrocellulose ; by multiple arrays printed on each glass slide and each array hybridized with DNA labeled by different fluorescent markers from different isolates ; and by labeling targets with colorimetric , instead of fluorescent , dyes . 
+Although multiplex PCR arrays provide a molecular method for identifying the serovar of a Salmo-nella isolate , microarrays have the potential to acquire more than 1 million data points in a single experiment . 
+Also , a microarray probe set can be easily incorporated into any established diagnostic micro-array protocol , thereby increasing the overall strength of that platform . 
+For example , the authors have incorporated the serovar-identifying array in an antimicrobial-resistance gene array to provide a platform for evaluating resistance profiles of Salmo-nella serovars ( see Supplemental Data ) .37 The authors of the current study have identified multiplex PCR amplicon codes for 42 serovars and have determined microarray hybridization profiles for 40 serovars of Salmonella enterica . 
+In the present study , a newly developed multiplex PCR reaction ( STV ) , which detects virulence genes ( sseL , invA , and spvC ) , is reported . 
+The presence or absence of spvC was successful in identifying a subset of serovars that has been shown previously to cause significant human and animal diseases . 
+It is believed that the tests developed in the present study will aid in understanding the epidemiology and diversity of Salmonella . 
+Microarray blind study 
+Multiplex PCR 
+Serotype blind study 
+Agona 5/5 Anatum 4/6 
+2/2 
+Berta 2/2 Bovismorbificans 2/2 Braenderup 2/2 Brandenburg 2/2 Chester 2/2 Choleraesuis { 2/2 Derby 3/3 Dublin 7/7 Enteritidis 1/1 Hadar 2/2 Heidelberg 2/2 Infantis 5/5 Javiana 2/2 Kentucky { 3/4 London { 1/1 Mbandaka 3/3 1/1 Meleagridis { 4/4 Minnesota { 3/3 3/3 Montevideo 20/20 1/1 Muenster { 8/8 Muenchen 3/3 1/1 Newport 7/7 3/3 Ohio 2/2 2/2 Oranienburg 3/3 1/1 Orion { 4/4 Paratyphi B 2/2 2/2 Poona2 2/2 2/2 Reading { 3/3 2/2 Saintpaul 3/4 1/2 Stanley 2/2 2/2 Tennessee { 2/2 Thompson 2/2 2/2 Typhimurium 6/6 2/2 Uganda { 8/8 4/4 Weltevreden 1/2 1/2 Westhampton 0/2 0/2 
+2/2 2/2 2/2 2/2 2/2 
+3/3 1/1 2/2 2/2 
+2/2 
+Acknowledgements
+The authors would like to acknowledge the following people for their help during this work : David Renter , Megan Jacob , Jahangir M. Alam , and Tanya Purvis ( Kansas State University ) for help with isolate acquisition . 
+The authors would also like to thank Amit Kumar ( Kansas State University ) for his help in editing of this manuscript . 
+Microarray chip printing was performed i the Gene Expression Facility at Kansas State University . 
+The facility is supported through the National Science Foundation grant DBI-0421427 . 
+Additional microarray printing was performed at the Microarray Core Facility , Department of Genetics Cell Biology and Anatomy , University of Nebraska Medical Center ( UNMC ) , Omaha , NE . 
+The UNMC Microarray Core Facility receives partial support from National Institutes of Health grant P20 RR016469 from the IDeA Networks of Biomedical Research Excellence ( INBRE ) Program of the National Center for Research Resources . 
+This study is published as contribution 08-000-J from the Kansas Agricultural Experiment Station . 
+The mention of trade names or commercial products in this article is solely for the purpose of providing specific information and does not imply recommendation or endorsement by the U.S. b. DNeasyH Tissue Kit , Qiagen Inc. , Valencia , CA . 
+c. NanoDropH ND-1000 spectrophotometer , Thermo Fisher Scientific Inc. ( NanoDrop products ) , Wilmington , DE . 
+d. Available at http://primer3.sourceforge.net/ e. Available at http://www.cstl.nist.gov/strbase/ AutoDimerHomepage/AutoDimerProgramHomepage.htm f. MastercyclerH gradient thermocycler , Eppendorf North America , Hauppauge , NY . 
+g. Takara Bio Inc. , Otsu , Shiga , Japan . 
+h. Fisher Scientific Co. , Pittsburgh , PA. i. Fotodyne Inc. , Hartland , WI . 
+j. 100-bp ladder ; Promega Corp. , Madison , WI . 
+k. Operon Biotechnologies Inc. , Huntsville , AL. m. QArray2 System , Genetix Ltd. , New Milton , Hampshire , United Kingdom . 
+n. StratalinkerH UV Crosslinker 2400 , Stratagene , La Jolla , CA . 
+o. BioPrimeH Plus Array CGH Genomic Labeling System , Invitrogen Corp. , Carlsbad , CA . 
+p. Amersham Biosciences , Piscataway , NJ . 
+q. Genisphere Inc. , Hatfield , PA. r. GenePix 4000B slide reader , Molecular Devices , Sunnyvale , CA . 
+s . 
+The Institute for Genomic Research , Rockville , MD. . 
+References 
+1 . 
+Aliyu SH , Marriott RK , Curran MD , et al. : 2004 , Real-time PCR investigation into the importance of Fusobacterium necrophorum as a cause of acute pharyngitis in general practice . 
+J Med Microbiol 53:1029 -- 1035 . 
+2 . 
+Arrach N , Porwollik S , Cheng P , et al. : 2008 , Salmonella serovar identification using PCR-based detection of gene presence and absence . 
+J Clin Microbiol 46:2581 -- 2589 . 
+3 . 
+Ballmer K , Korczak BM , Kuhnert P , et al. : 2007 , Fast DNA serotyping of Escherichia coli by use of an oligonucleotide microarray . 
+J Clin Microbiol 45:370 -- 379 . 
+4 . 
+Bolton DJ , Meally A , McDowell D , Blair IS : 2007 , A survey for serotyping , antibiotic resistance profiling and PFGE characterization of and the potential multiplication of restaurant Salmonella isolates . 
+J Appl Microbiol 103 : 1681 -- 1690 . 
+5 . 
+Bonhomme CJ , Nappez C , Raoult D : 2007 , Microarray for serotyping of Bartonella species . 
+BMC Microbiol 7:59 . 
+6 . 
+Boyd EF , Hartl DL : 1998 , Salmonella virulence plasmid : modular acquisition of the spv virulence region by an Fplasmid in Salmonella enterica subspecies I and insertion into the chromosome of subspecies II , IIIa , IV and VII isolates . 
+Genetics 149:1183 -- 1190 . 
+7 . 
+Boyd D , Peters GA , Cloeckaert A , et al. : 2001 , Complete nucleotide sequence of a 43-kilobase genomic island associated with the multidrug resistance region of Salmonella enterica serovar Typhimurium DT104 and its identification in phage type DT120 and serovar Agona . 
+J Bacteriol 183:5725 -- 5732 . 
+8 . 
+Bryant PA , Venter D , Robins-Browne R , Curtis N : 2004 , Chips with everything : DNA microarrays in infectious diseases . 
+Lancet Infect Dis 4:100 -- 111 . 
+9 . 
+Cai HY , Lu L , Muckle CA , et al. : 2005 , Development of a novel protein microarray method for serotyping Salmonella enterica strains . 
+J Clin Microbiol 43:3427 -- 3430 . 
+10 . 
+Centers for Disease Control and Prevention ( CDC ) : 2007 , Salmonella surveillance : annual summary , 2005 . 
+U.S. Department of Health and Human Services , CDC , Atlanta , GA. 11 . 
+Chittur SV : 2004 , DNA microarrays : tools for the 21st century . 
+Comb Chem High Throughput Screen 7:531 -- 537 . 
+12 . 
+Chiu CH , Ou JT : 1996 , Rapid identification of Salmonella serovars in feces by specific detection of virulence genes , invA and spvC , by an enrichment broth culture-multiplex PCR combination assay . 
+J Clin Microbiol 34:2619 -- 2622 . 
+13 . 
+Coombes BK , Lowden MJ , Bishop JL , et al. : 2007 , SseL is a Salmonella-specific translocated effector integrated into the SsrB-controlled Salmonella pathogenicity island 2 type III secretion system . 
+Infect Immun 75:574 -- 580 . 
+14 . 
+Esteban E , Snipes K , Hird D , et al. : 1993 , Use of ribotyping for characterization of Salmonella serotypes . 
+J Clin Microbiol 31:233 -- 237 . 
+15 . 
+Ezquerra E , Burnens A , Jones C , Stanley J : 1993 , Genotypic typing and phylogenetic analysis of Salmonella paratyphi B and S. java with IS200 . 
+J Gen Microbiol 139:2409 -- 2414 . 
+16 . 
+Frye JG , Jesse T , Long F , et al. : 2006 , DNA microarray detection of antimicrobial resistance genes in diverse bacteria . 
+Int J Antimicrob Agents 27:138 -- 151 . 
+17 . 
+Galinsky VL : 2003 , Automatic registration of microarray images , II : hexagonal grid . 
+Bioinformatics 19:1832 -- 1836 . 
+18 . 
+Garaizar J , Porwollik S , Echeita A , et al. : 2002 , DNA microarray-based typing of an atypical monophasic Salmo-nella enterica serovar . 
+J Clin Microbiol 40:2074 -- 2078 . 
+19 . 
+Grimont PAD , Weill F-X : 2007 , Antigenic formulae of the Salmonella serovars , 9th ed . 
+World Health Organization Collaborating Centre for Reference and Research on Salmo-nella , Institut Pasteur , Paris , France . 
+20 . 
+Guiney DG , Fang FC , Krause M , et al. : 1995 , Biology and clinical significance of virulence plasmids in Salmonella serovars . 
+Clin Infect Dis 21 ( suppl 2 ) : S146 -- 151 . 
+21 . 
+Han W , Liu B , Cao B , et al. : 2007 , DNA microarray-based identification of serogroups and virulence gene patterns of Escherichia coli isolates associated with porcine postweaning diarrhea and edema disease . 
+Appl Environ Microbiol 73:4082 -- 4088 . 
+22 . 
+Hardnett FP , Hoekstra RM , Kennedy M , et al. : 2004 , Epidemiologic issues in study design and data analysis related to FoodNet activities . 
+Clin Infect Dis 38 ( suppl 3 ) : S121 -- S126 . 
+23 . 
+Hong Y , Liu T , Hofacre C , et al. : 2003 , A restriction fragment length polymorphism-based polymerase chain reaction as an alternative to serotyping for identifying Salmonella serotypes . 
+Avian Dis 47:387 -- 395 
+24 . 
+Hoorfar J , Ahrens P , Radstrom P : 2000 , Automated 59 nuclease PCR assay for identification of Salmonella enterica . 
+J Clin Microbiol 38:3429 -- 3435 . 
+25 . 
+Kerouanton A , Marault M , Lailler R , et al. : 2007 , Pulsed-field gel electrophoresis subtyping database for foodborne Salmo-nella enterica serotype discrimination . 
+Foodborne Pathog Dis 4:293 -- 303 . 
+26 . 
+Khan AA , Nawaz MS , Khan SA , Cerniglia CE : 2000 , Detection of multidrug-resistant Salmonella typhimurium DT104 by multiplex polymerase chain reaction . 
+FEMS Microbiol Lett 182:355 -- 360 . 
+27 . 
+Kim S , Frye JG , Hu J , et al. : 2006 , Multiplex PCR-based method for identification of common clinical serotypes of Salmonella enterica subsp . 
+enterica . 
+J Clin Microbiol 44:3608 -- 3615 . 
+28 . 
+Libby SJ , Lesnick M , Hasegawa P , et al. : 2002 , Characterization of the spv locus in Salmonella enterica serovar Arizona . 
+Infect Immun 70:3290 -- 3294 . 
+29 . 
+Majtan T , Majtanova L , Timko J , Majtan V : 2007 , Oligonucleotide microarray for molecular characterization and genotyping of Salmonella spp . 
+strains . 
+J Antimicrob Chemother 60:937 -- 946 . 
+30 . 
+Malorny B , Bunge C , Guerra B , et al. : 2007 , Molecular characterisation of Salmonella strains by an oligonucleotide multiprobe microarray . 
+Mol Cell Probes 21:56 -- 65 . 
+31 . 
+Malorny B , Hoorfar J , Bunge C , Helmuth R : 2003 , Multicenter validation of the analytical accuracy of Salmo-nella PCR : towards an international standard . 
+Appl Environ Microbiol 69:290 -- 296 . 
+32 . 
+Mazurkiewicz P , Thomas J , Thompson JA , et al. : 2008 , SpvC is a Salmonella effector with phosphothreonine lyase activity on host mitogen-activated protein kinases . 
+Mol Microbiol 67:1371 -- 1383 . 
+33 . 
+McClelland M , Sanderson KE , Spieth J , et al. : 2001 , Complete genome sequence of Salmonella enterica serovar Typhimurium LT2 . 
+Nature 413:852 -- 856 . 
+34 . 
+Nair S , Lin TK , Pang T , Altwegg M : 2002 , Characterization of Salmonella serovars by PCR-single-strand conformation polymorphism analysis . 
+J Clin Microbiol 40:2346 -- 2351 . 
+35 . 
+Parkhill J , Dougan G , James KD , et al. : 2001 , Complete genome sequence of a multiple drug resistant Salmonella enterica serovar Typhi CT18 . 
+Nature 413:848 -- 852 . 
+36 . 
+Perreten V , Vorlet-Fawer L , Slickers P , et al. : 2005 , Microarray-based detection of 90 antibiotic resistance genes of Gram-positive bacteria . 
+J Clin Microbiol 43:2291 -- 2302 . 
+37 . 
+Peterson G , Bai J , Nagaraja TG , Narayanan S : 2009 , Diagnostic microarray for human and animal bacterial 
+diseases and their virulence and antimicrobial resistance genes . 
+J Microbiol Methods 80:223 -- 230 . 
+38 . 
+Peterson G , Bai J , Narayanan S : 2009 , A co-printed oligomer to enhance reliability of spotted microarrays . 
+J Microbiol Methods 77:261 -- 266 . 
+39 . 
+Porwollik S , Boyd EF , Choy C , et al. : 2004 , Characterization of Salmonella enterica subspecies I genovars by use of microarrays . 
+J Bacteriol 186:5883 -- 5898 . 
+40 . 
+Quinn PJ , Carter ME , Markey B , Carter GR : 1994 , Clinical veterinary microbiology . 
+Harcourt Publishers , London , United Kingdom . 
+41 . 
+Rytkonen A , Poh J , Garmendia J , et al. : 2007 , SseL , a Salmonella deubiquitinase required for macrophage killing and virulence . 
+Proc Natl Acad Sci U S A 104:3502 -- 3507 . 
+42 . 
+Scaria J , Palaniappan RU , Chiu D , et al. : 2008 , Microarray for molecular typing of Salmonella enterica serovars . 
+Mol Cell Probes 22:238 -- 243 . 
+43 . 
+Shangkuan YH , Lin HC : 1998 , Application of random amplified polymorphic DNA analysis to differentiate strains of Salmonella Typhi and other Salmonella species . 
+J Appl Microbiol 85:693 -- 702 . 
+44 . 
+Strommenger B , Schmidt C , Werner G , et al. : 2007 , DNA microarray for the detection of therapeutically relevant antibiotic resistance determinants in clinical isolates of Staphylococcus aureus . 
+Mol Cell Probes 21:161 -- 170 . 
+45 . 
+Tomioka K , Peredelchuk M , Zhu X , et al. : 2005 , A multiplex polymerase chain reaction microarray assay to detect bioterror pathogens in blood . 
+J Mol Diagn 7:486 -- 494 . 
+46 . 
+Trafny EA , Kozlowska K , Szpakowska M : 2006 , A novel multiplex PCR assay for the detection of Salmonella enterica serovar Enteritidis in human faeces . 
+Lett Appl Microbiol 43:673 -- 679 . 
+47 . 
+Vallone PM , Butler JM : 2004 , AutoDimer : a screening tool for primer-dimer and hairpin structures . 
+Biotechniques 37:226 -- 231 . 
+48 . 
+Wernersson R , Nielsen HB : 2005 , OligoWiz 2.0 -- integrating sequence feature annotation into the design of microarray probes . 
+Nucleic Acids Res 33 : W611 -- W615 . 
+49 . 
+Yang S , Lin S , Kelen GD , et al. : 2002 , Quantitative multiprobe PCR assay for simultaneous detection and identification to species level of bacterial pathogens . 
+J Clin Microbiol 40:3449 -- 3454 . 
+50 . 
+Yoshida C , Franklin K , Konczy P , et al. : 2007 , Methodologies towards the development of an oligonucleotide microarray for determination of Salmonella serotypes . 
+J Microbiol Methods 70:261 -- 271

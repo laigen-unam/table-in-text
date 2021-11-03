@@ -1,0 +1,489 @@
+FEMS Immunology and Medical Microbiology 41 ( 2004 ) 177 -- 185 
+www.fems-microbiology.org 
+Transcriptional regulation of Salmonella enterica serovar Typhimurium g y bile
+enes b 
+A.M. Prouty , I.E. Brodsky , J. Manos , R. Belas , S. Falkow , J.S. Gunn a b c c b a , d , e , f , * 
+a Department of Microbiology and Immunology , University of Texas Health Science Center at San Antonio , 
+7703 Floyd Curl Dr. , MC 7758 , San Antonio , TX 78229-3900 , USA epartment of Microbiology and Immunology , Stanford University School of Medicine , 299 Campus Dr. , D035 , Stanford , CA 94305-5124 , USA c Center of Marine Biotechnology , University of Maryland Biotech Institute , 701 East Pratt St. , Baltimore , MD 21202 , USA d Department of Molecular Virology , Immunology and Medical Genetics , Tzagournis Medical Research Facility , The Ohio State University , 420 W. 12th Ave. , Columbus , OH 43210-1214 , USA e Division of Infectious Disease , Department of Medicine , Tzagournis Medical Research Facility , The Ohio State University , 420 W. 12th Ave. , Columbus , OH 43210-1214 , USA f The Center of Micrbial Interface Biology , Tzagournis Medical Research Facility , The Ohio State University , 420 W. 12th Ave. , Columbus , OH 43210-1214 , USA 
+b D 
+Received 11 December 2003 ; received in revised form 4 March 2004 ; accepted 7 March 2004 
+First published online 10 April 2004 
+Abstract 
+DNA microarrays and two-dimensional ( 2-D ) gel electrophoresis were utilized to analyze the global effect of bile on transcription and protein synthesis in Salmonella enterica serovar Typhimurium . 
+Two bile-regulated proteins , YciF and PagC , were identiﬁed by 2-D gel electrophoresis and mass spectrometry ﬁngerprinting . 
+The operon yciGFE-katN demonstrated increased transcriptional activity in the presence of bile . 
+While this operon has previously been shown to be RpoS-regulated , data from this study suggested that yciGFE-katN is regulated by bile independent of RpoS . 
+The PhoP -- PhoQ-regulated PagC is decreased in the presence of bile . 
+Characterization of the untranslated leader of pagC demonstrated that a 97-bp region is necessary for the bile-mediated repression of this promoter . 
+Analysis of data from the DNA microarray revealed an effect of bile on important global mechanistic pathways in S. enterica serovar Typhimurium . 
+Genes involved in type III secretion-mediated invasion of epithelial cells demonstrated an overall repression of transcription in the presence of bile , corroborating previously reported data from this laboratory [ Infect . 
+Immun . 
+68 ( 2000 ) 6763 ] . 
+In addition , bile-mediated transcriptional repression of genes involved in 
+ﬂagellar biosynthesis and motility was observed . 
+These data further demonstrate that bile is an important environmental signal sensed by Salmonella spp . 
+and that bile plays a role in regulating bacterial gene expression in multiple virulence-associated pathways . 
+2004 Federation of European Microbiological Societies . 
+Published by Elsevier B.V. All rights reserved . 
+Keywords : Salmonella ; Microarray ; Bile ; Transcription 
+phospholipids and bilirubin to form bile . 
+The bile is stored in the gallbladder and released into the duodenum upon consumption of food , particularly fatty meals . 
+Bile aids in digestion through degradation and dispersion of lipids . 
+As a detergent-like substance , bile can also degrade lipid-containing membranes of bacteria . 
+Most enteric organisms possess inherent resistance to bile that involve components such as porins , 
+1. Introduction
+Bile salts are synthesized by the liver , where they are combined with other components , such as cholesterol , 
+Corresponding author . 
+Tel. : +1 -614 -292 -6036 ; fax : +1 -614 -292 -5495 . 
+E-mail address : gunn.43@osu.edu ( J.S. Gunn ) . 
+transport proteins , eﬄux pumps and lipopolysaccharide [ 1 -- 3 ] . 
+In addition to resisting the detergent effects of bile , it appears that some bacteria utilize bile as a regulatory environmental signal to affect gene expression within the host [ 4 -- 8 ] . 
+Bile has been demonstrated in both bacteria and parasites to regulate genes for bile resistance , as well as genes within pathways important for virulence [ 4 -- 10 ] . 
+Bile salt hydrolase ( BSH ) is a protein found in most gastrointestinal commensals , but not enteropathogens , allowing for continued survival within the host [ 11 ] . 
+Recently , BSH was identiﬁed in Listeria monocytoge-nes , a pathogenic organism [ 11 ] . 
+In L. monocytogenes , BSH was demonstrated to be a virulence factor required for survival within the intestine and liver and is regulated by PrfA , a transcriptional activator that responds to signals within the host [ 11 ] . 
+Gene regulation by bile has also been observed in the gastrointestinal parasite , Giardia lamblia , in which bile can be used as a metabolic substrate and plays a role in promoting encystation , which is critical for pathogenesis [ 9 ] . 
+Shigella ﬂexneri grown in the presence of bile exhibits increased protein secretion and enhanced invasion of epithelial cells [ 5 ] . 
+In Vibrio cholerae , bile enhances motility , while simultaneously repressing expression of other virulence factors , such as toxin co-regulated pilus and cholera toxin [ 4 ] . 
+While regulation of motility by bile is not understood , it is thought that regulation of the V. cholerae virulence factors by bile occurs through modulation of the ToxT protein , the major virulence regulator [ 7 ] . 
+All of these organisms depend upon proper expression of virulence factors to effectively cause infection , suggesting that pathogens use bile as a signal for appropriate temporal and spatial regulation of gene expression . 
+Salmonella enterica serovar Typhimurium , an etiologic agent of gastroenteritis , colonizes the distal ileum of the small intestine . 
+S. enterica serovar Typhi , the etiologic agent of typhoid fever , interacts with bile both in the intestine and the human gallbladder . 
+3 % -- 5 % of the population that is infected with Salmonella typhi will become asymptomatic carriers of the organism , for which the site of carriage is primarily the gallbladder . 
+Salmonellae have been shown to resist concentrations of bile signiﬁcantly higher than that of other enteric organisms [ 8 ] and genes involved in bile resistance ( e.g. , the mar operon and the acrAB eﬄux pump ) are induced in the presence of bile [ 12 ] . 
+Additionally , we demonstrated that bile reduced invasion of epithelial cells through transcriptional regulation of genes within the pathogenicity island-1 invasion pathway [ 6 ] . 
+Finally , our laboratory has demonstrated that salmonellae form a bioﬁlm on gallstones in vitro [ 13 ] , consistent with the idea that chronic carriage of S. typhi is associated with gallbladder abnormalities , such as gallstones [ 14,15 ] . 
+Interestingly , formation of a bioﬁlm on a gallstone requires the presence of bile in the media , suggesting that bile regulates factors necessary for bioﬁlm development [ 13 ] . 
+We hypothesize that bile is an important environmental signal for Salmonella spp. , as it is necessary for environment-responsive gene regulation and protein modulation . 
+Two-dimensional gel electrophoresis was performed to examine the effect of bile on protein levels from whole cell extracts , and DNA microarrays were utilized to determine the effect of bile on gene expression . 
+These techniques allow for identiﬁcation of genes and proteins speciﬁcally affected by bile and provide a more global picture as to the effect of bile on different pathways . 
+From this study , the effect of bile on invasion was corroborated , along with the identiﬁcation of novel effects on motility . 
+This report more ﬁrmly establishes bile as an important regulatory signal in the interaction between salmonellae and their hosts . 
+* 
+0928-8244 / $ 22.00 2004 Federation of European Microbiological Societies . 
+Published by Elsevier B.V. All rights reserved doi :10.1016 / j.femsim .2004.03.002 
+2. Material and methods
+2.1. Bacterial strains and reagents
+JSG210 ( ATCC14028s ) is the parent of all S. enterica serovar Typhimurium strains . 
+Bacterial strains provided for this study include : JSG1741 ( ﬂhC5456 : : MudJ ) , JSG1742 ( ﬂgC5215 : : MudJ ) , JSG1743 ( ﬂiC5050 : : MudJ ) . 
+Strains constructed for this study include : JSG237 ( pagC503 : : luc ) , JSG255 ( pagC325 : : luc ) , JSG256 ( pag-C673 : : luc ) , JSG257 ( pagC127 : : luc ) , JSG1591 ( pag-C407 : : luc ) , JSG1639 ( pagC : : lacZ ) , JSG1642 ( pagD : : lacZ ) , JSG1662 ( pmrD : : lacZ ) , JSG1942 ( yciG : : luc ) , JSG1943 ( yciG : : lucDrpoS : : FRT ) . 
+All strains were maintained in Luria -- Bertani ( LB ) broth or agar with appropriate antibiotics ( 50 lg of ampicillin per ml or 45 lg of kanamycin per ml ) . 
+5-Bromo-4-chloro-3-indolyl-b-D-galactopyranoside ( Xgal ) was used at a concentration of 40 lg/ml . 
+Bile used in this study is labeled `` sodium cholate '' and is a crude ox bile extract containing salts of deoxycholate , taurocholate , glycocholate , and cholate ( Sigma Chemical Co. ) . 
+All primers used in this study are listed as supplementary material and available at http : / / www.medicine.osu.edu/mvimg/1188.cfm . 
+2.2. Strain construction
+DNA for yciG , pagC127 , pagC325 , pagC503 , pagC407 , and pagC673 was ampliﬁed by PCR using primers JG395 -- JG396 , WPL13 -- JG14 , WPL13 -- JG12 , WPL13 -- JG24 , WPL13 -- JG381 , and WPL13 -- JG13 , respectively . 
+The primers were designed with EcoRI and KpnI sites at the 50 end . 
+The yciG fragment was cloned into the ﬁreﬂy luciferase-reporter suicide vector pGPL01 [ 16 ] . 
+Recombination of this construct with yciG on th chromosome created a gene fusion and a polar insertion in the yciG-containing operon . 
+The pagC127 , pagC325 , pagC503 , pagC407 , and pagC673 promoter fragments were cloned into the ﬁreﬂy luciferase-reporter suicide vector pLB02 [ 17 ] . 
+Recombination on the chromosome created a gene fusion in which the strain became mer-odiploid for the pagC407 promoter region . 
+DNA for pagC , pagD , and pmrD was ampliﬁed by PCR using primers WPL13 -- JG388 , JG384 -- JG389 , and JG177 -- JG390 , respectively . 
+The primers were designed with EcoRI and BamHI sites at the 50 end . 
+The pagC , pagD , and pmrD promoter fragments were cloned into the b-galactosidase-reporter vector pRS551 [ 18 ] . 
+Linearized pRS551 with the promoter fragments was recombined onto the chromosome of ATCC14028s at the putPA locus as previously described , creating a gene fusion in which the strains became merodiploid for the pagC , pagD , and pmrD promoter fragments [ 19 ] . 
+Deletion of rpoS was accomplished by means of the k red-mediated site-speciﬁc recombination as described by Datsenko and Wanner using primers JG413 -- JG414 [ 20 ] . 
+Colonies were characterized by PCR using primers speciﬁc to DNA regions outside of the deletion . 
+The promoter of yciG was ampliﬁed using primers JG395 -- JG396 and cloned into the EcoRI -- KpnI sites of pGPL01 . 
+Upon mating into a wild-type S. typhimurium background , P22HT-int transduction was used to move the yciG : : luc gene fusion into the rpoS : : FRT deletion strain . 
+Strains JSG1741 , JSG1742 , and JSG1743 were created by using P22HT-int transduction , in which the mutations from a S. enterica serovar Typhimurium LT2 wild-type background were transduced into the ATCC14028s background strain . 
+2.3. Transcriptional assays
+Strains carrying yciG : : luc were grown to log phase in LB broth and incubated for 1 h with or without 6 % bile . 
+Strains with pagC127-673 : : luc promoter fragments were grown to log phase in LB broth and incubated for 1 h with or without 3 % bile . 
+Cultures were washed 2 in phosphate-buffered saline ( PBS ) and ﬁreﬂy luciferase assays were performed as previously described [ 16 ] . 
+2.4. Two-dimensional gel assays
+Wild-type S. enterica serovar Typhimurium was grown overnight at 37 C with aeration in LB broth , or LB broth plus 3 % bile or 15 % bile , washed , and pelleted . 
+The whole cells were lysed with sodium dodecyl sulfate ( SDS ) boiling buffer and the extracts were separated on 2-D ( SDS ) -- polyacrylamide gel electro-phoresis gels by Kendrick Labs [ 21 ] . 
+At least two gels were run from different samples at each bile concentration , with each gel showing the identical bile-regu-lated protein spots . 
+Protein spots of interest were excised from the gels by Kendrick Labs and sent to Columbia University Howard Hughes Medical Institute Protein Chemistry Core facility for peptide mass mapping [ 22,23 ] . 
+Brieﬂy , the proteins were digested with trypsin and analyzed by matrix-assisted laser de-sorption ionization ( MALDI ) mass spectrometry . 
+The peptide masses obtained by mass spectrometry were entered into search programs , which scan databases , such as NCBI or TIGR , to ﬁnd signiﬁcant matches . 
+Numerous peptide matches with signiﬁcant protein coverage were identiﬁed for each spot under examination , leading to full conﬁdence in the protein identiﬁcation . 
+2.5. RNA isolation, labeling, and hybridization
+JSG210 was grown in LB broth at 37 C with aeration to an OD600 of 0.25 . 
+Cultures were then incubated in LB broth with or without 3 % bile . 
+Samples were collected at 30 and 60 min after the addition of bile . 
+Cells from each sample were pelleted and resuspended in 100 ll of 400 lg/ml of lysozyme in Tris -- EDTA buffer . 
+RNA was isolated according to the manufacturer 's instruction using the Qiagen RNeasy Mini Kit ( Qiagen Inc , Valencia , CA ) . 
+An optional on-column DNase treatment for 1 h was also performed according to the manufacturer 's instruction . 
+cDNA was synthesized from the RNA with pd ( N ) 6 Random Hexamer ( Amersham Biosciences , Piscataway , NJ ) and labeled with Cy3 or Cy5 as previously described [ 24 ] . 
+Labeled cDNA was hybridized to DNA microarrays generated from S. enterica serovar Typhimurium SL1344 to compare samples grown with or without bile collected at the same timepoint [ 25 ] . 
+Labeling and hybridization were repeated three times for each time point . 
+Hybridized slides were scanned and analyzed with a Gene Pix Scanner 4000A and the GENEPIX program ( Axon Instruments , Foster City , CA ) . 
+2.6. Data analysis
+Data was analyzed with the Stanford University Microarray Database , Microsoft Excel and the signiﬁcance analysis for microarrays ( SAM ) program ( http://wwwstat.stanford.edu/~tibs/SAM/index.html ) [ 26 ] . 
+Three hybridizations from each time point were grouped in an experimental set and were ﬁltered by the Stanford Microarray Database according to their mean log2 -- ( Cy5 / Cy3 ) ratios . 
+Initial ﬁltering criteria required that at least 80 % of the data from a particular spot over three replicate experiments had a regression correlation of 0.6 . 
+Data were additionally ﬁltered using Cluster software to remove any genes with missing values in greater than 20 % of the columns and those that have standard deviations less than 2 . 
+SAM calculates a list of signiﬁcan genes and a false discovery rate , which is an estimate of the percentage of false positives . 
+To determine if a common theme was present in the list of signiﬁcant genes , a lexical analysis using LACK software ( http : / / falkow.stanford.edu/whatwedo/software , script available as Windows executable or source ﬁle ) was utilized . 
+A list of common terms associated with the theme being examined were imputed into a ﬁle . 
+The program searched the signiﬁcant gene list for the presence of the terms entered . 
+At random , the program also sampled the complete genome annotation for the number of times the terms entered appeared in the entire array list . 
+The output ﬁle allowed us an unbiased statistical method for determining if a certain theme , such as invasion , was over-represented in the list of signiﬁcant genes . 
+Data from all arrays used in this paper are available at http : / / genome-www . 
+stanford.edu/microarray . 
+2.7. Motility assays
+Motility was measured by tracking the swimming of individual bacteria using a digital video camera attached to an Olympus BX60 phase-contrast microscope [ 27 ] . 
+Brieﬂy , overnight cultures were diluted 1:100 and grown to logarithmic phase in LB broth with shaking at 250 rpm at 37 C. Cultures were then grown for one additional hour with or without 3 % bile with shaking at 250 rpm at 37 C . 
+The cultures were then diluted 1:100 and mounted between a microscope slide and a coverslip , and several ﬁelds were analyzed under the microscope . 
+The motion and path of the bacteria were recorded on a Canon Elura 40MC digital video camcorder ( Canon Inc. . 
+Japan ) . 
+A total of ca. 5 min of video imagery from two separate ﬁelds of view was acquired for each strain . 
+A 1-min segment of each acquired ﬁeld of view was captured to a computer hard disk using Adobe Premiere ( Adobe Systems Inc. . 
+San Jose , CA ) . 
+Still images were taken from this digital ﬁle every 0.33 s and exported to Adobe Photoshop as separate TIFF ﬁles . 
+The TIFF ﬁles , in conjunction with the original digital video ﬁle , were subsequently used to locate and measure the position of cells by recording their pixel coordinates . 
+Individual cells were tracked across nine consecutive TIFF ﬁles for a total of 2.66 s and the coordinates recorded . 
+The coordinates of each tracked cell were entered into a spreadsheet ( Excel , Microsoft Corp. . 
+Seattle , WA ) , from which estimates of the average velocity and tumble frequency were derived for each track . 
+Motility was scored as the distance in micrometers covered per bacterium per second of video recording , while tumbles were assessed as a deviation in angle of direction of greater than 45 from the preceding time segment . 
+For each strain , the motility represents the average of 20 bacteria per sample . 
+The validity of data was assessed using P values as calculated using Student 's t-test . 
+3. Results and discussion
+3.1 . 
+Bile repression of pagC is dependent upon a 97-bp region of the leader sequence 
+Two-dimensional ( 2-D ) gel electrophoresis was performed on whole cell extracts from S. enterica serovar Typhimurium grown in LB broth alone , 3 % bile or 15 % bile . 
+Previously , > 15 protein spots were shown to be altered by growth in the presence of bile [ 8 ] . 
+Proteins that exhibited a signiﬁcant , repeatable change , either increased or decreased levels , were excised from the gel , exposed to trypsin and analyzed by mass spectrometry . 
+Database searches were used to identify potential mat-ches . 
+Five protein spots were analyzed , resulting in matches to PagC , OmpD , and FljB ( which were all repressed by bile ) , and YciF and a hypothetical membrane protein STM4242 ( which were both activated by bile ) ( Fig. 1 ) . 
+Transcriptional analysis of ompD and STM4242 did not demonstrate bile regulation , suggesting an effect at the posttranscriptional level ( data not shown ) . 
+ompD , which is absent in the genome of S. enterica seovar Typhi , and STM4242 were not analyzed further in this study . 
+PagC is a PhoP/PhoQ-regulated outer membrane protein with no currently assigned function , although it is associated with virulence [ 28,29 ] . 
+It shows high homology to OmpX from Escherichia coli , Ail from Yer-sinia enterocolitica , and Lom from bacteriophage lambda [ 30 -- 35 ] . 
+Transcriptional activity of pagC was measured to examine if the decrease in protein level in the presence of bile was due to repression of transcription . 
+Transcriptional assays demonstrated a 2.5 - to 3-fold decrease in activity in the presence of bile ( Fig. 2 ) . 
+These results support the data from the 2-D gel electrophoresis and demonstrate that bile represses pagC transcription . 
+Because PhoP/PhoQ regulates more than 40 genes , additional PhoP/PhoQ-activated genes , including pmrD and pagD , were examined to determine if bile speciﬁcally regulated pagC , or if it has a general effect on PhoP/PhoQ-regulated genes . 
+The results establish that other PhoP/PhoQ-regulated genes were unaffected by the presence of bile ( as exempliﬁed by pagD and pmrD , Fig. 2 ) , suggesting that pagC is speciﬁcally affected by bile . 
+pagC has a 558-bp untranslated leader sequence between the promoter and the translational start site [ 36 ] . 
+It has been suggested that the leader sequence may be a pseudogene , or possibly required for RNA stability ( J.S. Gunn , unpublished results ) . 
+To determine if the leader sequence was required for bile-mediated repression , fragments including the promoter and 127 , 305 , 407 , 503 , or 673 bp of the leader sequence were cloned into a suicide ﬁreﬂy luciferase vector and recombined onto the chromosome ( Fig. 3 ) . 
+The vector containing 673-bp of sequence includes the full-length leader region and short segment of the pagC gene downstream of the translational start site and is representative of the natural promoter and untranslated leader regions ( Fig. 3 ) . 
+PhoP exerts its effect on this promoter near the 50 end of this 673-bp fragment upstream of the untranslated leader . 
+Examination of the strains containing the promoter fragments in the presence and absence of bile established that a region of 97-bp located at position ) 173 to ) 269 with respect to the translational start site was required for full-transcriptional activity ( Fig. 3 ) . 
+The data also suggest that bile does not necessarily repress pagC transcription , but prevents activation of transcription from occurring . 
+Perhaps bile salts prevent binding of a transcriptional activator by either binding to the activator itself or by binding to the DNA within the leader sequence to competitively inhibit binding of the regulator . 
+Interestingly , the same region upstream of the pagC translational start has been implicated in binding of the transcriptional regulatory protein SlyA ( J. Gunn and 
+700 
+Grown in LB 
+600 
+Grown in 3 % Bile 
+500 
+400 
+300 
+200 
+100 
+0 
+pagC : : lacZ pagD : : lacZ pmrD : : lacZ 
+Fig. 2 . 
+Effect of bile on the transcription of PhoP-activated genes . 
+b-Galactosidase activity of pagC , pagD , and pmrD was measured in the presence and absence of 3 % bile . 
+Results are an average of three separate experiments , and error bars represent standard deviations . 
+β-galactosidase Activity ( Units ) 
+Fig. 1 . 
+Examination by 2-D gel electrophoresis of S. enterica serovar Typhimurium proteins affected by bile . 
+( A ) Wild-type ( WT ) cells grown in LB broth alone . 
+( B ) Wild-type cells grown in LB broth with 15 % bile . 
+Proteins discussed in Section 3 are indicated ( STM4242 and OmpD not shown ) . 
+The arrowhead indicates the isoelectric focusing standard ( molecular mass , 33 kDa ; pI 5.2 ) . 
+Molecular mass standards ( in kDa ) are noted to the right of each panel . 
+Fig. 3 . 
+Gene arrangement of pagC including the divergently transcribed pagD . 
+The forward arrow indicates the start of transcription for pagC , and the reverse arrow indicates the start of transcription for pagD . 
+The +1 indicates the translation start site for pagC . 
+The promoter/leader sequence fragments ( pagC127 , pagC325 , pagC407 , pagC503 , and pagC673 ) were fused to a luciferase fusion and assayed for transcriptional activity in the presence or absence of bile . 
+Luciferase activity measured from the pagC673 promoter fragment , which represents the natural promoter and full , untranslated region , was compared to fragments containing the promoter and various lengths of the untranslated region . 
+The transcriptional assay was performed in the presence or absence of 3 % bile . 
+Results are an average of three separate experiments , and error bars represent standar deviations . 
+RLU , relative light units . 
+S. Libby , unpublished observation ) . 
+While the precise function of pagC is unknown , it does appear to affect virulence [ 28 ] . 
+A similar protein , Ail , is required for invasion and serum resistance [ 37 ] . 
+It is possible that the expression of pagC in the presence of bile is detrimental to Salmonella spp . 
+viability , possibly due to the involvement ( direct or peripheral ) of this protein in bile transport . 
+We are currently investigating this hypothesis . 
+3.2. Bile activates yciF independently of RpoS
+The abundance of a second protein from the 2-D gels was observed to increase in the presence of bile and this protein was identiﬁed as YciF ( Fig. 1 ) . 
+The gene encoding YciF is predicted to be the second gene in the yciGFE-katN operon [ 38 ] . 
+The functions of yciG and yciF are unknown [ 38,39 ] , but yciE encodes for an acid shock protein and katN encodes for a non-heme catalase [ 38 ] . 
+yciF was initially identiﬁed by a screen for RpoSregulated genes and a putative RpoS-dependent promoter has been located upstream of yciG [ 39 ] . 
+To determine if the change in protein levels of yciF was due to transcriptional activation of yciGFE-katN by bile , a transcriptional fusion to yciG was constructed . 
+The results demonstrate a 3-fold increase in transcriptional activity of yciG : : luc in the presence of 6 % bile ( Fig. 4 ) . 
+Interestingly , 3 % bile did not activate transcription of yciG , suggesting that this operon may play a role in adapting the cell to more stressful conditions ( data not shown ) . 
+Growth of the strain containing the yciG : : luc polar insertion was not affected in the presence of bile , demonstrating that yciGFE-katN op-eron was not necessary for bile resistance ( Fig. 4 , data not shown ) . 
+Because yciF was identiﬁed in a screen for RpoSregulated genes , we examined transcription of yciG : : luc with and without RpoS to determine if activation of yciGFE-katN by bile was dependent upon RpoS . 
+These data show that bile-mediated activation of yciG still occurred in the absence of RpoS ( Fig. 4 ) . 
+Also , contradictory to previous ﬁndings , we observed that transcriptional activity of yciG was not dependent upon RpoS , as luciferase activity of the yciG : : luc fusion was not decreased in a DrpoS background ( Fig. 4 ) . 
+The role for bile activation of yciGFE-katN is currently unclear . 
+However , the functions of yciE and katN , as well as the possible regulation of this operon under certain conditions by RpoS , suggest that this operon may play a role in stress response , possibly including repairs due to the effect of bile salts on the bacterium . 
+3.3 . 
+Microarray data corroborates previous ﬁndings that bile represses invasion 
+In Salmonella spp. , genes required for type III secretion ( TTS ) - mediated invasion of epithelial cells are located within pathogenicity island I [ 40,41 ] . 
+The genes form a hierarchy , which regulates the formation of the TTS apparatus and production of effector molecules required for induced uptake by epithelial cells [ 40 ] . 
+We previously reported that bile represses transcription of the genes within the invasion hierarchy , which led to a reduction in secreted effectors and consequently , decreased invasion of epithelial cells [ 6 ] . 
+In the current study , we used Salmonella DNA microarrays to identify changes in gene expression when S. enterica serovar Typhimurium was exposed to 3 % bile for 30 and 60 min . 
+The array data were ﬁrst analyzed by hierarchical clustering to identify genes that were either repressed or induced by bile . 
+These data showed 230 genes to be > 3-fold affected by bile . 
+Of these 230 genes , 101 were activated in the presence of bile while 129 were repressed . 
+The LACK PERL script [ 42 ] was then utilized to determine whether particular keywords were over-repre-sented in the list of induced or repressed genes . 
+LACK uses statistical analysis to compare the frequency of occurrence of a particular group of keywords ( input by the user ) within the list of induced or repressed genes , with the frequency of the same group of words within a list of randomly generated genes . 
+Based on analysis of the DNA microarray by LACK , gene descriptions containing the word `` invasion '' were over-represented in the group of bile-repressed genes , suggesting that a signiﬁcant proportion of invasion genes were repressed in the presence of bile ( data not shown ) . 
+This ﬁnding corroborated our previously published data demonstrating that bile represses the transcription of genes within the invasion pathway [ 6 ] 
+Luciferase Activity ( RLU ) 
+3000000 
+LB Alone 
+2500000 
+6 % Bile 
+2000000 
+1500000 
+1000000 
+500000 
+0 
+WT ∆ rpoS : : FRT yciG : : luc yciG : : luc 
+Fig. 4 . 
+Transcription of yciG : : luc is activated in the presence of bile independently of RpoS . 
+Luciferase activity from the promoter of yciGFE-katN was measured with or without 6 % bile and in the presence or absence of rpoS . 
+Results are an average of three separate experiments , and error bars represent standard deviations . 
+WT , wildtype . 
+RLU , relative light units . 
+3.4 . 
+Salmonellae show reduced expression of ﬂagellar biosynthesis genes and reduced motility in the presence of bile 
+Many bacteria exhibit motility by means of ﬂagella , which can also be used for attachment , such as in bio-ﬁlms [ 13,43 -- 46 ] . 
+Expression of genes involved in ﬂagellar biosynthesis is complex and regulation is organized into a tightly controlled hierarchy [ 43 ] . 
+Salmonella spp . 
+have over 50 genes involved in ﬂagellar synthesis organized into at least 15 operons in three hierarchical classes [ 43 ] . 
+Transcription of class II is dependent upon expression of class I and class III is dependent upon expression of class II [ 43 ] . 
+Our analysis of the 2-D gel electrophoretic patterns with and without bile showed a signiﬁcant bile-mediated decrease in the abundance of FljB ( Fig. 1 ) , one of two antigenically distinct ﬂagellins expressed by S. enterica serovar Typhimurium [ 47 ] . 
+From the microarray , genes involved in ﬂagellar biosynthesis ( search terms `` ﬂagella '' or `` motility '' ) were shown to be over-represented in the population of bile-repressed genes on the DNA microarray . 
+While ﬂiD ( 6.6-fold ) appeared as the most regulated ﬂagellar-related gene in the microarrays , regulation of the majority of ﬂagellar-related genes in the microarray ranged from 3.9-fold to our cutoff value of 2.0 . 
+These data supported the hypothesis that bile downregulates transcription of genes within the ﬂagellar hierarchy leading to a decrease in the amount of ﬂagella ( data not shown ) . 
+To directly examine ﬂagellar gene transcription , b-galactosidase assays with and without bile were performed with strains containing MudJ fusions to ﬂhC , ﬂgC , and ﬂiC , representative genes for class I , II , and III , respectively . 
+The results demonstrate a decrease in transcription in the range 26 -- 49 % for all three classes ( Fig. 5 ) . 
+These results suggest that bile downregulates ﬂagellar expression at a transcription le-vel . 
+The observed regulation , while moderate , may affect ﬂagellation and motility , as it has been shown in Esch-erichia coli that even a 2-fold repression in transcription of genes within the ﬂagellar hierarchy can produce non-ﬂagellated cells [ 48 ] . 
+It is also possible that post-tran-scriptional regulation , which was not examined , may account for some of the regulation of ﬂagellar protein expression . 
+To determine if the observed regulation by bile results in a decrease in motility , individual bacteria were tracked , and mean distance traveled , mean velocity , and tumble frequency were calculated for bacteria in LB broth alone or with bile . 
+The bacteria exhibited a signiﬁcant decrease in mean distance traveled and mean velocity in the presence of bile ( Table 1 ) . 
+An increase in tumbling frequency was observed but could not be considered statistically signiﬁcant . 
+These results corroborate regulation observed on 2-D gels and DNA microarrays , and demonstrate that salmonellae are less motile ( but not amotile ) in bile . 
+Bile has also been demonstrated to regulate motility in V. cholerae , but bile appears to increase motility of this organism [ 4 ] . 
+Since S. enterica serovar Typhimurium ﬂagellar mutants are competent for epithelial cell invasion and ﬂhD mutants are still fully virulent in mice [ 49 ] , bile-mediated repression of motility may be energetically favorable upon entrance into the intestines of a host . 
+In this study , two techniques , 2-D gel electrophoresis and DNA microarrays , were utilized to analyze the effect of bile on regulation in the whole cell without using mutagenesis , which could have unrelated effects on the bacteria . 
+In this report , we provide data that implicates bile as an important environmental signal for genetic regulation in the salmonellae . 
+Because many different pathways that do not appear to have any direct interactions with one another are similarly affected by bile , it is likely that bile is an environmental cue that indicates the presence of a host environment , and participates with other host-speciﬁc signals to trigger appropriate expression of genes required for pathogenesis . 
+4500 4000 
+Grown in LB Grown in Bile 
+3500 3000 
+2500 
+2000 1500 
+1000 
+500 0 
+flhC : : MudJ flgC : : MudJ fliC : : MudJ 
+Fig. 5 . 
+Effect of bile on transcriptional regulation of the ﬂagellar hierarchy . 
+b-Galactosidase activity from MudJ fusions to ﬂhC , ﬂgC , and ﬂiC ( representative genes of Class I , II , and III , respectively ) were measured in the presence or absence of 3 % bile . 
+Results are an average of three separate experiments , and error bars represent standard deviations . 
+β-galactosidase Activity ( Units ) 
+Table 1 
+Motility assay 
+Velocity ( lm/s ) means SD 
+Distance traveled ( lm/s ) means SD 
+Tumble frequency ( % ) means SD 
+4.8 11.1 7.5 13 . 
+34.2 3.8 29.8 4.4 
+WT-LB alone 11.4 1.3 WT-LB plus 3 % bile 9.9 1.5 * P 6 0:001 compared to WT in LB alone . 
+** P > 0:5 compared to WT in LB alone . 
+Acknowledgements
+We thank Kelly Hughes and Heather Boniﬁeld for providing strains for this study . 
+This work was supported by Grants T32-AI07271 ( A.M.P. ) and AI26195 ( S.F. ) from the National Institutes of Health , and Digestive Disease Center Grant DK56339 ( S.F. ) . 
+References 
+[ 1 ] Gunn , J.S. ( 2000 ) Mechanisms of bacterial resistance and response to bile . 
+Microbes Infect . 
+2 , 907 -- 913 . 
+[ 2 ] Nikaido , H. ( 1976 ) Outer membrane of Salmonella typhimurium . 
+Transmembrane diffusion of some hydrophobic substances . 
+Bio-chim . 
+Biophys . 
+Acta 433 , 118 -- 132 . 
+[ 3 ] Sukupolvi , S. and Vaara , M. ( 1989 ) Salmonella typhimurium and Escherichia coli mutants with increased outer membrane permeability to hydrophobic compounds . 
+Biochim . 
+Biophys . 
+Acta 988 , 377 -- 387 . 
+[ 4 ] Gupta , S. and Chowdhury , R. ( 1997 ) Bile affects production of virulence factors and motility of Vibrio cholerae . 
+Infect . 
+Immun . 
+65 , 1131 -- 1134 . 
+[ 5 ] Pope , L.M. , Reed , K.E. and Payne , S.M. ( 1995 ) Increased protein secretion and adherence to HeLa cells by Shigella spp . 
+following growth in the presence of bile salts . 
+Infect . 
+Immun . 
+63 , 3642 -- 3648 . 
+[ 6 ] Prouty , A.M. and Gunn , J.S. ( 2000 ) Salmonella enterica serovar Typhimurium invasion is repressed in the presence of bile . 
+Infect . 
+[ 7 ] Schuhmacher , D.A. and Klose , K.E. ( 1999 ) Environmental signals modulate ToxT-dependent virulence factor expression in Vibrio cholerae . 
+J. Bacteriol . 
+181 , 1508 -- 1514 . 
+[ 8 ] Van Velkinburgh , J.C. and Gunn , J.S. ( 1999 ) PhoP -- PhoQ-regulated loci are required for enhanced bile resistance in Salmonella spp . . 
+Infect . 
+Immun . 
+67 , 1614 -- 1622 . 
+[ 9 ] Halliday , C.E. , Inge , P.M. and Farthing , M.J. ( 1995 ) Characterization of bile salt uptake by Giardia lamblia . 
+Int . 
+J. Parasitol . 
+25 , 
+[ 10 ] Prouty , A.M. , Van Velkinburgh , J.C. and Gunn , J.S. ( 2002 ) Salmonella enterica serovar Typhimurium resistance to bile : identiﬁcation and characterization of the tolQRA cluster . 
+J. Bacteriol . 
+184 , 1270 -- 1276 . 
+[ 11 ] Dussurget , O. , Cabanes , D. , Dehoux , P. , Lecuit , M. , Buchrieser , C. , Glaser , P. and Cossart , P. ( 2002 ) Listeria monocytogenes bile salt hydrolase is a PrfA-regulated virulence factor involved in the intestinal and hepatic phases of listeriosis . 
+Mol . 
+Microbiol . 
+45 , 
+[ 12 ] Prouty , A.M. , Brodsky , I.E. , Falkow , S. and Gunn , J.S. ( 2004 ) Bile-salt-mediated induction of antimicrobial and bile resistance in Salmonella typhimurium . 
+Microbiology 150 , 775 -- 783 . 
+[ 13 ] Prouty , A.M. , Schwesinger , W.H. and Gunn , J.S. ( 2002 ) Bioﬁlm formation and interaction with the surfaces of gallstones by Salmonella spp . . 
+Infect . 
+Immun . 
+70 , 2640 -- 2649 . 
+[ 14 ] Dutta , U. , Garg , P.K. , Kumar , R. and Tandon , R.K. ( 2000 ) 
+[ 15 ] Lai , C.W. , Chan , R.C. , Cheng , A.F. , Sung , J.Y. and Leung , J.W. ( 1992 ) Common bile duct stones : a cause of chronic salmonellosis . 
+Am . 
+J. Gastroenterol . 
+87 , 1198 -- 1199 . 
+[ 16 ] Gunn , J.S. and Miller , S.I. ( 1996 ) PhoP -- PhoQ activates transcription of pmrAB , encoding a two-component regulatory system involved in Salmonella typhimurium antimicrobial peptide resistance . 
+J. Bacteriol . 
+178 , 6857 -- 6864 . 
+[ 17 ] Gunn , J.S. , Hohmann , E.L. and Miller , S.I. ( 1996 ) Transcriptional regulation of Salmonella virulence : a PhoQ periplasmic 
+domain mutation results in increased net phosphotransfer to PhoP . 
+J. Bacteriol . 
+178 , 6369 -- 6373 . 
+[ 18 ] Simons , R.W. , Houman , F. and Kleckner , N. ( 1987 ) Improved single and multicopy lac-based cloning vectors for protein and operon fusions . 
+Gene 53 , 85 -- 96 . 
+[ 19 ] Elliott , T. ( 1992 ) A method for constructing single-copy lac fusions in Salmonella typhimurium and its application to the hemA-prfA operon . 
+J. Bacteriol . 
+174 , 245 -- 253 . 
+[ 20 ] Datsenko , K.A. and Wanner , B.L. ( 2000 ) One-step inactivation of 
+chromosomal genes in Escherichia coli K-12 using PCR products . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 97 , 6640 -- 6645 . 
+[ 21 ] O'Farrell , P.H. ( 1975 ) High resolution two-dimensional electro-phoresis of proteins . 
+J. Biol . 
+Chem . 
+250 , 4007 -- 4021 . 
+[ 22 ] Henzel , W.J. , Billeci , T.M. , Stults , J.T. , Wong , S.C. , Grimley , C. and Watanabe , C. ( 1993 ) Identifying proteins from two-dimen-sional gels by molecular mass searching of peptide fragments in protein sequence databases . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 90 , 5011 -- 5015 . 
+[ 23 ] Mann , M. , Hojrup , P. and Roepstorff , P. ( 1993 ) Use of mass spectrometric molecular weight information to identify proteins in sequence databases . 
+Biol . 
+Mass Spectrom . 
+22 , 338 -- 345 . 
+[ 24 ] Eisen , M.B. and Brown , P.O. ( 1999 ) DNA arrays for analysis of gene expression . 
+Methods Enzymol . 
+303 , 179 -- 205 . 
+[ 25 ] Chan , K. , Baker , S. , Kim , C.C. , Detweiler , C.S. , Dougan , G. and Falkow , S. ( 2003 ) Genomic comparison of Salmonella enterica serovars and Salmonella bongori by use of an S. enterica serovar Typhimurium DNA microarray . 
+J. Bacteriol . 
+185 , 553 -- 563 . 
+[ 26 ] Tusher , V.G. , Tibshirani , R. and Chu , G. ( 2001 ) Signiﬁcance analysis of microarrays applied to the ionizing radiation response . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 98 , 5116 -- 5121 . 
+[ 27 ] Sperandio , V. , Torres , A.G. , Giron , J.A. and Kaper , J.B. ( 2001 ) Quorum sensing is a global regulatory mechanism in enterohemorrhagic Escherichia coli O157 : H7 . 
+J. Bacteriol . 
+183 , 5187 -- 5197 . 
+[ 28 ] Miller , V.L. , Beer , K.B. , Loomis , W.P. , Olson , J.A. and Miller , S.I. ( 1992 ) An unusual pagC : : TnphoA mutation leads to an 
+invasion - and virulence-defective phenotype in Salmonellae . 
+Infect . 
+Immun . 
+60 , 3763 -- 3770 . 
+[ 29 ] Gunn , J.S. , Alpuche-Aranda , C.M. , Loomis , W.P. , Belden , W.J. and Miller , S.I. ( 1995 ) Characterization of the Salmonella typhimurium pagC/pagD chromosomal region . 
+J. Bacteriol . 
+177 , 5040 -- 5047 . 
+[ 30 ] Court , D. , Huang , T.F. and Oppenheim , A.B. ( 1983 ) Deletion analysis of the retroregulatory site for the lambda int gene . 
+J. Mol . 
+Biol . 
+166 , 233 -- 240 . 
+[ 31 ] de Kort , G. , Bolton , A. , Martin , G. , Stephen , J. and van de Klundert , J.A. ( 1994 ) Invasion of rabbit ileal tissue by Entero-bacter cloacae varies with the concentration of OmpX in the outer membrane . 
+Infect . 
+Immun . 
+62 , 4722 -- 4726 . 
+[ 32 ] Miller , V.L. and Falkow , S. ( 1988 ) Evidence for two genetic loci in Yersinia enterocolitica that can promote invasion of epithelial cells . 
+Infect . 
+Immun . 
+56 , 1242 -- 1248 . 
+[ 33 ] Miller , V.L. , Farmer 3rd , J.J. , Hill , W.E. and Falkow , S. ( 1989 ) The ail locus is found uniquely in Yersinia enterocolitica serotypes 
+commonly associated with disease . 
+Infect . 
+Immun . 
+57 , 121 -- 131 . 
+[ 34 ] Miller , V.L. , Bliska , J.B. and Falkow , S. ( 1990 ) Nucleotide sequence of the Yersinia enterocolitica ail gene and characterization of the Ail protein product . 
+J. Bacteriol . 
+172 , 1062 -- 1069 
+[ 35 ] Vogt , J. and Schulz , G.E. ( 1999 ) The structure of the outer membrane protein OmpX from Escherichia coli reveals possible mechanisms of virulence . 
+Struct . 
+Fold Des . 
+7 , 1301 -- 1309 . 
+[ 36 ] Pulkkinen , W.S. and Miller , S.I. ( 1991 ) A Salmonella typhimurium virulence protein is similar to a Yersinia enterocolitica invasion protein and a bacteriophage lambda outer membrane protein . 
+J. Bacteriol . 
+173 , 86 -- 93 . 
+[ 37 ] Miller , V.L. , Beer , K.B. , Heusipp , G. , Young , B.M. and Wachtel , M.R. ( 2001 ) Identiﬁcation of regions of Ail required for the 
+invasion and serum resistance phenotypes . 
+Mol . 
+Microbiol . 
+41 , 1053 -- 1062 . 
+[ 38 ] Robbe-Saule , V. , Coynault , C. , Ibanez-Ruiz , M. , Hermant , D. and Norel , F. ( 2001 ) Identiﬁcation of a non-haem catalase in Salmonella and its regulation by RpoS ( sigmaS ) . 
+Mol . 
+Microbiol . 
+39 , 1533 -- 1545 . 
+[ 39 ] Ibanez-Ruiz , M. , Robbe-Saule , V. , Hermant , D. , Labrude , S. and Norel , F. ( 2000 ) Identiﬁcation of RpoS ( sigma ( S ) ) - regulated genes in Salmonella enterica serovar Typhimurium . 
+J. Bacteriol . 
+182 , 
+[ 40 ] Hueck , C.J. ( 1998 ) Type III protein secretion systems in bacterial pathogens of animals and plants . 
+Microbiol . 
+Mol . 
+Biol . 
+Rev. 62 , 379 -- 433 . 
+[ 41 ] Lee , C.A. , Jones , B.D. and Falkow , S. ( 1992 ) Identiﬁcation of a Salmonella typhimurium invasion locus by selection for hyperinvasive mutants . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 89 , 1847 -- 1851 . 
+[ 42 ] Kim , C.C. and Falkow , S. ( 2003 ) Signiﬁcance analysis of lexical bias in microarray data . 
+BMC Bioinform . 
+4 , 12 . 
+[ 43 ] Chilcott , G.S. and Hughes , K.T. ( 2000 ) Coupling of ﬂagellar gene expression to ﬂagellar assembly in Salmonella enterica serovar Typhimurium and Escherichia coli . 
+Microbiol . 
+Mol . 
+Biol . 
+Rev. 64 , 694 -- 708 . 
+[ 44 ] Davey , M.E. and O'Toole , G.A. ( 2000 ) Microbial bioﬁlms : from ecology to molecular genetics . 
+Microbiol . 
+Mol . 
+Biol . 
+Rev. 64 , 847 -- 867 . 
+[ 45 ] Josenhans , C. and Suerbaum , S. ( 2002 ) The role of motility as a virulence factor in bacteria . 
+Int . 
+J. Med . 
+Microbiol . 
+291 , 605 -- 
+[ 46 ] Watnick , P.I. , Lauriano , C.M. , Klose , K.E. , Croal , L. and Kolter , R. ( 2001 ) The absence of a ﬂagellum leads to altered colony morphology , bioﬁlm development and virulence in Vibrio cholerae O139 . 
+Mol . 
+Microbiol . 
+39 , 223 -- 235 . 
+[ 47 ] Ikeda , J.S. et al. ( 2001 ) Flagellar phase variation of Salmonella enterica serovar Typhimurium contributes to virulence in the murine typhoid infection model but does not inﬂuence Salmo-nella-induced enteropathogenesis . 
+Infect . 
+Immun . 
+69 , 3021 -- 
+[ 48 ] Han , Y.W. , Uhl , M.A. , Han , S.J. and Shi , W. ( 1999 ) Expression of bvgAS of Bordetella pertussis represses ﬂagellar biosynthesis of Escherichia coli . 
+Arch . 
+Microbiol . 
+171 , 127 -- 130 . 
+[ 49 ] Schmitt , C.K. et al. ( 2001 ) Absence of all components of the ﬂagellar export and synthesis machinery differentially alters virulence of Salmonella enterica serovar Typhimurium in models of typhoid fever , survival in macrophages , tissue culture invasiveness , and calf enterocolitis . 
+Infect . 
+Immun . 
+69 , 5619 -- 5625

@@ -1,0 +1,949 @@
+INFECTION AND IMMUNITY , June 2010 , p. 2529 -- 2543 0019-9567 / 10 / $ 12.00 doi :10.1128 / IAI.00005-10 
+Copyright © 2010 , American Society for Microbiology . 
+All Rights Reserved . 
+Fine-Tuning Synthesis of Yersinia pestis LcrV from Runaway-Like Replication Balanced-Lethal Plasmid in a Salmonella enterica Serovar Typhimurium Vaccine Induces Protection against a Lethal Y. pestis Challenge in Mice
+Ascención Torres-Escobar ,1 ‡ María Dolores Juárez - Rodríguez ,1 ‡ Bronwyn M. Gunn ,1 † Christine G. Branger ,1 Steven A. Tinge ,2 § and Roy Curtiss III1 * 
+Center for Infectious Diseases and Vaccinology at Biodesign Institute and School of Life Sciences , Arizona State University , Tempe , Arizona 85287-5401 ,1 and MEGAN Health , Inc. , St. Louis , Missouri 631102 
+Received 5 January 2010/Returned for modiﬁcation 8 February 2010/Accepted 3 March 2010 
+A balanced-lethal plasmid expression system that switches from low-copy-number to runaway-like high-copy-number replication ( pYA4534 ) was constructed for the regulated delayed in vivo synthesis of heterologous antigens by vaccine strains . 
+This is an antibiotic resistance-free maintenance system containing the asdA gene ( essential for peptidoglycan synthesis ) as a selectable marker to complement the lethal chromosomal asdA allele in live recombinant attenuated Salmonella vaccines ( RASVs ) such as Salmonella enterica serovar Typhi-murium strain 9447 . 
+pYA4534 harbors two origins of replication , pSC101 and pUC ( low and high copy numbers , respectively ) . 
+The pUC replication origin is controlled by a genetic switch formed by the operator / promoter of the P22 cro gene ( O/Pcro ) ( PR ) , which is negatively regulated by an arabinose-inducible P22 c2 gene located on both the plasmid and the chromosome ( araC PBAD c2 ) . 
+The absence of arabinose , which is unavailable in vivo , triggers replication to a high-copy-number plasmid state . 
+To validate these vector attributes , the Yersinia pestis virulence antigen LcrV was used to develop a vaccine against plague . 
+An lcrV sequence encoding amino acids 131 to 326 ( LcrV196 ) was optimized for expression in Salmonella , ﬂanked with nucleotide sequences encoding the signal peptide ( SS ) and the carboxy-terminal domain ( CT ) of - lactamase , and cloned into pYA4534 under the control of the Ptrc promoter to generate plasmid pYA4535 . 
+Our results indicate that the live Salmonella vaccine strain 9447 harboring pYA4535 efﬁciently stimulated a mixed Th1/Th2 immune response that protected mice against lethal challenge with Y. pestis strain CO92 introduced through either the intranasal or subcutaneous route . 
+Live , attenuated bacteria have been developed to generate safe and immunogenic vaccine strains ( 50 ) . 
+Attenuated Salmo-nella enterica has been used as both a homologous vaccine and a delivery system for recombinant heterologous antigens from bacterial , parasitic , viral , and tumor sources ( 8 , 40 ) . 
+The oral administration of Salmonella allows the infection of Peyer 's patches via the M cells and colonization of the mesenteric lymph nodes , liver , and spleen , generating a range of humoral and cellular immune responses against Salmonella and the heterologous antigens ( 8 ) at local and distal sites such as the mucosa . 
+Because most systems for the expression of heterologous antigenic proteins in Salmonella use plasmids , several approaches have been developed for the antibiotic-free maintenance of plasmid vectors ( 29 , 48 ) . 
+However , a number of factors may affect the immune response to protective antigens , such as the ability of the vaccine strain to invade and colonize 
+* Corresponding author . 
+Mailing address : Biodesign Institute , Center for Infectious Diseases and Vaccinology , Arizona State University , P.O. Box 875401 , 1001 S. McAllister Avenue , Tempe , AZ 85287-5401 . 
+Phone : (480) 727-0445 . 
+Fax : (480) 727-0466 . 
+E-mail : rcurtiss@asu.edu . 
+† Present address : Department of Microbiology and Immunology , School of Medicine , University of North Carolina , Chapel Hill , NC 27599 . 
+§ Present address : Research Compliance , Saint Louis University , St. Louis , MO 63104 . 
+‡ A.T.-E . 
+and M.D.J.-R . 
+contributed equally to this work . 
+Published ahead of print on 22 March 2010 . 
+the host and the stability of the plasmid expression system . 
+High levels of bacterial protein synthesis speciﬁed by multiplecopy plasmids often result in either the rapid loss of the foreign plasmid or a reduction in bacterial growth and the ability to colonize lymphoid tissues due to the demand of the extrameta-bolic burden . 
+Both of these factors result in a reduction of immunogenicity . 
+The insertion of genes into the bacterial chromosome by homologous recombination can achieve a high degree of stability , but this approach sometimes limits the level of protein synthesis due to the single gene copy and , thus , may lessen the production of a protective immune response with the live vaccine ( 29 ) . 
+To overcome some of these problems , we have constructed a balanced-lethal vaccine vector with its copy number regulated by arabinose ( pYA4534 ) that switches to runaway-like high-copy-number replication regulating the delivery and dos-age of heterologous antigens . 
+In previous work , the switch from a low to a high copy number of the plasmid was mediated by a temperature change from 30 °C to higher than 35 °C and is called uncontrolled replication or runaway replication of the plasmid in Escherichia coli ( 62 ) . 
+Yersinia pestis is a Gram-negative bacterium that causes plague in humans and is transmitted from rodents to humans by ﬂeas ( 26 , 51 ) . 
+Y. pestis infections present three different clinical forms : bubonic , pneumonic , or septicemic ( 59 ) . 
+Wide-spread aerosol dissemination of the bacterium combined with high mortality rates make Y. pestis a deadly pathogen ( 31 ) . 
+LcrV is a multifunctional protein that forms part of a type III secretion system ( T3SS ) encoded on Y. pestis 70-kb virulence plasmid pCD1 ( 16 , 52 ) . 
+LcrV along with LcrG helps regulate the expression of Yersinia outer proteins ( YOPs ) that are injected into the cytosol of the host cell , where they interfere with the cellular signaling involved in phagocytosis and inhibit proinﬂammatory cytokine production ( 28 , 43 , 47 ) . 
+Experimental evidence indicates that antibody responses to LcrV offer protection against plague . 
+Thus , the passive transfer of LcrV monoclonal antibodies ( MAbs ) or polyclonal-speciﬁc serum to LcrV protects animals against bubonic and pneumonic plague ( 25 , 46 ) . 
+Antibodies against LcrV apparently block the trans-location of effector YOPs , allowing the phagocytosis of Y. pestis bacilli by macrophages , but the exact mechanism of this protection remains to be determined ( 19 ) . 
+In addition to the direct role of LcrV in the formation of the T3SS needle , LcrV has an immunomodulatory function mediated by interleukin-10 ( IL-10 ) induction , which blocks the host protective inﬂammatory responses and suppresses the proin-ﬂammatory cytokines ( 7 ) . 
+Partial deletions of LcrV and the use of synthetic peptides allowed the identiﬁcation of two LcrV regions involved in the production of IL-10 , which are located from amino acid residues 37 to 57 and from amino acid resi-dues 271 to 285 ( 34 , 49 ) . 
+The induction of IL-10 by LcrV is through the interaction of Toll-like receptor 2 ( TLR-2 ) as well as TLR-6 and cluster of differentiation 14 ( CD14 ) ( 1 , 15 , 58 ) . 
+Immunization with full-length LcrV elicited protective immunity ( 41 ) , but truncated LcrV forms were also able to elicit an immune response that was protective against a lethal challenge with Y. pestis . 
+These variants included rV10 ( lacking amino acid residues 271 to 300 ) ( 49 ) , the major protective LcrV region ( amino acid residues 135 to 275 ) ( 25 ) , LcrV196 ( amino acid residues 131 to 326 ) ( 5 ) , and a small fragment of LcrV ( amino acids 135 to 262 ) ( 64 ) . 
+In this work , we describe the construction of pYA4534 , a balanced-lethal plasmid expression system containing an arabi-nose-regulated genetic switch to shift to runaway-like high-copy-number replication in vivo for the regulated delayed dosage of heterologous antigens . 
+The derivative pYA4535 , encoding the T2SS - lactamase N - and C-terminal domains for the export of the lcrV196-encoded fused antigen , was used to transform S. enterica serovar Typhimurium strain 9447 , a new generation of live recombinant attenuated Salmonella vaccines ( RASVs ) that is phenotypically similar to the wild type at the time of oral vaccination but displays a regulated delayed in vivo attenuation ( 14 ) , a regulated delayed in vivo synthesis of recombinant antigen ( 66 ) , and regulated delayed in vivo lysis to release a bolus of protective antigen and confers complete biological containment ( 35 ) after host tissue colonization . 
+These RASV strains are able to colonize and persist in the lymphoid tissue without causing disease symptoms , giving an advantageous alternative when carrying heterologous antigens that induce higher protective mucosal and systemic immunity responses . 
+The immune responses of mice immunized orally with this live RASV strain synthesizing an optimized LcrV protein were evaluated for protection against a lethal challenge with virulent Y. pestis CO92 ( 4 ) . 
+Thus , we offer an alternative for the development of vaccines against clinical forms of plague . 
+252 
+MATERIALS AND METHODS
+Bacterial strains , plasmids , and media . 
+The bacterial strains and plasmids used in this study are listed in Table 1 . 
+LB broth ( 2 ) supplemented with 0.2 % mannose and 0.02 % arabinose was used to grow the bacterial strains for colonization and immunization assays . 
+LB broth and LB agar ( 1.5 % agar ) or MacConkey agar ( Difco ) was used for the propagation and plating of bacteria . 
+LB broth , nutrient broth ( NB ) ( Difco ) devoid of arabinose and mannose , and minimal salts medium ( 9 ) were used to standardize the minimal concentration of arabinose to monitor the switch between the low - and high-copy-number replication of the plasmid . 
+L-broth ( 0.5 % Bacto tryptone , 0.25 % NaCl , and 0.25 % yeast extract ) , L-agar ( 1.5 % agar ) , and Lennox agar ( 38 ) were used during RASV strain construction . 
+When required , the medium was supplemented with 0.2 % mannose and arabinose ( from 0.2 % to 0.00002 % ) ; for growth of noncomplemented asdA strains and plasmid stability tests , 50 g/ml diaminopimelic acid ( DAP ) was added to the growth medium ( 48 ) . 
+DNA procedures . 
+DNA manipulations were carried out as described previously ( 53 ) . 
+The transformation of E. coli and S. Typhimurium was done by electroporation ( Bio-Rad ) . 
+Transformants containing Asd plasmids were selected on LB agar plates without DAP . 
+Plasmid DNA was isolated by using the QIAprep Spin miniprep kit ( Qiagen ) . 
+Restriction enzymes were used as recommended by the manufacturer ( New England Biolabs ) . 
+All primers used in this study ( Integrated DNA Technology ) were ﬂanked with restriction enzyme rec-ognition sites and are shown in Table 2 . 
+All constructs were veriﬁed by DNA sequencing ( Arizona State University Facilities ) . 
+Construction of pYA4534 , a balanced-lethal plasmid expression system with conditional runaway-like replication for regulated , delayed , increased dosage of antigen delivery . 
+The construction of pYA4534 was performed in several steps that involved the construction of precursor plasmids pYA3972 , pYA3971 , and pYA3789 , described below . 
+The c2 gene from bacteriophage P22 was PCR ampliﬁed from pYA3857 ( S. Wang and R. Curtiss III , unpublished results ) using primer set c2 f NcoI and c2 r StuI KpnI NcoI . 
+The 613-bp PCR product was digested with NcoI and cloned into NcoI-digested pBAD-HA ( Invitrogen ) to create pYA3972 . 
+Plasmid pYA3971 was assembled as follows . 
+An ApaI site was introduced downstream of the araC gene in the pBAD-HA vector by sitedirected mutagenesis using primer set f ApaI araC PBAD and r ApaI araC PBAD . 
+The resulting plasmid was digested with NcoI and subcloned downstream of the araC P activator-promoter regulatory system with the 613-bp NcoI fragment BAD released from pYA3972 containing the c2 gene . 
+The resulting plasmid was digested with StuI-KpnI and was cloned downstream of the c2 gene , a 2,415-bp StuI-KpnI fragment containing SD-gtg-murA SD-gtg-asdA ( murA and asdA genes harboring modiﬁcations in the Shine-Dalgarno [ SD ] ribosome binding site and a GTG start codon ) , which was PCR ampliﬁed from pYA3650 ( 12 ) with primer set murA asd-f StuI and murA asd r SalI KpnI and digested with the same enzymes . 
+Subsequently , the resulting plasmid was digested with SphI and cloned with a 619-bp SphI fragment containing the nucleotide sequence specifying the promoterless RNA II transcript ( pUC plasmid replication origin ) ( 67 ) , which was PCR ampliﬁed from pUC18 by using primer set pUC STS G f SphI and pUC STS G r KpnI SphI and digested with SphI . 
+The resulting plasmid was digested with KpnI-ApaI , cloned with a 1,344-bp KpnI-ApaI fragment containing the pSC101 replication origin that was PCR ampliﬁed from pYA3337 ( 11 ) by using primer set pSC101-up-f-KpnI and pSC101-r-ApaI , and digested with the same enzymes . 
+The resulting plasmid was digested with SalI-SphI and cloned upstream of the nucleotide sequence specifying the RNA II transcript , a synthetic DNA containing the operator-promoter of the c2 gene ( O/Pc2 ) ( promoter for repressor maintenance [ PRM ] ) from bacteriophage P22 ( 63 ) , formed by annealing two complementary single-stranded 80-bp oligonucleotides , regulatory f c2 SalI and regulatory r c2 SphI , ﬂanked with sticky SalI and SphI ends , respectively , to generate pYA3971 . 
+This plasmid was digested with SalI and SphI to replace the O/Pc2 sequences with the operator-promoter of the cro gene O/Pcro ( promoter right [ PR ] ) from bacteriophage P22 ( 63 ) and contained a synthetic DNA formed by annealing two complementary single-stranded 88-bp oligonucleotides , f operator cro SalI and r operator cro SphI , ﬂanked with sticky SalI and SphI ends , respectively . 
+The resulting plasmid was digested with KpnI and cloned with a 97-bp KpnI fragment obtained by annealing two complementary single-stranded 97-bp oligonucleotides , f Ptrc-KpnI and r Ptrc-KpnI , ﬂanked with sticky KpnI ends containing the synthetic trc promoter ( Ptrc ) and NcoI , NheI , and SmaI restriction sites , to generate pYA3789 . 
+A 3,096-bp DNA fragment containing an SD sequence and the structural lacZ gene was PCR ampliﬁed from pBAD-HA-lacZ ( Invitrogen ) by using primer set f pBAD lacZ 387 and r pBAD lacZ 3505 . 
+The PCR product was digested with SalI and cloned into SalI-digested pYA3789 to form pYA4534 
+Source or reference 
+Derived , relevant genotypea or characteristic ( s ) b 
+Strain or plasmid 
+Strains 
+Escherichia coli 6212 7213 
+33 
+asdA4 
+14 
+thi-1 thr-1 leuB6 fhuA21 lacY1 glnV44 asdA4 ( zhf-2 : : Tn10 ) recA1 RP4 2-Tc : : Mu pir Kmr 
+Salmonella enterica serovar Typhimurium 9373 
+pmi-2426 ( gmd-fcl ) -26 Pfur81 : : TT araC PBAD fur Pcrp527 : : TT araC PBAD crp asd21 : : TT araC PBAD c2 araE25 araBAD23 relA198 : : araC PBAD lacI TT pmi-2426 ( gmd-fcl ) -26 Pfur81 : : TT araC PBAD fur Pcrp527 : : TT araC PBAD crp asd21 : : TT araC PBAD c2 araE25 araBAD23 relA198 : : araC PBAD lacI TT PmurA7 : : TT araC PBAD murA endA2311 
+24 
+9447 
+This study 
+Biovar Orientalis 
+Y. pestis CO92 
+4 
+Plasmids pRE112 sacB mobRP4 R6K ori Cmr 
+18 17 
+pMEG-375 sacRB mobRP4 R6K ori Cmr Ampr pYA3845 pMEG-375 ; araE25 pYA3599 pMEG-375 ; araBAD23 pYA3832 pRE112 ; Pcrp527 : : TT araC PBAD crp pYA4181 pRE112 ; Pfur81 : : TT araC PBAD fur pYA4177 pRE112 ; asd21 : : TT araC PBAD c2 pYA4064 pRE112 ; relA198 : : araC PBAD lacI TT pYA3652 pMEG-375 ; endA2311 pMEG-902 PmurA7 : : TT araC PBAD murA pYA3337 asdA pSC101 ori ; vaccine vector pUC18 Ampr ; cloning vector pBAD-HA-lacZ Ampr ; expression vector pYA3841 pYA3342 ; bla SS-lcrV196-bla CT pYA3857 Ampr pBAD c2 pYA3650 PBAD gtg-murA gtg-asdA pYA3971 Ptrc pSC101 ori araC PBADc2 gtg-murA gtg-asdA P/Oc2 ( PRM ) pUC ori pYA3789 pYA3971 ; P/Ocro ( PR ) pUC ori ; double-cloning site NheI-SmaI pYA3728 pYA3789 ; blaSS-lcrV196-blaCT pYA4534 pYA3789 ; SD lacZ promoterless pYA4535 pYA4534 ; blaSS-lcrV196-blaCT a In the descriptions of the genotypes , TT is transcription terminator , P stands for promoter , and the subscripted number refers to of the indicated gene . 
+b Ampr , ampicillin resistance ; Cmr , chloramphenicol resistance . 
+14 14 14 14 24 24 35 35 11 67 Invitrogen 4 Laboratory stock 12 This study This study This study This study This study 
+a composite deletion and insertion 
+Construction of plasmids pYA3728 and pYA4535 carrying Y. pestis lcrV . 
+A 796-bp DNA fragment was PCR ampliﬁed from pYA3841 ( 4 ) by using primer set f Vag and r Vag , and this contained the nucleotide sequence of optimized Y. pestis lcrV196 , encoding amino acid residues 131 to 326 of LcrV , ﬂanked at its amino terminus with the 24 amino acid residues of the - lactamase sec-depen-dent signal peptide ( 32 ) , followed by 12 amino acid residues of the mature - lactamase protein ( 60 ) , and ﬂanked at its carboxy terminus with the last 21 amino acid residues of the - lactamase carboxy-terminal region ( blaSS-lcrV196-blaCT , referred to as lcrV196 in this work ) . 
+Both - lactamase regions are required for the efﬁcient secretion of the recombinant protein ( 5 , 36 ) ( Fig. 1A ) . 
+The PCR product was digested with NheI and was cloned into NheI-digested pYA3789 under the control of Ptrc to create pYA3728 . 
+A 796-bp DNA fragment containing the blaSS-lcrV196-blaCT sequence from pYA3728 was released with NheI and subcloned into pYA4534 digested with the same enzyme to yield pYA4535 ( Fig. 1B ) . 
+The cloned blaSS-lcrV196-blaCT gene of 771 bp encodes a 257-amino-acid polypeptide ( LcrV196 ) with an estimated pI of 5.9 and a molecular mass of 29 kDa . 
+RASV 9447 strain construction and characterization . 
+PCR products were ampliﬁed with primers designed to modify the promoter ( P ) , SD , and start codon sequences and were cloned into a suicide vector ( Table 1 ) . 
+Parental S. Typhi-murium strains were mated with the E. coli host strain 7213 harboring the relevant suicide vector on L-agar plates containing 50 g/ml DAP . 
+Transconjugants were selected by growth on L-agar plates containing antibiotics without DAP . 
+Conjugations with asdA mutant strains were plated onto antibioticcontaining medium with DAP and colicin B to inhibit E. coli growth . 
+Deﬁned deletion mutations with and without insertions were conﬁrmed by PCR and phenotypic veriﬁcation . 
+The introduction of the deﬁned deletion mutations with or without speciﬁc insertions into other Salmonella strains was mediated by P22HTint transduction of suicide vectors integrated into the deletion or deletioninsertion mutations on the chromosome of the Salmonella donor strains ( 33 ) . 
+Transductants were selected by growth on Lennox agar plates containing either 25 g/ml chloramphenicol or 12.5 g/ml tetracycline . 
+The transductants were resuspended in sterile buffered saline with 0.01 % gelatin ( BSG ) ( 9 ) and streaked onto L-agar plates containing antibiotics to obtain isolated colonies . 
+Isolated colonies were inoculated into L-broth and grown to 0.8 optical density at 600 nm ( OD600 ) units and plated onto L-agar plates containing 5 % sucrose without NaCl or dextrose to select for double-crossover recombinants . 
+Double-crossover recombinants were screened for antibiotic sensitivity , antibiotic-sensitive recombinants were selected , and deletion or deletion-insertion mutations were conﬁrmed by PCR and phenotypic veriﬁcation . 
+Maps of each deletion-insertion mutation present in 9373 and its derivative 9447 were described previously for pmi-2426 , ( gmd-fcl ) -26 , and relA198 : : araC PBADlacI TT ( 39 ) ; Pfur81 : : TT araC PBAD fur , Pcrp527 : : TT araC PBAD crp , araE25 , and araBAD23 ( 14 ) ; PmurA7 : : TT araC PBAD murA and endA2311 ( 35 ) ; and asd21 : : TT araC PBAD c2 ( 24 ) . 
+Evans blue uridine agar plates were used to conﬁrm that transductants were phage free and not P22 lysogens ( 3 ) . 
+MacConkey agar plates supplemented with 1 % maltose were used to conﬁrm the phenotype of the cyclic AMP receptor protein gene ( crp ) mutants ( 10 ) . 
+Chrome Azurol S plates were used to conﬁr the constitutive synthesis of siderophores characteristic of fur mutants ( 55 ) . 
+The presence of the asd21 mutation was conﬁrmed by the inability of the strain to grow on medium without DAP . 
+Lipopolysaccharide ( LPS ) proﬁles of Salmonella strains were examined with silver-stained polyacrylamide gels as described previously ( 27 ) . 
+Determination of arabinose concentration required to maintain the low-copy-number plasmid state . 
+A single colony of 9447 ( pYA4534 ) was inoculated into 1 ml of 1 minimal salts medium ( 9 ) supplemented with 0.2 % ( vol/vol ) glycerol , 0.2 % glucose , and 2 % Casamino Acids . 
+The next day , the culture grown over-night was diluted at a 1:50 ratio to inoculate 3 ml of minimal medium without glucose and supplemented with arabinose from 0.00002 % to 0.2 % in independent tubes and grown at 37 °C until the cultures reached an OD600 of 0.8 . 
+Determination of plasmid stability . 
+The plasmid stability of strain 9447 ( pYA4534 ) or 9447 ( pYA4535 ) was determined with LB broth with 0.02 % arabinose and 0.2 % mannose under selective and nonselective conditions ( presence of DAP ) ( 48 ) . 
+A culture from each vaccine strain grown overnight was diluted 1:1,000 into prewarmed LB broth supplemented as described above and grown standing for 24 h at 37 °C . 
+The next day , the culture of each vaccine strain was diluted and grown as indicated above , and this process was repeated for ﬁve consecutive days ( approximately 50 generations ) . 
+The proportions of cells retaining the Asd plasmids were determined for each culture , and the cultured cells from each day were diluted , spread onto LB agar plates ( 0.2 % arabinose , 0.2 % mannose , and 50 g/ml X-gal [ 5-bromo-4-chloro-3-indolyl - - D-galactopy-ranoside ] ) with 50 g/ml DAP , and grown overnight . 
+Afterwards , 100 colonies from each culture for each day were picked and patched onto LB agar plates ( 0.2 % mannose , 0.2 % arabinose , and 50 g/ml X-gal ) with or without 50 g/ml DAP . 
+The next day , the percentage of clones retaining the plasmids from each culture was determined by counting the colonies grown on these LB agar plates with and without DAP . 
+At the same time , 10 clones from each day 's plating were chosen and grown in LB broth ( 0.2 % mannose ) for plasmid extraction and restriction pattern analysis . 
+Afterwards , one clone from each culture was chosen and grown in LB broth ( 0.2 % mannose , from 0.00002 % to 0.2 % arabinose , and without arabinose ) until the cultures reached an OD600 of 0.8 for agarose gel analysis to evaluate the amount of supercoiled plasmid DNA and for sodium dodecyl sulfate-polyacrylamide gel electrophoresis ( SDS-PAGE ) and immuno-blot analysis to conﬁrm the synthesis of the correct size and the amount of LcrV196 by each clone 
+a composite deletion and insertion 
+TABLE 2 . 
+Oligonucleotides used in this work Sequence ( 5 33 ) a 
+Related product and oligonucleotide 
+pSC101 origin 
+pSC101 up f KpnI ... GAGACAAAAGGAATATTCAGGTACCTGCCCGAGCTTGCGAGGGTG pSC101 r ApaI ... CTGATAGATACAAGAGCCATAGGGCCCTCAGATCCTTCCGTATTTAGC 
+Insertion of ApaI site in pBAD/HA 
+f ApaI araCPBAD ... CCGTCAAGCCGTCAATTGTCTGATTCGGGCCCAATTATGACAACTTGACGGC r ApaI araCPBAD ... GCCGTCAAGTTGTCATAATTGGGCCCGAATCAGACAATTGACGGCTTGACGG 
+c2 
+gene from P22 phage 
+c2 f NcoI ... G c2 r StuI KpnI NcoI ... G 
+GCTAGCAGGACTTAACCATGGGTACACAATTGATGGGTGAG 
+CCAGCCGATAAAACCAACACTTTCCATGGGGTACCTTTCCTAGGCCTTTATGGAAG ATTTGCGAG 
+murA asdA 
+murA asd f StuI ... GTTTCTCCATACCCGTTTTTTAGGCCTAGCGAATTCTGAGAACAAACTAAGTGGATAA AATAAATTTCGTG murA asd r SalI KpnI ... CGAGTCTATGTACAAGTCGACGGTACCGTGCAGGTCGACTACGCCAACTGGCGCAGC 
+O/Pc2c2 ( PRM ) 
+Regulatory f c2 SalI ... TCGACCGAAATTAAAGAACACTTAAATTATCTACTAAAGGAATCTTTAGTCAAGTTT ATTT AAGATGACTTAACTGCATG Regulatory r c2 SphI ... CAGTTAAGTCATCTTAAATAAACTTGACTAAAGATTCCTTTAGTAGATAATTTAAGTG TTCTTTAATTTCGG 
+pUC18 origin 
+pUC STS G f SphI ... CTGCGCGTAATCTGCGCATGCCAAACAAAAAAACCACCGCTACC pUC STS G r KpnI SphI ... CCACAGAATCAGGGGATGCATGCGGTACCAACATGTGAGCAAAAGGC 
+O/Pcro ( PR ) 
+f operator cro SalI ... TCGACTTACATAGTTAAGTCATCTTAAATAAACTTGACTAAAGATTCCTTTAGTAGAA TTTAAGTGTTCTTTAATTTCGGAGCGAGTGCATG r operator cro SphI ... CACTCGCTCCGAAATTAAAGAACACTTAAATTCTACTAAAGGAATCTTTAGTCAAGTT TATT TAAGATGACTTAACTATGTAAG 
+Ptrc 
+f Ptrc KpnI ... CGCTGTTGACATTTAATCATCCGGCTCGTATAATGTGTGGAATTGTGAGCGGATAAC AATTTCACACAGGAA ACAGACCATGGCTAGCCCGGGTAC r Ptrc KpnI ... CCGGGCTAGCCATGGTCTGTTTCCTGTGTGAAATTGTTATCCGCTCACAATTCCACAC ATTATACGAGCCGGATGATTAAATGTCAACAGCGGTAC 
+SD lacZ 
+f pBAD lacZ387 ... GGGATCTGTCGACGATGACGATAAGGATCCAATG r pBAD lacZ3505 ... CTCTCATCCGCCAGTCGACAAACAGCCAAGC 
+bla SS-lcrV196-bla CT 
+f Vag ... CAGGAAACAGACCATGGCTAGCATTCAACATTTCCGTGTC r Vag ... CGCCAAAACAGCCGCTAGCTTACCAATGCTTAATC 
+a Underlining indicates restriction sites . 
+Growth kinetics . 
+A frozen glycerol stock of strain 9447 ( pYA4534 ) or 9447 ( pYA4535 ) was streaked onto LB agar plates ( 0.2 % arabinose , 0.2 % mannose , and 50 g/ml X-gal ) and incubated at 37 °C . 
+A single colony from each plate was inoculated in NB ( 75 ml in a 250-ml ﬂask ) with 0.02 % arabinose and grown at 37 °C to 0.8 OD600 units . 
+Each culture ( 25 ml ) was used to inoculate prewarmed NB ( 225 ml in a 500-ml ﬂask ) with or without 0.02 % arabinose at a dilution of 1:10 . 
+The cultures were then grown at 37 °C with shaking , and each hour , an aliquot of 8 ml was taken from each culture until 12 h. Afterwards , aliquots of 8 ml were taken every 24 h ( 5 ml for plasmid extraction , 1 ml to read the OD600 and to determine the CFU , 1 ml for the - galactosidase [ - gal ] activity assay , and 1 ml for the protein proﬁle analysis ) . 
+- gal assays . 
+To detect the level of - gal activity on plates , LB agar was supplemented with 50 g/ml X-gal . 
+The - gal assays were performed with permeabilized cells using the substrate o-nitrophenyl - - D-galactopyranoside ( Sigma ) . 
+The - gal activity was measured as previously described by Miller ( 45 ) . 
+Average values ( standard deviations ) for activity units were calculated from three independent assays . 
+Antigen preparation . 
+The expression of the recombinant 6 His-tagged fulllength LcrV ( 6 His-LcrV ) protein encoded by plasmid pHT-V was described previously ( 21 ) , and the protein was puriﬁed by nickel-nitrilotriacetic acid aga-rose chromatography under native conditions . 
+Eluted fractions containing puri-ﬁed 6 His-LcrV were selected after SDS-PAGE , pooled , dialyzed against phos-phate-buffered saline ( PBS ) , and then concentrated . 
+The protein concentration was determined by the Bradford assay ( 3a ) using bovine serum albumin as a standard . 
+Endotoxins were removed by using Detoxi-Gel endotoxin-removing gel ( Pierce , Rockford , IL ) . 
+The amount of endotoxin contamination in the recombinant protein was measured quantitatively with the Limulus amebocyte lysate assay ( Cambrex Bio Science Walkersville , Inc. ) , which was used according to the manufacturer 's instructions . 
+The amount of endotoxin found was 0.01 endotoxin units ( EU ) per g of recombinant protein . 
+The puriﬁed 6 His-LcrV protein was used for enzyme-linked immunosorbent assays ( ELISAs ) and en-zyme-linked immunospot ( ELISPOT ) assays . 
+Salmonella outer membrane proteins ( SOMPs ) were obtained using a sonication and Triton X-100 extraction procedure described previously ( 44 ) . 
+Cell fractionation and immunoblotting . 
+Cell fractions were prepared from 1 ml of culture by using the PeriPreps periplasting kit ( Epicentre ) according to the manufacturer 's instructions . 
+For the isolation of proteins released into the culture supernatants , 1 ml of each sample was ﬁltered ( 0.22 - m pore size ; Corning ) and precipitated with 10 % trichloroacetic acid ( TCA ) , and the pellet obtained by centrifugation was resuspended in 100 l of lithium dodecyl sulfate ( LDS ) sample buffer ( Invitrogen ) . 
+For the total extract , 10 l of 1 ml of culture was used for gel loading , whereas the load samples for the other fractions were at a ﬁnal dilution factor of 1:10 . 
+Thus , 10 l was mixed with 10 l of LDS sample buffer , boiled for 5 to 10 min , analyzed by SDS-PAGE ( NuPAGE 4 to 12 % Bis-Tris ; Invitrogen ) , and immunoblotted . 
+The recombinant protein was identiﬁed with rabbit anti-LcrV serum ( 1:15,000 ) ( 61 ) , followed by alkaline phosphatase-conju-gated anti-rabbit IgG ( Sigma ) . 
+Mouse anti- 70 monoclonal antibody ( 1:1,000 ) was used as a loading marker and for cell integrity ( Neoclone ) . 
+All experiments were performed three times . 
+Immunization of mice . 
+Female BALB/c mice , 6 to 7 weeks old , were purchased from Charles River Laboratories . 
+The Arizona State University Animal Care and Use Committee approved all animal procedures . 
+Mice were acclimated for days before the experiments were started . 
+Mice were deprived of food and water for 6 h before oral immunization . 
+The RASV 9447 strain harboring pYA4534 or pYA4535 was grown statically for 18 h in 5 ml LB broth with 0.2 % mannose and 0.02 % arabinose at 37 °C . 
+These cultures were used to inoculate 100 ml of LB broth with 0.2 % mannose and 0.02 % arabinose and grown at 37 °C with shaking ( 180 rpm ) to 0.8 OD600 units . 
+Cells were pelleted by centrifugation at room temperature ( 4,000 g for 15 min ) , and the pellet was resuspended in 1 ml of BSG . 
+Dilutions of the vaccine strains were plated onto LB agar plates ( 0.2 % arabinose , 0.2 % mannose , and 50 g/ml X-gal ) to determine bacterial titers . 
+One group of 40 mice ( for vaccination with RASV 9447 harboring pYA4534 ) , another group of 40 mice ( for vaccination with RASV 9447 harboring pYA4535 ) , and a third group of 24 mice ( for BSG alone ) were orally inoculated with 20 l of the respective RASV suspended in BSG containing 2 109 CFU or BSG on days 0 and 9 . 
+Water and food were returned to the mice 30 min after immunization . 
+Blood samples were obtained by submandibular vein puncture 2 days before vaccination and at days 22 and 32 after the ﬁrst vaccination . 
+Next , the blood was incubated at 37 °C for 60 min . 
+Afterwards , the blood was centrifuged at 4,000 g for 5 min . 
+The serum was removed and stored at 70 °C . 
+Vaginal secretion specimens were collected into 50 l of BSG 2 days before immunization and at days 22 and 32 . 
+Samples were stored at 20 °C . 
+Challenge experiments . 
+To assess the protective effects of RASV against Y. pestis in immunized mice , groups of eight immunized or control mice were challenged with Y. pestis strain CO92 ( biovar Orientalis ) ( 4 ) at 28 days after the second immunization ( day 35 ) . 
+For subcutaneous ( s.c. ) challenge , a low dose ( LD ) of 4.49 102 CFU or a high dose ( HD ) of 5.63 103 CFU of Y. pestis grown at 28 °C in heart infusion broth ( HIB ; Difco ) supplemented with 0.2 % xylose was inoculated subcutaneously for each group of mice . 
+For intranasal ( i.n. ) challenge , mice were anesthetized with a mixture of 0.5 % ketamine and 0.01 % xylazine administered intramuscularly , and 25 l of PBS containing an LD of 4.1 103 CFU or an HD of 4.4 104 CFU of Y. pestis grown in HIB at 37 °C supplemented with 0.2 % xylose and 2 mM CaCl2 was inoculated intranasally for each group of mice . 
+The mice were observed daily , and mortality was recorded until 14 days after the challenge . 
+The surviving animals were euthanized at the end of the experiment , and blood samples were obtained by intracardiac puncture . 
+The blood samples were left overnight at 4 °C and then centrifuged at 4,000 g for 5 min . 
+The sera were removed , and half of each sample was incubated for 3 days on tryptose blood agar ( TBA ) plates at 28 °C to verify that they were free of bacteria . 
+The serum samples were used for serological analysis . 
+ELISA . 
+IgG , IgG2a , IgG1 , and IgA antibody titers against LcrV196 and SOMP from mice were determined by ELISA . 
+Brieﬂy , Nunc Immunoplate Maxisorb F96 plates ( Nalge Nunc , Rochester , NY ) were coated with puriﬁed LcrV ( 500 ng/well ) or SOMP ( 500 ng/well ) suspended in 0.05 M carbonate-bicarbonate buffer ( pH 9.6 ) . 
+The coated plates were incubated overnight at 4 °C . 
+The plates were washed three times with PBS containing 0.05 % Tween 20 . 
+Free binding sites were blocked with PBS -- 0.1 % Tween 20 containing 2 % bovine serum albumin ( BSA ) . 
+Vaginal washes and sera obtained from the same experimental group were pooled . 
+The serum pools were serially diluted by 2-fold dilutions from an initial dilution of 1:200 in PBS . 
+The vaginal secretion pools were serially diluted by 2-fold dilutions from an initial dilution of 1:10 in PBS . 
+Aliquots of 100 l of the serially diluted samples were added to duplicated wells and incubated over-night at 4 °C . 
+Plates were washed and treated with horseradish peroxidase ( HRP ) - conjugated goat anti-mouse IgG , IgG1 , IgG2a , or IgA ( 1:4,000 dilution ; Southern Biotechnology Inc. , Birmingham , AL ) . 
+Wells were developed with o-phenylenediamine dihydrochloride ( OPD ) at 0.4 mg/ml in phosphate-citrate buffer with H O 2 2 ( Sigma ) at 200 l/well . 
+Color development was stopped by the addition of 50 l 3 M H2SO4 per 200 l of reaction solution . 
+Absorbance was recorded at 492 nm by using an automated ELISA plate reader ( Labsystems Multiskan MCC/340 ) . 
+End-point titers were expressed as the reciprocal log10 of the last sample dilution given an absorbance of 0.1 OD units above negative controls after 1 h of incubation . 
+Evaluation of CSC numbers in the spleen . 
+An ELISPOT assay was performed to enumerate the gamma interferon ( IFN - ) , IL-4 , and IL-10 cytokine-secreting cells ( CSC ) in the spleens of immunized and naïve mice in order to determine the potential cellular immune response to immunization . 
+This was performed with ELISPOT kits ( mouse IFN - , IL-4 , and IL-10 ELISPOT sets ; eBioscience ) according to the manufacturer 's instructions . 
+Brieﬂy , three mice from each group were euthanized 3 weeks after the second vaccination . 
+Single-cell suspensions were prepared by mechanical dissociation , and splenocytes from the mice belonging to the same group were pooled . 
+The 96-well polyvinylidene diﬂuoride ( PVDF ) membrane ELISPOT plates ( MultiScreenHTS-IP ﬁlter plate ; Millipore , Bedford , MA ) were coated with either anti-mouse IFN - , IL-4 , or IL-10 and incubated at 4 °C overnight . 
+The plates were washed and blocked with RPMI 1640 medium plus 10 % fetal bovine serum ( Invitrogen Life Technologies ) at room temperature for 1 h . 
+The blocking solution was removed , and spleen cell suspensions at various densities ranging from 2.5 105 to 1 106 spleen cells in 10 % fetal bovine serum ( FBS ) -- RPMI 1640 medium were added to each well and restimulated with recombinant LcrV ( 1 g/well ) or medium . 
+The spleen cells from all groups of mice were incubated in the presence of 10 U/ml of mouse IL-2 ( Roche ) for 24 h ( for IFN - - secreting cells ) or 48 h ( for IL-4 - or IL-10-secreting cells ) at 37 °C in a humidiﬁed ( 5 % CO2-in-air ) incubator . 
+After the incubation period , the cells were removed by washing , and the properly diluted biotinylated anti-IFN - , - IL-10 , or - IL-4 detection antibodies were added to each well and incubated at room temperature for 2 h . 
+The antibody solution was then decanted , and the plates were washed four times . 
+Avidin-horseradish peroxidase was added and incubated at room temperature for 45 min . 
+The plates were washed , and freshly prepared AEC ( 3-amino-9-ethylcarbazole ) substrate solution ( BD Bioscience ) was used to develop the spots at room temperature for 10 to 60 min . 
+The substrate reaction was stopped by washing the wells once with distilled water . 
+The spots were counted by using an automated ELISPOT plate reader ( CTL Analyzers ; Cellular Technology Ltd. , Cleveland , OH ) . 
+Cytokine level measurements by ELISA . 
+To measure the secretion of IFN - , IL-10 , and IL-4 by spleen cells , ELISAs were performed ( IFN - , IL-10 , and IL-4 ELISA set kits ; eBioscience ) . 
+Brieﬂy , 21 days after the second immunization , pools of 5 106 spleen cells from three mice belonging to the same group were suspended in 1 ml of 10 % FBS -- RPMI 1640 medium in the presence of 10 U/ml of mouse IL-2 ( Roche ) , restimulated with recombinant LcrV ( 10 g ) or medium , and then incubated for 48 h at 37 °C in an humidiﬁed ( 5 % CO2 in air ) incubator . 
+Afterwards , the cell culture supernatants were collected , and assays were performed according to the kit instructions . 
+Flow cytometry analysis of lymphocytes . 
+Single-cell suspensions of spleens obtained as described above for ELISPOT assays were incubated with an anti-CD16 / CD32 MAb for 10 min to block Fc receptors and then stained for 1 h with ﬂuorescein isothiocyanate ( FITC ) anti-mouse CD4 ( L3T4 ) or phycoerythrin ( PE ) anti-mouse CD8 ( Ly-2 ) , and the isotype controls used were FITC-rat IgG2a ( ) and PE-rat IgG2a ( ) ( all antibodies were purchased from eBioscience ) . 
+Cells were washed twice with ﬂuorescence-activated cell sorter ( FACS ) buffer ( PBS containing 0.1 % sodium azide and 1 % fetal calf serum [ FCS ] ) , ﬁxed in ﬁxation buffer ( eBioscience ) diluted 1:4 with PBS , and then analyzed by using a Cytomics FC 500 ﬂow cytometer ( Beckman Coulter Inc. ) . 
+Data analysis was performed with CXP software . 
+Statistical analysis . 
+Differences in antibody responses and cytokine secretion levels measured by ELISA and ELISPOT assay between groups were determined by one-way analysis of variance ( ANOVA ) , followed by Tukey 's multiple-com-parison test . 
+Differences with P values of 0.05 were considered signiﬁcant at the 95 % conﬁdence interval . 
+Statistical analysis was performed by using GraphPad Prism software ( GraphPad Software , San Diego , CA ) . 
+The Kaplan-Meier method ( GraphPad Prism software ) was applied to obtain the survival fractions following s.c. or i.n. Y. pestis challenges of orally immunized mice . 
+By using the Mantel-Haenszel log-rank test , the P values for statistical differences between survival rates of the plague challenges in the Salmonella-vaccinated groups or oral BSG controls were determined at the 95 % conﬁdence interval . 
+FIG. 1 . 
+( A ) Amino acid sequence of the chimeric LcrV196 encoded by blaSS-lcrV196-blaCT . 
+The nucleotide sequences above the underlined amino acid residues correspond to the endonuclease restriction sites generated to construct the chimeric blaSS-lcrV196-blaCT gene and to clone the NheI fragment containing it in pYA4534 to yield pYA4535 . 
+The - lactamase signal peptide , the 12 amino acid residues of the mature - lactamase N-terminal region , and the 21 amino acid residues of the - lactamase carboxy-terminal region are indicated in boldface type . 
+The vertical arrow indicates the - lactamase signal peptide cleavages site . 
+The asterisks above the italicized amino acid residues indicate the codons optimized for high-level expression in lcrV196 . 
+( B ) Map of plasmid pYA4535 . 
+RESULTS
+Construction of pYA4534 , a balanced-lethal plasmid expression system with runaway-like replication induced in vivo . 
+The genes , promoters , and plasmid replication origins used to generate pYA4534 were ﬂanked with restriction enzyme sites and assembled as cassettes for the development of a versatile vector that can be further improved depending on the characteristics of the antigens under evaluation . 
+Plasmid pYA4534 contains two plasmid replication origins from low-copy-number plasmid pSC101 and high-copy-number plasmid pUC . 
+To tightly control the high copy number of the plasmid , the nucleotide sequence specifying the promoterless RNA II transcript ( pUC replication origin ) was cloned downstream of the cro operator-promoter O/Pcro ( PR ) , which is regulated by the P22 C2 repressor protein . 
+The synthesis of the C2 repressor protein , encoded by c2 gene copies on both the plasmid and chromosome of the RASV strain , was under the control of the araC PBAD activator-promoter regulatory system , inducible b 
+L-arabinose . 
+Thus , in the presence of 0.02 % arabinose , C2 is synthesized and binds to the cro operator sites ( OR1 , OR2 , and OR3 ) , blocking the binding of RNA polymerase to the PR promoter upstream of the RNA II transcript , leading to pSC101-dependent replication . 
+In the absence of arabinose , the PR promoter is accessible to RNA polymerase and produces the RNA II transcript , resulting in pUC-dependent rep-lication . 
+Thus , in vivo , the RASV 9447 strain transformed with pYA4534 is in an arabinose-free environment , and during its multiplication in host tissues , the synthesis of the C2 protein ceases , and its concentration gradually decreases during each cell division until its depletion , leading to a high-copy-number plasmid state along with a high level of expression of the genes encoding the heterologous antigens . 
+Plasmid pYA4534 also contains the SD-gtg-asdA and SD-gtg-murA genes , whose expression is under the control of the araC PBAD regulatory system , which is inducible by arabinose . 
+The asdA gene complements the lethal chromosomal asdA mutant allele of the RASV 9447 strain . 
+The asdA and murA genes each contain a GTG start codon , which replaces the ATG codon to reduce their translation efﬁciency but increases their stability in the cell ( 35 ) . 
+The asdA selectable marker encodes an enzyme involved in lysine biosynthesis necessary for the synthesis of diaminopimelic acid ( DAP ) , which is a basic component of the peptidoglycan layer of the bacterial cell wall and allows the maintenance of this antibiotic resistancefree plasmid . 
+The murA gene encodes a key enzyme , UDP-N-acetylglucosamine enolpyruvyl transferase , which is involved in bacterial cell wall peptidoglycan synthesis ( 6 ) . 
+An SD-lacZ promoterless gene was also included in pYA4534 , which allows the monitoring of the switch between low - and high-copy-number replication of the plasmid during bacterial growth . 
+For the expression of the genes encoding the heterologous antigens , synthetic Ptrc was introduced into pYA4534 . 
+During the growth of RASV 9447 ( pYA4535 ) in the presence of arabinose , the Ptrc repressor LacI is synthesized ( due to the presence of the relA198 : : araC PBADlacI TT insertion-deletion mutation ) , and this blocks the synthesis of the Ptrc-controlled synthesis of the LcrV196 protective antigen . 
+In vivo , where arabinose is absent , LacI synthesis ceases and is diluted at each cell division , leading to the derepressed synthesis of the LcrV196 antigen to stimulate the induction of immunity . 
+Construction of the live recombinant attenuated Salmonella 9447 vaccine strain . 
+To enhance the immunogenicity of the RASV strains synthesizing and delivering the recombinant heterologous antigens , RASV strain 9447 was constructed . 
+Strain 9447 , derived from strain 9373 ( 24 ) , harbors deletioninsertion mutations to exhibit a regulated delayed attenuation in vivo . 
+This strain also exhibits regulated delayed in vivo synthesis and secretion of the protective LcrV196 antigen . 
+It is therefore phenotypically wild type at the time of immunization and becomes attenuated and commences to synthesize protective antigen only after colonization of host tissues . 
+To achieve this goal , we replaced the promoter sequences of genes involved in metabolic functions or virulence with the tightly arabinose-regulated araC PBAD activator-promoter cassette ( 14 , 35 ) and repressed the synthesis of protective antigen by the arabinose-regulated synthesis of LacI to prevent the expression of the lcrV196-carrying sequence on pYA4535 until after lymphoid tissue colonization . 
+Strain 9447 harbors the deletion-insertion mutations asdA21 : : TT araC PBAD c2 and Pmur7 : : TT araC PBAD murA . 
+The lethal asdA deletion is rescued by the addition of DAP to the growth medium and is needed for the antibiotic resistance-free maintenance of the runaway-like replication plasmid pYA4534 , and the c2 and murA promoters were replaced with the araC PBAD activator-promoter regulatory system such that C2 and the MurA enzyme cease to be synthesized in vivo due to the lack of free arabinose . 
+Beneﬁts of other deletion-insertion mutations present in 9447 , such as pmi-2426 , ( gmd-fcl ) -26 , Pfur81 : : TTaraC , PBAD fur , Pcrp527 : : TT araC , PBAD crp , araE25 , araBAD23 , relA198 : : araC , and PBAD lacI TT endA2311 , were described in detail previously ( 13 , 14 , 24 , 35 , 39 , 57 , 66 ) . 
+A low-copy-number plasmid state in 9447 ( pYA4534 ) was obtained with growth in the presence of 0.02 % arabinose . 
+The minimal concentration of arabinose required to maintain a low-copy-number plasmid state was analyzed with several culture media , such as minimal medium , NB , and LB broth . 
+The addition of 0.02 % arabinose to the different growth media was the minimal concentration of arabinose required to maintain a low-copy-number state of the plasmid and repress pUC-depen-dent replication ( Fig. 2A ) . 
+However , in the presence of 0.00002 % arabinose in minimal medium or NB , there was the maximum amount of supercoiled plasmid DNA as observed without arabinose . 
+In contrast , in LB broth , the presence of 0.002 % arabinose permitted substantial plasmid replication , while 0.0002 % and 0.00002 % arabinose allowed maximum pUC-dependent replication of supercoiled plasmid ( Fig. 2A ) . 
+This is due to the presence of low-level amounts of arabinose in the yeast extract used to prepare the medium ( 66 ) . 
+Synthesis and stability of LcrV196 in RASV . 
+The expression proﬁle of 9447 expressing lcrV196 from pYA4535 was analyzed in LB broth with and without 0.02 % arabinose until the culture reached an OD600 of 0.8 . 
+One protein band with an approximate molecular mass of 29 kDa in total cell extracts and in cell fractions reacted speciﬁcally with the anti-LcrV serum as detected by Western blotting with an anti-LcrV polyclonal antibody ( Fig. 2B ) . 
+The synthesis of the LcrV196 protein and its secretion proﬁle were proportional to the plasmid copy number and inversely proportional to the concentration of arabinose in the culture medium . 
+The amount of LcrV196 in the total extract without arabinose was less than that in the cytoplasmic fraction due to the ratio of each fraction loaded onto the gel ( for total extract , 1:100 ; for all other fractions , 1:10 ) . 
+70 , a cytoplasmic protein , was used as a loading marker and to evaluate cell integrity . 
+The discrepancy in the levels of 70 in periplasmic and supernatant fractions may be due to the fact that there was slight cell lysis in the culture in the absence of arabinose compared to that in the presence of arabinose . 
+Plasmids pYA4534 and pYA4535 were stably maintained for 50 or more generations in the 9447 host grown under nonselective conditions , such as in the presence 50 g/ml DAP ( Fig. 3A ) . 
+Similar amounts of supercoiled plasmid were observed for 9447 ( pYA4534 ) and 9447 ( pYA4535 ) when both strains were grown in LB broth supplemented with 0.2 % mannose , 0.00002 % to 0.2 % arabinose , and without arabinose . 
+We provide the results only for 9447 ( pYA4535 ) ( Fig. 3B ) . 
+The synthesis of LcrV196 by 9447 ( pYA4535 ) was shown to be stably maintained after 50 or more generations when the strain wa grown in LB broth as described in Materials and Methods ( Fig. 3C ) . 
+Growth and cell viability curves . 
+In order to determine growth rates , the viability of cells , and the time during growth when the shift from low to high copy numbers of the plasmid occurs , one colony each of Salmonella strains 9447 ( pYA4534 ) ( vector control ) and 9447 ( pYA4535 ) ( expressing lcrV196 ) was inoculated into and grown in NB with 0.02 % arabinose as described in Materials and Methods . 
+An aliquot from each culture was taken every hour until 12 h and then at 24 h and every 24 h afterwards . 
+The growth rates of strains 9447 ( pYA4535 ) and 9447 ( pYA4534 ) in NB with or without 0.02 % arabinose during the ﬁrst 12 h of growth were similar ( Fig. 4A ) . 
+The OD600 of the cultures increased over time until 12 h of growth , but additional growth was not observed between 12 and 24 h , and after 24 h , the OD600 began to decrease moderately in either strain until the end of the experiment ( 216 h , at day 9 ) ( data not shown ) . 
+The OD600 between 24 and 216 h was moderately lower without arabinose than with 0.02 % ar-abinose in cultures of both strains 9447 ( pYA4535 ) and 9447 ( pYA4534 ) ( data not shown ) . 
+Viable cell numbers were determined by counting the CFU on LB agar plates ( 0.2 % arabinose , 0.2 % mannose , and 50 g/ml X-gal ) . 
+The numbers of CFU under both conditions of growth , with and without arabinose , were similar from those for the initial adaptation period of 3 h at the beginning of the culture until 24 h ( Fig. 4B ) . 
+The number of bacterial generations of growth that occurred from the start of the culture to 24 h of growth was approximately 2 to 2.5 . 
+After 24 h of growth , the cell viability of the cultures with arabinose began to decline drastically compared with the cell viability of the cultures without arabinose , which gradually decreased over the course of the experiment ( data not shown ) . 
+The OD600 values of the cultures with and without arabinose were similar and consistent with the cell viability during the ﬁrst 24 h of growth . 
+After this time , the OD600 and cell viability of the cultures with arabinose were not proportional ( data not shown ) . 
+The faster decrease in cell viability observed after 24 h of culture with arabinose might be the result of a low-copy-number plasmid state in the bacterial cell that maintained a low expression level of the asdA and murA genes carried by plasmids pYA4534 and pYA4535 , whose products are necessary for bacterial cell wall synthesis . 
+The shift from low to high copy numbers of the plasmid in the cultures without arabinose occurred during the ﬁrst bacterial generation from 0 to 5 h , as determined by - gal activity assays ( Fig. 4C ) and by visualization of the increase in amounts of plasmid DNA on agarose gels from 4 to 6 h ( data not shown ) , which has been established as the second generation of growth . 
+The ratio of high-copy-number to low-copy-number cells reached its maximum at 24 h of growth , during which the cultures produced 2 to 3 bacterial cell divisions . 
+Colonization of lymphoid tissues . 
+9447 ( pYA4534 ) ( vector control ) and 9447 ( pYA4535 ) synthesizing LcrV196 were grown in LB broth supplemented with 0.02 % arabinose and 0.2 % mannose until an OD600 of 0.8 was reached , and coloni-zation was evaluated with BALB/c mice inoculated orally with 2 109 CFU at day 0 and euthanized at days 2 , 4 , 6 , and 8 . 
+We observed colonization in several tissues , including Peyer 's patches , mesenteric lymphoid nodes , and spleen by 9447 harboring pYA4534 . 
+However , colonization by 9447 ( pYA4535 ) synthesizing LcrV196 was observed only in Peyer 's patches and mesenteric lymphoid nodes ( data not shown ) . 
+IgG antibody responses to LcrV196 . 
+To investigate the immunogenicity of the LcrV196 protein delivered by the RASV strain , we orally immunized groups of BALB/c mice on days 0 and 9 with S. Typhimurium 9447 harboring either the control vector ( pYA4534 ) or pYA4535 for the synthesis of LcrV196 . 
+Serum IgG responses to LcrV196 and SOMP from immunized mice were measured by ELISA . 
+Systemic IgG responses to LcrV196 were observed 2 weeks postimmunization and showed an incremental increase at 3 weeks . 
+The LcrV196-vaccinated group had signiﬁcantly higher anti-LcrV196 antibody titers after 2 and 3 weeks postimmunization ( P 0.001 ) ( Fig. 5A ) . 
+Low levels of anti-LcrV196 IgG were detected in sera obtained from mice immunized with vector control strain 9447 ( pYA4534 ) or in preimmune serum . 
+Similar results wer observed previously ( 41 ) . 
+These results indicate that LcrV196 delivered by 9447 ( pYA4535 ) induces systemic antibody IgG titers against LcrV196 . 
+The anti-SOMP IgG responses significantly increased in mice vaccinated with 9447 ( pYA4534 ) and 9447 ( pYA4535 ) 2 and 3 weeks postimmunization compared to preimmune serum ( P 0.001 ) ( Fig. 5B ) . 
+However , the anti-SOMP IgG responses elicited by 9447 ( pYA4534 ) at 2 and 3 weeks postimmunization were higher than the titers observed with 9447 ( pYA4535 ) . 
+IgG antibody subclass responses to LcrV196 . 
+The immune response induced by 9447 ( pYA4535 ) synthesizing LcrV196 was further examined by measuring the levels of IgG isotype subclasses IgG1 and IgG2a in preimmune serum and at 2 and 3 weeks postimmunization by ELISA . 
+In mice , IgG1 is associated with a Th2-like response , while a Th1 response is associated with the induction of IgG2a ( 23 ) . 
+The IgG1 and IgG2a titers to LcrV196 were increased at 2 and 3 weeks postimmunization ( Fig. 5C ) and were signiﬁcantly higher than those of 9447 ( pYA4534 ) - vaccinated mice ( P 0.001 ) . 
+At 2 and 3 weeks postimmunization , the IgG2a/IgG1 values were 0.89 and 1.79 , respectively , indicating an initial IgG1 response that was slightly stronger than the IgG2a response , which switched to a slight IgG2a bias by week 3 and postchallenge ( see below ) . 
+These data indicate that the RASV synthesizing LcrV196 induced both Th2-related IgG1 and Th1-related IgG2a antibody responses . 
+Anti-LcrV196 IgG1 and IgG2a were barely detected in sera obtained from mice vaccinated with control strain 9447 ( pYA4534 ) or in preimmune serum . 
+Mucosal IgA responses to LcrV196 . 
+IgA antibodies are the principal mucosal antibody class produced by local plasma cell and are the ﬁrst line of immune defense against infection ( 30 ) . 
+Moderate secretory IgA titers against LcrV196 were detected in vaginal ﬂuids from mice immunized with 9447 ( pYA4535 ) synthesizing LcrV196 on week 2 postimmunization and showed a signiﬁcant increase at week 3 postimmunization compared to the control strain or preimmune serum ( P 0.05 ) ( Fig. 5D ) . 
+These results indicate that LcrV196 delivered by strain 9447 ( pYA4535 ) promoted secretory antibody LcrV-speciﬁc titers against LcrV196 . 
+IgG antibody responses to LcrV196 in surviving mice after Y. pestis challenge . 
+The serum immune response to LcrV196 was examined by measuring the levels of total IgG isotype and subclasses IgG1 and IgG2a in surviving mice after s.c. or i.n. challenge . 
+The total IgG titer was higher in mice post-s.c . 
+challenged mice than in orally immunized mice ( P 0.05 ) vived the challenge by the i.n. route with high and low doses were similar . 
+In contrast , slightly lower IgG-to-SOMP ratios were detected for mice that survived the challenge with HD by the s.c. route ( P 0.05 ) than for mice that survived the challenge with an LD by the s.c. route ( Fig. 5C ) . 
+IFN - , IL-4 , and IL-10 production . 
+Antigen-speciﬁc T-cell cytokines were evaluated by ELISPOT assays and ELISA . 
+To compare stimulations of the production of the proinﬂammatory Th1 cytokine IFN - and the anti-inﬂammatory Th2 cyto-kines IL-4 and IL-10 ( 54 ) , cultured lymphocytes from spleens isolated from 9447 ( pYA4535 ) - immunized BALB/c mice and control mice at 3 weeks after the last immunization were assessed by cytokine ELISPOT assay . 
+Lymphocytes were restimulated for 24 h ( for IFN - ) or 48 h ( for IL-4 and IL-10 ) with 1 g/well of recombinant LcrV or medium . 
+Antigen-speciﬁc Th1 and Th2 cells were induced in the spleen of mice orally vaccinated with recombinant LcrV196 delivered by the 9447 ( pYA4535 ) vaccine . 
+The number of LcrV196-speciﬁc IFN-spot-forming units ( SFU ) from splenocytes of mice immunized with strain 9447 ( pYA4535 ) was signiﬁcantly higher than the IFN - SFU from splenocytes from mice vaccinated with vector control strain 9447 ( pYA4534 ) ( P 0.001 ) ( Fig. 6A ) . 
+The number of LcrV196-speciﬁc IL-10-producing cells from mice immunized with strain 9447 ( pYA4535 ) was signiﬁcantly higher than the number of cells producing IL-10 from mice vaccinated with 9447 ( pYA4534 ) ( P 0.05 ) ( Fig. 6B ) . 
+The number of LcrV196-speciﬁc IL-4 SFU from splenocytes of mice immunized with strain 9447 ( pYA4535 ) was signiﬁcantly higher than the IL-4 SFU from splenocytes of mice vaccinated with 9447 ( pYA4534 ) ( P 0.05 ) ( Fig. 6C ) . 
+These results in dicate that antigen-speciﬁc IFN - , IL-4 , and IL-10 cytokineforming T cells were elicited by 9447 ( pYA4535 ) and reveal that a mixed Th1/Th2 immune response was elicited in immunized mice . 
+An ELISA was used to quantify LcrV196-speciﬁc IFN - , IL-4 , and IL-10 cytokines secreted by the splenocytes upon antigen stimulation . 
+At 3 weeks after the last immunization , 5 106 cultured lymphocytes from spleens isolated from 9447 ( pYA4535 ) - immunized BALB/c mice and control mice were restimulated with 10 g recombinant LcrV or medium for 48 h. Afterwards , the cytokines secreted by the splenocytes into the supernatant were quantiﬁed . 
+The levels of LcrV196-speciﬁc Th1 cytokine IFN - and Th2 cytokine IL-10 were signiﬁcantly higher in mice vaccinated with 9447 ( pYA4535 ) ( P 0.01 ) than in mice immunized with vector control strain 9447 ( pYA4534 ) ( Fig. 6D and E ) . 
+The levels of the Th2 IL-4 cytokine were within the detection limits ( 5 pg/ml ) in the supernatants of cultured lymphocytes from all groups of mice ( data not shown ) . 
+The low IL-4 levels detected in the supernatant could be the result of the uptake of IL-4 by the cells , as was previously described ( 20 ) . 
+These results conﬁrmed that the oral vaccination of mice with a Salmonella strain synthesizing LcrV196 from pYA4535 induced LcrV196-speciﬁc systemic proinﬂammatory IFN - and anti-inﬂammatory cytokine IL-10 , consistent with our results from the ELISPOT analysis . 
+Evaluation of CD4 and CD8 T cells . 
+The effect of a RASV synthesizing LcrV196 was evaluated for the stimulation of T-cell responses . 
+CD4 and CD8 T cells are central components of the acquired immune system and may contribute to successful vaccination ( 56 ) . 
+At 28 days after the last immuni-zation , spleen cells were isolated from Salmonella-immunized BALB/c mice and control mice , and the percentage of T cells ( CD4 and CD8 ) from these spleen cells was determined by FACS analysis . 
+A signiﬁcant increase ( P 0.0001 ) in the percentages of both CD4 and CD8 T cells was observed for both groups of mice immunized with 9447 ( pYA4535 ) ( 23.7 % CD4 and 8.2 % CD8 T cells ) and control 9447 ( pYA4534 ) ( 23.1 % CD4 and 8.7 % CD8 T cells ) compared to the percentages from naïve mice ( 17.1 % CD4 and 7.1 % CD8 T cells ) . 
+However , Salmonella delivering LcrV196 did not promote a signiﬁcant increase in percentages of these T cells compared to the percentages from control mice immunized with 9447 ( pYA4534 ) . 
+This result suggested that T-cell immune responses are induced against Salmonella , which is an intracellular bacterium that is taken up by antigen-presenting cells , which lead to major histocompatibility complex ( MHC ) presentation of the bacterial antigens ( 42 ) . 
+However , with these experiments , we can not evaluate an overlapping T-cell immune response induced against both LcrV and Salmonella antigens , which might both provide protection against Yersinia infection . 
+RASV 9447 ( pYA4535 ) is protective against bubonic plague . 
+To test the protective efﬁcacy of the 9447 strain expressing lcrV196 from pYA4535 , BALB/c mice were orally immunized with 9447 ( pYA4535 ) , 9447 ( pYA4534 ) , or BSG on days 0 and 9 as described above . 
+At 28 days after the second immunization , mice were challenged s.c. with 4.49 102 CFU ( LD ) or 5.63 103 CFU ( HD ) of virulent Y. pestis CO92 . 
+All nonimmunized mice ( BSG control ) succumbed to infection by day 7 postchallenge ( Fig. 7 ) . 
+RASV strain 9447 ( pYA4535 ) synthesizing LcrV196 provided the greatest efﬁcacy , with 87.5 % survival postchallenge with LD and HD of Y. pestis CO92 . 
+Mice vaccinated with the 9447 ( pYA4534 ) vector control and challenged with an HD of virulent Y. pestis had a median survival time of 4 days postchallenge , and all died by day 11 postchallenge . 
+The mortality rate was lower for mice vaccinated with the 9447 ( pYA4534 ) vector control and challenged with an LD of virulent Y. pestis . 
+Although these results conﬁrm previous results ( 4 ) , future experiments will be needed to distinguish between Salmonella-induced innate immunity and the induction of cross-protective immunity . 
+In this regard , no protection was afforded by vaccination with BSG after an LD challenge . 
+RASV 9447 ( pYA4535 ) is protective against pneumonic plague . 
+Since strain 9447 ( pYA4535 ) induced protective immunity against bubonic plague , we tested if it would protect against the more lethal pneumonic plague . 
+BALB/c mice were orally immunized as described above and challenged 28 days after the second immunization i.n. with 4.1 103 CFU ( LD ) or 4.4 104 CFU ( HD ) of Y. pestis CO92 ( Fig. 8 ) 
+FIG. 2 . 
+( A ) Shift from low-copy-number to runaway-like replication of pYA4534 . 
+The supercoiled plasmid DNA was obtained from 9447 ( pYA4534 ) grown in the minimal medium NB or LB broth with several arabinose concentrations , separated by electrophoresis on a 1.2 % agarose gel , and stained with ethidium bromide . 
+( B ) Immunoblotting of the cell fraction proﬁle of Y. pestis LcrV196 synthesis in RASV 9447 ( pYA4535 ) . 
+S. Typhimurium 9447 ( pYA4535 ) was grown in LB broth with 0.02 % arabinose or without arabinose until the culture reached an OD600 of 0.8 , and the total extracts ( TE ) , supernatant ( SN ) , or cell fractions from the membranes ( M ) , cytoplasm ( C ) , and periplasm ( P ) were obtained as described in Materials and Methods , separated by SDS-PAGE , and immunoblotted . 
+Rabbit serum against LcrV was used to detect LcrV196 . 
+( C ) Immunoblot of an analogous cell fraction proﬁle of 9447 ( pYA4535 ) , with the mouse monoclonal antibody anti- 70 used as a loading marker . 
+All the experiments were performed independently three times . 
+FIG. 3 . 
+Plasmid stability of 9447 ( pYA4534 ) and 9447 ( pYA4535 ) grown in LB broth ( 0.02 % arabinose and 0.2 % mannose ) under selective and nonselective conditions ( presence of DAP ) . 
+The proportions of cells retaining Asd plasmids were determined for each culture repeated for ﬁve consecutive days ( approximately 50 generations ) , and the cultured cells from each day were diluted , spread onto LB agar plates ( 0.2 % arabinose , 0.2 % mannose , and 50 g/ml X-gal ) with 50 g/ml DAP , and grown overnight . 
+Afterwards , 100 colonies from each vaccine construct and from each day were picked and patched onto LB agar plates ( 0.2 % mannose , 0.2 % arabinose , and 50 g/ml X-gal ) with or without 50 g/ml DAP . 
+( A ) Percentage of clones retaining plasmids from each culture . 
+( B ) Supercoiled plasmid DNA was obtained from 9447 ( pYA4535 ) grown in LB broth with several arabinose concentrations or without arabinose until the culture reached an OD of 0.8 , 600 separated by electrophoresis in a 1.2 % agarose gel , and stained with ethidium bromide . 
+( C ) Immunoblot of Y. pestis LcrV196 protein synthesis from total extract of RASV 9447 ( pYA4535 ) . 
+Ten microliters of 1 ml of culture , as described in Materials and Methods , was loaded , separated by SDS-PAGE , and immunoblotted . 
+Rabbit serum against LcrV was used to detect LcrV196 . 
+( D ) Immunoblot of an analogous total extract proﬁle of 9447 ( pYA4535 ) , with mouse monoclonal antibody anti- 70 used as loading marker . 
+Cultures were grown in the presence of DAP . 
+FIG. 4 . 
+Growth curves , culture cell viability , and - galactosidase activities of 9447 ( pYA4534 ) ( vector control ) and 9447 ( pYA4535 ) ( expressing blaSS-lcrV196-blaCT ) inoculated into NB medium . 
+Strains 9447 ( pYA4534 ) ( triangles ) and 9447 ( pYA4535 ) ( circles ) were inoculated into medium containing 0.02 % arabinose ( ara ) and without arabinose ( inverted triangles and squares , respectively ) . 
+( A ) The OD600 was measured to monitor the growth of the cultures each hour from 0 to 12 h and after each 24 h until the end of the experiment . 
+( B ) Dilutions were plated onto LB agar medium with 0.2 % arabinose , 0.2 % mannose , and 50 g/ml X-gal to assess the cell viability of the cultures . 
+( C ) The - galactosidase activities were determined each hour during the ﬁrst 12 h of growth and after each 24 h to the end of the experiment . 
+The values are means of results from three independent experiments . 
+Error bars indicate standard deviations . 
+FIG. 5 . 
+Anti-LcrV196 and anti-SOMP serum IgG and vaginal IgA responses in mice . 
+BALB/c mice were orally immunized at days 0 and 9 with 2 109 CFU of 9447 ( pYA4534 ) ( control ) or 9447 ( pYA4535 ) synthesizing LcrV196 . 
+The IgG titers were measured by ELISA in preimmune serum ( PI ) and immunized mice at 2 weeks ( 2W ) and 3 weeks ( 3W ) after the second immunization . 
+Orally immunized mice were challenged with Y. pestis strain CO92 by the subcutaneous ( s.c. ) route with a low dose ( LD ) of 4.49 102 CFU ( s.c. LD ) or a high dose ( HD ) of 5.63 103 CFU ( s.c. HD ) or by the intranasal ( i.n. ) route with a low dose of 4.1 103 CFU ( i.n. LD ) or a high dose of 4.4 104 CFU ( i.n. HD ) at 4 weeks after the second immunization , and the IgG titers were measured after 2 weeks for mice surviving postchallenge . 
+Pooled sera were made up from seven and six surviving mice challenged by the s.c. and i.n. routes , respectively . 
+( A ) Serum IgG total response to LcrV196 . 
+*** , P 0.001 for comparison with mice immunized with vector control strain 9447 ( pYA4534 ) or preimmune serum ; * , P 0.05 for comparison with 9447 ( pYA4535 ) - immunized mice and post-i.n. challenged mice . 
+( B ) Serum IgG total response to SOMP . 
+*** , P 0.001 for comparison with preimmune serum ; * , P 0.05 for comparison with surviving mice post-s.c . 
+challenge . 
+( C ) Subclasses IgG1 and IgG2a in serum against LcrV196 . 
+*** , P 0.001 for comparison with mice immunized with vector control strain 9447 ( pYA4534 ) or preimmune serum and comparison between titers of IgG1 and IgG2a . 
+( D ) Mucosal IgA response to LcrV196 in vaginal secretions in preimmune and immunized mice . 
+* , P 0.05 for comparison with all other vaccine groups . 
+The data represent end points of antibodies in pooled sera from eight mice immunized at the indicated times after immunization or from mice surviving postchallenge . 
+Error bars represent variations between duplicate wells . 
+The statistical signiﬁcance was calculated by one-way ANOVA and Tukey 's posttest . 
+( Fig. 5A ) . 
+In contrast , the total IgG titers were similar between the post-i.n. challenged mice and the orally immunized mice ( Fig. 5A ) . 
+The total IgG titers from post-s.c . 
+challenged mice were signiﬁcantly elevated compared with those of post-i.n. challenged mice ( P 0.05 ) ( Fig. 5A ) . 
+The IgG2a-to-IgG1 ratios for mice after s.c. and i.n. challenge were similar . 
+The slight IgG2a bias observed for immunized mice 3 weeks after vaccination was maintained with the surviving mice challenged by the s.c. and i.n. routes ( P 0.001 ) ( Fig. 5C ) . 
+These results indicated that a mixed Th1/Th2 response was developed over time in the mice surviving lethal Y. pestis challenge . 
+The total IgG-to-SOMP ratio was not signiﬁcantly different between mice immunized with 9447 ( pYA4534 ) at 3 weeks after vaccination and the post-s.c . 
+or post-i.n. challenged mice ( Fig. 5B ) . 
+In addition , the anti-SOMP IgG levels between mice that sur 
+FIG. 6 . 
+Antigen-speciﬁc stimulation of cytokine responses in spleen cells from Salmonella 9447 ( pYA4535 ) - vaccinated mice . 
+Antigen-speciﬁc IFN - , IL-4 , and IL-10 cytokine-forming T cells were determined by ELISPOT ( spot-forming units [ SFU ] ) , and LcrV196-speciﬁc IFN - , IL-4 , and IL-10 cytokine secretions were quantiﬁed by ELISA . 
+BALB/c mice were immunized with 9447 ( pYA4534 ) ( control ) , pYA4535 ( LcrV196 ) , or BSG dosed at days 0 and 9 . 
+Three weeks after the second immunization , spleen cells from three BALB/c mice per group were harvested and pooled . 
+( A to C ) Cells were restimulated for 24 h ( for IFN - ) and 48 h ( for IL-4 and IL-10 ) with 1 g/well of recombinant LcrV or medium for ELISPOT analyses . 
+( D and E ) For ELISAs , pools of 5 106 spleen cells/well from each group of controls and immunized mice were restimulated with 10 g/well of recombinant LcrV or medium for 48 h , and the concentrations of IFN - , IL-4 , and IL-10 in the supernatants were measured . 
+The results are presented as ELISPOTs per million splenocytes minus background ELISPOTs from unpulsed mock controls . 
+*** , P 0.001 for comparison of the Salmonella 9447 ( pYA4535 ) vaccine group with 9447 ( pYA4534 ) vector control and the BSG group for antigen-speciﬁc IFN - by ELISPOT analysis . 
+* , P 0.05 for comparison of the Salmonella 9447 ( pYA4535 ) vaccine group with 9447 ( pYA4534 ) and BSG groups for antigen-speciﬁc IL-4 and IL-10 by ELISPOT ; ** , P 0.01 for comparison of the Salmonella 9447 ( pYA4535 ) vaccine group with the 9447 ( pYA4534 ) and BSG groups for antigen-speciﬁc IFN - and IL-10 secretion levels by ELISA . 
+Error bars represent variations between quadruplicate or triplicate wells by ELISA and ELISPOT assay , respectively , The statistical signiﬁcance was calculated by one-way ANOVA and Tukey 's posttest . 
+FIG. 7 . 
+Oral immunization of BALB/c mice with 9447 ( pYA4535 ) carrying lcrV196 confers protection against bubonic plague challenge . 
+Mice were orally immunized on days 0 and 9 with 9447 ( pYA4534 ) ( vector control ) , 9447 ( pYA4535 ) ( synthesizing LcrV196 ) , or BSG ( control ) . 
+Mice were challenged s.c. with 4.49 102 CFU ( LD ) or 5.63 103 CFU ( HD ) of virulent Y. pestis CO92 28 days after the second immunization . 
+Survival was monitored for 2 weeks after bubonic challenge . 
+Survival fractions obtained from vaccinated mice were compared with BSG-dosed mice , and signiﬁcance was determined . 
+** , P 0.0016 ; * , P 0.012 . 
+FIG. 8 . 
+Oral immunization of BALB/c mice with S. Typhimurium 9447 ( pYA4535 ) expressing lcrV196 confers protection against pneumonic plague challenge . 
+Mice were orally immunized on days 0 and 9 with 2 109 CFU 9447 ( pYA4534 ) ( vector control ) , 9447 ( pYA4535 ) ( synthesizing LcrV196 ) , or BSG ( control ) . 
+Mice were i.n. challenged with 4.1 103 CFU ( LD ) or with 4.4 104 CFU ( HD ) of virulent Y. pestis CO92 28 days after the second immunization . 
+Survival was monitored for 2 weeks after pneumonic challenge . 
+Survival fractions obtained from vaccinated mice were compared with BSG-dosed mice , and signiﬁcance was determined . 
+** , P 0.0016 . 
+9447 ( pYA4535 ) showed great efﬁcacy , with 75 % and 50 % survival post-i.n. challenge with HD and LD , respectively . 
+These results correlate with the slightly higher LcrV antigenspeciﬁc IgG , IgG1 , and IgG2a responses observed for immunized mice challenged with an HD of Y. pestis than those for mice challenged with an LD ( Fig. 5A ) , which could account for the protection obtained . 
+None of the mice from the BSG or vector control groups were protected , and all died by day 5 postchallenge . 
+These results show that our RASV strain , 9447 ( pYA4535 ) , synthesizing LcrV196 was protective against bubonic and pneumonic plague , consistent with the immune responses observed . 
+DISCUSSION
+In this study we designed and developed a versatile vaccine vector that combined several strategies to make the synthesis of antigens proportional to the gene dosage based on a bal-anced-lethal plasmid expression system with conditional run-away-like replication . 
+Furthermore , we used a new live attenuated Salmonella enterica serovar Typhimurium 9447 strain , which is phenotypically wild type at the time of infection and gradually manifests an attenuated phenotype during colonization as a result of the decrease in the production of Fur , Crp , and MurA , whose genes are also under the regulation of araC PBAD activatorpromoter cassettes . 
+We used the multifunctional protein LcrV of Y. pestis to evaluate the runaway-like replication vaccine vector because it is one of the major antigens known to afford protection against plague . 
+RASV strain 9447 ( pYA4534 ) ( empty vector control ) or 9447 ( pYA4535 ) synthesizing Y. pestis LcrV196 stably maintained the plasmids over 50 generations or more when cultured onto LB agar plates ( 0.2 % arabinose , 0.2 % mannose , and 50 g/ml X-gal ) with or without DAP in vitro . 
+Also , growth was not affected by the synthesis of LcrV196 , as similar growth rates consistent with the change in CFU were observed for both strains 9447 ( pYA4534 ) and 9447 ( pYA4535 ) . 
+We could isolate 9447 ( pYA4535 ) from Peyer 's patches and mesenteric lymph nodes , but not the spleen , during the ﬁrst 10 days after the oral inoculation of mice . 
+Mice immunized orally on days 0 and 9 with live 9447 delivering the LcrV196 antigen encoded on runaway-like replication vector pYA4535 elicited a mixed Th1/Th2 antibody response that was protective against lethal Y. pestis CO92 challenge in both bubonic and pneumonic plague models . 
+Previous work using recombinant Salmonella required 5 immunizations by the intragastric route with 109 CFU on days 0 , 14 , 28 , 42 , and 56 of S. enterica serovar Typhimurium SL3261 aroA expressing full-length lcrV from pTR-LcrV , an antibiotic resistance-based vector ( pBR322 derivative ) to obtain limited success , affording 30 % protection after s.c. Y. pestis strain GB challenge ( 22 ) . 
+The SL3261 ( pTR-LcrV ) immunization elicited predominantly an IgG2a ( Th1 ) immune response . 
+However , the protected mice did not show signiﬁcantly higher LcrV-speciﬁc IgG1 or IgG2a responses than the nonprotected mice . 
+Despite the fact that Liu et al. ( 41 ) observed that RASV 8501 ( hisG crp-28 asdA16 ) delivering full-length ﬂanked BlaSS-LcrV encoded on pYA3495 ( AsdA pBR derivative ) to mice immunized by the i.n. route three times ( at 2-week intervals between each boost ) elicited comparable levels of LcrV-speciﬁc IgG1 ( Th2 ) and IgG2a ( Th1 ) and offered 60 % protection after intraperitoneal Y. pestis strain Yokohama-R challenge , they observed only 20 % protection for mice immunized by a combination of oral priming with two subsequent i.n. boosts . 
+However , Branger et al. ( 4 ) showed that RASV 8501 delivering a truncated-ﬂanked BlaSS-LcrV196-BlaCT encoded on pYA3841 ( AsdA pBR derived ) to mice immunized orally on days 0 and 9 elicited an LcrV-speciﬁc IgG ( Th1/Th2 ) response that afforded strong protection against Y. pestis CO92 challenge by the s.c. route . 
+Moreover , Branger et al. ( 5 ) observed that 8501 ( pYA3841 ) - immunized mice were also protected against Yersinia enterocolitica infection . 
+In addition , the RASV 8501 strain itself harboring the vector control offered protection against Yersinia pseudotuberculosis infection . 
+These results clearly demonstrated that the ratios of LcrV-speciﬁc IgG1 ( Th2 ) and IgG2a ( Th1 ) immune responses developed in the Salmonella-immunized mice appeared to be different depending on the plasmid expression system , immunization route , immunization regimen , length of LcrV , and attenuated Salmonella strain . 
+Several studies demonstrated the essential role of the humoral immune response in protection against plague . 
+Interestingly , in the absence of protective antibodies or optimal anti-body-mediated protection , Th1 cytokines such as TNF - and IFN - also play a role in protection against plague ( 37 ) . 
+IFN-and TNF - promote the phagocytosis of bacilli , which activates the production of reactive oxygen and nitrogen to kill internalized bacteria . 
+Thus , the ideal plague vaccine should achieve protection by both humoral and cellular immune responses ( 37 ) . 
+The level of LcrV196-speciﬁc IgG in the serum of all mice immunized with RASV 9447 ( pYA4535 ) is consistent with the protective immune response against Y. pestis challenge , and secretory IgA should also have a role in protection against pneumonic plague . 
+The mixed IgG2a/IgG1 humoral immune response elicited by 9447 ( pYA4535 ) in mice immunized orally offered protection against both bubonic and pneumonic plague , and this was supported by the secretion of the LcrV-speciﬁc Th1 IFN - and Th2 IL-10 and IL-4 cytokines , which correlated with the increased level of CD4 and CD8 T cells detected in immunized mice compared with unvaccinated mice . 
+These results indicate that the T-cell immune response against Salmonella itself afforded partial protection of mice inoculated with the 9447 ( pYA4534 ) vector control and that 9447 ( pYA4535 ) elicited an LcrV humoral response along with speciﬁc LcrV cell-mediated immunity in immunized mice , resulting in even stronger protection against Y. pestis . 
+In contrast , in parallel studies with the Y. pestis PsaA antigen and using the same schedule of immunization and challenge with LD and HD Y. pestis , mice orally immunized with 9558 ( 24 ) expressing optimized psaA from pYA3342 ( AsdA pBR de-rivative ) exhibited limited protective immunity against Y. pestis strain CO92 by i.n. challenge , and all mice succumbed to both LD and HD s.c. challenges ( A. Torres-Escobar , M. D. Juárez - Rodríguez , C. B. Branger , and R. Curtiss III , submitted for publication ) . 
+Our results showed that 9447 harboring the balanced-lethal plasmid expression system with conditional runaway replication offers a ﬁne-tuned synthesis of LcrV196 regulated by ar abinose , which is absent in host tissues . 
+Our Salmonella vector-host was fully capable of increasing the synthesis of LcrV196 in vivo to induce a robust immune response with 75 % protection against an i.n. lethal challenge with 4.4 104 CFU of Y. pestis CO92 and even higher protection ( 87.5 % ) against a lethal s.c. challenge compared to previous work using strains with the AsdA pYA3841 vector system ( 4 , 5 ) . 
+This demonstrates that this system has all the features required for the delivery of antigens that can elicit protective responses to pathogens displaying those antigens . 
+The LcrV protein is known to act as an immunosuppressive agent , inducing IL-10 in host immune cells via interactions with TLR-2 / TLR-6 / CD14 and suppressing proinﬂammatory cytokines such as IL-12p40 , IFN - , and TNF - , which are required to limit the pathogenesis of plague . 
+In this study we used a fragment of LcrV fused with the - lactamase signal and carboxy-terminal sequences for its secretion by the RASV strain . 
+This LcrV196 antigen was able to induce a robust immune response and the speciﬁc production of IL-4 and IL-10 as well as an increased production of IFN-by T cells in the LcrV restimulation assays . 
+The high level of synthesis of this antigen in 9447 ( pYA4535 ) and its efﬁcient secretion could be necessary for the induction of this potent immune response that includes the development of T-cell immunity and antibody responses effective against bubonic and pneumonic plague . 
+Several other groups reported a similar or slightly better protection against a similar or higher Y. pestis challenge dose by both subcutaneous and intranasal routes using the puriﬁed LcrV protein for immunization or a DNA vaccine specifying the expression of the LcrV antigen ( 49 , 65 ) . 
+However , our system developed in this work confers greater protection than other live attenuated vaccine strains . 
+Future modiﬁcation of the properties of LcrV delivery by the 9447 host could offer better protection and at lower cost than immunization with the puriﬁed LcrV protein . 
+Moreover , this host-plasmid system can be modiﬁed and improved to delay the delivery of antigen to achieve a higher-level colonization of host tissues , thus stimulating a more potent immune response . 
+ACKNOWLEDGMENTS
+This research was supported by National Institutes of Health grant AI057885 . 
+We thank Clara Espitia ( UNAM , México ) for her critical reading of the manuscript . 
+REFERENCES 
+1 . 
+Abramov , V. M. , V. S. Khlebnikov , A. M. Vasiliev , I. V. Kosarev , R. N. Vasilenko , N. L. Kulikova , A. V. Khodyakova , V. I. Evstigneev , V. N. Uversky , V. L. Motin , G. B. Smirnov , and R. R. Brubaker . 
+2007 . 
+Attachment of LcrV from Yersinia pestis at dual binding sites to human TLR-2 and human IFN-gamma receptor . 
+J. Proteome Res . 
+6:2222 -- 2231 . 
+2 . 
+Bertani , G. 1951 . 
+Studies on lysogenesis . 
+I . 
+The mode of phage liberation by lysogenic Escherichia coli . 
+J. Bacteriol . 
+62:293 -- 300 . 
+3 . 
+Bochner , B. R. 1984 . 
+Curing bacterial cells of lysogenic viruses by using UCB indicator plates . 
+Biotechniques 2:234 -- 240 . 
+3a . 
+Bradford , M. M. 1976 . 
+A rapid and sensitive method for the quantitation of microgram quantities of protein utilizing the principle of protein-dye binding . 
+Anal . 
+Biochem . 
+72:248 -- 254 . 
+4 . 
+Branger , C. G. , J. D. Fetherston , R. D. Perry , and R. Curtiss III . 
+2007 . 
+Oral vaccination with different antigens from Yersinia pestis KIM delivered by live attenuated Salmonella Typhimurium elicits a protective immune response against plague . 
+Adv. Exp . 
+Med . 
+Biol . 
+603:387 -- 399 . 
+5 . 
+Branger , C. G. , A. Torres-Escobar , W. Sun , R. Perry , J. Fetherston , K. L. Roland , and R. Curtiss III . 
+2009 . 
+Oral vaccination with LcrV from Yersinia pestis KIM delivered by live attenuated Salmonella enterica serovar Typhi-murium elicits a protective immune response against challenge with Yersinia pseudotuberculosis and Yersinia enterocolitica . 
+Vaccine 27:5363 -- 5370 . 
+6 . 
+Brown , E. D. , E. I. Vivas , C. T. Walsh , and R. Kolter . 
+1995 . 
+MurA ( MurZ ) , the enzyme that catalyzes the ﬁrst committed step in peptidoglycan biosynthesis , is essential in Escherichia coli . 
+J. Bacteriol . 
+177:4194 -- 4197 . 
+7 . 
+Brubaker , R. R. 2003 . 
+Interleukin-10 and inhibition of innate immunity to yersiniae : roles of Yops and LcrV ( V antigen ) . 
+Infect . 
+Immun . 
+71:3673 -- 3681 . 
+8 . 
+Cárdenas , L. , and J. D. Clements . 
+1992 . 
+Oral immunization using live attenuated Salmonella spp . 
+as carriers of foreign antigens . 
+Clin . 
+Microbiol . 
+Rev. 5:328 -- 342 . 
+9 . 
+Curtiss , R. , III . 
+1965 . 
+Chromosomal aberrations associated with mutations to bacteriophage resistance in Escherichia coli . 
+J. Bacteriol . 
+89:28 -- 40 . 
+10 . 
+Curtiss , R. , III , and S. M. Kelly . 
+1987 . 
+Salmonella Typhimurium deletion mutants lacking adenylate cyclase and cyclic AMP receptor protein are avirulent and immunogenic . 
+Infect . 
+Immun . 
+55:3035 -- 3043 . 
+11 . 
+Curtiss , R. , III . 
+April 2003 . 
+Regulation of attenuation of live vaccines to enhance cross protective immunity . 
+International patent WO 03/096812 . 
+12 . 
+Curtiss , R. , III , and W. Kong . 
+August 2006 . 
+Regulated bacterial lysis for gene vaccine vector delivery and antigen release . 
+U.S. patent 2006/0140975 A1 . 
+13 . 
+Curtiss , R. , III , X. Zhang , S. Y. Wanda , H. Y. Kang , V. Konjufca , Y. Li , B. Gunn , S. Wang , G. Scarpellini , and I. S. Lee . 
+2007 . 
+Induction of host immune responses using Salmonella-vectored vaccines , p. 297 -- 313 . 
+In K. A. Brogden , F. C. Minion , N. Cornick , T. B. Stanton , Q. Zhang , L. K. Nolan , and M. J. Wannemuehler ( ed . ) 
+, Virulence mechanism of bacterial pathogens , 4th ed . 
+ASM Press , Washington , DC . 
+14 . 
+Curtiss , R. , III , S. Y. Wanda , B. M. Gunn , X. Zhang , S. A. Tinge , V. Ananthnarayan , H. Mo , S. Wang , and W. Kong . 
+2009 . 
+Salmonella enterica serovar Typhimurium strains with regulated delayed attenuation in vivo . 
+Infect . 
+Immun . 
+77:1071 -- 1082 . 
+15 . 
+Depaolo , R. W. , F. Tang , I. Kim , M. Han , N. Levin , N. Ciletti , A. Lin , D. Anderson , O. Schneewind , and B. Jabri . 
+2008 . 
+Toll-like receptor 6 drives differentiation of tolerogenic dendritic cells and contributes to LcrV-medi-ated plague pathogenesis . 
+Cell Host Microbe 4:350 -- 361 . 
+16 . 
+Derewenda , U. , A. Mateja , Y. Devedjiev , K. M. Routzahn , A. G. Evdokimov , Z. S. Derewenda , and D. S. Waugh . 
+2004 . 
+The structure of Yersinia pestis V-antigen , an essential virulence factor and mediator of immunity against plague . 
+Structure 12:301 -- 306 . 
+17 . 
+Dozois , C. M. , F. Daigle , and R. Curtiss III . 
+2003 . 
+Identiﬁcation of pathogenspeciﬁc and conserved genes expressed in vivo by an avian pathogenic Esch-erichia coli strain . 
+Proc . 
+Natl. Acad . 
+Sci . 
+U. S. A. 100:247 -- 252 . 
+18 . 
+Edwards , R. A. , L. H. Keller , and D. M. Schifferli . 
+1998 . 
+Improved allelic exchange vectors and their use to analyze 987P ﬁmbria gene expression . 
+Gene 207:149 -- 157 . 
+19 . 
+Eisele , N. A. , and D. M. Anderson . 
+2009 . 
+Dual function antibodies to Y. pestis LcrV required for pulmonary clearance of plague . 
+Clin . 
+Vaccine Immunol . 
+16:1720 -- 1727 . 
+20 . 
+Ewen , C. , and M. E. Baca-Estrada . 
+2001 . 
+Evaluation of interleukin-4 concentration by ELISA is inﬂuenced by the consumption of IL-4 by cultured cells . 
+J. Interferon Cytokine Res . 
+21:39 -- 43 . 
+21 . 
+Fields , K. A. , M. L. Nilles , C. Cowan , and S. C. Straley . 
+1999 . 
+Virulence role of V antigen of Yersinia pestis at the bacterial surface . 
+Infect . 
+Immun . 
+67 : 5395 -- 5408 . 
+22 . 
+Garmory , H. S. , K. F. Grifﬁn , K. A. Brown , and R. W. Titball . 
+2003 . 
+Oral immunisation with live aroA attenuated Salmonella enterica serovar Typhi-murium expressing the Yersinia pestis V antigen protects mice against plague . 
+Vaccine 21:3051 -- 3057 . 
+23 . 
+Getahun , A. , J. Dahlström , S. Wernersson , and B. Heyman . 
+2004 . 
+IgG2amediated enhancement of antibody and T cell responses and its relation to inhibitory and activating Fc gamma receptors . 
+J. Immunol . 
+172:5269 -- 5276 . 
+24 . 
+Gunn , B. M. , S.-Y . 
+Wanda , D. Burshell , C. Wang , and R. Curtiss III . 
+2010 . 
+Construction of recombinant attenuated Salmonella enterica serovar Typhi-murium vaccine vector strains for safety in newborn and infant mice . 
+Clin . 
+Vaccine Immunol . 
+17:354 -- 362 . 
+25 . 
+Hill , J. , S. E. Leary , K. F. Grifﬁn , E. D. Williamson , and R. W. Titball . 
+1997 . 
+Regions of Yersinia pestis V antigen that contribute to protection against plague identiﬁed by passive and active immunization . 
+Infect . 
+Immun . 
+65 : 4476 -- 4482 . 
+26 . 
+Hinnebusch , B. J. 2005 . 
+The evolution of ﬂea-borne transmission in Yersinia pestis . 
+Curr . 
+Issues Mol . 
+Biol . 
+7:197 -- 212 . 
+27 . 
+Hitchcock , P. J. , and T. M. Brown . 
+1983 . 
+Morphological heterogeneity among Salmonella lipopolysaccharide chemotypes in silver-stained polyac-rylamide gels . 
+J. Bacteriol . 
+154:269 -- 277 . 
+28 . 
+Holmström , A. , J. Olsson , P. Cherepanov , E. Maier , R. Nordfelth , J. Pettersson , R. Benz , H. Wolf-Watz , and A. Forsberg . 
+2001 . 
+LcrV is a channel size-determining component of the Yop effector translocon of Yersinia . 
+Mol . 
+Microbiol . 
+39:620 -- 632 . 
+29 . 
+Husseiny , M. I. , and M. Hensel . 
+2009 . 
+Evaluation of Salmonella live vaccines with chromosomal expression cassettes for translocated fusion proteins . 
+Vaccine 27:3780 -- 3787 . 
+30 . 
+Iankov , I. D. , D. P. Petrov , I. V. Mladenov , I. H. Haralambieva , R. Ivanova , L. Sechanova , and I. G. Mitov . 
+2001 . 
+Monoclonal antibodies of IgA isotype speciﬁc for lipopolysaccharide of Salmonella enteritidis : production , puriﬁcation , characterization and application as serotyping reagents . 
+FEMS Microbiol . 
+Lett . 
+196:215 -- 221 
+31 . 
+Inglesby , T. V. , D. T. Dennis , D. A. Henderson , J. G. Bartlett , M. S. Ascher , E. Eitzen , A. D. Fine , A. M. Friedlander , J. Hauer , J. F. Koerner , M. Layton , J. McDade , M. T. Osterholm , T. O'Toole , G. Parker , T. M. Perl , P. K. Russell , M. Schoch-Spana , and K. Tonat . 
+2000 . 
+Plague as a biological weapon : medical and public health management . 
+JAMA 283:2281 -- 2290 . 
+32 . 
+Kadonaga , J. T. , A. Plückthun , and J. R. Knowles . 
+1985 . 
+Signal sequence mutants of beta-lactamase . 
+J. Biol . 
+Chem . 
+260:16192 -- 16199 . 
+33 . 
+Kang , H. Y. , J. Srinivasan , and R. Curtiss III . 
+2002 . 
+Immune responses to recombinant pneumococcal PspA antigen delivered by live attenuated Sal-monella enterica serovar Typhimurium vaccine . 
+Infect . 
+Immun . 
+70:1739 -- 1749 . 
+34 . 
+Khan , A. A. , J. P. Babu , G. Gupta , and D. N. Rao . 
+2008 . 
+Identifying B and T cell epitopes and studying humoral , mucosal and cellular immune responses of peptides derived from V antigen of Yersinia pestis . 
+Vaccine 26 : 316 -- 332 . 
+35 . 
+Kong , W. , S. Y. Wanda , X. Zhang , W. Bollen , S. A. Tinge , K. L. Roland , and R. Curtiss III . 
+2008 . 
+Regulated programmed lysis of recombinant Salmonella in host tissues to release protective antigens and confer biological containment . 
+Proc . 
+Natl. Acad . 
+Sci . 
+U. S. A. 105:9361 -- 9366 . 
+36 . 
+Koshland , D. , and D. Botstein . 
+1980 . 
+Secretion of beta-lactamase requires the carboxy end of the protein . 
+Cell 20:749 -- 760 . 
+37 . 
+Kummer , L. W. , F. M. Szaba , M. A. Parent , J. J. Adamovicz , J. Hill , L. L. Johnson , and S. T. Smiley . 
+2008 . 
+Antibodies and cytokines independently protect against pneumonic plague . 
+Vaccine 26:6901 -- 6907 . 
+38 . 
+Lennox , E. S. 1955 . 
+Transduction of linked genetic characters of the host by bacteriophage P1 . 
+Virology 190 -- 206 . 
+1 : 39 . 
+Li , Y. , S. Wang , G. Scarpellini , B. Gunn , W. Xin , S. Y. Wanda , K. L. Roland , and R. Curtiss III . 
+2009 . 
+Evaluation of new generation Salmonella enterica serovar Typhimurium vaccines with regulated delayed attenuation to induce immune responses against PspA . 
+Proc . 
+Natl. Acad . 
+Sci . 
+U. S. A. 106:593 -- 598 . 
+40 . 
+Liu , T. , and A. K. Chopra . 
+28 August 2009 , posting date . 
+An enteric patho-gen Salmonella enterica serovar Typhimurium suppresses tumor growth by downregulating CD44 ( high ) and CD4T regulatory ( T ( reg ) ) cell expression in mice : the critical role of lipopolysaccharide and Braun lipoprotein in modulating tumor growth . 
+Cancer Gene Ther . 
+doi :10.1038 / cgt .2009.58 . 
+41 . 
+Liu , W. T. , H. L. Hsu , C. C. Liang , C. C. Chuang , H. C. Lin , and Y. T. Liu . 
+2007 . 
+A comparison of immunogenicity and protective immunity against experimental plague by intranasal and/or combined with oral immunization of mice with attenuated Salmonella serovar Typhimurium expressing secreted Yersinia pestis F1 and V antigen . 
+FEMS Immunol . 
+Med . 
+Microbiol . 
+51:58 -- 69 . 
+42 . 
+Lo-Man , R. , J. P. Langeveld , E. Dériaud , M. Jehanno , M. Rojas , J. M. Clément , R. H. Meloen , M. Hofnung , and C. Leclerc . 
+2000 . 
+Extending the CD4 ( ) T-cell epitope speciﬁcity of the Th1 immune response to an antigen using a Salmonella enterica serovar Typhimurium delivery vehicle . 
+Infect . 
+Immun . 
+68:3079 -- 3089 . 
+43 . 
+Matson , J. S. , and M. L. Nilles . 
+2001 . 
+LcrG-LcrV interaction is required for control of Yops secretion in Yersinia pestis . 
+J. Bacteriol . 
+183:5082 -- 5091 . 
+44 . 
+Matsuyama , S. , K. Inokuchi , and S. Mizushima . 
+1984 . 
+Promoter exchange between ompF and ompC , genes for osmoregulated major outer membrane proteins of Escherichia coli K-12 . 
+J. Bacteriol . 
+158:1041 -- 1047 . 
+45 . 
+Miller , J. H. 1972 . 
+Experiments in molecular genetics . 
+Cold Spring Harbor Laboratory , Cold Spring Harbor , NY . 
+46 . 
+Motin , V. L. , R. Nakajima , G. B. Smirnov , and R. R. Brubaker . 
+1994 . 
+Passive immunity to yersiniae mediated by anti-recombinant V antigen and protein A-V antigen fusion peptide . 
+Infect . 
+Immun . 
+62:4192 -- 4201 . 
+47 . 
+Mueller , C. A. , P. Broz , S. A. Müller , P. Ringler , F. Erne-Brand , I. Sorg , M. Kuhn , A. Engel , and G. R. Cornelis . 
+2005 . 
+The V-antigen of Yersinia forms a distinct structure at the tip of injectisome needles . 
+Science 310:674 -- 676 . 
+48 . 
+Nakayama , K. , S. M. Kelly , and R. Curtiss III . 
+1988 . 
+Construction of an 
+ASD expression-cloning vector : stable maintenance and high level expression of cloned genes in a Salmonella vaccine strain . 
+Biotechnology 6:693 -- 697 . 
+49 . 
+Overheim , K. A. , R. W. Depaolo , K. L. Debord , E. M. Morrin , D. M. Anderson , N. M. Green , R. R. Brubaker , B. Jabri , and O. Schneewind . 
+2005 . 
+LcrV plague vaccine with altered immunomodulatory properties . 
+Infect . 
+Immun . 
+73:5152 -- 5159 . 
+50 . 
+Parsa , S. , and B. Pfeifer . 
+2007 . 
+Engineering bacterial vectors for delivery of genes and proteins to antigen-presenting cells . 
+Mol . 
+Pharm . 
+4:4 -- 17 . 
+51 . 
+Perry , R. D. , and J. D. Fetherston . 
+1997 . 
+Yersinia pestis -- etiologic agent of plague . 
+Clin . 
+Microbiol . 
+Rev. 10:35 -- 66 . 
+52 . 
+Perry , R. D. , S. C. Straley , J. D. Fetherston , D. J. Rose , J. Gregor , and F. R. Blattner . 
+1998 . 
+DNA sequencing and analysis of the low-Ca2 - response plasmid pCD1 of Yersinia pestis KIM5 . 
+Infect . 
+Immun . 
+66:4611 -- 4623 . 
+53 . 
+Sambrook , J. , and D. W. Russell . 
+2001 . 
+Molecular cloning : a laboratory manual , 3rd ed . 
+Cold Spring Harbor Laboratory Press , Cold Spring Harbor , NY . 
+54 . 
+Schmidt-Weber , C. B. , S. I. Alexander , L. E. Henault , L. James , and A. H. Lichtman . 
+1999 . 
+IL-4 enhances IL-10 gene expression in murine Th2 cells in the absence of TCR engagement . 
+J. Immunol . 
+162:238 -- 244 . 
+55 . 
+Schwyn , B. , and J. B. Neilands . 
+1987 . 
+Universal chemical assay for the detection and determination of siderophores . 
+Anal . 
+Biochem . 
+160:47 -- 56 . 
+56 . 
+Shedlock , D. J. , and H. Shen . 
+2003 . 
+Requirement for CD4 T cell help in generating functional CD8 T cell memory . 
+Science 300:337 -- 339 . 
+57 . 
+Shi , H. , S. Wang , K. L. Roland , B. M. Gunn , and R. Curtiss III . 
+2010 . 
+Immunogenicity of a live recombinant Salmonella enterica serovar Typhi-murium vaccine expressing pspA in neonates and infant mice born from naïve and immunized mothers . 
+Clin . 
+Vaccine Immunol . 
+17:363 -- 371 . 
+58 . 
+Sing , A. , D. Reithmeier-Rost , K. Granfors , J. Hill , A. Roggenkamp , and J. Heesemann . 
+2005 . 
+A hypervariable N-terminal region of Yersinia LcrV determines Toll-like receptor 2-mediated IL-10 induction and mouse virulence . 
+Proc . 
+Natl. Acad . 
+Sci . 
+U. S. A. 102:16049 -- 16054 . 
+59 . 
+Smiley , S. T. 2008 . 
+Immune defense against pneumonic plague . 
+Immunol . 
+Rev. 225:256 -- 271 . 
+60 . 
+Summers , R. G. , and J. R. Knowles . 
+1989 . 
+Illicit secretion of a cytoplasmic protein into the periplasm of Escherichia coli requires a signal peptide plus a portion of the cognate secreted protein . 
+Demarcation of the critical region of the mature protein . 
+J. Biol . 
+Chem . 
+264:20074 -- 20081 . 
+61 . 
+Sun , W. , K. L. Roland , X. Kuang , C. G. Branger , and R. Curtiss III . 
+2010 . 
+Yersinia pestis with regulated delayed attenuation as a vaccine candidate to induce protective immunity against plague . 
+Infect . 
+Immun . 
+78:1304 -- 1313 . 
+62 . 
+Uhlin , B. E. , and K. Nordström . 
+1978 . 
+A runaway-replication mutant of plasmid R1drd-19 : temperature-dependent loss of copy number control . 
+Mol . 
+Gen. Genet . 
+165:167 -- 179 . 
+63 . 
+Vander Byl , C. , and A. M. Kropinski . 
+2000 . 
+Sequence of the genome of Salmonella bacteriophage P22 . 
+J. Bacteriol . 
+182:6472 -- 6481 . 
+64 . 
+Vernazza , C. , B. Lingard , H. C. Flick-Smith , L. W. Baillie , J. Hill , and H. S. Atkins . 
+2009 . 
+Small protective fragments of the Yersinia pestis V antigen . 
+Vaccine 27:2775 -- 2780 . 
+65 . 
+Wang , S. , D. Heilman , F. Liu , T. Giehl , S. Joshi , X. Huang , T. H. Chou , J. Goguen , and S. Lu . 
+2004 . 
+A DNA vaccine producing LcrV antigen in oli-gomers is effective in protecting mice from lethal mucosal challenge of plague . 
+Vaccine 22:3348 -- 3357 . 
+66 . 
+Xin , W. , S. Y. Wanda , Y. Li , S. Wang , H. Mo , and R. Curtiss III . 
+2008 . 
+Analysis of type II secretion of recombinant pneumococcal PspA and PspC in a Salmonella enterica serovar Typhimurium vaccine with regulated delayed antigen synthesis . 
+Infect . 
+Immun . 
+76:3241 -- 3254 . 
+67 . 
+Yanisch-Perron , C. , J. Vieira , and J. Messing . 
+1985 . 
+Improved M13 phage cloning vectors and host strains : nucleotide sequences of the M13mp18 and pUC19 vectors . 
+Gene 33:103 -- 119 .

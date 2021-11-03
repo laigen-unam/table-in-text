@@ -1,0 +1,346 @@
+THE JOURNAL OF BIOLOGICAL CHEMISTRY VOL . 
+281 , NO. 25 , pp. 16971 -- 16977 , June 23 , 2006 © 2006 by The American Society for Biochemistry and Molecular Biology , Inc. . 
+Printed in the U.S.A. 
+Purification and Initial Biochemical Characterization of ATP : Cob ( I ) alamin Adenosyltransferase ( EutT ) Enzyme of Salmonella enterica * □ S Received for publication , March 31 , 2006 , and in revised form , April 20 , 2006 Published , JBC Papers in Press , April 24 , 2006 , DOI 10.1074 / jbc.M603069200 Nicole R. Buan1 and Jorge C. Escalante-Semerena2 From the Department of Bacteriology , University of Wisconsin , Madison , Wisconsin 53726-4087 
+ATP:cob(I)alamin adenosyltransferase (EutT) of Salmonella enterica was overproduced and enriched to 70% homogeneity, and its basic kinetic parameters were determined. Abundant amounts of EutT protein were produced, but all of it remained insoluble. Soluble active EutT protein ( 70% homogeneous) was obtained after treatment with detergent. Under conditions in which cobalamin (Cbl) was saturating, Km(ATP) 10 M, kcat 0.03 s 1, and Vmax 54.5 nM min 1. Similarly, under conditions in which MgATP was saturating, Km(Cbl) 4.1 M, k 0.06 s 1 cat , and Vmax 105 nM min 1. Unlike other ATP:co(I)rrinoid adenosyltransferases in the cell (i.e. CobA and PduO), EutT activity was >50-fold higher with ATP versus GTP, and EutT retained 80% of its activity with ADP substituted for ATP and was completely inactive with AMP as substrate, indicating that the enzyme requires the -phosphate group of the nucleotide substrate. The data suggest that the amino group of adenine might play a role in nucleotide recognition and/or binding. Unlike the housekeeping CobA enzyme, EutT was not inhibited by inorganic tripolyphosphate (PPP ). Results from 31 i P NMR spectroscopy studies identified PPi and Pi as by-products of the EutT reaction. In the absence of Cbl, EutT cleaved ATP into adenosine and PPPi, suggesting that PPPi is broken down into PPi and Pi. Electron transfer protein partners for EutT were not encoded by the eut operon. EutT-dependent activity was detected in cell-free extracts of cobA strains enriched for EutT when FMN and NADH were used to reduce cob(III)alamin to cob(I)alamin.
+* This work was supported by Grant RO1 GM40313 from the National Institutes of Health ( to J. C. E.-S . ) . 
+The costs of publication of this article were defrayed in part by the payment of page charges . 
+This article must therefore be hereby marked `` advertisement '' in accordance with 18 U.S.C. Section 1734 solely to indicate this fact . 
+□ S The on-line version of this article ( available at http://www.jbc.org ) contains supplemental Table 1s . 
+1 Howard Hughes Predoctoral Fellow . 
+Present address : Dept. of Microbiology , University of Illinois , Urbana , IL 61801 . 
+2 To whom correspondence should be addressed : Dept. of Bacteriology , University of Wisconsin , 1710 University Ave. , Madison , WI 53726-4087 . 
+Tel. : 608-262-7379 ; Fax : 608-265-7909 ; E-mail : escalante@bact.wisc.edu . 
+3 The abbreviations used are : Cbl , cobalamin ; AdoCbl , adenosylcobalamin ; HOCbl , hydroxocobalamin ; CHES , 2 - ( cyclohexylamino ) ethanesulfonic acid ; CHAPS , 3 - [ ( 3-cholamidopro-pyl ) dimethylammonio ] -1 - propanesulfonic acid ; PPPi , inorganic tripolyphosphate . 
+utilization ) operon ) ( 5 ) or ethanolamine ( the eut ( ethanolamine utilization ) operon ) ( 6 , 7 , 17 ) . 
+Bioinformatics analysis of the CobA , PduO , and EutT proteins shows that they evolved from different ancestors . 
+The best characterized of the three enzymes , CobA adenosylates incomplete and complete corrinoids ; its three-dimensional structure complexed with its substrates has been solved ; and its physiological electron donor partner ( i.e. flavodoxin A ) is known ( 8 -- 13 ) . 
+The PduO enzyme has been studied in some detail , and knowledge of how it works is of particular interest because of its homology to ATP : co ( I ) rrinoid adenosyltransferases found in mammals , including humans ( 14 , 15 ) . 
+Structure studies of the archaeal PduO hom-olog of Thermoplasma acidophilum have provided insights into the basis for methylmalonic aciduria in humans ( 16 ) . 
+The EutT enzyme is the least understood of all three types of ATP : co ( I ) rrinoid adenosyltransferases . 
+Identification of eutT as the gene encoding the ATP : co ( I ) - rrinoid adenosyltransferase of the operon was reported recently ( 3 , 4 ) . 
+The reason for the diversity in the lineage of these proteins is not known . 
+There are many open questions regarding PduO and EutT function . 
+As mentioned above , we do not know the identity of the electron donor that generates the cob ( I ) alamin nucleophile needed for formation of the Co -- C bond , nor do we understand how PduO and EutT bind ATP or their corrinoid substrates . 
+To better understand the molecular details of how the EutT enzyme works , we purified the protein and began the biochemical characterization of its enzyme activity . 
+EXPERIMENTAL PROCEDURES
+Assessment of Growth Phenotypes
+ATP : co ( I ) rrinoid adenosyltransferases are enzymes responsible for the conversion of vitamin B12 ( cobalamin ( Cbl ) 3 ) into coenzyme B12 ( adenosyl-B12 , adenosylcobalamin ( AdoCbl ) ) ( Fig. 1 ) . 
+In the enterobacterium Salmonella enterica serovar Typhimurium LT2 ( hereafter S. enterica ) , there are three different classes of ATP : co ( I ) rrinoid adenosyltransferases . 
+The housekeeping ATP : co ( I ) rrinoid adenosyltransferase of this bacterium is encoded by the cobA gene , which is constitutively expressed ( 1 ) . 
+Two other ATP : co ( I ) rrinoid adenosyltransferases ( PduO and EutT ) ( 2 -- 4 ) are encoded by large operons , the functions of which are needed for the catabolism of 1,2-propanediol ( the pdu ( propanediol 
+Strains were grown overnight in 2 ml of lysogenic broth ( 19 , 20 ) containing the appropriate antibiotic ; cultures were incubated at 37 °C . 
+Growth behavior was analyzed using 96-well plates containing 190 l of no-carbon E medium ( 21 ) , 50 mM ethanolamine ( pH 7 ) , trace minerals elixir ( 22 ) , 1 mM MgSO4 , 50 mM NH4Cl ) , 0.5 mM L-methionine , and 200 nM hydroxocobalamin ( HOCbl ) and inoculated with a 10 - l sample ( 2 107 colony-forming units ) of an overnight lysogenic broth culture . 
+Plates were placed in the chamber of a BioTek plate reader with the temperature held at 37 °C ; shaking was constant at a maximum setting . 
+Plasmid Construction
+The strains , plasmids , and primers used in this study are listed in Tables 1 and 2 . 
+Plasmid pEUT12 -- The S. enterica eutT gene was amplified by PCR using the appropriate primers . 
+The NdeI/XhoI fragment containing the native stop codon was cloned into pTYB2 ( New England Biolabs Inc. ) to yield plasmid pEUT12 for overproduction of wild-type EutT in Esche-richia coli . 
+Plasmids pEUT25 -- 27 -- Plasmids pEUT25 -- 27 encode EutT variants that were constructed using the QuikChange site-directed mutagenesis with an expandable O-ring cap and centrifuged at 43,667 g for 30 min at 4 °C in a Beckman Coulter Avanti J-25I centrifuge fitted with a JA-25 .50 rotor . 
+The centrifuged lysate was moved back to the anoxic chamber , where the supernatant was decanted . 
+Pelleted cell membranes and insoluble material were resuspended in 10 ml of anoxic solution containing 8 mM CHAPS in 20 mM glycine and 20 mM CHES buffer ( pH 9.5 ) . 
+Repeated pipetting ensured homogeneous resuspension of the pellet , which was then incubated at room temperature for 1 h with gentle agitation every 10 min . 
+The suspension was centrifuged at 43,667 g for 1 h at 4 °C in stainless steel tubes fitted with sealable caps . 
+The tubes were transferred back into the anoxic chamber , where the soluble material was decanted ; 200 - l samples were dispensed into glass serum vials fitted with gray butyl rubber stoppers ; and aluminum seals were crimped in place . 
+Sealed vials were removed from the chamber , pressurized with N ( 100 kilopascals ) , and kept at 4 °C until used . 
+2 Protein Purity Analysis Protein purity was assessed by SDS-PAGE ( 25 ) using the FOTO / Eclipse electronic documentation and analysis system ( FOTODYNE Inc. ) , including the software packages FOTO/Analyst PC Image ( Version 5.0 ) and TotalLabTM ( Version 2003 ; Nonlinear Dynamics Ltd. ) for one-dimensional gel analysis . 
+kit ( Stratagene ) . 
+Plasmid pEUT12 was used as template . 
+Mutations in fication using the primers shown in supplemental Table 1s . 
+Amplifica-plasmids pEUT25 -- 27 were verified by DNA sequencing . 
+tion products were cloned under the control of the ParaBAD promoter in Plasmids pEUT35 -- 37 -- To avoid indirect effects by unknown vector pBAD24 using the appropriate restriction sites . 
+mutations introduced into the cloning vector , the mutant alleles Plasmid pFDX1 -- The S. enterica ferredoxin gene ( fdx ) was ampliwere moved from pEUT25 -- 27 into a non-mutagenized cloning vec - fied , and the PCR fragment was cut with NdeI and BamHI restriction tor and placed under the control of a tunable promoter . 
+For this enzymes and cloned into plasmid pET-16b ( Novagen ) , yielding plasmid purpose , primers shown in supplemental Table 1s ( see plasmids pFDX1 , which encodes ferredoxin with a hexahistidine tag fused to its N pEUT35 -- 37 ) were used to amplify the mutant eutT alleles from their terminus . 
+respective pTYB2 plasmids ( pEUT25 -- 27 ) . 
+Amplification products DNA Sequencing -- All plasmids were sequenced using BigDye pro-were cut with EcoRI and XbaI restriction enzymes and placed under tocols ( ABI PRISM ) at the DNA Sequencing Facility of the Biotech the control of the arabinose-inducible ParaBAD promoter in plasmid Center at the University of Wisconsin ( Madison , WI ) . 
+pBAD24 ( 23 ) cut with the same enzymes . 
+The resulting plasmids were named pEUT36 ( eutT1168 , EutT ( C79A ) ) , pEUT37 ( eutT1169 , Enrichment of EutT Protein EutT ( C80A ) ) , and pEUT38 ( eutT1170 , EutT ( C83A ) ) . 
+These plas-A transformant of E. coli BL21 ( DE3 ) carrying the appropriate eutT mids were used in in vivo studies aimed at determining the functionplasmid was used to inoculate two sterile culture tubes ( 16 150 mm ) ality of the proteins encoded by the mutant eutT alleles . 
+For this containing 5 ml of lysogenic broth plus ampicillin ( 100 g/ml ) and purpose , plasmids were transformed ( 24 ) into strain JE7180 ( metE205 ara-9 cobA366 : : Tn10d ( cat ) eutE18 : : MudI1734 ( kan ) ) . 
+Growth of the grown overnight at 37 °C . 
+The next morning , the 10-ml starter culture was added to 500 ml of lysogenic broth plus ampicillin , trace minerals , resulting strains was assessed as described above . 
+cysteine ( 0.5 mM ) , and methionine ( 0.5 mM ) in a 2-liter Erlenmeyer Plasmids pEUT55 -- 58 -- Wild-type chromosomal alleles of eutP , flask . 
+The culture was shaken at 140 rpm for 1.5 h at 37 °C . 
+Isopropyl eutQ , eutT , and combinations of them were constructed by PCR ampli -- D-thiogalactopyranoside was added to 0.5 mM , and the temperature was dropped to 15 °C for overnight incubation . 
+Cells were harvested by centrifugation at 7354 g in a Beckman Coulter Avanti J-25I centrifuge fitted with an LA-16 .250 rotor at 4 °C for 10 min . 
+Cell paste was transferred to a 50-ml serum vial , flushed with O2-free N2 on ice for 10 min , and frozen at 80 °C under 100 kilopascals of pressure until used . 
+Cells were broken under anoxic conditions . 
+For this purpose , frozen cell paste was transferred to an anoxic chamber and resuspended in 10 ml of anoxic lysis buffer ( 1 BugBusterTM reagent ( Novagen ) , 20 mM glycine , and 20 mM CHES buffer ( pH 9.5 ) containing 1 mM phenylmeth-ylsulfonyl fluoride ) . 
+The cell suspension was incubated at room temperFIGURE 1 . 
+Contributions of the CobA and EutT ATP : co ( I ) rrinoid adenosyltrans-ature for 20 min with intermittent agitation ( approximately every 5 ferases to the pool of AdoCbl in S. enterica . 
+min ) . 
+The lysate was moved into a stainless steel centrifuge tube fitted TABLE 1 Strains and plasmids used in this study Unless indicated otherwise , all strains and plasmids were constructed during the course of this work . 
+WT , wild-type . 
+Strain Genotype E. coli BL21 ( DE3 ) F dcm ompT hsdS ( rB mB ) gal ( DE3 ) S. enterica TR6583 metE205 ara-9 Derivatives of TR6583 JE1096 cobA343 : : MudI1734 ( kan ) a JE1293 cobA366 : : Tn10d ( cat ) JE8292 cobA343 : : MudI1734 ( kan ) zfa3648 * Tn10 * zfa3649 ( eut ) JE7172 cobA366 : : Tn10d ( cat ) / pEUT7 JE7179 cobA366 : : Tn10d ( cat ) eutE18 : : MudI1734 ( kan ) JE7180 cobA366 : : Tn10d ( cat ) eut1141 ( eutT ) b JE8815 eutP1168 ( eutP ) b JE8816 eutQ1169 ( eutQ ) b JE8817 eutPQ1170 ( eutPQ ) b JE8818 cobA343 : : MudI1734 ( kan ) eutP1168 ( eutP ) JE8819 cobA343 : : MudI1734 ( kan ) eutQ1168 ( eutQ ) JE8820 cobA343 : : MudI1734 ( kan ) eutPQ1169 ( eutPQ ) Plasmid Genotype Protein pEUT7 bla ParaBAD-eutT WT EutT pEUT36 bla eutT1171 EutT ( C79A ) pEUT37 bla eutT1172 EutT ( C80A ) pEUT38 bla eutT1173 EutT ( C83A ) pEUT55 bla ParaBAD-eutP WT EutP pEUT56 bla ParaBAD-eutQ WT EutQ pEUT57 bla ParaBAD-eutPQ WT EutPQ pEUT58 bla ParaBAD-eutPQT WT EutPQT pFPR1 bla fpr WT Fpr pFLDA4 bla fldA FldA-His6 pFDX1 bla fdx His6-Fdx a Referred to as MudJ ( 32 ) . 
+b In-frame deletion constructed using described methodology ( 33 ) . 
+Source 
+New England Biolabs J. R. Roth via K. Sanderson 
+Lab collection Lab collection 
+Lab collection Lab collection 
+Ref . 
+/ Source 3 
+Lab collection 3 
+Overexpression and Isolation of Fpr, FldA, and Fdx
+Fpr and FldA proteins were overproduced and isolated as reported previously ( 12 , 26 ) . 
+Fresh E. coli BL21 ( DE3 ) ( JE3892 ) / pFDX1 transformants were grown in two 10-ml lysogenic broth cultures containing ampicillin ( 100 g/ml ) and incubated overnight at 37 °C with shaking . 
+Each 10-ml starter culture was used to inoculate 2 liters of Terrific Broth supplemented with 0.1 mg/ml ferrous ammonium sulfate and 100 g/ml ampicillin ( 27 ) ; inoculated flasks were incubated at 37 °C for 15 h. Cells were harvested by centrifugation at 5000 g at 4 °C in a Beckman Coulter Avanti J-20XPI centrifuge fitted with a JLA-8 .1000 rotor , and the cell paste was stored at 80 °C until used . 
+The cell paste was resuspended in 20 mM potassium Pi buffer ( pH 7.4 ) containing 0.5 M NaCl and 1 mM phenylmethylsulfonyl fluoride , passed through a French pressure cell twice at 1250 kilopascals , and treated with DNase for 10 min on ice . 
+Cell-free extracts were centri-fuged at 43,000 g for 30 min at 4 °C in a Beckman Coulter Avanti J-25I centrifuge fitted with a JA-25 .50 rotor and then passed through a 0.2 - m syringe filter to remove residual particulate material . 
+N-terminally His6-tagged ferredoxin protein was purified on an KTA FPLC Explorer using a 
+5-ml HiTrap chelating HP column ( Amersham Biosciences ) charged with NiSO4 . 
+Fractions containing pure protein were pooled , concentrated in an Amicon Centricon YM10 unit ( cutoff of 10 kDa ) , dialyzed against 20 mM potassium Pi buffer ( pH 7.4 ) containing 0.2 M NaCl , and concentrated again in an Amicon Microcon YM10 unit . 
+Total yield was 1 mg of EutT protein/10 g of cell paste . 
+TABLE 2 
+ATP : Cob ( I ) alamin adenosyltransferase assays with m EutT proteins WT , wild-type . 
+Fraction 
+utant 
+Specific activitya 
+WT % 100 
+WT CHAPS-soluble 
+61 0.36 
+Preparation of Cell-free Extracts
+EutT ( C79A ) Whole lysate 1.4 0.25 2 CHAPS-soluble 12 1.5 20 Insolubleb 14 0.49 23 EutT ( C80A ) Whole lysate 0.04 0.06 0.1 CHAPS-soluble 0.37 0.11 0.6 Insolubleb 0.71 0.61 1 EutT ( C83A ) Whole lysate 0.37 0.02 0.6 CHAPS-soluble 0.75 0.02 1 Insolubleb 0.28 0.04 0.5 a The average of three determinations using Ti ( III ) citrate as reductant . 
+b Measured after solubilization with CHAPS . 
+S. enterica strains were grown in no-carbon E medium containing trace minerals elixir , MgSO4 , NH4Cl , and methionine at concentrations indicated above . 
+In addition , 1 M HOCbl ( or AdoCbl as indicated ) , 200 M L - ( ) - arabinose as inducer , and 50 mM ethanolamine ( pH 7 ) or 30 mM glycerol were added . 
+Cells in stationary phase were harvested by centrifugation at 4 °C , transferred to a 50-ml serum vial , and flushed with anoxic N2 gas . 
+Cells were broken at room temperature after resuspension in anoxic lysis buffer . 
+The cell suspension was kept at room temperature for 30 min with intermittent agitation . 
+The protein concentration was determined using the Bradford reagent ( Bio-Rad ) according to the manufacturer 's instructions . 
+Cell-free extracts were used immediately for corrinoid adenosylation assays . 
+Corrinoid Adenosylation Assays
+Quartz cuvettes fitted with removable silicon rubber septa ( Starna Cells , Inc. ) were flushed with O2-free N2 and filled with degassed buffer containing 0.2 M Tris-Cl buffer ( pH 7 ) at 37 °C . 
+The concentration of HOCbl ranged between 0.5 and 50 M ; MnCl2 was present at 0.5 mM . 
+3 Ti ( III ) citrate ( 2.2 mM ) was used to reduce the corrin from Co to Co ; ATP was added ( 0.5 M to 1 mM ) ; and 0.5 M purified CHAPS-EutT protein or 50 g of cell-free extract was used per reaction . 
+CHAPS-EutT protein was warmed to room temperature prior to its addition to the reaction mixture . 
+A temperature shift to 37 °C was used to start the reaction , the rate of which was monitored by the decrease in the abundance of cob ( I ) alamin substrate at 388 nm . 
+When FldA or Fdx was used as the reductant , Ti ( III ) citrate was replaced with 2 M Fpr protein , 0.5 mM NADPH , and 1 M purified N-terminally His6-tagged ferredoxin or C-terminally His6-tagged flavodoxin A protein . 
+In assays in which cellfree extract was used in lieu of purified CHAPS-EutT protein , 50 M FMN , 1 mM NADH , and 1 mM ATP were used in place of Ti ( III ) citrate . 
+Corrinoid adenosylation was assessed by the change in absorbance at 525 nm of the sample after 30 min of incubation at 37 °C and after photolysis for 10 min on ice . 
+31P NMR Spectroscopy Studies
+A 10-ml corrinoid adenosylation reaction mixture containing 3 mM Ti ( III ) citrate , 100 M ATP , 100 M HOCbl , 0.5 mM MgCl2 , and 16 M EutT in 0.2 M Tris-Cl buffer ( pH 7 ) at 37 °C was incubated for 2 h at 37 °C . 
+After incubation , EDTA was added to 20 mM ; reactions were concentrated overnight at room temperature under vacuum to 0.5 ml in an SPD111V SpeedVac concentrator ( Thermo Savant ) ; and 100 % D2O was added to a final concentration of 6 % ( v/v ) . 
+Standards were added to 100 M as indicated . 
+31P NMR spectra were acquired at the Nuclear Magnetic Resonance Facility of the University of Wisconsin ( Madison ) . 
+Chemicals
+All chemicals were obtained from Sigma unless indicated otherwise and were of high purity . 
+Ti ( III ) citrate was prepared from liquid TiCl3 . 
+Briefly , 0.2 M citrate was adjusted to pH 8 . 
+The citrate solution was degassed with O2-free N2 in a sealed glass serum vial for 20 min . 
+TiCl3 was added with a glass syringe to the serum vial with a pressurized O2-free N2 headspace . 
+The final Ti ( III ) citrate concentration was 88 mM . 
+RESULTS
+Initial Purification and Biochemical Characterization of EutT Protein Recombinant EutT protein was overproduced in E. coli , but remained insoluble unless cells containing EutT protein were lysed under anoxic conditions using CHES/glycine buffer ( pH 9.5 ) , followed by resuspension of EutT from the pelleted material with 8 mM CHAPS and a final centrifugation step . 
+After these purification steps , EutT was substantially enriched ( 70 % homogeneous ) ( Fig. 2 ) . 
+However , EutT could not be resolved from contaminating proteins by column chromatography . 
+All biochemical assays were performed using CHAPS-solubilized EutT . 
+FIGURE 3 . 
+Metal requirements and Ni2 inhibition of EutT adenosyltransferase activity . 
+A , enhancement of Cbl adenosyltransferase activity as a function of added 2 2 Mn ions ; B , inhibition of EutT activity by Ni ions . 
+The shape of the curve suggests competition for a single site . 
+EutT Activity as a Function of Reductant and pH
+FIGURE4.Comparisonofthecysteine-richmotifofEutTandthe4Fe / 4Sclustermotif of B. subtilis CbiX . 
+EutT has three cysteines ( boldface ) and two histidines ( outlined ) that seem to be reminiscent of the CCX2C dicopper-binding motif of cytochrome oxidase and/or the MXCX2C 4Fe/4S motif of B. subtilis CbiX . 
+Cys79 , Cys80 , and Cys83 of EutT were changed to alanine to assess their importance in EutT function . 
+EutT activity were erratic when KBH was used as reductant to con-4 vert cob ( III ) alamin to cob ( I ) alamin in vitro . 
+To circumvent this problem , Ti ( III ) citrate was used as reductant in all Cbl adenosylation assays . 
+The highest EutT activity was measured at pH 7 ( specific activity of 34 nmol of AdoCbl min 1 mg 1 of protein ) and was 30 % active at higher pH ( e.g. at pH 7.5 , specific activity of 9.7 nmol of AdoCbl min 1 mg 1 ; at pH 8 , specific activity of 7.3 ; and at pH 8.5 , specific activity of 7.3 ) . 
+Metal Requirement and Inhibition by Ni2
+Several metals were tested for their ability to stimulate EutT activity ( i.e. Ca2 , Mg2 , Zn2 , Na , and K ) . 
+Only Mn2 ions stimulated EutT enzyme activity ( by 32 % ) above the no-metal control ( Fig. 3A ) . 
+Surprisingly , Ni2 and Zn2 ions inhibited EutT activity by 62 and 77 % , respectively . 
+Fifty percent inhibition was the maximum level measured when the ratio of Ni2 ion to EutT monomer was 100:1 ( at 100 M Ni2 ) ] ( Fig. 3B ) . 
+The shape of the inhibition curve suggested single-site binding . 
+Cysteinyl Residues in the Cys-rich Motif of EutT Are Required for Activity EutT has a putative HX7HX3CCX2C motif that resembles the cyto-chrome oxidase CCX2C dicopper-binding site or a 4Fe/4S cluster that was recently identified in the Bacillus megaterium CbiX protein ( Fig. 4 ) ( 28 ) . 
+This cysteine-rich motif of EutT was targeted for site-directed mutagenesis to determine whether Cys79 , Cys80 , and Cys83 are important for structural integrity , enzyme catalysis , or both . 
+Residues were mutated to Ala , and the resulting enzymes were tested for their ability to function in vivo and in vitro . 
+None of the alleles coding for EutT ( C79A ) , EutT ( C80A ) , or EutT ( C83A ) complemented the S. enterica cobA eutT strain ( JE7180 ) during growth on ethanolamine ( data not shown ) . 
+Var-iant proteins were overproduced and purified using the protocol used for wild-type EutT protein , and their adenosyltransferase activity was assayed in vitro ( Table 2 ) . 
+EutT ( C79A ) was the most active of the three variants tested , with 20 % of the wild-type activity detected in the deter-gent-soluble fraction . 
+In contrast , EutT ( C80A ) and EutT ( C83A ) retained very little activity ( 0.6 and 1.2 % , respectively ) . 
+Mutant EutT proteins were found predominantly in the detergent-insoluble pellet , likely misfolded and aggregated ( Table 2 ) . 
+We propose that Cys79 might be more important for structural integrity than Cys80 and Cys83 . 
+Substrate Specificity
+Nucleotide Substrate -- Under conditions in which Cbl was saturating , the Km and kcat for ATP were measured at 10 M and 0.03 s 1 , respectively ( Fig. 5A ) ; the Vmax was calculated at 54.5 nM min 1 . 
+Order-of-addition experiments revealed a modest increase in the specific activity of the enzyme ( 17 % ) when it was incubated with ATP first ( specific activity of 42 versus 36 nmol of AdoCbl min 1 mg 1 of protein ) . 
+Rec-ognition of NTPs by EutT was unlike that by CobA or PduO ( 2 , 10 ) . 
+Not surprisingly , ATP was the preferred nucleotide substrate ( Fig. 6A ) , but there were several differences between CobA and EutT in terms of the nucleotide substrate each enzyme could use . 
+EutT retained reasonable activity ( 31 % ) when dATP was the substrate , whereas CobA did not use dATP as substrate at all . 
+EutT retained 38 % activity when CTP was used as substrate , whereas CobA used CTP 1.5-fold better than ATP . 
+EutT activity was poor ( 10 % ) with GTP , UTP , and ITP , whereas CobA used them 45 , 125 , and 85 % as effectively as ATP ( 10 ) . 
+The sharpest difference between CobA and EutT was the ability of the latter to use ADP as substrate , retaining 83 % of its activity relative to ATP . 
+CobA did use ADP as substrate . 
+Corrinoid Substrate -- We also determined the kinetic parameters of EutT for Cbl under conditions in which MgATP was saturating . 
+Under such conditions , Km 4.1 M , kcat 0.06 s 1 , and Vmax 105 nM min 1 ( Fig. 5B ) . 
+In vitro , EutT adenosylated cobinamide , an incomplete corrinoid lacking the 5,6-dimethylbenzimidazole lower ligand . 
+When cobinamide was used as substrate , the specific activity of the enzyme ( 13 nmol of adenosylcobinamide min 1 mg 1 of protein ) was 21 % of the that measured when Cbl was the substrate ( specific activity of 62 nmol of AdoCbl min 1 mg 1 of protein ) , suggesting a role for the nucleotide loop in substrate binding . 
+Despite its in vitro activity , a mutant cobA strain ( JE7172 ) ( Table 1 ) expressing the eutT allele from a plasmid failed to grow on ethanolamine or glycerol as sole carbon source when cobinamide was provided in the medium . 
+Clearly , the rate of cobin-amide adenosylation measured in vitro was not enough to satisfy even the lowest cellular requirement for Cbl , i.e. the level needed for methylation of homocysteine to methionine by Cbl-dependent methionine synthase ( MetH ) . 
+EutT Cleaves Inorganic Tripolyphosphate ( PPPi ) into PPi and Pi -- To date , corrinoid adenosyltransferases ( 10 , 29 ) and S-adenosylmethionine synthase ( 30 ) are the only enzymes known to release PPPi as a reaction by-product without cleaving it to PPi and Pi . 
+CobA is strongly inhibited by PPPi ( 10 ) , and PduO is not ( 2 ) . 
+EutT was slightly inhibited by PPPi ( 15 % ) and PPi ( 20 % ) when each compound was present at 10-fold the concentration of ATP in the reaction mixture . 
+Pi did not inhibit EutT activity ( Fig. 6B ) . 
+Because PPPi only slightly inhibited EutT , we investigated whether EutT cleaves PPPi . 
+For this purpose , we used 31P NMR spectroscopy to determine whether PPPi , PPi , and Pi are stable reaction by-products . 
+NMR data showed that , whereas ATP and PPPi were pres-ent in the complete reaction ( Fig. 7B ) , PPi and Pi peaks were enhanced . 
+When Cbl was omitted from the reaction mixture , only PPPi signals were observed ( Fig. 7A ) . 
+Therefore , unlike CobA and PduO , EutT cleaved PPPi to PPi and Pi and cleaved ATP to adenosine and PPPi in the absence of Cbl . 
+FIGURE4.Comparisonofthecysteine-richmotifofEutTandthe4Fe / 4Sclustermotif of B. subtilis CbiX . 
+EutT has three cysteines ( boldface ) and two histidines ( outlined ) that seem to be reminiscent of the CCX2C dicopper-binding motif of cytochrome oxidase and/or the MXCX2C 4Fe/4S motif of B. subtilis CbiX . 
+Cys79 , Cys80 , and Cys83 of EutT were changed to alanine to assess their importance in EutT function . 
+Insights into the Identity of the Electron Transfer Protein Partner for EutT in Vivo Candidates within the eut Operon -- We investigated the possibility that a protein encoded by the eut operon might be the electron transfer protein for EutT . 
+We focused on two genes of unknown function , eutP and eutQ . 
+Chromosomal in-frame deletions of these genes were constructed singly or in combination . 
+In a mutant cobA background , each of these deletions was tested for its ability to affect EutT-de-pendent growth on ethanolamine . 
+If eutP , eutQ , or both are required for cob ( II ) alamin 3 cob ( I ) alamin reduction , mutant strains lacking these functions will be unable to grow on ethanolamine as carbon and energy source , i.e. the phenotype will be identical to that of the cobA eutT strain ( JE7180 ) . 
+If EutP and/or EutQ protein is not required for other metabolic functions , lack of these functions will not affect growth on ethanolamine when the wild-type cobA or eutT gene is present on the chromosome . 
+The cobA eutQ strain ( JE8819 ) displayed a slightly reduced growth rate on ethanolamine relative to the cobA eutQ strain ( JE1293 ) ( generation time of 0.26 versus 0.23 doublings/h ) . 
+However , this minor effect of the eutQ mutation on ethanolamine metabolism was independent of Cbl adenosylation because the eutQ cobA strain ( JE8816 ) also had a slightly reduced growth rate compared with the wild-type strain ( TR6583 ) ( generation time of 0.24 versus 0.29 doublings/h ) . 
+The cobA eutP strain ( JE8818 ) grew as well as the cobA strain JE1293 ( data not shown ) . 
+None of the eutQ , eutP , or eutPQ mutant strains were defective for growth on ethanolamine as sole carbon and energy source , as reported for the cobA eutT strain ( JE7180 ) ( 3 ) . 
+Based on the above data , we concluded that neither EutP nor EutQ is required for EutT function . 
+Candidates outside the eut Operon -- Given the highly hydrophobic nature of EutT protein , we postulated that a plausible source of electrons for EutT function could be the electron transport system . 
+Various electron donors were tested for the ability to allow AdoCbl production as a function of the presence of unresolved lysate , cob ( III ) alamin , ATP , and Mn2 . 
+Lysate from cells expressing eutT from an overexpression vector supported the conversion of cob ( III ) alamin to AdoCbl when FMN and NADH were included in the reaction mixture ( Fig. 8 ) . 
+Control experiments showed that FMN or NADH alone did not result in EutT-dependent AdoCbl synthesis ( data not shown ) . 
+EutT-dependent activity was detected regardless of the presence of the eut operon on the S. enterica chromosome , indicating that the EutT function does not require interactions with other Eut proteins . 
+AdoCbl was not synthesized from cob ( III ) alamin when purified CHAPS-EutT protein was substituted for EutT-enriched cell-free extracts not treated with CHAPS under conditions requiring FMN and NADH ( Fig. 8 ) . 
+AdoCbl was not detected when the membrane fraction of the cobA eutT strain ( JE7180 ) was added to purified CHAPS-EutT protein , suggesting that , in the presence of detergent , factors that allow EutT function no longer interact with EutT . 
+FIGURE 5 . 
+Kinetics of ATP and Cbl binding to EutT . 
+A , Cbl was held at 50 M , whereas the ATP concentration was varied . 
+K 1 m ( ATP ) 10 M , kcat 0.03 s , and Vmax 54 nM min 1 . 
+B , ATP was held at 500 M , whereas the Cbl concentration was varied . 
+Km ( Cbl ) 4.1 , k 0.06 s 1 , and V 105 n min 1 . 
+The insets show Lineweaver-Burk M cat max M plots . 
+FIGURE 6 . 
+NTP substrate analogs and phosphate product inhibition of EutT . 
+A , NTPs ( 0.5 mM ) weretestedinlieuofATP.B , PPPi , PPi , orPiwas added to 10-fold the amount of ATP present in the reaction to assess product inhibition . 
+For ATP , the specific activity was 61 nmol min 1 mg 1 . 
+6 
+5 
+4 
+3 
+2 
+1 
+0 
++ + + tT C u V u eu VO tT OC tT A / p e / p / p / pe ob c tT tT ut ut eu eu ∆ e ∆ e A b bA A A co b b co co co 
+FIGURE 8 . 
+NADH/FMN-dependent adenosylation of Cbl by EutT . 
+Cell-free extracts of several strains of S. enterica were prepared , and 50 g of total protein was used in adenosylation assays . 
+The product was detected by change in the absorbance at 525 nm after photolysis . 
+pVOC , vector-only control ; peutT , pEUT7 . 
+Several culture media were tested . 
+Cell-free extracts of strains used in these studies were as follows ( from left to right ) : strain JE1293 ( cobA eutT ) grown in no-carbon E medium containing ethanolamine ( 30 mM ) and HOCbl ( 1 mM ) ; strains JE7204 ( cobA eutT/vector-only control ) and JE7205 ( cobA eutT / pEUT7 ) grown in no-carbon E medium containing ethanolamine ( 30 mM ) , AdoCbl ( 1 mM ) , and L ( ) - arabinose ( 200 mM ) ; and strains JE8941 ( cobA eut/vector-only control ) and JE8942 ( cobA eut/pEUT7 ) grown in no-carbon E medium containing glycerol ( 30 mM ) , l ( ) - arabinose ( 200 mM ) , and methionine ( 0.5 mM ) . 
+The high level of HOCbl or AdoCbl was used to allow faster growth and higher yield . 
+In all cases , reaction mixtures contained FMN ( 50 M ) , NADH ( 1 mM ) , and ATP ( 1 mM ) . 
+AdoCbl ( nmol ) 
+FIGURE 7 . 
+31P NMR spectra of EutT reaction products . 
+A , reaction mixture lacking Cbl ; B , complete reaction mixture containing EutT , ATP , and Cbl ; C and D , PPPi and ATP standards , respectively ; E , mixture of ATP , PPPi , PPi , Pi , and HOCbl standards without EutT . 
+The electron transfer proteins flavodoxin ( FldA ) and the 2Fe/2S ferredoxin ( Fdx ) were tested for their ability to reduce cob ( II ) alamin in the active site of purified CHAPS-EutT enzyme . 
+S. enterica ferredoxin ( flavodoxin ) - NADP ( H ) reductase ( Fpr ) was used to reduce FldA and Fdx . 
+Although activity was detectable , it was 1 % of the activity meas-ured when Ti ( III ) citrate was used to reduce EutT ( specific activity of 0.49 versus 61 nmol of AdoCbl min 1 mg 1 of protein ) . 
+At present , we can not rule out the participation of FldA or Fdx in EutT function . 
+DISCUSSION
+The three classes of ATP : co ( I ) rrinoid adenosyltransferases known to date , CobA , PduO , and EutT , are not evolutionarily related as shown by their profound differences at the amino acid sequence level . 
+The biochemical characterization of these enzymes has provided basic knowledge regarding substrate binding and mechanism of catalysis . 
+ATP Binding and By-products of EutT Are Different from Those of Other Adenosyltransferases -- From the work reported here , we have learned that the EutT enzyme requires the amino group of adenine and the - phosphate for ATP binding and that the enzyme cleaves ATP to PPPi and adenosine when Cbl is absent from the active site . 
+Unlike CobA or PduO , EutT cleaves PPP to PP and P , explaining why PPP is i i i i a poor inhibitor of its adenosyltransferase activity . 
+The elucidation of three-dimensional EutT structures could provide further mechanistic insights into substrate binding . 
+Is EutT Located outside or inside the Metabolosome ? 
+-- Although the data strongly suggest that EutT is associated with the cell membrane , the data available do not distinguish whether EutT is inside or outside the metabolosome . 
+One possibility is that EutT is part of a complex involving other Eut proteins , that the complex is housed within the metabolosome , and that EutT anchors the latter to the cell membrane . 
+Alternatively , EutT may be associated with the cell membrane outside of the metabolosome and may not interact with other Eut proteins at all . 
+The latter possibility is feasible because the metabolosome is not a sealed proteinaceous vessel ( 31 ) , and AdoCbl could diffuse into the metabolosome for use by ethanolamine ammo-nia-lyase . 
+Some bacteria with ethanolamine ammonia-lyase genes ( eutBC ) do not have a eutT homolog in their chromosome and presumably rely solely on the housekeeping CobA enzyme . 
+It is unknown whether these organisms metabolize ethanolamine as sole carbon and energy source as do S. enterica and E. coli , both of which maintain eutT within the eut operon . 
+Possible Means for the Generation of the Cob ( I ) alamin Nucleophile for the EutT Reaction -- The data obtained in these studies shed some light on the identity of the electron donor of EutT . 
+It is unclear whether ferredoxin ( Fdx ) or flavodoxin A ( FldA ) is the physiological electron transfer protein partner of EutT . 
+The poor activity of EutT when Fdx or FldA was used to reduce cob ( II ) alamin to cob ( I ) alamin may reflect limited productive interactions between Fdx or FldA and EutT because of the detergent needed to solubilize EutT . 
+The fact that some activity was detected with FldA and Fdx warrants further investigation . 
+On the other had , the phenotypic behavior of strains JE8818 ( cobA eutP ) , JE8819 ( cobA eutQ ) , and JE8820 ( cobA eutPQ ) strongly suggests that the EutP and EutQ proteins are not involved in EutT-dependent corrinoid adenosylation or in cob ( II ) alamin 3 cob ( I ) alamin reduction . 
+The function of the EutP and EutQ proteins remains unknown . 
+A membrane-soluble electron donor may provide the reducing power for the reduction of the corrinoid substrate of EutT . 
+We note that EutT-dependent adenosylation of cob ( III ) alamin by cell-free extracts enriched for EutT was achieved in the presence of NADH and FMN . 
+One plausible explanation for these results is that NADH sinks its electrons into the electron transport system , and a semiquinone from dihydroflavins ( FMNH2 and FADH2 ) or dihydroquinone reduces cob ( II ) alamin to cob ( I ) alamin in the active site of EutT . 
+There is a need , however , to explain why NADH and FMN did not support EutT-dependent corrinoid adenosylation when the reaction mixture contained purified EutT in lieu of EutT-enriched cell-free extracts . 
+In thinking about this problem , one must consider that purified EutT was complexed with a detergent ( CHAPS ) . 
+The fact that EutT adenosylated chemically reduced cob ( I ) alamin , but could not accept electrons from the NADH/FMN pair , suggests that CHAPS does not affect EutT activity as long as the co ( I ) rrinoid substrate is available . 
+Acknowledgment—We thank the Nuclear Magnetic Resonance Facility of the 31 University of Wisconsin (Madison) for obtaining P NMR spectra.
+REFERENCES 
+1 . 
+Suh , S.-J. , and Escalante-Semerena , J. C. ( 1995 ) J. Bacteriol . 
+177 , 921 -- 925 2 . 
+Johnson , C. L. , Pechonick , E. , Park , S. D. , Havemann , G. D. , Leal , N. A. , and Bobik , T. A. ( 2001 ) J. Bacteriol . 
+183 , 1577 -- 1584 3 . 
+Buan , N. R. , Suh , S.-J. , and Escalante-Semerena , J. C. ( 2004 ) J. Bacteriol . 
+186 , 5708 -- 5714 4 . 
+Sheppard , D. E. , Penrod , J. T. , Bobik , T. , Kofoid , E. , and Roth , J. R. ( 2004 ) J. Bacteriol . 
+186 , 7635 -- 7644 5 . 
+Bobik , T. A. , Xu , Y. , Jeter , R. M. , Otto , K. E. , and Roth , J. R. ( 1997 ) J. Bacteriol . 
+179 , 6633 -- 6639 6 . 
+Stojiljkovic , I. , Bäumler , A. J. , and Heffron , F. ( 1995 ) J. Bacteriol . 
+177 , 1357 -- 1366 7 . 
+Kofoid , E. , Rappleye , C. , Stojiljkovic , I. , and Roth , J. ( 1999 ) J. Bacteriol . 
+181 , 5317 -- 5329 8 . 
+Escalante-Semerena , J. C. , Suh , S.-J. , and Roth , J. R. ( 1990 ) J. Bacteriol . 
+172 , 273 -- 280 9 . 
+Stich , T. A. , Buan , N. R. , Escalante-Semerena , J. C. , and Brunold , T. C. ( 2005 ) J. Am . 
+Chem . 
+Soc . 
+127 , 8710 -- 8719 10 . 
+Fonseca , M. V. , Buan , N. R. , Horswill , A. R. , Rayment , I. , and Escalante-Semerena , J. C. ( 2002 ) J. Biol . 
+Chem . 
+277 , 33127 -- 33131 11 . 
+Bauer , C. B. , Fonseca , M. V. , Holden , H. M. , Thoden , J. B. , Thompson , T. B. , Es-calante-Semerena , J. C. , and Rayment , I. ( 2001 ) Biochemistry 40 , 361 -- 374 12 . 
+Fonseca , M. V. , and Escalante-Semerena , J. C. ( 2001 ) J. Biol . 
+Chem . 
+276 , 32101 -- 32108 13 . 
+Suh , S.-J. , and Escalante-Semerena , J. C. ( 1993 ) Gene ( Amst . ) 
+129 , 93 -- 97 14 . 
+Leal , N. A. , Park , S. D. , Kima , P. E. , and Bobik , T. A. ( 2003 ) J. Biol . 
+Chem . 
+278 , 9227 -- 9234 15 . 
+Leal , N. A. , Olteanu , H. , Banerjee , R. , and Bobik , T. A. ( 2004 ) J. Biol . 
+Chem . 
+279 , 47536 -- 47542 16 . 
+Saridakis , V. , Yakunin , A. , Xu , X. , Anandakumar , P. , Pennycooke , M. , Gu , J. , Cheung , F. , Lew , J. M. , Sanishvili , R. , Joachimiak , A. , Arrowsmith , C. H. , Christendat , D. , and Edwards , A. M. ( 2004 ) J. Biol . 
+Chem . 
+279 , 23646 -- 23653 17 . 
+Havemann , G. D. , Sampson , E. M. , and Bobik , T. A. ( 2002 ) J. Bacteriol . 
+184 , 1253 -- 1261 18 . 
+Brinsmade , S. R. , Paldon , T. , and Escalante-Semerena , J. C. ( 2005 ) J. Bacteriol . 
+187 , 8039 -- 8046 19 . 
+Bertani , G. ( 1951 ) J. Bacteriol . 
+62 , 293 -- 300 20 . 
+Bertani , G. ( 2004 ) J. Bacteriol . 
+186 , 595 -- 600 21 . 
+Berkowitz , D. , Hushon , J. M. , Whitfield , H. J. , Roth , J. , and Ames , B. N. ( 1968 ) J. Bacteriol . 
+96 , 215 -- 220 22 . 
+Balch , W. E. , and Wolfe , R. S. ( 1976 ) Appl . 
+Environ . 
+Microbiol . 
+32 , 781 -- 791 23 . 
+Guzman , L.-M. , Belin , D. , Carson , M. J. , and Beckwith , J. ( 1995 ) J. Bacteriol . 
+177 , 4121 -- 4130 24 . 
+Ryu , J.-I. , and Hartin , R. J. ( 1990 ) BioTechniques 8 , 43 -- 45 25 . 
+Laemmli , U. K. ( 1970 ) Nature 227 , 680 -- 685 26 . 
+Bianchi , V. , Reichard , P. , Eliasson , R. , Pontis , E. , Krook , M. , Jörnvall , H. , and Haggård-Ljungquist , E. ( 1993 ) J. Bacteriol . 
+175 , 1590 -- 1595 27 . 
+Kakuta , Y. , Horio , T. , Takahashi , Y. , and Fukuyama , K. ( 2001 ) Biochemistry 40 , 11007 -- 11012 28 . 
+Brindley , A. A. , Raux , E. , Leech , H. K. , Schubert , H. L. , and Warren , M. J. ( 2003 ) J. Biol . 
+Chem . 
+278 , 22388 -- 22395 29 . 
+Johnson , C. L. , Buszko , M. L. , and Bobik , T. A. ( 2004 ) J. Bacteriol . 
+186 , 7881 -- 7887 30 . 
+Markham , G. D. , Hafner , E. W. , Tabor , C. W. , and Tabor , H. ( 1980 ) J. Biol . 
+Chem . 
+255 , 9082 -- 9092 31 . 
+Kerfeld , C. A. , Sawaya , M. R. , Tanaka , S. , Nguyen , C. V. , Phillips , M. , Beeby , M. , and Yeates , T. O. ( 2005 ) Science 309 , 936 -- 938 32 . 
+Castilho , B. A. , Olfson , P. , and Casadaban , M. J. ( 1984 ) J. Bacteriol . 
+158 , 488 -- 495 33 . 
+Datsenko , K. A. , and Wanner , B. L. ( 2000 ) Proc . 
+Natl. Acad . 
+Sci . 
+U. S. A. 97 , 6640 -- 6645

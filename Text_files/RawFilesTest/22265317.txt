@@ -1,0 +1,302 @@
+at SciVerse ScienceDirect Contents lists available 
+Food Microbiology
+journal homepage : www.elsevier.com/locate/fm 
+Short communication 
+Transcriptome sequencing of Salmonella enterica serovar Enteritidis under desiccation and starvation stress in peanut oil 
+Xiangyu Deng 1 , Zengxin Li , Wei Zhang * 
+Institute for Food Safety and Health , Illinois Institute of Technology , 6502 S. Archer Rd , Bedford Park , IL 60501 , USA 
+a r t i c l e i n f o 
+a b s t r a c t 
+It is well recognized that Salmonella can survive long-term starvation and desiccation stresses and contaminate foods that have intermediate to low water activities ; however , little is known about the speciﬁc molecular mechanisms underlying its survival and persistence in low water activity foods . 
+In this study , we used the RNA-seq approach to compare the transcriptomes ( 27e33 million 36-bp reads per sample ) of a Salmonella enterica subsp . 
+enteric serovar Enteritidis strain ATCC BAA-1045 after inoculation in peanut oil ( water activity 0.30 ) for 72 h , 216 h and 528 h to those grown in Luria-Bertani ( LB ) broth for 12 h and 312 h . 
+Our results showed that desiccated Salmonella cells in peanut oil were in a physiologically dormant state with < 5 % of its genome being transcribed compared to 78 % in LB broth . 
+Among the few detected transcripts in peanut oil , genes involved in heat and cold shock response , DNA protection and regulatory functions likely play roles in cross protecting Salmonella from desiccation and starvation stresses . 
+In addition , non-coding RNAs may also play roles in Salmonella desiccation stress response . 
+This is the ﬁrst report of using RNA-seq technology in characterizing bacterial transcriptomes in a food matrix . 
+2011 Elsevier Ltd. . 
+All rights reserved . 
+Article history : Received 24 August 2011 
+Received in revised form 7 October 2011 Accepted 2 November 2011 Available online 13 November 2011 
+Keywords : 
+Transcriptome sequencing Salmonella enterica Desiccation Stress response 
+1 . 
+Introduction 
+The ability of Salmonella enterica to contaminate and survive in low water activity ( aw ) foods has been well documented ( Burnett et al. , 2000 ; Isaacs et al. , 2005 ; Killalea et al. , 1996 ; Kirk et al. , 2004 ; Rowe et al. ,1987 ; Shohat et al. ,1996 ) . 
+Recent multi-state outbreaks of salmonellosis associated with peanut butter ( Anonymous , 2007 ; Anonymous , 2009 ) and pet food ( Anonymous , 2008 ) in the United States has demonstrated the need for basic understanding of the survival and persistence strategies of S. enterica in low aw food commodities . 
+Despite extensive studies on the survival characteristics of S. enterica in various model systems with reduced aw ( Archer et al. , 1998 ; Gruzdev et al. , 2011 ; Hiramatsu et al. , 2005 ; Mattick et al. , 2000 , 2001 ; Shachar and Yaron , 2006 ) , little is known about the physiology of this pathogen under desiccation and starvation stress and the underlying molecular mechanisms for its survival and persistence in low aw foods . 
+A number of recent studies investigated the global gene expression proﬁles of bacteria in food matrices ( Bergholz et al. , 2009 ; Cretenet et al. , 2011 ; Fratamico et al. , 2011 ; Liu and Ream , 2008 ; Makhzami et al. , 2008 ; Raynaud et al. , 2005 ; Sirsat et al. , 
+* Corresponding author . 
+Tel. : þ1 708 563 2980 ; fax : þ1 708 563 1873 . 
+E-mail addresses : xiangyu.deng@gmail.com ( X. Deng ) , zhangw@iit.edu ( W. Zhang ) . 
+1 Current address : Kraft Foods Technology Center , 801 Waukegan Rd. , Glenview , IL 60025 , USA . 
+2011 ) . 
+Most of these studies relied on DNA array technology to compare bacterial transcriptomes under various conditions or treatments , based on which speciﬁc cellular responses to environmental cues were deduced . 
+However , technical difﬁculties associated with isolating high quality bacterial RNA from complex food matrices coupled with the relative low detection sensitivity of DNAeDNA hybridization have restricted DNA array-based applications in deciphering more subtle bacterial transcriptomic response to food and environmental stresses ( e.g. detection of rare transcripts and non-coding regulatory RNAs ) . 
+In the present study , we demonstrate , for the ﬁrst time , the use of whole transcriptome sequencing ( or RNA-seq ) technology to study bacterial global gene expression in a food matrix . 
+Speciﬁcally , the transcriptomic response of S. Enteritidis to desiccation and starvation stress in peanut oil ( aw 0.3 ) was investigated as this particular Salmonella serotype has been implicated in a number of foodborne illness outbreaks associated with low aw foods ( Gruzdev et al. , 2011 ) . 
+2. Materials and methods
+2.1. Bacteria
+We used S. Enteritidis str . 
+ATCC BAA-1045 which was isolated from recalled almonds implicated in an international outbreak of salmonellosis ( Isaacs et al. , 2005 ) 
+0740-0020 / $ e see front matter 2011 Elsevier Ltd. . 
+All rights reserved . 
+doi :10.1016 / j.fm .2011.11.001 
+2.2. Inoculation of peanut oil LB broth (10 ml overnight culture inoculated in 100 ml LB broth) at 12 h (early stationary phase) and 312 h (long-term survival phase) after inoculation as described above.
+We used peanut oil as the food matrix mainly because of its low water activity ( aw 0.3 ) . 
+Also , separation and recovery of bacteria from peanut oil was effective . 
+S. Enteritidis cells from 10 ml of overnight Luria-Bertani ( LB ) culture ( w109 CFU/ml ) were harvested by centrifugation at 4000 rpm for 5 min , washed three times with 1X phosphate buffered saline ( PBS ) at neutral pH , and air dried for 30 min . 
+Dried cell pellets were thoroughly mixed with 10 ml peanut oil in centrifuge tubes by hand stirring and vortexing ( ﬁnal cell density around 109 CFU/ml in peanut oil ) . 
+Spiked peanut oil suspensions were kept horizontally in a shaking incubator at 300 rpm ( to avoid the clumping of cells ) at 25 C for up to 30 days . 
+2.3. RNA extraction
+S. Enteritidis cells were harvested from peanut oil at speciﬁc time points ( i.e. 72 h , 216 h and 528 h ) by centrifugation at 4000 rpm at room temperature for 5 min and immediately stabilized using QIAGEN RNAprotect bacterial reagent ( QIAGEN Inc. , Valencia , CA ) . 
+Total bacterial RNA was puriﬁed using the AMBION RiboPure Bacterial Kit ( Life Technologies Corporation , Carlsbad , CA ) . 
+Total RNA from two biological replicates for each time point was prepared from independent cultures on different days to evaluate the reproducibility of RNA-seq data . 
+For comparison purposes , total RNA samples were also prepared from S. Enteritidis cells grown in 
+2.4. RNA-seq analysis
+After two consecutive rounds of DNase treatment ( supplied by AMBION RiboPure kit ) , each DNA-free total RNA sample was subjected to whole transcriptome sequencing on an Illumina Genome Analyzer to generate 36-bp single-end reads . 
+Library preparation , cluster generation and sequencing were performed according to manufacturer 's recommendations ( Illumina Inc. , San Diego , CA ) . 
+Prior to cluster generation , Duplex-Speciﬁc thermostable nuclease ( DSN ) ( Evrogen , Moscow , Russia ) normalization was performed to enrich rare transcripts ( Zhulidov et al. , 2004 ) . 
+Sequencing reads were mapped to a fully sequenced S. Enteritidis str . 
+P125109 genome ( Thomson et al. , 2008 ) using Bowtie ( Langmead et al. , 2009 ) and assembled into transcripts using Cufﬂinks ( Trapnell et al. , 2010 ) , both through the Galaxy server ( Goecks et al. , 2010 ) . 
+Annotation of the reference genome was then used to curate and analyze assembled transcripts by self-written Python programs based on Biopython modules ( Cock et al. , 2009 ) . 
+Sequencing data and analysis history are publicly available at http://main.g2.bx.psu . 
+edu/u/xdeng / h/salmonella-rna-seq . 
+Quantitative reverse transcription PCR ( qPCR or qRT-PCR ) was used to validate the expression of 12 genes identiﬁed by RNA-seq ( Table 2 ) based on the method described in ( Wen et al. , 2011 ) . 
+Table 1 
+Summary of RNA-seq data . 
+Total number of reads Percentage of mapped readsa Number of reads mapped to CDS 
+Sample 
+12 h LB ( 1 ) 12 h LB ( 2 ) 
+27,151,557 33,274,075 29,017,764 34,958,141 30,015,630 30,131,874 32,148,558 30,918,263 31,967,767 32,179,987 
+92.98 % 92.45 % 92.24 % 90.48 % 93.17 % 94.30 % 92.08 % 91.55 % 93.11 % 90.45 % 
+396,413 1,763,526 499,106 311,127 228,119 232,015 228,255 148,408 210,987 234,914 
+312 h LB ( 1 ) 312 h LB ( 2 ) 72 h peanut oil ( 1 ) 72 h peanut oil ( 2 ) 216 h peanut oil ( 1 ) 216 h peanut oil ( 2 ) 528 h peanut oil ( 1 ) 528 h peanut oil ( 2 ) 
+a Based on default Bowtie setting at Galaxy which allowed a maximum of 2 mismatches in ﬁrst 28 bases ( seed length 1/4 28 bp ) . 
+Table 2 
+Genes transcribed in desiccated S. Enteritidis in LB broth and peanut oil . 
+FPKMa 
+Locus ID Description 
+12 h LB 30.99 24.21 12.03 37.33 109.46 19.71 5.65 20.33 1.50 13.97 6.01 17.26 17.26 13.78 65.77 4.40 4.40 31.94 31.94 8.74 
+528 h oil e e 1.05 1.98 b 2.04 e 16.29 1.85 1.92 0.97 1.79 5.00 5.00 1.57 1.53 1.80 1.55 1.26 b e e 
+216 h oil e 1.91 5.63 9.81 3.72 e 17.77 8.19 13.03 1.17 4.73 17.27 17.27 9.05 3.82 5.78 5.78 11.19 11.19 0.92 b 
+72 h oil 1.16 e 4.23 13.29 1.41 b 1.56 5.16 3.70 9.99 1.43 0.58 28.29 28.29 1.81 1.35 2.34 2.34 1.82 1.46 2.60 
+312 h LB 17.84 17.84 16.45 21.77 12.48 8.75 3.64 17.82 10.31 24.68 5.91 6.17 6.17 26.09 33.84 10.44 10.44 31.88 31.88 6.37 
+Chaperone protein DnaK Chaperone protein DnaJ 
+SEN0011 SEN0012 SEN0135 SEN0598 SEN0776 SEN0851 SEN0984 SEN1257 SEN1835 SEN2566 SEN2602 SEN3194 SEN3195 SEN3391 SEN3472 SEN3509 SEN3510 SEN3624 SEN3625 SEN4009 
+N-acetylglucosamine deacetylase Cold shock protein CspE Starvation/stationary phase protection protein Dps Cold shock-like protein CspD Hypothetical protein Hypothetical protein Hypothetical protein Sigma factor RpoE Heat shock protein GrpE Hypothetical protein Hypothetical protein Sigma factor 32 RpoD Major cold shock protein Mannitol repressor protein Hypothetical protein Heat shock chaperone IbpB Heat shock protein IbpA Putative stress-response protein 
+`` e '' : Transcript was not detected in both replicates of the sample . 
+a Abundance of transcripts were quantiﬁed as normalized number of fragments per kilo bases per million reads ( FPKM ) . 
+b Transcript was detected in only one replicate of the sample , of which the FPKM was shown 
+Deep transcriptome sequencing generated 27e35 million reads per sample ( Table 1 ) . 
+An average of 98.4 % of these reads were mapped to rRNA and tRNA sequences , whereas 0.15 e1 .7 million reads per sample were mapped to protein-coding sequences ( CDS ) and other rare RNA species ( e.g. non-coding RNA ) in the S. Enteritidis str . 
+P125109 genome . 
+The output of CDS-targeting RNA in this study was comparable with those of other bacterial RNA-seq studies ( Oliver et al. , 2009 ; Perkins et al. , 2009 ; Yoder-Himes et al. , 2009 ) . 
+We observed high level of ribosomal RNA ( rRNA ) degradation in S. Enteritidis after 6 h inoculation in LB broth and at various time points during the incubation in peanut oil . 
+This observation was consistent with a previous report that extensive rRNA fragmentation and degradation was found upon the transition from exponential to stationary phase in S. enterica ( Hsu et al. , 1994 ) . 
+Degraded rRNA was thought to be a source of nutrients that could be utilized by bacteria during starvation or upon other environmental stresses ( Deutscher , 2006 ) . 
+A drastic difference in transcriptomic activities was detected between S. Enteritidis cells inoculated in LB broth and those in peanut oil ( Fig. 1 ) . 
+Nearly half of the S. Enteritidis genome was transcribed under starvation stress in LB broth at 312 h ; however , only about 1.36 e4 .42 % of the genome was actively transcribed under both starvation and desiccation stresses in peanut oil at 216 h and 518 h . 
+This observation suggests that starved S. Enteritidis cells in low aw peanut oil are likely in a physiological state distinct from those starved in LB broth . 
+Two possible scenarios may partially explain the fact that much fewer transcripts were detected in desiccated S. Enteritidis cells . 
+First , desiccated S. Enteritidis cells may be in a metabolically dormant state marked by low transcriptional activity as found in other nonspore-forming bacterial species under starvation stress ( Jones and Lennon , 2010 ; Lewis , 2007 ) . 
+Second , as a survival mechanism , desiccated S. Enteritidis cells may increase the degradation of RNA molecules in order to obtain more nutrients . 
+It was reported that prolonged starvation in batch cultures can induce a growth advantage in stationary phase ( GASP ) phenotype in enterobacteria such as Escherichia coli and 
+3 . 
+Results and discussions 
+Fig. 1 . 
+A circular map of S. Enteritidis transcripts detected by RNA-seq . 
+The innermost circle shows nucleotide coordinates on the S. Enteritidis str . 
+P125109 genome . 
+From inside out : the two blue circles show genes expressed in 12 h and 312 h LB broth , respectively ; the three red circles show genes expressed in 72 h , 216 h , and 528 h peanut oil , respectively . 
+Only genes detected in both biological replicates were shown . 
+Desiccation-induced stress-response genes and non-coding RNAs were labeled at corresponding genomic locations . 
+Genes , from A through L : dnaK , dnaJ , cspE , dps , cspD , sigE , grpE , sigma-32 , major cold shock protein , ibpA , ibpB , and putative stress-response protein . 
+Non-coding RNAs , from 1 to 9 : sraC/rye RNA , rprA RNA , ryfA RNA , tke1 RNA , csrB RNA , RNase P RNA , sraJ RNA and csrC RNA . 
+Non-coding RNA transcribed in desiccated S. Enteritidis in peanut oil . 
+Genome location 503792.503915 1226143.1226322 1784211.1784419 2675687.2676039 2708464.2708604 2796024.2796426 3005411.3005789 3302193.3302585 4012003.4012218 4078959.4079170 
+Annotation Signal recognition particle RNA 
+312 h LB e þþ þþ þþ e þþ e þe þe e 
+72 h oil þe þþ e þþ þþ þþ þþ þþ þþ þþ 
+216 h oil þþ þþ e þþ þþ þþ þþ þþ þþ þþ 
+528 h oil þþ þþ e þþ þþ þþ þþ þþ e e 
+12 h LB 
+e 
+þe e þe þe þe e e 
+sraC/ryeA RNA ( Wassarman et al. , 2001 ) rprA RNA ( Majdalani et al. , 2001 ) ryfA RNA ( Wassarman et al. , 2001 ) tke1 RNA ( Rivas et al. , 2001 ) Transfer messenger RNA ( Williams and Bartel , 1998 ) csrB RNA ( Liu et al. , 1997 ) RNase P RNA ( Brown , 1999 ) craJ RNA ( Argaman et al. , 2001 ) csrC RNA ( Argaman et al. , 2001 ) 
+e e 
+Only ncRNAs detected in both replicates under at least one condition are listed ; genomic locations and annotation are based on reference genome S. Enteritidis P125109 ( Thomson et al. , 2008 ) ; þ , detected in one biological replicate ; e , not detected in one biological replicate . 
+S. enterica ( Finkel and Kolter , 1999 ; Lewis , 2007 ; Martinez-Garcia et al. , 2003 ) . 
+During GASP , genetic mutants ﬁtter for the adverse environment keep emerging and replacing less competitive cells , causing dynamic ﬂuctuations in the cell population . 
+We observed that S. Enteritidis cells in peanut oil at 216 h appeared to have increased population ( between 120 h and 360 h ) and transcriptional activity ( compared with 72 h and 528 h samples ) . 
+Further studies are necessary to determine whether GASP phenotype is present in S. Enteritidis under desiccation stress . 
+Peanut butter production typically includes multiple steps of drying and roasting , therefore , bacterial resistance to desiccation and heat is considered critical for S. enterica survival and persistence in this food ( Archer et al. , 1998 ; Gruzdev et al. , 2011 ; Mattick et al. , 2000 , 2001 ; Shachar and Yaron , 2006 ) . 
+Among the considerably few genes expressed in peanut oil-treated cells , transcription of 12 genes were detected in both biological replicates at the three sampling time points ( Table 2 ) . 
+Four of these genes encode proteins involved in bacterial stress response to temperature shift , including heat shock sigma factor RpoH ( Landick et al. , 1984 ) , extreme heat and cell envelope stress sigma factor RpoE ( Hiratsu et al. , 1995 ) , heat shock protein GrpE ( Ang et al. , 1986 ) , and a major cold shock protein CspA ( Goldstein et al. , 1990 ) . 
+Several additional stressresponse genes were also detected in the majority of the ﬁve samples . 
+In spite of the overall metabolic dormancy and elevated degradation of transcriptome in desiccated S. Enteritidis cells in peanut oil , a few critical genes maintained active transcription , which may in turn assist the `` persister '' cells to survive subsequent heat and other environmental challenges . 
+In addition to proteincoding genes , a number of non-coding regulatory RNAs ( ncRNA ) were also detected in starved and desiccated S. Enteritidis cells in peanut oil ( Table 3 ) . 
+Notably , transcription of the enterobacterspeciﬁc csrB and csrC ncRNAs was detected only in the starved S. Enteritidis cells in peanut oil but not in the starved S. Enteritidis cells in LB broth . 
+Both ncRNAs bind to mRNA of the global carbon storage regulator gene CsrA and regulate carbon ﬂux and metabo-lism ( Argaman et al. , 2001 ; Liu et al. , 1997 ) . 
+The functions of these ncRNAs and their potential roles in mediating energy metabolism in persister cells are yet to be identiﬁed . 
+In summary , low water activity in foods can reduce bacterial growth and metabolism . 
+Desiccation in turn can trigger a number of `` stress response '' mechanisms in the bacteria that enhance bacterial resistance to other stresses and prolong bacterial survival in the product . 
+S. enterica has been implicated in numerous human disease outbreaks associated with a wide variety of low moisture foods . 
+Yet , it remains a mystery how this pathogen manages to survive in these foods where free water and nutrients are limited for bacterial growth . 
+This study provides an initial assessment of S. Enteritidis transcriptomic stress response to desiccation in peanut oil as it relates to the survival and persistence of this pathogen in other low aw foods . 
+A better understanding of the speciﬁc molecular determinants employed by this pathogen to resist desiccation stress in low aw foods may enlight new strategies for more effective intervention and control . 
+Acknowledgments
+This study was supported by the Food Research Initiative Grant no. 2010-65201-20593 from the USDA National Institute of Food Agriculture , Food Safety and Epidemiology : Biological Approaches for Food Safety program ( program code 93231 ) . 
+References 
+Anonymous , 2007 . 
+Multistate outbreak of Salmonella serotype Tennessee infections associated with peanut butter e United States , 2006e2007 . 
+MMWR e Morbidity and Mortality Weekly Report 56 , 521e524 . 
+Anonymous , 2008 . 
+Multistate outbreak of human Salmonella infections caused by contaminated dry dog food e United States , 2006e2007 . 
+MMWR e Morbidity and Mortality Weekly Report 57 , 521e524 . 
+Anonymous , 2009 . 
+Multistate outbreak of Salmonella infections associated with peanut butter and peanut butter-containing products e United States , 2008e2009 . 
+MMWR e Morbidity and Mortality Weekly Report 58 , 85e90 . 
+Ang , D. , Chandrasekhar , G.N. , Zylicz , M. , Georgopoulos , C. , 1986 . 
+Escherichia coli grpE gene codes for heat shock protein B25 .3 , essential for both lambda DNA replication at all temperatures and host growth at high temperature . 
+Journal of Bacteriology 167 , 25e29 . 
+Archer , J. , Jervis , E.T. , Bird , J. , Gaze , J.E. , 1998 . 
+Heat resistance of Salmonella weltev-reden in low-moisture environments . 
+Journal of Food Protection 61 , 969e973 . 
+Argaman , L. , Hershberg , R. , Vogel , J. , Bejerano , G. , Wagner , E.G. , Margalit , H. , Altuvia , S. , 2001 . 
+Novel small RNA-encoding genes in the intergenic regions of Escherichia coli . 
+Current Biology : CB 11 , 941e950 . 
+Bergholz , T.M. , Vanaja , S.K. , Whittam , T.S. , 2009 . 
+Gene expression induced in Escherichia coli O157 : H7 upon exposure to model apple juice . 
+Applied and Environmental Microbiology 75 , 3542e3553 . 
+Brown , J.W. , 1999 . 
+The Ribonuclease P Database . 
+Nucleic Acids Research 27 , 314 . 
+Burnett , S.L. , Gehm , E.R. , Weissinger , W.R. , Beuchat , L.R. , 2000 . 
+Survival of Salmo-nella in peanut butter and peanut butter spread . 
+Journal of Applied Microbiology 89 , 472e477 . 
+Cock , P.J. , Antao , T. , Chang , J.T. , Chapman , B.A. , Cox , C.J. , Dalke , A. , Friedberg , I. , Hamelryck , T. , Kauff , F. , Wilczynski , B. , de Hoon , M.J. , 2009 . 
+Biopython : freely available Python tools for computational molecular biology and bioinformatics . 
+Bioinformatics 25 , 1422e1423 . 
+Cretenet , M. , Laroute , V. , Ulve , V. , Jeanson , S. , Nouaille , S. , Even , S. , Piot , M. , Girbal , L. , Le Loir , Y. , Loubiere , P. , Lortal , S. , Cocaign-Bousquet , M. , 2011 . 
+Dynamic analysis of the Lactococcus lactis transcriptome in cheeses made from milk concentrated by ultraﬁltration reveals multiple strategies of adaptation to stresses . 
+Applied and Environmental Microbiology 77 , 247e257 . 
+Deutscher , M.P. , 2006 . 
+Degradation of RNA in bacteria : comparison of mRNA and stable RNA . 
+Nucleic Acids Research 34 , 659e666 . 
+Finkel , S.E. , Kolter , R. , 1999 . 
+Evolution of microbial diversity during prolonged starvation . 
+Proceedings of the National Academy of Sciences of the United States of America 96 , 4023e4027 . 
+Fratamico , P.M. , Wang , S. , Yan , X. , Zhang , W. , Li , Y. , 2011 . 
+Differential gene expression of E. coli O157 : H7 in ground beef extract compared to Tryptic Soy Broth . 
+Journal of Food Science 76 , M79eM87 . 
+Goecks , J. , Nekrutenko , A. , Taylor , J. , 2010 . 
+Galaxy : a comprehensive approach for supporting accessible , reproducible , and transparent computational research in the life sciences . 
+Genome Biology 11 , R86 . 
+Goldstein , J. , Pollitt , N.S. , Inouye , M. , 1990 . 
+Major cold shock protein of Escherichia coli . 
+Proceedings of the National Academy of Sciences of the United States of America 87 , 283e287 
+Gruzdev , N. , Pinto , R. , Sela , S. , 2011 . 
+Effect of desiccation on tolerance of Salmonella enterica to multiple stresses . 
+Applied and Environmental Microbiology 77 , 1667e1673 . 
+Hiramatsu , R. , Matsumoto , M. , Sakae , K. , Miyazaki , Y. , 2005 . 
+Ability of Shiga toxinproducing Escherichia coli and Salmonella spp . 
+to survive in a desiccation model system and in dry foods . 
+Applied and Environmental Microbiology 71 , 6657e6663 . 
+Hiratsu , K. , Amemura , M. , Nashimoto , H. , Shinagawa , H. , Makino , K. , 1995 . 
+The rpoE gene of Escherichia coli , which encodes sigma E , is essential for bacterial growth at high temperature . 
+Journal of Bacteriology 177 , 2918e2922 . 
+Hsu , D. , Shih , L.M. , Zee , Y.C. , 1994 . 
+Degradation of rRNA in Salmonella strains : a novel mechanism to regulate the concentrations of rRNA and ribosomes . 
+Journal of Bacteriology 176 , 4761e4765 . 
+Isaacs , S. , Aramini , J. , Ciebin , B. , Farrar , J.A. , Ahmed , R. , Middleton , D. , Chandran , A.U. , Harris , L.J. , Howes , M. , Chan , E. , Pichette , A.S. , Campbell , K. , Gupta , A. , Lior , L.Y. , Pearce , M. , Clark , C. , Rodgers , F. , Jamieson , F. , Brophy , I. , Ellis , A. , 2005 . 
+An international outbreak of salmonellosis associated with raw almonds contaminated with a rare phage type of Salmonella enteritidis . 
+Journal of Food Protection 68 , 191e198 . 
+Jones , S.E. , Lennon , J.T. , 2010 . 
+Dormancy contributes to the maintenance of microbial diversity . 
+Proceedings of the National Academy of Sciences of the United States of America 107 , 5881e5886 . 
+Killalea , D. , Ward , L.R. , Roberts , D. , de Louvois , J. , Suﬁ , F. , Stuart , J.M. , Wall , P.G. , Susman , M. , Schwieger , M. , Sanderson , P.J. , Fisher , I.S. , Mead , P.S. , Gill , O.N. , Bartlett , C.L. , Rowe , B. , 1996 . 
+International epidemiological and microbiological study of outbreak of Salmonella agona infection from a ready to eat savoury snackeI : England and Wales and the United States . 
+BMJ 313 , 1105e1107 . 
+Kirk , M.D. , Little , C.L. , Lem , M. , Fyfe , M. , Genobile , D. , Tan , A. , Threlfall , J. , Paccagnella , A. , Lightfoot , D. , Lyi , H. , McIntyre , L. , Ward , L. , Brown , D.J. , Surnam , S. , Fisher , I.S. , 2004 . 
+An outbreak due to peanuts in their shell caused by Salmonella enterica serotypes Stanley and Newport e sharing molecular information to solve international outbreaks . 
+Epidemiology and Infection 132 , 571e577 . 
+Landick , R. , Vaughn , V. , Lau , E.T. , VanBogelen , R.A. , Erickson , J.W. , Neidhardt , F.C. , 1984 . 
+Nucleotide sequence of the heat shock regulatory gene of E. coli suggests its protein product may be a transcription factor . 
+Cell 38 , 175e182 . 
+Langmead , B. , Trapnell , C. , Pop , M. , Salzberg , S.L. , 2009 . 
+Ultrafast and memory-efﬁcient alignment of short DNA sequences to the human genome . 
+Genome Biology 10 , R25 . 
+Lewis , K. , 2007 . 
+Persister cells , dormancy and infectious disease . 
+Nature Reviews . 
+Microbiology 5 , 48e56 . 
+Liu , M.Y. , Gui , G. , Wei , B. , Preston 3rd , J.F. , Oakford , L. , Yuksel , U. , Giedroc , D.P. , Romeo , T. , 1997 . 
+The RNA molecule CsrB binds to the global regulatory protein CsrA and antagonizes its activity in Escherichia coli . 
+The Journal of Biological Chemistry 272 , 17502e17510 . 
+Liu , Y. , Ream , A. , 2008 . 
+Gene expression proﬁling of Listeria monocytogenes strain F2365 during growth in ultrahigh-temperature-processed skim milk . 
+Applied and Environmental Microbiology 74 , 6859e6866 . 
+Majdalani , N. , Chen , S. , Murrow , J. , St John , K. , Gottesman , S. , 2001 . 
+Regulation of RpoS by a novel small RNA : the characterization of RprA . 
+Molecular Microbiology 39 , 1382e1394 . 
+Makhzami , S. , Quenee , P. , Akary , E. , Bach , C. , Aigle , M. , Delacroix-Buchet , A. , Ogier , J.C. , Serror , P. , 2008 . 
+In situ gene expression in cheese matrices : application to a set of enterococcal genes . 
+Journal of Microbiological Methods 75 , 485e490 . 
+Martinez-Garcia , E. , Tormo , A. , Navarro-Llorens , J.M. , 2003 . 
+GASP phenotype : presence in enterobacteria and independence of sigmaS in its acquisition . 
+FEMS Microbiology Letters 225 , 201e206 . 
+Mattick , K.L. , Jorgensen , F. , Legan , J.D. , Lappin-Scott , H.M. , Humphrey , T.J. , 2000 . 
+Habituation of Salmonella spp . 
+at reduced water activity and its effect on heat tolerance . 
+Applied and Environmental Microbiology 66 , 4921e4925 . 
+Mattick , K.L. , Jorgensen , F. , Wang , P. , Pound , J. , Vandeven , M.H. , Ward , L.R. , Legan , J.D. , Lappin-Scott , H.M. , Humphrey , T.J. , 2001 . 
+Effect of challenge 
+temperature and solute type on heat tolerance of Salmonella serovars at low water activity . 
+Applied and Environmental Microbiology 67 , 4128e4136 . 
+Oliver , H.F. , Orsi , R.H. , Ponnala , L. , Keich , U. , Wang , W. , Sun , Q. , Cartinhour , S.W. , Filiatrault , M.J. , Wiedmann , M. , Boor , K.J. , 2009 . 
+Deep RNA sequencing of L. monocytogenes reveals overlapping and extensive stationary phase and sigma B-dependent transcriptomes , including multiple highly transcribed noncoding RNAs . 
+BMC Genomics 10 , 641 . 
+Perkins , T.T. , Kingsley , R.A. , Fookes , M.C. , Gardner , P.P. , James , K.D. , Yu , L. , Assefa , S.A. , He , M. , Croucher , N.J. , Pickard , D.J. , Maskell , D.J. , Parkhill , J. , Choudhary , J. , Thomson , N.R. , Dougan , G. , 2009 . 
+A strand-speciﬁc RNA-Seq analysis of the transcriptome of the typhoid bacillus Salmonella typhi . 
+PLoS Genetics 5 , e1000569 . 
+Raynaud , S. , Perrin , R. , Cocaign-Bousquet , M. , Loubiere , P. , 2005 . 
+Metabolic and transcriptomic adaptation of Lactococcus lactis subsp . 
+lactis Biovar diacetylactis in response to autoacidiﬁcation and temperature downshift in skim milk . 
+Applied and Environmental Microbiology 71 , 8016e8023 . 
+Rivas , E. , Klein , R.J. , Jones , T.A. , Eddy , S.R. , 2001 . 
+Computational identiﬁcation of noncoding RNAs in E. coli by comparative genomics . 
+Current Biology : CB 11 , 1369e1373 . 
+Rowe , B. , Begg , N.T. , Hutchinson , D.N. , Dawkins , H.C. , Gilbert , R.J. , Jacob , M. , Hales , B.H. , Rae , F.A. , Jepson , M. , 1987 . 
+Salmonella ealing infections associated with consumption of infant dried milk . 
+Lancet 2 , 900e903 . 
+Shachar , D. , Yaron , S. , 2006 . 
+Heat tolerance of Salmonella enterica serovars Agona , Enteritidis , and Typhimurium in peanut butter . 
+Journal of Food Protection 69 , 2687e2691 . 
+Shohat , T. , Green , M.S. , Merom , D. , Gill , O.N. , Reisfeld , A. , Matas , A. , Blau , D. , Gal , N. , Slater , P.E. , 1996 . 
+International epidemiological and microbiological study of outbreak of Salmonella agona infection from a ready to eat savoury snackeII : Israel . 
+BMJ 313 , 1107e1109 . 
+Sirsat , S.A. , Muthaiyan , A. , Ricke , S.C. , 2011 . 
+Optimization of the RNA extraction method for transcriptome studies of Salmonella inoculated on commercial raw chicken breast samples . 
+BMC Research Notes 4 , 60 . 
+Thomson , N.R. , Clayton , D.J. , Windhorst , D. , Vernikos , G. , Davidson , S. , Churcher , C. , Quail , M.A. , Stevens , M. , Jones , M.A. , Watson , M. , Barron , A. , Layton , A. , Pickard , D. , Kingsley , R.A. , Bignell , A. , Clark , L. , Harris , B. , Ormond , D. , Abdellah , Z. , Brooks , K. , Cherevach , I. , Chillingworth , T. , Woodward , J. , Norberczak , H. , Lord , A. , Arrowsmith , C. , Jagels , K. , Moule , S. , Mungall , K. , Sanders , M. , Whitehead , S. , Chabalgoity , J.A. , Maskell , D. , Humphrey , T. , Roberts , M. , Barrow , P.A. , Dougan , G. , Parkhill , J. , 2008 . 
+Comparative genome analysis of Salmonella Enteritidis PT4 and Salmonella Gallinarum 287/91 provides insights into evolutionary and host adaptation pathways . 
+Genome Research 18 , 1624e1637 . 
+Trapnell , C. , Williams , B.A. , Pertea , G. , Mortazavi , A. , Kwan , G. , van Baren , M.J. , Salzberg , S.L. , Wold , B.J. , Pachter , L. , 2010 . 
+Transcript assembly and quantiﬁcation by RNA-Seq reveals unannotated transcripts and isoform switching during cell differentiation . 
+Nature Biotechnology 28 , 511e515 . 
+Wassarman , K.M. , Repoila , F. , Rosenow , C. , Storz , G. , Gottesman , S. , 2001 . 
+Identiﬁcation of novel small RNAs using comparative genomics and microarrays . 
+Genes & Development 15 , 1637e1651 . 
+Wen , J. , Deng , X. , Li , Z. , Dudley , E.G. , Anantheswaran , R.C. , Knabel , S.J. , Zhang , W. , 2011 . 
+Transcriptomic response of Listeria monocytogenes during transition to the long-term-survival phase . 
+Applied and Environmental Microbiology 77 , 5966e5972 . 
+Williams , K.P. , Bartel , D.P. , 1998 . 
+The tmRNA Website . 
+Nucleic Acids Research 26 , 163e165 . 
+Yoder-Himes , D.R. , Chain , P.S. , Zhu , Y. , Wurtzel , O. , Rubin , E.M. , Tiedje , J.M. , Sorek , R. , 2009 . 
+Mapping the Burkholderia cenocepacia niche response via highthroughput sequencing . 
+Proceedings of the National Academy of Sciences of the United States of America 106 , 3976e3981 . 
+Zhulidov , P.A. , Bogdanova , E.A. , Shcheglov , A.S. , Vagner , L.L. , Khaspekov , G.L. , Kozhemyako , V.B. , Matz , M.V. , Meleshkevitch , E. , Moroz , L.L. , Lukyanov , S.A. , Shagin , D.A. , 2004 . 
+Simple cDNA normalization using kamchatka crab duplex-speciﬁc nuclease . 
+Nucleic Acids Research 32 , e37

@@ -1,0 +1,393 @@
+FEMS Microbiology Letters , 364 , 2017 , fnx236 
+doi : 10.1093 / femsle/fnx236 
+Advance Access Publication Date : 3 November 2017 Research Letter 
+R E S E A R C H L E T T E R -- Pathogens & Pathogenicity 
+Peptide transporter YjiY influences the expression of
+the virulence gene mgtC to regulate biofilm formation 
+in Salmonella 
+Kasturi Chandra1 , † , Preeti Garai1 , † , Jayanta Chatterjee2 and Dipshikha Chakravortty1 ,3 , ∗ 
+1Department of Microbiology and Cell Biology , Indian Institute of Science , Bangalore , India , 2Department of Molecular Biophysics Unit , Indian Institute of Science , Bangalore , India and 3Center for Biosystem Science and Engineering , Indian Institute of Science , Bangalore , India ∗ Corresponding author : Tel : +91-80-22932842 ; Fax : +91-80-23602697 ; E-mail : dipa@iisc.ac.in One sentence summary : Biofilm formation in Salmonella is regulated by a peptide transporter . 
+† These authors contributed equally to this work . 
+Editor : David Clarke 
+ABSTRACT 
+Formation of a biofilm is one of the coping strategies of Salmonella against antimicrobial environmental stresses including nutrient starvation . 
+However , the channeling of the starvation cue towards biofilm formation is not well understood . 
+Our study shows that a carbon starvation gene , yjiY , coding for a peptide transporter , influences the expression of a virulence-associated gene mgtC in Salmonella to regulate biofilm formation . 
+We demonstrate here that the mutant strain yjiY is unable to form a biofilm due to the increased expression of mgtC . 
+The upregulation of mgtC in the yjiY strain correlates with the downregulation of the biofilm master regulator gene , csgD , and reduced levels of ATP . 
+Our work further indicates that a yjiY-encoded peptide transporter may regulate the expression of mgtC by transporting proline peptides . 
+Keywords : Biofilm ; Salmonella ; peptide transporter ; mgtC ; proline ; starvation 
+INTRODUCTION
+Biofilm formation is crucial for Salmonella pathogenesis for resistance to the host 's defenses , such as antimicrobial peptides , colonization inside the host and transmission from the asymptomatic host carrier ( Prouty , Schwesinger and Gunn 2002 ; Rabsch et al. 2002 ; Fux et al. 2005 ; Anderson and O'Toole 2008 ) . 
+Salmonella can form a biofilm on abiotic as well as biotic substrates ( Rabsch et al. 2002 ; Prouty and Gunn 2003 ) , for example materials in contact with food items resulting in the contamination and infection of the consumer ( Van Houdt and Michiels 2010 ) . 
+Biofilm is a major health concern as the chronic patients of Salmonella infection carry the pathogen in the form of biofilm 
+( Prouty , Schwesinger and Gunn 2002 ; Gonzalez-Escobedo , Marshall and Gunn 2011 ) and become the source of drug-resistant strains ( Pratap et al. 2012 ; Harish and Menezes 2011 ) . 
+The transition of Salmonella from unicellular planktonic lifestyle to the multicellular form of a biofilm is controlled by the biofilm master regulator gene , csgD , which regulates the synthesis of extracellular polymeric substance ( EPS ) to form the biofilm matrix ( Gerstel and Romling 2003 ; Grantcharova et al. 2010 ) . 
+csgD is transcribed under the cues of low osmolarity , low temperature and nutrient starvation ( Stepanovic et al. 2004 ; Castelijn et al. 2012 ) . 
+The carbon catabolic profile of Salmonella varies from the planktonic stage to the biofilm stage , emphasizing the relevance of metabolic status of the pathogen for biofilm formation ( Kalai Chelvam et al. 2015 ) . 
+The biosynthesis and uptake of amino acids are also enhanced inside the biofilm ( Hamilton et al. 2009 ) indicating that amino acids are required in these circumstances . 
+Therefore , the formation of a biofilm by Salmonella is a complex process coordinated by multiple environmental and bacterial factors . 
+In our previous study , the carbon starvation ( cst ) genes cstA and yjiY were shown to be induced during nutrient starvation and to be involved in importing peptides in Salmonella ( Garai et al. 2016 ) . 
+It is conceivable that such peptides may serve as the source of amino acids under biofilm-inducing conditions following starvation . 
+Upon mining the transcriptomic data from our previous study ( Garai et al. 2016 ) , we found that mgtC , an important virulence factor , was upregulated in the absence of yjiY . 
+mgtC is known to inhibit the synthesis of cellulose in Salmonella by affecting the function of bacterial F-ATPase ( Pontes et al. 2015 ) . 
+As cellulose is an essential component of biofilm EPS in Salmonella , it raises the question of the role of yjiY in biofilm formation . 
+The mutant strain yjiY was also found to lack flagella , one of the factors required for biofilm formation in Salmonella ( Crawford , Reeve and Gunn 2010 ) . 
+Hence , we chose to study the role of yjiY , a starvation-induced and peptide transporter-encoding gene ( Kraxenberger et al. 2012a , Garai et al. 2016 ) , in biofilm formation by Salmonella . 
+Salmonella enterica serovar Typhimurium ( S. Typhimurium ) exhibits most of the biofilm-related traits ( Steenackers , Vanderleyden and Keersmaecker 2012 ) and thus serves as a suitable model to study biofilm formation . 
+By using standard methods of assessment of biofilm formation , we could establish that yjiY is essential for biofilm formation in S. Typhimurium . 
+We show here that the upregulation of mgtC in the yjiY strain leads to defective biofilm formation , possibly due to a shortage of proline peptides . 
+The mutant strain yjiY displays downregulation of csgD and decrease in ATP , which adversely affect the ability to form biofilm . 
+This study reveals one of the mechanisms by which the nutritional status of Salmonella dictates its pathogenesis . 
+Received : 18 April 2017 ; Accepted : 2 November 2017 © 
+C FEMS 2017 . 
+All rights reserved . 
+For permissions , please e-mail : journals.permissions@oup.com 
+1 
+MATERIALS AND METHODS
+Bacterial strains
+All bacterial strains used in this work are listed in Table 1 with their genetic description . 
+Salmonella enterica serovar Typhimurium strain 14028 was used as the wild type strain , and was also the parental background for all the mutant strains used in this study , i.e. yjiY , csgD , fliC and yjiY mgtC . 
+All strains were grown and maintained in Lennox broth ( LB ; 0.5 % NaCl , 1 % casein enzyme hydrolysate and 0.5 % yeast extract ) at 37 ◦ C under shaking conditions . 
+Generation of knockout strains
+All knockout strains were generated by the one-step inactivation method based on λ recombinase-mediated recombination ( Datsenko and Wanner 2000 ) . 
+For the double knockout strain yjiY mgtC , the chloramphenicol resistance gene replaced mgtC in the genome of the kanamycin-resistant strain yjiY . 
+The primers used for generating knockouts are listed in Supplementary Table S1 . 
+Growth conditions for biofilm formation
+LB without NaCl , i.e. 1 % casein enzyme hydrolysate and 0.5 % yeast extract , was used as biofilm medium . 
+Overnight cultures grown in LB were subcultured in 2 ml biofilm medium at the dilution of 1:100 in a 24-well plate and incubated at 28 ◦ C for 48 h without shaking . 
+All images of biofilm in the form of a pellicle were taken with a digital camera . 
+To check the role of the amino acid proline in biofilm formation , 0.1 , 1 and 10 mM proline was added to the biofilm medium . 
+For co-culture experiments , wild type and yjiY cultures were inoculated together in 2 ml biofilm medium at the ratio of 1:1 . 
+Aliquots were taken at different time points of stationary growth at 28 ◦ C and plated on LB agar for the growth of both strains . 
+Kanamycin-containing LB agar was used for selective growth of yjiY to calculate the individual CFU values for both strains . 
+Confocal microscopy
+Sterile coverslips ( 22 × 60 mm ) were placed in 50 ml sterile tubes with 10 ml of biofilm medium . 
+Cultures were inoculated for biofilm formation as mentioned previously . 
+After 48 h of incubation , biofilm appeared on the coverslip at the liquid -- air interface , in the form of a thin line spanning the width of the coverslip ( 22 mm ) . 
+The coverslip was washed thoroughly with water to remove planktonic cells and stained with Congo red ( 40 mg/ml in water ) for 15 min at room temperature . 
+After washing with water , the coverslip was mounted on a slide and imaged for biofilm distribution , with a laser scanning confocal microscope ( Zeiss LSM 710 ) using a × 40 objective . 
+Z stacks were taken to generate a three-dimensional image . 
+At least 15 fields were imaged per coverslip , covering almost the entire area of the biofilm . 
+The images were analyzed using ImageJ to obtain mean fluorescence intensity of the Congo red-stained EPS . 
+The values obtained were plotted as percentage mean fluorescence , where the mean of wild type values was considered 100 % . 
+Table 1 . 
+Strains . 
+Strain name Description Reference 
+S. Typhimurium ATCC Wild type Kind gift from Prof. M. Hensel ( Max von Pettenkofer-Institute 14028 ( STM 14028 ) for Hygiene and Medizinische Mikrobiologie , Germany ) yjiY Knockout strain for the gene yjiY ; Kanr Garai et al. ( 2016 ) csgD Knockout strain for the gene csgD ; Chlr Srinandan et al. ( 2015 ) fliC Knockout strain for the gene fliC ; Chlr Garai et al. ( 2016 ) yjiY-pQE60-yjiY Complement strain for yjiY expressing yjiY under the Garai et al. ( 2016 ) promoter of T5 present in the plasmid pQE60 . 
+yjiY mgtC Knockout strain for the genes yjiY and mgtC ; Kanr ; Chlr This work yjiY mgtC-pUHE Ampr Plasmid obtained as kind gift from Prof. E. A. Groisman ( Yale mgtC School of Medicine ) ; strain made for this work 
+Biofilm was allowed to form on coverslips as mentioned in the previous section . 
+After thorough washing with water , the sample was fixed in 2.5 % gluteraldehyde for 24 -- 96 h at room temperature . 
+Excess gluteraldehyde was removed by washing with water and the sample was dehydrated by gradient washes in increasing concentrations of 30 % , 50 % , 75 % , 85 % and 95 % ethanol . 
+The coverslip was then air dried under vacuum before coating with gold for imaging by scanning electron microscopy . 
+Crystal violet staining
+Crystal violet staining was used to quantify the biofilm formed on the solid surface , i.e. the wall of the well of a 24-well plate . 
+The protocol followed for biofilm formation was the same as mentioned above . 
+After 48 h , the cultures were discarded and the plate was rinsed thoroughly with water . 
+The biofilm , in the form of a ring on the wall , was stained with 1 % crystal violet for 15 min at room temperature . 
+The stained biofilm was destained with 70 % ethanol and the intensity of color of the destained solution was quantified by measuring absorbance at 595 nm , representing the biofilm mass . 
+Quantitative PCR
+RNA was isolated by the TRIzol method ( Sigma-Aldrich ) from biofilm culture after 24 h. cDNA was synthesized with Bioline MuMLV reverse transcriptase ( Tetro ) . 
+Quantitative PCR was carried out using SYBR Green Q-PCR kit ( Thermo Fisher Scientific ) . 
+The primers used are listed in Supplementary Table S1 . 
+Relative expression in yjiY was plotted as fold change with respect to wild type ( yjiY/WT ) , after normalizing with the reference gene , 16S rRNA . 
+Intracellular ATP measurement
+One milliliter of 24 h-old biofilm culture was centrifuged at 9615g for 5 min . 
+The pellet was resuspended in 500 μl of MilliQ , vortexed and boiled at 95 ◦ C for 10 min to release the intracellular ATP . 
+An ATP determination kit from Molecular Probes was used for the assay and the protocol was followed as per the manufacturer 's instructions . 
+Briefly , 8 μl of the prepared sample was added to 72 μl of reaction solution containing reaction buffer , DTT , luciferin and luciferase . 
+The amount of luminescence produced was measured using a Tecan microplate reader and the corresponding amount of ATP was calculated using a standard curve , ranging from 40 to 0.075 pmol of ATP provided in the kit . 
+The amount of ATP was normalized with the CFU value and plotted as ATP in picomoles per 108 CFU for each strain . 
+Peptide uptake assay
+The dipeptide Pro-Pro was synthesized by solid phase peptide synthesis using standard 9-fluorenyl-methoxycarbonyl-based chemistry ( Chatterjee , Laufer and Kessler 2012 ) and 5,6-carboxyfluorescein ( CFSE ) was attached to the N-terminus of the peptide as described elsewhere ( Garai et al. 2016 ) . 
+Purification of the peptide was carried out using RP-HPLC , with a C18 capcellpack semiprep column , on a 20 -- 80 % acetonitrile -- water gradient . 
+The purified sample was lyophilized , dissolved in DMSO to obtain a stock solution of 1 mM and filter sterilized . 
+From overnight bacterial culture , 5 × 107 CFU , washed twice with sterile PBS , was added to 1 ml PBS containing 50 µM of the dipeptide . 
+After incubation at 37 ◦ C for required time points , cells were pelleted and washed with PBS . 
+These cells were imaged using laserscanning confocal microscopy ( Zeiss LSM 710 ) with a × 63 oilimmersion objective . 
+Images were analyzed using ZEN software version 2009 and fluorescent bacterial cells or CFSE positive cells were counted . 
+The percentage of CFSE-positive cells out of total 4 ′ ,6 - diamidino-2-phenylindole-stained cells was calculated . 
+Scanning electron microscopy 
+Growth in presence of Pro-Pro peptide
+For growth assessment in the presence of the peptide Pro-Pro , minimal medium was prepared containing 100 mM NaCl , 30 mM triethanolamine HCl ( pH 7.1 ) , 25 mM sodium pyruvate , 5.0 mM NH4Cl , 2.0 mM NaH2PO4 , 0.25 mM Na2SO4 , 0.05 mM MgCl2 , 1.0 mM KCl and 1.0 μM ferric chloride and filter sterilized ( Garai et al. 2016 ) . 
+Overnight cultures of all strains in LB were washed twice in PBS and finally resuspended in minimal medium . 
+From this , 106 CFU was inoculated in 1 ml minimal medium containing the peptide Pro-Pro at the concentration of 50 μM and incubated at 37 ◦ C under shaking condition . 
+Aliquots were taken at different time points and plated on LB agar . 
+The CFU values were plotted against time to obtain the growth curve . 
+RESULTS
+YjiY is essential for biofilm formation by Salmonella
+The assessment of biofilm formation in bacteria is usually done in terms of pellicle formation at the liquid -- air interface ( Romling and Rohde 1999 ; Solano et al. 2002 ) when grown at 28 ◦ C and under low osmolarity ( Steenackers , Vanderleyden and Keersmaecker 2012 ) , the optimum conditions for the expression of the biofilm master regulator csgD in S. Typhimurium ( Romling et al. 2000 ) . 
+The mutant strain , yjiY , did not form a pellicle under these biofilm-inducing conditions , unlike the wild type strain ( Fig. 1A ) . 
+We further decided to assess the biofilm-forming ability on a solid surface using a glass coverslip as the substrate by staining the EPSs . 
+The stability of a biofilm depends on the EPS , which help in aggregation of cells , absorption of nutrients , stabilization of the architecture of the biofilm and cell to cell communication ( Flemming and Wingender 2010 ) . 
+EPS can be stained with Congo red , which binds to cellulose and curli fimbriae , the two major components of Salmonella EPS ( Romling et al. 2000 ; Mohite and Patil 2014 ) . 
+We checked the distribution of EPS to measure the extent of biofilm formed on the glass coverslip . 
+Confocal microscopy imaging of the biofilm matrix stained with Congo red showed less denser biofilm in the yjiY strain ( Fig. 1B ) . 
+EPS help the bacteria to adhere to the substratum and hence maintain the biomass of biofilm . 
+Electron microscopy showed that biofilm biomass or number of cells adhering to the solid surface was remarkably reduced in the yjiY strain as compared with the wild type strain ( Fig. 1C ) . 
+The biofilm on the solid surface was quantified by crystal violet staining ( Supplementary Fig . 
+S1 ) . 
+This phenotype was successfully reversed in the complement strain , implying that yjiY is essential for biofilm formation by Salmonella . 
+Since yjiY is a carbon starvation gene , we speculated that the defective biofilm formation in yjiY may occur due to reduced growth . 
+However , equivalent growth of wild type and yjiY strains in individual ( monoculture ) and mixed cultures ( co-culture ) ( Fig. 2A and B ) indicates that yjiY has no defect in growth and fitness , respectively , in biofilm-inducing conditions . 
+Figure 1 . 
+( A ) Pellicle formation . 
+Overnight cultures of the strains WT , yjiY and yjiY-pQE60-yjiY were inoculated in biofilm medium and incubated at 28 ◦ C for 48 h. Biofilm appeared in the form of pellicle . 
+Images were taken using a digital camera . 
+( B ) Confocal imaging of biofilm . 
+Overnight cultures of the strains WT , yjiY and yjiY-pQE60-yjiY were inoculated in biofilm medium containing coverslip and incubated at 28 ◦ C for 48 h. Biofilm formed on glass coverslip was stained with Congo red and imaged with a confocal microscope to generate 3D images . 
+Scale is shown on the X - and Y-axes . 
+( C ) Scanning electron microscopy imaging of biofilm formed on glass coverslip . 
+Overnight cultures of the strains WT , yjiY and yjiY-pQE60-yjiY were inoculated on biofilm medium , containing coverslip and incubated at 28 ◦ C for 48 h. Biofilm formed on the coverslip was imaged using scanning electron microscopy . 
+Scale bar is 5 μm . 
+yjiY shows alteration in the levels of factors required for biofilm formation 
+To understand the mechanism behind the reduced EPS production in the yjiY strain , we looked back into the RNA microarray data from our previous work that compared the transcriptome of yjiY with that of wild type ( Garai et al. 2016 ) . 
+The virulence-associated gene mgtC was found to be highly upregulated in yjiY , which was validated in LB late log phase 
+( Supplementary Fig . 
+S2 ) . 
+This held true for biofilm-inducing conditions too ( Fig. 3A ) . 
+The upregulation of mgtC explains the defect in biofilm formation by yjiY , as in Salmonella mgtC is known to inhibit biosynthesis of cellulose , an important constituent of EPS ( Pontes et al. 2015 ) . 
+The genes mgtB and mgtA belong to the same regulon of magnesium transport ( Lee , Choi and Groisman 2014 ) . 
+There is a trend of increase in the expression of mgtB , but less than mgtC . 
+Moreover , the downregulation of cellulose biosynthesis gene bcsA ( Jonas et al. 2007 ) in the yjiY strain ( Fig. 3A ) agreed with the upregulation of mgtC . 
+The decreased production of cellulose also results in a higher growth rate ( Pontes et al. 2015 ) , which can explain the trend , though not significant , of increased CFU values of the yjiY strain after 48 h ( Fig. 2B ) . 
+However , in the strain yjiY , the expression of the biofilm master regulator , csgD ( Gerstel and Romling 2003 ; Grantcharova et al. 2010 ) , which also regulates bcsA ( Jonas et al. 2007 ) , was found to be reduced ( Fig. 3A ) . 
+The gene bapA contributes to pellicle formation and is regulated by csgD ( Jonas et al. 2007 ) . 
+Hence , the downregulation of bapA could be a result of reduced expression of csgD . 
+This implies that lack of cellulose may not be the only reason for this phenotype . 
+The increase in the expression of mgtC is linked with decreased production of ATP , as mgtC inhibits the function of bacterial F-ATPase ( Lee , Pontes and Groisman 2013 ) . 
+ATP is required during biofilm production ( Liu et al. 2014 ) , as it contributes to EPS production for the formation of cellular aggregates ( Jiang and Liu 2012 ) . 
+We measured the level of ATP after 24 h of growth under biofilm-inducing conditions . 
+Twenty-four hours was chosen as the time point to monitor the step prior to EPS synthesis as well as to avoid EPS in the samples for RNA isolation and ATP determination . 
+The amount of ATP was indeed found to be significantly lower in yjiY than the wild type strain ( Fig. 3B ) . 
+Upregulation of mgtC is responsible for inhibiting biofilm formation in yjiY
+To establish the role of mgtC in defective synthesis of EPS in yjiY , the gene mgtC was deleted from the genome of yjiY . 
+The double knockout strain yjiY mgtC was tested for biofilm forming ability on a glass coverslip . 
+Confocal imaging of Congo red-stained biofilm showed remarkably increased amount of EPS in the double knockout strain as compared with yjiY , which reverted upon overexpressing mgtC ( Fig. 4A and B ) . 
+The strain csgD was used as a negative control ( Fig. 4A and B and Supplementary Fig . 
+S1 ) , as it can not synthesize the EPS components required for biofilm formation ( Srinandan et al. 2015 ) . 
+The EPS content in the double knockout strain was still less than the wild type , probably due to parallel regulation by csgD ( Fig. 5C ) . 
+As a flagellum is important for the initial stage of biofilm formation ( Karatan and Watnick 2009 ) and yjiY is reported to be aflagellate ( Garai et al. 2016 ) , we wanted to know if the absence of flagella was leading to defective biofilm formation in the yjiY strain . 
+We used the strain fliC , which lacks the structural subunit of flagella , flagellin or FliC ( Bonifield and Hughes 2003 ; Garai et al. 2016 ) , for bioflm formation . 
+The lack of flagella did not alter the ability to form biofilm on a glass coverslip ( Fig. 4A and B and Supplementary Fig . 
+S1 ) . 
+Therefore , the inability of the yjiY strain to form a biofilm seemed to be independent of the presence of flagella . 
+Hence , we conclude that the upregulation of mgtC contributes to the abrogation of EPS production and thereby biofilm formation in the yjiY strain . 
+Figure 2 . 
+Growth in biofilm medium . 
+( A ) Growth in shaking conditions . 
+The strains were grown in biofilm medium and at different time points , the OD was measured at 600 nm . 
+( B ) Growth in static culture . 
+After 24 and 48 h of stationary growth in biofilm medium , strains were plated on agar to obtain CFU values . 
+For co-culture , both strains were inoculated at 1:1 ratio in the same well . 
+At least three biological replicates were used for each experiment . 
+Student 's t-test was used to calculate the statistical significance . 
+YjiY may regulate mgtC expression by transporting peptides of proline
+One of the cues behind induction of mgtC transcription is known to be the shortage of the amino acid proline ( Lee , Choi and Groisman 2014 ) . 
+However , yjiY could not resume its biofilmforming ability in the presence of proline ( Fig. 5A and Supplementary Fig . 
+S3A ) . 
+This may be due to the unavailability of proline transporters in liquid medium , as they are majorly expressed during desiccation , in contrast to EPS genes ( Finn et al. 2013 ) . 
+Based on the reported role of the protein YjiY in peptide transport in Salmonella , we hypothesized that YjiY might transport peptides of proline and thereby regulate mgtC expression . 
+We carried out a fluorescently labeled peptide uptake assay ( Garai et al. 2016 ) for the dipeptide of proline ( Pro-Pro ) . 
+With increasing incubation time , the yjiY strain indeed showed significantly lower uptake than wild type ( Fig. 5B ) . 
+These proline peptides are probably required only for biofilm formation and not nutrition , as the mutant did not display any defect in growth when the Pro-Pro dipeptide was provided as the sole source of energy ( Supplementary Fig . 
+S3B ) . 
+Proline also regulates the transcription of mgtB ( Lee , Choi and Groisman 2014 ) , which was indeed found to be moderately upregulated ( Fig. 3A ) . 
+Nevertheless , the result of this assay indirectly supports our hypothesis that YjiY may regulate the expression of mgtC by transporting proline peptides ( Fig. 5C ) . 
+DISCUSSION
+Salmonella has diverged from its evolutionarily close relatives such as E. coli by acquiring specific virulence-associated genes and developing a harmonious relationship between its metabolism and virulence . 
+The carbon starvation ( cst ) genes cstA and yjiY have already been established as an example of the cross connection between metabolism and virulence in Salmonella ( Garai et al. 2016 ) . 
+Our finding that the peptide transporter-encoding carbon starvation gene , yjiY , is essential for biofilm formation by Salmonella is an additional evidence in this context . 
+Salmonella is known to express several peptide transporters to escape from nutrient starvation ( Gibson , Price and Higgins 1984 ; Hiles , Powell and Higgins 1987 ; Olson et al. 1991 ; Garai et al. 2016 ) , a common stress that leads to biofilm formation ( Stepanovic et al. 2004 ; Castelijn et al. 2012 ) . 
+We have taken one step further in understanding how starvation is associated with biofilm formation by deciphering the link between starvation gene yjiY and virulence gene mgtC . 
+The additional inference that yjiY is involved in regulating transcription of csgD , the master regulator for biofilm formation in Salmonella ( Steenackers H , Vanderleyden and Keersmaecker 2012 ) , is strengthened by the reported correlation between the expression of csgD and yjiY during the stationary phase of growth ( Karatan and Watnick 2009 ; Kraxenberger et al. 2012b ) . 
+However , the association between csgD and mgtC in yjiY-dependent biofilm formation remains to be investigated . 
+The role of proline in inducing expression of mgtC has already been reported ( Lee , Choi and Groisman 2014 ) and our work extends its role to biofilm formation in Salmonella . 
+The observation that the Pro-Pro dipeptide did not contribute to growth of Salmonella suggests that proline or peptides of proline contribute specifically to biofilm formation . 
+Interestingly , the growth of yjiY was unaffected by a reduced level of ATP , probably due to the channeling of ATP towards EPS synthesis instead of planktonic growth . 
+The concentration of ATP obtained for the wild type strain matches with the intracellular ATP level of Salmonella during amino acid starvation ( Shioi et al. 1982 ) . 
+Thus , biofilm-inducing conditions may include shortage of amino acids . 
+Despite providing proline exogenously , biofilm formation could not be rescued , probably due to the absence of proline transporters in biofilm-inducing liquid culture conditions ( Finn et al. 2013 ) . 
+This may also mean that proline peptides act as the major source of proline under these conditions . 
+The overexpression of mgtC was not reflected in the virulence of the yjiY strain in the systemic disease model of mouse ( Garai et al. 2016 ) as expected ( Pontes et al. 2015 ) , possibly due to the difference in dosage and route of infection . 
+Although mgtC and mgtB are transcribed together as part of an operon ( Alix and Blanc-Potard 2008 ; Lee , Choi and Groisman 2014 ) , mgtC showed higher expression in yjiY , in agreement with our previous microarray data ( Garai et al. 2016 ) , indicating that these biofilmforming conditions interfere with the expression of the complete operon . 
+In conclusion , this study reveals the presence of a starvationresponsive system for biofilm formation by Salmonella . 
+The peptide transporter YjiY possibly supplements proline in the form of proline peptides . 
+In the absence of YjiY , shortage of proline leads to upregulation of mgtC , which is unfavorable for biofilm formation ( Fig. 5C ) . 
+Although nutrient starvation is meant to direct the process of biofilm formation , this study indicates that the presence of certain nutrients is essential . 
+The transported peptides not only replenish the amino acids , but can also signal the pathogen to initiate biofilm formation by avoiding expressing a virulence-associated gene . 
+This study adds to our understanding of the connection of nutritional status of Salmonella with its success as a pathogen and how the activity of a virulence gene could be occasionally detrimental for adaptation to stress . 
+Figure 3 . 
+Level of biofilm forming factors . 
+( A ) QPCR . 
+RNA was isolated from WT and yjiY strains after 24 h of growth in biofilm medium and subjected to QPCR for the indicated genes . 
+Fold change in the RNA level in yjiY with respect to WT was plotted . 
+The value above and below 1 on Y-axis imply upregulation and downregulation , respectively . 
+( B ) ATP measurement . 
+Intracellular ATP was measured from 24 h-old biofilm culture . 
+Statistical analysis was performed by Student 's t-test ( ∗ ∗ P 0.005 ) . 
+At least two biological replicates were used for each < experiment . 
+Figure 4 . 
+( A ) Confocal imaging of biofilm . 
+Overnight cultures of the strains indicated were inoculated on biofilm medium-containing coverslip and incubated at 28 ◦ C for 48 h. Biofilm formed on glass coverslip was stained with Congo red and imaged with confocal microscope to generate 3D images . 
+Scale is shown on the X - and Y-axes . 
+( B ) Quantification of confocal images . 
+The mean fluorescence of all images was quantified using ImageJ and plotted as percentage mean fluorescence normalized to WT . 
+Statistical analysis was performed by Student 's t-test , for comparison of each strain with WT ( ∗ ∗ P < 0.005 , ∗ ∗ ∗ P < 0.001 ) . 
+Figure 5 . 
+( A ) Biofilm in presence of proline . 
+Overnight cultures of the strains WT and yjiY were inoculated in biofilm medium with or without proline ( 0.1 mM ) . 
+After incubation at 28 ◦ C for 48 h , biofilm appeared in the form of pellicle . 
+Images were taken using a digital camera . 
+( B ) Fluorescent peptide uptake assay . 
+The strains WT , yjiY and yjiY-pQE60-yjiY were grown in presence of 50 μM CFSE-labelled dipeptide Pro-Pro ( PP ) . 
+After 2 h , the number of CFSE-positive cells was evaluated by confocal microscopy . 
+Percentage of CFSE-positive cells out of total number of cells was calculated . 
+The data shown are a compilation of two biological replicates and statistical analysis was performed using Student 's t-test . 
+( C ) Hypothetical model . 
+This model describes the effect of YjiY on mgtC and csgD to regulate biofilm formation . 
+YjiY imports peptides from the surroundings of Salmonella including peptides of proline . 
+These peptides may serve as the source of proline , which inhibits the transcription of mgtC . 
+The shortage of proline in yjiY removes this inhibition and enables the expression of mgtC . 
+The inner membrane protein MgtC binds to F-ATPase to regulate the synthesis of ATP and thereby biofilm formation . 
+YjiY can also regulate the transcription of csgD to affect biofilm formation by unknown mechanism . 
+Dashed arrows represent unknown mechanisms . 
+Supplementary data are available at FEMSLE online.
+ACKNOWLEDGEMENTS
+We thank the electron microscopy facility , IISc , and confocal microscopy facility of Dept of Microbiology and Cell Biology , IISc . 
+We thank Hitesh Verma and Pritha Ghosh for helping in the synthesis of the peptide . 
+We heartily thank Prof. Sandhya Visweswariah and Arka Banerjee for their help with the ATP measurement assay . 
+We are very grateful to Srinandan Chakravarthy for his valuable inputs . 
+FUNDING
+This work was supported by DAE SRC Outsanding Research Award ( DAE0195 ) and DBT-IISc partnership program to DC . 
+Infrastructure support from ICMR ( Center for Advanced Study in Molecular Medicine ) , DST ( FIST ) and UGC ( special assistance ) is acknowledged . 
+This study was partly supported by the ` Infosys Foundation ' . 
+Author’s contribution
+KC and PG contributed equally in the development of the manuscript . 
+The idea was conceived by PG and DC . 
+Experiments were planned by PG , KC , JC and DC . 
+KC carried out experiments majorly . 
+PG and JC contributed to experiments too . 
+PG wrote the manuscript majorly with the help of KC , JC and DC . 
+DC supervised the project . 
+REFERENCES 
+Alix E , Blanc-Potard AB . 
+Peptide-assisted degradation of the Salmonella MgtC virulence factor . 
+EMBO J 2008 ; 27:546 -- 57 . 
+Anderson GG , O'Toole GA. . 
+Innate and induced resistance mechanisms of bacterial biofilms . 
+Curr Top Microbiol Immunol 2008 ; 322:85 -- 105 . 
+Bonifield HR , Hughes KT . 
+Flagellar phase variation in Salmonella enterica is mediated by a posttranscriptional control mechanism . 
+J Bacteriol 2003 ; 185:3567 -- 74 . 
+Castelijn GA , van der Veen S , Zwietering MH et al. . 
+Diversity in biofilm formation and production of curli fimbriae and cellulose of Salmonella Typhimurium strains of different origin in high and low nutrient medium . 
+Biofouling 2012 ; 28 : 51 -- 63 . 
+Chatterjee J , Laufer B , Kessler H. Synthesis of N-methylated cyclic peptides . 
+Nat Protoc 2012 ; 7:432 -- 44 . 
+Crawford RW , Reeve KE , Gunn JS . 
+Flagellated but not hyperfimbriated Salmonella enterica serovar Typhimurium attaches to and forms biofilms on cholesterol-coated surfaces . 
+J Bacteriol 2010 ; 192:2981 -- 90 . 
+Datsenko KA , Wanner BL . 
+One-step inactivation of chromosomal genes in Escherichia coli K-12 using PCR products . 
+Proc Natl Acad Sci U S A 2000 ; 97:6640 -- 5 . 
+Finn S , Handler K , Condell O et al. . 
+ProP is required for the survival of desiccated Salmonella enterica serovar typhimurium cells on a stainless steel surface . 
+Appl Environ Microbiol 2013 ; 79:4376 -- 84 . 
+Flemming HC , Wingender J . 
+The biofilm matrix . 
+Nat Rev Microbiol 2010 ; 8:623 -- 33 . 
+Fux CA , Costerton JW , Stewart PS et al. . 
+Survival strategies of infectious biofilms . 
+Trends Microbiol 2005 ; 13:34 -- 40 . 
+Garai P , Lahiri A , Ghosh D et al. . 
+Peptide utilizing carbon starvation gene yjiY is required for flagella mediated infection caused by Salmonella . 
+Microbiology 2016 ; 162:100 -- 16 . 
+Gerstel U , Romling U . 
+The csgD promoter , a control unit for biofilm formation in Salmonella typhimurium . 
+Res Microbiol 2003 ; 154:659 -- 67 . 
+Gibson MM , Price M , Higgins CF. Genetic characterization and molecular cloning of the tripeptide permease ( tpp ) genes of Salmonella typhimurium . 
+J Bacteriol 1984 ; 160:122 -- 30 . 
+Gonzalez-Escobedo G , Marshall JM , Gunn JS . 
+Chronic and acute infection of the gall bladder by Salmonella Typhi : understanding the carrier state . 
+Nat Rev Microbiol 2011 ; 9:9 -- 14 . 
+Grantcharova N , Peters V , Monteiro C et al. . 
+Bistable expression of CsgD in biofilm development of Salmonella enterica serovar typhimurium . 
+J Bacteriol 2010 ; 192:456 -- 66 . 
+Hamilton S , Bongaerts RJ , Mulholland F et al. . 
+The transcriptional programme of Salmonella enterica serovar Typhimurium reveals a key role for tryptophan metabolism in biofilms . 
+BMC Genomics 2009 ; 10:599 . 
+Harish BN , Menezes GA. . 
+Antimicrobial resistance in typhoidal salmonellae . 
+Indian J Med Microbiol 2011 ; 29:223 -- 9 . 
+Hiles ID , Powell LM , Higgins CF. Peptide transport in Salmonella typhimurium : molecular cloning and characterization of the oligopeptide permease genes . 
+Mol Gen Genet 1987 ; 206:101 -- 9 . 
+Jiang B , Liu Y. Roles of ATP-dependent N-acylhomoserine lactones ( AHLs ) and extracellular polymeric substances ( EPSs ) in aerobic granulation . 
+Chemosphere 2012 ; 88:1058 -- 64 . 
+Jonas K , Tomenius H , Kader A et al. . 
+Roles of curli , cellulose and BapA in Salmonella biofilm morphology studied by atomic force microscopy . 
+BMC Microbiol 2007 ; 7:70 . 
+Kalai Chelvam K , Yap KP , Chai LC et al. . 
+Variable Responses to carbon utilization between planktonic and biofilm cells of a human carrier strain of Salmonella enterica serovar Typhi . 
+PLoS One 2015 ; 10 : e0126207 . 
+Karatan E , Watnick P. Signals , regulatory networks , and materials that build and break bacterial biofilms . 
+Microbiol Mol Biol Rev 2009 ; 73:310 -- 47 . 
+Kraxenberger T , Fried L , Behr S et al. . 
+First insights into the unexplored two-component system YehU/YehT in Escherichia coli . 
+J Bacteriol 2012a ; 194:4272 -- 84 . 
+Kraxenberger T , Fried L , Behr S et al. . 
+First insights into the unexplored two-component system YehU/YehT in Escherichia coli . 
+J Bacteriol 2012b ; 194:4272 -- 84 . 
+Lee EJ , Choi J , Groisman EA . 
+Control of a Salmonella virulence operon by proline-charged tRNA ( Pro ) . 
+Proc Natl Acad Sci U S A 2014 ; 111:3140 -- 5 . 
+Lee EJ , Pontes MH , Groisman EA . 
+A bacterial virulence protein promotes pathogenicity by inhibiting the bacterium 's own F1Fo ATP synthase . 
+Cell 2013 ; 154:146 -- 56 . 
+Liu Z , Niu H , Wu S et al. . 
+CsgD regulatory network in a bacterial trait-altering biofilm formation . 
+Emerg Microbes Infect 2014 ; 3 : e1 . 
+Mohite BV , Patil SV . 
+Investigation of bacterial cellulose biosynthesis mechanism in Gluconoacetobacter hansenii . 
+ISRN Microbiol 2014 ; 2014:836083 . 
+Olson ER , Dunyak DS , Jurss LM et al. . 
+Identification and characterization of dppA , an Escherichia coli gene encoding a periplasmic dipeptide transport protein . 
+J Bacteriol 1991 ; 173:234 -- 44 . 
+Pontes MH , Lee EJ , Choi J et al. . 
+Salmonella promotes virulence by repressing cellulose production . 
+Proc Natl Acad Sci U S A 2015 ; 112:5183 -- 8 . 
+Pratap CB , Patel SK , Shukla VK et al. . 
+Drug resistance in Salmonella enterica serotype Typhi isolated from chronic typhoid carriers . 
+Int J Antimicrob Agents 2012 ; 40:279 -- 80 . 
+Prouty AM , Gunn JS . 
+Comparative analysis of Salmonella enterica serovar Typhimurium biofilm formation on gallstones and on glass . 
+Infect Immun 2003 ; 71:7154 -- 8 . 
+Prouty AM , Schwesinger WH , Gunn JS . 
+Biofilm formation and interaction with the surfaces of gallstones by Salmonella spp . 
+Infect Immun 2002 ; 70:2640 -- 9 . 
+Rabsch W , Andrews HL , Kingsley RA et al. . 
+Salmonella enterica serotype Typhimurium and its host-adapted variants . 
+Infect Immun 2002 ; 70:2249 -- 55 . 
+Romling U , Rohde M. Flagella modulate the multicellular behavior of Salmonella typhimurium on the community level . 
+FEMS Microbiol Lett 1999 ; 180:91 -- 102 . 
+Romling U , Rohde M , Olsen A et al. . 
+AgfD , the checkpoint of multicellular and aggregative behaviour in Salmonella typhimurium regulates at least two independent pathways . 
+Mol Microbiol 2000 ; 36:10 -- 23 . 
+Shioi JI , Galloway RJ , Niwano M et al. . 
+Requirement of ATP in bacterial chemotaxis . 
+J Biol Chem 1982 ; 257:7969 -- 75 . 
+Solano C , Garcia B , Valle J et al. . 
+Genetic analysis of Salmonella enteritidis biofilm formation : critical role of cellulose . 
+Mol Microbiol 2002 ; 43:793 -- 808 . 
+Srinandan CS , Elango M , Gnanadhas DP et al. . 
+Infiltration of matrix-non-producers weakens the Salmonella biofilm and impairs its antimicrobial tolerance and pathogenicity . 
+Front Microbiol 2015 ; 6:1468 . 
+Steenackers H HK , Vanderleyden J , Keersmaecker S. Salmonella biofilms : An overview on occurrence , structure , regulation and eradication . 
+Food Res Int 2012 ; 45:502 -- 31 . 
+Stepanovic S , Cirkovic I , Ranin L et al. . 
+Biofilm formation by Salmonella spp . 
+and Listeria monocytogenes on plastic surface . 
+Lett Appl Microbiol 2004 ; 38:428 -- 32 . 
+Van Houdt R , Michiels CW . 
+Biofilm formation and the food industry , a focus on the bacterial outer surface . 
+J Appl Microbiol 2010 ; 109:1117 -- 31 .

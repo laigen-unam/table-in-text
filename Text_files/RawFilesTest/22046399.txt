@@ -1,0 +1,583 @@
+Lrp Acts as Both a Positive and Negative Regulator for 
+Type 1 Fimbriae Production in Salmonella enterica
+Serovar Typhimurium 
+Chang-Ho Baek , Ho-Young Kang , Kenneth L. Roland , Roy Curtiss , III * 1 3 1 1,2 
+1 The Biodesign Institute at Arizona State University , Tempe , Arizona , United States of America , 2 School of Life Sciences at Arizona State University , Tempe , Arizona , United States of America , 3 Department of Microbiology , Pusan National University , Pusan , Korea 
+Abstract subunit FimH ( adhesin ) [ 11 ] , and fimbrial-like protein FimF [ 6,11 ] . 
+The regulatory fimZ , fimY , and fimW genes are expressed from independent promoters [ 12 -- 14 ] . 
+The FimZ regulator activates expression of the fimAICDHF operon by binding to the fimA promoter [ 15 ] . 
+In serovar Typhimurium , FimY and FimW act as a transcriptional coactivator and repressor , respectively , through protein-protein interactions with FimZ [ 12,14 ] . 
+However , Saini et al. reported that FimY independently activates the fimA promoter , and FimW acts as a negative regulator by repressing FimY transcription [ 16 ] . 
+The fimU gene product arginine tRNA acts as a posttranscriptional regulator by affecting FimY translation [ 17,18 ] . 
+Bacteria are efficient at switching between type 1 fimbriate and non-fimbriate status in response to environmental conditions [ 3,19 ] . 
+The mechanism of phase-variable type 1 fimbriae synthesis has been well characterized in Escherichia coli [ 20 ] . 
+FimB and FimE recombinases mediate site-specific recombination of the fimA promoter region , resulting in alteration of orientations allowing or blocking transcription [ 20,21 ] . 
+Nucleoid-binding global regulators that modulate DNA topology , such as Lrp , integration host factor ( IHF ) , and H-NS affect phase variation and synthesis of type 1 fimbriae in E. coli [ 22 -- 27 ] . 
+In addition , McClain et al. suggested that there is an inversion-independent phase variation mechanism [ 28 ] . 
+Despite significant homology between the fim structural genes , the mechanism by which type 1 fimbriae synthesis is regulated in S. enterica serovar Typhimurium differs substantially from that in E. coli . 
+The serovar Typhimurium fimA promoter does not possess a cis-acting regulatory DNA element for reversible inversion-dependent regulation of type 1 fimbriae expression [ 29 ] . 
+Moreover , homologs of the E. coli FimB and FimE recombinase are not present in serovar Typhimurium [ 30,31 ] . 
+Conversely , no homologs for serovar Typhimurium FimZ , FimY and FimW regulators have been found within the E. coli fim gene cluster [ 32 ] . 
+In serovar Typhimurium , Lrp is required for type 1 fimbriae production by activating FimZ synthesis [ 33 ] , whereas in E. coli , Lrp is involved in inversion-dependent phase variation [ 26 ] . 
+Lrp activates fimZ expression by binding directly to the PfimZ promoter [ 33 ] . 
+FimZ is an essential positive regulator for type 1 fimbriae production in serovar Typhimurium [ 13 ] . 
+Thus an lrp-deletion mutant can not produce FimZ , and is blocked for type 1 fimbriation [ 33 ] . 
+Although , the mechanism for type 1 fimbriae production in bacteria has been extensively studied , no clear mechanism for on-off switching in response to environmental cues has been demonstrated . 
+We have proposed that dynamic change in cellular Lrp levels in response to nutritional state ( feast or famine ) is important for coordinating virulence traits in Salmonella [ 34 ] . 
+In this study , we address the effect of Lrp on type 1 fimbriation in Salmonella . 
+Leucine-responsive regulatory protein ( Lrp ) is known to be an indirect activator of type 1 fimbriae synthesis in Salmonella enterica serovar Typhimurium via direct regulation of FimZ , a direct positive regulator for type 1 fimbriae production . 
+Using RTPCR , we have shown previously that fimA transcription is dramatically impaired in both lrp-deletion ( Dlrp ) and constitutive-lrp expression ( lrp ) mutant strains . 
+In this work , we used chromosomal PfimA-lacZ fusions and yeast agglutination assays to confirm C and extend our previous results . 
+Direct binding of Lrp to PfimA was shown by an electrophoretic mobility shift assay ( EMSA ) and DNA footprinting assay . 
+Site-directed mutagenesis revealed that the Lrp-binding motifs in PfimA play a role in both activation and repression of type 1 fimbriae production . 
+Overproduction of Lrp also abrogates fimZ expression . 
+EMSA data showed that Lrp and FimZ proteins independently bind to PfimA without competitive exclusion . 
+In addition , both Lrp and FimZ binding to PfimA caused a hyper retardation ( supershift ) of the DNA-protein complex compared to the shift when each protein was present alone . 
+Nutrition-dependent cellular Lrp levels closely correlated with the amount of type 1 fimbriae production . 
+These observations suggest that Lrp plays important roles in type 1 fimbriation by acting as both a positive and negative regulator and its effect depends , at least in part , on the cellular concentration of Lrp in response to the nutritional environment . 
+Citation : Baek C-H , Kang H-Y , Roland KL , Curtiss R III ( 2011 ) Lrp Acts as Both a Positive and Negative Regulator for Type 1 Fimbriae Production in Salmonella enterica Serovar Typhimurium . 
+PLoS ONE 6 ( 10 ) : e26896 . 
+doi :10.1371 / journal.pone .0026896 
+Editor : Dipshikha Chakravortty , Indian Institute of Science , India 
+Received August 23 , 2011 ; Accepted October 5 , 2011 ; Published October 28 , 2011 
+Copyright : 2011 Baek et al. . 
+This is an open-access article distributed under the terms of the Creative Commons Attribution License , which permits unrestricted use , distribution , and reproduction in any medium , provided the original author and source are credited . 
+Funding : This work was supported by a grant ( R01AI060557 , Salmonella Vaccines Against Bacterial Enteropathogens ) from National Institutes of Health . 
+The funders had no role in study design , data collection and analysis , decision to publish , or preparation of the manuscript . 
+Competing Interests : The authors have declared that no competing interests exist . 
+* E-mail : rcurtiss@asu.edu 
+Introduction 
+Type 1 fimbriae are mannose-sensitive agglutination factors that mediate bacterial adhesion to a broad range of eukaryotic cells by interactions with mannosylated glycoproteins [ 1 -- 3 ] . 
+Most members of the family Enterobacteriaceae , including Salmonella enterica serovar Typhimurium , produce type 1 fimbriae that are believed to contribute to pathogenesis by facilitating the initial interaction with host cells [ 3 -- 5 ] . 
+The fim gene cluster , responsible for type 1 fimbriae production , is composed of six structural genes , fimAICDHF transcribed as an operon from the fimA promoter , three regulatory genes , fimZ , fimY , and fimW , and an arginine tRNA gene , fimU [ 6 ] . 
+The structural gene products are the major type 1 fimbrial subunit FimA [ 7,8 ] , fimblin-like protein FimI [ 9 ] , periplasmic chaperone FimC [ 10 ] , outer membrane usher protein FimD [ 6 ] , minor fimbrial 
+Results
+Lrp acts as both positive and negative regulator for fimA expression 
+In our previous study using RT-PCR , we observed that an lrp C ( constitutive Lrp expression ) mutation abrogated fimA transcription 
+[ 34 ] . 
+The lack of fimA expression in the lrp strain was unexpected , C since Lrp is known to be an indirect positive regulator for type 1 fimbriae production by enhancing expression of the positive regulator FimZ [ 33 ] . 
+To further define the role of Lrp in fimA expression , we determined the activity of PfimA using PfimA-lacZ fusions in wild-type strain x3761 , and isogenic Dlrp and lrp C mutant strains ( Table 1 ) by measuring the b-galactosidase activity in each of these strains after static , 24 h growth in LB medium at 37uC ( Fig. 1A ) . 
+The lack of b-galactosidase synthesis in the Dlrp and lrp mutant backgrounds indicates that transcription from C PfimA is not active in the absence of Lrp or when Lrp is overproduced . 
+Next , we measured fimbriae production by determining the ability of static cultures of strains x3761 , x9411 ( Dlrp ) and x9448 ( lrp ) to agglutinate yeast cells . 
+Wild-type cells displayed mannose-C sensitive agglutination , while both mutant strains were deficient in this phenotype ( Fig. 1B ) , consistent with our observations that no fimA transcript was detected in the strains . 
+We further confirmed these results by transmission electron microscopy ( TEM ) . 
+Typical type 1 fimbriae appendages were detected on the cell surface of wild-type strain x3761 , while no type 1 fimbriae were detected on the cell surface of the Dlrp or the lrp strains ( data not shown ) . 
+C These results demonstrate that deletion of lrp or overproduction of Lrp has a strong negative effect on type 1 fimbriae synthesis by directly influencing fimA transcription . 
+Table 1 . 
+Bacterial strains and plasmids used in this study . 
+Description [ parental strain ] a 
+Strains 
+Source 
+S. Typhimurium 
+Wild-type strain UK-1 , highly virulent for chicks and mice 
+x3761 
+[ 52,53 ] 
+Dlrp-13 ( lrp-deletion mutation ) [ x3761 ] 
+x9411 
+[ 34 ] 
+lrp-1281 ( DPlrp : : Ptrc lrp , chromosomal deletion-insertion mutation to drive constitutive expression of Lrp ( lrp ) ) [ x3761 ] C 
+x9448 
+[ 34 ] 
+x9449 
+DrelA198 : : araC PBAD lacI TT DaraBAD23 lrp-1281 [ x9509 ] PfimA : : pYA4311 ( PfimA-lacZ ) , Amp Gm [ x3761 ] r r 
+[ 34 ] 
+x9455 
+This study 
+Dlrp-13 PfimA : : pYA4311 ( PfimA-lacZ ) , Amp Gm [ x9411 ] r r 
+x9467 
+This study 
+x11107 
+PfimA413 ( a mutation ) [ x3761 ] 
+This study 
+PfimA529 ( b mutation ) [ x3761 ] 
+x11111 
+This study 
+x11115 
+PfimA1225 ( c mutation ) [ x3761 ] 
+This study 
+x11153 
+lrp-1281 PfimA529 [ x9448 ] 
+This study 
+lrp-1281 PfimA : : pYA4311 ( PfimA-lacZ ) , Amp Gm [ x9448 ] r r 
+x11263 
+This study 
+PfimA413 : : pYA4311 ( PfimA413-lacZ ) , Amp Gm [ x11107 ] r r 
+x11264 
+This study 
+PfimA529 : : pYA4311 ( PfimA529-lacZ ) , Amp Gm [ x11111 ] r r 
+x11265 
+This study 
+P : : pYA4311 ( P - lacZ ) , Amp r r 
+x11266 
+fimA1225 fimA1225 Gm [ x11115 ] 
+This study 
+lrp-1281 PfimA529 : : pYA4311 ( PfimA529-lacZ ) , Amp Gm [ x11153 ] r r 
+x11267 
+This study 
+x11377 
+PfimA1325 ( ac double mutation ) [ x11115 ] 
+This study 
+PfimA1329 ( ab double mutation ) [ x11107 ] 
+x11378 
+This study 
+x11379 
+This study 
+PfimA2925 ( bc double mutation ) [ x11115 ] 
+x11380 
+This study 
+PfimA395 ( abc triple mutation ) [ x11379 ] 
+E. coli 
+thr-1 leuB6 fhuA21 lacY1 glnV44 recA1 DasdA4 thi-1 RP4-2-Tc : : Mu [ l-pir ] , Km r 
+[ 54 ] 
+MGN-617 ( x7213 ) 
+Plasmids 
+pRE112 Positive selection suicide vector ( R6K ori ) for gene replacement , Cm r 
+[ 55 ] 
+[ 49 ] 
+pSG3 a suicide vector ( R6K ori ) for construction of promoter-lacZ fusion into chromosome pWSK29 a low-copy-number cloning vector ( pSC101 ori ) , Amp r 
+[ 47 ] 
+pYA4124 Derivative of pET SUMO containing His Tag from pET-14b , Km r 
+[ 34 ] 
+pYA4311 Derivative of pSG3 for insertion of the PfimA-lacZ fusion into the chromosome , Amp Gm r r 
+This study 
+pYA4758 Derivative of pRE112 for replacement of the PfimA with PfimA413 , Cm r 
+This study 
+pYA4759 Derivative of pRE112 for replacement of the PfimA with PfimA529 , Cm r 
+This study 
+pYA4801 Derivative of pRE112 for replacement of the PfimA with PfimA1225 , Cm r 
+This study 
+pYA4865 Derivative of pWSK29 harboring a recombinant fimZ gene , Amp r 
+This study 
+a r r r r Amp , ampicillin resistance ; Gm , gentamicin resistance ; Cm , chloramphenicol resistance ; Km , kanamycin resistance . 
+doi :10.1371 / journal.pone .0026896 . 
+t001 
+Figure 1 . 
+Expression of type 1 fimbrial operon and the associated phenotype in the wild-type ( WT , x3761 ) , Dlrp ( x9411 ) , and lrpC ( x9448 ) strains . 
+( A ) b-galactosidase assay for the PfimA-lacZ fusions in each strain is shown . 
+* , P ,0.05 ( B ) Mannose-sensitive yeast agglutination assay to assess type 1 fimbriae synthesis . 
+Representative images from several experiments are shown . 
+Bacterial cells were statically grown in LB broth for 24 h at 37uC . 
+doi :10.1371 / journal.pone .0026896 . 
+g001 
+Lrp directly interacts with PfimA
+Based on our previously described consensus sequences [ 34 ] , we detected four putative Lrp-binding motifs in the P region . 
+All fimA four motifs are located upstream of the fimA transcription start site ( +1 ) [ 15 ] . 
+The DNA motifs 1 [ 2308 to 2301 ] , 2 [ 2112 to 2105 ] , and 3 [ 235 to 228 ] belong to Lrp-binding consensus IV , 59-GNN ( N ) TTTT -39 [ 34,35 ] and DNA motif 4 [ 231 to 220 ] belongs to Lrp-binding consensus III , 59 - HNDWTTATTHND-39 [ where H = not G ; W = A or T ; D = not C ; N = all bases ; and 
+( N ) = all bases or none ] [ 34 ] . 
+DNA motif 2 lies just upstream and motifs 3 and 4 lie just downstream of the FimZ binding site [ 298 to 247 ] [ 33 ] . 
+These observations led us to postulate that Lrp acts as both an activator and a repressor for type 1 fimbriae expression mediated by differential interactions with Lrp-PfimA , depending on cellular concentration of Lrp and on environmental conditions . 
+To address this hypothesis , we tested the direct interaction between Lrp and PfimA using the electrophoretic mobility shift assay ( EMSA ) . 
+Lrp directly interacted with PfimA in a concentration-dependent manner ( Fig. 2 ) . 
+These results are in contrast to the study by McFarland et al who did not detect an Lrp-PfimA interaction in gel shift assays [ 33 ] . 
+We noted differences in the binding buffer used in their study compared to ours . 
+Of particular interest was the fact that their binding buffer included MgCl2 , while ours did not include divalent cations and , instead included EDTA to chelate any divalent cations present . 
+We performed the EMSA assay using McFarland 's binding buffer and , like McFarland et al , did not detect binding ( data not shown ) , suggesting that the magnesium concentration may play a role in regulating Lrp binding to PfimA . 
+A DNase I footprinting analysis was performed to elucidate in more detail the molecular nature of the Lrp-P interaction with fimA both coding ( Fig. 3A ) and non-coding ( Fig. 3B ) strands . 
+A 388-bp DNA probe extending from -334 to +54 with respect to transcriptional start site ( +1 ) was used , which includes the entire 
+PfimA region . 
+The footprint was estimated by densitometry comparing two lanes for 150 nM and 0 nM Lrp . 
+Sites protected from or hypersensitive to DNase I are summarized in Fig. 3C . 
+All four putative Lrp-binding motifs were protected by Lrp ( Fig. 3A and B ) . 
+We observed strong protection of the DNA region ( 2326 to 2257 ) containing the Lrp-binding motif 1 , while protection of the DNA regions ( 2123 to 2102 ; 259 to 233 ; and 226 to 26 ) of the Lrp-binding motifs 2 , 3 , and 4 , respectively , was weaker . 
+The DNA region ( 25 to +4 ) in immediate downstream of the Lrpbinding motif 4 also showed weak protection . 
+The AT-rich overlapping region ( 234 to 228 ) within Lrp-binding motif 3 and 4 was highly resistant to DNase I digestion . 
+The FimZ-binding region partly overlapped with the Lrp-binding region ( 259 to 247 ) ( Fig. 3C ) . 
+This result suggests that both Lrp and FimZ competitively interact with the overlapped motif in PfimA . 
+Two super-hypersensitive positions ( red arrowheads in Fig. 3A and B ) , 2193 T on coding strand and 2130 G on non-coding strand , were detected . 
+None of tested DNA fragments showed non-specific degradation in the absence of DNase I ( data not shown ) . 
+Figure 2 . 
+Binding of the purified Lrp to the wild-type PfimA . 
+Binding reactions were carried out in various Lrp concentrations : 0 , 50 , 100 , 150 , and 200 nM . 
+The 178-bp DNA fragment from pBluescript multi-cloning sites was used as the negative control . 
+doi :10.1371 / journal.pone .0026896 . 
+g002 
+Each of the Lrp-binding motifs in PfimA plays a distinct role in regulating type 1 fimbriae production To dissect the role of Lrp interactions with the promoter region of fimA , we constructed P mutations , P , P , and fimA fimA413 fimA529 PfimA1225 , designated a , b , and c , respectively , in the Lrp-binding motifs by site-directed mutagenesis ( Table 1 and Fig. 3C ) . 
+Our strategy for these mutations was to change multiple bases in each of the Lrp-binding motifs to increase the likelihood of disrupting the Lrp-DNA interaction and to reduce the likelihood of reversion . 
+In addition , the GC content ( 25 % or less ) of the Lrp-binding motifs was increased by the changes to achieve a GC content closer to the average for Salmonella , approximately 52 % [ 6 ] . 
+The GC content was raised to 50 % by the a and b mutations and to 44 % by the c mutation . 
+None of the changes affected bases known to be part of the RNA polymerase binding site for PfimA . 
+To determine the influence of the PfimA mutations on expression , we estimated the levels of mannose-sensitive fimbriae by a yeast agglutination assay , the synthesis of FimA by western blot , and fimA expression using chromosomal fimA-lacZ fusions in strains carrying the promoter mutations ( Fig. 4 ) . 
+The PfimA413 ( a ) mutation had no significant effect on yeast agglutination , FimA synthesis or fimA transcription when compared to wild-type PfimA [ PfimA ( WT ) ] ( Fig. 4A and B ) . 
+In contrast , the PfimA529 ( b ) mutation resulted in a substantial increase in FimA synthesis ( Fig. 4A ) and a simultaneous increase in agglutination even at the lowest cell density used . 
+In contrast , the PfimA1225 ( c ) mutation resulted in loss of the agglutination phenotype and no detectable FimA synthesis on day 1 of growth ( Fig. 4A ) . 
+These results suggest that Lrpbinding motifs 1 and 2 in the P region are involved in LrpfimA mediated activation and repression , respectively , of type 1 fimbrial gene expression . 
+Overall , the results from the lacZ fusion studies mirrored the yeast agglutination and western blot results ( Fig. 4A , 4B ) . 
+The double and triple mutants , PfimA1325 ( ac ) , PfimA1329 ( ab ) , P ( bc ) , and P ( abc ) displayed wild-type levels of yeast fimA2925 fimA395 agglutination on both day 1 and day 3 ( data not shown ) . 
+Interestingly , we observed wide experiment-to-experiment variations in fimA expression on day 1 , as measured by bgalactosidase synthesis from the PfimA1225 ( c ) - lacZ fusion ( Fig. 4B ) . 
+Yeast agglutination results from the c mutant ( culture at day 1 ) were also variable among independent experiments ( data not shown ) . 
+Upon plating the c mutant cultures after three days of growth , we observed heterogeneous colony morphologies , including large and small colonies . 
+Some of the large colonies were purified and retested . 
+They appeared to be highly fimbriated , as they agglutinated yeast strongly after 24 hours of static growth and synthesized FimA ( data not shown ) , suggesting that they had acquired a suppressor mutation . 
+This observation could explain the variable data from the original c-lacZ-fusion mutant culture at day 1 ( Fig. 4B ) . 
+By day 3 , we observed strong yeast agglutination promoter region . 
+However , we could not find any additional mutations in the PfimA1225 ( c ) DNA sequence from the suppressor mutants , indicating that the suppressor mutation is located elsewhere in the chromosome ( data not shown ) . 
+Each of the Lrp-binding motifs in PfimA contributes to Lrp-PfimA interaction To address the mechanism behind the Lrp-mediated dual ( activation/repression ) regulation , interactions between Lrp and each of the mutant fimA promoters were evaluated using EMSA . 
+Lrp binding to the the a , b , c , ac , ab , and bc ( single and double ) mutant promoters was indistinguishable from binding to PfimA ( WT ) regardless of Lrp concentrations . 
+In contrast , Lrp binding to the abc triple mutant promoter was impaired when the Lrp concentration was reduced to 100 nM or 50 nM ( Fig. 5 ) . 
+This indicates that each of the Lrp-binding motifs in PfimA contributes to Lrp-PfimA interactions . 
+Leucine had a minor effect on the band pattern , but we observed no significant effect on the binding affinity of Lrp to PfimA ( WT ) ( data not shown ) . 
+In addition , there was no significant effect of leucine on the Lrp-PfimA footprint ( data not shown ) . 
+Lrp acts as both positive and negative regulator of fimZ expression 
+The increase in fimA expression observed in the b mutant ( Fig. 4B ) raised the possibility that the binding of Lrp to motif 2 , adjacent to the FimZ binding site ( Fig. 3C ) , may affect FimZ binding . 
+If the b mutation precluded Lrp binding , this could allow for greater accessibility of FimZ to its binding site in PfimA , thereby accounting for the observed hyper-fimbriation phenotype of the b mutant . 
+To address this possibility , we investigated whether the b mutation could relieve the observed repression of fimA in the lrp C mutant . 
+Therefore , we introduced the b mutation into the lrp C mutant and evaluated the resulting strain . 
+We found that introduction of the b mutation did not alleviate the FimC phenotype in lrp mutant ( Fig. 4 ) . 
+The new strain was essentially C identical to the lrp mutant carrying the PfimA ( WT ) . 
+It did not produce any detectable FimA ( Fig. 4A ) , did not agglutinate yeast cells , and no fimA transcription was detected from the b mutant promoter ( Fig. 4B ) . 
+Because FimZ is a positive activator of fimA expression , we assessed fimZ expression in the lrp mutant by RT-C PCR analysis . 
+We found that fimZ expression was undetectable in C both the Dlrp and lrp mutants ( Fig. 6A ) . 
+The results within the Dlrp mutant are consistent with previous observations that Lrp is a positive activator of fimZ [ 33 ] . 
+The lack of fimZ expression in the C lrp mutant indicates that Lrp can also act as a negative regulator of fimZ . 
+In addition , complementation with plasmid-borne ( Lrp-independent ) fimZ can overcome the loss of type 1 fimbriae production in the lrp mutant in both wild-type PfimA and PfimA529 C ( b ) backgrounds ( Fig. 6B ) . 
+Therefore , it appears that even if Lrp binding is reduced at the Lrp-binding motif 2 when the b mutation is present , no fimA is expressed due to repression of fimZ . 
+In addition , positive regulation of fimA expression by FimZ is dominant over the negative regulation by Lrp when fimZ is overexpressed . 
+Figure 3 . 
+DNase I footprinting of Lrp binding to the PfimA region . 
+Both coding ( A ) and noncoding ( B ) strands were subjected to the DNase I protection assay . 
+These strands were P-labeled at 59 ends as described in Materials and Methods . 
+Lrp was added at 150 , 100 , 50 , and 0 nM . 
+The 32 DNase I protection products were separated in a sequencing gel next to the corresponding DNA sequencing products ( lanes G , A , T , and C ) . 
+The results from panels A and B are summarized in panel C . 
+The coordinates in the panels A , B , and C are numbered with respect to the fimA transcription start site ( +1 ) [ 15 ] . 
+The black open boxes indicate DNA bases that were protected from DNase I digestion by Lrp . 
+Hypersensitive bases are indicated with red arrowheads . 
+The putative Lrp-binding motifs are shown as purple bars on the left side of the gels , and are underlined ( purple ) in panel C. Base changes in the site-directed mutations of the Lrp-binding motifs are shown over the wild-type bases . 
+The FimZ-binding region [ 15 ] is also underlined ( black ) . 
+The putative 235 and 210 consensus sequences for RNA polymerase are shown in blue letters . 
+The translation start codon ( ATG ) for the fimA gene is shown in bold letters . 
+Arrows indicate orientation of transcription or translation . 
+doi :10.1371 / journal.pone .0026896 . 
+g003 
+( Fig. 4A ) and higher levels of b-galactosidase synthesis than wild type ( Fig. 4B ) , consistent with the accumulation of these highly fimbriated , faster-growing spontaneous mutants in the culture ( data not shown ) . 
+To determine whether or not the suppressor mutation was in the fim regulatory region , we picked four of these mutants and determined the DNA sequence of the entire 
+Both Lrp and FimZ independently bind to PfimA To gain greater insight into the regulation of fimA expression by Lrp and FimZ , we evaluated the binding of Lrp and FimZ to PfimA at several different molar ratios . 
+First , we confirmed that purified FimZ directly interacted with PfimA ( Fig. 7A ) . 
+When the concentration of FimZ was held constant at 50 nM , the intensity of shifted DNA-protein complex was increased by adding Lrp in a concentration dependent manner ( Fig. 7B ) . 
+Similarly , when the Lrp concentration was held constant at 50 nM , the intensity of shifted DNA-protein complex was increased by adding FimZ in a concentration dependent manner ( Fig. 7B ) . 
+In contrast to these conditions , in presence of Lrp ( 50 nM ) or FimZ ( 12.5 nM ) alone , the PfimA-Lrp or PfimA-FimZ complexes ran as a smear in the gel ( Fig. 7A and B ) . 
+These results indicate that both Lrp and FimZ independently bind to PfimA . 
+Although , DNase I footprinting analysis showed that the FimZ-binding motif partly overlapped with the Lrp-binding region ( Fig. 3B and C ) , we could not obtain any evidence for competitive binding of Lrp and FimZ to PfimA using EMSA . 
+In addition , in the presence of both Lrp and FimZ , we observed an increase in the apparent size of the PfimA ( WT ) complex ( supershift ) compared to the shift when each protein was present alone ( Fig. 7C ) . 
+To identify the Lrp-binding motif ( s ) responsible for the supershift , we estimated the binding of Lrp and 
+Figure 4 . 
+Effect of Lrp-binding motif mutations in PfimA on type 1 fimbriae production and b-galactosidase synthesis directed by PfimA promoter fusions in the indicated Salmonella strains . 
+Salmonella strains each harboring one of the PfimA mutations were statically grown in LB broth at 37uC for one day ( 24 h ) or 3 days . 
+Mannose-sensitive yeast agglutination assay and western blot analysis were performed to monitor fim expression in the single mutants ( A ) . 
+Agglutination was scored as follows : - , none ; + + , good ; + + + , strong ; and + + + + , very strong . 
+Immunoblots using anti-FimA serum in each panel determine the level of FimA synthesized in each mutant . 
+( B ) b-galactosidase assay for a each lacZ fusion strain is shown . 
+* , P ,0.05 ; N.S. , not significant . 
+doi :10.1371 / journal.pone .0026896 . 
+g004 
+FimZ to each of the mutant promoters , PfimA413 ( a ) , PfimA529 ( b ) , and PfimA1225 ( c ) . 
+The c mutation in motif 1 abrogated the supershift of the DNA-protein complex , while the a and b mutations maintained the supershift ( Fig. 7C ) . 
+Remarkably , the a mutation led to a very strong supershift ( Fig. 7C ) . 
+These results indicate that the Lrp-binding motif 1 and the FimZ-binding motif in PfimA allow the supershifting of the PfimA complex by binding of both Lrp and FimZ to PfimA . 
+The cellular level of Lrp is a key factor for on/off switching of type 1 fimbriae production in serovar
+Typhimurium To examine Lrp-dependent on/off switching of type 1 fimbriae production , we employed S. Typhimurium strain x9449 harboring an arabinose-dependent Lrp expression system ( araC PBAD lacI and Ptrc lrp ) [ 34 ] . 
+In the presence of arabinose , lacI expression is induced and lrp expression , transcribed from the lacI-regulated Ptrc promoter , is repressed . 
+Conversely , in the absence of arabinose , no LacI is produced and Lrp is synthesized ( Fig. 8A ) . 
+In strain x9449 , Lrp synthesis and the ability to agglutinate yeast cells were dependent on the arabinose concentration in LB medium ( Fig. 8A ) . 
+To evaluate whether the nutrition-dependent cellular Lrp levels are related to on-off switching of type 1 fimbriation , wild-type strain x3761 was statically grown in MOPS minimal broth , LB broth , and MOPS plus LB ( MOPS-LB ) broth mixed in several different ratios . 
+Cells from these cultures were harvested and tested for mannose-sensitive yeast agglutination . 
+Cell lysates were analyzed by western blot using anti-Lrp mouse serum . 
+As shown in Fig. 8B , Lrp synthesis was proportional to the nutritional content of the growth medium : with more Lrp produced under poor nutritional conditions and less Lrp produced under rich nutritional conditions . 
+Mannose-sensitive yeast agglutination was dramatically reduced in the Salmonella cells grown in MOPS minimal medium , which is the condition generating the highest cellular Lrp level ( Fig. 8B ) . 
+Mannose-sensitive agglutination was partially recovered in the bacterial cells grown in MOPS minimal broth supplemented with 1 % ( v/v ) LB broth ( Fig. 8B ) . 
+The wildtype Salmonella completely recovered mannose-sensitive type 1 fimbriation in the MOPS-LB media containing 10 % ( v/v ) LB broth or more ( Fig. 8B ) . 
+These results imply that the nutritiondependent intracellular Lrp concentration is important for regulating type 1 fimbriation . 
+To get a better sense of how much Lrp is present in cells , we estimated the number of Lrp molecules per cell when cells were grown in MOPS minimal broth , LB broth , and MOPS plus LB ( MOPS-LB ) broth mixed in several different ratios by comparing the western blot shown in Fig. 8B with a western blot loaded with known amounts of purified Lrp ( Fig. 8C ) . 
+Based on our densitometry calculations using the standard curve in Fig. 8C , the wild-type Salmonella strain x3761 produced about 6,000 Lrp molecules ( 3,000 dimers ) per cell when grown in MOPS minimal medium . 
+This is the same number of Lrp molecules calculated for E. coli cells grown in a glucose-based minimal medium [ 36 ] . 
+The wild-type Salmonella strain x3761 produced about 2,000 Lrp molecules ( 1,000 dimers ) per cell in LB medium , whereas the lrp C mutant produced about 12,000 Lrp molecules ( 6,000 dimers ) per cell grown in LB medium ( data not shown ) . 
+In MOPS minimal medium supplemented with 10 % ( v/v ) LB , x3761 produced approximately 4,700 Lrp molecules ( 2,350 dimers ) per cell . 
+In addition , the regulated lrp-expression mutant x9449 produced about 900 Lrp dimers per cell when grown in LB medium supplemented with 0.04 % or 0.2 % arabinose , and did not produce type 1 fimbriae . 
+These results indicate that S. Typhimurium is able to produce type 1 fimbriae at a range of cellular Lrp concentrations ( from 1,000 to 2,400 Lrp dimers per cell ) . 
+In MOPS minimal medium supplemented with 1 % ( v/v ) LB , x3761 produced some type 1 fimbriae , as judged by the mannose-sensitive yeast agglutination assay , even though this strain produced 3,000 Lrp dimers per cell , more than the 2,400 dimers per cell predicted to be the maximum number that would permit fimA transcription , based on growth in MOPS . 
+This result suggests that nutritional signals in LB broth may partially relieve the Lrpmediated repression of type 1 fimbriation at high cellular Lrp concentration . 
+Identification of the nutritional signals in LB medium remains to be addressed . 
+Figure 5 . 
+Effects of Lrp-binding motif mutations in PfimA by EMSA . 
+Lrp was added at 150 , 100 , 50 , and 0 nM . 
+Reaction products were separated in a 5 % polyacrylamide gel . 
+Data presented are representative of two independent observations . 
+doi :10.1371 / journal.pone .0026896 . 
+g005 
+Figure 6 . 
+Effect of cellular Lrp levels on FimZ synthesis and PfimA-FimZ interaction in Salmonella . 
+( A ) RT-PCR analysis of fimZ transcript in the wild-type ( WT , x3761 ) , Dlrp ( x9411 ) , and lrp ( x9448 ) C strains . 
+RT-PCR analysis of murA transcript in the strains was used as the control . 
+( B ) Mannose-sensitive yeast agglutination assay to assess type 1 fimbriae production and western bolt analysis for the FimZ synthesis in the lrp mutants harboring pWSK29 ( a low-copy number vector control ) C or pYA4865 ( Lrp-independent fimZ expression vector ) . 
+doi :10.1371 / journal.pone .0026896 . 
+g006 
+Discussion
+Lrp is required for synthesis of type 1 fimbriae [ 33 ] . 
+Previous studies have shown that FimZ is required for fimA expression and Lrp is required for fimZ expression [ 33 ] . 
+Lrp binds to the fimZ promoter region and can thereby enhance fimZ expression [ 33 ] . 
+FimZ binds to PfimA and activates fimA expression . 
+Our previous report showed that C while Dlrp mutants did not express fimA as expected , neither did lrp mutants [ 34 ] . 
+To address the basis for these apparently contradictory phenomena , we investigated the role of Lrp in regulating type 1 fimbriae synthesis in more detail . 
+Using both genetic and molecular approaches , we found that high cellular levels of Lrp repressed fimA expression , with a concomitant loss of the type 1 fimbriae-associated mannose-sensitive agglutination phenotype ( Fig. 4 ) . 
+Under these conditions , production of FimZ is also abrogated ( Fig. 6 ) . 
+Site directed mutagenesis of putative Lrp-binding sites in the fimA promoter indicated that binding of Lrp to the fimA promoter is necessary for both activation and repression of type 1 fimbriae expression ( Fig. 4 ) . 
+Figure 7 . 
+Binding of the purified Lrp and FimZ proteins to PfimA . 
+( A ) Binding of FimZ to PfimA ( WT ) . 
+( B ) Binding of Lrp and FimZ to PfimA ( WT ) . 
+( C ) Binding of Lrp and FimZ to PfimA ( WT ) , PfimA413 ( a ) , PfimA529 ( b ) , or PfimA1225 ( c ) . 
+The white arrowheads indicate super-shifted Lrp-PfimA-FimZ complexes . 
+To enhance resolution of the super-shifted DNA-protein complexes , the running time of the polyacrylamide gel in panel C was extended from 1 h ( used in panels A and B ) to 2 h. Schematic diagrams of the wild-type and mutant fimA promoters are shown under the gel . 
+doi :10.1371 / journal.pone .0026896 . 
+g007 
+The c mutation in the Lrp-binding motif 1 ( Fig. 3B ) abolished type 1 fimbriae synthesis , as judged by fimA expression and the yeast agglutination phenotype ( Fig. 4 ) . 
+These results suggest that Lrpbinding motif 1 in PfimA may play a crucial role in Lrp-mediated activation of type 1 production . 
+This notion is supported by the observation that the c mutation eliminates the formation of a supershifted band in the EMSA assay ( Fig. 7C ) , indicating that Lrp binds to motif 1 . 
+In addition , the supershifting of this DNA-protein complex suggests that both Lrp and FimZ binding to PfimA lead to a change in DNA topology , since Lrp changes DNA topology by DNA-protein and protein-protein interactions [ 37 ] . 
+This DNA topology change may contribute to activation of type 1 fimbriae production under normal growth conditions in cells ( neither the absence nor overproduction of the regulators Lrp or FimZ ) . 
+The precise mechanism driving the activation of fimA transcription remains to be elucidated . 
+The b mutation in Lrp-binding motif 2 ( Fig. 3B ) enhanced fimA transcription and FimA synthesis ( Fig. 4 ) , indicating that the Lrpbinding motif 2 in PfimA is important for repression of type 1 fimbriae production . 
+Based on our results showing that Lrp binds to motif 2 ( Fig. 3B ) , we infer that repression via motif 2 is Lrpmediated . 
+Introduction of the lrp mutation into the b mutant C ( PfimA529 ) repressed fimA expression and eliminated any detectable yeast agglutination ( Fig. 6B ) . 
+This result is most easily explained by the lack of fimZ expression in these cells ( Fig. 6A ) , as the synthesis of type 1 fimbriae is restored by overexpression of fimZ ( Fig. 6B ) . 
+FimZ-dependent PfimA activation dominates the Lrp effect on PfimA when fimZ is overexpressed ( Fig. 6 ) and in fact , does not require Lrp when expressed from a multicopy plasmid [ 33 ] . 
+In contrast to the effects observed in the b and c mutants , the a mutation in Lrp-binding motif 3 and 4 had no effect on agglutination or on transcription of the PfimA : : lacZ fusion ( Fig. 4 ) . 
+The DNase I footprinting analysis showed that the protection region at Lrp-binding motif 3 and 4 partly overlapped with the FimZ-binding motif ( Fig. 3 ) . 
+This result suggests that Lrp and FimZ compete for binding to PfimA at the overlapping sites . 
+However , the EMSA results indicated that Lrp and FimZ independently bind to PfimA without competitive exclusion . 
+Many Lrp-regulated genes include multiple Lrp-binding motifs in their promoter region . 
+Cooperative binding of Lrp to these motifs is an important factor for Lrp-mediated gene regulation [ 38 ] . 
+Cooperative interactions between Lrp and other nucleoidbinding proteins such as H-NS are thought to repress transcription of some genes [ 39 ] . 
+While Lrp has been shown to act as a positive or negative regulator for each of the genes in the Lrp regulon , no systematic study of the mechanism has been undertaken . 
+Although it is unusual for Lrp to be both a positive and a negative regulator in the same operon , this type of dual regulation has been reported for the papBA operon [ 40 ] . 
+In that case , Lrp interacts with H-NS for repression and PapI for activation . 
+The PfimA region of S. Typhimurium includes four Lrp-binding motifs , 1 , 2 , 3 , and 4 ( Fig. 3C ) . 
+Interestingly , three motifs are located immediately upstream ( motif 2 ) and downstream ( 3 and 4 ) of the FimZ-binding cis element in PfimA [ 33 ] . 
+Motif 1 is located far upstream ( 2308 to 2301 ) from the fimA transcription start site [ 15 ] . 
+Moreover , two potential high-affinity H-NS binding sites [ 41 ] , 59 - AAAATAAGA -39 ( 2100 to 292 ) and 59 - ATTAAAAGA -39 ( 251 to 243 ) , are located immediate downstream of Lrp-binding motif 2 and upstream of Lrp-binding motif 3 , respectively , and overlap with the FimZ-binding site . 
+This observation suggests that Lrp binding to Lrp-binding motifs 2 and 3 may facilitate binding of the silencing protein H-NS . 
+Sitedirected mutagenesis revealed that motifs 1 ( distal locus for c mutation ) and 2 ( proximal locus for b mutation ) are important determinants for activation and repression , respectively , of type 1 fimbriae production ( Fig. 4 ) . 
+This result is consistent with previous reports that Lrp acts as a repressor when bound to motifs closer to or within the promoter and as an activator when bound to motifs further upstream [ 35,42 ] . 
+Similarly , we also found seven Lrpbinding motifs in the PfimZ region ( 603-bp , between fimY stop codon and fimZ start codon ) ( data not shown ) . 
+Two motifs belong to Lrp-binding consensus III ( 59 - HNDWTTATTHND -39 ) and five motifs belong to Lrp-binding consensus IV ( 59 ¬ 
+Figure 8 . 
+Effect of cellular Lrp levels on type 1 fimbriae production in S. Typhimurium . 
+( A ) Western blot analysis for Lrp synthesis and mannose-sensitive yeast agglutination assay for the type 1 fimbriation in strain x9449 grown statically at 37uC for 24 h in LB medium supplemented with various arabinose concentrations . 
+( B ) Western blot analysis for Lrp synthesis and mannose-sensitive yeast agglutination assay in the wild-type strain x3761 grown statically in u various combination of MOPS and LB media at 37 C for 24 h. Agglutination was scored as follows : - , no ; + / - , very weak ; + , weak ; and + + , good . 
+( C ) Preparation of standard curve for quantification of cellular Lrp levels by western blot analysis of purified Lrp ( 100 , 50 , and 25 ng ) using anti-Lrp antiserum and densitometry . 
+doi :10.1371 / journal.pone .0026896 . 
+g008 
+GNN ( N ) TTTT -39 ) [ 34,35 ] . 
+Furthermore , three of the seven motifs in PfimZ are strong Lrp-binding DNA sequences as identified by DNA footprint analysis in a previous study [ 33 ] . 
+One Lrp-binding motif in PfimZ is also located far upstream ( 2353 to 2346 ) from the fimZ transcription start site [ 33 ] similar to motif 1 in PfimA ( Fig. 3C ) . 
+A specific feature of the PfimZ region is that two Lrp-binding motifs are located between the transcription start site and the start codon of fimZ gene . 
+Although the double and triple mutations , PfimA1325 ( ac ) , PfimA1329 ( ab ) , PfimA2925 ( bc ) , and PfimA395 ( abc ) still can interact with Lrp , all of the multiple mutants produced wild-type levels of yeast agglutination on both day 1 and day 3 ( data not shown ) . 
+These results suggest that for Lrp to exert its regulatory effect , it must bind to at least two Lrpbinding motifs in PfimA . 
+In the absence of cooperative binding , as is the case in the double or triple mutants , PfimA expression would not be under direct Lrp control . 
+However , transcription from these mutant promoters is still sensitive to regulation by FimZ . 
+Thus these promoters can be activated by FimZ and produce wild-type levels of type 1 fimbriae when grown in LB broth . 
+In addition , we believe that the DNA motif 3 and 4 ( a mutation position ) can facilitate cooperative binding of Lrp to the DNA motif 1 and motif 2 , even if a mutation itself does not have any effect on type 1 fimbriae production . 
+Therefore , the effects of b and c mutations can be suppressed by adding a mutation . 
+These observations indicate that the cooperative binding of Lrp to multiple Lrpbinding motifs in PfimA is important for Lrp-mediated regulation of type 1 fimbriae production . 
+Based on results from site-directed mutagenesis of the multiple Lrp-binding motifs in PfimA , we assume that the organization ( proximity , number , and orientation ) of Lrp-binding motifs and their cooperative interaction with Lrp play a crucial role for on/off switching of the fimZ gene expression . 
+phase-variable type 1 fimbriation in E. coli . 
+Saini et al. suggested that inhibition of fim gene expression occurs through the direct repression of PfimY by FimW , resulting in prevention of FimY-mediated fimZ activation [ 16 ] . 
+FimY is also a transcriptional activator for fimA , fimW , and itself [ 14,16 ] . 
+However , the positive and negative feedback loops are not sufficient to explain the regulation of type 1 fimbriae synthesis , since type 1 fimbriae synthesis under inducing conditions is continuous or rheostat-like rather than an autocatalytic or switchlike response [ 16 ] . 
+These observations suggest that expression of type 1 fimbriae in Salmonella cells is a collective and continuous event in response to environmental milieu . 
+These phenomena could be well explained if we assume that Lrp can act as both positive and negative regulators for type 1 fimbriae production depending on intracellular levels of Lrp , which are closely related with the nutritional environment [ 34,43 ] . 
+In addition , mannose-sensitive yeast agglutination correlated with nutrition-dependent cellular Lrp levels ( Figs. 8A and B ) . 
+Based on the Lrp titration results from the western blot analyses in Fig. 7B , we conclude that mannose-sensitive type 1 fimbriation in Salmonella is inhibited by Lrp at a concentration of 3,000 or more Lrp dimers per cell ( Fig. 8B ) under nutrient-poor conditions . 
+However , mannose-sensitive yeast agglutination was observed in Salmonella producing about 2,400 or fewer Lrp dimers per cell in nutrient-rich environments ( Fig. 8B ) . 
+We estimated that the lrp mutant C x9448 produces at least 6,000 Lrp dimers per cell grown in LB medium . 
+This cellular Lrp concentration is enough to inhibit type 1 fimbriae production , even when the Salmonella cells are grown in LB broth , a rich medium . 
+Therefore , our results indicate that a narrow range of Lrp concentrations governs activation of fimA transcription and production of type 1 fimbriae . 
+Too much or too little Lrp results in no type 1 fimbriae production , allowing the cell to tightly regulate production of these complex extracellular structures in response to the nutritional environment . 
+Based on these data , we propose here a revised model for the fim gene regulatory circuit in S. Typhimurium ( Fig. 9A ) . 
+In our model , Lrp modulates expression of fimA and fimZ , either positively or negatively , depending on growth conditions and the amount of Lrp present . 
+When Lrp is present in excess ( more than 3,000 dimers per cell ) , as is the case in the lrp mutant or during growth in nutritionC poor media , no fimZ is expressed , and Lrp binds to all four motifs 1 , 2 , 3 , and 4 in PfimA resulting in complete repression of fimA ( Fig. 9B ) . 
+We assume that the binding of Lrp to motifs 2 and 3 may allow binding of the silencing factor H-NS to the high affinity H-NS-binding motifs in the FimZ-binding region , and competitively exclude FimZ binding to the PfimA . 
+This feature is similar to the collaborative competition mechanism in eukaryotic gene regulatory regions typically encompassing multiple DNA target sites for two or more regulatory proteins within a space of a few hundred base pairs or less [ 44 ] . 
+At a lower range of Lrp concentrations ( about 1,000,2400 dimers per cell ) , the levels of FimZ are high , such as occurs when cells are grown in nutrient-rich conditions ( e.g. LB broth ) , FimZ is better able to occupy its activation site in PfimA , presumably due to the fact the affinity of Lrp to motifs 2 , 3 , and 4 is relatively weak ( Fig. 3B ) and there is an abundance of FimZ . 
+Due to the requirement of motif 1 for FimA and type 1 fimbriae synthesis ( Fig 4 ) , we infer an interaction between Lrp and FimZ under these conditions that enhance FimZ-mediated activation of fimA expression by changing the regional DNA secondary structure . 
+Finally , in the Dlrp strain , neither fimZ nor fimA are expressed . 
+We conclude that Lrp is a key regulator to direct on-off switching of type 1 fimbriae production by the concentration-dependent dual regulation in S. Typhimurium in contrast to the recombination-mediated 
+Materials and Methods
+Bacterial strains, plasmids, culture conditions, and reagents
+Bacterial strains and plasmids used in this study are listed in Table 1 . 
+S. Typhimurium and E. coli strains were routinely grown in LB broth [ 45 ] . 
+For analysis of type 1 fimbriae production , S. 
+Typhimurium strains were grown statically in MOPS minimal broth [ 46 ] or LB broth at 37uC for 24 h or 3 days . 
+Diaminopimelic acid ( DAP , 50 mg/ml ) was added to LB medium for growing Dasd mutant strains . 
+Antibiotics were used as needed at the following concentrations : ampicillin , 100 mg/ml ; chloramphenicol , 20 mg / ml ; gentamicin , 20 mg/ml ; kanamycin , 50 mg/ml ; and tetracycline , 10 mg/ml . 
+All antibiotics and chemicals were purchased from Sigma Chemical Company ( St. Louis , MO ) or Fisher Scientific Inc ( Pittsburgh , PA ) . 
+DNA manipulations
+The primers used in this study are listed in Table 2 . 
+Plasmid DNA was isolated by using QIAprep Spin Miniprep Kit ( QIAGEN , Valencia , CA ) . 
+Restriction enzymes and DNA-modifying enzymes were used as recommended by the manufacturers ( Promega , Madison , WI or New England Biolabs , Ipswich , MA ) . 
+To produce a His-tagged FimZ protein , a DNA fragment containing the entire fimZ ORF was amplified from strain x3761 by PCR using primers , RCB-52 and RCB-53 ( Table 2 ) . 
+This PCR product was digested with NcoI/BamHI and ligated into expression vector pYA4124 digested with the same enzymes [ 34 ] . 
+The recombinant fimZ gene was excised from the resulting plasmid using XbaI/BamHI and cloned into a low-copy number plasmid pWSK29 [ 47 ] using the same enzyme sites , to create pYA4865 . 
+x9448 ( pYA4865 ) ( Table 1 ) was used for synthesis of the His-tagged FimZ fusion protein . 
+Cells were grown to an early stationary phase ( optical density at 600 nm [ OD600 ] of 1.2 ) in LB medium at 37uC and harvested by centrifugation at 3,300 6 g for 15 min at 4 C . 
+The His-tagged FimZ fusion protein was o purified by using a nickel affinity gel system , Ni Sepharose 6 Fast Flow ( Amersham Bioscience ) . 
+Construction of the PfimA413 , PfimA529 , and PfimA1225 mutations The fimA promoter ( PfimA ) region was amplified from x3761 by PCR using primers RCB-56 and RCB-57 ( Table 2 ) . 
+The resulting PCR product was digested with ApaI/SacI and ligated with ApaI / SacI-digested pBluescript SK - . 
+The resulting plasmid was used as a template DNA for site directed mutagenesis of the Lrp-binding motifs in PfimA by inverse PCR using primers RCB-46 and RCB-47 for PfimA413 , RCB-48 and RCB-49 for PfimA529 and RCB-50 and RCB-51 for PfimA1225 ( Table 2 ) . 
+The inverse PCR products were digested with XhoI , BglII , or XbaI , and self-ligated , to create plasmids carrying PfimA413 , PfimA529 , and PfimA1225 mutations , respectively . 
+The PfimA413 , PfimA529 , and PfimA1225 DNA fragments were excised using KpnI/SacI restriction enzymes , and cloned into the same restriction enzyme sites of suicide vector pRE112 , to create pYA4758 , pYA4759 , and pYA4801 , respectively . 
+These suicide plasmids were introduced into serovar Typhimurium strains by conjugation to construct the PfimA mutants , PfimA413 , PfimA529 , and PfimA1225 , by allelic exchange as previously described [ 48 ] . 
+Each of the PfimA413 and PfimA529 mutations were added to the PfimA1225 mutant to generate double mutants PfimA1325 and PfimA2925 , respectively . 
+The PfimA529 mutation was added to the PfimA413 mutant to generate a double mutant PfimA1329 . 
+The 
+Figure 9 . 
+Model for Lrp and FimZ-mediated regulation of type 1 fimbriae production in Salmonella . 
+( A ) Summary of the regulatory circuit for type 1 fimbriae production . 
+Arrowed and blunted lines indicate activation and repression , respectively . 
+( B ) Molecular model for Lrp and FimZmediated regulation of type 1 fimbriae production . 
+Dotted arrows , access to binding sites ; 6 , competitive exclusion of competitor binding ; and arrowed flag indicates the transcription start site [ 15 ] . 
+[ High ] , at high concentration of Lrp or FimZ ; and [ Low ] , at low concentration of Lrp or FimZ . 
+doi :10.1371 / journal.pone .0026896 . 
+g009 
+Purification of FimZ 
+RCB-47 TAACTCGAGAATAGCCGCAAACTCTTTTAATG
+PfimA413 
+RCB-48 TGCAGATCTCCATACAAAATAAGATTAGACCCTTC
+PfimA529 
+RCB-49 TATGGAGATCTGCATTATGCCGCCCGATG 
+PfimA529 
+RCB-50 GACTCTAGACCGTCAGAAGCGGGCCTCGCTGTC
+PfimA1225 
+RCB-51 GACGGTCTAGAGTCATCCCCT TTGACTTG 
+PfimA1225 
+RCB-52 ATACCATGGGCAGCAGCCATCATCATCATCATCACAGCAGCGGCATGAAACCTGCATCTG 
+fimZ ( RT ) 
+RCB-53 CGCGGATCCGACCTTCCTGATCAATTAC 
+fimZ ( RT ) 
+PfimA ( EMSA ) 
+RCB-54 TGTGGATCCAAGTCAAAGGGGATGAC 
+RCB-55 CCTGAGTATCAGACGCAG 
+PfimA ( EMSA ) 
+RCB-56 ATCGGGCCCGATACGCTCCAGCAC 
+PfimA 
+RCB-57 TTTGAGCTCGGCTTCAACGGTGAAGA 
+PfimA 
+doi :10.1371 / journal.pone .0026896 . 
+t002 
+PfimA413 mutation was added to the PfimA2925 double mutant to generate a triple mutant PfimA395 . 
+Construction of lacZ fusions
+A 357-bp DNA fragment containing the fimA promoter region was amplified from x3761 by PCR using primers RCB-44 and RCB-45 ( Table 2 ) . 
+The PCR product was digested with ApaI and BamHI , and was cloned into the unique ApaI/BamHI sites of lacZ-fusion suicide vector pSG3 [ 49 ] . 
+The resulting plasmid pYA4311 was introduced by conjugation into various Salmonella strains to obtain PfimA-lacZ fusions by a single crossover event as previously described [ 49 ] . 
+Yeast agglutination assay
+Bacteria were grown statically in various media at 37uC for 24 h and/or 3 days . 
+Bacterial cells were harvested by centrifugation at 5,0006 g for 5 min at room temperature . 
+The cell pellet was gently resuspended in phosphate-buffered saline ( PBS ) and serially diluted in the same buffer to adjust the optical density at 600 nm [ OD600 ] to 4.0 , 0.8 , or 0.16 . 
+Yeast cells were washed twice with PBS and diluted to an OD600 of 7.0 . 
+Agglutination assays were carried out in 96 well microtiter plates by incubating 25 ml of bacterial cell suspension with the same volume of yeast cells in PBS at room temperature for 10 min with gentle orbital shaking . 
+Mannose sensitivity was demonstrated by the absence of agglutination when the assay was performed in the presence of 2 % ( wt/vol ) mannose . 
+b-Galactosidase assay 
+Bacterial cells were statically grown at 37uC for 24 h. bGalactosidase activity was measured as previously described [ 50 ] . 
+Means 6 standard errors were calculated from four independent assays . 
+Reverse transcription (RT)-PCR analysis
+A 0.5 ml aliquot of bacterial culture was mixed with 1 ml of RNAprotect Bacteria Reagent ( QIAGEN , Valencia , CA ) and incubated for 5 min at room temperature . 
+Cells were harvested by centrifugation at 8,000 6 g for 5 min at room temperature . 
+Total RNA from the cell pellet was isolated using RNeasy Mini Kit ( QIAGEN ) . 
+The RNA samples were treated with extra DNase I to avoid any DNA contamination , and repurified using the column in the kit . 
+The DNA-free RNA samples were confirmed by PCR . 
+A 200 ng sample of total RNA was used for semi-quantitative RTPCR with the OneStep RT-PCR kit ( QIAGEN ) . 
+RT was performed for 30 min at 50uC , followed by heat inactivation of the reverse transcriptase for 15 min at 95uC . 
+PCR amplification was performed in the same tube with the following cycling conditions : 25 cycles with 30 s at 95uC for template denaturation , 30 s at 55uC for primer annealing , and 1 min at 72 uC for primer extension . 
+The primers for RT-PCR ( expected sizes of PCR products ) were as follows : RCB-24 and RCB-25 for fimA ( 427 bp ) [ 34 ] ; RCB-52 and RCB-53 for fimZ ( 757 bp ) ; RCB-28 and RCB-29 for murA ( 725 bp ) [ 34 ] ( Table 2 ) . 
+PCR products were separated in a 1.0 % agarose gel , stained with ethidium bromide , and visualized on a UV transilluminator . 
+Electrophoretic Mobility Shift Assay (EMSA)
+The wild-type PfimA , PfimA413 , PfimA529 , PfimA1225 , PfimA1325 , PfimA1329 , PfimA2925 , and PfimA395 DNA fragments were amplified from wild-type and mutant strains by PCR using primers RCB-54 and RCB-55 ( Table 2 ) . 
+The multi-cloning site of pBluescript SK - ( MCS-pBS , 178 bp ) was amplified by PCR using primers , RCB-42 and RCB-43 ( Table 2 ) and used as non-specific control DNA [ 34 ] . 
+These DNA fragments were tested for interaction with Lrp protein by EMSA as previously described [ 34 ] . 
+The reactions subjected to electrophoretic separation in a 5 % polyacrylamide gel in 16 Tris-borate-EDTA ( TBE ) ( 100 V for 1 h ) or 1 6 Tris-taurine-EDTA buffer ( TTE ) ( 75 V for 1 h ) . 
+The gel was stained with 1 6 SYBR Gold ( Invitrogen ) , and DNA bands were visualized on a UV transilluminator . 
+For the competitive binding assay , the PfimA DNA fragment was mixed with different molar ratios of Lrp and FimZ in the DNA binding buffer [ 15 ] with minor modification : 5 mM Tris-HCl pH 7.5 , 25 mM KCl , 0.5 mM EDTA , 0.5 mM dithiothreitol , BSA ( 5 mg/ml ) , and 20 % glycerol . 
+The reaction mixture was incubated at room temperature for 15 min , and was subjected to electrophoresis in 1 6 TTE buffer as described above . 
+RCB-46 CTATTCTCGAGTTAGCGAAATGTTTAATTTATTAC 
+PfimA413 
+PfimA413 
+PfimA529 
+PfimA529 
+PfimA1225 
+PfimA1225 
+RCB-52 ATACCATGGGCAGCAGCCATCATCATCATCATCACAGCAGCGGCATGAAACCTGCATCTG 
+fimZ ( RT ) 
+RCB-53 CGCGGATCCGACCTTCCTGATCAATTAC 
+fimZ ( RT ) 
+PfimA ( EMSA ) 
+RCB-54 TGTGGATCCAAGTCAAAGGGGATGAC 
+RCB-55 CCTGAGTATCAGACGCAG 
+PfimA ( EMSA ) 
+RCB-56 ATCGGGCCCGATACGCTCCAGCAC 
+PfimA 
+RCB-57 TTTGAGCTCGGCTTCAACGGTGAAGA 
+PfimA 
+doi :10.1371 / journal.pone .0026896 . 
+t002 
+b-Galactosidase assay 
+DNase I footprinting
+RCB-54 and RCB-55 primers were labeled with [ c - P ] ATP 32 ( PerkinElmer ) using DNA 59 end-labeling system ( Promega ) for non-coding and coding strands , respectively . 
+The DNA probes were amplified by PCR using primer sets , [ c - P ] ATP-labeled 32 RCB-54 and unlabeled RCB-55 primers or vice versa . 
+One pmol of the labeled probe was used for DNase I foot printing analysis . 
+Lrp-DNA probe binding reactions were identical to the conditions for EMSA excepting addition of poly ( dI-dC ) at 10 mg ml21 ( Sigma ) instead of MCS-pBS control DNA . 
+One ml volume of DNase I ( 0.1 unit , Ambion ) in 1 6 DNase I buffer was added to the reaction and incubated at room temperature for 6 min . 
+Five ml volume of stop buffer ( 95 % formamide , 20 mM EDTA , 0.05 % bromophenol blue , and 0.05 % xylene cyanol ) was added to the reaction mixture and incubated at 75uC for 10 min . 
+The [ c-32P ] ATP-labeled RCB-54 and RCB-55 primers were also used for DNA sequencing using Sequi_Therm EXCEL II DNA sequencing Kit ( EPICENTRE Biotechnologies ) . 
+The products of the DNase I footprinting and the DNA sequencing reactions were resolved by electrophoresis through a denaturing 7 % polyacryl-amide-7M urea gel in 1 6Tris-taurine-EDTA buffer . 
+The gel was subjected to autoradiography . 
+Western blot analysis
+Protein bands from a 12 % SDS polyacrylamide gel were transferred to a nitrocellulose membrane . 
+Western blot analysis was performed as previously described [ 51 ] . 
+Blots were probed with rabbit anti-FimA , anti-Lrp , or anti-His6 monoclonal mouse immunoglobulin G ( IgG , Invitrogen ) . 
+Alkaline phosphatase-conjugated goat anti-rabbit IgG or goat anti-mouse IgG ( Sigma ) was the secondary antibody , as appropriate . 
+Estimation of the number of Lrp molecules per cell
+The number of Salmonella cells per ml was estimated by turbidity and CFU . 
+The Lrp concentration in the crude bacterial cell extract was determined by western blotting next to dilutions of purified Lrp using an anti-Lrp mouse antiserum [ 34 ] . 
+We calculated the number of Lrp molecules per ml based on the western blots and then divided the estimated number of Lrp molecules per ml by the number of cells per ml to obtain the number of Lrp molecules per cell . 
+Densitometry
+The relative band intensities were obtained by using a computational densitometry program Quantity One ( Bio-Rad ) . 
+Statistical Analysis
+Statistical analysis was performed using t test ( GraphPad ) . 
+Results are presented as the mean and SEM . 
+A P value ,0.05 was considered statistically significant . 
+Acknowledgments 
+We thank Dr. Praveen Alamuri for editorial suggestions for this article.
+Author Contributions
+Conceived and designed the experiments : C-HB . 
+Performed the experiments : C-HB . 
+Analyzed the data : C-HB KLR RC . 
+Contributed reagents/materials/analysis tools : C-HB H-YK . 
+Wrote the paper : C-HB KLR RC . 
+References 
+1 . 
+Kukkonen M , Raunio T , Virkola R , Lahteenmaki K , Makela PH , et al. ( 1993 ) Basement membrane carbohydrate as a target for bacterial adhesion : binding of type I fimbriae of Salmonella enterica and Escherichia coli to laminin . 
+Mol Microbiol 7 : 229 -- 237 . 
+2 . 
+Baumler AJ , Tsolis RM , Heffron F ( 1997 ) Fimbrial adhesins of Salmonella typhimurium . 
+Role in bacterial interactions with epithelial cells . 
+Adv Exp Med Biol 412 : 149 -- 158 . 
+3 . 
+Duguid JP , Anderson ES , Campbell I ( 1966 ) Fimbriae and adhesive properties in Salmonellae . 
+J Pathol Bacteriol 92 : 107 -- 138 . 
+4 . 
+Buchanan K , Falkow S , Hull RA , Hull SI ( 1985 ) Frequency among Enterobacteriaceae of the DNA sequences encoding type 1 pili . 
+J Bacteriol 162 : 799 -- 803 . 
+5 . 
+Tavendale A , Jardine CK , Old DC , Duguid JP ( 1983 ) Haemagglutinins and adhesion of Salmonella typhimurium to HEp2 and HeLa cells . 
+J Med Microbiol 16 : 371 -- 380 . 
+6 . 
+McClelland M , Sanderson KE , Spieth J , Clifton SW , Latreille P , et al. ( 2001 ) Complete genome sequence of Salmonella enterica serovar Typhimurium LT2 . 
+Nature 413 : 852 -- 856 . 
+7 . 
+Purcell BK , Pruckler J , Clegg S ( 1987 ) Nucleotide sequences of the genes encoding type 1 fimbrial subunits of Klebsiella pneumoniae and Salmonella 
+8 . 
+Korhonen TK , Lounatmaa K , Ranta H , Kuusi N ( 1980 ) Characterization of type 1 pili of Salmonella typhimurium LT2 . 
+J Bacteriol 144 : 800 -- 805 . 
+9 . 
+Rossolini GM , Muscas P , Chiesurin A , Satta G ( 1993 ) Analysis of the Salmonella fim gene cluster : identification of a new gene ( fimI ) encoding a fimbrin-like protein and located downstream from the fimA gene . 
+FEMS Microbiol Lett 114 :

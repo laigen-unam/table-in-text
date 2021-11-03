@@ -1,0 +1,442 @@
+The Journal of Microbiology , June 2006 , p.301-310 ⓒ Copyright 2006 , The Microbiological Society of Korea 
+Molecular Cloning and Characterization of a Large Subunit of Salmonella typhimurium Glutamate Synthase (GOGAT) Gene in Escherichia coli
+Tae-Wook Chung , Dong-Ick Lee , Dong-Soo Kim , Un-Ho Jin , Chun Park , Jong-Guk Kim , Min-Gon Kim , 1 2 2 1 1 3 4 5 5 6 7 8 1 , Sang-Do Ha , Keun-Sung Kim , Kyu-Ho Lee , Kwang-Yup Kim , Duck Hwa Chung and Cheorl-Ho Kim * 1Department of Biological Sciences , Sungkyunkwan University , Chunchun-Dong 300 , Jangan-Gu , Suwon City , Kyunggi-Do 440-746 , Republic of Korea 2Department of Food Science and Technology , Kyungsung University , Pusan 608-736 , Republic of Korea 3Department of Microbiology , Kyungpook National University , Daegu , Republic of Korea 4 NanoBiotechnology Research Center , Korea Research Institute of Bioscience and Biotechnology , Daejon 305-600 , Republic of Korea 5Department of Food Science & Technology , Chung-Ang University , Ansong , Republic of Korea 6Environmental Science , Hankuk University of Foreign Studies , Gyungki , Republic of Korea 7Department of Food Science & Technology , Chungbuk National University , Cheongju , Republic of Korea 8Division of Applied life science , Gyeongsang National University , Jinju , Republic of Korea ( Received January 22 , 2006 / Accepted April 15 , 2006 ) 
+Two pathways of ammonium assimilation and glutamate biosynthesis have been identified in microorganisms . 
+One pathway involves the NADP-linked glutamate dehydrogenase , which catalyzes the amination of 2-oxoglutarate to form glutamate . 
+An alternative pathway involves the combined activities of glutamine synthetase , which aminates glutamate to form glutamine , and glutamate synthase , which transfers the amide group of glutamine to 2-oxoglutarate to yield two molecules of glutamate . 
+We have cloned the large subunit of the glutamate synthase ( GOGAT ) from Salmonella typhimurium by screening the expression of GOGAT and complementing the gene in E. coli GOGAT large subunit-deficient mutants . 
+Three positive clones ( named pUC19C12 , pUC19C13 and pUC19C15 ) contained identical Sau3AI fragments , as determined by restriction mapping and Southern hybridization , and expressed GOGAT efficiently and constitutively using its own promoter in the heterologous host . 
+The coding region expressed in Escherichia coli was about 170 kDa on SDS-PAGE . 
+This gene spans 4,732 bases , contains an open reading frame of 4,458 nucleotides , and encodes a mature protein of 1,486 amino acid residues ( Mr = 166,208 ) . 
+The FMN-binding domain of GOGAT contains 12 glycine residues , and the 3Fe-4S cluster has 3 cysteine residues . 
+The comparison of the translated amino acid sequence of the Salmonella GOGAT with sequences from other bacteria such as Escherichia coli , Salmonella enterica , Shigella flexneri , Yersinia pestis , Vibrio vulnificus and Pseudomonas aeruginosa shows sequence identity between 87 and 95 % . 
+Keywords : glutamate synthase , large subunit , molecular cloning , Salmonella typhimurium 
+Glutamate is a central player in global nitrogen metabolism ( Reitzer and Schneider , 2001 ; Reitzer , 2003 ) ; 75 to 90 % of all cellular nitrogen is assimilated via glutamate . 
+NH + 4 is the preferred nitrogen source for E. coli , and it is assimilated into glutamate through two pathways . 
+One of these pathways is the glutamate dehydrogenase ( GDH ) pathway , in which 2-oxoglutarate undergoes reductive condensation with NH + 4 , yielding glutamate . 
+The second pathway is the two-step glutamine synthetase ( GS ) - glutamate synthase ( GOGAT ) pathway , in which glutamine that is synthesized in the first step from one molecule of NH + 4 and glutamate ( in the presence of ATP ) is involved in a reductive reaction with 2-oxoglutarate , which yields two molecules of glutamate ( Nandineni et al. , 2004 ) . 
+GDH , GS , and GOGAT are encoded by the gdhA , glnA , and gltBD genes , respectively . 
+The GDH pathway is functional for nitrogen assimilation in media containing ≥ 1 mM + NH4 . 
+In media with limiting NH + 4 concentrations o with alternative poor nitrogen sources , nitrogen assimilation into glutamate is mediated through the GS-GOGAT pathway , whose regulation in turn is tied to the complex cascade of nitrogen regulation that is referred to as Ntr ( Reitzer , 1996 ; Reitzer and Schneider , 2001 ; Reitzer , 2003 ) . 
+In NH + 4 - replete media , glnA is expressed only at basal levels ; in addition , there is a reduction in the catalytic activity of GS resulting from the adenylylation of its homopolymeric subunits by the glnE-encoded adenylyltransferase . 
+The residual activity of GS is then sufficient to meet the cell 's anabolic requirement for glutamine for protein synthesis . 
+On the other hand , in low-NH + 4 medium or during growth on poor nitrogen sources , expression of the Ntr regulon ( of which glnA is a member ) is activated , and in addition GS is deadenylylated by GlnE ; the vastly increased activity of GS is now able to catalyze sufficient glutamine synthesis to meet the cell 's nitrogen assimilation requirement . 
+In Salmonella typhimurium , as in a number of other bacteria , there are two pathways for synthesis of glutamate : the glutamine synthetase/glutamate synthase ( GS/GOGAT ) cycle ( Tempest et al. , 1970 ) and biosynthetic glutamate dehydrogenase ( GDH ) . 
+For each turn of the GS/GOGAT cycle , one molecule of ammonium/ammonia ( NH + 4 ) and one molecule of 2-oxoglutarate are assimilated into glutamate . 
+Because GS has a high affinity for NH + 4 ( Km < 0.2 mM ) ( Miller and Stadtman et al. , 1972 ) and the synthesis of glutamate is coupled to ATP hydrolysis , the GS/GOGAT pathway functions efficiently even at low NH + 4 concentrations . 
+By contrast , the GDH pathway functions efficiently only at high NH + 4 concentrations , because GDH has a relatively low affinity for NH + 4 ( Km > 1 mM ) ( Tempest et al. , 1970 ; Miller and Stadtman et al. , 1972 ) . 
+In gltBD mutant strains , which lack a functional GOGAT , glutamate synthesis depends upon GDH and can be limited at low external NH + 4 concentrations ( Csonka et al. , 1994 ) . 
+Function of the GS/GOGAT cycle is controlled by modulation of the synthesis and catalytic activity of GS ( Lee et al. , 1985 ) . 
+Under nitrogen-limiting conditions , synthesis of GS is elevated and the enzyme is in its unmodified , catalytically active form . 
+When excess NH + 4 is added to nitrogen-limited cultures , GS is rapidly adenylylated by GS adenylyltransferase ( Schutt and Holzer , 1972 ; Wolheuter et al. , 1973 ; Kustu et al. , 1984 ) and thereby inactivated . 
+In glnE mutant strains , which lack GS adenylyltransferase and are therefore unable to modify GS , the glutamate pool is rapidly depleted when nitrogen-limited cultures are subjected to a sudden NH + 4 increase ; the drop in glutamate is due to uncontrolled synthesis of glutamine , not to excretion into the medium ( Kustu et al. , 1984 ) . 
+GOGAT-deficient ( gltBD ) E. coli mutants have previously been constructed ( Csonka et al. , 1994 ; Yan et al. , 1996 ) . 
+In the present study , we performed transposon insertion mutagenesis of a GOGAT-deficient ( gltBD ) strain to identify mutants that are complemented by the Salmonella gogat gene . 
+In this study , we used gltBD mutant strains of S. typhimurium to complement the genes , since S. typhimurium GOGAT has not been reported yet . 
+In this paper , the GOGAT gene has been cloned by complementation of a GOGAT-deficient E. coli mutant . 
+✽ To whom correspondence should be addressed . 
+( Tel ) 82-31-290-7002 ; ( Fax ) 82-31-290-7015 ( E-mail ) chkimbio@skku.edu 
+Materials and Methods
+Bacterial strains and culture
+Restriction enzymes and modification enzymes were purchased from BMS Korea and were used as recommended by the suppliers . 
+Molecular marker kits for sodium dodecyl sulfate-polyacrylamide gel electro-phoresis ( SDS-PAGE ) were obtained from Bio-Rad Laboratories Korea ( Korea ) . 
+Nylon membrane filters ( Hybond-C ) and ECL DNA hybridization kits were purchased from Amersham Korea ( Korea ) . 
+Other chemicals used were of the purest grade commercially 
+Table 1 . 
+Bacterial strains and plasmids 
+Genotype or characteristicsa 
+Strain or plasmid S. typhimurium 
+Source 
+MHWKGb This study 
+Wild type 
+( gltB , sucA1 supE42 iclR : : MudI ) mutant ( gltB2767 ) 
+E. coli JRG72 mutant CH-gltB2767 Plasmid pUC19 Cloning and expression vector , Ampr pUC19C12 4.9-Kb DNA from S. typhimurium in pUC19 , Ampr pUC19C13 4.9-Kb DNA from S. typhimurium in pUC19 , Ampr pUC19C15 4.9-Kb DNA from S. typhimurium in pUC19 , Ampr a Abbreviations for antibiotics : Amp , ampicillin . 
+b MHWKG , Ministry of Health and Welfare of Korean Governmen 
+Gibco BRL This study This study This study 
+Strains derived from S. typhimurium LT2 ( S. typhimurium ATCC 14028 ) were used as the source of the gene that codes for GOGAT ( Table 1 ) . 
+Congenic strains S. typhimurium ATCC 14028 ( wildtype ) and GOGAT large subunit-deficient E. coli JRG72 ( gltB , sucA1 , supE42 , iclR ) mutants CH-gltB2767 ( gltB2767 ) and CH-gltB2768 ( gltB2768 ) ( Kim et al. , unpublished results ) were used for complementation experiments ; the latter two strains lack GOGAT activity . 
+These strains are from our deposit in the Bacterial Collection Laboratory ( BCL ) of the Department of Biochemistry and Molecular Biology , Dongguk University , Kyungju , Kyungbuk , Korea ( Kim C.H. , 2003 ; Jin et al. , 2004 ) . 
+S. typhimurium growth experiments were performed aerobically at 37 °C . 
+The full-strength minimal medium was sodium-based N-C-medium , which contains ( per liter ) Na2SO4 ( 0.8 g ) , Na 2HPO4 ( 11.0 g ) , NaH2PO4 H2O ( 4.8 g ) , MgSO4 7H2O ( 0.1 g ) , and NaCl ( 2.5 g ) . 
+The diluted minimal medium was 0.2 × N-C-double-buffered ( DB ) , which contains ( per liter ) Na2SO4 ( 0.16 g ) , Na 2HPO4 ( 4.4 g ) , NaH2PO4 H2O ( 1.9 g ) , MgSO4 7H20 ( 0.1 g ) , and NaCl ( 0.5 g ) . 
+Both media were supplemented with glycerol as a carbon source ( 0.2 or 0.4 % , as indicated ) and NH4C1 ( 2 or 10 mM , as indicated ) or proline ( 10 mM ) as a nitrogen source and 1 mM KCI . 
+Strains were grown overnight in nutrient broth medium and then subcultured into the medium used for a particular experiment , except that NH4Cl was provided at 5 mM instead of 2 mM . 
+After the cultures had reached saturation , cells were harvested by centrifugation , washed once with the medium to be used subsequently , and inoculated into warmed fresh medium to a low cell density ( O.D. 650 of 0.05 for cells grown on NH + 4 and 0.15 for cells grown on proline ) . 
+E. coli JRG72 and E. coli JM109 were maintained in Luria broth ( 1 % peptone , 0.5 % yeast extract and 0.5 % NaCl , pH 7.2 ) , whereas JM109 , JRG72/plasmid was maintained in Luria broth containing 40 μg / mL ampicillin . 
+Cultures were preserved in 25 % glycerol at -- 70 °C . 
+For selection of the cloned gene in E. coli JRG72 , minimal glucose medium was also used . 
+DNA manipulation and cloning of gogat gene Chromosomal DNA was extracted from S. typhimurium according to the method of Canosi et al. ( Canosi et al. , 1978 ) . 
+Large-scale preparation of plasmid DNA was carried out as described ( Ish-Horowicz and Burke , 1981 ) . 
+Restriction endonucleases ( BRL , Gaithersberg , MD , USA ) were used under the assay conditions recommended by the manufacturers . 
+Agarose gel electrophoresis of DNA fragments was carried out in Tris-acetate buffer , pH 7.8 , containing EDTA . 
+DNA from the gel was transferred onto Hybond Q membrane ( Amersham ) and used for hybridization . 
+The DNA probe was nick-translated with [ α-32P ] dCTP and hybridized as described by Maniatis et al. ( 1982 ) . 
+E. coli cell extracts were prepared from spheroplasts ( Kaback et al. , 1995 ) , which were lysed in 50 mM potassium phosphate buffer ( pH 7.4 ) . 
+Cell membranes were removed by centrifugation at 35,000 × g , at 4 °C , for 30 min . 
+Chromosomal DNA from S. typhimurium was partially digested with Sau3AI . 
+After removal of proteins , the resulting fragments were ligated to BamHI-digested pUC19 DNA using T4 DNA ligase . 
+E. coli JRG72 was transformed using these recombinant plasmids according to the method described by Mandel and Higa ( 1979 ) . 
+The transformants were selected for growth in minimal glucose medium . 
+S. typhimurium GOGAT expressed in a GOGAT large subunit-deficient E. coli mutant was screened by complementing the GOGAT large subunit-negative phenotype ( Kim et al. , unpublished results ) . 
+The E. coli GOGAT large subunit-deficient mutant , JRG72 , was transformed with the plasmid library of the chromosomal inserts , selecting for the wild-type GOGAT phenotype ( ability to grow on minimal glucose plates ) . 
+Plasmids of pUC19C12 , pUC19C13 and pUC19C15 were isolated . 
+DNA sequence analysis and Southern hybridization DNA sequence was determined by the dideoxy chain reaction termination method with T7 DNA polymerase according to the manufacturer 's instructions and as described ( Ish-Horowicz and Burke , 1981 ) . 
+The nucleotide sequence of the gogat gene has been deposited in the GenBank database ( Accession No . 
+AF237961 ) . 
+Southern hybridization was also carried out as described ( Maniatis et al. , 1982 ) in the supplier 's instructions . 
+DNA sequence information was analyzed through the National Center for Biotechnology Information , using the BLAST network service to search the Genbank database ( Altschul et al. , 1990 ) , and with MacVector sequence analysis software ( version 6 ) . 
+SDS-PAGE and analytical methods
+SDS-PAGE was performed in 17 % ( w/v ) gels with SDS by the method of Nevillei ( 1971 ) . 
+E. coli JRG72 strains carrying plasmids were cultured with or without 1 mM isopropyl β-D-thiogalactoside ( IPTG ) for induction . 
+The sample buffer was 0.01 M Tris-HCl ( pH 8.0 ) containing 2.5 % SDS and in some cases 5 % ( vol/vol ) β-mercaptoethanol . 
+For relative molecular mass measurement , myosin ( Mr 205,000 ) , β-galactosidase ( Mr 116,000 ) , phosphorylase b ( M 
+available . 
+97,400 ) , bovine serum albumin ( Mr 66,000 ) and egg albumin ( Mr 45,000 ) were used as standards . 
+Protein content was determined by the method of Lowry et al. ( 1951 ) with bovine serum albumin as standard . 
+Protein in the column eluates was routinely followed by the absorbance at 280 nm . 
+Results and Discussion
+Cloning of the GOGAT large subunit gene from S. typhimurium in E. coli S. typhimurium GOGAT expressed in a GOGAT-deficient E. coli mutant can complement the GOGAT-negative phenotype of the mutant ( Oliver et al. , 1987 ; Saroja et al. , 1996 ) . 
+We have isolated the gltB gene , which encodes the S. typhimurium GOGAT large subunit , by complementation of E. coli strain JRG72 ( gltB , sucA1 supE42 , iclR : : MudI ) mutant CH-gltB2767 ( gltB2767 ) . 
+The E. coli mutant strain CH-gltB2768 ( gltB2768 : : Mu d ) was also used to screen for the GOGAT large subunit gene ( gltB ) by complementation . 
+Sau3AI digests of genomic S. typhimurium DNA were ligated into the BamHI site of plasmid pUC19 , and the E. coli GOGAT-deficient mutant , JRG72 , was transformed with the plasmid library of the chromosomal inserts , selecting for the wild-type GOGAT phenotype ( ability to grow on NN minimal medium ( Saroja et al. , 1996 ) ) . 
+The libraries were screened for the expression of GOGAT by complementation of the phenotype of the E. coli GOGAT-deficient mutant . 
+Approximately 3000 plasmids were screened in E. coli strain JRG72 ( gltB , sucA1 supE42 iclR : : MudI ) mutant CH-gltB2767 ( gltB2767 ) . 
+Three positive clones ( named pUC19C12 , pUC19C13 and pUC19C15 ) contained an identical 4.9 kb Sau3AI fragment as determined by restriction mapping and Southern hybridization ; these transformants expressed GOGAT efficiently and constitutively ( Table 2 ) . 
+Of the plasmids isolated from the three GOGAT clones , pUC19C12 was chosen for further study . 
+The plasmid pUC19C12 carrying the gogat gene on a 4.9-kb Sau3AI fragment was isolated ( Fig. 1 ) . 
+The wild-type phenotype was restored in E. coli JRG72 ( pUC19C12 ) , which shows that functional S. typhimurium GOGAT can be expressed from the plasmid ( Fig. 1 ) . 
+When Southern hybridization of cloned GOGAT gene was carried out with S. typhimurium chromosomal DNA , strong bands in only S. typhimurium and E. coli were detected , not in V. parahaemolyticus , V. vulnificus , Enterobacter cloacae , P. aeruginosa and Proteus sp . 
+N 13838 ( data not shown ) . 
+This indicates that S. typhimurium gogat is structually similar to the gene in E. coli . 
+Nucleotide and amino acid sequences o typhimurium GOGAT large subunit The cloned DNA in plasmid pUC19C12 carries BamHI , 2 HincII , 4 HindIII , 2 KpnI , 2 PstI , 2 SalI , 2 SmaI and 1 XbaI cleavage sites . 
+The nucleotide sequence of the gogat gene was determined using subcloned DNA fragments from pUC19C12 . 
+The gogat gene sequence contains an open reading frame ( ORF ) consisting 4,458 bp ( including ATG ) encoding a protein of 1,486 amino acids ( Fig. 2A ) . 
+This open reading frame is preceded by a putative ribosomebinding site , d ( GGAAGG ) , 14 bp from the ATG translational start codon . 
+The nucleotide sequence of the ORF of S. typhimurium GOGAT shows 86 % identity to E. coli gogat , which encodes the large subunit ( Saroja et al. , 1996 ) ( Fig. 2B ) . 
+The amino acid sequence of GOGAT , as deduced from the nucleotide sequence , is presently known from E. coli ( Saroja et al. , 1996 ) , S. enterica serovar Typhi ( Deng et al. , 2003 ) , Shigella flexneri ( Wei et al. , 2003 ) , Yersinia pestis ( Parkhill et al. , 2001 ) , Vibrio vulnificus ( Chen et al. , 2003 ) and Pseudomonas aeruginosa ( Stover et al. , 2000 ) . 
+When these sequences were compared with the translated S. typhimurium GOGAT region , they showed significant sequence homology ; the identity between S. typhimurium and E. coli GOGAT is 91 % ( Fig. 2C ) . 
+When the S. typhimurium GOGAT was compared with the other bacterial GOGAT large subunits ( gltB gene ) listed above , approximately 81-97 % similarities were found ( Fig. 2C ) . 
+Because the S. typhimurium GOGAT region can complement an E. coli mutant defective in GOGAT , the GOGAT large subunit components of these two bacteria must also be functionally similar . 
+It was previously known that the full sequence of E. coli GOGAT is composed of large and small subunits , in total 6.3 kb in length ( Oliver et al. , 1987 ) . 
+Of these , the large E. coli subunit is 4860 bp , and nucleotides 236-4845 comprise the large subunit 's ORF . 
+The sequence analysis showed that this region corresponds to the ORF of S. typhimurium GOGAT ( +162 to +4,620 nt ) . 
+It was known that bacterial ( NADPH-GOGAT ) and plant [ ( ferredoxin ( Fd ) and NAD ( P ) H-GOGAT ] types of GOGAT all contain flavins ( FMN and FAD ) an iron-sulfur centers ( 4Fe-4S or 3Fe-4S ) ( Navarro et al. , 1995 ) . 
+Flavin-binding sites and 3Fe-4S centers are found in the C-terminal regions of GOGAT from E. coli ( Saroja et al. , 1996 ) , S. enterica serovar Typhi ( Deng et al. , 2003 ) , S. flexneri ( Wei et al. , 2003 ) , Y. pestis ( Parkhill et al. , 2001 ) , V. vulnificus ( Chen et al. , 2003 ) , P. aeruginosa ( Stover et al. , 2000 ) , Syncechocystis sp . 
+PCC 6803 ( Navarro et al. , 1995 ) and Azospirillum brasilense ( Pelanda et al. , 1993 ) . 
+The 3Fe-4S cluster is likely located in a cysteine-rich region in S. typhimurium GOGAT ( Cys-1102 , Cys-1108 and Cys-1113 ) . 
+Similar cysteine clusters ( CX5CX4C ) are also observed in fumarate reductase and succinate dehydroganase which carry 3Fe-4S clusters ( Johnson et al. , 1989 ; Manodor et al. , 1992 ) . 
+S. typhimurium GOGAT also contains 13 glycines in the 999-1086 region ( Fig. 3 ) . 
+In fact , a glycine-rich region is required for formation of the β-α-β secondary structure in flavoproteins ( Navarro et al. , 1995 ) . 
+Table 2 . 
+Complementation activity of the cloned GOGAT large subunit gene of the plasmids pUC19C12 , pUC19C13 and pUC19C15 in GOGAT-negative E. coli strain JRG72 ( gltB , sucA1 supE42 iclR : : MudI ) mutant CH-gltB2767 ( gltB2767 ) 
+plementation ( + or -- ) -- + 
+Com 
+plasmid pUC19 
+Source 
+f 
+S. 
+Gibco BRL This study This study This study 
+pUC19C12 pUC19C13 pUC19C15 
++ 
++ 
+Fig. 1 . 
+Physical map of the gogat gene from S. typhimurium . 
+The closed box regions correspond to cloned S. typhimurium DNA containing gogat gene . 
+An arrow indicates the ORF direction of the gogat gene in plasmid pUC19C12 . 
+Closed and double lines indicate the plasmid-derived DNA and cloned DNA fragments , respectively 
+A 
+attgagattccctcttaaccgtatttaccaatgcgcaaaggacacaaagagggcgaatgcgaggtaagcgtatgatgcgccagccccgtc S.D. gccatgctcttgctgtgcccgcgcgccgtcggttgggagagcgtcccgtagagcctggggaggttcactgatatgttgtacgataaatcc M L Y D K S cttgagaaggataactgtggtttcggcctgatcgcccacatagaaggcgaacctagccacaaggtagtgcgtaccgccatacacgcgctg L E K D N C G F G L I A H I E G E P S H K V V R T A I H A L gcccggatgcagcaccgtggcgcgatccttgccgacggtaaaaccggcgacggttgcggcttgctgttacaaaaacctgaccgtttcttt A R M Q H R G A I L A D G K T G D G C G L L L Q K P D R F F cgcatcgtggccgaagagcgcggctggcgcttagccaaaaactacgccgtcgggatgatatttttgaataaagatcctgaactggccgcc R I V A E E R G W R L A K N Y A V G M I F L N K D P E L A A gcgtcacgccatattgtcgaagaagaattacagcaggaaaccctgtcgattgtcggctggcgcgatgtgccaaccaatgaaggcgtgctc A S R H I V E E E L Q Q E T L S I V G W R D V P T N E G V L ggtgaaatcgccctctcctccctgccgcgtattgagcagatttttgtcaacgctccggcgggctggcgtccgcgtgatatggagcgccgt G E I A L S S L P R I E Q I F V N A P A G W R P R D M E R R ctgtttatcgcccgccgacgcattgaaaaacgcctgcaggacgacaaagatttctacgtatgcagcctgtcgaacctggtcaacatttat L F I A R R R I E K R L Q D D K D F Y V C S L S N L V N I Y aaaggtctatgtatgccggcggatctgccgcgcttctacctggatcttgcggatctgcgtctggaatcggccatctgcctgttccaccag K G L C M P A D L P R F Y L D L A D L R L E S A I C L F H Q cgcttttccactaacaccgtgccgcgttggccgctggcgcagccgttccgctacctggcgcataacggcgagattaacactatcaccggc R F S T N T V P R W P L A Q P F R Y L A H N G E I N T I T G aaccgccagtgggcgcgcgcccgtacctataaattccagacgccgctgatcccggatttacagtccgctgcgccgtttgttaacgaaacc N R Q W A R A R T Y K F Q T P L I P D L Q S A A P F V N E T ggttcggattccagctcgctggacaacatgctggaactgctgctggcaggcgggatggacatcatccgcgccatgcgcctgttggtaccg G S D S S S L D N M L E L L L A G G M D I I R A M R L L V P cccgcctggcagaacaaccccgatatggaccaggatctgcgcgccttctttgactttaactccatgcatatggagccgtgggacggtccg P A W Q N N P D M D Q D L R A F F D F N S M H M E P W D G P gcaggcatcgtgatgtccgacgggcgcttcgccgcctgtaaccttgaccgtaacggcctgcgcccggcacgctatgtcattaccaaagat A G I V M S D G R F A A C N L D R N G L R P A R Y V I T K D aagctgatcacctgcgcctccgaagtcggtatctgggactatcagccggatgaagtggtcgagaaaggccgcgtcggcccaggcgagctg K L I T C A S E V G I W D Y Q P D E V V E K G R V G P G E L atggtgatcgacacccgcggcggacgtattctgcattccgcggaaaccgatgacgacctgaaaagccgccatccatataaagagtggatg M V I D T R G G R I L H S A E T D D D L K S R H P Y K E W M gagaaaaacgtccgccgcctggtgccgtttgaagagctgcctgatgaagaagtcggtagccgcgaactggacgatgacctgctcgccagc E K N V R R L V P F E E L P D E E V G S R E L D D D L L A S tatcaaaaacagtttaactacagcgccgaagagctggactcggttatccgcgttttgggcgaaaacggccaggaagccgtcggttcaatg Y Q K Q F N Y S A E E L D S V I R V L G E N G Q E A V G S M ggcgacgataccccctttgccgtgctctccagccagccgcgtattatttacgactacttccgccagcagttcgcgcaggtcactaacccg G D D T P F A V L S S Q P R I I Y D Y F R Q Q F A Q V T N P cctatcgacccgctgcgtgaagcgcacgtcatgtcgctcgccaccagcatcggtcgcgaaatgaacgtcttctgcgaagcggaaggtcag P I D P L R E A H V M S L A T S I G R E M N V F C E A E G Q gcccatcgcctgagttttaaatcgccaattctgctgtactccgatttcaaacagctcaccaccatgaaagaggagcattatcgcgctgac A H R L S F K S P I L L Y S D F K Q L T T M K E E H Y R A D cgtctggatatcaccttcgacgtgaccgaaaccacactgaacgcgacggttaaggcgctgtgcgataaagcggaacagatggtgcgcaac R L D I T F D V T E T T L N A T V K A L C D K A E Q M V R N ggcaccgtgctgctggtcctctcggatcgcaatatcggtaagaatcgcctgccggtccccgcgccgatggcggtgggcgcggtgcaaacg G T V L L V L S D R N I G K N R L P V P A P M A V G A V Q T cgtctggtagaacaaagcctgcgctgcgacgccaacatcatcgtagaaaccggaagcgcccgcgatccgcatcactttgcggtactgctc R L V E Q S L R C D A N I I V E T G S A R D P H H F A V L L ggctttggcgcaacggctatctatccgtacctggcctacgaaacgctggggcgtctgattgatacccaggccatcgccaaaaactaccgt G F G A T A I Y P Y L A Y E T L G R L I D T Q A I A K N Y R accgtgatgcagaactaccgtaacggcatcaacaaggggctgtacaagattatgtccaaaatgggcatttcgaccattgcctcttaccgc T V M Q N Y R N G I N K G L Y K I M S K M G I S T I A S Y R tgctccaaactgtttgaagcggtcggactgcacgatgatgtggtaaacctgtgcttccagggcgtggtcagccgtatcggcggcgcgagc C S K L F E A V G L H D D V V N L C F Q G V V S R I G G A S tttgatgacttccagcaggatctgctgaatctctccaaacgcgcctggctggcgcgcaaacccattagcccgggcggcctgctgaagtac F D D F Q Q D L L N L S K R A W L A R K P I S P G G L L K Y gtccacggcggcgaatatcacgcctataacccggatgtcgtgcgtaccctgcaacaggcggtacagagcggcgagtacagcgattatcag V H G G E Y H A Y N P D V V R T L Q Q A V Q S G E Y S D Y Q gaatacgccaaactggtcaatgagcgtccggcgtcaacgctgcgcgatctgctggcgatacatccagacggcgaggcggtgactatcgac E Y A K L V N E R P A S T L R D L L A I H P D G E A V T I D gaggttgagcccgccagtgagctgtttaaacgctttgataccgcagccatgtctatcggcgcattaagtccggaagcgcacgaagcgctg E V E P A S E L F K R F D T A A M S I G A L S P E A H E A L gcggaagcgatgaacagcctcggcggcaactccaactccggcgaaggcggcgaagacccggcgcgctatggcaccaataaagtgtcgcgc A E A M N S L G G N S N S G E G G E D P A R Y G T N K V S R atcaagcaggtggcttccggccgctttggcgtgacgccagcctacctggtcaatgccgatgtgattcagattaaagtcgcgcagggcgcg I K Q V A S G R F G V T P A Y L V N A D V I Q I K V A Q G A aaaccgggcgaaggcggtcagttgccgggggataaagtcactccgtatatcgctaaactgcgctattcagtgccgggcgtgacgctgatc K P G E G G Q L P G D K V T P Y I A K L R Y S V P G V T L I tccccgccaccgcaccacgatatctactctatcgaggacttagcgcagctcattttcgatctcaagcaggtcaacccgaaggcgatgatc S P P P H H D I Y S I E D L A Q L I F D L K Q V N P K A M I tccgtgaagctggtatccgaaccgggcgtcggcaccatcgcgaccggcgtggcgaaagcctatgcggatctgatcactatcgccggctac S V K L V S E P G V G T I A T G V A K A Y A D L I T I A G Y gacggcggtaccggcgccagcccgctctcttcagtgaaatacgctggttgcccgtgggaactcggacttgttgaaacccagcaggcgctg D G G T G A S P L S S V K Y A G C P W E L G L V E T Q Q A L gtcgccaacggtctgcgtcacaagattcgtctgcaggtggacggcggtctgaaaaccggcgtcgacatcattaaagcggcgattctcggt V A N G L R H K I R L Q V D G G L K T G V D I I K A A I L G gcggaaagtttcggcttcggcaccggcccgatggtggcgctgggctgtaaatacctgcgtatctgccacctgaataactgcgcaaccggc A E S F G F G T G P M V A L G C K Y L R I C H L N N C A T G gtagcaactcaggatgacaagctgcgtaagaaccactatcacggcctgccgttcaaagtgactaactactttgaatttatcgcccgcgaa V A T Q D D K L R K N H Y H G L P F K V T N Y F E F I A R E gtgcgcgagctgatggcttcgcttggcgtgacccgcctggtggatttgattggccgcaccgacctgctgaaagagctggagggcttcacc V R E L M A S L G V T R L V D L I G R T D L L K E L E G F T gctaaacagcagaagctggcgctgtctcgtctactggaaaccgctgaacctcatccgggtaaagcgctgtactgcaccgagaataacccg A K Q Q K L A L S R L L E T A E P H P G K A L Y C T E N N P ccgtttgataacggcgtgctgaatgcgcaactgttgcagcaggcgaaaccgtttgtcgatgcgcgccagagcaaaaccttctggttcgac P F D N G V L N A Q L L Q Q A K P F V D A R Q S K T F W F D atccgcaacaccgatcgttccgtcggcgcgtcgctttccggctacatcgcacagacccacggcgatcaggggctggcttccgatccgatt I R N T D R S V G A S L S G Y I A Q T H G D Q G L A S D P I aaagcacacttcagcggtaccgcaggccagagctttggcgtgtggaacgcgggcggcgtagagttatatctgactggcgatgccaacgac K A H F S G T A G Q S F G V W N A G G V E L Y L T G D A N D tatgtcggtaaaggtatggcaggcggtttgattgccatcagaccaccggtaggttccgccttcctcagtcataaagccagcattatcggc Y V G K G M A G G L I A I R P P V G S A F L S H K A S I I G aacacctgcctgtatggagccaccggtggccgtctgtacgcggcgggccgcgcgggcgaacgtttcggcgtgcgtaactccggggcgatt N T C L Y G A T G G R L Y A A G R A G E R F G V R N S G A I accgtagtagagggcatcggcgacaacggctgtgaatacatgaccggcggcatcgtctgcgtgttgggtaaaaccggcgttaacttcggc T V V E G I G D N G C E Y M T G G I V C V L G K T G V N F G gcggggatgaccggcggcttcgcctatgtgctggacgaagatggcgaattccgtaaacgcgtgaacccggaactggtagaagtactggac A G M T G G F A Y V L D E D G E F R K R V N P E L V E V L D gttgattcgctggctatccacgaagagcatctgcgcggtctgatcaccgagcacgtgcagcatactggttcgcaacgcggcgaagagatc V D S L A I H E E H L R G L I T E H V Q H T G S Q R G E E I ctgtccaggtggtcaagcttctcaacccaattcgcgttagttaagcccaagtccagcgatgtcaaagccctgttgggccaccgtagtcgt L S R W S S F S T Q F A L V K P K S S D V K A L L G H R S R agtgcggcagaattgcgcgtgcaggcgcagtaaggaattgaaatgagccagaatgtttatcaatttatcgacctgcagcgcgttgatccg S A A E L R V Q A Q END ccgaagaaaccgctgaagatccgtaagatcgaatttgttgaaatctacgaa 
+90 
+180 
+270 
+360 
+450 
+540 
+630 
+720 
+810 
+900 
+990 
+1080 
+1170 
+1260 
+1350 
+1440 
+1530 
+1620 
+1710 
+1800 
+1890 
+1980 
+2070 
+2160 
+2250 
+2340 
+2430 
+2520 
+2610 
+2700 
+2790 
+2880 
+2970 
+3060 
+3150 
+3240 
+3330 
+3420 
+3510 
+3600 
+3690 
+3780 
+3870 
+3960 
+4050 
+4140 
+4230 
+4320 
+4410 
+4500 
+4590 
+4680 
+C 
+Fig. 2 . 
+Nucleotide sequence and comparison of deduced amino acid sequence of S. typhimurium gogat gene . 
+( A ) The 4,733 bp sequence contains the 5 ' - starting region of the gogat gene . 
+The ribosome binding sequence is indicated as SD . 
+The nucleotide at position 1 corresponds to the first nucleotide in the HindIII recognition sequence . 
+( B ) Comparison of DNA sequence corresponding to the catalytic domain of S. typhimurium ogdh with that of E. coli . 
+Consensus nucleotides and mismatched nucleotides are indicated as red and blue letters , respectively . 
+( C ) Comparison of the deduced amino acid sequence corresponding to the catalytic domain of S. typhimurium GOGAT with those of the bacterial GOGATs that were reported . 
+Consensus nucleotides and mismatched nucleotides are indicated as red and blue letters , respectively . 
+1 , S. typhimurium ( this research ) ; 2 , S. enterica serovar Typhi ( GenBank No : AE016845 ) ; 3 , E. coli ( GenBank No : M18748 ) ; 4 , Shigella flexneri ( GenBank No : AE016989 ) ; 5 , Yersinia pestis ( GenBank No : AJ414157 ) ; 6 , Vibrio vulnificus ( GenBank No : BA000037 ) ; 7 , Pseudomonas aeruginosa ( GenBank No : AE004916 ) . 
+Functional expression of S. typhimurium GOGAT in E. coli Expression of functional gogat ( gltB ) gene product from recombinant plasmids was similarly determined . 
+Expression of the S. typhimurium protein results in complementation activity , and a ~ 170-kDa polypeptide was the most abundant protein in cytoplasmic extracts of E. coli JRG72 ( pUC19C12 ) . 
+This polypeptide was not found in E. coli strain JRG72 ( gltB , sucA1 supE42 iclR : : MudI ) mutant CH-gltB2767 ( gltB2767 ) ( Fig. 4 ) . 
+It is known that E. coli GOGAT has two non-identical subunits with molecular masses of 166 kDa and 52 kDa ( Saroja et al. , 1996 ) . 
+GOGATs of plant , algae and cyanobacteria , however , produce Fddependent glutamate synthase as a 130-170 kDa mon-omeric protein ( Navarro et al. , 1995 ) . 
+Saccharomyces cerevisiae GOGAT is composed of a heterodimer of 166 kDa and 56 kDa subunits ( Valenzuela et al. , 1998 ) . 
+NADPH-dependent glutamate synthase o bacteria is a dimer of iron-sulfur flavoproteins and is composed of a large subunit of 135-175 kDa and a small subunit of 51-55 kDa ( Suzuki and Rothstein , 1997 ) . 
+Therefore , it was concluded that the S. typhimurium GOGAT is quite similar to the GOGAT enzymes reported to date . 
+Work in progress is characterizing the molecular structure to explain the complementation activity . 
+FMN-binding domain 
+1 967 2 967 3 995 4 1003 5 1016 6 984 7 966 8 1029 9 1017 
+ISPP PHHDIYSIEDLAQLI FDLKQVNPKAMISVK LVSEPGVGTIATGVA KAYADLITIAGYDGG ISPP PHHDIYSIEDLAQLI FDLKQVNPKAMISVK LVSEPGVGTIATGVA KAYADLITIAGYDGG ISPP PHHDIYSIEDLAQLI FDLKQVNPKAMISVK LVSEPGVGTIATGVA KAYADLITIAGYDGG ISPP PHHDIYSIEDLAQLI FDLKQVNPKAMISVK LVSEPGVGTIATGVA KAYADLITIAGYDGG ISPP PHHDIYSIEDLAQLI FDLKQVNPKAMISVK LVSEPGVGTIATGVA KAYADLITIAGYDGG ISPP PHHDIYSIEDLAQLI FDLKQVNPKALVSVK LVSEPGVGTIATGVA KAYADLITISGYDGG ISPP PHHDIYSIEDLAQLI FDLKQVNPQALVSVK LVSEPGVGTIAAGVA KAYADLITISGYDGG ISPP PHHDIYSIEDLAELI HDLKNANREARINVK LVSEVGVGTIAAGVA KAHADVVLVSGYDGG ISPP PHHDIYSIEDLAQLI YDLKQINPDAKVTVK LVSRSGIGTIAAGVA KANAKIILISGNSGG **** ************ ** *** * * ** *** * **** *** ** * * ** 
+1029 1029 1057 1065 1078 1046 1028 1093 1081 
+3Fe-4S cluster 
+1 1030 2 1030 3 1058 4 1066 5 1079 6 1047 7 1029 8 1094 9 1082 
+TGASPLSSVKYAGCP WELGLVETQQALVAN GLRHKIRLQVDGGLK TGVDIIKAAILGAES FGFGTGPMVALGCKY LRICHLNNCATGVAT TGASPLSSVKYAGCP WELGLVETQQALVAN GLRHKIRLQVDGGLK TGVDIIKAAILGAES FGFGTGPMVALGCKY LRICHLNNCATGVAT TGASPLSSVKYAGCP WELGLVETQQALVAN GLRHKIRLQVDGGLK TGVDIIKAAILGAES FGFGTGPMVALGCKY LRICHLNNCATGVAT TGASPLSSVKYAGCP WELGLVETQQALVAN GLRHKIRLQVDGGLK TGVDIIKAAILGAES FGFGTGPMVALGCKY LRICHLNNCATGVAT TGASPLSSVKYAGCP WELGLVETQQALVAN GLRHKIRLQVDGGLK TGVDIVKAAILGAES FGFGTGPMVALGCKY LRICHLNNCATGVAT TAASPLTSVKYAGSP WELGLAETQQALVAN GLRHKIRLQVDGGLK TGLDVVKGAILGAES FGFGTAPMVAMGCKF LRICHLNNCATGVAT TGASPITSIKYAGSP WELGLAETHQTLRGN DLRGKVRVQTDGGLK TGLDVIKAAILGAES FGFGTAPMIALGCKY LRICHLNNCATGVAT TGASPQTSIKHAGLP WELGLAETHQTLVLN NLRSRIVVETDGQMK TGRDVAIAALLGAEE FGFSTAPLVSLGCIM MRACHLNTCPVGIAT TGASPQTSIKFAGLP WEMGLSEVHQVLTLN RLRHRVRLRTDGGLK TGRDIVIAAMLGAEE FGIGTASLIAMGCIM VRQCHSNTCPVGVCV ***** * * ** * ** ** * * * * ** ** * ** * ** **** ** * ** * ** * * * * 
+1119 1119 1147 1155 1168 1136 1118 1168 1156 
+Fig. 3 . 
+Comparison of the flavin-binding sites and 3Fe-4S centers in the C-terminal regions of various GOGATs . 
+The FMN-binding domain and 3Fe-4S center are underlined . 
+The aspartic acid and lysine/arginine residues involved in the binding of the rivityl chain of FMN are marked in bold print . 
+The 3 cysteines of the iron-sulfur cluster are denoted by bold print . 
+Asterisks indicate identical amino acid residues in all the sequences . 
+GOGATs of E. coli ( Oliver et al. , 1987 ) , S. enterica serovar Typhi ( Deng and Liou , 2003 ) , S. flexneri ( Wei et al. , 2003 ) , Y. pestis ( Parkhill et al. , 2001 ) , V. vulnificus ( Chen et al. , 2003 ) , P. aeruginosa ( Stover et al. , 2000 ) , Syncechocystis sp . 
+PCC 6803 ( Navarro et al. , 1995 ) and Azospirillum brasilense ( Pelanda et al. , 1993 ) were compared . 
+Fig. 4 . 
+SDS-PAGE of the E. coli extracts carrying the functional GOGAT having complementation activity . 
+Total cell extracts were fractionated on an SDS-10 % ( wt/vol ) acrylamide gel and stained for protein with Coomassie blue R250 . 
+Lanes : 1 , E. coli strain JRG72 ( gltB , sucA1 supE42 iclR : : MudI ) mutant CH-gltB2767 ( gltB2767 ) ; 2 , E. coli strain JRG72 ( pUC19C12 ) without IPTG ; 3 , E. coli JRG72 ( pUC19C12 ) with IPTG . 
+Approximately 20 μg of protein were loaded in each lane except for lane 1 ( 10 μg protein ) . 
+At left are indicated the molecular weight positions in kD . 
+The arrow indicates a ~ 170 kDa glutamate synthase . 
+Acknowledgment
+This work was supported in part by a project ( 03-PJ1-PG1-CH11-0003 ) of the Health Technology Planning and Evaluation Board , Ministry of Health and Welfare of Korean Government . 
+References 
+Altschul , S.F. , W. Gish , W. Miller , E.W. Myers , and D.J. Lipman . 
+1990 . 
+Basic local alignment search tool . 
+J. Mol . 
+Biol . 
+215 , 403-410 . 
+Canosi , U. , G. Morelli , and T.A. Trautner . 
+1978 . 
+The relationship between molecular structure and transformation efficiency of some S. aureus plasmids isolated from B. subtilis . 
+Mol . 
+Gen. Genet . 
+166 , 259-267 . 
+Chen , C.Y. , K.M. Wu , Y.C. Chang , C.H. Chang , H.C. Tsai , T.L. Liao , Y.M. Liu , H.J. Chen , A.B. Shen , J.C. Li , T.L. Su , C.P. Shao , C.T. Lee , L.I. Hor , and S.F. Tsai . 
+2003 . 
+Comparative genome analysis of Vibrio vulnificus , a marine pathogen . 
+Genome Res . 
+13 , 2577-87 . 
+Csonka , L.N. , T.P. Ikeda , S.A. Fletcher , and S. Kustu . 
+1994 . 
+The accumulation of glutamate is necessary for optimal growth of Salmonella typhimurium in media of high osmolality but not induction of the proU operon . 
+J. Bacteriol . 
+176 , 6324-6333 . 
+Deng , W. , S.R. Liou . 
+Plunkett G 3rd , G.F. Mayhew , D.J. Rose , V. Burland , V. Kodoyianni , D.C. Schwartz , and F.R. Blattner . 
+2003 . 
+Comparative genomics of Salmonella enterica serovar Typhi strains Ty2 and CT18 . 
+J. Bacteriol . 
+185 , 2330-2337 . 
+Jin , U.H. , S.H. Cho , M.G. Kim , S.D. Ha , K.S. Kim , K.H. Lee , K.Y. Kim , D.H. Chung , Y.C. Lee , and C.H. Kim . 
+2004 . 
+PCR method based on the ogdH gene for the detection of Salmonella spp . 
+from chicken meat samples . 
+J. Microbiol . 
+42 , 216-222 . 
+Johnson , M.K. , A.T. Kowal , J.E. Morningstar , M.E. Oliver , K. Whittaker , R.P. Gunsalus , B.A.C. Ackerll , and G. Cecchini . 
+1989 . 
+Subunit location of the iron sulfur clusters in fumarate reductase from Escherichia coli . 
+J. Biol . 
+Chem . 
+263 , 14732-14738 . 
+Kaback , H.R. , K.H. Zen , T.G. Consler , and H.R. Kaback . 
+1995 . 
+Insertion of the polytopic membrane protein lactose permease occurs by multiple mechanisms . 
+Biochemistry 34 , 3430-3437 . 
+Kim , C.H. 2003 . 
+Calatytic domain of Salmonella typhimurium 2-oxoglutarate dehydrogenase is localized in N-terminal region . 
+J. Molecular Catalysis B : Enzymatic . 
+26 , 193-200 . 
+Kustu , S. , J. Hirschman , D. Burton , J. Jelesko , and J.C. 
+Meeks . 
+1984 . 
+Covalent modification of bacterial glutamine synthetase : physiological significance . 
+Mol . 
+Gen. Genet . 
+197 , 309-317 . 
+Ish-Horowicz , D. , and J.F. Burke . 
+1981 . 
+Rapid and efficient cosmid cloning . 
+Nucleic Acids Res . 
+9 , 2989-2998 . 
+Lowry , O.H. , N.J. Rosebrough , A.L. Farr , and R.J. Randall . 
+1951 . 
+Protein measurement with the Folin phenol reagent . 
+J. Biol . 
+Chem . 
+193 , 265 . 
+Mandel , M. , and A. Higa . 
+1979 . 
+Calcium-dependent bacteriophage DNA infection . 
+J. Mol . 
+Biol . 
+53 , 159-162 . 
+Maniatis , T. , E.F. Fritsch , and J. Sambrook , Molecular cloning , a laboratory manual . 
+Cold Spring Harbour Laboratory , New York , 1982 , p. 68 , p. 150 . 
+Miller , R.E. , and E.R. Stadtman . 
+1972 . 
+Glutamate synthase from Escherichia coli . 
+An iron-sulfide flavoprotein . 
+J. Biol . 
+Chem . 
+247 , 7407-7419 . 
+Manodori , A. , G. Cecchini , I. Schroder , R.P. Gunsalus , M.T. Werth , and M.K. Johson . 
+1992 . 
+[ 3Fe-4S ] to [ 4Fe-4S ] cluster conversion in Escherichia coli fumarate reductase by site-directed mutagenesis . 
+Biochemistry 31 , 2703-2712 . 
+Nandineni , M.R. , R.S. Laishram , and J. Gowrishankar . 
+2004 . 
+Osmosensitivity associated with insertions in argP ( iciA ) or glnE in glutamate synthase-deficient mutants of Escherichia coli . 
+J. Bacteriol . 
+186 , 6391-6399 . 
+Navarro , F. , S. Chavez , P. Candau , and F.J. Florencio . 
+1995 . 
+Existence of two ferredoxin-glutamate synthases in the cyanobacterium Syncechocystis sp . 
+PCC 6803 : Isolation and insertional inactivation of gltB and gltS genes . 
+Plant Molecular Biol . 
+27 , 753-767 . 
+Navarro , F. , S. Chavez , C. Candau , and F.J. Florencio . 
+1995 . 
+Existence of two ferredoxin-glutamate synthases in the cyanobacterium Synechocystis sp . 
+PCC 6803 . 
+Isolation and insertional inactivation of gltB and gltS genes . 
+Plant Mol . 
+Biol . 
+27 , 753-767 . 
+Neville , D.M. 1971 . 
+Molecular weight determination of protein-dodecyl sulfate complexes by gel electrophoresis in a discontinuous buffer system . 
+J. Biol . 
+Chem . 
+246 , 6328-6334 . 
+Oliver , G. , G. Gosset , R. Sanchez-Pescador , E. Lozoya , L.M. Ku , N , Flores , B. Becerril , F. Valle , and F. Bolivar . 
+1987 . 
+Determination of the nucleotide sequence for the glutamate synthase structural genes of Escherichia coli K-12 . 
+Gene 60 , 1-11 . 
+Parkhill , J. , B.W. Wren , N.R. Thomson , R.W. Titball , M.T. Holden , M.B. Prentice , M. Sebaihia , K.D. James , C. Churcher , K.L. Mungall , S. Baker , D. Basham , S.D. Bentley , K. Brooks , A.M. Cerdeno-Tarraga , T. Chillingworth , A. Cronin , R.M. Davies , P. Davis , G. Dougan , T. Feltwell , N. Hamlin , S. Holroyd , K. Jagels , A.V. Karlyshev , S. Leather , S. Moule , P.C. Oyston , M. Quail , K. Rutherford , M. Simmonds , J. Skelton , K. Stevens , S. Whitehead , and B.G. Barrell . 
+2001 . 
+Genome sequence of Yersinia pestis , the causative agent of plague . 
+Nature 413 , 523-7 . 
+Pelanda , R. , M.A. Vanoni , M. Perego , L. Piubelli , A. Galizzi , B. Curti , and G. Zanetti . 
+1993 . 
+Glutamate synthase genes of the diazotroph Azospirillum brasilense . 
+J. Biol . 
+Chem . 
+268 , 3099-3106 . 
+Reitzer , L. 2003 . 
+Nitrogen assimilation and global regulation in Escherichia coli . 
+Annu . 
+Rev. Microbiol . 
+57 , 155-176 . 
+Reitzer , L. , and B.L. Schneider . 
+2001 . 
+Metabolic context an 
+possible physiological themes of σ54-dependent genes in Escherichia coli . 
+Microbiol . 
+Mol . 
+Biol . 
+Rev. 65 , 422-444 . 
+Reitzer , L.J. 1996 . 
+Ammonia assimilation and the biosynthesis of glutamine , glutamate , aspartate , asparagine , l-alanine , and d-alanine , p. 391-407 . 
+In F. C. Neidhardt , R. Curtiss III , J. L. Ingraham , E. C. C. Lin , K. B. Low , B. Magasanik , W. S. Reznikoff , M. Riley , M. Schaechter , and H. E. Umbarger ( ed . ) 
+, Escherichia coli and Salmonella : cellular and molecular biology , 2nd ed . 
+American Society for Microbiology , Washington , D.C. , USA . 
+Rhee , S.G. , P.B. Chock , and E.R. Stadtman . 
+1985 . 
+in The Enzymology of Post-Translational Modification of Proteins , eds . 
+Freedman , R. B. & Hawkins , H. C. ( Academic , New York ) , Vol . 
+2 , pp. 273-297 . 
+Saroja , G.N. , and J. Gowrishankar . 
+1996 . 
+Roles of SpoT and FNR in NH4 + assimilation and osmoregulation in GOGAT ( glutamate synthase ) - deficient mutants . 
+J. Bacteriol . 
+178 , 4105-4114 . 
+Schutt , H. , and Holzer , H. 1972 . 
+Biological function of the ammonia-induced inactivation of glutamine synthetase in Escherichia coli . 
+Eur . 
+J. Biochem . 
+26 , 68-72 . 
+Stover , C.K. , X.Q. Pham , A.L. Erwin , S.D. Mizoguchi , P. Warrener , MJ . 
+Hickey , F.S. Brinkman , W.O. Hufnagle , D.J. Kowalik , M. Lagrou , RL . 
+Garber , L. Goltry , E. Tolentino , S. Westbrock-Wadman , Y. Yuan , L.L. Brody , S.N. Coulter , K.R. Folger , A. Kas , K. Larbig , R. Lim , K. Smith , D. Spencer , G.K. Wong , Z. , Z. Wu , I.T. Paulsen , J. Reizer , M.H. Saier , R.E. Hancock , S. Lory , and M.V. Olson . 
+2000 . 
+Complete genome sequence of Pseudomona 
+aeruginosa PA01 , an opportunistic pathogen . 
+Nature 406 , 959-964 . 
+Suzuki , A. and S. Rothstein . 
+1997 . 
+Structure and regulation of ferredoxin-dependent glutamate synthse from Arabidopsis thaliana : Cloning of cDNA , expression in different tissues of wild-type and gltS mutant strains , and light induction . 
+Eur . 
+J. Biochem . 
+243 , 708-718 . 
+Tempest , D.W. , J.L. Meers , and C.M. Brown . 
+1970 . 
+Synthesis of glutamate in Aerobacter aerogenes by a hitherto unknown route . 
+Biochem . 
+J. 117 , 405-407 . 
+Valenzuela , L. , P. Ballario , C. Aranda , and A. Gonzalez . 
+1998 . 
+Regulation of expression of GLT1 , the gene encoding glutamate synthase in Saccharomyces cerevisiae . 
+J. Bacteriol . 
+180 , 3533-3540 . 
+Wei , J. , M.B. Goldberg , V. Burland , M.M. Venkatesan , W. Deng , G. Fournier , G.F. Mayhew , G. Plunkett , D.J. Rose , A. Darling , B. Mau , N.T. Perna , S.M. Payne , L.J. Runyen-Janecky , S. Zhou , D.C. Schwartz , F.R. Blattner . 
+2003 . 
+Complete genome sequence and comparative genomics of Shigella flexneri serotype 2a strain 2457T . 
+Infect . 
+Immun . 
+71 , 2775-2786 . 
+Wolheuter , R.M. , H. Schutt , and H. Holzer . 
+1973 . 
+in The Enzymes of Glutamine Metabolism , eds . 
+Prusiner , S. and Stadtman , E. R. ( Academic , New York ) , pp. 45-64 . 
+Yan , D. , T.P. Ikeda , A.E. Shauger , and S. Kustu . 
+1996 . 
+Glutamate is required to maintain the steady-state potassium pool in Salmonella typhimurium . 
+Proc . 
+Natl. Acad . 
+Sci . 
+USA 93 , 6527-6531 .

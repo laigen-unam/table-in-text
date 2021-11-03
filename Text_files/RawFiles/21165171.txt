@@ -1,0 +1,601 @@
+NIH Public Access
+Author Manuscript 
+J Am Stat Assoc. Author manuscript ; available in PMC 2010 December 15 . 
+Published in final edited form as : J Am Stat Assoc. 2010 September 1 ; 105 ( 491 ) : 956 -- 967 . 
+Bayesian Modeling of MPSS Data : Gene Expression Analysis of 
+Bovine Salmonella Infection 
+Soma S. Dhavala † [ doctoral candiate ] , 
+Department of Statistics , 3143 TAMU , Texas A & M University , College Station , TX , 77843 . 
+Sujay Datta [ Senior Scientist ] [ Faculty Member ] , Statistical Center for HIV/AIDS Research and Prevention , Fred Hutchinson Cancer Research Center , M2-C125 , 1100 Fairview Avenue N Seattle , WA 98109 ( sdatta@fhcrc.org ) . 
+Bani K. Mallick [ Professor ] , Department of Statistics , 3143 TAMU , Texas A & M University , College Station , TX , 77843 ( bmallick@stat.tamu.edu ) . 
+Raymond J. Carroll [ Distinguished Professor ] , Department of Statistics , 3143 TAMU , Texas A & M University , College Station , TX 77843 ( carroll@stat.tamu.edu ) . 
+Sangeeta Khare [ Research Assistant Professor ] , Department of Veterinary Pathobiology , 4467 TAMU , Texas A & M University , College Station , TX 77843 ( skhare@cvm.tamu.edu ) . 
+Sara D. Lawhon [ Assistant Professor ] , and 
+Department of Veterinary Pathobiology , 4467 TAMU , Texas A & M University , College Station , TX 77843 ( slawhon@cvm.tamu.edu ) . 
+L. Garry Adams [ Professor ] Department of Veterinary Pathobiology , 4467 TAMU , Texas A & M University , College Station , TX 77843 ( gadams@cvm.tamu.edu ) . 
+stract 
+b 
+A 
+Massively Parallel Signature Sequencing ( MPSS ) is a high-throughput counting-based technology available for gene expression profiling . 
+It produces output that is similar to Serial Analysis of Gene Expression ( SAGE ) and is ideal for building complex relational databases for gene expression . 
+Our goal is to compare the in vivo global gene expression profiles of tissues infected with different strains of Salmonella obtained using the MPSS technology . 
+In this article , we develop an exact ANOVA type model for this count data using a zero-inflated Poisson ( ZIP ) distribution , different from existing methods that assume continuous densities . 
+We adopt two Bayesian hierarchical models -- one parametric and the other semiparametric with a Dirichlet process prior that has the ability to `` borrow strength '' across related signatures , where a signature is a specific arrangement of the nucleotides , usually 16-21 base-pairs long . 
+We utilize the discreteness of Dirichlet process prior to cluster signatures that exhibit similar differential expression profiles . 
+Tests for differential expression are carried out using non-parametric approaches , while controlling the false discovery rate . 
+We identify several differentially expressed genes that have important biological significance and conclude with a summary of the biological discoveries . 
+† soma@stat.tamu.edu . 
+This article has supplementary materials online . 
+Bayesian semiparametric modeling ; Bovine Salmonella infection ; Dirichlet process mixture ; Markov chain Monte Carlo ( MCMC ) ; Massively Parallel Signature Sequencing ( MPSS ) ; zero-inflated Poisson 
+1 Introduction
+Transcription profiling techniques measure the expression of a gene in a biological sample by quantifying mRNA . 
+DNA microarray technology has dominated the fields of molecular biology and genomics by allowing researchers to measure the expression levels of thousands of genes simultaneously . 
+However , it is now well known that the microarray technology has its own limitations . 
+Microarray users are limited only to the probes printed on commercial / custom manufactured slides and one must have knowledge of the nucleotide sequences of the genes that are being investigated in order to create the probes . 
+This may be a problem for genome-wide studies of higher organisms . 
+In addition , microarray studies are subject to variability relating to probe hybridization differences and cross-reactivity , element-to-element differences within microarrays during spotting , and microarray-to-microarray differences ( Audic et al. 1997 , Wittes et al. 1999 , Richmonds et al. 1999 ) . 
+Recently , alternative technologies such as Serial Analysis of Gene Expression ( SAGE ) and Massively Parallel Signature Sequencing ( MPSS ) have emerged that are capable of addressing some of the issues described above . 
+Both SAGE and MPSS produce similar output : a list of short sequences ( tags ) and a frequency for each tag . 
+However , the method of obtaining the tag list is dramatically different . 
+SAGE uses concatenated tags that are sequenced using a traditional automated DNA sequencing method ( Velculesu et al. 1995 ) . 
+A SAGE library may contain as few as 20,000 tags or as many as over 100,000 tags . 
+In contrast , MPSS uses a cloning and sequencing method whereby hundreds of thousands of sequences are obtained simultaneously by sequencing off of beads using enzymatic digestion and hybridization ( Brenner et al. 2000 ) . 
+An MPSS library may contain more than 1,200,000 tags . 
+Both methods are capable of uniformly analyzing gene expression irrespective of mRNA abundance and without a priori knowledge of the transcript sequence . 
+The data generated by these methods are count data , as opposed to the log signal intensity or log red/green ratio obtained from microarrays . 
+In this article , we focus on gene expression of bovine ileal Peyer 's patch infected with Salmonella enterica serovar Typhimurium as analyzed by MPSS . 
+In Section 2 , we briefly explain the MPSS technology . 
+In Section 3 , we explain the data collection process and provide a brief literature survey of the existing statistical techniques for analyzing MPSS and SAGE data . 
+In Section 4 , we explain our statistical models and methodology . 
+Section 5 provides some of the computational details associated with the models introduced here , as well as our analysis of the data . 
+In Section 6 , we discuss the results of our analysis and Section 7 discusses their biological interpretation . 
+We end with a few concluding remarks in Section 8 . 
+The MCMC computational details can be found in the Appendix . 
+MPSS is based on transcript counting and as a result , depends heavily on the ability to uniquely identify every mRNA in a sample . 
+For this purpose , first a cDNA signature/tag conjugate library is constructed . 
+Poly ( A ) + mRNA is extracted from the tissue of interest an from it , cDNA is synthesized . 
+The 20 bases adjacent to a specific site upstream from the poly-A tail of each cDNA ( a site that reads GATC ) are captured . 
+The 17 nucleotides including the GATC and its contiguous 13-mer form a signature for the mRNA they came from . 
+These signatures are then amplified by PCR and a unique identification tag is added to each of them . 
+Subsequently , multiple pools of several hundred thousand signature/tag conjugates are amplified and the tags are hybridized with microbeads , each of which has on it several thousand copies of one of the anti-tags . 
+The microbeads loaded with the signature / tag conjugates are isolated by using a florescence-activated cell sorter . 
+A million to a million-and-a-half loaded microbeads are assembled in a flow cell and the signature sequences on those beads are determined . 
+This process involves the parallel identification of four bases by means of hybridization to fluorescently labeled encoders , followed by the removal of those 4 bases via digestion with an endonuclease enzyme and the exposure of the next four bases , and so on . 
+K 
+ey 
+words 
+of MPSS technology 
+w 
+ie 
+v 
+e 
+R 
+2 
+d 
+Two separate sets of microbeads containing the same signature library are used along with two different initiating adapters for the endonuclease digestion process and for each of these , the signature identification process is independently carried out k times ( k = 2 , 3or4 ) . 
+The purpose behind these is to ensure that fewer signatures are missed , thereby increasing the resolution . 
+The two separate runs of the endonuclease digestion process mentioned above are called a two-stepper process and a four-stepper process respectively . 
+The k independent runs of the signature identification process within each stepper process are called replicates . 
+The signatures corresponding to every mRNA in the tissue-sample are , therefore , identified and counted 2k times during MPSS . 
+So , for every signature involved , we end up getting two sets of k counts . 
+These counts are actually reported after standardization to a million , that is , a signature having a count of 72 among 1.5 million microbeads will be reported as having 48 TPM ( transcripts per million ) . 
+For example , if a two-stepper process is used along with a four-stepper and each has 4 replicates , the TPM values for a particular signature might be ( 5,0,9,13 ) and ( 0,3,12,20 ) . 
+The maximum TPM value for a signature is often called its ` selected mean ' . 
+Once the TPM values are available , each 17-nucleotide signature , which typically matches with only one position in a complex genome , is associated with a proximal gene . 
+Based on the position of the signature relative to its associated gene , each signature is categorized according to the quality of the association . 
+For more on the MPSS technology and the associated biological details , see Reinartz et al. ( 2002 ) , Stolovitzky et al. ( 2005 ) , Crawford et al. ( 2006 ) and Brenner et al. ( 2000 ) , among others . 
+The dataset was generated by Khare et al. ( 2006 ) at the Department of Veterinary Pathobiology , Texas A & M University . 
+Their goal was to compare the in vivo global gene expression responses in tissue-samples from bovine ligated ileal loops that are infected with a wild strain of the bacterium Salmonella enterica serovar Typhimurium ( WT ) or with a mutant strain of the bacterium ( MT ) or are uninfected ( LB ) . 
+Salmonella is an enteric pathogen and is a major concern in food safety . 
+Salmonella enterica serovar Typhimurium ( S. Typhimurium ) is among the most common Salmonella varieties causing salmonellosis in the U.S.A. Various animal models have been studied to understand the virulence mechanism of S. Typhimurium . 
+Infection of calves , natural or experimental , with S. Typhimurium results in an enteric disease with clinical and pathological features that parallel the disease in humans . 
+The invasion associated with type III secretion system encoded by Pathogenicity Island I ( SPI-1 ) in the pathogen is required for S. Typhimurium colonization of the bovine small intestine and translocates various Salmonella effector proteins including SipA , SopA , SopB , SopD , and SopE2 to the host epithelial cell cytoplasm . 
+These various effector molecules act in a coordinated way to induce fluid secretion and transcription of various genes associated with the pathophysiology of the disease . 
+The mutation in the wild type strain of Salmonella was the deletion of the Type 3 Secretion System ( T3SS ) genes SipASopABDE/E2 ( ZA21 ) , which , according to recent studies , renders the bacterium defective in invasion , fluid accumulation , production of inflammatory cytokines/chemokines and transmigration of neutrophils . 
+In this manuscript we compare the hosts ' responses to the WT associated with the pathophysiology of the disease to understand the detailed effect of these virulent factors in the pathogenesis of the infection . 
+The detailed analysis of the host response will lead us to identify gene targets for therapeutic intervention of this disease . 
+The MPSS technique with a two-stepper procedure was used along with a three-stepper procedure , each having two replicates . 
+The experimenters initially ran the MPSS , as described below , with more than 43000 signatures , but subsequently screened the dataset to eliminate all of the rows that did not contain a count of four or more transcripts per million in at least two of the three tissue-samples . 
+This reduced the number of rows ( signatures ) to about 24000 and our analysis is based on this reduced dataset . 
+All the replicates we obtained in this data-set are technical replicates as obtaining biological replicates was cost prohibitive . 
+ollection and Analysis 
+C 
+ata 
+D 
+3 
+of MPSS data analysis methods 
+3.1 Review 
+From a statistical point of view , an MPSS experiment involving m signatures produces a dataset with m rows , each containing two sets of k transcripts per million values . 
+Suppose we have two tissue-samples , one healthy and the other diseased and we intend to discover signatures that are differentially expressed between these two samples . 
+Reinartz et al. ( 2002 ) suggest the following procedure , in case there is only one count per signature . 
+Let the counts be x1 and x2 in the two samples for a particular signature . 
+Since a certain microbead may or may not contain that signature and a million microbeads are examined for the presence of that signature in each sample , this is like a repeating a million coin-tosses twice . 
+Let p1 be the expression level of this signature in sample 1 and p2 be the level in sample 2 . 
+Then , clearly , x1 ~ Binomial ( 106 , p1 ) and x2 ~ Binomial ( 106 , p2 ) and the null hypothesis of no differential expression boils down to H0 : p1 = p2 . 
+Of course , , and in order to test this null hypothesis against the two-sided alternative , a normal approximation is appropriate . 
+In other words , use the test statistic , where . 
+One problem with this approach is that it does not clarify what data are being used . 
+If the single count per signature that is being used is actually the selected mean , i.e. , the largest of all the counts for that signature , it would be better modeled by the maximum of binomial random variables . 
+On the other hand , a normal-approximated binomial testing procedure might be appropriate when the sum of the counts for a signature is considered . 
+Even then , such signature-by-signature testing methods incorrectly assume that the signatures are independent of each other , especially signatures corresponding to the same gene . 
+Another drawback to this is the lack of protection against false discoveries ; such protection is essential as thousands of hypothesis tests have to performed simultaneously . 
+Stolovitzky et al. ( 2005 ) put forth another testing procedure based on empirical modeling . 
+Their dataset was generated by a two-stepper process along with a four-stepper , each with 4 replicates . 
+Instead of using the TPM values directly , they use log10 ( TPM ) . 
+For the first tissue-sample , let θij be the log-transformed TPM for the ith signature in the jth replicate of a stepper process , be the mean of the θij 's within a stepper process and si be their standard deviation . 
+For the other tissue-sample , let the corresponding quantities be , and . 
+By plotting the si 's against the θi 's , Stolovitzky et al. ( 2005 ) noticed that the variation decreases as the mean increases , a phenomenon typically observed in log-transformed Poisson data , and it does so at different rates for the following three scenarios : ( i ) when none of the eight TPM counts is zero ; ( ii ) when some of them are zeros but neither the sum of the four TPM counts from the two-stepper process nor that from the four-stepper process is zero ; ( iii ) when exactly one of the two sums mentioned above is zero but not both . 
+Typically , the rate of decrease in replicate-variation as the mean increases is the highest in case ( i ) , while the other two cases are similar to each other . 
+In view of this , they decided to standardize the replicate θij 's for each signature in each sample by their standard deviation and model the standardized data by the curve , which has slightly heavier tails than a Gaussian curve . 
+For the ith signature , they reject the null hypothesis of no differential expression against the two-sided alternative if the conditional probability of observing a greater absolute difference between the means of the standardized θij 's from the two samples is `` small '' , given that the average of those two means is some value Θ ( say ) . 
+Although this seems to be a more sophisticated approach than the normal-approximated binomial test , it has its own drawbacks . 
+The authors ' decision to work with log-transformed counts means that they had to eliminate all of the zero counts from their analysis , except for acknowledging the effect of zero counts on the inter-replicate variations and adjusting for them . 
+In addition , the authors do not mention false discovery rate ( FDR ) control despite the fact that simultaneous testing for the differential expression of several thousand signatures necessitates some protection against false discoveries 
+of SAGE data analysis methods 
+3.2 Review 
+From a data-centric view point , MPSS and SAGE technologies produce similar output : the frequency of occurrence of signatures/tags . 
+As a result , it might be possible to use the methods developed for SAGE data analysis in order to analyze MPSS data and vice versa , as suggested in Vencio et al. ( 2004 ) . 
+For this reason , we review SAGE data analysis methods that could be applied to MPSS data as well . 
+Most of the off-the-shelf SAGE analysis techniques for testing differential expression use simple chi-square tests for equality of proportions or perform t-tests after transforming the data ( Man , 2000 ) . 
+Even though such simplistic assumptions are easy-to-use , they do not adequately model the complexity of biological processes or account for the interdependencies among genes . 
+Alternative approaches use hierarchical models to address these issues . 
+Vencio et al. ( 2004 ) suggest mixture model distributions to account for withinclass variability and in particular use a Beta-Binomial model . 
+Testing differential expression is accomplished by computing the Bayes error rate , which is the area of the overlapped region of the posterior distributions . 
+A similar approach can be found in Thygesen et al. ( 2006 ) , where a gamma-Poisson model is used for analyzing the SAGE libraries , where library is a collection of expression levels of signatures/tags from a particular biological sample . 
+They suggest that a Poisson likelihood with either a gamma prior or a log-normal prior is suitable for modeling SAGE data . 
+A mixture Dirichlet prior is used for analyzing SAGE libraries in Morris et al. ( 2006 ) . 
+They demonstrate that such a specification leads to improved estimates of the expression levels of the signatures/tags . 
+A key feature in the above methods is the mixture model approach to account within-class variability . 
+However , they do not model the complex dependency among the genes or explicitly incorporate tests for differential expression across multiple samples into the model . 
+Rather , these methods assume just exchangeability as is the case with our parametric hierarchical model and analyze one library at a time . 
+In this article , we adopt a new approach to analyzing MPSS data that addresses these issues . 
+In our Bayesian hierarchical model , we • model each signature-count by a zero-inflated Poisson ( ZIP ) distribution and assume a normal density for the log-transformed mean parameter of the Poisson part ; 
+• assume the mean of the above-mentioned normal density to have a linear model structure with parameters capturing the signature effect and the treatment effect ; 
+• draw inference on differential expression of signatures based on the posteriors of the ` treatment effect ' parameters , using symmetrized Kullback-Leibler ( KL ) divergences with bootstrapped cut-off values , as well as the Kruskal-Wallis test for the equality of medians . 
+A somewhat similar modeling idea can be found in Carota and Parmigiani ( 2002 ) in the regression context . 
+But to our knowledge , we are the first to modify and adopt it for MPSS-type count-data . 
+Even though our analysis and application is for the MPSS data analysis , we believe that the methods are equally applicable for analyzing SAGE data , owing to the similarities between the nature of the data . 
+Let Yijk be the kth replicate count observed for the ith signature under the jth treatment , i = 1 , ... , I ; j = 1 , ... , J and k = 1 , ... , K . 
+We assume that conditional on the parameters ( p , λijk ) , Yijk are independently distributed ZIP ( p , λijk ) for i = 1 , ... , I ; j = 1 , ... , J and k = 1 , ... , K . 
+In other words , where ∊ ijk is the random residual component with Normal distribution . 
+Hence , we assume that conditional on the parameters ( ηi , βij ) , the λijk are independent , each with a lognormal density . 
+The use of a residual component in the link-function specification is consistent with the belief that there may be unexplained sources of variation in the data , perhaps due to explanatory variables that were not recorded in the original study . 
+This is particularly appropriate for Poisson data sets where over-dispersion is commonly observed . 
+The use of residual effects within GLMs is discussed in Sun et al. ( 2000 ) and is a special case of the class of generalized linear mixed models ( Zeger and Karim , 1991 ; Breslow and Clayton , 1993 ) . 
+Here , we assume that conditional on the parameters ( ηi , βij ) , the λijk are independent each with lognormal density so equation ( 2 ) can now be re-written as : where ηi is the effect of the ith signature and βij is the effect of the jth treatment nested within the ith signature . 
+We elicit conjugate priors in the hierarchical model and partially center the parameters for efficient MCMC sampling ( Gelfand et al. , 1995 ) . 
+Let be the NormalInverse Gamma family of conjugate distributions in which the mean has a Normal distribution conditional on the variance and the variance marginally follows an Inverse-Gamma distribution with hyper-prior parameters u and v having the appropriate subscripts . 
+In other words , 
+• start with a parametric model where these parameters are given the usual conjugate prior distributions ( i.e. , normal and inverse gamma ) ; 
+• proceed to fit a semiparametric model where the ` treatment effect ' parameter is given a Dirichlet process prior with a normal baseline distribution ; 
+• borrow strength within each cluster of signatures , since the semiparametric model results in automatic clustering ; 
+• use the deviance information criterion ( DIC ) for choosing between these two models ; 
+ian Hierarchical Model etric Model 
+s 
+4 Baye 
+m 
+4.1 Para 
+( 1 ) 
+. 
+In the next stage , we model log ( λijk ) as 
+for some 0 < p < 1 , where 
+( 2 ) 
+( 3 ) 
+With this notation in mind, we specify the priors as:
+However , the specification of the zero-inflation parameter makes the sampling from the ( conditional ) posterior distribution extremely difficult . 
+Agarwal et al. ( 2002 ) , Ghosh et al. ( 2006 ) cleverly handle the problem by introducing a latent variable . 
+In the context of our dataset , denoting the latent variable corresponding to Yijk by Zijk , the complete likelihood of the data is where n0 = ∑ i ∑ j ∑ k zijk and n = IJK . 
+Here , zijk = 1 implies that the kth replicate in the jth treatment for the ith gene was not sampled . 
+We elicit Beta ( a , b ) prior on p and conjugate priors for all the variance parameters . 
+( 4 ) 
+or , equivalently , 
+( 5 ) 
+arametric Model 
+ip 
+em 
+S 
+4.2 
+We extend the model in Section 3.1 to a semiparametric setup where simultaneously we can infer the clustering of the signatures such that signatures within a cluster share a common value for their regression coefficients . 
+Thus , similar signatures will borrow strength or shrink their regression coefficients locally rather than shrinking towards the global mean . 
+Furthermore , clustering of the data offers insight about signatures that behave similarly in the experiment . 
+By comparing signatures of unknown function with profiles that are similar to signatures of known functions , clues to biological function may be obtained . 
+We exploit the Dirichlet Process ( Ferguson , 1973 ) prior for the regression coefficients to obtain the clusters . 
+Assigning a Dirichlet process on the regression coefficients induce ties among them . 
+That is , for every pair of objects i ≠ j , there will be a positive probability that βi = βj . 
+The clustering of the signatures encoded by the ties of the regression coefficients will simply be referred to as the clustering of the regression coefficients and , hence , clustering of the corresponding signatures . 
+The semiparametric model is obtained by replacing prior for the treatment effect 's parameter in the parametric model as : where τ is the tuning parameter and the baseline distribution is Normal . 
+Posterior inference based on a Dirichlet process ( DP ) prior has been widely discussed in the literature . 
+Ferguson ( 1973 ) introduced the Dirichlet process and Antoniak ( 1974 ) extended it to a DP mixing framework . 
+Except in simple cases with few observations ( Kuo , 1986 ) , DP mixing was computationally intractable until Escobar and West ( 1995 and earlier reference therein ) developed a convenient version of the Gibbs sampler ( Gelfand and Smith , 1990 ) to handle this problem . 
+Recent work of MacEachern and Muller ( 1994 ) , Neal ( 2000 ) , Jain and Neal ( 2004 ) , and Dahl ( 2005 ) , among other supplied alternative simulation strategies to accommodate nonconjugate structures . 
+All of these methods are suitable to model continuous responses ; although see Mukopadhyay and Gelfand ( 1997 ) and Carota and Parmigiani ( 2002 ) for extensions to the linear model frame work . 
+Both of these approaches obtain a nonconjugate structure and use a more complex MCMC algorithm successfully to handle that problem . 
+In our case , the number of regression parameters is large and so these algorithms may not be very efficient . 
+In our modeling scheme , the introduction of the residual component ∊ makes our computation much more efficient . 
+By adopting this Gaussian residual effect , many of the conditional distributions for the model parameters are now in the standard form , thus greatly aiding computation . 
+To be specific , conditional on the λ-values , the model ( 2 ) is independent of Y and can be written as a standard Bayes linear regression with log ( λ ) as the response and β as the regression parameters . 
+Now using a DP prior over the β-values , this can be transformed to a conjugate problem , with the analytical form of the marginal distribution available . 
+Hence our method enables us to use the efficient sampling scheme of Escobar and West ( 1998 ) to draw the β-values and other parameters . 
+The details of the MCMC computation scheme are provided in the next Section . 
+of The MCMC Computations election and cluster initialization 
+ils r s 
+5 Deta 
+5.1 Prio 
+We elicited conjugate priors for all the variance parameters and set the corresponding hyperparameters such that they are diffuse . 
+As a result , posterior inference is insensitive to the choice of these hyper-priors . 
+Nevertheless , a good initialization of the MCMC chain ensures stability and quicker convergence . 
+It might also help an average user to use the algorithm in a fairly automatic manner . 
+Further , initializing the cluster memberships greatly affects the simulation time required during burn-in period . 
+For this reason , we suggest the following procedure : • log transform the data • get the least-squared estimates of the treatment and signature effects parameters and their standard errors 
+Optionally , information obtained in the above steps can also be used to set the hyper-prior parameters as well . 
+5.2 Posterior sampling 
+Sampling from the posterior in the parametric case was performed using a block Gibbs sampler . 
+All the conditional distributions except for the λ-values and the p 's have conjugate forms . 
+Using latent variables leads to sampling from the conditional distribution of the zero-inflation parameters , also from its conjugate distribution . 
+A Metropolis-Hastings step with log-Normal proposal was used for drawing λ 's . 
+In the semiparametric case , successive sample observations are drawn using Escobar and West 's ( 1995,1998 ) Polya urn scheme . 
+A total of 150,000 samples were drawn from the joint posterior . 
+Of them , 30,000 were discarded as burn-in and the remaining samples were thinned down by a factor of 30 to give us reasonably less-dependent posterior samples . 
+The DP precision parameter , τ was estimated empirically using where Nb is the number of clusters in the bth simulation and N is the maximum number of clusters possible ( McAuliffe et al. 2006 ) . 
+In Figure 1 , the MCMC chain of the number of clusters and its histogram are shown . 
+We can see that chain converged and is mixing well . 
+A discussion on the prior elicitation on the precision parameter can be found in West ( 1992 ) . 
+Certain choices in model specification allow us to efficiently simulate the draws from the joint posterior distribution of the parameters , such as modeling log ( λ ) with a normal distribution . 
+The full conditionals required in the MCMC simulation are given in the Appendix for both the parametric and the semiparametric models . 
+g 
+rin 
+ste 
+lu 
+C 
+5.3 
+At each iteration of the MCMC , we obtain cluster membership information , i.e. , which signatures belong to the same cluster . 
+We can form a pairwise association or probability matrix δ based on this information , as follows : The ( i , i ' ) th cell is 1 if { βi1 , βi2 , βi3 } and { βi ' 1 , βi ' 2 , βi ' 3 } belong to the same cluster and is 0 otherwise . 
+Clearly , δ ( i , i ) = 1 for each i . 
+After M iterations in the MCMC , we can estimate the pairwise probability matrix as matrix to form the cluster structure by using ( 1 − δ ) as a distance measure . 
+We followed this approach to form an agglomerative hierarchical cluster with complete linkage . 
+Among the other alternatives to determine the cluster configuration , Dahl ( 2007 ) used a least-squares approach to find the best cluster within the MCMC framework . 
+This has the advantage that the number of clusters is not needed a priori . 
+Then , it is less reliable , because it is based on a single realization in MCMC . 
+The advantage of using agglomerative hierarchical clustering , as opposed to choosing a cluster realization , is that the clusters are nested . 
+As a result , the cluster membership does not change significantly even when the number of clusters changes . 
+In the Bayesian framework , we can estimate the number of clusters either empirically or otherwise , as discussed before . 
+In our case , the distribution of the number of clusters is unimodal and approximately symmetric with mode around 69 , as shown in Fig. 1 ( b ) . 
+We used this information to cut the tree to form the clusters in an objective manner , utilizing the cluster size information available within the MCMC . 
+. 
+Medokovic et al ( 2002 ) used the estimated pairwise probability 
+In Figure 2 , the profile plots of the treatment effects in seven representative clusters are shown . 
+The plots in a column correspond to a specific treatment and plots in a row correspond to a particular cluster . 
+For example , the profile plot in the 2nd row and 1st column corresponds to the kernel density estimates of the treatment effects parameters in th 
+. 
+Medokovic et al ( 2002 ) used the estimated pairwise probability 
+e 
+6 Results
+LB strain for all the signatures in the 19th cluster ( ) . 
+The cardinality of the cluster is also shown in the plot ( 34 in this case ) . 
+We can tell from the profile plots that the distributions of the treatment effects ' parameters are very similar when they are in the same cluster . 
+This enables us to identify genes that are likely to be co-expressed , which may eventually lead to the discovery of pathways . 
+As the cardinality increases , the profiles tend to be dissimilar due to the nature of the agglomerative clustering . 
+This allows the biologists to look at different cluster configurations by cutting the dendrogram at different levels . 
+In the present case , we chose to cut the tree by using the mean of Nb , though other subjective choices may possibly be justified too . 
+lection 
+e 
+s 
+l 
+e 
+d 
+o 
+M 
+.4 
+5 
+We used the Deviance Information Criteria ( DIC ) of Spiegelhalter et al. ( 2002 ) for model comparison . 
+We have four models to begin with : the parametric and the semiparametric models with either regular Poisson or zero-inflated Poisson ( ZIP ) likelihood . 
+We ran all four models on a small number of signatures and found that the parametric and semiparametric with ZIP likelihood were competitive and the models with ZIP likelihood have smaller deviance compared to the models based on the Poisson likelihood . 
+In our analysis on the full dataset , the DIC for the parametric model was 29221 and it was 29091 for the semiparametric model and thus the semiparametric model was selected . 
+The semiparametric model also leads to improved estimates , for example treatment effects and signatures effects have a smaller MSE compared to their counter-parts in the parametric model . 
+In Figure 3 ( a ) , we plot the 95 % credible intervals for some signatures ηi 's , the signature effects parameters . 
+As can be seen , the semiparametric model produced tighter intervals . 
+We also fit the simple Poisson regression for each signature independently and plotted the corresponding credible intervals for those signatures in Fig. 3 ( b ) . 
+It is clear that these intervals are much wider compared to the intervals corresponding to both parametric and semiparametric models . 
+Furthermore , the remaining three models can be considered as special cases of the semiparametric model with the ZIP likelihood . 
+It becomes evident if we note that the Poisson is a special case of ZIP with p = 0 and the parametric model can be obtained setting by τ = ∞ in the semiparametric model . 
+ulation details 
+5.5 Sim 
+We have developed the software in MATLAB . 
+We exploited the matrix representation and vector processing capabilities of MATLAB for accelerating the simulation time , particularly in implementing the block-Gibbs sampler . 
+We ran the algorithms on our shared-memory heterogeneous 64-bit Linux cluster with more than six nodes and at least one dedicated node . 
+Typical configuration of the nodes in our cluster has 16GB RAM and eight dual core processors clocking 2.46 GHz . 
+It took nearly two-three three days to complete the simulation for 189,000 draws and for 23,000 signatures . 
+From a computational point of view , reducing the number of genes cuts down the simulation time dramatically . 
+For example , a simulation involving 5000 genes selected using an initial filtering method takes about 4 hours for the same number of MCMC samples . 
+The software is available for download from the supplementary files provided online . 
+Here we present a summary and interpretation of the results we obtained by fitting the semiparametric ZIP model to our MPSS dataset . 
+After obtaining the samples from the posterior densities of the β-values for the ith signature , inference regarding differential expression can be drawn in a number of different ways . 
+For example , we could use the ` area of overlap ' method of Vencio et al. ( 2005 ) or the threshold-based approach of Newton et al. ( 2004 ) and Lewin et al. ( 2006 ) . 
+Other choices are Ishwaran and Rao 's ( 2005 ) asymptotic approach , the marginal posterior-based method of Gottardo et al. ( 2006 ) and the posterior tail probability-based approach of Bochkina and Richardson ( 2006 ) . 
+All these approaches require that the asymptotic distribution of the test statistic be known or one has to choose the rejection region of the hypothesis test in an adhoc fashion . 
+To avoid these difficulties , we use two nonparametric methods , one based on symmetrized Kullback-Leibler ( KL ) divergences and the other on the nonparametric Kruskal-Wallis test . 
+For computing the KL divergences for each signature , we simulated 5000 sample-observations from the posterior of each βij ( j = 1 , 2 , 3 ) . 
+Then we computed three pairwise KL divergences ( LB vs. MT , LB vs. WT and MT vs. WT ) . 
+We declared the signature differentially expressed if at least one of these three is ` significantly large ' . 
+In order to identify the cut-off values beyond which we will call a KL distance ` significantly large ' , we resorted to the bootstrapped distribution of KL divergences . 
+For each pairwise comparison ( say , between LB and MT ) , recall that we have 5000 observations from each of the two corresponding posteriors . 
+From these 5000 observation-pairs , we selected a bootstrap sample size of 1000 and computed the KL divergence between the two posteriors based on them . 
+We repeated this process 500 times , thereby ending up with 500 bootstrapped KL divergences between those two posteriors , and computed the p-value based these bootstrapped KL-divergences . 
+We have plotted the histograms of the p-values of tests for differential expression among all treatment pairs in Fig. 4 . 
+An examination of the histogram indicates that the distribution of the p-values in MUT vs. WT are different from the rest of the pairwise comparisons . 
+We also note that the distributions of the posterior distributions ( see Fig. 5 ) of the treatment effects are non-normal . 
+Thus we used a nonparametric n-way ANOVA , the Kruskal-Wallis test for equality of the medians ( KW ) . 
+However , as discussed in earlier sections , there can be many false discoveries due to the I >> K problem . 
+Controlling false discoveries within the Bayesian framework is possible by eliciting a mixture distribution under the null and the alternate hypotheses for the effects parameters ( see Gottardo et al. 2006 ) . 
+However , such a set-up depends on the number of treatments and specific hypothesis tests that are being considered . 
+To control the false discovery rate , we used the pFDR approach developed by Storey et al ( 2003a ,2003 b ) , which has a Bayesian interpretation . 
+We used the qvalue R-package developed by Alan Dabney and John Storey that is availble for download from the URL http://genomics.princeton.edu/storeylab/qvalue/ . 
+The significance decisions were based on these q-values at the α = 0.05 level . 
+Among the numerous signatures that were detected to be differentially expressed by our inference methodology , we summarize the results for a few that spread across five important Gene Ontology categories described in the next section . 
+Figure 5 provides the posterior densities of the treatment effects , i.e. , the βij values , based on samples from those posteriors for signatures associated with genes that code for the proteins L-selectin , Ferritin , cAMP , Beta-actin , Laminin receptor , Rho-GTP , Cytokeratin-18 and MMPs . 
+These signatures were found to be differentially expressed among the three tissue-samples by our Bayesian semiparametric method . 
+Finally , in Table 1 , we show the q-values for pairwise differential expression across all pairs , along with the clustering information . 
+We now scrutinize the lists of differentially expressed signatures obtained through our Bayesian semiparametric analysis and discuss the biological significance of some of the corresponding genes . 
+There are many important gene ontology ( GO ) groups based on the biological functions of the genes associated with the differentially expressed signatures detected by our semiparametric model , For example , we found representatives of the functional categories `` actin cytoskeleton and extracellular matrix '' , `` adhesion molecules '' , `` ferritin-heavy polypeptide 1 '' , `` signal transduction '' and `` matrix metalloproteins and tissue inhibitors of metalloproteins '' . 
+The detection of signatures corresponding to genes in these categories is consistent with the existing literature on the interactions between Salmonella typhimurium and the host-tissue proteins . 
+What follows is a brief discussion on each of these functional categories . 
+gical Significance of Discoveries 
+lo 
+io 
+7 B 
+C 
+ctin 
+A 
+yto 
+skeleton and Extracellular Matrix 
+The Type III secretion system ( T3SS ) encoded at Salmonella Pathogenicity Island I secretes effector proteins into the host intestinal/epithelial cell which bind to the actin cytoskeleton and induce the formation of ru es in the cell membrane and Salmonella internalization ( Guiney and Lesnick , 2005 ; Patel and Galan , 2005 ) . 
+The statistical methodology described here identified MPSS signatures representing beta-actin , cytokeratin 18 , Rho-GTP and laminin receptor 1 as differentially expressed between the LB and WT infected tissues ; see Figures ?? 
+- ?? . 
+olecules 
+M 
+n 
+io 
+es 
+h 
+d 
+A 
+L-selectin ( lymphocyte adhesion molecule-1 , CD62E , ELAM-1 ) is a transmembrane glycoprotein member of the selectin family of adhesion molecules expressed on the surface of activated leukocytes ( Worthylake and Burridge , 2001 ) . 
+Expression of L-selectin is essential for the initial contact between leukocytes and endothelial cells required for extravasation of inflammatory cells into sites of inflammation ( Barkhausen et al. 2005 ) . 
+Di erential regulation of L-selectin in the MT infected tissue compared to LB suggests that L-selectin activation contributes to the mild tissue inflamation , see Figure ?? . 
+Ferritin , Heavy Polypeptide 1 
+Our methodology identified MPSS signatures for heavy polypeptide 1 ferritin to be significantly differentially regulated in WT and MUT tissues compared to LB loops of ileum having Peyer 's patch , see Figure ( ?? . 
+This is a biologically significant observation , because ferritins are ubiquitous iron storage proteins in plants , microorganisms and animals that play fundamental roles in soluble and cellular Fe homeostasis ( Boughammoura et al. 2007 ) . 
+Ferritins also have a profound influence on inflammation and host resistance to pathogens ( Ghio et al. 1997 ) . 
+lloproteins 
+eta 
+M 
+atrix 
+M 
+Matrix metalloproteinase ( MMPs ) are a group of enzymes that are capable of cleaving all components of the extracellular matrix that are involved in tissue invasion , extracellular matrix remodeling , angiogenesis and inflammation ( Malemud 2006 ) . 
+In the present case , our methodology discovered down-regulation of MMPs in the MT infected tissue compared to the WT infected and LB tissues ; see Figure ?? . 
+Signal Transduction 
+The cAMP-regulated phosphoproteins ( ARPP-16 , ARPP-19 , ARPP21 and DARPP32 ) modulate signal transduction , linking infection to host immunity , see Horiuchi et al. ( 1990 ) and Rakhilin et al. ( 2004 ) . 
+The increased expression of signal transduction molecules observed in S. typhimurium-infected tissues compared to LB , as discovered by our methodology , suggests that these molecules play a role in mediating some of the actions of vasoactive intestinal peptide ( VIP ) and cAMP-dependent protein kinases such as PKA in the intestine ; see Figure ?? . 
+Among the clusters detected by our semiparametric model , there are a few with special biological significance . 
+In Table 1 , we show selected signatures that were differentially expressed . 
+Annotation information was obtained by using the Expressed Sequence Tags 
+( ESTs ) EST / GenBank IDs at the NCBI repository . 
+The q-values for the overall differential expression based on KW test and pairwise differential expression test across all pairs ( LB Vs. MUT , LB vs WT and MUT Vs WT ) using both KW and KLD are reported . 
+The cluster number they belong to is also tabulated . 
+Most of the genes associated with the differentially expressed signatures in cluster # 19 have functions related to the immune-defense of the host tissue . 
+Similarly , in cluster # 21 , most of the signatures have similar expression profiles ( see Figure 2 , row 3 ) . 
+Among the co-regulated signatures in this cluster are zinc-finger protein ( not shown ) , ferritin and ATP-synthase related signatures . 
+It is interesting that a colony stimulating protein and scavenger receptor are co-expressed . 
+As is often the case , clustering in our analysis is also exploratory in nature . 
+We have verified , though not comprehensively , the clustering information against the reference clusters available at NCBI GEO repository . 
+We looked at the signatures that belong to a specific cluster produced by our method and searched for a cluster to which this particular signature belongs by looking at the UniGene IDs . 
+Even though the cluster memberships are not identical , we observed similarities in terms of their biological functions and GO categories . 
+Other clusters that we detected will be the subjects of future biological investigations and may add to existing knowledge about the host-pathogen interaction . 
+8 Concluding Remarks 
+Expression profiling techniques based on transcript counting offer a powerful alternative to conventional microarray technology and address some of its shortcomings . 
+In the existing literature , MPSS data , or some transformation thereof , have been modeled by continuous densities . 
+We have proposed two Bayesian hierarchical models for such count data and developed inference methodology for detecting the differential expression of a signature among the three tissue-samples . 
+We adopted a flexible semiparametric modeling approach that enables automatic clustering and strength-borrowing within the clusters , thereby eliminating the unrealistic independence assumption among the signatures that has been exploited in the existing literature . 
+These methods will be particularly useful when the sample size is small , because the hierarchical setup allows one to borrow strength among correlated signatures . 
+Our model can also handle any number of experimental conditions and any number of replicates . 
+Therefore , we believe that our method is useful in wide variety of situations . 
+Filtering the signatures with low counts is not necessary but it would positively impact the simulation time . 
+Therefore , we recommend filtering the low-frequency , noisy , uninteresting signatures . 
+In the future we shall investigate more efficient , optimal initial filtering which will accelerate the computing time . 
+Finally , our proposed methods can be used to analyze SAGE data , as has been discussed in section 3.2 . 
+Hence , the proposed methods will be useful to analyze count data generated by deep sequencing technology which is becoming mainstream in recent biological studies . 
+Towards this end , we have made the software available for download from the supplementary files available online . 
+Acknowledgments 
+The research of Bani K. Mallick and Raymond J. Carroll was supported by from the National Cancer Institute grants ( CA104620 and CA57030 , respectively ) , National Science Foundation grant DMS 0914951 and by Award Number KUS-CI-016-04 , made by King Abdullah University of Science and Technology ( KAUST ) . 
+The research of Sujay Datta was supported by a postdoctoral training grant from the National Cancer Institute ( CA90301 ) . 
+The research of L. Garry Adams was supported by the grants NIAID 1 RO1 A144170-01A1 , USDA 2002-35204-12247 and NSF DMS 0914951 . 
+Public Health Service Grant AI060933 supported the research of Sara D. Lawhon . 
+The authors are greatful to Dr. David Dahl for discussions , and to the editors and the two anonymous referees for their suggestions and constructive comments . 
+Appendix
+C 
+o 
+n 
+d 
+itio 
+n 
+al distributions for MCMC 
+In the parametric model , Gibbs sampling has standard con • zijk , the latent variables as Bernoulli trials : 
+ditionals given by : 
+• p from its conjugate posterior ( using the latent variables ) : 
+• λijk using a Metropolis-Hastings step with a random-walk 
+proposal density : 
+• 
+from its conjugate posterior and γijk = log λijk − ( ηi + βij ) . 
+, 
+where 
+• 
+βi ≡ { βi1 , βi2 , βi3 } and σβ from and where θij = ( τ1 + τ2 ) − 1 ( γijτ1 + 0τ − 1 2 ) , γij = K ∑ k ( log λijk − ηi ) , 
+and 
+• 
+and 
+where θi = ( τ1 + 
+ηi and ση from 
+2 ) ( γiτ1 + μτ2 ) , γi = ( JK ) − 1 ∑ k ( log λijk − βij ) , 
+τ − 1 
+, 
+, 
+and 
+• 
+and 
+where θ = ( τ1 + 
+μ and σμ from 
+2 ( γτ1 + 0τ2 ) , γ = I − 1 ∑ iηi , 
+τ ) − 1 
+and 
+, 
+, 
+In the semiparametric case , all of the above conditional distributions remain the same except for the βs . 
+The polya-urn scheme based method gives us the following conditionals ( Escobar and West 1998 ) : • sample βi ≡ { βi1 , βi2 , βi3 } as vector using the Polya-urn scheme : 
+References 
+Agarwal DK , Gelfand A , Citron-Pousty S. Zero-inflated models with applications to count data . 
+Environmental and Ecological Statistics 2002 ; 9:341 -- 355 . 
+Antoniak CE . 
+Mixtures of Dirichlet processes with applications to nonparametric problems . 
+Annals of Statistics 1974 ; 2:1152 -- 1174 . 
+Audic S , Claverie J . 
+The significance of digital gene expression profiles . 
+Genome Research 1997 ; 7:986 -- 995 . 
+[ PubMed : 9331369 ] Barkhausen T , Krettek C , van Griensven M. L-selectin : adhesion , signalling and its importance in pathologic post-traumatic endotoxemia and non-septic inflammation . 
+Experimental and Toxicologic Pathology 2005 ; 57 ( 1 ) :39 -- 52 . 
+[ PubMed : 16089318 ] Bochkina N , Richardson S. Tail posterior probability for inference in pairwise and multiclass gene expression data . 
+Biometrics 2006 ; 63 ( 4 ) :1117 -- 25 . 
+[ PubMed : 18078482 ] Boughammoura A , Franza T , Roux Dellagi A. C. R , Berthold M-M , Expert D. Ferritins , bacterial virulence and plant defense . 
+Biometals 2007 ; 20:347 -- 353 . 
+[ PubMed : 17216356 ] Brenner S , Johnson M , Bridgham J , Golda G , Lloyd DJ , Johnson D , Luo S , McCurdy S , Foy M , Ewan M , Roth R , George D , Eletr S , Albrecht G , Vermaas E , Williams SR , Moon K , Burcham T , Pallas M , DuBridge RB , Kirchner J , Fearon K , Mao J , Corcoran K. Gene expression analysis by massively parallel signature sequencing ( MPSS ) on microbead arrays . 
+Nature Biotechnology 2000 ; 18:630 -- 634 . 
+Breslow N , Clayton D. Approximate inference in generalized linear mixed models . 
+Journal of the American Statistical Association 1993 ; 88:9 -- 25 . 
+Carota C , Parmigiani G. Semiparametric regression for count-data . 
+Biometrika 2002 ; 89:251 -- 263 . 
+Crawford GE , Holt IE , Whittle J , Webb DB , Denise T , Davis S , Margulies EH , Chen Y , Bernat JA , Ginsburg D , Zhou D , Luo S , Jasicek T , Daly MJ , Wolfsberg TG , Collins FS . 
+Genome-wide mapping of DNase hypersensitive sites using massively parallel signature sequencing ( MPSS ) . 
+Genome Research 2006 ; 16:123 -- 131 . 
+[ PubMed : 16344561 ] Dahl DB , Newton MA . 
+Multiple Hypothesis Testing by Clustering Treatment Effects . 
+Journal of the American Statistical Association 2007 ; 102:517 -- 526 . 
+Dahl , DB . 
+Sequentially-Allocated Merge-Split Sampler for Conjugate and Nonconjugate Dirichlet Process Mixture Models . 
+University of Wisconsin-Madison ; 2005 . 
+Technical Report , # 1086 
+Escobar , MD. ; West , M. Computing nonparametric hierarchical models . 
+In : Muller , P. ; Dey , D. ; Sinha , D. , editors . 
+Practical Nonparametric and Semiparametric Bayesian Statistics . 
+Vol . 
+133 . 
+Springer-Verlag ; New York : 1998 . 
+Lecture Notes in Statistics -- - Bayesian density estimation and inference using mixtures . 
+Journal of the American Statistical Association 1995 ; 90:577 -- 588 . 
+Ferguson TS . 
+A Bayesian analysis of some nonparametric problems . 
+Annals of Statistics 1973 ; 1:209 -- 230 . 
+Gelfand A , Sahu SK , Carlin BP . 
+Efficient parametrisations for Normal Linear Mixed Models . 
+Biometrika 1995 ; 82 ( 3 ) :479 -- 488 . 
+Ghio AJ , Piantadosi CA , Crumbliss AL. . 
+Hypothesis : iron chelation plays a vital role in neutrophilic inflammation . 
+Biometals 1997 ; 10 ( 2 ) :135 -- 142 . 
+[ PubMed : 9210296 ] Ghosh SK , Mukhopadhyay P , Lu J-C . 
+Bayesian analysis of zero-inflated regression models . 
+Journal of Statistical Planning and Inference 2006 ; 136:1360 -- 1375 . 
+Gottardo R , Raftery AE , Yeung KY , Bumgarner RE . 
+Bayesian robust inference for differential gene expression in microarrays with multiple samples . 
+Biometrics 2006 ; 62:10 -- 18 . 
+[ PubMed : 16542223 ] Guiney DG , Lesnick M. Targeting of the actin cytoskeleton during infection by Salmonella strains . 
+Clinical Immunology 2005 ; 114:248 -- 255 . 
+[ PubMed : 15721835 ] Ishwaran H , Rao JS . 
+Spike and slab gene selection for multigroup microarray data . 
+Journal of the American Statistical Association 2005 ; 100:764 -- 780 . 
+Horiuchi A , Williams KR , Kurihara T , Nairn AC , Greengard P. Purification and cDNA cloning of ARPP-16 , a cAMP-regulated phosphoprotein enriched in basal ganglia and of a related phosphoprotein , ARPP-19 . 
+Journal of Biological Chemistry 1990 ; 265 ( 16 ) :9476 -- 9484 . 
+[ PubMed : 2160982 ] Jain S , Neal RM . 
+A Split-Merge Markov Chain Monte Carlo Procedure for the Dirichlet Process Mixture Model . 
+Journal of Computational and Graphical Statistics 2004 ; 13:158 -- 182 . 
+Khare , S. ; Lawhon , SD. ; Adams , LG . 
+MPSS analysis of in vivo host sense/antisense gene expression expands the molecular basis for Salmonella typhimurium induced enteritis . 
+Department of Veterinary Pathobiology , College of Veterinary Medicine and Biomedical Sciences , Texas A & M University ; College Station : 2006 . 
+( personal communication ) Kuo L. Computations of mixtures of Dirichlet Processes . 
+SIAM Journal on Scientific and Statistical Computing 1986 ; 7:60 -- 71 . 
+Lewin A , Richardson S , Marshall C , Glazier A , Aitman T. Bayesian Modelling of Differential Gene Expression . 
+Biometrics 2006 ; 62:10 -- 18 . 
+[ PubMed : 16542223 ] Man , M. Statistical Analysis and Modeling of SAGE Transcriptome . 
+In : Wang , Sang Ming , editor . 
+SAGE : Current Technologies and Applications . 
+Horizon Bioscience ; Norfolk , England : 2005 . 
+p. 181-188 . 
+MacEachern SN , Muller P. Estimating mixture of Dirichlet processes . 
+Journal of Computational and Graphical Statistics 1998 ; 7:223 -- 238 . 
+Malemud CJ . 
+Matrix metalloproteinases ( MMPs ) in health and disease : an overview . 
+Frontiers in Bioscience 2006 ; 11:1696 -- 1701 . 
+[ PubMed : 16368548 ] McAuliffe J , Blei D , Jordan M. Nonparametric empirical Bayes for the Dirichlet process mixture model . 
+Statistics and Computing 2006 ; 16:5 -- 14 . 
+Morris , JS. ; Baggerly , KA. ; Coombes , KR . 
+Shrinkage Estimation for SAGE Data using a Mixture Dirichlet Prior . 
+In : Do , KA. ; Mueller , P. ; Vannucci , M. , editors . 
+Bayesian Inference for Gene Expression and Proteomics . 
+Cambridge University Press ; New York : 2006 . 
+p. 254-267 . 
+Medvedovic M , Sivaganesan . 
+Bayesian infinite mixture model based clustering of gene expression profiles . 
+Statistics and Computing 2002 ; 18:1194 -- 1206 . 
+Mukhopadhyay S , Gelfand AE . 
+Dirichlet Process Mixed Generalized Linear Models . 
+Journal of the American Statistical Association 1997 ; 92:633 -- 639 . 
+Neal RM . 
+Markov chain sampling methods for Dirichlet process mixture models . 
+Journal of Computational and Graphical Statistics 2000 ; 9:249 -- 265 . 
+Newton MA , Noueiry A , Sarkar D , Ahlquist P. Detecting differential gene expression with a semiparametric hierarchical mixture method . 
+Biostatistics 2004 ; 5:155 -- 176 . 
+[ PubMed : 15054023 ] Patel JC , Galan JE . 
+Manipulation of the host actin cytoskeleton by Salmonella -- all in the name of entry . 
+Current Opinion in Microbiology 2005 ; 8:10 -- 15 . 
+[ PubMed : 15694851 ] Rakhilin SV , Olson PA , Starkova NN , Fienberg AA , Nairn AC , Surmeier DJ , Greengard P . 
+A network of control mediated by regulator of calcium/calmodulin-dependent signaling . 
+Science 2004 ; 306:698 -- 701 . 
+[ PubMed : 15499021 ] Reinartz J , Bruyns E , Lin JZ , Burcham T , Brenner S , Bowen B , Kramer M , Woychik R. Massively parallel signature sequencing ( MPSS ) as a tool for indepth quantitative gene expression profiling in all organisms . 
+Briefings in Functional Genomics and Proteomics 2002 ; 1:95 -- 104 . 
+[ PubMed : 15251069 ] Richmond CS , Glasner JD , Mau R , Jin H , Blattner FR . 
+Genome-wide expression profiling in Escherichia coli K-12 . 
+Nucleic Acids Research 1999 ; 27:3821 -- 3835 . 
+[ PubMed : 10481021 ] Spiegelhalter DJ , Best NG , Carlin BP , van der Linde A. Bayesian measures of model complexity and fit . 
+Journal of the Royal Statistical Society : Series B 2002 ; 64:583 -- 639 . 
+( with discussion ) . 
+Stolovitzky , GA. ; Kundaje , A. ; Held , GA. ; Duggar , KH. ; Haudenschild , CD. ; Zhou , D. ; Vasicek , TJ. ; Smith , KD. ; Aderem , A. ; Roach , JC . 
+Statistical analysis of MPSS measurements : Application to the study of LPS-activated macrophage gene expression . 
+Proceedings of the National Academy of Sciences ; 2005 . 
+p. 1402-1407 . 
+Storey JD , Tibshirani R. Statistical methods for identifying differentially expressed genes in DNA microarrays . 
+Methods in Molecular Biology 2003a ; 224:149 -- 158 . 
+[ PubMed : 12710672 ] -- - . 
+Statistical significance for genomewide studies . 
+Proceedings of the National Academy of Sciences ; 2003b . 
+p. 9440-9445 . 
+Sun , D. ; Speckman , PL. ; Tsutakawa , RK . 
+Random effects in generalized linear mixed models ( GLMMs ) . 
+In : Dey , Dipak K. ; Mallick , Bani K. ; Ghosh , Sujit , editors . 
+Generalized Linear Models : A Bayesian Perspective . 
+Marcel dekker Inc. ; 2000 . 
+p. 23-40 . 
+Thygesen HH , Zwinderman AH . 
+Modeling Sage data with a truncated gamma-Poisson model . 
+BMC Bioinformatics 2006 ; 7 ( 157 ) :400 -- 401 . 
+[ PubMed : 16952317 ] Velculescu VE , Zhang L , Vogelstein B , Kinzler KW . 
+Serial analysis of gene expression . 
+Science 1995 ; 270:484 -- 487 . 
+[ PubMed : 7570003 ] Vencio RZN , Brentani H , Patro D. F. Pereira C. A. Bayesian model accounting for within-class biological variability in Serial Analysis of Gene Expression ( SAGE ) . 
+BMC Bioinformatics 2004 ; 5 ( 119 ) Wittes J , Friedman HP . 
+Searching for evidence of altered gene expression : a comment on statistical analysis of microarray data . 
+Journal of the National Cancer Institute 1999 ; 91:400 -- 401 . 
+[ PubMed : 10070933 ] West , M. ISDS Discussion paper , 92-A03 . 
+Duke University ; Durham , NC : 1992 . 
+Hyperparameter estimation in Dirichlet process mixture models . 
+Worthylake RA , Burridge K. Leukocyte transendothelial migration : orchestrating the underlying molecular machinery . 
+Current Opinion in Cell Biololgy 2001 ; 13:569 -- 77 . 
+Zeger S , Karim L. Generalized linear models with random effects : a Gibbs sampling approach . 
+Journal of the American Statistical Association 1991 ; 86:79 -- 86 . 
+Smoothed histograms of treatments effects ( βij 's ) for selected signatures : LB ( solid ) , MUT ( dots ) and WT ( dashes ) .

@@ -1,0 +1,930 @@
+Molecular Microbiology ( 2007 ) 66 ( 5 ) , 1174 -- 1191 
+doi :10.1111 / j.1365-2958.2007.05991.x First published online 30 October 2007 
+s ll non-coding RNA of t e invasion gene island SPI-1) represses o protein ynthesi m e Salmo o h mbran
+A ma 
+( 
+e 
+s 
+s 
+uter me core g 
+th 
+fro 
+en me 
+nella 
+Verena Pfeiffer ,1 Alexandra Sittka ,1 Raju Tomer ,1 Karsten Tedin ,2 Volker Brinkmann1 and Jörg Vogel1 * 1Max Planck Institute for Infection Biology , Charitéplatz 1 , D-10117 Berlin , Germany . 
+2Institut für Mikrobiologie und Tierseuchen , Freie Universität Berlin , Philippstrasse 13 , D-10115 Berlin , Germany . 
+Salmonella enterica serovars , which cause a range of human diseases from gastro-enteritis to typhoid fever , the virulence factors that facilitate invasion of the host 's intes-tinal epithelium are encoded by a ~ 40 kb region referred to as Salmonella pathogenicity island 1 ( SPI-1 ) . 
+Originally described as the inv/spa genes ( Galan and Curtiss , 1989 ) , SPI-1 is an horizontally acquired cluster of ~ 35 protein-coding genes inserted between the fhlA and mutS loci , and not found in closely related enterobacterial genomes . 
+Salmonella pathogenicity island 1 is the best characterized of the ﬁve major pathogenicity islands ( PAI ) presently known in S. enterica serovar Typhimurium ( S. typhimu-rium ) ( Hensel , 2004 ) . 
+It encodes a type III secretion system ( T3SS ) that mediates the translocation of effector proteins from Salmonella into mammalian cells ( Kimbrough and Miller , 2002 ; Galan and Wolf-Watz , 2006 ) . 
+Genetic and biochemical analyses have assigned functions to most of the SPI-1-encoded proteins , either as components and secreted effectors of the T3SS apparatus , or as transcription factors that orchestrate SPI-1 expression ( Lostroh and Lee , 2001 ; Galan and Wolf-Watz , 2006 ) . 
+While traditional genome annotation and analyses have focused on protein-coding regions , genes for small noncoding RNAs ( sRNAs ) have long been overlooked . 
+Such sRNAs are typically transcribed from intergenic , i.e. nonprotein coding , regions of bacterial chromosomes ( Vogel and Sharma , 2005 ) . 
+Recent genome-wide screens using diverse methodologies have identiﬁed ~ 80 sRNA genes in non-pathogenic Escherichia coli K12 , many of which are conserved in Salmonella and related pathogenic entero-bacterial species ( Hershberg et al. , 2003 ) . 
+More recently , sRNA genes were also identiﬁed in bacterial pathogens other than enterobacteria ( Pichon and Felden , 2005 ; Christiansen et al. , 2006 ; Livny et al. , 2006 ; Mandin et al. , 2007 ) . 
+Where characterized in detail , the majority of the sRNAs were found to act as antisense RNAs on trans-encoded target mRNAs to modulate their translation and/or stability ( Storz et al. , 2004 ) . 
+Pairing to target mRNAs is typically mediated by short , imperfect stretches of complementarity and requires the bacterial Sm-like protein Hfq ( Valentin-Hansen et al. , 2004 ) . 
+The sRNAs play diverse physiological roles in stress responses , regulation of metabolism , control of bacterial 
+Summary 
+The Salmonella pathogenicity island ( SPI-1 ) encodes ~ 35 proteins involved in assembly of a type III secretion system ( T3SS ) which endows Salmonella with the ability to invade eukaryotic cells . 
+We have discovered a novel SPI-1 gene , invR , which expresses an abundant small non-coding RNA ( sRNA ) . 
+The invR gene , which we identiﬁed in a global search for new Salmo-nella sRNA genes , is activated by the major SPI-1 transcription factor , HilD , under conditions that favour host cell invasion . 
+The RNA chaperone , Hfq , is essential for the in vivo stability of the ~ 80 nt InvR RNA . 
+Hfq binds InvR with high affinity in vitro , and InvR co-immunoprecipitates with FLAG epitope-tagged Hfq in Salmonella extracts . 
+Surprisingly , deletion/overexpression of invR revealed no phenotype in SPI-1 regulation . 
+In contrast , we ﬁnd that InvR represses the synthesis of the abundant OmpD porin encoded by the Salmonella core genome . 
+As invR is conserved in the early branching Salmonella bongori , we speculate that porin repression by InvR may have aided successful establishment of the SPI-1 T3SS after horizontal acquisition in the Salmonella lineage . 
+This study identiﬁes the ﬁrst regulatory RNA of an enterobacterial pathogenicity island , and new roles for Hfq and HilD in SPI-1 gene expression . 
+Introduction
+The genomes of many bacterial pathogens contain clusters of genes that encode key virulence determinants , so-called pathogenicity islands ( Dobrindt et al. , 2004 ) . 
+In 
+Accepted 3 October , 2007 . 
+* For correspondence . 
+E-mail vogel@mpiib-berlin.mpg.de; Tel. ( +49 ) 30 28460 265 ; Fax ( +49 ) 30 28460 244 . 
+envelope composition and bacterial virulence ( Lenz et al. , 2004 ; Majdalani et al. , 2005 ; Storz et al. , 2005 ; Romby et al. , 2006 ; Vogel and Papenfort , 2006 ) . 
+However , despite the importance of Salmonella as a health risk and a model pathogen , little is known about non-coding sRNA functions in the various Salmonella species , and no sRNAs have been reported from Salmonella-speciﬁc virulence regions . 
+In this work , we have discovered a novel SPI-1 gene that encodes a regulatory sRNA , referred to as InvR ( invasion gene-associated RNA ) . 
+The SPI-1 transcription factor , HilD , and the sRNA chaperone , Hfq , were both identiﬁed as being strictly required for InvR expression and stability respectively . 
+Unlike other SPI-1 genes , invR does not seem to be involved in effector secretion by the SPI-1 T3SS . 
+Instead , InvR is an Hfq-dependent sRNA that acts outside SPI-1 to regulate outer membrane protein ( OmpD ) synthesis post-transcriptionally . 
+Collectively , our data describe a new , unsuspected gene within SPI-1 , identify a role of Hfq in the expression of a horizontally acquired virulence region , and reveal an unexpected link between SPI-1 and the Salmonella core genome . 
+Results
+Identiﬁcation of a non-coding RNA gene in SPI-1
+The invR gene was identiﬁed using a biocomputational search for novel sRNAs in S. typhimurium . 
+Similar to recent sRNA searches in E. coli ( Argaman et al. , 2001 ; Chen et al. , 2002 ) , we performed a search for ` orphan ' pairs of s70-type promoters and r-independent transcription terminators in the intergenic regions ( IGRs ) of the Salmonella LT2 genome ( see Experimental procedures ) . 
+This search predicted 46 candidates of Salmonella sRNA genes which are not conserved in E. coli K12 ( Table 1 and Table S1 ) . 
+Many of these sRNA candidate genes appear to be conserved in the early branching Salmonella species , S. bongori . 
+Comparison of the genomic location of these candidate genes to the co-ordinates of well-established Salmonella virulence regions ( McClelland et al. , 2001 ) revealed an overlap of candidate STnc270 ( invR ) with the invasion gene island , SPI-1 ( Fig. 1A and B ) . 
+The invR gene resides in the 91 bp IGR between invH and STM2901 , and is encoded on the same strand as these latter two genes ( Fig. 1A ) . 
+invH encodes an outer membrane lipoprotein required for a functional outer membrane translocation complex of the SPI-1 T3SS ( Altmeyer et al. , 1993 ; Crago and Koronakis , 1998 ; Daeﬂer and Russel , 1998 ) , and it is the last gene at the right border of the island with a deﬁned SPI-1 function . 
+The function of STM2901 is unknown . 
+A s70-type promoter was predicted ~ 70 bp downstream of the invH stop codon ; this promoter is followed closely by a 7 bp inverted repeat and a stretch of T residues , characteristic of r-independent transcription terminators ( Fig. 1C ) . 
+These features are conserved in putative invR genes of other Salmonella species for which genome sequences are available , including the early branching S. bongori ( Fig. 1C ) . 
+Northern blot analysis of the invR locus detected an ~ 80 nt RNA in total RNA samples prepared from various stages of Salmonella growth in L-broth ( Fig. 2A , lanes 1 -- 6 ) . 
+The size of the InvR RNA was in perfect agreement with the promoter/terminator predictions . 
+Notably , invR expression is highly growth rate-dependent and peaks in early stationary phase ( OD600 of 2 ) , a pattern reminiscent of SPI-1 gene transcription under aerobic growth ( Lee and Falkow , 1990 ; Song et al. , 2004 ) . 
+To determine whether invR was co-regulated with SPI-1 genes , we probed total RNA isolated from Salmonella grown under low oxygen tension and/or high osmolarity ( 0.3 M NaCl ) , conditions known to activate SPI-1 gene expression in vitro ( Lee and Falkow , 1990 ; Song et al. , 2004 ) . 
+Consistent with a co-regulation with SPI-1 genes , InvR levels dramatically increased during oxygen limitation compared with growth with aeration , and were further elevated by high osmolarity ( Fig. 2B ) . 
+The bacterial alarmone , ppGpp ( guanosine tetraphosphate ) , was recently identiﬁed as being required for SPI-1 gene expression ( Pizarro-Cerdá and Tedin , 2004 ; Song et al. , 2004 ; Thompson et al. , 2006 ) . 
+Functional deletion of both ppGpp synthetase genes , relA and spoT , reduced the expression of SPI-1 transcription activators , and consequently invasion gene transcription . 
+To test if invR expression is also affected by ppGpp synthesis , we compared InvR levels in wild type and a DrelA/DspoT mutant strain at various growth points ranging from exponential to stationary phase . 
+Figure 2A ( lanes 7 -- 12 ) shows that invR is expressed in the ppGpp mutant at lower levels compared with wild-type Salmonella , although the pattern of InvR accumulation during the growth phase is unaffected . 
+invR is an independent gene 
+The predicted invR gene is located downstream of the invH gene and in the same orientation . 
+As invH does not seem to possess a r-independent transcription terminator ( Fig. 1C ) , to determine whether InvR was a primary transcript or a processed species of the upstream encoded invH mRNA , the invR region was deleted from the Salmo-nella chromosome , and re-introduced by integration into the distant istR-tisAB locus ( Vogel et al. , 2004 ) with a 478 bp DNA fragment containing invR and its upstream region ( C-terminal portion of invH ) . 
+The complemented strain yielded an InvR-speciﬁc Northern blot signal identical to the wild type ( Fig. 3A ) . 
+The same invR DNA fragment born on plasmid ( pinvR ) also fully restored InvR expression in the DinvR strain ( Fig . 
+S1 ) . 
+As the above results suggested that InvR is a primary transcript , we carried out a 5 ′ RACE experiment involving tobacco acid pyrophosphatase ( TAP ; cleaves 5 ′ - triphosphates ) treatment to map the transcription start site of the sRNA gene ( Bensing et al. , 1996 ; Vogel et al. , 
+2003 ) . 
+As shown in Fig. 3B , treatment of RNA with TAP prior to 5 ′ RNA linker ligation resulted in a strongly enhanced 5 ′ RACE signal for invR transcripts ( lane T + ) , indicating that InvR RNA carries a 5 ′ - triphosphate group characteristic of primary transcripts . 
+Cloning of this 5 ′ RACE fragment positioned the transcription start site at the G residue that is located 7 bp downstream of the invR 
+Table 1 . 
+sRNA candidates . 
+Namea sRNAb 
+Orientatione > < > < > < > > > > > > > < > > < > < > > < > < > > < < > > > > > < < > > < > < > < > < > > < > < < > < < < > > < < < < < > < > < < < > < < < < > < > < > < > > > < > < < < < < < > > < > < > < < < > < < > > < > < > > < > < > < > < < < > > > < > < > < < > < > > > > < < < > < > 
+Lgenec 
+Rgened 
+Bongori E-valuefd 
+46114 -- 46050g 51926 -- 52260g 
+STnc10 STnc20 STnc30 STnc40 STnc50 STnc60 STnc70 STnc80 STnc90 STnc100 STnc110 STnc120 STnc130 STnc140 STnc150 STnc160 STnc170 STnc180 STnc190 STnc200 STnc210 STnc220 STnc230 STnc240 STnc250 STnc260 STnc270 STnc280 STnc290 STnc300 STnc310 STnc320 STnc330 STnc340 STnc350 STnc360 STnc370 STnc380 STnc390 STnc400 STnc410 STnc420 STnc430 STnc440 STnc450 STnc460 
+STM0038 STM0042 lytB secA lpdA fhuB dsbG STM0897 STM0903 STM0904 STM0905 STM0929 serS STM1025 icdA STM1262 STM1528 acnA STM1841 edd yecA ompS pocR yeeF acrD STM2816 invH kduI tnpA_4 STM3123 ygjT yhaO greA tnpA_5 uspA yhjB STM3654 STM3691 yibD STM3844 glmU yiiG pgi STM4310 ytfL STM4503 
+nhaA rpsT 
+1.00E-08 No hits No hits 1.00E-18 No hits No hits 7.00E-28 No hits No hits 5.00E-05 No hits No hits 7.00E-43 4.00E-09 3.00E-19 No hits 5.00E-12 9.00E-59 2.00E-09 9.00E-06 6.00E-35 No hits No hits 9.00E-35 2.00E-23 No hits 1.00E-31 No hits No hits No hits 3.00E-09 2.00E-10 3.00E-15 3.00E-20 2.00E-13 1.00E-04 No hits No hits No hits No hits No hits No hits 0.009 1.00E-31 5.00E-23 3.00E-05 
+58792 -- 58923g 161464 -- 161537 182539 -- 182458 230277 -- 230063g 670157 -- 670305 967580 -- 967900g 974284 -- 974363g 975011 -- 975224g 976578 -- 976765 1004777 -- 1004432g 1045232 -- 1045098 1113681 -- 1113750g 1325914 -- 1325649g 1345782 -- 1345732 1606116 -- 1605784g 1807776 -- 1807565g 1937518 -- 1937652 1979598 -- 1979550 2032404 -- 2032580 2079068 -- 2078990 2115370 -- 2115452g 2147409 -- 2147333g 2596882 -- 2596789 2966073 -- 2966247g 3044923 -- 3045015g 3179540 -- 3179622 3194996 -- 3194914 3283965 -- 3283807g 3393327 -- 3393267 3404895 -- 3404949g 3468553 -- 3468497 3635884 -- 3635756g 3761440 -- 3761373 3780254 -- 3780402 3839688 -- 3839758 3885736 -- 3885629g 3902653 -- 3902594 4051145 -- 4051340g 4072507 -- 4072730 4251539 -- 4251480 4442059 -- 4441898g 4559193 -- 4559277g 4645134 -- 4645079 4758332 -- 4758187g 
+STM0050 mutT STM0155 stfA ahpC STM0898 STM0904 STM0905 STM0906 orfB dmsA STM1026 STM1239 STM1263 STM1530 cysB kdgR zwf STM1939 cspB pduF yeeY yffB luxS STM2901 yqeF STM3033 STM3124 ygjU tdcG dacB yhfL yhiP yhjC glyS lldP tdh STM3845 STM3863 STM4041 yjbE tnpA_6 msrA STM4504 
+a. sRNA candidate names . 
+b. Genomic location of sRNA candidate gene according to the Salmonella typhimurium LT2 genome . 
+c , d. Flanking genes of the intergenic region in which the sRNA candidate is located ; ` Lgene ' , 5 ′ located , upstream gene ; ` Rgene ' 3 ′ located , downstream gene . 
+e. Orientation of sRNA candidate ( middle ) and ﬂanking genes ( > and < denote location of a gene on the clockwise or the counterclockwise strand of the Salmonella chromosome ) . 
+f. BLASTE-value of the sRNA candidate gene for Salmonella bongori g. Multiple candidates for one sRNA gene are predicted due to several promoters predicted for the same sRNA ( see Table S1 in Supplementary material for details ) . 
+Given is the candidate with maximal length . 
+-10 box ( Fig. 1C ) . 
+The results therefore all support the conclusion that InvR is encoded by an independent gene . 
+InvR RNA is abundant and stable
+InvR hybridization yielded a strong signal on Northern blots as compared with other Salmonella RNAs , suggesting that the RNA is abundant . 
+Thus , we determined the in vivo copy number of the RNA at early stationary phase ( OD600 of 2 ) , i.e. when InvR expression peaks under standard laboratory growth conditions . 
+Cellular InvR levels were compared in Northern blots relative to known quantities of a slightly longer in vitro synthesized InvR transcript ( Fig. 3C ) . 
+Quantiﬁcation of the hybridization signals put the cellular copy number of InvR at this point of growth at > 100 molecules per cell . 
+We next tested the in vivo stability of the RNA in rifampicin-treatment experiments . 
+As shown in Fig. 3D , InvR levels showed little change within 30 min after a total block of transcription , i.e. the RNA decays with a half-life > 30 min . 
+Thus , InvR is both abundant and stable , with an intrinsic half-life exceeding that of many other sRNAs ( Vogel et al. , 2003 ) . 
+A 
+B 
+70 
+SPI-1 
+invH invR 
+S. typhimurium S. typhi 
+STM S 2 T 9 M 01 290 S 2 TM290 ST 3 M S 2 T 904 STM290 M2905 pp 6 hB 
+50 
+S. gallinarium S. enteritidis S. bongori 
+S. bongori 
+8.5 kB 
+S. typhimurium 30 87 97 7 .9 9 00 2 2 . 
+3 . 
+7 7 7 7 7 7 01 02 03 04 05 06 3 . 
+3 . 
+3 . 
+3 . 
+3 . 
+3 . 
+STM2908 mutS 
+C 
+invH -35 -10 95 ATAAGGCCATATCACCGTTGGCTGAACTCATCATGATATAATTAAGACCATATTTTGCATTGCCACTTAATATCAATATAATTATTATAGCTATG ATAAGGCCATATCACCGCTGACTGAACTCATCATGATATAATTAAGACCATACTTTGCATTGCCACTTAATATCAATATAATTATTATAGCTATG ATAAGGCCATATCACCGTTGGCTGAACTCATCATGATATAATTAAGACCATATTTTGCATTGCCACTTAATATCAATATAATTATTATAGCTATG ATAAGGCCATATCACCGTTGGCTGAACTCATCATGATATAATTAAGACCATATTTTGCATTGCCACTTAATATCAATATAATTATTATAGCTATG ATAACGC -- AGCGCCCCT-CCTGAACCAATCAGGATATAATTAAGACCAGATCTGGCATTGTCATCTAATAATAATATAATTACTATAACTGTG 
+S. typhimurium LT2 S. typhi CT18 S. gallinarium S. enteritidis PT4 S. bongori 
+GC content 
+* invR 190 
+S. typhimurium LT2 S. typhi CT18 S. gallinarium S. enteritidis PT4 S. bongori 
+GTCACTTTTACGGTTGGCCATTTGTCTCTTACGTTGCATTTATCAATCTGCTTTTTGATACAGCAGCACCTCGCTGCTGCTTTTTTTATTTGTGA GTCACTTTTACGGTTGGCCATTTGTCTCTTACGTTGCATTTATCAATCTGCTTTTTGATACAGCAGCACCTCGCTGCTGCTTTTTTTATTTGTGA GTCACTTTTACGGTTGGCCATTTGTCTCTTACGTTGCATTTATCAATCTGCTTTTTGATACAGCAGCACCTCGCTGCTGCTTTTTTTATTTGTGA GTCACTTTTACGGTTGGCCATTTGTCTCTTACGTTGCATTTATCAATCTGCTTTTTGATACAGCAGCACCTCGCTGCTGCTTTTTTTATTTGTGA GTCACTTTTACGATTGGCCACCTGTCTCTTACGTTGCATTTATCAATCTGCTTTTTGATACAGCAGCGCCTCGCTGCTGCTTTTTTTATTTGCAA 
+191 285 TAAAGAACGGCCTCCCAGACTTGGGAAA-TAGCCGAAACTTATACTGACAAACTATCGTCTCGTATATCGCGATAAACTGACATCCCCCTCCTGC TAAAGAACGGCCTCCCAAACTCGGGAAAATAGCCGAAACTTATACTGATAAACTATCGTCTCGTATATCGCGATAAACTGACATCCCCCTCTTGC TAAAGAACTGCCTCCCAAACTCGGGAAAATAGCCGAAACTTATACTGACAAACTATCGTCTCGTATATCGCGATAAACTGACATCCCCCTCTTGC TAAAGAACTGCCTCCCAAACTCGGGAAAATAGCCGAAACTTATACTGACAAACTATCGTCTCGTATATCGCGATAAACTGACATCCCCCTCTTGC TAAAGAGCTAT-TCTCCTGCAAAA-AAAATAACTGTAAATCATAATGTCAATCTGTTGGCTGGTATATCGCGGTAAACGTACATCCCCCCCTTTT 
+S. typhimurium LT2 S. typhi CT18 S. gallinarium S. enteritidis PT4 S. bongori 
+Fig. 1 . 
+Identiﬁcation of a new sRNA gene in SPI-1 . 
+A. Mosaic structure of the right SPI-1 border ( invH-mutS region ) in diverse Salmonella species . 
+Sequences were derived from the whole-genome sequence of S. typhimurium LT2 ( Accession No. : NC 003197 ) , S. typhi CT18 ( NC 003198 ) , S. gallinarium 287/91 ( NCTC 13346 ) , S. enteritidis PT4 ( NCTC 13349 ) and S. bongori ( 12419 ATCC 43975 ) . 
+Orthologous genes are indicated by the same colour . 
+The insertion/deletion events at this locus did not affect the invR gene . 
+B . 
+The invR gene shares the low GC content of the SPI-1 virulence region . 
+GC content plot of the genomic region from ygbD to pcm in S. typhimurium LT2 ( blue ) and in S. bongori ( red ) . 
+The SPI-1 region from ﬂhA to mutS is indicated by a horizontal bar . 
+The invR loci of S. typhimurium and S. bongori are indicated by blue and red dots respectively . 
+Genome co-ordinates ( 2.987 -- 3.067 Mb ) refer to the LT2 annotation . 
+C. Alignment ( computed with MultAlin ) of the invH and invR region in various Salmonella species [ same accession numbers as in ( A ) ] shows the strong conservation of the invR gene . 
+The 3 ′ residues of the invH coding region and the InvR RNA sequence are set in bold . 
+The putative -10 and -35 boxes of the invR promoter are indicated above the sequence . 
+The transcription start site of invR is denoted by an asterisk . 
+The stem structure of the r-independent terminator of invR is indicated by arrows . 
+Hfq is essential for InvR accumulation
+Many of the sRNAs that are conserved among diverse enterobacteria associate with the bacterial Sm-like protein , Hfq , and require the protein for both intracellular stability and regulatory function . 
+In contrast , the role of Hfq for sRNAs encoded by recently acquired virulence regions or bacterial plasmids is less understood ( Huntzinger et al. , 2005 ; Will and Frost , 2006 ; Boisset et al. , 2007 ) . 
+As Hfq was previously implicated in SPI-1 gene expression ( Sittka et al. , 2007 ) , we tested whether Hfq was also required for InvR expression . 
+Northern blot analysis of a Salmonella hfq mutant grown either under standard ( Fig. 4A ) or SPI-1-inducing conditions ( not shown ) revealed a complete loss of InvR accumulation in this genetic background . 
+We recently showed that Hfq-dependent sRNAs can accumulate to high levels when expressed from a constitutive PLlacO-1 promoter in an E. coli hfq mutant strain ( Urban and Vogel , 2007 ) . 
+However , this strategy failed to produce abundant InvR RNA in the Salmonella hfq mutant strain ( Fig. 4B ) , arguing that Hfq primarily affects InvR stability . 
+To conﬁrm this , we fused the invR promoter to a transcriptional reporter gene , and observed that invR promoter activity was not affected by the hfq mutation ( Fig. 5B ) . 
+To determine whether Hfq and InvR can directly interact , the RNA was synthesized in vitro , and Hfq binding was assayed in gel mobility shift experiments ( Fig. 4C ) . 
+InvR binds Hfq with high affinity and an apparent KD of ~ 10 nM . 
+Hfq typically binds to sRNAs in A/U-rich , often single-stranded regions ( Valentin-Hansen et al. , 2004 ) , and an extended A/U-rich region is found immediately upstream of the invR terminator stem-loop region ( Fig. 1C ) . 
+To test whether InvR is associated with Hfq in vivo , we sought to co-immunoprecipitate the RNA in bacterial extracts . 
+As preliminary experiments with polyclonal antisera raised against puriﬁed Salmonella Hfq protein failed to yield sufficient amounts of immunoprecipitated RNA ( data not shown ) , we resorted to a generic method that involves the expression of an epitope-tagged Hfq protein . 
+The chromosomal hfq gene was modiﬁed such that it expresses Hfq with a C-terminal 3xFLAG epitope tag ( Uzzau et al. , 2001 ) . 
+The resulting strain , hfq FLAG , was indistinguishable from the wild type in terms of growth and in vitro virulence assays , e.g. gentamicin protection assay , indicating that the 3xFLAG-tag does not impair Hfq function ( Fig . 
+S2 ) . 
+Northern blot analysis of RNA precipitated with Hfq : : FLAG protein revealed a strong enrichment of InvR as compared with the control reaction ( Fig. 4D ) . 
+Thus , the sRNA is very likely to be present in a complex with Hfq in vivo . 
+LB 
+LB 0.3 M NaCl 
+L 
+The invR gene belongs to the SPI-1 regulon and is activated by HilD
+Next , we asked whether invR transcription was under the control of SPI-1-encoded transcription factors . 
+The activation of SPI-1 genes is mediated in response to growth rate and environmental conditions by a transcription factor cascade ( Ellermeier and Slauch , 2007 ) . 
+On top of this cascade , the transcription factors HilC and HilD , along with RtsA ( encoded outside SPI-1 ) , cooperate to transmit environmental signals that lead to de-repression of hilA ( Bajaj et al. , 1996 ; Lucas and Lee , 2001 ; Schechter and Lee , 2001 ; Ellermeier et al. , 2005 ) . 
+HilA is the SPI-1 major transcriptional activator responsible for most of the SPI-1 T3SS and effector gene expression , both directly and indirectly through its activation of InvF ( Darwin and Miller , 1999 ; Eichelberg and Galan , 1999 ; Lostroh and Lee , 2001 ) . 
+To test whether invR was dependent on any of the four SPI1-encoded transcription factors , InvR RNA levels were quantiﬁed in strains with disruptions in the individual transcription factor genes . 
+Figure 5A shows that loss of HilD caused a dramatic ( 50-fold ) reduction in InvR levels . 
+Severely reduced activity of the invR promoter fusion in this background argues that HilD regulates invR at the transcriptional level ( Fig. 5B ) . 
+In contrast , a hilC mutation reduced InvR levels less than twofold compared with the wild-type strain , and had only a marginal effect on the invR promoter activity . 
+Disruptions in the hilA or invF genes had no effect on InvR levels ( Fig. 5A ) . 
+We next tested if ectopically expressed HilD would restore invR transcription in the hilD mutant . 
+The hilD mutant and wild-type strains were transformed with plasmid pBAD-HilD which carries the hilD gene under control of an arabinose-inducible PBAD promoter , and InvR levels were determined at early stationary phase in the presence or absence of the inducer ( Fig. 5C ) . 
+Quantiﬁcation of the Northern blot signals revealed that pBAD-HilD induction resulted in a 75-fold upregulation of invR expression in the hilD strain , thus fully complementing this mutant . 
+Induction of pBAD-HilD also elevated InvR levels in wild-type cells ( threefold ) , suggesting that the invR promoter can be further activated when HilD is highly expressed . 
+In contrast , arabinose did not induce invR in the presence of a pBAD control vector . 
+We also tested whether HilD could activate invR in the absence of any other SPI1 genes . 
+To this end , the entire SPI-1 region with the exception of invR ( strain DsitA-invH ) was deleted in the Salmonella chromosome . 
+pBAD-HilD fully activated invR expression in this mutant background ( Fig. 5D ) . 
+In contrast , a pBAD-HilA plasmid failed to restore invR expression , consistent with unchanged InvR levels in the hilA mutant ( Fig. 5D ) . 
+To further validate a direct HilD role in invR regulation , we examined binding of the puriﬁed transcription factor to a 5 ′ labelled invR promoter double-stranded DNA ( dsDNA ) fragment in electrophoretic mobility shift assays ( EMSAs ) in vitro . 
+Fragments containing the hilA promoter , known to be recognized by HilD ( Schechter and Lee , 2001 ) , served as positive control . 
+The promoter of the E. coli lacZ gene , which is not recognized by HilD , was included as negative control . 
+The fragments were incubated with increasing concentrations of puriﬁed HilD protein , and the resulting complexes were separated on native polyacrylamide gels . 
+Figure 6 shows that HilD formed a singular complex with the invR promoter fragment at a concentration ( < 5 nM ) similar to that required to shift the hilA promoter , whereas no complex formation was obtained with the lacZ control fragment . 
+Cumulatively , the data indicate that invR is a novel member of the SPI1 regulon , and that its promoter is activated directly by HilD . 
+M 1 2 3 4 5 6 
+7 8 9 10 11 12 
+692 
+242 190 147 110 
+O 
+- ¬ 
++ + + 
+2 
+InvR 
+67 
+InvR 
+5S rRNA 
+34 
+0.4 
+2 OD600 
+5S rRNA 
+Fig. 2 . 
+Expression of the invR gene in S. typhimurium strain SL1344 . 
+Northern blot detection of the ~ 80 nt InvR RNA with an invR-speciﬁc probe . 
+A. RNA was extracted from Salmonella wild type and a double deletion of the relA and spoT genes ( DrelA/DspoT ) grown aerobically in L-broth at increasing OD600 ( wild type lanes 1 -- 6 : 0.5 , 1 , 2 , 2.4 , 3 , 3.2 ; DrelA/DspoT lanes 7 -- 12 : 0.5 , 1 , 2 , 2.4 , 3.3 , 3.5 ) . 
+Co-migrating nucleotide size marker bands ( M ) are shown on the left . 
+B. InvR levels in cells grown aerobically ( + ) or under low oxygen ( -- ) , and high osmolarity ( 0.3 M NaCl ) as indicated above the lanes . 
+RNA was extracted at exponential and early stationary phase ( OD600 of 0.4 and 2 ) . 
+Probing for 5S rRNA was used as loading control . 
+LB 
+LB 0.3 M NaCl 
+L 
+A 
+C 
+wt 
+100 10 1 
+0,1 0 ng in vitro RNA in vitro cellular 
+InvR ΔinvR 
+invR 
+B 
+D 
+T - T + M 
+C 
+0 
+5 
+15 30 min InvR 
+5S rRNA 
+147 110 67 34 
+Fig. 3 . 
+invR is an independent gene and InvR RNA is abundant and stable . 
+A. InvR levels in the wild-type strain and the invR deletion strain ( DinvR ) , the latter strain complemented with an invR copy at the distant istR-tisAB locus ( invR + ) . 
+RNA was prepared from early stationary-phase cells ( OD600 of 2 ) . 
+B. 5 ′ RACE of InvR transcripts was performed with tobacco acid pyrophosphatase-treated ( TAP ; lane T + ) or mock-treated RNA ( lane T -- ) extracted in early stationary phase . 
+DNA served as a control template ( lane C ) . 
+RT-PCR products were separated on a 3 % agarose gel . 
+The arrowhead marks the position of the strongly enhanced RT-PCR product upon TAP treatment , which corresponds to the newly initiated InvR transcript . 
+Cloning of this band , followed by sequencing of seven independent clones , identiﬁed the G residue marked by an asterisk in Fig. 1C as the uniform 5 ′ end of InvR RNA . 
+DNA marker sizes ( lane M ) are given to the right . 
+C. Abundance of InvR RNA in vivo . 
+Increasing amounts ( 0.1 , 1 , 10 , 100 ng ) of in vitro synthesized InvR ( 88 nt ) were mixed with total RNA prepared from 2.2 ¥ 108 cells grown to an OD600 of 2 , and subjected to Northern analysis . 
+Probing with an invR-speciﬁc oligo detected in parallel the cellular and the in vitro synthesized RNA . 
+Approximately 100 InvR molecules per cell correspond to 36 fmol ( 1 ng ) of in vitro synthesized RNA . 
+D. Stability of InvR RNA as determined by rifampicin treatment . 
+RNA from early stationary phase was extracted prior to and 5 , 15 and 30 min after treatment , and subjected to Northern analysis . 
+Probing for 5S rRNA served as loading control . 
+InvR does not engage in SPI-1 regulation or secretion The conservation of invR as part of SPI-1 and its expression under conditions activating SPI-1-driven host cell invasion suggested an involvement of InvR in SPI-1-encoded functions . 
+One major SPI-1 function is the secretion of effector proteins . 
+Analysis of the proteins of culture supernatants from Salmonella provides a rough measure of SPI-1 gene induction and the intactness of the SPI-1 secretion apparatus . 
+Surprisingly , neither loss nor ectopically driven overexpression of InvR consistently changed the pattern of secreted effector proteins in early stationary phase ( Fig. 7A ) and under SPI-1-inducing conditions ( Fig. 7B ) . 
+Next , to measure a possible role of invR for SPI-1 secretion more sensitively , translocation assays using a fusion of the SPI-1 effector protein , SipA ( also known as SspA ) , to TEM-1 b-lactamase were performed ( Charpentier and Oswald , 2004 ; Raffatellu et al. , 2005 ) ; SipA trans-location had been established by others as a sensitive reporter of an intact SPI-1 secretion apparatus ( e.g. Bronstein et al. , 2000 ; Lilic et al. , 2006 ) . 
+The sipA fusion is under control of the sipA promoter , thus the assay will also be sensitive to any alterations in SPI-1 gene transcription . 
+We found no indication for a role for InvR in SipA-b-lactamase translocation into COS7 cells ( Fig . 
+S3 ) . 
+These results strongly suggest that InvR is not involved in SPI-1-dependent secretion , which is supported by preliminary results from an array of Salmonella virulence assays ( V. Pfeiffer , K. Tedin and J. Vogel , unpubl . 
+results ) . 
+InvR represses the abundant OmpD protein As InvR is Hfq-dependent , we predicted it to act on trans-encoded mRNA ( s ) . 
+To identify putative InvR targets , we compared the total protein patterns ( Fig. 8A ) of wild-type Salmonella , the isogenic DinvR strain , and DinvR strains complemented with two multicopy plasmids , pinvR and pPL-invR , which overexpress InvR to different degrees ( Fig. 8B ) . 
+InvR overexpression ( plasmid pPL-invR ) caused the depletion of an abundant 40 kDa protein ( Fig. 8A ) identiﬁed by mass spectrometry analysis of the excised band as the major outer membrane protein , OmpD ( also known as NmpC ) . 
+The concomitant increase in OmpC levels caused by plasmid pPL-invR is most likely due to OmpD depletion rather than InvR expression as it is also observed in a DompD strain ( Fig. 8A ) . 
+The InvR-dependent regulation was even more pronounced at the ompD mRNA level . 
+Northern blots showed that InvR affects ompD mRNA levels in a dose-dependent manner ; ompD mRNA levels were increased in the DinvR strain but gradually reduced to background levels upon intermediate or strong invR overexpression from plasmids pinvR and pPL-invR respectively ( Fig. 8B ) . 
+To address whether InvR regulates ompD transcription or targets the ompD mRNA post-transcriptionally , we mapped the ompD transcription start site ( Fig . 
+S4 ) and constructed a transcriptional ompD -- gfp fusion ( Fig . 
+S5 ) . 
+InvR overexpression had no effect on the ompD -- gfp fusion expression ( Fig . 
+S5 ) , indicating post-transcriptional regulation of ompD . 
+This was also supported by the kinetics of sRNA-dependent ompD mRNA depletion . 
+Induction of invR expression from plasmid pBAD-InvR accelerated ompD mRNA decay to a half-life of < 4 min ( Fig. 8C ) . 
+As the normal half-life of ompD mRNA under these conditions is 10 min ( Sittka et al. , 2007 ) , this strongly indicated that InvR directly targets ompD mRNA . 
+Fig. 4 . 
+InvR is an Hfq-dependent sRNA . 
+A. Northern blot showing that InvR fails to accumulate in an hfq deletion strain ( JVS-00255 ) in early stationary phase . 
+B. InvR expression at early stationary phase in the wild type , Dhfq , DinvR , DinvR/Dhfq ( -- / + indicate absence or presence of the hfq gene ) . 
+The strains carried either a control plasmid ( pJV300 ) or a plasmid with invR cloned under a constitutive PLlacO-1 promoter ( pPL-invR ) . 
+C. Electrophoretic mobility shift assay ( EMSA ) with in vitro synthesized , 32P-labelled InvR RNA ( InvR * , 1 nM ) in the presence of increasing concentrations of Hfq protein ( from left to right : 0 , 0.1 , 0.5 , 1 , 10 , 25 , 50 nM ) . 
+D. Co-immunoprecipitation of InvR with C-terminally FLAG-tagged Hfq protein in extracts of an hfqFLAG strain . 
+Extracts of the wild-type ( wt ) strain expressing untagged Hfq served as control . 
+Co-immunoprecipitated RNA ( lanes ` CoIP ' ) was probed on Northern blots for InvR or 5S rRNA . 
+Total RNA equivalent to 1/10 of extract used in the immunoprecipitations was run in parallel ( lanes ` total ' ) . 
+B 
+pJV300 wt + + 
+pP - invR L ΔinvR + ¬ 
+wt 
+hfq 
+InvR Δhfq 
+InvR 
+5S rRNA 
+5S rRNA 
+C 
+D 
+Hfq ( 0 - 50 nM ) 
+hfqFLAG 
+wt 
+total 
+InvR * - Hfq 
+InvR 
+CoIP 
+5S rRNA 
+total 
+InvR * 
+CoI 
+0 
+wt 
+hfq 
+hilC 
+hilD 
+Fig. 5 . 
+The invR gene belongs to the SPI-1 regulon . 
+A. Comparison of InvR levels in the wild-type strain and in strains with functional disruptions of the hilA , hilC , hilD or invF SPI-1 transcription factor genes , with all strains grown to an OD600 of 2 . 
+B. Activity of the invR promoter in different genetic backgrounds as determined with a transcriptional PinvR -- gfp reporter plasmid under SPI-1 inducing conditions in the wild type ( wt ) , and in hilD , hilC or Dhfq mutant strains . 
+Given are mean values ( arbitrary units ) of GFP ﬂuorescence of triplicate measurements . 
+C. Ectopic HilD expression restores InvR expression . 
+Shown is a Northern blot of the wild-type or the hilD strain , each harbouring a control ( pBAD ) or an inducible HilD expression plasmid ( pBAD-HilD ) . 
+HilD expression was induced at an OD600 of 1.0 with 0.1 % L-arabinose ( where indicated by + ) for 45 min prior to RNA extraction . 
+D. Induced HilD expression complements invR expression to a SPI-1 disruption strain ( spi-1 is deleted from sitA to invH ) . 
+Strains carrying the same plasmids were induced as in ( C ) . 
+A strain carrying a HilA expression plasmid ( pBAD-HilA ) was included as further control . 
+Direct negative regulation by Hfq-binding sRNAs is usually dependent on base-pairing with the 5 ′ UTR of target omp mRNAs near the ribosome binding site ( Guillier et al. , 2006 ; Vogel and Papenfort , 2006 ) . 
+An extended interaction between InvR and the ompD mRNA was predicted using the RNAhybrid program ( Rehms-meier et al. , 2004 ) ( Fig. 8D ) . 
+Gel mobility shift assays of either labelled InvR RNA with unlabelled 5 ′ region of ompD RNA or vice versa showed that the two RNAs form a stable complex in vitro ( Fig . 
+S6A ) . 
+Furthermore in vitro structure probing with both RNAs using T1 ribonuclease ( cleaves at the 3 ′ end of single stranded G residues ) and lead ( II ) ( cleaves RNA in single-stranded regions , loops and bulges ) supports the predicted interaction between InvR and ompD mRNA in vitro ( Fig . 
+S6B and C ) . 
+In summary , these results indicate that post-transcriptional repression of OmpD synthesis by InvR RNA involves spe-ciﬁc base-pairing to ompD mRNA . 
+Discussion
+Salmonella pathogenicity island 1 is one of the most intensely studied bacterial virulence regions . 
+The ~ 35 SPI-1 genes encode proteins involved in the assembly of a membrane-spanning supramolecular structure , the T3SS or needle complex , through which effector proteins are secreted into eukaryotic host cells to facilitate Salmo-nella invasion . 
+These genes within SPI-1 encode not only proteins making up the secretion apparatus , but also chaperones , secreted effector proteins and a number of transcription factors involved in the regulation and timing of expression . 
+Here we report a new type of SPI-1 gene , expressing a non-coding RNA not directly involved in SPI-1 regulation or T3SS function , but which affects gene expression of the core Salmonella genome . 
+There is evidence to suggest that invR is an ` ancient ' gene , horizontally acquired along with the SPI-1 virulence region in the ﬁrst major phase of Salmonella evolution . 
+InvR is highly conserved in Salmonella species ( Fig. 1A ) , including the early branching S. bongori that diverged from the S. enterica lineage after acquisition of SPI-1 ( Reeves et al. , 1989 ; Groisman and Ochman , 1994 ) . 
+SPI-1 has a signiﬁcantly lower average G+C content ( 47 % ) than the core Salmonella genome ( 52 % ) , and the invR gene ( 39.6 % G+C ) shares this low G+C content region ( Fig. 1B ) . 
+Salmonella evolution has resulted in a mosaic structure of the right SPI-1 border ( invH-mutS region ) . 
+However , these insertions/deletions neither affected invR nor its close association with invH ( Fig. 1A ) . 
+Finally , invR is co-regulated with other SPI-1 genes and strictly requires HilD , the transcription factor that acts at the top of the SPI-1 transcriptional hierarchy ( reviewed in Jones , 2005 ; Ellermeier and Slauch , 2007 ) . 
+HilD is not known to control genes outside SPI-1 , except rtsA whose gene product is also involved in SPI-1 transcription ( Ellermeier et al. , 2005 ) . 
+Thus , genomic location , conservation and regulation all argue that invR was acquired along with SPI-1 very early at ( or soon after ) the divergence of the E. coli and the Salmonella lineages . 
+The invR sequence appears to be more conserved than its boundaries ( Fig. 1C ) , which argues that invR is maintained by selection and that it is a functional gene , i.e. despite the lack of evidence that InvR functions in SPI-1 effector secretion or translocation . 
+The function of InvR as a repressor of OmpD synthesis reveals a novel coupling between SPI-1 and Salmo-nella core genome expression ( summarized in Fig. 9 ) . 
+SPI-1 is regulated by more than a dozen stress -- response regulators which respond to environmental stimuli relevant to host cell invasion , and which are collectively encoded by the Salmonella core genome ( Lostroh and Lee , 2001 ; Jones , 2005 ; Ellermeier and Slauch , 2007 ) . 
+Since its horizontal acquisition , SPI-1 has increasingly come under control of common Salmonella core genome regulators , namely those involved in responses to conditions found at appropriate anatomic locations in the host . 
+The reciprocal case , i.e. that SPI-1 controls other loci of the Salmonella chromosome , was previously limited to SPI-4 and SPI-5 , virulence islands activated by the SPI-1 transcription factor , HilA ( Ahmer et al. , 1999 ) . 
+This study shows that the SPI-1 virulence region also encodes a post-transcriptional regulator of Salmonella core genome expression , adding a new layer of cross-talk between these regions . 
+Similar to our discovery of the Salmonella PAI-encoded InvR , there is evidence that other horizontally acquired elements such as cryptic prophage regions of E. coli express sRNAs to interfere with gene expression from the host chromosome , e.g. the DicF and IpeX RNAs ( Tetart and Bouche , 1992 ; Castillo-Keller et al. , 2006 ) . 
+We recently demonstrated that the sRNA chaperone , Hfq , is involved in SPI-1 expression and/or functions 
+pBAD pBAD-HilD pBAD pBAD-HilD - + - + - + - + 
+w 
+L-ara 
+InvR 
+InvR 
+5S rRNA 
+5S rRNA 
+B 
+D 
+PinvR - gfp 
+Δ ( sitA-invH ) 
+50000 
+pBAD pBAD-HilD pBAD-HilA - + - + - + 
+40000 
+L-ara 
+30000 
+InvR 
+20000 
+10000 
+5S rRNA 
+0 
+wt 
+hfq 
+hilC 
+hilD 
+Fig. 5 . 
+The invR gene belongs to the SPI-1 regulon . 
+A. Comparison of InvR levels in the wild-type strain and in strains with functional disruptions of the hilA , hilC , hilD or invF SPI-1 transcription factor genes , with all strains grown to an OD600 of 2 . 
+B. Activity of the invR promoter in different genetic backgrounds as determined with a transcriptional PinvR -- gfp reporter plasmid under SPI-1 inducing conditions in the wild type ( wt ) , and in hilD , hilC or Dhfq mutant strains . 
+Given are mean values ( arbitrary units ) of GFP ﬂuorescence of triplicate measurements . 
+C. Ectopic HilD expression restores InvR expression . 
+Shown is a Northern blot of the wild-type or the hilD strain , each harbouring a control ( pBAD ) or an inducible HilD expression plasmid ( pBAD-HilD ) . 
+HilD expression was induced at an OD600 of 1.0 with 0.1 % L-arabinose ( where indicated by + ) for 45 min prior to RNA extraction . 
+D. Induced HilD expression complements invR expression to a SPI-1 disruption strain ( spi-1 is deleted from sitA to invH ) . 
+Strains carrying the same plasmids were induced as in ( C ) . 
+A strain carrying a HilA expression plasmid ( pBAD-HilA ) was included as further control . 
+0 
+1 5 10 20 0 
+1 5 10 20 0 20 nM HilD 
+pJV300 
+pJV300 
+P 
+invR * 
+pinvR 
+P 
+hilA * 
+pPL-invR 
+P 
+lacZ * 
+Fig. 6 . 
+Puriﬁed HilD protein binds to the invR promoter region with high affinity in vitro . 
+Electrophoretic mobility shift assay ( EMSA ) . 
+Approximately 20 pM of 5 ′ labelled promoter dsDNA fragments ( PinvR * , PhilA * , PlacZ * ) were incubated with increasing concentrations of puriﬁed HilD protein ( 0 , 1 , 5 , 10 , 20 nM ) . 
+The complexes were separated on a native 5 % polyacrylamide gel and visualized by autoradiography . 
+The PhilA * promoter , which is known to be recognized by HilD ( Schechter and Lee , 2001 ) , served as positive control . 
+The promoter of the E. coli lacZ gene ( PlacZ * ) not recognized by HilD served as negative control . 
+pJV300 pJV300 
+pinvR 
+pPL-inv 
+Fig. 7 . 
+InvR does not affect the pattern of secreted SPI-1 effector proteins . 
+Secreted proteins were prepared from wild-type ( wt ) and DinvR strains harbouring a control plasmid ( pJV300 ) , a plasmid that expresses invR under its own promoter ( pinvR ) or under a PLlacO promoter ( pPL-invR ) . 
+Cultures were grown ( A ) under standard conditions to an OD600 of 2.0 , or ( B ) under SPI-1-inducing conditions . 
+Proteins were separated by 12 % SDS-PAGE . 
+The gel was stained with Coomassie brilliant blue . 
+The bands of known abundant effector proteins ( SipA , SipB , SipC , SopD , SopE2 ) as well as of ﬂagellin ( FliC ) are indicated according to Raffatellu et al. ( 2005 ) and Sittka et al. ( 2007 ) . 
+B 
+A 
+wt 
+wt 
+invR 
+invR 
+M 
+M 
+175 83 62 47,5 
+175 83 62 47,5 
+SipA SipB 
+SipA SipB FliC SipC SopD 
+FliC SipC SopD SopE2 
+32,5 
+32,5 
+SopE2 25 
+25 
+16,5 
+16,5 
+A 
+B 
+C 
+pBAD pBAD-invR 
+pJV300 pJV300 pinvR pPL-invR pJV300 
+0 8 16 0 2 4 8 16 min ompD 
+ΔinvR 
+InvR 
+ΔompD 
+175 83 
+5S rRNA 
+ompD 
+62 
+InvR 
+47.5 
+5S rRNA 
+D 
+OmpC 
+ATG +1 
+32.5 
+OmpD 
+ompD 
+pJV300 pJV300 
+25 
+U U C C 
+pinvR 
+ΔinvR 
+84 CA A C G 134 ompD mRNA ... AGUGGCAGUGG GUG CUGUUG CAG AGGC GUUG UAAAUGCAGC ... InvR RNA 81 C A A U UC U 33 ... UCGUCGUCGCU CAC GACGAC GUU UUCG UAAC AUUUACGUUG ... U 
+16.5 
+pPL-invR pJV300 
+Δomp 
+Fig. 8 . 
+InvR acts to repress OmpD synthesis . 
+A. SDS-PAGE of whole-cell protein of wild-type , DinvR and DompD strains carrying the control vector ( pJV300 ) , or multicopy plasmids with the invR locus ( pinvR ) or the invR gene driven by a constitutive PLlacO promoter ( pPL-invR ) as indicated above the picture . 
+Samples were taken at early stationary phase . 
+Arrows indicate the OmpD and OmpC proteins . 
+B. Northern blot of the same strains and growth phase as above to determine steady-state ompD mRNA levels in the absence or presence of InvR expression . 
+C. Northern blot of Salmonella DinvR cells carrying a pBAD control vector ( pKP8-35 ) or a pBAD-InvR expression plasmid ( pKP7-25 ) grown to early stationary phase , induced with L-arabinose ( 0.2 % ) , and RNA was extracted prior to ( 0 min ) or at various time points within 16 min of induction as indicated . 
+As in ( B ) Northern blots were probed for ompD mRNA , InvR and 5S rRNA ( loading control ) . 
+Quantiﬁcation of the ompD signals revealed that InvR expression reduces the half-life of the mRNA to less than 4 min . 
+D. Predicted antisense interaction of InvR RNA and ompD mRNA . 
+Numbers denote the interacting residues in the ompD mRNA or InvR RNA ( relative to the mapped +1 sites ) . 
+( Sittka et al. , 2007 ) . 
+Moreover , loss of Hfq results in aberrant levels of porins and other envelope proteins ( Figueroa-Bossi et al. , 2006 ; Sittka et al. , 2007 ) , the most marked defect being a strong accumulation of OmpD ( Sittka et al. , 2007 ) . 
+As the latter was due to defective translational repression , we hypothesized the existence of Hfq-dependent sRNAs that repress the ompD mRNA ( Sittka et al. , 2007 ) . 
+Following the earlier discovery of the 
+RybB sRNA ( Papenfort et al. , 2006 ) , InvR is here revealed as another sRNA to conﬁrm this expectation . 
+Note , however , that RybB and InvR act under different conditions ; RybB is strictly controlled by the alternative sigma factor , sE , and is induced upon envelope stress ( Johansen et al. , 2006 ; Papenfort et al. , 2006 ; Thompson et al. , 2007 ) , whereas InvR acts under conditions that favour SPI-1 gene expression . 
+Fig. 9 . 
+Proposed model of SPI1-mediated porin repression . 
+Two component systems encoded by the Salmonella core genome sense environmental signals that lead to activation of the SPI-1 transcription factor cascade ( HilD , HilC , HilA , InvF ) , and subsequently , to the expression of the SPI-1 T3SS . 
+HilD also activates expression of the SPI-1-encoded , non-coding InvR RNA . 
+Together with the RNA chaperone Hfq , InvR acts to repress synthesis of the major outer membrane protein , OmpD , which is encoded by the Salmonella core genome . 
+OmpD is the most abundant Salmonella porin ( > 1 ¥ 105 molecules per cell ; Lee and Schnaitman , 1980 ) . 
+The ompD gene is regulated at both the transcriptional and the posttranscriptional level ( Santiviago et al. , 2003 ) , and even a slight increase in OmpD protein levels by ectopic expression can trigger cell lysis , presumably by compromising envelope stability ( V. Pfeiffer and J. Vogel , unpubl . 
+data ) . 
+Intriguingly , several E. coli sRNAs that repress abundant outer membrane proteins ( OMPs ) are encoded adjacent to other omp genes , with which they may have been horizontally acquired ( Douchin et al. , 2006 ; Guillier et al. , 2006 ; Vogel and Papenfort , 2006 ) . 
+It has been suggested that as excess OMP synthesis can be deleterious , such sRNAs have evolved to modulate the synthesis of OMPs already present in the recipient strain until newly acquired OMPs become established ( Douchin et al. , 2006 ) . 
+The recent demonstration that E. coli IpeX sRNA , which originates from the transcript of a phage-derived porin gene , represses other major porins lends support to this hypothesis ( Castillo-Keller et al. , 2006 ) . 
+In analogy , the InvRmediated repression of OmpD may have provided an evolutionary advantage for establishing the membrane-anchored T3SS structure upon the arrival of SPI-1 in the Salmonella lineage by balancing envelope stability . 
+Subsequently , InvR may have evolved additional functions in Salmonella gene expression . 
+Generally , porins such as OmpD provide surfaceexposed epitopes used by the host 's immune response after infection ( Singh et al. , 2000 ) , and the immunostimmulatory activity of Salmonella OMPs has been well established ( Galdiero et al. , 1990 ; 1993 ; Vitiello et al. , 2004 ) . 
+Preliminary experiments with the invR and ompD mutant strains failed to detect signiﬁcant changes in the production of the cytokine IL-8 in HeLa cells upon Salmonella infection ( V. Pfeiffer and J. Vogel , unpubl . 
+data ) . 
+However , too little is currently known as to the physiological roles of OmpD ( Santiviago et al. , 2002 ) . 
+Although the protein facilitates Salmonella adherence to human macrophages and intes-tinal epithelial cell lines ( Negm and Pistole , 1998 ; Hara-Kaonga and Pistole , 2004 ) , its overall contribution to pathogenicity has not been clear ( Dorman et al. , 1989 ; Meyer et al. , 1998 ) . 
+Thus , future work will focus on the identiﬁcation of an experimental system in which phenotypes of invR or ompD mutants can be studied . 
+Experimental procedures
+Bacterial strains, media and growth conditions
+Salmonella enterica serovar Typhimurium strain SL1344 was used as the wild-type strain and for mutant construction . 
+The bacterial strains and plasmids used in this study are listed in Tables 2 and 3 . 
+Growth under standard and SPI-1-inducing conditions , including antibiotic concentrations , was performed as described in Sittka et al. ( 2007 ) . 
+A culture grown to an OD600 of 2 is referred to as early stationary-phase culture throughout the manuscript . 
+For culture grown under low oxygen conditions , 35 ml in Schott ﬂasks was inoculated 1:100 and incubated at 37 °C , 50 r.p.m. Samples were taken at an OD of 0.4 or 2 . 
+For expression of HilD and HilA from an inducible PBAD promoter , strains carrying plasmids ( pCH112 , pSA4 ) were cultured to an OD600 of 1 . 
+After splitting the culture , one was induced for 45 min by addition of L-arabinose ( ﬁnal concentration of 0.1 % ) . 
+To induce the expression of invR from the PBAD promoter , cultures were grown to an OD600 of 2 and induced with a ﬁnal concentration of 0.2 % L-arabinose for 2 , 4 , 8 and 16 min . 
+Strain construction
+Chromosomal mutagenesis of Salmonella SL1344 followed the protocol described by Datsenko and Wanner ( 2000 ) with few modiﬁcations as described in Sittka et al. ( 2007 ) . 
+For construction of the invR deletion strain ( JVS-00175 ) , the kan resistance cassette gene was ampliﬁed with oligonucleotides JVO-0299 / -0300 ( see Table 4 for sequences of deoxyoligo-nucleotides used as PCR primers and Northern blot probes ) from plasmid pKD4 . 
+Mutants were veriﬁed by colony PCR using the oligonucleotides JVO-0301 / -0302 . 
+For removal of the kan marker the DinvR strain was transformed with the FLP helper plasmid pCP20 ( Datsenko and Wanner , 2000 ) . 
+For invR complementation at the istR-tisAB locus , a istRtisAB : : cat deletion strain ( JVS-00608 ) was constructed . 
+The cat chloramphenicol resistance cassette gene was ampliﬁed from plasmid pKD3 with oligonucleotides JVO-0710 / -0711 and transformed into wild-type SL1344 harbouring plasmid pKD46 . 
+The deletion was veriﬁed by colony PCR using primers JVO-0037 / -0038 . 
+For complementation of invR under control of either a PL promoter or the native promoter at the istR-tisAB locus , DNA fragments were ampliﬁed from plasmid pJV872-5 or pVP011 , respectively , using primers JVO-0713 / -0712 . 
+The cat gene was ampliﬁed using JVO-0710 / -0203 . 
+The cat gene and the invR PCR products were used as templates for a fusion PCR protocol to generate PL-invR : : cat and invR : : cat with primer pair JVO-0710 / -0712 and were transformed as above . 
+The DistR-tisAB : : cat : : PL-invR , the DistR-tisAB : : cat : : invR locus , as well as DistR-tisAB : : cat , respectively , were transduced using phage P22 into the DinvR strain ( KmR removed ; JVS-00487 ) , generating JVS-00610 / -00632 / -00609 . 
+The sitA-invH deletion strain was generated by insertion of the kan resistance gene of plasmid pKD4 ( PCR with primers JVO-0545 / -0546 ) and veriﬁed by colony PCR with JVO-0547 / -0302 . 
+The construction of the chromosomal hfqFLAG strain followed the protocol published by Uzzau et al. ( 2001 ) . 
+Wild-type Salmonella SL1344 containing plasmid pKD46 was transformed with a PCR product generated on plasmid pSUB11 and using primers JVO-0935 / -0936 . 
+Integration yields a strain carrying hfq : : FLAG : : kan. . 
+Veriﬁcation was carried out using oligos JVO-0076 / -0077 in colony PCR . 
+After transduction into fresh wild-type background using phage P22 , the kanamycin resistance gene was eliminated using pCP20 ( see above ) , resulting in strain JVS-01338 . 
+Plasmids
+To clone the invR gene , a PCR product ampliﬁed with JVO-0301 / -0302 was digested with XbaI/XhoI and ligated into 
+XbaI/XhoI cut plasmids pZE12-luc , yielding pRT2 ( ColE1 plasmid ) , or pVP003 , yielding pVP011 ( pSC101 * origin ) . 
+Oligo JVO-0301 binds 256 nt upstream of the +1 site of invR , while JVO-0302 binds 131 nt downstream of the invR terminator . 
+For generating a plasmid that overexpresses invR from a P promoter ( pJV872-5 ) , a PCR fragment ampliﬁed LlacO with oligos pZE-XbaI and JVO-0365 ( the latter binds to the +1 site of invR ) from template pRT2 plasmid was cloned into pZE12-luc as outlined in Vogel et al. ( 2004 ; cf. construction of P - IstR plasmids ) . 
+L Transcriptional P -- gfp fusion plasmid pVP021 was coninvR structed by cloning an AatII/NheI-digested PCR fragment ( primers JVO-1276 / 1277 ) into plasmid pAS0046 digested with the same enzymes . 
+The cloned region spans from -386 nt to +16 nt corresponding to the +1 site of invR . 
+All plasmids were puriﬁed using the Machery-Nagel Plasmid QuickPure Kit . 
+E. coli TOP 10 and TOP 10F ′ strains were used for cloning . 
+P22 transduction
+P22 lysates were prepared from soft agar plate lysates of donor strains using P22 phage HT/105 -1 by standard procedures . 
+Transductions were performed as described ( Sternberg and Maurer , 1991 ) using P22 phage HT/105 -1 . 
+Identiﬁcation of Salmonella-speciﬁc small RNA genes
+Genome sequences and annotations for Salmonella LT2 ( NC_003197 ) and E. coli K12 ( NC_000913 ) were downloaded from NCBI Genome Database ( ftp : / / ftp.ncbi.nih.gov / genomes/Bacteria / ) . 
+For identifying putative sRNA encoding genes in this organism , we adopted an approach similar to Chen et al. ( 2002 ) . 
+A database of Inter-Genic ( IG , sequence between annotated genes on either strand ) sequences , greater than or equal to 100 bp , was created using the GenBank annotation . 
+RNAMotif ( Macke et al. , 2001 ) , which searches for RNA structure motifs , was used for identifying putative r-independent terminators in the IG sequences . 
+The ` descriptor ' and scoring scheme used were the same as reported in Lesnik et al. ( 2001 ) . 
+We then used pftools2 .3 ( Bucher et al. , 1996 ; http://www.isrec.isb-sib.ch/ftp-server/ pftools / ) for searching promoters in intergenic sequences . 
+The proﬁle describing the promoter sequences for s70 of E. coli , included in pftools2 .3 package , was used together with a cut-off of 50 ( Chen et al. , 2002 ) . 
+To identify putative sRNA-encoding genes , predicted promoters and terminators ( with score better than -4 ; Lesnik et al. , 2001 ) were combined such that both are positioned in the same intergenic sequence and are in the same orientation , and the resulting length ( between the end of the predicted promoter and the end of the predicted terminator ) is 50 bp and 350 bp . 
+To identify sRNA genes present in Salmonella but not E. coli , predicted sRNA sequences were searched against a local database of E. coli genome using BLASTN . 
+Sequences which gave hits with E-value better than 1E-05 or normalized score ( BLAST score divided by the length of sRNA ) better than 0.7 were discarded . 
+The remaining sRNA sequences were further searched against NCBI database using BLASTN and were checked manually . 
+Furthermore , sRNA sequences were searched against a local database of S. bongori genome ( ftp : / / ftp.sanger.ac.uk / pub/pathogens/Salmonella / ) using BLASTN with an E-value cut-off of 0.01 . 
+Table 2 . 
+Strains used in this study . 
+Name in manuscript 
+Strain 
+Relevant markers/genotype 
+Reference/source 
+S. typhimurium 
+StrR hisG rpsL xyl 
+Hoiseth and Stocker ( 1981 ) , source : D. Bumann , MPI-IB Berlin This study Bajaj et al. ( 1996 ) ; functional disruption of invF Bajaj et al. ( 1996 ) ; functional disruption of hilA Schechter et al. ( 1999 ) ; functional disruption of hilC Lucas and Lee ( 2001 ) ; functional disruption of hilD Sittka et al. ( 2007 ) JVS-00175 was transduced with P22 lysate of JVS-00255 This study This study Sittka et al. ( 2007 ) This study 
+SL1344 Wild type 
+SL1344 DinvR : : KmR 
+JVS-00175 
+DinvR invF 
+SL1344 invF12-5 : : Tn5 : : TetR ( lacZY ) SL1344 hilA080 : : Tn5 ( lacZY ) SL1344 hilC9 : : Tn5 : : TetR ( lacZY ) SL1344 hilD696 : : Tn5 ( lacZ ) SL1344 Dhfq : : CmR SL1344 DinvR : : KmR/Dhfq : : CmR 
+EE639 ( JVS-00212 ) EE658 ( JVS-00214 ) EE635 ( JVS-00216 ) RL696 ( JVS-00218 ) JVS-00255 JVS-00289 
+hilA hilC hilD Dhfq DinvR/Dhfq 
+SL1344 DsitA-invH : : KmR SL1344 DinvR ( KmR removed ) SL1344 Dhfq ( CmR removed ) SL1344 DistR-tisAB : : CmR 
+JVS-00408 JVS-00487 JVS-00584 JVS-00608 
+DsitA-invH DinvR 
+hfq in Fig. 5B Wild type in Fig. 3A , Fig . 
+S3 , Figs 4 -- 6 DinvR in Fig. 3A , Fig . 
+S3 , Figs 4 -- 6 invR + in Fig . 
+S3 , Figs 4 -- 6 invR + in Fig. 3A DompD hfq : : FLAG DrelA/DspoT DinvG 
+JVS-00609 
+SL1344 DinvR/DistR-tisAB : : cat This study 
+JVS-00610 
+SL1344 DinvR/DistR-tisAB : : cat : : PL - invR This study 
+JVS-00632 JVS-00735 JVS-01338 JVS-01505 SB161 E. coli TOP10 
+SL1344 DinvR/DistR-tisAB : : cat : : invR SL1344 DompD : : KmR SL1344 hfq : : FLAG ( KmR removed ) SL1344 DrelA/DspoT211 : : Tn10 SL1344 DinvG mcrA D ( mrr-hsdRMS-mcrBC ) F80lacZDM15 DlacX74 deoR recA1 araD139 D ( ara-leu ) 7697 galU galK rpsL endA1 nupG as TOP10 but additionally carrying F ′ { lacIq Tn10 ( TetR ) } 
+This study 
+Sittka et al. ( 2007 ) This study KT4478 ( K. Tedin ) Kaniga et al. ( 1994 ) Invitrogen 
+E. coli TOP10F ′ 
+Invitrogen 
+ColE1 , AmpR pBR322 , AmpR 
+pZE12-luc pM1644 
+luc 
+Lutz and Bujard ( 1997 ) A. Schlumberger et al. ( 2007 ) 
+luc 
+Pown-sipAM45-b-lactamase 
+Stability experiments, RNA isolation and Northern hybridization
+The detailed protocol for isolation , Northern blot detection , an stability determination of Salmonella RNAs , is described in Sittka et al. ( 2007 ) . 
+InvR was detected with 32P-labelled oli-godeoxynucleotide JVO-0222 , whereas 5S rRNA signals were detected with labelled oligo JVO-0322 . 
+The ompD mRNA was detected with a 32P-labelled riboprobe generated by in vitro transcription . 
+For stability experiments , rifampicin was added at a ﬁnal concentration of 500 mg ml-1 . 
+Northern blots and gels were visualized on a Phosphorimager ( FLA-3000 Series , Fuji ) , and band intensities quantiﬁed with AIDA software ( Raytest , Germany ) . 
+5 Race
+RNA was extracted from wild-type Salmonella grown to an OD600 of 2 , and treated with DNase I. Six micrograms of DNA-free RNA was treated with TAP ( Epicentre ; removes the b - and g-phosphate groups at the capped 5 ′ end of the RNA ) in the presence of SUPERase inhibitor ( 10 U ﬁnal in a 50 ml reaction ; Ambion ) at 37 °C for 30 min . 
+Mock treatment of RNA was performed in the same reaction buffer but omitting the enzyme . 
+Subsequently , RNA was ligated to a 5 ′ RNA-oligonucleotide adaptor ( 400 pmol per reaction ) using T4 RNA ligase ( 40 U per 20 ml reaction ) at 17 °C overnight , puri-ﬁed with a mixture of phenol : chloroform : isopropanol ( 25:24:1 v/v ) , and precipitated with 2.5 volumes of an ethanol / sodiumacetate ( 30:1 ) solution . 
+Samples were re-suspended in 10 ml of water . 
+Half of the ligated RNA was used for the reverse transcription polymerase chain reaction ( RT-PCR ) with a random hexamer oligonucleotide primer mix ( 250 ng per 20 ml reaction ) in the presence of SUPERase inhibitor ( 10 U ﬁnal ) using Superscript III RT ( 200 U ﬁnal ; Invitrogen ) and the following programme : 25 °C for 5 min , 50 °C for 60 min , 70 °C for 15 min . 
+RNase H ( 1 U ) was added , followed by incubation at 37 °C for 20 min . 
+Oligonucleotide JVO-0222 ( binds 44 bp downstream of the +1 site of invR ) and JVO-0367 ( antisense to the RNA linker ) were used to amplify the 5 ′ end InvR by PCR with 1.25 U of HotStar Taq polymerase and 1 ml of the cDNA in a 50 ml reaction ( incubation as follows : 95 °C for 10 min , 95 °C for 45 s , 58 °C for 45 s , 72 °C for 45 s , 35 cycles and 72 °C for 7 min ) . 
+The PCR products were separated on a 3 % agarose gel . 
+The TAP-speciﬁc band was cut , eluted and sequenced . 
+pJV300 
+ColE1 control plasmid , expresses a ~ 50 nt nonsense transcript derived from rrnB terminator Background control plasmid for GFP reporter fusions ( no GFP ) ColE1 plasmid for invR complementation , based on pZE12-luc , carries a 478 bp invR fragment ColE1 plasmid , based on pZE12-luc , expresses invR from a PLlacO promoter pBAD control plasmid for pBAD-HilA ( pCH112 ) and pBAD-HilD ( pSA4 ) pHilA ; hilA ORF in pBAD/Myc-His 
+Sittka et al. ( 2007 ) 
+pSC101 * , CmR 
+pXG-0 
+Urban and Vogel ( 2007 ) 
+ColE1 , AmpR 
+pRT2 
+pinvR 
+invR 
+This study 
+ColE1 , AmpR 
+pJV872-5 
+PL-invR 
+PLlacO-invR 
+This study 
+pACYC184 , CmR 
+pBAD33 
+pBAD 
+Guzman et al. ( 1995 ) 
+pBR322 , AmpR 
+pCH112 
+pBAD-HilA 
+Lostroh et al. ( 2000 ) 
+PBAD M PBAD luc 
+- hilA-yc-His - hilD 
+R 
+pHilD ; hilD in pBAD expression vector Control plasmid ; low-copy-version pZE12-luc Expresses a HIS-tagged Hfq under control of the hfq promoter pSC101 * plasmid for invR complementation , based on pVP003 , carries a 478 bp invR fragment ompD transcriptional gfp fusion plasmid invR transcriptional Gfp fusion plasmid Background control plasmid for transcriptional gfp fusion plasmid gfp control plasmid ( constitutive GFP expression ) Template for CmR mutant construction 
+pSA4 
+pBAD-HilD 
+pACYC184 , Cm pSC101 * , AmpR 
+Lucas and Lee ( 2001 ) Sittka et al. ( 2007 ) 
+pVP003 
+pSC101 * , AmpR 
+pVP004 
+Sittka et al. ( 2007 ) 
+Hfq6HIS 
+pSC101 * , AmpR 
+pVP011 
+This study 
+invR 
+pSC101 * / CmR Sittka et al. ( 2007 ) pSC101 * , CmR This study pSC101 * , CmR Sittka et al. ( 2007 ) 
+ompD -- gfp PinvR -- gfp ′ gfp 
+ompD -- gfp pVP019 PinvR -- gfp pVP021 pAS0046 
+pSC101 * / CmR Urban and Vogel ( 2007 ) 
+PLtetO -- gfp 
+pJV859-8 / pXG-1 pKD3 
+PL -- gfp 
+oriRg , AmpR 
+Datsenko and Wanner ( 2000 ) Datsenko and Wanner ( 2000 ) Datsenko and Wanner ( 2000 ) Datsenko and Wanner ( 2000 ) Uzzau et al. ( 2001 ) 
+Template for KmR mutant construction 
+oriRg , AmpR 
+pKD4 
+ParaB-g-b-exo 
+oriR101 , AmpR 
+pKD46 
+Temperature-sensitive lambda red recombinase expression plasmid Temperature-sensitive FLP recombinase expression plasmid Template for mutant construction ; 3xFLAG-tag sequence linked to a KmR cassette General expression plasmid SipAM45-b-lactamase expression plasmid , controlled by the sipA promoter 
+oriR101 , 
+pCP20 
+AmpR and CmR R6KoriV , AmpR 
+pSUB11 
+ColE1 , AmpR pBR322 , AmpR 
+pZE12-luc pM1644 
+luc 
+Lutz and Bujard ( 1997 ) A. Schlumberger et al. ( 2007 ) 
+luc 
+Pown-sipAM45-b-lactamase 
+EMSA with puriﬁed HilD protein
+To determine binding of HilD protein to the invR promoter region , we performed EMSA following the protocol by Olekh-novich and Kadner ( 2002 ) but with slight modiﬁcations . 
+The promoter region of the invR , the hilA or the lacZ genes was ampliﬁed by PCR with primers JVO-0690 / -0222 ( bp -437 nt to +45 nt relative to the transcriptional start site ) , JVO-0688 / -0689 ( bp -292 nt to +19 nt ) or JVO-0273 / -0691 ( bp -121 nt to +85 nt ) respectively . 
+The gel-puriﬁed fragments were 5 ′ - end-labelled with [ g-32P ] - ATP using polynucleotide kinase , and puriﬁed with the NucleoSpin Extract II kit ( Machery and Nagel ) . 
+For the binding assay , 0.2 fmol ( 20 pM ﬁnal concentration ) labelled DNA fragments were incubated with 1 , 5 , 10 , 20 nM of puriﬁed HilD protein ( 90 mM stock , kindly provided by I.N. Olekhnovich ) for 20 min at 37 °C in binding buffer ( 10 mM Tris-HCl pH 8.0 , 50 mM KCl , 100 mg ml-1 BSA , 10 % glycerol , 1 mM DTT , 0.5 mM EDTA ) in a 10 ml reaction . 
+Dilutions of HilD were prepared in binding buffer . 
+Three microli-tres of loading buffer ( 50 % glycerol , 0.5 ¥ TBE , 0.2 % bromphenolblue ) was added to the reaction . 
+The mixture was separated on a running native 5 % polyacrylamide gel cooled to 4 °C at 300 V for 3 h 30 min . 
+The dried gel was analysed using a phosphorimager . 
+Table 4 . 
+Oligonucleotides used in this study . 
+Name 
+Sequence in 5 ′ to 3 ′ direction 
+JVO-0037 JVO-0038 JVO-0076 JVO-0077 JVO-0203 JVO-0222 JVO-0273 JVO-0299 JVO-0300 JVO-0301 JVO-0302 JVO-0322 JVO-0365 JVO-0367 JVO-0545 JVO-0546 JVO-0547 JVO-0675 JVO-0676 JVO-0688 JVO-0689 JVO-0690 JVO-0691 JVO-0709 JVO-0710 JVO-0711 JVO-0712 JVO-0713 JVO-0817 JVO-0818 JVO-0935 JVO-0936 JVO-0943 JVO-1058 JVO-1186 JVO-1276 JVO-1277 pZE-XbaI 
+GTTTTTCTCGAGCGAGATGGCGCAGTT GTTTTTTCTAGACGTCGTTGAGGGTGTCATA 
+GAAGTATTACAGGTTGTTGGTG GCATCATAACGGTCAAACA GGTCCATATGAATATCCTCCTTAG GATAAATGCAACGTAAGAGACAAATG GTTTTTTGCTAGCAAGGCGATTAAGTTGG CTCATCATGATATAATTAAGACCATATTTTGCATTGCCACTTAATATCAAGTGTAGGCTGGAGCTGCTTC CAGTATAAGTTTCGGCTATTTCCCAAGTCTGGGAGGCCGTTCTTTATCAGGTCCATATGAATATCCTCCTTAG GTTTTTCTCGAGCAGGCGCTCACCTTCTT GTTTTTTCTAGAGGATGGGGTATCGTAAGAAT CTACGGCGTTTCACTTCTGAGTTC GTCACTTTTACGGTTGGC ACTGACATGGAGGAGGGA CACTATCACTGCATATTGTCGCCATTTCGCAAATAAGAATTATTTTCATTGTGTAGGCTGGAGCTGCTTC CTCATCAATACTATTTGCGTTGGCCAGTTGCTCTTTCTGAGCGCCAGGTTGGTCCATATGAATATCCTCCTTAG GTTTTTCTCGAGCGTGCTCTCTCCGAACA GTTTTTTTAATACGACTCACTATAGGGAGGTCACTTTTACGGTTG AAAGCAGCAGCGAGG GAGGATGATACTGCTCATAAC CAATAGAGATTAGTTTTGTAGCTATC GCGCTCAGAAAGAGCAACT GCGCAACGCAATTAATGT GTTTTTGCTAGCGTGAACTTTACCGTACA ATTTCACAATGCCGGAAAACAAAAAACCTCGCCGAAGCGAGGTGTAGGCTGGAGCTGCTTC GGCTTGAATCTGAATTACTTAAGGTATTTCAGAACAGCATCAAGGTCCATATGAATATCCTCCTTAG GGCTTGAATCTGAATTACTTAAGGTATTTCAGAACAGCATCAACGCGATATACGAGACGA CTAAGGAGGATATTCATATGGACCTTTCGTCTTCACCTCGAG GTTTTTCTCGAGCCAATAGTCCCCTCCGA GTTTTTTCTAGACTGCACGGCATACTCCT GCAGGGGTCTACTGCGCAACAGGACAGCGAAGAGACTGAAGACTACAAAGACCATGACGG ATCCGACGCCCCCGACATGGATAAACAGCGCGTGAACTTACCATATGAATATCCTCCTTAG GTTTTTTTTAATACGACTCACTATAGGTCACTTTTACGGTTGG CGTGAACTTTACCGTACA TTTTCTCGAGTTAATACGACTCACTATAGGCCATTGACAAACG GTTTTGACGTCTCTTCCGTATGTGCC GTTTTGCTAGCCGTAAAAGTGACCATAGC TCGTTTTATTTGATGCCTCTAGA 
+Determination of in vivo abundance of InvR
+Total RNA from the wild type at an OD600 of 2.0 ( a total of 3 OD ) was isolated using the TRIzol reagent , followed by DNase I treatment ( 3 OD corresponds to 3.3 ¥ 109 cells ) . 
+The PCR template for in vitro transcription of invR with a T7 promoter was ampliﬁed with JVO-0675 / -0676 ( JVO-0675 adds a T7 promoter to the +1 site of invR ) . 
+The DNA was transcribed in vitro using the Megascript kit ( Ambion ) , followed by a DNase I treatment and organic extraction . 
+One hundred nanograms ( 3.6 pmol ) of the in vitro transcribed InvR RNA ( 88 nt ) corresponds to 2.13 ¥ 1012 molecules . 
+Increasing amounts of the in vitro synthesized RNA were mixed with 5 ml of total RNA ( corresponding to 2.2 ¥ 108 cells ) and separated on a 6 % polyacrylamide gel containing 7 M Urea and subjected to Northern hybridization . 
+In vitro binding experiments (gel mobility shift assays)
+InvR RNA was synthesized by in vitro transcription with T7 RNA polymerase ( Megascript , Ambion ) from PCR fragments ampliﬁed with oligos JVO-0943 / -0676 . 
+Binding assays , native gel electrophoresis and RNA visualization were performed as described in Sittka et al. ( 2007 ) . 
+RNA and Hfq ( hexamer ) concentrations are given in the ﬁgure legends ( see Fig. 4C ) . 
+Co-immunoprecipitation
+The hfq gene was chromosomally tagged with a C-terminal 3xFLAG-tag sequence as described in Uzzau et al. ( 2001 ) , yielding strain hfqFLAG . 
+Cells were cultured to early stationary phase , and collected by centrifugation ( 40 min , 4000 g , 4 °C ) . 
+The pellet was washed once with 2 ml of lysis buffer ( 20 mM Tris pH 8 , 150 mM KCl , 1 mM MgCl2 , 1 mM DTT ) , and snap-frozen in liquid nitrogen . 
+Upon re-suspension in 0.8 ml of lysis buffer , 0.8 ml glass beads ( Roth , diameter 0.1 mm ) were added , and cells broken by vortexing ( 30 s burst followed by 30 s chill on ice ) for 5 min . 
+Lysis buffer ( 0.4 ml ) was added , followed by centrifugation [ 30 min at 4 °C , 16 000 relative centrifugation force ( RCF ) ] . 
+The cleared lysate ( 0.1 ml ) was removed to prepare total RNA . 
+Twenty-ﬁve microlitres of FLAG antibody ( Sigma ; #F1804 ) was added to the remaining cleared lysate ( 0.9 ml ) , followed by incubation on a rotator at 4 °C for 1 h. Fifty microlitres Protein A sepharose beads ( Sigma ; P-6649-5ML ) were added , and incubation continued for 1 h . 
+The suspension was centrifuged ( 5 min , 4 °C , 16 000 RCF ) , followed by ﬁve washes in 1 ml of lysis buffer . 
+Protein/RNA complexes were recovered from the beads by re-suspension in 0.5 ml of water . 
+Phenol : chloroform extracted RNA was concentrated by ethanol precipitation , followed by DNase I treatment . 
+For Northern blot detection , total RNA and co-immunoprecipitated RNA equivalent to 0.25 and 2.5 OD600 , respectively , of the original culture volume were used . 
+GFP reporter assays
+Strains carrying the transcriptional invR : : GFP fusion plasmid ( pVP021 ) or a control plasmid ( pAS0046 ) were inoculated in 
+5 ml of LB containing 0.3 M NaCl supplemented with 20 mg ml-1 chloramphenicol in 15 ml Falcon tubes with a tightly closed lid . 
+The cultures were incubated for 12 h at 37 °C . 
+Culture ( 3 ¥ 100 ml ) was transferred to a 96-well plate , and ﬂuorescence was measured at 37 °C using a VICTOR3TM machine ( 1420 Multilable Counter , Perkin Elmer ) . 
+All experiments were performed in triplicates . 
+Strains with a non-ﬂuorescent plasmid served as background control ( autoﬂuorescence ) . 
+A detailed protocol of ﬂuorescence measurement is given in Urban and Vogel ( 2007 ) . 
+Secreted and whole-cell protein fractions
+The protocol for extraction of secreted protein fractions was modiﬁed from the protocol described in Kaniga et al. ( 1995 ) . 
+Culture samples were taken from regular LB cultures at an OD600 of 2 or from SPI-1-induced cultures , and spun 20 min at 16 100 g at 4 °C . 
+Proteins from the supernatant were precipitated by adding 25 % TCA to a ﬁnal concentration of 5 % followed by 20 min centrifugation at 16 100 g , 4 °C . 
+The pellet was washed twice in ice-cold acetone and air dried . 
+The pellet was re-suspended in 1 ¥ SLB to a ﬁnal concentration of 1.5 OD per 10 ml . 
+Samples were heated for 5 min at 95 °C . 
+For small 12 % SDS-PAGE 1 OD , respectively , were loaded per sample . 
+For whole-cell protein fractions 0.1 OD per 10 ml were separated on a 12 % SDS-PAGE , and visualized by staining with Sypro Ruby ( Bio-Rad ) . 
+Acknowledgements
+We are grateful to M. Achtman , S. Altuvia , S. Gottesman , W.D. Hardt , B. Raupach , E.G. Wagner and A. Zychlinsky for helpful discussions ; I.N. Olekhnovich for providing HilD protein ; M. Schmid and P. Jungblut for mass spectrometry ; W.D. Hardt for providing plasmids for translocation assays . 
+References 
+Ahmer , B.M. , van Reeuwijk , J. , Watson , P.R. , Wallis , T.S. , and Heffron , F. ( 1999 ) Salmonella SirA is a global regulator of genes mediating enteropathogenesis . 
+Mol Microbiol 31 : 971 -- 982 . 
+Altmeyer , R.M. , McNern , J.K. , Bossio , J.C. , Rosenshine , I. , Finlay , B.B. , and Galan , J.E. ( 1993 ) Cloning and molecular characterization of a gene involved in Salmonella adherence and invasion of cultured epithelial cells . 
+Mol Microbiol 7 : 89 -- 98 . 
+Argaman , L. , Hershberg , R. , Vogel , J. , Bejerano , G. , Wagner , E.G. , Margalit , H. , and Altuvia , S. ( 2001 ) Novel small RNA-encoding genes in the intergenic regions of Escherichia coli . 
+Curr Biol 11 : 941 -- 950 . 
+Bajaj , V. , Lucas , R.L. , Hwang , C. , and Lee , C.A. ( 1996 ) Co-ordinate regulation of Salmonella typhimurium invasion genes by environmental and regulatory factors is mediated by control of hilA expression . 
+Mol Microbiol 22 : 703 -- 714 . 
+Bensing , B.A. , Meyer , B.J. , and Dunny , G.M. ( 1996 ) Sensitive detection of bacterial transcription initiation sites and differentiation from RNA processing sites in the pheromone-induced plasmid transfer system of Enterococcus faecalis . 
+Proc Natl Acad Sci USA 93 : 7794 -- 7799 . 
+Boisset , S. , Geissmann , T. , Huntzinger , E. , Fechter , P. , Bendridi , N. , Possedko , M. , et al. ( 2007 ) Staphylococcus aureus RNAIII coordinately represses the synthesis of virulence factors and the transcription regulator Rot by an antisense mechanism . 
+Genes Dev 21 : 1353 -- 1366 . 
+Bronstein , P.A. , Miao , E.A. , and Miller , S.I. ( 2000 ) InvB is a type III secretion chaperone speciﬁc for SspA . 
+J Bacteriol 182 : 6638 -- 6644 . 
+Bucher , P. , Karplus , K. , Moeri , N. , and Hofmann , K. ( 1996 ) A ﬂexible motif search technique based on generalized proﬁles . 
+Comput Chem 20 : 3 -- 23 . 
+Castillo-Keller , M. , Vuong , P. , and Misra , R. ( 2006 ) Novel mechanism of Escherichia coli porin regulation . 
+J Bacteriol 188 : 576 -- 586 . 
+Charpentier , X. , and Oswald , E. ( 2004 ) Identiﬁcation of the secretion and translocation domain of the enteropatho-genic and enterohemorrhagic Escherichia coli effector Cif , using TEM-1 beta-lactamase as a new ﬂuorescence-based reporter . 
+J Bacteriol 186 : 5486 -- 5495 . 
+Chen , S. , Lesnik , E.A. , Hall , T.A. , Sampath , R. , Griffey , R.H. , Ecker , D.J. , and Blyn , L.B. ( 2002 ) A bioinformatics based approach to discover small RNA genes in the Escherichia coli genome . 
+Biosystems 65 : 157 -- 177 . 
+Christiansen , J.K. , Nielsen , J.S. , Ebersbach , T. , ValentinHansen , P. , Sogaard-Andersen , L. , and Kallipolitis , B.H. ( 2006 ) Identiﬁcation of small Hfq-binding RNAs in Listeria monocytogenes . 
+RNA 12 : 1383 -- 1396 . 
+Crago , A.M. , and Koronakis , V. ( 1998 ) Salmonella InvG forms a ring-like multimer that requires the InvH lipoprotein for outer membrane localization . 
+Mol Microbiol 30 : 47 -- 56 . 
+Daeﬂer , S. , and Russel , M. ( 1998 ) The Salmonella typhimu-rium InvH protein is an outer membrane lipoprotein required for the proper localization of InvG . 
+Mol Microbiol 28 : 1367 -- 1380 . 
+Darwin , K.H. , and Miller , V.L. ( 1999 ) InvF is required for expression of genes encoding proteins secreted by the SPI1 type III secretion apparatus in Salmonella typhimurium . 
+J Bacteriol 181 : 4949 -- 4954 . 
+Datsenko , K.A. , and Wanner , B.L. ( 2000 ) One-step inactivation of chromosomal genes in Escherichia coli K-12 using PCR products . 
+Proc Natl Acad Sci USA 97 : 6640 -- 6645 . 
+Dobrindt , U. , Hochhut , B. , Hentschel , U. , and Hacker , J. ( 2004 ) Genomic islands in pathogenic and environmental microorganisms . 
+Nat Rev Microbiol 2 : 414 -- 424 . 
+Dorman , C.J. , Chatﬁeld , S. , Higgins , C.F. , Hayward , C. , and Dougan , G. ( 1989 ) Characterization of porin and ompR mutants of a virulent strain of Salmonella typhimurium : ompR mutants are attenuated in vivo . 
+Infect Immun 57 : 2136 -- 2140 . 
+Douchin , V. , Bohn , C. , and Bouloc , P. ( 2006 ) Downregulation of porins by a small RNA bypasses the essenti-ality of the regulated intramembrane proteolysis protease RseP in Escherichia coli . 
+J Biolog Chem 281 : 12253 -- 12259 . 
+Eichelberg , K. , and Galan , J.E. ( 1999 ) Differential regulation of Salmonella typhimurium type III secreted proteins by pathogenicity island 1 ( SPI-1 ) - encoded transcriptional activators InvF and hilA . 
+Infect Immun 67 : 4099 -- 4105 . 
+Ellermeier , J.R. , and Slauch , J.M. ( 2007 ) Adaptation to the host environment : regulation of the SPI1 type III secretion 
+system in Salmonella enterica serovar Typhimurium . 
+Curr Opin Microbiol 10 : 24 -- 29 . 
+Ellermeier , C.D. , Ellermeier , J.R. , and Slauch , J.M. ( 2005 ) HilD , HilC and RtsA constitute a feed forward loop that controls expression of the SPI1 type three secretion system regulator hilA in Salmonella enterica serovar Typhimurium . 
+Mol Microbiol 57 : 691 -- 705 . 
+Figueroa-Bossi , N. , Lemire , S. , Maloriol , D. , Balbontin , R. , Casadesus , J. , and Bossi , L. ( 2006 ) Loss of Hfq activates the sigma-dependent envelope stress response in Salmo-nella enterica . 
+Mol Microbiol 62 : 838 -- 852 . 
+Galan , J.E. , and Curtiss , R. , 3rd ( 1989 ) Cloning and molecular characterization of genes whose products allow Salmo-nella typhimurium to penetrate tissue culture cells . 
+Proc Natl Acad Sci USA 86 : 6383 -- 6387 . 
+Galan , J.E. , and Wolf-Watz , H. ( 2006 ) Protein delivery into eukaryotic cells by type III secretion machines . 
+Nature 444 : 567 -- 573 . 
+Galdiero , F. , Tufano , M.A. , Galdiero , M. , Masiello , S. , and Di Rosa , M. ( 1990 ) Inﬂammatory effects of Salmonella typhimurium porins . 
+Infect Immun 58 : 3183 -- 3186 . 
+Galdiero , F. , de L'ero , G.C. , Benedetto , N. , Galdiero , M. , and Tufano , M.A. ( 1993 ) Release of cytokines induced by Salmonella typhimurium porins . 
+Infect Immun 61 : 155 -- 161 . 
+Groisman , E.A. , and Ochman , H. ( 1994 ) How to become a pathogen . 
+Trends Microbiol 2 : 289 -- 294 . 
+Guillier , M. , Gottesman , S. , and Storz , G. ( 2006 ) Modulating the outer membrane with small RNAs . 
+Genes Dev 20 : 2338 -- 2348 . 
+Guzman , L.M. , Belin , D. , Carson , M.J. , and Beckwith , J. ( 1995 ) Tight regulation , modulation , and high-level expression by vectors containing the arabinose PBAD promoter . 
+J Bacteriol 177 : 4121 -- 4130 . 
+Hara-Kaonga , B. , and Pistole , T.G. ( 2004 ) OmpD but not OmpC is involved in adherence of Salmonella enterica serovar typhimurium to human cells . 
+Can J Microbiol 50 : 719 -- 727 . 
+Hensel , M. ( 2004 ) Evolution of pathogenicity islands of Salmonella enterica . 
+Int J Med Microbiol 294 : 95 -- 102 . 
+Hershberg , R. , Altuvia , S. , and Margalit , H. ( 2003 ) A survey of small RNA-encoding genes in Escherichia coli . 
+Nucleic Acids Res 31 : 1813 -- 1820 . 
+Hoiseth , S.K. , and Stocker , B.A. ( 1981 ) Aromatic-dependent Salmonella typhimurium are non-virulent and effective as live vaccines . 
+Nature 291 : 238 -- 239 . 
+Huntzinger , E. , Boisset , S. , Saveanu , C. , Benito , Y. , Geissmann , T. , Namane , A. , et al. ( 2005 ) Staphylococcus aureus RNAIII and the endoribonuclease III coordinately regulate spa gene expression . 
+EMBO J 24 : 824 -- 835 . 
+Johansen , J. , Rasmussen , A.A. , Overgaard , M. , and Valentin-Hansen , P. ( 2006 ) Conserved small non-coding RNAs that belong to the sigma ( E ) regulon : role in downregulation of outer membrane proteins . 
+J Mol Biol 364 : 1 -- 8 . 
+Jones , B.D. ( 2005 ) Salmonella invasion gene regulation : a story of environmental awareness . 
+J Microbiol 43 : 110 -- 117 . 
+Kaniga , K. , Bossio , J.C. , and Galan , J.E. ( 1994 ) The Salmo-nella typhimurium invasion genes invF and invG encode homologues of the AraC and PulD family of proteins . 
+Mol Microbiol 13 : 555 -- 568 . 
+Kaniga , K. , Trollinger , D. , and Galan , J.E. ( 1995 ) Identiﬁcation of two targets of the type III protein secretion system encoded by the inv and spa loci of Salmonella typhimurium that have homology to the Shigella IpaD and IpaA proteins . 
+J Bacteriol 177 : 7078 -- 7085 . 
+Kimbrough , T.G. , and Miller , S.I. ( 2002 ) Assembly of the type III secretion needle complex of Salmonella typhimurium . 
+Microbes Infect 4 : 75 -- 82 . 
+Lee , C.A. , and Falkow , S. ( 1990 ) The ability of Salmonella to enter mammalian cells is affected by bacterial growth state . 
+Proc Natl Acad Sci USA 87 : 4304 -- 4308 . 
+Lee , D.R. , and Schnaitman , C.A. ( 1980 ) Comparison of outer membrane porin proteins produced by Escherichia coli and Salmonella typhimurium . 
+J Bacteriol 142 : 1019 -- 1022 . 
+Lenz , D.H. , Mok , K.C. , Lilley , B.N. , Kulkarni , R.V. , Wingreen , N.S. , and Bassler , B.L. ( 2004 ) The small RNA chaperone Hfq and multiple small RNAs control quorum sensing in Vibrio harveyi and Vibrio cholerae . 
+Cell 118 : 69 -- 82 . 
+Lesnik , E.A. , Sampath , R. , Levene , H.B. , Henderson , T.J. , McNeil , J.A. , and Ecker , D.J. ( 2001 ) Prediction of rho-independent transcriptional terminators in Escherichia coli . 
+Nucleic Acids Res 29 : 3583 -- 3594 . 
+Lilic , M. , Vujanac , M. , and Stebbins , C.E. ( 2006 ) A common structural motif in the binding of virulence factors to bacterial secretion chaperones . 
+Mol Cell 21 : 653 -- 664 . 
+Livny , J. , Brencic , A. , Lory , S. , and Waldor , M.K. ( 2006 ) Identiﬁcation of 17 Pseudomonas aeruginosa sRNAs and prediction of sRNA-encoding genes in 10 diverse patho-gens using the bioinformatic tool sRNAPredict2 . 
+Nucleic Acids Res 34 : 3484 -- 3493 . 
+Lostroh , C.P. , and Lee , C.A. ( 2001 ) The Salmonella patho-genicity island-1 type III secretion system . 
+Microbes Infect 3 : 1281 -- 1291 . 
+Lostroh , C.P. , Bajaj , V. , and Lee , C.A. ( 2000 ) The cis requirements for transcriptional activation by HilA , a virulence determinant encoded on SPI-1 . 
+Mol Microbiol 37 : 300 -- 315 . 
+Lucas , R.L. , and Lee , C.A. ( 2001 ) Roles of hilC and hilD in regulation of hilA expression in Salmonella enterica serovar Typhimurium . 
+J Bacteriol 183 : 2733 -- 2745 . 
+Lutz , R. , and Bujard , H. ( 1997 ) Independent and tight regulation of transcriptional units in Escherichia coli via the LacR/O , the TetR/O and AraC/I1-I 2 regulatory elements . 
+Nucleic Acids Res 25 : 1203 -- 1210 . 
+McClelland , M.K.E. , Sanderson , J. , Spieth , S.W. , Clifton , P. , Latreille , L. , Courtney , S. , et al. ( 2001 ) Complete genome sequence of Salmonella enterica serovar Typhimurium LT2 . 
+Nature 413 : 852 -- 856 . 
+Macke , T.J. , Ecker , D.J. , Gutell , R.R. , Gautheret , D. , Case , D.A. , and Sampath , R. ( 2001 ) RNAMotif , an RNA second-ary structure deﬁnition and search algorithm . 
+Nucleic Acids Res 29 : 4724 -- 4735 . 
+Majdalani , N. , Vanderpool , C.K. , and Gottesman , S. ( 2005 ) Bacterial small RNA regulators . 
+Crit Rev Biochem Mol Biol 40 : 93 -- 113 . 
+Mandin , P. , Repoila , F. , Vergassola , M. , Geissmann , T. , and Cossart , P. ( 2007 ) Identiﬁcation of new noncoding RNAs in Listeria monocytogenes and prediction of mRNA targets . 
+Nucleic Acids Res 35 : 962 -- 974 . 
+Meyer , P.N. , Wilmes-Riesenberg , M.R. , Stathopoulos , C. , and Curtiss , R. , 3rd ( 1998 ) Virulence of a Salmonella typh-imurium OmpD mutant . 
+Infect Immun 66 : 387 -- 390 . 
+Negm , R.S. , and Pistole , T.G. ( 1998 ) Macrophages recognize and adhere to an OmpD-like protein of Salmonella typhimurium . 
+FEMS Immunol Med Microbiol 20 : 191 -- 199 . 
+Olekhnovich , I.N. , and Kadner , R.J. ( 2002 ) DNA-binding activities of the HilC and HilD virulence regulatory proteins of Salmonella enterica serovar Typhimurium . 
+J Bacteriol 184 : 4148 -- 4160 . 
+Papenfort , K. , Pfeiffer , V. , Mika , F. , Lucchini , S. , Hinton , J.C. , and Vogel , J. ( 2006 ) Sigma ( E ) - dependent small RNAs of Salmonella respond to membrane stress by accelerating global omp mRNA decay . 
+Mol Microbiol 62 : 1674 -- 1688 . 
+Pichon , C. , and Felden , B. ( 2005 ) Small RNA genes expressed from Staphylococcus aureus genomic and pathogenicity islands with speciﬁc expression among pathogenic strains . 
+Proc Natl Acad Sci USA 102 : 14249 -- 14254 . 
+Pizarro-Cerdá , J. , and Tedin , K. ( 2004 ) The bacterial signal molecule , ppGpp , regulates Salmonella virulence gene expression . 
+Mol Microbiol 52 : 1827 -- 1844 . 
+Raffatellu , M. , Wilson , R.P. , Chessa , D. , Andrews-Polymenis , H. , Tran , Q.T. , Lawhon , S. , et al. ( 2005 ) SipA , SopA , SopB , SopD , and SopE2 contribute to Salmonella enterica sero-type typhimurium invasion of epithelial cells . 
+Infect Immun 73 : 146 -- 154 . 
+Reeves , M.W. , Evins , G.M. , Heiba , A.A. , Plikaytis , B.D. , and Farmer , J.J. , 3rd ( 1989 ) Clonal nature of Salmonella typhi and its genetic relatedness to other salmonellae as shown by multilocus enzyme electrophoresis , and proposal of Salmonella bongori comb . 
+nov. . 
+J Clin Microbiol 27 : 313 -- 320 . 
+Rehmsmeier , M. , Steffen , P. , Hochsmann , M. , and Giegerich , R. ( 2004 ) Fast and effective prediction of microRNA/target duplexes . 
+RNA 10 : 1507 -- 1517 . 
+Romby , P. , Vandenesch , F. , and Wagner , E.G. ( 2006 ) The role of RNAs in the regulation of virulence-gene expression . 
+Curr Opin Microbiol 9 : 229 -- 236 . 
+Santiviago , C.A. , Fuentes , J.A. , Bueno , S.M. , Trombert , A.N. , Hildago , A.A. , Socias , L.T. , et al. ( 2002 ) The Salmonella enterica sv . 
+Typhimurium smvA , yddG and ompD ( porin ) genes are required for the efficient efflux of methyl viologen . 
+Mol Microbiol 46 : 687 -- 698 . 
+Santiviago , C.A. , Toro , C.S. , Hidalgo , A.A. , Youderian , P. , and Mora , G.C. ( 2003 ) Global regulation of the Salmonella enterica serovar typhimurium major porin , OmpD . 
+J Bacteriol 185 : 5901 -- 5905 . 
+Schechter , L.M. , and Lee , C.A. ( 2001 ) AraC/XylS family members , HilC and HilD , directly bind and derepress the Salmonella typhimurium hilA promoter . 
+Mol Microbiol 40 : 1289 -- 1299 . 
+Schechter , L.M. , Damrauer , S.M. , and Lee , C.A. ( 1999 ) Two AraC/XylS family members can independently counteract the effect of repressing sequences upstream of the hilA promoter . 
+Mol Microbiol 32 : 629 -- 642 . 
+Schlumberger , M.C. , Kappeli , R. , Wetter , M. , Muller , A.J. , Misselwitz , B. , Dilling , S. , et al. ( 2007 ) Two newly identiﬁed SipA domains ( F1 , F2 ) steer effector protein localization and contribute to Salmonella host cell manipulation . 
+Mol Microbiol 65 : 741 -- 760 . 
+Singh , S.P. , Williams , Y.U. , Klebba , P.E. , Macchia , P. , and Miller , S. ( 2000 ) Immune recognition of porin and 
+lipopolysaccharide epitopes of Salmonella typhimurium in mice . 
+Microb Pathog 28 : 157 -- 167 . 
+Sittka , A. , Pfeiffer , V. , Tedin , K. , and Vogel , J. ( 2007 ) The RNA chaperone Hfq is essential for the virulence of Sal-monella typhimurium . 
+Mol Microbiol 63 : 193 -- 217 . 
+Song , M. , Kim , H.J. , Kim , E.Y. , Shin , M. , Lee , H.C. , Hong , Y. , et al. ( 2004 ) ppGpp-dependent stationary phase induction of genes on Salmonella pathogenicity island 1 . 
+J Biolog Chem 279 : 34183 -- 34190 . 
+Sternberg , N.L. , and Maurer , R. ( 1991 ) Bacteriophagemediated generalized transduction in Escherichia coli and Salmonella typhimurium . 
+Methods Enzymol 204 : 18 -- 43 . 
+Storz , G. , Opdyke , J.A. , and Zhang , A. ( 2004 ) Controlling mRNA stability and translation with small , noncoding RNAs . 
+Curr Opin Microbiol 7 : 140 -- 144 . 
+Storz , G. , Altuvia , S. , and Wassarman , K.M. ( 2005 ) An abundance of RNA regulators . 
+Annu Rev Biochem 74 : 199 -- 217 . 
+Tetart , F. , and Bouche , J.P. ( 1992 ) Regulation of the expression of the cell-cycle gene ftsZ by DicF antisense RNA . 
+Division does not require a ﬁxed number of FtsZ molecules . 
+Mol Microbiol 6 : 615 -- 620 . 
+Thompson , A. , Rolfe , M.D. , Lucchini , S. , Schwerk , P. , Hinton , J.C. , and Tedin , K. ( 2006 ) The bacterial signal molecule , ppGpp , mediates the environmental regulation of both the invasion and intracellular virulence gene programs of salmonella . 
+J Biolog Chem 281 : 30112 -- 30121 . 
+Thompson , K.M. , Rhodius , V.A. , and Gottesman , S. ( 2007 ) SigmaE regulates and is regulated by a small RNA in Escherichia coli . 
+J Bacteriol 189 : 4243 -- 4256 . 
+Urban , J.H. , and Vogel , J. ( 2007 ) Translational control and target recognition by Escherichia coli small RNAs in vivo . 
+Nucleic Acids Res 35 : 1018 -- 1037 . 
+Uzzau , S. , Figueroa-Bossi , N. , Rubino , S. , and Bossi , L. ( 2001 ) Epitope tagging of chromosomal genes in Salmonella . 
+Proc Natl Acad Sci USA 98 : 15264 -- 15269 . 
+Valentin-Hansen , P. , Eriksen , M. , and Udesen , C. ( 2004 ) The bacterial Sm-like protein Hfq : a key player in RNA transactions . 
+Mol Microbiol 51 : 1525 -- 1533 . 
+Vitiello , M. , D'Isanto , M. , Galdiero , M. , Raieta , K. , Tortora , A. , Rotondo , P. , et al. ( 2004 ) Interleukin-8 production by THP-1 cells stimulated by Salmonella enterica serovar Typhimurium porins is mediated by AP-1 , NF-kappaB and MAPK pathways . 
+Cytokine 27 : 15 -- 24 . 
+Vogel , J. , and Papenfort , K. ( 2006 ) Small non-coding RNAs and the bacterial outer membrane . 
+Curr Opin Microbiol 9 : 605 -- 611 . 
+Vogel , J. , and Sharma , C.S. ( 2005 ) How to ﬁnd small noncoding RNAs in bacteria . 
+Biolog Chem 386 : 1219 -- 1238 . 
+Vogel , J. , Bartels , V. , Tang , T.H. , Churakov , G. , SlagterJager , J.G. , Hüttenhofer , A. , and Wagner , E.G. ( 2003 ) RNomics in Escherichia coli detects new sRNA species and indicates parallel transcriptional output in bacteria . 
+Nucleic Acids Res 31 : 6435 -- 6443 . 
+Vogel , J. , Argaman , L. , Wagner , E.G. , and Altuvia , S. ( 2004 ) The small RNA IstR inhibits synthesis of an SOS-induced toxic peptide . 
+Curr Biol 14 : 2271 -- 2276 . 
+Will , W.R. , and Frost , L.S. ( 2006 ) Hfq is a regulator of F-plasmid TraJ and TraM synthesis in Escherichia coli . 
+J Bacteriol 188 : 124 -- 131 . 
+This material is available as part of the online article from : http://www.blackwell-synergy.com/doi/abs/10.1111/ j.1365-2958.2007.05991.x ( This link will take you to the article abstract ) . 
+Please note : Blackwell Publishing is not responsible for the content or functionality of any supplementary materials supplied by the authors . 
+Any queries ( other than missing material ) should be directed to the corresponding author for the article .
