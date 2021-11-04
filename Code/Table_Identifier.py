@@ -46,7 +46,6 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 import collections
 import json 
 import os 
-import re
 
 #############################################################################################################
 
@@ -61,8 +60,8 @@ def json2txt():
         if nlp_files.startswith('.') == False:
             with open(f'{args.input_files_json}/{nlp_files}', 'r') as f:
                 single_file = json.load(f)
-            name = "".join(("".join(re.findall('\d', nlp_files)),".txt"))
-            text_nlp_file = open(f"../table-in-text/NLP/TestNLP_Files/{name}", "+w")
+            name = nlp_files.split('.')[0]
+            text_nlp_file = open(f"../table-in-text/NLP/TestNLP_Files/{name}.txt", "+w")
             all_sentences = single_file['sentences'] 
             for sentence in all_sentences: 
                 all_words = sentence['tokens'] 
@@ -143,12 +142,12 @@ for test_file in all_test_files:
         ## Transform features of each file
         sentences = open(outPath).readlines()
         text_data = vectorizer.transform(sentences)
-        df = pd.DataFrame(data=text_data.todense())
+        
 
         ## Feature Selection 
-        X_test = sel_variance.transform(df)
-        X_test = sel_percentile.transform(X_test)
-        tableidentifier_rbf = classifier_rbf.predict(X_test)
+        data_set = sel_variance.transform(text_data)
+        data_set = sel_percentile.transform(data_set)
+        tableidentifier_rbf = classifier_rbf.predict(data_set)
 
         ## Only creates a result file if there is a table in the original file.
         thers_table = 0
