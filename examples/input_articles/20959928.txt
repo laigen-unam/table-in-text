@@ -1,0 +1,435 @@
+View Article Online / Journal Homepage / Table of Contents for this issue 
+Published on 20 October 2010 . 
+Downloaded by FAC DE QUIMICA on 10/22/2018 6:15:30 PM 
+PAPER 
+www.rsc.org/molecularbiosystems | Molecular BioSystems 
+Phenotypic proﬁle linked to inhibition of the major Zn inﬂux system in Salmonella enterica: proteomics and ionomics investigationswz
+Domenico Ciavardelli , * Serena Ammendola , Maurizio Ronci , Ada Consalvo , abc d ef ab Valeria Marzano , Mario Lipoma , Paolo Sacchetta , Giorgio Federici , eg c b eg Carmine Di Ilio , Andrea Battistoni and Andrea Urbani ab d eg 
+Received 1st August 2010 , Accepted 13th September 2010 DOI : 10.1039 / c0mb00140f 
+Zinc is required for a wide variety of cellular functions and plays a key role in bacterial metabolism and virulence . 
+However , Zn can also be toxic and , therefore , its inﬂux is tightly 
+regulated . 
+The high afinity zinc uptake transporter ZnuABC is the main Zn inﬂux system in Salmonella enterica under conditions of Zn starvation . 
+It has been shown that deletion of the gene 
+encoding for its periplasmic subunit ZnuA signiﬁcantly affects S. Typhimurium growth rate and virulence , highlighting the importance of this system in the host -- pathogen interaction . 
+To gain 
+further insight into the mechanisms involved in Zn inﬂux regulation , we characterized the main alterations in the ionome and proteome of S. Typhimurium wild type and znuA mutant strains grown either under Zn starvation or under Zn-replete conditions . 
+We found signiﬁcant differences in the element proﬁle and protein expression that were reversed by Zn supplementation . 
+In particular , several of the differentially regulated proteins are predicted to be metal-binding proteins . 
+Interestingly , their over-expression in the znuA mutant strain strictly depends on Zn starvation and correlates with the differences found at the ionome level . 
+In conclusion , our data demonstrate that inhibition of Zn inﬂux has relevant effects either on the bacterial ionome or 
+proteome and shed new light on the role of the ZnuABC system and Zn inﬂux in S. Typhimurium pathogenicity . 
+2 + 6,7 
+Introduction
+Zinc ( Zn ) is an essential element for prokaryotic and eukaryotic cells as it serves structural or catalytic roles in many proteins , including DNA polymerases , proteases , and ribosomal proteins . 
+For this reason , zinc ions are critical for cell proliferation , signalling and survival and their cytosolic concentration must 1 -- 3 be tightly regulated . 
+In prokaryotes Zn homeostasis is tightly controlled by export and uptake systems which are separately regulated by their own 4 regulators . 
+For example , Zn traficking in Escherichia coli is 2 + controlled by the expression of two Zn pumps : the Zn speciﬁc 5 2 + uptake system ( ZnuABC ) and the Zn export system ( ZntA ) 
+Center of Excellence on Aging ( Ce.S.I . ) 
+, University G. d'Annunzio , Chieti-Pescara , Via Colle dell ' Ara , Chieti Scalo , 66013 Chieti , Italy . 
+E-mail : d.ciavardelli@unich.it; Fax : +39 0871 541598 ; Tel : +39 0871 541587 b Department of Biomedical Science , University G. d'Annunzio , Chieti-Pescara , Italy c Faculty of Motor and Health Sciences , Kore University of Enna , Enna , Italy d Department of Biology , University of Rome Tor Vergata , Rome , Italy e Department of Internal Medicine , University of Rome Tor Vergata , Rome , Italy f School of Chemical and Physical Sciences , Flinders University , Bedford Park , Australia g IRCCS S. Lucia , Rome , Italy w This work was presented at the 5th Annual National Conference of the Italian Proteomics Association held in Florence 9 -- 12th June 2010 . 
+z Electronic supplementary information ( ESI ) available : Supplementary tables ; description of LC-MS/MS analysis according to MIAPE standards ; peptide and protein tables . 
+See DOI : 10.1039 / c0mb00140f also known as Zn tolerance system that regulate the inﬂux and the eﬄux of Zn ions , respectively . 
+The expression of these zinc transporters is regulated by the metal-sensitive regulatory proteins Zur ( Zinc uptake regulator ) which represses znuABC under zinc replete conditions and ZntR ( zinc responsive transcriptional regulator ) , whose metallated form stimulates transcription of zntA in response to high intracellular concentration of free zinc . 
+8 -- 10 In particular , studies carried out in recent years have established that Zn uptake pathways play a critical role in the pathogenicity of many bacteria . 
+In fact , an adequate Zn supply is required for bacterial multiplication within the infected animal , where zinc availability is restrained by the host defence mechanisms . 
+As in E. coli , also in Salmonella enterica serovar Typhimurium ( S. Typhimurium ) the main Zn inﬂux system is the ZnuABC transporter , which belongs to the ATP-binding cassette ( ABC-type ) superfamily and is encoded by the znuABC operon . 
+This protein complex is composed of the periplasmic binding protein ZnuA , the ATPase ZnuC , and the integral membrane protein ZnuB . 
+In general , the ATP-binding cassette transporters have several functions that may be required to respond to environmental changes and have an important role in bacterial virulence . 
+For this reason , they are considered suitable targets for the development of antibacterial vaccines and therapies . 
+11 This seems to be also the case of the ZnuABC system . 
+In fact , the integrity of the znuABC operon is essential for 12 -- 14 S. Typhimurium pathogenicity . 
+These ﬁndings suggest that the amount of Zn available to bacteria within the infected host is low and that the ZnuABC transporter has a fundamental role for bacterial growth in this environment . 
+In particular , deletion of the gene encoding for the periplasmic component ZnuA leads to an attenuation comparable to that of the S. Typhimurium strain lacking the whole znuABC operon . 
+15 Furthermore , the znuA mutant strains display a consistent growth impairment in batch cultures characterized by low zinc availability compared to wild type S. enterica , suggesting that 13 Zn dyshomeostasis severely affects many biological functions . 
+In this study we have used element and molecular mass spectrometry ( MS ) based techniques , such as inductively coupled plasma mass spectrometry ( ICP-MS ) and liquid chromatography tandem mass spectrometry ( LC-MS/MS ) , to highlight the main ionomics and proteomics alterations linked to znuA deletion in S. Typhimurium and tentatively assess the relationship between protein expression , element proﬁle , and zinc inﬂux system inhibition . 
+The molecular open platform investigations , such as genomics , are particularly suitable to describe complex system biology and have been already proposed as tools to investigate the role of Zn in bacterial growth and virulence . 
+However , to our 16,17 knowledge , this is the ﬁrst study in which ionomics and proteomics are simultaneously applied to a bacterial system to derive a molecular model of the complex interplay between Zn homeostasis and virulence . 
+a 
+Experimental
+Chemicals and reagents
+Nitric acid ( 69 % ) and Yttrium stock solution ( Y , 10 mg L , 1 
+1 % HNO3 ) were purchased from Fluka ( Shnelldorf , Germany ) and Romil ( Cambridge , UK ) , respectively . 
+A multi-element calibration standard stock solution ( Mg , Al , K , Ca , Mn , Fe , Cu , Zn , Rb , 10 mg L , 2 % HNO3 ) and a 1 tuning solution ( Li , Y , Ce , Tl , 10 mg L , 2 % HNO3 ) were 1 purchased from Agilent Technologies ( Tokyo , Japan ) . 
+Stock solutions and samples were diluted with deionised water with a speciﬁc resistance of 18.2 MO cm ( Milli-Q system , Millipore , Watford , Hertfordshire , UK ) . 
+Acetic acid , acetonitrile , anhydrous magnesium sulfate ( MgSO4 ) citric acid , dipotassium hydrogenphosphate ( K2HPO4 ) ammonium sodium hydrogen phosphate ( NaNH4HPO4 4H2O ) , glucose , zinc sulfate ( ZnSO4 ) , urea , tris ( hydroxymethyl ) aminomethane ( Tris ) , iodoacetamide ( IAA ) , dithiothreitol ( DTT ) , and [ Glu ] - Fibrinopeptide B 1 were purchased from Sigma Aldrich ( Shnelldorf , Germany ) . 
+Sequence grade trypsin was purchased from Promega ( Madison , WI , USA ) . 
+Bacterial strains and culture conditions
+The S. Typhimurium wild type strain MA6926 ( ATCC 14028 , kindly provided by Lionello Bossi ) and the znuA : : kan mutant strain SA 123 were grown at 37 13 1C in Vogel-Bonner minimal medium containing anhydrous MgSO4 ( 0.004 % , w/v ) , citric acid ( 0.2 % , w/v ) , anhydrous K2HPO4 ( 1 % , w/v ) , NaNH4HPO4 4H2O ( 0.35 % , w/v ) , and glucose ( 0.2 % , w/v ) supplemented with ZnSO4 at different concentration levels ( 0 and 3 mmol L 1 ) . 
+The use of glassware was avoided either for media preparation or for bacteria cultivation , in order to minimize zinc contaminations . 
+Cells were grown for 18 h at 37 1C in 50 mL polypropylene tubes and then aliquots of 1.5 mL of cell cultures , each one containing at least 3 10 9 cells , were collected . 
+The culture medium was removed by centrifugation at 18 000 g for 5 min . 
+Cells were then rapidly washed with 1 mL of phosphate buffer solution ( PBS ) containing 1 mmol L ethylenediamino tetracetic acid ( EDTA ) to remove 1 excess zinc . 
+ICP-MS analysis
+Cell pellets were freeze dried by using a Modulyo freeze-dryer ( ThermoSavant , USA ) , and accurately weighted by an AX26 DeltaRanget balance ( Mettler-Toledo , Greifensee , Switzerland ) . 
+Acidic digestion of cell pellets was performed in sterile polystyrene tubes ( 15 mL , BD Falcont , BD Biosciences , Franklin Lakes , NJ ) by adding 0.050 mL of 65 % HNO3/30 % H2O2 = 4/1 and heating at 70 1C for 5 h . 
+The digested samples were diluted to a ﬁnal volume of 2.000 mL with 18 MO cm water and analysed by Inductively Coupled Plasma Mass Spectrometry ( ICP-MS ) . 
+Dilution factor was 200 for the analysis of Mg and K . 
+The external standard method was applied for quantiﬁcation . 
+The HNO3 concentration of external standard solutions was accurately matched to the ﬁnal concentration of HNO3 in the cell samples ( i.e. 1.3 % ) . 
+The starting cell media and the supernatants were diluted 20 or 200 fold with 1.3 % HNO3 and analyzed by applying the standard addition method . 
+The diluted samples were spiked 1 89 at three concentration levels ( 1 , 10 and 100 ng mL ) . 
+Y ( 50 ng mL ) was used as an internal standard in both cases . 
+1 ICP-MS analyses were performed by using a 7500A ICP quadrupolar mass spectrometer ( Agilent Technologies , Palo Alto , CA ) ﬁtted with an ASX-510 autosampler ( CETAC , Omaha , NE , USA ) and a peristaltic pump . 
+A Babington nebulizer with a Scott spray chamber ( Agilent Technologies ) was used for sample introduction . 
+The instrumental conditions are showed in Table S1 ( ESIz ) . 
+The operating conditions were optimized for sensitivity by using a 1 10 mg mL solution of Li , Y and Tl . 
+5 1 7 89 205 External calibration was performed for each element by analysing standard solutions obtained at different concentration levels by diluting the multi-element stock solution ( Agilent Technologies ) . 
+The internal standard solution was added on line to the samples by a T-piece giving a 20 fold dilution of the original concentrations of the internal standard element . 
+Three replicate measurements were performed for each sample . 
+Washing of sample introduction system was performed with 1.3 % HNO3 . 
+Data analysis was performed using ChemStation software ( Agilent Technologies ) . 
+Proteomics analysis by LC-MS E
+Cells were lysed in 100 mM Tris pH 7.5 containing 6 M urea . 
+After centrifugation at 13 000 rpm , the supernatants were quantiﬁed by Bradford colorimetric assay and subsequently diluted to equalize the total protein content . 
+After reduction with 100 mM DTT and alkylation with 200 mM IAA , protein samples were digested 50 : 1 ( w/w ) with trypsin at 37 1C overnight . 
+Samples were diluted with 0.1 % formic acid and 0.75 mg of peptides were loaded on a column for peptide separation . 
+Prior to loading , Enolase Saccharomyces cerevisiae digestion ( Waters , Milford , MA , USA ) was added to samples as an internal standard . 
+Peptides were trapped on a 5 mm symmetry C18 trapping column 180 mm 20 mm ( Waters ) and separated using a 180 min RP gradient at 250 nL min ( see supplementary 1 ﬁle 2 for a detailed description of the chromatographic conditions ) z on a nanoACQUITY UPLCt System ( Waters ) , utilizing a 1.7 mm BEH 130 C18 NanoEaset 75 mm 250 mm nanoscale LC column ( Waters ) . 
+The lock mass ( [ Glu ] - Fibrino-1 peptide B at 500 fmol mL 1 ) was delivered from the auxiliary pump with a constant ﬂow rate of 250 nL min . 
+The Q-Tof 1 
+Premiert mass spectrometer ( Waters ) was programmed to step between low ( 4 eV ) and high ( 15 -- 40 eV ) energies in the collision cell , using a scan time of 1.5 s per function over 50 -- 1990 m/z . 
+Continuum LC-MS data from three replicate experiments for each sample were processed for quantitative analysis according to Vissers et al. using the software ProteinLynx 18 Global Server v2 .3 ( Waters ) . 
+Protein identiﬁcations were obtained with the embedded ion accounting algorithm of the software and searching on the UniProtKB/Swiss-Prot protein knowledgebase ( release 57.5 of 07-July-09 containing 471 472 sequence entries , with taxonomical restriction : S. Typhimurium , 1700 sequence entries ) to which data from Enolase Saccharomyces cerevisiae were appended . 
+The search parameters were automatic tolerance for precursor ions and for product ions , minimum 3 fragment ions matched per peptide , minimum 7 fragment ions matched per protein , minimum 2 peptide matched per protein , 
+x = ( y b ) / b ( 3 ) f f 0ex 1ex 
+xf = b0f + b1fxex ( 4 ) 
+1 missed cleavage , carbamidomethylation of cysteine as ﬁxed modiﬁcation and oxidation of methionine as variable modiﬁcation . 
+Functional classiﬁcation of differentially expressed proteins
+Venn analysis was performed by using the 4way Venn Diagram Generator freely available at http://www.pangloss.com/seidel/ Protocols/venn4.cgi . 
+Prediction of metal binding functions of differentially expressed proteins from their primary sequences was performed by using SVMprot software that can 19 be accessed at http / / jing.cz3.nus.edu.sg/cgi-bin/svmprot.cgi . 
+Functional classiﬁcation based on gene ontology ( GO ) terms related to biological processes and function , respectively , was performed using the web resource VIS-O-BAC available at 20 http / / leger2.gbf.de/cgi-bin/vis-o-bac.pl . 
+Statistical analysis
+For ICP-MS analysis of cells , limit of detection ( LOD ) and limit of quantiﬁcation ( LOQ ) were calculated for all elements by analysing ten experimental blanks . 
+LOD and LOQ were initially calculated as signals ( yLOD and yLOQ ) by eqn ( 1 ) and ( 2 ) , respectively : where yb is the average blank signal , sb is the standard deviation of blank signal , and t is the constant from the one sided Student 's t-test at 95 % conﬁdence level for n 1 degrees of freedom . 
+The corresponding concentration values were 21 obtained by using an appropriate calibration curve satisfying the relationship : 0.5 x1 o LOD o x1 , where x1 is the concentration of the ﬁrst calibration level . 
+Linearity was studied according 21 to IUPAC guidelines . 
+Homoscedasticity was veriﬁed by 22 applying Bartlett 's test . 
+Linearity of calibration functions was veriﬁed by the calculation of coeficient of determination 2 ( R ) and Mandel 's ﬁtting test . 
+Two-sided t-test was used to conﬁrm the signiﬁcance of the intercept . 
+Precision was calculated in terms of repeatability as relative standard deviation ( RSD % ) . 
+21 Trueness was evaluated verifying the possible matrix effect as proportional systematic error by calculating the recovery function over the entire working range for each analysed element . 
+23 For each analysed element , the recovery function was obtained calculating the concentration ( xf ) of a matrix matched calibration levels from the corresponding signals ( yf ) using the external calibration ﬁt and plotting the founded values versus the external calibration concentration ( xex ) 
+If both constant and proportional systematic errors are negligible , the calculated intercept ( b0f ) and slope ( b1f ) of recovery function should be 0 and 1 , respectively , at a deﬁned conﬁdence level . 
+The matrix matched calibration was obtained by spiking at 5 concentration levels a pooled solution from digested cell samples . 
+Spike levels were at the same concentration of external standards used to calculate the external calibration function . 
+The signiﬁcance of the differences between the measured element concentrations was evaluated by two-way factorial ANOVA with strain and Zn medium concentration as categorical variables and post hoc Fisher 's least signiﬁcant difference ( LSD ) test at 95 % conﬁdence level . 
+Normality and homoscedasticity of data were evaluated by using Shapiro -- Wilk test and Bartlett 's test , respectively ( 95 % conﬁdence level ) . 
+The correlations between the cellular element concentrations and Zn intracellular concentrations were evaluated by performing Pearson 's correlation analysis . 
+Signiﬁcance of correlations was assessed at 95 % conﬁdence level . 
+Statistical analysis was performed with Statistica 6.0 ( StatSoft Inc. , 
+Tulsa , OK ) , XLStat2007 .1 ( Microsoft , USA ) , and Microsoft Excel software . 
+Results and discussion
+Establishing Zn-limited batch cultures of S. enterica
+In the preliminary phase of this study , growth media supplemented or not with ZnSO4 were simply diluted without any pre-treatment and analysed by ICP-MS in order to accurately assess the minimum Zn concentration achievable with the proposed experimental procedure , the Zn concentration after supplementation , and their element composition . 
+We observed a signiﬁcant proportional systematic error when quantiﬁcation of samples was performed by external standard method ( data not shown ) . 
+This is probably due to the high concentration of some elements such as Na , Mg , and K in the medium that signiﬁcantly suppresses the analyte ionization with respect to their aqueous solutions leading to a signiﬁcant underestimation of element concentrations . 
+Therefore , the standard addition method with internal standard correction was used for element quantiﬁcation in the media . 
+Table 1 shows the concentrations of the quantiﬁable elements in the media used for bacterial growth ( see below ) . 
+As can be seen from the standard deviations calculated from the analysis of three different batches of medium supplemented or not with ZnSO4 and prepared in three different experimental sessions , an acceptable repeatability of the measured concentrations was observed , suggesting that the contribution from uncontrolled contamination sources was negligible . 
+The measured Zn concentration of supplemented medium ( 216 59 ng mL 1 corresponding to 3.3 0.9 mmol L 1 ) was not signiﬁcantly different from the expected concentration of 3 mmol L 1 . 
+A Zn concentration of 26 7 ng mL ( 0.4 0.1 1 mmol L 1 , n = 6 ) was found in the Zn-depleted medium . 
+Lower Zn concen-2 + trations could not be obtained . 
+This is not surprising because of the several sources of contaminating Zn that can not be easily removed . 
+For example , leaching from laboratory 24 equipments has been reported to increase the Zn concentration of growth medium over the time . 
+In some studies the use of 17 metal chelating agents such as ethylenediaminetetraacetic acid ( EDTA ) has been described in order to accurately set the total free Zn concentration of growth media and prevent trace 2 + element precipitation . 
+However , it has been demonstrated 17 that in Gram-negative bacteria , EDTA and other metal chelators [ e.g. , iminodiacetic acid ( IDA ) , nitrilotriacetic acid 
+yLOD = yb + 2tsb ( 1 ) 
+yLOQ = yb + 10sb ( 2 ) 
+ion homeostasis and protein expression in S. Typhimurium . 
+( NTA ) , cyclohexanediaminetetraacetic acid ( CDTA ) ] induce the outer membrane permeabilization , cell lysis , and the release of membrane proteins from the outer membrane . 
+25 Moreover , chelating agents induce the expression of znuA and drastically inhibit growth of znuA mutant strains . 
+These 13 observations indicate that chelators make zinc unavailable to bacteria and suggest that ZnuA is able to compete effectively with chelators for zinc binding . 
+For these reasons we decided to perform the experiments without using metal chelating agents in order to have a more reliable model of Zn starvation . 
+Furthermore , ZnuA accumulates at high levels in a S. Typhimurium strain expressing a ZnuA form containing a FLAG epitope at its C-terminus only when bacteria are grown in the basal minimal medium , but not in bacteria cultivated in the presence of 3 mmol L 1 zinc .13 This observation indicates that in bacteria grown in the basal minimal medium the intracellular Zn concentration is suficiently low to induce the Zur-regulated genes . 
+Therefore , this medium is suitable to investigate the effects of Zn deﬁciency and/or of Zn inﬂux inhibition on 2 + 2 + 
+Determination of element concentrations in S. Typhimurium cells by ICP-MS
+ICP-MS is one of the most high throughput analytical techniques currently available for metal proﬁling of biological samples . 
+However , only a few studies have been focused on the evaluation and assessment of the analytical performances of ICP-MS quantitative analysis of cell cultures . 
+In particular , suitable certiﬁed reference materials ( CRM ) for this matrix are not currently available and the assessment of trueness is dificult . 
+The assessment of accuracy of quantitative ICP-MS analysis should be veriﬁed because of spectral and nonspectral interferences that could differently affect common biological elements in relation to the speciﬁc sample matrix and sample preparation procedure . 
+Therefore , the standard addition method has been proposed in order to overcome this limitation and reduce the risk of matrix effect . 
+However , this method is 3 more time expensive and requires higher sample amount with respect to the external standard method . 
+In a recent work , 
+Noël and co-workers proposed closed vessel microwave acidic digestion for the ICP-MS analysis of cell cultures and 26 evaluated the accuracy of the analytical procedure by using CRM of different biological matrices . 
+In contrast , we proposed a higher throughput and lower expensive sample preparation procedure based on the acidic digestion of samples in sterile single use polystyrene tubes . 
+This method decreases the risk of contamination from microwave vessels that can not be used just for one sample digestion , leading to possible memory effects . 
+Furthermore , the digested solutions could be suitably diluted in the same tube and directly analysed limiting further risks of contamination . 
+We then evaluated the analytical performance of the proposed procedure in terms of limit of detection ( LOD ) , limit of quantization ( LOQ ) , linearity , precision , and trueness . 
+The calculated LOD and LOQ ( Table 2 ) were suitable for quantiﬁcation of eight elements in cell samples . 
+Unfortunately , other biologically relevant elements such as vanadium ( V ) , chromium ( Cr ) , cobalt ( Co ) , nickel ( Ni ) , molybdenum ( Mo ) , and selenium ( Se ) were undetectable or not quantiﬁable in cells with our method . 
+Their determination may require larger samples and/or different 
+Table 1 ICP-MS determination of element composition of growth medium supplemented or not with 3 mmol L 1 ZnSO4 . 
+Data are mean from analysis of three growth media added or not with ZnSO4 and prepared in three different experimental sessions over a 6 months period 
+ented with Zn 
+Minimal medium supplem Mean ( SD ) , ng mL a 1 18 989 (741) 151 827 ( 4341 ) 256 ( 4 ) 9 ( 3 ) 233 ( 36 ) 7 ( 2 ) 216 ( 59 ) 312 ( 17 ) 
+Zn depleted minimal medium Mean ( SD ) , ng mL a 1 17 602 (317) 151 760 ( 7863 ) 272 ( 13 ) 9 ( 1 ) 240 ( 68 ) 10 ( 4 ) 26 ( 7 ) 306 ( 10 ) 
+/ z ) 
+Element ( m Mg ( 24 ) K ( 39 ) Ca ( 43 ) Mn ( 55 ) Fe ( 57 ) Cu ( 63 ) Zn ( 66 ) Rb ( 85 ) 
+a 
+SD = Standard deviation . 
+ICP-MS instrumentations , such as high resolution ICP-MS or collision/reaction cell ICP-MS , that are less affected from spectral interferences and are more sensitive with respect to low resolution ICP-MS . 
+The linearity of the calibration functions calculated over the investigated calibration range was veriﬁed for each element ( Table 2 ) . 
+Furthermore , excellent recovery values were calculated from spiked samples ( Table 3 ) . 
+In particular , the slopes of the recovery functions ( Table 3 ) did not signiﬁcantly differ from 1 , conﬁrming that our analytical 
+the analysed elements . 
+Table 3 Precision and trueness of ICP-MS determination of elements in cells 
+Recovery function 
+Spike level / Measured concentration , Concentration range 1 d d Element ( m/z ) ng mL mean ( SD ) , ng mL RSD % R % ( SD ) 1 a 1 b c , a ( low spike -- high spike , ng mL ) b0 ( CI ) b1 ( CI ) 
+20 -- 200 
+0.98 ( 0.03 ) 
+20 ( 2 ) 
+104 ( 13 ) 93 ( 6 ) 96 ( 5 ) 
+200 -- 1000 
+K ( 31 ) 
+344 ( 5 ) 1.01 ( 0.01 ) 
+96 ( 9 ) 98 ( 9 ) 98 ( 10 ) 
+11 ( 4 ) 
+10 -- 100 
+Ca ( 43 ) 
+0.95 ( 0.08 ) 
+94 ( 9 ) 95 ( 5 ) 93 ( 11 ) 
+0.8 ( 0.2 ) 1.04 ( 0.05 ) 
+0.5 -- 10 
+Mn ( 55 ) 
+110 ( 10 ) 106 ( 9 ) 116 ( 1 ) 
+0.96 ( 0.06 ) 
+22 ( 3 ) 
+10 -- 100 
+Fe ( 57 ) 
+86 ( 18 ) 100 ( 9 ) 95 ( 5 ) 
+1.3 ( 0.1 ) 1.03 ( 0.06 ) 
+0.5 -- 10 
+Cu ( 63 ) 
+91 ( 13 ) 107 ( 10 ) 102 ( 9 ) 
+0.98 ( 0.04 ) 
+10 -- 100 
+Zn ( 66 ) 
+9 ( 2 ) 
+84 ( 12 ) 102 ( 9 ) 106 ( 5 ) 
+Rb (85)
+Mg ( 24 ) 0 22 ( 1 ) 6 20 42 ( 3 ) 7 50 67 ( 5 ) 7 200 209 ( 16 ) 8 0 342 ( 32 ) 9 200 549 ( 23 ) 4 300 655 ( 15 ) 6 500 882 ( 54 ) 6 0 13 ( 1 ) 11 20 27 ( 2 ) 8 50 62 ( 9 ) 15 100 106 ( 7 ) 7 0 0.77 ( 0.04 ) 5.38 0.5 1.26 ( 0.08 ) 7.01 2 2.9 ( 0.1 ) 5.2 5 6.58 ( 0.06 ) 0.89 0 23 ( 2 ) 7 20 41 ( 3 ) 8 50 73 ( 6 ) 9 100 117 ( 5 ) 4 0 1.32 ( 0.08 ) 6.18 0.5 1.8 ( 0.1 ) 5.3 2 3.2 ( 0.5 ) 5.5 5 6.5 ( 0.3 ) 5.4 0 9 ( 1 ) 9 20 26 ( 3 ) 10 50 60 ( 5 ) 9 100 97 ( 5 ) 5 0 0.67 ( 0.09 ) 13.02 0.5 1.09 ( 0.02 ) 1.47 2 2.6 ( 0.2 ) 5.2 5 5.7 ( 0.3 ) 4.6 a b c SD = standard deviation . 
+RSD % = coeficient of variation . 
+M procedure is not affected by proportional systematic error and that accurate results can be achieved by applying the external standard method and internal standard correction . 
+To date , we have not checked for constant systematic error because a matrix blank is not yet available . 
+However , the intercept of the recovery functions did not differ from the concentrations calculated by the external calibrations , suggesting that this type of matrix effect is negligible for all weight instead of CFU because S. Typhimurium exhibits a pronounced tendency to form aggregates in minimal essential medium ( data not shown ) preventing accurate CFU counts . 
+11 ( 4 ) 
+10 -- 100 
+Ca ( 43 ) 
+0.95 ( 0.08 ) 
+94 ( 9 ) 95 ( 5 ) 93 ( 11 ) 
+0.8 ( 0.2 ) 1.04 ( 0.05 ) 
+0.5 -- 10 
+Mn ( 55 ) 
+110 ( 10 ) 106 ( 9 ) 116 ( 1 ) 
+0.96 ( 0.06 ) 
+22 ( 3 ) 
+10 -- 100 
+Fe ( 57 ) 
+86 ( 18 ) 100 ( 9 ) 95 ( 5 ) 
+1.3 ( 0.1 ) 1.03 ( 0.06 ) 
+0.5 -- 10 
+Cu ( 63 ) 
+91 ( 13 ) 107 ( 10 ) 102 ( 9 ) 
+0.98 ( 0.04 ) 
+10 -- 100 
+Zn ( 66 ) 
+9 ( 2 ) 
+84 ( 12 ) 102 ( 9 ) 106 ( 5 ) 
+0.6 ( 0.2 ) 1.01 ( 0.05 ) 
+0.5 -- 10 
+87 ( 14 ) 98 ( 7 ) 99 ( 7 ) 
+5 ) . 
+CI = d 
+conﬁdence interval ( 95 % 
+) . 
+ean ( SD ) ( n = 
+Fig. 1 and Table 4 show the element concentrations measured in wild type and mutant Salmonella strains . 
+Data were expressed as ng for mg of cell pellets ( dry weight ) . 
+We decided to use cell 
+Fig. 1 Element concentration of S. Typhimurium MA6926 ( wild type ) and SA123 znuA : : kan cells grown in minimal essential medium ( n = 8 ) and minimal essential medium supplemented with 3 mmol L 1 ZnSO4 ( n = 8 ) . 
+Data are mean concentrations and bars indicate mean standard deviations . 
+The asterisks indicate the signiﬁcance of differences ( p o 0.05 ) between the two strains supplemented or not with Zn assessed by two way factorial ANOVA and Fisher 's LSD post hoc test . 
+Table 4 Element concentration of S. Typhimurium ( wild type ) and SA123 znuA : : kan strains . 
+Bacteria were grown in minimal essential medium without Zn supplementation ( n = 8 ) or supplemented with 3 mmol L 1 ZnSO4 ( n = 8 ) . 
+Data are mean and standard deviation ( ng mg 1 dry weight ) . 
+Element recoveries were calculated as the percentage relative to the growth media of element recovered in the washed cell pellet and corresponding supernatant 
+Zn depleted minimal medium Minimal medium supplemented with Zn 
+MA6926 ( wild type ) , mean ( SD ) , ng mg dry b 1 weight 
+SA123znuA : : kan , mean ( SD ) , ng mg dry b 1 weight 
+MA6926 ( wild type ) , mean ( SD ) , ng b mg dry weight 1 
+SA123znuA : : kan , mean ( SD ) , ng b mg dry weight 1 
+Total element recovery , % , a mean ( SD ) b 
+Element 
+Mg 1096 ( 196 ) 1305 ( 110 ) 1199 ( 99 ) 1079 ( 72 ) 100 ( 7 ) K 4646 ( 1360 ) 7016 ( 1356 ) 5800 ( 1220 ) 6268 ( 1246 ) 98 ( 16 ) Ca 7 ( 4 ) 26 ( 15 ) 19 ( 9 ) 21 ( 10 ) 105 ( 10 ) Mn 1.5 ( 0.2 ) 1.4 ( 0.1 ) 1.4 ( 0.3 ) 0.8 ( 0.3 ) 125 ( 31 ) Fe 28 ( 11 ) 42 ( 8 ) 19 ( 8 ) 23 ( 12 ) 93 ( 6 ) Cu 0.8 ( 0.4 ) 1.0 ( 0.3 ) 1.1 ( 0.5 ) 0.4 ( 0.1 ) 103 ( 14 ) Zn 15 ( 4 ) 10 ( 2 ) 43 ( 10 ) 35 ( 8 ) 99 ( 10 ) Rb 0.7 ( 0.3 ) 0.9 ( 0.3 ) 0.6 ( 0.2 ) 0.9 ( 0.1 ) 105 ( 4 ) a Calculated as R % i = [ ( Xi-pellet + Xi-supernatant ) / Xi-growthmedium ] 100 . 
+Xi-pellet = total amount of ith element ( ng ) in cell pellet , Xi-supernatant = total amount of ith element ( ng ) in the supernantant ( V = 5 mL ) , Xi-growthmedium = total amount of i-th element ( ng ) in growth medium ( V = 5 mL ) . 
+SD = standard deviation ( n = 16 ) . 
+b 
+As can be seen , the mutant strain accumulated higher levels of alkali ( K , Rb ) , alkaline earth metals ( Mg , Ca ) and iron in the Zn-depleted medium with respect to the wild type strain . 
+In the case of Mg and Fe , these differences were reverted by the addition of ZnSO4 to the growth medium , suggesting that extracellular Zn concentration affects the inﬂux of these ions . 
+In contrast , the mutant strain accumulated higher levels of K and Rb also in the Zn supplemented medium . 
+Interestingly , Zn depletion did not signiﬁcantly affect the uptake of Mn and Cu , while Zn supplementation led to a signiﬁcant reduction in the intracellular concentration of these elements in the mutant strain , suggesting that in the absence of 
+ZnuA high extracellular concentrations of zinc may interfere with the mechanisms of uptake of Mn and Cu . 
+Surprisingly , the mutant strain showed only a little but signiﬁcant ( p = 0.045 ) reduction of the intracellular Zn concentration when grown in Zn-depleted media , suggesting that other metal importing mechanisms may compensate the inhibition of the major Zn inﬂux system . 
+However , it should be noted that although ICP-MS measurements were carried out on wild type and znuA mutant strains grow to the same cell density , the rate of growth of the mutant strain is signiﬁcantly lower than that of the wild type strain . 
+This observation suggests that the 13 intracellular zinc concentration we have found in bacteria grown in the basal minimal medium is close to the lower amount of intracellular Zn compatible with bacterial multiplication . 
+In contrast , the intracellular zinc content of bacteria grown in the Zn-supplemented medium is signiﬁcantly higher . 
+As it is known that several bacteria respond to Zn deﬁciency by producing paralogs of ribosomal proteins that do not contain zinc , the observed difference in zinc content in bacteria 17,27 cultivated in the two media is compatible with the idea that 
+Salmonella modiﬁes its content of zinc binding proteins in response to zinc availability . 
+Furthermore , no signiﬁcant differences in Zn concentration were observed between wild type and mutant cells grown in Zn supplemented medium , conﬁrming that the ZnuABC inﬂux system plays a secondary role in bacterial Zn uptake under optimal extracellular Zn conditions . 
+13 
+Two-way factorial ANOVA showed that the bacterial strain is the main factor explaining the differences in terms of K , Ca , and Rb concentrations . 
+In contrast , both factors ( strain and Zn medium concentration ) are signiﬁcant for Mg , Mn , Fe , Cu and Zn ( data not shown ) . 
+This means that the Zn medium concentration did not affect the inﬂux of K , Ca , and Rb that speciﬁcally increase the mutant strain in both growth conditions . 
+In contrast , the Zn level in medium regulates the uptake of Mg , Mn , Fe , and Cu by the two strains in a different way . 
+Pearson 's correlation analysis ( see Table S2 , ESIz ) highlighted these results showing a signiﬁcant negative correlation between Mg , Mn , and Cu concentrations and Zn concentration in the case of the mutant strain , conﬁrming that the increase of available Zn simultaneously inhibits the inﬂux of these elements . 
+In contrast , no signiﬁcant correlations between these elements were found in the case of the wild type strain , with the exception of Cu that positively correlates with Zn , suggesting an opposite regulation of intracellular Cu and Zn levels in the two strains . 
+It is also interesting to note that a signiﬁcant positive correlation between K and Rb was observed only in the case of the znuA mutant strain suggesting that an increase in alkali metals uptake is a speciﬁc hallmark of the mutant strain . 
+Finally , we further evaluated the accuracy of the analytical procedure by verifying that the metals initially added to the culture in the medium fully account for the metal content in cells and culture supernatant . 
+As can be seen in Table 4 , the total element recoveries did not signiﬁcantly differ from 100 % for all the analysed elements demonstrating that artefacts due to metal leaching from the plasticware did not affect our results . 
+Although the biological implications of our ﬁndings are still dificult to be completely understood , our data demonstrate that the inhibition of the major Zn inﬂux system by deletion of the znuA gene has a signiﬁcant effect on the global element homeostasis in S. Typhimurium in response to extracellular 
+Zn availability . 
+In any case , this observation is in line with the recent observations showing that alteration in the availability of a speciﬁc metal in the environment may signiﬁcantly affect bacterial physiology and favour the introduction of alternative metal cofactors in proteins . 
+28 
+Mg 1096 ( 196 ) 1305 ( 110 ) 1199 ( 99 ) 1079 ( 72 ) 100 ( 7 ) K 4646 ( 1360 ) 7016 ( 1356 ) 5800 ( 1220 ) 6268 ( 1246 ) 98 ( 16 ) Ca 7 ( 4 ) 26 ( 15 ) 19 ( 9 ) 21 ( 10 ) 105 ( 10 ) Mn 1.5 ( 0.2 ) 1.4 ( 0.1 ) 1.4 ( 0.3 ) 0.8 ( 0.3 ) 125 ( 31 ) Fe 28 ( 11 ) 42 ( 8 ) 19 ( 8 ) 23 ( 12 ) 93 ( 6 ) Cu 0.8 ( 0.4 ) 1.0 ( 0.3 ) 1.1 ( 0.5 ) 0.4 ( 0.1 ) 103 ( 14 ) Zn 15 ( 4 ) 10 ( 2 ) 43 ( 10 ) 35 ( 8 ) 99 ( 10 ) Rb 0.7 ( 0.3 ) 0.9 ( 0.3 ) 0.6 ( 0.2 ) 0.9 ( 0.1 ) 105 ( 4 ) a Calculated as R % i = [ ( Xi-pellet + Xi-supernatant ) / Xi-growthmedium ] 100 . 
+Xi-pellet = total amount of ith element ( ng ) in cell pellet , Xi-supernatant = total amount of ith element ( ng ) in the supernantant ( V = 5 mL ) , Xi-growthmedium = total amount of i-th element ( ng ) in growth medium ( V = 5 mL ) . 
+SD = standard deviation ( n = 16 ) . 
+b 
+Zn and strain dependent protein expression of S. Typhimurium by shotgun proteomics analysis 
+Zn has a key role in protein metabolism and the integration of the ICP-MS results with the protein rearrangements may thus provide an unlocking-key to better understand the differences at the ionome level related to Zn inﬂux inhibition . 
+Therefore , we generated protein expression proﬁles of both the wild type and znuA mutant S. Typhimurium strains by a label-free shotgun proteomic approach to highlight the 18,29 main proteome alterations in response to the Zn medium concentration ( for a detailed analysis of our proteomics results see the supplementary ﬁles 2 -- 15 ) . 
+z We found 75 and 42 proteins that were signiﬁcantly up and down-regulated , respectively , in the mutant znuA strain grown in the Zn-depleted medium , whereas 54 and 32 proteins were signiﬁcantly up and down-regulated , respectively , in the same strain in Zn replete media ( Table S3 , ESIz ) . 
+The proteins differentially expressed in Zn-depleted media can be categorized into three protein clusters related to the protein biosynthesis , glycolysis , and amino acids biosynthesis in the case of up-regulated proteins and four protein clusters related to the tricarboxylic acid cycle ( TCA ) , anion transport , amino acids and carbohydrate transport in the case of downregulated proteins ( Fig. 2A and B ) . 
+A similar functional classiﬁcation was obtained in the case of the proteins differentially expressed in the Zn supplemented medium ( Fig. 2C and D ) , suggesting that the differential protein proﬁles are strictly related to the deletion of znuA rather than to the Zn concentration in the medium . 
+In fact , a Venn analysis ( Fig. 3A and B ) conﬁrmed that 42 and 22 of the identiﬁed proteins were differentially up or down-regulated under both growth conditions in the znuA mutant strain . 
+In particular , a signiﬁcant up-regulation of several ribosomal proteins was observed in both growth conditions . 
+This result suggests that the function of the 
+ZnuABC transporter and ribosomal protein expression are strictly related in S. Typhimurium . 
+As discussed above , ribosomal proteins are involved in zinc mobilization and may function as Zn reservoirs in response to Zn limiting 2 + 30 conditions . 
+Interestingly , we also found that the expression of the 50S ribosomal protein L31 type B , a ribosomal protein directly regulated by zur , is speciﬁcally up-regulated in the mutant strain growing under medium supplemented or not with Zn . 
+The over-expression of ribosomal proteins may partially explain the signiﬁcant increase of intracellular Mg , K , Ca and Rb under Zn starvation conditions . 
+In fact , alkali monovalent + 2 + metals such as K and some earth alkali metals such as Mg 2 + and Ca are essential for folding and stability of large 31 ribosomal subunits . 
+Several of the detected ribosomal proteins were found to be up-regulated also after Zn supplementation , suggesting increased requirement of alkali metals also under this growth conditions , according to the substantial higher level of K and Rb found in the mutant strain . 
+Furthermore , it is important to emphasize that the signiﬁcant correlation observed for the concentration of these elements suggest that their regulation is simultaneously tuned . 
+This is not surprising because Rb has been proposed as a 86 
+tracer for K. 
+Many of the proteins down-regulated in both growth conditions have been found to act as virulence factors in S. Typhimurium . 
+In fact , searching within the over-32 represented Kegg pathways ( data not shown ) , we have found that the mutant strain exhibits a signiﬁcant down-regulation of several ABC transporters involved in the recruitment of monosaccharide , amino acids and anions , such as sulfate and thiosulfate , involved in cysteine biosynthesis . 
+Moreover , we observed a signiﬁcant inhibition of the TCA pathway , an impairment of the biosynthesis of several amino acids and alterations in the levels of proteins related to the ﬂagellar assembly . 
+Virulence factor have been associated with the capacity of bacteria to grow under adverse conditions , such as those found in the host organism . 
+Therefore , our results contribute to explain the substantial decrease in the pathogenicity of the mutant strain already observed in vivo . 
+13 
+Fig. 2 Functional classiﬁcation differentially expressed proteins of S. Typhimurium SA123znuA : : kan. ( A ) Proteins up-regulated in Zn depleted medium . 
+( B ) Proteins down-regulated in Zn depleted medium . 
+( C ) Proteins up-regulated in medium supplemented with 3 mmol L 1 ZnSO4 . 
+( D ) Proteins down-regulated in medium supplemented with 3 mmol L 1 Zn SO4 . 
+Functional classiﬁcation was made on the basis of the Gene Ontology ( GO ) terms related to the biological processes . 
+Over-represented biological processes ( p o 0.05 ) are shown . 
+The number represents the protein cluster frequency expressed as percentage . 
+Fig. 3 ( A ) Four-way Venn diagram analysis of differentially expressed proteins in S. Typhimurium SA123znuA : : kan. . 
+Numbers in parentheses represent the total number of identiﬁed proteins . 
+Inside of each locus are indicated the numbers of proteins belonging to that particular locus . 
+( B ) Key for loci in the four-way Venn diagram in A . 
+The letters identify the 15 loci obtained with the analysis . 
+Descriptor for the height occupied loci : a = up-regulated only in Zn depleted medium ; b = down-regulated only in Zn depleted medium ; c = up-regulated only in Zn supplemented medium ; d = down-regulated only in Zn supplemented medium ; f = up-regulated in Zn depleted and supplemented medium ; 
+g = down-regulated in Zn depleted medium and up-regulated in Zn supplemented medium ; h = up-regulated in Zn depleted medium and down-regulated in Zn supplemented medium ; i = down-regulated in Zn depleted and supplemented medium . 
+( C ) Protein accession ID number from four-way Venn diagram . 
+The six loci containing the proteins that exhibit a Zn-dependent expression level are listed in an alphabetical order . 
+Although the differences in protein expression strictly related to znuA deletion provide further information on the possible mechanisms related to the lower virulence of the znuA mutant strain , it is unlikely that these genotypic-linked effects might explain the differences in element proﬁles observed in response to extracellular Zn levels . 
+Therefore , we focused our attention on 26 and 14 proteins ( Fig. 3A , C ; loci a , b ) that were speciﬁcally found up and down-regulated , respectively , under 
+Zn deﬁciency conditions in this S. Typhimurium strain and on 6 and 3 proteins ( Fig. 3A , C ; loci c , d ) that were speciﬁcally found up and down-regulated , respectively , under Zn optimal conditions . 
+Furthermore , 12 proteins showed reverted expression levels after Zn supplementation ( Fig. 3A , C ; loci h , g ) . 
+These proteins ( Fig. 3C ) speciﬁcally sense the extracellular Zn concentration and may be strictly involved in the phenotypic response of mutant S. Typhimurium to alterations in the levels of Zn in the environment . 
+It is also intriguing to note that several of these proteins are predicted or annotated as metal binding proteins . 
+In the case of the up-regulated proteins , the hierarchical display of their classiﬁcation based on biological functions ( Fig. 4 ) shows a substantial difference in the expression of metal and ion binding proteins that were over-represented in the mutant strain under Zn starvation conditions ( Fig. 4A ) and were found not signiﬁcantly over-expressed after Zn supplementation ( Fig. 4B ) . 
+In fact , 9 out of 26 proteins speciﬁcally up-regulated under zinc deﬁciency conditions and showing in the same case an opposite expression level after Zn supplementation have been annotated or predicted at high conﬁdence level as metal binding proteins . 
+In particular , 3-hydroxy acid dehydrogenase 
+Fig. 4 Functional analysis of up-regulated proteins in S. Typhimurium SA123znuA : : kan under Zn starvation conditions ( A ) and after Zn supplementation ( B ) . 
+Proteins are grouped and hierarchically displayed according to their functional gene ontology ( GO ) . 
+Classiﬁcation was performed on the basis of the molecular function . 
+The boxes correspond to over-represented GO terms based on the relative frequency with respect to the analysed protein cluster 
+( PA1V6 ) , thiamine-phosphate pyrophosphorylase ( Q9L9I8 ) , 3,4-dihydroxy-2-butanone 4-phosphate synthase ( P66032 ) , and ATP phosphoribosyltransferase ( P00499 ) are Mg binding 2 + ions , transcription antitermination protein nusG ( P0AA02 ) and the probable Fe ( 2 + ) - traficking protein ( P67617 ) have a high afinity for iron , enoyl - [ acyl-carrier-protein ] reductase [ NADH ] ( P16657 ) , acetylornithine/succinyldiaminopimelate aminotransferase ( P40732 ) are Mn binding proteins while histidinol 2 + dehydrogenase ( P10370 ) is known to bind both Zn and 2 + Mn . 
+This may explain the higher Mg and Fe concentrations 2 + under Zn starvation conditions that were completely reverted under Zn optimal growth conditions in the znuA mutant strain and may correlate with the decrease of Mn concentration after Zn supplementation . 
+It is important to emphasize that these proteins may have a very important role for bacterial growth in a Zn-depleted environment . 
+Although we found a genotypelinked down-regulation of some virulence factors , in this case we detected an over-expression of metal binding proteins that have been reported to be important for the pathogenicity of S. Typhimurium . 
+ATP phosphoribosyltransferase is an enzyme involved in the histidine metabolism that is one of the biological processes found signiﬁcantly over-represented within the protein up-regulated in Zn-defective strain under 
+Zn starvation conditions ( Fig. 2A ) . 
+This protein is encoded by hisG , a gene belonging to the his operon . 
+It is interesting to note that we also found an increase of expression level for 1 - ( 5-phosphoribosyl ) -5 - [ ( 5-phosphoribosylamino ) methylidene-amino ] imidazole-4-carboxamide isomerase , histidinol dehydrogenase , and bifunctional phosphoribosyl-AMP cyclohydrolase / phosphoribosyl-ATP pyrophosphatase protein encoded by hisA , hisD , hisI genes belonging to the same operon . 
+This suggests that histidine biosynthesis has a key role for S. Typhimurium growth under Zn deﬁciency conditions . 
+It is known that hisG expression increases during infections and that it is critical for survival in the host cell . 
+Another protein speciﬁcally 33 up-regulated under Zn starvation is the probable Fe - traficking 2 + protein also known as YggX which increases protection from superoxide damage and constitutes an important defence for 34,35 S. Typhimurium during infections . 
+The over-expression of these proteins may thus represent an important mechanism for pathogen survival in Zn deﬁciency conditions , such as the host cells . 
+Conclusion
+In the present study we demonstrated that the inhibition of the Zn inﬂux system in S. Typhimurium signiﬁcantly affects metal homeostasis when bacteria are grown under Zn starvation conditions . 
+We found increased intracellular levels of metal , such as Mg , K , Ca , Fe , and Rb , which , in some cases , are reverted after Zn supplementation . 
+We also identiﬁed several proteins that are strictly regulated in response to both the inhibition of the Zn inﬂux system and the decrease of Zn availability . 
+Interestingly , we found a signiﬁcant relationship between the alterations of the ionome and of the proteome , highlighting possible mechanisms allowing S. Typhimurium to respond to alterations in metal ion homeostasis . 
+These observations warrant further investigations to better understand the role of Zn inﬂux in pathogenicity . 
+Author contributions
+DC , SA , AB , and AU conceived and designed the study ; DC ; SA , AC , MR , and VM performed the experiments ; DC performed the statistical analysis ; DC and AB wrote the paper ; ML , PS , GF , CDI , and AU assisted in interpreting 
+the study and provided feedback on the manuscript . 
+Acknowledgements
+AU was supported in part by the following grants : Telethon GGP07252 , Fondazione Roma 2008 , `` Rete Nazionale di Proteomica '' FIRB RBRN07BMCT . 
+References 
+1 R. A. Colvin , W. R. Holmes , C. P. Fontaine and W. Maret , Metallomics , 2010 , 2 , 306 -- 317 . 
+2 K. J. Waldron and N. J. Robinson , Nat . 
+Rev. Microbiol. , 2009 , 7 , 25 -- 35 . 
+3 C. E. Outten and T. V. O'Halloran , Science , 2001 , 292 , 2488 -- 2492 . 
+4 K. Hantke , Curr . 
+Opin . 
+Microbiol. , 2005 , 8 , 196 -- 202 . 
+5 S. I. Patzer and K. Hantke , Mol . 
+Microbiol. , 1998 , 28 , 1199 -- 1210 . 
+6 S. J. Beard , R. Hashim , J. Membrillo-Hernandez , M. N. Hughes and R. K. Poole , Mol . 
+Microbiol. , 1997 , 25 , 883 -- 891 . 
+7 C. Rensing , Y. Sun , B. Mitra and B. P. Rosen , J. Biol . 
+Chem. , 1998 , 273 , 32614 -- 32617 . 
+8 L. A. Finney and T. V. O'Halloran , Science , 2003 , 300 , 931 -- 936 . 
+9 K. R. Brocklehurst , J. L. Hobman , B. Lawley , L. Blank , S. J. Marshall , N. L. Brown and A. P. Morby , Mol . 
+Microbiol. , 1999 , 31 , 893 -- 902 . 
+10 S. I. Patzer and K. Hantke , J. Biol . 
+Chem. , 2000 , 275 , 24321 -- 24332 . 
+11 H. S. Garmory and R. W. Titball , Infect . 
+Immun. , 2004 , 72 , 6757 -- 6763 . 
+12 S. Campoy , M. Jara , N. Busquets , A. M. Perez De Rozas , I. Badiola and J. Barbe , Infect . 
+Immun. , 2002 , 70 , 4721 -- 4725 . 
+13 S. Ammendola , P. Pasquali , C. Pistoia , P. Petrucci , P. Petrarca , G. Rotilio and A. Battistoni , Infect . 
+Immun. , 2007 , 75 , 5867 -- 5876 . 
+14 P. Pasquali , S. Ammendola , C. Pistoia , P. Petrucci , M. Tarantino , C. Valente , M. L. Marenzoni , G. Rotilio and A. Battistoni , Vaccine , 2008 , 26 , 3421 -- 3426 . 
+15 P. Petrarca , S. Ammendola , P. Pasquali and A. Battistoni , J. Bacteriol. , 192 , 1553 -- 1564 . 
+16 L. J. Lee , J. A. Barrett and R. K. Poole , J. Bacteriol. , 2005 , 187 , 1124 -- 1134 . 
+17 A. I. Graham , S. Hunt , S. L. Stokes , N. Bramall , J. Bunch , A. G. Cox , C. W. McLeod and R. K. Poole , J. Biol . 
+Chem. , 2009 , 284 , 18377 -- 18389 . 
+18 J. P. Vissers , J. I. Langridge and J. M. Aerts , Mol . 
+Cell . 
+Proteomics , 2007 , 6 , 755 -- 766 . 
+19 C. Z. Cai , L. Y. Han , Z. L. Ji , X. Chen and Y. Z. Chen , Nucleic Acids Res. , 2003 , 31 , 3692 -- 3697 . 
+20 G. Dieterich , U. Karst , J. Wehland and L. Jansch , Bioinformatics , 2006 , 22 , 630 -- 631 . 
+21 The Fitness for Purpose of Analytical Methods : A Laboratory Guide to Method Validation and Related Topics , Eurachem Guide , LGC : Teddington Ltd , 1st English edn , 1998 . 
+22 K. Danzer and L. A. Currie , Pure Appl . 
+Chem. , 1998 , 70 , 993 -- 1014 . 
+23 W. Funk , V. Dammann and G. Donnovert , Quality Assurance in Analytical Chemistry : Application in Environmental , Food , and Material Analysis , Biotechnology and Medical Engineering , Wiley-VCH , Weinheim , 2007 . 
+24 A. R. Kay , BMC Physiol. , 2004 , 4 , 4 . 
+25 H. L. Alakomi , M. Saarela and I. M. Helander , Microbiology , 2003 , 149 , 2015 -- 2021 . 
+26 L. Noël , T. Guerin , J. M. Fremy , H. Huet and M. Kolf-Clauw , J. AOAC Int. , 2003 , 86 , 1225 -- 1231 . 
+27 E. M. Panina , A. A. Mironov and M. S. Gelfand , Proc . 
+Natl. Acad . 
+Sci . 
+U. S. A. , 2003 , 100 , 9912 -- 9917 . 
+28 A. Anjem , S. Varghese and J. A. Imlay , Mol . 
+Microbiol. , 2009 , 72 , 844 -- 858 . 
+29 J. C. Silva , M. V. Gorenstein , G. Z. Li , J. P. Vissers and S. J. Geromanos , Mol . 
+Cell . 
+Proteomics , 2006 , 5 , 144 -- 156 . 
+30 S. E. Gabriel and J. D. Helmann , J. Bacteriol. , 2009 , 191 , 6116 -- 6122 . 
+31 D. J. Klein , P. B. Moore and T. A. Steitz , RNA , 2004 , 10 , 1366 -- 1379 . 
+32 A. Raghunathan , J. Reed , S. Shin , B. Palsson and S. Daeﬂer , BMC Syst . 
+Biol. , 2009 , 3 , 38 . 
+33 S. Eriksson , S. Lucchini , A. Thompson , M. Rhen and J. C. Hinton , Mol . 
+Microbiol. , 2003 , 47 , 103 -- 118 . 
+34 J. Gralnick and D. Downs , Proc . 
+Natl. Acad . 
+Sci . 
+U. S. A. , 2001 , 98 , 8030 -- 8035 . 
+35 E. Skovran , C. T. Lauhon and D. M. Downs , J. Bacteriol. , 2004 , 186 , 7626 -- 7634 .
